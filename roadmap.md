@@ -12,15 +12,18 @@ because it is small, and Henry because readers are most likely to want it.
 
 ## 1. Survey the sources
 
-- [ ] Download each module and record its origin, checksum and terms in
-  `sources/{id}/SOURCE.md`.
-- [ ] Check e-Sword's terms for taking text out of its own modules (Henry,
-  Gill). If they do not allow it, take Henry from CCEL and find another
-  edition of Gill.
-- [ ] Inspect each module's schema: the e-Sword `VerseCommentary` table and
-  its RTF or HTML, and SWORD OSIS entries.
-- [ ] Count the English words in each commentary, and replace the estimates
-  below with exact figures.
+- [x] Geneva, Henry and Calvin: CrossWire modules downloaded, read with
+  `tools/sword.py` and counted (`sources/survey.md`).
+- [x] Henry comes from CrossWire `MHC` (public domain, prepared from CCEL),
+  so e-Sword is no longer needed for Henry.
+- [ ] Calvin: the CrossWire module lacks the comment on each verse in
+  Psalms, Zechariah, Malachi and 1–2 Timothy–Titus. Download CCEL's 45 ThML
+  volumes instead, then survey them.
+- [ ] Geneva: find notes for Judges, Jonah and Philemon, which are missing
+  from the module, and identify who modernised the spelling.
+- [ ] Poole and Trapp: owner downloads the BibleSupport modules (an account
+  is needed). Then survey their e-Sword `VerseCommentary` table.
+- [ ] Gill: owner downloads it inside e-Sword, and records e-Sword's terms.
 
 ## 2. Import the English
 
@@ -86,24 +89,31 @@ In `tools/translate` of the site repository:
 
 ## Estimated cost
 
-These estimates are Message Batches prices, based on the dictionary run
-(about $100 per million English words on Claude Sonnet 5, and about 2.2
-times that on Claude Opus 5). They are ±30% until step 1 counts the words.
+These are Message Batches prices, based on the dictionary run (about $100
+per million English words on Claude Sonnet 5, and about 2.2 times that on
+Claude Opus 5). The word counts are measured where the survey has been
+run, and estimated elsewhere.
 
 | Commentary | English words | Sonnet 5 | Opus 5 |
 |---|---|---|---|
-| Geneva | ~0.3M | ~$25 | ~$60 |
-| Matthew Henry | ~4M | ~$350 | ~$800 |
-| Calvin | ~5M | ~$450 | ~$1,000 |
-| Poole | ~3M | ~$270 | ~$600 |
-| Trapp | ~2.5M | ~$225 | ~$500 |
-| Gill | ~7M | ~$600 | ~$1,400 |
-| **Total** | **~22M** | **~$1,900** | **~$4,300** |
+| Geneva | 0.41M (measured) | ~$40 | ~$90 |
+| Matthew Henry | 5.23M (measured) | ~$520 | ~$1,150 |
+| Calvin | ~7M (5.46M measured in an incomplete module) | ~$700 | ~$1,500 |
+| Poole | ~3M (estimate) | ~$300 | ~$650 |
+| Trapp | ~2.5M (estimate) | ~$250 | ~$550 |
+| Gill | ~7M (estimate) | ~$700 | ~$1,500 |
+| **Total** | **~25M** | **~$2,500** | **~$5,400** |
+
+Calvin also has 0.68M words of footnotes by his English editors, and 0.77M
+words of translation tables, mostly Latin. Whether to translate them is an
+open question; they are not in the figures above.
 
 ## Open questions
 
 - The licence of the Tamil drafts. The dictionary's drafts of public-domain
   sources are CC BY.
-- Whether e-Sword's terms allow taking the Henry and Gill text.
-- Which edition of the Geneva notes the SWORD module holds, and whether it
-  is the 1599 edition.
+- Whether e-Sword's terms allow taking the Gill text.
+- Who modernised the spelling of the Geneva notes in the SWORD module. The
+  lettered and numbered notes match the 1599 edition.
+- Whether Calvin's editors' footnotes and his Latin translation tables are
+  translated, shown in English, or left out.

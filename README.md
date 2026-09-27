@@ -16,15 +16,24 @@ See [roadmap.md](roadmap.md) for the plan and its current state.
 | Id | Work | Date | Coverage | Source module |
 |---|---|---|---|---|
 | `geneva` | Geneva Bible marginal notes | 1599 | Whole Bible | CrossWire SWORD `Geneva` |
-| `henry` | Matthew Henry, *Commentary on the Whole Bible* | 1708–1710 | Whole Bible | e-Sword, or CCEL ThML |
-| `calvin` | John Calvin, *Commentaries* (Calvin Translation Society) | 1840s–50s | Most books, but not Judges–Esther, Job, Proverbs–Song, 2–3 John or Revelation | CrossWire SWORD `CalvinCommentaries` |
+| `henry` | Matthew Henry, *Commentary on the Whole Bible* | 1708–1710 | Whole Bible | CrossWire SWORD `MHC` |
+| `calvin` | John Calvin, *Commentaries* (Calvin Translation Society) | 1840s–50s | Most books, but not Judges–Esther, Job, Proverbs–Song, 2–3 John or Revelation | CCEL ThML, 45 volumes |
 | `poole` | Matthew Poole, *English Annotations on the Holy Bible* | 1683–1685 | Whole Bible (Poole up to Isaiah 58, finished by colleagues) | BibleSupport e-Sword `.cmtx` |
 | `trapp` | John Trapp, *A Commentary or Exposition upon All the Books of the Old and New Testament* | 1647–1656 | Whole Bible | BibleSupport e-Sword `.cmtx` |
 | `gill` | John Gill, *Exposition of the Whole Bible* | 1746–1763 | Whole Bible | e-Sword |
 
 All six texts are in the public domain. The digital editions were prepared
 by others, so each source's folder records where its module came from and
-on what terms, before any of its text is committed.
+on what terms, before any of its text is committed. See
+`sources/{id}/SOURCE.md` and the word counts in
+[sources/survey.md](sources/survey.md).
+
+## Tools
+
+- `tools/make_versification.py` writes `data/kjv-versification.json`, the
+  verse counts of the KJV, from the site repository.
+- `tools/sword.py` reads compressed SWORD commentary modules (zCom, zCom4).
+- `tools/survey.py` writes `sources/survey.md`.
 
 ## Layout
 
