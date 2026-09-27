@@ -16,6 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import ccel  # noqa: E402
 import esword  # noqa: E402
 from sword import ROOT, Entry, read_module, versification  # noqa: E402
 
@@ -72,16 +73,40 @@ def trapp(e: Entry) -> dict[str, int]:
     return counts
 
 
+FATHERS: dict[str, int] = defaultdict(int)
+
+
+def ecf(e: Entry) -> dict[str, int]:
+    # <p><b>Father</b>: quotation<br/><i>— Source work</i></p>, several per verse
+    counts = {"comment": 0, "attributions": 0}
+    for p in P.findall(e.text):
+        name = re.match(r"\s*<b>(.*?)</b>", p)
+        if name:
+            FATHERS[re.sub(r"\s*\(\(.*", "", name[1]).strip()] += 1
+        attr = "".join(re.findall(r"^\s*<b>.*?</b>|<i>\s*— .*?</i>\s*$", p, re.S))
+        counts["attributions"] += words(attr)
+        counts["comment"] += words(p) - words(attr)
+    return counts
+
+
 MODULES = {
     "geneva": ("sword/Geneva", geneva),
     "henry": ("sword/MHC", henry),
-    "calvin": ("sword/CalvinCommentaries", calvin),
+    "calvin": ("ccel", calvin),
     "poole": ("esword/matthew_pool_commentary.cmti", poole),
     "trapp": ("esword/trapp_john_-_complete_commentary_ot_nt.cmti", trapp),
+    "ecf": ("esword/Early Church Fathers Commentary.cmti", ecf),
 }
 
 
+UNKEYED: dict[str, str] = {}
+
+
 def load(path: Path):
+    if path.name == "ccel":
+        entries, unkeyed = ccel.read_all(path, [b["code"] for b in versification()])
+        UNKEYED["ccel"] = unkeyed
+        return {"Version": "ThML", "SwordVersionDate": "45 volumes"}, entries
     if path.suffix == ".cmti":
         details, entries = esword.read_module(path)
         return {"Version": details["Version"], "SwordVersionDate": details["Title"]}, entries
@@ -124,6 +149,8 @@ def main() -> None:
         print(f"- Units: {len(entries):,} ({', '.join(f'{k} {v:,}' for k, v in sorted(kinds.items()))})")
         for k, n in totals.items():
             print(f"- Words, {k}: {n:,}")
+        if path.name in UNKEYED:
+            print(f"- Words outside any comment (prefaces, arguments, translation tables, indexes): {words(UNKEYED[path.name]):,}")
         print(f"- Longest unit: {longest.range_id}, {rule(longest)['comment']:,} words")
         print("\n| Book | Verses with a comment | Words |\n|---|---|---|")
         for b in books:
@@ -133,6 +160,9 @@ def main() -> None:
                 print(f"| {b['code']} | {n:,} of {total:,} ({100 * n // total}%) | {per_book[b['code']]:,} |")
         missing = [b["code"] for b in books if not per_book.get(b["code"])]
         print(f"\nNo comment at all: {', '.join(missing) or 'none'}\n")
+        if sid == "ecf":
+            top = sorted(FATHERS.items(), key=lambda kv: -kv[1])
+            print(f"{len(top)} authors. Most quoted: " + ", ".join(f"{k} ({v:,})" for k, v in top[:15]) + "\n")
 
 
 if __name__ == "__main__":

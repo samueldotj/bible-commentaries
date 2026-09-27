@@ -1,58 +1,57 @@
 # John Calvin, Commentaries
 
-## Surveyed: CrossWire `CalvinCommentaries` (not to be used)
+## Source: CCEL ThML, 45 volumes
 
-**Module:** CrossWire SWORD `CalvinCommentaries`, version 1.1, 2022-08-01 (ModDrv zCom, OSIS markup, KJV
-versification). It was converted from CCEL by Luke Plant.
+**Where:** `https://ccel.org/ccel/calvin/calcom01.xml` to `calcom45.xml`, downloaded 2026-09-27 (71 MB). The
+SHA-256 of each volume is in [SHA256SUMS](SHA256SUMS).
 
-**Download:** <https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/CalvinCommentaries.zip>,
-20,897,508 bytes, SHA-256 `df66fc8c03537499ad006d069481d2c95b600887cdbd6ce75ec5d264b573192a`
+**Terms:** each volume's header gives `<DC.Rights>Public Domain</DC.Rights>`. The files also carry the
+comment `Copyright Christian Classics Ethereal Library`, which applies to CCEL's electronic edition. The
+translation is the Calvin Translation Society's (Edinburgh, 1840s–1850s).
 
-**Terms:** `DistributionLicense=Public Domain`, text from <http://www.ccel.org/>.
+**Read with:** `tools/ccel.py`.
 
-### What is in it
+## What is in it
 
-- 11,063 entries across 48 books.
-- 5,455,135 words of Calvin's comment, plus two other kinds of text:
-  - 676,448 words of footnotes by the Calvin Translation Society editors (`<note>`), often quoting
+A comment begins at an empty `<scripCom osisRef="Bible:Ps.2.1" type="Commentary"/>` marker and runs to
+the next marker, or to the next `<div1>`/`<div2>` heading. Each comment is keyed to one verse. It is taken
+to cover the verses up to the next marker in the same chapter, since Calvin often takes several verses
+together.
+
+- 14,052 comments:
+  - 591 at chapter level (e.g. the argument of a Psalm);
+  - 2,356 covering a range of verses;
+  - 11,105 on a single verse.
+- 6,335,578 words of Calvin's comment.
+- Not counted as comment:
+  - 783,192 words of footnotes by the Calvin Translation Society editors (`<note>`), often quoting
     Calvin's French or Latin;
-  - 771,401 words in translation tables (`<table>`), which set Calvin's Latin version beside the English,
-    or Leo Juda's version beside Calvin's in Genesis.
+  - 284,393 words in translation tables inside comments;
+  - 1,514,072 words outside any comment: prefaces, dedications, arguments, the translation tables that
+    open each section (Calvin's own version beside the English, or Leo Juda's beside Calvin's), and
+    indexes.
+- Volume titles (from `DC.Title`):
+  - 1–2 Genesis; 3–6 Harmony of the Law; 7 Joshua; 8–12 Psalms; 13–16 Isaiah;
+    17–21 Jeremiah and Lamentations; 22–23 Ezekiel; 24–25 Daniel; 26–30 the Minor Prophets;
+  - 31–33 Harmony of the Gospels (Matthew, Mark, Luke); 34–35 John; 36–37 Acts; then Romans to the
+    Catholic Epistles.
 
-### Why it is not usable
+## What Calvin wrote, and how it is keyed
 
-**Several books hold only chapter headings and translations, not the comment on each verse.** In these
-books each chapter is a single entry of a few thousand characters: the chapter argument and the
-translation table.
+- No comment on Judges–Esther, Job, Proverbs, Ecclesiastes, Song of Songs, 2–3 John or Revelation.
+- **Ezekiel** covers chapters 1–20 only (37% of verses).
+- **Harmony of the Law** (Exodus–Deuteronomy) is arranged by subject. A comment is keyed to one verse,
+  but may discuss parallel passages in other books.
+- **Harmony of the Gospels:** a comment is keyed to the Gospel of its marker, mostly Matthew and Luke.
+  Mark has comment on 13% of its verses, because its parallels are discussed under Matthew. The site may
+  need to show a Matthew comment for its parallel in Mark.
 
-| Book | Words in the module | Expected (rough estimate from the printed volumes) |
-|---|---|---|
-| Psalms | 115,220 | Five volumes, over a million words |
-| Zechariah | 10,874 | About 150,000 |
-| Malachi | 3,118 | About 50,000 |
-| 1 Timothy | 4,256 | About 45,000 |
-| 2 Timothy | 1,379 | About 30,000 |
-| Titus | 1,901 | About 15,000 |
+## Not used: CrossWire `CalvinCommentaries`
 
-Haggai (28,985 words, 39% of verses) and Zephaniah (75%) may also be incomplete.
+The CrossWire module was also surveyed:
+- version 1.1, 2022-08-01, SHA-256 `df66fc8c03537499ad006d069481d2c95b600887cdbd6ce75ec5d264b573192a`;
+- converted from CCEL by Luke Plant.
 
-## Recommended source: CCEL ThML, one file per volume
-
-- **Where:** `https://ccel.org/ccel/calvin/calcom01.xml` to `calcom45.xml` (45 volumes; `calcom46` does
-  not exist).
-- **Terms:** each file's header gives `<DC.Rights>Public Domain</DC.Rights>`. The file also carries a
-  comment, `Copyright Christian Classics Ethereal Library`, which applies to CCEL's electronic
-  edition. To be checked before the text is committed.
-- **Structure:** each comment is marked with a
-  `<scripCom osisRef="Bible:Ps.1.1" parsed="|Ps|1|1|0|0" type="Commentary"/>`, followed by a
-  `<div class="Commentary">`. This keys it by verse directly, the same way the SWORD module was built.
-
-## What Calvin wrote
-
-Calvin did not comment on Judges–Esther, Job, Proverbs, Ecclesiastes, Song of Songs, 2–3 John or Revelation.
-Other books need care:
-
-- Ezekiel covers chapters 1–20 only.
-- Mark and Luke are mostly inside the *Harmony of the Evangelists*.
-- Exodus–Deuteronomy are arranged by subject in the *Harmony of the Law*, so one comment can cover
-  verses scattered across several books.
+It lacks the comment on each verse in Psalms, Zechariah, Malachi, 1–2 Timothy and Titus: those books
+have only chapter arguments and translation tables. For example, it has 115,220 words for Psalms against
+763,597 in CCEL.

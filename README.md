@@ -20,9 +20,11 @@ See [roadmap.md](roadmap.md) for the plan and its current state.
 | `calvin` | John Calvin, *Commentaries* (Calvin Translation Society) | 1840s–50s | Most books, but not Judges–Esther, Job, Proverbs–Song, 2–3 John or Revelation | CCEL ThML, 45 volumes |
 | `poole` | Matthew Poole, *English Annotations on the Holy Bible* | 1683–1685 | Whole Bible (Poole up to Isaiah 58, finished by colleagues) | BibleSupport e-Sword `.cmtx` |
 | `trapp` | John Trapp, *A Commentary or Exposition upon All the Books of the Old and New Testament* | 1647–1656 | Whole Bible | BibleSupport e-Sword `.cmtx` |
-| `gill` | John Gill, *Exposition of the Whole Bible* | 1746–1763 | Whole Bible | e-Sword |
+| `ecf` | Early Church Fathers (quotations from 271 authors, 1st–10th centuries) | 19th-century and later translations | Whole Bible, thin in the Old Testament histories | SermonIndex e-Sword `.cmti` |
+| `gill` | John Gill, *Exposition of the Whole Bible* (set aside for now) | 1746–1763 | Whole Bible | e-Sword |
 
-All six texts are in the public domain. The digital editions were prepared
+The commentators' texts are in the public domain; for the Early Church
+Fathers, what matters is the date of each English translation. The digital editions were prepared
 by others, so each source's folder records where its module came from and
 on what terms, before any of its text is committed. See
 `sources/{id}/SOURCE.md` and the word counts in
@@ -34,6 +36,7 @@ on what terms, before any of its text is committed. See
   verse counts of the KJV, from the site repository.
 - `tools/sword.py` reads compressed SWORD commentary modules (zCom, zCom4).
 - `tools/esword.py` reads e-Sword 11 commentary modules (`.cmti`).
+- `tools/ccel.py` reads CCEL ThML commentaries (Calvin).
 - `tools/survey.py` writes `sources/survey.md`.
 
 ## Layout

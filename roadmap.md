@@ -16,9 +16,9 @@ because it is small, and Henry because readers are most likely to want it.
   `tools/sword.py` and counted (`sources/survey.md`).
 - [x] Henry comes from CrossWire `MHC` (public domain, prepared from CCEL),
   so e-Sword is no longer needed for Henry.
-- [ ] Calvin: the CrossWire module lacks the comment on each verse in
-  Psalms, Zechariah, Malachi and 1–2 Timothy–Titus. Download CCEL's 45 ThML
-  volumes instead, then survey them.
+- [x] Calvin: the CrossWire module lacks the comment on each verse in
+  Psalms, Zechariah, Malachi and 1–2 Timothy–Titus, so CCEL's 45 ThML volumes
+  were downloaded and read with `tools/ccel.py` instead.
 - [ ] Geneva: find notes for Judges, Jonah and Philemon, which are missing
   from the module, and identify who modernised the spelling.
 - [x] Poole and Trapp: the owner downloaded the BibleSupport modules; read
@@ -27,7 +27,12 @@ because it is small, and Henry because readers are most likely to want it.
   (992 runs) from the RTF edition.
 - [ ] Trapp: find comment for Jude, which is missing from the module.
 - [ ] Poole and Trapp: check BibleSupport's terms of use.
-- [ ] Gill: owner downloads it inside e-Sword, and records e-Sword's terms.
+- [x] Early Church Fathers: the owner provided the SermonIndex module; read
+  with `tools/esword.py` and counted.
+- [ ] Early Church Fathers: check the date of the English translation of each
+  source work, and keep only those in the public domain (see
+  `sources/ecf/SOURCE.md`).
+- [ ] Gill: set aside for now.
 
 ## 2. Import the English
 
@@ -58,8 +63,8 @@ In `tools/translate` of the site repository:
 
 ## 4. Pilot
 
-- [ ] About 40 units across all six commentaries, including the hardest
-  English (Trapp, Gill).
+- [ ] About 40 units across all the commentaries, including the hardest
+  English (Trapp, the Early Church Fathers).
 - [ ] Compare Claude Sonnet 5 and Claude Opus 5.5 in the blind review, and
   choose the model.
 - [ ] Cost: under $20.
@@ -89,34 +94,44 @@ In `tools/translate` of the site repository:
 ## 8. Later stages
 
 - [ ] Stage 2: Calvin.
-- [ ] Stage 3: Poole, Trapp and Gill.
+- [ ] Stage 3: Poole and Trapp.
+- [ ] Stage 4: the Early Church Fathers, limited to the source works whose
+  translation is in the public domain.
+- [ ] Gill, if it is taken up again.
 
 ## Estimated cost
 
 These are Message Batches prices, based on the dictionary run (about $100
 per million English words on Claude Sonnet 5, and about 2.2 times that on
 Claude Opus 5). The word counts are measured where the survey has been
-run, and estimated elsewhere.
+run, and estimated for Gill.
 
 | Commentary | English words | Sonnet 5 | Opus 5 |
 |---|---|---|---|
 | Geneva | 0.41M (measured) | ~$40 | ~$90 |
 | Matthew Henry | 5.23M (measured) | ~$520 | ~$1,150 |
-| Calvin | ~7M (5.46M measured in an incomplete module) | ~$700 | ~$1,500 |
+| Calvin | 6.34M (measured, CCEL) | ~$630 | ~$1,400 |
 | Poole | 3.53M (measured) | ~$350 | ~$780 |
 | Trapp | 4.24M (measured) | ~$420 | ~$930 |
-| Gill | ~7M (estimate) | ~$700 | ~$1,500 |
-| **Total** | **~27M** | **~$2,700** | **~$6,000** |
+| Early Church Fathers | 13.42M (measured) | ~$1,340 | ~$2,950 |
+| **Total without Gill** | **33.2M** | **~$3,300** | **~$7,300** |
+| Gill, set aside | ~7M (estimate) | ~$700 | ~$1,500 |
 
-Calvin also has 0.68M words of footnotes by his English editors, and 0.77M
-words of translation tables, mostly Latin. Whether to translate them is an
-open question; they are not in the figures above.
+Not in the figures above:
+- Calvin: 0.78M words of footnotes by his English editors, and 1.51M words
+  outside any comment (prefaces, arguments, translation tables, indexes).
+  The Psalm arguments at least should be translated.
+- The Early Church Fathers: 0.58M words of author and source lines, which
+  need translating only once per author and per work.
 
 ## Open questions
 
 - The licence of the Tamil drafts. The dictionary's drafts of public-domain
   sources are CC BY.
-- Whether e-Sword's terms allow taking the Gill text.
+- Which Early Church Fathers source works have a public-domain English
+  translation, and whether SermonIndex made its own translations of the
+  rest.
+- How to present the Early Church Fathers to the site's Reformed readers.
 - Who modernised the spelling of the Geneva notes in the SWORD module. The
   lettered and numbered notes match the 1599 edition.
 - Whether Calvin's editors' footnotes and his Latin translation tables are
