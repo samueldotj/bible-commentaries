@@ -33,6 +33,7 @@ on what terms, before any of its text is committed. See
 - `tools/make_versification.py` writes `data/kjv-versification.json`, the
   verse counts of the KJV, from the site repository.
 - `tools/sword.py` reads compressed SWORD commentary modules (zCom, zCom4).
+- `tools/esword.py` reads e-Sword 11 commentary modules (`.cmti`).
 - `tools/survey.py` writes `sources/survey.md`.
 
 ## Layout

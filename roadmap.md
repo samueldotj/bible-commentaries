@@ -21,8 +21,12 @@ because it is small, and Henry because readers are most likely to want it.
   volumes instead, then survey them.
 - [ ] Geneva: find notes for Judges, Jonah and Philemon, which are missing
   from the module, and identify who modernised the spelling.
-- [ ] Poole and Trapp: owner downloads the BibleSupport modules (an account
-  is needed). Then survey their e-Sword `VerseCommentary` table.
+- [x] Poole and Trapp: the owner downloaded the BibleSupport modules; read
+  with `tools/esword.py` and counted.
+- [ ] Poole: convert the Greek and Hebrew typed in the OLB fonts
+  (992 runs) from the RTF edition.
+- [ ] Trapp: find comment for Jude, which is missing from the module.
+- [ ] Poole and Trapp: check BibleSupport's terms of use.
 - [ ] Gill: owner downloads it inside e-Sword, and records e-Sword's terms.
 
 ## 2. Import the English
@@ -99,10 +103,10 @@ run, and estimated elsewhere.
 | Geneva | 0.41M (measured) | ~$40 | ~$90 |
 | Matthew Henry | 5.23M (measured) | ~$520 | ~$1,150 |
 | Calvin | ~7M (5.46M measured in an incomplete module) | ~$700 | ~$1,500 |
-| Poole | ~3M (estimate) | ~$300 | ~$650 |
-| Trapp | ~2.5M (estimate) | ~$250 | ~$550 |
+| Poole | 3.53M (measured) | ~$350 | ~$780 |
+| Trapp | 4.24M (measured) | ~$420 | ~$930 |
 | Gill | ~7M (estimate) | ~$700 | ~$1,500 |
-| **Total** | **~25M** | **~$2,500** | **~$5,400** |
+| **Total** | **~27M** | **~$2,700** | **~$6,000** |
 
 Calvin also has 0.68M words of footnotes by his English editors, and 0.77M
 words of translation tables, mostly Latin. Whether to translate them is an

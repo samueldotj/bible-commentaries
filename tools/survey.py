@@ -16,6 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import esword  # noqa: E402
 from sword import ROOT, Entry, read_module, versification  # noqa: E402
 
 TAG = re.compile(r"<[^>]+>")
@@ -51,7 +52,40 @@ def calvin(e: Entry) -> dict[str, int]:
     return {"comment": words(text), "editors' notes": notes, "translation tables": tables}
 
 
-MODULES = {"geneva": ("Geneva", geneva), "henry": ("MHC", henry), "calvin": ("CalvinCommentaries", calvin)}
+def poole(e: Entry) -> dict[str, int]:
+    return {"comment": words(e.text)}
+
+
+P = re.compile(r"<p[^>]*>(.*?)</p>", re.S)
+
+
+def trapp(e: Entry) -> dict[str, int]:
+    # <p>1 KJV verse</p><p>Ver. 1. <b>words</b>] comment {a}</p><p><i>{a}</i> Latin source</p>
+    counts = {"comment": 0, "kjv verse (dropped)": 0, "footnotes": 0}
+    for p in P.findall(e.text):
+        if re.match(r"\s*\d+\s", p):
+            counts["kjv verse (dropped)"] += words(p)
+        elif re.match(r"\s*<i>\{\w+\}</i>", p):
+            counts["footnotes"] += words(p)
+        else:
+            counts["comment"] += words(p)
+    return counts
+
+
+MODULES = {
+    "geneva": ("sword/Geneva", geneva),
+    "henry": ("sword/MHC", henry),
+    "calvin": ("sword/CalvinCommentaries", calvin),
+    "poole": ("esword/matthew_pool_commentary.cmti", poole),
+    "trapp": ("esword/trapp_john_-_complete_commentary_ot_nt.cmti", trapp),
+}
+
+
+def load(path: Path):
+    if path.suffix == ".cmti":
+        details, entries = esword.read_module(path)
+        return {"Version": details["Version"], "SwordVersionDate": details["Title"]}, entries
+    return read_module(path)
 
 
 def covered_verses(entries: list[Entry]) -> dict[str, set[tuple[int, int]]]:
@@ -69,7 +103,11 @@ def main() -> None:
     print("Written by `python tools/survey.py > sources/survey.md`. Words are the")
     print("commentator's own text; repeated Bible text is not counted.\n")
     for sid, (module, rule) in MODULES.items():
-        conf, entries = read_module(ROOT / "cache/sword" / module)
+        path = ROOT / "cache" / module
+        if not path.exists():
+            print(f"## {sid}\n\nNot downloaded: `cache/{module}`\n")
+            continue
+        conf, entries = load(path)
         totals: dict[str, int] = defaultdict(int)
         per_book: dict[str, int] = defaultdict(int)
         kinds: dict[str, int] = defaultdict(int)
