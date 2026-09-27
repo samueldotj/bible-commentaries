@@ -1,0 +1,635 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "poole/1SA.28",
+   "range": "1SA.28",
+   "kind": "chapter",
+   "hash": "23683025",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28#p1-23683025",
+     "text": "Achish intending war against Israel, relieth on David, 1Sa 28:1,2. Saul having destroyed the witches, yet, Samuel being dead, in his fear, forsaken of God, seeketh to a witch, 1Sa 28:3-8. She, encouraged by Saul, raiseth Samuel; of whom hearing his approaching ruin, he fainteth, 1Sa 28:9-20. The woman, with his servants, refresh him with meat, 1Sa 28:21-25.",
+     "refs": [
+      {
+       "text": "1Sa 28:1",
+       "ref": "1SA.28.1"
+      },
+      {
+       "text": "1Sa 28:3-8",
+       "ref": "1SA.28.3-8"
+      },
+      {
+       "text": "1Sa 28:9-20",
+       "ref": "1SA.28.9-20"
+      },
+      {
+       "text": "1Sa 28:21-25",
+       "ref": "1SA.28.21-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.1",
+   "range": "1SA.28.1",
+   "kind": "passage",
+   "hash": "cf96ac57",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.1#p1-bb9ccb3c",
+     "text": "The Philistines were encouraged by Samuel’s death, and Saul’s degeneration, and David’s presence with Achish."
+    },
+    {
+     "id": "poole/1SA.28.1#p2-bb75c041",
+     "text": "this he saith, partly to try his sincerity; and partly in confidence of David’s fidelity.",
+     "anchor": "Thou shalt go out with me to battle"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.2",
+   "range": "1SA.28.2",
+   "kind": "passage",
+   "hash": "985088e0",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.2#p1-089c6ca3",
+     "text": "speaks ambitiously, as he did before, that Achish might understand him, as he did, of his acting for him against the Israelites; whereas he meant it of his acting for the Israelites against the Philistines, to which he was obliged both by God’s express command, and by his indelible and manifold obligations to God, and to God’s people, and by his own manifest interest. Though it is likely he would have managed his affairs with all possible regard and care of Achish’s person, to whom alone, upon the matter, David stood obliged, and not to the rest of the Philistines, who had an ill opinion of him, as we shall see.",
+     "anchor": "David"
+    },
+    {
+     "id": "poole/1SA.28.2#p2-1b5e1857",
+     "text": "for that valour which I doubt not thou wilt show on my behalf.",
+     "anchor": "Therefore"
+    },
+    {
+     "id": "poole/1SA.28.2#p3-642c81b8",
+     "text": "i.e. of my body and life, the captain of my life-guard.",
+     "anchor": "Of mine head"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.3",
+   "range": "1SA.28.3",
+   "kind": "passage",
+   "hash": "1d8d4fba",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.3#p1-be00448f",
+     "text": "this is mentioned here as the reason why Saul did not inquire of Samuel; which, if he had now been alive, he would have done.",
+     "anchor": "Samuel was dead"
+    },
+    {
+     "id": "poole/1SA.28.3#p2-887e25b7",
+     "text": "where he had his birth and education, and most settled habitation, 1Sa 19:18.",
+     "anchor": "In his own city",
+     "refs": [
+      {
+       "text": "1Sa 19:18",
+       "ref": "1SA.19.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.3#p3-6444fac4",
+     "text": "according to God’s command, Lev 19:31 20:6,27 Deu 18:11. This he did, either by Samuel’s instigation; or from a conceit that the evil spirit came upon him by some of their means; or that he might gain the repute of a religious prince, which was very useful to him; or that he might quiet his troubled conscience, and please God as far as his interest would give him leave. And this is here related, partly to show that a hypocrite and wicked man may obey some of God’s commands, and principally to bring in the following history.",
+     "anchor": "Saul had put away those that had familiar spirits, and the wizards",
+     "refs": [
+      {
+       "text": "Lev 19:31",
+       "ref": "LEV.19.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.3#p4-7ba0c092",
+     "text": "of Israel.",
+     "anchor": "Out of the land"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.4",
+   "range": "1SA.28.4",
+   "kind": "passage",
+   "hash": "a3f72069",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.4#p1-af30b434",
+     "text": "a town in the tribe of Issachar, Jos 19:18.",
+     "anchor": "Shunem",
+     "refs": [
+      {
+       "text": "Jos 19:18",
+       "ref": "JOS.19.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.4#p2-9ee069ae",
+     "text": "a mountain not far from the valley of Jezreel, where the battle was fought, 1Sa 31:1 2Sa 1:21. So the two armies seem to be placed in the same manner as they were 1Sa 17, each upon a hill, and a valley between them.",
+     "anchor": "Gilboa",
+     "refs": [
+      {
+       "text": "1Sa 31:1",
+       "ref": "1SA.31.1"
+      },
+      {
+       "text": "2Sa 1:21",
+       "ref": "2SA.1.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.5",
+   "range": "1SA.28.5",
+   "kind": "passage",
+   "hash": "c33e3f06",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.5#p1-b9c6fc08",
+     "text": "1Sa 31:1.",
+     "anchor": "Saul saw the host from Mount Gilboa",
+     "refs": [
+      {
+       "text": "1Sa 31:1",
+       "ref": "1SA.31.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.5#p2-f8110d9b",
+     "text": "partly, from the greatness and resoluteness of the host of the Philistines, who were the aggressors; partly, from the loss of David, who might have been of great use to him at this time; partly, from the conscience of his own manifest guilt, and just expectation of Divine vengeance oft threatened, and now in all likelihood to be inflicted upon him.",
+     "anchor": "His heart greatly trembled"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.6",
+   "range": "1SA.28.6",
+   "kind": "passage",
+   "hash": "270189d0",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.6#p1-9f57606a",
+     "text": "in his slight and perfunctory way, as 1Sa 14:19, as appears from hence, that when God did not speedily answer him, he goes to the devil for an answer, 1Sa 28:7; for which reason he is said,",
+     "anchor": "Saul inquired of the Lord",
+     "refs": [
+      {
+       "text": "1Sa 14:19",
+       "ref": "1SA.14.19"
+      },
+      {
+       "text": "1Sa 28:7",
+       "ref": "1SA.28.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.6#p2-3de8d566",
+     "text": "to have",
+     "anchor": "not"
+    },
+    {
+     "id": "poole/1SA.28.6#p3-7e6c6241",
+     "text": "1Ch 10:14, i.e. not seriously, and after the right order. Possibly he inquired by some prophet then with him, or by the priest before the ark.",
+     "anchor": "inquired of the Lord",
+     "refs": [
+      {
+       "text": "1Ch 10:14",
+       "ref": "1CH.10.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.6#p4-f1665a6d",
+     "text": "because he sought him not in due order; not by the Urim and Thummim which were in the ephod, which he by his cruelty to the priests had lost, 1Sa 23:6; and because he did not truly repent of nor put away his sins, which provoked God, and kept him from answering, as Saul well knew by his own conscience and experience, 1Sa 14:37-39.",
+     "anchor": "The Lord answered him not",
+     "refs": [
+      {
+       "text": "1Sa 23:6",
+       "ref": "1SA.23.6"
+      },
+      {
+       "text": "1Sa 14:37-39",
+       "ref": "1SA.14.37-39"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.6#p5-39c72350",
+     "text": "Neither by dreams,"
+    },
+    {
+     "id": "poole/1SA.28.6#p6-432f8734",
+     "text": "i.e. neither by ordinary means, nor extraordinary.",
+     "anchor": "nor by Urim, nor by prophets"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.7",
+   "range": "1SA.28.7",
+   "kind": "passage",
+   "hash": "06dc13b2",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.7#p1-b7cd3a52",
+     "text": "rather than a man; for he thought that sex most likely to be given to those wicked arts, as being the weaker sex, and so aptest to be deceived, and most prone to superstition, and ofttimes most malicious and revengeful. That hath a familiar spirit; one that converseth with the devil, and dead men’s ghosts, and by them can discover future things. See Isa 8:19.",
+     "anchor": "Seek me a woman",
+     "refs": [
+      {
+       "text": "Isa 8:19",
+       "ref": "ISA.8.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.7#p2-b8aa48a0",
+     "text": "instead of dissuading him from this wicked and destructive practice, which they should and would have done, if they had either loved God or their king, they further him in it.",
+     "anchor": "His servants said to him"
+    },
+    {
+     "id": "poole/1SA.28.7#p3-8056c5ca",
+     "text": "a place in the tribe of Manasseh, within Jordan, not very fir from the place where the armies were encamped.",
+     "anchor": "En-dor"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.8",
+   "range": "1SA.28.8",
+   "kind": "passage",
+   "hash": "59f24fee",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.8#p1-59f24fee",
+     "text": "both because he was ashamed to be known, or thought guilty of this practice; and because he suspected that the woman, had she known him, would not practise her art before him.",
+     "anchor": "Saul disguised himself"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.9",
+   "range": "1SA.28.9",
+   "kind": "passage",
+   "hash": "d5a9c3a6",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.9#p1-137aa8c2",
+     "text": "for his speech and garb discovered him to be an Israelite, and therefore acquainted with these matters.",
+     "anchor": "Woman said, Behold, thou knowest"
+    },
+    {
+     "id": "poole/1SA.28.9#p2-92bdd089",
+     "text": "by accusing me to Saul as guilty of a capital crime.",
+     "anchor": "To cause me to die"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.11",
+   "range": "1SA.28.11",
+   "kind": "passage",
+   "hash": "861c901f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.11#p1-861c901f",
+     "text": "Whose kindness and compassion to him, as he had formerly experienced, so now he expected it in his deep distress. This practice of divination by the dead, or by the ghosts or souls of dead persons, called up by magical art, was very usual among all nations, and from them Saul learned it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.12",
+   "range": "1SA.28.12",
+   "kind": "passage",
+   "hash": "dc8780c1",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.12#p1-abf1d9c1",
+     "text": "for fear of her life, Saul himself being witness of her crime.",
+     "anchor": "She cried with a loud voice"
+    },
+    {
+     "id": "poole/1SA.28.12#p2-46a0bb07",
+     "text": "this she knew, either by some gesture of reverence which this supposed Samuel might show to Saul, as to the king; or by information from this ghost; or from the spirit by whose help she had raised him.",
+     "anchor": "Thou art Saul"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.13",
+   "range": "1SA.28.13",
+   "kind": "passage",
+   "hash": "74a582d7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.13#p1-bc53f7f6",
+     "text": "i.e. A god, a divine person, glorious, and full of majesty and splendour, exceeding not only mortal men, but common ghosts. She useth the plural number,"
+    },
+    {
+     "id": "poole/1SA.28.13#p2-e16a26d3",
+     "text": "either after the manner of the Hebrew language, which commonly useth that word of one person; or after the language and custom of the heathens. But the whole coherence shows that it was but one. For Saul desired but one, 1Sa 28:11, and he inquires and the woman answers only of one, 1Sa 28:14. Ascending out of the earth, as if it came from the place of the dead.",
+     "anchor": "gods",
+     "refs": [
+      {
+       "text": "1Sa 28:11",
+       "ref": "1SA.28.11"
+      },
+      {
+       "text": "1Sa 28:14",
+       "ref": "1SA.28.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.14",
+   "range": "1SA.28.14",
+   "kind": "passage",
+   "hash": "b4f98fef",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.14#p1-3ac64c92",
+     "text": "the usual habit of prophets, 2Ki 2:8,13 Zec 13:4, and particularly of Samuel, 1Sa 15:27.",
+     "anchor": "He is covered with a mantle",
+     "refs": [
+      {
+       "text": "2Ki 2:8",
+       "ref": "2KI.2.8"
+      },
+      {
+       "text": "1Sa 15:27",
+       "ref": "1SA.15.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.14#p2-1ff90a01",
+     "text": "the woman pretended, and Saul upon her suggestion believed, that it was Samuel indeed; and so many popish and some other writers conceived. But that it was not Samuel, but the devil representing Samuel, is sufficiently evident.",
+     "anchor": "Saul perceived that it was Samuel"
+    },
+    {
+     "id": "poole/1SA.28.14#p3-3912bd54",
+     "text": "For, first, It is most incredible that God, who had just now refused to answer Saul by the means which himself appointed and used in that case, would answer him, or suffer Samuel to answer him, in that way, and upon the use of those means which God detested and contemned; which would have given great countenance and encouragement to Saul and the witch, and all professors and consulters of those devilish arts. Secondly, There are divers passages in this relation which plainly discover that this was no good, but an evil spirit;"
+    },
+    {
+     "id": "poole/1SA.28.14#p4-f87aeae5",
+     "text": "as first, That he receives that worship from Saul, 1Sa 28:14, which good spirits would not suffer, Rev 19:10 22:8,9. Secondly, That amongst his other sins for which he condemneth him, he omitteth this of asking counsel of one that had a familiar spirit, to inquire of it; for which transgression, with others, he is expressly said to have died, 1Ch 10:13, which the true Samuel, who was so zealous for God’s honour, and so faithful a reprover, would never have neglected, especially now, when he takes Saul in the very fact. Thirdly, That he pretends himself to be disquieted and brought up, 1Sa 28:15, by Saul’s instigation, and the witch’s art;",
+     "refs": [
+      {
+       "text": "1Sa 28:14",
+       "ref": "1SA.28.14"
+      },
+      {
+       "text": "Rev 19:10",
+       "ref": "REV.19.10"
+      },
+      {
+       "text": "1Ch 10:13",
+       "ref": "1CH.10.13"
+      },
+      {
+       "text": "1Sa 28:15",
+       "ref": "1SA.28.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.14#p5-650375df",
+     "text": "which is most false, and impious, and absurd to imagine, concerning those blessed souls who are returned to their God, Ecc 12:7, and entered into peace and rest, Isa 57:2, and lodged in Abraham’s bosom, Luk 16:22, and rest from their labors, Rev 14:13. The only argument of any colour to the contrary is only this, that the devil could not so particularly and punctually discover Saul’s future events as this Samuel doth, 1Sa 28:19. But this also hath little weight in it; it being confessed and notoriously known, that evil spirits, both in the oracles of the heathen, and otherwise, have oft-times foretold future contingencies;",
+     "refs": [
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      },
+      {
+       "text": "Isa 57:2",
+       "ref": "ISA.57.2"
+      },
+      {
+       "text": "Luk 16:22",
+       "ref": "LUK.16.22"
+      },
+      {
+       "text": "Rev 14:13",
+       "ref": "REV.14.13"
+      },
+      {
+       "text": "1Sa 28:19",
+       "ref": "1SA.28.19"
+      },
+      {
+       "text": "1Sa 28:19",
+       "ref": "1SA.28.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.14#p6-250b3948",
+     "text": "God being pleased to reveal such things to them, and to permit them to be the instruments of revealing them to men, for the trial of some, and for the terror and punishment of others."
+    },
+    {
+     "id": "poole/1SA.28.14#p7-7d83986b",
+     "text": "Besides, the devil might foresee this by strong conjectures, as by the numerousness, strength, courage, and resoluteness of the Philistine host, and the quite contrary condition of the Israelites, and by divers other symptoms far above the reach of mortal men, but such as he by his great sagacity could easily discern."
+    },
+    {
+     "id": "poole/1SA.28.14#p8-c86f147d",
+     "text": "And for that express determination of the time, tomorrow, 1Sa 28:19, that word may be understood not of the very next day, but indefinitely of some short time after this, as it is taken, Exo 13:14 Deu 6:20 Jos 4:6,21. And then it was easy to gather from the present posture of the two armies, that the fight and the ruin of the Israelites was very near. And that it was not the very next day, but some days after this, is evident from the course of the story, and hath been proved by a late learned writer. See my Latin Synopsis on this place.",
+     "refs": [
+      {
+       "text": "1Sa 28:19",
+       "ref": "1SA.28.19"
+      },
+      {
+       "text": "1Sa 28:19",
+       "ref": "1SA.28.19"
+      },
+      {
+       "text": "Exo 13:14",
+       "ref": "EXO.13.14"
+      },
+      {
+       "text": "Deu 6:20",
+       "ref": "DEU.6.20"
+      },
+      {
+       "text": "Jos 4:6",
+       "ref": "JOS.4.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.15",
+   "range": "1SA.28.15",
+   "kind": "passage",
+   "hash": "0c612b9e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.15#p1-f735ddde",
+     "text": "as the devil appeared in Samuel’s shape and garb, so also he speaketh in his person, that he might insnare Saul, and encourage others to seek to him in this wicked way. And God permits him to do so for Saul’s greater condemnation and punishment.",
+     "anchor": "Samuel said to Saul"
+    },
+    {
+     "id": "poole/1SA.28.15#p2-a3146ab2",
+     "text": "he omitteth the Urim here, because he neither did nor could inquire by that, because Abiathar had carried it away to David, and so he expected no answer that way.",
+     "anchor": "Neither by prophets, nor by dreams"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.17",
+   "range": "1SA.28.17",
+   "kind": "passage",
+   "hash": "6e2652f9",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.17#p1-7afa262d",
+     "text": "i.e. to David, as it is explained in the following words; the pronoun relative put before the noun to which it belongs, as is usual in the Hebrew text, as Psa 87:105:19 Pro 7:7,8 Jer 40:5. Otherwise, to him is put for to thee; such changes of persons being frequent among the Hebrews. Otherwise, for himself, i. e. for the accomplishment of his counsel, and prediction, and oath, and for the glory of his justice and holiness.",
+     "anchor": "The Lord hath done to him",
+     "refs": [
+      {
+       "text": "Psa 87:105",
+       "ref": "PSA.87.105"
+      },
+      {
+       "text": "Pro 7:7",
+       "ref": "PRO.7.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.28.17#p2-412bb09c",
+     "text": "still he nourisheth this persuasion in Saul, that it was the true Samuel that spake to him.",
+     "anchor": "As he spake by me"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.18",
+   "range": "1SA.28.18",
+   "kind": "passage",
+   "hash": "67121e93",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.18#p1-67121e93",
+     "text": "he mentions this as an eminent instance of his disobedience.",
+     "anchor": "Nor executedst his fierce wrath upon Amalek"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.19",
+   "range": "1SA.28.19",
+   "kind": "passage",
+   "hash": "87da1d17",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.19#p1-2fdf3f82",
+     "text": "With me, i.e. in the state of the dead; and so it was true both of Saul and Jonathan. Or, in the state of rest; for though thou shalt suffer here for thy sin, yet after death thou shalt be happy, as dying in the Lord’s quarrel: so the devil’s design might be to flatter Saul into an opinion of his own future happiness, and to take him off from all serious thoughts and cares about it. And it is here observable, that as it was the manner of the heathen oracles to answer ambiguously, the better to save his credit in case of mistake; (the devil himself not being certain of future events, but only conjecturing at what was most likely;) so doth this counterfeit Samuel here. For, as concerning the time, he says"
+    },
+    {
+     "id": "poole/1SA.28.19#p2-a520ff48",
+     "text": "which he understood indifferently for the very next day, or for some short time after. And, as concerning the condition,",
+     "anchor": "to-morrow"
+    },
+    {
+     "id": "poole/1SA.28.19#p3-0daac527",
+     "text": "which may be understood either of a good condition, if understood as spoken in the person of Samuel; or of a bad condition, if understood as spoken by an evil spirit; or at least indefinitely of a dead condition, be it good or evil; which last he foresaw by circumstances to be very likely.",
+     "anchor": "thou shalt be with me"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.20",
+   "range": "1SA.28.20",
+   "kind": "passage",
+   "hash": "0ad2ddf0",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.20#p1-0ad2ddf0",
+     "text": "being quite dispirited with these sad and surprising tidings, and so unable to stand.",
+     "anchor": "Saul fell along on the earth"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.21",
+   "range": "1SA.28.21",
+   "kind": "passage",
+   "hash": "29a5f7bf",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.21#p1-29a5f7bf",
+     "text": "from whom she departed, when she had brought him and Samuel together, that they might more freely converse together, as being alone.",
+     "anchor": "The woman came unto Saul"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.22",
+   "range": "1SA.28.22",
+   "kind": "passage",
+   "hash": "551593cf",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.22#p1-551593cf",
+     "text": "This earnestness did not come merely from her humanity and respect to Saul, but from a prudent and necessary care of herself, because if Saul had died in her house, his blood would have been charged upon her."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.23",
+   "range": "1SA.28.23",
+   "kind": "passage",
+   "hash": "6f49084b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.23#p1-6f49084b",
+     "text": "i.e. did over-persuade him, by importunate entreaties, as the next words show.",
+     "anchor": "Compelled him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.24",
+   "range": "1SA.28.24",
+   "kind": "passage",
+   "hash": "6318f367",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.24#p1-6318f367",
+     "text": "Not having time to leaven it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.28.25",
+   "range": "1SA.28.25",
+   "kind": "passage",
+   "hash": "9974a6cd",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.28.25#p1-9974a6cd",
+     "text": "i.e. Before morning; for he came by night, 1Sa 28:8, and went away before day; not willing to have it discovered that he had consulted with a witch.",
+     "refs": [
+      {
+       "text": "1Sa 28:8",
+       "ref": "1SA.28.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

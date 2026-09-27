@@ -1,0 +1,609 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 39,
+ "units": [
+  {
+   "id": "poole/PSA.39",
+   "range": "PSA.39",
+   "kind": "chapter",
+   "hash": "c89cc478",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.39#p2-cf6c4c8d",
+     "text": "This Psalm was written by David when his mind was much discomposed and disquieted with the contemplation of the prosperity of sinners, and the afflictions of the godly; which being exemplified in himself and in his enemies, he speaks of the case not in general, but as in his own person."
+    },
+    {
+     "id": "poole/PSA.39#p3-c93a9766",
+     "text": "Jeduthun; one of the three chief masters of the sacred music; of whom see 1Ch 16:41,42 2Ch 5:12.",
+     "refs": [
+      {
+       "text": "1Ch 16:41",
+       "ref": "1CH.16.41"
+      },
+      {
+       "text": "2Ch 5:12",
+       "ref": "2CH.5.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39#p4-5198965b",
+     "text": "David taketh care of his thoughts, words, and works, Psa 39:1-3. He considereth the brevity and vanity of man’s life, Psa 39:4-6; puts his hope in God, Psa 39:7; prayeth for the forgiveness of his sins, Psa 39:8-11, and for favour in his pilgrimage, Psa 39:12,13.",
+     "refs": [
+      {
+       "text": "Psa 39:1-3",
+       "ref": "PSA.39.1-3"
+      },
+      {
+       "text": "Psa 39:4-6",
+       "ref": "PSA.39.4-6"
+      },
+      {
+       "text": "Psa 39:7",
+       "ref": "PSA.39.7"
+      },
+      {
+       "text": "Psa 39:8-11",
+       "ref": "PSA.39.8-11"
+      },
+      {
+       "text": "Psa 39:12",
+       "ref": "PSA.39.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.1",
+   "range": "PSA.39.1",
+   "kind": "passage",
+   "hash": "a5edc13b",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.1#p1-c38265d4",
+     "text": "I fully resolved. To my ways, i.e. to order all my actions aright, and particularly to govern my tongue, which is very hard to do, and especially under these provocations.",
+     "anchor": "I said"
+    },
+    {
+     "id": "poole/PSA.39.1#p2-ffd5b5e0",
+     "text": "that if any evil thoughts or passions do arise in me, I will endeavour to suppress and mortify them, and not suffer them to boil and break forth into sinful and scandalous reflections upon God and his providence, as they usually do upon such occasions.",
+     "anchor": "That I sin not with my tongue"
+    },
+    {
+     "id": "poole/PSA.39.1#p3-8ef4eed8",
+     "text": "i. e. with all possible care and diligence. The phrase implies the great difficulty of ruling the tongue.",
+     "anchor": "As with a bridle"
+    },
+    {
+     "id": "poole/PSA.39.1#p4-a12a5354",
+     "text": "either,",
+     "anchor": "Before me"
+    },
+    {
+     "id": "poole/PSA.39.1#p5-e191363f",
+     "text": "1. In my presence. Or rather,"
+    },
+    {
+     "id": "poole/PSA.39.1#p6-e01ae34f",
+     "text": "2. In my thoughts, as the same phrase is understood, Psa 51:3, i.e. whilst I consider the flourishing estate of wicked men.",
+     "refs": [
+      {
+       "text": "Psa 51:3",
+       "ref": "PSA.51.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.2",
+   "range": "PSA.39.2",
+   "kind": "passage",
+   "hash": "90e5b9d9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.2#p1-b190ddbc",
+     "text": "I was so long and so obstinately silent, that I seemed to myself and to others to be dumb. Two words put together expressing the same thing, to aggravate or increase it. Or, I was dumb with quietness, i.e. not out of sullenness, but with submissiveness to God’s dispensations, which is oft noted by silence.",
+     "anchor": "I was dumb with silence"
+    },
+    {
+     "id": "poole/PSA.39.2#p2-645b990f",
+     "text": "I forbore to speak what I justly might upon that occasion, lest the flood-gates of speech being once opened, and speech stirring up my passion, I should by degrees break forth into some indecent and sinful expressions, to the dishonour of God, the wounding of mine own conscience, and the offence of others. or this may be a proverbial speech, signifying strict silence; like that Gen 31:29, speak to him neither good nor bad, i.e. nothing at all, to wit, about that matter, to persuade him to return.",
+     "anchor": "I held my peace, even from good",
+     "refs": [
+      {
+       "text": "Gen 31:29",
+       "ref": "GEN.31.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.2#p3-26ac8634",
+     "text": "my silence did not assuage my grief, but increase it, as it naturally and commonly doth.",
+     "anchor": "My sorrow was stirred"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.3",
+   "range": "PSA.39.3",
+   "kind": "passage",
+   "hash": "1c14b433",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.3#p1-411ec30c",
+     "text": "i.e. considering in my own thoughts the great wickedness and successfulness of mine enemies, and other wicked men; and withal mine own and other good mews integrity, attended with great troubles and miseries in this life.",
+     "anchor": "Musing"
+    },
+    {
+     "id": "poole/PSA.39.3#p2-0d7676d1",
+     "text": "my thoughts kindled my passions. Then spake I with my tongue, to wit, such words as I had purposed not to speak, Psa 39:1; rash and impatient words: either,",
+     "anchor": "The fire burned",
+     "refs": [
+      {
+       "text": "Psa 39:1",
+       "ref": "PSA.39.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.3#p3-cfdfff89",
+     "text": "1. Some words not here expressed; which having uttered to men, he turneth his speech to God, Psa 39:4. Or,",
+     "refs": [
+      {
+       "text": "Psa 39:4",
+       "ref": "PSA.39.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.3#p4-a24473b6",
+     "text": "2. Those which here follow."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.4",
+   "range": "PSA.39.4",
+   "kind": "passage",
+   "hash": "8b37925d",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.4#p1-aa4f3ae6",
+     "text": "This verse contains either,"
+    },
+    {
+     "id": "poole/PSA.39.4#p2-b0aed024",
+     "text": "1. A correction of himself for his impatient motions or speeches, and his retirement to God for relief under these perplexing and sadding thoughts. Or,"
+    },
+    {
+     "id": "poole/PSA.39.4#p3-10992fed",
+     "text": "2. A declaration of the words which he spake."
+    },
+    {
+     "id": "poole/PSA.39.4#p4-a12a5354",
+     "text": "either,",
+     "anchor": "Make me to know"
+    },
+    {
+     "id": "poole/PSA.39.4#p5-396dc7ce",
+     "text": "1. Practically, so as to prepare for it. Or,"
+    },
+    {
+     "id": "poole/PSA.39.4#p6-63290373",
+     "text": "2. Experimentally, as words of knowledge are oft used. And so this is a secret desire of death, that he might be free from such torments as made his life a burden to him. Or,"
+    },
+    {
+     "id": "poole/PSA.39.4#p7-71e6841f",
+     "text": "3. By revelation; that I may have some prospect or foreknowledge when my calamities will be ended; which argued impatience, and an unwillingness to wait long for deliverance."
+    },
+    {
+     "id": "poole/PSA.39.4#p8-ce8ae657",
+     "text": "i.e. the end of my life, as is evident from the following words.",
+     "anchor": "My end"
+    },
+    {
+     "id": "poole/PSA.39.4#p9-37502739",
+     "text": "how long or short it is, or the utmost extent or period of the days of my life.",
+     "anchor": "What it is"
+    },
+    {
+     "id": "poole/PSA.39.4#p10-c0a55a21",
+     "text": "or, how long (or, how little, for the word may be and is by divers interpreters taken both ways) time I have or shall continue here.",
+     "anchor": "How frail I am"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.5",
+   "range": "PSA.39.5",
+   "kind": "passage",
+   "hash": "9c03becf",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.5#p1-5b571267",
+     "text": "which is one of the least measures, i.e. very short. These and the following words are either,",
+     "anchor": "As an handbreadth"
+    },
+    {
+     "id": "poole/PSA.39.5#p2-07008e2f",
+     "text": "1. A continuance of his complaint, that although his days were of themselves very short, yet God seemed to grudge him their natural length, and threatened to make them shorter, and to cut him off before his time. Or rather,"
+    },
+    {
+     "id": "poole/PSA.39.5#p3-b1d201c3",
+     "text": "2. A consolation, and correction of his last words, as if he said, Why am I so greedy to know the end of my life, seeing I do already know this, that my life cannot last very long, and therefore if my troubles be sharp, they will be but short?"
+    },
+    {
+     "id": "poole/PSA.39.5#p4-dad1c0d2",
+     "text": "next to nothing for substance and for continuance.",
+     "anchor": "Nothing"
+    },
+    {
+     "id": "poole/PSA.39.5#p5-3dd30ebc",
+     "text": "i.e. in thy judgment, and therefore in truth and reality; or, if compared with thee, and with thy everlasting duration: compare Psa 90:4 2Pe 3:8.",
+     "anchor": "Before thee",
+     "refs": [
+      {
+       "text": "Psa 90:4",
+       "ref": "PSA.90.4"
+      },
+      {
+       "text": "2Pe 3:8",
+       "ref": "2PE.3.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.5#p6-4bab5319",
+     "text": "prince or peasant, wise or fools, good or bad.",
+     "anchor": "Every man"
+    },
+    {
+     "id": "poole/PSA.39.5#p7-78723c50",
+     "text": "Heb. though settled or established; when he stands fastest, and likely to continue longest, in regard of his health and strength, and all possible means whereby life may be secured, supported, or prolonged.",
+     "anchor": "At his best state"
+    },
+    {
+     "id": "poole/PSA.39.5#p8-5a4c3117",
+     "text": "all that he is or hath is as light, and vain, and unstable as vanity itself; there is nothing but vanity and uncertainty in all his outward enjoyments, in the constitution of his body, yea, in the very temper and endowments of his mind: by which general condition of all mankind he endeavours to quiet and compose his mind to bear the common lot.",
+     "anchor": "Altogether vanity"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.6",
+   "range": "PSA.39.6",
+   "kind": "passage",
+   "hash": "56d916ed",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.6#p1-17d417e2",
+     "text": "i. e. passeth the course of his life; or goeth about busily and restlessly, hither and thither, as this verb in this conjugation signifies, and as the next verb more plainly expresseth.",
+     "anchor": "Walketh"
+    },
+    {
+     "id": "poole/PSA.39.6#p2-3a153d5b",
+     "text": "Heb. in a shadow or image, i.e. in an imaginary rather than a real life; in the pursuit of vain imaginations, in which there is nothing solid or satisfactory. Or, as some read it, like a shadow, to which man’s life is compared, Job 14:2. Man and his life, and all his happiness in this world, are rather appearances, and representations, and dreams, than truths and realities.",
+     "anchor": "In a vain show",
+     "refs": [
+      {
+       "text": "Job 14:2",
+       "ref": "JOB.14.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.6#p3-b27200f8",
+     "text": "or, troubled; Heb. they make a noise, or bustling, or tumult, with unwearied industry seeking for riches, as it follows, and troubling and vexing both themselves and others in the pursuit of them, as this word implies.",
+     "anchor": "Disquieted"
+    },
+    {
+     "id": "poole/PSA.39.6#p4-c87f02f9",
+     "text": "to no purpose; or without any real or considerable benefit to him or his.",
+     "anchor": "In vain"
+    },
+    {
+     "id": "poole/PSA.39.6#p5-e0376ed1",
+     "text": "for his own use, and for his posterity after him.",
+     "anchor": "He heapeth up"
+    },
+    {
+     "id": "poole/PSA.39.6#p6-20808d0e",
+     "text": "whether his children, or strangers, or enemies, shall possess and enjoy them.",
+     "anchor": "Who shall gather them"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.7",
+   "range": "PSA.39.7",
+   "kind": "passage",
+   "hash": "62d75963",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.7#p1-62d75963",
+     "text": "Seeing this life and all its enjoyments are so vain and short to all men, and especially to me, I will never expect nor seek for happiness here from these vanities; I will compose myself patiently and contentedly to bear both my own afflictions, and the prosperity and glory of ungodly men, for both are vanishing and transitory things, and I will seek for happiness no where but in the love and favour of God, in serving and glorifying him here, and in the hope or confident expectation of enjoying him hereafter; and in the mean time, of receiving from him those supplies and assistances which my present condition calls for."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.8",
+   "range": "PSA.39.8",
+   "kind": "passage",
+   "hash": "5461f661",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.8#p1-5be7b234",
+     "text": "that I may not be disappointed of my hopes of enjoying thee and thy favour, which is the only thing that I desire, pardon all my sins, which stand like a thick cloud between thee and me, and fill me with fears about my condition both here and hereafter.",
+     "anchor": "Deliver me from all my transgressions"
+    },
+    {
+     "id": "poole/PSA.39.8#p2-49d1bd11",
+     "text": "let not their prosperity and my misery give them occasion to deride and reproach me for my serving of thee, and trusting in thee, to so little purpose or advantage.",
+     "anchor": "Make me not the reproach"
+    },
+    {
+     "id": "poole/PSA.39.8#p3-3d032bb3",
+     "text": "i.e. of wicked men, who though they profess and think themselves to be wise, yet indeed are fools, as is manifest from their eager pursuit of fruitless vanities, Psa 39:6, and from their gross neglect of God, and of his service, who only is able to make them happy.",
+     "anchor": "Of the foolish",
+     "refs": [
+      {
+       "text": "Psa 39:6",
+       "ref": "PSA.39.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.9",
+   "range": "PSA.39.9",
+   "kind": "passage",
+   "hash": "37f8f05b",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.9#p1-927fda06",
+     "text": "to wit, in way of murmuring or repining against thee, or thy providence, as I promised I would be, Psa 39:1. For though when I looked only to instruments, I was discomposed, and did at last speak a foolish word; yet when I did recollect myself, and looked up to thee, the First Cause and Sovereign Disposer of this and all other things, I returned to my former silence.",
+     "anchor": "I opened not my mouth",
+     "refs": [
+      {
+       "text": "Psa 39:1",
+       "ref": "PSA.39.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.9#p2-c9bd2135",
+     "text": "What? Either,",
+     "anchor": "Thou didst it"
+    },
+    {
+     "id": "poole/PSA.39.9#p3-1a6c056b",
+     "text": "1. and particularly, Absalom’s rebellion; wherein I acknowledge thy just hand in punishing my sins. Or,"
+    },
+    {
+     "id": "poole/PSA.39.9#p4-bf963bf3",
+     "text": "2. and more generally, Whatsoever is done in these matters; all the events which befall all men, whether good or bad; the afflictions of the one, and the prosperity of the other; all which are the effects of thy counsel and providence, in which all men ought to acquiesce."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.10",
+   "range": "PSA.39.10",
+   "kind": "passage",
+   "hash": "28297d2e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.10#p1-b7744cd7",
+     "text": "But although I may not, I will not, open my mouth to complain of thee, yet I may open it to complain and pray to thee, that thou wouldst take off the judgment which thou hast inflicted upon me."
+    },
+    {
+     "id": "poole/PSA.39.10#p2-0be93bea",
+     "text": "help me, therefore, before I be utterly and irrecoverably lost.",
+     "anchor": "I am consumed"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.11",
+   "range": "PSA.39.11",
+   "kind": "passage",
+   "hash": "b1da2618",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.11#p1-809024bd",
+     "text": "i. e. with punishment, which is oft so called. See Psa 6:1 76:6.",
+     "anchor": "With rebukes",
+     "refs": [
+      {
+       "text": "Psa 6:1",
+       "ref": "PSA.6.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.11#p2-ccabef91",
+     "text": "i. e. dost punish him as his iniquity deserves. His beauty, Heb. his desire, i.e. his desirable things, as this word signifies, Lam 1:11 Dan 9:23 10:3,11,19. His comeliness, strength, wealth, and prosperity, and all his present excellencies or felicities.",
+     "anchor": "Dost correct man for iniquity",
+     "refs": [
+      {
+       "text": "Lam 1:11",
+       "ref": "LAM.1.11"
+      },
+      {
+       "text": "Dan 9:23",
+       "ref": "DAN.9.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.11#p3-a12a5354",
+     "text": "either,",
+     "anchor": "Like a moth"
+    },
+    {
+     "id": "poole/PSA.39.11#p4-b86529f7",
+     "text": "1. Passively, as a moth is quickly and easily crushed to pieces with a touch as this phrase is used, Job 4:19. Or,",
+     "refs": [
+      {
+       "text": "Job 4:19",
+       "ref": "JOB.4.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.11#p5-aae3faef",
+     "text": "2. Actively as a moth consumeth a garment, as it is Job 13:28 Isa 1:9; to which God compareth himself and his judgments, secretly and insensibly consuming a people, Isa 51:8 Hos 5:12.",
+     "refs": [
+      {
+       "text": "Job 13:28",
+       "ref": "JOB.13.28"
+      },
+      {
+       "text": "Isa 1:9",
+       "ref": "ISA.1.9"
+      },
+      {
+       "text": "Isa 51:8",
+       "ref": "ISA.51.8"
+      },
+      {
+       "text": "Hos 5:12",
+       "ref": "HOS.5.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.11#p6-40598ecb",
+     "text": "and this confirms what I said Psa 39:5, that every man is vanity; which though men in the height of their prosperity will not believe, yet when God contendeth with them by his judgments, they are forced to acknowledge it.",
+     "anchor": "Every man is vanity",
+     "refs": [
+      {
+       "text": "Psa 39:5",
+       "ref": "PSA.39.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.12",
+   "range": "PSA.39.12",
+   "kind": "passage",
+   "hash": "4e4de866",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.12#p1-50b6699a",
+     "text": "joined with my prayers, Heb 5:7.",
+     "anchor": "At my tears",
+     "refs": [
+      {
+       "text": "Heb 5:7",
+       "ref": "HEB.5.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.12#p2-7f9f2459",
+     "text": "though I be not only a native, but either anointed or actually king of this land; yet in truth I am but a stranger, both in regard of my very uncertain and short continuance here, where I am only in my journey or passage to my real and long home, which is in the other world; and in respect of the many wants, and hardships, and contempts, and injuries to which I am exposed, as men usually are in strange lands. And therefore I greatly need and desire thy pity and help, O thou who art the patron of strangers, whom thou hast commended to our care and kindness, Exo 12:48 Lev 19:33 25:35, &c. With thee; either,",
+     "anchor": "I am a stranger",
+     "refs": [
+      {
+       "text": "Exo 12:48",
+       "ref": "EXO.12.48"
+      },
+      {
+       "text": "Lev 19:33",
+       "ref": "LEV.19.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.12#p3-d1841ab5",
+     "text": "1. In thy sight or judgment, and therefore truly. We are apt to flatter ourselves, and can hardly believe that we are but strangers here, where we seem to have settled habitations; and possessions, but thou knowest the truth of the business, that we are really such. Or,"
+    },
+    {
+     "id": "poole/PSA.39.12#p4-da06884e",
+     "text": "2. In thy land or territory, in which I sojourn only by thy leave and favour, and during thy pleasure, as this whole phrase is used, Lev 25:23, whence these words are taken, as also Lev 25:35 36,39,40,45,47, where that branch of it, with thee, is so meant. And withal this phrase, both here and Lev 25:23, may have a further emphasis in it, implying that every Israelite, and particularly David himself, in respect of men, were the proprietors or owners of their portions, of which no other man might deprive or dispossess them, and therefore David’s enemies had done wrongfully in banishing him from his and from the Lord’s inheritance; but yet in respect of God they were but strangers, and God was the only Proprietor of it.",
+     "refs": [
+      {
+       "text": "Lev 25:23",
+       "ref": "LEV.25.23"
+      },
+      {
+       "text": "Lev 25:35",
+       "ref": "LEV.25.35"
+      },
+      {
+       "text": "Lev 25:23",
+       "ref": "LEV.25.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.39.12#p5-76640fdb",
+     "text": "both in thy judgment, expressed Lev 25:23, and in their own opinion, Heb 11:13, &c; upon which account thou didst take a special care of them, and therefore do so to me also.",
+     "anchor": "As all my fathers were",
+     "refs": [
+      {
+       "text": "Lev 25:23",
+       "ref": "LEV.25.23"
+      },
+      {
+       "text": "Heb 11:13",
+       "ref": "HEB.11.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.39.13",
+   "range": "PSA.39.13",
+   "kind": "passage",
+   "hash": "df08f326",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.39.13#p1-33e0bd37",
+     "text": "or, cease from me, i.e. from afflicting me; do not destroy me. My life at best is but short and miserable, as I have said, and thou knowest; sufficient for it is the evil thereof: do not add affliction to the afflicted.",
+     "anchor": "Spare me"
+    },
+    {
+     "id": "poole/PSA.39.13#p2-984741c7",
+     "text": "both in my outward and inward man, both which are much weakened and oppressed. Or, that I may be refreshed, or comforted, eased of the burden of my sins, and thy terrors consequent upon them, and better prepared for a comfortable and happy dissolution.",
+     "anchor": "That I may recover strength"
+    },
+    {
+     "id": "poole/PSA.39.13#p3-bf14c86a",
+     "text": "Heb. before I go, to wit, unto the grave, as this phrase is used, Gen 15:2 25:32; or the way of all the earth, as the phrase is completed, Jos 23:14; or whence I shall not return, as it is Job 10:21; or, which is all one, into that place and state in which I shall not be, to wit, amongst the living, or in this world, as this phrase is frequently used, both in Scripture, as Gen 5:24 37:30 42:36, and in heathen authors; of which see my Latin Synopsis.",
+     "anchor": "Before I go hence",
+     "refs": [
+      {
+       "text": "Gen 15:2",
+       "ref": "GEN.15.2"
+      },
+      {
+       "text": "Jos 23:14",
+       "ref": "JOS.23.14"
+      },
+      {
+       "text": "Job 10:21",
+       "ref": "JOB.10.21"
+      },
+      {
+       "text": "Gen 5:24",
+       "ref": "GEN.5.24"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

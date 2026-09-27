@@ -1,0 +1,38 @@
+{
+ "source": "trapp",
+ "book": "PSA",
+ "chapter": 108,
+ "units": [
+  {
+   "id": "trapp/PSA.108.1",
+   "range": "PSA.108.1",
+   "kind": "passage",
+   "hash": "f4c0094f",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.108.1#p1-f4c0094f",
+     "text": "For Psa 108:1-5 of this psalm, see the notes on Psa 57:7-11. And for Psa 108:6-13, see the notes on Psa 60:5-12.",
+     "anchor": "O God, my heart is fixed",
+     "refs": [
+      {
+       "text": "Psa 108:1-5",
+       "ref": "PSA.108.1-5"
+      },
+      {
+       "text": "Psa 57:7-11",
+       "ref": "PSA.57.7-11"
+      },
+      {
+       "text": "Psa 108:6-13",
+       "ref": "PSA.108.6-13"
+      },
+      {
+       "text": "Psa 60:5-12",
+       "ref": "PSA.60.5-12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

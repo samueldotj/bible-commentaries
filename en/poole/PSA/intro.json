@@ -1,0 +1,47 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/PSA",
+   "range": "PSA",
+   "kind": "book",
+   "title": "BOOK OF PSALMS",
+   "hash": "153341b9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA#p2-2035c6f5",
+     "text": "The divine authority of this Book of PSALMS is so certain and evident, that it was never questioned in the church; which being fixed, it is of small moment that the penman of some of them is not now known; nor doth this any more lessen its authority, than it invalidates the decree of a prince, or an act of parliament, that it is not certain by whose pen it was drawn up. Most of them were composed by David, as is evident, both from the title of them, and from the express testimony of the New Testament concerning some of them; and that by the inspiration of God’s Spirit, as appears both from the Divine matter and frame of them, and from 2Sa 23:1 Mat 22:43 Act 1:16 Act 2:25. But some of them were composed by other persons; by Moses, as Ps 90, by Heman, and Ethan, and Asaph, as the title of the Psalms show; and by others after their times, whose names are not mentioned, as is manifest from Ps 126, Ps 127. It is apparent that the Psalms were not written in the order in which they now lie; and they were put into this order either by Ezra, as the Hebrew doctors affirm, or by some other holy prophet or prophets. It is sufficient for us that the whole book is owned as canonical by our blessed Saviour, Luk 24:44.",
+     "refs": [
+      {
+       "text": "2Sa 23:1",
+       "ref": "2SA.23.1"
+      },
+      {
+       "text": "Mat 22:43",
+       "ref": "MAT.22.43"
+      },
+      {
+       "text": "Act 1:16",
+       "ref": "ACT.1.16"
+      },
+      {
+       "text": "Act 2:25",
+       "ref": "ACT.2.25"
+      },
+      {
+       "text": "Luk 24:44",
+       "ref": "LUK.24.44"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

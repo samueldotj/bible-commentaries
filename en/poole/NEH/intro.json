@@ -1,0 +1,46 @@
+{
+ "source": "poole",
+ "book": "NEH",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/NEH",
+   "range": "NEH",
+   "kind": "book",
+   "title": "THE BOOK OF NEHEMIAH",
+   "hash": "76865303",
+   "paragraphs": [
+    {
+     "id": "poole/NEH#p1-46965e1a",
+     "text": "THIS book seems not to have been written by Ezra, because it is written in a quite differing and more plain and easy style, and without that mixture of Chaldee or Syriac words which is in the book of Ezra; but by Nehemiah, Neh 1:1 who wrote an account of his own transactions, as Ezra did of his. But whether this be the same Nehemiah who came up with Zerubbabel, Ezr 2:2 Neh 7:7, may be questioned, the same name being oft given to divers persons. And for the name of Tirshatha, which is used both Ezr 2:63 Neh 7:65 Neh 7:70, that seems to be the title of his office, and so belongs to any governor, whether it was Zerubbabel, or Nehemiah, or any other.",
+     "refs": [
+      {
+       "text": "Neh 1:1",
+       "ref": "NEH.1.1"
+      },
+      {
+       "text": "Ezr 2:2",
+       "ref": "EZR.2.2"
+      },
+      {
+       "text": "Neh 7:7",
+       "ref": "NEH.7.7"
+      },
+      {
+       "text": "Ezr 2:63",
+       "ref": "EZR.2.63"
+      },
+      {
+       "text": "Neh 7:65",
+       "ref": "NEH.7.65"
+      },
+      {
+       "text": "Neh 7:70",
+       "ref": "NEH.7.70"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

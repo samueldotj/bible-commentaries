@@ -1,0 +1,766 @@
+{
+ "source": "poole",
+ "book": "ISA",
+ "chapter": 33,
+ "units": [
+  {
+   "id": "poole/ISA.33",
+   "range": "ISA.33",
+   "kind": "chapter",
+   "hash": "1e8afc06",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33#p1-1e8afc06",
+     "text": "The destruction of the enemies of the church; who are derided, Isa 33:1-13; which terrifieth the sinners in Zion, Isa 33:14. The safety and privileges of the godly, Isa 33:15-24.",
+     "refs": [
+      {
+       "text": "Isa 33:1-13",
+       "ref": "ISA.33.1-13"
+      },
+      {
+       "text": "Isa 33:14",
+       "ref": "ISA.33.14"
+      },
+      {
+       "text": "Isa 33:15-24",
+       "ref": "ISA.33.15-24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.1",
+   "range": "ISA.33.1",
+   "kind": "passage",
+   "hash": "d1401936",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.1#p1-7e82299d",
+     "text": "to Sennacherib, who wasted the land of Judah.",
+     "anchor": "Woe to thee that spoilest!"
+    },
+    {
+     "id": "poole/ISA.33.1#p2-dff47d80",
+     "text": "thou didst not meet with any considerable opposition, but wast victorious over all thine enemies; of which the Assyrian boasteth, Isa 10:8,9 36:18,19.",
+     "anchor": "Thou wast not spoiled",
+     "refs": [
+      {
+       "text": "Isa 10:8",
+       "ref": "ISA.10.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.1#p3-1bece1ca",
+     "text": "as Sennacherib did with Hezekiah, 2Ki 18:14,17.",
+     "anchor": "Dealest treacherously",
+     "refs": [
+      {
+       "text": "2Ki 18:14",
+       "ref": "2KI.18.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.1#p4-42de45fe",
+     "text": "none of thine enemies could prevail against thee, either by force, of which he speaketh in the former clause, or by treachery, as here. Or, when they dealt not, &c.; when Hezekiah did not deal treacherously with thee. If it be said that Hezekiah dealt treacherously with him, in breaking his faith, and rebel. ling against him, it may be answered, that Hezekiah neither promised nor owed him any service or subjection. What was done in that kind was done by Ahaz only; and he only begged his assistance for a particular work, and paid him well for it, 2Ki 16:7,8, and the king of Assyria did not keep his conditions with him; for he distressed him, but strengthened him not, 2Ch 28:20.",
+     "anchor": "They dealt not treacherously with thee",
+     "refs": [
+      {
+       "text": "2Ki 16:7",
+       "ref": "2KI.16.7"
+      },
+      {
+       "text": "2Ch 28:20",
+       "ref": "2CH.28.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.1#p5-e54b05ba",
+     "text": "when thou hast performed the work of chastening my people, for which I sent thee, thou also shalt be spoiled by thine enemies.",
+     "anchor": "When thou shalt cease to spoil, thou shalt be spoiled"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.2",
+   "range": "ISA.33.2",
+   "kind": "passage",
+   "hash": "e6d59486",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.2#p1-72ce1b84",
+     "text": "the prophet contemplating the judgment which was now coming upon God’s people, directeth his prayer to God for them.",
+     "anchor": "O Lord, be gracious unto us"
+    },
+    {
+     "id": "poole/ISA.33.2#p2-751bf922",
+     "text": "our arm or strength. The change of persons is most frequent in prophetical writings.",
+     "anchor": "Their arm"
+    },
+    {
+     "id": "poole/ISA.33.2#p3-542c96a8",
+     "text": "when we offer the morning sacrifice, and call upon thee; which yet is not meant exclusively, as if he did not desire God’s help at other times; but comprehensively, the morning being put synecdochically for the whole day. The sense is, Help us speedily and continually.",
+     "anchor": "Every morning"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.3",
+   "range": "ISA.33.3",
+   "kind": "passage",
+   "hash": "62eed655",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.3#p1-d02ed21f",
+     "text": "which the angel shall make in destroying the army.",
+     "anchor": "At the noise of the tumult"
+    },
+    {
+     "id": "poole/ISA.33.3#p2-0208ce37",
+     "text": "those of the army who escaped that stroke.",
+     "anchor": "The people"
+    },
+    {
+     "id": "poole/ISA.33.3#p3-7da66970",
+     "text": "the people of divers nations, which made up his army.",
+     "anchor": "The nations"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.4",
+   "range": "ISA.33.4",
+   "kind": "passage",
+   "hash": "2bd3e48c",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.4#p1-19832a23",
+     "text": "that treasure which you have raked together by spoiling divers people,",
+     "anchor": "Your spoil"
+    },
+    {
+     "id": "poole/ISA.33.4#p2-36f83c24",
+     "text": "by the Jews at Jerusalem, when you shall be forced to flee away with all possible speed, leaving your spoils behind you.",
+     "anchor": "shall be gathered"
+    },
+    {
+     "id": "poole/ISA.33.4#p3-a12a5354",
+     "text": "either,",
+     "anchor": "Like the gathering of the caterpillar"
+    },
+    {
+     "id": "poole/ISA.33.4#p4-3a3b0627",
+     "text": "1. Passively, with as much ease, and in as great numbers, as caterpillars are gathered and destroyed. Or rather,"
+    },
+    {
+     "id": "poole/ISA.33.4#p5-9e714364",
+     "text": "2. Actively, as appears from the next clause; as caterpillars or locusts (for the word signifies either) gather and devour all the fruits of the earth; which was a common plague in those countries."
+    },
+    {
+     "id": "poole/ISA.33.4#p6-a0dbae8a",
+     "text": "as locusts, especially when they are sent and armed by commission from God, come with great force, and run hither and thither, devouring all the fruits of the earth, wheresoever they find them.",
+     "anchor": "As the running to and fro of locusts"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.5",
+   "range": "ISA.33.5",
+   "kind": "passage",
+   "hash": "895b404e",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.5#p1-72211503",
+     "text": "will get great glory by the marvellous deduction of so proud and potent an army, and by the defence of his people.",
+     "anchor": "Is exalted"
+    },
+    {
+     "id": "poole/ISA.33.5#p2-802126eb",
+     "text": "for he is and will appear to be superior to his enemies, both in place and power. He dwelleth in the heaven, whence he can easily and irresistibly pour down judgments upon his enemies. Although these words may be, and by some are, joined with those that follow, thus, for he that dwelleth on high hath filled, &c. He hath filled Zion, he will fill Jerusalem, with judgment and righteousness; either,",
+     "anchor": "For he dwelleth on high"
+    },
+    {
+     "id": "poole/ISA.33.5#p3-454acbde",
+     "text": "1. With a glorious instance of his just judgment against the Assyrians. Or,"
+    },
+    {
+     "id": "poole/ISA.33.5#p4-6bbd781e",
+     "text": "2. With the execution of justice by good Hezekiah, as before it was filled with impiety and injustice under Ahaz. The city shall not only be delivered from that wicked enemy, but shall also be established and blessed with true religion and righteousness; which was a great addition to that mercy."
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.6",
+   "range": "ISA.33.6",
+   "kind": "passage",
+   "hash": "3aa7afbb",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.6#p1-48cccc5a",
+     "text": "to govern thyself and thy people well, shall be the stability of thy times; of thy reign; times being oft put for things done in those times, as 1Ch 12:32 Psa 31:15 37:18, &c. He turneth his speech to Hezekiah. The sense is, Thy throne shall be established upon the sure foundations of wisdom and justice.",
+     "anchor": "Wisdom and knowledge",
+     "refs": [
+      {
+       "text": "1Ch 12:32",
+       "ref": "1CH.12.32"
+      },
+      {
+       "text": "Psa 31:15",
+       "ref": "PSA.31.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.6#p2-99ca9198",
+     "text": "thy saving strength, or thy strong or mighty salvation.",
+     "anchor": "Strength of salvation"
+    },
+    {
+     "id": "poole/ISA.33.6#p3-6001e7b7",
+     "text": "and although thou shalt have great treasures of gold and silver, &c., yet thy chief treasure and delight is, and shall be, in promoting the fear and worship of God; which shall be a great honour and safeguard to thyself and people. He saith,",
+     "anchor": "The fear of the Lord is his treasure"
+    },
+    {
+     "id": "poole/ISA.33.6#p4-534f8e5e",
+     "text": "by a sudden change of the person, usual in these books.",
+     "anchor": "his treasure, for thy treasure"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.7",
+   "range": "ISA.33.7",
+   "kind": "passage",
+   "hash": "e0ed339b",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.7#p1-27014224",
+     "text": "that the mercy here promised might be duly magnified, he makes a lively representation of their great danger and distress, in which it found them.",
+     "anchor": "Behold"
+    },
+    {
+     "id": "poole/ISA.33.7#p2-b34c608e",
+     "text": "or, their heralds or messengers, as the Hebrew doctors expound the word: either,",
+     "anchor": "Their valiant ones"
+    },
+    {
+     "id": "poole/ISA.33.7#p3-6e76c610",
+     "text": "1. Those whom the king of Assyria sent to Jerusalem, 2Ki 18:17. Or rather,",
+     "refs": [
+      {
+       "text": "2Ki 18:17",
+       "ref": "2KI.18.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.7#p4-109a60e3",
+     "text": "2. Those whom Hezekiah sent to treat with the Assyrian commissioners, 2Ki 18:18, as the next clause showeth.",
+     "refs": [
+      {
+       "text": "2Ki 18:18",
+       "ref": "2KI.18.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.7#p5-e17bb4e7",
+     "text": "through grief and fear.",
+     "anchor": "Shall cry without"
+    },
+    {
+     "id": "poole/ISA.33.7#p6-131259cd",
+     "text": "whom he shall send to beg peace of the Assyrian, shall weep bitterly, because they cannot obtain their desires.",
+     "anchor": "The ambassadors of peace"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.8",
+   "range": "ISA.33.8",
+   "kind": "passage",
+   "hash": "0b64b401",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.8#p1-ffaa4114",
+     "text": "because the Assyrian soldiers possessed and filled the land.",
+     "anchor": "The highways lie waste, the wayfaring man ceaseth"
+    },
+    {
+     "id": "poole/ISA.33.8#p2-ea8d0f40",
+     "text": "Sennacherib broke his faith, given to Hezekiah, of departing for a sum of money, 2Ki 18:14,17.",
+     "anchor": "He hath broken the covenant",
+     "refs": [
+      {
+       "text": "2Ki 18:14",
+       "ref": "2KI.18.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.8#p3-8677de3a",
+     "text": "the defenced cities of Judah, which he contemned and easily took, 2Ki 18:13.",
+     "anchor": "He hath despised the cities",
+     "refs": [
+      {
+       "text": "2Ki 18:13",
+       "ref": "2KI.18.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.8#p4-12039994",
+     "text": "either to spare them, or to fear them, or to keep faith with them. He neither feareth God, nor reverenceth man.",
+     "anchor": "He regardeth no man"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.9",
+   "range": "ISA.33.9",
+   "kind": "passage",
+   "hash": "9b4473c5",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.9#p1-0e0589a6",
+     "text": "being desolate and neglected.",
+     "anchor": "The earth mourneth"
+    },
+    {
+     "id": "poole/ISA.33.9#p2-4e31ed80",
+     "text": "by the Assyrians. Or, as the word signifies, and is here rendered by others, withereth or languisheth, because its trees are not now used by the Jews for their buildings, as they have been; and because they are spoiled and destroyed by the Assyrians.",
+     "anchor": "Lebanon is ashamed and hewn down"
+    },
+    {
+     "id": "poole/ISA.33.9#p3-1d60fc34",
+     "text": "a pleasant and fruitful place, as appears from 1Ch 27:29 Son 2:1 Isa 35:2.",
+     "anchor": "Sharon",
+     "refs": [
+      {
+       "text": "1Ch 27:29",
+       "ref": "1CH.27.29"
+      },
+      {
+       "text": "Son 2:1",
+       "ref": "SNG.2.1"
+      },
+      {
+       "text": "Isa 35:2",
+       "ref": "ISA.35.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.9#p4-16458df9",
+     "text": "two places eminent for fertility, and especially for good pastures, Deu 32:14 1Sa 25:2, which are here synecdochically put for all such places.",
+     "anchor": "Bashan and Carmel",
+     "refs": [
+      {
+       "text": "Deu 32:14",
+       "ref": "DEU.32.14"
+      },
+      {
+       "text": "1Sa 25:2",
+       "ref": "1SA.25.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.9#p5-d06cebd3",
+     "text": "are spoiled of their fruits. Or, as it is rendered by some others, yell or roar, as this word is rendered Jer 51:38.",
+     "anchor": "Shake off their fruits",
+     "refs": [
+      {
+       "text": "Jer 51:38",
+       "ref": "JER.51.38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.10",
+   "range": "ISA.33.10",
+   "kind": "passage",
+   "hash": "3d52cfa1",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.10#p1-3d52cfa1",
+     "text": "In this extremity, I will appear on the behalf of my people and land."
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.11",
+   "range": "ISA.33.11",
+   "kind": "passage",
+   "hash": "f1a9fe6a",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.11#p1-d2e7af84",
+     "text": "instead of solid corn. Your great hopes and designs, O ye Assyrians! shall be utterly disappointed.",
+     "anchor": "Ye shall conceive chaff, ye shall bring forth stubble"
+    },
+    {
+     "id": "poole/ISA.33.11#p2-a896571d",
+     "text": "your rage against my people shall bring ruin upon yourselves.",
+     "anchor": "Your breath, as fire, shall devour you"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.12",
+   "range": "ISA.33.12",
+   "kind": "passage",
+   "hash": "e227aa4b",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.12#p1-e227aa4b",
+     "text": "shall be burnt as easily and effectually as chalk is burned to make lime.",
+     "anchor": "Shall be as the burnings of lime"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.13",
+   "range": "ISA.33.13",
+   "kind": "passage",
+   "hash": "91f00152",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.13#p1-91f00152",
+     "text": "My power and justice in destroying the Assyrians shall be so evident, that people, both far and near, shall be forced to acknowledge it."
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.14",
+   "range": "ISA.33.14",
+   "kind": "passage",
+   "hash": "1b02fd01",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.14#p1-478e307f",
+     "text": "this is spoken, not of the Assyrians, as some would have it, but of the Jews, as appears both from the words themselves, and from the following verses.",
+     "anchor": "The sinners in Zion are afraid"
+    },
+    {
+     "id": "poole/ISA.33.14#p2-5cb5f484",
+     "text": "The prophet having foretold the deliverance of God’s people, and the destruction of their enemies, Isa 33:10-12, for the greater illustration of that wonderful mercy, here returns to the description, and gives a lively representation of the dismal and frightful condition in which the Jews, especially such of them as were ungodly and unbelieving, were before this deliverance came. Although the godly Jews were, in some measure, supported by the sense of God’s favour, and by God’s promises delivered to them by Isaiah; yet the generality of the people were filled with horrors, and expectation of utter destruction.",
+     "refs": [
+      {
+       "text": "Isa 33:10-12",
+       "ref": "ISA.33.10-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.14#p3-25f91375",
+     "text": "Who amongst us shall dwell with everlasting burnings? how shall we be able to abide the presence, and endure or avoid the wrath, of that God, who is a consuming fire; who is now about to destroy us utterly by the Assyrians, and will afterwards burn us with unquenchable fire? For seeing it is sufficiently evident, from both Old and New, Testament, as hath been formerly observed and proved, that the Jews, except the Sadducees, did generally believe the rewards and punishments of the future live and these temporal judgments, as they did frequently cut men off from this life, so they transmitted them into that future and endless life; it is not strange if their guilty consciences made them dread both the present judgment here, and the terrible consequences of it hereafter."
+    },
+    {
+     "id": "poole/ISA.33.14#p4-edf534d6",
+     "text": "Heb. who shall dwell for us, &c., i.e. in our stead? who will interpose himself between God’s anger and us? How shall we escape these miseries? That this is the sense of this question may be gathered from the answer given to it in the following verse; in which he directs them to the right course of removing God’s wrath, and regaining his favour."
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.15",
+   "range": "ISA.33.15",
+   "kind": "passage",
+   "hash": "35adaa3f",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.15#p1-9d6ada40",
+     "text": "who is just in all his dealings with men, of which the following clauses explain it: which is not spoken exclusively, as if piety towards God were not as necessary as righteousness towards men; but comprehensively, this being one evidence and a constant companion of piety.",
+     "anchor": "He that walketh righteously"
+    },
+    {
+     "id": "poole/ISA.33.15#p2-b9370ecf",
+     "text": "who speaks truly and sincerely, what he really intends.",
+     "anchor": "Speaketh uprightly"
+    },
+    {
+     "id": "poole/ISA.33.15#p3-9417102c",
+     "text": "that refuseth it, not for politic reasons, as men sometimes may do, but from a contempt and abhorrency of injustice.",
+     "anchor": "That despiseth"
+    },
+    {
+     "id": "poole/ISA.33.15#p4-9a4a61ea",
+     "text": "or, from taking or receiving; as this verb signifies, Pro 4:4 5:5 28:17. That will not receive, much less retain, bribes.",
+     "anchor": "From holding",
+     "refs": [
+      {
+       "text": "Pro 4:4",
+       "ref": "PRO.4.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.15#p5-a5c8f076",
+     "text": "who will not hearken or assent to any counsels or courses tending to shed innocent blood.",
+     "anchor": "That stoppeth his ears from hearing of blood"
+    },
+    {
+     "id": "poole/ISA.33.15#p6-0ed7ea5c",
+     "text": "that abhorreth the very sight of sill committed by others, and guardeth his eyes from beholding occasions of sin; of which see on Job 31:1.",
+     "anchor": "And shutteth his eyes from seeing evil",
+     "refs": [
+      {
+       "text": "Job 31:1",
+       "ref": "JOB.31.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.16",
+   "range": "ISA.33.16",
+   "kind": "passage",
+   "hash": "b68a9b59",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.16#p1-c4baa088",
+     "text": "out of the reach of danger.",
+     "anchor": "He shall dwell on high"
+    },
+    {
+     "id": "poole/ISA.33.16#p2-387e64e6",
+     "text": "God will furnish him with all necessaries.",
+     "anchor": "Bread shall be given him, his waters shall be sure"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.17",
+   "range": "ISA.33.17",
+   "kind": "passage",
+   "hash": "61d4f285",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.17#p1-51630b0a",
+     "text": "first Hezekiah, and then Christ, as before.",
+     "anchor": "Shall see the king"
+    },
+    {
+     "id": "poole/ISA.33.17#p2-9d1500c2",
+     "text": "triumphing over all enemies, and ruling his own people with righteousness; in which two things the beauty and glory of a king and kingdom doth chiefly consist.",
+     "anchor": "In his beauty"
+    },
+    {
+     "id": "poole/ISA.33.17#p3-9f3daa70",
+     "text": "thou shalt not be shut up in Jerusalem, and confined to thine own narrow borders, as thou hast been; but thou shalt have free liberty to go abroad with honour and safety, where thou pleasest, even into the remotest countries, because of the great renown of thy king, and the enlargement of his dominions.",
+     "anchor": "They shall behold the land that is very far off"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.18",
+   "range": "ISA.33.18",
+   "kind": "passage",
+   "hash": "bf62fdb8",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.18#p1-a0e9fad7",
+     "text": "this is either,",
+     "anchor": "Thine heart shall meditate terror"
+    },
+    {
+     "id": "poole/ISA.33.18#p2-4fc5ffd3",
+     "text": "1. A premonition concerning a future judgment, as if he said, Before these glorious promises shall be accomplished, thou shalt be brought into great straits and troubles. Or rather,"
+    },
+    {
+     "id": "poole/ISA.33.18#p3-403bea1c",
+     "text": "2. A thankful acknowledgment of deliverance from a former danger; as if he had said, When thou art delivered, thou shalt, with pleasure and thankfulness, recall to mind thy former terrors and miseries."
+    },
+    {
+     "id": "poole/ISA.33.18#p4-1697186f",
+     "text": "& c.? these words are either,",
+     "anchor": "Where is the scribe"
+    },
+    {
+     "id": "poole/ISA.33.18#p5-8b67cf03",
+     "text": "1. Words of gratulation, and insultation over the enemy. Thou shalt then say, Where are the great officers of the Assyrian host? They are no where, they are not, they are dealt or slain. Or rather,"
+    },
+    {
+     "id": "poole/ISA.33.18#p6-26ab9802",
+     "text": "2. The words of men dismayed and confounded, such as proceeded from the Jews in the time of their distress, and are here remembered to aggravate the present mercy. For the officers here mentioned seem not to be those of the Assyrian army, who were actually fighting against the Jews and Jerusalem, (for then he would rather have mentioned the captains of the host, as the Scripture commonly doth in these cases, than the scribes and receivers, &c.,) but rather of the Jews in Jerusalem who, upon the approach of Sennacherib, began to make military preparations for the defence of the city, and to choose such officers as were necessary and usual for that end; such as these were, to wit,"
+    },
+    {
+     "id": "poole/ISA.33.18#p7-6cabe862",
+     "text": "whom we call muster-master, who was to make and keep a list of the soldiers, and to call them together, as occasion required.",
+     "anchor": "the scribe"
+    },
+    {
+     "id": "poole/ISA.33.18#p8-c57af574",
+     "text": "who received and laid out the money for the charges of the war; and he",
+     "anchor": "The receiver"
+    },
+    {
+     "id": "poole/ISA.33.18#p9-d3180f6e",
+     "text": "who surveyed all the parts of the city, and considered what towers or fortifications were to be made or repaired for the security of the city. And unto these several officers the people resorted, with great distraction and confusion, to acquaint them with all occurrences, or to quicken them to their several works, or to transact matters with them, as occasion required.",
+     "anchor": "that counted the towers"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.19",
+   "range": "ISA.33.19",
+   "kind": "passage",
+   "hash": "9fa5cc43",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.19#p1-9715d9f3",
+     "text": "as Moses said of the Egyptians, Exo 14:13, so I say of the Assyrians, that fierce and warlike people, whom thou-hast seen, with great terror, near the walls of Jerusalem, Thou shalt see them again no more.",
+     "anchor": "Thou shalt not see a fierce people",
+     "refs": [
+      {
+       "text": "Exo 14:13",
+       "ref": "EXO.14.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.19#p2-f85cde62",
+     "text": "a foreign nation, whose language is abstruse and unknown to thee.",
+     "anchor": "A people of a deeper speech than thou canst perceive"
+    },
+    {
+     "id": "poole/ISA.33.19#p3-04220091",
+     "text": "of which see on Isa 28:11.",
+     "anchor": "Of a stammering tongue",
+     "refs": [
+      {
+       "text": "Isa 28:11",
+       "ref": "ISA.28.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.20",
+   "range": "ISA.33.20",
+   "kind": "passage",
+   "hash": "e20ff0d9",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.20#p1-d2783930",
+     "text": "contemplate Zion’s beauty and safety, and her glorious and peculiar privileges; it is an object worthy of thy deepest meditation.",
+     "anchor": "Look upon Zion"
+    },
+    {
+     "id": "poole/ISA.33.20#p2-da76929a",
+     "text": "this he mentions, as the chief part of Zion’s glory and happiness, that God was solemnly worshipped, and the solemn assemblies and feasts kept in her. A quiet habitation, &c.; which was but very obscurely and imperfectly fulfilled in the literal Zion; but was clearly and fully accomplished in the mystical Zion, the church of God in the times of the gospel, against which, we are assured, that the gates of hell shall not prevail, Mat 16:18.",
+     "anchor": "The city of our solemnities",
+     "refs": [
+      {
+       "text": "Mat 16:18",
+       "ref": "MAT.16.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.21",
+   "range": "ISA.33.21",
+   "kind": "passage",
+   "hash": "8d8e113d",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.21#p1-1dba8137",
+     "text": "in and about Zion,",
+     "anchor": "There"
+    },
+    {
+     "id": "poole/ISA.33.21#p2-bed35e03",
+     "text": "though we have nothing but a small and contemptible brook to defend us; yet God will be as sure and strong a defence to us, as if we were surrounded with such great rivers as Nilus or Euphrates, which were a great security to Egypt and Babylon.",
+     "anchor": "the glorious Lord will be unto us a place of broad rivers and streams"
+    },
+    {
+     "id": "poole/ISA.33.21#p3-8b1b1d05",
+     "text": "but although they shall have from God the security of a great river, yet they shall be freed from the disadvantage of it; which is, that the enemies may come against them in ships; for no galleys nor ships of the enemy’s shall be able to come into this river to annoy them.",
+     "anchor": "Wherein shall go no galley with oars, neither shall gallant ship pass thereby"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.22",
+   "range": "ISA.33.22",
+   "kind": "passage",
+   "hash": "8d567691",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.22#p1-062f3944",
+     "text": "to judge for us, to plead our cause against our enemies, as the ancient judges of Israel did, Jud 2 16.",
+     "anchor": "The Lord is our Judge"
+    },
+    {
+     "id": "poole/ISA.33.22#p2-310bcf71",
+     "text": "our chief Governor, to whom it. belongs to give laws, and to defend his people.",
+     "anchor": "Our Lawgiver"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.23",
+   "range": "ISA.33.23",
+   "kind": "passage",
+   "hash": "04078bf9",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.23#p1-57936909",
+     "text": "he directeth his speech to the Assyrians; and having tacitly designed their army under the notion of a gallant ship, Isa 33:21, he here represents their broken and undone condition by the metaphor of a ship tossed in a tempestuous sea, having her cables broken, and all her tacklings loose, and out of order, so as she could have no benefit of her masts and sails; and therefore is quickly broken or swallowed up by the sea.",
+     "anchor": "Thy tacklings are loosed",
+     "refs": [
+      {
+       "text": "Isa 33:21",
+       "ref": "ISA.33.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ISA.33.23#p2-1f9dbf28",
+     "text": "the Assyrians, of whom he still speaks, as in the first clause he spake to them.",
+     "anchor": "They"
+    },
+    {
+     "id": "poole/ISA.33.23#p3-136ddd6f",
+     "text": "they who came to spoil and prey upon my people shall become a prey to them, and shall be forced to flee away so suddenly, that they shall leave so many spoils behind them, that when strong and active men have carried away all that they desired, there shall be enough left for the lame, who come last to the spoil. The general sense of the place is, that God’s people shall be victorious over all their enemies.",
+     "anchor": "Then is the prey of a great spoil divided; the lame take the prey"
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.33.24",
+   "range": "ISA.33.24",
+   "kind": "passage",
+   "hash": "c533d62b",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.33.24#p1-1a63b133",
+     "text": "to wit, of Jerusalem, God’s people,",
+     "anchor": "The inhabitant"
+    },
+    {
+     "id": "poole/ISA.33.24#p2-ffc05143",
+     "text": "shall have no cause to complain of any sickness or calamity; shall be fully delivered from all their enemies and evil occurrents; shall enjoy perfect tranquillity and prosperity. The people that dwell therein shall be forgiven their iniquity: this may be added, either,",
+     "anchor": "shall not say, I am sick"
+    },
+    {
+     "id": "poole/ISA.33.24#p3-4d74fb72",
+     "text": "1. As the reason of the foregoing privilege. Their sins, the main causes of all their distresses, shall be pardoned; and therefore their sufferings, the effects of sin, shall cease. Or,"
+    },
+    {
+     "id": "poole/ISA.33.24#p4-f073f1a3",
+     "text": "2. As an additional favour. They shall not only receive from me a glorious temporal deliverance; but, which is infinitely better, the pardon of all their sins, and all those spiritual and everlasting blessings which attend upon that mercy."
+    }
+   ]
+  }
+ ]
+}

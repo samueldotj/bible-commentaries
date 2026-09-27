@@ -1,0 +1,1189 @@
+{
+ "source": "poole",
+ "book": "REV",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "poole/REV.2",
+   "range": "REV.2",
+   "kind": "chapter",
+   "hash": "e679df7c",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2#p1-7b30a35c",
+     "text": "Rev 2:1-7 What John was commanded to write in commendation or reproof to the angels of the churches of Ephesus,",
+     "refs": [
+      {
+       "text": "Rev 2:1-7",
+       "ref": "REV.2.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2#p2-1cb935cf",
+     "text": "Rev 2:8-11 Smyrna,",
+     "refs": [
+      {
+       "text": "Rev 2:8-11",
+       "ref": "REV.2.8-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2#p3-454b6cb4",
+     "text": "Rev 2:12-17 Pergamos,",
+     "refs": [
+      {
+       "text": "Rev 2:12-17",
+       "ref": "REV.2.12-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2#p4-0aeafd55",
+     "text": "Rev 2:18-29 Thyatira.",
+     "refs": [
+      {
+       "text": "Rev 2:18-29",
+       "ref": "REV.2.18-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.1",
+   "range": "REV.2.1",
+   "kind": "passage",
+   "hash": "82298ea4",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.1#p1-1a35655b",
+     "text": "Chapter Introduction"
+    },
+    {
+     "id": "poole/REV.2.1#p2-d25146c6",
+     "text": "Some things are to be observed of all the epistles, before we come to the particular epistles."
+    },
+    {
+     "id": "poole/REV.2.1#p3-00e2bc48",
+     "text": "1. God’s writing in this form, (as a man to his friend), speaks Christ’s love to the church, his spouse."
+    },
+    {
+     "id": "poole/REV.2.1#p4-735f314d",
+     "text": "2. There were not seven books written, but one book in which these seven epistles were, out of which each church, or the church in its several periods, might learn what concerned it."
+    },
+    {
+     "id": "poole/REV.2.1#p5-1c8cc2e5",
+     "text": "3. These epistles concerning matters of faith and manners, are written plainly, not in mysterious expressions."
+    },
+    {
+     "id": "poole/REV.2.1#p6-92f10d87",
+     "text": "4. The scope of them all is to instruct, reprove, commend, and comfort."
+    },
+    {
+     "id": "poole/REV.2.1#p7-44c2f1fd",
+     "text": "5. They are all directed to the ministers of the churches, as their heads, but the matter concerns the whole church."
+    },
+    {
+     "id": "poole/REV.2.1#p8-abde89a8",
+     "text": "6. It is also observed, that Christ, in the beginning of every epistle, notifieth himself by some one of those things mentioned in the vision in the former chapter."
+    },
+    {
+     "id": "poole/REV.2.1#p9-799ed6bc",
+     "text": "Rev 2:1,",
+     "refs": [
+      {
+       "text": "Rev 2:1",
+       "ref": "REV.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.1#p10-368ec166",
+     "text": "Rev 1:16 Rev 2:8, The first and the last, which was dead and is alive, Rev 1:17,18 Re 2:12. These things saith he which hath the sharp sword with two edges, Rev 1:16 Rev 2:18, The Son of God, who hath his eyes like unto a flame of fire, and his feet like fine brass, Rev 1:14,15 Re 3:1. He that hath the seven Spirits of God, and the seven stars, Rev 1:4,16 Re 2:7, He that hath the key of David, that is holy and true, that openeth, & c., Rev 1:5,18 Re 2:14, The faithful and true witness, Rev 1:5.",
+     "anchor": "These things saith he that holdeth the seven stars",
+     "refs": [
+      {
+       "text": "Rev 1:16",
+       "ref": "REV.1.16"
+      },
+      {
+       "text": "Rev 2:8",
+       "ref": "REV.2.8"
+      },
+      {
+       "text": "Rev 1:17",
+       "ref": "REV.1.17"
+      },
+      {
+       "text": "Rev 1:16",
+       "ref": "REV.1.16"
+      },
+      {
+       "text": "Rev 2:18",
+       "ref": "REV.2.18"
+      },
+      {
+       "text": "Rev 1:14",
+       "ref": "REV.1.14"
+      },
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      },
+      {
+       "text": "Rev 1:5",
+       "ref": "REV.1.5"
+      },
+      {
+       "text": "Rev 1:5",
+       "ref": "REV.1.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.1#p11-3a805468",
+     "text": "was the principal city of Asia the Less, it lay in the western parts of it, upon the Ionian Sea; a city of great riches and trade, but much given to idolatry and superstition, famous for the temple of Diana. Paul was there twice; at his second coming he stayed thereabouts three years, Act 18:1-20:38. He was by a tumult driven thence into Macedonia, and left Timothy there, 1Ti 1:3. It appears from Act 20:17, that there were more ministers there than one; but they were all angels, and from the oneness of their business are all called an angel.",
+     "anchor": "Ephesus",
+     "refs": [
+      {
+       "text": "Act 18:1-20",
+       "ref": "ACT.18.1-20"
+      },
+      {
+       "text": "1Ti 1:3",
+       "ref": "1TI.1.3"
+      },
+      {
+       "text": "Act 20:17",
+       "ref": "ACT.20.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.1#p12-03dc26ff",
+     "text": "that is, Christ, Rev 1:16,20, who hath put an honour on his ministers, showeth special favour to them, and will protect them.",
+     "anchor": "These things saith he that holdeth the seven stars in his right hand",
+     "refs": [
+      {
+       "text": "Rev 1:16",
+       "ref": "REV.1.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.1#p13-30588eb6",
+     "text": "who hath a special eye to his church, being not an idle spectator, but present with his church, to observe how all in it walk and perform their several parts, and is at hand, either to reward or punish them.",
+     "anchor": "Who walketh in the midst of the seven golden candlesticks"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.2",
+   "range": "REV.2.2",
+   "kind": "passage",
+   "hash": "408166a3",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.2#p1-44c7b0e5",
+     "text": "these words being in the front of all the seven epistles, cannot be interpreted as signifying a knowledge of approbation, as Psa 1:6, but of a comprehension in the understanding, and as signifying Christ’s omnisciency; though it be true, that the Lord both understood and approved of some of the works of this church particularly.",
+     "anchor": "I know thy works",
+     "refs": [
+      {
+       "text": "Psa 1:6",
+       "ref": "PSA.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.2#p2-2871556f",
+     "text": "their labour in propagating the knowledge of Christ and doctrine of the gospel, and their patient taking up and bearing the cross.",
+     "anchor": "And thy labour, and thy patience"
+    },
+    {
+     "id": "poole/REV.2.2#p3-1b2a07c1",
+     "text": "and their zeal and warmth, that they would not endure either persons erroneous in judgment, or lewd in their lives, in their communion.",
+     "anchor": "And how thou canst not bear them which are evil"
+    },
+    {
+     "id": "poole/REV.2.2#p4-54936fcc",
+     "text": "in the primitive church there were some that falsely pretended an immediate call or mission from Christ, to preach what they did, but this church would not endure them. It appears from Paul’s Second Epistle to Timothy, that there were then false teachers very busy in that church; possibly Ebion and Cerinthus, (who both lived in this time, and Cerinthus preached in Asia), or their disciples, might be some of them. They tried them, possibly, by the word of God, according to the rules given in it to try the spirits.",
+     "anchor": "And thou hast tried them which say they are apostles, and are not"
+    },
+    {
+     "id": "poole/REV.2.2#p5-cb0b050d",
+     "text": "and found that they had no such immediate mission, no authority from Christ.",
+     "anchor": "And hast found them liars"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.3",
+   "range": "REV.2.3",
+   "kind": "passage",
+   "hash": "372b5585",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.3#p1-480c1239",
+     "text": "the contradiction of false teachers, and the persecutions of Jews and pagans; for at this time the second persecution was began by Domitian.",
+     "anchor": "And hast borne"
+    },
+    {
+     "id": "poole/REV.2.3#p2-14b42527",
+     "text": "grace (with quietness and submission) to bear the will of God in any sort of evils.",
+     "anchor": "And hast patience"
+    },
+    {
+     "id": "poole/REV.2.3#p3-e11b363b",
+     "text": "and for me hast laboured actively in propagating the truths of my gospel, as well as passively in the furnace of trials and persecutions.",
+     "anchor": "And for my name’s sake hast laboured"
+    },
+    {
+     "id": "poole/REV.2.3#p4-608ed6e5",
+     "text": "and hast persevered so as thou hast neither been seduced to other doctrine by false teachers, nor lost thy integrity and holiness of conversation.",
+     "anchor": "And hast not fainted"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.4",
+   "range": "REV.2.4",
+   "kind": "passage",
+   "hash": "96fa5c89",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.4#p1-0d1cc0cc",
+     "text": "something to accuse thee of, and blame thee for.",
+     "anchor": "Nevertheless I have somewhat against thee"
+    },
+    {
+     "id": "poole/REV.2.4#p2-3fa2a161",
+     "text": "of late thou hast not been so warm in the propagation of my gospel, and maintaining my truth. The love of many in this church, both toward God and their brethren, probably was cooled, though not wholly extinguished.",
+     "anchor": "Because thou hast left thy first love"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.5",
+   "range": "REV.2.5",
+   "kind": "passage",
+   "hash": "d1e934e7",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.5#p1-fd0bebaa",
+     "text": "that is, in what degree thy love was formerly, and compare it with what it is now.",
+     "anchor": "Remember therefore from whence thou art fallen"
+    },
+    {
+     "id": "poole/REV.2.5#p2-9717c580",
+     "text": "repentance in man, signifieth both the change of the heart and of the actions.",
+     "anchor": "And repent"
+    },
+    {
+     "id": "poole/REV.2.5#p3-081b42a2",
+     "text": "recover thy former warmth of love, and zeal for good works.",
+     "anchor": "And do the first works"
+    },
+    {
+     "id": "poole/REV.2.5#p4-322e209e",
+     "text": "if thou do not, I that know thee, and walk in the midst of thee, will show myself an enemy to thee.",
+     "anchor": "Or else I will come unto thee quickly"
+    },
+    {
+     "id": "poole/REV.2.5#p5-7f74d54e",
+     "text": "and unchurch thee, and say unto thee, Lo-ammi, You are not my people. Which threatening is long since made good; for where is now the famous church of Ephesus?",
+     "anchor": "And will remove thy candlestick out of his place"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.6",
+   "range": "REV.2.6",
+   "kind": "passage",
+   "hash": "9aa0b314",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.6#p1-b2aac982",
+     "text": "thou hast yet thus much to commend thee.",
+     "anchor": "But this thou hast"
+    },
+    {
+     "id": "poole/REV.2.6#p2-47d1e606",
+     "text": "thou hatest the deeds of those who teach the lawfulness of a common use of wives, and eat things offered to idols; for these, they say, were the tenets of the Nicolaitanes, so called from one Nicholas; but whether he were one of the first deacons, named Act 6:5, (who, they say, to avoid the imputation of jealousy, brought forth his wife, being a beautiful woman, and prostituted her), or from some other of that name, I cannot determine.",
+     "anchor": "That thou hatest the deeds of the Nicolaitanes",
+     "refs": [
+      {
+       "text": "Act 6:5",
+       "ref": "ACT.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.6#p3-0721eb71",
+     "text": "God, as a lover of his own order, and of human society, hateth such doctrines and practices as are contrary to the rule of his word, and tend to the confusion of human societies.",
+     "anchor": "Which I also hate"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.7",
+   "range": "REV.2.7",
+   "kind": "passage",
+   "hash": "68adab41",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.7#p1-3906de1a",
+     "text": "to whom God hath given an ability and power to understand what I say. It is a form of speech which Christ often used, when he would quicken up people’s attention, Mat 11:15 13:9,43 Mr 4:9,23 7:16: we shall find it again in these two chapters six times; from which some would conclude, that in these epistles there is something mysterious, parabolical, and prophetical, it being a form of speech prefixed to many parables.",
+     "anchor": "He that hath an ear, let him hear",
+     "refs": [
+      {
+       "text": "Mat 11:15",
+       "ref": "MAT.11.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.7#p2-991a4c03",
+     "text": "the Holy Spirit of God, from whose inspiration all Scripture is.",
+     "anchor": "What the Spirit saith"
+    },
+    {
+     "id": "poole/REV.2.7#p3-bd3f68cf",
+     "text": "not only at Ephesus, but elsewhere in Asia, or any other part of the world.",
+     "anchor": "Unto the churches"
+    },
+    {
+     "id": "poole/REV.2.7#p4-db35520a",
+     "text": "that is, a conqueror in fighting the good fight of faith, against the world, the flesh, and the devil.",
+     "anchor": "To him that overcometh"
+    },
+    {
+     "id": "poole/REV.2.7#p5-98a9e8e8",
+     "text": "I will give him a share in my merits, and eternal life; which blessed enjoyments are set out unto us under the notion of eating, Luk 12:37 22:28, &c.; Joh 10:28.",
+     "anchor": "Will I give to eat of the tree of life",
+     "refs": [
+      {
+       "text": "Luk 12:37",
+       "ref": "LUK.12.37"
+      },
+      {
+       "text": "Joh 10:28",
+       "ref": "JHN.10.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.7#p6-c50971fd",
+     "text": "1Jn 2:25. Heaven is expressed to us under this notion, with reference to the tree of life, mentioned Gen 2:9, which was in the old Paradise; for it is added,",
+     "anchor": "This is the promise that he hath promised us",
+     "refs": [
+      {
+       "text": "1Jn 2:25",
+       "ref": "1JN.2.25"
+      },
+      {
+       "text": "Gen 2:9",
+       "ref": "GEN.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.7#p7-aec150fa",
+     "text": "or, which is the same, Christ himself is here intended, who is the free of life, mentioned Rev 22:2; and the happiness of heaven is thus expressed, 1Th 4:17, We shall be ever with the Lord. This is the sum of the epistle to the first mentioned church, by which those that judge these epistles prophetical, understand all the primitive churches during the apostles’ age, or the most of their ages, for John himself lived under the second persecution.",
+     "anchor": "which is in the midst of the paradise of God",
+     "refs": [
+      {
+       "text": "Rev 22:2",
+       "ref": "REV.22.2"
+      },
+      {
+       "text": "1Th 4:17",
+       "ref": "1TH.4.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.8",
+   "range": "REV.2.8",
+   "kind": "passage",
+   "hash": "11fdf324",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.8#p1-58115694",
+     "text": "was a city in Ionia; we read not when, or by whom, the gospel was first planted and a church gathered there; nor can we tell who are meant by",
+     "anchor": "Smyrna"
+    },
+    {
+     "id": "poole/REV.2.8#p2-e5f93d1f",
+     "text": "of this church: see Rev 1:20. That it was no single person is probable, for he speaks plurally, Rev 2:10, the devil shall cast some of you, εξ υμων, into prison.",
+     "anchor": "the angel",
+     "refs": [
+      {
+       "text": "Rev 1:20",
+       "ref": "REV.1.20"
+      },
+      {
+       "text": "Rev 2:10",
+       "ref": "REV.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.8#p3-6d9bb0e6",
+     "text": "for the meaning of this phrase, see annotations on Rev 1:8,17,18; only it is observable how Christ, speaking to this church under great tribulation and persecution, fits a name proper to comfort them; for he himself was dead, and yet now alive, and he living, those that believe in him, because he lives, shall live also, Joh 14:19; and as he was the first, so he will be the last, surviving all his enemies, and be at last a conqueror over them.",
+     "anchor": "These things saith the first and the last, which was dead, and is alive",
+     "refs": [
+      {
+       "text": "Rev 1:8",
+       "ref": "REV.1.8"
+      },
+      {
+       "text": "Joh 14:19",
+       "ref": "JHN.14.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.9",
+   "range": "REV.2.9",
+   "kind": "passage",
+   "hash": "1ae90275",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.9#p1-c5a7719b",
+     "text": "though the term know doth not necessarily signify approbation, yet, both as to the church of Ephesus and Smyrna, the particular works mentioned assure us, that God approved their patient suffering affliction for his name.",
+     "anchor": "I know thy works, and tribulation"
+    },
+    {
+     "id": "poole/REV.2.9#p2-ca95bdc0",
+     "text": "and the poor condition (as to outward things) into which they had brought themselves, for their owning and profession of the gospel of Christ, having their estates rent from them, &c.",
+     "anchor": "And poverty"
+    },
+    {
+     "id": "poole/REV.2.9#p3-5bb3adc9",
+     "text": "but yet they were rich, both really in the love and favour of God, and also in the esteem of God, who accounteth them rich who abound in spiritual habits, and good works, the exercise of those habits.",
+     "anchor": "But thou art rich"
+    },
+    {
+     "id": "poole/REV.2.9#p4-7df2f962",
+     "text": "God also knows the evil speeches of his church’s enemies, whether native Jews, glorying in circumcision and the law, and that they were descended from Abraham; or false Christians, who may be here meant (called Jews by a figure; the Jews being once the only church of God).",
+     "anchor": "And I know the blasphemy of them which say they are Jews, and are not"
+    },
+    {
+     "id": "poole/REV.2.9#p5-bf1d2144",
+     "text": "but are indeed a collection of devils, or the children of the devil, whose works they do, continually reviling true Christians, and murdering the saints, after the manner of their father, who was a murderer from the beginning.",
+     "anchor": "But are the synagogue of Satan"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.10",
+   "range": "REV.2.10",
+   "kind": "passage",
+   "hash": "8586b3c8",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.10#p1-15e27de6",
+     "text": "thou art like to suffer yet sharper things than thou hast suffered, the persecutions are but begun; but pluck up a good courage, fear not your enemies, Mat 10:28.",
+     "anchor": "Fear none of those things which thou shalt suffer",
+     "refs": [
+      {
+       "text": "Mat 10:28",
+       "ref": "MAT.10.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.10#p2-201ae68a",
+     "text": "you shall be cast into prison, by Jews and pagans, who are the devil’s instruments, and execute his malice against you; which should both encourage you, that your fight is with the common enemy of mankind, and teach you to pity and pray for your persecutors, who are but the devil’s instruments, whose hearts he hath filled with malice against you.",
+     "anchor": "Behold, the devil shall cast some of you into prison"
+    },
+    {
+     "id": "poole/REV.2.10#p3-7babf48a",
+     "text": "that your faith, love, patience, obedience, may be tried.",
+     "anchor": "That ye may be tried"
+    },
+    {
+     "id": "poole/REV.2.10#p4-901c4599",
+     "text": "interpreters are divided about these ten days, what space of time is meant by them; some think the whole time of the ten persecutions, but they lasted above two hundred years; others will have them the ten years of Trajan’s persecution, from the year 99 to 109. Others observe, that in ten days are two hundred and forty hours, which make up the number of years from 85, when the second persecution began, (under which John at this time was), to 325, when all the persecutions ceased. But to let these fancies go: it is either a certain number put for an uncertain; or, it signifies many days; as in Gen 31:42, Thou hast changed my wages ten times, that is, many times; so 2Sa 19:43 Job 19:3. Or else it signifies a little time, as in Gen 24:55 Amo 5:3 6:9. If we understand this epistle as only concerning the church of Smyrna at that time, it may signify a small time. If we understand it prophetically, describing the state of all churches, till the pagan persecution ceased, (which was more than two hundred and forty years), ten days signifies a long time.",
+     "anchor": "And ye shall have tribulation ten days",
+     "refs": [
+      {
+       "text": "Gen 31:42",
+       "ref": "GEN.31.42"
+      },
+      {
+       "text": "2Sa 19:43",
+       "ref": "2SA.19.43"
+      },
+      {
+       "text": "Job 19:3",
+       "ref": "JOB.19.3"
+      },
+      {
+       "text": "Gen 24:55",
+       "ref": "GEN.24.55"
+      },
+      {
+       "text": "Amo 5:3",
+       "ref": "AMO.5.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.10#p5-12ab9871",
+     "text": "hold fast to thy profession of faith and holiness to the end of thy life here,",
+     "anchor": "Be thou faithful unto death"
+    },
+    {
+     "id": "poole/REV.2.10#p6-e024aa71",
+     "text": "and I will give thee eternal life and salvation, which shall be a great reward. It is called a crown of righteousness, 2Ti 4:8.",
+     "anchor": "and I will give thee a crown of life",
+     "refs": [
+      {
+       "text": "2Ti 4:8",
+       "ref": "2TI.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.11",
+   "range": "REV.2.11",
+   "kind": "passage",
+   "hash": "d7eabf5e",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.11#p1-75ffcf05",
+     "text": "He that overcometh: for the opening of these passages: See Poole on \"Rev 2:7\".",
+     "anchor": "He that hath an ear, let him hear what the Spirit saith unto the churches",
+     "refs": [
+      {
+       "text": "Rev 2:7",
+       "ref": "REV.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.11#p2-01b963d6",
+     "text": "we read of the second death, Rev 20:6,14: the meaning is, that he shall escape the eternal damnation of soul and body in the day of judgment.",
+     "anchor": "Shall not be hurt of the second death",
+     "refs": [
+      {
+       "text": "Rev 20:6",
+       "ref": "REV.20.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.11#p3-4491eb50",
+     "text": "Those that make these epistles prophetical say, that the church of Smyrna was a type of all the churches of Christ to the year 325, (when Constantine overcame Lycinius, and gave rest and peace to the churches of Christ), which was all a time of severe persecution under the Roman emperors, who to that time were all heathens. It is very observable, that Christ blameth nothing in this church; the church of God keeps always its purity best in the fire; but doubtless there were in this time many apostacies, and other errors, but God allows much to his people’s temptations; hence, though Job showed much impatience, yet we are called to behold him as a pattern of patience."
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.12",
+   "range": "REV.2.12",
+   "kind": "passage",
+   "hash": "c8a0b1cf",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.12#p1-35da8b5c",
+     "text": "was a famous city of Troas; we read of Pergamos no where else in Scripture, but of Troas we read of Paul’s being there, Act 16:8,11 20:5,6, and preaching Christ there, 2Co 2:12.",
+     "anchor": "Pergamos",
+     "refs": [
+      {
+       "text": "Act 16:8",
+       "ref": "ACT.16.8"
+      },
+      {
+       "text": "2Co 2:12",
+       "ref": "2CO.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.12#p2-7db467fb",
+     "text": "see the notes on Rev 1:16.",
+     "anchor": "These things saith he which hath the sharp sword with two edges",
+     "refs": [
+      {
+       "text": "Rev 1:16",
+       "ref": "REV.1.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.13",
+   "range": "REV.2.13",
+   "kind": "passage",
+   "hash": "3ff5447a",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.13#p1-765c822b",
+     "text": "God knows all his people’s circumstances, where they dwell, as well as what they do, and how they behave themselves in their habitations.",
+     "anchor": "I know thy works, and where thou dwellest"
+    },
+    {
+     "id": "poole/REV.2.13#p2-c0b839db",
+     "text": "where the devil rules by his pagan deputies and antichrist’s officers.",
+     "anchor": "Even where Satan’s seat is"
+    },
+    {
+     "id": "poole/REV.2.13#p3-f24cfd55",
+     "text": "the word of my truth, by which I am known, as a man by his name.",
+     "anchor": "And thou holdest fast my name"
+    },
+    {
+     "id": "poole/REV.2.13#p4-d922d7d9",
+     "text": "neither by the words of thy mouth, nor by any apostacy from this profession, notwithstanding the temptations thou hast had from suducers and from persecutors, and the sight of those who have been put to death for their profession.",
+     "anchor": "And hast not denied my faith"
+    },
+    {
+     "id": "poole/REV.2.13#p5-358f0782",
+     "text": "it is much no ecclesiastical history makes mention of this martyr Antipas, which argueth him to have been a person but of an obscure note in the world; but Christ seeth and taketh notice of those little ones who belong to him, though the world overlooks them. Our being able from no history to give an account of this martyr, hath inclined some to think this epistle wholly prophetical, and that Antipas signifieth not any particular person, but all those that have opposed the pope, as if it were Antipapa. But certainly there was such a martyr as Antipas belonging to the church at Smyrna at that time, who suffered for the truth, though we do not allow this church to have been typical of all the gospel churches for many years.",
+     "anchor": "Even in those days wherein Antipas was my faithful martyr"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.14",
+   "range": "REV.2.14",
+   "kind": "passage",
+   "hash": "7fb4fcb8",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.14#p1-bfd81f5a",
+     "text": "though I have much to commend thee for, yet I have some things to accuse thee of, and to complain of thee for.",
+     "anchor": "But I have a few things against thee"
+    },
+    {
+     "id": "poole/REV.2.14#p2-50b465b7",
+     "text": "by the doctrine of Balaam, he means the doctrine of the Nicolaitanes, (as he expounds himself, Rev 2:15), which was like the doctrine of Balaam.",
+     "anchor": "Because thou hast there them that hold the doctrine of Balaam",
+     "refs": [
+      {
+       "text": "Rev 2:15",
+       "ref": "REV.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.14#p3-af9095a2",
+     "text": "that Balaam of whom we read, Num 24:1-25:18, who being sent for by Balak the king of Moab to come and curse Israel, and finding that God restrained him, and turned his tongue from cursing them to pronounce blessings to them, instructed Balak at last how to lay a stumblingblock before them, to make them to fall, viz. to set the Moabitish women to tempt them to commit uncleanness with them, and so to feast with them in their idols’ temples, and eat of their meat first offered unto their idols.",
+     "anchor": "Who taught Balac to cast a stumblingblock before the children of Israel",
+     "refs": [
+      {
+       "text": "Num 24:1-25",
+       "ref": "NUM.24.1-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.15",
+   "range": "REV.2.15",
+   "kind": "passage",
+   "hash": "136b59cf",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.15#p1-00695223",
+     "text": "so, saith he, thou sufferest in thy communion filthy persons, who maintain fornication lawful, and the lawfulness of eating meat offered to idols, which exactly corresponds with Balaam’s doctrine or counsel given to Balak, in order to his weakening the Israelites by separating them from God. His counsel took place, to the destruction of twenty-four thousand Israelites.",
+     "anchor": "So hast thou also them that hold the doctrine of the Nicolaitanes"
+    },
+    {
+     "id": "poole/REV.2.15#p2-71e5b5d2",
+     "text": "I am the same God still, and hate such doctrines, as much as ever I did in the time of Balak.",
+     "anchor": "Which thing I hate"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.16",
+   "range": "REV.2.16",
+   "kind": "passage",
+   "hash": "8583c6ff",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.16#p1-f67d5575",
+     "text": "thou that art guilty of conniving at such things, change thy mind and practice, and let those who have entertained these opinions, and run into those filthy practices, change their hearts and practices;",
+     "anchor": "Repent"
+    },
+    {
+     "id": "poole/REV.2.16#p2-a55548cc",
+     "text": "I will quickly come against thee, and punish thee: See Poole \"Rev 2:5\".",
+     "anchor": "or else I will come unto thee quickly",
+     "refs": [
+      {
+       "text": "Rev 2:5",
+       "ref": "REV.2.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.16#p3-c9a30e57",
+     "text": "and fight against them by my word; either convincing them, or pronouncing sentence against them; or, by raising up other teachers, who shall preach my word more faithfully, and whose doctrine shall be like a sword to devour and to destroy them.",
+     "anchor": "And will fight against them with the sword of my mouth"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.17",
+   "range": "REV.2.17",
+   "kind": "passage",
+   "hash": "f42344ed",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.17#p1-11c55fa2",
+     "text": "To him that overcometh: see the annotations on Rev 2:7.",
+     "anchor": "He that hath an ear, let him hear what the Spirit saith unto the churches",
+     "refs": [
+      {
+       "text": "Rev 2:7",
+       "ref": "REV.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.17#p2-84aaf853",
+     "text": "here is a manifest allusion to that bread from heaven, with which God fed his people in the wilderness, called angels’ food, Psa 78:25. The story of it we have, Exo 16:31,32; a pot of which God ordained to be kept in the ark, for a memorial of God’s mercy, Heb 9:4. It was a type of Christ, who was the true bread that came down from heaven, Joh 6:32,33. It here signifies Christ himself, with all the influences of his grace, whether for strength or comfort. As a feast was wont to follow a victory; so Christ promiseth to those that fought, and overcame in the spiritual fight, to feast them with himself and the influences of his Spirit.",
+     "anchor": "Will I give to eat of the hidden manna",
+     "refs": [
+      {
+       "text": "Psa 78:25",
+       "ref": "PSA.78.25"
+      },
+      {
+       "text": "Exo 16:31",
+       "ref": "EXO.16.31"
+      },
+      {
+       "text": "Heb 9:4",
+       "ref": "HEB.9.4"
+      },
+      {
+       "text": "Joh 6:32",
+       "ref": "JHN.6.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.17#p3-cb8a6b1f",
+     "text": "the use of stones anciently was so various, that it hath given a great liberty to interpreters to vary in their senses of the white stone here mentioned. They made use of them (as we since of counters) to count; they used them also in judgments, acquitting persons by white stones, on which their names were written, as they condemned others by black stones; they also used them in giving suffrages in elections, &c.; they also used them to mark happy or lucky days, and they used other stones to mark such days as they counted unlucky; and finally, they used them as rewards to those who conquered in their games.",
+     "anchor": "And will give him a white stone"
+    },
+    {
+     "id": "poole/REV.2.17#p4-a6ce3bb5",
+     "text": "Hence interpreters vary in their opinions, whether this be a general promise of a reward, or a more particular promise of pardon and absolution; or, of the assurance of their election to life. It seems most properly to be interpreted of pardon, or the notification of pardon of sins, or more generally of a reward. By the new name, which no man knoweth saving he that receiveth it, the same thing seemeth to be signified, the Spirit witnessing with their spirits that they are the children of God. They say, that in those white stones (used in absolutions of persons, or in giving suffrages) the name of the person absolved or chosen was wont to be written, and none knew it but those that had it, unless they imparted it, to which custom this allusion is."
+    },
+    {
+     "id": "poole/REV.2.17#p5-81a3d66d",
+     "text": "Those that make this church typical, say it typified the churches of the gospel during the times of popery, to the end of the persecutions of the Waldenses and Albigenses, when about one hundred thousand of them were destroyed by eight thousand papists; or, the time when antichrist first sat in the temple of God, as Rev 13:1-18, and the woman fled into the wilderness, Rev 12:1-17.",
+     "refs": [
+      {
+       "text": "Rev 13:1-18",
+       "ref": "REV.13.1-18"
+      },
+      {
+       "text": "Rev 12:1-17",
+       "ref": "REV.12.1-17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.18",
+   "range": "REV.2.18",
+   "kind": "passage",
+   "hash": "80fb981b",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.18#p1-e3f3a8cb",
+     "text": "was a city of Mysia or Lydia, not far from Philippi, the chief city of Macedonia; for Lydia, who traded in purple, and was of this city, went to Philippi to trade, as we read, Act 16:12,14.",
+     "anchor": "Thyatira",
+     "refs": [
+      {
+       "text": "Act 16:12",
+       "ref": "ACT.16.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.18#p2-063e6898",
+     "text": "see Rev 1:14,15: it signifies either angry eyes, or quick and piercing eyes. The comparing of",
+     "anchor": "Eyes like unto a flame of fire",
+     "refs": [
+      {
+       "text": "Rev 1:14",
+       "ref": "REV.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.18#p3-b360d04d",
+     "text": "to fine brass, seemeth to signify both the purity and holiness of his ways and methods of providence, and also his firmness and steadiness in them.",
+     "anchor": "his feet"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.19",
+   "range": "REV.2.19",
+   "kind": "passage",
+   "hash": "2f8ae4dc",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.19#p1-cf111df7",
+     "text": "the works of the ministry of this church were such as Christ knew, not only with a knowledge of comprehension, but approbation also.",
+     "anchor": "I know thy works"
+    },
+    {
+     "id": "poole/REV.2.19#p2-e33d1fed",
+     "text": "such were his charity to Christians that were in distress.",
+     "anchor": "And charity"
+    },
+    {
+     "id": "poole/REV.2.19#p3-2acc5096",
+     "text": "his diligence in his ministration.",
+     "anchor": "And service"
+    },
+    {
+     "id": "poole/REV.2.19#p4-41b86c85",
+     "text": "his faith, and adherence to Christ, and the doctrine of the gospel.",
+     "anchor": "And faith"
+    },
+    {
+     "id": "poole/REV.2.19#p5-9c5db342",
+     "text": "his meek bearing of his crosses and trials.",
+     "anchor": "And thy patience"
+    },
+    {
+     "id": "poole/REV.2.19#p6-a995cf2a",
+     "text": "his other works, the fruit of faith and love.",
+     "anchor": "And thy works"
+    },
+    {
+     "id": "poole/REV.2.19#p7-701e00db",
+     "text": "and his proficiency both in spiritual habits, and good works, the fruits of them.",
+     "anchor": "And the last to be more than the first"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.20",
+   "range": "REV.2.20",
+   "kind": "passage",
+   "hash": "7a6274df",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.20#p1-ba7ce7de",
+     "text": "Rev 2:4\", See Poole on \"Rev 2:14\".",
+     "anchor": "Notwithstanding I have a few things against thee: See Poole on \"",
+     "refs": [
+      {
+       "text": "Rev 2:4",
+       "ref": "REV.2.4"
+      },
+      {
+       "text": "Rev 2:14",
+       "ref": "REV.2.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.20#p2-e5a40d13",
+     "text": "the doctrine of the Nicolaitanes, mentioned Rev 2:6,15, is so plainly expressed in the latter part of the verse, viz. maintaining the lawfulness of eating things offered to idols, and of fornication; that whosoever this woman was, it is plain she was one of that filthy sect. It is also plain, that she is called Jezebel with allusion to that wicked woman of that name who was the wife of Ahab, of whom we read, 1Ki 16:31. She was an instrument to bring Ahab her husband to serve and worship Baal. It is also piain, that she was one that pretended to Divine revelations; she called herself a prophetess; and that taught in public, which no women but prophetesses might do, 1Co 14:34 1Ti 2:11,12: and that she taught a community of women, and the lawfulness as of fornication, so of eating things sacrificed to idols, directly contrary to the apostle’s doctrine, 1Co 9:10. But what she was cannot be determined; for though we allow this church to be typical of the church in the times of popery, and the popish synagogue, which maintaineth both these things to be the antitype; yet certainly there was some famous heretical strumpet in this church, which the governors did not restrain and cast out of their communion; which is the thing Christ had against this church, and the officers in it, who ought to have restrained her extravagancies both in teaching such doctrines, (being contrary to the apostle’s doctrine in the places before mentioned), and from teaching at all, being no prophetess though she pretended to it.",
+     "anchor": "Because thou sufferest that woman Jezebel",
+     "refs": [
+      {
+       "text": "Rev 2:6",
+       "ref": "REV.2.6"
+      },
+      {
+       "text": "1Ki 16:31",
+       "ref": "1KI.16.31"
+      },
+      {
+       "text": "1Co 14:34",
+       "ref": "1CO.14.34"
+      },
+      {
+       "text": "1Ti 2:11",
+       "ref": "1TI.2.11"
+      },
+      {
+       "text": "1Co 9:10",
+       "ref": "1CO.9.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.21",
+   "range": "REV.2.21",
+   "kind": "passage",
+   "hash": "c5007e9e",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.21#p1-c5007e9e",
+     "text": "I was not quick with her, but gave her a time of patience, and did not cut her off at first; but she was incorrigible, and went on in her sinful courses."
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.22",
+   "range": "REV.2.22",
+   "kind": "passage",
+   "hash": "a7765039",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.22#p1-2e7c9c03",
+     "text": "another kind of bed than she hath sinned in and by, not a bed of ease and pleasure, but of pain and torment. Nor shall the seduced escape, they shall also be cast into",
+     "anchor": "I will cast her into a bed"
+    },
+    {
+     "id": "poole/REV.2.22#p2-3ad4a1ec",
+     "text": "pains and torments of conscience, or afflictions more corporal, either from the more immediate hand of God, or the hands of men.",
+     "anchor": "great tribulation"
+    },
+    {
+     "id": "poole/REV.2.22#p3-f9de3558",
+     "text": "this is to be supposed to all God’s threatenings of judgments, the execution of them ordinarily may be prevented by repentance, and such is the patience of God, that he gives the vilest sinners a space to repent.",
+     "anchor": "Except they repent of their deeds"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.23",
+   "range": "REV.2.23",
+   "kind": "passage",
+   "hash": "f9cb71aa",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.23#p1-6a63f533",
+     "text": "those who are seduced by her,",
+     "anchor": "And I will kill her children"
+    },
+    {
+     "id": "poole/REV.2.23#p2-b92f172b",
+     "text": "I will destroy them; unless some special death, such as the plague, be here threatened. So shall all the churches near Thyatira know, that I am a God who do not only take notice of overt, scandalous acts, but of the secret thoughts, motions, counsels, and designs of men’s hearts, Psa 7:10 Jer 11:20 17:10; and that I am a just God, who will deal with all according to their works.",
+     "anchor": "with death",
+     "refs": [
+      {
+       "text": "Psa 7:10",
+       "ref": "PSA.7.10"
+      },
+      {
+       "text": "Jer 11:20",
+       "ref": "JER.11.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.24",
+   "range": "REV.2.24",
+   "kind": "passage",
+   "hash": "99b0401d",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.24#p1-c7d476b7",
+     "text": "you that are the ministers, for they are distinguished from the rest in Thyatira. The word again is plural, which lets us know these epistles were directed to no single persons.",
+     "anchor": "But unto you I say"
+    },
+    {
+     "id": "poole/REV.2.24#p2-155efec3",
+     "text": "the rest of the members of the church in Thyatira, who have not embraced this doctrine of the Nicolaitanes published by Jezebel, &c.",
+     "anchor": "And unto the rest in Thyatira, as many as have not this doctrine"
+    },
+    {
+     "id": "poole/REV.2.24#p3-7f5adffe",
+     "text": "those seducers call their doctrine deep things, great mysteries revealed to them; as there are the deep things of God, 1Co 2:10, so these seducers would pretend their doctrines also were deep things: Christ calls them the devil’s mysteries, deep things of Satan.",
+     "anchor": "As they speak",
+     "refs": [
+      {
+       "text": "1Co 2:10",
+       "ref": "1CO.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.24#p4-7bbbd605",
+     "text": "I will lay no other burden of trials and afflictions.",
+     "anchor": "I will put upon you none other burden"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.25",
+   "range": "REV.2.25",
+   "kind": "passage",
+   "hash": "49c60aea",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.25#p1-3285a870",
+     "text": "than you already groan under. Or, no other precepts than what you have had from the apostles: the precepts of God are called burdens, Mat 11:30 Act 15:28.",
+     "anchor": "But that which ye have already",
+     "refs": [
+      {
+       "text": "Mat 11:30",
+       "ref": "MAT.11.30"
+      },
+      {
+       "text": "Act 15:28",
+       "ref": "ACT.15.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.25#p2-e43cdbdc",
+     "text": "hold fast your profession, your faith and holiness, till I come to judgment.",
+     "anchor": "Hold fast till I come"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.26",
+   "range": "REV.2.26",
+   "kind": "passage",
+   "hash": "3f3ec878",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.26#p1-add8bc41",
+     "text": "Rev 2:7\", See Poole on \"Rev 2:11\", See Poole on \"Rev 2:17\". Overcoming is here expounded by keeping Christ’s works; that is, either the works by him commanded, or walking as he walked, and persevering therein to the end of his or their lives.",
+     "anchor": "And he that overcometh, and keepeth my works unto the end: See Poole on \"",
+     "refs": [
+      {
+       "text": "Rev 2:7",
+       "ref": "REV.2.7"
+      },
+      {
+       "text": "Rev 2:11",
+       "ref": "REV.2.11"
+      },
+      {
+       "text": "Rev 2:17",
+       "ref": "REV.2.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.26#p2-ee97a2a9",
+     "text": "either to judge those who live heathenish lives; or to convert nations to the faith; or, which is most probable, he shall sit with me upon a throne in the day of judgment, Mat 19:28, and judge the world, 1Co 6:2.",
+     "anchor": "To him will I give power over the nations",
+     "refs": [
+      {
+       "text": "Mat 19:28",
+       "ref": "MAT.19.28"
+      },
+      {
+       "text": "1Co 6:2",
+       "ref": "1CO.6.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.27",
+   "range": "REV.2.27",
+   "kind": "passage",
+   "hash": "fa0c7baf",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.27#p1-872f6bbc",
+     "text": "an iron rod either signifies a right rod, that will not be easily bent and made crooked; or a severe rod, which is most probably the sense: see Psa 2:9 Psa 12:5. The words by the psalmist are applied to Christ, and to the church, Rev 12:5: to particular saints here, who rule the nations either in Christ their Head, or with Christ as their Chieftain, with the word of God powerfully convincing the world of sin and righteousness.",
+     "anchor": "And he shall rule them with a rod of iron",
+     "refs": [
+      {
+       "text": "Psa 2:9",
+       "ref": "PSA.2.9"
+      },
+      {
+       "text": "Psa 12:5",
+       "ref": "PSA.12.5"
+      },
+      {
+       "text": "Rev 12:5",
+       "ref": "REV.12.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.27#p2-89adee49",
+     "text": "and all paganism and heathen idolatries shall be broken in pieces. Or, in the day of judgment, the saints that persevere shall sit with Christ, and judge and condemn the world severely; and then they shall be broken in pieces, never again to be sodered or cemented.",
+     "anchor": "As the vessels of a potter shall they be broken to shivers"
+    },
+    {
+     "id": "poole/REV.2.27#p3-2d21173f",
+     "text": "for such a power and authority my Father hath given me, and I will give it to all them.",
+     "anchor": "Even as I received of my Father"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.28",
+   "range": "REV.2.28",
+   "kind": "passage",
+   "hash": "72716a10",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.28#p1-72716a10",
+     "text": "Either the light of glory, the blessed vision of God, or a certain hope of eternal life; or the Holy Spirit, called so, 2Pe 1:19; or rather, of myself. Christ himself is not called the Sun of righteousness, Mal 4:2, but the Morning star, Rev 22:16, because he excelleth all other stars in glory, and scattereth the darkness of ignorance and error by the light of his gospel: I will make him partaker of myself.",
+     "refs": [
+      {
+       "text": "2Pe 1:19",
+       "ref": "2PE.1.19"
+      },
+      {
+       "text": "Mal 4:2",
+       "ref": "MAL.4.2"
+      },
+      {
+       "text": "Rev 22:16",
+       "ref": "REV.22.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.2.29",
+   "range": "REV.2.29",
+   "kind": "passage",
+   "hash": "52a49aba",
+   "paragraphs": [
+    {
+     "id": "poole/REV.2.29#p1-6bbe7db9",
+     "text": "Here the same conclusion of this epistle as of all the rest, Rev 2:7,11,17: See Poole on \"Rev 2:7\".",
+     "refs": [
+      {
+       "text": "Rev 2:7",
+       "ref": "REV.2.7"
+      },
+      {
+       "text": "Rev 2:7",
+       "ref": "REV.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.2.29#p2-4242474d",
+     "text": "Those who make this epistle typical and prophetical, make it a type of all the churches of Christ, from about the year 1260, or the end of the persecution of the Waldenses, until the protestant religion so far obtained, that whole nations owned it, which was about 1560, by which time England and Scotland had made it the religion of those nations: it had before this prevailed in Germany, Helvetia, France, and many other places, where it was the religion of whole cities and particular jurisdictions, &c."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3161 @@
+{
+ "source": "poole",
+ "book": "PHP",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "poole/PHP.2",
+   "range": "PHP.2",
+   "kind": "chapter",
+   "hash": "565fbeb2",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2#p1-a1a8cb37",
+     "text": "Php 2:1,2 Paul earnestly recommends to the Philippians mutual love and union,",
+     "refs": [
+      {
+       "text": "Php 2:1",
+       "ref": "PHP.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p2-2ea4d702",
+     "text": "Php 2:3 lowliness of mind,",
+     "refs": [
+      {
+       "text": "Php 2:3",
+       "ref": "PHP.2.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p3-6359173c",
+     "text": "Php 2:4-8 and that charitable condescension for the good of others, exemplified in the life and death of Christ,",
+     "refs": [
+      {
+       "text": "Php 2:4-8",
+       "ref": "PHP.2.4-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p4-f1648a33",
+     "text": "Php 2:9-11 for which God had exalted him to be Lord of all.",
+     "refs": [
+      {
+       "text": "Php 2:9-11",
+       "ref": "PHP.2.9-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p5-cb15ac25",
+     "text": "Php 2:12,13 He exhorteth them to carefulness in working out their own salvation,",
+     "refs": [
+      {
+       "text": "Php 2:12",
+       "ref": "PHP.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p6-54109844",
+     "text": "Php 2:14,15 to obey the will of God cheerfully and universally, that so they might distinguish themselves from the rest of the world by a bright example of virtue,",
+     "refs": [
+      {
+       "text": "Php 2:14",
+       "ref": "PHP.2.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p7-f15fbe63",
+     "text": "Php 2:16-18 and by their steadiness give him, cause to rejoice in the success of his labours, who would gladly lay down his life to serve them.",
+     "refs": [
+      {
+       "text": "Php 2:16-18",
+       "ref": "PHP.2.16-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p8-830127a0",
+     "text": "Php 2:19,20 He hopeth to send Timothy to them shortly, whom he greatly commendeth,",
+     "refs": [
+      {
+       "text": "Php 2:19",
+       "ref": "PHP.2.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2#p9-f59c1d97",
+     "text": "Php 2:21-30 as he doth the affection and zeal of Epaphroditus, whom he sendeth, with this Epistle.",
+     "refs": [
+      {
+       "text": "Php 2:21-30",
+       "ref": "PHP.2.21-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.1",
+   "range": "PHP.2.1",
+   "kind": "passage",
+   "hash": "a54942b1",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.1#p1-57301fd1",
+     "text": "The apostle, reassuming his exhortation in the former chapter to unanimity, Php 1:27, doth here, by way of inference from what went immediately before, press them in a very affectionate manner, with a kind of rhetorical relation, and obtestation, as it were, adjure them.",
+     "refs": [
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.1#p2-5ee03e3b",
+     "text": "if any such exhortation, (as the word is rendered, Act 13:15 1Th 2:3 1Ti 4:13), in the name of Christ, might avail with them to cheer him and one another by their loving concord and being unanimous. Or as we, rendering it consolation;;{ so Rom 15:4 2Co 1:4} If, which he may well suppose, and strongly affirm that he took it for granted, the main body of them had in some measure found by his ministry, what he here moves them to complete, {compare Php 1:6,7,27} in expectation to find more of what they had experimented, whatever indisposition might have crept upon some by the insinuations of the false apostles; yet, this",
+     "anchor": "If there be therefore any consolation in Christ",
+     "refs": [
+      {
+       "text": "Act 13:15",
+       "ref": "ACT.13.15"
+      },
+      {
+       "text": "1Th 2:3",
+       "ref": "1TH.2.3"
+      },
+      {
+       "text": "1Ti 4:13",
+       "ref": "1TI.4.13"
+      },
+      {
+       "text": "Rom 15:4",
+       "ref": "ROM.15.4"
+      },
+      {
+       "text": "2Co 1:4",
+       "ref": "2CO.1.4"
+      },
+      {
+       "text": "Php 1:6",
+       "ref": "PHP.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.1#p3-1c3400b8",
+     "text": "may be considered either:",
+     "anchor": "consolation in Christ"
+    },
+    {
+     "id": "poole/PHP.2.1#p4-85b8aac8",
+     "text": "1. Actively: q.d. If ye would comfort me afflicted, in the concerns of Christ, or if ye have any Christian comfort which doth only proceed from those that are in Christ, (not from moral philosophy), or which is wont to be in those who worship the same Christ, let me his apostle be a partaker thereof. Or:"
+    },
+    {
+     "id": "poole/PHP.2.1#p5-4c54917a",
+     "text": "2. Passively, 2Co 7:4,6 Phm 1:7: If you, being in Christ, find any consolation against your afflictions, forasmuch as you have receivcd it by my ministry, we, being both in suffering circumstances, should be further comforted by a sweet agreement.",
+     "refs": [
+      {
+       "text": "2Co 7:4",
+       "ref": "2CO.7.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.1#p6-76b47850",
+     "text": "the Syriac renders it, any speaking to the heart, any solace from good and comfortable words did reach your hearts, Joh 11:19,31 1Co 14:3 1Th 2:11 5:14, cheered with the love of God or Christ, or the brethren: or refreshed with my love to you, Php 1:8,9; or would that I should be conforted with your love to me, (as he himself and others were with the gracious affections of the Corinthians, 2Co 7:7), which ye ought unfeignedly.",
+     "anchor": "If any comfort of love",
+     "refs": [
+      {
+       "text": "Joh 11:19",
+       "ref": "JHN.11.19"
+      },
+      {
+       "text": "1Co 14:3",
+       "ref": "1CO.14.3"
+      },
+      {
+       "text": "1Th 2:11",
+       "ref": "1TH.2.11"
+      },
+      {
+       "text": "Php 1:8",
+       "ref": "PHP.1.8"
+      },
+      {
+       "text": "2Co 7:7",
+       "ref": "2CO.7.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.1#p7-a11362de",
+     "text": "if ye have any communion with me in the graces of the Spirit, and stand fast in one spirit, Php 1:27, and would show that you do persevere in the same Spirit, 1Co 12:4, which acts in all the members of the mystical body of Christ, that do in him their Head partake of it.",
+     "anchor": "If any fellowship of the Spirit",
+     "refs": [
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "1Co 12:4",
+       "ref": "1CO.12.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.1#p8-40e87dc5",
+     "text": "if ye are duly affected with any real sympathy and commiseration towards me in my bonds for Christ, such inward affections as were moving in him towards them; Php 1:8, with Luk 1:78 2Co 7:15 Col 3:12; the latter word emphatically expressing the sense of the metaphor in the former. Then he, having thus pathetically urged these arguments, and closely followed them to embrace the matter proposed, puts them upon.",
+     "anchor": "If any bowels and mercies",
+     "refs": [
+      {
+       "text": "Php 1:8",
+       "ref": "PHP.1.8"
+      },
+      {
+       "text": "Luk 1:78",
+       "ref": "LUK.1.78"
+      },
+      {
+       "text": "2Co 7:15",
+       "ref": "2CO.7.15"
+      },
+      {
+       "text": "Col 3:12",
+       "ref": "COL.3.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.2",
+   "range": "PHP.2.2",
+   "kind": "passage",
+   "hash": "f4a31e8a",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.2#p1-02df42ea",
+     "text": "viz. the exercise of those graces he had been joyful for, which would be an addition to that joy he had for them, and the making of it much more abundant, contributing as much as the friends of the Bridegroom here can to the completing of it, Joh 3:29.",
+     "anchor": "Fulfil ye my joy",
+     "refs": [
+      {
+       "text": "Joh 3:29",
+       "ref": "JHN.3.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.2#p2-fc8e29b7",
+     "text": "which is when they believe and affect the same things, agreeable to the mind of God, Php 3:15 Act 4:32 Rom 12:16 2Co 13:11.",
+     "anchor": "That ye be like-minded",
+     "refs": [
+      {
+       "text": "Php 3:15",
+       "ref": "PHP.3.15"
+      },
+      {
+       "text": "Act 4:32",
+       "ref": "ACT.4.32"
+      },
+      {
+       "text": "Rom 12:16",
+       "ref": "ROM.12.16"
+      },
+      {
+       "text": "2Co 13:11",
+       "ref": "2CO.13.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.2#p3-2967cde5",
+     "text": "having the same mutual sincere charity, Eph 4:2 Col 3:14.",
+     "anchor": "Having the same love",
+     "refs": [
+      {
+       "text": "Eph 4:2",
+       "ref": "EPH.4.2"
+      },
+      {
+       "text": "Col 3:14",
+       "ref": "COL.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.2#p4-b582e8f1",
+     "text": "being unanimous in their honest designs, Joh 17:22 1Pe 3:8.",
+     "anchor": "Being of one accord",
+     "refs": [
+      {
+       "text": "Joh 17:22",
+       "ref": "JHN.17.22"
+      },
+      {
+       "text": "1Pe 3:8",
+       "ref": "1PE.3.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.2#p5-457094fd",
+     "text": "agreeing as to the main in the same judgment and opinion, to promote the interest of Christ, 1Co 1:10 Gal 5:7,10.",
+     "anchor": "Of one mind",
+     "refs": [
+      {
+       "text": "1Co 1:10",
+       "ref": "1CO.1.10"
+      },
+      {
+       "text": "Gal 5:7",
+       "ref": "GAL.5.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.3",
+   "range": "PHP.2.3",
+   "kind": "passage",
+   "hash": "b4fd066e",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.3#p1-a74dc1f5",
+     "text": "Here, the better to engage them to embrace what he had so pathetically exhorted them to, he doth dissuade them from animosity, an affectation of applause, and self-seeking; and direct them to modesty and self-denial."
+    },
+    {
+     "id": "poole/PHP.2.3#p2-f05ce255",
+     "text": "intitnating, they should by no means indulge all inordinate affection to strive and quarrel with one another, provoking each other by an ambitious emulation to cross or excel others; this arguing a carnal temper, opposite to true Christianity, Php 2:14 Rom 2:8 Gal 5:16,24,26, being the very bane of true Christian concord, Rom 13:13 Jas 3:16, and destructive to faith, Joh 5:44 2Co 12:20.",
+     "anchor": "Let nothing be done through strife or vain-glory",
+     "refs": [
+      {
+       "text": "Php 2:14",
+       "ref": "PHP.2.14"
+      },
+      {
+       "text": "Rom 2:8",
+       "ref": "ROM.2.8"
+      },
+      {
+       "text": "Gal 5:16",
+       "ref": "GAL.5.16"
+      },
+      {
+       "text": "Rom 13:13",
+       "ref": "ROM.13.13"
+      },
+      {
+       "text": "Jas 3:16",
+       "ref": "JAS.3.16"
+      },
+      {
+       "text": "Joh 5:44",
+       "ref": "JHN.5.44"
+      },
+      {
+       "text": "2Co 12:20",
+       "ref": "2CO.12.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p3-22275157",
+     "text": "but cherish and exercise true Christian modesty and meekness, (which is of another kind than that the heathen philosophers did prescribe), in a due preference of each other, Mat 11:29 Rom 12:10 Eph 4:2 5:21 1Pe 5:5; as the apostle himself gave example, 1Co 15:8,9.",
+     "anchor": "But in lowliness of mind let each esteem other better than themselves",
+     "refs": [
+      {
+       "text": "Mat 11:29",
+       "ref": "MAT.11.29"
+      },
+      {
+       "text": "Rom 12:10",
+       "ref": "ROM.12.10"
+      },
+      {
+       "text": "Eph 4:2",
+       "ref": "EPH.4.2"
+      },
+      {
+       "text": "1Pe 5:5",
+       "ref": "1PE.5.5"
+      },
+      {
+       "text": "1Co 15:8",
+       "ref": "1CO.15.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p4-3078f373",
+     "text": "If any say: How is this consistent with what the apostle writes to them to think of praise and good report, Php 4:8, and of himself, not a whit, and nothing, behind the very chiefest apostles? 2Co 11:5 12:11; and further, how can some think others better than themselves in truth, unless they reckon good evil and evil good? I answer,",
+     "anchor": "Question",
+     "refs": [
+      {
+       "text": "Php 4:8",
+       "ref": "PHP.4.8"
+      },
+      {
+       "text": "2Co 11:5",
+       "ref": "2CO.11.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p5-d4a48c15",
+     "text": "1. Be sure Christian modesty and real humility, with prudence and mildness, are very commendable graces, and in the sight of God of great price, 1Pe 3:4. And therefore what he doth afterwards exhort to in this Epistle, doth very well agree with what he doth write here; where:",
+     "refs": [
+      {
+       "text": "1Pe 3:4",
+       "ref": "1PE.3.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p6-b7b78878",
+     "text": "2. He is treating of grace and godliness, whereas in those places to the Corinthians he writes of some certain gifts, which, by reason of the insinuations of false apostles against him, he was necessitated, in magnifying of his apostolical office and authority, 2Co 10:8, to mention, being as it were compelled to it by the ingratitude of some of them at Corinth who had been influenced by the false apostles, 2Co 12:5,6; yet you may see there, he doth not glory of himself, or his person, but acknowledges his infirmities, 2Co 11:30, and that unfeignedly, speaking the truth every where, 2Co 12:6, which he makes evident to them from the nature of the thing itself, 2Co 10:12,13,15,16 12:12; appealing to God, as witness in the case, 2Co 11:31, referring all the glorying the, put him upon, to the grace of God through Christ, 1Co 15:10 2Co 11:31, when they had cast contempt on his ministry, 2Co 10:10-13,18. So that in respect of gifts and external privileges, wherein are distinctions of superiors and inferiors, Php 3:4, he doth not urge that every Christian should prefer every other to himself, wherein it is evident there is a real difference; but in respect of the persons, the honesty and piety of others in God’s sight, (lest a man, by thinking himself something when he is nothing, should deceive himself; Gal 6:3), since in his judgment they may be endowed with some hidden quality we know not of, and be accepted with him. Hence:",
+     "refs": [
+      {
+       "text": "2Co 10:8",
+       "ref": "2CO.10.8"
+      },
+      {
+       "text": "2Co 12:5",
+       "ref": "2CO.12.5"
+      },
+      {
+       "text": "2Co 11:30",
+       "ref": "2CO.11.30"
+      },
+      {
+       "text": "2Co 12:6",
+       "ref": "2CO.12.6"
+      },
+      {
+       "text": "2Co 10:12",
+       "ref": "2CO.10.12"
+      },
+      {
+       "text": "2Co 11:31",
+       "ref": "2CO.11.31"
+      },
+      {
+       "text": "1Co 15:10",
+       "ref": "1CO.15.10"
+      },
+      {
+       "text": "2Co 11:31",
+       "ref": "2CO.11.31"
+      },
+      {
+       "text": "2Co 10:10-13",
+       "ref": "2CO.10.10-13"
+      },
+      {
+       "text": "Php 3:4",
+       "ref": "PHP.3.4"
+      },
+      {
+       "text": "Gal 6:3",
+       "ref": "GAL.6.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p7-215108b5",
+     "text": "3. Our estimation and preference of others to ourselves, who as Christian brethren are obliged to serve one another, Gal 5:13, is not taken simply, and with an absolute judgment, as if it were necessary to give them the pre-eminence in all things: but, as to this, that a man may think there is some defect in himself, which it may be is not in another; or with a suspense; Perhaps he is not better in truth, but considering my heart is deceitful, and possibly he may be more without guile, I judge it not meet to prefer myself to him God-ward; but seeing mine own black legs, and being bound in love to confess mine own and cover the infirmities of my brother, who labours to walk answerably to his profession, it is safe for me to prefer him, who may have some good latent which I have not, and whereupon he is to be esteemed by me. Wherefore:",
+     "refs": [
+      {
+       "text": "Gal 5:13",
+       "ref": "GAL.5.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p8-1ffd83a0",
+     "text": "4. The right management of the duty which the apostle calls for to preserve unanimity, depends upon a right and due estimation of God’s divers gifts and graces which flow from the same Spirit, 1Co 12:4, and a humble sense of our own infirmities: so that however one Christian may excel with some singular endowments, yet he ought to think they were not bestowed upon him that he should be puffed up, or value himself above what is meet upon that account before God, being he hath received them of God, 1Co 4:7, but judge himself for his own defectiveness and faultiness, which will afford himself matter of abasement and humility;",
+     "refs": [
+      {
+       "text": "1Co 12:4",
+       "ref": "1CO.12.4"
+      },
+      {
+       "text": "1Co 4:7",
+       "ref": "1CO.4.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p9-4cc64166",
+     "text": "when yet with respect to others, whose hearts he knows not, he in charity thinketh the best, 1Co 13:4,5; and if in this case he should be mistaken, his modest apprehensions would be acceptable to God (designing to approve that which he doth) and profitable to himself. To engage theln further unto Christian concord, he here directs them as to their aim and scope, (according to the import of the word), that it should not be their own private interest, but the common good of Christianity, becoming those who have true Christian love, 1Co 10:24 13:5; not as if he did disallow providing for their own, 1Ti 5:8, or studying to be quiet, and doing their own business, 1Th 4:11;",
+     "refs": [
+      {
+       "text": "1Co 13:4",
+       "ref": "1CO.13.4"
+      },
+      {
+       "text": "1Co 10:24",
+       "ref": "1CO.10.24"
+      },
+      {
+       "text": "1Ti 5:8",
+       "ref": "1TI.5.8"
+      },
+      {
+       "text": "1Th 4:11",
+       "ref": "1TH.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.3#p10-5ac73a34",
+     "text": "but that every member of Christ, while he considers his own gifts, graces, honour, and advantage, would remember that he is not born only to serve himself or Pharisaically to conceit well of himself in the contempt of others, Luk 18:11; but also, and that much rather, he should consider his relation to the Head, and every other member of the body, and so consult the gifts, graces, honour, and edification of others, especially when more eminently useful, knowing that members should have the same care one for another, 1Co 12:24-28.",
+     "refs": [
+      {
+       "text": "Luk 18:11",
+       "ref": "LUK.18.11"
+      },
+      {
+       "text": "1Co 12:24-28",
+       "ref": "1CO.12.24-28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.4",
+   "range": "PHP.2.4",
+   "kind": "passage",
+   "hash": "4101df43",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.4#p1-4101df43",
+     "text": "most translations do express the causal or rather illative Greek particle, which ours doth here omit as an expletive. However, the apostle doth urge them to the exercise of self-denial, mutual love, and a hearty condescension to one another, from the great example of Jesus Christ, 2Co 8:9: that so the mind which was in Christ may be perceived in us, who, if spiritual, judge all things and have the mind of Christ; being enlightened by the same Spirit, we do judge as he coming in the flesh did: or: Let the same affection be found in you that was really in him, Mat 11:28 Joh 13:15.",
+     "verse": 4,
+     "anchor": "Let",
+     "refs": [
+      {
+       "text": "2Co 8:9",
+       "ref": "2CO.8.9"
+      },
+      {
+       "text": "Mat 11:28",
+       "ref": "MAT.11.28"
+      },
+      {
+       "text": "Joh 13:15",
+       "ref": "JHN.13.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.5",
+   "range": "PHP.2.5",
+   "kind": "passage",
+   "hash": "e58a2a1f",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.5#p1-e58a2a1f",
+     "text": "Php 2:5\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Php 2:5",
+       "ref": "PHP.2.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.6",
+   "range": "PHP.2.6",
+   "kind": "passage",
+   "hash": "eb6b6a05",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.6#p1-09f221d4",
+     "text": "i.e. relative to Christ Jesus, the eternal Son of God by nature, very God extant with his Father before the beginning, Joh 1:1 Gal 4:4 1Ti 3:16 6:14-16 Tit 2:13; the express image and character of his Father’s person, which implies a peculiar subsistence distinct from the subsistence of his Father, Joh 8:42 2Co 4:4 Col 1:15 Heb 1:3; concerning whom, every word that follows, by reason of the Socinians, and some Lutherans, is to be well weighed.",
+     "anchor": "Who",
+     "refs": [
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Gal 4:4",
+       "ref": "GAL.4.4"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Tit 2:13",
+       "ref": "TIT.2.13"
+      },
+      {
+       "text": "Joh 8:42",
+       "ref": "JHN.8.42"
+      },
+      {
+       "text": "2Co 4:4",
+       "ref": "2CO.4.4"
+      },
+      {
+       "text": "Col 1:15",
+       "ref": "COL.1.15"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p2-bcb78e89",
+     "text": "i.e. subsisting, in opposition to taking or assuming, Php 2:7; and therefore doth firmly prove Christ pro-existing in another nature to his so doing, namely, his actual existing of himself in the same essence and glory he had from eternity with the Father, Joh 1:1,2 17:5 2Co 8:9 Rev 1:4,8,11.",
+     "anchor": "Being",
+     "refs": [
+      {
+       "text": "Php 2:7",
+       "ref": "PHP.2.7"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "2Co 8:9",
+       "ref": "2CO.8.9"
+      },
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p3-9adfff6f",
+     "text": "to understand which clearly:",
+     "anchor": "In the form of God"
+    },
+    {
+     "id": "poole/PHP.2.6#p4-e63e2719",
+     "text": "1. The word"
+    },
+    {
+     "id": "poole/PHP.2.6#p5-6aba0ff7",
+     "text": "though it may sometimes note somewhat outward, and so infer the glory of Christ’s miracles, yet we do not find it any where so used in Scripture: it is true it is once used there for the outward visage, Mar 16:12, which had excelling splendour and beauty, giving occasion to conceive majesty in the person, Mat 27:2 2Pe 1:16, (however, his resplendent garments could not be accounted the form of God,) yet being, Luke saith, Luk 24:16, the eyes of the persons which saw were holden, that for a time they could not acknowledge him, it argues that the appearance Mark speaks of noted only an accidental form.",
+     "anchor": "form",
+     "refs": [
+      {
+       "text": "Mar 16:12",
+       "ref": "MRK.16.12"
+      },
+      {
+       "text": "Mat 27:2",
+       "ref": "MAT.27.2"
+      },
+      {
+       "text": "2Pe 1:16",
+       "ref": "2PE.1.16"
+      },
+      {
+       "text": "Luk 24:16",
+       "ref": "LUK.24.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p6-8a0f8286",
+     "text": "2. Whereas the"
+    },
+    {
+     "id": "poole/PHP.2.6#p7-9371ca06",
+     "text": "or subsisting Paul here speaks of, respects (what the best philosophers in their most usual way of speaking do) the essential form, with the glory of it, since the verbs, in other scriptures of the same origin, signify somewhat inward and not conspicuous, Rom 12:2 2Co 3:18 Gal 4:19; especially when there is a cogent reason for it here, considering the form of God, in opposition to the form of a servant afterward, and in conjunction with equality to God, which implies the same essence and nature, Isa 40:25 46:5, it being impossible there should be any proportion or equality between infinite and finite, eternal and temporal, uncreate and create, by nature God and by nature not God, Gal 4:4,8, unto which the only living and true God will not suffer his glory to be given.",
+     "anchor": "being",
+     "refs": [
+      {
+       "text": "Rom 12:2",
+       "ref": "ROM.12.2"
+      },
+      {
+       "text": "2Co 3:18",
+       "ref": "2CO.3.18"
+      },
+      {
+       "text": "Gal 4:19",
+       "ref": "GAL.4.19"
+      },
+      {
+       "text": "Isa 40:25",
+       "ref": "ISA.40.25"
+      },
+      {
+       "text": "Gal 4:4",
+       "ref": "GAL.4.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p8-d4b7448c",
+     "text": "Neither indeed can he deny himself who is one, and besides whom there is no other true God, or God by nature, Deu 4:35 6:4 2Ti 2:13; who only doeth wondrous things, Psa 72:18: for to all Divine operations a Divine power is requisite, which is inseparable from the most simple essence and its properties.",
+     "refs": [
+      {
+       "text": "Deu 4:35",
+       "ref": "DEU.4.35"
+      },
+      {
+       "text": "2Ti 2:13",
+       "ref": "2TI.2.13"
+      },
+      {
+       "text": "Psa 72:18",
+       "ref": "PSA.72.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p9-fc52738a",
+     "text": "or subsisting,",
+     "anchor": "Being"
+    },
+    {
+     "id": "poole/PHP.2.6#p10-d09671e3",
+     "text": "imports not Christ’s appearance in exerting of God’s power, but his real and actual existence in the Divine essence, not in accidents, wherein nothing doth subsist: neither the vulgar nor learned do use to say any one doth subsist, but appear, in an outward habit; why then should any conceit the apostle means so? The Gentiles might speak of their gods appearing; but then, even they thought the Deity was one thing, and the habit or figure under which, or in which, it appeared was another Act 14:11: so that subsisting in the form intimates in the nature and essence of God, not barely, but as it were clothed with properties and glory.",
+     "anchor": "in the form of God",
+     "refs": [
+      {
+       "text": "Act 14:11",
+       "ref": "ACT.14.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p11-da682f12",
+     "text": "For the apostle here treats of Christ’s condescension, proceeding from his actual existence, as the term wherein he is co-eternal and co-equal to God the Father, before he abated himself with respect unto us. For he says not the form of God was in Christ, (however that might be truly said), that the adversaries might not have occasion to say only there was somewhat in Christ like unto God; but he speaks of that wherein Christ was, viz. in the form of God, and so that form is predicated of God, as his essence and nature, and can be no other thing. None can rationally imagine that God was an external figure, wherein Christ was subsisting."
+    },
+    {
+     "id": "poole/PHP.2.6#p12-79bc0f2d",
+     "text": "For subsistence implies some peculiarity relating to the substance of a certain thing, whence we may conclude the Son to be of the same (not only of like) substance with the Father, considering what significantly follows. He"
+    },
+    {
+     "id": "poole/PHP.2.6#p13-425c1c9b",
+     "text": "esteemed, counted, held (so the word is used, Php 2:3 3:7,8 1Th 5:13 2Th 3:15 1Ti 1:12 1Ti 6:1 Heb 10:29 11:26), it not",
+     "anchor": "thought it not",
+     "refs": [
+      {
+       "text": "Php 2:3",
+       "ref": "PHP.2.3"
+      },
+      {
+       "text": "1Th 5:13",
+       "ref": "1TH.5.13"
+      },
+      {
+       "text": "2Th 3:15",
+       "ref": "2TH.3.15"
+      },
+      {
+       "text": "1Ti 1:12",
+       "ref": "1TI.1.12"
+      },
+      {
+       "text": "1Ti 6:1",
+       "ref": "1TI.6.1"
+      },
+      {
+       "text": "Heb 10:29",
+       "ref": "HEB.10.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p14-322e3e2a",
+     "text": "it being his right by eternal generation; i.e. he did not judge it any wrong or usurpation, on that account of his being in the form of God, to be equal to his Father, being a subsistent in the same nature and essence with him. From openly showing equal majesty with whom he did not for a time abstain, in that he could reckon this robbery, as if such majesty were that which did not agree to his nature, ever presupposing this inherent right, to his great condescension, or abasing himself, which follows as the term to which: or, he resolved for a time not to show himself in that glory which was his own right, but freely condescended to the veiling of it. He did not really forego (neither was it possible he should) any thing of his Divine glory, being the Son of God still, without any robbery or rapine, equal to his Father in power and glory, Joh 10:33 1Jn 5:7,20.",
+     "anchor": "robbery",
+     "refs": [
+      {
+       "text": "Joh 10:33",
+       "ref": "JHN.10.33"
+      },
+      {
+       "text": "1Jn 5:7",
+       "ref": "1JN.5.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p15-914ceaf0",
+     "text": "Paul doth not say, (as the Arians of old would pervert his sense), he robbed not, or snatched not, held not fast equality with God; or, (as the Socinians since), Christ thought not to do this robbery to God, or commit this rape upon God, so as that he should be equal to him, but acknowledged he had it of the free gift of God, chopping in the adversative particle, but, where it really is not: whereas we read not in the sacred text, he thought not to do this robbery, but, he thought it not robbery to be equal to God; which two are vastly different, even as much as to have the Godhead by usurpation, and to have it by nature.",
+     "anchor": "Thought it not robbery"
+    },
+    {
+     "id": "poole/PHP.2.6#p16-b63ad199",
+     "text": "In the former it is, q.d. Christ did not rob or snatch away the equality; in the latter, the equality which Christ had with God, he thought it no robbery; he reputed not the empire he might have always continued in the exercise of, equal with the Father, as a thing usurped, or taken by force (as one doth hold that he hath taken by spoil, making show of it). For when he had said he had subsisted in the form of God, he could (before he condescended) say also, he was equal to God, i.e. the Father, without any robbery, rapine, or usurpation."
+    },
+    {
+     "id": "poole/PHP.2.6#p17-1930db82",
+     "text": "And if Socinus urge that it is absurd and false in any sense to say, God thought he had robbed, or taken by robbery, the Divine essence; then this contradictory, God thought not he took by robbery the Divine essence, is rational and true; as when it is said, God cannot lie, or God changeth not, as 1Sa 15:29 Isa 55:8 Mal 3:6. What things are denied of God, do not imply the opposites are affirmed of him. The particle but, which follows in its proper place before made himself of no reputation, may be fairly joined with this sense.",
+     "refs": [
+      {
+       "text": "1Sa 15:29",
+       "ref": "1SA.15.29"
+      },
+      {
+       "text": "Isa 55:8",
+       "ref": "ISA.55.8"
+      },
+      {
+       "text": "Mal 3:6",
+       "ref": "MAL.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p18-9d664b82",
+     "text": "For if Christ should know that by rapine and unjust usurpation he was equal to God, (as likely the attempt to be so was the sin of our first parents, which robbery of theirs Christ came to expiate), he had not emptied himself, nor vouchsafed to abase himself."
+    },
+    {
+     "id": "poole/PHP.2.6#p19-e5726ec7",
+     "text": "neither is Christ said to be equal to God only in respect of his works, (which yet argue the same cause and principle, Joh 5:19,21,23,26,27 10:37), but absolutely, he thought it not robbery to be altogether equal with God, as subsisting in the same nature and essence, the original phrase connoting an exact parity. All the things of Christ (though he chose to have some of them veiled for a time) are equal to God; so some expound the neuter plural emphatically, (as usual amongst the Greeks), to answer the masculine singular foregoing, to express the ineffable sameness of the nature and essence of the Divine subsistents.",
+     "anchor": "To be equal with God",
+     "refs": [
+      {
+       "text": "Joh 5:19",
+       "ref": "JHN.5.19"
+      },
+      {
+       "text": "Joh 5:19",
+       "ref": "JHN.5.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p20-c70cda10",
+     "text": "It may be read: He counted it no robbery that those things which are his own should be equal to God, i.e. the Father; or rather, that he himself should in all things be equal or peer to God. For had Christ been only equal by a delegated power from God, why should the Jews have consulted to kill him, for making himself equal with God? Which with them was all one as to make himself God, Joh 5:18 10:33. But that he spake of his eternal generation, as owning him for his own Father, with whom he did work miracles, even as the Father did in his own name, by his own power, of himself, for his own glory: neither will the evangelist’s saying: The Son can do nothing of himself, Joh 5:19, infer an inequality with the Father, when what he doth is equally perfect in power and glory with the Father’s, whence, as son, he hath it by nature.",
+     "refs": [
+      {
+       "text": "Joh 5:19",
+       "ref": "JHN.5.19"
+      },
+      {
+       "text": "Joh 5:18",
+       "ref": "JHN.5.18"
+      },
+      {
+       "text": "Joh 5:19",
+       "ref": "JHN.5.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.6#p21-5fa20213",
+     "text": "For (looking lower) though every son receives from his father human nature, yet he is not less a man than his father, or his father more a man than he; the son having a being of the same perfection which is naturally in both. However the Father, to whom Christ is in subordination as the Son, and in office a servant, undertaking the work of mediation, may be said to be greater than the Son, that can only be understood with respect to the order of their working, if we compare texts, Joh 14:28 16:13-15. Neither, when Christ accounted it not robbery to be equal with God, is he said (as the adversaries urge) to be equal to himself, but to another person, viz. God the Father. Things may be equal which are so diverse, that yet they may be one in some common respect wherein they agree: wherefore when Christ is said to be equal with the Father, he is distinguished from him in person and subsistence, yet not in essence, wherein it is his due to be his equal, and therefore one.",
+     "refs": [
+      {
+       "text": "Joh 14:28",
+       "ref": "JHN.14.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.7",
+   "range": "PHP.2.7",
+   "kind": "passage",
+   "hash": "da6dbec4",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.7#p1-56644de3",
+     "text": "some expound this particle as a discretive, others an adversative, or redditive.",
+     "anchor": "But"
+    },
+    {
+     "id": "poole/PHP.2.7#p2-900ffc80",
+     "text": "i.e. most wittingly emptied himself, or abated himself, of the all fulness of glory he had equally with God the Father, that, considering the disproportion between the creature and the Creator, he, in the eyes of those amongst whom he tabernacled, appeared to have nothing of reputation left him, Dan 9:26. It is not said the form of God was cut off, or did empty itself; but he who did suffer in the form of God, made himself of no account, did empty, abate, or abase himself, (so the apostle elsewhere actively and passively useth the word, 1Co 11:15, with 2Co 9:3), and that indeed while subsisting in the form of God, (according to agreement, Zec 6:15 13:7), not by laying aside the nature of God, but in some other way, i.e. his own way, kept secret till he was pleased to manifest it, Rom 16:25 Col 1:26; by freely coming in the flesh, 1Ti 3:16 Heb 10:7; which is such an astonishing wonder, and mysterious abasement, as gains the greatest veneration from his saints.",
+     "anchor": "Made himself of no reputation",
+     "refs": [
+      {
+       "text": "Dan 9:26",
+       "ref": "DAN.9.26"
+      },
+      {
+       "text": "1Co 11:15",
+       "ref": "1CO.11.15"
+      },
+      {
+       "text": "2Co 9:3",
+       "ref": "2CO.9.3"
+      },
+      {
+       "text": "Zec 6:15",
+       "ref": "ZEC.6.15"
+      },
+      {
+       "text": "Rom 16:25",
+       "ref": "ROM.16.25"
+      },
+      {
+       "text": "Col 1:26",
+       "ref": "COL.1.26"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Heb 10:7",
+       "ref": "HEB.10.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p3-415b9c45",
+     "text": "Thus for a little time laying aside, at his own pleasure withdrawing, and going aside from his glorious majesty, he lessened himself for the salvation of his people. He had a liberty not to show his majesty, fulness, and glory during his pleasure, so that he could (as to our eyes) contract and shadow it, Joh 1:14 Col 2:9. His condescension was free, and unconstrained with the consent of his Father, Joh 3:13; so that thongh the Scripture saith: The Most High dwelleth not in temples made with hands, 1Ki 8:27 Isa 66:1 Mar 5:7 Act 7:48, yet the Son of the Highest can, at his own pleasure, show or eclipse his own glorious brightness, abate or let out his fulness, exalt or abase himself in respect of us. However, in his own simple and absolute nature, he be without variableness or shadow of turning, Jas 1:17 being his Father’s equal, and so abides most simple and immutable; yet respectively to his state, and what he had to manage for the redemption of lost man, with regard to the discovery he made of himself in the revelation of his Divine properties, the acknowledgment and celebration of them by the creatures, he emptied himself, not by ceasing to be what he was before, equal with his Father, or laying down the essential form of God, according to which he was equal to God; but by taking",
+     "refs": [
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Col 2:9",
+       "ref": "COL.2.9"
+      },
+      {
+       "text": "Joh 3:13",
+       "ref": "JHN.3.13"
+      },
+      {
+       "text": "1Ki 8:27",
+       "ref": "1KI.8.27"
+      },
+      {
+       "text": "Isa 66:1",
+       "ref": "ISA.66.1"
+      },
+      {
+       "text": "Mar 5:7",
+       "ref": "MRK.5.7"
+      },
+      {
+       "text": "Act 7:48",
+       "ref": "ACT.7.48"
+      },
+      {
+       "text": "Jas 1:17",
+       "ref": "JAS.1.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p4-2816e456",
+     "text": "wherein he was like to men, i.e. assuming something to himself he had not before, viz. the human nature; veiling himself, as the sun is said to be veiled, not in itself but in regard of the intervening cloud, Mat 27:39-45; what could hinder that he should not manifest his excellency now more, then less clearly; men one while acknowledging and praising it, another while neither acknowledging nor praising of it, then again praising of it, yet more sparingly?",
+     "anchor": "the form of a servant",
+     "refs": [
+      {
+       "text": "Mat 27:39-45",
+       "ref": "MAT.27.39-45"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p5-4d13224c",
+     "text": "He, by taking the form of a mean man, might so obscure the dignity of his person, as to the acknowledgment of him to be the Son of God, equal with his Father, that in vouching himself to be so he might be accounted a blasphemer; Joh 10:36; and, during that appearance, not seem to be the Most High; even as a king, by laying aside the tokens of his royalty, and putting on the habit of a merchant, when all the while he ceaseth not to be king, or the highest in his own dominions. Hence the Most High may be considered, either in regard of his nature, wherein he holdeth the highest degree of perfection, or in regard of those personal acts he performs in the business of our salvation.",
+     "refs": [
+      {
+       "text": "Joh 10:36",
+       "ref": "JHN.10.36"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p6-fd523e6e",
+     "text": "In the former, Christ is the Most High; in the latter, our Mediator. So the form of God was the term from which, and the form of a servant the term to which, he moved in his demission, or abasement; which did not simply lie in an assumption or union of the human nature to the Divine, for this doth abide still in Christ highly exalted, but in taking the form of a servant, which with the human nature he took, by being sent forth, made of a woman, under the law, Gal 4:4, but by his resurrection and glorification, lest that relation or habit of a servant, (being such a one who was also a Son, and a Lord, Heb 1:2, with Heb 3:6), when yet he retains the human nature still.",
+     "refs": [
+      {
+       "text": "Gal 4:4",
+       "ref": "GAL.4.4"
+      },
+      {
+       "text": "Heb 1:2",
+       "ref": "HEB.1.2"
+      },
+      {
+       "text": "Heb 3:6",
+       "ref": "HEB.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p7-9e335219",
+     "text": "As therefore he was of the seed of David according to the flesh, Rom 1:3, though before he had not flesh; so he took the form of a servant in the likeness of man, according to his human nature, although before he took that form he could not have human nature: he did not annihilate any thing he was before, only, of his own accord, bowed down himself, and veiled his own glory, in taking our nature, therein to be a servant unto death.",
+     "refs": [
+      {
+       "text": "Rom 1:3",
+       "ref": "ROM.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p8-fbfed6f3",
+     "text": "taking, (in the Greek, without any copulative and before it), in opposition to being, or subsisting; he was in the form of God, which he had before, and took this, which he had not then, into the unity of his subsistence, by a personal union, Heb 2:16. He was the servant of God, Isa 42:1 Mat 20:28, in the whole work of his condescension, which was gradual, else the apostle’s art to engage the Philippians to condescension had not been cogent from Christ’s example. For:",
+     "anchor": "And took upon him the form of a servant",
+     "refs": [
+      {
+       "text": "Heb 2:16",
+       "ref": "HEB.2.16"
+      },
+      {
+       "text": "Isa 42:1",
+       "ref": "ISA.42.1"
+      },
+      {
+       "text": "Mat 20:28",
+       "ref": "MAT.20.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p9-2ed10cf3",
+     "text": "1. He being increate, did assume to himself a created (not angelical, but) human nature with no reputation, in that regard taking the form of a servant, wherein he was like a man, as the next clause explains this. It was an infinite, inconceivable condescension of the Son of God, to take our nature into union with himself, whereby he who was very God, in all things like unto his Father, became like unto us in all things, sin only excepted, Rom 8:3 Heb 2:17. Hence:",
+     "refs": [
+      {
+       "text": "Rom 8:3",
+       "ref": "ROM.8.3"
+      },
+      {
+       "text": "Heb 2:17",
+       "ref": "HEB.2.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p10-1e200d86",
+     "text": "2. He did not immediately advance the nature he took into glory, but became a servant in it to his Father, to perform the most difficult service that ever God had to do in the world; he was not only"
+    },
+    {
+     "id": "poole/PHP.2.7#p11-9212e0e6",
+     "text": "as soon as a man, Rom 8:3, of the seed of Abraham, Heb 2:11-16; but subject to the law, Luk 2:42,51 Ga 4:4, in a mean condition from his birth, despicable in the judgment of the world, his mother poor, &c., Isa 53:2,3 Mt 2:14 8:20 13:55 Mar 6:3 Luk 2:7,22,24 22:27; so that in finishing his work he was exposed to scorn, Psa 22:6,7 Isa 53:1,2; however, all the relation of his service was to God the Father, as his antecedent correlate.",
+     "anchor": "in the likeness of sinful flesh",
+     "refs": [
+      {
+       "text": "Rom 8:3",
+       "ref": "ROM.8.3"
+      },
+      {
+       "text": "Heb 2:11-16",
+       "ref": "HEB.2.11-16"
+      },
+      {
+       "text": "Luk 2:42",
+       "ref": "LUK.2.42"
+      },
+      {
+       "text": "Isa 53:2",
+       "ref": "ISA.53.2"
+      },
+      {
+       "text": "Mar 6:3",
+       "ref": "MRK.6.3"
+      },
+      {
+       "text": "Luk 2:7",
+       "ref": "LUK.2.7"
+      },
+      {
+       "text": "Psa 22:6",
+       "ref": "PSA.22.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p12-8fdf1801",
+     "text": "To the further clearing of what went before, the apostle adds, in the likeness, or habit, of men, without any copulative particle, by apposition for fuller explication, (compare forecited parallel places), connoting his employment, (rather than condition), having a true body and a reasonable soul for this purpose, according to the prophecy, to be servant to his Father, Isa 42:1. And if the adversaries say: He only took on him the form of a servant, when he suffered himself to be beaten, &c.; it is easily answered: These were only consequents upon the form of a servant; one may be a servant, and yet not beaten; and when they so treated our Saviour, he acconnted it dealing with him as a malefactor, Luk 22:52. Christ obeyed not men, but God the Father, to whom alone he was servant, when made man, Psa 40:6-8. It is the nature of lord and servant, to relate to each other.",
+     "refs": [
+      {
+       "text": "Isa 42:1",
+       "ref": "ISA.42.1"
+      },
+      {
+       "text": "Luk 22:52",
+       "ref": "LUK.22.52"
+      },
+      {
+       "text": "Psa 40:6-8",
+       "ref": "PSA.40.6-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p13-c1504edb",
+     "text": "Every servant is a man (brutes are not servants). Labouring in service accompanies the human nature, which is common to Christ with other men, on whom it crept by the fall: Christ regards none others’ will but the will of his Father, how hard soever it was, even to the laying down of his life for the reconciling of his church to him. And be sure he died as a man, and not only in the habit of a servant. Only in human nature could he (as it follows without a particle in the Greek) be made like unto men, or in the likeness and habit of men. The Hellenists do use words of similitude, when they design sameness, or the thing itself, and that indeed essentially."
+    },
+    {
+     "id": "poole/PHP.2.7#p14-a05fb6c0",
+     "text": "For however it be urged, that likeness be opposed to the same, and that which is true, Joh 9:9, yet not always; as one egg is like to another, there is convenience in quality, and that in substance is included.",
+     "refs": [
+      {
+       "text": "Joh 9:9",
+       "ref": "JHN.9.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p15-3137ccd0",
+     "text": "Christ is like to other men in human properties, and an afflicted state, so that sameness of nature cannot be denied, Rom 8:3 Heb 2:16,17; or rather sameness of kind, though not of number, it being by a synecdoche to be understood generally, Gen 1:3 Mat 1:16 Joh 1:14 Heb 4:15 1Jn 1:1 1Jn 4:2,3. The properties of human nature are of the essence he took, who was found in habit as a man, when yet he was separate from sinners, 2Co 5:21, with Heb 7:26;",
+     "refs": [
+      {
+       "text": "Rom 8:3",
+       "ref": "ROM.8.3"
+      },
+      {
+       "text": "Heb 2:16",
+       "ref": "HEB.2.16"
+      },
+      {
+       "text": "Gen 1:3",
+       "ref": "GEN.1.3"
+      },
+      {
+       "text": "Mat 1:16",
+       "ref": "MAT.1.16"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Heb 4:15",
+       "ref": "HEB.4.15"
+      },
+      {
+       "text": "1Jn 1:1",
+       "ref": "1JN.1.1"
+      },
+      {
+       "text": "1Jn 4:2",
+       "ref": "1JN.4.2"
+      },
+      {
+       "text": "2Co 5:21",
+       "ref": "2CO.5.21"
+      },
+      {
+       "text": "Heb 7:26",
+       "ref": "HEB.7.26"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p16-dd0cdac3",
+     "text": "yet the apostle’s business here, is not of Christ’s sinlessness in that condition, but of his condescending love, in taking on him that condition, being sent in the likeness of sinful flesh, yet without sin. It is a likeness of nature to all men, and not a likeness of innocency only to the first, Gen 5:1, that Paul here speaks of: And as it is said, Joh 1:14: The Word was made flesh; so here, Christ is made in the likeness of men, that we may understand it is the same numerical person, who was in the form of God, that was made man;",
+     "refs": [
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Gen 5:1",
+       "ref": "GEN.5.1"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.7#p17-cba8ddbc",
+     "text": "the abasement of God-man being so great, that he was made like to man, i.e. to mere and bare man, though he was more. Nor only did he appear in many forms, (as might be under the Old Testament), or was joined to man, but personally assumed a true body and a reasonable soul, and so was very man, as well as very God. For when it is not said simply made man, but with that addition, in the likeness, it is done to a notable limitation of his station on each part; on God’s part it imports, Christ did not lay aside the Divine nature, but only (veiled) his majesty and power;"
+    },
+    {
+     "id": "poole/PHP.2.7#p18-260edf37",
+     "text": "on man’s, to exclude sin, viz. that he was true man, yet only like to all other men. But what is now the natural affection of all men from the fall of Adam, and is an infirmity and abatement, as to that, he was without sin, and only in the likeness of sinful flesh."
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.8",
+   "range": "PHP.2.8",
+   "kind": "passage",
+   "hash": "d3eb2a74",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.8#p1-d9eed9e6",
+     "text": "To be found is a mere Hebraism, not unusual in the New Testament, not importing auy question of the thing, but only the thing certainly happening beyond expectation. It notes here, not his being apprehended of the soldiers when betrayed by Judas, being before his humble obedience, but his being, and really appearing to be, (as the Greek word is elsewhere used, Php 3:9 Gen 5:24 2Co 5:3 Gal 2:17 Heb 11:5, with 1Pe 1:7), as a man, simply considered, among men, which was before his being scourged, &c. consequent upon his apprehension.",
+     "refs": [
+      {
+       "text": "Php 3:9",
+       "ref": "PHP.3.9"
+      },
+      {
+       "text": "Gen 5:24",
+       "ref": "GEN.5.24"
+      },
+      {
+       "text": "2Co 5:3",
+       "ref": "2CO.5.3"
+      },
+      {
+       "text": "Gal 2:17",
+       "ref": "GAL.2.17"
+      },
+      {
+       "text": "Heb 11:5",
+       "ref": "HEB.11.5"
+      },
+      {
+       "text": "1Pe 1:7",
+       "ref": "1PE.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p2-8a49d181",
+     "text": "Now being made man, not reserved for a time, like the angels, for heaven itself and the view of angels; neither, from the privilege of the first man, (which Adam could not keep), did he reserve himself for the inhabiting of Paradise only: but, after the manner of men, he stayed in this earth amongst and conversed with them, and therefore is said to be in the fashion of men, or as a man; whereby his habit and deportment is more especially expressed, as his essence in the foregoing phrase."
+    },
+    {
+     "id": "poole/PHP.2.8#p3-8087759d",
+     "text": "here, is considered according to what is proper unto human nature, not having the article prefixed, as if it connoted the first man, Adam, only man as man; the particle as, here, not intimating only likeness, without reality of nature, (as the Marcionites conceited), but as a confirming and assuring particle, noting certainty, Joh 1:14. Some indeed take fashion more strictly, as noting only the external figure of Christ’s body;",
+     "anchor": "Man",
+     "refs": [
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p4-974c6f22",
+     "text": "others, more largely and commodiously, for the whole outward species of human nature: whence the truth of the human nature shined out, not only in the figure and matter of the body, with true flesh and bones, the habit of his members, mouth, eyes, &c., that he might be seen and touched, 1Jn 1:1, as he himself allegeth, Luk 24:39 Joh 20:20,27, growing in wisdom and stature, Luk 2:52;",
+     "refs": [
+      {
+       "text": "1Jn 1:1",
+       "ref": "1JN.1.1"
+      },
+      {
+       "text": "Luk 24:39",
+       "ref": "LUK.24.39"
+      },
+      {
+       "text": "Joh 20:20",
+       "ref": "JHN.20.20"
+      },
+      {
+       "text": "Luk 2:52",
+       "ref": "LUK.2.52"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p5-2b3b9893",
+     "text": "but his labouring with hunger, thirst, and weariness, eating, drinking, sleeping, watching, speaking, gestures, being moved with pity, sorrow, joy, weeping, in all which his human nature was evidenced of God, and easily found of men who conversed with him, Joh 4:29 9:11 18:22. What the Socinians urge, that this gainsays his being incarnate, from Samson’s saying, I shall be weak, and be as another man, Jud 16:7,11;",
+     "refs": [
+      {
+       "text": "Joh 4:29",
+       "ref": "JHN.4.29"
+      },
+      {
+       "text": "Jud 16:7",
+       "ref": "JUD.16.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p6-fe0f4c98",
+     "text": "there is no strength in the allegation, that Samson, of Dan’s tribe, Jud 13:2, should be compared with Christ coming from heaven, (as they themselves do not deny), found in fashion as a man: because Samson, being stronger than a hundred men, if he were dealt so and so withal would become as other men, (for that is the import of the words), no stronger than any other man, Jud 16:17; whereas here, it is not said as one, any, or every, but simply as a man: and from those in power dying as other men, Psa 82:7. When they scoffingly ask: Doth it evidence these to be incarnate? It is answered: Though he who was strong as many became weak as any one man;",
+     "refs": [
+      {
+       "text": "Jud 13:2",
+       "ref": "JUD.13.2"
+      },
+      {
+       "text": "Jud 16:17",
+       "ref": "JUD.16.17"
+      },
+      {
+       "text": "Psa 82:7",
+       "ref": "PSA.82.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p7-e1e3b058",
+     "text": "they who live in power die in weakness, as other men do, and are not said to be incarnate: yet he who, being equal with God, took on him the form of a servant, and was in this world a very man, may very well be said to be incarnate, 1Ti 3:16.",
+     "refs": [
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p8-058d5ce7",
+     "text": "he doth not say he was humbled or depressed by the just judgment of God, but of himself, voluntarily, on his own accord, without any constraint. He did really submit himself to the will of his Father, unto whom he was a servant, both in regard of the Divine nature, which he veiled, and also the human in his whole life, Luk 1:48, both outwardly and inwardly, Php 2:5, in thoughts and affections, as well as actions and passions: wholly yielding his own will and appetite to God, by a patient subjection to affliction, not in showing humility only, but really undergoing it. For we find this low degree of his humiliation opposed to his superexaltation, in the following verse, and agreeing with what Isaiah prophesied of him, Isa 53:7, expounded by Philip, Act 8:32.",
+     "anchor": "He humbled himself",
+     "refs": [
+      {
+       "text": "Luk 1:48",
+       "ref": "LUK.1.48"
+      },
+      {
+       "text": "Php 2:5",
+       "ref": "PHP.2.5"
+      },
+      {
+       "text": "Isa 53:7",
+       "ref": "ISA.53.7"
+      },
+      {
+       "text": "Act 8:32",
+       "ref": "ACT.8.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.8#p9-fbf33daf",
+     "text": "without the copulative in the Greek, and expressing the manner of his humiliation, being of his own free will, and not by any force; made obedient, i.e. to God, (Not my will, but thine be done), to others, parents and magistrates, for God, according to the prescript of his law and will, in his life-time",
+     "anchor": "And became obedient unto death"
+    },
+    {
+     "id": "poole/PHP.2.8#p10-edf61b70",
+     "text": "and in death; unto being taken here, not exclusively, but inclusively, for the further amplification of the obedience, Mat 26:42 Joh 4:34 8:29,46 Heb 10:9. Had he staid in his life for degrees of obedience, his condescension had been admirable, but that he should submit to a penal and painful death, (taking in his burial, and abiding in a separate state till the third day), this is stupendous: aggravated by the shame of dying on the cross, willingly and meekly yielding himself, though a Son, to that ignominious, cursed death, Deu 21:23 Act 5:30 Gal 3:10,13 Heb 12:2; far more reproachful than beheading, hanging, or burning; out of unspeakable love, to bring us nigh unto God, Rom 5:19 Col 2:14 1Pe 2:24 3:18. Upon these considerations, how should Christians in mutual love condescend to each other!",
+     "anchor": "unto death",
+     "refs": [
+      {
+       "text": "Mat 26:42",
+       "ref": "MAT.26.42"
+      },
+      {
+       "text": "Joh 4:34",
+       "ref": "JHN.4.34"
+      },
+      {
+       "text": "Deu 21:23",
+       "ref": "DEU.21.23"
+      },
+      {
+       "text": "Act 5:30",
+       "ref": "ACT.5.30"
+      },
+      {
+       "text": "Gal 3:10",
+       "ref": "GAL.3.10"
+      },
+      {
+       "text": "Rom 5:19",
+       "ref": "ROM.5.19"
+      },
+      {
+       "text": "Col 2:14",
+       "ref": "COL.2.14"
+      },
+      {
+       "text": "1Pe 2:24",
+       "ref": "1PE.2.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.9",
+   "range": "PHP.2.9",
+   "kind": "passage",
+   "hash": "037a6090",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.9#p1-4f6cb5cb",
+     "text": "some take this particle illatively, connoting the consequent of Christ’s exaltation, upon his antecedent humiliation, as elsewhere, Joh 10:17 Act 20:26 Heb 3:7 2Pe 1:10; the apostle showing the sequel of his sufferings to be glory, according to that of Luk 24:26. This the Ethiopic version favours.",
+     "anchor": "Wherefore",
+     "refs": [
+      {
+       "text": "Joh 10:17",
+       "ref": "JHN.10.17"
+      },
+      {
+       "text": "Act 20:26",
+       "ref": "ACT.20.26"
+      },
+      {
+       "text": "Heb 3:7",
+       "ref": "HEB.3.7"
+      },
+      {
+       "text": "2Pe 1:10",
+       "ref": "2PE.1.10"
+      },
+      {
+       "text": "Luk 24:26",
+       "ref": "LUK.24.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.9#p2-67aa1385",
+     "text": "Christ respecting not himself, but us, and our good, the glory that he had eternally, but veiled for a time, emerging (as the sun out of a cloud) upon his finishing the work his Father gave him to do, Joh 17:5 Rom 9:5. Others take the particle causally, intimating Christ’s meriting his own exaltation and our salvation, and his accepting of superexcellent glory as a reward of his unparalleled obedience, though he might have challenged it by virtue of the personal union, Heb 13:20, with Heb 12:2: obedience superior to angels’ required a recompence superior to their glory, and Christ might, upon his exquisite obedience, demand his own mediatory glory, as being our Head, and that being the beginning and cause of ours. However, whether the particle of order note that of consequence, or causality, or both, there is no need of controversy, (because of the communication of properties), since the person of Christ, as God-man, was glorified.",
+     "refs": [
+      {
+       "text": "Joh 17:5",
+       "ref": "JHN.17.5"
+      },
+      {
+       "text": "Rom 9:5",
+       "ref": "ROM.9.5"
+      },
+      {
+       "text": "Heb 13:20",
+       "ref": "HEB.13.20"
+      },
+      {
+       "text": "Heb 12:2",
+       "ref": "HEB.12.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.9#p3-176c1130",
+     "text": "the Greek elegancy imports superexalted, or exalted with all exaltation, answering to his gradual humiliation; above the grave in his resurrection, the earth in his ascension, and above the heavens, at his Father’s right hand, upon the throne of his glory, to judge the world, Eph 1:20-22 4:10.",
+     "anchor": "God also hath highly exalted him",
+     "refs": [
+      {
+       "text": "Eph 1:20-22",
+       "ref": "EPH.1.20-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.9#p4-1cfc67fa",
+     "text": "some take name literally, restraining it to Jesus, but those letters and syllables are not above every name, it being common to others, Ezr 2:2 10:18 Hag 1:1 Act 7:45 Col 4:11 Heb 4:8, though upon a different account it was to Christ, even before his incarnation, Luk 1:31. Others, for the name of the only begotten Son of God the Father, Joh 1:14, (with Heb 1:4, and Heb 5:8), who was more eminently manifested in his exaltation, to angels and to men, than before.",
+     "anchor": "And given him a name",
+     "refs": [
+      {
+       "text": "Ezr 2:2",
+       "ref": "EZR.2.2"
+      },
+      {
+       "text": "Hag 1:1",
+       "ref": "HAG.1.1"
+      },
+      {
+       "text": "Act 7:45",
+       "ref": "ACT.7.45"
+      },
+      {
+       "text": "Col 4:11",
+       "ref": "COL.4.11"
+      },
+      {
+       "text": "Heb 4:8",
+       "ref": "HEB.4.8"
+      },
+      {
+       "text": "Luk 1:31",
+       "ref": "LUK.1.31"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Heb 1:4",
+       "ref": "HEB.1.4"
+      },
+      {
+       "text": "Heb 5:8",
+       "ref": "HEB.5.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.9#p5-2885eaca",
+     "text": "Others, not for any title, but the thing consequent upon his humiliation, surpassing that of all creatures, potentates on earth, and angels in heaven, Eph 1:20,21. Name imports power, Act 3:6 4:7 Rev 5:12; of the Christ, the Saviour, Mat 12:21 Joh 4:42 Act 4:11,12 10:43, at God’s right hand, where he living to intercede, makes all comfortable to us, who in his name alone do believe, pray, praise, and do all that shall find acceptance, Mat 18:20 28:19 Joh 1:12 3:18 14:13 Rom 10:13,14 Col 3:17. Power to confer all for the good of his church being given him upon his death, when with respect to the creatures he received a glory, not in regard of himself, and in itself, but in regard of its patefaction to others; from which glory, during the time of his humiliation, he had by a voluntary dispensation abstained; and the exercise of that authority conferred upon him as Mediator in that human nature, he had so obediently subjected himself to the cross. Though as God there was a manifestation, yet there was no intrinsical addition of glory; he did as man receive the name, or glory, he had from all eternity as God. So that the name or glory given relates to him according to both natures, as Mediator, God-man: not as God, so he could not be exalted at all, being the Most High; not as mere man, so a creature is not capable of Divine worship, which in what follows is expressly required to be given to him, who is superexalted by God’s right hand, above every name, and every thing known by any name, Act 2:24,33,36 5:31 1Co 15:25 Rev 17:14, with Rev 19:16.",
+     "refs": [
+      {
+       "text": "Eph 1:20",
+       "ref": "EPH.1.20"
+      },
+      {
+       "text": "Act 3:6",
+       "ref": "ACT.3.6"
+      },
+      {
+       "text": "Rev 5:12",
+       "ref": "REV.5.12"
+      },
+      {
+       "text": "Mat 12:21",
+       "ref": "MAT.12.21"
+      },
+      {
+       "text": "Joh 4:42",
+       "ref": "JHN.4.42"
+      },
+      {
+       "text": "Act 4:11",
+       "ref": "ACT.4.11"
+      },
+      {
+       "text": "Mat 18:20",
+       "ref": "MAT.18.20"
+      },
+      {
+       "text": "Joh 1:12",
+       "ref": "JHN.1.12"
+      },
+      {
+       "text": "Rom 10:13",
+       "ref": "ROM.10.13"
+      },
+      {
+       "text": "Act 2:24",
+       "ref": "ACT.2.24"
+      },
+      {
+       "text": "1Co 15:25",
+       "ref": "1CO.15.25"
+      },
+      {
+       "text": "Rev 17:14",
+       "ref": "REV.17.14"
+      },
+      {
+       "text": "Rev 19:16",
+       "ref": "REV.19.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.10",
+   "range": "PHP.2.10",
+   "kind": "passage",
+   "hash": "b64b9184",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.10#p1-9601e3e5",
+     "text": "in the old translation by bishops in Queen Elizabeth’s time, (and some say in the manuscripts of this), it is in the name. However, in ours now, it is not appositively, at the name Jesus; but constructively, of Jesus, intimating, that the power, glory, and majesty of him who hath that name, unto which every knee is bowed, is that name which is above every name; which would not hold true, if the name were taken for the very word",
+     "anchor": "At the name of Jesus"
+    },
+    {
+     "id": "poole/PHP.2.10#p2-d8a0160b",
+     "text": "that (as before) being common to others in Hebrew, Greek, and Latin, yea, and English. Besides, neither in letters, nor syllables, nor sound, nor time, hath that word any thing above other words.",
+     "anchor": "Jesus"
+    },
+    {
+     "id": "poole/PHP.2.10#p3-85a4682e",
+     "text": "bowing of the knee is meant metonymically, and metaphorically, because some of those hereafter named, from whom the homage is due, have neither knees nor tongues, yet must, either willingly or by constraint, yield subjection and obedience to the sovereign authority of Christ, here and hereafter, Mat 11:27 28:18 Joh 5:22,23 Ac 3:15; all creatures being made subject to him, Heb 2:8. Some of the papists, searching for their subterraneous, fictitious purgatory, would restrain it to men, but that would straiten and diminish the august glory of Christ, exalted above every name, who had, even here in his humiliation, homage from unclean spirits, Mar 5:6,7,10,12 Lu 8:31 Jas 2:19; how much more when at his tribunal his consummate glory shall be manifest to all! Which the apostle hath ultimately a reference to, according to the evangelist, Mat 16:27 24:30. Then shall his equality with his Father, and his superlative glory as Mediator, be manifested to all, good and bad, angels as well as men, who shall be subjected to his sovereign Majesty, as the Lord God omnipotent; the good willingly, and the bad by constraint, Isa 45:23 Act 17:31 Rom 2:16 14:10,11 2Co 5:10.",
+     "anchor": "Every knee should bow",
+     "refs": [
+      {
+       "text": "Mat 11:27",
+       "ref": "MAT.11.27"
+      },
+      {
+       "text": "Joh 5:22",
+       "ref": "JHN.5.22"
+      },
+      {
+       "text": "Heb 2:8",
+       "ref": "HEB.2.8"
+      },
+      {
+       "text": "Mar 5:6",
+       "ref": "MRK.5.6"
+      },
+      {
+       "text": "Jas 2:19",
+       "ref": "JAS.2.19"
+      },
+      {
+       "text": "Mat 16:27",
+       "ref": "MAT.16.27"
+      },
+      {
+       "text": "Isa 45:23",
+       "ref": "ISA.45.23"
+      },
+      {
+       "text": "Act 17:31",
+       "ref": "ACT.17.31"
+      },
+      {
+       "text": "Rom 2:16",
+       "ref": "ROM.2.16"
+      },
+      {
+       "text": "2Co 5:10",
+       "ref": "2CO.5.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.10#p4-682f8c0f",
+     "text": "good angels, from whom he had homage and service here, Psa 97:7 Mat 2:13 4:11 Luk 1:30,31 2:13 Heb 1:6 at his resurrection, and ascension, Mat 28:6 Act 1:11 much more in his glory, Mat 24:31 25:31 Eph 1:21,22 Col 1:16 2:10 2Th 1:7 and the spirits of just men made perfect, Heb 12:22,23 Re 4:6, &c.; Rev 5:9,10.",
+     "anchor": "Of things in heaven",
+     "refs": [
+      {
+       "text": "Psa 97:7",
+       "ref": "PSA.97.7"
+      },
+      {
+       "text": "Mat 2:13",
+       "ref": "MAT.2.13"
+      },
+      {
+       "text": "Luk 1:30",
+       "ref": "LUK.1.30"
+      },
+      {
+       "text": "Heb 1:6",
+       "ref": "HEB.1.6"
+      },
+      {
+       "text": "Mat 28:6",
+       "ref": "MAT.28.6"
+      },
+      {
+       "text": "Act 1:11",
+       "ref": "ACT.1.11"
+      },
+      {
+       "text": "Mat 24:31",
+       "ref": "MAT.24.31"
+      },
+      {
+       "text": "Eph 1:21",
+       "ref": "EPH.1.21"
+      },
+      {
+       "text": "2Th 1:7",
+       "ref": "2TH.1.7"
+      },
+      {
+       "text": "Heb 12:22",
+       "ref": "HEB.12.22"
+      },
+      {
+       "text": "Rev 5:9",
+       "ref": "REV.5.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.10#p5-c4bc1a3e",
+     "text": "good men willingly, Psa 110:3 Act 10:33 1Jn 5:3; and bad by force, Psa 2:9 Luk 19:27 Heb 2:14.",
+     "anchor": "And things in earth",
+     "refs": [
+      {
+       "text": "Psa 110:3",
+       "ref": "PSA.110.3"
+      },
+      {
+       "text": "Act 10:33",
+       "ref": "ACT.10.33"
+      },
+      {
+       "text": "1Jn 5:3",
+       "ref": "1JN.5.3"
+      },
+      {
+       "text": "Psa 2:9",
+       "ref": "PSA.2.9"
+      },
+      {
+       "text": "Luk 19:27",
+       "ref": "LUK.19.27"
+      },
+      {
+       "text": "Heb 2:14",
+       "ref": "HEB.2.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.10#p6-acd5bd76",
+     "text": "either the dead, who are hid in the earth, and shall be raised by the power of Christ, in, or upon them, Act 24:15: or, devils, and wicked souls; for though devils move in the air by God’s permission, Eph 2:2; yet hell is the place prepared for them, and the wicked, Mat 7:23 25:41 Luk 8:31 2Pe 2:4 Jud 1:6. Upon Christ’s exaltation, all things above, and in the world, are subjected to his dominion. If it be said: On the earth, and under it, they rebel; I answer: They are bound to obey, Mat 4:9,10, and will be forced to submit to the penalty for disobedience. Christ doth at present exercise a sovereignty over bad men and devils, in limiting and punishing them as he pleaseth, Job 1:11,12 Lu 4:34,35 Lu 8:32 19:27 2Pe 2:6 Rev 2:10.",
+     "anchor": "And things under the earth",
+     "refs": [
+      {
+       "text": "Act 24:15",
+       "ref": "ACT.24.15"
+      },
+      {
+       "text": "Eph 2:2",
+       "ref": "EPH.2.2"
+      },
+      {
+       "text": "Mat 7:23",
+       "ref": "MAT.7.23"
+      },
+      {
+       "text": "Luk 8:31",
+       "ref": "LUK.8.31"
+      },
+      {
+       "text": "2Pe 2:4",
+       "ref": "2PE.2.4"
+      },
+      {
+       "text": "Jud 1:6",
+       "ref": "JUD.1.6"
+      },
+      {
+       "text": "Mat 4:9",
+       "ref": "MAT.4.9"
+      },
+      {
+       "text": "Job 1:11",
+       "ref": "JOB.1.11"
+      },
+      {
+       "text": "2Pe 2:6",
+       "ref": "2PE.2.6"
+      },
+      {
+       "text": "Rev 2:10",
+       "ref": "REV.2.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.11",
+   "range": "PHP.2.11",
+   "kind": "passage",
+   "hash": "c891b0c5",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.11#p1-da0c7ec1",
+     "text": "By tongue, not only every language, people, and nation is meant; because it is to be understood, as before particularized, of angels as well as men, for though angels properly, and by nature, want tongues, (as well as knees, which are both here joined, and must not be severed, in the worship given to Christ), yet in their manner of speaking to men, under an extraordinary dispensation, they may use them, (or that which is equivalent), 1Co 13:1; and, in a way proper to them, can",
+     "refs": [
+      {
+       "text": "1Co 13:1",
+       "ref": "1CO.13.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.11#p2-8228f2f0",
+     "text": "or express, their adoration of Christ, Rev 7:9-12, either with delight, or by a forced subjection, Rev 6:16, and acknowledge that he is Lord, i.e. of glory, Rom 11:36 1Co 2:8 8:6, the Son of God, 2Co 4:5 Heb 1:2,4, having only power to command the soul and conscience, Jas 4:12, and to save, Heb 7:27, being Lord both of the dead and of the living, Rom 14:9.",
+     "anchor": "confess",
+     "refs": [
+      {
+       "text": "Rev 7:9-12",
+       "ref": "REV.7.9-12"
+      },
+      {
+       "text": "Rev 6:16",
+       "ref": "REV.6.16"
+      },
+      {
+       "text": "Rom 11:36",
+       "ref": "ROM.11.36"
+      },
+      {
+       "text": "1Co 2:8",
+       "ref": "1CO.2.8"
+      },
+      {
+       "text": "2Co 4:5",
+       "ref": "2CO.4.5"
+      },
+      {
+       "text": "Heb 1:2",
+       "ref": "HEB.1.2"
+      },
+      {
+       "text": "Jas 4:12",
+       "ref": "JAS.4.12"
+      },
+      {
+       "text": "Heb 7:27",
+       "ref": "HEB.7.27"
+      },
+      {
+       "text": "Rom 14:9",
+       "ref": "ROM.14.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.11#p3-2deb2c53",
+     "text": "some render, in the glory of the Father. Either in that the honour of Christ redoundeth to the honour of the Father, Pro 10:1, with Joh 5:23 Eph 1:6: or the Father doth most glorify the Son in his exaltation, who had most glorified him in his humiliation, Joh 12:28, with Joh 17:5,6.",
+     "anchor": "To the glory of God the Father",
+     "refs": [
+      {
+       "text": "Pro 10:1",
+       "ref": "PRO.10.1"
+      },
+      {
+       "text": "Joh 5:23",
+       "ref": "JHN.5.23"
+      },
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      },
+      {
+       "text": "Joh 12:28",
+       "ref": "JHN.12.28"
+      },
+      {
+       "text": "Joh 17:5",
+       "ref": "JHN.17.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.12",
+   "range": "PHP.2.12",
+   "kind": "passage",
+   "hash": "5883281c",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.12#p1-1a72e760",
+     "text": "having confirmed the example of Christ’s admirable condescension and affection from the glorious issue of it, he doth here reassume his exhortation, with a friendly compellation, commending their former sincere endeavours to obey the gospel (so Php 1:5, and Php 2:15) in following Christ, Mat 11:28, and moving them to persevere in obedience and love to God and man.",
+     "anchor": "Wherefore, my beloved, as ye have always obeyed",
+     "refs": [
+      {
+       "text": "Php 1:5",
+       "ref": "PHP.1.5"
+      },
+      {
+       "text": "Php 2:15",
+       "ref": "PHP.2.15"
+      },
+      {
+       "text": "Mat 11:28",
+       "ref": "MAT.11.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.12#p2-417acda7",
+     "text": "that it might be evident, whether the eye of their pastor were upon them or not, a prevailing love to Christ, and their own souls’ welfare, was prevalent with them; but especially, being he was now detained from them, and might be jealous of some defects in them, Jas 3:2 1Jn 1:8, did engage them more than any thing to embrace his exhortation, which he enlargeth in other words.",
+     "anchor": "Not as in my presence only, but now much more in my absence",
+     "refs": [
+      {
+       "text": "Jas 3:2",
+       "ref": "JAS.3.2"
+      },
+      {
+       "text": "1Jn 1:8",
+       "ref": "1JN.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.12#p3-0b1921c0",
+     "text": "he moves them as saints, Php 1:1, in whom God would perfect his work begun, Php 2:6, having given them to believe and suffer, Php 2:29, that they would seriously and earnestly busy themselves in those things, which on their parts are necessary to salvation, as Joh 6:27 Heb 6:9, and without which it cannot be had, as Php 1:10 Mat 24:13 Col 3:10,12, &c.; 1Ti 1:18,19 6:19 2Ti 2:5 4:7,8 2Pe 3:17; yea, press on in the way to their own salvation, as he moved, 1Ti 4:16, not that they should not be solicitous about others, for that mutual care is implied, as elsewhere required, Heb 3:13 10:24; but that every one should strenuously go on towards the mark with a special regard to himself, and the temptations he may meet with, knowing he must bear his own burden, Gal 6:1,5, and therefore should take heed lest he fall. The papists’ arguings hence that our actions are sufficient and meritorious causes of salvation, are altogether inconsequent. For the apostle doth not say our actions work out salvation, but:",
+     "anchor": "Work out your own salvation",
+     "refs": [
+      {
+       "text": "Php 1:1",
+       "ref": "PHP.1.1"
+      },
+      {
+       "text": "Php 2:6",
+       "ref": "PHP.2.6"
+      },
+      {
+       "text": "Php 2:29",
+       "ref": "PHP.2.29"
+      },
+      {
+       "text": "Joh 6:27",
+       "ref": "JHN.6.27"
+      },
+      {
+       "text": "Heb 6:9",
+       "ref": "HEB.6.9"
+      },
+      {
+       "text": "Php 1:10",
+       "ref": "PHP.1.10"
+      },
+      {
+       "text": "Mat 24:13",
+       "ref": "MAT.24.13"
+      },
+      {
+       "text": "Col 3:10",
+       "ref": "COL.3.10"
+      },
+      {
+       "text": "1Ti 1:18",
+       "ref": "1TI.1.18"
+      },
+      {
+       "text": "2Ti 2:5",
+       "ref": "2TI.2.5"
+      },
+      {
+       "text": "2Pe 3:17",
+       "ref": "2PE.3.17"
+      },
+      {
+       "text": "1Ti 4:16",
+       "ref": "1TI.4.16"
+      },
+      {
+       "text": "Heb 3:13",
+       "ref": "HEB.3.13"
+      },
+      {
+       "text": "Gal 6:1",
+       "ref": "GAL.6.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.12#p4-f3fa2546",
+     "text": "which is much different. It were absurd to say, because the Jews were enjoined to eat the passover with loins girt, that loins girt were eating of the passover. Indeed, what the papists urge is contrary to this doctrine of Paul, who doth elsewhere place blessedness in remission of sins, and shows eternal life is the gift of God, Rom 4:6,7 6:23; and we are saved by grace, not of works, Rom 3:20,24,25 4:16 Eph 2:8 Tit 3:5 and contrary to the main scope of the apostle, which is to beat down pride and conceit of deserving, and persuade to humility.",
+     "anchor": "Work out your own salvation",
+     "refs": [
+      {
+       "text": "Rom 4:6",
+       "ref": "ROM.4.6"
+      },
+      {
+       "text": "Rom 3:20",
+       "ref": "ROM.3.20"
+      },
+      {
+       "text": "Eph 2:8",
+       "ref": "EPH.2.8"
+      },
+      {
+       "text": "Tit 3:5",
+       "ref": "TIT.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.12#p5-5008fcad",
+     "text": "He drives at this, that we should not be idle or lazy in the business of salvation, but work together with God, (yet as instruments, in whom there is no strength which is not derived from him), that we may evidence we do not receive his grace in vain, 2Co 6:1,2. But this co-operation doth not respect the acquiring or meriting of salvation, which is proper to Christ alone, and incommunicable to any others, Act 4:12, who cannot be said to be their own saviours: this co-operation, or working out, respects only the application, not the performing of the payment, which Christ hath abundantly perfected: but the embracing of the perfect payment, is not that which can be the cause and foundation of right for which it is deservedly conferred; but only the way and means by which we come to partake of salvation.",
+     "refs": [
+      {
+       "text": "2Co 6:1",
+       "ref": "2CO.6.1"
+      },
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.12#p6-6bb972a4",
+     "text": "i.e. with a holy care to do all acceptably: he doth by these two words mean not any servile fear and slavish despondency, arising from doubting, Php 4:4, but only a serious, filial fear, implying a deep humility and submissiveness of mind, with a reverential awe of the Divine Majesty, and a solicitude to avoid that evil which is offensive to him and separates from him. We find these words used to the like import, Psa 2:11 Dan 5:19 Dan 6:26 Rom 11:20 with 1Co 2:3 2Co 7:5 Eph 6:5; connoting that, after the example of Christ, we should be humble, and though we distrust ourselves, yet we are to trust solely to God, (as an infant may be afraid, and yet cling fast to and depend upon, begging help of, the parent, going over a dangerous precipice), for the accomplishment of our salvation.",
+     "anchor": "With fear and trembling",
+     "refs": [
+      {
+       "text": "Php 4:4",
+       "ref": "PHP.4.4"
+      },
+      {
+       "text": "Psa 2:11",
+       "ref": "PSA.2.11"
+      },
+      {
+       "text": "Dan 5:19",
+       "ref": "DAN.5.19"
+      },
+      {
+       "text": "Dan 6:26",
+       "ref": "DAN.6.26"
+      },
+      {
+       "text": "Rom 11:20",
+       "ref": "ROM.11.20"
+      },
+      {
+       "text": "1Co 2:3",
+       "ref": "1CO.2.3"
+      },
+      {
+       "text": "2Co 7:5",
+       "ref": "2CO.7.5"
+      },
+      {
+       "text": "Eph 6:5",
+       "ref": "EPH.6.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.13",
+   "range": "PHP.2.13",
+   "kind": "passage",
+   "hash": "0e22f2d3",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.13#p1-828c2b17",
+     "text": "That they might not be negligent in working out their salvation with humility, from any conceit or carnal confidence any might have that they could believe and repent when they pleased, imagining their wills to be as pliable to good as evil; the apostle urgeth the effectual grace of God, as a powerful inducement and encouragement to embrace his exhortation."
+    },
+    {
+     "id": "poole/PHP.2.13#p2-b5a12e7c",
+     "text": "they should not despond of any attaining salvation, or think they did labour in vain in the diligent use of means, and should altogether fall under the dominion of sin, considering, though they were free agents, yet the efficiency and sufficiency was of God, Rom 6:13,14 1Co 4:7 2Co 3:5; who worketh within them powerfully and effectually, carrying on the work through all difficulties and obstacles, with victorious efficacy, till it be wrought, Php 1:6 Isa 41:4 Heb 13:20,21: God worketh not only by suasion to gain assent, but by a special energy effecting what he would have us to do.",
+     "anchor": "For it is God which worketh in you",
+     "refs": [
+      {
+       "text": "Rom 6:13",
+       "ref": "ROM.6.13"
+      },
+      {
+       "text": "1Co 4:7",
+       "ref": "1CO.4.7"
+      },
+      {
+       "text": "2Co 3:5",
+       "ref": "2CO.3.5"
+      },
+      {
+       "text": "Php 1:6",
+       "ref": "PHP.1.6"
+      },
+      {
+       "text": "Isa 41:4",
+       "ref": "ISA.41.4"
+      },
+      {
+       "text": "Heb 13:20",
+       "ref": "HEB.13.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.13#p3-fdcb792f",
+     "text": "and not only in a general way, Act 17:28, but in a special way, making us willing, Psa 110:3, remotely in regard of the principle, nextly in regard of the act: circumcising the heart, Deu 30:6; taking away the heart of stone, and giving a heart of flesh, Eze 11:19 36:26,27; causing light to shine out of darkness, 2Co 4:6; and so renewing the will, to choose that which is savingly good, the natural bent of which, before the influence of this insuperable grace, stands another way, Joh 8:44, viz. to will and do contrary: yet he doth not necessitate by any compulsion, but powerfully, yet sweetly, and suitably to man’s free faculty, incline the will to that which is good, Joh 6:37,44, i.e. to a certain effect. For the will influenced to will that it doth perform, it undoubtedly wills somewhat that is certain, and so is determined by God.",
+     "anchor": "Both to will",
+     "refs": [
+      {
+       "text": "Act 17:28",
+       "ref": "ACT.17.28"
+      },
+      {
+       "text": "Psa 110:3",
+       "ref": "PSA.110.3"
+      },
+      {
+       "text": "Deu 30:6",
+       "ref": "DEU.30.6"
+      },
+      {
+       "text": "Eze 11:19",
+       "ref": "EZK.11.19"
+      },
+      {
+       "text": "2Co 4:6",
+       "ref": "2CO.4.6"
+      },
+      {
+       "text": "Joh 8:44",
+       "ref": "JHN.8.44"
+      },
+      {
+       "text": "Joh 6:37",
+       "ref": "JHN.6.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.13#p4-cff0baf3",
+     "text": "to do that which is savingly good. Whereupon being made willing, it hath not only an inclination, and doth not only exert a woulding, but, being moved by God’s insuperable grace, 1Co 3:7, that will is effectual, and is the very deed, where the command of the will is executed to the glory of God, as the author. As in alms, not only doth God incline the will to relieve the poor, but further contributes special gracious aids to perform what was deliberated, which evinceth that it is from another principle than ourselves. It is not, that ye may be able to will, and may be able to do; but he worketh",
+     "anchor": "And to do",
+     "refs": [
+      {
+       "text": "1Co 3:7",
+       "ref": "1CO.3.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.13#p5-79f2d4c5",
+     "text": "which connotes the very act itself; that ye will to believe, obey, pray, persevere, and that ye do believe, obey, pray, persevere: of unwilling, he makes willing; and further, to will and to do. It is true, to will, as it is an act of the will, is ours by creation; and to will well is so far ours, we being made effectually willing by God’s grace: yet not ours, as though of ourselves we begin to will, or go on, but it is of him who worketh in us. Not that we cannot will well, but that of ourselves we cannot will well. The precept therefore requiring our obedience does not show what we can or will of ourselves, but what we ought to will and to do by God’s special help. But though God work in us obedience, yet we obey, we ourselves act, being acted of God.",
+     "anchor": "both to will and to do"
+    },
+    {
+     "id": "poole/PHP.2.13#p6-74b00de5",
+     "text": "not for any previous disposition in any of us, but of, or according to, his own good pleasure, Luk 10:21 Eph 1:5,9,11 2:8 2Th 1:11, with 2Ti 1:9. In working out our own salvation, the very beginning in the will, as well as the perfection, is ascribed to the efficacy of God; his good pleasure is the procreating and helping cause of this work on the will, and not the will’s good pleasure.",
+     "anchor": "Of his good pleasure",
+     "refs": [
+      {
+       "text": "Luk 10:21",
+       "ref": "LUK.10.21"
+      },
+      {
+       "text": "Eph 1:5",
+       "ref": "EPH.1.5"
+      },
+      {
+       "text": "2Th 1:11",
+       "ref": "2TH.1.11"
+      },
+      {
+       "text": "2Ti 1:9",
+       "ref": "2TI.1.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.14",
+   "range": "PHP.2.14",
+   "kind": "passage",
+   "hash": "fe90e478",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.14#p1-fe90e478",
+     "text": "the apostle here subjoins to his exhortation to condescension and humility, a dissuasive from the opposite vices, moving them to do all that was incumbent on them as Christians without private mutterings, secret whisperings, and complainings, which might argue their impatience under the yoke of Christ, while put upon doing or suffering such things; either reflecting on God’s providence, as the Israelites of old, Num 11:1, &c.; 1Co 10:10; reckoning they had hard measure: or rather, (here considering the context), grudging at others, as the Greeks and Jews had done, Luk 5:30 Joh 6:41,42 Ac 6:1; yea, and some of the disciples were found guilty of this ill temper against their Master, Joh 6:61. Christian charity disallows grudgings, 1Pe 4:9 Jud 1:10; and also disputings; hot and eager contests and quarrellings about those things wherein the life and main business of religion is not concerned, but the unity of the Spirit of holiness is opposed, Mat 18:1 Mar 9:33 Luk 9:46 Rom 14:1 2Co 12:20, with 1Ti 1:6 2:8.",
+     "anchor": "Do all things without murmurings",
+     "refs": [
+      {
+       "text": "Num 11:1",
+       "ref": "NUM.11.1"
+      },
+      {
+       "text": "1Co 10:10",
+       "ref": "1CO.10.10"
+      },
+      {
+       "text": "Luk 5:30",
+       "ref": "LUK.5.30"
+      },
+      {
+       "text": "Joh 6:41",
+       "ref": "JHN.6.41"
+      },
+      {
+       "text": "Joh 6:61",
+       "ref": "JHN.6.61"
+      },
+      {
+       "text": "1Pe 4:9",
+       "ref": "1PE.4.9"
+      },
+      {
+       "text": "Jud 1:10",
+       "ref": "JUD.1.10"
+      },
+      {
+       "text": "Mat 18:1",
+       "ref": "MAT.18.1"
+      },
+      {
+       "text": "Mar 9:33",
+       "ref": "MRK.9.33"
+      },
+      {
+       "text": "Luk 9:46",
+       "ref": "LUK.9.46"
+      },
+      {
+       "text": "Rom 14:1",
+       "ref": "ROM.14.1"
+      },
+      {
+       "text": "2Co 12:20",
+       "ref": "2CO.12.20"
+      },
+      {
+       "text": "1Ti 1:6",
+       "ref": "1TI.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.15",
+   "range": "PHP.2.15",
+   "kind": "passage",
+   "hash": "267fa12e",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.15#p1-1d4f74ea",
+     "text": "that ye behave yourselves so that none can justly reproach you, Luk 1:6 and though you cannot altogether put to silence foolish men, Joh 15:25 1Pe 2:15, yet they cannot have any just cause to stain your reputation; but you may be found sincere, simple, void of guile, Mat 10:16 Joh 1:47 Rom 16:19 1Pe 2:1, with 1Pe 1:14.",
+     "anchor": "That ye may be blameless and harmless",
+     "refs": [
+      {
+       "text": "Luk 1:6",
+       "ref": "LUK.1.6"
+      },
+      {
+       "text": "Joh 15:25",
+       "ref": "JHN.15.25"
+      },
+      {
+       "text": "1Pe 2:15",
+       "ref": "1PE.2.15"
+      },
+      {
+       "text": "Mat 10:16",
+       "ref": "MAT.10.16"
+      },
+      {
+       "text": "Joh 1:47",
+       "ref": "JHN.1.47"
+      },
+      {
+       "text": "Rom 16:19",
+       "ref": "ROM.16.19"
+      },
+      {
+       "text": "1Pe 2:1",
+       "ref": "1PE.2.1"
+      },
+      {
+       "text": "1Pe 1:14",
+       "ref": "1PE.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.15#p2-fe150ab0",
+     "text": "without such spots and blemishes as are inconsistent with your adoption, or sonship, Eph 5:27. Sons of God, in regard of their relation, should be careful, as much as may be, that they do not expose themselves to the biting reproofs of those carping neighbours who are not of their Father’s family, Son 4:7 Mat 5:48 Eph 1:4 Jud 1:24.",
+     "anchor": "The sons of God, without rebuke",
+     "refs": [
+      {
+       "text": "Eph 5:27",
+       "ref": "EPH.5.27"
+      },
+      {
+       "text": "Son 4:7",
+       "ref": "SNG.4.7"
+      },
+      {
+       "text": "Mat 5:48",
+       "ref": "MAT.5.48"
+      },
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      },
+      {
+       "text": "Jud 1:24",
+       "ref": "JUD.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.15#p3-63f5b079",
+     "text": "who show by their lying in wickedness, 1Jn 5:19, and the uncured spots, yea, even plague sores, upon them who have notoriously corrupted themselves, that they are a perverse, crooked, untoward, and adulterous generation, Deu 32:5 Psa 125:5 Mat 12:39 Act 13:8,10.",
+     "anchor": "In the midst of a crooked and perverse nation",
+     "refs": [
+      {
+       "text": "1Jn 5:19",
+       "ref": "1JN.5.19"
+      },
+      {
+       "text": "Deu 32:5",
+       "ref": "DEU.32.5"
+      },
+      {
+       "text": "Psa 125:5",
+       "ref": "PSA.125.5"
+      },
+      {
+       "text": "Mat 12:39",
+       "ref": "MAT.12.39"
+      },
+      {
+       "text": "Act 13:8",
+       "ref": "ACT.13.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.15#p4-40968e35",
+     "text": "in conversing with such a sort of men, ye either do, or ought, unanimously to show yourselves to be light in the Lord, Mat 5:14,16 Eph 5:8,15; enlightened by the Sun of righteousness, Mal 4:2, to give a more clear light, that however the uncivil wicked would bespatter you, and cast reproach upon you in the necessary exercises of religion; yet, you not suffering as murderers, thieves, busybodies, &c., 1Pe 4:4,15,16, you will then, especially if Christ’s faithful ambassadors, show yourselves to be not such lantern or torchbearers as accompanied treacherous Judas, Joh 18:3, (however the ill men you live among may reckon you no better), but such light-bearers under Christ, (the Seventy use the word for stars, Gen 1:16 Dan 12:3 Rev 1:16,20), as irradiate the world; not a house, as a candle doth, but the world, as stars do, Rev 12:1.",
+     "anchor": "Among whom ye shine as lights in the world",
+     "refs": [
+      {
+       "text": "Mat 5:14",
+       "ref": "MAT.5.14"
+      },
+      {
+       "text": "Mal 4:2",
+       "ref": "MAL.4.2"
+      },
+      {
+       "text": "1Pe 4:4",
+       "ref": "1PE.4.4"
+      },
+      {
+       "text": "Joh 18:3",
+       "ref": "JHN.18.3"
+      },
+      {
+       "text": "Gen 1:16",
+       "ref": "GEN.1.16"
+      },
+      {
+       "text": "Dan 12:3",
+       "ref": "DAN.12.3"
+      },
+      {
+       "text": "Rev 1:16",
+       "ref": "REV.1.16"
+      },
+      {
+       "text": "Rev 12:1",
+       "ref": "REV.12.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.16",
+   "range": "PHP.2.16",
+   "kind": "passage",
+   "hash": "a0f38400",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.16#p1-ae6d5e3e",
+     "text": "carefully bearing before you, and stedfastly showing, not only by your profession, but conversation, the Lord Jesus Christ, 1Jn 1:1, whose gospel is the word of life, in that it is the power of God to salvation, Act 13:26 Rom 1:16. He doth not say, holding forth carnal institutions, nor human traditions; but that word, wherein is to be had eternal life, Joh 5:39 6:68.",
+     "anchor": "Holding forth the word of life",
+     "refs": [
+      {
+       "text": "1Jn 1:1",
+       "ref": "1JN.1.1"
+      },
+      {
+       "text": "Act 13:26",
+       "ref": "ACT.13.26"
+      },
+      {
+       "text": "Rom 1:16",
+       "ref": "ROM.1.16"
+      },
+      {
+       "text": "Joh 5:39",
+       "ref": "JHN.5.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.16#p2-46e827b6",
+     "text": "he quickens them from the consideration of the glorious joy he should have in their salvation, at the day of Christ, {see Php 1:6} when he and they should, of God’s free grace, receive an abundant reward, viz. of his ministry and exhortation, and of their embracing it, and working out their salvation by God’s special assistance.",
+     "anchor": "That I may rejoice in the day of Christ",
+     "refs": [
+      {
+       "text": "Php 1:6",
+       "ref": "PHP.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.16#p3-28283e89",
+     "text": "for it would be evident to his, as well as their, everlasting comfort, when he should see them, that his laborious ministry amongst them had not been frustrate, or fruitless in the Lord, Mat 25:21 1Co 3:8,9 15:58. Then, in a more glorious way they would be his joy and crown, than they were at present, Php 4:1.",
+     "anchor": "That I have not run in vain, neither laboured in vain",
+     "refs": [
+      {
+       "text": "Mat 25:21",
+       "ref": "MAT.25.21"
+      },
+      {
+       "text": "1Co 3:8",
+       "ref": "1CO.3.8"
+      },
+      {
+       "text": "Php 4:1",
+       "ref": "PHP.4.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.17",
+   "range": "PHP.2.17",
+   "kind": "passage",
+   "hash": "9ad36137",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.17#p1-04f682a0",
+     "text": "that he might further confirm and encourage them in their duty, he doth not here conclude the certainty of his death, at his first imprisonment, having expressed before some confidence of his surviving it, Php 1:19,25; but, in imitation of Christ, the good Shepherd, Joh 10:11, to demonstrate his constant affection to them, (as he doth to others, 2Co 12:15 1Th 2:8), he argues upon supposition of his own death, which might afterwards happen, 2Ti 4:6; using an elegant allegory, borrowed from legal offerings, Lev 2:6 Num 15:5,7 Num 23:4 Jud 11:13; to show that he could cheerfully lay down his life for their salvation; not for reconciling them to God, for that was done before by Christ’s own offering up himself, Heb 7:27, a sacrifice of a sweet smell unto God, Eph 5:2; but whereby they might be confirmed in the faith sealed with his blood, for bearing witness to Christ, precious to God, Psa 116:15. The Greek word he hath here, is borrowed from the usage in sacrificing, of pouring wine or oil upon the victim, Exo 30:9 2Ki 16:13 Jer 19:13, when that which was poured forth was called the drink-offering, to the confirming of covenants.",
+     "anchor": "Yea, and if I be offered",
+     "refs": [
+      {
+       "text": "Php 1:19",
+       "ref": "PHP.1.19"
+      },
+      {
+       "text": "Joh 10:11",
+       "ref": "JHN.10.11"
+      },
+      {
+       "text": "2Co 12:15",
+       "ref": "2CO.12.15"
+      },
+      {
+       "text": "1Th 2:8",
+       "ref": "1TH.2.8"
+      },
+      {
+       "text": "2Ti 4:6",
+       "ref": "2TI.4.6"
+      },
+      {
+       "text": "Lev 2:6",
+       "ref": "LEV.2.6"
+      },
+      {
+       "text": "Num 15:5",
+       "ref": "NUM.15.5"
+      },
+      {
+       "text": "Jud 11:13",
+       "ref": "JUD.11.13"
+      },
+      {
+       "text": "Heb 7:27",
+       "ref": "HEB.7.27"
+      },
+      {
+       "text": "Eph 5:2",
+       "ref": "EPH.5.2"
+      },
+      {
+       "text": "Psa 116:15",
+       "ref": "PSA.116.15"
+      },
+      {
+       "text": "Exo 30:9",
+       "ref": "EXO.30.9"
+      },
+      {
+       "text": "2Ki 16:13",
+       "ref": "2KI.16.13"
+      },
+      {
+       "text": "Jer 19:13",
+       "ref": "JER.19.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.17#p2-303094fa",
+     "text": "by sacrifice, he means either specially their alms, prepared by them, and presented by Epaphroditus, for supporting him in his sufferings, and in the person of the apostle offered up unto God, Php 4:18 2Co 9:12; or, more generally, the Philippians’ conversion, because sanctified by a principle of faith, and so made a sacrifice. For he doth more than once write of believers being offered, and resigned to God, under the notion of a sacrifice, Rom 12:1 15:16; and so doth another, 1Pe 2:5.",
+     "anchor": "Upon the sacrifice",
+     "refs": [
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      },
+      {
+       "text": "2Co 9:12",
+       "ref": "2CO.9.12"
+      },
+      {
+       "text": "Rom 12:1",
+       "ref": "ROM.12.1"
+      },
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.17#p3-32dd3ffb",
+     "text": "to bring them unto which by his ministration, was a very pleasing service to him, who by pouring out his blood in this martyrdom, would confirm the doctrine of the gospel, or new covenant, and fix it more strongly in the hearts of them and others of God’s chosen people.",
+     "anchor": "And service of your faith"
+    },
+    {
+     "id": "poole/PHP.2.17#p4-6b265517",
+     "text": "whereupon he expresseth his joy and delight in that, which, upon this supposition, would in the issue be so much to their honour and advantage, when it should seem good to the Lord. They would reckon it no small honour, to have him, the apostle that planted the gospel amongst them, satisfied in their vouching of the truth, which therefore could not but be profitable to the establishing of them in it, who had cordially embraced it.",
+     "anchor": "I joy"
+    },
+    {
+     "id": "poole/PHP.2.17#p5-e4a13a20",
+     "text": "whereupon he doth heartily congratulate with each of them, the meanest as well as the greatest of them, who would be so privileged.",
+     "anchor": "And rejoice with you all"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.18",
+   "range": "PHP.2.18",
+   "kind": "passage",
+   "hash": "72dae45c",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.18#p1-0fd98e22",
+     "text": "he expects the like affection and sympathy in every one of them, that upon the account of his sufferings they would the more readily, cheerfully, and courageously believe in and suffer for Christ: considering the difference between death threatened by man, for our sticking close to God, Mat 10:28, and denounced for slipping aside from God, in whole or in part, 2Th 1:5.",
+     "anchor": "For the same cause also do ye joy",
+     "refs": [
+      {
+       "text": "Mat 10:28",
+       "ref": "MAT.10.28"
+      },
+      {
+       "text": "2Th 1:5",
+       "ref": "2TH.1.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.18#p2-6532aec6",
+     "text": "and that would be a congratulation of him, who should account their being established in the faith with mutual love and unity, a fulfilling of his faith, as before, Php 2:2.",
+     "anchor": "And rejoice with me",
+     "refs": [
+      {
+       "text": "Php 2:2",
+       "ref": "PHP.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.19",
+   "range": "PHP.2.19",
+   "kind": "passage",
+   "hash": "b4c32d84",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.19#p1-fcd77f09",
+     "text": "diverting from his former exhortation, the more to comfort them, he expresseth his good hope (which in respect of the object we translate trust) in the Lord Jesus, exalted above every name, that he would be pleased, some way or other, to afford him such liberty, notwithstanding his restraint.",
+     "anchor": "But I trust in the Lord Jesus"
+    },
+    {
+     "id": "poole/PHP.2.19#p2-bc56e288",
+     "text": "that he should, within a little while after the arrival of Epaphroditus, now upon his return, despatch Timothy to them.",
+     "anchor": "To send Timotheus shortly unto you"
+    },
+    {
+     "id": "poole/PHP.2.19#p3-6a3e2054",
+     "text": "not for their further benevolence, but for the composing of their spirits, and settling of their affairs, which to him, solicitous of their souls’ welfare, (as in a like case for others, 1Th 2:19, with 1Th 3:5), would be great satisfaction.",
+     "anchor": "That I also may be of good comfort",
+     "refs": [
+      {
+       "text": "1Th 2:19",
+       "ref": "1TH.2.19"
+      },
+      {
+       "text": "1Th 3:5",
+       "ref": "1TH.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.19#p4-ff20f793",
+     "text": "when he should be certainly acquainted how things went with them; who might justly expect his sympathy, Rom 12:15 1Co 12:26 2Co 11:28,29.",
+     "anchor": "When I know your state",
+     "refs": [
+      {
+       "text": "Rom 12:15",
+       "ref": "ROM.12.15"
+      },
+      {
+       "text": "1Co 12:26",
+       "ref": "1CO.12.26"
+      },
+      {
+       "text": "2Co 11:28",
+       "ref": "2CO.11.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.20",
+   "range": "PHP.2.20",
+   "kind": "passage",
+   "hash": "4d13f989",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.20#p1-db5bfeae",
+     "text": "for which purpose I have designed Timothy, who joins with me in this Epistle, and is most of the same mind with myself, endued with the same Spirit, faith, and love; finding none of like soul to him with myself, in desiring your prosperity, and so have pitched upon him.",
+     "anchor": "For I have no man likeminded"
+    },
+    {
+     "id": "poole/PHP.2.20#p2-a8451021",
+     "text": "who, being cordial to me and you, will, without regard to lucre, ingenuously and sincerely, above all the rest I have here, propagate the kingdom of Christ amongst you, and promote your salvation in watching for your souls, as one that must give an account, that he may do it with joy, Heb 13:17.",
+     "anchor": "Who will naturally care for your state",
+     "refs": [
+      {
+       "text": "Heb 13:17",
+       "ref": "HEB.13.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.21",
+   "range": "PHP.2.21",
+   "kind": "passage",
+   "hash": "d041cc66",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.21#p1-454ac7cb",
+     "text": "He doth here further commend Timothy, compared with the generality of those who with him did attend the ministry of the gospel at Rome, where it seems (whatever the papists pretend) Peter did not then preside as metropolitan. When he saith"
+    },
+    {
+     "id": "poole/PHP.2.21#p2-cf845c41",
+     "text": "he doth not necessarily imply every individual besides Timothy, (though, as before, he knew not one like-minded as he was), but almost all, (as the universal sign is elsewhere synecdochically taken, Jer 6:3 Mat 10:22 Mar 1:5), or the most part of those then employed in the ministry, who were then at liberty, and whose inclinations, probably, he had inquired into.",
+     "anchor": "all",
+     "refs": [
+      {
+       "text": "Jer 6:3",
+       "ref": "JER.6.3"
+      },
+      {
+       "text": "Mat 10:22",
+       "ref": "MAT.10.22"
+      },
+      {
+       "text": "Mar 1:5",
+       "ref": "MRK.1.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.21#p3-1589a2e5",
+     "text": "did, though not simply and absolutely, yet after a sort, seek their own profit, ease, safety, pleasure, and satisfaction; called their own, in regard of their civil right, and the world’s opinion, but yet at God’s disposal, Hag 2:8. These they did (as John Mark in another case) prefer to a long and tedious journey, for the service of Christ, unto Philippi.",
+     "anchor": "Seek their own",
+     "refs": [
+      {
+       "text": "Hag 2:8",
+       "ref": "HAG.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.21#p4-960dd212",
+     "text": "so that they did postpone the glory of Christ, the safety and edification of the church there, to their own things. Wherefore he doth not mean it absolutely, that they did not seek the things of Christ, or that they did deny Christ, for it is apparent, even when he penned this Epistle, Php 1:13,14, with Act 28:14,15, and Rom 1:8, there were many that did seriously seek Christ; but comparatively, and in a sort, they did not seek the things of Christ so intently as they should, 1Co 10:24,33, but failed as others did in other cases, Mat 26:58 2Ti 4:16: not as if all minding of their own things were denied to Christ’s ministers, 1Ti 3:4,5 5:8; but they did slip their necks from under the yoke, and did not mind the glory of Christ in the church of Philippi, as he did.",
+     "anchor": "Not the things which are Jesus Christ’s",
+     "refs": [
+      {
+       "text": "Php 1:13",
+       "ref": "PHP.1.13"
+      },
+      {
+       "text": "Act 28:14",
+       "ref": "ACT.28.14"
+      },
+      {
+       "text": "Rom 1:8",
+       "ref": "ROM.1.8"
+      },
+      {
+       "text": "1Co 10:24",
+       "ref": "1CO.10.24"
+      },
+      {
+       "text": "Mat 26:58",
+       "ref": "MAT.26.58"
+      },
+      {
+       "text": "2Ti 4:16",
+       "ref": "2TI.4.16"
+      },
+      {
+       "text": "1Ti 3:4",
+       "ref": "1TI.3.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.22",
+   "range": "PHP.2.22",
+   "kind": "passage",
+   "hash": "f0424354",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.22#p1-1efceee2",
+     "text": "However others were found in some respects defective to the service of Christ, yet he appeals to their experience of the integrity and fidelity of Timothy in conjunction with himself, when he preached the gospel amongst them, and afterwards, Act 16:1 17:15 18:5 Act 19:22 20:4; which he amplifies and illustrates by a simile, when he saith,",
+     "refs": [
+      {
+       "text": "Act 16:1",
+       "ref": "ACT.16.1"
+      },
+      {
+       "text": "Act 19:22",
+       "ref": "ACT.19.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.22#p2-bf52aae4",
+     "text": "q.d. Just as a genuine and obedient son is wont to retain the spirit of his father that begat him: and Paul doth metaphorically call Timothy his own son, begotten by the gospel, 1Ti 1:2, his dearly beloved Son, 2Ti 1:2, and faithful in the Lord, 1Co 4:17, likeminded with himself, Php 2:20; with whom he had not only preached, but served in the gospel, Php 1:1, given himself wholly to the thing. He doth not say, served me, or under me, but with me in the gospel, i.e. to advance the glory of Christ in promoting the gospel, by helping with Paul, and labouring, working the work of the Lord, as Paul also did, and being sometime a sufferer under restraint for that service, as Paul himself, Heb 13:23, for the gospel, which is not a domination, but ministration, wherein this great apostle owns Timothy as his fellow minister.",
+     "anchor": "as a son with the father",
+     "refs": [
+      {
+       "text": "1Ti 1:2",
+       "ref": "1TI.1.2"
+      },
+      {
+       "text": "2Ti 1:2",
+       "ref": "2TI.1.2"
+      },
+      {
+       "text": "1Co 4:17",
+       "ref": "1CO.4.17"
+      },
+      {
+       "text": "Php 2:20",
+       "ref": "PHP.2.20"
+      },
+      {
+       "text": "Php 1:1",
+       "ref": "PHP.1.1"
+      },
+      {
+       "text": "Heb 13:23",
+       "ref": "HEB.13.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.23",
+   "range": "PHP.2.23",
+   "kind": "passage",
+   "hash": "4bc9117d",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.23#p1-08584c2b",
+     "text": "seeing the matter was thus, he thought not of any other to employ in the service of their faith, but hoped, i.e.",
+     "anchor": "Him therefore I hope to send presently"
+    },
+    {
+     "id": "poole/PHP.2.23#p2-b3c77b83",
+     "text": "as Php 2:19, in a short time after his present writing, to send this excellent, humble, and approved young man, who would naturally care for their concerns, Php 2:20.",
+     "anchor": "in the Lord Jesus",
+     "refs": [
+      {
+       "text": "Php 2:19",
+       "ref": "PHP.2.19"
+      },
+      {
+       "text": "Php 2:20",
+       "ref": "PHP.2.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.23#p3-36ed62b5",
+     "text": "even without any delay, (though as yet, to accompany Epaphroditus, he could not spare him, who was so useful to him in his bonds, to take care for things necessary to the propagation of the gospel, in the ample city of Rome), from the hour he should come to a certainty what would be the issue of his present imprisonment, which if it should end in his being offered up, he had satisfied them before, as it would be for his own advantage, Php 1:21, so, by the providence of God, no disservice to their faith, Php 2:17,18; from which, with ready submission to God’s will, whatever occurred, it seems he had a greater inclination to conceive a good hope of freedom.",
+     "anchor": "So soon as I shall see how it will go with me",
+     "refs": [
+      {
+       "text": "Php 1:21",
+       "ref": "PHP.1.21"
+      },
+      {
+       "text": "Php 2:17",
+       "ref": "PHP.2.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.24",
+   "range": "PHP.2.24",
+   "kind": "passage",
+   "hash": "e704d3ad",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.24#p1-2d333495",
+     "text": "so he expresseth his strong persuasion, as the word we translate trust, being seldom used, but when the thing trusted imports the object.",
+     "anchor": "But I trust in the Lord"
+    },
+    {
+     "id": "poole/PHP.2.24#p2-c8c5a9fa",
+     "text": "i.e. Jesus, whom he doth absolutely and eminently call Lord, being so highly exalted above all others, Php 2:9, not only here, but elsewhere, Php 2:29 3:1 4:1,4,10; on whom he doth wholly depend, aud to whom he doth submit for the issue.",
+     "anchor": "In the Lord",
+     "refs": [
+      {
+       "text": "Php 2:9",
+       "ref": "PHP.2.9"
+      },
+      {
+       "text": "Php 2:29",
+       "ref": "PHP.2.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.24#p3-bce6d617",
+     "text": "before he had suggested his persuasion of abiding with them, Php 1:25, and here, that he might satisfy them he had not changed his mind, he adds for their comfort, that they might not be discouraged in their sufferings, what apprehensions he had, after a while, of being set at liberty (if God pleased); and if so, he would have them conceive, soon after he had done what was necessary at Rome, (for him who had care of all the churches), he designed to follow Timothy to them.",
+     "anchor": "That I also myself shall come shortly",
+     "refs": [
+      {
+       "text": "Php 1:25",
+       "ref": "PHP.1.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.25",
+   "range": "PHP.2.25",
+   "kind": "passage",
+   "hash": "299c3705",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.25#p1-72553bb0",
+     "text": "in the mean time he gives them an account why he esteemed it needful to send back Epaphroditus (whom some, but without sufficient warrant, would have to be the same with Epaphras, Col 1:7 4:12 Phm 1:23) unto them, not as if he had failed in doing what he was intrusted with, but for other weighty reasons.",
+     "anchor": "Yet I supposed it necessary to send to you Epaphroditus",
+     "refs": [
+      {
+       "text": "Col 1:7",
+       "ref": "COL.1.7"
+      },
+      {
+       "text": "Phm 1:23",
+       "ref": "PHM.1.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.25#p2-5750d1fc",
+     "text": "he would have them to know he had nothing to blame him for, but all in his commendation, whom in the common faith he owned to be his Christian brother, and fellow helper, or fellow worker in the business of the gospel, as he calls others in the like circumstances, Rom 16:3,21 2Co 8:23 Col 4:11 1Th 3:2 Phm 1:24.",
+     "anchor": "My brother and companion in labour",
+     "refs": [
+      {
+       "text": "Rom 16:3",
+       "ref": "ROM.16.3"
+      },
+      {
+       "text": "2Co 8:23",
+       "ref": "2CO.8.23"
+      },
+      {
+       "text": "Col 4:11",
+       "ref": "COL.4.11"
+      },
+      {
+       "text": "1Th 3:2",
+       "ref": "1TH.3.2"
+      },
+      {
+       "text": "Phm 1:24",
+       "ref": "PHM.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.25#p3-b126e2b0",
+     "text": "and a faithful and a constant associate with him in the Christian warfare, 2Co 10:4 1Ti 1:18 Phm 1:2, under Christ their Captain, against all the assaults of the devil, and the carnal world, which are continually warring to destroy real Christianity.",
+     "anchor": "And fellow soldier",
+     "refs": [
+      {
+       "text": "2Co 10:4",
+       "ref": "2CO.10.4"
+      },
+      {
+       "text": "1Ti 1:18",
+       "ref": "1TI.1.18"
+      },
+      {
+       "text": "Phm 1:2",
+       "ref": "PHM.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.25#p4-88a19e9c",
+     "text": "but your apostle, which must be understood largely, as it is sometimes put for any evangelist, deacon, or minister of the gospel, Rom 16:7,9, well rendered by us in this place messenger, compared with Php 4:18 2Co 8:22,23; not being a special apostle of Christ, Mat 10:2, but an officer of the church at Philippi, delegated by them to carry relief to Paul.",
+     "anchor": "But your messenger",
+     "refs": [
+      {
+       "text": "Rom 16:7",
+       "ref": "ROM.16.7"
+      },
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      },
+      {
+       "text": "2Co 8:22",
+       "ref": "2CO.8.22"
+      },
+      {
+       "text": "Mat 10:2",
+       "ref": "MAT.10.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.25#p5-ff59678b",
+     "text": "unto whom, it seems, he did not only deliver the present for his support according to his trust and commission, wherein he faithfully served the church, but also, as their public minister, greatly help Paul the prisoner in what he stood most in need of, which Paul could not but value, being the Romans were so mild as to permit him, a captive, so good attendance and assistance; yet, to declare his affections to the church at Philippi, he chose rather to deny himself his necessaries, than not to comfort them in remitting their faithful messenger, so greatly desiring their welfare, with this letter to them.",
+     "anchor": "And he that ministered to my wants"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.26",
+   "range": "PHP.2.26",
+   "kind": "passage",
+   "hash": "268aaa7d",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.26#p1-3a4fe3ab",
+     "text": "he gives them the first reason of his present sending, not that Epaphroditus was unwilling to stay longer with him, but because he was greatly concerned for all of them of the church at Philippi, who had his heart, as they had Paul’s, Php 1:8 4:1 Rom 1:11; solicitous to be with them to do their souls good.",
+     "anchor": "For he longed after you all",
+     "refs": [
+      {
+       "text": "Php 1:8",
+       "ref": "PHP.1.8"
+      },
+      {
+       "text": "Rom 1:11",
+       "ref": "ROM.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.26#p2-5052e796",
+     "text": "especially, considering their great affection to him, whom they had intrusted in this service, he was in such distress for them, that his spirits were even ready to fail him {as Mat 26:37} from sympathy, 2Co 11:29.",
+     "anchor": "And was full of heaviness",
+     "refs": [
+      {
+       "text": "Mat 26:37",
+       "ref": "MAT.26.37"
+      },
+      {
+       "text": "2Co 11:29",
+       "ref": "2CO.11.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.26#p3-072511e6",
+     "text": "knowing how much the certain report of his dangerous sickness in those circumstances, when they could understand nothing of his recovery, would affect them.",
+     "anchor": "Because that ye had heard that he had been sick"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.27",
+   "range": "PHP.2.27",
+   "kind": "passage",
+   "hash": "6997d7b0",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.27#p1-c7b1be4f",
+     "text": "by reason he was really taken with such a disease, as in its own nature was mortal, and in its tendency brought him even to death’s door, as Isa 38:1.",
+     "anchor": "For indeed he was sick nigh unto death",
+     "refs": [
+      {
+       "text": "Isa 38:1",
+       "ref": "ISA.38.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.27#p2-8e5e6b16",
+     "text": "but God, who is the great Physician, and unto whom it belongs to show mercy unto those who address to him, (without whom bodily physicians can do nothing), by compassionating of him in his misery, was pleased to restore him to health, as 2Ki 20:5,6. But if any say: Would it not have been great mercy to have taken him from the miseries of this life, which are here prolonged? Consider Php 1:21. It may be answered:",
+     "anchor": "But God had mercy on him",
+     "refs": [
+      {
+       "text": "2Ki 20:5",
+       "ref": "2KI.20.5"
+      },
+      {
+       "text": "Php 1:21",
+       "ref": "PHP.1.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.27#p3-5bcd6590",
+     "text": "1. Death itself, as it is a privation of life, and opposite to nature, was not desirable by Paul any more than by our Saviour, but might be looked upon as a kind of misery, not to be preferred to life looked upon in itself, but with respect to another, viz. as it is a passage to eternal life; so it is desirable for that life into which it leads the godly, and so is to be preferred to the miserable condition of this life. Paul speaks here of mercy respecting the former, considering that this life itself is a favour of God, for the service of him, and our neighbour. Further:"
+    },
+    {
+     "id": "poole/PHP.2.27#p4-8af5211a",
+     "text": "2. God’s mercy here respects not only the grievous sickness of Epaphroditus, but the joint affliction that the loss of him would be both to the Philippians and to Paul, in thus juncture, as we may see from what follows."
+    },
+    {
+     "id": "poole/PHP.2.27#p5-b30a4770",
+     "text": "what power had Paul for working of miracles, was chiefly to convince infidels, and he could only exert it when God saw good for his own glory. Therefore he magnifies God’s mercy here in a more ordinary way, as a return to prayer, when he was so afflicted for his colleague’s illness; being upon an office of kindness and compassion, his loss would be in its tendency a ground of so much sorrow to the church, as well as to himself.",
+     "anchor": "And not on him only, but on me also"
+    },
+    {
+     "id": "poole/PHP.2.27#p6-3846c183",
+     "text": "his Christianity had not extinguished his natural affections, but if the church had then been bereft of Epaphroditus, it would have added the affliction for his loss to his affliction by his suffering for Christ, it would have doubled his affliction, (yet somewhat in a different sense from that, Php 1:16), it being an ill temper not to be grieved for the affliction of the church, Amo 6:6; yet all our affections are to be moderated according to the will of God.",
+     "anchor": "Lest I should have sorrow upon sorrow",
+     "refs": [
+      {
+       "text": "Php 1:16",
+       "ref": "PHP.1.16"
+      },
+      {
+       "text": "Amo 6:6",
+       "ref": "AMO.6.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.28",
+   "range": "PHP.2.28",
+   "kind": "passage",
+   "hash": "3f2eb823",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.28#p1-3a1cd139",
+     "text": "after his recovery, without delay, denying myself the comfort of his seciety, I have despatched him away to you.",
+     "anchor": "I sent him therefore the more carefully"
+    },
+    {
+     "id": "poole/PHP.2.28#p2-d9214f5f",
+     "text": "to the end that he whom you looked upon as dead might seasonably appear among you in person, and cheer you up in your troubles for him and me.",
+     "anchor": "That, when ye see him again, ye may rejoice"
+    },
+    {
+     "id": "poole/PHP.2.28#p3-b13b334b",
+     "text": "and that I, who, by reason of your kindness to me, have occasioned his absence from you, might upon his safe return to you have somewhat to alleviate my grief, 2Co 6:10.",
+     "anchor": "And that I may be the less sorrowful",
+     "refs": [
+      {
+       "text": "2Co 6:10",
+       "ref": "2CO.6.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.29",
+   "range": "PHP.2.29",
+   "kind": "passage",
+   "hash": "a1851a0c",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.29#p1-37413116",
+     "text": "hereupon, having given his due character, he chargeth them all, officers and people, to entertain him as a servant of the Lord, (as Christ would have them receive his servants, Mat 10:40,41, even with all spiritual joy), as sometimes the Galatians had received him, Gal 4:14.",
+     "anchor": "Receive him therefore in the Lord with all gladness",
+     "refs": [
+      {
+       "text": "Mat 10:40",
+       "ref": "MAT.10.40"
+      },
+      {
+       "text": "Gal 4:14",
+       "ref": "GAL.4.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.29#p2-47eb9cf6",
+     "text": "yea, as it becometh saints, Rom 16:2, to have such in esteem very highly for their work’s sake, 1Th 5:13.",
+     "anchor": "And hold such in reputation",
+     "refs": [
+      {
+       "text": "Rom 16:2",
+       "ref": "ROM.16.2"
+      },
+      {
+       "text": "1Th 5:13",
+       "ref": "1TH.5.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.2.30",
+   "range": "PHP.2.30",
+   "kind": "passage",
+   "hash": "eba656c2",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.2.30#p1-682d5d6c",
+     "text": "by reason he was so zealous about the work of the ministry in the general, or in special to carry on that service, as the church’s messenger, he was intrusted with, Php 4:18, not only in conveying their benevolence on so long and hazardous a journey, for the relief of the Lord’s prisoner, which Christ would own and reward as his work, Mat 25:39,40, but in attending him (whom he was sent to visit) in his confinement, both within doors and abroad, as occasion required, (for it seems the Romans were so generous as to give free egress and regress to his visitants, Act 28:30), whereby he contracted that forementioned disease that hazarded his life.",
+     "anchor": "Because for the work of Christ he was nigh unto death",
+     "refs": [
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      },
+      {
+       "text": "Mat 25:39",
+       "ref": "MAT.25.39"
+      },
+      {
+       "text": "Act 28:30",
+       "ref": "ACT.28.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.30#p2-dc4ea19c",
+     "text": "the preservation of which with respect to the work he was about, he did not consult, {Joh 12:25,26} but made little account of it, {as Est 4:16} yea, did even despise it in the service of Christ, as the original word doth import, being borrowed from those whose lives are hazarded in being cast to be devoured by beasts in the theatre, which he himself, by sad experience, sometime knew the meaning of, 1Co 15:32.",
+     "anchor": "Not regarding his life",
+     "refs": [
+      {
+       "text": "Joh 12:25",
+       "ref": "JHN.12.25"
+      },
+      {
+       "text": "Est 4:16",
+       "ref": "EST.4.16"
+      },
+      {
+       "text": "1Co 15:32",
+       "ref": "1CO.15.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.2.30#p3-f2142474",
+     "text": "so faithful was he to his trust for the honour of his Lord, that to the very utmost of his strength, yea, and beyond it, that which he reckoned those who sent would have done themselves had they been present, (considering what the gospel requires, Gal 6:2 Heb 13:3), that he, Onisephorus-like, 2Ti 1:16, according to his measure made supply of in their absence.",
+     "anchor": "To supply your lack of service toward me",
+     "refs": [
+      {
+       "text": "Gal 6:2",
+       "ref": "GAL.6.2"
+      },
+      {
+       "text": "Heb 13:3",
+       "ref": "HEB.13.3"
+      },
+      {
+       "text": "2Ti 1:16",
+       "ref": "2TI.1.16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

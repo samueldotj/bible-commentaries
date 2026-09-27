@@ -14,7 +14,9 @@ en/{source}/{BOOK}/intro.json the book's own introduction:
 }
 
 kind is "book", "chapter" or "passage". A paragraph may also carry "heading": true,
-and a Geneva note has "label" ("a", "1") and "anchor" (the words of the verse it explains).
+a footnote has "footnote": true and "label" (its marker, which stays in the text as "{a}"),
+"verse" is the verse a paragraph is on inside a longer unit, and "anchor" holds the words of the
+verse a paragraph explains (Geneva's notes, the lemmas of Poole, Trapp and Calvin).
 Paragraph ids follow the site's articles: {unit id}#p{n}-{fnv8 of the text}.
 """
 
@@ -47,6 +49,8 @@ class Para:
     heading: bool = False
     label: str | None = None
     anchor: str | None = None
+    verse: int | None = None
+    footnote: bool = False
 
 
 @dataclass
@@ -140,15 +144,20 @@ def unit_json(source: str, u: Unit) -> dict:
     paras = []
     n = 0
     for p in u.paragraphs:
-        pieces = [p.text] if p.heading or p.label else split_long(p.text)
-        for piece in pieces:
+        # A Geneva note is kept whole with its label; anything else long is cut.
+        pieces = [p.text] if p.heading or (p.label and not p.footnote) else split_long(p.text)
+        for i, piece in enumerate(pieces):
             n += 1
             d: dict = {"id": f"{uid}#p{n}-{fnv8(piece)}", "text": piece}
             if p.heading:
                 d["heading"] = True
-            if p.label:
+            if p.footnote:
+                d["footnote"] = True
+            if p.label and i == 0:
                 d["label"] = p.label
-            if p.anchor:
+            if p.verse and i == 0:
+                d["verse"] = p.verse
+            if p.anchor and i == 0:
                 d["anchor"] = p.anchor
             r = refs_in(piece, p.refs) if len(pieces) > 1 else p.refs
             if r:

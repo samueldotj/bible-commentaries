@@ -1,0 +1,90 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "poole/1CH.19",
+   "range": "1CH.19",
+   "kind": "chapter",
+   "hash": "4657ff24",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.19#p1-4657ff24",
+     "text": "David’s messengers to Hanun are villanously entreated, 1Ch 19:1-5. The Ammonites and Syrians are overcome by Joab and Abishai, 1Ch 19:6-15; by David himself, 1Ch 19:16-19.",
+     "refs": [
+      {
+       "text": "1Ch 19:1-5",
+       "ref": "1CH.19.1-5"
+      },
+      {
+       "text": "1Ch 19:6-15",
+       "ref": "1CH.19.6-15"
+      },
+      {
+       "text": "1Ch 19:16-19",
+       "ref": "1CH.19.16-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.19.1",
+   "range": "1CH.19.1",
+   "kind": "passage",
+   "hash": "2118ee8f",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.19.1#p1-2118ee8f",
+     "text": "Of all the contents of this chapter, see the notes on 2Sa 10, where we have the same things, and almost the very same words."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.19.7",
+   "range": "1CH.19.7",
+   "kind": "passage",
+   "hash": "bb47e1ea",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.19.7#p1-bb47e1ea",
+     "text": "i. e. thirty-two thousand men fighting from or with chariots, as that word is elsewhere used; of which see my notes on 1Sa 13:5. And this interpretation seems the more probable by comparing this place with 2Sa 10:6, where this army is said to consist of twenty thousand footmen, and twelve thousand men of Ish-tob; which make up these thirty-two thousand men, who fought partly from chariots, and partly on foot with chariots, or attending upon the chariots, as the ancient manner of fighting was. And here, 1Ch 19:6, this army is made up of chariots and horsemen; where, except the chariots be understood of footmen, there were no footmen in the army, which is unusual and incredible.",
+     "anchor": "Thirty and two thousand chariots",
+     "refs": [
+      {
+       "text": "1Sa 13:5",
+       "ref": "1SA.13.5"
+      },
+      {
+       "text": "2Sa 10:6",
+       "ref": "2SA.10.6"
+      },
+      {
+       "text": "1Ch 19:6",
+       "ref": "1CH.19.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.19.19",
+   "range": "1CH.19.19",
+   "kind": "passage",
+   "hash": "8365cf0c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.19.19#p1-8365cf0c",
+     "text": "How this agrees with 2Sa 10:18, see in the notes on that place.",
+     "refs": [
+      {
+       "text": "2Sa 10:18",
+       "ref": "2SA.10.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

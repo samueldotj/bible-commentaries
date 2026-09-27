@@ -1,0 +1,280 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "poole/PSA.3.1",
+   "range": "PSA.3.1",
+   "kind": "passage",
+   "hash": "ccc65cbd",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.1#p1-7c89ce63",
+     "text": "Composed by David, as this phrase implies, Psa 110:1, compared with Mat 22:43, and generally elsewhere. When he fled, or, after he had fled. Either this Psalm was composed in his flight, or the matter of it was then in his thoughts; which afterwards he digested into this form and order.",
+     "refs": [
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      },
+      {
+       "text": "Mat 22:43",
+       "ref": "MAT.22.43"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.3.1#p2-73c6ad40",
+     "text": "The psalmist complaineth of the multitude of his enemies, Psa 3:1,2; but comforteth himself with his confidence in and reliance on God, Psa 3:3-6; and the manifold experiences of his former assistance, Psa 3:7. He prayeth for his own and the church’s salvation, Psa 3:8.",
+     "refs": [
+      {
+       "text": "Psa 3:1",
+       "ref": "PSA.3.1"
+      },
+      {
+       "text": "Psa 3:3-6",
+       "ref": "PSA.3.3-6"
+      },
+      {
+       "text": "Psa 3:7",
+       "ref": "PSA.3.7"
+      },
+      {
+       "text": "Psa 3:8",
+       "ref": "PSA.3.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.3.1#p3-732b5590",
+     "text": "He might well say so; for almost all his people joined in the conspiracy."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.2",
+   "range": "PSA.3.2",
+   "kind": "passage",
+   "hash": "6ecd9444",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.2#p1-536b4dad",
+     "text": "i.e. of me; the soul being commonly put for the person, as Isa 46:2 Amo 6:8, compared with Gen 22:16.",
+     "anchor": "Of my soul",
+     "refs": [
+      {
+       "text": "Isa 46:2",
+       "ref": "ISA.46.2"
+      },
+      {
+       "text": "Amo 6:8",
+       "ref": "AMO.6.8"
+      },
+      {
+       "text": "Gen 22:16",
+       "ref": "GEN.22.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.3.2#p2-5a952bbd",
+     "text": "God hath utterly forsaken him for his many crimes, and will never help him more.",
+     "anchor": "There is no help for him in God"
+    },
+    {
+     "id": "poole/PSA.3.2#p3-f929b17c",
+     "text": "this word is nowhere used but in this poetical Book of the Psalms, and in the song of Hab 3:3,9,13; which makes that opinion probable, that it was a musical note, directing the singer either to lift up his voice, or to make a short stop or pause, or to lengthen out the tune. But withal, it is generally placed at some remarkable passage; which gives occasion to think that it served also to quicken the attention or observation of the singer and hearer.",
+     "anchor": "Selah",
+     "refs": [
+      {
+       "text": "Hab 3:3",
+       "ref": "HAB.3.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.3",
+   "range": "PSA.3.3",
+   "kind": "passage",
+   "hash": "eb5d25ec",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.3#p1-5dadb47e",
+     "text": "or about me, on every side, where also mine enemies are.",
+     "anchor": "For me"
+    },
+    {
+     "id": "poole/PSA.3.3#p2-a12a5354",
+     "text": "either,",
+     "anchor": "My glory"
+    },
+    {
+     "id": "poole/PSA.3.3#p3-a1d948fe",
+     "text": "1. The author of my princely glory and majesty. Thou didst first give it, and I doubt not thou wilt defend and restore it. Or,"
+    },
+    {
+     "id": "poole/PSA.3.3#p4-1dfcef2d",
+     "text": "2: The matter of my glorying. Thou hast formerly and frequently given, and wilt further give me occasion of glorying or boasting of thy power and favour to me."
+    },
+    {
+     "id": "poole/PSA.3.3#p5-1f4f4211",
+     "text": "thou dost and wilt enable me to look up to thee with comfort and cheerfulness, and upon mine enemies with confidence; and thou wilt lift me out of the mire in which I now lie, and restore me to my former power and dignity from which I am fallen. For the phrase, see Gen 4:7 Job 11:15 Luk 18:13.",
+     "anchor": "The lifter up of my head",
+     "refs": [
+      {
+       "text": "Gen 4:7",
+       "ref": "GEN.4.7"
+      },
+      {
+       "text": "Job 11:15",
+       "ref": "JOB.11.15"
+      },
+      {
+       "text": "Luk 18:13",
+       "ref": "LUK.18.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.4",
+   "range": "PSA.3.4",
+   "kind": "passage",
+   "hash": "b6601949",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.4#p1-e18a0d24",
+     "text": "the witness of my faith and fervency of affections.",
+     "anchor": "With my voice"
+    },
+    {
+     "id": "poole/PSA.3.4#p2-cf267b07",
+     "text": "either out of heaven, so called Psa 15:1: compare Isa 66:1. Or rather,",
+     "anchor": "Out of his holy hill",
+     "refs": [
+      {
+       "text": "Psa 15:1",
+       "ref": "PSA.15.1"
+      },
+      {
+       "text": "Isa 66:1",
+       "ref": "ISA.66.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.3.4#p3-e9f0415c",
+     "text": "2. Out of the hill of Zion, where God was especially present, the ark being there at this time; towards which the saints then used to direct their prayers, and from thence God heard and answered and blessed them, Psa 128:5 134:3.",
+     "refs": [
+      {
+       "text": "Psa 128:5",
+       "ref": "PSA.128.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.5",
+   "range": "PSA.3.5",
+   "kind": "passage",
+   "hash": "8bddea53",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.5#p1-aebad559",
+     "text": "to wit, securely, casting all my cares and fears upon God, and relying upon his help. I awaked in due time and manner, after a sweet and undisturbed sleep.",
+     "anchor": "I laid me down and slept"
+    },
+    {
+     "id": "poole/PSA.3.5#p2-d8947421",
+     "text": "or, supported me, as it were with his right hand, that I should not fall under my burden. He upheld my spirit, and person, and cause.",
+     "anchor": "Sustained me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.6",
+   "range": "PSA.3.6",
+   "kind": "passage",
+   "hash": "817e1e9f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.6#p1-817e1e9f",
+     "text": "So that I see no human way to escape."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.7",
+   "range": "PSA.3.7",
+   "kind": "passage",
+   "hash": "6c8832d9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.7#p1-3c678743",
+     "text": "bestir thyself on my behalf, and be no longer as an idle spectator of my miseries.",
+     "anchor": "Arise"
+    },
+    {
+     "id": "poole/PSA.3.7#p2-49d25a84",
+     "text": "who art mine by special relation and covenant, and I am thy son and thy servant; Lord, save thine own.",
+     "anchor": "O my God"
+    },
+    {
+     "id": "poole/PSA.3.7#p3-c0c419f1",
+     "text": "thou hast hitherto helped me, do not now leave me.",
+     "anchor": "Thou hast smitten all mine enemies"
+    },
+    {
+     "id": "poole/PSA.3.7#p4-eea0dbbf",
+     "text": "which implies either contempt and reproach, as this phrase signifies, 1Ki 22:24 Mic 5:1 Joh 18:22 19:3; or the smartness and soreness of the blow, whereby, as the next clause explains it, their teeth were struck out; and so they did not only receive hurt themselves, but were disenabled from doing that mischief to others which they desired and were accustomed to do.",
+     "anchor": "Upon the cheek-bone",
+     "refs": [
+      {
+       "text": "1Ki 22:24",
+       "ref": "1KI.22.24"
+      },
+      {
+       "text": "Mic 5:1",
+       "ref": "MIC.5.1"
+      },
+      {
+       "text": "Joh 18:22",
+       "ref": "JHN.18.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.3.7#p5-ea8f2fe9",
+     "text": "i.e. their strength and the instruments of their cruelty. He compares them to wild beasts.",
+     "anchor": "The teeth"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.3.8",
+   "range": "PSA.3.8",
+   "kind": "passage",
+   "hash": "9ac62a68",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.3.8#p1-247c4278",
+     "text": "I expect not salvation from my forces, but from thy power and favour alone."
+    },
+    {
+     "id": "poole/PSA.3.8#p2-1d8b67ec",
+     "text": "or rather, let it be, (so he closeth with a prayer,)",
+     "anchor": "Thy blessing is"
+    },
+    {
+     "id": "poole/PSA.3.8#p3-263a9b67",
+     "text": "either upon my friends and followers, who alone are thy people, the rest being rebels to thee as well as to me; or, upon all thy people Israel, to preserve my friends, to convince and convert mine enemies, and to save the body of the nation, which without thy mercy are likely by this civil war to be brought to utter ruin.",
+     "anchor": "upon thy people"
+    }
+   ]
+  }
+ ]
+}

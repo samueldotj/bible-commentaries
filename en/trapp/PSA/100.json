@@ -1,0 +1,134 @@
+{
+ "source": "trapp",
+ "book": "PSA",
+ "chapter": 100,
+ "units": [
+  {
+   "id": "trapp/PSA.100.1",
+   "range": "PSA.100.1",
+   "kind": "passage",
+   "hash": "6791d119",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.100.1#p1-a258725a",
+     "text": "Suavis et gravis, short and sweet; appointed, likely, to be sung at the thank offerings, quando pacifica erant offerenda, say the Italian and Spanish annotators. See Psa 100:4. Enter with thanksgiving, or with thank sacrifice, Lev 7:12.",
+     "anchor": "A Psalm of praise",
+     "refs": [
+      {
+       "text": "Psa 100:4",
+       "ref": "PSA.100.4"
+      },
+      {
+       "text": "Lev 7:12",
+       "ref": "LEV.7.12"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.100.1#p2-1f7ffcaa",
+     "text": "Both Jews and Gentiles, Rom 15:10-11, for your common salvation.",
+     "anchor": "All ye lands",
+     "refs": [
+      {
+       "text": "Rom 15:10-11",
+       "ref": "ROM.15.10-11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.100.2",
+   "range": "PSA.100.2",
+   "kind": "passage",
+   "hash": "5563e698",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.100.2#p1-5563e698",
+     "text": "The Cabbalists have a proverb, The Holy Ghost singeth not but out of a glad heart. Cheerfulness is much called for in both Testaments, God loveth a cheerful server.",
+     "anchor": "Serve the Lord with gladness"
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.100.3",
+   "range": "PSA.100.3",
+   "kind": "passage",
+   "hash": "b3bf79bd",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.100.3#p1-8df08f76",
+     "text": "Be convinced of it, ye heathens, whose fantasies have forged false gods; and ye Jews, acknowledge the true God to be Three in one, and One in three.",
+     "anchor": "Know ye that the Lord he is God"
+    },
+    {
+     "id": "trapp/PSA.100.3#p2-40897c22",
+     "text": "And newly made us; \"for we are his workmanship\" (a second time) \"created in Christ Jesus unto good works,\" Eph 2:10. The word signifieth, saith Kimchi, Ornare beneficiis, afficere donis, gratiis cumulare {confer 1Sa 12:6} and so is distinguished from Bara, to create, and Jatsar, to form. William of Malmesbury telleth of a certain emperor of Germany, who, coming by chance into a church on the sabbath day, found there a most misshapen priest, pene portentum naturae, insomuch as the emperor much scorned and contemned him; but when he heard him read those words in the service, \"For it is he that hath made us, and not we ourselves,\" the emperor checked his own proud thoughts, and made inquiry into the quality and conditions of the man, and finding, upon examination, that he was a very learned and devout man, he made him archbishop of Collen, which place he discharged with much commendations.",
+     "anchor": "It is he that hath made us",
+     "refs": [
+      {
+       "text": "Eph 2:10",
+       "ref": "EPH.2.10"
+      },
+      {
+       "text": "1Sa 12:6",
+       "ref": "1SA.12.6"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.100.3#p3-cfed8b03",
+     "text": "See Psa 95:7. This is a privilege proper to the communion of saints.",
+     "anchor": "We are his people, and the sheep",
+     "refs": [
+      {
+       "text": "Psa 95:7",
+       "ref": "PSA.95.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.100.4",
+   "range": "PSA.100.4",
+   "kind": "passage",
+   "hash": "6743dc7f",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.100.4#p1-6743dc7f",
+     "text": "As sheep into his sheepfolds, frequent his public ordinances, wait at the posts of the gates of wisdom; there, as at a heavenly exchange, the smuts present duty, and God confers mercy.",
+     "anchor": "Enter into his gates, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.100.5",
+   "range": "PSA.100.5",
+   "kind": "passage",
+   "hash": "a04409ca",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.100.5#p1-cedeb1bb",
+     "text": "Though we be evil, he giveth us all these good things gratis; and although we provoke him daily to punish us, yet his mercy is everlasting: like a fountain, it runneth after it hath run; and as the sun, which shineth after it hath shined. See Zec 13:1; Joh 1:27.",
+     "anchor": "For the Lord is good",
+     "refs": [
+      {
+       "text": "Zec 13:1",
+       "ref": "ZEC.13.1"
+      },
+      {
+       "text": "Joh 1:27",
+       "ref": "JHN.1.27"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.100.5#p2-35acac4e",
+     "text": "Heb. to generation and generation. He saith not, for ever, saith an interpreter, because his promises are true, but under a condition, which perhaps the following generations will not observe; the condition is to the promise as an oar in a boat, or stern of a ship, which turns it another way.",
+     "anchor": "And his truth endureth to all generations"
+    }
+   ]
+  }
+ ]
+}

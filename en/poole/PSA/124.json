@@ -1,0 +1,80 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 124,
+ "units": [
+  {
+   "id": "poole/PSA.124",
+   "range": "PSA.124",
+   "kind": "chapter",
+   "hash": "93033bee",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.124#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.124#p2-81165451",
+     "text": "This Psalm was composed by David in the name, and for the use of all the church and people of Israel, as a thanksgiving for their deliverance from some eminent danger or dangers from proud and potent enemies. Many such they had in David’s time; but which of them is here intended is hard to determine, and not worth the inquiry."
+    },
+    {
+     "id": "poole/PSA.124#p3-99f4d278",
+     "text": "The church setteth forth God’s mercy for a miraculous deliverance, out of the apparent danger of powerful enemies, Psa 124:1-5, and blesseth him for it Psa 124:6-8.",
+     "refs": [
+      {
+       "text": "Psa 124:1-5",
+       "ref": "PSA.124.1-5"
+      },
+      {
+       "text": "Psa 124:6-8",
+       "ref": "PSA.124.6-8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.124.3",
+   "range": "PSA.124.3",
+   "kind": "passage",
+   "hash": "9987b338",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.124.3#p1-9987b338",
+     "text": "they had speedily and utterly destroyed us, as Korah, &c. were, Num 16.",
+     "anchor": "They had swallowed us up quick"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.124.5",
+   "range": "PSA.124.5",
+   "kind": "passage",
+   "hash": "09d55e38",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.124.5#p1-9dee463a",
+     "text": "Our enemies, compared to"
+    },
+    {
+     "id": "poole/PSA.124.5#p2-c28b21e4",
+     "text": "for their great multitude, and swelling rage, and mighty force.",
+     "anchor": "proud waters"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.124.6",
+   "range": "PSA.124.6",
+   "kind": "passage",
+   "hash": "e0c4a4ff",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.124.6#p1-e0c4a4ff",
+     "text": "A metaphor from wild beasts, which tear and devour their prey with their teeth."
+    }
+   ]
+  }
+ ]
+}

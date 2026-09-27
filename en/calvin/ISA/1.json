@@ -1,0 +1,1666 @@
+{
+ "source": "calvin",
+ "book": "ISA",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "calvin/ISA.1.1",
+   "range": "ISA.1.1",
+   "kind": "passage",
+   "hash": "4df8c98f",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.1#p1-0846f8af",
+     "text": "The Hebrew word חזון (chazon,) though it is derived from חזה, (chazah,) he saw, and literally is a vision, yet commonly signifies a prophecy. For when the Scripture makes mention of special visions which were exhibited to the prophets in a symbolical manner, when it was the will of God that some extraordinary event should receive confirmation, in such cases the word Tibet, (מראה,) vision, is employed. Not to multiply quotations, in a passage which relates to prophecy in general the writer says, that the word of God was precious, because חזון, (chazon,) vision, was of rare occurrence.",
+     "verse": 1,
+     "anchor": "The vision of Isaiah"
+    },
+    {
+     "id": "calvin/ISA.1.1#p2-97bbe96b",
+     "text": "(1 Samuel 3:1.) A little afterwards, the word מראה: (mar-ah) is employed to denote the vision by which God revealed himself to Samuel. (1 Samuel 3:13.) In distinguishing between two ordinary methods of revelation, a vision and a dream, Moses speaks of a vision (מראה) as the special method. (Numbers 12:6.) It is evident, however, that the seer, הראה, (haroeh,) was the name formerly given to prophets, (1 Samuel 9:9;) but by way of excellence, because God revealed to them his counsel in a familiar manner.",
+     "refs": [
+      {
+       "text": "1 Samuel 3:1",
+       "ref": "1SA.3.1"
+      },
+      {
+       "text": "1 Samuel 3:13",
+       "ref": "1SA.3.13"
+      },
+      {
+       "text": "Numbers 12:6",
+       "ref": "NUM.12.6"
+      },
+      {
+       "text": "1 Samuel 9:9",
+       "ref": "1SA.9.9"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.1#p3-10c7f016",
+     "text": "So far as relates to the present passage, this word unquestionably denotes the certainty of the doctrine; as if it had been said that there is nothing contained in this book which was not made known to Isaiah by God himself. The derivation of the word, therefore, deserves attention; for we learn by it that the prophets did not speak of their own accord, or draw from their own imaginations, but that they were enlightened by God, who opened their eyes to perceive those things which otherwise they would not of themselves have been able to comprehend. Thus the inscription of Isaiah recommends to us the doctrine of this book, as containing no human reasonings, but the oracles of God, in order to convince us that it contains nothing but what was revealed by the Spirit of God."
+    },
+    {
+     "id": "calvin/ISA.1.1#p4-43134f08",
+     "text": "Were we to render it to Judah, it would make little difference, for the preposition על (al) has both significations, and the meaning will still be, that everything contained in this book belongs strictly to Judah and Jerusalem. For though many things are scattered through it which relate to Babylon, Egypt, Tyre, and other cities and countries, yet it was not necessary that those places should be expressly enumerated in the title; for nothing more was required than to announce the principal subject, and to explain to whom Isaiah was chiefly sent, that is, to Jerusalem, and the Jews. Everything else that is contained in his prophecies may be said to have been accidental and foreign to the subject.",
+     "anchor": "Concerning Judah"
+    },
+    {
+     "id": "calvin/ISA.1.1#p5-09359e9a",
+     "text": "And yet it was not inconsistent with his office to make known to other nations the calamities which should overtake them; for in like manner Amos did not go beyond the limits of his calling, when he did not spare the Jews, though he was not sent to them. (Amos 2:4, 5.) A still more familiar instance is found in the calling of Peter and Paul, the former of whom was appointed to the Jews, and the latter to the Gentiles.",
+     "refs": [
+      {
+       "text": "Amos 2:4, 5",
+       "ref": "AMO.2.4-5"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.1#p6-535570d7",
+     "text": "(Galatians 2:8.) And yet Peter did not rush beyond the limits of his office, by preaching to the Gentiles; as, for example, when he went to Cornelius: (Acts 10:17:) nor did Paul, when he offered his services to the Jews, to whom he immediately went as soon as he entered into any city. (Acts 13:5; 14:1; 17:2, 10; 18:4,19.) In the same light ought we to view Isaiah; for while he is careful to instruct the Jews, and directs his labors expressly towards that object, he does not transgress his proper limits when he likewise takes a passing notice of other nations.",
+     "refs": [
+      {
+       "text": "Galatians 2:8",
+       "ref": "GAL.2.8"
+      },
+      {
+       "text": "Acts 10:17",
+       "ref": "ACT.10.17"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.13.5"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.14.1"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.17.2"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.17.10"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.18.4"
+      },
+      {
+       "text": "Acts 13:5; 14:1; 17:2, 10; 18:4,19",
+       "ref": "ACT.18.19"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.1#p7-133474f8",
+     "text": "He takes Judah for the whole nation, and Jerusalem for the chief city in the kingdom; for he does not make a distinction between Jerusalem and the Jews, but mentions it, by way of eminence, (κατ ᾿ ἐξοχὴν,) as the metropolis, just as if a prophet of the present day were to address the kingdom of France, and Paris, which is the metropolis of the nation. And this was of great importance, that the inhabitants of Jerusalem might not hold themselves exempted, as if they were free from all blame, or placed above the laws on account of their high rank, and thus might send the meaner sort of people to be instructed by homely prophets. It is a mistake, however, to suppose that Jerusalem is mentioned separately, on account of its being situated in the tribe of Benjamin; for the half of that tribes which was subject to the posterity of David, is included under the name of Judah",
+     "anchor": "Judah and Jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.2",
+   "range": "ISA.1.2",
+   "kind": "passage",
+   "hash": "852b3e1e",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.2#p1-5e1ed489",
+     "text": "Isaiah has here imitated Moses, as all the prophets are accustomed to do; and there cannot be a doubt that he alludes to that illustrious Song of Moses, in which, at the very commencement, he calls heaven and earth to witness against the people:",
+     "verse": 2,
+     "anchor": "Hear, O heavens"
+    },
+    {
+     "id": "calvin/ISA.1.2#p2-a3c31841",
+     "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth. (Deuteronomy 32:1.)",
+     "refs": [
+      {
+       "text": "Deuteronomy 32:1",
+       "ref": "DEU.32.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.2#p3-db4a36ab",
+     "text": "This is unquestionably a very severe protestation; for it conveys this meaning, that both turn to the elements which are dumb and devoid of feeling, because men have now no ears, or are bereft of all their senses. The Prophet, therefore, speaks of it as an extraordinary and monstrous thing, which ought to strike even the senseless elements with amazement. For what could be more shocking than that the Israelites should revolt from God, who had bestowed on them so many benefits? Those who think that by heaven are meant angels, and by earth men, weaken too much the import of those words, and thus destroy all their force and majesty."
+    },
+    {
+     "id": "calvin/ISA.1.2#p4-209248fc",
+     "text": "Almost all the commentators consider the clause to end with the words, for the Lord hath spoken; as if the Prophet had intimated, that as soon as the Lord opens his sacred mouth, all ought to be attentive to hear his voice. And certainly this meaning has the appearance of being more full; but the context demands that we connect the words in a different manner, so as to make the word hear to refer, not in a general manner to any discourse whatever, but only to the expostulation which immediately follows. The meaning therefore is, Hear the complaint which the Lord brings forward, I have nourished and brought up children, etc. For he relates a prodigy, which fills him with such horror that he is compelled to summon dead creatures as witnesses, contrary to nature."
+    },
+    {
+     "id": "calvin/ISA.1.2#p5-604d49b3",
+     "text": "That no one may wonder at the circumstance of his addressing dumb and lifeless objects, experience very clearly shows that the voice of God is heard even by dumb creatures, and that the order of nature is nothing else than the obedience which is rendered to him by every part of the world, so that everywhere his supreme authority shines forth; for at his bidding the elements observe the law laid down to them, and heaven and earth perform their duty. The earth yields her fruits; the sea flows not beyond her settled boundaries; the sun, moon, and stars perform their Courses; the heavens, too, revolve at stated periods; and all with wonderful accuracy, though they are destitute of reason and understanding But man, endued with reason and understanding, in whose ears and in whose heart the voice of God frequently sounds, remains unmoved, like one bereft of his senses, and cannot bend the neck to submit to him. Against obstinate and rebellious men shall dumb and lifeless creatures bear testimony, so that they will one day feel that this protestation was not in vain."
+    },
+    {
+     "id": "calvin/ISA.1.2#p6-91994307",
+     "text": "Literally it runs, I have made them great; {1} but as he is speaking about children, we cannot obtain a better rendering than I have nourished, or, I have brought up; {2} for instead of the verb, to nourish, {3} the Latins employ the phrase, to bring up children {4} But he afterwards mentions other benefits which he had bestowed on them in rich abundance; as if he had said, that he not only had performed the part of a kind father, by giving them food and the ordinary means of support, but had labored to raise them to an honorable rank. For in every sort of kindness towards them he had, as it were, exhausted himself, as he elsewhere reproaches them,",
+     "anchor": "I have nourished"
+    },
+    {
+     "id": "calvin/ISA.1.2#p7-1cc87723",
+     "text": "Feci magnos. The term feci (I have made) exhibits the force of the Pihel form, גדלתי(giddalti,) which, as in other instances, approaches the meaning of the Hiphil form, הגדלתי, (higdalti.) — Ed",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.2#p8-e61cd6c7",
+     "text": "Educavi, vel sustuli.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/ISA.1.2#p9-d7bc2d1c",
+     "text": "Enutrire.",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/ISA.1.2#p10-4842a8f5",
+     "text": "Tollere liberos.",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/ISA.1.2#p11-2b1356ec",
+     "text": "What could have been done to my vineyard that I have not done? (Isaiah 5:4.)",
+     "refs": [
+      {
+       "text": "Isaiah 5:4",
+       "ref": "ISA.5.4"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.2#p12-285be946",
+     "text": "A similar charge the Lord might indeed have brought against all nations; for all of them he feeds, and on all he confers great and multiplied benefits. But he had chosen the Israelites in a peculiar manner, had given them a preference above others by adopting them into his family, had treated them as his most beloved children, had tenderly cherished them in his bosom, and, in a word, had bestowed on them every kind of blessings."
+    },
+    {
+     "id": "calvin/ISA.1.2#p13-5c920f1e",
+     "text": "To apply these observations to our own times, we ought to consider whether our condition be not equal, or even superior to that which the Jews formerly enjoyed. Their adoption into the family of God bound them to maintain the purity of his worship. Our obligation is twofold; for not only have we been redeemed by the blood of Christ, but he who once redeemed us is pleased to favor us with his Gospel, and in this manner prefers us to all those whom he still allows to remain blinded by ignorance. If we do not acknowledge these things, how much severer punishment shall we deserve? For the more full and abundant the grace of God which hath been poured out on us, the higher will be the ingratitude of which it shall convict us."
+    },
+    {
+     "id": "calvin/ISA.1.2#p14-73843ee3",
+     "text": "{5} Jerome translates it, they have despised; {6} but it is plain enough, from many passages, that פשע (pashang) means something more, namely, revolt. God declares, that by no acts of kindness could they be kept in a state of obedience, that they were utterly disaffected and estranged, like a son who leaves his father’s house, and thus makes manifest that there remains no hope of his improvement. It is indeed a monstrous thing that children should not be obedient to their father, and to a Father who is so kind, and who gives unceasing attention to his family.",
+     "anchor": "They have revolted"
+    },
+    {
+     "id": "calvin/ISA.1.2#p15-f70a24a2",
+     "text": "Lycurgus refused to enact a law against ungrateful persons, because it was monstrously unnatural not to acknowledge a benefit received. A child who is ungrateful to his father is therefore a double monster; but a child who is ungrateful to a kind and generous father is a threefold monster. For he employs the word children, not for the purpose of treating them with respect, but in order to exhibit that revolt in a more striking manner, and in more hateful colors."
+    },
+    {
+     "id": "calvin/ISA.1.2#p16-8857bb1e",
+     "text": "Our Author, in his Latin version of the Prophet, (see p. 33,) has rendered this word by “scelerate egerunt in me“ — “they have acted wickedly towards me;” and, in the margin, by “rebellarunt contra me,” — “have rebelled against me.” Without taking notice of either of these translations, he has here introduced a third, “defecerunt“ — “have revolted,” for which it would be easy to produce authorities. The participle, פושעים (poshegnim,) at Hosea 14:10, is defined by Aben Ezra (quoted by Buxtorff) to mean שיוצאים מהרשות, (sheyotzeim meharshoth,) those who withdraw from authority, who set at nought, or oppose, the authority of a lawful magistrate. — Ed",
+     "footnote": true,
+     "label": "5",
+     "refs": [
+      {
+       "text": "Hosea 14:10",
+       "ref": "HOS.14.9"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.2#p17-699c0d28",
+     "text": "Spreverunt.",
+     "footnote": true,
+     "label": "6"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.3",
+   "range": "ISA.1.3",
+   "kind": "passage",
+   "hash": "f0658ec8",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.3#p1-5cf0f072",
+     "text": "This comparison marks the more strongly the criminality of the revolt; for the Lord might have compared his people to the Gentiles; but he is still more severe when he compares them to dumb beasts, and pronounces them to be more stupid than the beasts are. Though beasts are destitute of reason and understanding, still they are capable of being taught; to such an extent, at least, as to recognize those who feed them. Since, therefore, God had not only fed this people at a stall, but had nourished them with all the kindness which is wont to be exercised by a father towards his sons, and had not only filled their bellies, but supplied them daily with spiritual food; having perceived them to be so exceedingly sluggish, he justly considers that they deserve to be taught in the school of beasts, and not of men; and therefore he sends them to the oven and asses to learn from them what is their duty. Nor ought we to wonder at this; for the beasts frequently observe the order of nature more correctly, and display greater kindness, than men themselves.",
+     "verse": 3,
+     "anchor": "The ox knoweth his owner"
+    },
+    {
+     "id": "calvin/ISA.1.3#p2-c6c22ed9",
+     "text": "Not to multiply instances, it will be sufficient to notice that which is here mentioned by Isaiah, that the beasts, though they are exceedingly dull and stupid, do, notwithstanding, obey their masters and those who have the charge of them. But if we choose to attend to other points in which they excel men, how many shall we discover? What is the reason why scarcely any animal is cruel to its own species, and that it recognizes in another its own likeness? What is the reason why all animals commonly bestow so much care in rearing their young, while it frequently happens that mothers, forgetful of the voice of nature and of humanity, forsake their children?"
+    },
+    {
+     "id": "calvin/ISA.1.3#p3-4d2af768",
+     "text": "What is the reason why they are accustomed to take no more meat and drink than what is sufficient for sustaining their life and their strength, while men gorge themselves, and utterly ruin their constitutions? In a word, What is the reason why they do not, in any respect, transgress the laws which nature has prescribed to them?"
+    },
+    {
+     "id": "calvin/ISA.1.3#p4-9dafdd52",
+     "text": "The papists, who are accustomed to set aside the true meaning of the Scriptures, and to spoil all the mysteries of God by their own fooleries, have here contrived an absurd fable; for they have falsely alleged that the oxen and asses in the stall worshipped Christ when he was born; by which they show themselves to be egregious asses. (And indeed I wish that they would imitate the ass which they have invented; for then they should be asses worshipping Christ, and not lifting up the heel against his divine authority.) For here the Prophet does not speak of miracles, but of the order of nature, and declares, that those who overturn that order may be regarded as monsters."
+    },
+    {
+     "id": "calvin/ISA.1.3#p5-5f04325b",
+     "text": "We must not contrive new miracles for the purpose of adding to the authority of Christ; for, by mingling the false with the true, there is danger lest both should be disbelieved; nor can there be any doubt but that, if such a miracle had been wrought, the Evangelists would have committed it to writing."
+    },
+    {
+     "id": "calvin/ISA.1.3#p6-9231677b",
+     "text": "The name Israel, which he contrasts with those beasts, is emphatic. We know how honorable it was for the posterity of Abraham to be known by this name, which God had bestowed on the holy patriarch, because he had vanquished the angel in wrestling. (Genesis 32:28.) So much the more dishonorable was it for bastard and rebellious children to make false boasting of that honor. First, there is an implied reproof, not only because those who do not at all resemble the holy mall do wrong in assuming his name, but because they are ungrateful to God, from whom they had received most valuable blessings. Secondly, there is also conveyed an indirect comparison; for the higher their rank was in being far exalted above all other nations, so much the greater disgrace is flow intended to be expressed by separating them from other nations under the honorable designation of Israel",
+     "anchor": "Israel doth not know",
+     "refs": [
+      {
+       "text": "Genesis 32:28",
+       "ref": "GEN.32.28"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.3#p7-83746297",
+     "text": "The Greek translators have added the word me {1}; but I prefer to repeat what he had said before, Israel doth not know His Owner, that is, God; nor his crib, that is, the Church, in which he had been brought up, and to which he ought to be attracted; while those beasts, on the other hand, recognize the master by whom they are nourished, and willingly return to the place where they have been fed."
+    },
+    {
+     "id": "calvin/ISA.1.3#p8-6e2b88dd",
+     "text": "‘Ἰσραὴλ δέ με οὐκ ἔγνω, καὶ ὁ λαός με ού συνὢκεν — But Israel doth not know me, and the people doth not understand me",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.4",
+   "range": "ISA.1.4",
+   "kind": "passage",
+   "hash": "ab187a7c",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.4#p1-28084f0a",
+     "text": "! {1} Though he held already reproved their crime with sufficient severity, yet, for the purpose of exposing it still more, he adds an exclamation, by which he expresses still more strongly his abhorrence of such base ingratitude and wickedness. Some are of opinion that the particle הוי (hoi) denotes grief; Jerome renders it vae (Wo to); but for my part I reckon it sufficient to say that it is an exclamation, suggested partly by astonishment, and partly by sorrow.",
+     "verse": 4,
+     "anchor": "Ah sinful nation"
+    },
+    {
+     "id": "calvin/ISA.1.4#p2-6182bf9a",
+     "text": "For we burst into loud cries, when the disgracefulness of the action is such as cannot be expressed in plain terms, or when we want words to correspond to the depth of our grief Where we have rendered wicked nation, the Greeks have translated ἁμαρτωλὸν that is, a sinner; and such is likewise the rendering of the Vulgate. But the Hebrew word denotes those who are given up to crime; and the Prophet unquestionably charges them with abandoned wickedness."
+    },
+    {
+     "id": "calvin/ISA.1.4#p3-1e7d0282",
+     "text": "This comes very near the rendering of the Septuagint, οὐαὶ ἔθνος ἁμαρτωλὸν",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.4#p4-7f4ec95c",
+     "text": "The force of the metaphor ought to be observed; for not only does he mean that they are sunk in their iniquity, as in a deep mire, but he likewise brings a charge against them, that they sin, not through mistake or thoughtlessness, as frequently happens with those who are easily led astray, but that they follow out their rebellion with a firm purpose of mind; as if he had said that they were the slaves of sin, or sold to act wickedly.",
+     "anchor": "A people laden with iniquity"
+    },
+    {
+     "id": "calvin/ISA.1.4#p5-5b9c7229",
+     "text": "When he adds, a seed of evil-doers, he means a wicked seed. Others, with greater ingenuity, consider this passage to mean, that they are declared to be unworthy of holding a place among the children of Abraham, because they are bastards, and not related to him; as they are elsewhere called the seed of Canaan, and are reproached with being uncircumcised, (Jeremiah 9:26,) as if they had been the descendants of heathens and foreigners. But it is customary with the Hebrews to employ the phrase, “children of the good” for “good children,” a mode of expression which has been imitated by the Greeks. {2}",
+     "refs": [
+      {
+       "text": "Jeremiah 9:26",
+       "ref": "JER.9.26"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.4#p6-2332f4d8",
+     "text": "Vigerus remarks, that παῖδες, when construed with the genitives of nouns, denoting artists, nations, or any particular condition or profession of men, is put for the nouns themselves; and he adduces the following instances, ῥητόρων, ἰατρῶν φιλοσόφων, γραφέων παιδες, which is far more elegant than ῥήτορες etc.; and in like manner, Κελτῶν παῖδες, sons of the Celts, or, Gauls, that is, Gauls; δυστήνων παῖδες, sons of the wretched, that is, the wretched — Ed",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/ISA.1.4#p7-4bc010d7",
+     "text": "The word משחיתים (mashchithim) literally means corrupting, and accordingly translators supply the word themselves, or, their pursuits. But I reckon that degenerate is a more appropriate rendering; for the Prophet means that they are so depraved as to be altogether unlike their parents. The four epithets which are here bestowed by him on his nation are far from being honorable, and are widely different from the opinion which they had formed about themselves. For this is the manner in which we must arouse hypocrites; and the more they flatter themselves, and the farther they are from being regulated by the fear of God, so much the more ought we to wield against them the thunderbolts of words.",
+     "anchor": "Degenerate children"
+    },
+    {
+     "id": "calvin/ISA.1.4#p8-8188c592",
+     "text": "On such persons a milder form of instruction would produce no effect, and an ordinary exhortation would not move them. It is necessary, also, to remove that false conviction of their holiness, righteousness, and wisdom, which they commonly employ as a disguise, and as the ground of idle boasting."
+    },
+    {
+     "id": "calvin/ISA.1.4#p9-4507e952",
+     "text": "He assigns the reason why he reproves them with such sharpness and severity. It is, that they may not complain, as they are wont to do, of being treated with excessive harshness and rigour. And first he upbraids them with that which is the source of all evils, their revolt from God; for, as it is the highest perfection of righteousness to cleave to God, agreeably to those words of Moses, Now, Israel, what doth thy God require from thee but that thou shouldst cleave to him? {3} so, when we have revolted from him, we are utterly ruined. The design of the Prophet is, not to convince the Jews that they are guilty of a single crime, but to show that they are wholly apostates.",
+     "anchor": "For they have forsaken the Lord"
+    },
+    {
+     "id": "calvin/ISA.1.4#p10-1af590a0",
+     "text": "Our Author, quoting from memory, has mingled two passages: And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart, and with all thy soul? (Deuteronomy 10:12.) Thou shalt fear the Lord thy God; him shalt thou serve, and to him shalt thou cleave and swear by his name. (Deuteronomy 10:20.) — Ed.",
+     "footnote": true,
+     "label": "3",
+     "refs": [
+      {
+       "text": "Deuteronomy 10:12",
+       "ref": "DEU.10.12"
+      },
+      {
+       "text": "Deuteronomy 10:20",
+       "ref": "DEU.10.20"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.4#p11-02c5ab5d",
+     "text": "The following words, they have provoked the Holy One of Israel, whether the word be rendered provoke, or despise, the latter of which I prefer, are undoubtedly added in order to place their sin in a still stronger light; for it was shamefully base to treat with contempt the favor of him who had chosen them alone out of all the nations to be adopted into his family. This is also the reason why he calls himself the Holy One of Israel; because, by admitting them to alliance with him, he had at the same time adorned them with his holiness; for wherever this name occurs it is ascribed to him on account of the effect. What barbarous pride was there in despising so great an honor! If any one choose rather to render the word provoke, the meaning will be, that they rejected God, as if they expressly intended to provoke his anger; which shows how detestable their apostasy is."
+    },
+    {
+     "id": "calvin/ISA.1.4#p12-f4c5b333",
+     "text": "The meaning is, that when the Lord laid down to them a fixed way and rule of living, they were hurried along by their sinful passions; but he confirms the statement which he had just now made, that their licentiousness was so unbridled that they utterly revolted from God, and deliberately turned aside from that course to which their life ought to have been directed.",
+     "anchor": "They are gone away backward"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.5",
+   "range": "ISA.1.5",
+   "kind": "passage",
+   "hash": "f08bd97b",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.5#p1-b75391b0",
+     "text": "? Some render it, Upon what? or, On what part? and interpret the passage as if the Lord had said that he had not another scourge left; because so various are the methods by which he has attempted to bring them back to the path of duty, that no other way of chastising them remains to be tried. But I prefer to render it Why? because this corresponds to the Hebrew word, and agrees better with the context. It is equivalent to phrases in daily use, To what purpose?",
+     "verse": 5,
+     "anchor": "Why should ye be stricken any more"
+    },
+    {
+     "id": "calvin/ISA.1.5#p2-79fbb6be",
+     "text": "For what object? {1} He means that the Jews have proceeded to such a pitch of wickedness and crimes, that it is impossible to believe that chastisements will do them any good; for when desperate men have been hardened, we know that they will rather be broken to shreds than submit to correction. He complains of their prodigious obstinacy, like a physician who should declare that every remedy had been tried, and that his skill was now exhausted."
+    },
+    {
+     "id": "calvin/ISA.1.5#p3-366686bf",
+     "text": "A quel propos? Pour quelle fin?",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.5#p4-24652bba",
+     "text": "At the same time he charges them with extreme malice; for when ungodly men are not even humbled by punishments, they have arrived at the very height of wickedness; as if the Lord had said, “I see that I should do you no good if I were to chastise you;” for although chastisements and afflictions are the remedies which God employs for curing our vices, yet, when they are found to be of no advantage to us, we are past hope. True, indeed, God does not on that account cease to punish us, but, on the contrary, his wrath against us is the more enflamed; for such obstinacy God abhors above all things else. But he justly says that his labor is lost when he does not succeed in bringing us to repentance, and that it is useless to apply remedies to those who cannot be cured."
+    },
+    {
+     "id": "calvin/ISA.1.5#p5-aa8bc371",
+     "text": "Thus he does not fail to double their chastisements and afflictions, and to try the very utmost of what can be done, and he is even compelled to take this course until he absolutely ruin and destroy them. But in all this he does not discharge the office of a physician; but what he laments is, that the chastisements which he inflicts will be of no avail to his people."
+    },
+    {
+     "id": "calvin/ISA.1.5#p6-f903a18e",
+     "text": "It is a confirmation of the former statement, and therefore I separate it from the former clause, though there are some who put them together. It is as if he had said, “Still you will not cease to practice treachery; yea, you will add to your crimes; for I perceive that you rush to the commission of iniquity as if you had leagued and banded yourselves for that purpose, so that we can no longer hope that you will slacken in your course.” The design of God is to exhibit their incorrigible disposition, that they may be left without excuse.",
+     "anchor": "You will yet grow more faithless"
+    },
+    {
+     "id": "calvin/ISA.1.5#p7-725deeb4",
+     "text": "Others translate it every head, and suppose that those terms denote the princes and nobles of the nation. I rather agree with the opinion of those who render it the whole head; for I consider it to be a plain comparison taken from the human body, to this effect, that the body is so severely afflicted that there is no hope of returning health. He points out two principal parts on which the health of the body depends, and thus shows the extent of the disease which, he tells us, has infected this wretched people to such a degree that they are wasting away; that the disease exists not in a single member, or in the extremities of the body, but that the heart itself has been wounded, and the head is severely afflicted; in short, that the vital parts, as they are called, are so much injured and corrupted that it is impossible to heal them.",
+     "anchor": "The whole head is sick"
+    },
+    {
+     "id": "calvin/ISA.1.5#p8-a846a1c6",
+     "text": "But here also commentators differ; for some of them view this state of disease as referring to sins, and others to punishments. Those who view it as referring to sins interpret it thus: “You are like a rotten and stinking body, in which no part is sound or healthy. Crimes of the worst description prevail amongst you, by the infection of which every thing is corrupted and debased.” But I choose rather to interpret it as referring to punishments; for unquestionably God still proceeds with this complaint, that the nation is so obstinate as to be incapable of being cured by any chastisements, because, though it has been beaten almost to death, or at least has been maimed and frightfully torn by repeated blows, still it is not reformed. Such too is the import of —"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.6",
+   "range": "ISA.1.6",
+   "kind": "passage",
+   "hash": "dea34ab2",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.6#p1-b0bf1965",
+     "text": "Here he proceeds with the same comparison, and repeats the same statement; for certainly those who explain the former part of the verse, as referring to punishments, do not sufficiently consider the remaining part of the context. If we shall admit that a nation corrupted by vices is compared to a diseased body, what is the meaning of the words which immediately follow, that the wounds have not been bound up or mollified with ointment? It is plain that the Prophet speaks of afflictions by which the nation had almost wasted away, and that he adduces this long-continued weakness as a proof of hardened impenitence.",
+     "verse": 6,
+     "anchor": "From the sole of the foot even unto the head there is no soundness in it"
+    },
+    {
+     "id": "calvin/ISA.1.6#p2-a7043c3d",
+     "text": "He calls it a putrifying sore, from which diseased matter is continually flowing, as if some concealed fountain were perpetually sending forth an additional supply of venom. By this comparison he shows that the wound is incurable, because that supply cannot be stopped."
+    },
+    {
+     "id": "calvin/ISA.1.6#p3-26037e37",
+     "text": "All this is prodigiously heightened by affirming that no remedies have been applied; for the three metaphors which he joins together — they have not been closed, neither bound up, neither mollified with ointment — have all the same meaning that the nation, without any hope of relief, without comfort, without remedy, is reduced to such a state of distress, that in such punishments the utmost severity of God is openly displayed."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.7",
+   "range": "ISA.1.7",
+   "kind": "passage",
+   "hash": "b208470e",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.7#p1-3b3c77a8",
+     "text": "Literally, it is desolation; and thus Isaiah goes on to speak more fully and plainly of what he had already said figuratively about chastisements, that the country has been reduced to a frightful state of devastation: for I choose to interpret all those statements as relating to past occurrences, because the Prophet does not threaten the vengeance of God, but describes those heavy calamities which have already happened. He upbraids them with indolence and stupidity in remaining unmoved by their afflictions.",
+     "verse": 7,
+     "anchor": "Your country is desolate"
+    },
+    {
+     "id": "calvin/ISA.1.7#p2-85213668",
+     "text": "{1}. This is added for the sake of heightening the picture; for the opinion that זרים (zarim) is here put for זרם (zerem), an inundation, is farfetched. That word might no doubt be applied to enemies, but it is better to take it as literally denoting foreigners. The calamity is more grievous when it is brought on by men who are unknown, and who have come from a distant country, who lay waste with far greater recklessness and cruelty than neighboring tribes. Such men destroy cities, burn houses, buildings, and villages, and spread desolation all around.",
+     "anchor": "Like the destruction of strangers"
+    },
+    {
+     "id": "calvin/ISA.1.7#p3-afbb97c1",
+     "text": "In short, they rush forward with barbarous ferocity, bent on murders and conflagrations, and are more eager to inflict damage than to make gain. But neighbors, when they have subdued a country, can retain possession of it by having a garrison, and as soon as a revolt is attempted, or an insurrection takes place, can send additional troops; and therefore they are not so cruel; nor do they lay waste a country from which they hope to derive some advantage. It is therefore no ordinary calamity, but the most shocking of all calamities, that is here described."
+    },
+    {
+     "id": "calvin/ISA.1.7#p4-6ddd8a42",
+     "text": "In the English version it runs, as overthrown by strangers; and the marginal reading, adhering more closely to the Hebrew idiom, is, as the overthrow of strangers. The interpretation rejected by Calvin has been approved by some able critics; and Lowth, distrusting the philological views given by his predecessors, has resorted to a conjectural alteration of the Hebrew text: — “This reading, though confirmed by all the ancient versions, gives us no good sense; for your land is devoured by strangers, and is desolate as if overthrown by strangers, is a mere tautology, or, what is as bad, an identical comparison.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.7#p5-cf12f850",
+     "text": "Aben Ezra thought that the word, in its present form, might be taken for the same with זרם, an inundation. Schultens is of the same opinion, (see Taylor’s Concord;) and Schindler, in his Lexicon, explains it in the same manner, and so, says Kimchi, some explain it.” After enumerating the attempts of Abendana “to reconcile it to grammatical analogy,” he adds, “but I rather suppose the true reading to be זרם, and have translated it accordingly: the word זרים, in the line above, seems to have caught the transcriber’s eye, and to have led him into this mistake.” — Notes on Isaiah. — Ed",
+     "footnote": true
+    },
+    {
+     "id": "calvin/ISA.1.7#p6-4b0d58ae",
+     "text": "Hence we ought to learn that, when God begins to punish us, if we do not repent, he does not immediately desist, but multiplies the chastisements, and continually follows them up with other afflictions. We ought therefore to abstain from such obstinacy, if we do not wish to draw down upon ourselves the same punishments, or at least to deserve the same reproach which was brought against the Jews, that though they had received sharp warnings, and had felt the hand of God, still they could not be corrected or reformed."
+    },
+    {
+     "id": "calvin/ISA.1.7#p7-776c078b",
+     "text": "Moreover, we ought not to wonder that we are visited with so great an amount and variety of afflictions, of which we see no end or limit, for by our obstinacy we fight with God and with his stripes. It must therefore happen with us as with wincing and unruly horses, which, the more obstinate and refractory they are, have the whip and spur applied to them with greater severity. In the present day there are many who almost accuse God of cruelty, as if he always treated us with harshness, and as if he ought to chastise us more gently; but they do not take into account our shocking crimes. If those crimes were duly weighed by them, they would assuredly acknowledge that, amidst the utmost severity, the forbearance of God is wonderful; and that we may not think that in this case the Lord was too severe, we must take into consideration the vices which he afterwards enumerates."
+    },
+    {
+     "id": "calvin/ISA.1.7#p8-b09505b0",
+     "text": "Here an objection will be started. Why does Isaiah declare that the nation endured such a variety of afflictions, while we have already mentioned that he began to prophesy under Uzziah, {2} during whose reign the kingdom of Judah was in a prosperous condition? (2 Chronicles 26:5-15.) For although, towards the end of his life, the kingdom of Israel met with some disasters, still this did not affect the kingdom of Judah. Accordingly, the Jews think that these words relate to the reign of Jotham, (2 Kings 15:32,) and not of Uzziah.",
+     "refs": [
+      {
+       "text": "2 Chronicles 26:5-15",
+       "ref": "2CH.26.5-15"
+      },
+      {
+       "text": "2 Kings 15:32",
+       "ref": "2KI.15.32"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.7#p9-451f537b",
+     "text": "Their opinion appears at first sight to have little weight; and yet, when the whole matter is examined, it is not destitute of probability; for we know that the prophets did not always attend to chronological arrangement in collecting their prophecies; and it is possible that this discourse of Isaiah was placed first in order for no other reason but because it contains a summary view of that doctrine which is afterwards to be delivered."
+    },
+    {
+     "id": "calvin/ISA.1.7#p10-6fe36fbb",
+     "text": "Called also Azariah, 2 Kings 15:1. — Ed.",
+     "footnote": true,
+     "label": "2",
+     "refs": [
+      {
+       "text": "2 Kings 15:1",
+       "ref": "2KI.15.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.7#p11-12170b4d",
+     "text": "Others think that they can easily get rid of the difficulty by interpreting the whole passage as a description of vice, and not of punishments; but what is said about the burning of cities and about the desolation of the country cannot easily be disposed of in that manner. If it is supposed that the Prophet speaks of the future and not the present condition of that kingdom, and that in the name of God he foretells approaching calamities, though they did not behold them with their eyes, I do not greatly object to that view, though it is probable that he treats of events which were known to them. It is a real narrative, and not a prediction, though in the next verse I acknowledge he announces the approaching result."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.8",
+   "range": "ISA.1.8",
+   "kind": "passage",
+   "hash": "f41d52e5",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.8#p1-6bad2c00",
+     "text": "{1} as a cottage in a vineyard He alludes to a custom which exists in France, that the vinekeepers rear a cottage for themselves when the grapes begin to ripen. His next comparison, which is closely allied to the former, is taken from a custom of that nation of protecting also gardens of cucumbers {2} by means of men who kept watch during the night. He next explains what he intended to convey by both comparisons.",
+     "verse": 8,
+     "anchor": "And the daughter of Zion shall be left"
+    },
+    {
+     "id": "calvin/ISA.1.8#p2-ebd58857",
+     "text": "Residua manebit.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.8#p3-bc661607",
+     "text": "A lively French traveler, Tavernier, who flourished about the middle of the seventeenth century, in describing the eastern shores of the Mediterranean Sea, gives the following account: — “There we see large beds of melons and of cucumbers, but especially of the latter, of which the inhabitants of the Levant are particularly fond. Most frequently they eat them without peeling, and afterwards drink a glass of water. Throughout the whole of Asia this is the ordinary food of the common people for three or four months. The whole family lives on it; and when a child asks for something to eat, instead of giving it bread, as in France and other places is the custom, in the Levant they offer it a cucumber, which it eats raw just as it has been fresh pulled. Cucumbers in the Levant have a peculiarly excellent flavour, and though they are eaten raw they never do any injury.” — Ed.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/ISA.1.8#p4-d8c90ae6",
+     "text": "This may be explained in two ways; either that the whole country will be wasted, with the solitary exception of the city, which shall be left standing like a cottage, or that the city itself will be destroyed. The former interpretation is adopted by the Jews, and they understand this passage to relate to the siege of Sennacherib; but I think that it has a wider signification, and embraces other calamities which followed afterwards. This may indeed refer to the neighboring country, from the misery and devastation of which it was impossible but that the city should sustain much damage; but I consider the Prophet’s meaning to be, that the evils of which he speaks shall reach even to the city itself, until, broken and ruined, it shall wear the aspect of a mean cottage",
+     "anchor": "Like a besieged city"
+    },
+    {
+     "id": "calvin/ISA.1.8#p5-7749b7d5",
+     "text": "is the name here given to Jerusalem, in accordance with what is customary in Scripture to give the designation of daughter to any nation, in the same manner as the daughter of Babylon (Isaiah 47:1) and the daughter of Tyre (Psalm 45:12) are names given to the Tyrians and Babylonians. Zion is the name here employed rather than Jerusalem, on account of the dignity of the temple; and this figure of speech, by which a part is taken for the whole, is frequently employed.",
+     "anchor": "The daughter of Zion",
+     "refs": [
+      {
+       "text": "Isaiah 47:1",
+       "ref": "ISA.47.1"
+      },
+      {
+       "text": "Psalm 45:12",
+       "ref": "PSA.45.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.9",
+   "range": "ISA.1.9",
+   "kind": "passage",
+   "hash": "ffd0aeb6",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.9#p1-c7df0ed6",
+     "text": "Here he concludes what he had formerly declared concerning God’s chastisements, that the desolation which shall take place — or rather which is present, and which they now behold — may be compared to the destruction of Sodom, were it not that the Lord snatched as it were from the burning a very small remnant. And this verse confirms what I formerly said, that the Prophet’s description of the calamities which had already taken place is interwoven with those events which were immediately at hand, as if he had said, Be not deceived by flatteries; you would be in the same condition that Sodom and Gomorrah now are, were it not that God, in compassion on you, has preserved a remnant. This agrees with the words of Jeremiah,",
+     "verse": 9,
+     "anchor": "Except the Lord of hosts had left unto us"
+    },
+    {
+     "id": "calvin/ISA.1.9#p2-20142440",
+     "text": "It is of the Lord’s mercies that we are not consumed. (Lamentations 3:22.)",
+     "refs": [
+      {
+       "text": "Lamentations 3:22",
+       "ref": "LAM.3.22"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.9#p3-00a9f0b6",
+     "text": "Hence we ought to observe two things. First, the Prophet here describes utter destruction; and yet, because God had to deal with his Church and his beloved people, that judgment is mitigated by special grace, so that out of the general ruin of the whole nation God rescues his people, whom he justly compares to a very small remnant. But if God punished the crimes of the Jews by such dreadful chastisements, let us consider that we may share the same fate if we imitate their rebellion: for God had set apart that nation for himself, and had distinguished them from the ordinary lot of other men. Why then should he spare us if we shall be hardened in our ungodliness and treachery?"
+    },
+    {
+     "id": "calvin/ISA.1.9#p4-3b0a5e2b",
+     "text": "Or rather, what is likely to be the result of that mass and sink of crimes in which men throughout the whole world give way to their passions? Unquestionably it will be the same with the fate of Sodom and Gomorrah, unless his vengeance shall be restrained by a regard to that gracious covenant in which he promised that the Church shall be eternal; and this threatening, which is truly awful and alarming, is applicable to all obstinate and incurable men, whose vices no punishments can destroy or weaken."
+    },
+    {
+     "id": "calvin/ISA.1.9#p5-de4680f8",
+     "text": "Again, we ought to observe that saying of Jeremiah, which I have already glanced at, that it must be attributed to the tender mercies of God that we are not altogether destroyed. (Lamentations 2:22.) For if We Shall Consider the vast amount Of wickedness which prevails among all classes, we shall wonder that even a single individual is left, and that all have not been removed from the land of the living; and in this way God withdraws his hand, (Ezekiel 20:22,) that there may be some Church preserved in the world.",
+     "refs": [
+      {
+       "text": "Lamentations 2:22",
+       "ref": "LAM.2.22"
+      },
+      {
+       "text": "Ezekiel 20:22",
+       "ref": "EZK.20.22"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.9#p6-448f1809",
+     "text": "This is the reason assigned by Paul, who is the best interpreter of this passage, when, by quoting it, he represses the haughtiness of the Jews, that they may not boast of the mere name, as if it had been enough that they were descended from the fathers; for he reminds them that God could act towards them as he had formerly done towards the fathers, but that through his tender mercies a remnant shall be saved."
+    },
+    {
+     "id": "calvin/ISA.1.9#p7-1004e30b",
+     "text": "(Romans 9:27.) And why? That the Church may not utterly perish; for it is through the favor which he bears towards it that the Lord, though our obstinacy lays him under the necessity of trying the severest judgments, still reserves some small seed. (Romans 9:29.) This statement ought to yield us powerful consolation even in those heaviest calamities in which we are apt to think that it is all over with the Church; that, though everything should go into confusion, and the world, as we say, be turned upside down, we may persevere with unshaken fortitude, and may rest assured that God will always be mindful of his Church.",
+     "refs": [
+      {
+       "text": "Romans 9:27",
+       "ref": "ROM.9.27"
+      },
+      {
+       "text": "Romans 9:29",
+       "ref": "ROM.9.29"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.9#p8-37fcb2b8",
+     "text": "This clause may be connected either with what goes before or with what follows, and accordingly some render it, We would have been almost like Sodom. But I prefer connecting it with the former clause, so as to deduce that the number which God had reserved out of the destruction is small.",
+     "anchor": "A very small remnant"
+    },
+    {
+     "id": "calvin/ISA.1.9#p9-b7f0cd2d",
+     "text": "Some think that: כ (caph) is here used affirmatively, so as to express the matter more strongly; and I have no objection to that view, though we may take it in its natural and literal signification, as if he had said, “and that shall be a small number.” This declaration ought to be carefully observed; for if the Church does not spread far and wide, men are wont to despise her. Hence it comes that hypocrites are proud of their numbers; and weak men, terrified by the pompous display of those numbers, stagger. We also learn from it that we ought not to judge by the largeness of the number, unless we choose to prefer the chaff to the wheat, because the quantity is greater; but we ought to be satisfied with knowing that, though the number of the godly be small, still God acknowledges them as his chosen people; and we ought also to call to remembrance that consolatory saying,"
+    },
+    {
+     "id": "calvin/ISA.1.9#p10-292c1718",
+     "text": "Fear not, little flock; for it is your Father’s good pleasure\nto give you the kingdom. (Luke 12:32.)",
+     "refs": [
+      {
+       "text": "Luke 12:32",
+       "ref": "LUK.12.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.10",
+   "range": "ISA.1.10",
+   "kind": "passage",
+   "hash": "c1c6226f",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.10#p1-3e6d5d35",
+     "text": "He confirms what he had formerly said, that the Lord’s vengeance is not cruel; because they deserved far more severe punishment. For although there was a difference between them and the inhabitants of Sodom as to punishment, yet their guilt was the same; so that equal punishment might have been inflicted, if the Lord had not spared them. It amounts to this, that, if they have received milder treatment, it is not because they have sinned less heinously than the inhabitants of Sodom, but it must be ascribed to the mercy of God.",
+     "verse": 10,
+     "anchor": "Hear the word of the Lord"
+    },
+    {
+     "id": "calvin/ISA.1.10#p2-6f0d51a5",
+     "text": "When he gives to the rulers the name of Sodom, and distinguishes the people by the name of Gomorrah, this does not point out that there is a difference, but rather that their condition is alike. But by repeating the same thing twice, the diversity of the names lends additional elegance; as if he had said, that there is no greater difference between the rulers and the people than there is between Sodom and Gomorrah. There is, no doubt, an allusion to the various ranks of men, by assigning to them, separately, as it were, two cities; but as Sodom and Gomorrah mean the same thing, we perceive that he throws them, as it were, into one bundle. In short, the meaning is, “If any one shall form an opinion about the people and the rulers, he will find that there is as close a resemblance between them as between Sodom and Gomorrah, or between one egg and another; for no one part is more sound than any other part.”"
+    },
+    {
+     "id": "calvin/ISA.1.10#p3-843b158d",
+     "text": "The Prophet begins with stripping the Jews of their disguises, and justly; for while all hypocrites are accustomed to employ strange coverings for concealing themselves from view, that nation was particularly addicted to this vice, and on no subject did the prophets contend with them more keenly or fiercely. Along with their vaunting about pretended holiness pride also reigned, and they boasted of the grandeur and excellency of their nation as much as of ceremonies and outward worship. So much the more were they offended at the great harshness with which Isaiah addressed them. But it was necessary to drag their wickedness from their lurking places, and therefore the more haughty their demeanour, the greater is the vehemence with which the Prophet thunders against them. In the same manner ought we to deal with all hypocrites."
+    },
+    {
+     "id": "calvin/ISA.1.10#p4-91be2a6c",
+     "text": "The Prophet takes the word and the law for the same thing; and yet I fully believe that he purposely employed the term law, in order to glance at their absurd opinion; because, by imagining that the offering of sacrifices, unaccompanied by faith and repentance, can appease God, they put an absurd interpretation on the law. By these words he reminded them that, by quoting Moses to them, he introduces nothing new and makes no addition to the law; that it is only necessary for them to hear what the will of God is; and that on this subject he will faithfully instruct them. Lest they should suppose that, by an unfounded belief of their own righteousness, they can deceive God, he likewise reminds them that the law gives no countenance to them in this matter.",
+     "anchor": "The word of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.11",
+   "range": "ISA.1.11",
+   "kind": "passage",
+   "hash": "a33c2a69",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.11#p1-dfd6c287",
+     "text": "? Isaiah now introduces God as speaking, for the purpose of making known his own meaning; for it belongs to a lawgiver not only to issue commands, but likewise to give a sound interpretation to the laws, that they may not be abused. Beyond all doubt, the former reproof was exceedingly unpalatable and oppressive to them; for what language expressive of stronger disapprobation or abhorrence could have been employed? They gloried in the name of Abraham, boasted that they were his children, and on this ground maintained a haughty demeanor. This is the reason why the Prophet arms himself with the authority of God against them; as if he had said, “Know that it is not with me but with God that you have to do.”",
+     "verse": 11,
+     "anchor": "To what purpose is he multitude of your sacrifices to me"
+    },
+    {
+     "id": "calvin/ISA.1.11#p2-84f4d138",
+     "text": "Next he explains the intention and design of God in demanding sacrifices; that he does so, not because he sets a high value on them, but in order that they may be aids to piety; and, consequently, that the Jews were greatly mistaken who made all their holiness to consist of those services. For they thought that they had performed their duty admirably well when they offered sacrifices of slain beasts; and when the prophets demanded something beyond this, they complained that they were treated harshly. Now the Lord says that he rejects and abhors them, which may appear to be excessive severity, for it was by him that they were appointed."
+    },
+    {
+     "id": "calvin/ISA.1.11#p3-0377c134",
+     "text": "But it ought to be observed that some of the commandments of God ought to be obeyed on their own account, while others of them have a remoter object. For instance, the law enjoins us to serve and worship God, and next enjoins us to do good to our neighbors. (Deuteronomy 6:5; Leviticus 19:18.) These things are in themselves acceptable to God, and are demanded on their own account. The case is different with ceremonies; for they are performances which are not demanded on their own account, but for a different reason. The same thing may be said of fasting;",
+     "refs": [
+      {
+       "text": "Deuteronomy 6:5",
+       "ref": "DEU.6.5"
+      },
+      {
+       "text": "Leviticus 19:18",
+       "ref": "LEV.19.18"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p4-fe713a36",
+     "text": "For the kingdom of God does not consist in meat and drink; (Romans 14:17;)",
+     "refs": [
+      {
+       "text": "Romans 14:17",
+       "ref": "ROM.14.17"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p5-cce77cb7",
+     "text": "and therefore fasting is directed to another object."
+    },
+    {
+     "id": "calvin/ISA.1.11#p6-dd53a380",
+     "text": "It follows, therefore, that ceremonies were not appointed in such a manner as if they were a satisfaction by which he should be appeased, but in order that by means of them the nation might be trained to godliness, and might make greater and greater progress in faith and in the pure worship of God. But hypocrites observe them with the most scrupulous care, as if the whole of religion turned on this point, and think that they are the most devout of all men, when they have long and anxiously wearied themselves in observing them. And that they may be thought more devout, they likewise add something of their own, and daily contrive new inventions, and most wickedly abuse the holy ordinances of God, by not keeping in view their true object. All their ceremonies, therefore, are nothing else than corruptions of the worship of God. For when their whole attention is given to the outward and naked performance, in what respect do their sacrifices differ from the sacrifices of the Gentiles, which, we know, were full of sacrilege, because they had no regard to a lawful end?"
+    },
+    {
+     "id": "calvin/ISA.1.11#p7-7c43973e",
+     "text": "This is the reason why the Lord rejects those ceremonies, though they had been appointed by his authority, because the nation did not consider the object and purpose for which they were enjoined. The unceasing contest between the prophets and the nation was to tear off these masks, and to show that the Lord is not satisfied with merely outward worship, and cannot be appeased by ceremonies. In all places godly ministers have experience of the same kind of conflicts; for men always form their estimate of God from themselves, and think that he is satisfied with outward display, but cannot without the greatest difficulty be brought to offer to him the integrity of their heart."
+    },
+    {
+     "id": "calvin/ISA.1.11#p8-cda4ad17",
+     "text": "All the perplexity of this passage will be easily removed by Jeremiah, who says,"
+    },
+    {
+     "id": "calvin/ISA.1.11#p9-18c6370b",
+     "text": "When I redeemed your fathers out of Egypt, I did not order them to offer sacrifices to me; I only enjoined them to hear me and to keep my commandments. (Jeremiah 7:22.)",
+     "refs": [
+      {
+       "text": "Jeremiah 7:22",
+       "ref": "JER.7.22"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p10-3c9aa069",
+     "text": "For he shows that the observance of ceremonies depends wholly on the word, and that it is as idle and unprofitable to separate there from the word as it would be for the soul to be parted from the body. To this also belongs the argument in Psalm 50:13, 14, —",
+     "refs": [
+      {
+       "text": "Psalm 50:13, 14",
+       "ref": "PSA.50.13-14"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p11-9c084b21",
+     "text": "Will I eat the flesh of bulls, or drink the blood of goats? Offer to God thanksgiving, and pay thy vows to the Most High."
+    },
+    {
+     "id": "calvin/ISA.1.11#p12-c7c75271",
+     "text": "And in another passage the same Jeremiah says,"
+    },
+    {
+     "id": "calvin/ISA.1.11#p13-337398f7",
+     "text": "“Trust not in words of falsehood, saying, The temple of the LORD, the temple of the LORD, the temple of the LORD are we.\nBut rather excel in doing good, etc.” (Jeremiah 7:4.)",
+     "refs": [
+      {
+       "text": "Jeremiah 7:4",
+       "ref": "JER.7.4"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p14-2e68892d",
+     "text": "The Prophet Micah likewise says, “Doth the LORD take pleasure in thousands of rams, or in ten thousand rivers of oil?” Immediately afterwards he adds,"
+    },
+    {
+     "id": "calvin/ISA.1.11#p15-05277e35",
+     "text": "“I will show thee, O man, what is good, and what the LORD requireth from thee, namely, to do justly, to love mercy,\nand to walk humbly with thy God.” (Micah 6:7, 8.)",
+     "refs": [
+      {
+       "text": "Micah 6:7, 8",
+       "ref": "MIC.6.7-8"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.11#p16-3448babb",
+     "text": "From these passages it is evident that the reason why ceremonies are condemned is, that they are separated from the word as from their soul. Hence we see how great is the blindness of men, who cannot be convinced that all the pains they take to worship God are of no advantage unless they flow from integrity of heart. Nor is this vice confined to the common people, but is found in almost all men; and in those who in their opinion excel all others."
+    },
+    {
+     "id": "calvin/ISA.1.11#p17-10773ba0",
+     "text": "Hence springs the notion of the efficacy which belongs to the mere performance of the outward act — or, as they call it, the opus operatum — which Popish doctors have contrived, and which at the present day keeps a firm hold of the minds of many. Now here it is not man but God himself who speaks, and who pronounces, by an unchangeable decree, that all that men do is in vain offered for his acceptance, is empty and unprofitable, unless they call upon him with true faith."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.12",
+   "range": "ISA.1.12",
+   "kind": "passage",
+   "hash": "cad353c2",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.12#p1-cad353c2",
+     "text": "? What an admirable confutation of false worship, when God declares that they will not come before him according to the appointed manner, and makes a general declaration, that in vain do they offer to him anything which he does not require; for he does not choose to be worshipped in any other way than that which has been enjoined! For how comes it that men are so highly delighted with those inventions, but because they do not consider that all their services are neither profitable to themselves nor acceptable to God? Otherwise they would immediately recollect that obedience is all that remains for them to do; (1 Samuel 15:22;) and they would not so insolently vaunt of their exertions, which the Lord looks upon with scorn, not only because he derives no advantage from it, but because he does not wish that men should attribute to him what they have rashly undertaken without his authority, or suffer the caprice of men to pass for a law: Yet in order to express still stronger contempt, he immediately adds, that they improperly give the name of obedience to that which he considers to be labor thrown away; namely, that their close attendance at the temple amounts to nothing more than treading its pavements; as if, in reference to their hypocritical prayers, he had said, “Truly they lay me under deep obligations by stunning my ears.”",
+     "verse": 12,
+     "anchor": "Who hath required this at your hand",
+     "refs": [
+      {
+       "text": "1 Samuel 15:22",
+       "ref": "1SA.15.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.13",
+   "range": "ISA.1.13",
+   "kind": "passage",
+   "hash": "998db1f2",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.13#p1-e1fcd8a0",
+     "text": "This is a useful admonition for restraining the irregular desires of those who do not cease to follow inveterately unmeaning and hypocritical worship, that, warned by God, they may at length repent, if they would listen to any advice. But hence we learn how hard it is to shake the false confidence of hypocrites, when they have once been hardened, since they cannot even endure to hear God plainly warning them not to go on in losing their pains, and in the practice of such madness.",
+     "verse": 13,
+     "anchor": "Bring no more vain oblations"
+    },
+    {
+     "id": "calvin/ISA.1.13#p2-1902a7dd",
+     "text": "To press them more closely, he proceeds farther, and declares that such worship is not only unprofitable, but even that he detests and abhors it; and justly, because the profanation of the worship of God, in which his name is falsely employed, is not free from sacrilege. For as nothing is more dear to God than his own glory, so there is nothing which he more strongly detests than to have it infringed by any kind of corruptions: and this is done, when any sort of unmeaning service is put in the room of true worship.",
+     "anchor": "Incense is an abomination to one"
+    },
+    {
+     "id": "calvin/ISA.1.13#p3-0ecd9366",
+     "text": "The meaning of this passage has been mistaken by some, who have thought that the Prophet speaks of the repeal of the law; for that is not his object, but he recalls the people of his time to the right manner of observing ceremonies, and shows with what design and for what purpose they were instituted."
+    },
+    {
+     "id": "calvin/ISA.1.13#p4-bc52956f",
+     "text": "For since the beginning of the world the worship of God was spiritual, and the diversity of our worship from that which prevailed under the Old Testament had a reference to men, but not to God. In God there is no change, (James 1:17,) but he accommodates himself to the weakness of men. That kind of government therefore was suitable to the Jews, just as a preparatory training {1} is needed for children. For what purpose they were instituted, and what is the right manner of observing ceremonies, he now describes.",
+     "refs": [
+      {
+       "text": "James 1:17",
+       "ref": "JAS.1.17"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.13#p5-33c27318",
+     "text": "Poedagogia. In what sense our Author uses this term may be gathered from his Commentary on Galatians 3:24. The law was our schoolmaster (παιδαγωγός) to Christ. — Ed",
+     "footnote": true,
+     "label": "1",
+     "refs": [
+      {
+       "text": "Galatians 3:24",
+       "ref": "GAL.3.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.14",
+   "range": "ISA.1.14",
+   "kind": "passage",
+   "hash": "5367da01",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.14#p1-ad27c5af",
+     "text": "The Prophet adds nothing new to his former doctrine; but with respect to all ceremonies, in which there is no spiritual truth, but only the glare of a false pretense, he declares generally that they are not merely useless but wicked. Hence we ought to observe that we labor to no purpose, if we do not worship God in the right manner, and as God himself enjoins. In all things God delights in truth, but especially in the worship due to his majesty. Besides, not only do we lose our labor, but the worship of God (as we have already said) is perverted; and nothing can be more wicked than this. Now all superstitions are so many corruptions of the worship of God; it follows, therefore, that they are wicked and unlawful.",
+     "verse": 14,
+     "anchor": "Your new-moons"
+    },
+    {
+     "id": "calvin/ISA.1.14#p2-e28715a1",
+     "text": "Superstition may be viewed, either in itself, or in the disposition of the mind. In itself when men have the audacity to contrive what God has not commanded. Such are those actions which spring from will-worship, (ἐθελοθρησκεία, Colossians 2:23,) Which is commonly called devotion. One man shall set up an idol, another shall build a chapels another shall appoint annual festivals, and innumerable things of the same nature. When men venture to take such liberties as to invent new modes of worship, that is superstition.",
+     "refs": [
+      {
+       "text": "Colossians 2:23",
+       "ref": "COL.2.23"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.14#p3-00e9003c",
+     "text": "In the disposition of the mind, when men imitate those services which are lawful and of which God approves, but keep their whole attention fixed on the outward form, and do not attend to their object or truth. In this manner the Jews earnestly adhered to the ceremonies which Moses had enjoined, but left out what was of the greatest importance; for they paid no regard to a pure conscience, never mentioned faith and repentance, had no knowledge of their guilt, and — what was still worse — separated Christ from them, and left no room for the truth."
+    },
+    {
+     "id": "calvin/ISA.1.14#p4-0f2519ec",
+     "text": "This plainly shows, as I have already stated, that it was a spurious and deceitful mask; so that their sacrifices did not at all differ from the sacrifices of the Gentiles. It is therefore not wonderful that the Lord calls them abomination"
+    },
+    {
+     "id": "calvin/ISA.1.14#p5-0df69d93",
+     "text": "I shall not stay to notice the phrases here used, which are various; and yet they ought not to be lightly passed over. For the Lord perceives how great is the wantonness of men in contriving modes of worship; and therefore he heaps up a variety of expressions, that he may more powerfully restrain that wantonness, and again declares that those actions are hateful to him. Moreover, because men flatter themselves, and foolishly entertain the belief that the Lord will hold in some estimation the idle contrivances which they have framed, he declares, on the contrary, that he regards them with detestation and abhorrence."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.15",
+   "range": "ISA.1.15",
+   "kind": "passage",
+   "hash": "2cdd09dd",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.15#p1-08b9ed10",
+     "text": "The ancient custom of spreading forth the hands in prayer did not arise from superstition; nor did that practice, like many others, obtain currency through foolish and idle ambition; but because nature herself prompts men to declare, even by outward signs, that they betake themselves to God. Accordingly, since they cannot fly to him, they raise themselves by this sign. No injunction, certainly, respecting this sign, was given to the fathers; but they used it as men divinely inspired; and by this very sign all idolaters are convicted of gross blindness; for, while they declare by an outward attitude that they betake themselves to God, in reality they betake themselves to idols. In order to convict them more strongly, the Lord permitted the uninterrupted use of this custom to continue among them. The Prophet, therefore, does not condemn the spreading forth of the hands, but their hypocrisy; because they assumed the appearance of men who called on God, while in their heart they were wholly averse to him, as he elsewhere declares more fully that",
+     "verse": 15,
+     "anchor": "When ye spread forth your hands"
+    },
+    {
+     "id": "calvin/ISA.1.15#p2-56d2849b",
+     "text": "“this people draw near me with their mouth, and with their lips do honors me, but have removed their heart far from me”\n(Isaiah 29:13.)",
+     "refs": [
+      {
+       "text": "Isaiah 29:13",
+       "ref": "ISA.29.13"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.15#p3-950726da",
+     "text": "The Lord saith that he is nigh, but it is\nto those who call upon him in truth. (Psalm 145:18.)",
+     "refs": [
+      {
+       "text": "Psalm 145:18",
+       "ref": "PSA.145.18"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.15#p4-d76145cd",
+     "text": "Where hypocrisy is, there can be no true calling on God. And yet this passage does not contradict what is said elsewhere, “When they shall spread forth their hands, I will hear.” {1} For in that passage the Lord speaks of that calling which proceeds from confidence in him. Faith is the mother of calling on God; and if that be absent, nothing is left but empty mockery."
+    },
+    {
+     "id": "calvin/ISA.1.15#p5-0f553b85",
+     "text": "Our Author seems to allude to Isaiah 65:24, It shall come to pass that before they call, I will answer; and while they are yet speaking, I will hear. This conjecture is confirmed by the remarks which immediately follow on the word call, as the leading word in the passage. It appears to have escaped his recollection, that in this instance the spreading forth of the hands is not mentioned, though it occurs in an analogous passage of Solomon’s prayer at the dedication of the temple — What prayer or what supplication soever shall be made of any man, when he shall spread forth his hands in this house; then hear thou from heaven thy dwelling-place. 2 Chronicles 6:29, 30. — Ed.",
+     "footnote": true,
+     "label": "1",
+     "refs": [
+      {
+       "text": "Isaiah 65:24",
+       "ref": "ISA.65.24"
+      },
+      {
+       "text": "2 Chronicles 6:29, 30",
+       "ref": "2CH.6.29-30"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.15#p6-71182984",
+     "text": "He amplifies the former statement by threatening that he will be deaf to their cries, to whatever extent they may multiply prayers; as if he had said, “Though you be constant in prayer, that diligence will be of no avail to you.” For this also is a fault which belongs to hypocrites, that the more their prayers abound in words, they think that they are more holy, and will more easily obtain what they wish. Thus their idle talkativeness is indirectly rebuked.",
+     "anchor": "Yea, when ye make many prayers"
+    },
+    {
+     "id": "calvin/ISA.1.15#p7-eba811e3",
+     "text": "Here he begins to explain more fully the reason why he disapproves, and even disdainfully rejects, both their prayers and their sacrifices. It is because they are cruel and bloody, and stained with crimes of every sort, though they come into his presence with hypocritical display. Though he will afterwards add other kinds of crime, yet as he had mentioned the spreading forth of the hands, so he speaks of the hands, and says that in them they carry and hold out a testimony of their crimes, so that they need not wonder that he thrusts them back so harshly.",
+     "anchor": "Your hands are full of blood"
+    },
+    {
+     "id": "calvin/ISA.1.15#p8-5083ed08",
+     "text": "For, on the other hand, the phrase, to lift up clean hands, was employed not only by prophets and apostles, (1 Timothy 2:8,) but even by profane authors, who were driven by mere instinct to reprove the stupidity of men; if it were not that God perhaps forced them to make this confession, in order that true religion might never be without some kind of attestation.",
+     "refs": [
+      {
+       "text": "1 Timothy 2:8",
+       "ref": "1TI.2.8"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.15#p9-27e923f0",
+     "text": "And yet the Prophet does not mean that they were robbers or murderers, but reproves the tricks and deceit by which they obtained possession of the property of others. God judges in a different manner from men; for the hidden tricks and wicked arts, by which wicked men are accustomed to deceive and take advantage of the more simple, are not taken into account by men; or if they are taken into account, they are at least extenuated, and are not estimated according to their just weight. But God, dragging forth to light those very men of dazzling reputation, who under specious pretenses had been in the habit of concealing their unjust practices, plainly declares that they are murderers."
+    },
+    {
+     "id": "calvin/ISA.1.15#p10-98c86127",
+     "text": "For in whatever way you kill a man, whether you cut his throat or take away his food and the necessaries of life, you are a murderer. Consequently, God does not speak of men who are openly wicked, or whose crimes have made them openly infamous, but of those who wished to be thought good men, and who kept up some kind of reputation."
+    },
+    {
+     "id": "calvin/ISA.1.15#p11-36845990",
+     "text": "This circumstance ought to be carefully observed; for on the same grounds must we now deal with wicked men, who oppress the poor and feeble by fraud and violence, or some kind of injustice, and yet cloak their wickedness by plausible disguise. But with whatever impudence they may exclaim that they do not resemble thieves or assassins we must reprove them with the same severity which the Prophet employed towards persons of the same stamp; for when we speak in the name of God, we must not judge according to the views and opinions of men, but must boldly declare the judgment which the Lord hath pronounced."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.16",
+   "range": "ISA.1.16",
+   "kind": "passage",
+   "hash": "4a056892",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.16#p1-f3b86170",
+     "text": "He exhorts the Jews to repentance, and points out the true way of it, provided that they wish to have their obedience approved by God. Hence we conclude that nothing can please God, unless it proceed from a pure conscience; for God does not, like men, judge of our works according to their outward appearance. It frequently happens that some particular action, though performed by a very wicked man, obtains applause among men; but in the Sight of God, who beholds the heart, a depraved conscience pollutes every virtue.",
+     "verse": 16,
+     "anchor": "Wash you, make you clean"
+    },
+    {
+     "id": "calvin/ISA.1.16#p2-00668334",
+     "text": "And this is what is taught by Haggai, holding out an illustration drawn from the ancient ceremonies, that everything which an unclean person has touched is polluted; from which he concludes that nothing clean proceeds from the wicked. Our Prophet has already declared, that in vain do they offer sacrifices to God, in vain do they pray, in vain do they call on his name, if integrity of heart do not sanctify the outward worship. For this reason, in order that the Jews may no longer labor to no purpose, he demands that cleanness; and he begins with a general reformation, lest, after having discharged one part of their duty, they should imagine that this would be a veil to conceal them from the eyes of God."
+    },
+    {
+     "id": "calvin/ISA.1.16#p3-760e91c2",
+     "text": "Such is the manner in which we ought always to deal with men who are estranged from God. We must not confine our attention to one or a few sores of a diseased body but if we aim at a true and thorough cure, we must call on them to begin anew, and must thoroughly remove the contagion, that they who were formerly hateful and abominable in the sight of God may begin to please God. By the metaphor washing, he unquestionably exhorts to remove inward pollution, but shortly afterwards he will also add the fruits of actions."
+    },
+    {
+     "id": "calvin/ISA.1.16#p4-efe4813b",
+     "text": "When he bids them wash, he does not mean that men repent by their own exercise of free-will; but he shows that there is no other remedy but this, that they shall appear pure in the sight of God. Now, we know that the sacred writers attribute to men what is wrought in them by the Spirit of God, whom Ezekiel calls clean water, because to him belongs the work of repentance. (Ezekiel 36:25.)",
+     "refs": [
+      {
+       "text": "Ezekiel 36:25",
+       "ref": "EZK.36.25"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.16#p5-ecdd668f",
+     "text": "The Prophet now comes to describe the fruits of repentance; for not only does he explain without a metaphor what it is to wash and to be cleansed, but he enjoins them to exhibit in their whole life, and in every action, the evidence of their being renewed. Yet he confirms the former statement, that the pollution of the people is before the eyes of God, that it stains and debases all their actions, and thus makes it impossible that they shall be pleasing in his sight. And he particularly mentions the eyes of God, lest, when they employed a veil to hinder themselves from seeing, they should vainly imagine that God shared with them in their blindness.",
+     "anchor": "Put away the evil of your doings"
+    },
+    {
+     "id": "calvin/ISA.1.16#p6-aa79b04e",
+     "text": "He still proceeds to reprove their manner of life. This passage is commonly interpreted as if by doing ill the Prophet meant loving ill; but it ought strictly to be understood as denoting those crimes by which a neighbor is injured; so that in the exhortation, Learn to do well, which occurs in the next verse, the expression to your neighbor ought to be supplied; for he speaks of the injuries and kind offices which Eve perform to our neighbors. Now since repentance has its seal in the heart of man, he describes it by those outward appearances by means of which it is, in some measure, brought before the eyes of men. There is no man who does not wish to be reckoned a good man; but the true character of every man is manifested by his actions. He therefore calls them to the performance of those outward actions by which they may give evidence of their repentance.",
+     "anchor": "Cease to do evil"
+    },
+    {
+     "id": "calvin/ISA.1.16#p7-99202479",
+     "text": "He comprehends under two heads the fruits of repentance, ceasing to do evil, and doing well. First, we must cease to commit every act of injustice; for we must not imitate those spendthrifts who wish to be thought bountiful, and fraudulently take from one person what they bestow on another. Again, we must not resemble those idle people who think that they have done enough, if they have kept themselves from doing harm, and from invading the property of their neighbors, but are not careful to perform acts of kindness. He intended, therefore, to include both; for under those two heads the keeping of the second table of the law is comprehended."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.17",
+   "range": "ISA.1.17",
+   "kind": "passage",
+   "hash": "2a0e0f85",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.17#p1-0b5ac1df",
+     "text": "As he had just now, ill enjoining them to cease to do evil, charged them with the continual practice of iniquity as if he had said that their whole life was a constant habit of sinning; so now he enjoins them to become skilled in acts of kindness, and in entreating them to learn this, he addresses them as scholars who had not yet learned their earliest lessons. And first he bids them seek judgment. Others render it, inquire respecting judgment, of which I do not approve; for by the word seek the Prophet meant more than this, he meant what we call the actual practice of it. By the word judgment he denotes what is good and right; as if he had said, “Aim at uprightness.”",
+     "verse": 17,
+     "anchor": "Learn to do well"
+    },
+    {
+     "id": "calvin/ISA.1.17#p2-82cee720",
+     "text": "The Prophet, after his wonted manner, adds to the general description the mention of particular classes; and although he has already given a special exhortation to kindness and justice, yet wishing to press them more closely, he enters into a more careful enumeration of certain classes, so as to present a more complete view of the subject. For otherwise men always wish to be reckoned good and righteous, and can scarcely be moved by general instruction; but when we come to particular cases, they are forced, as it were, to deal with the matter in hand, and are compelled to yield, or at least become more tractable, of which we have daily experience.",
+     "anchor": "Relieve the oppressed"
+    },
+    {
+     "id": "calvin/ISA.1.17#p3-408e48c6",
+     "text": "The Prophet here selects two classes, by means of which the wickedness of men is more fully exposed; for it seldom happens that the causes of the fatherless and widows are defended, because men do not expect from them any rewards. To such an extent are they exposed to every kind of injustice, that no man comes forward in defense of them, because there is no man who follows justice on its own account; and not only so, but there is a very great number of persons who are ready to plunder the poor and needy. This proves that there is no one who cares about exercising judgment; for we need not at all wonder that men of wealth and influence have friends to assist them, who are excited and allured by the expectation of reward. But the Lord declares that he takes charge of the fatherless and widows, and will avenge them if they shall sustain any injury.",
+     "anchor": "Judge the fatherless, plead for the widow"
+    },
+    {
+     "id": "calvin/ISA.1.17#p4-8da6006b",
+     "text": "“Ye shall not afflict any widow, or fatherless child. If thou afflict then in any wise, and they cry at all unto me, I will surely hear their cry: and my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.” (Exodus 22:22-24.)",
+     "refs": [
+      {
+       "text": "Exodus 22:22-24",
+       "ref": "EXO.22.22-24"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.17#p5-db7cb3e7",
+     "text": "The same declaration is now extended to all others, who are oppressed and groan under the violence and lawless passions of men of rank and influence."
+    },
+    {
+     "id": "calvin/ISA.1.17#p6-366e54fe",
+     "text": "This ought to yield the highest consolation to all the children of God, who are enjoined to possess their souls in patience. (Luke 21:19.) Whatever may be the haughty boasting of enemies, this will not prevent the people of God from glorying amidst their tribulations, while such considerations as these shall have an abiding place in their minds: “The Lord will be our avenger. Though men disregard us, he takes care of us. He will aid the destitute, and will defend their cause.”",
+     "refs": [
+      {
+       "text": "Luke 21:19",
+       "ref": "LUK.21.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.18",
+   "range": "ISA.1.18",
+   "kind": "passage",
+   "hash": "d6320bf1",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.18#p1-78312298",
+     "text": "{1} The Hebrew word נא (na) is commonly translated I pray, or therefore; but I think that it denotes the confidence of a good cause, and thus is an exhortation, Come. For the Lord declares that the Jews will have nothing, to reply, and that, even though they obtain an opportunity of clearing themselves, they will still be speechless. And certainly this is the way in which hypocrites ought to be treated; for they boldly enter into disputes with God, and there is no end of their reasonings. Accordingly, he tells them that, if they choose to debate, he will be equally prepared on the other side.",
+     "verse": 18,
+     "anchor": "Come now, and let us reason together"
+    },
+    {
+     "id": "calvin/ISA.1.18#p2-fae45e24",
+     "text": "ונוכחה (venivvakechah), and let us settle our dispute. — Bishop Stock. “Both of us, I and you, that we may ascertain which of us has committed an offense against the other; and if you have sinned against me, still I hope to convert you.” — Jarchi.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.18#p3-1ef22be6",
+     "text": "The question will perhaps be put, Why does the Prophet speak chiefly about the second table of the law, and not rather about the worship of God? For we know that there were good reasons why God assigned the foremost place to the first table, when he divided the law; and there can be no doubt that, as it comes first in order, so it is likewise of greater importance. I reply, when the Prophets reprove the hypocrisy of men, they employ various modes of address. Sometimes they complain that the Sabbath has been profaned; sometimes they say that men do not call on God; but for the most part they censure idolatry, and raise their voice against superstitions. But here Isaiah complains that their duties towards their neighbors have not been performed."
+    },
+    {
+     "id": "calvin/ISA.1.18#p4-8117252b",
+     "text": "Still in all these cases the object is the same, to show that our actions are of no value in the sight of God, when they do not proceed from a good conscience, and when we are destitute of the fear of God. This fear they sometimes denote by “calling on the name of God,” sometimes by “keeping the Sabbath,” and sometimes by other actions; but as the distinction between true worship and hypocrisy is most clearly and manifestly pointed out by means of the duties of brotherly kindness, there are good reasons why the mention of those duties is brought forward by Isaiah."
+    },
+    {
+     "id": "calvin/ISA.1.18#p5-9a071bcc",
+     "text": "For hypocrites are careful to perform outward worship and ceremonies; but inwardly they are full of envy, they swell with pride and contempt of the brethren, they burn with covetousness and ambition; and while they conceal themselves under those masks, they cannot easily be detected. They must, therefore, be tried by this rule, as by a touchstone, and thus it must be ascertained whether or not they fear God."
+    },
+    {
+     "id": "calvin/ISA.1.18#p6-5b965d0f",
+     "text": "We might, indeed, be deceived, were it from the second table only that we formed our judgment about the godliness of a man; but if any one discharge the duties of the first table, which are evidences of godliness and of the worship of God, he must then be brought to this standard, Does he act inoffensively towards other men? Does he abstain from every act of injustice? Does he speak truth? Does he live in the exercise of kindness to his brethren? This is the reason why Christ pronounces"
+    },
+    {
+     "id": "calvin/ISA.1.18#p7-86582044",
+     "text": "mercy, judgment, and faith, to be the weighty matters of the law, (Matthew 23:23,)",
+     "refs": [
+      {
+       "text": "Matthew 23:23",
+       "ref": "MAT.23.23"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.18#p8-ef8dec16",
+     "text": "and censures the Pharisees because, in their eagerness about tithes and offerings, they attended only to smaller matters, and neglected true righteousness. By faith he means fidelity, or what we commonly call loyalty. {2} By judgment he means every kind of uprightness, when we render to every man what belongs to him, and do not allow others to be injured, but assist them, as far as lies in our power."
+    },
+    {
+     "id": "calvin/ISA.1.18#p9-0064d2b2",
+     "text": "Loyauté",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/ISA.1.18#p10-20dbbc57",
+     "text": "But if these are the weighty matters of the law, in what order ought we to place the commandments of the second table? I answer, they retain their due importance and order; but by means of those duties which Christ so rigidly demands, and on which he dwells so largely, hypocrisy is more fully detected, and we are better enabled to judge whether a man sincerely fears God or not. In the same sense ought we to understand that passage, I will have mercy and not sacrifice; (Hosea 6:6; Matthew 9:13;) for mercy is an evidence and proof of true godliness.",
+     "refs": [
+      {
+       "text": "Hosea 6:6",
+       "ref": "HOS.6.6"
+      },
+      {
+       "text": "Matthew 9:13",
+       "ref": "MAT.9.13"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.18#p11-89cdc35f",
+     "text": "Again, it is pleasing to God, because it is a true demonstration of the love which we owe to our fellow-men; but sacrifices are pleasing to him for a different reason. It is now, I think, sufficiently plain why the Prophet Isaiah mentions kindness rather than faith or calling upon God; and why the prophets employ such variety in their modes of address, when they endeavor to bring back hypocrites to the true worship of God, and when they bid them show it by its fruits."
+    },
+    {
+     "id": "calvin/ISA.1.18#p12-df62029f",
+     "text": "It is as if he had said, that he does not accuse innocent persons, and has no wish to enter into controversy; so that the charges which he makes against them are not brought forward or maintained without strong necessity. For hypocrites are wont to find fault with God, as if he were too severe, and could not be at all appeased. They go still farther, and discover this excuse for their obstinacy, that it is in vain for them to attempt to return to a state of favor with God. If every other expedient fail, still they fly to this, that it is not proper to make such rigid demands on them, and that even the very best of men have something that needs to be forgiven. The Prophet anticipates the objection, by introducing the Lord speaking ill this manner — “For my part, if it be necessary, I do not refuse to dispute with you; for the result will be to show that it is your own obstinacy which prevents a reconciliation from taking place between us. Only bring cleanness of heart, and all controversy between us will be at an end. I would no longer contend with you, if you would bring me an upright heart.”",
+     "anchor": "Though your sins be as scarlet"
+    },
+    {
+     "id": "calvin/ISA.1.18#p13-8a138515",
+     "text": "Hence we obtain a declaration in the highest degree consolatory, that God does not contend with us as if he wished to pursue our offenses to the utmost. For if we sincerely turn to him, he will immediately return to favor with us, and will blot out all remembrance of our sins, and will not demand an account of them. For he is not like men who, even for a slight and inconsiderable offense, often refuse to be reconciled. Nay, so far is he from giving us reason to complain of his excessive severity, that he is ready to cleanse us, and to make us as white as snow. He is satisfied With cleanness of heart, and if, notwithstanding of this cleanness of heart, there be any offense, he forgives it, and acquits those who have provoked him."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.19",
+   "range": "ISA.1.19",
+   "kind": "passage",
+   "hash": "2230a100",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.19#p1-a395f384",
+     "text": "Isaiah continues to plead the cause of God against the people, and states in a few words, that not only must the people bear the blame of all the calamities which they endured, but that it lies in their own power to regain immediately prosperity and happiness; because God is always ready to forgive them, provided that they do not harden their hearts. But because happiness appears here to be placed in the power of men, and at their disposal, the papists openly maintain that men, by the exercise of their own will, are free to choose either good or evil. When God charges men with obstinacy, we must not on that account believe that he describes the nature or extent of their ability.",
+     "verse": 19,
+     "anchor": "If ye be willing and obedient"
+    },
+    {
+     "id": "calvin/ISA.1.19#p2-9ee99e07",
+     "text": "But it would be useless to say, if ye be willing, unless it were in the power of men to will. I answer, though the choice be not so free as they pretend that it is, yet sinners are justly chargeable with being the voluntary agents of their calamities, because it is of their own accord, and not by compulsion, that they provoke God to anger. It is therefore true, that it is a special gift of God when a man aims at what is good; but it is equally true that it is their own wickedness that hinders the reprobate from applying their mind to it, and, consequently, that the whole blame of their obstinacy rests with themselves."
+    },
+    {
+     "id": "calvin/ISA.1.19#p3-a2dfdeb9",
+     "text": "On this depends the reproach brought against the people, that they would have led a prosperous and happy life, if they had been submissive and obedient to God. For since God is by nature disposed to acts of kindness, nothing but our ingratitude and enmity hinders us from receiving that goodness which he freely offers to all. On the other hand, he adds a sharp and heavy threatening, that it is in his power to take vengeance; lest they should imagine that they who despise God will escape without punishment. It ought also to be observed, that the only rule of living well is to yield obedience to God and his word; for to will and to hear mean nothing else than to comply with the will of God."
+    },
+    {
+     "id": "calvin/ISA.1.19#p4-283a4dab",
+     "text": "A change of the construction of the words (hypallage) has been admitted into this sentence; for the meaning fully brought out would stand thus: “if your mind be ready, and your will be disposed, to obey;” or, which amounts to the same thing, “if you render obedience to me, and lend an ear to my word.” since, therefore, God places the happiness of men in obedience, it follows that our life is properly conducted, when we hear God speaking, and obey him in all things. How great, therefore, is the wickedness of men, when they refuse to listen to God who is continually speaking to them, and reject the happiness which he has provided and offered!"
+    },
+    {
+     "id": "calvin/ISA.1.19#p5-220014c0",
+     "text": "It was proper that their wayward dispositions should be subdued, lest those wretched men should draw down on themselves the wrath of God, and willingly throw themselves, like wild beasts, on the edge of the sword. We must likewise observe, that he at length threatens them with final destruction, if they shall obstinately refuse to submit themselves to God."
+    },
+    {
+     "id": "calvin/ISA.1.19#p6-ac851902",
+     "text": "He means the fruits which the earth yields for supplying the necessaries of life; for in some sense the earth may be said to be unkind when it does not produce its fruits, and keeps them, as it were, in its bosom. Yet I have no doubt he alludes to the promises of the law, in which God declares, that to those who fear him he will bless the earth and will cause it to produce a great abundance of all good things.",
+     "anchor": "Ye shall eat the good of the land"
+    },
+    {
+     "id": "calvin/ISA.1.19#p7-e268c9fd",
+     "text": "The Lord shall make thee plenteous in the fruit of the ground, in the land which the Lord sware unto thy fathers to give thee. (Deuteronomy 28:11.)",
+     "refs": [
+      {
+       "text": "Deuteronomy 28:11",
+       "ref": "DEU.28.11"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.19#p8-2f3b2d87",
+     "text": "And yet, when he offers to us the conveniences of the earthly life, it is not because he wishes that our attention should be confined to our present happiness, which alone hypocrites value, and which entirely occupies their minds; but in order that, by the contemplation of it, we may rise to the heavenly life, and that, by tasting so much goodness, he may prepare us for the enjoyment of eternal happiness. More especially was God accustomed to act in this manner towards the ancient people, that, by tasting present benefits, as by a shadow, they might be called to the heavenly inheritance."
+    },
+    {
+     "id": "calvin/ISA.1.19#p9-d650d089",
+     "text": "This distinction ought to be carefully observed, that we may apply this instruction to ourselves, according to the degree of prosperity to which God has exalted us. The Prophet intended to show that true happiness, with its accompaniments, consists in obedience to God; and that the wicked, by their obstinacy, bring upon themselves every kind of calamities, and therefore that all our distresses ought to be ascribed to the sins and crimes which we have committed."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.20",
+   "range": "ISA.1.20",
+   "kind": "passage",
+   "hash": "281121c3",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.20#p1-ddcd6543",
+     "text": "The wicked always think that the severity of the punishment is greater than their guilt, even though the Lord chastise them very gently; and although they do not venture to justify themselves entirely, yet they never cease, as I formerly said, to accuse God of excessive severity. But the Prophet threatens that there will be no end of their calamities till they be destroyed; and lest they should imagine that they had nothing more to fear than those slight and inconsiderable punishments which they had hitherto suffered, he declares that far heavier judgments of God are still awaiting them.",
+     "verse": 20,
+     "anchor": "But if ye refuse and rebel"
+    },
+    {
+     "id": "calvin/ISA.1.20#p2-71a84e03",
+     "text": "The papists torture this passage to support the doctrine of freewill, and argue in the following manner: — “If men be happy whenever they are willing to obey God, it follows that this is placed in our own power.” The argument certainly is very childish; for the Lord does not inform us by the Prophet what is the nature or extent of our capacity for good or evil; but he reminds us that it is our own fault if we do not enjoy good things, and that the calamities with which we are afflicted are the punishments of our disobedience. The question, whether a man can make his bad will good, is altogether different from the question, whether, by the bad will, which is natural to him, he brings upon himself all the evils which he endures. Unjustly and falsely, therefore, do those skillful and ingenious doctors employ this passage to support their doctrine about a free choice of good and evil."
+    },
+    {
+     "id": "calvin/ISA.1.20#p3-e75c9497",
+     "text": "{1} Since men who are blinded by their lusts are little moved by threatenings, the Prophet, in order to arouse them from deep slothfulness, reminds them that this declaration is not uttered by a mortal man, but has proceeded from the mouth of God, who is not changeable like men, but adheres constantly to his purpose. {2} He therefore mentions the mouth of the Lord, in order to terrify them, that they who in their vices have fallen into a deep slumber may give earnest attention to his threatenings.",
+     "anchor": "For the mouth of the Lord hath spoken it"
+    },
+    {
+     "id": "calvin/ISA.1.20#p4-9a525d66",
+     "text": "This paragraph, which our Author had inadvertently inserted in his exposition of the nineteenth verse, is here restored to its proper place. — Ed.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.20#p5-5167b661",
+     "text": "“For Jehovah hath spoken, who fulfills his threatening as well as his promises, and does not rashly recall what he hath spoken.” — Rosensmuller.",
+     "footnote": true,
+     "label": "2"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.21",
+   "range": "ISA.1.21",
+   "kind": "passage",
+   "hash": "ef197480",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.21#p1-52436f37",
+     "text": "! In order to make the rebuke more forcible, and the crime of the people more shocking, in having thus departed from God and from all uprightness, he cries aloud as if he had seen some monstrous thing; and certainly it was a change fitted to awaken horror, that a nation devoted to God, and chosen to a royal priesthood, (Exodus 19:6,) had fallen from lofty piety to the lowest sink of wickedness. More especially he speaks of the city of Jerusalem, which was God’s sanctuary and royal abode. He complains that the city which had formerly been a guardian of justice is a den of robbers; that she who formerly was a chaste and pure virgin hath become a harlot, To strike the deeper shame into the degenerate Jews, who had departed widely from their holy fathers, he assumes the air of a person astonished, and asks himself how this could possibly have happened.",
+     "verse": 21,
+     "anchor": "How is the faithful city become an harlot",
+     "refs": [
+      {
+       "text": "Exodus 19:6",
+       "ref": "EXO.19.6"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.21#p2-4e55fc8f",
+     "text": "By the word faithful he alludes, in my opinion, to the conjugal fidelity which a wife ought to preserve to her husband. The signification is undoubtedly more extensive; but when I look at the connection of the passage I do not hesitate to say that faithful means chaste; for immediately afterwards he employs another term in contrast with it, calling her an harlot. Whereas she once was a virtuous wife, faithful to the marriage-contract, she has now become an harlot, and her base conduct brings not a blush on her countenance. The Scriptures frequently call the Church the wife of God. (Hosea 2:19, 20.) That honorable rank Jerusalem held, so long as she maintained spiritual chastity, and continued in the pure and lawful worship of God; but as soon as she departed from it she became an harlot.",
+     "anchor": "The faithful city",
+     "refs": [
+      {
+       "text": "Hosea 2:19, 20",
+       "ref": "HOS.2.19-20"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.21#p3-d23d10b6",
+     "text": "This astonishment of the Prophet was undoubtedly joined with the deepest grief; for we ought to look upon it as something monstrous when men revolt from God, and refuse that allegiance which they have promised to render; nor is it possible that right-hearted men, when they behold such a revolt, can fail to be affected with the most poignant grief. We read that the angels in heaven rejoice at the conversion of one sinner; (Luke 15:7, 10;) and therefore they cannot but mourn over the final ruin of any sinner. How much more then will they bewail the ruin and destruction of a whole state and Church!",
+     "refs": [
+      {
+       "text": "Luke 15:7, 10",
+       "ref": "LUK.15.7"
+      },
+      {
+       "text": "Luke 15:7, 10",
+       "ref": "LUK.15.10"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.21#p4-2c993ddf",
+     "text": "Besides, that astonishment conveys also a complaint; as if the Prophet had said, “O Jerusalem, from what a flourishing condition hast thou fallen! Into what distress hast thou plunged thyself! What shame and disgrace hast thou brought upon thee!” When the flourishing state in which she had been, and the respect that had been paid to her in former times, are called to her remembrance, it ought to produce a still deeper impression on her mind; for she who was at one time the respected mother of a family is naturally more careful about her honor and reputation than one who has spent her whole life in base and licentious conduct."
+    },
+    {
+     "id": "calvin/ISA.1.21#p5-01c84269",
+     "text": "He shows what fruits were produced by that allegiance to God at a former period. We may take judgment as but another name for uprightness; or, if it be thought preferable, we may call it justice when men render to every man his own, and judgment when the cause of the innocent is defended, and the poor and needy are avenged; for such is the use of the words in Scripture when they are employed together; but as they are not perfectly connected in this passage, I consider judgment to denote uprightness; so that the same thing is twice expressed for the purpose of explaining it more fully.",
+     "anchor": "It was full of judgment"
+    },
+    {
+     "id": "calvin/ISA.1.21#p6-59de9119",
+     "text": "He shows in what manner Jerusalem became an harlot. It was, that the city, which had formerly been distinguished for the love of justice and equity, was now full of murders. The meaning is, as we have formerly said, not that they were assassins or robbers, but that, by fraudulent and dishonest methods, under the pretense of justice, they had gained the property of others. In short, he means that they did not act fairly and justly towards their fellow-men, whatever might be the estimation in which they were held; for sometimes, and indeed very frequently, it happens that very wicked men are held in high esteem.",
+     "anchor": "But now murderers"
+    },
+    {
+     "id": "calvin/ISA.1.21#p7-35913a15",
+     "text": "The condition to which Jerusalem was reduced should lead us to consider how often Satan exercises what may be called unbounded tyranny over the Church of God; for if ever there was a Church, there was one at that time in Jerusalem; and yet Isaiah affirms that it was a den of robbers, or a slaughterhouse, where they cut men’s throats. But if Satan could freely riot in that Church, let us not wonder that the same thing takes place among us; but let us labor not to suffer ourselves to be corrupted by such wicked examples."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.22",
+   "range": "ISA.1.22",
+   "kind": "passage",
+   "hash": "34f26e87",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.22#p1-2c2ee846",
+     "text": "Isaiah speaks metaphorically, and by two comparisons shows here, that though the outward appearance of affairs was not openly overturned, yet their condition was changed and corrupted, so as to be widely different from what it had formerly been: for he says that dross now shines instead of gold, and that the wine, though it retains its color, has lost its flavour. “Though thou still make an empty show,” saith the Prophet, “yet nothing pure will be found in thee: that wine which was wont to be Stare in thee is corrupted; and though its color deceive the eye, its taste shows that it has been mixed.”",
+     "verse": 22,
+     "anchor": "Thy silver is become dross, thy wine mixed with water"
+    },
+    {
+     "id": "calvin/ISA.1.22#p2-d264679e",
+     "text": "All this means nothing more than that the Jews should lay aside hypocrisy, and should begin to confess their sins, and no longer flatter themselves after the manner of hypocrites. The comparisons here employed are exceedingly well adapted to this end, for dross bears some resemblance to gold; and in like manner, the color of wine mixed with water resembles that of pure wine; and yet both are very far from having that purity of which they make an outward show. In like manner hypocrites, by their hypocrisy, may be said to assume a false color of silver, though they are of no more value than dross, and indeed are the more detestable on this account, that, though they are exceedingly wicked, yet, with not less treachery than baseness, they present to God and to men those hollow pretensions by which they cloak their malice."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.23",
+   "range": "ISA.1.23",
+   "kind": "passage",
+   "hash": "716d3090",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.23#p1-a921fd15",
+     "text": "There is here an elegant allusion or play on words. {1} He does not speak of princes in such a manner as if the common people were holy and needed no reproof, but he points out the source of the evil; for as no disease is more injurious than that which spreads from the head into the whole body, so no evil is more destructive in a commonwealth than a wicked and depraved prince, who conveys his corruptions into the whole body both by his example and by the liberty which he allows. Hence, too, comes the proverb, ὁποῖα ἡ δέσποινα, τοῖαι καὶ αἱ θεραπαινίδες, like mistress, like maids.",
+     "verse": 23,
+     "anchor": "Thy princes are rebellious"
+    },
+    {
+     "id": "calvin/ISA.1.23#p2-3c3e858e",
+     "text": "The meaning, therefore, is as if the Prophet had said that there was no one vice more than another that reigned among the people, but that an unbounded commission of crimes prevailed among the nobles themselves, and that in this manner the whole body was stained with pollution. Something which gives additional force to the statement is implied in the word princes; for it is deeply to be lamented when an evil arises from that very quarter in which the remedy for it ought to be expected. He next mentions a particular instance."
+    },
+    {
+     "id": "calvin/ISA.1.23#p3-6b613c36",
+     "text": "Our author illustrates it by the alliteration of primi pravi. “The word סוררים (sorerim) is here equivalent,” says Jarchi, “to סרים, (sarim,) that is, persons departing from the right path.” “In this word סוררים, (sorerim,)” says his annotator Breithaupt, which our Commentator here explains by סרים, (sarim,) departers, “there is an allusion to the word שרים, (princes,) which we here find in the sacred text.” — Ed",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.23#p4-17264c3f",
+     "text": "By these words he means that they are so far from restraining theft and false dealing, that, on the contrary, they draw gain from them; and he justly calls those persons companions of thieves, who, by receiving part of the booty, grant permission to commit theft. And, indeed, when a judge is corrupted by a bribe, it is impossible but that crimes shall abound and pass unpunished, with the perpetrators of which we must consider him to be in collusion.",
+     "anchor": "Companions of thieves"
+    },
+    {
+     "id": "calvin/ISA.1.23#p5-92f77766",
+     "text": "He next points out the reason why princes have made themselves companions of thieves, and have bound themselves by a wicked conspiracy to lend countenance to crimes. It is avarice. When judges are devoted to the love of money, justice is utterly destroyed; for if the acceptance of persons be a corruption of judgment, so that no room is left for justice, every man who is under the dominion of covetousness will assuredly regard the person rather than the cause. The consequence is, that he will not be able to perceive what is just and right, but, as one expresses it, will make laws and unmake them.",
+     "anchor": "Every one loveth a gift"
+    },
+    {
+     "id": "calvin/ISA.1.23#p6-8de2705e",
+     "text": "This reminds us how great a virtue it is in a magistrate to disregard money; for unless he keep his mind, his hands, and his eyes under restraint, he will never be able to judge justly. It is absurd to say, as some men do, that they keep their heart pure and uncorrupted, even though they receive bribes. What the Lord saith must be true, that a gift blindeth the eyes of the wise, and perverteth the words of the righteous. (Exodus 23:8.) No man is so upright, no man is so clearsighted and sagacious, that his mind shall resist the enchantment, and his eyes the blinding influence, of gifts. Such judges, therefore, he justly declares to be companions of thieves; for, hurried along by a blind desire of money, they overturn all law both of God and man, and leave no room for justice or modesty.",
+     "refs": [
+      {
+       "text": "Exodus 23:8",
+       "ref": "EXO.23.8"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.23#p7-6fbef745",
+     "text": "We must likewise observe that the Prophet, in order to convince hypocrites, brings forward their actions which were open and universally known; for otherwise they would not submit. And yet there can be no doubt that there were at that time many who objected, when he thus called them thieves, as even in the present day most men impudently and obstinately exclaim that they are not thieves on account of receiving the rewards and gifts which are offered to them, because their do not prevent them from passing a just judgment."
+    },
+    {
+     "id": "calvin/ISA.1.23#p8-ca342ded",
+     "text": "But these replies being frivolous, the Prophet, after having exposed their wicked actions, satisfies himself with the reproof which he has given, and argues with them no longer. And, indeed, nature declares that it is impossible to give just judgment, when judges are so eager for gain and regard; because they cannot but absolutely expose to sale their honesty and reputation."
+    },
+    {
+     "id": "calvin/ISA.1.23#p9-bf210a50",
+     "text": "As the Lord specially recommends to us the fatherless and widows, because they have been deprived of the protection of men, so we need not wonder if he is displeased when they are abandoned by the judges, who ought to have been their guardians and defenders; for since they have neither foresight, nor industry nor strength if no one comes forward to render assistance they must be exposed without redress to every kind of violence and injustice. Now, when no regard is paid to them, it follows that the sway is held, not by justice, but by covetousness and plunder.",
+     "anchor": "They judge not the fatherless"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.24",
+   "range": "ISA.1.24",
+   "kind": "passage",
+   "hash": "d82b1032",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.24#p1-ee2a4b8b",
+     "text": "He first employs the word האדון, (haadon) which literally signifies lord, and expresses the relation to a servant. Next is added the word יהוה (Jehovah,) which denotes the eternal essence and majesty of God. After having laid open some kinds of crimes, which made it manifest that in that nation everything was corrupted, Isaiah, now wishing to threaten and to hold out to them the judgment of God, not only represents God as invested with the power and authority of a Judge, but at the same time reminds them that the children of Abraham are his peculiar people, and for this reason he immediately adds, the mighty One of Israel. There may also be implied in it a kind of irony, by which he stings the Jews, as if he had said that it was foolishness in them to boast of the name of God, seeing that they were worthless and unprincipled servants, and that it was vain for them to rely on his strength, which would immediately break forth against them. After this preface, he adds —",
+     "verse": 24,
+     "anchor": "Therefore saith the lord, the LORD of hosts"
+    },
+    {
+     "id": "calvin/ISA.1.24#p2-f63584b0",
+     "text": "{1} By these words he intimates that God will not be pacified until he has satiated himself with inflicting punishment. He employs the word consolation after the manner of men; for as anger is nothing else than the desire of revenge, so revenge gives relief to the mind, and he who has taken vengeance congratulates himself and is satisfied. By this course, which may be regarded as a kind of compensation, the Lord says that he will satisfy himself with inflicting punishment on his adversaries",
+     "anchor": "Ah! I will take consolation on my adversaries"
+    },
+    {
+     "id": "calvin/ISA.1.24#p3-460122a0",
+     "text": "In our English version it runs, Ah! I will ease me of mine adversaries. — Ed.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.24#p4-f9b86d69",
+     "text": "There are various ways, indeed, of expounding this passage; and I shall not undertake the task of examining all the interpretations and refuting those which I do not approve: it will be enough if we ascertain the true meaning. He does not here speak of Chaldeans or Assyrians, as some imagine, but of Jews, to whom, in the character of a herald, he proclaims war in the name of the Lord. This threatening sounded harshly in their ears; for they supposed that they were joined in such a confederacy with God, that he was an adversary to their adversaries. He declares, on the other hand, that he is their enemy because he had so often been provoked by their crimes."
+    },
+    {
+     "id": "calvin/ISA.1.24#p5-cc369f84",
+     "text": "In this manner we must shake off the slothfulness of hypocrites, who are continually waging war with God, and yet do not hesitate to allege that they enjoy his protection. We need not wonder, therefore, if the Prophet sternly pronounces them to be adversaries of God, who had broken the covenant, and had thus carried on war against him."
+    },
+    {
+     "id": "calvin/ISA.1.24#p6-5cc892bc",
+     "text": "And yet, in order to show that he is unwillingly, as it were, constrained to inflict punishment on his people, God utters his threatening with a kind of groan. For as nothing is more agreeable to his nature than to do good, so whenever he is angry with us and treats us harshly, it is certain that our wickedness has compelled him to do so, because we do not allow his goodness to take its free course. More especially he is disposed to treat his own people with gentleness, and when he sees that there is no longer any room for his forbearance, he takes measures, as it were in sorrow, for inflicting punishment."
+    },
+    {
+     "id": "calvin/ISA.1.24#p7-61ef0218",
+     "text": "Some would rather choose perhaps to explain the particle הוי (hoi) as of God made this exclamation when aroused by anger. For my own part, I rather consider it, in this passage, to be an expression of grief; because God, being mindful of his covenant, would willingly spare his chosen people, were it not that pardon was entirely prevented by their obstinacy."
+    },
+    {
+     "id": "calvin/ISA.1.24#p8-a440fce9",
+     "text": "In this second clause there is a reduplication, (ἀναδίπλωσις) a figure of speech customary with the Hebrews, who frequently express the same thing twice in one verse. Hence also we learn that the object of the statement is, that God cannot rest until he has taken vengeance on a wicked and treacherous people",
+     "anchor": "And avenge me of mine enemies"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.25",
+   "range": "ISA.1.25",
+   "kind": "passage",
+   "hash": "75d0ace7",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.25#p1-8b491a86",
+     "text": "This is an alleviation of the former threatening; for though he still proceeds with what he had begun to state about his severity, he at the same time declares that, amidst those calamities which were to be inflicted, the Church would be preserved. But the principal design was to comfort believers, that they might not suppose the Church to be utterly ruined, though God treated them more roughly than before. The Spirit of God, by the Prophets, continually warns the children of God, who always tremble at his word, not to be overwhelmed and lose heart on account of terrors and threatening; for the more daringly that wicked men practice licentiousness and scoff at all threatening the more do those who are affected by a sincere fear of God tremble at them.",
+     "verse": 25,
+     "anchor": "And I will turn my hand upon thee"
+    },
+    {
+     "id": "calvin/ISA.1.25#p2-97b435a0",
+     "text": "Besides, the turning of the hands of God denotes generally a token of his presence, as if he should say, I will display my hand. This he is wont to do in two ways, either by chastising the wicked, or by delivering believers from their distresses. Since, therefore, it is evident from the context that God purposes, by applying consolation, to mitigate the severity of punishment, the turning of the hands must here be viewed as referring to the restoration of the Church; for although he declared in general terms that all were his enemies, he now modifies or limits that statement by addressing Jerusalem or Zion by name."
+    },
+    {
+     "id": "calvin/ISA.1.25#p3-34510bd8",
+     "text": "When he adds, I will purge away thy dross, though he points out the fruit of correction, that believers may not be immoderately grieved or distressed on account of it, yet we learn from this expression that the purification of the Church is God’s own work. For this purpose he always lifts up his hand to punish transgressions, that he may bring back wanderers into the road; but rods would be of no avail, if he did not make them useful by touching their hearts inwardly. And, indeed, since he points out here a special favor which he bestows on his elect, it follows from this that repentance is a true and peculiar work of the Holy Spirit; for otherwise the sinner, instead of profiting in the smallest degree, would be more and more hardened by chastisements."
+    },
+    {
+     "id": "calvin/ISA.1.25#p4-150632e2",
+     "text": "The pure purging, so that no dross remains, must not, however, be understood as if God ever cleansed his Church entirely in this world from every stain, but must be regarded as spoken after the manner of men; as if he said that the condition of his Church will be such that her holiness will shine like pure silver. These words, therefore, indicate real purity, for the Jews had formerly been too well satisfied with their filthiness. This is a highly appropriate comparison, by which the Prophet declares, that though the Church was at that time polluted by many defilements, still some remnant would be left, which, after the removal of the pollution, would regain its brightness. In this manner he also connects both clauses; for when he formerly spoke of their crimes, he said that their silver had become dross. (Isaiah 1:22.)",
+     "refs": [
+      {
+       "text": "Isaiah 1:22",
+       "ref": "ISA.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.26",
+   "range": "ISA.1.26",
+   "kind": "passage",
+   "hash": "4bb370e3",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.26#p1-c09934c5",
+     "text": "He now speaks without a figure; and having said that the source and origin of the evils was in the princes, he shows that a divine hand will purify that rank, when the Lord shall be pleased to restore the Church to perfect health. And, indeed, when they who rule are good and holy men, public order is maintained; for when wicked men have power, everything goes to ruin. By judges and counsellors are evidently meant any kind of magistrates; and when he promises that they will be such as they were at the beginning, he brings to their remembrance the extraordinary goodness of God, of which they had been deprived.",
+     "verse": 26,
+     "anchor": "And I will restore thy judges as at the first"
+    },
+    {
+     "id": "calvin/ISA.1.26#p2-05e1d7bd",
+     "text": "God had graciously raised up the throne of David, and in that government was pleased to give a bright resemblance of his own parental love. Though the authority of the family of David had degenerated into the grossest tyranny, yet they continued to boast of a false title; for they still vaunted of the reign of David in the same manner as the papists of the present day plume themselves on a false pretense of the Church. Justly, therefore, are the people reminded of the happiness from which they had fallen by their own fault, that they might not be displeased at a diminution of their numbers, by means of which they would again possess that order which God had established"
+    },
+    {
+     "id": "calvin/ISA.1.26#p3-56c79e0c",
+     "text": "He describes the fruit of that reformation, of which he has spoken, as extending to the whole body; for, having said that Jerusalem, before she revolted from God, was a faithful city, full of righteousness, the Prophet now says, that when she shall have been chastised the same virtues will be illustriously displayed in her. Here, too, is expressed the sum of true repentance; for by righteousness is meant uprightness, when every man obtains what belongs to him, and men live with each other without committing injury. The word faithful has a still more extensive meaning; for when a city is called faithful, it means not only that justice and honesty between man and man are observed, but that the purity of God’s worship is maintained and therefore the chastity and purity of the mind are included under that designation.",
+     "anchor": "Then shalt thou be called"
+    },
+    {
+     "id": "calvin/ISA.1.26#p4-354bab86",
+     "text": "It must also be observed, however, that from this faithfulness springs justice; for when we adhere to truth in our mutual intercourse, justice easily gains the ascendency. And, indeed, when I closely examine the whole passage, I think that the Prophet now employs the word faithfulness in a more limited sense than formerly, and connects the two virtues as leading to the same object, so that, while truth goes first as the cause, justice is the effect of it. Isaiah promises not only that she will be righteous and faithful, but that she will also be distinguished by these commendations; by which he means that the knowledge or reputation of it will be everywhere diffused. We know that hypocrites, too, are adorned with honorable titles; but Isaiah, having introduced God as speaking, takes for granted that the city will actually be righteous, as it is foretold that she shall be. In the meantime, as I have said, he describes the fruit of a true conversion; as if he had said,” When Jerusalem shall be brought Jack to true godliness, men will be persuaded that she is renewed.”"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.27",
+   "range": "ISA.1.27",
+   "kind": "passage",
+   "hash": "126ff6a6",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.27#p1-1493e94f",
+     "text": "He confirms the same doctrine; and because the restoration of the Church was hard to be believed, he shows that it does not depend on the will of men, but is founded on the justice and judgment of God; as if he had said, that God will by no means permit his Church to be altogether destroyed, because he is righteous. The design of the Prophet, therefore, is to withdraw the minds of the godly from earthly thoughts, that in looking for the safety of the Church they may depend entirely on God, and not cease to entertain good hopes, although instead of aids they should see nothing but obstructions.",
+     "verse": 27,
+     "anchor": "Zion shall be redeemed with judgment"
+    },
+    {
+     "id": "calvin/ISA.1.27#p2-fbe692ff",
+     "text": "It is a great mistake to consider justice and judgment to refer to the Church, as if Isaiah were speaking about the well-ordered condition of a city; for the plain meaning is what I have stated, that though men yield no assistance, the justice of God is fully sufficient for redeeming his Church. And, indeed, so long as we look at ourselves, what hope are we entitled to cherish? How many things, on the contrary, immediately present themselves that are fitted to weaken our faith! It is only in the justice of God that we shall find solid and lasting ground of confidence."
+    },
+    {
+     "id": "calvin/ISA.1.27#p3-61c97d4a",
+     "text": "{1} This second clause points out the manner of their deliverance; namely that the exiles, who had been widely dispersed, will again be gathered together.",
+     "anchor": "And they that return to her"
+    },
+    {
+     "id": "calvin/ISA.1.27#p4-bef6c7ec",
+     "text": "In the English version it is rendered, her converts; but the marginal reading is, And they that return of her. “That is,” says Jarchi, “those who are in her (in the city of Zion) that repent.” — Ed.",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.28",
+   "range": "ISA.1.28",
+   "kind": "passage",
+   "hash": "b195a7b9",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.28#p1-0c1764c8",
+     "text": "Lest hypocrites should imagine that any fruit of these promises belongs to them, and should indulge in vain boasting, he threatens that they shall perish, though God redeem his Church. For hypocrites have always been mingled with the Church, and indeed are connected with it in the closest manner; but they form their estimation of it from outward show. All that God promises they at once apply confidently to themselves.",
+     "verse": 28,
+     "anchor": "And the destruction of the transgressors"
+    },
+    {
+     "id": "calvin/ISA.1.28#p2-a2afeb2b",
+     "text": "The apostle tears from them this trust, if indeed it deserve the name of trust, which springs from pride and the arrogance of a haughty mind. Here we ought to observe how great wisdom is needed by godly teachers, that, while they terrify the wicked by the judgment of God, they may at the same time support good men, and strengthen them by some consolation, that they may not be cast down and discouraged."
+    },
+    {
+     "id": "calvin/ISA.1.28#p3-778431c1",
+     "text": "On the other hand, when believers are encouraged be the promise of God, and when wicked men falsely apply it to themselves, and puff up their minds with vain confidence, the method and course which we ought to pursue is, that we neither give occasion to wicked men to become proud, nor depress and discourage the minds of the godly; as Isaiah does in this passage. For while he speaks of the redemption of the Church, he at the same time threatens that sinners, that is, wicked men, shall be destroyed, that they may not suppose that these acts of God’s kindness belong at all to them."
+    },
+    {
+     "id": "calvin/ISA.1.28#p4-3298ff4a",
+     "text": "And yet, while he pronounces destruction against the wicked, by this comparison he exhibits more fully the favor of God towards believers, which is far more distinctly seen, when God allows the reprobate to perish, but preserves his own in safety, as it is said,"
+    },
+    {
+     "id": "calvin/ISA.1.28#p5-bd7d2019",
+     "text": "A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee. Psalm 91:7.",
+     "refs": [
+      {
+       "text": "Psalm 91:7",
+       "ref": "PSA.91.7"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.28#p6-1b91e683",
+     "text": "Besides, he mitigates the grief and anguish which the diminution of the numbers of the Church might produce in godly minds; for he shows that there is no other way of imparting health to the whole body than by removing its corruption."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.29",
+   "range": "ISA.1.29",
+   "kind": "passage",
+   "hash": "c2296653",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.29#p1-7698f69b",
+     "text": "(or, that is) they shall be ashamed In the Hebrew the particle כי(ki) is employed, which properly denotes a cause, but frequently also denotes exposition. Now, since the Prophet does not here state anything new, but only explains the cause of the destruction which awaited the ungodly, to render כי (ki) by that is, appears to connect it better with the preceding word, כלה, (kalah,) consumed, They shall be consumed, that is, they shall be ashamed of the oaks which ye have desired; as if the Prophet had said that no evil will be more destructive to them than their own superstition. The idols, says he, which you call upon for your protection and safety will rather bring destruction upon you.",
+     "verse": 29,
+     "anchor": "For"
+    },
+    {
+     "id": "calvin/ISA.1.29#p2-98969032",
+     "text": "The word אלים, (elim,) oaks, {1} has been sometimes rendered Gods; {2} but this meaning is set aside by the context; for immediately afterwards he adds the word groves: Ye shall be ashamed of the groves which you have chosen."
+    },
+    {
+     "id": "calvin/ISA.1.29#p3-88e244bc",
+     "text": "Now, under the image both of trees and of groves, the Prophet, by a figure of speech, in which a part is taken for the whole, reproves every kind of false worship; for although among the Jews there were many forms of idolatry, the custom here mentioned, of choosing groves and forests for offering sacrifices, was the most common of all. Whether the word גנות (gannoth) in the second clause be translated groves or gardens, there can be no doubt that it means the altars and sacred buildings in which they performed their idolatrous worship."
+    },
+    {
+     "id": "calvin/ISA.1.29#p4-dfa83eec",
+     "text": "Although they did not intend openly to revolt from God, they invented new kinds of worship; and, as if one place had been more acceptable to God than another, they devoted it to his service, as we see done by the papists. Next follows a change of the person; for, in order to make the reproof more severe, those wicked men of whom he spoke in the third person are now directly addressed, Ye shall be ashamed"
+    },
+    {
+     "id": "calvin/ISA.1.29#p5-52203258",
+     "text": "“The word אילים (elim) has, in the singular number, אלה, (elah,) a kind of tree, called, in the German language, ulme.” — Jarchi. For the purpose of proving that by אולמא, Jarchi means the elm, his annotator, Breithaupt, adduces not only the German ulme, but the Italian olmo, the French orme, and the Latin ulmus. — Ed",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.29#p6-539088dd",
+     "text": "Evidently supposing that it is the plural of אל, (el,) God, and overlooking the medial radical Yod, which is sometimes expressed, but oftener left out, in this word. — Ed",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/ISA.1.29#p7-ea2e9b33",
+     "text": "By the word desired he reproves the mad and burning eagerness with which wicked men follow their superstitions. They ought to have been earnestly devoted with their whole heart to the service of one Gods but they rush with blind violence to false worship, as if they were driven by brutish lust. In almost every human mind there naturally exists this disease, that they have forsaken the true God, and run mad in following idols; and hence Scripture frequently compares this madness to the loves of harlots, who shake off shame, as well as reason.",
+     "anchor": "Which you have desired"
+    },
+    {
+     "id": "calvin/ISA.1.29#p8-1e274e06",
+     "text": "That the Prophet describes not only their excessive zeal, but their presumption, in corrupting the worship of God, is evident from this second clause, in which he says that they chose gardens, for this term is contrasted with the injunction of the law. Whatever may be the plausible appearances under which unbelievers endeavor to cloak their superstitions, still this saying remains true, that obedience is better than all sacrifices. (1 Samuel 15:22.) Accordingly, under the term willworship (ἐθελοθρησκεία) Paul includes (Colossians 2:23) all kinds of false worship which men contrive for themselves without the command of God. On this account God complains that the Jews have despised his word, and have delighted themselves with their own inventions; as if he had said, “It was your duty to obey, but you wished to have an unfettered choice, or rather an unbounded liberty.”",
+     "anchor": "For the gardens that ye have chosen",
+     "refs": [
+      {
+       "text": "1 Samuel 15:22",
+       "ref": "1SA.15.22"
+      },
+      {
+       "text": "Colossians 2:23",
+       "ref": "COL.2.23"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.29#p9-1792bab2",
+     "text": "This single consideration is sufficient to condemn the inventions of men, that they have it not in their power to choose the manner of worshipping God, because to him alone belongs the right to command. God had at that time enjoined that sacrifices should not be offered to him anywhere else than at Jerusalem (Deuteronomy 12:13); the Jews thought that they pleased him in other places, and that false imagination deceived also the heathen nations. Would that it had gone no farther! But we see how the papists are involved in the same error, and, in short, experience shows that the disease has prevailed extensively in every age.",
+     "refs": [
+      {
+       "text": "Deuteronomy 12:13",
+       "ref": "DEU.12.13"
+      }
+     ]
+    },
+    {
+     "id": "calvin/ISA.1.29#p10-c6060503",
+     "text": "If it be objected that there was not so much importance in the place, that God ought to have regarded with such strong abhorrence the worship which was everywhere offered to him, — first, we ought to consider the reason why God chose that at that time there should be only one altar, which was, that it might be a bond of holy unity to an uncivilized nation, and that by means of it their religion might continue unchanged."
+    },
+    {
+     "id": "calvin/ISA.1.29#p11-6e3205e9",
+     "text": "Besides, granting that this spiritual reason were but of temporary force, we must hold by the principle that commandments were given in the smallest matters, that the Jews might be better trained to obedience; for since superstition conceals itself under the pretense of devotion, it is hardly possible but that men will flatter themselves with their own inventions. But since obedience is the mother of true religion, it follows that when men exercise their own fancy, it becomes the source of all superstitions."
+    },
+    {
+     "id": "calvin/ISA.1.29#p12-7d42edb2",
+     "text": "It must also be added, that as Isaiah formerly complained of those crimes which were contrary to brotherly love and to the second table of the law, so he now complains of their having transgressed the first table. For since the whole perfection of righteousness consists in keeping the law, when the Prophets wish to reprove men for their sins, they speak sometimes of the first, and sometimes of the second, table of the law. But we ought always to observe the figurative mode of expression, when under one class they include the whole."
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.30",
+   "range": "ISA.1.30",
+   "kind": "passage",
+   "hash": "a8fb2bed",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.30#p1-649bf0ea",
+     "text": "{1} as an oak whose leaf fadeth The Hebrew particle כי (ki) may be taken in an affirmative sense, as I have translated it; and the Prophet appears to allude to those groves to which they had improperly restricted the worship of God; for, having mentioned gardens, he reproaches them with the confidence which they placed in theme and threatens drought. “You take pleasure,” says he, “in your gardens and trees, but you shall be like withered trees that have lost their foliage.” God therefore mocks the vain boasting of idolaters, who marvellously flatter themselves with their contrivances, and think that heaven is open to them, when they are employed in their ceremonies.",
+     "verse": 30,
+     "anchor": "Ye shall certainly be"
+    },
+    {
+     "id": "calvin/ISA.1.30#p2-b806bc5d",
+     "text": "Just as at the present day, when the papists have lighted their lamps and adorned their temples, when they dazzle with gold and precious stones, when they have played on their organs and rung their bells, they imagine that they are the happiest of all men, as if there were now no reason to dread that any evil should come to them from God, who had received from them a hundredfold satisfaction."
+    },
+    {
+     "id": "calvin/ISA.1.30#p3-fde16509",
+     "text": "For ye shall be. — Eng. Ver.",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/ISA.1.31",
+   "range": "ISA.1.31",
+   "kind": "passage",
+   "hash": "60995345",
+   "paragraphs": [
+    {
+     "id": "calvin/ISA.1.31#p1-e33d28e4",
+     "text": "{1} shall be as tow The Hebrew word חסן (chason) signifies strong: and though it is here applied to God, still it retains its signification, as if he had said, “That god who was your strength shall be turned into stubble.”",
+     "verse": 31,
+     "anchor": "And your God"
+    },
+    {
+     "id": "calvin/ISA.1.31#p2-3775f965",
+     "text": "And the strong. — Eng. Ver.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/ISA.1.31#p3-10916292",
+     "text": "By the maker he means the carver; but as he mentions an idol, we must explain it agreeably to the matter in hand. Some think that he expresses the repentance of idolaters, by telling us that they would acknowledge their folly, and, being covered with shame, would burn their idols. But I consider the meaning to be different; for as a fire is made of dry fuel such as tow, “in like manner,” saith the Prophet,” gather you and your idols into one heap, as when a pile of wood is built up, that you may be consumed together, so that the idols may be like tow, and the men like fire, and that one conflagration may consume the whole.”",
+     "anchor": "And the maker of it"
+    },
+    {
+     "id": "calvin/ISA.1.31#p4-211bd3b8",
+     "text": "It ought to be observed that the Prophets, when they mention the wrath of God, describe it by outward representations, because it cannot be perceived by the eyes or by any other sense. Thus the wrath of God, by which the ungodly are destroyed, is compared to fire, which consumes all things. It is now evident enough what the Prophet means, namely, that all the ungodly shall be destroyed, whatever may be the nature of their confidence; and not only so, but that their destruction shall be the greater, because they have placed their confidence in false and deceitful things, and that utter destruction will overtake them from that very quarter from which they had vainly looked for deliverance. For the images and idols are excitements of the wrath of God, kindling it into a flame which cannot be quenched.",
+     "anchor": "And there shall be none to quench them"
+    }
+   ]
+  }
+ ]
+}

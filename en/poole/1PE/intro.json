@@ -1,0 +1,47 @@
+{
+ "source": "poole",
+ "book": "1PE",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/1PE",
+   "range": "1PE",
+   "kind": "book",
+   "title": "1 PETER",
+   "hash": "c7956ec4",
+   "paragraphs": [
+    {
+     "id": "poole/1PE#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/1PE#p2-af481602",
+     "text": "Of the penman of this Epistle there is no doubt; and of the time of his writing it, no certainty, whether about the year of our Lord 45, or rather 65. The occasion of it may (not improbably) be thought to be the same that was of James’s writing his, viz. the folly and perverseness of some in those times, and among the Jewish Christians to whom he wrote, in separating faith from holiness, and their doubting whether Peter and Paul taught the same doctrine."
+    },
+    {
+     "id": "poole/1PE#p3-15033cf3",
+     "text": "His scope therefore is, partly to confirm these saints in the belief of the gospel, and to testify that the doctrine of the grace of God through Jesus Christ, which they had embraced and did profess, was indeed infallibly true, 1Pe 5:12, being the same that had been preached by the prophets to the fathers of the Old Testament, 1Pe 1:10-12; fairly implying it to be the same that Paul preached, by his sending this Epistle to them that were of the circumcision, by Silvanus, a minister of the uncircumcision, and Paul’s ordinary companion in the work of the gospel; as likewise he doth by that ample testimony he gives to Paul and his writings, 2Pe 3:15-16. And partly to exhort them to the practice of godliness, and a conversation suitable to the gospel: and that he doth, both as to the general duties incumbent on all believers, 1Pe 1:13-2:12; and as to the particular duties which concerned them in their several relations, subjects to magistrates, servants to masters, husbands and wives mutually to each other, ministers to people, younger people to their elders, and especially sufferers towards their oppressors and persecutors; but withal intermixing several general duties, and of concernment to all, and concluding all with prayer and salutation.",
+     "refs": [
+      {
+       "text": "1Pe 5:12",
+       "ref": "1PE.5.12"
+      },
+      {
+       "text": "1Pe 1:10-12",
+       "ref": "1PE.1.10-12"
+      },
+      {
+       "text": "2Pe 3:15-16",
+       "ref": "2PE.3.15-16"
+      },
+      {
+       "text": "1Pe 1:13-2:12",
+       "ref": "1PE.1.13-2.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

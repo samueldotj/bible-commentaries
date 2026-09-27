@@ -1,0 +1,1024 @@
+{
+ "source": "poole",
+ "book": "1KI",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "poole/1KI.6",
+   "range": "1KI.6",
+   "kind": "chapter",
+   "hash": "548d7263",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6#p1-548d7263",
+     "text": "The building of the temple, and the time thereof; the form and largeness, windows, chambers, and materials, 1Ki 6:1-10. God’s promise unto it, 1Ki 6:11-13. The ceiling and adorning it, 1Ki 6:14,15. The oracle, 1Ki 6:16-22. The cherubims, and divers ornaments, 1Ki 6:23-30. The doors, 1Ki 6:31-35. The inner court, 1Ki 6:36. The time in building, 1Ki 1:37,38.",
+     "refs": [
+      {
+       "text": "1Ki 6:1-10",
+       "ref": "1KI.6.1-10"
+      },
+      {
+       "text": "1Ki 6:11-13",
+       "ref": "1KI.6.11-13"
+      },
+      {
+       "text": "1Ki 6:14",
+       "ref": "1KI.6.14"
+      },
+      {
+       "text": "1Ki 6:16-22",
+       "ref": "1KI.6.16-22"
+      },
+      {
+       "text": "1Ki 6:23-30",
+       "ref": "1KI.6.23-30"
+      },
+      {
+       "text": "1Ki 6:31-35",
+       "ref": "1KI.6.31-35"
+      },
+      {
+       "text": "1Ki 6:36",
+       "ref": "1KI.6.36"
+      },
+      {
+       "text": "1Ki 1:37",
+       "ref": "1KI.1.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.1",
+   "range": "1KI.6.1",
+   "kind": "passage",
+   "hash": "903e4cfa",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.1#p1-619b9579",
+     "text": "This chronological difficulty is too vast and comprehensive to be fully discussed here, or to be determined by unlearned readers; and for the learned, I refer them to what is largely digested in my Latin Synopsis upon this place. It may suffice at present to suggest these particulars:"
+    },
+    {
+     "id": "poole/1KI.6.1#p2-ba606e0e",
+     "text": "1. That Israel’s coming out of Egypt is variously understood in Scripture, and with some latitude, so as not only to note the time when first they came out of Egypt, but the time of their being in or coming out of the wilderness; as is manifest from Deu 4:45, where the words in the Hebrew are not after, &c., as we translate it, but in their coming forth out of Egypt; and Psa 94:1-3, When Israel came forth &c., Heb. their coming forth &c. And it is not impossible it may be so understood here, after they were come out&c., to wit, completely, i.e. towards the end of their expedition out of Egypt into Canaan. Nor doth the difference between the Hebrew prepositions lamed and beth, which a learned man objects, hinder this sense; for as beth signifies (as he saith) after, so also doth lamed, Gen 7:4,10 Num 33:38.",
+     "refs": [
+      {
+       "text": "Deu 4:45",
+       "ref": "DEU.4.45"
+      },
+      {
+       "text": "Psa 94:1-3",
+       "ref": "PSA.94.1-3"
+      },
+      {
+       "text": "Gen 7:4",
+       "ref": "GEN.7.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.1#p3-7860238f",
+     "text": "2. That whereas the times of the judges do chiefly cause this difficulty, there are many things which will relieve us therein; as,"
+    },
+    {
+     "id": "poole/1KI.6.1#p4-49ab56cf",
+     "text": "1. That divers of the years there mentioned belong to one and the same time, as is evident from Jair’s twenty-two years, within which fell out, as divers learned chronologers agree, the eighteen years of the oppression of the Ammonites, and several years of the Philistine tyranny, who oppressed Israel in the west, whilst the Ammonites vexed them in the east; and the like might be observed in other cases."
+    },
+    {
+     "id": "poole/1KI.6.1#p5-7569c007",
+     "text": "2. That the years of rest are not necessarily to be understood of so many distinct years, besides those of war and servitude; and those words which are generally rendered the land had rest forty or eighty years, or the like, may be thus rendered, and that very agreeable to the Hebrew, The land had rest, or began to rest, or recovered its rest, in the fortieth or in the eightieth (the cardinal numbers being frequently put for the ordinal, especially where the number exceeds ten) year, to be computed from some remarkable time; and so that phrase doth not note how long time, or till what time, the rest continued, but at what time it began."
+    },
+    {
+     "id": "poole/1KI.6.1#p6-9e5a2746",
+     "text": "As for instance, in Jud 3:11, the land had rest, not forty years, as it is in our translation, but in the fortieth year, to wit, from and after their first rest in, or quiet possession of, the land of Canaan, which Joshua gave them; which time may very probably be made up of the days of Joshua, after he had settled them in a state of rest; and of the elders that outlived him, Jud 2:7, and the time of their corruption after the death of those elders; and the eight years of servitude under the king of Mesopotamia.",
+     "refs": [
+      {
+       "text": "Jud 3:11",
+       "ref": "JUD.3.11"
+      },
+      {
+       "text": "Jud 2:7",
+       "ref": "JUD.2.7"
+      },
+      {
+       "text": "Jud 3:11",
+       "ref": "JUD.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.1#p7-df8b4587",
+     "text": "So Jud 3:30, The land had rest in the eightieth year, to wit, from and after that rest which Othniel obtained for them, Jud 3:11. And Jud 5:31, It rested in the fortieth year, to wit, after that rest got by Ehud, Jud 3:30. And Jud 8:28, It rested in the fortieth year, to wit, from the last rest got by Deborah. And thus the computation of years is more plain and certain, being thus made from rest to rest, than theirs that proceed the other way. And this is the more considerable, because it was the opinion of that fatuously learned and pious bishop of Armagh.",
+     "refs": [
+      {
+       "text": "Jud 3:11",
+       "ref": "JUD.3.11"
+      },
+      {
+       "text": "Jud 3:30",
+       "ref": "JUD.3.30"
+      },
+      {
+       "text": "Jud 3:11",
+       "ref": "JUD.3.11"
+      },
+      {
+       "text": "Jud 5:31",
+       "ref": "JUD.5.31"
+      },
+      {
+       "text": "Jud 3:30",
+       "ref": "JUD.3.30"
+      },
+      {
+       "text": "Jud 8:28",
+       "ref": "JUD.8.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.1#p8-45457167",
+     "text": "All which considered, it will be very easy to contain all the parts and passages of sacred story, from the coming out of Egypt to this time, within the compass of four hundred and eighty years; of the several parcels whereof, see my Latin Synopsis. And as for other scriptures, which some conceit to be contradictory to this, I shall by God’s help vindicate them in their several places."
+    },
+    {
+     "id": "poole/1KI.6.1#p9-32666649",
+     "text": "his three first years being spent partly in settling the affairs of his kingdom, without which neither civil nor ecclesiastical concerns could have any consistency; and partly in making necessary preparations for the work. He began to build; for so it is expressed 2Ch 3:1; and so it is explained here below, 1Ki 6:37, The foundation of the house was laid; though in the Hebrew it be only be built. Thus active words are oft understood of the beginning of the action, as Gen 5:32 11:26.",
+     "anchor": "In the fourth year of Solomon’s reign",
+     "refs": [
+      {
+       "text": "2Ch 3:1",
+       "ref": "2CH.3.1"
+      },
+      {
+       "text": "1Ki 6:37",
+       "ref": "1KI.6.37"
+      },
+      {
+       "text": "Gen 5:32",
+       "ref": "GEN.5.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.2",
+   "range": "1KI.6.2",
+   "kind": "passage",
+   "hash": "96a3392d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.2#p1-80bf1799",
+     "text": "properly so called, as distinct from all the walls and buildings which were adjoining to it, to wit, the holy and most holy place.",
+     "anchor": "The house"
+    },
+    {
+     "id": "poole/1KI.6.2#p2-f8608c4b",
+     "text": "from east and to west. And this and the other measures may seem to belong to the inside from wall to wall.",
+     "anchor": "The length thereof"
+    },
+    {
+     "id": "poole/1KI.6.2#p3-fe301c85",
+     "text": "cubits of the sanctuary; of which See Poole \"Gen 6:15\".",
+     "anchor": "Threescore cubits",
+     "refs": [
+      {
+       "text": "Gen 6:15",
+       "ref": "GEN.6.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.2#p4-62f5684a",
+     "text": "to wit, of the house; for the porch was 120 cubits high, 2Ch 3:4. So that all the measures compared each with other were harmonious. For 60 to 20 (the length to the breadth) is triple, or as 3 to 1; and 60 to 30 (the length to the height) is double, or as 2 to 1; and 30 to 20 (the height to the breadth) is sesquialter, or one and a half, as 3 to 2; which are the proportions answering to the three great concords in music, commonly called a twelfth, an eighth, and a fifth; which therefore must needs be a graceful proportion to the eye, as that in music is graceful to the ear.",
+     "anchor": "The height thereof",
+     "refs": [
+      {
+       "text": "2Ch 3:4",
+       "ref": "2CH.3.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.3",
+   "range": "1KI.6.3",
+   "kind": "passage",
+   "hash": "e51e04ac",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.3#p1-e51e04ac",
+     "text": "in the front of or entrance into the house, 2Ch 3:4; being a peristilium or portico, a walk or gallery, at one end of the building (from side to side). And the measures of this were harmonious also. For 20 to 10 (the length of the portico to the breadth of it) is double, or as 2 to 1. And if the height within be the same with that of the house, that is, 30; it will be to the length of it as 3 to 2, and to its breadth as 3 to 1. Or if we take in the whole height mentioned 2Ch 3:4, which is 120; there is in this no disproportion, being to its length as 6 to 1, and to its breadth, as 12 to 1; especially when this height was conveniently divided into several galleries, one over another, each of which had their due proportions.",
+     "anchor": "Before the temple of the house",
+     "refs": [
+      {
+       "text": "2Ch 3:4",
+       "ref": "2CH.3.4"
+      },
+      {
+       "text": "2Ch 3:4",
+       "ref": "2CH.3.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.4",
+   "range": "1KI.6.4",
+   "kind": "passage",
+   "hash": "262b11bd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.4#p1-262b11bd",
+     "text": "Narrow outward, to prevent the inconveniences of the weather; widening by degrees inward, that so the house might better receive and more disperse the light. Or, for prospect, i.e. to give light; yet shut, i.e. so far closed as to keep out weather, and let in light."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.5",
+   "range": "1KI.6.5",
+   "kind": "passage",
+   "hash": "535a6971",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.5#p1-79c282dc",
+     "text": "or, upon it; or, joining to it; for the beams of the chambers were not fastened into the wall, but leaned upon the buttresses of the wall. He built chambers, for the laying the priests’ garments and other utensils belonging to the temple, or to the worship of God, therein: see 2Ki 11:2 1Ch 28:12 Eze 42:13,14.",
+     "anchor": "Against the wall",
+     "refs": [
+      {
+       "text": "2Ki 11:2",
+       "ref": "2KI.11.2"
+      },
+      {
+       "text": "1Ch 28:12",
+       "ref": "1CH.28.12"
+      },
+      {
+       "text": "Eze 42:13",
+       "ref": "EZK.42.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.5#p2-f3a90f6b",
+     "text": "not simply, for there were none on the, east side; and it may seem that there were some spaces left for the windows, which being narrow outwardly, little spaces would suffice; but in a manner, i.e. on all the sides except the east, where the porch was, and except some very small passages for the light. And yet these lights might be in the five uppermost cubits of the wall, which were above all these chambers; for these were only fifteen cubits high, and the wall was twenty cubits high.",
+     "anchor": "Round about"
+    },
+    {
+     "id": "poole/1KI.6.5#p3-29f57275",
+     "text": "Heb. ribs, i.e. either other chambers above and besides the former; or rather, long galleries, which encompassed all the chambers, as the ribs do man’s body; and which were necessary for passage to all the several chambers.",
+     "anchor": "He made chambers"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.6",
+   "range": "1KI.6.6",
+   "kind": "passage",
+   "hash": "7efbe8d9",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.6#p1-3edfac06",
+     "text": "to wit, on the inside, and besides the galleries mentioned above.",
+     "anchor": "Five cubits broad"
+    },
+    {
+     "id": "poole/1KI.6.6#p2-cf19a903",
+     "text": "or, narrowings; as in our buildings the walls of a house are thicker or broader at the bottom, and narrower towards the top; only these narrowings were in the outside of the wall, which at each of the three stories was a cubit narrower than that beneath it. And this is mentioned as the reason of the differing breadth of the chambers, because the wall being narrower, allowed more space for the upper chambers.",
+     "anchor": "Narrowed rests"
+    },
+    {
+     "id": "poole/1KI.6.6#p3-4c315d5d",
+     "text": "that there might be no holes made in the wall for the fastening of them; and that the chambers might be removed, if occasion were, without any inconvenience to the house.",
+     "anchor": "That the beams should not be fastened in the walls of the house"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.7",
+   "range": "1KI.6.7",
+   "kind": "passage",
+   "hash": "6664b036",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.7#p1-a90302f2",
+     "text": "hewed, and squared, and fitted exactly according to the direction of the architect. No",
+     "anchor": "Made ready"
+    },
+    {
+     "id": "poole/1KI.6.7#p2-45f98325",
+     "text": "so it was ordered, partly, for the case and conveniency of carriage; partly, for the magnificence of the work, and commendation of the workmen’s skill and diligence; and partly, for mystical signification. And as this temple was a manifest type, both of Christ’s church upon earth, and of the heavenly Jerusalem; so this circumstance signified as to the former, that it is the duty of the builders and members of the church, as far as in them lies, to take care that all things be transacted there with perfect peace and quietness; and that no noise of contention, or division, or violence be heard in that sacred building; and for the latter, that no spiritual stone, no person, shall bear a part in that heavenly temple, unless he be first hewed, and squared, and made meet for it in this life.",
+     "anchor": "tool heard in the house, while it was in building"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.8",
+   "range": "1KI.6.8",
+   "kind": "passage",
+   "hash": "e1d8719f",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.8#p1-2a0bd794",
+     "text": "i.e. by which they entered to go up to the middle chamber or chambers, to wit, such as were in the middle story.",
+     "anchor": "The door for the middle chamber"
+    },
+    {
+     "id": "poole/1KI.6.8#p2-356fcd52",
+     "text": "i.e. in the south side, called the right side here, and in the Hebrew text, Psa 89:12, and in other authors; because when a man looks towards the east, or sun-rising, which is esteemed the most glorious part of the heavens, and to which men most frequently look for divers reasons, the south is on his right hand; whereby it is implied that there was another door on the left, or the north side, leading to the chambers on that side, though for brevity sake it be not mentioned here.",
+     "anchor": "In the right side",
+     "refs": [
+      {
+       "text": "Psa 89:12",
+       "ref": "PSA.89.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.8#p3-2fc8e417",
+     "text": "which were either,",
+     "anchor": "With winding stairs"
+    },
+    {
+     "id": "poole/1KI.6.8#p4-e9cc644d",
+     "text": "1. Within the thickness of the temple wall, as many think; which is not probable, as tending to the great weakening of the wall; especially in the upper parts, where the wall was much narrower. And if such care was taken to preserve the walls entire and unbroken, that there might not be small holes made into it for the fastening of the beams of the chambers, 1Ki 6:6, it seems very absurd and incredible that there should be made such great breaches within them, as the stairs would require. Or rather,",
+     "refs": [
+      {
+       "text": "1Ki 6:6",
+       "ref": "1KI.6.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.8#p5-5a7aead8",
+     "text": "2. Without the wall, and without the chambers too, as leading up to the gallery out of which they went into the several chambers."
+    },
+    {
+     "id": "poole/1KI.6.8#p6-85cf4572",
+     "text": "or rather, into the middle story, or row of chambers, and so in the following words, out of the middle story; for these stairs could not lead up into each of the chambers, nor was it needful or convenient it should do so, but only into the story, which was sufficient for the use of all the chambers.",
+     "anchor": "Into the middle chamber"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.9",
+   "range": "1KI.6.9",
+   "kind": "passage",
+   "hash": "4b2a47b3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.9#p1-9ded105d",
+     "text": "to wit, the bulk and the body of the house.",
+     "anchor": "He built the house, and finished it"
+    },
+    {
+     "id": "poole/1KI.6.9#p2-6cbc2026",
+     "text": "or, the house i.e. the top of the house, for the like is said of the sides and bottom, 1Ki 6:15, even",
+     "anchor": "Covered the house",
+     "refs": [
+      {
+       "text": "1Ki 6:15",
+       "ref": "1KI.6.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.9#p3-d36fbe60",
+     "text": "( or, the vault-beams",
+     "anchor": "the beams and boards"
+    },
+    {
+     "id": "poole/1KI.6.9#p4-47567cef",
+     "text": "the arched beams and boards wherewith the top of the house was covered, which was made of other wood, which was more pliable than cedar, and would better endure bowing and bending,)",
+     "anchor": "and the ceilings"
+    },
+    {
+     "id": "poole/1KI.6.9#p5-9da32229",
+     "text": "with cedars."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.10",
+   "range": "1KI.6.10",
+   "kind": "passage",
+   "hash": "e0e80ddd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.10#p1-8c3456a8",
+     "text": "which interpreters understand of those chambers described 1Ki 6:5,6. But why should that be repeated again, and that so darkly and confusedly, after he had particularly and exactly treated of them (unless to give an account of the height of each chamber, or story, which before was not done)? And the Hebrew words may be truly and properly rendered thus,",
+     "anchor": "Against all the house",
+     "refs": [
+      {
+       "text": "1Ki 6:5",
+       "ref": "1KI.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.10#p2-72941f09",
+     "text": "(to wit, a flat and plain roof, called yatziah, because of the exact resemblance it hath with the floor of a house) over all the house, according to the manner of all the Israelitish buildings, which were flat at the top; of which see Deu 22:8 Jos 2:6 2Sa 11:2. The inner roof was arched, 1Ki 6:9, that it might be more beautiful and glorious to behold; but the outward roof was flat.",
+     "anchor": "He built a roof",
+     "refs": [
+      {
+       "text": "Deu 22:8",
+       "ref": "DEU.22.8"
+      },
+      {
+       "text": "Jos 2:6",
+       "ref": "JOS.2.6"
+      },
+      {
+       "text": "2Sa 11:2",
+       "ref": "2SA.11.2"
+      },
+      {
+       "text": "1Ki 6:9",
+       "ref": "1KI.6.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.10#p3-be189395",
+     "text": "above the walls of the temple; which was necessary, that it might be a little higher than the arched roof, which it was designed to cover and secure.",
+     "anchor": "Five cubits high"
+    },
+    {
+     "id": "poole/1KI.6.10#p4-e69c5c2c",
+     "text": "Heb. it rested, to wit, the roof; for the Hebrew verb is of the singular number.",
+     "anchor": "They rested"
+    },
+    {
+     "id": "poole/1KI.6.10#p5-cc158167",
+     "text": "which rested upon the top of the wall, as the chambers, 1Ki 6:5, rested upon the sides of the wall. But all this I submit to the learned and judicious.",
+     "anchor": "With timber of cedar",
+     "refs": [
+      {
+       "text": "1Ki 6:5",
+       "ref": "1KI.6.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.11",
+   "range": "1KI.6.11",
+   "kind": "passage",
+   "hash": "86398fdb",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.11#p1-86398fdb",
+     "text": "Either by some prophet, or rather in a vision or dream, as it did before."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.12",
+   "range": "1KI.6.12",
+   "kind": "passage",
+   "hash": "6c331bfb",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.12#p1-6c331bfb",
+     "text": "God speaks thus, partly to encourage him to proceed in his work, and partly to purge out that pride and vain-glory, (which God, the searcher of hearts, saw either then did or would arise in Solomon’s mind, as being the author and builder of so glorious a work,) and that presumption and security, which was very likely to grow, and God foresaw would grow, both in Solomon and in the people; as if God was now in a manner engaged to continue his presence with them, and in his own temple; and that they had now no great reason to fear God’s departure from them, though they should provoke him. Therefore he expresseth the condition upon which his promise and favour is suspended; and by assuring him thereof in case of obedience, he plainly intimates the contrary upon his disobedience."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.15",
+   "range": "1KI.6.15",
+   "kind": "passage",
+   "hash": "3eb01735",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.15#p1-b96374ff",
+     "text": "or rather, from the floor, as it is in the Hebrew; for the floor itself was not covered with cedar, but with fir, as it here follows.",
+     "anchor": "Both the floor"
+    },
+    {
+     "id": "poole/1KI.6.15#p2-7386280c",
+     "text": "or rather, as it is in the Hebrew, unto the walls of the ceiling, or of the roof, i.e. unto the top of the wall, which was even with the roof; for the roof itself was not of stone, but wood. Or,",
+     "anchor": "And the walls of the ceiling"
+    },
+    {
+     "id": "poole/1KI.6.15#p3-f3a1c3b0",
+     "text": "i.e. unto the ceiling itself; which performing the office of a wall, may well be called by that name. For the name of a wall is not appropriated to stone or brick, because we read of a brasen wall, Jer 15:20, and a wall of iron, Eze 4:3. And that wall into which Saul smote his javelin, 1Sa 19:10, seems more probably to be understood of wood than of stone; especially, considering that it was the room where the king used to dine. So by this periphrasis, from the floor of the house unto the walls of the ceiling, he designs all the side walls of the house.",
+     "anchor": "unto the walls of the ceiling",
+     "refs": [
+      {
+       "text": "Jer 15:20",
+       "ref": "JER.15.20"
+      },
+      {
+       "text": "Eze 4:3",
+       "ref": "EZK.4.3"
+      },
+      {
+       "text": "1Sa 19:10",
+       "ref": "1SA.19.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.15#p4-95cd7ebb",
+     "text": "to wit, the side walls of the house, now mentioned.",
+     "anchor": "He covered them"
+    },
+    {
+     "id": "poole/1KI.6.15#p5-b8b9f6fe",
+     "text": "i.e. with other kind of wood, even with fir, as appears from 2Ch 3:5, wherewith the floor is here said to be covered.",
+     "anchor": "With wood",
+     "refs": [
+      {
+       "text": "2Ch 3:5",
+       "ref": "2CH.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.15#p6-5829353d",
+     "text": "this is here spoken only concerning the floor, because there was nothing but planks of fir; whereas there was both cedar and fir in the sides of the house, the fir being either put above or upon the cedar, or intermixed with or put between the boards or ribs of cedar, as may be gathered from the said parallel place, 2Ch 3:5.",
+     "anchor": "The floor of the house",
+     "refs": [
+      {
+       "text": "2Ch 3:5",
+       "ref": "2CH.3.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.16",
+   "range": "1KI.6.16",
+   "kind": "passage",
+   "hash": "83187ef3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.16#p1-6917b402",
+     "text": "i.e. the most holy place, which contained in the length of the house twenty cubits, by comparing this with 1Ki 6:2,17, which may be said to be on the sides of the house because this part took off twenty cubits in length from each side of the house, and was also twenty cubits from side to side; so it was twenty cubits every way. Or, on the sides (i.e. on all the sides, as indeed it was) of the house, or of that house, to wit, the most holy place, as it here follows. Or, from the sides of the house, i.e. from one side to the other. And so this is meant only of the partitionwall, which was between the holy and the most holy place.",
+     "anchor": "Twenty cubits on the sides of the house",
+     "refs": [
+      {
+       "text": "1Ki 6:2",
+       "ref": "1KI.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.16#p2-2a965a50",
+     "text": "or rather, as 1Ki 6:15, from the floor to the wall, or ceiling, or roof. So it is not necessary, at least by virtue of these words, to understand this, as they generally do, that the floor itself was built with cedar; but only all the sides of it from the bottom twenty cubits upward. If it be said that the whole house, and consequently the most holy place, was thirty cubits high, 1Ki 6:2, it may be replied, either that that is true only of the greater house, or the holy place, which is called the house, 1Ki 6:17, and that the lesser, or the most holy place, was but twenty cubits high, as divers think; or that the ten cubits at the top were covered with some other wood or thing, or were left open, that it might thereby receive both light from the candlesticks, and smoke from the altar of incense.",
+     "anchor": "Both the floor and the walls",
+     "refs": [
+      {
+       "text": "1Ki 6:15",
+       "ref": "1KI.6.15"
+      },
+      {
+       "text": "1Ki 6:2",
+       "ref": "1KI.6.2"
+      },
+      {
+       "text": "1Ki 6:17",
+       "ref": "1KI.6.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.16#p3-209f3d59",
+     "text": "i. e. that it might be the oracle, or the most holy place. Or, on the inner side (whereby he might imply that the outside of the partition-wall which looked towards the holy place was not so covered) of (for the Hebrew lamed is very oft a note of the genitive case) the oracle, even of the most holy place; which last words are added to explain what he means by the word oracle, which he had not used before.",
+     "anchor": "For the oracle, even for the most holy place"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.17",
+   "range": "1KI.6.17",
+   "kind": "passage",
+   "hash": "b5d281f8",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.17#p1-b5d281f8",
+     "text": "i.e. the holy place. That is, the temple: this is added to restrain the signification of the word house, which otherwise notes the whole building. Before it, i.e. before the oracle. Or, as it is in the Hebrew, before my face, i.e. before the place of my presence. Or it may be said to be before God, because he being pleased to describe himself as sitting upon the cherubim, hath his face towards this house, where he beholds the services of his people. So this part of the house, distinct from the most holy, hath its harmonious proportions also. The length 40, to the height 30, is sesquiterian, or 4 to 3 (which is that of a fourth in music); the length to the breadth, 40 to 20, as 2 to 1; the height to the breadth, 30 to 20, as 3 to 2.",
+     "anchor": "The house"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.18",
+   "range": "1KI.6.18",
+   "kind": "passage",
+   "hash": "fb92bea5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.18#p1-0bc6bb2d",
+     "text": "i.e. all the house was covered with cedar.",
+     "anchor": "All was cedar"
+    },
+    {
+     "id": "poole/1KI.6.18#p2-e4bdcc1d",
+     "text": "How was this true, when it was covered with fir, 2Ch 3:5?",
+     "anchor": "Quest",
+     "refs": [
+      {
+       "text": "2Ch 3:5",
+       "ref": "2CH.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.18#p3-5129c98b",
+     "text": "1. It was done with cedar and fir; of which See Poole \"1Ki 6:15\".",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Ki 6:15",
+       "ref": "1KI.6.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.18#p4-e9f2f05e",
+     "text": "2. It may be said to be all cedar, because the greatest part was so, universal particles being oft so used."
+    },
+    {
+     "id": "poole/1KI.6.18#p5-ec031e03",
+     "text": "3. Cedar is here named, not to exclude all other wood, but stone only, as the following words show."
+    },
+    {
+     "id": "poole/1KI.6.18#p6-1c566701",
+     "text": "4. Or, all was of cedar; that is, all the carving was of cedar."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.19",
+   "range": "1KI.6.19",
+   "kind": "passage",
+   "hash": "6b04e7b5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.19#p1-78bd467f",
+     "text": "i.e. adorned and fitted it for the receipt of the ark.",
+     "anchor": "He prepared"
+    },
+    {
+     "id": "poole/1KI.6.19#p2-07de7a83",
+     "text": "Heb. in the middle of the house, or building; not the middle mathematically or exactly, but in general within the house, as that phrase, in the middle, oft signifies; as Deu 4:11 Jos 7:21 Dan 3:26.",
+     "anchor": "In the house",
+     "refs": [
+      {
+       "text": "Deu 4:11",
+       "ref": "DEU.4.11"
+      },
+      {
+       "text": "Jos 7:21",
+       "ref": "JOS.7.21"
+      },
+      {
+       "text": "Dan 3:26",
+       "ref": "DAN.3.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.19#p3-eea3147b",
+     "text": "or, in the uttermost part of the house; for so this was, the entrance into the house being at the other end.",
+     "anchor": "Within"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.20",
+   "range": "1KI.6.20",
+   "kind": "passage",
+   "hash": "00d056b6",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.20#p1-6e63b02a",
+     "text": "or rather, which was in the inner part, to wit, of the house; called here in Hebrew, the forepart, not because a man first enters there, but because when a man is entering, or newly entered, into the house, it is still before him. Thus the same, or the like word proceeding from the same root, is oft used, as Lev 10:18 1Ki 6:19,29,30,36 1Ch 28:11.",
+     "anchor": "In the forepart",
+     "refs": [
+      {
+       "text": "Lev 10:18",
+       "ref": "LEV.10.18"
+      },
+      {
+       "text": "1Ki 6:19",
+       "ref": "1KI.6.19"
+      },
+      {
+       "text": "1Ch 28:11",
+       "ref": "1CH.28.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.20#p2-3dd5d8b9",
+     "text": "Twenty cubits in the height thereof."
+    },
+    {
+     "id": "poole/1KI.6.20#p3-4f4dcb25",
+     "text": "The great house was thirty cubits high, above, 1Ki 6:2.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "1Ki 6:2",
+       "ref": "1KI.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.20#p4-0665ec96",
+     "text": "It is probably affirmed by divers, that the most holy place was not so high as the holy place by ten cubits; which was no way inconvenient, nor against the rules of proportion observed in buildings. And as the second part of the building was far lower than the first, which was the porch; so the third part might be considerably lower than the second. And it might be lower either,",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/1KI.6.20#p5-aa2ce8b2",
+     "text": "1. Outwardly, or in respect of the walls of it, which might be only twenty cubits high, and at that height covered with a flat roof; it being but decent that that eminently holy place should be distinguished from the less holy, even by its outward and visible shape. Or,"
+    },
+    {
+     "id": "poole/1KI.6.20#p6-7c7a06a2",
+     "text": "2. Inwardly, or within the walls of that part. For although this part might be vaulted at the top, as the holy place was, which vaulted roof some think was ten cubits high; yet here might be the difference, that the vaulted roof of the holy place lay open to view, whereas that of the most holy was covered with a flat roof from wall to wall, at the height of twenty cubits. So covered, i.e. with gold, 1Ki 7:48 1Ch 28:18. The altar, to wit, the altar of incense, which was put next to the most high place, 1Ki 6:22.",
+     "refs": [
+      {
+       "text": "1Ki 7:48",
+       "ref": "1KI.7.48"
+      },
+      {
+       "text": "1Ch 28:18",
+       "ref": "1CH.28.18"
+      },
+      {
+       "text": "1Ki 6:22",
+       "ref": "1KI.6.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.20#p7-204d8521",
+     "text": "Which was of cedar."
+    },
+    {
+     "id": "poole/1KI.6.20#p8-1df271c0",
+     "text": "Object. This altar was made of shittim wood, Exo 30:1.",
+     "refs": [
+      {
+       "text": "Exo 30:1",
+       "ref": "EXO.30.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.20#p9-e1b5d44f",
+     "text": "Answ. Either that was covered with cedar, that it might be agreeable to the rest; all being cedar, as was said, 1Ki 6:18. Or this was a new altar which Solomon made by Divine command and direction, delivered to him, either immediately, or by his father; of which see 1Ch 28:12, &c. But this place may seem to be better translated thus, and he covered the altar with cedar; either to make it like the rest; or because this was a new altar made of stone, and therefore fit to be covered with cedar, that it might better receive and retain the gold wherewith this cedar was overlaid, 1Ki 6:22.",
+     "refs": [
+      {
+       "text": "1Ki 6:18",
+       "ref": "1KI.6.18"
+      },
+      {
+       "text": "1Ch 28:12",
+       "ref": "1CH.28.12"
+      },
+      {
+       "text": "1Ki 6:22",
+       "ref": "1KI.6.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.21",
+   "range": "1KI.6.21",
+   "kind": "passage",
+   "hash": "3eb658ed",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.21#p1-fc516fc8",
+     "text": "or, that house, to wit, the oracle.",
+     "anchor": "The house"
+    },
+    {
+     "id": "poole/1KI.6.21#p2-cbc4a8b3",
+     "text": "compare 2Ch 3:8.",
+     "anchor": "With pure gold",
+     "refs": [
+      {
+       "text": "2Ch 3:8",
+       "ref": "2CH.3.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.21#p3-9772dcc0",
+     "text": "i.e. he made a veil, which was upon or before the partition; or which was a further partition between the holy and the most holy; which veil did hang upon these golden chains. Others render it thus, he closed or shut (as the word signifies in the Chaldee dialect, from which divers Hebrew words borrow their signification) it (i.e. the house now mentioned, to wit, the door of it) with chains or bars of gold. Before the oracle, i.e. in the outward part of the wall, or partition, which was erected between the. oracle and the holy place; which is properly said to be before the oracle, which was the space within, and beyond that partition; for there the veil was hung, and there the chains or bars, or whatsoever it was which fastened the doors of the oracle, were placed.",
+     "anchor": "He made a partition by the chains of gold"
+    },
+    {
+     "id": "poole/1KI.6.21#p4-2f5b3282",
+     "text": "to wit, the partition; which he here distinguisheth from the house, or the main walls of the house, which he had in the former part of this verse told us were overlaid with gold; and now he affirms as much of the partition.",
+     "anchor": "He overlaid it"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.22",
+   "range": "1KI.6.22",
+   "kind": "passage",
+   "hash": "da92f30c",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.22#p1-72453319",
+     "text": "not only the oracle, but all the holy place; and, as some add, even the chambers belonging to it.",
+     "anchor": "The whole house"
+    },
+    {
+     "id": "poole/1KI.6.22#p2-126592ae",
+     "text": "i.e. the altar of incense, which was set in the holy place close by the doors of the oracle.",
+     "anchor": "The whole altar that was by the oracle"
+    },
+    {
+     "id": "poole/1KI.6.22#p3-7e42e575",
+     "text": "as before he overlaid it with cedar; of which See Poole \"1Ki 6:20\".",
+     "anchor": "He overlaid with gold",
+     "refs": [
+      {
+       "text": "1Ki 6:20",
+       "ref": "1KI.6.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.23",
+   "range": "1KI.6.23",
+   "kind": "passage",
+   "hash": "3eb7b439",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.23#p1-6586a4ea",
+     "text": "Besides those two made by Moses, Exo 25:18, which were of gold, and far less than these, and fixed in another place and posture.",
+     "refs": [
+      {
+       "text": "Exo 25:18",
+       "ref": "EXO.25.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.23#p2-55b8a900",
+     "text": "or, of oily trees, which sometimes are distinguished from the olive trees, as Isa 41:19.",
+     "anchor": "Of olive tree",
+     "refs": [
+      {
+       "text": "Isa 41:19",
+       "ref": "ISA.41.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.29",
+   "range": "1KI.6.29",
+   "kind": "passage",
+   "hash": "250be9a9",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.29#p1-798d035d",
+     "text": "as signs of the presence and protection of the angels vouchsafed by God to that place.",
+     "anchor": "Carved figures of cherubims"
+    },
+    {
+     "id": "poole/1KI.6.29#p2-b99926a7",
+     "text": "emblems of that peace and victory over their enemies which the Israelites duly serving God in that place might expect.",
+     "anchor": "Palm trees"
+    },
+    {
+     "id": "poole/1KI.6.29#p3-d484c287",
+     "text": "within the oracle and without it, in the holy place.",
+     "anchor": "Within and without"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.31",
+   "range": "1KI.6.31",
+   "kind": "passage",
+   "hash": "b3e0fe97",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.31#p1-c0a32bca",
+     "text": "i.e. Four cubits in height or breadth, whereas the wall was twenty cubits. Or,"
+    },
+    {
+     "id": "poole/1KI.6.31#p2-3a1bd85a",
+     "text": "of the door now mentioned. Or rather, five-square, having five sides and five angles, which is not incongruous nor unusual in buildings,",
+     "anchor": "a fifth part"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.33",
+   "range": "1KI.6.33",
+   "kind": "passage",
+   "hash": "80b0746b",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.33#p1-80b0746b",
+     "text": "Or rather, four-square. See Poole \"1Ki 6:31\".",
+     "refs": [
+      {
+       "text": "1Ki 6:31",
+       "ref": "1KI.6.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.36",
+   "range": "1KI.6.36",
+   "kind": "passage",
+   "hash": "5bf1dabd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.36#p1-11da4520",
+     "text": "i.e. the priests’ court, 2Ch 4:9; so called, because it was next to the temple, which it did encompass.",
+     "anchor": "The inner court",
+     "refs": [
+      {
+       "text": "2Ch 4:9",
+       "ref": "2CH.4.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.36#p2-a0f35dc9",
+     "text": "which is understood either,",
+     "anchor": "With three rows of hewed stone, and a row of cedar beams"
+    },
+    {
+     "id": "poole/1KI.6.36#p3-c2be9ddf",
+     "text": "1. Of the thickness of the wall, the three rows of stones being one within another, and the cedar innermost, as a lining to the wall. Or,"
+    },
+    {
+     "id": "poole/1KI.6.36#p4-96c98614",
+     "text": "2. Of the height of the wall, which was only three cubits high, that the people might see the priests sacrificing upon the altar, which was in their court; each row of stones being about a cubit, and possibly of a differing colour from the rest, and all covered with cedar. Or rather,"
+    },
+    {
+     "id": "poole/1KI.6.36#p5-6faef95f",
+     "text": "3. Of so many galleries, one on each side of the temple, whereof the three first were of stone, and the fourth of cedar, all supported with rows of pillars; upon which there were many chambers for the uses of the temple, and of the priests; for it is hard to think that only the making of a low wall about the court would be called a building of the court. And that a great number of buildings and rooms were necessary for the various offices and works which were to be done, and the treasures of all sorts which were to be laid up in the temple, largely so called, is sufficiently evident from the nature of the things, and divers passages in Scripture: see, among others, 1Ch 28:11,12.",
+     "refs": [
+      {
+       "text": "1Ch 28:11",
+       "ref": "1CH.28.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.6.38",
+   "range": "1KI.6.38",
+   "kind": "passage",
+   "hash": "6450c750",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.6.38#p1-1f9a6040",
+     "text": "and six months, as appears by computation. But smaller sums are usually neglected, and swallowed up in the greater, both in Scripture, as Jud 20:46 2Sa 5:4 1Ki 2:11, and in other authors. It is not strange that this work took up so much time; for,",
+     "anchor": "Seven years complete",
+     "refs": [
+      {
+       "text": "Jud 20:46",
+       "ref": "JUD.20.46"
+      },
+      {
+       "text": "2Sa 5:4",
+       "ref": "2SA.5.4"
+      },
+      {
+       "text": "1Ki 2:11",
+       "ref": "1KI.2.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.6.38#p2-b1d4585d",
+     "text": "1. The temple properly so called was for quantity the least part of it, there being very many and great buildings both above ground in the several courts, (for though only the court of the priests be mentioned, yet it is thereby implied that the same thing was proportionably done in the others,) and under ground."
+    },
+    {
+     "id": "poole/1KI.6.38#p3-bb9244a8",
+     "text": "2. The great curiosity of art which was used here, and the fewness of exquisite artists, required the longer time for the doing of it. And if the building of Diana’s temple did employ all Asia for two hundred years, and the building of one pyramid employed three hundred and sixty thousand men for twenty years together, both which Pliny affirms; no reasonable man can wonder that this temple was seven years in building."
+    }
+   ]
+  }
+ ]
+}

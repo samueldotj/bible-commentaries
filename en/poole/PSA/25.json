@@ -1,0 +1,604 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "poole/PSA.25",
+   "range": "PSA.25",
+   "kind": "chapter",
+   "hash": "363f8e14",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.25#p2-79f3485d",
+     "text": "This Psalm seems to have been composed when David was under some straits and pressures, when his outward afflictions were accompanied with inward horrors of conscience for his sins, by which he had forfeited God’s favour, and procured these calamities to himself."
+    },
+    {
+     "id": "poole/PSA.25#p3-e65afd93",
+     "text": "David, being distressed by his enemies, taketh his refuge in God, Psa 25:1-6; prayeth for the remission of the sins of his youth, Psa 25:1-7. He showeth the goodness of the Lord to the meek, to such as keep his covenant, to such as fear him, Psa 25:8-15. He prayeth for help in affliction, Psa 25:16-18; and against his enemies, Psa 25:19-21; and to redeem his church from trouble, Psa 25:22.",
+     "refs": [
+      {
+       "text": "Psa 25:1-6",
+       "ref": "PSA.25.1-6"
+      },
+      {
+       "text": "Psa 25:1-7",
+       "ref": "PSA.25.1-7"
+      },
+      {
+       "text": "Psa 25:8-15",
+       "ref": "PSA.25.8-15"
+      },
+      {
+       "text": "Psa 25:16-18",
+       "ref": "PSA.25.16-18"
+      },
+      {
+       "text": "Psa 25:19-21",
+       "ref": "PSA.25.19-21"
+      },
+      {
+       "text": "Psa 25:22",
+       "ref": "PSA.25.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.1",
+   "range": "PSA.25.1",
+   "kind": "passage",
+   "hash": "25eac029",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.1#p1-25eac029",
+     "text": "i.e. I direct my desires and prayers (which are expressed by this phrase, Psa 24:4 Jer 22:27 Lam 3:41) with hope or expectation of a gracious answer, which also it implies, Deu 24:15.",
+     "refs": [
+      {
+       "text": "Psa 24:4",
+       "ref": "PSA.24.4"
+      },
+      {
+       "text": "Jer 22:27",
+       "ref": "JER.22.27"
+      },
+      {
+       "text": "Lam 3:41",
+       "ref": "LAM.3.41"
+      },
+      {
+       "text": "Deu 24:15",
+       "ref": "DEU.24.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.2",
+   "range": "PSA.25.2",
+   "kind": "passage",
+   "hash": "e9990e80",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.2#p1-e9990e80",
+     "text": "i.e. disappointed of my hope, which will be reproachful to me, not without reflection upon thee, of whose power and faithfulness I have made my boast.",
+     "anchor": "Ashamed"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.3",
+   "range": "PSA.25.3",
+   "kind": "passage",
+   "hash": "3d2bd889",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.3#p1-20d1dbc5",
+     "text": "with me and for me; for if I be frustrated, all that trust in thee will be discouraged and upbraided with my example.",
+     "anchor": "Let none that wait on thee be ashamed"
+    },
+    {
+     "id": "poole/PSA.25.3#p2-7ad60942",
+     "text": "blast their wicked designs and hopes.",
+     "anchor": "Let them be ashamed"
+    },
+    {
+     "id": "poole/PSA.25.3#p3-12a640a8",
+     "text": "or prevaricate, or deal perfidiously with me, violating their faith given to me.",
+     "anchor": "Which transgress"
+    },
+    {
+     "id": "poole/PSA.25.3#p4-5613c167",
+     "text": "without any provocation of mine, or without any sufficient reason.",
+     "anchor": "Without a cause"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.4",
+   "range": "PSA.25.4",
+   "kind": "passage",
+   "hash": "e1ea39cb",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.4#p1-e1ea39cb",
+     "text": "i.e. the way of thy precepts, which I ought to do in my circumstances and difficulties; by what methods I may obtain thy favour and help. Whatsoever thou dost with me as to other things, grant me this favour, teach me my duty, and cause me to keep close to it, notwithstanding all temptations to the contrary.",
+     "anchor": "Thy ways"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.5",
+   "range": "PSA.25.5",
+   "kind": "passage",
+   "hash": "2cd001b7",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.5#p1-88139664",
+     "text": "i.e. in the true and right way prescribed in thy word, which is oft called truth, as Psa 119:30 Joh 8:45,46 16:13, &c. Or, by or because of thy truth, i.e. because thou art faithful, do thou lead or guide me as thou hast promised to do.",
+     "anchor": "In thy truth",
+     "refs": [
+      {
+       "text": "Psa 119:30",
+       "ref": "PSA.119.30"
+      },
+      {
+       "text": "Joh 8:45",
+       "ref": "JHN.8.45"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.5#p2-7d2a978d",
+     "text": "i.e. who hast saved me formerly, and hast engaged to save me, and from whom alone I expect salvation.",
+     "anchor": "The God of my salvation"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.6",
+   "range": "PSA.25.6",
+   "kind": "passage",
+   "hash": "df94d0ed",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.6#p1-df94d0ed",
+     "text": "O consider thy own merciful nature, and thy former manifold favours vouchsafed to me, and to other miserable sinners, and do like thyself. Thou hast been gracious to such as I am from the beginning of the world to this day, and to me in particular from my very infancy, as he oft acknowledgeth in this book; yea, from all eternity thou hast had a good will to me, and therefore do not now desist and desert me."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.7",
+   "range": "PSA.25.7",
+   "kind": "passage",
+   "hash": "59885b54",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.7#p1-39579b6b",
+     "text": "so as to lay to my charge, the sins committed in my young and tender years, Ecc 11:9,10 which God frequently puntsbeth in riper age, Job 13:26 Jer 3:25, and therefore he now prays that God would not deal so with him.",
+     "anchor": "Remember not",
+     "refs": [
+      {
+       "text": "Ecc 11:9",
+       "ref": "ECC.11.9"
+      },
+      {
+       "text": "Job 13:26",
+       "ref": "JOB.13.26"
+      },
+      {
+       "text": "Jer 3:25",
+       "ref": "JER.3.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.7#p2-80595f62",
+     "text": "my succeeding or other sins, which either have been acted by me, or may be imputed to me. Being a sinner, I have nothing to plead for myself but thy free mercy and goodness, which I now implore.",
+     "anchor": "Nor my transgressions"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.8",
+   "range": "PSA.25.8",
+   "kind": "passage",
+   "hash": "9a872b50",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.8#p1-c5a09016",
+     "text": "i.e. bountiful and gracious to sinners, ready to do good, and delighting in it.",
+     "anchor": "Good"
+    },
+    {
+     "id": "poole/PSA.25.8#p2-3244bed7",
+     "text": "or, right, i.e. holy and true, sincere in making promises, and in all his declarations and offers of mercy to sinners, and faithful in fulfilling them. Being such a one, he will not be wanting to such poor sinners as I am, but will guide them by his word, and Spirit, and gracious providence into the way of life and peace. By",
+     "anchor": "Upright"
+    },
+    {
+     "id": "poole/PSA.25.8#p3-515a9f3e",
+     "text": "he doth not understand all that are so; not such as are obstinate, and proud, and scornful, whom God hath declared that he will not teach nor direct, but will leave them to the errors and lusts of their own hearts, and will blind and harden them to their ruin, as is often expressed in Scripture; but only such as, being truly sensible of their sins, do humbly and earnestly seek God for his grace and mercy, or such as are meek, as the next verse explains it; for these he will not fail to assist and relieve.",
+     "anchor": "sinners"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.9",
+   "range": "PSA.25.9",
+   "kind": "passage",
+   "hash": "e865690e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.9#p1-6a3d4a54",
+     "text": "i.e. the humble and lowly, such as meekly submit themselves to God’s hand and word, and are willing and desirous to be directed and governed by him.",
+     "anchor": "The meek"
+    },
+    {
+     "id": "poole/PSA.25.9#p2-08c12176",
+     "text": "i.e. in the paths of judgment; or in the right way wherein they should walk, as the next clause explains this; or by the rule of his word, which is oft called his judgment, or judgments. Or, with judgment, i.e. with a wise and provident care, and a due regard to all their circumstances. See Jer 10:24 1Co 10:13.",
+     "anchor": "In judgment",
+     "refs": [
+      {
+       "text": "Jer 10:24",
+       "ref": "JER.10.24"
+      },
+      {
+       "text": "1Co 10:13",
+       "ref": "1CO.10.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.9#p3-1a6a5964",
+     "text": "either God’s way, which God prescribes; or his own way, in which he ought to walk.",
+     "anchor": "His way"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.10",
+   "range": "PSA.25.10",
+   "kind": "passage",
+   "hash": "b89607ee",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.10#p1-3752bac5",
+     "text": "All the dealings of God with them, yea, even those that are afflictive and grievous to the flesh, are done in kindness and faithfulness to them, as being very necessary for them, and tending to their great advantage."
+    },
+    {
+     "id": "poole/PSA.25.10#p2-f89af5fc",
+     "text": "i.e. the laws or conditions required of them by his covenant; or, as it follows, his testimonies, i.e. his precepts, which are the testimonies or witnesses of God’s will, and of man’s duty.",
+     "anchor": "His covenant"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.11",
+   "range": "PSA.25.11",
+   "kind": "passage",
+   "hash": "48fa12a6",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.11#p1-d6281b4d",
+     "text": "i.e. for the honour of thy goodness and truth, which is concerned herein.",
+     "anchor": "For thy name’s sake"
+    },
+    {
+     "id": "poole/PSA.25.11#p2-cabb61f1",
+     "text": "and therefore none but such a God can pardon it, and nothing but thy own name can move thee to do it; and the pardoning of it will well become so great and good a God, and will tend much to the illustration of thy glory, as the greatness and desperateness of the disease advanceth the honour and praise of the physician. Or this may be urged, not as an argument to move God, but as the reason that moved him to pray so earnestly, and that for God’s name’s sake. Or, though (as this particle is oft rendered, as Exo 34:9 Psa 41:4, and elsewhere) it be great. Possibly he speaks of his sin against Uriah and Bathsheba. Or, for or though it be much or manifold; for the Hebrew word signifies both great and much.",
+     "anchor": "For it is great",
+     "refs": [
+      {
+       "text": "Exo 34:9",
+       "ref": "EXO.34.9"
+      },
+      {
+       "text": "Psa 41:4",
+       "ref": "PSA.41.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.12",
+   "range": "PSA.25.12",
+   "kind": "passage",
+   "hash": "67329420",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.12#p1-40350c6f",
+     "text": "i.e. whosoever he be, whether Jew or Gentile, whether more innocent, or a greater sinner, which is my case.",
+     "anchor": "What man is he"
+    },
+    {
+     "id": "poole/PSA.25.12#p2-5c33e305",
+     "text": "i.e. which God appointeth or approveth. Or, which he, i.e. such person, should choose; for the future tense is oft put potentially, and so as to express a man’s duty, as Gen 20:9 Mal 1:6 2:7.",
+     "anchor": "That he shall choose",
+     "refs": [
+      {
+       "text": "Gen 20:9",
+       "ref": "GEN.20.9"
+      },
+      {
+       "text": "Mal 1:6",
+       "ref": "MAL.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.13",
+   "range": "PSA.25.13",
+   "kind": "passage",
+   "hash": "45c16520",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.13#p1-2107c866",
+     "text": "Heb. shall lodge, i.e. continue, as this word signifies, Job 17:2 Pro 19:23. It notes the constancy and stability of his happiness, both whilst he lives, and when he is dead; which the next clause seems to suppose.",
+     "anchor": "Shall dwell",
+     "refs": [
+      {
+       "text": "Job 17:2",
+       "ref": "JOB.17.2"
+      },
+      {
+       "text": "Pro 19:23",
+       "ref": "PRO.19.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.13#p2-4c10cdf4",
+     "text": "Heb. in good, i.e. in the possession and enjoyment of the true good.",
+     "anchor": "At ease"
+    },
+    {
+     "id": "poole/PSA.25.13#p3-4dc7aac4",
+     "text": "or, the land, to wit, Canaan; which was promised and given, as an earnest of the whole covenant of grace, and all its promises, and therefore is synecdochically put for all of them. The sense is, his seed shall be blessed.",
+     "anchor": "The earth"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.14",
+   "range": "PSA.25.14",
+   "kind": "passage",
+   "hash": "fe6ff5c7",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.14#p1-a12a5354",
+     "text": "either,",
+     "anchor": "The secret of the Lord"
+    },
+    {
+     "id": "poole/PSA.25.14#p2-e661220e",
+     "text": "1. His word and counsel, to direct and guide them in the right way, which he oft mentions here as a singular blessing, Psa 25:8,9,12, to show them their duty in all conditions, and the way to their eternal salvation. And so this may seem to be explained by the following words,",
+     "refs": [
+      {
+       "text": "Psa 25:8",
+       "ref": "PSA.25.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.14#p3-0bbee209",
+     "text": "And this, though it was revealed, yet might be called a secret, because of the many and deep mysteries in it, and because it is said to be hid from many of them to whom it was revealed, Mat 11:25 2Co 3:13-15 4:3; and it is not to be understood to any purpose without the illumination of their minds by God’s Spirit, as is manifest from Psa 119:18,19, and many other places of Scripture. Or rather,",
+     "anchor": "he will show them his covenant",
+     "refs": [
+      {
+       "text": "Mat 11:25",
+       "ref": "MAT.11.25"
+      },
+      {
+       "text": "2Co 3:13-15",
+       "ref": "2CO.3.13-15"
+      },
+      {
+       "text": "Psa 119:18",
+       "ref": "PSA.119.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.14#p4-7f746b2d",
+     "text": "2. His love and favour, which is called his secret, Job 29:4 Pro 3:32, and that very fitly, because it is known to none but him that enjoyeth it, Pro 14:10 Rev 2:17. Or his gracious and fatherly providence, which is here said to be with them; or, as it is in the Hebrew, towards them, taking care of them, and working for them; even then when God seems to frown upon them.",
+     "refs": [
+      {
+       "text": "Job 29:4",
+       "ref": "JOB.29.4"
+      },
+      {
+       "text": "Pro 3:32",
+       "ref": "PRO.3.32"
+      },
+      {
+       "text": "Pro 14:10",
+       "ref": "PRO.14.10"
+      },
+      {
+       "text": "Rev 2:17",
+       "ref": "REV.2.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.14#p5-a84d3166",
+     "text": "or, and he will make them to know (for the infinitive is here thought to be put for the future tense of the indicative, as it is Ecc 3:14,15,18 Ho 9:13 12:3)",
+     "anchor": "He will show them his covenant",
+     "refs": [
+      {
+       "text": "Ecc 3:14",
+       "ref": "ECC.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.14#p6-6af5a19e",
+     "text": "i.e. he will make them clearly to understand it, both its duties or conditions, and its blessings or privileges; neither of which ungodly men rightly understand. Or, he will make them to know it by experience, or by God’s making it good to them; as, on the contrary, God threatens to make ungodly men to know his breach of promise, Num 14:34. Or, as it is in the margin of our Bibles, and his covenant (is, i.e. he hath engaged himself by his promise or covenant) to make them know it, to wit, his secret, i.e. that he will manifest either his word or his favour to them.",
+     "anchor": "his covenant",
+     "refs": [
+      {
+       "text": "Num 14:34",
+       "ref": "NUM.14.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.15",
+   "range": "PSA.25.15",
+   "kind": "passage",
+   "hash": "e54216ca",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.15#p1-e54216ca",
+     "text": "i.e. My trust is in him, my expectation of relief is from him only, and he will deliver me out of all my temptations and tribulations."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.16",
+   "range": "PSA.25.16",
+   "kind": "passage",
+   "hash": "d8d213a5",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.16#p1-134072f2",
+     "text": "turn thy face and favour to me, O thou who now hast turned thy back upon me, and forsaken me.",
+     "anchor": "Turn thee unto me"
+    },
+    {
+     "id": "poole/PSA.25.16#p2-f1de66f8",
+     "text": "destitute of all other hopes and succours; persecuted by mine enemies, and forsaken by the most of my friends; as he was in Absalom’s rebellion.",
+     "anchor": "I am desolate"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.17",
+   "range": "PSA.25.17",
+   "kind": "passage",
+   "hash": "42898767",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.17#p1-42898767",
+     "text": "my outward troubles are accompanied with grievous torments of my mind and heart for my sins, which have procured them, and thy great displeasure manifested in them.",
+     "anchor": "The troubles of my heart"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.18",
+   "range": "PSA.25.18",
+   "kind": "passage",
+   "hash": "addd354e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.18#p1-54be12f5",
+     "text": "as Exo 3:7,8 Psa 31:7 106:44.",
+     "anchor": "Look upon with compassion",
+     "refs": [
+      {
+       "text": "Exo 3:7",
+       "ref": "EXO.3.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.18#p2-38759b45",
+     "text": "the procuring and continuing causes of my trouble.",
+     "anchor": "My sins"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.19",
+   "range": "PSA.25.19",
+   "kind": "passage",
+   "hash": "f0441294",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.19#p1-d02eff30",
+     "text": "Heb. look upon, as Psa 25:18, to wit, with a revengeful eye, as Exo 14:24 1Ch 12:17 Psa 104:32. For this general expression of looking upon is taken several ways in Scripture, and is to be determined by the context.",
+     "anchor": "Consider",
+     "refs": [
+      {
+       "text": "Psa 25:18",
+       "ref": "PSA.25.18"
+      },
+      {
+       "text": "Exo 14:24",
+       "ref": "EXO.14.24"
+      },
+      {
+       "text": "1Ch 12:17",
+       "ref": "1CH.12.17"
+      },
+      {
+       "text": "Psa 104:32",
+       "ref": "PSA.104.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.25.19#p2-31d21fd3",
+     "text": "Heb. violent or injurious, either without any cause given by me; or without any bounds, or in an implacable manner.",
+     "anchor": "Cruel"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.20",
+   "range": "PSA.25.20",
+   "kind": "passage",
+   "hash": "78a34172",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.20#p1-78a34172",
+     "text": "i.e. myself or my life, as that word is commonly taken; for his soul was out of his enemies’ reach, who could only kill his body, Luk 12:4.",
+     "anchor": "My soul",
+     "refs": [
+      {
+       "text": "Luk 12:4",
+       "ref": "LUK.12.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.21",
+   "range": "PSA.25.21",
+   "kind": "passage",
+   "hash": "5cc4ab67",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.21#p1-5cc4ab67",
+     "text": "Though I have greatly offended thee, yet remember that I have dealt honestly and sincerely with mine enemies, whilst they have dealt falsely and injuriously with me; and therefore judge between them and me, and deal with me according to the righteousness of my cause, and carriage towards them."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.25.22",
+   "range": "PSA.25.22",
+   "kind": "passage",
+   "hash": "dfe0e5fe",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.25.22#p1-dfe0e5fe",
+     "text": "If thou wilt not pity and help me, yet spare thy people. who suffer for my sake, and in my sufferings."
+    }
+   ]
+  }
+ ]
+}

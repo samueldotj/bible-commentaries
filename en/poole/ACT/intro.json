@@ -1,0 +1,31 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/ACT",
+   "range": "ACT",
+   "kind": "book",
+   "title": "ACTS OF THE APOSTLES",
+   "hash": "e5200054",
+   "paragraphs": [
+    {
+     "id": "poole/ACT#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/ACT#p2-97af1d5e",
+     "text": "This book hath been held by all Christians to be canonical, and esteemed, though amongst the hardest, yet amongst the brightest jewels that shine in the word of God. It is a history concerning the church of Christ in its infancy, and shows God’s wonderful care for it, and powerful providence over it. It begins where the Gospel ends, which the same author (St. Luke) had wrote; and is of great use to prevent and confute all feigned stories concerning the lives and doctrine of the holy apostles. St. Luke having accompanied St. Paul, and having been an eye witness, and an ear witness, was certainly the fittest to record what that great apostle did and said; and if most of this book be taken up concerning him, it is because (speaking of the rest of the apostles, 1Co 15:10) he laboured more than they all. In this book there is an account of many sermons, preached by the apostles and apostolical men, upon the most necessary parts of our holy religion, as the death, resurrection, and ascension of our blessed Saviour; of God’s mercy through him, and of the life to come, &c.; and withal, how holy men lived answerably to their profession and hope. Who, when we read these things, seem to speak unto us, and tell us, (what they say was inscribed upon the statue of some deified hero), Si feceritis sicut nos, eritis sicut nos; If ye shall do as we have done, and suffer as we have suffered, then ye shall be (glorious and happy) as we are.",
+     "refs": [
+      {
+       "text": "1Co 15:10",
+       "ref": "1CO.15.10"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

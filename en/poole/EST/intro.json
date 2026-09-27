@@ -1,0 +1,34 @@
+{
+ "source": "poole",
+ "book": "EST",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/EST",
+   "range": "EST",
+   "kind": "book",
+   "title": "THE BOOK of ESTHER",
+   "hash": "5924fa9c",
+   "paragraphs": [
+    {
+     "id": "poole/EST#p1-1f2d3258",
+     "text": "This book was constantly received for a part of the canon of the Scripture by the people of the Jews, whose authority herein is the more considerable, because to them were committed the oracles of God, Rom 3:2, to keep them safely, and transmit them carefully to posterity.",
+     "refs": [
+      {
+       "text": "Rom 3:2",
+       "ref": "ROM.3.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/EST#p2-7b9238a6",
+     "text": "And it is a very strong presumption that they were true to their trust, that our blessed Lord, and his holy apostles, who taxed the Jews with many faults, both greater and less, never charged them with unfaithfulness herein; which, if the Jews had been guilty, they would certainly have done, and by their office were obliged to do it, for the instruction and caution of the Christian church, whose faith was built no less upon the writings of the prophets than upon the doctrine of the apostles."
+    },
+    {
+     "id": "poole/EST#p3-27eadd57",
+     "text": "The penman of it is both by Jewish and Christian interpreters, ancient and modern, thought to be Mordecai; who was both a holy man of God, and a principal actor in this history; and therefore who so fit and proper for it as himself?"
+    }
+   ]
+  }
+ ]
+}

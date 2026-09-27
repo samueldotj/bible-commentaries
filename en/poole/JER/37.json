@@ -1,0 +1,387 @@
+{
+ "source": "poole",
+ "book": "JER",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "poole/JER.37",
+   "range": "JER.37",
+   "kind": "chapter",
+   "hash": "5b83d107",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37#p1-5b83d107",
+     "text": "The Egyptians raise the siege of the Chaldeans; and king Zedekiah sendeth to Jeremiah, to pray and inquire of the Lord for them, Jer 37:1-5. He prophesieth the Chaldeans’ return and victory, Jer 37:6-10. He is apprehended for a fugitive, beaten, and put into prison, Jer 37:11-15. He assureth Zedekiah of the captivity; and, entreating for liberty, obtaineth some favour, Jer 37:16-21.",
+     "refs": [
+      {
+       "text": "Jer 37:1-5",
+       "ref": "JER.37.1-5"
+      },
+      {
+       "text": "Jer 37:6-10",
+       "ref": "JER.37.6-10"
+      },
+      {
+       "text": "Jer 37:11-15",
+       "ref": "JER.37.11-15"
+      },
+      {
+       "text": "Jer 37:16-21",
+       "ref": "JER.37.16-21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.1",
+   "range": "JER.37.1",
+   "kind": "passage",
+   "hash": "da9c390f",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.1#p1-fc12b46d",
+     "text": "The history of this succession we have 2Ki 24:17 2Ch 36:10. Zedekiah’s name was Mattaniah, the king of Babylon changed his name to Zedekiah. He reigned instead of Jehoiachin, the son of Jehoiakim, who reigned but three months, 2Ki 24:8; his name was Jeconiah, 1Ch 3:16, and, in a way of derision or contempt, is here called",
+     "refs": [
+      {
+       "text": "2Ki 24:17",
+       "ref": "2KI.24.17"
+      },
+      {
+       "text": "2Ch 36:10",
+       "ref": "2CH.36.10"
+      },
+      {
+       "text": "2Ki 24:8",
+       "ref": "2KI.24.8"
+      },
+      {
+       "text": "1Ch 3:16",
+       "ref": "1CH.3.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.37.1#p2-fb70ccfc",
+     "text": "The king of Babylon made this Zedekiah king, who is here called the son of Josiah, and, 2Ki 24:17, Jehoiachin’s father’s brother, to distinguish him from another Zedekiah, son of Jehoiakim, as appears from 1Ch 3:16.",
+     "anchor": "Coniah",
+     "refs": [
+      {
+       "text": "2Ki 24:17",
+       "ref": "2KI.24.17"
+      },
+      {
+       "text": "1Ch 3:16",
+       "ref": "1CH.3.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.2",
+   "range": "JER.37.2",
+   "kind": "passage",
+   "hash": "ff3c1edf",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.2#p1-ff3c1edf",
+     "text": "This Zedekiah was little better than Jehoiakim; he seemeth by his story to be of a little better temper, not so cruel and bloody; but he no more regarded God’s word by his prophet than Jehoiakim had done."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.3",
+   "range": "JER.37.3",
+   "kind": "passage",
+   "hash": "28ac6222",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.3#p1-28ac6222",
+     "text": "This was apparently in the time of the siege; for, Jer 37:5, we read of Pharaoh’s army being come to relieve the besieged, whether it was before the Babylonians were departed, or no, is uncertain; but it is plain, if they were departed, the king was afraid they would come back again. That which is most observable for us from hence is this, that wicked men of all ranks are desirous of the prayers of those ministers in their distresses, whose counsels and admonitions they never regard while they are in a time of prosperity; which is an evidence of their acting contrary to the convictions of their consciences, in obedience to their lusts, in their contempt of their instructions and admonitions. When affliction hath cooled their lusts, then their consciences can be heard in dictating their duty to them.",
+     "refs": [
+      {
+       "text": "Jer 37:5",
+       "ref": "JER.37.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.4",
+   "range": "JER.37.4",
+   "kind": "passage",
+   "hash": "61204b88",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.4#p1-61204b88",
+     "text": "We shall read afterward, Jer 37:15, that he was imprisoned; and we have heard, Jer 32, of two revelations he had while he was in prison; but as yet he walked at liberty.",
+     "refs": [
+      {
+       "text": "Jer 37:15",
+       "ref": "JER.37.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.5",
+   "range": "JER.37.5",
+   "kind": "passage",
+   "hash": "ff860546",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.5#p1-d44f23a1",
+     "text": "Zedekiah was set up by the king of Babylon, instead of Jehoiachin, whom the king of Babylon had carried into Babylon. Zedekiah (as is usual in those cases, and as it appeareth, Eze 17:16) had taken an oath of allegiance to the king of Babylon, but brake it, and the covenant which he made with him, Jer 37:16 and, Jer 37:15,",
+     "refs": [
+      {
+       "text": "Eze 17:16",
+       "ref": "EZK.17.16"
+      },
+      {
+       "text": "Jer 37:16",
+       "ref": "JER.37.16"
+      },
+      {
+       "text": "Jer 37:15",
+       "ref": "JER.37.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.37.5#p2-a7dd6ca7",
+     "text": "Now the king of Egypt came in person no more after the great overthrow given him in Carchemish, by the river Euphrates, of which we read Jer 46:2, which was thirteen or fourteen years before this; yet he sent an army at Zedekiah’s request to relieve him, at this time besieged by the armies of the king of Babylon. The Chaldeans that were in the siege of Jerusalem hearing of it, raised the siege for a time, during which time (probably) it was that Zedekiah sent to the prophet to pray for them.",
+     "anchor": "rebelled against him, and sent his ambassador into Egypt for horses, and much people",
+     "refs": [
+      {
+       "text": "Jer 46:2",
+       "ref": "JER.46.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.7",
+   "range": "JER.37.7",
+   "kind": "passage",
+   "hash": "cf293ff5",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.7#p1-cdd7c619",
+     "text": "The word"
+    },
+    {
+     "id": "poole/JER.37.7#p2-987744dd",
+     "text": "lets us know that Zedekiah did not send to the prophet only to pray for him, but to inquire of God what the issue would be of this future contingency; it may be more desirous to know that, than that Jeremiah should intercede with God for them. The prophet tells them from God that the king of Egypt’s army should do them no service; it is expounded, Eze 17:17, He should not make for him in the war, by casting up mounts, and building forts, to cut off many persons. Probably the Egyptian army, upon the sight of the strength of the Chaldeans, and the weak and impotent state of the Jews, were discouraged, and would not adventure to fight them, but by and by returned to their own land.",
+     "anchor": "inquire",
+     "refs": [
+      {
+       "text": "Eze 17:17",
+       "ref": "EZK.17.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.10",
+   "range": "JER.37.10",
+   "kind": "passage",
+   "hash": "733de092",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.10#p1-fa45f182",
+     "text": "The substance of the answer returned by the prophet to the king is this: That whereas they pleased themselves with fancies that the Babylonian army now withdrawn to meet with the army of the Egyptians would return no more to the siege, it was a dream; he assures them from God they should return, besiege the city, and take it, and burn it; and therefore they did but deceive themselves to think otherwise; though they were gone, yet it was but for a very short time. He further assures them that the potency or impotency of the Chaldeans was inconsiderable; for if their whole army were made up of wounded men, or if they could prevail so far as to wound all their soldiers, or thrust them through, (as the word is translated, Jer 51:4) yet they should do the work. When God is resolved upon an effect, the instruments are very little to be regarded.",
+     "refs": [
+      {
+       "text": "Jer 51:4",
+       "ref": "JER.51.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.37.10#p2-6f468081",
+     "text": "It is not the arm of flesh, but the power of God, which is in that case alone to be considered."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.12",
+   "range": "JER.37.12",
+   "kind": "passage",
+   "hash": "61beb9c4",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.12#p1-e96ff472",
+     "text": "The word we translate"
+    },
+    {
+     "id": "poole/JER.37.12#p2-6b68b00b",
+     "text": "signifieth to divide, soften, or make slippery, which hath made interpreters vary in the exposition of it. But the general use of it, especially in Pihel, (the conjugation in which it is here used,) being to signify a dividing or separating, and the latter signification being secondary, it seemeth most reasonably here translated to separate, or to withdraw.",
+     "anchor": "separate"
+    },
+    {
+     "id": "poole/JER.37.12#p3-d46642dc",
+     "text": "Jeremiah had no further revelation from God which he was under an obligation to communicate; and knowing the city would suddenly be taken, and that he could be no further useful to the people, taking advantage of the withdrawing of the Chaldean army, resolves to provide for himself, designing to go to his own country, to Anathoth, which was in the land of Benjamin; and because he was a noted person, who might probably be stopped (as he was) if known, he attempts to slip out in the crowd of people that were going out. This seemeth to me the most probable sense."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.13",
+   "range": "JER.37.13",
+   "kind": "passage",
+   "hash": "362b874d",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.13#p1-c29e45cf",
+     "text": "was some gate that looked toward the inheritance of that tribe, or where those used to go out who went that way; we read of it Jer 38:7. Irijah was a captain of the guard that was set to watch at the gates, to keep people from going out, or at least some persons; for it should seem by Jeremiah’s endeavour to go out in the crowd, they suffered many to go out, as is usual in sieges, when victuals grow scarce; and though the Chaldeans were at present gone, yet they were not out of fear of their coming back. This captain apprehends Jeremiah, as one who was about to desert the city, and fall off to the Chaldeans.",
+     "anchor": "The gate of Benjamin",
+     "refs": [
+      {
+       "text": "Jer 38:7",
+       "ref": "JER.38.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.37.13#p2-36ee7d77",
+     "text": "That Hananiah the grandfather of this Irijah was the false prophet we read of Jer 28, who died according to Jeremiah’s prophecy, and this his grandchild apprehended Jeremiah in some revenge of his grandfather, is but uncertainly guessed. But Jeremiah’s so frequent prophesying that the Chaldeans should take the city exposed him to this suspicion probably."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.14",
+   "range": "JER.37.14",
+   "kind": "passage",
+   "hash": "635db502",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.14#p1-635db502",
+     "text": "Though Jeremiah, as the Lord’s prophet, faithfully revealed the will of God, that the Chaldeans should take the city, to warn the people (if possible) to prevent it by solemn addresses unto God, or at least to prevent what mischief might be prevented by a timely surrender to the king of Babylon, yet he had no design to fly to them; he was so far from delighting in their company, that when the city was taken, and the captain of the guard offered him either to go along with him to Babylon, promising to look well to him, Jer 40:4,5, or to go back to Gedaliah, whom the king of Babylon had left as deputy governor in Judea, he chose rather to go and dwell under Gedaliah’s government in a poor condition, than to mend his commons in an idolatrous country: but the captain would not believe him, but carrieth him before the princes.",
+     "refs": [
+      {
+       "text": "Jer 40:4",
+       "ref": "JER.40.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.15",
+   "range": "JER.37.15",
+   "kind": "passage",
+   "hash": "ff554e82",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.15#p1-ff554e82",
+     "text": "These princes seem more fierce against the prophet than those that were in the time of Jehoiakim, for they proceed here upon the captain’s information, cause the prophet to be beaten, and send him to prison, a prison within the compass of the court, bad enough, as appeareth by Jeremiah’s complaint of his condition there to the king, Jer 37:20, and by what followeth in the next verse.",
+     "refs": [
+      {
+       "text": "Jer 37:20",
+       "ref": "JER.37.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.16",
+   "range": "JER.37.16",
+   "kind": "passage",
+   "hash": "a3928857",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.16#p1-d0b61fd6",
+     "text": "The Hebrew words which we translate"
+    },
+    {
+     "id": "poole/JER.37.16#p2-dabdd909",
+     "text": "signify the house of the lake; they certainly signify some pit, or deep hole, or place in the prison, where were some cells or apartments, in which they were wont to keep those whom they judged great malefactors, or against whom they had some special anger; how many days the prophet was forced to abide in this miserable place it is not said, but it should seem by Jer 37:9, that it was until the Chaldean army was returned to the siege.",
+     "anchor": "dungeon",
+     "refs": [
+      {
+       "text": "Jer 37:9",
+       "ref": "JER.37.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.17",
+   "range": "JER.37.17",
+   "kind": "passage",
+   "hash": "aaedbc20",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.17#p1-aaedbc20",
+     "text": "that is, Hath God revealed any thing to thee, concerning what will be the issue of the return of the Chaldean army to the siege of the city? What needed Zedekiah to have asked this, to whom God by this prophet had so often revealed his will in this case? Wicked men are always more curious to know, than careful to believe, observe, and obey the will of God. But God seldom or never speaketh good unto them: Jeremiah tells him there was, but it was a sad word, viz. that God would certainly deliver him into the hand or power of the king of Babylon.",
+     "anchor": "Is there any word from the Lord?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.18",
+   "range": "JER.37.18",
+   "kind": "passage",
+   "hash": "33b6a1ce",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.18#p1-33b6a1ce",
+     "text": "That is, What have I done worthy of bonds? I have faithfully heretofore revealed to you the mind and will of God; if this hath offended you, I am not to be blamed, I could not but execute God’s commands."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.19",
+   "range": "JER.37.19",
+   "kind": "passage",
+   "hash": "496610f8",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.19#p1-496610f8",
+     "text": "You now see what kind of prophets they are, who fed you with hopes that the king of Babylon’s army should return no more to the siege of the city. I told you they would return, you had other prophets that told you they should not, judge now who were the true prophets. The devil in all ages had some that contradicted the true prophets of the Lord. Three hundred false prophets contradicted one Micaiah, as to Ahab’s going up to Ramoth-gilead, and prospering in that expedition. There were many that contradicted Isaiah and Jeremiah, and other true prophets, as to the king of Babylon’s coming to besiege Jerusalem, and his return again to the siege when he had risen up from it to meet the Egyptian army; and as to the length of time in which the Jews should be in captivity; yet, (to let us see men’s madness upon their lusts,) as there still have risen up in other generations false teachers and flatterers, so they have always found more favour than those that have dealt more faithfully in revealing God’s will."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.20",
+   "range": "JER.37.20",
+   "kind": "passage",
+   "hash": "4d536b3f",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.20#p1-4d536b3f",
+     "text": "Though Jeremiah had dealt very faithfully with the king and princes, and they had dealt very hardly and cruelly with him, casting him for no just cause into a nasty prison, and Jeremiah knew well enough that Zedekiah was very soon to be disarmed of his power; yet (to learn us our duty) he speaks with all due respect and reverence to his sovereign, though a very bad man, and one who had dealt very ill with him. This petition of Jeremiah speaks the prison he was in was in a very inconvenient place, where he was in danger of his life."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.37.21",
+   "range": "JER.37.21",
+   "kind": "passage",
+   "hash": "c880eec8",
+   "paragraphs": [
+    {
+     "id": "poole/JER.37.21#p1-c880eec8",
+     "text": "so as he was a prisoner still, but in a freer air, where he did not suffer those inconveniences which he endured in the hole or dungeon. It is of no great moment to know whether the portion of bread allowed the prophet by the king were a loaf, (as some think,) or a piece of a loaf; it was such a proportion as could be allowed according to the proportion which others had, and the straits which the city was in, and so much as served to keep him alive. Jeremiah remained here till, upon the suggestion of the princes, he was removed to a worse place, as we shall read in the sixth verse of the next chapter; where he staid not long, but was again removed to the court of the prison, as we shall read there, Jer 38:13, where (as it followeth there, Jer 38:28) he continued until the city was taken.",
+     "anchor": "Commanded that they should commit Jeremiah into the court of the prison",
+     "refs": [
+      {
+       "text": "Jer 38:13",
+       "ref": "JER.38.13"
+      },
+      {
+       "text": "Jer 38:28",
+       "ref": "JER.38.28"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

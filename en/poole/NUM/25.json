@@ -1,0 +1,650 @@
+{
+ "source": "poole",
+ "book": "NUM",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "poole/NUM.25",
+   "range": "NUM.25",
+   "kind": "chapter",
+   "hash": "87771251",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25#p1-87771251",
+     "text": "The Israelites’ whoredom and idolatry: God commands the guilty to be put to death, Num 25:1-5. A plague: Phinehas’s zeal; for which God promises him the priesthood, Num 25:6-15. God commands the Midianites to be slain for this their treachery in drawing the people to sin, Num 25:16-18.",
+     "refs": [
+      {
+       "text": "Num 25:1-5",
+       "ref": "NUM.25.1-5"
+      },
+      {
+       "text": "Num 25:6-15",
+       "ref": "NUM.25.6-15"
+      },
+      {
+       "text": "Num 25:16-18",
+       "ref": "NUM.25.16-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.1",
+   "range": "NUM.25.1",
+   "kind": "passage",
+   "hash": "fb9d2c9c",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.1#p1-14d861a7",
+     "text": "a place called more largely Abel-shittim, Num 33:49, it being usual with the Hebrews to abbreviate long proper names, as Hermon is put for Baal-hermon, Jud 3:3, Tholad for El-tholad, Jos 19:4, Nimrim, Isa 15:6 for Beth-nimrim, Num 32:36. And this was their last station, from whence they passed immediately into Canaan. So this is here noted as a great aggravation of their sin, that they committed it when God was going to put them into the possession of their long-expected and much-desired land.",
+     "anchor": "Shittim",
+     "refs": [
+      {
+       "text": "Num 33:49",
+       "ref": "NUM.33.49"
+      },
+      {
+       "text": "Jud 3:3",
+       "ref": "JUD.3.3"
+      },
+      {
+       "text": "Jos 19:4",
+       "ref": "JOS.19.4"
+      },
+      {
+       "text": "Isa 15:6",
+       "ref": "ISA.15.6"
+      },
+      {
+       "text": "Num 32:36",
+       "ref": "NUM.32.36"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.1#p2-a1fc15a2",
+     "text": "not all, but many of them, as appears from Deu 4:3,4 1Co 10:8.",
+     "anchor": "The people",
+     "refs": [
+      {
+       "text": "Deu 4:3",
+       "ref": "DEU.4.3"
+      },
+      {
+       "text": "1Co 10:8",
+       "ref": "1CO.10.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.1#p3-2832cda3",
+     "text": "both corporally and spiritually, either because they prostituted themselves to them upon condition of worshipping their god; or because their filthy god was worshipped by such filthy acts, as Priapus and Venus were.",
+     "anchor": "To commit whoredom"
+    },
+    {
+     "id": "poole/NUM.25.1#p4-dc4cf924",
+     "text": "and of Midian too, as is evident from Num 25:6,17,18 Num 31:16; for both these people being confederated in this wicked design, the one is put for the other; and the daughters of Moab may be named, either because they began fine transgression, or because they were the chief persons, possibly, the relations or courtiers of Balak king of Moab.",
+     "anchor": "Of Moab",
+     "refs": [
+      {
+       "text": "Num 25:6",
+       "ref": "NUM.25.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.2",
+   "range": "NUM.25.2",
+   "kind": "passage",
+   "hash": "18398b24",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.2#p1-cf721764",
+     "text": "this may be noted, either,",
+     "anchor": "They called the people"
+    },
+    {
+     "id": "poole/NUM.25.2#p2-d781997b",
+     "text": "1. As the consequent of their whoredom, an invitation to further society in their sacred feasts; or rather,"
+    },
+    {
+     "id": "poole/NUM.25.2#p3-505a3372",
+     "text": "2. As the cause or occasion of their whoredom, the Hebrew vau here signifying for, as it oft doth. The Moabites being now neighbours to the Israelites, and finding themselves unable to effect their design against Israel by war and witchcraft, they now fell another way to work, by contracting familiarity with them; and perceiving their evil and lustful inclinations, they, i.e. their daughters, last mentioned, invited them to their feasts."
+    },
+    {
+     "id": "poole/NUM.25.2#p4-467fb461",
+     "text": "i.e. unto the feasts which were made of their parts of their sacrifices, after the manner of the Jews and Gentiles too, the participation whereof was reckoned a participation in the worship of that god to whom the sacrifices were offered, 1Co 10:18, and therefore was forbidden to the Israelites when such feasts and sacrifices belonged to a false god, Exo 34:15. Yet this was a less and more modest kind of idolatry, and therefore is fitly used to usher in what was more gross and impious.",
+     "anchor": "Unto the sacrifices",
+     "refs": [
+      {
+       "text": "1Co 10:18",
+       "ref": "1CO.10.18"
+      },
+      {
+       "text": "Exo 34:15",
+       "ref": "EXO.34.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.2#p5-28cfd66b",
+     "text": "i.e. of their god, Baal-peor, the plural elohim being here used, as commonly it is, for one god.",
+     "anchor": "Of their gods"
+    },
+    {
+     "id": "poole/NUM.25.2#p6-fd7d3128",
+     "text": "which properly notes the outward act of worship, which here consisting in or being accompanied with filthy serious, may either signify or connote them.",
+     "anchor": "Bowed down"
+    },
+    {
+     "id": "poole/NUM.25.2#p7-7013d4d7",
+     "text": "before their gods, or, to the honour and worship of their gods.",
+     "anchor": "To their gods"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.3",
+   "range": "NUM.25.3",
+   "kind": "passage",
+   "hash": "f27d939e",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.3#p1-3262e29f",
+     "text": "the word implies a forsaking of God, to whom they were and should have been joined, and a turning to, embracing of, strict conjunction with, and fervent affection after, this false god. Compare Hos 9:10 2Co 6:14. Baal-peor, called Baal, by the name common to many false gods, and especially to those that represented any of the heavenly bodies; and Peor, either from the hill Peor, where he was worshipped, Num 23:28, or rather from a verb signifying to open and uncover, either because of the obscene posture in which possibly the idol was set, as Priapus was, or because of the filthiness which was exercised in his worship.",
+     "anchor": "Joined himself",
+     "refs": [
+      {
+       "text": "Hos 9:10",
+       "ref": "HOS.9.10"
+      },
+      {
+       "text": "2Co 6:14",
+       "ref": "2CO.6.14"
+      },
+      {
+       "text": "Num 23:28",
+       "ref": "NUM.23.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.3#p2-eed5757b",
+     "text": "i.e. discovered itself in a dreadful plague, Psa 106:29.",
+     "anchor": "Was kindled",
+     "refs": [
+      {
+       "text": "Psa 106:29",
+       "ref": "PSA.106.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.4",
+   "range": "NUM.25.4",
+   "kind": "passage",
+   "hash": "c7b4d970",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.4#p1-bd3387e1",
+     "text": "The sense is, either,"
+    },
+    {
+     "id": "poole/NUM.25.4#p2-2a8687c9",
+     "text": "1. Take, to wit. to thyself and thy assistance,"
+    },
+    {
+     "id": "poole/NUM.25.4#p3-4ef704c3",
+     "text": "i.e. the judges, as they are called Num 25:5, or rulers,",
+     "anchor": "all the heads",
+     "refs": [
+      {
+       "text": "Num 25:5",
+       "ref": "NUM.25.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.4#p4-fd6498b0",
+     "text": "and in their presence, and by their help,",
+     "anchor": "of the people"
+    },
+    {
+     "id": "poole/NUM.25.4#p5-36966419",
+     "text": "i.e. the people, now mentioned, to wit, such of them as were guilty, as was said Num 25:1. And this sense seems to be favoured by the next verse, where the execution of this command is mentioned, Moses said unto the judges of Israel, whom he had taken to himself and called together, Slay ye every one his man, i.e. each. of you execute this command of God, and hang up the delinquents under your several jurisdictions. Or,",
+     "anchor": "hang them",
+     "refs": [
+      {
+       "text": "Num 25:1",
+       "ref": "NUM.25.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.4#p6-34f97938",
+     "text": "2. Take, i.e. apprehend,"
+    },
+    {
+     "id": "poole/NUM.25.4#p7-412a7e69",
+     "text": "i.e. the chief, of the people, such as were chief, either in this transgression, or rather in place and power, who are singled out to this exemplary punishment either for their neglect in not preventing, restraining, or punishing the offenders according to their power and duty, or for their concurrence with others in this wickedness, which was more odious and mischievous in them than in others. And then this must be necessarily limited to such heads as were guilty, which is evident from the nature of the thing, and from the words of the verse. And so these",
+     "anchor": "all the heads"
+    },
+    {
+     "id": "poole/NUM.25.4#p8-b36a8559",
+     "text": "differ, as in name and title, so in place and dignity, from the judges of the people, Num 25:5, which may seem to note the superior magistrates, even the seventy elders, which, being persons of great worth and piety, chosen by God, and endowed with his Spirit, most probably kept themselves from this contagion, and therefore were fitter to punish others; and the heads of the people seem to be the inferior magistrates, the rulers of tens or hundreds, or the like, who as they did many of them partake with the people in other rebellions, so probably were involved in this guilt. Now these are to be hanged up as other malefactors and condemned persons were, Deu 21:23 2Sa 21:6.",
+     "anchor": "heads of the people",
+     "refs": [
+      {
+       "text": "Num 25:5",
+       "ref": "NUM.25.5"
+      },
+      {
+       "text": "Deu 21:23",
+       "ref": "DEU.21.23"
+      },
+      {
+       "text": "2Sa 21:6",
+       "ref": "2SA.21.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.4#p9-3e9b7336",
+     "text": "to the vindication of God’s honour and justice.",
+     "anchor": "Before the Lord"
+    },
+    {
+     "id": "poole/NUM.25.4#p10-af61dc17",
+     "text": "i.e. publicly, as their sin was public and scandalous; and speedily, before the sun go down. But withal this phrase may signify, that these also must be taken down about sun-setting, as other malefactors were, Deu 21:23.",
+     "anchor": "Against the sun",
+     "refs": [
+      {
+       "text": "Deu 21:23",
+       "ref": "DEU.21.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.5",
+   "range": "NUM.25.5",
+   "kind": "passage",
+   "hash": "652a8601",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.5#p1-652a8601",
+     "text": "i.e. those under his charge; for as these seventy were chosen to assist Moses in the government, so doubtless the care and management of the people was distributed among them by just and equal proportions.",
+     "anchor": "Every one his men"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.6",
+   "range": "NUM.25.6",
+   "kind": "passage",
+   "hash": "23f93844",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.6#p1-54504ad6",
+     "text": "This was done, either,"
+    },
+    {
+     "id": "poole/NUM.25.6#p2-8fb52776",
+     "text": "1. Before God’s command to Moses, and by him to the judges, Num 25:4,5, such transpositions and disorders being not unusual in sacred story. Or rather,",
+     "refs": [
+      {
+       "text": "Num 25:4",
+       "ref": "NUM.25.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.6#p3-8cfe0cb0",
+     "text": "2. In the order it is related, to wit, when Moses had given the charge to the judges, and, as it may seem, before the execution of it, otherwise it is probable he would not have been so bold and foolish to have run upon present and certain ruin, when the examples were fresh and frequent before his eyes."
+    },
+    {
+     "id": "poole/NUM.25.6#p4-7999b81b",
+     "text": "i.e. into the camp of the Israelites, or to his friends and relations in his tent, whither he carried her; Num 25:8, for his or their fleshly satisfaction.",
+     "anchor": "Unto his brethren",
+     "refs": [
+      {
+       "text": "Num 25:8",
+       "ref": "NUM.25.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.6#p5-fb66c76c",
+     "text": "an argument of intolerable impudence and contempt of God and of Moses.",
+     "anchor": "In the sight of Moses"
+    },
+    {
+     "id": "poole/NUM.25.6#p6-eb05ba52",
+     "text": "i.e. the rulers of the congregation with divers of the people.",
+     "anchor": "All the congregation"
+    },
+    {
+     "id": "poole/NUM.25.6#p7-da097911",
+     "text": "bewailing the abominable wickedness of the people, and the dreadful judgments of God, and imploring God’s mercy and favour.",
+     "anchor": "Weeping"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.8",
+   "range": "NUM.25.8",
+   "kind": "passage",
+   "hash": "b7edc4dd",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.8#p1-91f631fc",
+     "text": "or brothel house; for since they gave way to such lewd practices, no doubt they singled out convenient places for their wickedness.",
+     "anchor": "Into the tent"
+    },
+    {
+     "id": "poole/NUM.25.8#p2-1a1f9886",
+     "text": "which is no warrant for private persons to take upon them the execution of justice upon any, though the greatest malefactors, because Phinehas was himself a man in great authority and power, and did this after the command given by Moses to the rulers to slay these transgressors, and in the very sight, and no doubt by the consent of Moses himself, and also by the special instinct and direction of God’s Spirit.",
+     "anchor": "Thrust both of them through"
+    },
+    {
+     "id": "poole/NUM.25.8#p3-6d795277",
+     "text": "or in her brothel house, for the word is the same before used, and translated tent, and it may be called hers, because she chose or used that place for her wicked purposes, as the rest doubtless hid other places of like nature. The",
+     "anchor": "Through her belly"
+    },
+    {
+     "id": "poole/NUM.25.8#p4-86aa1702",
+     "text": "either the pestilence, or some other sudden and grievous mortality.",
+     "anchor": "plague"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.9",
+   "range": "NUM.25.9",
+   "kind": "passage",
+   "hash": "a7f49218",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.9#p1-18a29b57",
+     "text": "They were but 23,000, 1Co 10:8.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "1Co 10:8",
+       "ref": "1CO.10.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.9#p2-f39995b1",
+     "text": "The odd thousand here added were slain by the judges according to the order of Moses, the rest by the immediate hand of God, but both sorts died of the plague, the word being used, as oft it is, for the sword, or hand, or stroke of God.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.11",
+   "range": "NUM.25.11",
+   "kind": "passage",
+   "hash": "63bd21c1",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.11#p1-281f9930",
+     "text": "fervent and resolute and valiant,",
+     "anchor": "He was zealous"
+    },
+    {
+     "id": "poole/NUM.25.11#p2-b5f84df4",
+     "text": "for my satisfaction and vindication.",
+     "anchor": "for my sake"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.12",
+   "range": "NUM.25.12",
+   "kind": "passage",
+   "hash": "06783c8a",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.12#p1-06783c8a",
+     "text": "i.e. The covenant of an everlasting priesthood, as it is expounded, Num 25:13, which is called a covenant of peace, partly with respect to the happy effect of this heroical action of his, whereby he made peace between God and his people; and partly with regard to the principal end and use of the priestly office, which was constantly to do that which Phinehas now did, even to mediate between God and men, to obtain and preserve his own and Israel’s peace and reconciliation with God, by offering up sacrifices, and incense, and prayers to God on their behalf, Num 16:47,48, as also by turning them away from iniquity, which is the only peace-breaker, and by teaching and pressing the observation of that law, which is the only bond of their peace, Mal 2:5-7.",
+     "refs": [
+      {
+       "text": "Num 25:13",
+       "ref": "NUM.25.13"
+      },
+      {
+       "text": "Num 16:47",
+       "ref": "NUM.16.47"
+      },
+      {
+       "text": "Mal 2:5-7",
+       "ref": "MAL.2.5-7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.13",
+   "range": "NUM.25.13",
+   "kind": "passage",
+   "hash": "b0686fa1",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.13#p1-21504c28",
+     "text": "And his seed after him."
+    },
+    {
+     "id": "poole/NUM.25.13#p2-97ed08e9",
+     "text": "What advantage had he by this promise, seeing the thing here promised was due to him by birth?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/NUM.25.13#p3-fb7b844b",
+     "text": "1. The same blessing may be ofttimes promised, as the kingdom was to David; and the renewing of this promise might seem convenient here, To signify that bloodshed was so far from polluting him, and thereby casting him out of the priesthood, that it was a mean to confirm him in it.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/NUM.25.13#p4-c2a3805a",
+     "text": "2. This promise secured him and his against divers contingencies, which otherwise might have befallen him or them; as that he should live longer than his father, else he could not have been the high priest; that he should be preserved from those blemishes which might have rendered him incapable of the priesthood, which were many; that he should have a seed, and they such as were fit for that office."
+    },
+    {
+     "id": "poole/NUM.25.13#p5-bdce2ae6",
+     "text": "i.e. to continue as long as the law and commonwealth of the Jews did.",
+     "anchor": "An everlasting priesthood"
+    },
+    {
+     "id": "poole/NUM.25.13#p6-58ad6a43",
+     "text": "Quest. How was this verified, seeing the priesthood went from Eleazar’s to Ithamar’s line in Eli and three or four of his successors? Answ. 1. This promise, as others of the like nature, was conditional, and therefore might be made void, and of none effect, by the miscarriages of Phinehas’s sons, as it seems it was; and thereupon a like promise was made to Eli of the line of Ithamar, that he and his should walk before the Lord, to wit, in the office of high priest, for ever, which also for his and their sins was made void, 1Sa 2:30.",
+     "refs": [
+      {
+       "text": "1Sa 2:30",
+       "ref": "1SA.2.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.13#p7-6f718af5",
+     "text": "Answ. 2. That was but a short interruption, and not considerable in so long a succession, for the priesthood returned to Phinehas’s line in the time of Solomon, 1Ki 2:26,27,35 1Ch 24:3; and continued in that line till the captivity of Babylon, as is evident, and afterward too, 1Ch 6:4 Ezr 7:1,5, even until Christ’s time, for any thing which appears to the contrary.",
+     "refs": [
+      {
+       "text": "1Ki 2:26",
+       "ref": "1KI.2.26"
+      },
+      {
+       "text": "1Ch 24:3",
+       "ref": "1CH.24.3"
+      },
+      {
+       "text": "1Ch 6:4",
+       "ref": "1CH.6.4"
+      },
+      {
+       "text": "Ezr 7:1",
+       "ref": "EZR.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.14",
+   "range": "NUM.25.14",
+   "kind": "passage",
+   "hash": "54eff21b",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.14#p1-0ba010f3",
+     "text": "this is added as a proof of Phinehas’s zeal, that he durst venture upon so great a person, who was likely to have many avengers of his blood.",
+     "anchor": "A prince"
+    },
+    {
+     "id": "poole/NUM.25.14#p2-53e698cd",
+     "text": "Heb. of the house of his father. Every tribe was divided into great households, called the houses of their fathers, Num 1:2, and he was the prince or chief of one of these, though not of fire whole tribe.",
+     "anchor": "Of a chief house",
+     "refs": [
+      {
+       "text": "Num 1:2",
+       "ref": "NUM.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.14#p3-ce64de3c",
+     "text": "of the tribe of Simeon, which seems to have been too much influenced by his and other such examples, so that for 59,300, which were numbered, Num 1:22,23, there were now only 22,000 Num 26:14.",
+     "anchor": "Among the Simeonites",
+     "refs": [
+      {
+       "text": "Num 1:22",
+       "ref": "NUM.1.22"
+      },
+      {
+       "text": "Num 26:14",
+       "ref": "NUM.26.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.15",
+   "range": "NUM.25.15",
+   "kind": "passage",
+   "hash": "12ad922e",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.15#p1-ee22b72c",
+     "text": "one of the kings or princes or Midian, Num 31:8 Jos 13:21.",
+     "anchor": "Zur",
+     "refs": [
+      {
+       "text": "Num 31:8",
+       "ref": "NUM.31.8"
+      },
+      {
+       "text": "Jos 13:21",
+       "ref": "JOS.13.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.15#p2-08576b15",
+     "text": "or, and over her father’ s house.",
+     "anchor": "Of a chief house"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.17",
+   "range": "NUM.25.17",
+   "kind": "passage",
+   "hash": "240da259",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.17#p1-ae23b7cf",
+     "text": "And why not the Moabites, who were as guilty, Num 25:1?",
+     "refs": [
+      {
+       "text": "Num 25:1",
+       "ref": "NUM.25.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.17#p2-0df4567a",
+     "text": "1. Because God will reserve to himself a liberty of punishing or sparing, according to his own good pleasure.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/NUM.25.17#p3-7e3f0c13",
+     "text": "2. God had a kindness for the Moabites for Lot’s sake, Deu 2:9.",
+     "refs": [
+      {
+       "text": "Deu 2:9",
+       "ref": "DEU.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.17#p4-7aefa979",
+     "text": "3. God punished the Moabites in another manner, partly, by his own immediate hand, whereby it is probable he cut off those Moabitish women that were guilty of this fact; partly, by a particular and dreadful kind of excommunication, Deu 23:3; and partly, by impunity, which in its consequences is commonly worse and more pernicious than any or all temporal punishments, which none that believes the Bible can deny.",
+     "refs": [
+      {
+       "text": "Deu 23:3",
+       "ref": "DEU.23.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.17#p5-a52d38b6",
+     "text": "4. It is probable the Midianites were most guilty, as in persuading Balak to send for Balaam, as may be gathered from Num 22:4,7; so in the reception of Balaam after Balak had dismissed him, Num 31:8, and in further consultation with him, and in contriving the means for the executing of this wicked plot.",
+     "refs": [
+      {
+       "text": "Num 22:4",
+       "ref": "NUM.22.4"
+      },
+      {
+       "text": "Num 31:8",
+       "ref": "NUM.31.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.25.17#p6-1f952f28",
+     "text": "i.e. kill them; in which words, as there is a command to war against them, so there is a promise of success.",
+     "anchor": "Smite them"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.25.18",
+   "range": "NUM.25.18",
+   "kind": "passage",
+   "hash": "7f971823",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.25.18#p1-0205fd49",
+     "text": "For under pretence of kindred, and friendship, and leagues, yea, and marriages, which they offered to them, instead of that war which the Israelites expected from them, they sought only an opportunity to insinuate themselves into their familiarity, and execute their hellish plot of bringing that curse upon the Israelites, which they had in vain attempted to bring another way."
+    },
+    {
+     "id": "poole/NUM.25.18#p2-b2baba18",
+     "text": "by drawing you both to spiritual and corporal whoredom.",
+     "anchor": "In the matter of Peor, and in the matter of Cozbi"
+    },
+    {
+     "id": "poole/NUM.25.18#p3-c38692fd",
+     "text": "in a large sense, to wit, their countrywoman.",
+     "anchor": "Their sister"
+    }
+   ]
+  }
+ ]
+}

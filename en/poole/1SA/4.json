@@ -1,0 +1,416 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "poole/1SA.4",
+   "range": "1SA.4",
+   "kind": "chapter",
+   "hash": "a57b469e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4#p1-a57b469e",
+     "text": "The Israelites are smitten by the Philistines at Eben-ezer, 1Sa 4:1,2. They fetch the ark from Shiloh; receive it with a great shout, to the terror of the Philistines, 1Sa 4:3-8; who yet take courage, and a second time beat the Israelites: the ark is taken; the two sons of Eli are slain, 1Sa 4:9-11; which Eli hearing, falleth backward from his seat, and breaketh his neck, 1Sa 4:12-18. His daughter-in-law falls in labour, nameth her son Ichabod, and dieth, 1Sa 4:19-22.",
+     "refs": [
+      {
+       "text": "1Sa 4:1",
+       "ref": "1SA.4.1"
+      },
+      {
+       "text": "1Sa 4:3-8",
+       "ref": "1SA.4.3-8"
+      },
+      {
+       "text": "1Sa 4:9-11",
+       "ref": "1SA.4.9-11"
+      },
+      {
+       "text": "1Sa 4:12-18",
+       "ref": "1SA.4.12-18"
+      },
+      {
+       "text": "1Sa 4:19-22",
+       "ref": "1SA.4.19-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.1",
+   "range": "1SA.4.1",
+   "kind": "passage",
+   "hash": "0a6d7e3a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.1#p1-0f49234c",
+     "text": "i.e. the word of the Lord revealed to Samuel, and by him to the people; either, first, The prophetical word mentioned before, 1Sa 3:11, &c., which is here said to come, or to come to pass, as it was foretold, to all Israel. But the subject of that prophecy was not all Israel, but Eli and his house, as is evident. Or rather, secondly, A word of command, that all Israel should go forth to fight with the Philistines, as the following words explain it, that so they might be first humbled and punished for their sins, and so prepared by degrees for their future deliverance.",
+     "anchor": "The word of Samuel",
+     "refs": [
+      {
+       "text": "1Sa 3:11",
+       "ref": "1SA.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.4.1#p2-5c602345",
+     "text": "or, to meet the Philistines, who having by this time recruited themselves after their great loss by Samson, Jud 16:30, and perceiving an eminent prophet arising among them, by whom they were likely to be united, counselled, and assisted, thought fit to suppress them in the beginning of their hopes and designs of rescuing themselves from their power. Ebenezer; a place so called here (by anticipation) from a following event, 1Sa 7:12. Aphek; a city so called in the tribe of Judah, Jos 15:53, upon the borders of the Philistines’ country; not that Aphek in Asher, Jos 19:30 Jud 1:31, which was very remote from them.",
+     "anchor": "Against the Philistines",
+     "refs": [
+      {
+       "text": "Jud 16:30",
+       "ref": "JUD.16.30"
+      },
+      {
+       "text": "1Sa 7:12",
+       "ref": "1SA.7.12"
+      },
+      {
+       "text": "Jos 15:53",
+       "ref": "JOS.15.53"
+      },
+      {
+       "text": "Jos 19:30",
+       "ref": "JOS.19.30"
+      },
+      {
+       "text": "Jud 1:31",
+       "ref": "JUD.1.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.2",
+   "range": "1SA.4.2",
+   "kind": "passage",
+   "hash": "4e89665f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.2#p1-4e89665f",
+     "text": "Heb. when the battle was spread, i.e. when the two armies had drawn forth themselves into military order, and put themselves into the usual posture for fighting, and began to fight in their several places.",
+     "anchor": "When they joined battle"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.3",
+   "range": "1SA.4.3",
+   "kind": "passage",
+   "hash": "54d85482",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.3#p1-f88a14f2",
+     "text": "seeing our cause is so just, our own just and necessary defence from God’s and our enemies, and we came not forth to battle by our own motion, but by God’s command delivered by Samuel? This was strange blindness, that when there was so great a corruption in their worship and manners, 1Sa 2, and such a defection to idolatry, 1Sa 7:3 Psa 78:58, they could not see sufficient reason why God should suffer them to fall by their enemies.",
+     "anchor": "Wherefore hath the Lord smitten us today before the Philistines",
+     "refs": [
+      {
+       "text": "1Sa 7:3",
+       "ref": "1SA.7.3"
+      },
+      {
+       "text": "Psa 78:58",
+       "ref": "PSA.78.58"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.4.3#p2-26bb8baa",
+     "text": "that great pledge of God’s presence and help, by whose conduct our ancestors obtained success, Num 10:35 14:44 Jos 6:4. Instead of the performance of moral duties, humbling themselves deeply for and purging themselves speedily and thoroughly from all their sins, for which God was displeased with them, and now had chastised them, they take an easier and cheaper course, and put their trust in their ceremonial observances, not doubting but the very presence of the ark would give them the victory; and therefore it is no wonder they meet with so sad a disappointment.",
+     "anchor": "The ark of the covenant of the Lord",
+     "refs": [
+      {
+       "text": "Num 10:35",
+       "ref": "NUM.10.35"
+      },
+      {
+       "text": "Jos 6:4",
+       "ref": "JOS.6.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.4",
+   "range": "1SA.4.4",
+   "kind": "passage",
+   "hash": "3fbe03bc",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.4#p1-dd5e55e3",
+     "text": "which it may seem they should not have done without asking counsel of God, which they might easily have done by Samuel.",
+     "anchor": "That they might bring from thence the ark"
+    },
+    {
+     "id": "poole/1SA.4.4#p2-dcd10d97",
+     "text": "either, first, in the camp; or rather, secondly, in Shiloh.",
+     "anchor": "Hophni and Phinehas were there"
+    },
+    {
+     "id": "poole/1SA.4.4#p3-fb733af6",
+     "text": "attending upon it, instead of their aged father.",
+     "anchor": "With the ark"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.5",
+   "range": "1SA.4.5",
+   "kind": "passage",
+   "hash": "340f146a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.5#p1-340f146a",
+     "text": "Partly from their great joy and confidence of success; and partly in design to encourage themselves, and terrify their enemies."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.6",
+   "range": "1SA.4.6",
+   "kind": "passage",
+   "hash": "c68dbbff",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.6#p1-c68dbbff",
+     "text": "Timely understood, by information from the Israelites, who would readily tell them of it to affright them."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.7",
+   "range": "1SA.4.7",
+   "kind": "passage",
+   "hash": "607197a3",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.7#p1-607197a3",
+     "text": "to wit, in and with his ark; or they give the name of God to the ark, before which he was worshipped, as they used to do to the images of their false gods. There hath not been such a thing heretofore; not to our knowledge, or not in our times; for the forementioned removals of the ark were before it came to Shiloh.",
+     "anchor": "God is come"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.8",
+   "range": "1SA.4.8",
+   "kind": "passage",
+   "hash": "623f3401",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.8#p1-623f3401",
+     "text": "they secretly confess the Lord to be higher and greater than their gods, and yet against their knowledge presume to oppose him. They mention the wilderness, not as if all the plagues of the Egyptians came upon them in the wilderness, but because the last and sorest of all, which is therefore put for all, to wit, the destruction of Pharaoh and all his host, happened in the wilderness, namely, in the Red Sea, which having the wilderness on both sides of it, Exo 13:18,20 15:3,11 15:22, &c., may well be said to be in the wilderness. Although it is not strange if these heathens did mistake and misreport some circumstance in a relation of the Israelitish affairs, especially some hundreds of years after they were done, such mistakes being frequent in divers heathen authors treating of those matters, as Justin, and Tacitus, and others.",
+     "anchor": "These mighty Gods",
+     "refs": [
+      {
+       "text": "Exo 13:18",
+       "ref": "EXO.13.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.9",
+   "range": "1SA.4.9",
+   "kind": "passage",
+   "hash": "042f47f9",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.9#p1-042f47f9",
+     "text": "since you can expect no relief from your gods, who are not able to resist theirs, it concerns you to put forth all your strength and courage, and once for all to act like brave and valiant men.",
+     "anchor": "Quit yourselves like men"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.10",
+   "range": "1SA.4.10",
+   "kind": "passage",
+   "hash": "b6ce9d08",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.10#p1-b6ce9d08",
+     "text": "i.e. to his habitation, called by the ancient name of his tent. Before they lost but four thousand, now in the presence of the ark thirty thousand, to teach them that the ark and ordinances of God were never designed for sanctuaries or refuges to impenitent sinners, but only for the comfort and relief of those that repent. Horsemen are not mentioned; either, first, Because they had few or none, God having forbidden the multiplication of their horses, Deu 17:16, and the Philistines, their lords and oppressors, having taken away what they had. Or, secondly, Because they fled away, as is usual in such cases, whilst the footmen were more easily overtaken.",
+     "anchor": "Into his tent",
+     "refs": [
+      {
+       "text": "Deu 17:16",
+       "ref": "DEU.17.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.11",
+   "range": "1SA.4.11",
+   "kind": "passage",
+   "hash": "5c2562c8",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.11#p1-5c2562c8",
+     "text": "The ark of God was taken; which God justly and wisely permitted; partly, to punish the Israelites for their profanation of it; partly, that by taking away the pretences of their foolish and impious confidence, he might more deeply humble them, and bring them to true repentance; partly, that the Philistines might by this means be more effectually convinced of God’s almighty power, and of their own and their gods’ impotency, and so a stop might be put to their triumphs and insultations, and to their rage against the poor Israelites, whom otherwise in human appearance they might easily have rooted out. Thus as God was no loser by this event, so the Philistines were no gainers by it; and Israel, all things considered, received more good than hurt by it, as we shall see."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.12",
+   "range": "1SA.4.12",
+   "kind": "passage",
+   "hash": "2965297e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.12#p1-2965297e",
+     "text": "The usual rites in great sorrows. See Gen 37:29 Jos 7:6, &c.; 2Sa 1:2,11.",
+     "refs": [
+      {
+       "text": "Gen 37:29",
+       "ref": "GEN.37.29"
+      },
+      {
+       "text": "Jos 7:6",
+       "ref": "JOS.7.6"
+      },
+      {
+       "text": "2Sa 1:2",
+       "ref": "2SA.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.13",
+   "range": "1SA.4.13",
+   "kind": "passage",
+   "hash": "0f33bb30",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.13#p1-6fcfc5bf",
+     "text": "placed there on purpose for him, that he might soon receive the tidings, which he longed for.",
+     "anchor": "Eli sat upon a seat"
+    },
+    {
+     "id": "poole/1SA.4.13#p2-eb21dabe",
+     "text": "whereby he discovered a public and generous spirit, and a fervent zeal for God, and for his honour and service, which he preferred before all his natural affections and worldly interests, not regarding his own children in comparison of the ark, though otherwise he was a most indulgent father, and had reason to believe that they went out like sheep for the slaughter, according to Samuel’s prediction.",
+     "anchor": "His heart trembled for the ark of God"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.16",
+   "range": "1SA.4.16",
+   "kind": "passage",
+   "hash": "90b26807",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.16#p1-90b26807",
+     "text": "I speak not what I have by uncertain rumours, but what mine eyes were witnesses of.",
+     "anchor": "I am he that came out of the army"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.18",
+   "range": "1SA.4.18",
+   "kind": "passage",
+   "hash": "75bba065",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.18#p1-1de132d0",
+     "text": "being so oppressed with grief and astonishment, that he had no strength left to support him.",
+     "anchor": "He fell from off the seat backward"
+    },
+    {
+     "id": "poole/1SA.4.18#p2-0c5c677f",
+     "text": "to wit, the gate of the city, which was most convenient for the speedy understanding of all occurrences.",
+     "anchor": "By the side of the gate"
+    },
+    {
+     "id": "poole/1SA.4.18#p3-ab6e416a",
+     "text": "old, and therefore weak, and apt to fall;",
+     "anchor": "He was an old man, and heavy"
+    },
+    {
+     "id": "poole/1SA.4.18#p4-88619553",
+     "text": "and therefore his fall more dangerous and pernicious.",
+     "anchor": "heavy"
+    },
+    {
+     "id": "poole/1SA.4.18#p5-cfb2afa3",
+     "text": "he was their supreme governor, both in civils and spirituals.",
+     "anchor": "He had judged Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.19",
+   "range": "1SA.4.19",
+   "kind": "passage",
+   "hash": "29c70134",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.19#p1-29c70134",
+     "text": "To wit, before her time, which is oft the effect of great terrors, both in women and in other creatures, Psa 29:9.",
+     "refs": [
+      {
+       "text": "Psa 29:9",
+       "ref": "PSA.29.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.20",
+   "range": "1SA.4.20",
+   "kind": "passage",
+   "hash": "6092fc37",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.20#p1-6092fc37",
+     "text": "Being overwhelmed with sorrow, and so uncapable of comfort."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.21",
+   "range": "1SA.4.21",
+   "kind": "passage",
+   "hash": "a7b640b6",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.21#p1-a7b640b6",
+     "text": "i.e. the glorious type and assurance of God’s presence, the ark, which is oft called God’s glory, as Psa 26:8 78:61 Isa 64:11, and which was the great safeguard and ornament of Israel, which they could glory in above all other nations.",
+     "anchor": "The glory",
+     "refs": [
+      {
+       "text": "Psa 26:8",
+       "ref": "PSA.26.8"
+      },
+      {
+       "text": "Isa 64:11",
+       "ref": "ISA.64.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.4.22",
+   "range": "1SA.4.22",
+   "kind": "passage",
+   "hash": "1af7a9c1",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.4.22#p1-1af7a9c1",
+     "text": "This is repeated to show her piety, and that the public and spiritual loss lay heavier upon her spirit than her personal or domestic calamity."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,877 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "poole/MAT.7",
+   "range": "MAT.7",
+   "kind": "chapter",
+   "hash": "fe0c6a1b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7#p1-04455ce5",
+     "text": "Mat 7:1-5 Christ proceedeth in his sermon to condemn rash judgment,",
+     "refs": [
+      {
+       "text": "Mat 7:1-5",
+       "ref": "MAT.7.1-5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p2-dc867546",
+     "text": "Mat 7:6 forbiddeth the prostitution of holy things,",
+     "refs": [
+      {
+       "text": "Mat 7:6",
+       "ref": "MAT.7.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p3-9dc223f2",
+     "text": "Mat 7:7-12 recommends prayer,",
+     "refs": [
+      {
+       "text": "Mat 7:7-12",
+       "ref": "MAT.7.7-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p4-61379a86",
+     "text": "Mat 7:13-14 exhorteth to enter in at the strait gate,",
+     "refs": [
+      {
+       "text": "Mat 7:13-14",
+       "ref": "MAT.7.13-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p5-ccc632f0",
+     "text": "Mat 7:15-20 to beware of false prophets, who may be known by their fruits,",
+     "refs": [
+      {
+       "text": "Mat 7:15-20",
+       "ref": "MAT.7.15-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p6-6d3b7f09",
+     "text": "Mat 7:21-23 and not to be his disciples in profession only, but in practice.",
+     "refs": [
+      {
+       "text": "Mat 7:21-23",
+       "ref": "MAT.7.21-23"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p7-0fbf8fda",
+     "text": "Mat 7:24-27 He compares doers of the word to houses built on a rock, those that are hearers only to houses built on the sand.",
+     "refs": [
+      {
+       "text": "Mat 7:24-27",
+       "ref": "MAT.7.24-27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7#p8-cd9af3a6",
+     "text": "Mat 7:28-29 Christ endeth his sermon; the people are astonished at his doctrine.",
+     "refs": [
+      {
+       "text": "Mat 7:28-29",
+       "ref": "MAT.7.28-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.1",
+   "range": "MAT.7.1",
+   "kind": "passage",
+   "hash": "1201ecfa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.1#p1-1201ecfa",
+     "text": "Mat 7:2\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:2",
+       "ref": "MAT.7.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.2",
+   "range": "MAT.7.2",
+   "kind": "passage",
+   "hash": "4fb3ef58",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.2#p1-ad17e435",
+     "text": "Ver. 1,2. Our Saviour must not be understood here prohibiting any judgment, which is elsewhere in holy writ allowed, for the Holy Spirit doth not command and prohibit the same thing; whence it if evident, that it is not to be understood of political or ecclesiastical judgments, nor was our Saviour here speaking to any such persons: it is therefore to be understood of private judgments, nor of them absolutely, for it is lawful for us to judge ourselves, yea, it is our duty, 1Co 11:31: Nor is that judgment of our neighbour’s opinions or actions here forbidden which terminates in ourselves, in our satisfaction as to the truth or falsehood of the former, or the goodness or badness of the latter; we ought so to prove all things in order to our holding fast that which is good. Nor is all judgment of our neighbour’s actions with reference to him forbidden: how can we reprove him for his errors, or restore him that is fallen, without a previous judgment of his actions? But that which is here forbidden, is either,",
+     "refs": [
+      {
+       "text": "1Co 11:31",
+       "ref": "1CO.11.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.2#p2-341f2a0f",
+     "text": "1. A rash judgment of his state, or a judging him for doing his duty: such was Simon’s judging the woman, or the disciples’ judgment of that woman, Mat 26:8,9. Or:",
+     "refs": [
+      {
+       "text": "Mat 26:8",
+       "ref": "MAT.26.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.2#p3-2d32d789",
+     "text": "2. A judging of others for things which they judge to be indifferent, forbidden Rom 14:1-3. Or:",
+     "refs": [
+      {
+       "text": "Rom 14:1-3",
+       "ref": "ROM.14.1-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.2#p4-57f317b6",
+     "text": "3. A judging them for secret things, such as inward habits of grace, when no apparent fruits to the contrary are seen. Or,"
+    },
+    {
+     "id": "poole/MAT.7.2#p5-9cf5d602",
+     "text": "4. Condemning others for single acts, of a public censuring and condemning others for private failings. Or:"
+    },
+    {
+     "id": "poole/MAT.7.2#p6-9612532b",
+     "text": "5. Finally, Any open and public censuring the actions of others, when and where it cannot conduce either to God’s glory or our brother’s good."
+    },
+    {
+     "id": "poole/MAT.7.2#p7-a7eee850",
+     "text": "this is expounded in the next verse, telling us either the ordinary temper of men, or the just judgment of God, repaying such uncharitable actions per legem talionis, with suffering others to do the like to us, Luk 6:37.",
+     "anchor": "That ye be not judged",
+     "refs": [
+      {
+       "text": "Luk 6:37",
+       "ref": "LUK.6.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.3",
+   "range": "MAT.7.3",
+   "kind": "passage",
+   "hash": "095825fa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.3#p1-095825fa",
+     "text": "Mat 7:5\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:5",
+       "ref": "MAT.7.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.4",
+   "range": "MAT.7.4",
+   "kind": "passage",
+   "hash": "095825fa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.4#p1-095825fa",
+     "text": "Mat 7:5\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:5",
+       "ref": "MAT.7.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.5",
+   "range": "MAT.7.5",
+   "kind": "passage",
+   "hash": "4fe421b2",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.5#p1-887be162",
+     "text": "Ver. 3-5. Whether the word translated mote signifieth a mote or a splinter, is of no great concern to know. Our Saviour expounded this text, when he said to the Pharisees, bringing him a woman taken in adultery: Let him that is guiltless throw the first stone. So doth the apostle Paul, Rom 2:1. The text teacheth us these lessons:",
+     "refs": [
+      {
+       "text": "Rom 2:1",
+       "ref": "ROM.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.5#p2-cb31ec69",
+     "text": "1. That those who are most censorious of others, are usually more notorious and culpable themselves, if not for the same sins, yet for others of equal if not greater magnitude."
+    },
+    {
+     "id": "poole/MAT.7.5#p3-9a9f6ac4",
+     "text": "2. That it is notorious hypocrisy to spy smaller faults in others, and not to see greater in ourselves."
+    },
+    {
+     "id": "poole/MAT.7.5#p4-06b5ca79",
+     "text": "3. That it is notorious impudence to pretend to censure and judge others for sins in which we live ourselves."
+    },
+    {
+     "id": "poole/MAT.7.5#p5-c637b2c1",
+     "text": "4. That there is no such way to teach us charity in not hastily, rashly, or too severely judging others, as to look first into our own hearts and ways, and seeing if we have not the same or greater failings. Our charity in this kind should begin at home."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.6",
+   "range": "MAT.7.6",
+   "kind": "passage",
+   "hash": "542a2ea4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.6#p1-5432c75d",
+     "text": "By swine and dogs, our Saviour doubtless understandeth wicked men of several sorts, either such as are more tame sinners, trampling upon holy things, and with swine wallowing in the mire of lusts and corruptions, Pro 26:11 2Pe 2:22; or, by dogs, more malicious, revengeful, boisterous sinners may be meant, whose consciences will serve them to bark and grin at the word of God, to mock at holy things, to persecute those that bring them the gospel, and are their open enemies, because they tell them the truth.",
+     "refs": [
+      {
+       "text": "Pro 26:11",
+       "ref": "PRO.26.11"
+      },
+      {
+       "text": "2Pe 2:22",
+       "ref": "2PE.2.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.6#p2-fee997c5",
+     "text": "The gospel is to be preached to every creature, Mar 16:15. But when the Jews were hardened, and spake evil of that way before the multitude, & c., Act 19:9, the apostles left preaching to them. The precept doubtless is general, directing the ministers of Christ to administer the holy things, with which they are intrusted, only to such as have a right to them, and under prudent circumstances, so as the holy name of God may not be profaned, nor they run into needless danger.",
+     "refs": [
+      {
+       "text": "Mar 16:15",
+       "ref": "MRK.16.15"
+      },
+      {
+       "text": "Act 19:9",
+       "ref": "ACT.19.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.7",
+   "range": "MAT.7.7",
+   "kind": "passage",
+   "hash": "ddfb76fa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.7#p1-ddfb76fa",
+     "text": "Mat 7:8\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:8",
+       "ref": "MAT.7.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.8",
+   "range": "MAT.7.8",
+   "kind": "passage",
+   "hash": "11dc3798",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.8#p1-dbed9f96",
+     "text": "Ver. 7,8. Here is a precept expressed by three words, ask, seek, knock; and a promise annexed in three distinct terms,"
+    },
+    {
+     "id": "poole/MAT.7.8#p2-4da1ced9",
+     "text": "The thing commanded is prayer; the thing promised is an audience of prayer, or an answer to prayer. The multiplying of the terms in which the precept is expressed is not idle and superfluous, it lets us know our averseness to the duty, and that God in it requireth of us faith, diligence, constancy, and importunity. Christ had before told us of whom we should ask, our Father; it is not said what we should ask, both in regard we have a liberty to ask any thing we have need of, and he had, Mat 6:8, particularly directed the matter of our prayers. The promise, that we shall have, signifies an answer, either in kind or in value; the promise of giving lets us know that our prayers are not meritorious.",
+     "anchor": "it shall be given you, ye shall find, it shall be opened unto you",
+     "refs": [
+      {
+       "text": "Mat 6:8",
+       "ref": "MAT.6.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.8#p3-3c89604f",
+     "text": "the things he needeth, and in faith, according to the will of God, and for a right end,",
+     "anchor": "For every one that asketh"
+    },
+    {
+     "id": "poole/MAT.7.8#p4-92147dcc",
+     "text": "& c. See Jas 4:3.",
+     "anchor": "receiveth",
+     "refs": [
+      {
+       "text": "Jas 4:3",
+       "ref": "JAS.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.9",
+   "range": "MAT.7.9",
+   "kind": "passage",
+   "hash": "5ee83e39",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.9#p1-5ee83e39",
+     "text": "Mat 7:11\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:11",
+       "ref": "MAT.7.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.10",
+   "range": "MAT.7.10",
+   "kind": "passage",
+   "hash": "5ee83e39",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.10#p1-5ee83e39",
+     "text": "Mat 7:11\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:11",
+       "ref": "MAT.7.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.11",
+   "range": "MAT.7.11",
+   "kind": "passage",
+   "hash": "25fdd7a2",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.11#p1-253d3232",
+     "text": "Ver. 9-11. Asking is but a verbal expression of an inward desire; no man desireth that which is evil, but that which he at least apprehends to be good, that is, suitable unto his wants."
+    },
+    {
+     "id": "poole/MAT.7.11#p2-84e5ad13",
+     "text": "As earthly parents, knowing that their children, though through weakness of understanding they may ask that which is really evil for them, yet will not give them any such things, and gratify their ignorance; so neither will your heavenly Father, knowing what you truly need, and what is truly good for you, give you any thing which he knoweth is not suitable for you, but noxious to you: but if you ask any thing which is either absolutely good for you, and cannot be evil, or which your heavenly Father knoweth to be good for you under your present circumstances, you may be assured, considering he is your Father, and hath as great a kindness for you as an earthly father for his child, and that he is your heavenly Father, and therefore hath a sufficiency to give, will give good things to you asking them of him: and this you may be assured of from that good will and inclination which you, though you come infinitely short of the perfection and good inclinations of your heavenly Father, find in yourselves towards your children; for you derive from him, as his children, all that goodness and benignity which you have. If therefore we in prayer ask any thing of God, which may be good or evil under different circumstances, and receive it not, we may conclude, that though we thought what we asked bread, yet indeed it was a stone; though we thought it a fish, yet God saw it was a scorpion; and account that God answered our general desires, which were for some good, by denying our specific request."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.12",
+   "range": "MAT.7.12",
+   "kind": "passage",
+   "hash": "5a7d9be2",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.12#p1-ac0cc35b",
+     "text": "Most interpreters think the term therefore here redundant, as some such little particles often are in holy writ, for it is hard to make out this to be a proper inference from the premises. This precept containeth in it the substance of all that is to be found in the books of the law and the prophets which concerneth us in reference to others, the sum of the second table, which requireth only justice and charity. Christ doth not say, this is all the law and the prophets, but this is the law and the prophets."
+    },
+    {
+     "id": "poole/MAT.7.12#p2-5bab393a",
+     "text": "There is no man but would have others deal justly with him in giving him what is his own, whether honour, or tribute, or estate, &c., neither taking nor withholding his own from him. Nor is there any but, if he stood in need of it, would desire the charitable help of another, or a charitable remission from him of what he might in exact justice require. Do ye (saith our Saviour) the same unto them. And indeed this is but a confirmation of the light and law of nature, no more than what men would do if they would hearken to the light within them. And without this in vain do men pretend to religion, as our Saviour teacheth, Mar 7:9-13; which makes some think that our Saviour by this reflects upon the Pharisees, who laid all their religion upon ceremonies, and some ritual performances in observance of their traditions, and omitted the weightier things of the law, judgment, mercy, and faith, Mat 23:23.",
+     "refs": [
+      {
+       "text": "Mar 7:9-13",
+       "ref": "MRK.7.9-13"
+      },
+      {
+       "text": "Mat 23:23",
+       "ref": "MAT.23.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.13",
+   "range": "MAT.7.13",
+   "kind": "passage",
+   "hash": "4404a539",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.13#p1-4404a539",
+     "text": "Mat 7:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:14",
+       "ref": "MAT.7.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.14",
+   "range": "MAT.7.14",
+   "kind": "passage",
+   "hash": "ed9805ba",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.14#p1-ced7ff23",
+     "text": "Ver. 13,14. Our Saviour having in this sermon delivered many hard sayings to flesh and blood, here obviates a twofold temptation they might have to the neglect of them:"
+    },
+    {
+     "id": "poole/MAT.7.14#p2-31716678",
+     "text": "1. From their difficulty."
+    },
+    {
+     "id": "poole/MAT.7.14#p3-c030f23c",
+     "text": "2. From the paucity of them who live according to these rules."
+    },
+    {
+     "id": "poole/MAT.7.14#p4-5ffacd01",
+     "text": "He here compares heaven to a house, a stately house, into which a"
+    },
+    {
+     "id": "poole/MAT.7.14#p5-57e4cf67",
+     "text": "leadeth to a city, the way to which is a",
+     "anchor": "strait gate"
+    },
+    {
+     "id": "poole/MAT.7.14#p6-27ed3a27",
+     "text": "There is nothing more ordinary in holy writ, than to call a common course of men’s actions a way. It is also compared to a",
+     "anchor": "narrow way"
+    },
+    {
+     "id": "poole/MAT.7.14#p7-a2f4620b",
+     "text": "The sum of what our Saviour here saith is this: There are but two ultimate ends of all men, eternal destruction and eternal life. The course that leadeth to destruction is like a broad way that is obvious to all, and many walk in that. That course of life and actions which will bring a man to heaven is strait, unpleasing to flesh and blood, not at all gratifying men’s sensitive appetites, and narrow, (the Greek is, afflicted), a way wherein men will meet with many crosses and temptations; and there are but a few will find it. You must not therefore wonder if my precepts be hard to your carnal apprehensions, nor be scandalized though you see but few going in the right road to the kingdom of heaven.",
+     "anchor": "gate"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.15",
+   "range": "MAT.7.15",
+   "kind": "passage",
+   "hash": "a679fa56",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.15#p1-32c61900",
+     "text": "The term"
+    },
+    {
+     "id": "poole/MAT.7.15#p2-22222bbe",
+     "text": "in holy writ is of larger extent than to signify only such as foretold things to come; others also who taught the people, pretending authority from God so to do, were called prophets. Thus Bar-jesus, Act 13:6, is called",
+     "anchor": "prophets",
+     "refs": [
+      {
+       "text": "Act 13:6",
+       "ref": "ACT.13.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.15#p3-282888de",
+     "text": "A false prophet is of the same significance with a false teacher. Against those our Saviour cautions his hearers, as being the most fatal and dangerous enemies to faith and holiness. Some of them indeed come",
+     "anchor": "a false prophet"
+    },
+    {
+     "id": "poole/MAT.7.15#p4-c106e5c7",
+     "text": "under very fair pretences, and a fair show of religion and strictness; but",
+     "anchor": "in sheep’s clothing"
+    },
+    {
+     "id": "poole/MAT.7.15#p5-daeb5534",
+     "text": "as dangerous to your souls as ravenous wolves are to a flock of sheep.",
+     "anchor": "they are ravening wolves"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.16",
+   "range": "MAT.7.16",
+   "kind": "passage",
+   "hash": "9cd10520",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.16#p1-9cd10520",
+     "text": "Mat 7:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:20",
+       "ref": "MAT.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.17",
+   "range": "MAT.7.17",
+   "kind": "passage",
+   "hash": "9cd10520",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.17#p1-9cd10520",
+     "text": "Mat 7:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:20",
+       "ref": "MAT.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.18",
+   "range": "MAT.7.18",
+   "kind": "passage",
+   "hash": "9cd10520",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.18#p1-9cd10520",
+     "text": "Mat 7:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:20",
+       "ref": "MAT.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.19",
+   "range": "MAT.7.19",
+   "kind": "passage",
+   "hash": "9cd10520",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.19#p1-9cd10520",
+     "text": "Mat 7:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:20",
+       "ref": "MAT.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.20",
+   "range": "MAT.7.20",
+   "kind": "passage",
+   "hash": "3589a20b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.20#p1-961584a0",
+     "text": "Ver. 16-20. A proper effect discovereth the cause. Lest his disciples should ask, How shall we distinguish true from false teachers?"
+    },
+    {
+     "id": "poole/MAT.7.20#p2-cca64fa5",
+     "text": "Our Saviour tells them, By their fruits ye shall know them. Our Saviour sends not his disciples to inquire into the truth of their mission, whether that more internal from God, of which they could not judge, or more external from men, who may err, and send out those whom God never sent; but you shall know them (saith our Saviour) by their faithful or unfaithful discharge of their duty: if they be true teachers, by their discharging the ministry in a faithful revelation of the mind and will of God, or by their holy life, living as ensamples to the flock; by their fruits of true doctrine and a holy life, by the discharge of their ministry in good conscience; for it is with men as it is with the trees, good trees bring forth good fruit, corrupt trees bring forth evil fruit."
+    },
+    {
+     "id": "poole/MAT.7.20#p3-6c4146dd",
+     "text": "If men have the root of the matter; the seed of God abiding in them, they will in every relation bring forth the fruits of truth and holiness: if they have not, they will bring forth error and wickedness. From whence we may learn, that our Lord expecteth from his people such a knowledge of the Scriptures, as that they may be able to discern truth from falsehood; and such a diligence, as to search the Scriptures, whether those things which their teachers deliver to them be according to them or not, Act 17:11; not taking divine truths upon trust, nor believing any thing because dictated by teachers, using their teachers not as dictators, but only as helpers of their faith.",
+     "refs": [
+      {
+       "text": "Act 17:11",
+       "ref": "ACT.17.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.21",
+   "range": "MAT.7.21",
+   "kind": "passage",
+   "hash": "cc17d4ac",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.21#p1-cc17d4ac",
+     "text": "Some that say unto Christ, Lord, Lord, shall be saved, being the true disciples of Christ; but every one that owneth Christ by an external profession as his Lord, every one that prayeth, though he doth it often, and with some appearing zeal and importunity, shall not be saved, nor doth by it approve himself a true disciple of Christ; but he alone who doth endeavour to fulfil the whole will of God, both by faith and holiness, Rom 2:13 1Th 4:3 Jas 1:22,23. True religion lies sin obedience to the whole will of God.",
+     "refs": [
+      {
+       "text": "Rom 2:13",
+       "ref": "ROM.2.13"
+      },
+      {
+       "text": "1Th 4:3",
+       "ref": "1TH.4.3"
+      },
+      {
+       "text": "Jas 1:22",
+       "ref": "JAS.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.22",
+   "range": "MAT.7.22",
+   "kind": "passage",
+   "hash": "b5f40220",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.22#p1-b5f40220",
+     "text": "Mat 7:23\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:23",
+       "ref": "MAT.7.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.23",
+   "range": "MAT.7.23",
+   "kind": "passage",
+   "hash": "217685df",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.23#p1-20e5077d",
+     "text": "That by that day is to be understood the day of judgment is generally agreed by interpreters."
+    },
+    {
+     "id": "poole/MAT.7.23#p2-30ec2d29",
+     "text": "that is, revealed thy will unto people;",
+     "anchor": "We have prophesied in thy name"
+    },
+    {
+     "id": "poole/MAT.7.23#p3-35876c25",
+     "text": "that is, by thy authority and power,",
+     "anchor": "and in thy name"
+    },
+    {
+     "id": "poole/MAT.7.23#p4-d5cfb00f",
+     "text": "that is, wrought many miraculous operations. In the Old Testament we find Baalam and Saul prophesying, who were both wicked men. Judas was sent out (under the New Testament) both to preach and to work miracles. So as none from gifts, no, not the most eminent and extraordinary gifts, can conclude the goodness of his state, or any special favour with God.",
+     "anchor": "cast out devils, and done many wonderful works"
+    },
+    {
+     "id": "poole/MAT.7.23#p5-71ba3fcf",
+     "text": "that is, I will openly declare to them,",
+     "anchor": "I will profess"
+    },
+    {
+     "id": "poole/MAT.7.23#p6-81a732b7",
+     "text": "that is, so as to approve you, or take pleasure in you.",
+     "anchor": "I never knew you"
+    },
+    {
+     "id": "poole/MAT.7.23#p7-f3983859",
+     "text": "see Mat 25:41.",
+     "anchor": "Depart from me, ye that work iniquity",
+     "refs": [
+      {
+       "text": "Mat 25:41",
+       "ref": "MAT.25.41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.24",
+   "range": "MAT.7.24",
+   "kind": "passage",
+   "hash": "82c70c20",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.24#p1-82c70c20",
+     "text": "Mat 7:25\".",
+     "verse": 23,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:25",
+       "ref": "MAT.7.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.25",
+   "range": "MAT.7.25",
+   "kind": "passage",
+   "hash": "ef6cee12",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.25#p1-110e0a3f",
+     "text": "Our Saviour maketh frequent use of that ancient way of instructing people by similitudes and parables, which by their easy incurring into the senses give advantage to the memory: he here chooseth a similitude to conclude his excellent sermon upon the mount. The builder intended, who our Saviour dignifies with the name of"
+    },
+    {
+     "id": "poole/MAT.7.25#p2-6970c1f3",
+     "text": "is he that not only heareth Christ’s sayings, but doeth them. Under the notion of hearing is comprehended understanding and believing them; by doing them, he understandeth a sincere desire and endeavour to do them, with a practice so far as human frailty will permit. The",
+     "anchor": "a wise man"
+    },
+    {
+     "id": "poole/MAT.7.25#p3-e9d5cfe0",
+     "text": "intended seems to be a hope for eternal life and salvation: by the",
+     "anchor": "house"
+    },
+    {
+     "id": "poole/MAT.7.25#p4-3a7ebd1b",
+     "text": "is meant Christ, 1Co 10:4 Eph 2:20 1Pe 2:4. Every wise Christian, before he buildeth up to must himself a hope of eternal life and salvation through Christ, must find that he is one who doth not only read and hear the word of God, but so hears as to understand and believe it, that has an operative faith, working upon his soul to the obedience of the will of God, or at least a sincere endeavour to it. And he who doth so, though his hope may be sometimes assaulted with fears, doubts, temptations, (which are like the assaults of a house builded on a rock, by winds; floods, and storms), yet it shall not fail, because it is truly founded on Christ, according to the revelation of his will, Pro 10:28 1Jn 3:3.",
+     "anchor": "rock",
+     "refs": [
+      {
+       "text": "1Co 10:4",
+       "ref": "1CO.10.4"
+      },
+      {
+       "text": "Eph 2:20",
+       "ref": "EPH.2.20"
+      },
+      {
+       "text": "1Pe 2:4",
+       "ref": "1PE.2.4"
+      },
+      {
+       "text": "Pro 10:28",
+       "ref": "PRO.10.28"
+      },
+      {
+       "text": "1Jn 3:3",
+       "ref": "1JN.3.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.26",
+   "range": "MAT.7.26",
+   "kind": "passage",
+   "hash": "934dde20",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.26#p1-934dde20",
+     "text": "Mat 7:27\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:27",
+       "ref": "MAT.7.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.27",
+   "range": "MAT.7.27",
+   "kind": "passage",
+   "hash": "a7aa1224",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.27#p1-9a9b9684",
+     "text": "Ver. 26,27. There are and will be others, that, as foolish builders, run up a house in haste, without looking to the goodness of the foundation, and happen to build it upon loose ground. So they flatter themselves with the hopes of the house in the heavens not made with hands, 2Co 5:1, without looking to the bottom and foundation of these hopes, whether they be such as Christ hath warranted or not; but either build their hopes upon God’s infinite mercy, or the sufficiency of Christ’s merits, or their own works, hearing the word of God, and performing some other duties of religion, never regarding to live to the obedience of the will of God. And the same event will be to these men as to such foolish builders; their building may stand a while, but when a day of visitation, or death, or sharp afflictions or temptation, comes, then their house, their hopes, all fail and perish in a moment, because they had no good foundation, Job 8:13,14 Job 11:20 27:8 Pro 11:7.",
+     "refs": [
+      {
+       "text": "2Co 5:1",
+       "ref": "2CO.5.1"
+      },
+      {
+       "text": "Job 8:13",
+       "ref": "JOB.8.13"
+      },
+      {
+       "text": "Pro 11:7",
+       "ref": "PRO.11.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.27#p2-eea181f1",
+     "text": "their misery and calamity shall be the greater, by how much their hopes have been the stronger, the disappointment of their expectation adding to their misery.",
+     "anchor": "And great was the fall of it"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.28",
+   "range": "MAT.7.28",
+   "kind": "passage",
+   "hash": "e9def820",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.28#p1-e9def820",
+     "text": "Mat 7:29\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 7:29",
+       "ref": "MAT.7.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.7.29",
+   "range": "MAT.7.29",
+   "kind": "passage",
+   "hash": "c67bd6cd",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.7.29#p1-32f1aa0d",
+     "text": "Ver. 28,29. The same words also are repeated, Mar 1:22 Luk 4:32. They declare the effect of this and other of our Saviour’s sermons upon the hearts of those that heard him, and the reason of it. They",
+     "refs": [
+      {
+       "text": "Mar 1:22",
+       "ref": "MRK.1.22"
+      },
+      {
+       "text": "Luk 4:32",
+       "ref": "LUK.4.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.7.29#p2-23893236",
+     "text": "affected with an admiration at what they heard him in this and other sermons deliver: the Divine verities revealed in his discourses, the purity of his doctrine, the convincing power that attended it, his bold and free speech without respect of persons, the simplicity of his phrase, the gravity of his matter, the majesty he showed in his discourses, affected the people, and made him appear to them one sent of God, and clothed with his authority. He did not teach as the scribes, the ordinary teachers amongst the Jews, from whom they had the discourses about traditions, and rites and ceremonies, cold and dull discourses, of little or no tendency to their eternal salvation.",
+     "anchor": "were astonished"
+    }
+   ]
+  }
+ ]
+}

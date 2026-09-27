@@ -1,0 +1,47 @@
+{
+ "source": "poole",
+ "book": "ISA",
+ "chapter": 36,
+ "units": [
+  {
+   "id": "poole/ISA.36",
+   "range": "ISA.36",
+   "kind": "chapter",
+   "hash": "f6fa433f",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.36#p1-f6fa433f",
+     "text": "Sennacherib invadeth Judah, Isa 36:1. He sendeth Rabshakeh, who by his blasphemous persuasions tempteth Hezekiah to despair, and the people to revolt, Isa 36:2-22.",
+     "refs": [
+      {
+       "text": "Isa 36:1",
+       "ref": "ISA.36.1"
+      },
+      {
+       "text": "Isa 36:2-22",
+       "ref": "ISA.36.2-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.36.22",
+   "range": "ISA.36.22",
+   "kind": "passage",
+   "hash": "85b9d42f",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.36.22#p1-85b9d42f",
+     "text": "The history related here, and in the three following chapters, is, for the substance of it, and almost wholly in the same words, contained 2Ki 18:1-20:21. It is fitly inserted here, to explain and confirm some of the foregoing predictions. It may seem to have been first written by this prophet, and from him to have been taken into the Book of Kings, to complete that history.",
+     "refs": [
+      {
+       "text": "2Ki 18:1-20",
+       "ref": "2KI.18.1-20"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

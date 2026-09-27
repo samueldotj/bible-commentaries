@@ -1,0 +1,933 @@
+{
+ "source": "poole",
+ "book": "GEN",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "poole/GEN.9",
+   "range": "GEN.9",
+   "kind": "chapter",
+   "hash": "bd6e1e9b",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9#p1-bd6e1e9b",
+     "text": "God renews his blessing, Gen 9:1, and confirms our dominion over the creatures, Gen 9:2. Grants flesh for food, but with the blood forbids it, Gen 9:3-4. The penalty of murder, Gen 9:5-6. God repeats his blessing, Gen 9:7. His covenant with Noah and all his creatures, Gen 9:8-11. Confirms it by the rainbow as his token, Gen 9:12-17. Noah’s three sons, Gen 9:18-19. His employment, Gen 9:20. He is drunk and uncovered, Gen 9:21. Ham sinfully reveals it, Gen 9:22. His other two sons going backwards, covered him, Gen 9:23. Noah knows it, Gen 9:24. Curses Canaan, Gen 9:25. Blesses Shem first, Gen 9:26, and then Japheth, Gen 9:27. His age and death, Gen 9:28-29.",
+     "refs": [
+      {
+       "text": "Gen 9:1",
+       "ref": "GEN.9.1"
+      },
+      {
+       "text": "Gen 9:2",
+       "ref": "GEN.9.2"
+      },
+      {
+       "text": "Gen 9:3-4",
+       "ref": "GEN.9.3-4"
+      },
+      {
+       "text": "Gen 9:5-6",
+       "ref": "GEN.9.5-6"
+      },
+      {
+       "text": "Gen 9:7",
+       "ref": "GEN.9.7"
+      },
+      {
+       "text": "Gen 9:8-11",
+       "ref": "GEN.9.8-11"
+      },
+      {
+       "text": "Gen 9:12-17",
+       "ref": "GEN.9.12-17"
+      },
+      {
+       "text": "Gen 9:18-19",
+       "ref": "GEN.9.18-19"
+      },
+      {
+       "text": "Gen 9:20",
+       "ref": "GEN.9.20"
+      },
+      {
+       "text": "Gen 9:21",
+       "ref": "GEN.9.21"
+      },
+      {
+       "text": "Gen 9:22",
+       "ref": "GEN.9.22"
+      },
+      {
+       "text": "Gen 9:23",
+       "ref": "GEN.9.23"
+      },
+      {
+       "text": "Gen 9:24",
+       "ref": "GEN.9.24"
+      },
+      {
+       "text": "Gen 9:25",
+       "ref": "GEN.9.25"
+      },
+      {
+       "text": "Gen 9:26",
+       "ref": "GEN.9.26"
+      },
+      {
+       "text": "Gen 9:27",
+       "ref": "GEN.9.27"
+      },
+      {
+       "text": "Gen 9:28-29",
+       "ref": "GEN.9.28-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.1",
+   "range": "GEN.9.1",
+   "kind": "passage",
+   "hash": "f46faeed",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.1#p1-f46faeed",
+     "text": "God renewed the old blessing and grant made Gen 1:28, which might seem to be forfeited and made void by man’s sin, and by God’s judgment consequent upon it.",
+     "refs": [
+      {
+       "text": "Gen 1:28",
+       "ref": "GEN.1.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.2",
+   "range": "GEN.9.2",
+   "kind": "passage",
+   "hash": "3d38151f",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.2#p1-888f89d7",
+     "text": "Before they loved and reverenced you as lords and friends, now they shall dread you as enemies and tyrants."
+    },
+    {
+     "id": "poole/GEN.9.2#p2-490c0132",
+     "text": "for your use and service. I restore you in part to that dominion over them which you for your sins have forfeited.",
+     "anchor": "Into your hand are they delivered"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.3",
+   "range": "GEN.9.3",
+   "kind": "passage",
+   "hash": "dd85541d",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.3#p1-862559c4",
+     "text": "which is wholesome and fit for food, and clean; an exception to be gathered both from the nature of the thing, and from the distinction of clean and unclean beasts, mentioned before and afterwards.",
+     "anchor": "Every moving thing"
+    },
+    {
+     "id": "poole/GEN.9.3#p2-21697a07",
+     "text": "This is added to exclude the use of those creatures which either died of themselves, or were killed by wild beasts, which is here forbidden implicitly, and afterwards expressly. See Exo 22:31 Lev 22:8.",
+     "anchor": "That liveth",
+     "refs": [
+      {
+       "text": "Exo 22:31",
+       "ref": "EXO.22.31"
+      },
+      {
+       "text": "Lev 22:8",
+       "ref": "LEV.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.3#p3-83a56be3",
+     "text": "it is not a command that we must, but a permission that we may eat of them. A grant possibly given before the flood, but now expressed, either because the former allowance might seem to be forfeited, or because as men now grew more infirm and needed better nourishment, so the earth was grown more feeble by the flood, and its fruits yielded less and worse nourishment.",
+     "anchor": "Shall be meat for you"
+    },
+    {
+     "id": "poole/GEN.9.3#p4-81176bc2",
+     "text": "understand this with the limitation above-mentioned. The green herbs were given before, Gen 1:29.",
+     "anchor": "I have given you all things",
+     "refs": [
+      {
+       "text": "Gen 1:29",
+       "ref": "GEN.1.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.4",
+   "range": "GEN.9.4",
+   "kind": "passage",
+   "hash": "e2320395",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.4#p1-72177d2e",
+     "text": "i.e. whilst it lives, or taken from the creature before it be quite dead; which was an ancient practice, and an effect either of luxury or cruelty.",
+     "anchor": "With the life thereof"
+    },
+    {
+     "id": "poole/GEN.9.4#p2-f5e0db6f",
+     "text": "i.e. which life or soul hath its seat in and its support from the blood, and the spirits contained in it. It is certain blood is the thing which is here principally minded and forbidden, and so the words may be thus translated and understood:",
+     "anchor": "Which is the blood thereof"
+    },
+    {
+     "id": "poole/GEN.9.4#p3-8de3960b",
+     "text": "i.e. the flesh of living creatures hereby allowed you,",
+     "anchor": "But flesh"
+    },
+    {
+     "id": "poole/GEN.9.4#p4-7423bf77",
+     "text": "that is to say, with the blood thereof, wherein its life consists; or, flesh whilst it hath in it its life or soul, or, which is all one, its blood, shall you not eat. God thought fit to forbid this, partly that by this respect shown to the blood of beasts it might appear how sacred a thing the blood of man was, and how much God abhorred the sin of murder; and principally because the blood was reserved and consecrated to God, and was the means of atonement for man, (which reason God himself gives, Lev 17:11-12), and did in a special manner represent the blood of Christ, which was to be shed for the redemption of mankind.",
+     "anchor": "with the life thereof",
+     "refs": [
+      {
+       "text": "Lev 17:11-12",
+       "ref": "LEV.17.11-12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.5",
+   "range": "GEN.9.5",
+   "kind": "passage",
+   "hash": "0e632500",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.5#p1-84f49c4f",
+     "text": "or, for, as the particle is oft taken; this being the reason of the foregoing prohibition.",
+     "anchor": "And"
+    },
+    {
+     "id": "poole/GEN.9.5#p2-6be9c33e",
+     "text": "or, of your souls, i.e. of your persons; the word soul being oft put for person. Or, your blood, which is for your lives, i.e. which by the spirits it generates is the great preserver and instrument of your lives, and of all your vital actions, and the great bond which ties your souls and bodies together. The sense of the place is: If I am thus careful for the blood of beasts, be assured I will be much more solicitous for the blood of men, when it shall be shed by unjust and violent hands. I will make inquisition for the author of such bloodshed, as I did after Cain, and consequently punish him; for this phrase of requiring implies punishment. See Gen 42:22 Deu 18:19, compared with Act 3:23 Psa 9:13. If magistrates neglect this duty, I myself will avenge it by my own hand.",
+     "anchor": "Of your lives",
+     "refs": [
+      {
+       "text": "Gen 42:22",
+       "ref": "GEN.42.22"
+      },
+      {
+       "text": "Deu 18:19",
+       "ref": "DEU.18.19"
+      },
+      {
+       "text": "Act 3:23",
+       "ref": "ACT.3.23"
+      },
+      {
+       "text": "Psa 9:13",
+       "ref": "PSA.9.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.5#p3-0b86fc1a",
+     "text": "not for the punishment of the beast, which being under no law is not capable of sin nor punishment; but for caution to men, for whose use seeing they were made, it is no abuse of them if they be destroyed for man’s benefit. Compare Exo 21:28 Lev 20:15.",
+     "anchor": "At the hand of every beast will I require it",
+     "refs": [
+      {
+       "text": "Exo 21:28",
+       "ref": "EXO.21.28"
+      },
+      {
+       "text": "Lev 20:15",
+       "ref": "LEV.20.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.5#p4-9766af63",
+     "text": "This is added, either,",
+     "anchor": "At the hand of every man’s brother"
+    },
+    {
+     "id": "poole/GEN.9.5#p5-ca62ec6f",
+     "text": "1. As an aggravation of the crime, because the man slain was the brother of the murderer; all men being made of one blood, Act 17:26. And having one Father, even God, Mal 2:10, and Adam too. Upon which account all men are frequently called one another’s brethren, as is manifest from Gen 26:31, Gen 29:4, Lev 19:17, Lev 25:14, Lev 26:37, and from many other places of Scripture. Or.",
+     "refs": [
+      {
+       "text": "Act 17:26",
+       "ref": "ACT.17.26"
+      },
+      {
+       "text": "Mal 2:10",
+       "ref": "MAL.2.10"
+      },
+      {
+       "text": "Gen 26:31",
+       "ref": "GEN.26.31"
+      },
+      {
+       "text": "Gen 29:4",
+       "ref": "GEN.29.4"
+      },
+      {
+       "text": "Lev 19:17",
+       "ref": "LEV.19.17"
+      },
+      {
+       "text": "Lev 25:14",
+       "ref": "LEV.25.14"
+      },
+      {
+       "text": "Lev 26:37",
+       "ref": "LEV.26.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.5#p6-23c451d0",
+     "text": "2. As an assurance of the punishment of the murderer, without any exception of the nearest relation; which, though it makes the sin greater, yet many times is a security against punishment, the murderer easily finding favour and pardon from his parents and dear friends. But the former sense seems the better."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.6",
+   "range": "GEN.9.6",
+   "kind": "passage",
+   "hash": "942a54c2",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.6#p1-39c52b3d",
+     "text": "wilfully and unwarrantably. For there is a double exception to this law:",
+     "anchor": "Whoso sheddeth man’s blood"
+    },
+    {
+     "id": "poole/GEN.9.6#p2-7369a0f8",
+     "text": "1. Of casual murder, expressed Num 35:31 Deu 19:4.",
+     "refs": [
+      {
+       "text": "Num 35:31",
+       "ref": "NUM.35.31"
+      },
+      {
+       "text": "Deu 19:4",
+       "ref": "DEU.19.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.6#p3-2977f4f5",
+     "text": "2. Of death inflicted by the hand of the magistrate for crimes deserving it, mentioned in the following words, and elsewhere."
+    },
+    {
+     "id": "poole/GEN.9.6#p4-a04060a7",
+     "text": "i.e. by the hand of man, namely, the magistrate, Rom 13:4; who is hereby empowered and required, upon pain of my highest displeasure, to inflict this punishment. See Exo 21:12 Lev 24:17 Mat 26:57. Or, for that man, i.e. for that man’s sake, whose blood he hath shed, which cries for vengeance.",
+     "anchor": "By man",
+     "refs": [
+      {
+       "text": "Rom 13:4",
+       "ref": "ROM.13.4"
+      },
+      {
+       "text": "Exo 21:12",
+       "ref": "EXO.21.12"
+      },
+      {
+       "text": "Lev 24:17",
+       "ref": "LEV.24.17"
+      },
+      {
+       "text": "Mat 26:57",
+       "ref": "MAT.26.57"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.6#p5-96508162",
+     "text": "so that murder is not only an offence against man, but also an injury to God, and a contempt of that image of God which all men are obliged to reverence and maintain, and especially magistrates, who being my vicegerents and servants, are therefore under a particular obligation to punish those who deface and destroy it.",
+     "anchor": "In the image of God made he man"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.7",
+   "range": "GEN.9.7",
+   "kind": "passage",
+   "hash": "a8a57287",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.7#p1-a8a57287",
+     "text": "i.e. As for you, I do not repent of that former blessing I gave to your parents, Gen 1:28, but do hereby renew it to you, and your seed after you.",
+     "refs": [
+      {
+       "text": "Gen 1:28",
+       "ref": "GEN.1.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.9",
+   "range": "GEN.9.9",
+   "kind": "passage",
+   "hash": "e40191e9",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.9#p1-1248156e",
+     "text": "i.e. My promise, for the beasts included in this covenant, Gen 9:10, are not capable of a covenant properly so called. And the word",
+     "refs": [
+      {
+       "text": "Gen 9:10",
+       "ref": "GEN.9.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.9#p2-695fd854",
+     "text": "is oft used for a simple promise, as we shall see hereafter.",
+     "anchor": "covenant"
+    },
+    {
+     "id": "poole/GEN.9.9#p3-54d3fbb5",
+     "text": "i.e. your posterity, as that word is frequently taken, as Gen 12:7 Exo 28:43, &c.",
+     "anchor": "With your seed",
+     "refs": [
+      {
+       "text": "Gen 12:7",
+       "ref": "GEN.12.7"
+      },
+      {
+       "text": "Exo 28:43",
+       "ref": "EXO.28.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.10",
+   "range": "GEN.9.10",
+   "kind": "passage",
+   "hash": "3656270c",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.10#p1-3656270c",
+     "text": "To wit, which shall hereafter be in the earth. So they are distinguished from those which were now with them."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.11",
+   "range": "GEN.9.11",
+   "kind": "passage",
+   "hash": "e75f760e",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.11#p1-e75f760e",
+     "text": "i.e. A universal deluge; for particular inundations there have been, whereby towns and countries have been overwhelmed with all their inhabitants."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.12",
+   "range": "GEN.9.12",
+   "kind": "passage",
+   "hash": "477d366e",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.12#p1-477d366e",
+     "text": "i.e. the bow mentioned in Gen 9:13, I appoint to you for a sensible sign and evidence, to assure you that I shall perform this covenant or promise.",
+     "anchor": "This is the token",
+     "refs": [
+      {
+       "text": "Gen 9:13",
+       "ref": "GEN.9.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.13",
+   "range": "GEN.9.13",
+   "kind": "passage",
+   "hash": "2f327abf",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.13#p1-86a47a8e",
+     "text": "Heb. I have given, i.e. I will from time to time give and place. God calleth it his bow, partly because it was his workmanship, and chiefly because it was his pledge, and the seal of his promise.",
+     "anchor": "I do set my bow"
+    },
+    {
+     "id": "poole/GEN.9.13#p2-de64c6e1",
+     "text": "a proper seat for it; that they might now fetch an argument of faith from thence, whence before they had matter of just fear; and that which naturally was and is a sign of rain, might by this new appointment of God be turned into an assurance that there should be no such overflowing rain as now had been.",
+     "anchor": "In the cloud"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.14",
+   "range": "GEN.9.14",
+   "kind": "passage",
+   "hash": "1f1730bb",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.14#p1-1f1730bb",
+     "text": "Not always, but very frequently, which is sufficient for this purpose."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.16",
+   "range": "GEN.9.16",
+   "kind": "passage",
+   "hash": "7486b429",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.16#p1-7486b429",
+     "text": "i.e. This covenant made with all succeeding generations of men and beasts. This and the like speeches are oft ascribed to God after the manner of men, who being forgetful, need helps for their memory."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.17",
+   "range": "GEN.9.17",
+   "kind": "passage",
+   "hash": "ee8ca784",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.17#p1-ee8ca784",
+     "text": "The same thing is so oft repeated for the strengthening of the faith of all men, and especially of Noah and his sons, whom the remembrance of that dreadful deluge, which they had experience of, had made exceeding prone to fears of the like for time to come."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.18",
+   "range": "GEN.9.18",
+   "kind": "passage",
+   "hash": "5c6e4e61",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.18#p1-20f5440b",
+     "text": "2347"
+    },
+    {
+     "id": "poole/GEN.9.18#p2-28df7b4a",
+     "text": "Which is here mentioned to make way for the following relation."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.19",
+   "range": "GEN.9.19",
+   "kind": "passage",
+   "hash": "dbfe86c3",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.19#p1-dbfe86c3",
+     "text": "A truth which the old heathens were not ignorant of, though they changed the names, and mixed their fables with it; for they tell us that Saturn and his three sons divided the world among themselves. And it is apparent that their Saturn was no other than our Noah, because they tell us he was the common parent and prince of all mankind, also a husbandman and vinedresser, all which Noah was. They say he was born of the sea, because Noah came out of the waters; that he devoured all his children except three, because Noah condemned and foretold the destruction of all the rest of the world."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.20",
+   "range": "GEN.9.20",
+   "kind": "passage",
+   "hash": "2abe9dfb",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.20#p1-2abe9dfb",
+     "text": "i.e. Was a husbandman, as he had been before. The verb to begin doth oft abound, and is applied to him that continueth or repeateth an action begun before. Thus Christ is said to begin to cast out, Mar 11:15, and to begin to speak, Luk 12:1; for which in the parallel places he is said only to cast out, Mat 21:12, and to speak, Mat 16:6.",
+     "refs": [
+      {
+       "text": "Mar 11:15",
+       "ref": "MRK.11.15"
+      },
+      {
+       "text": "Luk 12:1",
+       "ref": "LUK.12.1"
+      },
+      {
+       "text": "Mat 21:12",
+       "ref": "MAT.21.12"
+      },
+      {
+       "text": "Mat 16:6",
+       "ref": "MAT.16.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.21",
+   "range": "GEN.9.21",
+   "kind": "passage",
+   "hash": "813e2211",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.21#p1-d8a351a4",
+     "text": "Either through ignorance and inexperience of the nature and strength of that liquor, or through the infirmity of the flesh, which was tempted by its great and, to him, new pleasantness, and by the refreshment he found in it under the weary labours of his body, and the sad thoughts of his mind, for the desolate condition of the world."
+    },
+    {
+     "id": "poole/GEN.9.21#p2-1452049e",
+     "text": "either to relieve himself against the heat of the climate and season, or from his negligence and carelessness; which might easily happen, because men’s garments at that time were loose, as they were in the following ages, when breeches were not in common use, and therefore were peculiarly prescribed to the priests, Exo 28:42 Eze 44:18-19.",
+     "anchor": "He was uncovered",
+     "refs": [
+      {
+       "text": "Exo 28:42",
+       "ref": "EXO.28.42"
+      },
+      {
+       "text": "Eze 44:18-19",
+       "ref": "EZK.44.18-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.22",
+   "range": "GEN.9.22",
+   "kind": "passage",
+   "hash": "058c7be0",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.22#p1-69794d8b",
+     "text": "The grown age of Ham was a great aggravation of this sin."
+    },
+    {
+     "id": "poole/GEN.9.22#p2-28572416",
+     "text": "this is here added as a reason of Canaan’s curse, Gen 9:25.",
+     "anchor": "The father of Canaan",
+     "refs": [
+      {
+       "text": "Gen 9:25",
+       "ref": "GEN.9.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.22#p3-0f2003cf",
+     "text": "i.e. the secret parts, oft so called, as Lev 18:1-30, and elsewhere,",
+     "anchor": "The nakedness",
+     "refs": [
+      {
+       "text": "Lev 18:1-30",
+       "ref": "LEV.18.1-30"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.22#p4-a3209e73",
+     "text": "who were then without the house or room where their father lay in that posture, whom he invited to that prospect.",
+     "anchor": "and told his two brethren without"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.24",
+   "range": "GEN.9.24",
+   "kind": "passage",
+   "hash": "6a9e99fe",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.24#p1-f1cf494f",
+     "text": "from his drunkenness, or from his sleep, the effect of it,",
+     "anchor": "Noah awoke from his wine"
+    },
+    {
+     "id": "poole/GEN.9.24#p2-57b966d1",
+     "text": "either by the information of his sons, or by Divine inspiration,",
+     "anchor": "and knew"
+    },
+    {
+     "id": "poole/GEN.9.24#p3-c5233ae4",
+     "text": "or, his little son, either Ham, mentioned Gen 9:22, or Canaan, mentioned in Gen 9:25; by comparing of which places it may be gathered that Canaan first saw it, and told his father Ham of it, and he told it to his brethren. The latter seems here principally intended,",
+     "anchor": "what his younger son had done unto him",
+     "refs": [
+      {
+       "text": "Gen 9:22",
+       "ref": "GEN.9.22"
+      },
+      {
+       "text": "Gen 9:25",
+       "ref": "GEN.9.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.24#p4-b5587057",
+     "text": "1. Because the curse following is appropriated to him."
+    },
+    {
+     "id": "poole/GEN.9.24#p5-0c0aed84",
+     "text": "2. Because of the title of younger or little son, which seems not to be so properly added if Ham was meant; both because it doth not appear that he was the youngest, for wheresoever these three brethren are mentioned he is always put in the middle place, and because that addition seems to be unnecessary and impertinent to the present business, which if Canaan be intended, is proper and pertinent, by way of distinction, to show that he spake of his grandson, or his son’s son."
+    },
+    {
+     "id": "poole/GEN.9.24#p6-18a6512c",
+     "text": "He calleth him his son.",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/GEN.9.24#p7-ecfd79e1",
+     "text": "Grandchildren are frequently called their grandfather’s sons in Scripture, as Gen 29:5 2Sa 19:24 1Ch 1:17.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Gen 29:5",
+       "ref": "GEN.29.5"
+      },
+      {
+       "text": "2Sa 19:24",
+       "ref": "2SA.19.24"
+      },
+      {
+       "text": "1Ch 1:17",
+       "ref": "1CH.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.25",
+   "range": "GEN.9.25",
+   "kind": "passage",
+   "hash": "7b0add61",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.25#p1-17025972",
+     "text": "not from the passion of revenge, but by Divine inspiration, and the Spirit of prophecy,",
+     "anchor": "And he said"
+    },
+    {
+     "id": "poole/GEN.9.25#p2-62e3dae0",
+     "text": "hateful to God, abhorred by men, miserable in his person and posterity.",
+     "anchor": "Cursed be Canaan"
+    },
+    {
+     "id": "poole/GEN.9.25#p3-ccd7740e",
+     "text": "Seeing Ham committed the crime, why is the curse inflicted upon his son Canaan?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/GEN.9.25#p4-08e684d8",
+     "text": "Answ."
+    },
+    {
+     "id": "poole/GEN.9.25#p5-7f75d99e",
+     "text": "1. When Canaan is mentioned, Ham is not exempted from the curse, but rather more deeply plunged into it, whilst he is pronounced accursed, not only in his person, (which is manifestly supposed by his commission of that sin for which the curse was inflicted), but also in his posterity, which doubtless was a great aggravation of his grief; as on the contrary Joseph is said to be blessed when his children are blessed, Gen 48:15-16.",
+     "refs": [
+      {
+       "text": "Gen 48:15-16",
+       "ref": "GEN.48.15-16"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.25#p6-ecfa2011",
+     "text": "2. It seems therefore very probable from these words, and the Hebrew doctors and others affirm it, that Canaan did partake with his father in the sin, yea, that he was the first discoverer of his father’s shame."
+    },
+    {
+     "id": "poole/GEN.9.25#p7-b8c80248",
+     "text": "3. Canaan is particularly mentioned by the Spirit of prophecy, in regard of the future extirpation of that people; and this is here remembered for the encouragement of the Israelites, who were now in their expedition against them."
+    },
+    {
+     "id": "poole/GEN.9.25#p8-10e45a45",
+     "text": "4. This may be an ellipsis, or defect of the word father; for such relative words are ofttimes omitted and understood in Scripture, as Mat 4:21, James of Zebedee, for the son of Zebedee; Joh 19:25, Mary of Cleopas, for the wife of Cleopas; Act 7:16, Emmor of Sychem, for the father of Sychem, as our English translation rightly supplies it from Gen 33:19. Thus Goliath is put for Goliath’s brother, as is evident by comparing 2Sa 21:19, with 1Ch 20:5. So here Canaan may be put for the father of Canaan, as the Arabic translation hath it, that is, Ham, as the Seventy here render it. And though Ham had more sons, yet he may be here described by his relation to Canaan, because in him the curse was more fixed and dreadful, reaching to his utter extirpation, whilst the rest of Ham’s posterity in after-ages were blessed with the saving knowledge of the gospel.",
+     "refs": [
+      {
+       "text": "Mat 4:21",
+       "ref": "MAT.4.21"
+      },
+      {
+       "text": "Joh 19:25",
+       "ref": "JHN.19.25"
+      },
+      {
+       "text": "Act 7:16",
+       "ref": "ACT.7.16"
+      },
+      {
+       "text": "Gen 33:19",
+       "ref": "GEN.33.19"
+      },
+      {
+       "text": "2Sa 21:19",
+       "ref": "2SA.21.19"
+      },
+      {
+       "text": "1Ch 20:5",
+       "ref": "1CH.20.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.25#p9-ffbc3042",
+     "text": "i.e. the vilest and worst of servants; as vanity of vanities is the greatest vanity, Ecc 1:2; and great wickedness, Hos 10:15, is in the Hebrew wickedness of wickedness; and King of kings is put for the chief of kings.",
+     "anchor": "A servant of servants",
+     "refs": [
+      {
+       "text": "Ecc 1:2",
+       "ref": "ECC.1.2"
+      },
+      {
+       "text": "Hos 10:15",
+       "ref": "HOS.10.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.26",
+   "range": "GEN.9.26",
+   "kind": "passage",
+   "hash": "a12c00df",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.26#p1-4fcc2051",
+     "text": "Blessed be the Lord God of Shem."
+    },
+    {
+     "id": "poole/GEN.9.26#p2-60601793",
+     "text": "What is this to Shem? For it is not Shem, but God who is here blessed.",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/GEN.9.26#p3-08e684d8",
+     "text": "Answ."
+    },
+    {
+     "id": "poole/GEN.9.26#p4-0254b648",
+     "text": "1. Shem also is here blessed, and that in the highest degree, because the Lord hath here declared himself to be Shem’s God. Now for God to be said to be any man’s God, is every where mentioned as the height of blessedness: see Gen 17:7 Psa 144:15 Jer 31:33 Mat 22:32. But the phrase is here justly varied. The curse is fixed upon Ham, because man alone is the author of his own sin, and the cause of his ruin; but because God is the author and fountain of all the good that man either doth or receiveth, therefore the blessing is emphatically given to God, who only doth the work, and of right is to receive all the glory, yet so as it redounds to Shem also. And Shem is here peculiarly mentioned, not Japheth, both for the comfort of the Israelites, whose progenitor he was, and because this blessing was first seated and long continued in Shem’s posterity alone, Japheth’s posterity being for a long time excluded from it; and because the Lord Christ, who is often called the Lord and God in Scripture, did take flesh from Shem; and so the incarnation of Christ may be here foretold, and Shem highly honoured and blessed in this, that he should be the father of Christ according to the flesh, Rom 9:5.",
+     "refs": [
+      {
+       "text": "Gen 17:7",
+       "ref": "GEN.17.7"
+      },
+      {
+       "text": "Psa 144:15",
+       "ref": "PSA.144.15"
+      },
+      {
+       "text": "Jer 31:33",
+       "ref": "JER.31.33"
+      },
+      {
+       "text": "Mat 22:32",
+       "ref": "MAT.22.32"
+      },
+      {
+       "text": "Rom 9:5",
+       "ref": "ROM.9.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.26#p5-e0d6f90c",
+     "text": "2. This may be a short and abrupt manner of speech, which is frequent in the Hebrew tongue; and it may signify that Shem should be so eminently blessed, that men beholding it should be rapt up into admiration, and break forth into the praises of that God who gave such gifts unto men, and did so great things for Shem.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/GEN.9.26#p6-72cb86f2",
+     "text": "3. The words may be otherwise rendered, either thus, Blessed, O Lord God, let Shem be, i.e. Do thou bless him. So it is only the construct from Elohe, for the absolute Elohim, which is not unusual in Scripture. Or thus, Blessed of the Lord God be Shem, or shall Shem be. So here is only a defect of the Hebrew particle min, which is oft wanting.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.27",
+   "range": "GEN.9.27",
+   "kind": "passage",
+   "hash": "38d0594f",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.27#p1-d9c71486",
+     "text": "or, enlarge to Japheth. Understand here his place, as Gen 26:22 Psa 4:1, or his border; which was very literally made good to him, because he had a very numerous posterity; and by them he possessed the largest part of the world, even all Europe, a great part of Asia, and it is probable America also. Or, God shall persuade Japheth to do what follows, to dwell in Shem’s tents, where God dwelleth; and so to be reunited to his brother Shem both in affection and in religion, in both which the Gentiles, the greatest part of whom were Japheth’s posterity, were for a long time at an irreconcilable distance from the Jews.",
+     "anchor": "God shall enlarge Japheth",
+     "refs": [
+      {
+       "text": "Gen 26:22",
+       "ref": "GEN.26.22"
+      },
+      {
+       "text": "Psa 4:1",
+       "ref": "PSA.4.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.27#p2-f3502388",
+     "text": "i.e. shall be of the same church with Shem, i.e. of the church, which is called in Scripture the tents or tabernacles of Judah, or of Jacob, or in general of the saints, Zec 12:7 Mal 2:12 Rev 20:9, and here of Shem, in whose posterity the church was first and longest settled. And to dwell with another notes friendly association and communion with him, as when God is said to dwell with men; and when the wolf is said to dwell with the lamb, Isa 11:6. Possibly this may note Japheth’s succession into Shem’s tents, or coming into their place and stead, or the calling of the Gentiles, together with the rejection of the Jews; as the Reubenites are said to dwell in the tabernacles of the Hagarite, whom they subdued and expelled, 1Ch 5:10.",
+     "anchor": "He shall dwell in the tents of Shem",
+     "refs": [
+      {
+       "text": "Zec 12:7",
+       "ref": "ZEC.12.7"
+      },
+      {
+       "text": "Mal 2:12",
+       "ref": "MAL.2.12"
+      },
+      {
+       "text": "Rev 20:9",
+       "ref": "REV.20.9"
+      },
+      {
+       "text": "Isa 11:6",
+       "ref": "ISA.11.6"
+      },
+      {
+       "text": "1Ch 5:10",
+       "ref": "1CH.5.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.9.27#p3-9713512b",
+     "text": "This was eminently accomplished; for though Shem and Japheth, in their posterity, did successively conquer and rule one over the other, yet none of Ham’s posterity did ever bear rule over Japheth; but Ham, though for a time he bore sway in his son Nimrod, yet that dominion soon expired, and the Assyrians, Chaldeans, Grecians, and Romans ruled the world for a succession of many ages, and Ham’s people were constantly their servants and subjects.",
+     "anchor": "Canaan shall be his servant"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.28",
+   "range": "GEN.9.28",
+   "kind": "passage",
+   "hash": "014f4127",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.28#p1-014f4127",
+     "text": "Which reacheth to the fifty-eighth year of Abraham’s age, as the Jews note. And so we have a manifest account of the propagation of religion, from the beginning of the world to this day. Noah received it from his parents, who had the account of it from their first father Adam’s own mouth, and transmitted it to Abraham; and its descent from him to the Jews, and by the Jews to others, is sufficiently known. Within this time also Noah saw the building of Babel’s tower, the horrid wickedness and idolatry of his children, and the bloody wars which even then arose between some of them."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.9.29",
+   "range": "GEN.9.29",
+   "kind": "passage",
+   "hash": "bc4b2fdb",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.9.29#p1-d054bef0",
+     "text": "1998"
+    },
+    {
+     "id": "poole/GEN.9.29#p2-c24b2cbd",
+     "text": "Here is an omission of that solemn clause used in all the preceding generations, and he begat sons and daughters; which implies that Noah had no more than these three sons, which also appears from Gen 9:19.",
+     "refs": [
+      {
+       "text": "Gen 9:19",
+       "ref": "GEN.9.19"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

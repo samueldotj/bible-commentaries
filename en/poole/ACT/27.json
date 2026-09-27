@@ -1,0 +1,1077 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 27,
+ "units": [
+  {
+   "id": "poole/ACT.27",
+   "range": "ACT.27",
+   "kind": "chapter",
+   "hash": "8c4f9d69",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27#p1-94b300e4",
+     "text": "Act 27:1-8 Paul is conducted in a ship toward Rome.",
+     "refs": [
+      {
+       "text": "Act 27:1-8",
+       "ref": "ACT.27.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27#p2-03de50d6",
+     "text": "Act 27:9-11 He foretells the danger of the voyage, but is not credited.",
+     "refs": [
+      {
+       "text": "Act 27:9-11",
+       "ref": "ACT.27.9-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27#p3-f9493072",
+     "text": "Act 27:12-20 The ship setting sail against his advice is tossed with a tempest.",
+     "refs": [
+      {
+       "text": "Act 27:12-20",
+       "ref": "ACT.27.12-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27#p4-d3bfff27",
+     "text": "Act 27:21-44 Paul comforteth his fellow travellers with assurance of having their lives saved, but foretelleth a shipwreck; all which is verified by the event.",
+     "refs": [
+      {
+       "text": "Act 27:21-44",
+       "ref": "ACT.27.21-44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.1",
+   "range": "ACT.27.1",
+   "kind": "passage",
+   "hash": "f12221b4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.1#p1-15e5ba85",
+     "text": "upon the solemn hearing of Paul’s case, it was resolved by Festus and Agrippa, with the rest that were taken by Festus to advise concerning it.",
+     "anchor": "It was determined"
+    },
+    {
+     "id": "poole/ACT.27.1#p2-c6db005f",
+     "text": "thought to have been a freed-man of the family of Julius, who thence took his name.",
+     "anchor": "Julius"
+    },
+    {
+     "id": "poole/ACT.27.1#p3-bfe25581",
+     "text": "as Cornelius was a centurion of the Italian band: see Act 10:1. This band, or regiment, was called Augustus’s (or the emperor’s) because (as some will) it was part of his guard.",
+     "anchor": "A centurion of Augustus’ band",
+     "refs": [
+      {
+       "text": "Act 10:1",
+       "ref": "ACT.10.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.2",
+   "range": "ACT.27.2",
+   "kind": "passage",
+   "hash": "4e0792a6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.2#p1-cf2dd44c",
+     "text": "a city in Mysia, a province in the Lesser Asia, almost over against Mitylene, of a pestilent air.",
+     "anchor": "Adramyttium"
+    },
+    {
+     "id": "poole/ACT.27.2#p2-1d28183b",
+     "text": "the ship did belong to Adramyttium, and designed a trading voyage along the coasts of Asia.",
+     "anchor": "Meaning to sail by the coasts of Asia"
+    },
+    {
+     "id": "poole/ACT.27.2#p3-f640f277",
+     "text": "this Aristarthus seems to have been a man of some note, who accompanied St. Paul (together with Luke, the holy penman of this book, and of the Gospel so called) throughout his journey, and none else that we read of. This Aristarchus was one of them that was laid hold on in the uproar at Ephesus, Act 19:29; and having partook of Paul’s afflictions in all his travels, was at last his fellow prisoner at Rome, Col 4:10.",
+     "anchor": "Aristarchus",
+     "refs": [
+      {
+       "text": "Act 19:29",
+       "ref": "ACT.19.29"
+      },
+      {
+       "text": "Col 4:10",
+       "ref": "COL.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.2#p4-362d1c09",
+     "text": "of this city mention is made, Act 17:1.",
+     "anchor": "Thessalonica",
+     "refs": [
+      {
+       "text": "Act 17:1",
+       "ref": "ACT.17.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.3",
+   "range": "ACT.27.3",
+   "kind": "passage",
+   "hash": "301788d0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.3#p1-9ee309fa",
+     "text": "a city in Phenicia, bordering upon Palestine, mentioned Mat 11:21, and Act 12:20.",
+     "anchor": "Sidon",
+     "refs": [
+      {
+       "text": "Mat 11:21",
+       "ref": "MAT.11.21"
+      },
+      {
+       "text": "Act 12:20",
+       "ref": "ACT.12.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.3#p2-bd614892",
+     "text": "as Felix had commanded that centurion to whom he committed him, Act 24:23.",
+     "anchor": "Julius courteously entreated Paul",
+     "refs": [
+      {
+       "text": "Act 24:23",
+       "ref": "ACT.24.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.3#p3-44efe606",
+     "text": "though Paul went with a soldier to guard him, as their manner was, yet it was a great favour that he might converse with his friends, and receive from them such refreshments towards his journey as he stood in need of. Now Paul indeed experienced the truth of God’s word, Act 18:10, that he was with him: and it is wonderful to consider the presence of God with Paul all along: which things are our examples, that we also may put our trust in God, who hath said he will not leave us nor forsake us, Heb 13:5,6.",
+     "anchor": "And gave him liberty to go unto his friends to refresh himself",
+     "refs": [
+      {
+       "text": "Act 18:10",
+       "ref": "ACT.18.10"
+      },
+      {
+       "text": "Heb 13:5",
+       "ref": "HEB.13.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.4",
+   "range": "ACT.27.4",
+   "kind": "passage",
+   "hash": "5e50d46d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.4#p1-bd109d1c",
+     "text": "or put to sea.",
+     "anchor": "Launched"
+    },
+    {
+     "id": "poole/ACT.27.4#p2-d8a3f8b6",
+     "text": "a noted island in the Mediterranean Sea, of which we read, Act 11:19 13:4. Their nearest way from Sidon to Myra had been to have left Cyprus on the right hand, but by reason of the winds they were forced to go almost round about the island, leaving it on the left hand.",
+     "anchor": "Cyprus",
+     "refs": [
+      {
+       "text": "Act 11:19",
+       "ref": "ACT.11.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.5",
+   "range": "ACT.27.5",
+   "kind": "passage",
+   "hash": "8aac1a8b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.5#p1-9c88a5f5",
+     "text": "that part of the Mediterranean that borders on those provinces.",
+     "anchor": "The sea of Cilicia and Pamphylia"
+    },
+    {
+     "id": "poole/ACT.27.5#p2-2d5c9673",
+     "text": "of which see Act 6:9 15:23,41.",
+     "anchor": "Cilicia",
+     "refs": [
+      {
+       "text": "Act 6:9",
+       "ref": "ACT.6.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.5#p3-9fd0b9bc",
+     "text": "mention is made of this province, Act 2:10 13:13.",
+     "anchor": "Pamphylia",
+     "refs": [
+      {
+       "text": "Act 2:10",
+       "ref": "ACT.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.5#p4-436235d6",
+     "text": "another province in the lesser Asia, bordering on Pamphylia.",
+     "anchor": "Lycia"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.6",
+   "range": "ACT.27.6",
+   "kind": "passage",
+   "hash": "356ba8ea",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.6#p1-356ba8ea",
+     "text": "a famous port town in Egypt, formerly called No, of which we read, Jer 46:25: unto this place the ship did belong, which was now in the road or haven of Myra, intending for Italy, whither they carried corn, and Persian and Indian commodities, from thence.",
+     "anchor": "Alexandria",
+     "refs": [
+      {
+       "text": "Jer 46:25",
+       "ref": "JER.46.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.7",
+   "range": "ACT.27.7",
+   "kind": "passage",
+   "hash": "f224a4f5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.7#p1-7da6fe9d",
+     "text": "the wind being contrary, or at least very bare, and, it may be, their ship much laden.",
+     "anchor": "Had sailed slowly many days"
+    },
+    {
+     "id": "poole/ACT.27.7#p2-606a9bca",
+     "text": "a city or promontory over against Crete, which is now called Candia, a known island in the Mediterranean.",
+     "anchor": "Cnidus"
+    },
+    {
+     "id": "poole/ACT.27.7#p3-fdee443a",
+     "text": "a sea town in Candia, or the easterly promontory there, so called.",
+     "anchor": "Salmone"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.8",
+   "range": "ACT.27.8",
+   "kind": "passage",
+   "hash": "2d641eea",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.8#p1-d5fa3114",
+     "text": "or, the fair or good shore, that being accounted the best which is safest for ships to ride in or enter into. A place of this name remains to this day (as some tell us) in the island of Candia.",
+     "anchor": "The fair havens"
+    },
+    {
+     "id": "poole/ACT.27.8#p2-c2852b9a",
+     "text": "called Lasos, and more inland; yet some think that this town is not certainly known, not having been mentioned by any ancient geographer.",
+     "anchor": "Lasea"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.9",
+   "range": "ACT.27.9",
+   "kind": "passage",
+   "hash": "d585366e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.9#p1-d585366e",
+     "text": "This fast was not any necessitated abstinence, but a religious fast, as the word here used does most commonly signify; and the article being put to it, it may well denote some eminent and known fast. We read, that amongst the Jews several fasts were observed; as the fast of the fourth month, of the fifth month, of the seventh, and of the tenth month, Zec 8:19. But that of the seventh month did far exceed them all, it being the day in which the priest was to make an atonement for the people; and they were strictly commanded to afflict their souls in it, Lev 16:29 23:27. (Thus when we look up to him whom by our sins we have pierced, we must mourn, Zec 12:10) Now this fast was to be observed on the tenth day of Tisri, or their seventh month (which is made up of part of September and part of October); and then this day, which might well be called the fast, fell about the beginning of October; after which time, until March, they did not usually venture on the seas, especially their ships not being so able to bear a storm as ours are, and the art of navigation being not yet in any reasonable degree found out amongst them.",
+     "refs": [
+      {
+       "text": "Zec 8:19",
+       "ref": "ZEC.8.19"
+      },
+      {
+       "text": "Lev 16:29",
+       "ref": "LEV.16.29"
+      },
+      {
+       "text": "Zec 12:10",
+       "ref": "ZEC.12.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.10",
+   "range": "ACT.27.10",
+   "kind": "passage",
+   "hash": "3431df78",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.10#p1-31919421",
+     "text": "Paul did not say this so much by reason of the time of the year, and the tempests which do usually attend it, as by a prophetical spirit: God intending to provide for Paul in this tedious and difficult journey, endues him with the gift of prophecy; which (especially when they saw it verified) could not but beget a great respect toward him, and might be a means of salvation to many that were with him."
+    },
+    {
+     "id": "poole/ACT.27.10#p2-c0c171fa",
+     "text": "so it had been, their lives had been lost as well as the ship and goods, had not God given the lives of all in the ship unto Paul, and saved them for his sake; as Act 27:24.",
+     "anchor": "But also of our lives",
+     "refs": [
+      {
+       "text": "Act 27:24",
+       "ref": "ACT.27.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.11",
+   "range": "ACT.27.11",
+   "kind": "passage",
+   "hash": "24bdb385",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.11#p1-24bdb385",
+     "text": "The centurion believed those whom he thought best skilled in those things (as every one in his own art); and if he had not heard of Paul’s condition and extraordinary qualification, he was doubtless the more to be excused."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.12",
+   "range": "ACT.27.12",
+   "kind": "passage",
+   "hash": "0abe8eb9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.12#p1-5bb1ae75",
+     "text": "This Phenice was a port town in Candia, and not the country in Syria."
+    },
+    {
+     "id": "poole/ACT.27.12#p2-c5662319",
+     "text": "being on the south part of that island, having a bay or road like unto a half-moon or crescent, one horn or part of it (admitting entrance into it) toward the south-west, and the other toward the north-west.",
+     "anchor": "Lieth toward the south-west and northwest"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.13",
+   "range": "ACT.27.13",
+   "kind": "passage",
+   "hash": "2ffd3439",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.13#p1-2ffd3439",
+     "text": "The south wind being ordinarily most mild, and at that time not high, they sailed along the shore of Candia, not being afraid to be driven upon it."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.14",
+   "range": "ACT.27.14",
+   "kind": "passage",
+   "hash": "33936f39",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.14#p1-e5b26965",
+     "text": "Crete or Candia; so that they were in the greater danger, having a sea-shore.",
+     "anchor": "There arose against it"
+    },
+    {
+     "id": "poole/ACT.27.14#p2-dbc323b1",
+     "text": "this some will have to have been a whirlwind; but the word signifies only, the tempestuous east, or the north-east, which is a contrary wind unto any that would go from Crete to Italy.",
+     "anchor": "Called Euroclydon"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.15",
+   "range": "ACT.27.15",
+   "kind": "passage",
+   "hash": "644b76b2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.15#p1-608fab79",
+     "text": "being forced from Crete, and no longer at the command of the mariners, but in the sole power of the winds.",
+     "anchor": "The ship was caught"
+    },
+    {
+     "id": "poole/ACT.27.15#p2-297c5324",
+     "text": "the ship could not keep her course, the winds being contrary, so that her prow or head (part whereof was called the eye of the ship, and on which its name was formerly, as now at the stern, inscribed) could not bear up according as their course did require; whence that expression, αντοφθαλμειν τω ανεμω, which is here used.",
+     "anchor": "And could not bear up into the wind"
+    },
+    {
+     "id": "poole/ACT.27.15#p3-4889687a",
+     "text": "Sic quo non voluit, sed quo rapit impetus undae."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.16",
+   "range": "ACT.27.16",
+   "kind": "passage",
+   "hash": "d74dd8fe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.16#p1-d89a635f",
+     "text": "called also Claudos, and by some Gaudos, and now Gozo, an island near unto Crete.",
+     "anchor": "Clauda"
+    },
+    {
+     "id": "poole/ACT.27.16#p2-03ff878e",
+     "text": "in this stress of weather they would take up the boat, lest it should have been staved or beat in pieces against the ship.",
+     "anchor": "We had much work to come by the boat"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.17",
+   "range": "ACT.27.17",
+   "kind": "passage",
+   "hash": "e40dd26d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.17#p1-1f7086fc",
+     "text": "not only using all instruments fit for their purpose, but all hands were employed too.",
+     "anchor": "They used helps"
+    },
+    {
+     "id": "poole/ACT.27.17#p2-d2ca3577",
+     "text": "with cables, to keep the sides of the ship the closer and faster together.",
+     "anchor": "Undergirding the ship"
+    },
+    {
+     "id": "poole/ACT.27.17#p3-f3ec0522",
+     "text": "there were two quicksands especially famous in Africa, the one the greater, the other the lesser, called Syrtes, because these mountabes of sand under water did seem, as it were, to draw and suck up ships, they were so soon swallowed up by them.",
+     "anchor": "The quicksands"
+    },
+    {
+     "id": "poole/ACT.27.17#p4-cfaf8cd8",
+     "text": "by the word here used, sails and their tackle, or the top-mast, may be understood decks.",
+     "anchor": "Strake sail"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.18",
+   "range": "ACT.27.18",
+   "kind": "passage",
+   "hash": "f9ae8f5c",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.18#p1-f9ae8f5c",
+     "text": "Casting out the merchandise or lading which was in it, that the ship, being so much lighter, might not so readily strike upon a rock, or be swallowed up of the quicksands, it drawing so much the less water."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.19",
+   "range": "ACT.27.19",
+   "kind": "passage",
+   "hash": "0adc9677",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.19#p1-0adc9677",
+     "text": "All the ship’s furniture which it had either for ornament or defence, and not their ballast or lumber only: so willingly do men part with all things for their lives; which yet are but short, and, at best, mixed with care and sorrow, Job 14:1,2.",
+     "refs": [
+      {
+       "text": "Job 14:1",
+       "ref": "JOB.14.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.20",
+   "range": "ACT.27.20",
+   "kind": "passage",
+   "hash": "f3a3b5ca",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.20#p1-f5593f68",
+     "text": "which shows the greatness of their misery, which had not the ordinary refreshments from the sight of the sun to relieve it. For what the sun does cheer, is one reason why our Saviour is called the Sun of righteousness, Mal 4:2.",
+     "anchor": "Neither sun nor stars in many days appeared",
+     "refs": [
+      {
+       "text": "Mal 4:2",
+       "ref": "MAL.4.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.20#p2-78a631fe",
+     "text": "there remained no hope in the eye of reason, or reckoning upon second causes, or natural events.",
+     "anchor": "All hope that we should be saved was then taken away"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.21",
+   "range": "ACT.27.21",
+   "kind": "passage",
+   "hash": "81e02fa7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.21#p1-901225bd",
+     "text": "these did not abstain from their meals for any want; for they had sufficient provision, as appears, Act 27:38; nor because the storm or tempest tossing the ship, and them in it, took away their stomach, for the sea men, at least, were not so long troubled with that sea sickness: but:",
+     "anchor": "After long abstinence",
+     "refs": [
+      {
+       "text": "Act 27:38",
+       "ref": "ACT.27.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.21#p2-1e9e8fa8",
+     "text": "1. Their continually being employed, working for their lives. Or:"
+    },
+    {
+     "id": "poole/ACT.27.21#p3-cda21d9d",
+     "text": "2. Their fear of perisiting, and sense of a future state, might take up their thoughts so effectually, that they minded nothing else."
+    },
+    {
+     "id": "poole/ACT.27.21#p4-2f0b1026",
+     "text": "Hence it hath been said, that whosoever cannot pray should go to sea, and there he would learn it; for in their affliction they will seek me early, saith the Lord, Hos 5:15.",
+     "refs": [
+      {
+       "text": "Hos 5:15",
+       "ref": "HOS.5.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.21#p5-61c1a09a",
+     "text": "being Paul had foretold this that now befell them, as Act 27:10, they were bound to have believed him; which they not doing, are now deservedly punished.",
+     "anchor": "Ye should have hearkened unto me",
+     "refs": [
+      {
+       "text": "Act 27:10",
+       "ref": "ACT.27.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.21#p6-68315997",
+     "text": "harm and loss, misery and calamity, is all that disobedience unto God gets at last, whatsoever it may promise us to tempt us with.",
+     "anchor": "Have gained this harm and loss"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.22",
+   "range": "ACT.27.22",
+   "kind": "passage",
+   "hash": "76e04bc2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.22#p1-76e04bc2",
+     "text": "Provided they would do as he required of them: see Act 27:31. In God’s promises there is a tacit condition, which from the nature of the thing is to be understood; as in that which was made to Eli, mentioned 1Sa 2:30. Paul did foretell this so particularly, that when it was come to pass, he might gain the more reputation to the truth of the gospel which he preached, and more glory to that God whom he worshipped.",
+     "refs": [
+      {
+       "text": "Act 27:31",
+       "ref": "ACT.27.31"
+      },
+      {
+       "text": "1Sa 2:30",
+       "ref": "1SA.2.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.23",
+   "range": "ACT.27.23",
+   "kind": "passage",
+   "hash": "118a7bd3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.23#p1-118a7bd3",
+     "text": "A good introduction to recommend the true God, and the gospel of his Son. Paul, who knew the certainty of what he had predicted, owns himself to be now in the service of God, that not unto him, but unto God, may be given the glory."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.24",
+   "range": "ACT.27.24",
+   "kind": "passage",
+   "hash": "afcd7313",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.24#p1-6a1f483e",
+     "text": "The message which God’s angels bring from God unto his people, is,"
+    },
+    {
+     "id": "poole/ACT.27.24#p2-941cd920",
+     "text": "Thus unto Daniel, Dan 10:12,19; and thus unto the holy women that attended at our Lord’s sepulchre, Mat 28:5. There are all ministering spirits, Heb 1:14.",
+     "anchor": "Fear not",
+     "refs": [
+      {
+       "text": "Dan 10:12",
+       "ref": "DAN.10.12"
+      },
+      {
+       "text": "Mat 28:5",
+       "ref": "MAT.28.5"
+      },
+      {
+       "text": "Heb 1:14",
+       "ref": "HEB.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.24#p3-c9169bef",
+     "text": "it is a forensic word, showing that Paul must be heard and tried by Caesar.",
+     "anchor": "Thou must be brought before"
+    },
+    {
+     "id": "poole/ACT.27.24#p4-afd15d23",
+     "text": "graciously bestowed all thy follow travellers upon thee at thy request: for it is implied, that Paul had prayed for them, and begged their lives of God; as Esther had the lives of her people at the hands of King Ahasuerus, Est 7:3. There is a remarkable difference between Paul and Jonah in a storm, though Jonah professes as much as Paul does in the preceding verse, Jon 1:9; but it was little more than a profession in Jonah, but Paul was actually in the fear and service of God; and doubtless there was as great a difference in their breasts during the storm. The true fear and service of God brings with it great peace and inward satisfaction, which, when any leave, they must, at least so long, be strangers unto, for there is no peace unto the wicked, Isa 48:22.",
+     "anchor": "God hath given thee all them that sail with thee",
+     "refs": [
+      {
+       "text": "Est 7:3",
+       "ref": "EST.7.3"
+      },
+      {
+       "text": "Jon 1:9",
+       "ref": "JON.1.9"
+      },
+      {
+       "text": "Isa 48:22",
+       "ref": "ISA.48.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.25",
+   "range": "ACT.27.25",
+   "kind": "passage",
+   "hash": "5a2455fb",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.25#p1-5a2455fb",
+     "text": "Paul, having had experience of the power and faithfulness of God, and known his name, professeth to trust in him; and recommends God’s veracity unto them, as worthy to be relied upon. What a great deal of good does one holy man do in a place. These hundreds of men fare the better both in soul and body for holy Paul."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.26",
+   "range": "ACT.27.26",
+   "kind": "passage",
+   "hash": "790c1e83",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.26#p1-790c1e83",
+     "text": "This was given by Paul as a sign unto them of the truth of what he had said, which, when it came to pass, might induce them to believe the rest; which probably it did, and saved Paul from being killed by the soldiers, Act 27:42. Thus God preserves his people, and delivers Paul, and brings all his safely off at the last, but it is by tempests and storms. It may be they must suffer shipwreck of all they have in this world first. Augusta per angusta. Through many tribulations we must enter into the kingdom of God, as St. Paul had taught others, Act 14:22, the experienced to be true himself. There was no truth more experimented than this.",
+     "refs": [
+      {
+       "text": "Act 27:42",
+       "ref": "ACT.27.42"
+      },
+      {
+       "text": "Act 14:22",
+       "ref": "ACT.14.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.27",
+   "range": "ACT.27.27",
+   "kind": "passage",
+   "hash": "bac52afe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.27#p1-bac52afe",
+     "text": "not in the Adriatic Bay, or Gulf of Venice, which divides Italy and Dalmatia, though that be also so called; but this name is sometimes extended to those parts of the Mediterranean Sea which border on Sicily, and Ionia in Greece, and must be passed over by such as go from Crete, or Candia, to Melita, or Malta.",
+     "anchor": "In Adria"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.28",
+   "range": "ACT.27.28",
+   "kind": "passage",
+   "hash": "63d7cc22",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.28#p1-2d8f7692",
+     "text": "a fathom is the distance betwixt the end of the middle finger on the one hand, from the end of the middle finger on the other hand, when the arms are stretched out; which is ordinarily accounted about six feet in measure.",
+     "anchor": "Found it twenty fathoms"
+    },
+    {
+     "id": "poole/ACT.27.28#p2-272428bf",
+     "text": "coming into more shallow places they might reasonably conclude that they were near unto the land.",
+     "anchor": "Found it fifteen fathoms"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.29",
+   "range": "ACT.27.29",
+   "kind": "passage",
+   "hash": "6bddff13",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.29#p1-41e7eaed",
+     "text": "of which there are very many in these seas, especially about the islands.",
+     "anchor": "Fallen upon rocks"
+    },
+    {
+     "id": "poole/ACT.27.29#p2-f5a4acb7",
+     "text": "which show how great the tempest was, that they needed so many anchors.",
+     "anchor": "Cast four anchors"
+    },
+    {
+     "id": "poole/ACT.27.29#p3-fb5c1c3a",
+     "text": "that they might the better discover whereabouts they were.",
+     "anchor": "Wished for the day"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.30",
+   "range": "ACT.27.30",
+   "kind": "passage",
+   "hash": "93d927b8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.30#p1-aec14a72",
+     "text": "that they might betake themselves into it, after they had left the ship: for, Act 27:17, they had taken up the boat, and secured that against this or the like occasion.",
+     "anchor": "Had let down the boat",
+     "refs": [
+      {
+       "text": "Act 27:17",
+       "ref": "ACT.27.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.30#p2-484cb6b2",
+     "text": "dissembling the true reason of their going into the boat to make their escape.",
+     "anchor": "As though they would have cast anchors out of the foreship"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.31",
+   "range": "ACT.27.31",
+   "kind": "passage",
+   "hash": "f93b8fb6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.31#p1-fd8bd71b",
+     "text": "Notwithstanding the promise mentioned, Act 27:24, that they should all be saved, they must use means, so far as means can be used, although the efficaciousness and truth of the promise do no ways depend upon the virtue of the means; but the means are made effectual by virtue of the promise. Yet whosoever neglects means upon any pretext of a promise, he does tempt God, but does not rightly believe in him.",
+     "refs": [
+      {
+       "text": "Act 27:24",
+       "ref": "ACT.27.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.27.31#p2-d5eb8b92",
+     "text": "as it were pointing unto the mariners, and such as were useful in such a case.",
+     "anchor": "These"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.32",
+   "range": "ACT.27.32",
+   "kind": "passage",
+   "hash": "add365ce",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.32#p1-add365ce",
+     "text": "The centurion and soldiers, agreeing to what Paul had said, did this to take away all thoughts of escaping from the mariners, and leaving all upon what Paul had promised to them in the name of his God."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.33",
+   "range": "ACT.27.33",
+   "kind": "passage",
+   "hash": "fbf37cba",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.33#p1-a43907f6",
+     "text": "all the night after the mariners were disappointed in their project to escape. So hard a matter it was to abate their fear of being presently destroyed; and so great influence hath the apprehension of present death, and judgment which follows it, upon the minds of men.",
+     "anchor": "While the day was coming on"
+    },
+    {
+     "id": "poole/ACT.27.33#p2-220127e8",
+     "text": "not as if they had wholly eaten nothing all that while, (for it is commonly held, that none can fast above half so long without danger of death), but because in all that space they had held no set meal, as they were wont to do; and what they did eat was very little, and only in extreme necessity, without any desire or taste; so great was their anguish.",
+     "anchor": "The fourteenth day"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.34",
+   "range": "ACT.27.34",
+   "kind": "passage",
+   "hash": "578b915e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.34#p1-08816794",
+     "text": "that they might be stronger to endure that pain and perform that labour which was necessary towards their escape; for God would have them to use all means for their deliverance.",
+     "anchor": "This is for your health"
+    },
+    {
+     "id": "poole/ACT.27.34#p2-56cb403d",
+     "text": "a proverbial speech used by the Jews, as 1Ki 1:52, signifying that they should not suffer the least detriment in their bodies, much less the loss of their lives. Thus God numbereth our hairs, and his providence extendeth over every one of them, as Mat 10:30 Luk 21:18.",
+     "anchor": "For there shall not an hair fall from the head of any of you",
+     "refs": [
+      {
+       "text": "1Ki 1:52",
+       "ref": "1KI.1.52"
+      },
+      {
+       "text": "Mat 10:30",
+       "ref": "MAT.10.30"
+      },
+      {
+       "text": "Luk 21:18",
+       "ref": "LUK.21.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.35",
+   "range": "ACT.27.35",
+   "kind": "passage",
+   "hash": "edc9c36b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.35#p1-edc9c36b",
+     "text": "Paul thanks God for their preservation hitherto: and there is no such encouragement to hope for future deliverances, as when God doth give us hearts to thank him for deliverances already enjoyed. But he thanked God also for giving them in their necessity such food to nourish and strengthen them, Mat 14:19 15:36 Mar 8:6,19, and one season more to enjoy it. The acknowledging of God in all things we enjoy, doth sanctify them to us: otherwise they do defile us; for we usurp them; we holding them by no other tenor but in franc almoine, from God: neither can they be serviceable unto us, if God withholds his blessing. Hence the Jews would not eat until Samuel had thus blessed their food, 1Sa 9:13. And our Saviour himself, to give us an example, gives thanks before he would have the miraculous loaves and fishes distributed, Joh 6:11.",
+     "refs": [
+      {
+       "text": "Mat 14:19",
+       "ref": "MAT.14.19"
+      },
+      {
+       "text": "Mar 8:6",
+       "ref": "MRK.8.6"
+      },
+      {
+       "text": "1Sa 9:13",
+       "ref": "1SA.9.13"
+      },
+      {
+       "text": "Joh 6:11",
+       "ref": "JHN.6.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.36",
+   "range": "ACT.27.36",
+   "kind": "passage",
+   "hash": "65ba9b43",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.36#p1-65ba9b43",
+     "text": "Believing Paul’s words, promising in the name of that God whom he served, that they should all be preserved; believing, they did rejoice. Now Paul, a prisoner, a neglected and contemned person, comes to be valued and credited. Whilst they sailed with a prosperous gale, neither God, nor his poor prisoner and chained apostle, is thought upon; but in a storm or tempest they are glad to believe and follow his direction. God’s stars shine in the night, and are seen in affliction."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.37",
+   "range": "ACT.27.37",
+   "kind": "passage",
+   "hash": "5210c368",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.37#p1-5210c368",
+     "text": "That is, so many persons; as Act 2:41 7:14 Rom 13:1; the soul being the noblest part, and the body following its condition, whatsoever it be: if the soul be holy, the body shall be glorious. But it is not so on the other side: the soul is not hereafter as the body is here; for Dives’s body fared well, was fed and arrayed sumptuously, and yet his soul was miserably tormented, Luk 16:19,24.",
+     "refs": [
+      {
+       "text": "Act 2:41",
+       "ref": "ACT.2.41"
+      },
+      {
+       "text": "Rom 13:1",
+       "ref": "ROM.13.1"
+      },
+      {
+       "text": "Luk 16:19",
+       "ref": "LUK.16.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.38",
+   "range": "ACT.27.38",
+   "kind": "passage",
+   "hash": "7b1d01ce",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.38#p1-7b1d01ce",
+     "text": "the provision they had for their sustenance. This is the third time that they lightened the ship, being willing that all their goods should perish for them, rather than with them. Or these heathens were so far persuaded by St. Paul, that they ventured their lives upon the credit of what he had foretold them; and parted with their food, and all they had to live upon, only upon his word, that they should want them in the ship no more.",
+     "anchor": "Cast out the wheat"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.39",
+   "range": "ACT.27.39",
+   "kind": "passage",
+   "hash": "3cc89ff8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.39#p1-c5fa7cf8",
+     "text": "in so long and violent a tempest, thinking every moment to be swallowed up, they could keep no reckoning of the ship’s running or way; neither were charts or maps so usual (if they had any at all) in those times.",
+     "anchor": "They knew not the land"
+    },
+    {
+     "id": "poole/ACT.27.39#p2-de6a25ee",
+     "text": "a bay, or bosom of the sea, having land on each side, where they judged it most likely for them to get on shore; using still all means for their safety.",
+     "anchor": "A certain creek"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.40",
+   "range": "ACT.27.40",
+   "kind": "passage",
+   "hash": "19147886",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.40#p1-f7a982a9",
+     "text": "rudders is in the plural number put for the singular: or rather, in those times they having two rudders, (as by several passages amongst the ancients do appear), they were both loosed, that now they might use them to direct the ship to the best advantage in making the shore, they having been tied whilst they were adrift, or at anchor.",
+     "anchor": "Loosed the rudder bands"
+    },
+    {
+     "id": "poole/ACT.27.40#p2-bc9ab0d2",
+     "text": "which they had let down, or struck, Act 27:17, and now, that they might make some use of the winds, to get nigher to the shore, they hoisted up. As God doth instruct the ploughman, Isa 28:26, so he teacheth the mariner, and every one in their calling.",
+     "anchor": "Hoised up the mainsail",
+     "refs": [
+      {
+       "text": "Act 27:17",
+       "ref": "ACT.27.17"
+      },
+      {
+       "text": "Isa 28:26",
+       "ref": "ISA.28.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.41",
+   "range": "ACT.27.41",
+   "kind": "passage",
+   "hash": "68729cab",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.41#p1-68729cab",
+     "text": "a shoal, sand or isthmus, where the sea was on both sides of it. They were now in the greatest extremity; and God suffers them to fall into it before he sends them deliverance, that he might have the more glory by it.",
+     "anchor": "A place where two seas met"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.42",
+   "range": "ACT.27.42",
+   "kind": "passage",
+   "hash": "975d7ee9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.42#p1-975d7ee9",
+     "text": "This speaks their great ingratitude, that they would take away Paul’s life, who had preserved theirs. But Christ’s apostles and ministers must not look for their reward in this life; though men cannot, or do not, recompense them, they shall be recompensed at the resurrection of the just, Luk 14:14.",
+     "refs": [
+      {
+       "text": "Luk 14:14",
+       "ref": "LUK.14.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.43",
+   "range": "ACT.27.43",
+   "kind": "passage",
+   "hash": "cc1d43d4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.43#p1-68c487f9",
+     "text": "because Paul was a Roman citizen, whose death he durst not be accessory unto. It may be also, that this centurion, (if there were no more), as the Samaritan that was cleansed, did this in thankfulness unto Paul.",
+     "anchor": "The centurion, willing to save Paul"
+    },
+    {
+     "id": "poole/ACT.27.43#p2-5f1fedaa",
+     "text": "that they might be helpful to others in getting on shore.",
+     "anchor": "Should cast themselves first into the sea, and get to land"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.27.44",
+   "range": "ACT.27.44",
+   "kind": "passage",
+   "hash": "ba66a30f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.27.44#p1-ba66a30f",
+     "text": "still using means, though it was of God only that they had them, and that they were effectual to them. In this history is lively verified that of the psalmist, Psa 107:18-20, Their soul abhorreth all manner of meat; and they draw near unto the gates of death. Then they cry unto the Lord in their trouble, and he saveth them out of their distresses. He sent his word, and healed them, and delivered them from their destructions. And what follows but, Act 27:21, Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men! God hath a tribute of praise which is due unto him from the readers of this story, that they would acknowledge that there is none else who can deliver after this manner, Dan 3:29; and then to be sure they will desire that this God might be their God for ever and ever, Psa 48:14.",
+     "anchor": "Some on boards, and some on broken pieces of the ship",
+     "refs": [
+      {
+       "text": "Psa 107:18-20",
+       "ref": "PSA.107.18-20"
+      },
+      {
+       "text": "Act 27:21",
+       "ref": "ACT.27.21"
+      },
+      {
+       "text": "Dan 3:29",
+       "ref": "DAN.3.29"
+      },
+      {
+       "text": "Psa 48:14",
+       "ref": "PSA.48.14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

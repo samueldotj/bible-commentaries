@@ -1,0 +1,189 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 113,
+ "units": [
+  {
+   "id": "poole/PSA.113",
+   "range": "PSA.113",
+   "kind": "chapter",
+   "hash": "c5d6d228",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.113#p2-6433e388",
+     "text": "This Psalm is a declaration of God’s powerful and universal providence towards all men, and especially towards his afflicted people."
+    },
+    {
+     "id": "poole/PSA.113#p3-aac2dffe",
+     "text": "An exhortation for all men to praise the Lord, for his excellency and greatness, Psa 113:1-5; for his condescension to the poor and humble-minded, Psa 113:6-9.",
+     "refs": [
+      {
+       "text": "Psa 113:1-5",
+       "ref": "PSA.113.1-5"
+      },
+      {
+       "text": "Psa 113:6-9",
+       "ref": "PSA.113.6-9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.1",
+   "range": "PSA.113.1",
+   "kind": "passage",
+   "hash": "d4325b99",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.1#p1-d4325b99",
+     "text": "ye Levites, who are peculiarly devoted to this solemn work, who sometimes are called God’s servants in a special sense, and all you faithful souls.",
+     "anchor": "Ye servants of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.3",
+   "range": "PSA.113.3",
+   "kind": "passage",
+   "hash": "aa5809c0",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.3#p1-62a3d25d",
+     "text": "from one end of the world to the other; from east to west, which he mentions rather than from north to south, because those parts of the world were at this time much uninhabited and unknown.",
+     "anchor": "From the rising of the sun unto the going down of the same"
+    },
+    {
+     "id": "poole/PSA.113.3#p2-adee54d9",
+     "text": "for his glorious works of creation and providence, the benefit of which all nations enjoy; and for his gracious purpose and promise of bringing in all nations to the knowledge of his truth by the Messias.",
+     "anchor": "The Lord’s name is to be praised"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.4",
+   "range": "PSA.113.4",
+   "kind": "passage",
+   "hash": "11e428b5",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.4#p1-77bfcfb7",
+     "text": "superior to all princes and bodies of people in the world.",
+     "anchor": "High above all nations"
+    },
+    {
+     "id": "poole/PSA.113.4#p2-449fe539",
+     "text": "whereas the glory of earthly monarchs is confined to this lower world, and to small pittances of it, the glory of God doth not only fill the earth, but heaven too, where it is celebrated by thousands and myriads of blessed angels, yea, it is far higher than heaven, being infinite and incomprehensible.",
+     "anchor": "His glory above the heavens"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.5",
+   "range": "PSA.113.5",
+   "kind": "passage",
+   "hash": "40753187",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.5#p1-40753187",
+     "text": "To wit, far above all heavens, as was now said, being exalted as in place, so in power and dignity, above all persons and things, visible and invisible."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.6",
+   "range": "PSA.113.6",
+   "kind": "passage",
+   "hash": "7bfe24fc",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.6#p1-7bfe24fc",
+     "text": "Who is so high, that it is a wonderful vouchsafement and condescension in him to take any notice or care of his holy and heavenly host, and much more of sinful and miserable men upon earth, which yet he is pleased to do."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.7",
+   "range": "PSA.113.7",
+   "kind": "passage",
+   "hash": "8b3a917b",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.7#p1-63f89a1f",
+     "text": "yea, he stoops so low as to regard and advance those whom all men, and even their own brethren, slight and despise.",
+     "anchor": "He raiseth up the poor"
+    },
+    {
+     "id": "poole/PSA.113.7#p2-753e7c50",
+     "text": "from a most contemptible and miserable condition. Beggars and mourners used to lie in the dust, or, as it follows, upon the dunghill, 1Sa 2:8 Lam 4:5.",
+     "anchor": "Out of the dust",
+     "refs": [
+      {
+       "text": "1Sa 2:8",
+       "ref": "1SA.2.8"
+      },
+      {
+       "text": "Lam 4:5",
+       "ref": "LAM.4.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.8",
+   "range": "PSA.113.8",
+   "kind": "passage",
+   "hash": "4947c6b9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.8#p1-090ef074",
+     "text": "in equal honour and power with them, as he did Joseph, David, and others.",
+     "anchor": "Set him with princes"
+    },
+    {
+     "id": "poole/PSA.113.8#p2-f391edbb",
+     "text": "which in God’s account and in truth are far more honourable and happy that, the princes of heathen and barbarous nations, because their subjects are more noble, and they have God’s special presence and providence among them.",
+     "anchor": "The princes of his people"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.113.9",
+   "range": "PSA.113.9",
+   "kind": "passage",
+   "hash": "781d0a4c",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.113.9#p1-97f6bead",
+     "text": "Heb. to dwell in a house or family, or amongst children, to wit, coming out of her own womb, as is clearly implied by the opposition of this to her barrenness. And the word",
+     "anchor": "To keep house"
+    },
+    {
+     "id": "poole/PSA.113.9#p2-b7e7c082",
+     "text": "is oft put for children, as Exo 1:21 Rth 4:11 Psa 115:10,12. And so it is explained in the next clause.",
+     "anchor": "house",
+     "refs": [
+      {
+       "text": "Exo 1:21",
+       "ref": "EXO.1.21"
+      },
+      {
+       "text": "Rth 4:11",
+       "ref": "RUT.4.11"
+      },
+      {
+       "text": "Psa 115:10",
+       "ref": "PSA.115.10"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

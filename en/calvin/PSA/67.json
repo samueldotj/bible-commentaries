@@ -1,0 +1,172 @@
+{
+ "source": "calvin",
+ "book": "PSA",
+ "chapter": 67,
+ "units": [
+  {
+   "id": "calvin/PSA.67",
+   "range": "PSA.67",
+   "kind": "chapter",
+   "hash": "af886aca",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.67#p1-a1cb3b5f",
+     "text": "The following psalm contains a prayer for a blessing upon the Church, that besides being preserved in a state of safety in Judea, it might be enlarged to a new and unprecedented extent. It touches shortly upon the kingdom of God, which was to be erected in the world upon the coming of Christ. {1}"
+    },
+    {
+     "id": "calvin/PSA.67#p2-d1547432",
+     "text": "With this agrees the opinion of the ancient Jews, who apply this psalm to future times, to the world to come, the times of the Messiah. The particular time and occasion of its composition can only be conjectured.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PSA.67#p3-1e1edf7f",
+     "text": "Bishop Patrick thinks that it was probably composed by David, when, having brought the ark to Jerusalem and offered sacrifices, as promised in the psalm foregoing, verse 15, he blessed the people in the name of the Lord of Hosts, (2 Samuel 6:17, 18.) Horsley views it as “a hymn for the feast of tabernacles, prophetic of a general conversion of the world to the worship of God.” Calmet is of opinion that the composition of this, as well as of the two preceding psalms, was posterior to the return of the Jews from Babylon; and that the particular occasion was the restoration of fertility to the soil after the protracted drought and scarcity recorded by the prophet Haggai, (Haggai 1:10,11; 2:17-19.) But though the particular time and occasion on which it was written cannot with certainty be determined, it is evidently a prayer of the ancient Church for the appearance of the Messiah, and the universal diffusion of his gospel.",
+     "footnote": true,
+     "refs": [
+      {
+       "text": "2 Samuel 6:17, 18",
+       "ref": "2SA.6.17"
+      },
+      {
+       "text": "2 Samuel 6:17, 18",
+       "ref": "2SA.6.18"
+      },
+      {
+       "text": "Haggai 1:10,11; 2:17-19",
+       "ref": "HAG.1.10"
+      },
+      {
+       "text": "Haggai 1:10,11; 2:17-19",
+       "ref": "HAG.1.11"
+      },
+      {
+       "text": "Haggai 1:10,11; 2:17-19",
+       "ref": "HAG.2.17-19"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PSA.67#p4-8b74d1a3",
+     "text": "To the chief musician on Neginoth. A psalm or song."
+    }
+   ]
+  },
+  {
+   "id": "calvin/PSA.67.1",
+   "range": "PSA.67.1",
+   "kind": "passage",
+   "hash": "9f069aa9",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.67.1#p1-ff11df17",
+     "text": "The psalm contains a prediction of Christ’s kingdom, under which the whole world was to be adopted into a privileged relationship with God; but the Psalmist begins by praying for the Divine blessing, particularly upon the Jews. They were the first-born, (Exodus 4:22,) and the blessing was to terminate upon them first, and then go out to all the surrounding nations. I have used the imperative mood throughout the psalm, as other translators have done, although the future tense, which is that employed in the Hebrew, would suit sufficiently well, and the passage might be understood as encouraging the minds of the Lord’s people to trust in the continuance and increase of the Divine favor.",
+     "verse": 1,
+     "anchor": "God be merciful unto us, and bless us",
+     "refs": [
+      {
+       "text": "Exodus 4:22",
+       "ref": "EXO.4.22"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PSA.67.1#p2-7750521b",
+     "text": "The words, however, are generally construed in the form of a prayer, and I merely threw out this as a suggestion. Speaking, as the Psalmist does, of those who belonged to the Church of God, and not of those who were without, it is noticeable that yet he traces all the blessings they received to God’s free favor; and from this we may learn, that so long as we are here, we owe our happiness, our success, and prosperity, entirely to the same cause."
+    },
+    {
+     "id": "calvin/PSA.67.1#p3-4604efc5",
+     "text": "This being the case, how shall any think to anticipate his goodness by merits of their own? The light of God’s countenance may refer either to the sense of his love shed abroad in our hearts, or to the actual manifestation of it without, as, on the other hand, his face may be said to be clouded, when he strikes terrors into our conscience on account of our sins, or withdraws the outward marks of his favor."
+    }
+   ]
+  },
+  {
+   "id": "calvin/PSA.67.2",
+   "range": "PSA.67.2",
+   "kind": "passage",
+   "hash": "21379095",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.67.2#p1-62e09134",
+     "text": "Here we have a clear prophecy of that extension of the grace of God by which the Gentiles were united into one body with the posterity of Abraham. The Psalmist prays for some conspicuous proof of favor to be shown his chosen people, which might attract the Gentiles to seek participation in the same blessed hope. {1} By the way of God is meant his covenant, which is the source or spring of salvation, and by which he discovered himself in the character of a Father to his ancient people, and afterwards more clearly under the Gospel, when the Spirit of adoption was shed abroad in greater abundance. {2} Accordingly, we find Christ himself saying,",
+     "verse": 2,
+     "anchor": "That they may know thy way upon the earth"
+    },
+    {
+     "id": "calvin/PSA.67.2#p2-1f9463ec",
+     "text": "“A fin que par la clarte d’icelle les Gentils soyent amenez a la participation de la mesme esperance.” — Fr.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PSA.67.2#p3-ec47819c",
+     "text": "“The petition here offered is, that the Gospel, God’s ‘way,’ might be universally spread; — a prayer that is not yet accomplished, but is in progress towards completion. The mention of nations and peoples, all of them, intimates, that the time which is the object of supplication is the time when God will no longer be the God of the Jews, but of the Gentiles also.” — Walford.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PSA.67.2#p4-d5f4d90a",
+     "text": "“This is life eternal, that they might know thee the only true God,”\n(John 17:3)",
+     "refs": [
+      {
+       "text": "John 17:3",
+       "ref": "JHN.17.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/PSA.67.3-5",
+   "range": "PSA.67.3-5",
+   "kind": "passage",
+   "hash": "f47a9bcb",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.67.3-5#p1-08541e97",
+     "text": "Having spoken of all nations participating in the saving knowledge of God, he next tells us that they would proclaim his goodness, and exhorts them to the exercise of gratitude. The repetition used clearly shows of itself that he alludes to an event of a new and unprecedented kind. Had the allusion been to some such manifestation of his favor as he ordinarily made to the Jews, we would not have looked for the same vehemency of expression.",
+     "verse": 3,
+     "anchor": "Let the people praise thee, O God!"
+    },
+    {
+     "id": "calvin/PSA.67.3-5#p2-2cefab44",
+     "text": "First he says, Let the people praise thee; then he adds, Let all the people praise thee Afterwards he repeats the exclamation once more. But he appropriately makes mention, between, of rejoicing, and the occasion there was for it, since it is impossible that we can praise God aright, unless our minds be tranquil and cheerful — unless, as persons reconciled to God, we are animated with the hope of salvation, and “the peace of God, which passeth all understanding,” reign in our hearts, (Philippians 4:7.) The cause assigned for joy plainly in itself points to the event of the calling of the Gentiles.",
+     "refs": [
+      {
+       "text": "Philippians 4:7",
+       "ref": "PHP.4.7"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PSA.67.3-5#p3-8eb8fecc",
+     "text": "The reference is not to that government of God which is general in its nature, but to that special and spiritual jurisdiction which he exercises over the Church, in which he cannot properly be said to govern any but such as he has gathered under his sway by the doctrine of his law. The word righteousness is inserted in commendation of his government. Language almost identical is used by Isaiah and Micah when they speak of the times in which the word of salvation would be diffused throughout all the earth, (Isaiah 11:4; Micah 4:3.)",
+     "refs": [
+      {
+       "text": "Isaiah 11:4",
+       "ref": "ISA.11.4"
+      },
+      {
+       "text": "Micah 4:3",
+       "ref": "MIC.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/PSA.67.6",
+   "range": "PSA.67.6",
+   "kind": "passage",
+   "hash": "72c4c64e",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.67.6#p1-72c4c64e",
+     "text": "Mention having been made of the principal act of the Divine favor, notice is next taken of the temporal blessings which he confers upon his children, that they may have everything necessary to complete their happiness. And here it is to be remembered, that every benefit which God bestowed upon his ancient people was, as it were, a light held out before the eyes of the world, to attract the attention of the nations to him. From this the Psalmist argues, that should God liberally supply the wants of his people, the consequence would be, to increase the fear of his name, since all ends of the earth would, by what they saw of his fatherly regard to his own, submit themselves with greater cheerfulness to his government.",
+     "verse": 6,
+     "anchor": "The earth has given its increase"
+    }
+   ]
+  }
+ ]
+}

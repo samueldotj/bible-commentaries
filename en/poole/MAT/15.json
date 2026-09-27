@@ -1,0 +1,1133 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "poole/MAT.15",
+   "range": "MAT.15",
+   "kind": "chapter",
+   "hash": "06449a74",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15#p1-c5e6b6f5",
+     "text": "Mat 15:1-9 Christ reproveth the scribes and Pharisees for setting their own traditions above the commandments of God.",
+     "refs": [
+      {
+       "text": "Mat 15:1-9",
+       "ref": "MAT.15.1-9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15#p2-00539540",
+     "text": "Mat 15:10-20 He teacheth that not that which goeth into the mouth, but that which cometh out of it, defileth a man.",
+     "refs": [
+      {
+       "text": "Mat 15:10-20",
+       "ref": "MAT.15.10-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15#p3-b9ac2244",
+     "text": "Mat 15:21-28 He healeth the daughter of a woman of Canaan,",
+     "refs": [
+      {
+       "text": "Mat 15:21-28",
+       "ref": "MAT.15.21-28"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15#p4-6edb6bf6",
+     "text": "Mat 15:29-31 and great multitudes near the sea of Galilee.",
+     "refs": [
+      {
+       "text": "Mat 15:29-31",
+       "ref": "MAT.15.29-31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15#p5-edf54550",
+     "text": "Mat 15:32-39 He feedeth four thousand and upwards with seven loaves and a few small fishes.",
+     "refs": [
+      {
+       "text": "Mat 15:32-39",
+       "ref": "MAT.15.32-39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.1",
+   "range": "MAT.15.1",
+   "kind": "passage",
+   "hash": "70c9741a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.1#p1-70c9741a",
+     "text": "Mat 15:2\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:2",
+       "ref": "MAT.15.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.2",
+   "range": "MAT.15.2",
+   "kind": "passage",
+   "hash": "24a1a28e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.2#p1-91882e07",
+     "text": "Ver. 1,2. Mark relates this piece of history more largely, Mar 7:1-5, Then came together unto him the Pharisees, and certain, of the scribes, which came from Jerusalem. And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault. For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders. And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brasen vessels, and of tables.",
+     "refs": [
+      {
+       "text": "Mar 7:1-5",
+       "ref": "MRK.7.1-5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p2-605328df",
+     "text": "Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands? This portion of Scripture cannot be well understood without understanding something of the Jewish government as to matters ecclesiastical; in which the high priest was the chief. God addeth seventy men more to Moses and Aaron, Num 11:25, to bear a share in the government; these were called the sanhedrim; and this was the supreme court of judicature amongst the Jews, as to all things which respected the laws of God, whether moral, judicial, or ceremonial, and every one was bound to abide by their determination.",
+     "refs": [
+      {
+       "text": "Num 11:25",
+       "ref": "NUM.11.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p3-54eae8a8",
+     "text": "These sat in Jerusalem, but had their inferior courts in other places, from which they appealed to the sanhedrim, who finally determined, Deu 17:8-13. It was the great business of this court to take care that there should be no corruption in religion.",
+     "refs": [
+      {
+       "text": "Deu 17:8-13",
+       "ref": "DEU.17.8-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p4-bb0befad",
+     "text": "These were they therefore that sent messengers to John, when he began to preach, to inquire what he was, and by what authority he baptized, Joh 1:19. The Pharisees (as we before heard) had charged our Saviour’s disciples with violation of the sabbath by plucking and rubbing ears of corn, and himself also with the same crime for healing the sick. It is very like these accusations were got to Jerusalem, and that these were emissaries sent from the sanhedrim to watch our Saviour, or possibly they came out of their own curiosity.",
+     "refs": [
+      {
+       "text": "Joh 1:19",
+       "ref": "JHN.1.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p5-bfeaa588",
+     "text": "They could find in our Saviour no guilt as to any violation of the law of God, but they pick a quarrel with him for some rites and ceremonies of their church, which he and his disciples were not so strict in the observation of. They say, Why do thy disciples transgress the traditions of the elders?"
+    },
+    {
+     "id": "poole/MAT.15.2#p6-e7129e10",
+     "text": "The word traditions signifies only things delivered, and is as well applicable to the law of God as any thing else. Thus the whole law of God was but a tradition, a doctrine of life, delivered to the Jews by Moses from God: thus the apostle bids the Thessalonians, Hold the traditions which ye have been taught, whether by word, or our epistle, 2Th 2:15. But the term of the elders is that which restraineth it, for as the papists in our time hold that, besides what we have in the New Testament, the apostle delivered many things to the primitive church only by word of mouth, which have since that time been imparted to succeeding churches, to the observation of which Christians are as much obliged as to the written word, so the Jews did formerly.",
+     "refs": [
+      {
+       "text": "2Th 2:15",
+       "ref": "2TH.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p7-8ba292cc",
+     "text": "For though, for some tract of time, they kept to the Divine law, yet in process of time they abused that text, Deu 4:14, to found a new invention upon it: That while Moses was in the mount of God forty days and forty nights, God in the day time revealed to him the law written in the five books of Moses, and in the night he revealed to him several other things, as to which his will was they should not be written, for fear the heathens should transcribe them, but be delivered only by word of mouth to the sanhedrim, and be to them as much a rule of judgment as any part of the law which was written.",
+     "refs": [
+      {
+       "text": "Deu 4:14",
+       "ref": "DEU.4.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p8-9f423b54",
+     "text": "By which means they gained themselves a liberty of making the law of God what they pleased, for their traditions were of several sorts. Some were determinations of what in the law seemed doubtful. Others were determinations of what the law left at liberty. Others they called sepimenta legis, rules they gave under pretence of a guard to the Divine law; for the more caution, that they might not transgress it. These things at first were not imposed as laws, but commended by way of advice and counsel, afterward they came to be looked upon as laws, and grew almost infinite."
+    },
+    {
+     "id": "poole/MAT.15.2#p9-46d2a4e3",
+     "text": "They tell us that Ezra was he who gathered those traditions together, and made the Cabbala in seventy-two books, which was kept by Gamaliel and others till the destruction of Jerusalem. A hundred and twenty years after, they tell us Rabbi Judas, the son of Simon, composed a book of them, called Misna. Three hundred years after this, they tell us R. Johanan found more, and he and others, his colleagues, collected them into a larger book, called the Jerusalem Talmud."
+    },
+    {
+     "id": "poole/MAT.15.2#p10-70fbec60",
+     "text": "A hundred years after this, another rabbi made a collection of the traditions amongst the Jews that remained in Babylon, which he called the Babylonish Talmud; by which two the Jews are governed in ecclesiastical matters, all the world over, at this day. Their whole Talmud is divided into six parts. The sixth is about purifications; it containeth twelve books, and every book hath twenty or thirty chapters, all treating about the purifying of houses, clothes, vessels, human bodies, and their several parts."
+    },
+    {
+     "id": "poole/MAT.15.2#p11-b8c2bce7",
+     "text": "The Jews after the destruction of Jerusalem were in such an afflicted state, that though their Talmud was not perfected of five hundred years and more after Christ, yet it is probable they added not much to what they had in use in Christ’s time. The Pharisees were very severe as to these traditions."
+    },
+    {
+     "id": "poole/MAT.15.2#p12-a5159b10",
+     "text": "The Sadducees kept more to the written law. But the Pharisees were in far greater credit with the Jews, therefore Paul called them the strictest sect of the Jewish religion, Act 26:5. The Jews have several ordinary sayings, that show in what esteem they had these traditions, as, If the scribes say our right hand is our left, and our left hand our right, we are to believe them. And, There is more in the words of the scribes than the words of the law, & c. These scribes and Pharisees accuse our Saviour’s disciples for the violation of one of these traditions.",
+     "refs": [
+      {
+       "text": "Act 26:5",
+       "ref": "ACT.26.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p13-f208883b",
+     "text": "Mark saith, that the Pharisees, and all the Jews, ( that is, the major part of those that followed the Pharisees’ faction), except they wash their hands oft, eat not. They thought it sinful to eat unless they often washed their hands. The foundation of this tradition was doubtless in the Levitical law. God by that law had declared him unclean that should touch the carcass of any unclean thing, Lev 5:2,3. Upon this (as some think) they had superstructed a tradition of washing their hands, pots, cups, vessels, when they had been at the market, or almost any where, for fear they, or their pots, cups, &c., should have touched any unclean person or thing. In this they were guilty of several errors:",
+     "refs": [
+      {
+       "text": "Lev 5:2",
+       "ref": "LEV.5.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.2#p14-adb8f227",
+     "text": "1. Extending the law to the touching of things and persons, of whom the law had said nothing."
+    },
+    {
+     "id": "poole/MAT.15.2#p15-1b5e5e3b",
+     "text": "2. In cases where such touches happened accidentally, and were not made on purpose."
+    },
+    {
+     "id": "poole/MAT.15.2#p16-945c79fe",
+     "text": "3. In thinking that the stain of sin could be washed away by a ritual action, which God never commanded."
+    },
+    {
+     "id": "poole/MAT.15.2#p17-54d2d291",
+     "text": "We must not think that they charge the disciples here with a neglect of a civil washing for cleanliness, but of a religious superstitious washing."
+    },
+    {
+     "id": "poole/MAT.15.2#p18-69a3f1d0",
+     "text": "Mark saith, κοιναις χεπσι, that is, with common hands; we translate it, polluted: so Act 10:14 11:8: hands not first separated to God by the religious rite of washings.",
+     "refs": [
+      {
+       "text": "Act 10:14",
+       "ref": "ACT.10.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.3",
+   "range": "MAT.15.3",
+   "kind": "passage",
+   "hash": "e3bcf782",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.3#p1-95502c26",
+     "text": "Mark hath the same, Mar 7:9, though a little out of the order in which Matthew hath it: Full well ye reject the commandment of God, that ye may keep your own tradition. Our Saviour could have answered them, had he pleased, more strictly to their questions, but he must then either have incurred danger or odium; he therefore chooseth to answer them by another question, which struck at the root of the matter.",
+     "refs": [
+      {
+       "text": "Mar 7:9",
+       "ref": "MRK.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.3#p2-ae301a25",
+     "text": "Admit, saith he, my disciples culpable in not observing traditions, which indeed you call the traditions of the elders, but are your own, devised by you, or some like you, merely to uphold your power and authority, and to keep people in a needless subjection to you: I am sure you are far more guilty, in making traditions contrary to the law of God, or rejecting God’s law to keep your traditions. And indeed this is the common guilt of those who are great zealots for traditions and rites, not commanded in the word of God. The Jewish Rabbi Jose saith, He sinneth as much who eateth with unwashen hands, as he that lieth with an harlot."
+    },
+    {
+     "id": "poole/MAT.15.3#p3-3d881d16",
+     "text": "The papists make it a greater sin for a priest to marry than to keep a concubine, and commit fornication; they make it a lesser transgression than to eat meat on a Friday."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.4",
+   "range": "MAT.15.4",
+   "kind": "passage",
+   "hash": "4e23d01a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.4#p1-4e23d01a",
+     "text": "Mat 15:6\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:6",
+       "ref": "MAT.15.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.5",
+   "range": "MAT.15.5",
+   "kind": "passage",
+   "hash": "4e23d01a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.5#p1-4e23d01a",
+     "text": "Mat 15:6\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:6",
+       "ref": "MAT.15.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.6",
+   "range": "MAT.15.6",
+   "kind": "passage",
+   "hash": "16d1387c",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.6#p1-fe099afd",
+     "text": "Ver. 4-6. Mark hath much the same, Mar 7:10-13. Mark saith Moses said, which is the same with God commanded: God commanded by Moses. Mark saith, It is Corban, that is to say, a gift. Mark addeth, Mar 7:12, And ye suffer him no more to do aught for his father or mother; which more fully shows their crime, and expounds what Matthew had said more shortly. Mark adds, and many such like things do ye. This is an instance by which our Saviour justifieth his charge upon them, that they had made void the law of God by their traditions.",
+     "refs": [
+      {
+       "text": "Mar 7:10-13",
+       "ref": "MRK.7.10-13"
+      },
+      {
+       "text": "Mar 7:12",
+       "ref": "MRK.7.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.6#p2-ca52a286",
+     "text": "The law he instances in is the fifth commandment, Exo 20:12 Deu 5:16; which the apostle calleth the first commandment with promise, Eph 6:2; which God had fortified with a judicial law, wherein he had commanded, that he who cursed his father and mother should be put to death Exo 21:17 Lev 20:9 he had also further threatened the violaters of this law, Pro 20:20. By the way, our Saviour here also lets us know, that the fifth commandment obliges children to relieve their parents in their necessity, and this is the sense of the term honour in other texts of Scripture: a law of God which hath approved itself to the wisdom almost of all nations.",
+     "refs": [
+      {
+       "text": "Exo 20:12",
+       "ref": "EXO.20.12"
+      },
+      {
+       "text": "Deu 5:16",
+       "ref": "DEU.5.16"
+      },
+      {
+       "text": "Eph 6:2",
+       "ref": "EPH.6.2"
+      },
+      {
+       "text": "Exo 21:17",
+       "ref": "EXO.21.17"
+      },
+      {
+       "text": "Lev 20:9",
+       "ref": "LEV.20.9"
+      },
+      {
+       "text": "Pro 20:20",
+       "ref": "PRO.20.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.6#p3-62ae32d3",
+     "text": "Liberi parentes alant aut vinciantur, Let children relieve their parents or be put into prison, was an old Roman law. Nor did the Pharisees deny this in terms, but they had made an exception from it, which in effect made it of no use, at least such as wicked children easily might, and commonly did, elude it by: they had taught the people to say to their parents, It is Corban, that is to say, a gift, by whatsoever thou mightest be profited by me: and in that case, though they did not give their poor parents any thing wherewith they might relieve their necessities, yet they should be guiltless as to the fifth commandment."
+    },
+    {
+     "id": "poole/MAT.15.6#p4-ecf6418f",
+     "text": "There is a strange variety of interpreters as to this text. Some making the sense this, That which I should relieve you with I have dedicated unto God, and therefore I cannot relieve you. Others thus, I have dedicated my estate to God, and that will be as much good and benefit to you, as if I had given it unto you. Others think that Corban was the form of an oath, from whence they form other senses. But the most free and unconstrained sense seemeth to be this: The Pharisees were a very courteous generation, and had a share in the gifts that were brought unto God for the use of the temple or otherwise; thence they were very zealous and diligent in persuading people to make such oblations."
+    },
+    {
+     "id": "poole/MAT.15.6#p5-5ffc94b0",
+     "text": "When any pretended the need that their parents stood in of their help, they told them, that if they told their parents it was a gift, that they had vowed such a portion of their estate to a sacred use, that would before God excuse them for not relieving their parents; so as the precept of honouring their parents, and relieving them in their necessities, obliged them not, if they had first given to God the things by which their parents might or ought to have been relieved. Thus he tells them, that by their traditions, under pretence of a more religion, and expounding the Divine law, they had indeed destroyed it, and made it of no effect at all."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.7",
+   "range": "MAT.15.7",
+   "kind": "passage",
+   "hash": "125aaf1a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.7#p1-125aaf1a",
+     "text": "Mat 15:9\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:9",
+       "ref": "MAT.15.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.8",
+   "range": "MAT.15.8",
+   "kind": "passage",
+   "hash": "125aaf1a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.8#p1-125aaf1a",
+     "text": "Mat 15:9\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:9",
+       "ref": "MAT.15.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.9",
+   "range": "MAT.15.9",
+   "kind": "passage",
+   "hash": "87c7af79",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.9#p1-50611bbd",
+     "text": "Ver. 7-9. The Greek is, διδασκοντες διδασκαλιας, teaching doctrines, the commandments of men."
+    },
+    {
+     "id": "poole/MAT.15.9#p2-3176dac4",
+     "text": "who put on an outward vizard or appearance of holiness, but have nothing in your hearts of true and severe piety,",
+     "anchor": "Ye hypocrites"
+    },
+    {
+     "id": "poole/MAT.15.9#p3-6ba5f401",
+     "text": "Isaiah spake to the Jews that were then in being, but what he then said of your forefathers that lived in his age, is true of you who are their children.",
+     "anchor": "well did Isaiah prophesy of you"
+    },
+    {
+     "id": "poole/MAT.15.9#p4-68172f0a",
+     "text": "Saying, This people, &c. The evangelist doth not quote the words of the prophet exactly, but his sense, and teacheth us this lesson, That whatsoever outward show and profession of religion be in and upon men, if their hearts be not right with God, and what they outwardly do proceed not from an inward principle of faith, love, and obedience in and to God, they are but hypocrites."
+    },
+    {
+     "id": "poole/MAT.15.9#p5-c7656aa4",
+     "text": "that is, idly, and unprofitably, and to no purpose: I will not account what they do.",
+     "anchor": "In vain do they worship me, &c"
+    },
+    {
+     "id": "poole/MAT.15.9#p6-dbf41b54",
+     "text": "he means in the worship of God, for other commandments of men are not the preacher’s texts, nor doth he here mean by",
+     "anchor": "Teaching doctrines, the commandments of men"
+    },
+    {
+     "id": "poole/MAT.15.9#p7-0f55bd7b",
+     "text": "such as backed the commandments of God, and only served to enforce them, but such as he had been speaking of, human traditions, of which God had said nothing, as washing of hands; or such traditions as enervated the commandments of God; such were the last mentioned.",
+     "anchor": "commandments of men"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.10",
+   "range": "MAT.15.10",
+   "kind": "passage",
+   "hash": "3d3ea477",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.10#p1-3d3ea477",
+     "text": "Mat 15:11\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:11",
+       "ref": "MAT.15.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.11",
+   "range": "MAT.15.11",
+   "kind": "passage",
+   "hash": "5300826b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.11#p1-17c8ceef",
+     "text": "Ver. 10,11. Mark hath the same, Mar 7:15. Our Saviour turns off his discourse from the Pharisees and scribes, who he saw were indocible, to the multitude, in whom he discerned a more teachable temper: he useth the preface,",
+     "refs": [
+      {
+       "text": "Mar 7:15",
+       "ref": "MRK.7.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.11#p2-2874773d",
+     "text": "as well knowing how they had been taught, and what an advantage error in possession hath. That which he tells them, and that before the scribes and Pharisees, (as will appear by the following verses), was, that that which goeth into a man doth not defile him, but that which cometh out of him. He speaketh not of a Levitical pollution, for so he that did eat of an unclean thing might by it be defiled; but even in such an eating it was not the flesh of the unclean bird or beast that defiled the man, but his sinful lusting after it, and eating it in disobedience to the command of God.",
+     "anchor": "Hear, and understand"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.12",
+   "range": "MAT.15.12",
+   "kind": "passage",
+   "hash": "414b5be1",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.12#p1-414b5be1",
+     "text": "The Pharisees’ offence was, without question, at his making so light a matter at their washings; not that they understood our Saviour as speaking against the distinction of meats, which was established by the ceremonial law, not as yet abrogated. There is nothing doth more offend hypocrites than pressing spiritual worship and homage to God, and the slighting of all external rites and actions, not attended with a suitable inward homage and devotion of heart."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.13",
+   "range": "MAT.15.13",
+   "kind": "passage",
+   "hash": "4f787677",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.13#p1-4f787677",
+     "text": "Mat 15:13\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:13",
+       "ref": "MAT.15.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.14",
+   "range": "MAT.15.14",
+   "kind": "passage",
+   "hash": "7e2b0a9b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.14#p1-12cafb47",
+     "text": "may be understood of doctrines, practices, or persons. These scribes and Pharisees are a wretched generation, that are got into the sheepfold not at the door; my Father never sent them, they are crept in at the windows, they are plants got into my garden, which my Father never planted there, and they must be rooted up.",
+     "verse": 13,
+     "anchor": "Every plant"
+    },
+    {
+     "id": "poole/MAT.15.14#p2-a76eb3d8",
+     "text": "they are incorrigible, and blinded by their own interest against any conviction or instruction: as, Hos 4:17, Ephraim is joined to idols; let him alone: so these men are joined to their superstitious traditions; I will not concern myself with them. They are pretended leaders of the blind, Rom 2:19, but themselves are blind. I pity the poor people, for while the blind lead the blind they both fall into a ditch. An ignorant and unfaithful ministry is the greatest plague God can send amongst a people.",
+     "anchor": "Let them alone",
+     "refs": [
+      {
+       "text": "Hos 4:17",
+       "ref": "HOS.4.17"
+      },
+      {
+       "text": "Rom 2:19",
+       "ref": "ROM.2.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.15",
+   "range": "MAT.15.15",
+   "kind": "passage",
+   "hash": "241ba777",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.15#p1-241ba777",
+     "text": "Mat 15:16\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:16",
+       "ref": "MAT.15.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.16",
+   "range": "MAT.15.16",
+   "kind": "passage",
+   "hash": "5e353cda",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.16#p1-333dd8eb",
+     "text": "Ver. 15,16. Mark saith, his disciples asked him concerning the parable. Peter probably began, the rest followed. Or Peter speaks in the name of the rest, for our Saviour in his answer doth not say, Art thou, but,"
+    },
+    {
+     "id": "poole/MAT.15.16#p2-39135482",
+     "text": "They did well in that they desired to be instructed what the meaning was of the parable, that is, the dark saying, which he used (for the Hebrews called all dark sayings parables); possibly they might also stumble at what our Saviour said, as tending to the destruction of the ceremonial law, about the difference of meats. But that they were no better instructed than not to understand a thing so plain and obvious, this was their fault, and argued their small improvement of our Saviour’s company. God expects a proficiency in knowledge from us proportionate unto the means he giveth us.",
+     "anchor": "Are ye"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.17",
+   "range": "MAT.15.17",
+   "kind": "passage",
+   "hash": "002f3d90",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.17#p1-002f3d90",
+     "text": "Mat 15:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:20",
+       "ref": "MAT.15.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.18",
+   "range": "MAT.15.18",
+   "kind": "passage",
+   "hash": "002f3d90",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.18#p1-002f3d90",
+     "text": "Mat 15:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:20",
+       "ref": "MAT.15.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.19",
+   "range": "MAT.15.19",
+   "kind": "passage",
+   "hash": "002f3d90",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.19#p1-002f3d90",
+     "text": "Mat 15:20\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:20",
+       "ref": "MAT.15.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.20",
+   "range": "MAT.15.20",
+   "kind": "passage",
+   "hash": "56827f97",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.20#p1-56827f97",
+     "text": "Ver. 17-20. Mark hath this, with very small difference in words, Mar 7:18-23; only he specifies some more sins than Matthew enumerates. The sum of what our Saviour saith is this: That all sin proceedeth from lust, some desires in the heart of man after things forbidden in the law of God. All the ticklings of our hearts with such thoughts, all the willings and desires of such things, though they never issue in overt acts, yet defile and pollute a man; and from these inward motions of the heart proceed those overt acts (mentioned by Matthew or Mark) of murders, adulteries, fornications, thefts, false witness, blasphemies, deceit, lasciviousness, an evil eye, pride, foolishness: now these things, take them in their nest, which is the heart, they defile and pollute that; take them in their passage through our lips into the world, they pollute that; take them in their overt act, they pollute the man. But to eat with unwashen hands, a thing no where forbidden by God, only by the Pharisees, who had no such authority given them from God to command any such things, this doth not pollute a man. It is possible that men may sin in not obeying the commandments of men, but it must be then in things in which God hath authorized them to command, and to determine our practice in, for the pollution lies in a disobedience to the commandment of God, not of men.",
+     "refs": [
+      {
+       "text": "Mar 7:18-23",
+       "ref": "MRK.7.18-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.21",
+   "range": "MAT.15.21",
+   "kind": "passage",
+   "hash": "6cb37c5f",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.21#p1-e738cf68",
+     "text": "Mark addeth, Mar 7:24, and entered into an house, and would have no man know it; but he could not be hid. Some here make a question, whether our Saviour did go into Phoenicia, (of which Tyre and Sidon were the principal cities), or only into the coasts of Palestine, next to it: those that think he did not go into Phoenicia, are guided by his prohibition of his disciples to go into the way of the Gentiles, Mat 10:5, and the consideration that the time was not yet come for his manifestation to the Gentiles.",
+     "refs": [
+      {
+       "text": "Mar 7:24",
+       "ref": "MRK.7.24"
+      },
+      {
+       "text": "Mat 10:5",
+       "ref": "MAT.10.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.21#p2-cc3feec7",
+     "text": "I rather incline to think that he went into Tyre and Sidon; and that this was a kind of a praeludium to the calling of the Gentiles, and a prediction of what should be done more fully afterwards. It is manifest he did not go with a design to make himself public there, for Mark saith, he would have no man know it. But for privacy withdrew himself thither, and showed some of his miraculous operations there; and Mat 15:22 saith the woman that came to him was a Canaanite. Mark saith she was a Greek, a Syrophenician by nation. Nor is here any contradiction, for ever since the Grecian monarchy prevailed over so great a part of the world, the name of Greeks had obtained, so as they called all Greeks who were not Jews, Rom 1:14,16 10:12.",
+     "refs": [
+      {
+       "text": "Mat 15:22",
+       "ref": "MAT.15.22"
+      },
+      {
+       "text": "Rom 1:14",
+       "ref": "ROM.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.21#p3-9390e6d1",
+     "text": "A Syrophenician, saith Mark, by nation; that is, one that was a native of that part of Phoenicia which is joined to Tyre and Sidon. Matthew calls her a Canaanite, or a woman of Canaan, by which though some would understand one of Cana, yet as the orthography will not agree, so Mark calling her a Greek, and a Syrophenician, inclines us rather to judge her of the stock of the old Canaanites."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.22",
+   "range": "MAT.15.22",
+   "kind": "passage",
+   "hash": "08d88490",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.22#p1-08d88490",
+     "text": "Mat 15:23\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:23",
+       "ref": "MAT.15.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.23",
+   "range": "MAT.15.23",
+   "kind": "passage",
+   "hash": "bcb7e5aa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.23#p1-ef88cd64",
+     "text": "Ver. 22,23. Mark saith, A certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet: the woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter."
+    },
+    {
+     "id": "poole/MAT.15.23#p2-8e0fcb99",
+     "text": "But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread and cast it unto the dogs, Mat 7:25-27. Though the woman appears to have been a pagan, yet living so near Galilee, she had doubtless heard of Christ, both what he had done in casting out devils, and also that he was looked upon as the Son of David, and usually called by that name by those who went to him for any cures; she therefore gives him that title.",
+     "refs": [
+      {
+       "text": "Mat 7:25-27",
+       "ref": "MAT.7.25-27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.23#p3-28fc1950",
+     "text": "Others think her to have been more specially enlightened, and to have called him the Son of David, not as a usual compellation given him, but as believing him to have been the true Messias promised to the Jews: nor is that impossible, for though the gospel at this time had not shined out upon any considerable number of the heathen, yet God in all times had his number amongst them; and this woman living so near to the Jews, and so near to Galilee, where our Saviour hitherto had most conversed and preached, it is not improbable that she might have received the grace as well as the sound of the gospel, so God might have kindled in her heart a true faith in the Messias."
+    },
+    {
+     "id": "poole/MAT.15.23#p4-a7172e57",
+     "text": "Our Saviour’s commendation of her faith in the following discourse maketh this very probable. Matthew saith that"
+    },
+    {
+     "id": "poole/MAT.15.23#p5-abafbc55",
+     "text": "Mark saith that he said to her, Let the children first be filled, & c. To the observing reader this will appear no contradiction. For by Mark it should appear, that she first came to our Saviour into the house, into which he went that he might be private, and there fell at his feet. Here Christ answered her not a word, took no notice of her at all. But it appeareth by Matthew that Christ soon left the home, and she followed after him upon the way. The disciples said, Send her away; for she crieth after us. Then it was that our Saviour said to her,",
+     "anchor": "he answered her not a word"
+    },
+    {
+     "id": "poole/MAT.15.23#p6-71202f5d",
+     "text": "his disciples first interposing, saying,",
+     "anchor": "Let the children first be filled"
+    },
+    {
+     "id": "poole/MAT.15.23#p7-c223dd95",
+     "text": "How many of the papists think that this text patronizes their invocation of saints departed I cannot tell, for these disciples were alive, and we do not read that she spake to any of them to intercede for her. It is certain they did move Christ on her behalf.",
+     "anchor": "Send her away; for she crieth after us"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.24",
+   "range": "MAT.15.24",
+   "kind": "passage",
+   "hash": "11097ccf",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.24#p1-11097ccf",
+     "text": "Our Lord by these words doth not deny but that he was sent as a Redeemer to more, but not as a minister, or as an apostle, as he is called, Heb 3:1. The apostle, Rom 15:8, saith, that Jesus Christ was a minister of the circumcision for the truth of God to confirm the promises made unto the fathers. Our Lord’s ministry was confined to the Jews; so was the apostles’, Mat 10:5. Till some time after our Saviour’s ascension the gospel was not preached generally to the Gentiles, though some particular persons might and did, both in Christ’s time and in the time of the apostles, before they did go to the Gentiles, hear, receive and embrace the gospel, as we shall hear this woman did.",
+     "refs": [
+      {
+       "text": "Heb 3:1",
+       "ref": "HEB.3.1"
+      },
+      {
+       "text": "Rom 15:8",
+       "ref": "ROM.15.8"
+      },
+      {
+       "text": "Mat 10:5",
+       "ref": "MAT.10.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.25",
+   "range": "MAT.15.25",
+   "kind": "passage",
+   "hash": "2345b6cd",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.25#p1-2345b6cd",
+     "text": "She here acknowledgeth his Divine power, and implores his help; thus showing that she believed him to be the Son of God, and a rewarder of those that sought him; and continues her request after two repulses."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.26",
+   "range": "MAT.15.26",
+   "kind": "passage",
+   "hash": "dfe12f8e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.26#p1-8bb759bb",
+     "text": "Mark saith, Mar 7:27, Jesus said unto her, Let the children first be filled; for it is not meet, &c. By the children here he means the Jews, by the dogs he means the heathen. The Jews are called the children of the kingdom. Israel is called God’s son, his firstborn, Exo 4:22. The apostle, Rom 9:4, saith, to them belonged the the adoption. By bread here our Saviour means the publication of the gospel, and the miracles by which the truth of the doctrine of it was confirmed; by dogs he means the heathen, whom the Jews did count as dogs, no members of the household of God: it was a term of contempt, 2Sa 3:8 2Sa 16:9 2Ki 8:13. When our Saviour saith,",
+     "refs": [
+      {
+       "text": "Mar 7:27",
+       "ref": "MRK.7.27"
+      },
+      {
+       "text": "Exo 4:22",
+       "ref": "EXO.4.22"
+      },
+      {
+       "text": "Rom 9:4",
+       "ref": "ROM.9.4"
+      },
+      {
+       "text": "2Sa 3:8",
+       "ref": "2SA.3.8"
+      },
+      {
+       "text": "2Sa 16:9",
+       "ref": "2SA.16.9"
+      },
+      {
+       "text": "2Ki 8:13",
+       "ref": "2KI.8.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.26#p2-8e74aad1",
+     "text": "he means it is not just, nor equal.",
+     "anchor": "It is not meet"
+    },
+    {
+     "id": "poole/MAT.15.26#p3-001a6c20",
+     "text": "Objection: How came it then that the gospel was ever carried to the Gentiles?"
+    },
+    {
+     "id": "poole/MAT.15.26#p4-2a0bf569",
+     "text": "Mark expounds our Saviour’s meaning, or rather gives us an account of our Saviour’s words, more perfectly: Let the children first be filled; for it is not meet, &c. The Jews are God’s children, a people whom he chose out of all the nations of the earth, to whom he gave many privileges; it is his will the gospel should be first preached to them, and then to the Gentiles. Gentiles are as dogs, of whom God hath not taken such a care; but they shall have their time. Only it is not consonant to my Father’s will that the gospel, and the miracles by which it is confirmed, should be exhibited unto you Gentiles, till it hath been fully preached to the Jews, and they be first filled with the sound, and with the confirmations of it."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.27",
+   "range": "MAT.15.27",
+   "kind": "passage",
+   "hash": "eacbd677",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.27#p1-6e40c8ac",
+     "text": "Mark reports it to the same sense, Mar 7:28. She goeth on after three repulses, the last of which was not without a reproach, for our Lord had implicitly called her a dog. These words are as much as if she had said, Lord, I confess the Jews are children; I am a dog, a poor heathen, no proper member of the household of God; and it is truth that it seemeth unreasonable that I, being a dog, should be served before all the children are filled. Lord, I do not beg such a full manifestation of thy power and goodness for the Gentiles.",
+     "refs": [
+      {
+       "text": "Mar 7:28",
+       "ref": "MRK.7.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.27#p2-273e1395",
+     "text": "I beg but a crumb of mercy for myself and poor child; and, Lord, though we do not use to give our loaves prepared for our children to the dogs that feed under our table, crumbs of our children’s bread, as Mark expresses it, yet we suffer our dogs to gather them up. Lord, I know thou hast a plenty of grace and blessing, the children may be filled, and yet I may have some crumbs. Three things are remarkable in her answer, besides her faith so eminently expressed."
+    },
+    {
+     "id": "poole/MAT.15.27#p3-18d4cb09",
+     "text": "1. Her humility; she owneth herself a dog."
+    },
+    {
+     "id": "poole/MAT.15.27#p4-81751c3b",
+     "text": "2. Her modesty; she begs no more than a crumb."
+    },
+    {
+     "id": "poole/MAT.15.27#p5-766e2448",
+     "text": "3. Her fervency and importunity after three repulses."
+    },
+    {
+     "id": "poole/MAT.15.27#p6-88d85b3c",
+     "text": "By this we learn our duty in prayer, to go to God humbly, to implore him modestly, and to be instant in prayer, going on in our duty, though we have not presently such an answer as we desire. These things, conjoined with faith, make an acceptable prayer."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.28",
+   "range": "MAT.15.28",
+   "kind": "passage",
+   "hash": "f150ed5b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.28#p1-a8c81418",
+     "text": "Mark saith, Mar 7:29, And he said unto her. For this saying go thy way; the devil is gone out of thy daughter. And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed. O woman! For this saying, showing the greatness of thy faith, be it unto thee as thou wilt. Go thy way; the devil is gone out of thy daughter.",
+     "refs": [
+      {
+       "text": "Mar 7:29",
+       "ref": "MRK.7.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.28#p2-02855d17",
+     "text": "as she understood when she came home to her house, for she found the devil was gone out of her daughter, and her daughter was laid upon the bed. Thus the words of both the evangelists compounded make but one entire and perfect sense. The greatness of her faith appeared in two things:",
+     "anchor": "And her daughter was made whole from that very hour"
+    },
+    {
+     "id": "poole/MAT.15.28#p3-6ace149c",
+     "text": "1. In that she had so little means, so small a revelation; being a pagan, she ordinarily had not heard the gospel, nor seen so many of Christ’s mighty works, confirming the truth of the doctrine of it. Hence it is observed, that Christ admired the faith of none but pagans, Mat 8:10.",
+     "refs": [
+      {
+       "text": "Mat 8:10",
+       "ref": "MAT.8.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.28#p4-3387832d",
+     "text": "2. In that she would not give over, though he gave her three repulses. So as she said, like Jacob, I will not let thee go, until thou bless me. And as he, like a prince, so she, like a princess, prevailed with God, and obtained the thing which she desired."
+    },
+    {
+     "id": "poole/MAT.15.28#p5-e10dfb35",
+     "text": "But will some say. Where was her faith? What promise, what word of God, had she to assent to? God doth not speak to us outwardly, but inwardly, as undoubtedly he had to this woman, giving her some inward assurance that he was the Son of God, and both able and willing to grant her the thing she asked. Now a firm and fixed assent to any Divine revelation is faith, whether the revelation be internal or external. We from hence learn the mighty power of true faith and fervent prayer."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.29",
+   "range": "MAT.15.29",
+   "kind": "passage",
+   "hash": "a8799089",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.29#p1-a8799089",
+     "text": "Mat 15:31\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:31",
+       "ref": "MAT.15.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.30",
+   "range": "MAT.15.30",
+   "kind": "passage",
+   "hash": "7e34824f",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.30#p1-7e34824f",
+     "text": "See Poole on Mt \"15:31\"."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.31",
+   "range": "MAT.15.31",
+   "kind": "passage",
+   "hash": "2479b8c2",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.31#p1-2479b8c2",
+     "text": "Ver. 29-31. Mark gives us an account of this motion of our Saviour’s, Mar 7:31-37, and mentions a particular miracle which our Lord wrought, either in the way, or when he came to the place where he rested; which not being mentioned by our evangelist, I shall consider when I come to that chapter in Mark. Matthew only tells us in general that he healed many, some lame, some that were blind, some that were dumb, &c. Such a general account of the miracles wrought by our Saviour we had Mat 4:24 8:16 11:5; the evangelist not largely setting down every particular miracle wrought by our Saviour. And they glorified the Lord God of Israel. The Pharisees ascribed these operations to the devil’s power, but the poor people owned them as the works of God, and gave praise unto God.",
+     "refs": [
+      {
+       "text": "Mar 7:31-37",
+       "ref": "MRK.7.31-37"
+      },
+      {
+       "text": "Mat 4:24",
+       "ref": "MAT.4.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.32",
+   "range": "MAT.15.32",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.32#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.33",
+   "range": "MAT.15.33",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.33#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.34",
+   "range": "MAT.15.34",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.34#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.35",
+   "range": "MAT.15.35",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.35#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.36",
+   "range": "MAT.15.36",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.36#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.37",
+   "range": "MAT.15.37",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.37#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.38",
+   "range": "MAT.15.38",
+   "kind": "passage",
+   "hash": "62544889",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.38#p1-62544889",
+     "text": "Mat 15:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 15:39",
+       "ref": "MAT.15.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.15.39",
+   "range": "MAT.15.39",
+   "kind": "passage",
+   "hash": "a7e896c7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.15.39#p1-d90aa698",
+     "text": "Ver. 32-39. Mark gives us an account of this miracle, Mar 8:1-10. There is very little difference in their relations, only Mark saith, our Saviour went into the parts of Dalmanutha; Matthew saith,",
+     "refs": [
+      {
+       "text": "Mar 8:1-10",
+       "ref": "MRK.8.1-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.39#p2-c55335f4",
+     "text": "most think that it was the same place, which had two names: some think one was the name of the country, the other of the city or town; others, that they were two towns near together. There are no difficulties in this history. Some question how they could fast three days; but the text doth not say so, only that at that time they had nothing to eat, having spent what they brought with them, probably in their baskets, which answers another question also, how they could get baskets in the wilderness.",
+     "anchor": "into the coasts of Magdala"
+    },
+    {
+     "id": "poole/MAT.15.39#p3-3b31ca83",
+     "text": "The miracle was of the same nature with that which we met with Mat 14:15-22; only there were five thousand men fed with five loaves and two fishes, here four thousand were fed with seven loaves and a few fishes; there they took up twelve, here but seven baskets full. Our Lord worketh sometimes without means, sometimes by means, and those differently proportions to his end, as it pleaseth him. The miraculous operations of our Saviour are amongst his miranda et adoranda, not his imitanda. These actions of his, which we are in reading to admire and adore, but are not concerned to imitate, yet something we may observe from them, both for our instruction and imitation.",
+     "refs": [
+      {
+       "text": "Mat 14:15-22",
+       "ref": "MAT.14.15-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.15.39#p4-80cf319b",
+     "text": "For our instruction, we may from this history observe the extent of Christ’s compassion to his disciples, which though it is most eminently seen in what he doth for their souls, yet reacheth also to their bodies and more external wants. It also teacheth us to trust God in the doing of our duty. Those that are in a wilderness hearing Christ, shall not faint by the way before they get home. His course of giving thanks before he brake and made use of the bread, (which we observed before in the other miracle), commendeth to us the religious custom of begging a blessing before our meat, and giving thanks to God for good things of that nature, when we have received them."
+    }
+   ]
+  }
+ ]
+}

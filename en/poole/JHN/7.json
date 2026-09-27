@@ -1,0 +1,1316 @@
+{
+ "source": "poole",
+ "book": "JHN",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "poole/JHN.7",
+   "range": "JHN.7",
+   "kind": "chapter",
+   "hash": "ec1a512f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7#p1-011ab827",
+     "text": "Joh 7:1-10 Jesus, exhorted by his unbelieving kinsmen to show himself at Jerusalem at the feast of tabernacles, refuseth, but afterwards goeth up in secret.",
+     "refs": [
+      {
+       "text": "Joh 7:1-10",
+       "ref": "JHN.7.1-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p2-f13ee751",
+     "text": "Joh 7:11-13 The Jews seek him, and differ in their sentiments of him.",
+     "refs": [
+      {
+       "text": "Joh 7:11-13",
+       "ref": "JHN.7.11-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p3-4ed9f710",
+     "text": "Joh 7:14-29 He teacheth in the temple.",
+     "refs": [
+      {
+       "text": "Joh 7:14-29",
+       "ref": "JHN.7.14-29"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p4-1f94c117",
+     "text": "Joh 7:30-32 Some are ready to lay hands on him, others believe; the rulers send officers to apprehend him.",
+     "refs": [
+      {
+       "text": "Joh 7:30-32",
+       "ref": "JHN.7.30-32"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p5-d3dd2142",
+     "text": "Joh 7:33-39 Christ foretells his departure to the Father, and promises the Holy Spirit to believers.",
+     "refs": [
+      {
+       "text": "Joh 7:33-39",
+       "ref": "JHN.7.33-39"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p6-435d0461",
+     "text": "Joh 7:40-44 Divers options concerning him.",
+     "refs": [
+      {
+       "text": "Joh 7:40-44",
+       "ref": "JHN.7.40-44"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7#p7-78d0fc09",
+     "text": "Joh 7:45-53 The officers, struck with his discourse, return without him, and are rebuked by the Pharisees, who chide with Nicodemus for taking his part.",
+     "refs": [
+      {
+       "text": "Joh 7:45-53",
+       "ref": "JHN.7.45-53"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.1",
+   "range": "JHN.7.1",
+   "kind": "passage",
+   "hash": "b24eb12f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.1#p1-46526170",
+     "text": "After the third passover, which happened after our Saviour had entered upon his public ministry, of which we read, Joh 5:1, and all those things which we read of, Joh 5:1-6:71, done by our Saviour, both at the feast at Jerusalem, Joh 5:1-47 and after he went into Galilee, Joh 6:1, and had made that excellent discourse, of which we had a large account, Joh 6:1-71; Jesus continued still to converse in Galilee, where he was; for he would not go into Judea, nor converse there,",
+     "refs": [
+      {
+       "text": "Joh 5:1",
+       "ref": "JHN.5.1"
+      },
+      {
+       "text": "Joh 5:1-6",
+       "ref": "JHN.5.1-6"
+      },
+      {
+       "text": "Joh 5:1-47",
+       "ref": "JHN.5.1-47"
+      },
+      {
+       "text": "Joh 6:1",
+       "ref": "JHN.6.1"
+      },
+      {
+       "text": "Joh 6:1-71",
+       "ref": "JHN.6.1-71"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.1#p2-d9148228",
+     "text": "for the causes mentioned Joh 5:18, sought to kill him. They had two things (as appeareth from thence) against him:",
+     "anchor": "because the Jews",
+     "refs": [
+      {
+       "text": "Joh 5:18",
+       "ref": "JHN.5.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.1#p3-999fede5",
+     "text": "1. His violation of the sabbath (as they thought) by healing him that lay at the pool of Bethesda."
+    },
+    {
+     "id": "poole/JHN.7.1#p4-9531e840",
+     "text": "2. His making himself equal with the Father."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.2",
+   "range": "JHN.7.2",
+   "kind": "passage",
+   "hash": "1f5eb00c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.2#p1-1f5eb00c",
+     "text": "was a feast which God ordained the Jews to keep the fifteenth day of the seventh month, (which some make to answer our September, others our October), Lev 23:34,39, after they had gathered in the fruits of the land. It was to be kept seven days, the first and last of which days were to be kept as sabbaths; they were all the seven days to dwell in tents, or booths, in remembrance of the forty years they so dwelt in the wilderness, passing from Egypt to Canaan, as we read there, Lev 23:43. Now this festival was near at hand; so as we must understand the things following to have happened about the September or October before Christ’s suffering, which was at the next passover; that is, the March or April following, as we count the months.",
+     "anchor": "The feast of tabernacles",
+     "refs": [
+      {
+       "text": "Lev 23:34",
+       "ref": "LEV.23.34"
+      },
+      {
+       "text": "Lev 23:43",
+       "ref": "LEV.23.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.3",
+   "range": "JHN.7.3",
+   "kind": "passage",
+   "hash": "975c2597",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.3#p1-975c2597",
+     "text": "his friends and kindred; See Poole on \"Mat 12:47\". See Poole on \"Mat 12:48\"; either such as did believe in him, or such as did not believe; for, Joh 7:5, all of them did not believe in him; would have him leave Galilee, which was the far more obscure and ignoble part of the country, and go into Judea, which was the more noble and famous province; that those who in that province followed him, might also see the miracles which he wrought.",
+     "anchor": "His brethren",
+     "refs": [
+      {
+       "text": "Mat 12:47",
+       "ref": "MAT.12.47"
+      },
+      {
+       "text": "Mat 12:48",
+       "ref": "MAT.12.48"
+      },
+      {
+       "text": "Joh 7:5",
+       "ref": "JHN.7.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.4",
+   "range": "JHN.7.4",
+   "kind": "passage",
+   "hash": "ebc47a27",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.4#p1-468042d4",
+     "text": "The things which thou doest, thou doest out of a desire by them to be made known, and to spread thy own fame and glory: for this, Galilee is not a proper place, because it is an obscure part in the country. The phrase which we translate"
+    },
+    {
+     "id": "poole/JHN.7.4#p2-bbab95a9",
+     "text": "is in the Greek εν παρρησια ειναι. The usage of it here seemeth to be something different from the use of it in other places of holy writ. It sometimes signifies confidence and security; and we translate it boldness, Act 13:46 26:26 28:31 Php 1:20 Heb 3:6 10:19. But this cannot be the sense of this text; for it were no sense to read it, seeketh to be known boldly, confidently, or securely.",
+     "anchor": "to be known",
+     "refs": [
+      {
+       "text": "Act 13:46",
+       "ref": "ACT.13.46"
+      },
+      {
+       "text": "Php 1:20",
+       "ref": "PHP.1.20"
+      },
+      {
+       "text": "Heb 3:6",
+       "ref": "HEB.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.4#p3-2d8d8331",
+     "text": "Sometimes we translate it openly, as in this text, and Joh 11:54 Col 2:15. It sometimes signifieth a freedom of speech, Act 2:29 4:13 2Co 7:4. Sometimes it signifieth clearness and plainness of speech, Joh 10:24 Joh 11:14. Sometimes it signifieth a speaking in public meetings, as in Mar 8:32 Joh 18:20. Dr. Hammond notes, that it also sometimes signifies to speak with authority, Act 4:29,31 Eph 6:19. Certainly the word in its primary signification signifieth a freedom and boldness of speech; which freedom and boldness is necessary to him that speaketh openly, and in public meetings; and is advantaged by the authority which any man hath to speak: hence in a secondary sense it may signify both to speak with authority, and also to speak in public assemblies; and this last I take to be here signified.",
+     "refs": [
+      {
+       "text": "Joh 11:54",
+       "ref": "JHN.11.54"
+      },
+      {
+       "text": "Col 2:15",
+       "ref": "COL.2.15"
+      },
+      {
+       "text": "Act 2:29",
+       "ref": "ACT.2.29"
+      },
+      {
+       "text": "2Co 7:4",
+       "ref": "2CO.7.4"
+      },
+      {
+       "text": "Joh 10:24",
+       "ref": "JHN.10.24"
+      },
+      {
+       "text": "Joh 11:14",
+       "ref": "JHN.11.14"
+      },
+      {
+       "text": "Mar 8:32",
+       "ref": "MRK.8.32"
+      },
+      {
+       "text": "Joh 18:20",
+       "ref": "JHN.18.20"
+      },
+      {
+       "text": "Act 4:29",
+       "ref": "ACT.4.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.4#p4-ca2fcd0f",
+     "text": "It is (as our Saviour’s friends tell him) both against reason, and the ordinary course of the world, for men desirous of opportunities to speak boldly and freely in public assemblies, to keep themselves in obscure places, where are no such public assemblies. They therefore advise him, that if indeed he wrought these miraculous operations, and were able to produce such effects, he would not bury up himself and his reputation in such a hole as Galilee, but show himself to the more noted and famous part of the world, which was, as to that part of the world, Jerusalem, and at the feast now, where multitudes of the people would be to celebrate the feast of tabernacles."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.5",
+   "range": "JHN.7.5",
+   "kind": "passage",
+   "hash": "f20fc93d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.5#p1-f20fc93d",
+     "text": "Not all his own friends and kindred; he came not only among his own countrymen, but among his own relations, and they received him not; or if they had some opinion of him, and some little hopes concerning him, yet they did not believe as they ought to have believed. Certainly there cannot be a greater proof and demonstration that faith is not of ourselves, nor a thing in our own power, no, not with all the external aids of gospel doctrine and arguments, than is in this text. We cannot imagine but our Lord’s brethren were willing enough to have believed in Christ as the true Messiah and Saviour of the world; the very honour of their family would have so far inclined them. It is impossible that they, or any others, should have had greater external means, aids, and assistances for their faith, than Christ’s preaching amongst them, and confirming his doctrine by miraculous operations before them; if now they had a power in their own wills, to have looked upon Christ as the true Messiah and Saviour of the world, and accordingly to have received and embraced him, what was the matter they believed not, or as yet at least they believed not in him?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.6",
+   "range": "JHN.7.6",
+   "kind": "passage",
+   "hash": "9a3cd760",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.6#p1-65416778",
+     "text": "the time of my death, say some; of my manifestation to the world, say others: but questionless our Saviour intends no more than his time for going up to this feast, for we shall read that he did go up afterward; but, saith he, as yet I cannot go up.",
+     "anchor": "My time is not yet come"
+    },
+    {
+     "id": "poole/JHN.7.6#p2-8759cd2d",
+     "text": "you may go when you please: and this he further openeth, saying,.{ See Joh 7:7}",
+     "anchor": "Your time is alway ready",
+     "refs": [
+      {
+       "text": "Joh 7:7",
+       "ref": "JHN.7.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.7",
+   "range": "JHN.7.7",
+   "kind": "passage",
+   "hash": "8401f536",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.7#p1-b86fc1b8",
+     "text": "By the world, our Saviour plainly understandeth the men of the world; men not regenerated, renewed, and sanctified. These men, saith he, cannot as yet hate you. There was a time afterward when this part of the world hated all the disciples of Christ, as Christ foretold, Joh 15:18; but that was after the doctrine of the gospel was more preached, and made known to the world by the preaching of the apostles: and therefore Christ saith (in that place) that it hated him before it hated them. Christ first published the doctrine of the gospel, and so became the first object of the world’s hatred on that account. These his brethren were not concerned (that we read of) at this time in the publication of it, nor had any occasion to make themselves known and odious to the world upon that account; therefore he saith, The world (the wicked Jews, here so called) could not be reasonably imagined to have any spite or malignity to them.",
+     "refs": [
+      {
+       "text": "Joh 15:18",
+       "ref": "JHN.15.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.7#p2-d34623e1",
+     "text": "saith he, me it hateth: that is apparent from what we met with Joh 5:18. But this was not for any fault in Christ, but only for his preaching the doctrine of the gospel, and free reproving them for the evil of their works, the corruption of their doctrine, and the errors of their life and conversation.",
+     "anchor": "But",
+     "refs": [
+      {
+       "text": "Joh 5:18",
+       "ref": "JHN.5.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.8",
+   "range": "JHN.7.8",
+   "kind": "passage",
+   "hash": "27be9c21",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.8#p1-0e161b8b",
+     "text": "let not my forbearance to go up hinder your going up according to the law.",
+     "anchor": "Go ye up unto this feast"
+    },
+    {
+     "id": "poole/JHN.7.8#p2-7382b22f",
+     "text": "I have some particular reasons why as yet I will not go to be there at the beginning of it.",
+     "anchor": "I go not up yet unto this feast"
+    },
+    {
+     "id": "poole/JHN.7.8#p3-63c929ac",
+     "text": "I know my time to go, when it will be most safe and proper for me. I shall be there some time during the feast, but my time is not yet come; I shall not be there at the beginning of it. It appeareth that he came not into the temple till about the middle of it, Joh 7:14, which was three or four days after it was began, for it held seven days, Lev 23:34. Or his time was not come, because he designed to go very privately without any notice taken of his coming; which must have been, if he had at that time gone up with his kindred and acquaintance.",
+     "anchor": "For my time is not yet full come",
+     "refs": [
+      {
+       "text": "Joh 7:14",
+       "ref": "JHN.7.14"
+      },
+      {
+       "text": "Lev 23:34",
+       "ref": "LEV.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.9",
+   "range": "JHN.7.9",
+   "kind": "passage",
+   "hash": "78a5d18c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.9#p1-78a5d18c",
+     "text": "He let them take their journey to Jerusalem to the feast without him, and himself still abode in Galilee."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.10",
+   "range": "JHN.7.10",
+   "kind": "passage",
+   "hash": "b228ca13",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.10#p1-b228ca13",
+     "text": "He went up to show his obedience to his Father’s commands, Exo 23:17. The feast of tabernacles was the same with the feast of ingathering in the end of the year, when they had gathered their labours out of the field, mentioned Exo 23:16; and that was one of those three times (as appears from that chapter) when all the males in Israel were to appear before the Lord, Joh 7:17. Christ being born under the law, showeth a punctual obedience to it; and therefore, in obedience to it, he would go up: but his wisdom dwelt with prudence; and therefore he did not go up openly, not in any crowd of company, so as a public notice could be taken of him; but secretly, to teach us that we are not so strictly tied up to ritual precepts, which concern only rites and circumstances of worship, that we may not abate them sometimes for the performance of moral duties. It was a moral duty incumbent upon our Saviour to preserve himself, with what wisdom and prudence he could, from the rage of his enemies, till his time should fully come to yield up himself to their rage; which was the reason why he, who went up now singly, without any company, when he went up to the last passover, where he was to suffer, went up with all imaginable boldness and alacrity, leading the way, to their amazement, Mar 10:32.",
+     "refs": [
+      {
+       "text": "Exo 23:17",
+       "ref": "EXO.23.17"
+      },
+      {
+       "text": "Exo 23:16",
+       "ref": "EXO.23.16"
+      },
+      {
+       "text": "Joh 7:17",
+       "ref": "JHN.7.17"
+      },
+      {
+       "text": "Mar 10:32",
+       "ref": "MRK.10.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.11",
+   "range": "JHN.7.11",
+   "kind": "passage",
+   "hash": "044ceed7",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.11#p1-044ceed7",
+     "text": "Our Saviour’s constant going up to the Jewish feasts, made the rulers of the Jews, who sought to slay him at the feast of the passover, Joh 5:18, (which was but six months before this), because he had violated the sabbath, (as they interpreted his healing the impotent man on that day, and bidding him take up his bed and walk), and because he had made himself equal with God his Father; seek him the first days of the feast, speaking of him with great contempt and slight.",
+     "refs": [
+      {
+       "text": "Joh 5:18",
+       "ref": "JHN.5.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.12",
+   "range": "JHN.7.12",
+   "kind": "passage",
+   "hash": "4c2737ff",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.12#p1-4c2737ff",
+     "text": "Our Saviour’s constant attendance at these public festivals, did not only create an expectation of his being there amongst his enemies, who therefore sought him there, that they might destroy him; but amongst the generality of the people, who had very different opinions about him. Some having heard his doctrine, and hearing nothing from him but what was good and spiritual, tending to show them the way of holiness, and the true path way to eternal life and happiness, concluded that he was a good man; others said he was a mere impostor, one that deceived and cheated the more ignorant common people."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.13",
+   "range": "JHN.7.13",
+   "kind": "passage",
+   "hash": "38cc3397",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.13#p1-38cc3397",
+     "text": "Though many, both of the Galilaeans, among whom he had conversed, and of the common people of Judea, had a very good opinion of Christ, yet the rulers of the Jews were in such a rage against him, that his friends durst not freely discourse their thoughts concerning him."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.14",
+   "range": "JHN.7.14",
+   "kind": "passage",
+   "hash": "c4f27c6f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.14#p1-c4f27c6f",
+     "text": "About the third or fourth day of the feast (which continued seven days) our Lord, being (as was said before) come up privately and by stealth, as it were, to Jerusalem, first appears in the temple preaching. What our Saviour at this time discoursed about the evangelist doth not tell us; but doubtless it was the things of the kingdom of God, which were the usual themes or arguments of his discourse, as we may also understand by the latter part of it. Our Lord probably deferred his preaching to the middle of the feast, partly, because the Pharisees’ heat in hunting after him was now a little over; and that there might be a fuller concourse of people to hear him."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.15",
+   "range": "JHN.7.15",
+   "kind": "passage",
+   "hash": "8fbac285",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.15#p1-8fbac285",
+     "text": "Having never sat as a constant disciple at the feet of any of the Jewish doctors, nor been educated in their schools of the prophets, they wonder how he should come by such knowledge of the law of God, as he discovered in his discourses; wherein he made it appear, that he did not only know the letter of the law, but the more mysterious sense of it, the great mysteries of the kingdom of God."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.16",
+   "range": "JHN.7.16",
+   "kind": "passage",
+   "hash": "71584660",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.16#p1-0cb235da",
+     "text": "considering me as the Son of man; not taught, or to be taught, me by men; not learned out of books, or by the precepts of men; not invented by me; but it is mine as it is the doctrine of the Father that sent me, and I and my Father both are one, and agree in one, 1Jn 5:7,8; and being so, there was no such need that Christ should be learned, in their sense, viz. at the feet of their doctors, and in their schools. But enthusiasts vainly argue from hence, that there is no need of human learning for him who is to be a preacher of the gospel; for Christ was not mere man, but one in whom the fulness of the Godhead dwelt bodily.",
+     "anchor": "My doctrine is not mine",
+     "refs": [
+      {
+       "text": "1Jn 5:7",
+       "ref": "1JN.5.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.16#p2-3eeb06b2",
+     "text": "No such thing will follow from the prophesying of Amos, who was a herdsman, or the apostles, who were fishermen; much less from the preaching of Christ. We must distinguish betwixt an extraordinary and an ordinary calling. And though it be truth, that the ministers of the gospel preach doctrine which is not theirs, but his that sent them; yet it doth not follow, that they must come by the knowledge of this doctrine in the same manner that Christ did, who was in the bosom of the Father, and knew his will, and came from him to communicate it to the world; nor yet in the same manner that the prophets and the apostles came to the knowledge of it, as by Christ’s vocal instruction. So also by the influence of the Holy Spirit upon them in the days of Pentecost, which abode upon them."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.17",
+   "range": "JHN.7.17",
+   "kind": "passage",
+   "hash": "00e079d3",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.17#p1-738a7fe2",
+     "text": "Here our Saviour seemeth to obviate an objection which the Jews would make, viz. How they should know that the doctrine which he preached was the doctrine of God? He indeed said so, but how should they have any evidence of it? How could he make it appear to them to be of God?"
+    },
+    {
+     "id": "poole/JHN.7.17#p2-7112f342",
+     "text": "(saith our Saviour) will do his will, & c.; that is, If any man hath a heart truly disposed to know and embrace whatsoever shall be revealed to him to be the will of God, how contrary soever it be to the interest of his own lusts, and ready to do it in all things, and live according to the prescript and revelation of it, having a serious purpose of heart to obey God in every thing; if he seeketh for truth seriously, and in the fear of the Lord, laying aside all wrath, malice, hatred, and any corrupt passions or affections; God will reveal the truth to him, so as he shall know the doctrine that is of God; and that I do not speak of or from myself, but by authority from my Father.",
+     "anchor": "If any man"
+    },
+    {
+     "id": "poole/JHN.7.17#p3-d5034049",
+     "text": "Now, from hence indeed followeth, that corrupt affections, passions, and prejudices, and an ill life, may prejudice, yea, and will prejudice, men from receiving of the free grace of God, spiritual illuminations, and the gift of faith; so as men that give way to such prejudices, or nourish such passions, or live such lives, shall be left of God to their native blindness, and to strong delusions, and not discern the truth in the light that openly shineth in their faces. But from hence it will not follow, that a moral life, and a study of and seeking after truth, are the cause of faith, or effective of it, with the working of our own will."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.18",
+   "range": "JHN.7.18",
+   "kind": "passage",
+   "hash": "a802a685",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.18#p1-94da45cf",
+     "text": "Here our Saviour giveth them another note, by which they might know that his doctrine was of God, because he spake not of himself, nor sought his own glory in what he delivered."
+    },
+    {
+     "id": "poole/JHN.7.18#p2-adbf767e",
+     "text": "No man doth an action of and from himself, but he maketh himself the end of his action; for to what purpose should a man devise and broach new notions, but for some selfish advantage, that he may get some profit, or some honour and applause from men? But if a man acts as servant to another, and seeketh only the honour and applause of another, he is true, and cannot be presumed to have spoken of and from himself, but of and from him whose honour and glory he seeketh to advance; and in reason ought to be judged sincere and faithful in the execution of the trust committed to him, and to be without fraud and deceit, having no unrighteousness in him; there being no just cause to be presumed which should move him to speak any thing that is false."
+    },
+    {
+     "id": "poole/JHN.7.18#p3-5f941a0f",
+     "text": "Hence also may be learned a good rule or direction, which divines ordinarily make use of to help us to judge of the truth of doctrines. Those doctrines which most tend to the advancing the honour and glory of God, and least to the advancement of the creature, those are most likely to be of God. And this also much tendeth to confirm the reputation of holy writ, and the penmen of it; for it is manifest that the penmen of it sought not their own glory in their writings, but the honour and glory of God, taking all shame to themselves."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.19",
+   "range": "JHN.7.19",
+   "kind": "passage",
+   "hash": "75a921a4",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.19#p1-75a921a4",
+     "text": "Moses was God’s instrument in delivering his law to the people, Exo 24:3 Deu 33:4; a law which none of them exactly kept, but daily broke. Why do you (saith our Saviour) make it such a capital crime (suppose you were not in an error, but I had in this one point of the sabbath violated the law) in me to break the law, that you for it would have my blood? How cometh it to be a more heinous offence in me to break the law in one thing, than it is in you, who violate it in so many things? Or, do not you think it a capital crime maliciously to go about to destroy an innocent person? Is not that a greater breach, think you, of the sixth commandment, than what I have done is of the fourth? Supposing that had been any breach of the law at all, which indeed it was not.",
+     "refs": [
+      {
+       "text": "Exo 24:3",
+       "ref": "EXO.24.3"
+      },
+      {
+       "text": "Deu 33:4",
+       "ref": "DEU.33.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.20",
+   "range": "JHN.7.20",
+   "kind": "passage",
+   "hash": "80d57f60",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.20#p1-f34edcbe",
+     "text": "The Jews had an opinion, that whosoever was beside himself, and talked distractedly, was influenced with an evil spirit; so as,"
+    },
+    {
+     "id": "poole/JHN.7.20#p2-8f7fcdd9",
+     "text": "is no more than, Thou art mad; unless we will take the phrase as a mere term of reproach, such as we ordinarily hear at this day from some men in their passions, when they hear any speak what is false, and hath no congruity with truth, according to their apprehensions, saying, The devil is in you: the former is the milder interpretation, though in that was sin enough, considering who it is that spake.",
+     "anchor": "Thou hast a devil"
+    },
+    {
+     "id": "poole/JHN.7.20#p3-88c4a95f",
+     "text": "Who goeth about to kill thee? It is very probable that the common people (to whom our Saviour was now speaking) knew nothing of the design of their rulers, mentioned Joh 5:18, so spake this innocently, (though in their passion), having no such design in their hearts; but they ought not so peremptorily to have denied what our Saviour positively affirmed, who knew the designs and counsels of all men’s hearts, though they knew them not.",
+     "refs": [
+      {
+       "text": "Joh 5:18",
+       "ref": "JHN.5.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.21",
+   "range": "JHN.7.21",
+   "kind": "passage",
+   "hash": "db2b14ba",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.21#p1-db2b14ba",
+     "text": "By the one miracle it is plain, by what followeth, that he meaneth healing the man who lay at the pool of Bethesda; at this, he saith, they marvelled, by which is to be understood offended, for so it is expounded by χολατε, Joh 7:23; and to this sense is our Saviour’s subsequent discourse.",
+     "refs": [
+      {
+       "text": "Joh 7:23",
+       "ref": "JHN.7.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.22",
+   "range": "JHN.7.22",
+   "kind": "passage",
+   "hash": "0f688f90",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.22#p1-f1d3a7ff",
+     "text": "The particle therefore, or, for this, δια τουτο, maketh in this verse a great difficulty, what the meaning of it should be. The most probable account of it is, that it belongeth to the former verse, which should end thus, and ye all marvel for this. This indeed maketh all plain; otherwise it is very hard to give an account what force it can have, if we consider it as a note of a cause."
+    },
+    {
+     "id": "poole/JHN.7.22#p2-bbb4b708",
+     "text": "Moses gave you circumcision, that is, a law about circumcision; yet that law had not its rise from Moses: the law was given to your father Abraham, Gen 17:10, long before Moses’s time. In obedience to that law, you circumcise a male child, or a proselyte, that is, a man grown, on the sabbath day.",
+     "refs": [
+      {
+       "text": "Gen 17:10",
+       "ref": "GEN.17.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.23",
+   "range": "JHN.7.23",
+   "kind": "passage",
+   "hash": "c0601b89",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.23#p1-42dd63b0",
+     "text": "The strength of this whole argument seemeth to be this: If a ritual law (such was that for observation of the sabbath, given in Mount Sinai, Exo 20:1-17) may give place to another ritual law which is more ancient, (such was that of circumcision, given to Abraham long before), much more ought it to give place to a law of nature written in every man’s heart, viz. that it is our duty to help those that are in great degrees of misery and affliction; which is what I paid obedience to in curing the impotent man that lay at the pool of Bethesda. Do you yield this in your daily practice, that a man may be circumcised, yea, and ought to be circumcised, on the eighth day, though it happeneth to be the sabbath day; and not to do it were a violation of the law of Moses about circumcision, which was a law given you by Moses, though, before him, to Abraham also? What reason then have you to be angry with me, who on the sabbath day have only healed a man, and made him",
+     "refs": [
+      {
+       "text": "Exo 20:1-17",
+       "ref": "EXO.20.1-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.23#p2-2bc5c27d",
+     "text": "That is, (as some think), I have not only cured him as to his body, but as to his soul; but that hardly seemeth probable; for if it were so, the Jews could have no evidence of the spiritual cure. Others therefore think that the term ολον ανθρωπον, signifieth no more than perfectly, or completely whole, as to his body.",
+     "anchor": "every whit whole?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.24",
+   "range": "JHN.7.24",
+   "kind": "passage",
+   "hash": "4849eeb1",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.24#p1-4849eeb1",
+     "text": "Do not judge persons, and condemn me for what I have done, merely out of your hatred, prejudice, and malice against me. Or, do not judge according to the first appearance of this fact. It looketh to you as a violation of the sabbath; it is not indeed so, but the performance of a duty greater than that of sanctifying the sabbath is. Judge righteously, and do not condemn in me what you yourselves do in other causes, because of your hatred to and prejudice against me; nor condemn an action which is in itself a righteous action, and not deserving condemnation."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.25",
+   "range": "JHN.7.25",
+   "kind": "passage",
+   "hash": "704b1c68",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.25#p1-704b1c68",
+     "text": "Those who here speak are said to be of Jerusalem, (probably citizens), who knew more of the designs and counsels of the chief priests and elders, than those who said before, Joh 7:20, Thou hast a devil: who seeketh to kill thee?",
+     "refs": [
+      {
+       "text": "Joh 7:20",
+       "ref": "JHN.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.26",
+   "range": "JHN.7.26",
+   "kind": "passage",
+   "hash": "f9671c4b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.26#p1-f9671c4b",
+     "text": "The first search being over, it is probable that the rulers had not heard that Christ was come up to the feast; this made the people think that they had some knowledge that he was the Messias, otherwise they would have taken some course to have restrained his so free and open discoursing: but we shall in the latter part of this chapter find that they were mistaken; for as soon as they heard where he was, and what he was doing, they used all means they could to apprehend him."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.27",
+   "range": "JHN.7.27",
+   "kind": "passage",
+   "hash": "e1b106b7",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.27#p1-5d12fc0e",
+     "text": "we know he is of Nazareth, and that Joseph is his reputed father. They also knew whence the Messias was to come, that he was to be of the family of David, of the tribe of Judah, of the town of Bethlehem: the chief priests and scribes answered Herod to that purpose, without the least hesitation, Mat 2:5,6, but they had no revelation to guide them to know of what particular family he should be: thus this verse is easily reconciled to Joh 7:42. Others think that they spake of the second manifestation of Christ.",
+     "anchor": "We know this man whence he is",
+     "refs": [
+      {
+       "text": "Mat 2:5",
+       "ref": "MAT.2.5"
+      },
+      {
+       "text": "Joh 7:42",
+       "ref": "JHN.7.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.27#p2-c4a7627b",
+     "text": "They had a tradition, which was bottomed on holy writ, That he was to come out of Bethlehem: but then they had another tradition, that he should be taken away from thence, and hidden for some years, and then again appear as a person unknown whence he came. Which opinion, say some, was bottomed on the revelations of the Old Testament concerning a double regeneration of Christ, Isa 53:8, Who shall declare his generation? and Mic 5:2; the one of which is to be understood of his eternal generation, which none can declare; the other, as to the generation of his human nature.",
+     "refs": [
+      {
+       "text": "Isa 53:8",
+       "ref": "ISA.53.8"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.27#p3-b3737b4a",
+     "text": "But the Jews not understanding that the Messiah was to be God man, understood both of his human nature; which made them fancy, that though he was to be born at Bethlehem, according to Mic 5:2, yet he was to be carried away for some years some where; so as when he came to appear to the world, none should know whence he came, but he should appear as a man dropped down from heaven. Now Christ having been offered in the temple at his mother’s purification, went back again with his parents, Luk 2:39, came to Nazareth, and ordinarily went up to Jerusalem; there he was found disputing with the doctors, Joh 7:46; and at last we find him resting with his parents at Nazareth, and being subject to them; after which we read no more of him, till he came to John to be baptized: so as the Jews had known and observed the whole course of Christ’s life.",
+     "refs": [
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Luk 2:39",
+       "ref": "LUK.2.39"
+      },
+      {
+       "text": "Joh 7:46",
+       "ref": "JHN.7.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.28",
+   "range": "JHN.7.28",
+   "kind": "passage",
+   "hash": "b9f36572",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.28#p1-b9f36572",
+     "text": "you might have known me by the doctrine which I have taught, and the miracles which I have wrought among you; and you had known me, if you had not shut your eyes against the light, which shone in your face: or, you say and think that you know me. Others think that it is an irony, or as a question, Do you know me so well? If you did, you would know that I came not of myself, but was sent by my Father; and he that sent me is truth itself: but you know not the Father, and therefore cannot know me as indeed I am.",
+     "anchor": "Ye both know me, and ye know whence I am"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.29",
+   "range": "JHN.7.29",
+   "kind": "passage",
+   "hash": "bc5a9c36",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.29#p1-05e13d6a",
+     "text": "so as no man else knoweth him, Mat 11:27; I know his essence, his will, his counsels, his laws;",
+     "anchor": "I know him",
+     "refs": [
+      {
+       "text": "Mat 11:27",
+       "ref": "MAT.11.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.29#p2-b2cf3062",
+     "text": "by an eternal generation, his only begotten Son; and I am sent by him, as the Mediator and Saviour of the world, to declare and to execute his will and pleasure, as to man’s salvation.",
+     "anchor": "for I am from him"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.30",
+   "range": "JHN.7.30",
+   "kind": "passage",
+   "hash": "80c60a13",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.30#p1-80c60a13",
+     "text": "By this time the news was come to the sanhedrim, the great court of the Jews, to whom belonged the cognizance of church affairs, false prophets, blasphemy, violation of the sabbath, &c.: they took counsel, and used endeavours to apprehend him; or it may be, some of the ruder sort of people that were his enemies used some such endeavours, but not with any effect; for by the mighty providence of God, who had set the time when Christ should suffer, till that hour was come, mentioned also Joh 8:20 12:23, there was such a restraint upon the rage of the rabble, yea, (as we shall hereafter hear), upon the spirits of the officers, who were sent from the sanhedrim to apprehend him, that they had no power to lay hold upon him. Men shall do us no hurt, till God’s time comes. A sparrow falls not to the ground without the will of our Father.",
+     "refs": [
+      {
+       "text": "Joh 8:20",
+       "ref": "JHN.8.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.31",
+   "range": "JHN.7.31",
+   "kind": "passage",
+   "hash": "85e5e26c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.31#p1-85e5e26c",
+     "text": "not as the true Messias; for the next words let us know, they did not believe him to be the Christ, but looked for him to come; but they gave credit to him as a great prophet sent from God; and doubted whether the miracles which he wrought were not as many and as great as ever the Messiah would do when he came. For though John reports but a few miracles wrought by Christ, yet they were such as required a Divine power to produce; such as turning the water into wine, multiplying the loaves, raising Lazarus from the dead, &c. And John tells us, Joh 20:30 Joh 21:25, that he did many more works than he hath recorded in this book; and many more are recorded by the other three evangelists. From hence may be observed the falsehood of the later Jews, who deny that the Messiah is to work any miracles; for it is apparent from hence, that they had in our Saviour’s time a general expectation that great miracles should be done by the Messiah; and their expectation was truly founded upon Isa 35:5,6, as appeareth by Mat 11:5.",
+     "anchor": "And many of the people believed on him",
+     "refs": [
+      {
+       "text": "Joh 20:30",
+       "ref": "JHN.20.30"
+      },
+      {
+       "text": "Joh 21:25",
+       "ref": "JHN.21.25"
+      },
+      {
+       "text": "Isa 35:5",
+       "ref": "ISA.35.5"
+      },
+      {
+       "text": "Mat 11:5",
+       "ref": "MAT.11.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.32",
+   "range": "JHN.7.32",
+   "kind": "passage",
+   "hash": "7d1fb777",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.32#p1-7d1fb777",
+     "text": "here is taken in a different sense from what it was before, and signifieth as much as whispered, or talked privately among themselves. The chief priests, who were afraid that their honour would abate amongst the people; and the Pharisees, who were afraid the credit of their traditions would be lost, if they suffered him to go on; and being more especially troubled for the miracles which he daily wrought, as Joh 11:47; they send messengers from their great court (kept at Jerusalem) to apprehend him.",
+     "anchor": "Murmured",
+     "refs": [
+      {
+       "text": "Joh 11:47",
+       "ref": "JHN.11.47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.33",
+   "range": "JHN.7.33",
+   "kind": "passage",
+   "hash": "bbdf43d5",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.33#p1-bbdf43d5",
+     "text": "Whether Christ spake these words to the officers sent to apprehend him, or to the people in the temple, is not much material to be known: he by them plainly declareth, that all their endeavours against him were vain and foolish; for he should yet live with them six months, (this was in September or October, he died at the next passover, which was about six months after this), and then he should go and willingly lay down his life for the sins of the world, rise again from the dead, and ascend unto his Father who sent him into the world."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.34",
+   "range": "JHN.7.34",
+   "kind": "passage",
+   "hash": "7d34c73b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.34#p1-1f021484",
+     "text": "Some think the meaning is, Ye shall seek me to execute your malice upon me, but to no purpose, for you"
+    },
+    {
+     "id": "poole/JHN.7.34#p2-68a08e59",
+     "text": "Or, You shall seek me to destroy me in my church, and to root out my name; but to no purpose. But the most probable sense is this: You wicked Jews, that now contemn the means of grace by me offered to you, shall one day be in distress and calamity enough; and when you are so, then you will wish I were again amongst you; but I shall be ascended to my Father, and as deaf to your prayers as above the reach of your malice. There is much the same thing said in Mat 23:39. That he here speaketh of his ascension is plain from Joh 13:33. He speaketh of heaven as a place where he was at that time, for so he was as to his Divine nature. It is υπαγω, whither I go, which makes some think it should not here be ειμι, but ειμι, vado. But others reject it, because it is a poetical word, hardly used in the New Testament.",
+     "anchor": "shall not find me",
+     "refs": [
+      {
+       "text": "Mat 23:39",
+       "ref": "MAT.23.39"
+      },
+      {
+       "text": "Joh 13:33",
+       "ref": "JHN.13.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.35",
+   "range": "JHN.7.35",
+   "kind": "passage",
+   "hash": "7f9d4061",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.35#p1-a531ca7e",
+     "text": "The Jews, not at all believing the Divine nature of Christ, notwithstanding all that Christ had said, and all the miracles he had wrought, are at a mighty loss to conclude what our Saviour spake of, and whither he would go; they thought he could go no where in the land of Jewry, but they should hear of him, and be able to come where he was; they conclude therefore that he would go into some pagan country. In the Greek it is, Will he go into the dispersion of the Grecians? There were two most famous dispersions, of which we read in history."
+    },
+    {
+     "id": "poole/JHN.7.35#p2-4b7c32ef",
+     "text": "The first was of the Jews, of which we read in sacred history, in the captivities of Assyria, whither the ten tribes were carried, 2Ki 17:6; and Babylon, whither the two tribes were carried, 2Ki 24:14. And that of the Grecians by the Macedonians; when also many of the Jews were dispersed by Alexander the Great, and his successors. Peter directeth his Epistle to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, 1Pe 1:1. And James directs his Epistle to the twelve tribes scattered abroad. They fancy that our Saviour would go into some of these places, and preach; by which means the Gentiles would be taught the mysteries of the Jewish religion, which was what above all things they were impatient of hearing; and yet had reason from the prophecies of the Old Testament to fear, viz. their own rejection, and the receiving in of the Gentiles, which afterward came to pass, Rom 11:15.",
+     "refs": [
+      {
+       "text": "2Ki 17:6",
+       "ref": "2KI.17.6"
+      },
+      {
+       "text": "2Ki 24:14",
+       "ref": "2KI.24.14"
+      },
+      {
+       "text": "1Pe 1:1",
+       "ref": "1PE.1.1"
+      },
+      {
+       "text": "Rom 11:15",
+       "ref": "ROM.11.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.36",
+   "range": "JHN.7.36",
+   "kind": "passage",
+   "hash": "7509c4b6",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.36#p1-7509c4b6",
+     "text": "This saying stuck in their stomachs, and they knew not what sense to put upon it; owning nothing of the Divine nature of Christ."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.37",
+   "range": "JHN.7.37",
+   "kind": "passage",
+   "hash": "bdc57b56",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.37#p1-4ef1d0a8",
+     "text": "Our Saviour thinketh not fit to take any notice of their guess, whither he would go, nor replies any thing to it. The feast of tabernacles was to hold seven days, Lev 23:34, in which they were to offer up burnt offerings, Lev 23:36. The eighth day was to be kept as a sabbath; there was in it to be a holy convocation, no servile labour was to be done. Christ on that day discoursed again to the people, crying aloud, and publicly,",
+     "refs": [
+      {
+       "text": "Lev 23:34",
+       "ref": "LEV.23.34"
+      },
+      {
+       "text": "Lev 23:36",
+       "ref": "LEV.23.36"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.37#p2-661c010b",
+     "text": "that is, If any man stand in need of any spiritual good, righteousness, strength, comfort, &c., it is to be found in me; let him come to me, by faith acknowledging, receiving, and embracing me, as the Mediator and Saviour of the world, and he shall have from me whatsoever spiritual influence of grace he stand in need of. Those who remember what our Saviour told the woman of Samaria, Joh 4:10,14, where he compared himself to living water, will easily understand this the sense of these words. The condition on our parts is expressed under the notion of thirsting; which we know is the natural appetite, craving some liquid thing to refresh the man under his drought; and it is expressive of an exceeding great passion, and so made use of both in the Old Testament and the New to signify a soul’s passionate desire of spiritual things, Isa 55:1 Mat 5:6.",
+     "anchor": "If any man thirst, let him come unto me, and drink",
+     "refs": [
+      {
+       "text": "Joh 4:10",
+       "ref": "JHN.4.10"
+      },
+      {
+       "text": "Isa 55:1",
+       "ref": "ISA.55.1"
+      },
+      {
+       "text": "Mat 5:6",
+       "ref": "MAT.5.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.38",
+   "range": "JHN.7.38",
+   "kind": "passage",
+   "hash": "4f311918",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.38#p1-93a6f6f3",
+     "text": "We have had frequent occasion to open the term of believing on Christ. It may be doubted, whether those words,"
+    },
+    {
+     "id": "poole/JHN.7.38#p2-390ca453",
+     "text": "be to be referred to the first or latter part of the text. If to the former, they are words expressive of that faith to which the following promise is made, which is not any assent, or slighty credit given to the word; but such a faith as the Scripture hath spoken of, as that faith which is justifying and saving.",
+     "anchor": "as the Scripture hath said"
+    },
+    {
+     "id": "poole/JHN.7.38#p3-348b4b38",
+     "text": "the general sense of the promises, that his soul shall abound with all saving and comfortable influences of saving grace.",
+     "anchor": "Out of his belly shall flow rivers of living water"
+    },
+    {
+     "id": "poole/JHN.7.38#p4-73c6009c",
+     "text": "The belly signifieth the heart, that part of man which is called the heart being in the belly. So Job 15:35 Psa 40:8.",
+     "refs": [
+      {
+       "text": "Job 15:35",
+       "ref": "JOB.15.35"
+      },
+      {
+       "text": "Psa 40:8",
+       "ref": "PSA.40.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.38#p5-43705086",
+     "text": "The flowing of rivers of water, signifieth the plenty of spiritual influences with which believers shall be supplied; whether joy, knowledge, spiritual gifts, or graces. If any ask, where the Scripture speaketh this? I answer, in all those promises we meet with in the Old Testament, about pouring out the Spirit."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.39",
+   "range": "JHN.7.39",
+   "kind": "passage",
+   "hash": "23e81014",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.39#p1-23e81014",
+     "text": "For the evangelist tells us, that this referred to the Spirit, which believers were to receive after that Christ should be ascended into heaven. Those scriptures, Isa 49:10 58:11 Zec 14:8, seem, among others, to be referred to in this promise of our Saviour.",
+     "refs": [
+      {
+       "text": "Isa 49:10",
+       "ref": "ISA.49.10"
+      },
+      {
+       "text": "Zec 14:8",
+       "ref": "ZEC.14.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.40",
+   "range": "JHN.7.40",
+   "kind": "passage",
+   "hash": "42379099",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.40#p1-42379099",
+     "text": "mentioned Deu 18:15. Some think that the Jews expected an eminent prophet, besides Elias, to come before the Messiah; and Joh 1:21 would incline us to think so. But others say, it cannot be proved from their writers, that they had any expectations of any but Elias and the Messiah. But the words may be read as well, this is a prophet, as this is the prophet; and I think that is the true sense of them. A prophet had now for more than four hundred years been a great rarity amongst them, they having had none but John the Baptist who had such a repute.",
+     "anchor": "The Prophet",
+     "refs": [
+      {
+       "text": "Deu 18:15",
+       "ref": "DEU.18.15"
+      },
+      {
+       "text": "Joh 1:21",
+       "ref": "JHN.1.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.41",
+   "range": "JHN.7.41",
+   "kind": "passage",
+   "hash": "45c1c086",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.41#p1-45c1c086",
+     "text": "The people were divided in their opinions about Christ. Some of them were very well inclined to believe that he was the promised Messiah; but they stumbled at the country where alone they took notice of him. For though he came not out of Galilee, but was born in Bethlehem, Luk 2:4, according to the prophecy of him, Mic 5:2, suitable to which was their tradition, Mat 2:5; yet they had seen nothing of this, though possibly they had heard some relation of it, it being two and thirty years since his birth: but he was ordinarily called Jesus of Nazareth, and of Galilee, there he had lived and been educated; so as they knew no better, probably, than that he came out of Galilee, which was contrary to the prophecy, Mic 5:2.",
+     "refs": [
+      {
+       "text": "Luk 2:4",
+       "ref": "LUK.2.4"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Mat 2:5",
+       "ref": "MAT.2.5"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.42",
+   "range": "JHN.7.42",
+   "kind": "passage",
+   "hash": "038b69d5",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.42#p1-038b69d5",
+     "text": "The Scriptures of the Old Testament had both described the family from whence the Messiah was to arise, viz. the family of David, Psa 132:11, and the town, which was Bethlehem, Mic 5:2; which was David’s father’s town, where he lived also, till God called him out to the kingdom, 1Sa 17:15 20:6.",
+     "refs": [
+      {
+       "text": "Psa 132:11",
+       "ref": "PSA.132.11"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "1Sa 17:15",
+       "ref": "1SA.17.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.43",
+   "range": "JHN.7.43",
+   "kind": "passage",
+   "hash": "362e9c2f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.43#p1-362e9c2f",
+     "text": "A division as to their opinions about him, as was before expressed."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.44",
+   "range": "JHN.7.44",
+   "kind": "passage",
+   "hash": "ea1a40f8",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.44#p1-ea1a40f8",
+     "text": "There were some that had an ill opinion of Christ, and put on the officers that came for the purpose to apprehend him; but there was none so hardy as to do it."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.45",
+   "range": "JHN.7.45",
+   "kind": "passage",
+   "hash": "b8adeaa1",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.45#p1-b8adeaa1",
+     "text": "Probably the officers, Christ being amongst a multitude of the people that had a high opinion of him, durst not adventure to apprehend him. Some of them, as appeareth from what follows, were astonished at his doctrine; all of them agreed to return to their masters without him; at which they are angry, and ask them how it came to pass that they did not execute their commands, in bringing Christ before them as a malefactor, to answer what they should lay to his charge."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.46",
+   "range": "JHN.7.46",
+   "kind": "passage",
+   "hash": "2fc7a8b0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.46#p1-2fc7a8b0",
+     "text": "With so much authority, evidence of truth, &c. Yet they did not cordially believe in Christ; being under the power of carnal and worldly affection, which only supernatural special grace could subdue. These were some of those, in whom the prophecy of Christ, Isa 11:4, was to be fulfilled—He shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked. The word of the Lord doth often restrain, astonish, and amaze those on whom it hath no powerful effect to eternal life and salvation. So it was with these poor officers.",
+     "refs": [
+      {
+       "text": "Isa 11:4",
+       "ref": "ISA.11.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.47",
+   "range": "JHN.7.47",
+   "kind": "passage",
+   "hash": "14566925",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.47#p1-14566925",
+     "text": "You, who have us not only for your masters, whose commands you ought not to dispute, but to execute; but for your teachers also, from whom you might have learned better doctrine; are you seduced? For so wicked men count all who embrace not their notions, and follow not their ways."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.48",
+   "range": "JHN.7.48",
+   "kind": "passage",
+   "hash": "5d685aee",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.48#p1-5d685aee",
+     "text": "You ought to be ruled by us, and guided by us, who are your rulers, and your teachers: so early did the doctrine of implicit faith and obedience creep into the world; which is indeed to suppose an infallibility in teachers and rulers; to whom indeed we owe all imaginable reverence, but we must live by our own faith. And though the Jews were bound to do according to the sentence that the priests and Levites in Jerusalem should show them, Deu 17:10,11; yet it must be the sentence of the law, and it was in civil matters, as appeareth by Joh 7:8, controversies between blood and blood, plea and plea, stroke and stroke.",
+     "refs": [
+      {
+       "text": "Deu 17:10",
+       "ref": "DEU.17.10"
+      },
+      {
+       "text": "Joh 7:8",
+       "ref": "JHN.7.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.49",
+   "range": "JHN.7.49",
+   "kind": "passage",
+   "hash": "c136ac81",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.49#p1-c136ac81",
+     "text": "Out of the great pride of their hearts they vilify the people, as not learned in the law, and so were cursed, contemptible, and not to be regarded, as to their judgment and sentiments."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.50",
+   "range": "JHN.7.50",
+   "kind": "passage",
+   "hash": "80464437",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.50#p1-80464437",
+     "text": "Of Nicodemus we read, and of his coming by night to Jesus, Joh 3:1,2. He now, being one of this great court, stands up to speak for Christ, yet faintly, or at least very prudently and warily. He saith no more for him than he ought to have spoken for the greatest malefactor, viz.",
+     "refs": [
+      {
+       "text": "Joh 3:1",
+       "ref": "JHN.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.51",
+   "range": "JHN.7.51",
+   "kind": "passage",
+   "hash": "cb8bff32",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.51#p1-cb8bff32",
+     "text": "That no law of God or nature condemneth any man before they had heard him speak, or had what he did deposed by witnesses before them, that they might know what he did."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.52",
+   "range": "JHN.7.52",
+   "kind": "passage",
+   "hash": "11330ce1",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.52#p1-acd9b103",
+     "text": "not that they thought Nicodemus was a Galilean; they knew him well enough; but they take up this as a term of reproach against him, for that he would offer to speak one word (though never so just) on the behalf of one against whom they had such a perfect hatred.",
+     "anchor": "Art thou also of Galilee"
+    },
+    {
+     "id": "poole/JHN.7.52#p2-dc811ac2",
+     "text": "(say they) the Scriptures, and look if ever there came a prophet out of Galilee. Suppose this had been truth; yet,",
+     "anchor": "Search"
+    },
+    {
+     "id": "poole/JHN.7.52#p3-81a0aac7",
+     "text": "1. What did this concern our Saviour? Who was not born in Galilee, but in Judea, in Bethlehem, the city of David, Luk 2:4.",
+     "refs": [
+      {
+       "text": "Luk 2:4",
+       "ref": "LUK.2.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.7.52#p4-3a96f391",
+     "text": "2. Could not God when he pleased influence one of Galilee with the Spirit of prophecy? But,"
+    },
+    {
+     "id": "poole/JHN.7.52#p5-467bc9fc",
+     "text": "3. Neither was it true; for Nahum and Jonah were both Galilaeans, 2Ki 14:25, compared with Jos 19:13, (for the tribe of Zebulun had their lot in Galilee), Isa 9:1.",
+     "refs": [
+      {
+       "text": "2Ki 14:25",
+       "ref": "2KI.14.25"
+      },
+      {
+       "text": "Jos 19:13",
+       "ref": "JOS.19.13"
+      },
+      {
+       "text": "Isa 9:1",
+       "ref": "ISA.9.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.7.53",
+   "range": "JHN.7.53",
+   "kind": "passage",
+   "hash": "7f526179",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.7.53#p1-7f526179",
+     "text": "As little as Nicodemus said for Christ, it put a stop to their further proceedings against Christ at present. Some think that the party of the Sadducees in the council, who valued not the Pharisees’ rites and traditions, took part with Nicodemus; so as by the overruling hand of God Christ at this time escaped their wicked counsels against him. So much is certain; but what parties in the council concurred in it, is uncertain."
+    }
+   ]
+  }
+ ]
+}

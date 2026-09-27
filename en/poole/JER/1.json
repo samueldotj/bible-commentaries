@@ -1,0 +1,964 @@
+{
+ "source": "poole",
+ "book": "JER",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/JER.1",
+   "range": "JER.1",
+   "kind": "chapter",
+   "hash": "a6d79873",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1#p1-a6d79873",
+     "text": "The pedigree, time, and calling of Jeremiah; confirmed against his excuses, Jer 1:1-10. His visions of an almond rod and a seething pot, Jer 1:11-14. His heavy message against Judah, Jer 1:15,16. God promiseth him his assistance, Jer 1:17-19.",
+     "refs": [
+      {
+       "text": "Jer 1:1-10",
+       "ref": "JER.1.1-10"
+      },
+      {
+       "text": "Jer 1:11-14",
+       "ref": "JER.1.11-14"
+      },
+      {
+       "text": "Jer 1:15",
+       "ref": "JER.1.15"
+      },
+      {
+       "text": "Jer 1:17-19",
+       "ref": "JER.1.17-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.1",
+   "range": "JER.1.1",
+   "kind": "passage",
+   "hash": "fb0efbff",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.1#p1-3db482b0",
+     "text": "i.e. sermons or prophecies, which he received from God, (as being his mouth to declare them unto the people,) and comprised all in the volume of this book going under his name, as the matter and substance of them. See Poole \"Isa 2:1\".",
+     "anchor": "The words",
+     "refs": [
+      {
+       "text": "Isa 2:1",
+       "ref": "ISA.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.1#p2-d266bec7",
+     "text": "as this serves to distinguish him from other priests, so his being of Anathoth ranks him among the common priests; not that high priest mentioned 2Ki 22:8, under whose progeny Jeremiah is not named, 1Ch 6:13; who, it is probable, would have been named, being one of so much note, and who always lived at Jerusalem, not at Anathoth, which was a city three miles from Jerusalem, lotted out of the tribe of Benjamin for the priests, Jos 21:18. Of an ordinary teacher he was made a prophet, not so the rest.",
+     "anchor": "The son of Hilkiah",
+     "refs": [
+      {
+       "text": "2Ki 22:8",
+       "ref": "2KI.22.8"
+      },
+      {
+       "text": "1Ch 6:13",
+       "ref": "1CH.6.13"
+      },
+      {
+       "text": "Jos 21:18",
+       "ref": "JOS.21.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.1#p3-9273bb9c",
+     "text": "i.e. that part of Canaan that fell to Benjamin’s share.",
+     "anchor": "In the land of Benjamin"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.2",
+   "range": "JER.1.2",
+   "kind": "passage",
+   "hash": "09541a97",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.2#p1-2b3893c2",
+     "text": "either that commission from God that did authorize him to his prophetical work, as it may probably be taken, Joh 10:35, was actually given unto him, Jer 1:10; or, command of God, as it is used, 1Ki 12:24; or rather, the materials of which his prophecies were to consist, for the space of forty-one years successively, in Judea, viz. from the thirteenth year of Josiah to the eleventh year of Zedekiah, besides the time that he prophesied in Egypt. See Jer 43 Jer 44, as Isa 2:1.",
+     "anchor": "The word of the Lord",
+     "refs": [
+      {
+       "text": "Joh 10:35",
+       "ref": "JHN.10.35"
+      },
+      {
+       "text": "Jer 1:10",
+       "ref": "JER.1.10"
+      },
+      {
+       "text": "1Ki 12:24",
+       "ref": "1KI.12.24"
+      },
+      {
+       "text": "Isa 2:1",
+       "ref": "ISA.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.2#p2-dece367d",
+     "text": "i.e. during his reign and reformed state of religion.",
+     "anchor": "In the days of Josiah"
+    },
+    {
+     "id": "poole/JER.1.2#p3-7c0c663e",
+     "text": "who corrupted again that religion by those idolatries that his father Manasseh had in the latter part of his reign so well reformed by rooting of them out, 2Ch 33:21-23. In the thirteenth year; by which it appears that Jeremiah prophesied the last eighteen years of Josiah’s reign; for he reigned thirty-one years, 2Ki 22:1.",
+     "anchor": "Amon",
+     "refs": [
+      {
+       "text": "2Ch 33:21-23",
+       "ref": "2CH.33.21-23"
+      },
+      {
+       "text": "2Ki 22:1",
+       "ref": "2KI.22.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.3",
+   "range": "JER.1.3",
+   "kind": "passage",
+   "hash": "da5c04ad",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.3#p1-0d2516c7",
+     "text": "viz. the word of the Lord, as Jer 1:2,",
+     "anchor": "It",
+     "refs": [
+      {
+       "text": "Jer 1:2",
+       "ref": "JER.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.3#p2-bb3dc861",
+     "text": "called at first by Josiah, Eliakim, 2Ki 23:34. Jehoahaz and Jehoiachin, whereof the former reigned before him, 2Ki 23:31, the latter succeeded, 2Ki 24:8, are conceived not to be mentioned, because they reigned but each of them three months, and therefore not considerable, the Scripture often taking little notice of a small time, as of six months: compare 2Sa 5:5, with 1Ki 2:11: see Jer 1:2.",
+     "anchor": "came also in the days of Jehoiakim",
+     "refs": [
+      {
+       "text": "2Ki 23:34",
+       "ref": "2KI.23.34"
+      },
+      {
+       "text": "2Ki 23:31",
+       "ref": "2KI.23.31"
+      },
+      {
+       "text": "2Ki 24:8",
+       "ref": "2KI.24.8"
+      },
+      {
+       "text": "2Sa 5:5",
+       "ref": "2SA.5.5"
+      },
+      {
+       "text": "1Ki 2:11",
+       "ref": "1KI.2.11"
+      },
+      {
+       "text": "Jer 1:2",
+       "ref": "JER.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.3#p3-798c228d",
+     "text": "of whom read 1Ch 3:15,16.",
+     "anchor": "Zedekiah",
+     "refs": [
+      {
+       "text": "1Ch 3:15",
+       "ref": "1CH.3.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.3#p4-4ce65bd8",
+     "text": "i.e. the inhabitants of Jerusalem, namely, under Zedekiah, 2Ki 25:11, during all which time, things standing in that state and condition, Jeremiah prophesied. This doth not terminate the time of his prophecies, for he prophesied also both in Judea, and in Egypt afterwards; but only relates to what he prophesied while the city and temple were standing, the rest seeming rather to be added as a supplement, than to be reduced unto this general title of his prophecies.",
+     "anchor": "Unto the carrying away of Jerusalem captive",
+     "refs": [
+      {
+       "text": "2Ki 25:11",
+       "ref": "2KI.25.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.3#p5-3c645b0e",
+     "text": "viz. of that present year; for though the year end not at the fifth month, yet it might end the year of Zedekiah’s reign, because he might begin his reign at the fifth month of the year.",
+     "anchor": "In the fifth month"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.4",
+   "range": "JER.1.4",
+   "kind": "passage",
+   "hash": "84cb3922",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.4#p1-50aa975e",
+     "text": "i. e. when he was first called to his office; or, The Lord then began to speak unto me.",
+     "anchor": "Then"
+    },
+    {
+     "id": "poole/JER.1.4#p2-d386e89f",
+     "text": "a change of the person, a thing very usual with the prophets.",
+     "anchor": "Me"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.5",
+   "range": "JER.1.5",
+   "kind": "passage",
+   "hash": "739bebf2",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.5#p1-ba66d14a",
+     "text": "i.e. womb, Isa 46:3. Having spoken before of the time of his call, Jer 1:4, he now speaks of the manner of it.",
+     "anchor": "Before I formed thee in the belly",
+     "refs": [
+      {
+       "text": "Isa 46:3",
+       "ref": "ISA.46.3"
+      },
+      {
+       "text": "Jer 1:4",
+       "ref": "JER.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.5#p2-8d2dcc57",
+     "text": "i.e. approved and appointed thee, as a fit minister for this work. Words of knowledge among the Hebrews note affection, as hath been formerly noted.",
+     "anchor": "I knew thee"
+    },
+    {
+     "id": "poole/JER.1.5#p3-e41c0dd1",
+     "text": "viz. not with saving grace, though that need not to be excluded; but accordingly I prepared and ordained thee for this public service; and thus with Paul, Gal 1:15, where both are expressed. See the like use of the word Isa 13:3. He speaks thus to Jeremiah, not to the other prophets, because he stood in need of greater and more direct encouragement than they, both in respect of the tenderness of his years, and also of those insuperable difficulties which in those most degenerate and corrupt times he must unavoidably encounter with, which might cause him to decline the work, Jer 1:6.",
+     "anchor": "I sanctified thee",
+     "refs": [
+      {
+       "text": "Gal 1:15",
+       "ref": "GAL.1.15"
+      },
+      {
+       "text": "Isa 13:3",
+       "ref": "ISA.13.3"
+      },
+      {
+       "text": "Jer 1:6",
+       "ref": "JER.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.5#p4-498f683c",
+     "text": "either with reference to place, to other nations besides the Jews, as appears, Jer 43 Jer 46 Jer 47, &c, taking the Jews in among them, as Jer 25:17,18, and so",
+     "anchor": "Unto the nations",
+     "refs": [
+      {
+       "text": "Jer 25:17",
+       "ref": "JER.25.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.5#p5-d5e36675",
+     "text": "may be taken for against, as it is often expressed in those places and elsewhere; or with reference to time, to people of all times, who may be instructed by this book, or whose words are made use of, both by several prophets of the Old Testament, as Daniel, Ezekiel, Nehemiah, &c., and by our Saviour in the New; by Mat 2:17,18; by Paul, 2Co 6:18; and by St. John, Rev 2:23.",
+     "anchor": "unto",
+     "refs": [
+      {
+       "text": "Mat 2:17",
+       "ref": "MAT.2.17"
+      },
+      {
+       "text": "2Co 6:18",
+       "ref": "2CO.6.18"
+      },
+      {
+       "text": "Rev 2:23",
+       "ref": "REV.2.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.6",
+   "range": "JER.1.6",
+   "kind": "passage",
+   "hash": "6a096459",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.6#p1-c64e265d",
+     "text": "an introductory interjection, making way for his excuse in a way of grief and complaint, endeavouring with all reverence to clear himself of undertaking such a work rashly, it being properly the sigh of one that hath too great a weight upon his shoulders.",
+     "anchor": "Ah!"
+    },
+    {
+     "id": "poole/JER.1.6#p2-b018ea8b",
+     "text": "not dumb, as Zacharias, Luk 1:20,22, nor stammering, as Moses, Exo 4:10,14; but not with that becoming gravity and commanding majesty as is suitable to a prophet; he modestly excuseth himself, from a consideration of the weight of the work, and the tenderness of his age, as in the next expression.",
+     "anchor": "I cannot speak",
+     "refs": [
+      {
+       "text": "Luk 1:20",
+       "ref": "LUK.1.20"
+      },
+      {
+       "text": "Exo 4:10",
+       "ref": "EXO.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.6#p3-a12a5354",
+     "text": "either,",
+     "anchor": "I am a child"
+    },
+    {
+     "id": "poole/JER.1.6#p4-b4ddc1b1",
+     "text": "1. In years, and so not ripe or apt for the declaring of great things, and that to princes and nobles. Or,"
+    },
+    {
+     "id": "poole/JER.1.6#p5-862263e8",
+     "text": "2. In experience, being altogether unskilful in such affairs, not having been used to prophesy, and therefore in neither respect likely to be much regarded."
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.7",
+   "range": "JER.1.7",
+   "kind": "passage",
+   "hash": "3edeeec1",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.7#p1-5cb5ac12",
+     "text": "do not plead excuses.",
+     "anchor": "Say not, I am a child"
+    },
+    {
+     "id": "poole/JER.1.7#p2-c39a136d",
+     "text": "this is God’s answer to Jeremiah, in respect of his sense of his own inability. This may be by way of command, and then it is a check to his timorousness; Thou shalt go, therefore draw not back. Or by way of promise, and then it is a satisfactory answer to his excuse, as both proceeded from a sense of his own insufficiency: q.d. Fear not, I will make thee eloquent and courageous.",
+     "anchor": "Thou shalt go"
+    },
+    {
+     "id": "poole/JER.1.7#p3-120b9249",
+     "text": "this relates either to persons or things.",
+     "anchor": "To all"
+    },
+    {
+     "id": "poole/JER.1.7#p4-1ae80a71",
+     "text": "i.e. to all persons to whom I shall send thee; thou shalt balk none: see Rev 10:11. Or,",
+     "anchor": "To all",
+     "refs": [
+      {
+       "text": "Rev 10:11",
+       "ref": "REV.10.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.7#p5-25e39bfb",
+     "text": "so is the Hebrew; and then it is, Thou shalt go upon all errands and messages that I shall send thee. See Isa 55:11 Act 26:16.",
+     "anchor": "upon all",
+     "refs": [
+      {
+       "text": "Isa 55:11",
+       "ref": "ISA.55.11"
+      },
+      {
+       "text": "Act 26:16",
+       "ref": "ACT.26.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.8",
+   "range": "JER.1.8",
+   "kind": "passage",
+   "hash": "c42f4e58",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.8#p1-b6c3d071",
+     "text": "their fierce looks, Eze 3:9, the indication of their enraged minds, Dan 3:19; neither when thou deliverest my message to them, nor when thou mayst be cited before them, Mat 10:18,19. This is God’s answer to Jeremiah’s fears in respect of the persons he was to deal with, as the other was in respect of his own consciousness of insufficiency; and he mentions their faces, because the majestic countenance of princes and magistrates is apt to strike a great awe and terror upon children.",
+     "anchor": "Be not afraid of their faces",
+     "refs": [
+      {
+       "text": "Eze 3:9",
+       "ref": "EZK.3.9"
+      },
+      {
+       "text": "Dan 3:19",
+       "ref": "DAN.3.19"
+      },
+      {
+       "text": "Mat 10:18",
+       "ref": "MAT.10.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.8#p2-b8415f3a",
+     "text": "I will not only send thee as other kings do their ambassadors, but I will go with thee. This God promises to Moses, Exo 3:12 Deu 31:6,8.",
+     "anchor": "I am with thee",
+     "refs": [
+      {
+       "text": "Exo 3:12",
+       "ref": "EXO.3.12"
+      },
+      {
+       "text": "Deu 31:6",
+       "ref": "DEU.31.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.8#p3-457282d3",
+     "text": "here God promises his protection for encouragement.",
+     "anchor": "To deliver thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.9",
+   "range": "JER.1.9",
+   "kind": "passage",
+   "hash": "1c2a2cf4",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.9#p1-3bdf134c",
+     "text": "God having before excited the prophet to his work by command and promise, doth now in a vision establish and confirm him, either by the hand of an angel, Isa 6:6,7, or rather, by himself in some visible shape.",
+     "anchor": "Then the Lord put forth his hand",
+     "refs": [
+      {
+       "text": "Isa 6:6",
+       "ref": "ISA.6.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.9#p2-363be693",
+     "text": "Heb. came upon, as the word is used, Jud 20:41, hereby enabling him to speak; or, Thou shalt be my mouth to deliver my words; partly, to let Jeremiah understand that they were God’s words; and partly, to intimate that they should be effectual; and partly, that he should never be without them, but continually supplied. See the like kind of phrase Jer 5:14. And he adds,",
+     "anchor": "Touched",
+     "refs": [
+      {
+       "text": "Jud 20:41",
+       "ref": "JUD.20.41"
+      },
+      {
+       "text": "Jer 5:14",
+       "ref": "JER.5.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.9#p3-51cf4f55",
+     "text": "q.d. Attend to what I am about to say; or, Look upon this outward sign, and let it assure thee of the thing signified.",
+     "anchor": "Behold"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.10",
+   "range": "JER.1.10",
+   "kind": "passage",
+   "hash": "7dd8a851",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.10#p1-0d5cbb5b",
+     "text": "having now received his commission, he is directed to whom he is to go, viz. to the greatest, not only single persons, but whole nations, as the Babylonians, Persians, and Egyptians, and exhorted to greatness of mind, as being sent as an ambassador from God, to deliver his messages without flattery or cowardice; and that he might make that proud people sensible of their folly, that looked upon themselves as above reproof, he gives unto his prophet this large authority.",
+     "anchor": "I have this day set thee over the nations and over the kingdoms"
+    },
+    {
+     "id": "poole/JER.1.10#p2-ad08a8b9",
+     "text": "i.e. to prophesy that I will pull down; which I will as certainly effect as if thou hadst done it thyself; for, according to Scripture usage, the prophets are said to do that which they foretell shall come to pass, Gen 49:7 Eze 43:3, i.e. to pronounce destruction; hence God is said to slay them by the words of his mouth, Hos 6:5; and so are all the following expressions to be understood.",
+     "anchor": "To pull down",
+     "refs": [
+      {
+       "text": "Gen 49:7",
+       "ref": "GEN.49.7"
+      },
+      {
+       "text": "Eze 43:3",
+       "ref": "EZK.43.3"
+      },
+      {
+       "text": "Hos 6:5",
+       "ref": "HOS.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.10#p3-d36f90c8",
+     "text": "metaphors taken from architects and gardeners. Either the former words relate to the enemies of God, and the latter to his friends; or rather, to both conditionally. If they repent, he will build them up, i.e. he will increase their families, and plant them, viz. settle them in the land, Jer 24:6. If they do not, he will root them up, and pull them down, &c. He will do the contrary. Compare this with Jer 42:10, and Jer 45:4. The reason why God useth so many words to the same purpose seems to be, partly to show how deeply all kind of wickedness and contempt of God had taken root; which possibly may be one reason why he placeth pulling down and rooting up before building and planting, to show what a deal of rubbish there was to be removed before he could reform and repair his church and state; or rather, because the prophet was to begin with these in his prophecy, as appears by his second visions, Jer 1:11,13; and partly to quicken the prophet’s zeal against them.",
+     "anchor": "To build and to plant",
+     "refs": [
+      {
+       "text": "Jer 24:6",
+       "ref": "JER.24.6"
+      },
+      {
+       "text": "Jer 42:10",
+       "ref": "JER.42.10"
+      },
+      {
+       "text": "Jer 45:4",
+       "ref": "JER.45.4"
+      },
+      {
+       "text": "Jer 1:11",
+       "ref": "JER.1.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.11",
+   "range": "JER.1.11",
+   "kind": "passage",
+   "hash": "584602cd",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.11#p1-74766e0d",
+     "text": "This and the boiling caldron, Jer 1:13, is thought to be at the same time, and in the same vision, when he was first appointed to his work.",
+     "refs": [
+      {
+       "text": "Jer 1:13",
+       "ref": "JER.1.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.11#p2-84aa65e6",
+     "text": "viz. that had leaves, and possibly blossoms, on it, like Aaron’s, Num 17:8; for without leaves at least it is possible he had not so readily guessed of what kind it had been. This is a tree that blossoms early and speedily, and hence hath its name in Hebrew scaked, signifying watchful, forward, nimble, or quick; and so it may point at either God’s readiness to smite, Jer 1:12, which is described elsewhere by summer fruit, Amo 8:1,2; or Israel’s ripeness to be smitten, as we have the like Eze 7:10,11; or both; this rod being like a portentous comet, showing to Jeremiah the miseries that were at hand, as the death of Josiah, which soon followed this vision, 2Ki 23:29, and the taxing them by Pharaoh-nechoh, 2Ki 23:35, and presently after the breaking in of the Chaldees, Syrians, Moabites, and Ammonites, 2Ki 24:2, and then the Babylonian captivity, 2Ki 24:10, which happened in the eighth year of Jehoiachin, 2Ki 24:12, when Nebuchadnezzar took him with others, and carried them away, about twenty-three years from hence; and about the fortieth year Jerusalem was taken, and the temple burnt.",
+     "anchor": "A rod of an almond tree",
+     "refs": [
+      {
+       "text": "Num 17:8",
+       "ref": "NUM.17.8"
+      },
+      {
+       "text": "Jer 1:12",
+       "ref": "JER.1.12"
+      },
+      {
+       "text": "Amo 8:1",
+       "ref": "AMO.8.1"
+      },
+      {
+       "text": "Eze 7:10",
+       "ref": "EZK.7.10"
+      },
+      {
+       "text": "2Ki 23:29",
+       "ref": "2KI.23.29"
+      },
+      {
+       "text": "2Ki 23:35",
+       "ref": "2KI.23.35"
+      },
+      {
+       "text": "2Ki 24:2",
+       "ref": "2KI.24.2"
+      },
+      {
+       "text": "2Ki 24:10",
+       "ref": "2KI.24.10"
+      },
+      {
+       "text": "2Ki 24:12",
+       "ref": "2KI.24.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.12",
+   "range": "JER.1.12",
+   "kind": "passage",
+   "hash": "45b62a22",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.12#p1-a6293f8a",
+     "text": "or, Thou hast seen and judged right; or, as the Hebrew,",
+     "anchor": "Thou hast well seen"
+    },
+    {
+     "id": "poole/JER.1.12#p2-077c1e9f",
+     "text": "i.e. in seeing so.",
+     "anchor": "Thou hast done well to see"
+    },
+    {
+     "id": "poole/JER.1.12#p3-172e3a73",
+     "text": "word for word,",
+     "anchor": "I will hasten"
+    },
+    {
+     "id": "poole/JER.1.12#p4-17e9899b",
+     "text": "i.e. I will be upon them speedily, in a short time, and suddenly, ere they are aware; or, I will watch, and be ready to accomplish this in due time.",
+     "anchor": "I will almond-tree it"
+    },
+    {
+     "id": "poole/JER.1.12#p5-d57e3ceb",
+     "text": "i.e. my word of threatening against Judah and its inhabitants.",
+     "anchor": "My word"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.13",
+   "range": "JER.1.13",
+   "kind": "passage",
+   "hash": "7ae973dc",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.13#p1-0622cc41",
+     "text": "After the smaller punishment from the Lord follows this of the boiling pot, by which understand Judea and Jerusalem, as may appear by the application that they themselves make of it in a way of scorn and derision, Eze 11:3,7. Some put the",
+     "refs": [
+      {
+       "text": "Eze 11:3",
+       "ref": "EZK.11.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.13#p2-1d62bc97",
+     "text": "for the pot itself; as the face of the cold, the face of his anger, for cold and anger itself: q.d. I see a pot coming, meaning the Babylonian army flowing in upon them, like boiling or scalding water, as some interpret it: but this seems not to be so congruous to the vision; but rather thus, the Babylonians should besiege; as a fire plays round the furnace when it is to be made boil, so should these Chaldeans begirt it, as Jer 1:15, and reduce the inhabitants to most miserable extremities, with unspeakable cruelty, as if they were like flesh roasting by the fire, or boiling in a pot, as their sufferings are described, Mic 3:3.",
+     "anchor": "face of the pot",
+     "refs": [
+      {
+       "text": "Jer 1:15",
+       "ref": "JER.1.15"
+      },
+      {
+       "text": "Mic 3:3",
+       "ref": "MIC.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.13#p3-5a9d70a5",
+     "text": "or front of the pot, or furnace, the place where the fire was put in or blowed up to make it boil; as a pot, hanged in the form of a furnace, seems to be all but one and the same pot or vessel, the face of which may be easily conceived to stand toward the north, not the mouth of the pot, for that looks directly upward, unless we conceive it to be represented in the vision leaning, of which conceit there is no need.",
+     "anchor": "The face"
+    },
+    {
+     "id": "poole/JER.1.13#p4-29715cd8",
+     "text": "indicating from whence their misery should come, Jer 1:14, viz. from Chaldea, which lay north from Jerusalem.",
+     "anchor": "Is toward the north",
+     "refs": [
+      {
+       "text": "Jer 1:14",
+       "ref": "JER.1.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.14",
+   "range": "JER.1.14",
+   "kind": "passage",
+   "hash": "b22b8483",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.14#p1-1292e357",
+     "text": "explained this vision.",
+     "anchor": "The Lord said"
+    },
+    {
+     "id": "poole/JER.1.14#p2-c9f29699",
+     "text": "i.e. from Babylon, a metonymy of the subject; for though it lie eastward, yet it is north from Jerusalem, as lying four degrees more from the equinoctial. See Jer 1:13.",
+     "anchor": "Out of the north",
+     "refs": [
+      {
+       "text": "Jer 1:13",
+       "ref": "JER.1.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.14#p3-f5b46ce2",
+     "text": "it shall be withheld or restrained no longer in my treasure; I will let it out, viz. that evil of punishment represented by the fire.",
+     "anchor": "Shall break forth"
+    },
+    {
+     "id": "poole/JER.1.14#p4-d596906a",
+     "text": "though God gave almost all the then known world to the king of Babylon, yet here he understands the land of Judea, Jer 25:9.",
+     "anchor": "Of the land",
+     "refs": [
+      {
+       "text": "Jer 25:9",
+       "ref": "JER.25.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.15",
+   "range": "JER.1.15",
+   "kind": "passage",
+   "hash": "54c3b95f",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.15#p1-9450383a",
+     "text": "or, I am upon calling, it is at hand, I am about to incline the northern countries to join together in this work, Jer 6:22 10:22 25:9,26.",
+     "anchor": "I will call",
+     "refs": [
+      {
+       "text": "Jer 6:22",
+       "ref": "JER.6.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.15#p2-6c048c59",
+     "text": "or kindreds, viz. those divers countries and nations that were under one lord, as a chief ruler is called the father of his country.",
+     "anchor": "The families"
+    },
+    {
+     "id": "poole/JER.1.15#p3-1e9ddeed",
+     "text": "viz. the Babylonians and their assistants, the Medes also being in confederacy with them, whose king’s daughter Nebuchadnezzar married.",
+     "anchor": "The kingdoms"
+    },
+    {
+     "id": "poole/JER.1.15#p4-0c207a5b",
+     "text": "their seats, pavilions, or tents shall be pitched, which shall be as so many thrones, where I will see my judgments executed by the Chaldeans, Jer 52:4.",
+     "anchor": "They shall set every one his throne",
+     "refs": [
+      {
+       "text": "Jer 52:4",
+       "ref": "JER.52.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.15#p5-05889098",
+     "text": "at the entering to the gates, or way leading to the gates, Jud 9:35 2Ki 7:3 Jer 43:9, which besiegers have always a special regard to, that there be no going in or coming out, Isa 22:7.",
+     "anchor": "At the entering of the gates",
+     "refs": [
+      {
+       "text": "Jud 9:35",
+       "ref": "JUD.9.35"
+      },
+      {
+       "text": "2Ki 7:3",
+       "ref": "2KI.7.3"
+      },
+      {
+       "text": "Jer 43:9",
+       "ref": "JER.43.9"
+      },
+      {
+       "text": "Isa 22:7",
+       "ref": "ISA.22.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.15#p6-9f4f2527",
+     "text": "they shall begirt it round, noting the great multitude, power, and courage of the Chaldeans.",
+     "anchor": "Against all the walls thereof round about"
+    },
+    {
+     "id": "poole/JER.1.15#p7-3f9246cb",
+     "text": "there were none of them should fare any better than Jerusalem.",
+     "anchor": "Against all the cities"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.16",
+   "range": "JER.1.16",
+   "kind": "passage",
+   "hash": "722cbee3",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.16#p1-d0fdf082",
+     "text": "cause sentence to be passed according to my threatening. See Jer 39:5. Or, I will place my bounty and their unworthiness before them. Or, I will upbraid them with their ingratitude, rebellion, and breach of covenant, &c. I will speak with them by thee, Jeremiah, and others of my prophets. Who have forsaken me; either noting the persons against whom, or rather the cause for which, because they have forsaken me; the same particle being so used Jer 13:25, and elsewhere; or their sins whereby, as it is also expressed, Jer 16:11 22:9.",
+     "anchor": "I will utter my judgments",
+     "refs": [
+      {
+       "text": "Jer 39:5",
+       "ref": "JER.39.5"
+      },
+      {
+       "text": "Jer 13:25",
+       "ref": "JER.13.25"
+      },
+      {
+       "text": "Jer 16:11",
+       "ref": "JER.16.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.16#p2-f7817e53",
+     "text": "i.e. worshipped strange gods; a synecdoche of the part for the whole.",
+     "anchor": "Burnt incense unto other gods"
+    },
+    {
+     "id": "poole/JER.1.16#p3-612c31de",
+     "text": "i.e. their idolatrous images, expressed here by a periphrasis, Isa 2 8.",
+     "anchor": "The works of their own hands"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.17",
+   "range": "JER.1.17",
+   "kind": "passage",
+   "hash": "063c2084",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.17#p1-9f32c44e",
+     "text": "by this expression God quickens and hastens him upon his work, not to stand hesitating, but to be doing; prepare thyself: for it is a speech taken from the custom of the countries where they did wear long garments; and therefore they did gird them up about them, that they might not hinder them in any work that required expedition. See the phrase and practice Exo 12:11 2Ki 4:29, and in many other texts. It implies two things:",
+     "anchor": "Gird up thy loins",
+     "refs": [
+      {
+       "text": "Exo 12:11",
+       "ref": "EXO.12.11"
+      },
+      {
+       "text": "2Ki 4:29",
+       "ref": "2KI.4.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.17#p2-48889168",
+     "text": "1. Speed and despatch."
+    },
+    {
+     "id": "poole/JER.1.17#p3-383e52ed",
+     "text": "2. Courage and resolution, Job 38."
+    },
+    {
+     "id": "poole/JER.1.17#p4-f7cfe114",
+     "text": "another expression to the same purpose, to speed him about his work; the like Jer 13.",
+     "anchor": "Arise"
+    },
+    {
+     "id": "poole/JER.1.17#p5-14a980be",
+     "text": "Heb. shall command thee. Be not dismayed at their faces; discover no fear, and conceal no message. See Jer 1:8.",
+     "anchor": "Command thee",
+     "refs": [
+      {
+       "text": "Jer 1:8",
+       "ref": "JER.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.17#p6-c1fbd164",
+     "text": "Heb. break thee in pieces; either lest thou prove confused and shattered in thy notions, and unable to deliver thy message, lest I leave thee and forsake thee; or lest I terrify thee worse than they are able to do, even to ruin thee. See Mat 10:28.",
+     "anchor": "Confound thee",
+     "refs": [
+      {
+       "text": "Mat 10:28",
+       "ref": "MAT.10.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.17#p7-753abb49",
+     "text": "it seems to be spoken by way of aggravation; God would shame him, or destroy him, even in their sight, to become their reproach. Or, Think not to escape any more than Urijah, Jer 26:23.",
+     "anchor": "Before them",
+     "refs": [
+      {
+       "text": "Jer 26:23",
+       "ref": "JER.26.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.18",
+   "range": "JER.1.18",
+   "kind": "passage",
+   "hash": "8529bd33",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.18#p1-66238ecc",
+     "text": "Heb. For I, lo: q.d. For my part, I will not fail to do what I have promised, to stand by thee.",
+     "anchor": "For, behold"
+    },
+    {
+     "id": "poole/JER.1.18#p2-2aa5ce3c",
+     "text": "Heb. city of defence, impregnable, which the two following expressions do import; it should be supported with pillars, not of wood, but of iron, and encompassed with walls, not of stone, but of brass, noting hereby both great uprightness and also strength.",
+     "anchor": "A defenced city"
+    },
+    {
+     "id": "poole/JER.1.18#p3-fd707498",
+     "text": "i.e. all its inhabitants in general, none to be spared, as he doth particularly rank them in their several degrees in the following words, intimating hereby, that though men of all degrees should set themselves against him, yet God would support him against them all, and that he would carry him through his work, though his troubles and trials would be not only great, but long, viz. passing through several kings’ reigns, therefore possibly said kings here, in the plural.",
+     "anchor": "Against the whole land"
+    }
+   ]
+  },
+  {
+   "id": "poole/JER.1.19",
+   "range": "JER.1.19",
+   "kind": "passage",
+   "hash": "f702baaf",
+   "paragraphs": [
+    {
+     "id": "poole/JER.1.19#p1-dd567857",
+     "text": "make united attempts upon thee. See Jud 20:11.",
+     "anchor": "They shall fight against thee",
+     "refs": [
+      {
+       "text": "Jud 20:11",
+       "ref": "JUD.20.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.19#p2-5ce0a856",
+     "text": "they shall not be able, by all their devices, to shorten thy days, Jer 15:20 20:10,11.",
+     "anchor": "They shall not prevail",
+     "refs": [
+      {
+       "text": "Jer 15:20",
+       "ref": "JER.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/JER.1.19#p3-6379c865",
+     "text": "here is the reason given of his safety, God will be his guard. See Jer 1:8 2Ti 4:17,18.",
+     "anchor": "For I am with thee",
+     "refs": [
+      {
+       "text": "Jer 1:8",
+       "ref": "JER.1.8"
+      },
+      {
+       "text": "2Ti 4:17",
+       "ref": "2TI.4.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

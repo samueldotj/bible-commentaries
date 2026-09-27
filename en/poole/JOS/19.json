@@ -1,0 +1,650 @@
+{
+ "source": "poole",
+ "book": "JOS",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "poole/JOS.19",
+   "range": "JOS.19",
+   "kind": "chapter",
+   "hash": "b0cf8167",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19#p1-b0cf8167",
+     "text": "The second lot falls to Simeon; his borders among the tribe of Judah, whose inheritance was too great for them, Jos 19:1-9. The third lot falls to Zebulun, Jos 19:10-16. The fourth to Issachar, Jos 19:17-23. The fifth to Asher, Jos 19:24-31. The sixth to Naphtali, Jos 19:32-39. The seventh to Dan, Jos 19:40-48. The children of Israel give an inheritance to Joshua, Jos 19:49,50. The division of the land finished, Jos 19:51.",
+     "refs": [
+      {
+       "text": "Jos 19:1-9",
+       "ref": "JOS.19.1-9"
+      },
+      {
+       "text": "Jos 19:10-16",
+       "ref": "JOS.19.10-16"
+      },
+      {
+       "text": "Jos 19:17-23",
+       "ref": "JOS.19.17-23"
+      },
+      {
+       "text": "Jos 19:24-31",
+       "ref": "JOS.19.24-31"
+      },
+      {
+       "text": "Jos 19:32-39",
+       "ref": "JOS.19.32-39"
+      },
+      {
+       "text": "Jos 19:40-48",
+       "ref": "JOS.19.40-48"
+      },
+      {
+       "text": "Jos 19:49",
+       "ref": "JOS.19.49"
+      },
+      {
+       "text": "Jos 19:51",
+       "ref": "JOS.19.51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.1",
+   "range": "JOS.19.1",
+   "kind": "passage",
+   "hash": "7f83f42b",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.1#p1-19e809dc",
+     "text": "This was so ordered by God’s providence, partly, to fulfil that threatening that he would"
+    },
+    {
+     "id": "poole/JOS.19.1#p2-87dc5374",
+     "text": "this tribe",
+     "anchor": "divide and scatter"
+    },
+    {
+     "id": "poole/JOS.19.1#p3-5a7e8044",
+     "text": "Gen 49:7, which was hereby done in part, because they had no distinct part of their own, but were as inmates to Judah; partly, because now upon the more exact survey of the land it appeared to Joshua and Eleazar and all the princes and people, even to the tribe of Judah themselves, that the part given to Judah did far exceed the proportion which either they needed and could occupy, or which the other tribes could expect; and partly, because this was the least of the tribes, as is evident from Num 26:11, and therefore fittest to be put within another tribe.",
+     "anchor": "in Israel",
+     "refs": [
+      {
+       "text": "Gen 49:7",
+       "ref": "GEN.49.7"
+      },
+      {
+       "text": "Num 26:11",
+       "ref": "NUM.26.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.2",
+   "range": "JOS.19.2",
+   "kind": "passage",
+   "hash": "c52bb0ee",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.2#p1-fb45bfed",
+     "text": "Sheba, or,",
+     "anchor": "Beer-sheba"
+    },
+    {
+     "id": "poole/JOS.19.2#p2-cb01dbf8",
+     "text": "i.e. otherwise called; for that Beer-sheba and Sheba were one and the same city is manifest, both from Jos 19:6, where all the cities are reckoned to be but thirteen; and from 1Ch 4:28, where Simeon’s cities are enumerated, and Sheba omitted as superfluous.",
+     "anchor": "or Sheba",
+     "refs": [
+      {
+       "text": "Jos 19:6",
+       "ref": "JOS.19.6"
+      },
+      {
+       "text": "1Ch 4:28",
+       "ref": "1CH.4.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.3",
+   "range": "JOS.19.3",
+   "kind": "passage",
+   "hash": "3aa87fee",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.3#p1-c99e2142",
+     "text": "called also Bilhah, 1Ch 4:29; and Baalah, Jos 15:29. For let this be observed, once for all, that the names of persons or places are frequently changed through length of time, or difference of dialects, or study of brevity and easiness in pronunciation, or new accidents, or other causes. Thus Eltolad and Bethul, Jos 19:4 are called Tokad and Bethstel, 1Ch 4:29,30; and for",
+     "anchor": "Balah",
+     "refs": [
+      {
+       "text": "1Ch 4:29",
+       "ref": "1CH.4.29"
+      },
+      {
+       "text": "Jos 15:29",
+       "ref": "JOS.15.29"
+      },
+      {
+       "text": "Jos 19:4",
+       "ref": "JOS.19.4"
+      },
+      {
+       "text": "1Ch 4:29",
+       "ref": "1CH.4.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.3#p2-0d54afb5",
+     "text": "Jos 19:6, is Beth-birei, 1Ch 4:31.",
+     "anchor": "Beth-lebaoth",
+     "refs": [
+      {
+       "text": "Jos 19:6",
+       "ref": "JOS.19.6"
+      },
+      {
+       "text": "1Ch 4:31",
+       "ref": "1CH.4.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.6",
+   "range": "JOS.19.6",
+   "kind": "passage",
+   "hash": "7815f8ba",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.6#p1-7815f8ba",
+     "text": "or, towns, as some of them are called. 1Ch 4:32. Nor are all Simeon’s cities here numbered, for Etam is added, 1Ch 4:32, unless that were built afterward.",
+     "anchor": "Thirteen cities",
+     "refs": [
+      {
+       "text": "1Ch 4:32",
+       "ref": "1CH.4.32"
+      },
+      {
+       "text": "1Ch 4:32",
+       "ref": "1CH.4.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.10",
+   "range": "JOS.19.10",
+   "kind": "passage",
+   "hash": "3154a530",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.10#p1-3154a530",
+     "text": "is here put before Issachar, his elder brother, as he is also Gen 49:13,14 Deu 33:18.",
+     "anchor": "Zebulun",
+     "refs": [
+      {
+       "text": "Gen 49:13",
+       "ref": "GEN.49.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.11",
+   "range": "JOS.19.11",
+   "kind": "passage",
+   "hash": "c0909220",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.11#p1-64c855af",
+     "text": "i.e. the midland sea, as on the other side it reached to the sea of Galilee, and so those prophecies concerning him, Gen 49:13 Deu 33:18, were abundantly fulfilled.",
+     "anchor": "The sea",
+     "refs": [
+      {
+       "text": "Gen 49:13",
+       "ref": "GEN.49.13"
+      },
+      {
+       "text": "Deu 33:18",
+       "ref": "DEU.33.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.11#p2-3a8a7296",
+     "text": "supposed to be Kishon, Jud 4:7, or Belus, or Pagis.",
+     "anchor": "Jokneam",
+     "refs": [
+      {
+       "text": "Jud 4:7",
+       "ref": "JUD.4.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.12",
+   "range": "JOS.19.12",
+   "kind": "passage",
+   "hash": "83478628",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.12#p1-83478628",
+     "text": "a city in Issachar, as appears from Jos 21:18.",
+     "anchor": "Daberath",
+     "refs": [
+      {
+       "text": "Jos 21:18",
+       "ref": "JOS.21.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.15",
+   "range": "JOS.19.15",
+   "kind": "passage",
+   "hash": "50e23844",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.15#p1-d476f516",
+     "text": "not that where Christ was born, which was in Judah, thence called",
+     "anchor": "Bethlehem"
+    },
+    {
+     "id": "poole/JOS.19.15#p2-e56b1965",
+     "text": "Mat 2:1, but another.",
+     "anchor": "Bethlehem Judah",
+     "refs": [
+      {
+       "text": "Mat 2:1",
+       "ref": "MAT.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.15#p3-bb5c9db0",
+     "text": "there are more numbered here, but the rest either were not cities properly so called, having villages under their jurisdiction; or were not within this tribe, but only bordering upon it, and belonging to other tribes, which is evident of some of them, and may well be presumed of others.",
+     "anchor": "Twelve cities"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.18",
+   "range": "JOS.19.18",
+   "kind": "passage",
+   "hash": "d0b35e38",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.18#p1-d0b35e38",
+     "text": "the royal city, 1Ki 21:1. This tribe, because it lay between Benjamin on the south and Zebulun on the north, is not here described by its borders, which were the same with theirs; but by some of its cities. Shunera, the birth-place of Abishag, 1Ki 1:3.",
+     "anchor": "Jezreel",
+     "refs": [
+      {
+       "text": "1Ki 21:1",
+       "ref": "1KI.21.1"
+      },
+      {
+       "text": "1Ki 1:3",
+       "ref": "1KI.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.21",
+   "range": "JOS.19.21",
+   "kind": "passage",
+   "hash": "60045f51",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.21#p1-60045f51",
+     "text": "a different place from that En-gannim in the tribe of Judah, Jos 15:34.",
+     "anchor": "En-gannim",
+     "refs": [
+      {
+       "text": "Jos 15:34",
+       "ref": "JOS.15.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.25",
+   "range": "JOS.19.25",
+   "kind": "passage",
+   "hash": "87852f8f",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.25#p1-87852f8f",
+     "text": "on the north-west side.",
+     "anchor": "Their border"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.26",
+   "range": "JOS.19.26",
+   "kind": "passage",
+   "hash": "a7bda219",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.26#p1-a7bda219",
+     "text": "or, Carmel by the sea, to distinguish it from that Carmel in the tribe of Judah, 1Sa 25:2. This was a place of eminent fruitfulness, Isa 33:9 35:2 37:24, agreeable to the prophecy concerning Asher, Gen 49:20 Deu 33:24.",
+     "anchor": "Carmel westward",
+     "refs": [
+      {
+       "text": "1Sa 25:2",
+       "ref": "1SA.25.2"
+      },
+      {
+       "text": "Isa 33:9",
+       "ref": "ISA.33.9"
+      },
+      {
+       "text": "Gen 49:20",
+       "ref": "GEN.49.20"
+      },
+      {
+       "text": "Deu 33:24",
+       "ref": "DEU.33.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.27",
+   "range": "JOS.19.27",
+   "kind": "passage",
+   "hash": "d1916d64",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.27#p1-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/JOS.19.27#p2-3329dacf",
+     "text": "1. That country called Cabul, wherein were twenty cities, of which 1Ki 9:13. But this is not probable, because that was not within nor belonging to any particular tribe; for then Solomon could not have alienated it from them, and given it unto Hiram, whereas this did belong to Asher. Or",
+     "refs": [
+      {
+       "text": "1Ki 9:13",
+       "ref": "1KI.9.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.27#p3-5ce3b2ce",
+     "text": "2. A certain city so called."
+    },
+    {
+     "id": "poole/JOS.19.27#p4-fbb9f22a",
+     "text": "i.e. on the north, which, when men look towards the east, as is usual, is on their left hand.",
+     "anchor": "On the left hand"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.28",
+   "range": "JOS.19.28",
+   "kind": "passage",
+   "hash": "ad037afd",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.28#p1-1d04c21b",
+     "text": "to wit, Kanah the greater, in the Upper Galilee, not Kanah the less, which was in the Lower Galilee.",
+     "anchor": "Kanah"
+    },
+    {
+     "id": "poole/JOS.19.28#p2-d2995086",
+     "text": "called great for its antiquity, and riches, and glory. This city either was not given to the Israelites, but is only mentioned as their border; or at least was never possessed by them; not without a singular providence of God, that they might not by the opportunity of so good a port be engaged in much commerce with other nations, from which, together with wealth, that great corrupter of mankind, they might contract their errors and vices.",
+     "anchor": "Great Zidon"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.29",
+   "range": "JOS.19.29",
+   "kind": "passage",
+   "hash": "03c8c15a",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.29#p1-c351d156",
+     "text": "from the north southward.",
+     "anchor": "The coast turneth"
+    },
+    {
+     "id": "poole/JOS.19.29#p2-4387a374",
+     "text": "exclusively, for this city was no part of the land given them.",
+     "anchor": "To the strong city Tyre"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.30",
+   "range": "JOS.19.30",
+   "kind": "passage",
+   "hash": "e667d432",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.30#p1-e667d432",
+     "text": "Here are more named, but some of them were not within this tribe, but only bordering places."
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.33",
+   "range": "JOS.19.33",
+   "kind": "passage",
+   "hash": "ed8ffa51",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.33#p1-ed8ffa51",
+     "text": "their northern border, drawn from west to east, as appears, because when this coast is described and brought to its end, the coast is said to turn from the east westward, Jos 19:34. The outgoings, i.e. the end of that coast.",
+     "anchor": "Their coast",
+     "refs": [
+      {
+       "text": "Jos 19:34",
+       "ref": "JOS.19.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.34",
+   "range": "JOS.19.34",
+   "kind": "passage",
+   "hash": "05d13037",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.34#p1-ceaa624f",
+     "text": "this is unquestionably the southern border described from east to west.",
+     "anchor": "Westward"
+    },
+    {
+     "id": "poole/JOS.19.34#p2-18099c16",
+     "text": "To Judah, upon Jordan."
+    },
+    {
+     "id": "poole/JOS.19.34#p3-07f6729d",
+     "text": "How can this be, when there were divers tribes between this and Judah, all which reached to Jordan?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/JOS.19.34#p4-b411e0b6",
+     "text": "He doth not say of Judah, as he doth of Zebulun and Asher, that it reacheth to it; but, as it seems, purposely leaves out that word which he had used in both the former branches, lest it should be understood of a local reaching to it, or being contiguous with it, which was not true; and that he might signify that he meant this clause in another sense, to wit, that it did in some sort go or reach to, or converse with Judah by Jordan.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/JOS.19.34#p5-98a7e9c9",
+     "text": "And so this may be here added, to show the accomplishment of that famous and obscure prophecy, That Naphtali, though he should be planted in the utmost border of the land, on the north-east, yet he should possess the riches of the west and south, Deu 33:23, i.e. of those tribes which were at a great distance from him westward and southward; and this he should do by way of commerce with them by their famous river Jordan, which he did not only touch in a small part, as some of the other tribes did, but lay all along it for a good space together, even from the very fountain unto the sea of Gennesaret.",
+     "refs": [
+      {
+       "text": "Deu 33:23",
+       "ref": "DEU.33.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.34#p6-ed338e71",
+     "text": "Some think that this is verified by that royalty of this river, which they suppose God gave to the tribe of Judah, which extended as far as Naphtali."
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.35",
+   "range": "JOS.19.35",
+   "kind": "passage",
+   "hash": "f5ee58f5",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.35#p1-a02da768",
+     "text": "or, Hamath; of which see Num 34:8 1Ki 8:65 2Ki 23:33.",
+     "anchor": "Hammath",
+     "refs": [
+      {
+       "text": "Num 34:8",
+       "ref": "NUM.34.8"
+      },
+      {
+       "text": "1Ki 8:65",
+       "ref": "1KI.8.65"
+      },
+      {
+       "text": "2Ki 23:33",
+       "ref": "2KI.23.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.35#p2-1d17951b",
+     "text": "whence the lake of Chinnereth or Gennesaret received its name.",
+     "anchor": "Chinnereth"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.38",
+   "range": "JOS.19.38",
+   "kind": "passage",
+   "hash": "0374c2ce",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.38#p1-0374c2ce",
+     "text": "Jos 19:15\", See Poole \"Jos 19:22\", See Poole \"Jos 19:30\".",
+     "anchor": "Nineteen cities: See Poole \"",
+     "refs": [
+      {
+       "text": "Jos 19:15",
+       "ref": "JOS.19.15"
+      },
+      {
+       "text": "Jos 19:22",
+       "ref": "JOS.19.22"
+      },
+      {
+       "text": "Jos 19:30",
+       "ref": "JOS.19.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.41",
+   "range": "JOS.19.41",
+   "kind": "passage",
+   "hash": "757b1031",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.41#p1-757b1031",
+     "text": "which is here described only by its cities, not by its borders, which are in part the same with Judah’s; and their inheritance is in good part taken out of Judah’s too large portion, as appears from divers of the cities here mentioned, which are also reckoned as in Judah’s portion.",
+     "anchor": "Their inheritance"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.47",
+   "range": "JOS.19.47",
+   "kind": "passage",
+   "hash": "e9b6fb43",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.47#p1-59dcbf1c",
+     "text": "Heb. went out from them, to wit, out of their hands or possession; for so this Hebrew word is used concerning those lands, which in the year of the jubilee are said to go out, Lev 25:28,30,31,33, i.e. out of the hands of the present possessor, to the first and ancient owner. And so peradventure this may signify that many of the Danites were forced by their powerful neighbors the Philistines to relinquish their coast, and their allotted habitations; which put them upon the following course.",
+     "anchor": "Went out too little for them",
+     "refs": [
+      {
+       "text": "Lev 25:28",
+       "ref": "LEV.25.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.47#p2-11c77258",
+     "text": "after Joshua’s death, as appears from Jud 18 and seems to be here inserted, partly that all the chief places where the Danites (dwelt,) though far distant, might be mentioned together; and partly to give an account of this strange accident, why they removed from their appointed portion to so remote a place; which may be this, that being much molested and terrified by their bad neighbours, they thought fit to go to some place remote from them, which also they were in a manner constrained to do, because otherwise they must have taken some part of the portions of other tribes, whereas now going to the very utmost northern point of the land, they took that which did not belong to, or, at least, was not in the possession of any other tribe. See more Jud 18.",
+     "anchor": "The children of Dan went up to fight against Leshem"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.49",
+   "range": "JOS.19.49",
+   "kind": "passage",
+   "hash": "fb859e1b",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.49#p1-fb859e1b",
+     "text": "i.e. They are said to give it, because the whole land was given to Joshua, and Eleazar, and the princes, as joint trustees, acting in the name and for the good of the people; so that even Joshua could take nothing without their gift."
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.19.50",
+   "range": "JOS.19.50",
+   "kind": "passage",
+   "hash": "9cd8ef30",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.19.50#p1-e40e3266",
+     "text": "as God promised or commanded; either, first, formerly, as may be gathered from Jos 16:6; where we read that the Lord said something unto Moses concerning me, Caleb, and thee, Joshua; though only what is said to Caleb be there expressed, the other not being to his purpose there; for Joshua having showed the same courage and faithfulness which Caleb did, did doubtless receive equal encouragement and comfort from God at that time. Or, secondly, now at this time by Eleazar.",
+     "anchor": "According to the word of the Lord",
+     "refs": [
+      {
+       "text": "Jos 16:6",
+       "ref": "JOS.16.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.19.50#p2-4f4ab560",
+     "text": "called Timnath-heres, Jud 2:9. He built, i.e. repaired and enlarged it, in which sense Nebuchadnezzar is said to have built Babylon, Dan 4:30.",
+     "anchor": "Timnath-serah",
+     "refs": [
+      {
+       "text": "Jud 2:9",
+       "ref": "JUD.2.9"
+      },
+      {
+       "text": "Dan 4:30",
+       "ref": "DAN.4.30"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

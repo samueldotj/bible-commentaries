@@ -1,0 +1,562 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 16,
+ "units": [
+  {
+   "id": "poole/DEU.16",
+   "range": "DEU.16",
+   "kind": "chapter",
+   "hash": "24a442e4",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16#p1-24a442e4",
+     "text": "Their feast of the passover to be kept, Deu 16:1-7, and to eat unleavened bread, Deu 16:8. The seven weeks and their feasts, Deu 16:9-12. The feast of tabernacles to be observed by them, and their family, seven days, Deu 16:13-15. All the males to appear before the Lord three times a year, and at these three feasts, Deu 16:16,17. Judges and officers are appointed, Deu 16:18-20, and are prohibited to set up idolatry, Deu 6:21,22.",
+     "refs": [
+      {
+       "text": "Deu 16:1-7",
+       "ref": "DEU.16.1-7"
+      },
+      {
+       "text": "Deu 16:8",
+       "ref": "DEU.16.8"
+      },
+      {
+       "text": "Deu 16:9-12",
+       "ref": "DEU.16.9-12"
+      },
+      {
+       "text": "Deu 16:13-15",
+       "ref": "DEU.16.13-15"
+      },
+      {
+       "text": "Deu 16:16",
+       "ref": "DEU.16.16"
+      },
+      {
+       "text": "Deu 16:18-20",
+       "ref": "DEU.16.18-20"
+      },
+      {
+       "text": "Deu 6:21",
+       "ref": "DEU.6.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.1",
+   "range": "DEU.16.1",
+   "kind": "passage",
+   "hash": "ec58e479",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.1#p1-f9bba92f",
+     "text": "They came out of Egypt by day, and in the morning, as appears from Exo 12:22 13:3 Num 33:3.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "Exo 12:22",
+       "ref": "EXO.12.22"
+      },
+      {
+       "text": "Num 33:3",
+       "ref": "NUM.33.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.1#p2-8f5f8c4c",
+     "text": "They are said to be brought out by night, because in the night Pharaoh was forced to give them leave to depart, and accordingly they made preparation for their departure, and in the morning they perfected the work.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.2",
+   "range": "DEU.16.2",
+   "kind": "passage",
+   "hash": "7e2df466",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.2#p1-13106e97",
+     "text": "i.e. either,",
+     "anchor": "The passover"
+    },
+    {
+     "id": "poole/DEU.16.2#p2-ecf094c5",
+     "text": "1. Properly and strictly so called, which was the paschal lamb, and so the sheep and oxen, which here follow, are mentioned only as additional sacrifices, which were to be offered in the seven days of the paschal solemnity, Num 28:18,19, &c. Or,",
+     "refs": [
+      {
+       "text": "Num 28:18",
+       "ref": "NUM.28.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.2#p3-6ddf5837",
+     "text": "2. Largely, to wit, for the passover-offerings, to wit, which were offered after the lamb in the seven days, and so this very word is used 2Ch 35:8,9. And this signification seems necessary here, partly because it is here said to consist",
+     "refs": [
+      {
+       "text": "2Ch 35:8",
+       "ref": "2CH.35.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.2#p4-a7e06826",
+     "text": "or of sheep and oxen, and partly because it follows, Deu 16:3, Thou shalt eat no leavened bread with it, seven days shalt thou eat unleavened bread therewith, i.e. with the passover, which could not be done with the passover strictly so called, which was to be wholly spent in one day. Or,",
+     "anchor": "of the flock and of the herd",
+     "refs": [
+      {
+       "text": "Deu 16:3",
+       "ref": "DEU.16.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.2#p5-bcbf075d",
+     "text": "3. The feast of the passover, and so the place may be rendered, Thou shalt therefore observe or keep the feast of the passover (as those same Hebrew words are taken, Num 9:5 Jos 5:10 2Ch 35:1,17,18,19) unto the Lord thy God, with sheep and with oxen, as is prescribed, Num 28:18, &c.",
+     "refs": [
+      {
+       "text": "Num 9:5",
+       "ref": "NUM.9.5"
+      },
+      {
+       "text": "Jos 5:10",
+       "ref": "JOS.5.10"
+      },
+      {
+       "text": "2Ch 35:1",
+       "ref": "2CH.35.1"
+      },
+      {
+       "text": "Num 28:18",
+       "ref": "NUM.28.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.3",
+   "range": "DEU.16.3",
+   "kind": "passage",
+   "hash": "6be86ffb",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.3#p1-d5961317",
+     "text": "to wit, with the passover, in the sense delivered; or, in it, i.e. during the time of the feast of the passover.",
+     "anchor": "With it"
+    },
+    {
+     "id": "poole/DEU.16.3#p2-0449c0ba",
+     "text": "i.e. bread which is not usual nor pleasant, but unsavoury and unwholesome, to put thee in mind both of thy miseries endured in Egypt, and of thy hasty coming out of it, which allowed thee no time to leaven or to prepare thy bread.",
+     "anchor": "The bread of affliction"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.4",
+   "range": "DEU.16.4",
+   "kind": "passage",
+   "hash": "2900c035",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.4#p1-2900c035",
+     "text": "i.e. of the passover properly so called, and by these words plainly described; which circumlocution may seem to insinuate that the word passover, Deu 16:1, was improperly used, and therefore he chose rather to describe it than to name it, lest the ambiguity of the word should occasion some mistake.",
+     "anchor": "At even",
+     "refs": [
+      {
+       "text": "Deu 16:1",
+       "ref": "DEU.16.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.5",
+   "range": "DEU.16.5",
+   "kind": "passage",
+   "hash": "5d6e613e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.5#p1-5d6e613e",
+     "text": "i. e of thy cities, as that word is oft used, as Gen 22:17 24:60 Deu 17:2 Rth 4:10.",
+     "anchor": "Within any of thy gates",
+     "refs": [
+      {
+       "text": "Gen 22:17",
+       "ref": "GEN.22.17"
+      },
+      {
+       "text": "Deu 17:2",
+       "ref": "DEU.17.2"
+      },
+      {
+       "text": "Rth 4:10",
+       "ref": "RUT.4.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.6",
+   "range": "DEU.16.6",
+   "kind": "passage",
+   "hash": "57c3ebb4",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.6#p1-16411c69",
+     "text": "to wit, in the court of the tabernacle or temple. This he prescribed, partly, that this great work might be done with more solemnity and care, in such manner as God required; partly, because it was not only a sacrament, but also a sacrifice, as appears because it is so called, Exo 12:27 23:18 34:25 Num 9:7, and because here was the sprinkling of blood, which is the essential part and character of a sacrifice; and partly, to design the place where Christ, the true Passover or Lamb of God, was to be slain.",
+     "anchor": "There thou shalt sacrifice the passover",
+     "refs": [
+      {
+       "text": "Exo 12:27",
+       "ref": "EXO.12.27"
+      },
+      {
+       "text": "Num 9:7",
+       "ref": "NUM.9.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.6#p2-87ba237c",
+     "text": "understand this with some latitude, as such phrases are commonly taken, about that season, when you had received command from me to go out of Egypt, and were preparing yourselves for the journey.",
+     "anchor": "At the season"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.7",
+   "range": "DEU.16.7",
+   "kind": "passage",
+   "hash": "daa42661",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.7#p1-5196da85",
+     "text": "so that word is used also 2Ch 35:13.",
+     "anchor": "Thou shalt roast",
+     "refs": [
+      {
+       "text": "2Ch 35:13",
+       "ref": "2CH.35.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.7#p2-a12a5354",
+     "text": "either,",
+     "anchor": "In the morning"
+    },
+    {
+     "id": "poole/DEU.16.7#p3-7e4d9177",
+     "text": "1. The morning after the seventh day, as appears, partly, by the following verse, which is added to explain and limit this ambiguous word; partly, by the express command of God that the people should come to Jerusalem to keep this feast, which by God’s appointment lasted for seven days; partly, from the examples of the people staying there the whole time of the feast, 2Ch 30:21 35:17; and partly, from the nature and business of this feast, wherein there being so many extraordinary sacrifices to be offered, and feasts made by the people upon the sacrifices, and two days of solemn assemblies, it is not probable that they would absent themselves from these solemn services, for the performance whereof they came purposely to Jerusalem. Or,",
+     "refs": [
+      {
+       "text": "2Ch 30:21",
+       "ref": "2CH.30.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.7#p4-44a68784",
+     "text": "2. The morning after the first day, and so they were permitted to go then, and possibly some that lived near Jerusalem might go and return again to the last day of the solemn assembly. But the former seems more probable."
+    },
+    {
+     "id": "poole/DEU.16.7#p5-f85d9dfa",
+     "text": "i.e. thy dwellings, which he calls tents, as respecting their present state, and withal to put them in mind afterwards when they were settled in better habitations, that there was a time when they dwelt in tents.",
+     "anchor": "Thy tents"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.8",
+   "range": "DEU.16.8",
+   "kind": "passage",
+   "hash": "e21dc785",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.8#p1-e21dc785",
+     "text": "to wit, besides the first day, on which the passover was killed; or rather besides the seventh and the last day, which is here mentioned apart, not as if leavened bread might be eaten then, for the contrary was evident from many places, but because there was something more to be done, to wit, a solemn assembly to be kept. So in all there were seven days, as it is said, Exo 12:15 Lev 23:6 Num 28:17.",
+     "anchor": "Six days",
+     "refs": [
+      {
+       "text": "Exo 12:15",
+       "ref": "EXO.12.15"
+      },
+      {
+       "text": "Lev 23:6",
+       "ref": "LEV.23.6"
+      },
+      {
+       "text": "Num 28:17",
+       "ref": "NUM.28.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.9",
+   "range": "DEU.16.9",
+   "kind": "passage",
+   "hash": "698c8e60",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.9#p1-488f3e34",
+     "text": "of which see on Exo 34:22 Lev 23:10,15.",
+     "anchor": "Seven weeks",
+     "refs": [
+      {
+       "text": "Exo 34:22",
+       "ref": "EXO.34.22"
+      },
+      {
+       "text": "Lev 23:10",
+       "ref": "LEV.23.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.9#p2-6833e9bf",
+     "text": "i.e. to reap thy corn, thy barley, when the first-fruits were offered, Lev 23:10,11.",
+     "anchor": "To put the sickle to the corn",
+     "refs": [
+      {
+       "text": "Lev 23:10",
+       "ref": "LEV.23.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.10",
+   "range": "DEU.16.10",
+   "kind": "passage",
+   "hash": "fe2b4eb1",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.10#p1-d63fbc7b",
+     "text": "i.e. of pentecost, Act 2:1.",
+     "anchor": "The feast of weeks",
+     "refs": [
+      {
+       "text": "Act 2:1",
+       "ref": "ACT.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.10#p2-e94f4a2d",
+     "text": "over and besides what was appointed, Lev 23:17-20 Num 28:27-31.",
+     "anchor": "Which thou shalt give",
+     "refs": [
+      {
+       "text": "Lev 23:17-20",
+       "ref": "LEV.23.17-20"
+      },
+      {
+       "text": "Num 28:27-31",
+       "ref": "NUM.28.27-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.13",
+   "range": "DEU.16.13",
+   "kind": "passage",
+   "hash": "a026052d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.13#p1-a026052d",
+     "text": "Of the feast of tabernacles, see on Exo 23:16 Lev 23:34 Num 29:12.",
+     "refs": [
+      {
+       "text": "Exo 23:16",
+       "ref": "EXO.23.16"
+      },
+      {
+       "text": "Lev 23:34",
+       "ref": "LEV.23.34"
+      },
+      {
+       "text": "Num 29:12",
+       "ref": "NUM.29.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.15",
+   "range": "DEU.16.15",
+   "kind": "passage",
+   "hash": "622d6ecd",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.15#p1-622d6ecd",
+     "text": "To wit, in God and the effects of his favour, praising him with glad heart."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.16",
+   "range": "DEU.16.16",
+   "kind": "passage",
+   "hash": "2d14c1e7",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.16#p1-2d14c1e7",
+     "text": "not the women, partly, because of their infirmity and unfitness for many journeys; partly, because the care of their children and families lay upon them; and partly, because they were sufficiently represented in the men.",
+     "anchor": "All thy males"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.18",
+   "range": "DEU.16.18",
+   "kind": "passage",
+   "hash": "86b1d4d8",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.18#p1-05f1a79f",
+     "text": "chief magistrates to examine and determine causes and differences.",
+     "anchor": "Judges"
+    },
+    {
+     "id": "poole/DEU.16.18#p2-e423625f",
+     "text": "who were inferior and subordinate to the other, to bring causes and persons before them, to acquaint people with the mind and sentence of the judges, and to execute their sentence, Deu 20:5,9 Jos 1:10,11 3:2,3. In all thy gates, i.e. thy cities, which he here calls",
+     "anchor": "Officers",
+     "refs": [
+      {
+       "text": "Deu 20:5",
+       "ref": "DEU.20.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.18#p3-e11efc62",
+     "text": "because there were seats of judgment set. Compare 1Ch 23:4.",
+     "anchor": "gates",
+     "refs": [
+      {
+       "text": "1Ch 23:4",
+       "ref": "1CH.23.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.19",
+   "range": "DEU.16.19",
+   "kind": "passage",
+   "hash": "0a01c2cc",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.19#p1-75dc7d61",
+     "text": "i.e. not give a perverse, forced, and unjust sentence. See Poole \"Exo 23:8\".",
+     "anchor": "Not wrest judgment",
+     "refs": [
+      {
+       "text": "Exo 23:8",
+       "ref": "EXO.23.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.16.19#p2-8fed7d2d",
+     "text": "i.e. not give sentence according to the quality of the person, his riches or poverty, friendship or enmity, but according to the justice of the cause.",
+     "anchor": "Not respect persons"
+    },
+    {
+     "id": "poole/DEU.16.19#p3-767f1b79",
+     "text": "corrupts and biasseth his mind, that as he will not, so ofttimes he cannot, discern between right and wrong.",
+     "anchor": "A gift doth blind the eyes of the wise"
+    },
+    {
+     "id": "poole/DEU.16.19#p4-a12a5354",
+     "text": "either,",
+     "anchor": "The words of the righteous"
+    },
+    {
+     "id": "poole/DEU.16.19#p5-b926d3d0",
+     "text": "1. The words, i.e. the sentence, of those judges who are inclined and used to do righteous things, and have the repute of righteous men, it makes them give wrong judgment. Or,"
+    },
+    {
+     "id": "poole/DEU.16.19#p6-702c4a26",
+     "text": "2. The words, i.e. the matters, or causes, (as word oft signifies,) of righteous persons, or of them whose cause is just."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.20",
+   "range": "DEU.16.20",
+   "kind": "passage",
+   "hash": "d405adbd",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.20#p1-d405adbd",
+     "text": "Heb. righteousness, righteousness, i.e. nothing but righteousness in all causes and times, and to all persons equally. Compare Isa 26:7.",
+     "anchor": "That which is altogether just",
+     "refs": [
+      {
+       "text": "Isa 26:7",
+       "ref": "ISA.26.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.21",
+   "range": "DEU.16.21",
+   "kind": "passage",
+   "hash": "b1d0257d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.21#p1-b1d0257d",
+     "text": "Because this was the practice of idolaters, 1Ki 15:13, and might be an occasion of reviving idolatry. See Jud 3:7 1Ki 14:23 1Ki 16:33 18:19.",
+     "refs": [
+      {
+       "text": "1Ki 15:13",
+       "ref": "1KI.15.13"
+      },
+      {
+       "text": "Jud 3:7",
+       "ref": "JUD.3.7"
+      },
+      {
+       "text": "1Ki 14:23",
+       "ref": "1KI.14.23"
+      },
+      {
+       "text": "1Ki 16:33",
+       "ref": "1KI.16.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.16.22",
+   "range": "DEU.16.22",
+   "kind": "passage",
+   "hash": "f23ca0f4",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.16.22#p1-f23ca0f4",
+     "text": "Heb. statue, whether with a picture or representation, or without it, as the idolaters used to worship smoothed and polished stones or pillars without any image upon them."
+    }
+   ]
+  }
+ ]
+}

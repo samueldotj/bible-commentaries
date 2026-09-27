@@ -1,0 +1,1573 @@
+{
+ "source": "poole",
+ "book": "PHP",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "poole/PHP.4",
+   "range": "PHP.4",
+   "kind": "chapter",
+   "hash": "27e4d304",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4#p1-ac018a83",
+     "text": "Php 4:1 Paul exciteth to steadfastness in Christ,",
+     "refs": [
+      {
+       "text": "Php 4:1",
+       "ref": "PHP.4.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p2-c1339db7",
+     "text": "Php 4:2 and after some particular admonitions,",
+     "refs": [
+      {
+       "text": "Php 4:2",
+       "ref": "PHP.4.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p3-4fb8401f",
+     "text": "Php 4:3,4 exhorteth generally to religious joy,",
+     "refs": [
+      {
+       "text": "Php 4:3",
+       "ref": "PHP.4.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p4-90a5b569",
+     "text": "Php 4:5 moderation,",
+     "refs": [
+      {
+       "text": "Php 4:5",
+       "ref": "PHP.4.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p5-9a982041",
+     "text": "Php 4:6,7 trust in God with prayer,",
+     "refs": [
+      {
+       "text": "Php 4:6",
+       "ref": "PHP.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p6-4402de01",
+     "text": "Php 4:8,9 and to every branch of moral goodness.",
+     "refs": [
+      {
+       "text": "Php 4:8",
+       "ref": "PHP.4.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p7-5e18a0ea",
+     "text": "Php 4:10-14 He testifieth his joy in the care shown by the Philippians for his supply in prison, though being always content he was above want,",
+     "refs": [
+      {
+       "text": "Php 4:10-14",
+       "ref": "PHP.4.10-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p8-754cb639",
+     "text": "Php 4:15-17 and commendeth their former liberality to him, not for his own sake, but for the good that would redound to them from it.",
+     "refs": [
+      {
+       "text": "Php 4:15-17",
+       "ref": "PHP.4.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p9-6ae3fd99",
+     "text": "Php 4:18,19 He acknowledgeth the receipt of their late bounty, assuring them that God would both accept and reward it.",
+     "refs": [
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4#p10-44b4f4af",
+     "text": "Php 4:20-23 He giveth glory to God, and concludeth with salutations, and a blessing.",
+     "refs": [
+      {
+       "text": "Php 4:20-23",
+       "ref": "PHP.4.20-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.1",
+   "range": "PHP.4.1",
+   "kind": "passage",
+   "hash": "34a6dbb4",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.1#p1-f0b0c586",
+     "text": "this particle connotes that which follows to be inferred by way of conclusion from what he had premised in the close of the former chapter, in opposition to the shame of the earthly-minded, concerning the glory of the heavenly-minded.",
+     "anchor": "Therefore"
+    },
+    {
+     "id": "poole/PHP.4.1#p2-710a6816",
+     "text": "he affectionately owns them to be his brethren in the common faith, Tit 1:4.",
+     "anchor": "My brethren",
+     "refs": [
+      {
+       "text": "Tit 1:4",
+       "ref": "TIT.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p3-b119c7e1",
+     "text": "those who, not being enticed by the insinuations of seducers, did adhere to him, had his sincere affections, Php 2:12.",
+     "anchor": "Dearly beloved",
+     "refs": [
+      {
+       "text": "Php 2:12",
+       "ref": "PHP.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p4-cf5aee06",
+     "text": "whose safety and felicity every way he most heartily desired, Php 1:8 2:26; with Rom 1:11 1Th 3:6.",
+     "anchor": "And longed for",
+     "refs": [
+      {
+       "text": "Php 1:8",
+       "ref": "PHP.1.8"
+      },
+      {
+       "text": "Rom 1:11",
+       "ref": "ROM.1.11"
+      },
+      {
+       "text": "1Th 3:6",
+       "ref": "1TH.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p5-1f79f2b1",
+     "text": "intimating how their faith and holiness did at present afford matter of rejoicing to him, Php 1:4,7,8, with 1Th 2:19,20.",
+     "anchor": "My joy",
+     "refs": [
+      {
+       "text": "Php 1:4",
+       "ref": "PHP.1.4"
+      },
+      {
+       "text": "1Th 2:19",
+       "ref": "1TH.2.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p6-384bcacb",
+     "text": "he was not ambitious of man’s applause, but accounted them his honour and glory, the great ornament of his ministry, whereby they were converted to Christ, (as elsewhere in Scripture a crown is taken figuratively, Pro 12:4 14:24 16:31 17:6), 1Th 2:19; the reward which had some similitude with the honour they had who were victorious in a race, Php 2:16,17: as Jas 1:12 1Pe 5:4 Rev 2:10 Rev 3:11.",
+     "anchor": "And crown",
+     "refs": [
+      {
+       "text": "Pro 12:4",
+       "ref": "PRO.12.4"
+      },
+      {
+       "text": "1Th 2:19",
+       "ref": "1TH.2.19"
+      },
+      {
+       "text": "Php 2:16",
+       "ref": "PHP.2.16"
+      },
+      {
+       "text": "Jas 1:12",
+       "ref": "JAS.1.12"
+      },
+      {
+       "text": "1Pe 5:4",
+       "ref": "1PE.5.4"
+      },
+      {
+       "text": "Rev 2:10",
+       "ref": "REV.2.10"
+      },
+      {
+       "text": "Rev 3:11",
+       "ref": "REV.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p7-6b0a2869",
+     "text": "he exhorteth them not barely to stand, but so to stand that they did not fall, 1Co 10:12. Hereupon he adds,",
+     "anchor": "So stand fast",
+     "refs": [
+      {
+       "text": "1Co 10:12",
+       "ref": "1CO.10.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p8-57826e9f",
+     "text": "i.e. considering their relation unto Christ, they would derive power and virtue from him, into whom they were implanted, to persevere, conformably to his will, in Christian concord, till they were made like to him, Php 3:21, with Php 1:27 Joh 15:4,7 1Co 15:58 16:13 Gal 5:7 Eph 6:11,14.",
+     "anchor": "in the Lord",
+     "refs": [
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      },
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "Joh 15:4",
+       "ref": "JHN.15.4"
+      },
+      {
+       "text": "1Co 15:58",
+       "ref": "1CO.15.58"
+      },
+      {
+       "text": "Gal 5:7",
+       "ref": "GAL.5.7"
+      },
+      {
+       "text": "Eph 6:11",
+       "ref": "EPH.6.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.1#p9-ab88981e",
+     "text": "in whom looking upon them, (the more to fix them), he pathetically and rhetorically repeats his endearing compellation beloved.",
+     "anchor": "My dearly beloved"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.2",
+   "range": "PHP.4.2",
+   "kind": "passage",
+   "hash": "5977cca1",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.2#p1-64512a6e",
+     "text": "after his general persuasive to perseverance, he doth here particularly by name with great affectionateness importune two women, who had been very useful in that church for the furtherance of the gospel, that they would come to a better understanding of each other, and the interest of religion amongst them, who received the gospel upon Paul’s preaching, Act 16:13.",
+     "anchor": "I beseech Euodias, and beseech Syntyche",
+     "refs": [
+      {
+       "text": "Act 16:13",
+       "ref": "ACT.16.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.2#p2-238bacd3",
+     "text": "as he had moved all to love, unity, and amity, (as it became disciples of Christ), Php 2:2; so he doth here especially move them unto unanimity, according to the mind of the Lord, and his way, for the sake of him whose honour is to be preferred to all private concerns, Rom 15:5.",
+     "anchor": "That they be of the same mind in the Lord",
+     "refs": [
+      {
+       "text": "Php 2:2",
+       "ref": "PHP.2.2"
+      },
+      {
+       "text": "Rom 15:5",
+       "ref": "ROM.15.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.3",
+   "range": "PHP.4.3",
+   "kind": "passage",
+   "hash": "c04f926e",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.3#p1-a846c202",
+     "text": "he subjoins his most importunate request to some eminent person who did faithfully and sincerely draw in the same yoke of Christ with him, even such another in that church at Philippi, (whom they well knew from the freedom he used when he planted the gospel amongst them, or might more distinctly know from Epaphroditus), as he had represented Timothy to be, Php 2:20. Some, both ancient and modern, would have this to be Paul’s own wife, whom he left behind; but seeing it doth not appear that when he wrote this Epistle he had ever staid above two months at Philippi, he elsewhere reckons himself amongst the unmarried, 1Co 7:8, and wished those who had the gift of continency to continue so, under the sharp persecution of the church, for which he was frequent in journeying, labours, and prisons, 2Co 11:23, there is no cogent argument to evince that he was then married, however he had liberty to have had a wife, as well as Peter and others: see Mat 19:29 22:28, with 1Co 9:5. Some conceive by",
+     "anchor": "And I entreat thee also, true yoke-fellow",
+     "refs": [
+      {
+       "text": "Php 2:20",
+       "ref": "PHP.2.20"
+      },
+      {
+       "text": "1Co 7:8",
+       "ref": "1CO.7.8"
+      },
+      {
+       "text": "2Co 11:23",
+       "ref": "2CO.11.23"
+      },
+      {
+       "text": "Mat 19:29",
+       "ref": "MAT.19.29"
+      },
+      {
+       "text": "1Co 9:5",
+       "ref": "1CO.9.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.3#p2-819407f0",
+     "text": "here is meant the lawful husband of one of the forenamed honourable matrons: others, one called by that proper name in Greek; but the epithet annexed doth not so well suit. It may suffice to say it was an intimate colleague and sincere companion of Paul’s, who was alike affected with him, drawing in the same yoke, for the furtherance of the gospel, his genuine helper; whose special aid, by advice, prayer, and otherwise, he solicited on the behalf of those pious women, who aforetime (though not by public preaching in the church, which he elsewhere disallowed, 1Co 14:34,35 1Ti 2:12, but privately) had not only wrought, but earnestly striven together with him, by teaching youth, and other women, good things, Tit 2:3,4 putting themselves in hazard with him, in that difficult work he had amongst them, and enduring troubles with him for the propagation of the gospel, Php 1:27 Act 16:13; as Phebe, and Priscilla, and Mary, elsewhere, Act 18:2,3,26 Ro 16:1-3 1Ti 5:10 2Ti 4:19; in offices proper to their sex.",
+     "anchor": "yoke-fellow",
+     "refs": [
+      {
+       "text": "1Co 14:34",
+       "ref": "1CO.14.34"
+      },
+      {
+       "text": "1Ti 2:12",
+       "ref": "1TI.2.12"
+      },
+      {
+       "text": "Tit 2:3",
+       "ref": "TIT.2.3"
+      },
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "Act 16:13",
+       "ref": "ACT.16.13"
+      },
+      {
+       "text": "Act 18:2",
+       "ref": "ACT.18.2"
+      },
+      {
+       "text": "1Ti 5:10",
+       "ref": "1TI.5.10"
+      },
+      {
+       "text": "2Ti 4:19",
+       "ref": "2TI.4.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.3#p3-a9200801",
+     "text": "probably, was some church officer of Roman extract in that colony at Philippi; whether he, about whose order in the catalogue of Roman bishops historians dispute, there is no certainty.",
+     "anchor": "Clement"
+    },
+    {
+     "id": "poole/PHP.4.3#p4-41512412",
+     "text": "the rest, whom he doth not name, but only describe by the assistance they gave him in the holy work of the gospel, probably were other church officers.",
+     "anchor": "And with other my fellow labourers"
+    },
+    {
+     "id": "poole/PHP.4.3#p5-c728c541",
+     "text": "whose names he did in charity apprehend to be enrolled in heaven, as our Saviour speaks to the rejoicing of his seventy disciples, Luk 10:20. We are not to think there is any material book wherein their names were written, but that he useth it as a borrowed speech, intimating his persuasion of them, (as of the election of others, 1Th 1:4, with 1Pe 1:2), that their life was as certainly sealed up with God, as if their names had been written in a book for that purpose; looking upon them by their fruit as truly gracious persons, whom God had effectually called according to his purpose, Rom 8:28,29,33; which is a book written, Exo 32:32 Isa 4:3 Eze 13:9 Dan 12:1 Rev 3:5 13:8 20:12 21:27; wherein the Lord knows who are his, 2Ti 2:19.",
+     "anchor": "Whose names are in the book of life",
+     "refs": [
+      {
+       "text": "Luk 10:20",
+       "ref": "LUK.10.20"
+      },
+      {
+       "text": "1Th 1:4",
+       "ref": "1TH.1.4"
+      },
+      {
+       "text": "1Pe 1:2",
+       "ref": "1PE.1.2"
+      },
+      {
+       "text": "Rom 8:28",
+       "ref": "ROM.8.28"
+      },
+      {
+       "text": "Exo 32:32",
+       "ref": "EXO.32.32"
+      },
+      {
+       "text": "Isa 4:3",
+       "ref": "ISA.4.3"
+      },
+      {
+       "text": "Eze 13:9",
+       "ref": "EZK.13.9"
+      },
+      {
+       "text": "Dan 12:1",
+       "ref": "DAN.12.1"
+      },
+      {
+       "text": "Rev 3:5",
+       "ref": "REV.3.5"
+      },
+      {
+       "text": "2Ti 2:19",
+       "ref": "2TI.2.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.4",
+   "range": "PHP.4.4",
+   "kind": "passage",
+   "hash": "377987f6",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.4#p1-377987f6",
+     "text": "He doth here, considering the importance of Christian cheerfulness, which he had twice before put them upon, Php 2:18 3:1, stir them up to true rejoicing, not only by repetition of the injunction, but by extending the duty to all times, and under all conditions. For though there be woe to the enemies of Christ’s cross, who langh at his followers, Luk 6:25; yet they who are really found in him, have evermore ground of rejoicing, for all the benefits of God they have through him, and the far more excellent they do expect to receive upon his account, Joh 16:33 1Co 1:31 1Th 5:16 1Pe 1:8.",
+     "refs": [
+      {
+       "text": "Php 2:18",
+       "ref": "PHP.2.18"
+      },
+      {
+       "text": "Luk 6:25",
+       "ref": "LUK.6.25"
+      },
+      {
+       "text": "Joh 16:33",
+       "ref": "JHN.16.33"
+      },
+      {
+       "text": "1Co 1:31",
+       "ref": "1CO.1.31"
+      },
+      {
+       "text": "1Th 5:16",
+       "ref": "1TH.5.16"
+      },
+      {
+       "text": "1Pe 1:8",
+       "ref": "1PE.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.5",
+   "range": "PHP.4.5",
+   "kind": "passage",
+   "hash": "84b482c8",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.5#p1-d245c5cf",
+     "text": "exercising an even temper of mind, in governing the sensual appetite, with modesty, patience, and gentleness, in opposition to all impetuousness and inordinacy of affections, yea, to all excess and exorbitances in words and actions.",
+     "anchor": "Let your moderation be known"
+    },
+    {
+     "id": "poole/PHP.4.5#p2-e1ba233a",
+     "text": "both in the eye of the church, and those without, according to our Saviour’s sermon and example, Mat 5:16,39-41 17:27; not rigorously insisting upon our own rights, but with due self-denial putting the best construction upon the words and deeds of others; not troubling our hearts, Joh 14:1; banishing that solicitude about the good things of this life, which he doth in the next verse caution against: so 1Co 7:29-32.",
+     "anchor": "Unto all men",
+     "refs": [
+      {
+       "text": "Mat 5:16",
+       "ref": "MAT.5.16"
+      },
+      {
+       "text": "Joh 14:1",
+       "ref": "JHN.14.1"
+      },
+      {
+       "text": "1Co 7:29-32",
+       "ref": "1CO.7.29-32"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.5#p3-ba7a511c",
+     "text": "considering the cogent motive of the Lord’s approach, as Heb 10:25 Jas 5:8; not only in regard of his Deity, whereby he reigns amongst his enemies, Act 17:27 Jer 23:29; nor in regard of his special aids to his servants: Psa 14:5; but in regard of his coming to judgment, and setting all things right in a just distribution of rewards and punishments, to comfort his children, and confound those that disobey him, Mat 18:34,35 Mr 10:29,30 Col 3:24 Col 4:1 Heb 10:37 1Pe 3:8,9 Re 22:20. But still we must remember, when we conceive of the Lord’s being at hand in regard of death and judgment, we must not take our own but God’s measures, in waiting our appointed time during his pleasure, Mat 24:36 Act 1:7.",
+     "anchor": "The Lord is at hand",
+     "refs": [
+      {
+       "text": "Heb 10:25",
+       "ref": "HEB.10.25"
+      },
+      {
+       "text": "Jas 5:8",
+       "ref": "JAS.5.8"
+      },
+      {
+       "text": "Act 17:27",
+       "ref": "ACT.17.27"
+      },
+      {
+       "text": "Jer 23:29",
+       "ref": "JER.23.29"
+      },
+      {
+       "text": "Psa 14:5",
+       "ref": "PSA.14.5"
+      },
+      {
+       "text": "Mat 18:34",
+       "ref": "MAT.18.34"
+      },
+      {
+       "text": "Col 4:1",
+       "ref": "COL.4.1"
+      },
+      {
+       "text": "Heb 10:37",
+       "ref": "HEB.10.37"
+      },
+      {
+       "text": "1Pe 3:8",
+       "ref": "1PE.3.8"
+      },
+      {
+       "text": "Mat 24:36",
+       "ref": "MAT.24.36"
+      },
+      {
+       "text": "Act 1:7",
+       "ref": "ACT.1.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.6",
+   "range": "PHP.4.6",
+   "kind": "passage",
+   "hash": "c99aa37c",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.6#p1-580e8933",
+     "text": "he dissuades not from a spiritual care, arising from a good principle, according to a right rule, for a good end; this care of diligence, in a due manner, within our own sphere, is incumbent on us, both for spirituals and temporals; as Php 2:20; with Rom 12:11 2Co 11:28 12:14 2Th 3:10 1Ti 5:8 2Ti 2:15: yet he earnestly dissuades from and prohibits all carnal solicitude, or carking, distrustful, worldly care, which doth divide and, as it were, split the heart in pieces; that anxious solicitude which doth torture the mind with such thoughts as our blessed Lord will not allow so much as one of them to be predominant in his real disciples, Mat 6:25, because such immoderate, distracting care, is on our part a disparagement to our heavenly Father’s good providence, Mat 6:32; with Psa 55:22 127:1,2 Mt 4:18,19 1Pe 5:7. The remedy against which he doth here subjoin.",
+     "anchor": "Be careful for nothing",
+     "refs": [
+      {
+       "text": "Php 2:20",
+       "ref": "PHP.2.20"
+      },
+      {
+       "text": "Rom 12:11",
+       "ref": "ROM.12.11"
+      },
+      {
+       "text": "2Co 11:28",
+       "ref": "2CO.11.28"
+      },
+      {
+       "text": "2Th 3:10",
+       "ref": "2TH.3.10"
+      },
+      {
+       "text": "1Ti 5:8",
+       "ref": "1TI.5.8"
+      },
+      {
+       "text": "2Ti 2:15",
+       "ref": "2TI.2.15"
+      },
+      {
+       "text": "Mat 6:25",
+       "ref": "MAT.6.25"
+      },
+      {
+       "text": "Mat 6:32",
+       "ref": "MAT.6.32"
+      },
+      {
+       "text": "Psa 55:22",
+       "ref": "PSA.55.22"
+      },
+      {
+       "text": "1Pe 5:7",
+       "ref": "1PE.5.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.6#p2-13b1d3d0",
+     "text": "but in all things, or in every occurring necessity, whether prosperous or adverse; sacred or civil, public or private: some render it, every time, in every condition, on every occasion.",
+     "anchor": "But in every thing"
+    },
+    {
+     "id": "poole/PHP.4.6#p3-ceaf0736",
+     "text": "by petition or apprecation of good to ourselves or others; mercies, or blessings, temporal, spiritual, and eternal.",
+     "anchor": "By prayer"
+    },
+    {
+     "id": "poole/PHP.4.6#p4-41007608",
+     "text": "and by a deprecation of evils felt or feared, wrath and judgments deserved.",
+     "anchor": "And supplication"
+    },
+    {
+     "id": "poole/PHP.4.6#p5-ee706fe7",
+     "text": "with a grateful acknowledgment of mercies received, benefits conferred, and deliverances vouchsafed; implying that no prayer is acceptable to God, without this ingredient of thankful resentment of his favours.",
+     "anchor": "With thanksgiving"
+    },
+    {
+     "id": "poole/PHP.4.6#p6-1eeb70b3",
+     "text": "our affectionate desires should be opened to God, and poured forth before him; not that he is ignorant of us or our wants in any circumstances, but that he accounts himself glorified by our addresses to him, in seeking to be approved and assisted of him in every condition.",
+     "anchor": "Let your requests be made known unto God"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.7",
+   "range": "PHP.4.7",
+   "kind": "passage",
+   "hash": "f21ed114",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.7#p1-fa512956",
+     "text": "He adds, as an encouragement to prayer, the peace of God, who was in Christ reconciling the world unto himself, so that upon believing and obeying the gospel, they who really do so are reconciled to him, 2Co 5:19,20, and at peace with him, Rom 5:1, through Christ, who leaves and gives peace to his, Joh 14:27. It is then the peace of God, in that he is the object, the donor, the author of it, by his Spirit, to those who persevere in the communion of Christ, as in Php 4:9, have the God of peace with them, and a sense thereof in their own spirits.",
+     "refs": [
+      {
+       "text": "2Co 5:19",
+       "ref": "2CO.5.19"
+      },
+      {
+       "text": "Rom 5:1",
+       "ref": "ROM.5.1"
+      },
+      {
+       "text": "Joh 14:27",
+       "ref": "JHN.14.27"
+      },
+      {
+       "text": "Php 4:9",
+       "ref": "PHP.4.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.7#p2-e0de7834",
+     "text": "how it transcends a finite understanding, may be answered:",
+     "anchor": "Which passeth all understanding"
+    },
+    {
+     "id": "poole/PHP.4.7#p3-ca065f91",
+     "text": "1. In that he who hath perceived it, before he had done so, could not sufficiently conceive in his own mind what at length it might be, 1Co 2:9: hence:",
+     "refs": [
+      {
+       "text": "1Co 2:9",
+       "ref": "1CO.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.7#p4-abb58ae6",
+     "text": "2. After it is perceived, it cannot be that any one should esteem and express the power and virtue of it, according to the worth and excellency of the matter. Not that the peace should affect the heart, the will without the intervention of the understanding; since it is said to keep the heart and mind; and, Rev 2:17, the white stone given to believers (whereby this peace is signified) is of that kind, which no man knoweth save he that receiveth it; and it is no new thing in Scripture, to say that doth exceed all understanding, which human understanding doth not so distinctly conceive as to be able to express it, as Eph 3:19. So man’s mind doth receive that which is taken into admiration, that it perceives something always to remain, which it hath notice of, yet cannot so perceive as to express the whole of it.",
+     "refs": [
+      {
+       "text": "Rev 2:17",
+       "ref": "REV.2.17"
+      },
+      {
+       "text": "Eph 3:19",
+       "ref": "EPH.3.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.7#p5-83f58478",
+     "text": "wherefore they who are really interested in this peace shall be kept as in a garrison, 1Pe 1:5. So their whole souls shall be in safety against the assaults of Satan, their affections and reasoning shall be so kept in order, that, through Christ, they shall not finally fall.",
+     "anchor": "Shall keep your hearts and minds through Christ Jesus",
+     "refs": [
+      {
+       "text": "1Pe 1:5",
+       "ref": "1PE.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.8",
+   "range": "PHP.4.8",
+   "kind": "passage",
+   "hash": "70da54c1",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.8#p1-bfe53402",
+     "text": "As to what remains, he doth, with the fair compellation of"
+    },
+    {
+     "id": "poole/PHP.4.8#p2-5f0672b9",
+     "text": "furthermore propose to their serious consideration, living in the neighbourhood of the Gentiles, what he doth here, hastening to a conclusion, heap up and fold together: especially,",
+     "anchor": "brethren"
+    },
+    {
+     "id": "poole/PHP.4.8#p3-388182ba",
+     "text": "agree with truth and doctrine, in word and conversation, which show candour and sincerity of conscience, both with reference to believers and to infidels, Psa 15:2 Eph 4:14,15,25.",
+     "anchor": "whatsoever things are true",
+     "refs": [
+      {
+       "text": "Psa 15:2",
+       "ref": "PSA.15.2"
+      },
+      {
+       "text": "Eph 4:14",
+       "ref": "EPH.4.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p4-ad0a80a9",
+     "text": "venerable and grave, as becometh the gospel, Php 1:27, to adorn the gospel of God our Saviour, Rom 12:17 13:13 Tit 2:10; avoiding what may argue levity or dishonesty in gesture, apparel, words, and deeds, 2Co 7:2.",
+     "anchor": "Honest",
+     "refs": [
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "Rom 12:17",
+       "ref": "ROM.12.17"
+      },
+      {
+       "text": "Tit 2:10",
+       "ref": "TIT.2.10"
+      },
+      {
+       "text": "2Co 7:2",
+       "ref": "2CO.7.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p5-3371080f",
+     "text": "giving what is due to every one by the law of nature, or nations, or the country, without guile, and not injuring any one, Rth 3:13 Neh 5:11 Mat 22:21 Rom 13:7,8 Col 4:1 1Ti 5:8 Tit 1:8 2:12.",
+     "anchor": "Just",
+     "refs": [
+      {
+       "text": "Rth 3:13",
+       "ref": "RUT.3.13"
+      },
+      {
+       "text": "Neh 5:11",
+       "ref": "NEH.5.11"
+      },
+      {
+       "text": "Mat 22:21",
+       "ref": "MAT.22.21"
+      },
+      {
+       "text": "Rom 13:7",
+       "ref": "ROM.13.7"
+      },
+      {
+       "text": "1Ti 5:8",
+       "ref": "1TI.5.8"
+      },
+      {
+       "text": "Tit 1:8",
+       "ref": "TIT.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p6-abd72826",
+     "text": "keeping themselves undefiled in the way, Psa 119:1, from the pollution of sin, 1Jn 3:3, and the blemishes of filthy words and deeds, Eph 4:29 5:3-5.",
+     "anchor": "Pure",
+     "refs": [
+      {
+       "text": "Psa 119:1",
+       "ref": "PSA.119.1"
+      },
+      {
+       "text": "1Jn 3:3",
+       "ref": "1JN.3.3"
+      },
+      {
+       "text": "Eph 4:29",
+       "ref": "EPH.4.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p7-77b6f5c1",
+     "text": "whatsoever may gain the real respect of, and be grateful to, good men, in an affable deportment acceptable to God, Tit 3:2.",
+     "anchor": "Lovely",
+     "refs": [
+      {
+       "text": "Tit 3:2",
+       "ref": "TIT.3.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p8-10c7dad1",
+     "text": "whatsoever is in a tendency to maintain a good name; not to court vain-glory or popular applause, Gal 1:10, but that which may be for the honour of Christ, and the reputation of the gospel among the Gentiles, Rom 15:2 1Pe 2:12; in agreement with the word of God; otherwise we must pass through evil as well as good report, Luk 16:15 2Co 6:8.",
+     "anchor": "Of good report",
+     "refs": [
+      {
+       "text": "Gal 1:10",
+       "ref": "GAL.1.10"
+      },
+      {
+       "text": "Rom 15:2",
+       "ref": "ROM.15.2"
+      },
+      {
+       "text": "1Pe 2:12",
+       "ref": "1PE.2.12"
+      },
+      {
+       "text": "Luk 16:15",
+       "ref": "LUK.16.15"
+      },
+      {
+       "text": "2Co 6:8",
+       "ref": "2CO.6.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.8#p9-abc8c272",
+     "text": "and upon supposition there be really any other commendable practice amongst any, any praiseworthy deportment.",
+     "anchor": "If there be any virtue, and if there be any praise"
+    },
+    {
+     "id": "poole/PHP.4.8#p10-8799f9c1",
+     "text": "diligently consider and prosecute these things.",
+     "anchor": "Think on these things"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.9",
+   "range": "PHP.4.9",
+   "kind": "passage",
+   "hash": "d74f2781",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.9#p1-354eff18",
+     "text": "he recommends to their serious practice not new things, but those weighty matters which they had before learned of him when preaching amongst them.",
+     "anchor": "Those things, which ye have both learned"
+    },
+    {
+     "id": "poole/PHP.4.9#p2-114fdb98",
+     "text": "yea, and approved as worthy to be kept.",
+     "anchor": "And received, and heard"
+    },
+    {
+     "id": "poole/PHP.4.9#p3-26758f41",
+     "text": "and that all things might be more lively and affecting, with an increase of words, he moves with this, that his doctrine was exemplified by his own practice when amongst them, (as he had hinted before, Php 3:17), expressing the same thing by his life which he did by his word, 1Ti 4:12 1Pe 5:3.",
+     "anchor": "And seen in me",
+     "refs": [
+      {
+       "text": "Php 3:17",
+       "ref": "PHP.3.17"
+      },
+      {
+       "text": "1Ti 4:12",
+       "ref": "1TI.4.12"
+      },
+      {
+       "text": "1Pe 5:3",
+       "ref": "1PE.5.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.9#p4-6b3beda1",
+     "text": "whereupon he would have them to be doers also of the same things, 1Th 1:6 2:13 Heb 13:7 Jas 1:22.",
+     "anchor": "Do",
+     "refs": [
+      {
+       "text": "1Th 1:6",
+       "ref": "1TH.1.6"
+      },
+      {
+       "text": "Heb 13:7",
+       "ref": "HEB.13.7"
+      },
+      {
+       "text": "Jas 1:22",
+       "ref": "JAS.1.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.9#p5-ad433612",
+     "text": "and in this practice you have comfort from the presence of the God of peace, (as above, Php 4:7), who will embrace and prosper you, being reconciled to you in Christ, and at peace with you: so Rom 15:5,33 16:20 2Co 13:11 1Th 5:23.",
+     "anchor": "And the God of peace shall be with you",
+     "refs": [
+      {
+       "text": "Php 4:7",
+       "ref": "PHP.4.7"
+      },
+      {
+       "text": "Rom 15:5",
+       "ref": "ROM.15.5"
+      },
+      {
+       "text": "2Co 13:11",
+       "ref": "2CO.13.11"
+      },
+      {
+       "text": "1Th 5:23",
+       "ref": "1TH.5.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.10",
+   "range": "PHP.4.10",
+   "kind": "passage",
+   "hash": "24390185",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.10#p1-5c0ee5be",
+     "text": "he signifies that he had been much raised in true spiritual (not carnal) joy, that the Lord had by his Spirit wrought in them such enlargedness of heart, as did show itself in their care of him for the sake of Christ. What follows, a learned man writes, may be rendered, that now at last, ye could bring to maturity the care of me; for whom indeed ye had been careful, but had not the ability. The apostle’s phrase is borrowed from trees, which in the winter season keep their sap within the bark, in the spring and summer grow green, and yield their fruit: so was the Philippians’ care of Paul, suffering in Christ’s cause; for the Greek word we translate",
+     "anchor": "But I rejoiced in the Lord greatly"
+    },
+    {
+     "id": "poole/PHP.4.10#p2-16727d30",
+     "text": "or revived, is sometimes used actively, and transitively. So in the Seventy, Eze 17:24; with the apocryphal writer, /APC Sir 1:18 11:22 50:11: and so it may be expounded here, not only of reviving, growing green, and budding again, (which is less than the thing is), but of bringing forth fruit.",
+     "anchor": "flourished again",
+     "refs": [
+      {
+       "text": "Eze 17:24",
+       "ref": "EZK.17.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.10#p3-1de8446a",
+     "text": "For their care of Paul was in their heart, but by reason of troubles it could not exert itself, or yield fruit, but only in the season, {as Mat 21:34} which the apostle, softening his speech, allegeth as an apology for them: he doth not say there was not any opportunity in respect of himself, but a seasonableness in respect of them; they being destitute of a faculty of bringing forth fruit, Php 4:17, (which yet they always nourished in their most intimate affections towards him), till the present, when at length they had a seasonableness and an ability given them of God, to the perfecting of that fruit for the apostle. For what we translate",
+     "refs": [
+      {
+       "text": "Mat 21:34",
+       "ref": "MAT.21.34"
+      },
+      {
+       "text": "Php 4:17",
+       "ref": "PHP.4.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.10#p4-4484ef19",
+     "text": "may, as Php 3:12, be translated, for where: compare the use of the particle and article, Mat 18:4, with Mat 26:50 Rom 5:12.",
+     "anchor": "wherein",
+     "refs": [
+      {
+       "text": "Php 3:12",
+       "ref": "PHP.3.12"
+      },
+      {
+       "text": "Mat 18:4",
+       "ref": "MAT.18.4"
+      },
+      {
+       "text": "Mat 26:50",
+       "ref": "MAT.26.50"
+      },
+      {
+       "text": "Rom 5:12",
+       "ref": "ROM.5.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.11",
+   "range": "PHP.4.11",
+   "kind": "passage",
+   "hash": "3a447aca",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.11#p1-31599c72",
+     "text": "he doth anticipate any conceit they might have, as if he had a mean soul, and his joy were solely for the fruit of their care be had received in the supply of his want, as the same word is elsewhere used, Mat 12:44.",
+     "anchor": "Not that I speak in respect of want",
+     "refs": [
+      {
+       "text": "Mat 12:44",
+       "ref": "MAT.12.44"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.11#p2-5a8cad51",
+     "text": "because he knew better things; being instructed at a higher rate, he had practically learned to rest satisfied with his own lot, 2Co 11:27, accounting God’s allowance a sufficiency to him in any condition, 1Ti 6:6,8. How adverse soever his state was, he had attained to such equanimity that he could be content with such things as he had, Heb 13:5, and cheerfully and patiently submit to God’s most wise disposal of him, knowing his most righteous and tender hearted Father would never leave nor forsake him, having already given him greater things than any of these sublunary ones he could stand in need of, Rom 8:32.",
+     "anchor": "For I have learned, in whatsoever state I am, therewith to be content",
+     "refs": [
+      {
+       "text": "2Co 11:27",
+       "ref": "2CO.11.27"
+      },
+      {
+       "text": "1Ti 6:6",
+       "ref": "1TI.6.6"
+      },
+      {
+       "text": "Heb 13:5",
+       "ref": "HEB.13.5"
+      },
+      {
+       "text": "Rom 8:32",
+       "ref": "ROM.8.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.12",
+   "range": "PHP.4.12",
+   "kind": "passage",
+   "hash": "0d872a3b",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.12#p1-9006e232",
+     "text": "He explains the equality of his mind he had through grace attained to, in a free submission to God, either in the absence or affluence of external good things."
+    },
+    {
+     "id": "poole/PHP.4.12#p2-689cf6f3",
+     "text": "in a mean and ignominious state, he had spiritual skill to exercise suitable graces without murmuring, or repining when trampled on, 1Co 4:11 2Co 11:27; having entirely resigned his will to the will of God.",
+     "anchor": "I know both how to be abased",
+     "refs": [
+      {
+       "text": "1Co 4:11",
+       "ref": "1CO.4.11"
+      },
+      {
+       "text": "2Co 11:27",
+       "ref": "2CO.11.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.12#p3-55d8ae8d",
+     "text": "in a higher state, had in much esteem, and well accommodated.",
+     "anchor": "And I know how to abound"
+    },
+    {
+     "id": "poole/PHP.4.12#p4-1e994e25",
+     "text": "yea, in all circumstances religiously initiated and taught, fortified against temptations on all hands.",
+     "anchor": "Every where and in all things I am instructed"
+    },
+    {
+     "id": "poole/PHP.4.12#p5-a6968e41",
+     "text": "when faring well, and having a large revenue, to be temperate, 1Co 9:25, humble, and communicative, 1Ti 6:18. When hungry and poor, not to be distressed, but confident our heavenly Father will provide enough in his season, Mat 6:32 7:11 2Co 4:8, giving an elixir at present that will turn all into gold.",
+     "anchor": "Both to be full and to be hungry, both to abound and to suffer need",
+     "refs": [
+      {
+       "text": "1Co 9:25",
+       "ref": "1CO.9.25"
+      },
+      {
+       "text": "1Ti 6:18",
+       "ref": "1TI.6.18"
+      },
+      {
+       "text": "Mat 6:32",
+       "ref": "MAT.6.32"
+      },
+      {
+       "text": "2Co 4:8",
+       "ref": "2CO.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.13",
+   "range": "PHP.4.13",
+   "kind": "passage",
+   "hash": "24b4e223",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.13#p1-ab5508dd",
+     "text": "Having written of the great things he had learned, that it might not be attributed to his proud conceit, or give occasion to any others’ vanity to boast, (as he had recourse before to the Divine efficiency to will and do, Php 2:13), he rests solely for power upon Christ, being found in whom, when he saith he",
+     "refs": [
+      {
+       "text": "Php 2:13",
+       "ref": "PHP.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.13#p2-c8de2b35",
+     "text": "we are not to understand it absolutely, but restrictively to the subject matter he had before mentioned in the precedent verses, intimating he could by the Lord’s help use well both prosperity and adversity: or, all those things the Lord called him to and put him upon. Not, as the papists urge, that any mere man since the fall is able in this life perfectly to keep the commandments of God; but that he by faith being united to Christ, by the power of his Spirit dwelling in him, hath in the Lord righteousness and strength, Isa 45:24; and thereupon hath a sincere respect to all God’s commands, as David had, Psa 119:6; so also had Zacharias and Elisabeth, Luk 1:6; in opposition to Pharisaical obedience: not by any power he had of himself, but through Christ strengthening of him, so that God would accept of his sincere performance (though not every way perfect) of what was incumbent on him.",
+     "anchor": "can do all things",
+     "refs": [
+      {
+       "text": "Isa 45:24",
+       "ref": "ISA.45.24"
+      },
+      {
+       "text": "Psa 119:6",
+       "ref": "PSA.119.6"
+      },
+      {
+       "text": "Luk 1:6",
+       "ref": "LUK.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.14",
+   "range": "PHP.4.14",
+   "kind": "passage",
+   "hash": "18c6b947",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.14#p1-18c6b947",
+     "text": "Lest any should suspect, from what he had suggested of his contentment, that he was not much affected with their liberality, but might have done as well without as with it, and they might have spared their bounty and labour, he doth prudently commend their Christian commiseration, (as the phrase is, Act 10:33), and give them to understand how acceptable their seasonable supply was to him, who did so joyfully resent their kindness to him, in that it was well-pleasing to God, Rom 12:15; they did so effectually sympathize and take a share in the oppression he sustained for the cause of Christ, 2Co 1:7, and remember him in his bonds as if it were their own case, Heb 13:3 Rev 1:9.",
+     "refs": [
+      {
+       "text": "Act 10:33",
+       "ref": "ACT.10.33"
+      },
+      {
+       "text": "Rom 12:15",
+       "ref": "ROM.12.15"
+      },
+      {
+       "text": "2Co 1:7",
+       "ref": "2CO.1.7"
+      },
+      {
+       "text": "Heb 13:3",
+       "ref": "HEB.13.3"
+      },
+      {
+       "text": "Rev 1:9",
+       "ref": "REV.1.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.15",
+   "range": "PHP.4.15",
+   "kind": "passage",
+   "hash": "923b2527",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.15#p1-aaef7389",
+     "text": "He amplifies the present favour the Christians at Philippi had vouchsafed to him, by a thankful recollection of their former liberality."
+    },
+    {
+     "id": "poole/PHP.4.15#p2-c19c970d",
+     "text": "soon after he had preached and planted the good things of salvation amongst them, Php 2:22 Act 16:12,13,40.",
+     "anchor": "In the beginning of the gospel",
+     "refs": [
+      {
+       "text": "Php 2:22",
+       "ref": "PHP.2.22"
+      },
+      {
+       "text": "Act 16:12",
+       "ref": "ACT.16.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.15#p3-a94898bd",
+     "text": "comparing their first benevolence with other churches, when leaving of Macedonia, Act 18:5 2Co 11:9.",
+     "anchor": "When I departed from Macedonia",
+     "refs": [
+      {
+       "text": "Act 18:5",
+       "ref": "ACT.18.5"
+      },
+      {
+       "text": "2Co 11:9",
+       "ref": "2CO.11.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.15#p4-da94b908",
+     "text": "none of the rest of the churches had, for the spiritual things received of him in his ministration, distributed of their carnal or temporal, (though that was their duty beyond dispute, 1Co 9:7,11,13,14 Ga 6:6 1Ti 5:17,18), but they alone: which might at once commend their Christian liberality, and evince that he in preaching of the gospel was not mercenary, not having exacted a reward from others, but preached the gospel freely, 2Co 11:7.",
+     "anchor": "No church communicated with me as concerning giving and receiving, but ye only",
+     "refs": [
+      {
+       "text": "1Co 9:7",
+       "ref": "1CO.9.7"
+      },
+      {
+       "text": "1Ti 5:17",
+       "ref": "1TI.5.17"
+      },
+      {
+       "text": "2Co 11:7",
+       "ref": "2CO.11.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.16",
+   "range": "PHP.4.16",
+   "kind": "passage",
+   "hash": "a98c5ad9",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.16#p1-a98c5ad9",
+     "text": "They, for their parts, were most commendable in this matter, that when he was in Thessalonica, the mother city, (not above twenty-five miles distant), their care for his comfortable livelihood was more than once manifested, he passing again and again through Macedonia, 1Co 16:5 2Co 1:16; which argues his thankful resentment of the constant purpose of their mind to succour him upon all occasions.",
+     "refs": [
+      {
+       "text": "1Co 16:5",
+       "ref": "1CO.16.5"
+      },
+      {
+       "text": "2Co 1:16",
+       "ref": "2CO.1.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.17",
+   "range": "PHP.4.17",
+   "kind": "passage",
+   "hash": "ed5497cb",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.17#p1-ed5497cb",
+     "text": "Neither would he have any of them to think, as if his commendation of them were any oblique insinuations, with design to draw something more from them; he would have them to understand he did not seek himself, or theirs for his use, (as elsewhere, 1Co 10:33 2Co 12:14), but his great intent was, that they themselves might of God’s grace have the fruit of their charity they had showed to him, Php 1:11 4:10; which, in the balancing of the accounts, (by accepting as it were of Christ’s will, Pro 19:17 Mat 10:42 25:35,36,40), will turn to their best advantage.",
+     "refs": [
+      {
+       "text": "1Co 10:33",
+       "ref": "1CO.10.33"
+      },
+      {
+       "text": "2Co 12:14",
+       "ref": "2CO.12.14"
+      },
+      {
+       "text": "Php 1:11",
+       "ref": "PHP.1.11"
+      },
+      {
+       "text": "Pro 19:17",
+       "ref": "PRO.19.17"
+      },
+      {
+       "text": "Mat 10:42",
+       "ref": "MAT.10.42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.18",
+   "range": "PHP.4.18",
+   "kind": "passage",
+   "hash": "2d0852aa",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.18#p1-787baa2e",
+     "text": "He further testifies his thankfulness from the effect their gratuity had upon him, by three words here which declare the same thing, viz. that he was abundantly satisfied, having all that he could wish, even enough and more; so that he did not expect any thing more than what he had already received by their faithful messenger Epaphroditus; which he further commends from its great acceptableness to God, in allusion to the sweet odours in the sacrifices that God himself took pleasure in, Lev 2:1,2 3:16 Heb 13:16; so that that present God himself would accept through Christ, as if it had been offered to himself, 1Pe 2:5. It is true, the Socinians, to lessen the meritoriousness of Christ’s sacrifice of himself, which the apostle mentions, Eph 5:2, with respect to Gen 8:21, would by this text corrupt that: but the truth is, it hath nothing like with that, for the benevolence and gratuity of the Philippians is said by Paul to be an odour of a sweet smell, a sacrifice acceptable, & c.; but it is not said that the Philippians themselves did give themselves and dour of a sweet smell, as it is said Christ gave himself for us an offering and a sacrifice to God for a sweet-smelling savour; which being once offered for all, was sufficient to take away sin, Heb 10:10,12. And therefore their reasoning is fallacious from that parity they suggest.",
+     "refs": [
+      {
+       "text": "Lev 2:1",
+       "ref": "LEV.2.1"
+      },
+      {
+       "text": "Heb 13:16",
+       "ref": "HEB.13.16"
+      },
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      },
+      {
+       "text": "Eph 5:2",
+       "ref": "EPH.5.2"
+      },
+      {
+       "text": "Gen 8:21",
+       "ref": "GEN.8.21"
+      },
+      {
+       "text": "Heb 10:10",
+       "ref": "HEB.10.10"
+      },
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.18#p2-b2cf0a8d",
+     "text": "It is true, believers and their good works are as sweet odours, Rom 12:1, acceptable, but in Christ, 1Pe 2:5, because they please God only for him, for his sake and merit. But Christ, because he doth appease God himself, who smells a savour of rest in his sacrifice, which all others under the law did but shadow, receiving their efficacy from his: Christ did it by himself, believers and their services are only acceptable in him.",
+     "refs": [
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      },
+      {
+       "text": "Rom 12:1",
+       "ref": "ROM.12.1"
+      },
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.19",
+   "range": "PHP.4.19",
+   "kind": "passage",
+   "hash": "821a5c9d",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.19#p1-baa3290e",
+     "text": "see Php 4:3: he saith my God, because he imputeth and owneth that to be done to himself which is done according to his mind unto any of his ambassadors, he having received the gift from their hand by Paul.",
+     "anchor": "But my God",
+     "refs": [
+      {
+       "text": "Php 4:3",
+       "ref": "PHP.4.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.19#p2-7c4ff568",
+     "text": "will, in a gracious return to Paul’s prayer, abundantly answer (yea, above all he could ask or think) all their expectations, Psa 41:1-3, with 2Co 9:8,10.",
+     "anchor": "Shall supply all your need",
+     "refs": [
+      {
+       "text": "Psa 41:1-3",
+       "ref": "PSA.41.1-3"
+      },
+      {
+       "text": "2Co 9:8",
+       "ref": "2CO.9.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.19#p3-bca77d03",
+     "text": "agreeably to his own fulness and rich mercy, Psa 24:1 1Co 10:26 Eph 2:4; gloriously, or riches of his glory, Eph 3:16, and goodness, Rom 2:4 9:23; sustaining and defending them liberally and powerfully here, to his own glory, and taking them hereafter into everlasting glory.",
+     "anchor": "According to his riches in glory",
+     "refs": [
+      {
+       "text": "Psa 24:1",
+       "ref": "PSA.24.1"
+      },
+      {
+       "text": "1Co 10:26",
+       "ref": "1CO.10.26"
+      },
+      {
+       "text": "Eph 2:4",
+       "ref": "EPH.2.4"
+      },
+      {
+       "text": "Eph 3:16",
+       "ref": "EPH.3.16"
+      },
+      {
+       "text": "Rom 2:4",
+       "ref": "ROM.2.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.19#p4-c4662de6",
+     "text": "through the mediation of, and by virtue of their communion with, Christ Jesus.",
+     "anchor": "By Christ Jesus"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.20",
+   "range": "PHP.4.20",
+   "kind": "passage",
+   "hash": "7367bcad",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.20#p1-b09537aa",
+     "text": "From thanking of the Philippians, the holy man passeth to a giving of thanks unto God, the first cause, that they might not be elated. He had my God, Php 4:19; now, our Father; not only adoring him as Maker of all, but as Father of all the faithful as well as of Paul, being born of him in Christ, Joh 1:12,13, through whom he takes a fatherly care of them, Mat 6:32. Christ saith, my Father, Joh 20:17, as being his only Son by eternal generation; and he allows believers to say our Father, as being his children by adoption.",
+     "refs": [
+      {
+       "text": "Php 4:19",
+       "ref": "PHP.4.19"
+      },
+      {
+       "text": "Joh 1:12",
+       "ref": "JHN.1.12"
+      },
+      {
+       "text": "Mat 6:32",
+       "ref": "MAT.6.32"
+      },
+      {
+       "text": "Joh 20:17",
+       "ref": "JHN.20.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.20#p2-b30eb24d",
+     "text": "Unto whom they are obliged to ascribe praise, and always to give thanks in the name of our Lord Jesus Christ, Eph 5:20. And this indeed hath been their practice, which should be ours, Rom 1:25 9:5 11:33,36 16:25,27 Eph 3:21 1Ti 1:17 1Pe 4:11 5:11 2Pe 3:18 Jud 1:25 Rev 1:6, &c. It intimates, their hearts being full with the glory of God, their pens and months were enlarged accordingly, exciting others to the like doxologies. To almost all which in the forecited places (as here)",
+     "refs": [
+      {
+       "text": "Eph 5:20",
+       "ref": "EPH.5.20"
+      },
+      {
+       "text": "Rom 1:25",
+       "ref": "ROM.1.25"
+      },
+      {
+       "text": "1Ti 1:17",
+       "ref": "1TI.1.17"
+      },
+      {
+       "text": "1Pe 4:11",
+       "ref": "1PE.4.11"
+      },
+      {
+       "text": "2Pe 3:18",
+       "ref": "2PE.3.18"
+      },
+      {
+       "text": "Jud 1:25",
+       "ref": "JUD.1.25"
+      },
+      {
+       "text": "Rev 1:6",
+       "ref": "REV.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.20#p3-9d2e7f0b",
+     "text": "is added, connoting absolute eternity, and joining past, present, and future ages together. This form of",
+     "anchor": "ever and ever"
+    },
+    {
+     "id": "poole/PHP.4.20#p4-fcd8177a",
+     "text": "affixed in the close, doth signify how his heart did give, and rejoiced to give, all blessedness to our Father in Christ, as rejoicing that he is so blessed a God.",
+     "anchor": "Amen"
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.21",
+   "range": "PHP.4.21",
+   "kind": "passage",
+   "hash": "7b6cf6e7",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.21#p1-da7b5435",
+     "text": "He doth friendly embrace and wish happiness to all and every sanctified one who is a member of Christ, hath entirely resigned up to him, and doth abide in him. Then shows, that most probably his colleagues and fellow labourers in the Christian church at Rome, (calling such elsewhere"
+    },
+    {
+     "id": "poole/PHP.4.21#p2-e3faca25",
+     "text": "1Co 1:1 Col 1:1 4:7 Phm 1:1,7,20), Php 1:14 2:25 1Co 16:20, do so likewise.",
+     "anchor": "brethren",
+     "refs": [
+      {
+       "text": "1Co 1:1",
+       "ref": "1CO.1.1"
+      },
+      {
+       "text": "Col 1:1",
+       "ref": "COL.1.1"
+      },
+      {
+       "text": "Phm 1:1",
+       "ref": "PHM.1.1"
+      },
+      {
+       "text": "Php 1:14",
+       "ref": "PHP.1.14"
+      },
+      {
+       "text": "1Co 16:20",
+       "ref": "1CO.16.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.22",
+   "range": "PHP.4.22",
+   "kind": "passage",
+   "hash": "3209ad72",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.22#p1-3209ad72",
+     "text": "The rest of the Christians at Rome do the same; more especially they of Nero the emperor’s own family and court, his domestics, Php 1:13. It seems there were some there truly pious and Christian: but however some conceit, there is no real evidence that Seneca was of that number; he being not a courtier, but a senator, who left no real token (we know of) that he was a Christian.",
+     "refs": [
+      {
+       "text": "Php 1:13",
+       "ref": "PHP.1.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PHP.4.23",
+   "range": "PHP.4.23",
+   "kind": "passage",
+   "hash": "a938c6cd",
+   "paragraphs": [
+    {
+     "id": "poole/PHP.4.23#p1-32dd1646",
+     "text": "He concludes this (like his other Epistles) much as he began, (see on Php 1:2), praying the same grace of the Lord might abide with them, which he had prayed to them all, Php 1:1.",
+     "refs": [
+      {
+       "text": "Php 1:2",
+       "ref": "PHP.1.2"
+      },
+      {
+       "text": "Php 1:1",
+       "ref": "PHP.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PHP.4.23#p2-93b1ba31",
+     "text": "not at all doubting, but with full confidence trusting, all should be firm, as he had prayed.",
+     "anchor": "Amen"
+    },
+    {
+     "id": "poole/PHP.4.23#p3-83b1a069",
+     "text": "It was written to the Philippians from Rome by Epaphroditus."
+    }
+   ]
+  }
+ ]
+}

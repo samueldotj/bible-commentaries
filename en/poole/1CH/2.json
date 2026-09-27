@@ -1,0 +1,737 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "poole/1CH.2",
+   "range": "1CH.2",
+   "kind": "chapter",
+   "hash": "0fa3b3c2",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2#p1-0fa3b3c2",
+     "text": "The sons of Israel; of Judah by Tamar: the children of Jesse, 1Ch 2:1-17. Of Caleb the son of Hezron; of him by the daughter of Machir, 1Ch 2:18-21. Of Jerahmeel, 1Ch 2:25-33. Of Sheshan, 1Ch 2:34-41. Another branch of Caleb’s posterity, 1Ch 2:42-49. Of Caleb the son of Hur, 1Ch 2:50-55.",
+     "refs": [
+      {
+       "text": "1Ch 2:1-17",
+       "ref": "1CH.2.1-17"
+      },
+      {
+       "text": "1Ch 2:18-21",
+       "ref": "1CH.2.18-21"
+      },
+      {
+       "text": "1Ch 2:25-33",
+       "ref": "1CH.2.25-33"
+      },
+      {
+       "text": "1Ch 2:34-41",
+       "ref": "1CH.2.34-41"
+      },
+      {
+       "text": "1Ch 2:42-49",
+       "ref": "1CH.2.42-49"
+      },
+      {
+       "text": "1Ch 2:50-55",
+       "ref": "1CH.2.50-55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.3",
+   "range": "1CH.2.3",
+   "kind": "passage",
+   "hash": "db93a80d",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.3#p1-3e275750",
+     "text": "He puts"
+    },
+    {
+     "id": "poole/1CH.2.3#p2-d33edd5d",
+     "text": "first, because the best part of the right of the first-born, to wit, the dominion, was conferred upon him, Gen 49:8, and because the Messiah was to come out of his loins.",
+     "anchor": "Judah",
+     "refs": [
+      {
+       "text": "Gen 49:8",
+       "ref": "GEN.49.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.6",
+   "range": "1CH.2.6",
+   "kind": "passage",
+   "hash": "6f0b1465",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.6#p1-6f0b1465",
+     "text": "If these be the same who are mentioned as the sons of Mahol, 1Ki 4:31, either the same man had two names, Zerah and Mahol, as was usual among the Hebrews; or one of these was their immediate father, and the other their grandfather.",
+     "refs": [
+      {
+       "text": "1Ki 4:31",
+       "ref": "1KI.4.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.7",
+   "range": "1CH.2.7",
+   "kind": "passage",
+   "hash": "a0e5ba7b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.7#p1-b9172efd",
+     "text": "is here mentioned, because he was the son of Zimri, who is also called Zabdi, Jos 7:1.",
+     "anchor": "Carmi",
+     "refs": [
+      {
+       "text": "Jos 7:1",
+       "ref": "JOS.7.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.7#p2-dab1e911",
+     "text": "called Achan, Jos 7:1, and here Achar, with a little variation for greater significancy; for Achar signifies a troubler.",
+     "anchor": "Achar",
+     "refs": [
+      {
+       "text": "Jos 7:1",
+       "ref": "JOS.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.13",
+   "range": "1CH.2.13",
+   "kind": "passage",
+   "hash": "73573dc8",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.13#p1-73573dc8",
+     "text": "called also Elihu. 1Ch 27:18 unless that was another person, and the word brother to be taken largely for a kinsman, as is frequently used.",
+     "anchor": "Eliab",
+     "refs": [
+      {
+       "text": "1Ch 27:18",
+       "ref": "1CH.27.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.15",
+   "range": "1CH.2.15",
+   "kind": "passage",
+   "hash": "e8b83f10",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.15#p1-e8b83f10",
+     "text": "For though he had eight sons, 1Sa 16:10, one of them either died presently after that time, or is neglected for some reason now unknown, as others are. See Poole \"Mat 1:8\", See Poole \"Mat 1:9\".",
+     "refs": [
+      {
+       "text": "1Sa 16:10",
+       "ref": "1SA.16.10"
+      },
+      {
+       "text": "Mat 1:8",
+       "ref": "MAT.1.8"
+      },
+      {
+       "text": "Mat 1:9",
+       "ref": "MAT.1.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.17",
+   "range": "1CH.2.17",
+   "kind": "passage",
+   "hash": "fe7ba52a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.17#p1-fe7ba52a",
+     "text": "by birth or habitation, but by profession an Israelite, 2Sa 17:25, See Poole \"2Sa 17:25\".",
+     "anchor": "The Ishmeelite",
+     "refs": [
+      {
+       "text": "2Sa 17:25",
+       "ref": "2SA.17.25"
+      },
+      {
+       "text": "2Sa 17:25",
+       "ref": "2SA.17.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.18",
+   "range": "1CH.2.18",
+   "kind": "passage",
+   "hash": "da22a791",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.18#p1-b260a788",
+     "text": "Not that Caleb, Num 13:6, for he was the son of Jephunneh, of whom he speaks, 1Ch 4:15; but another Caleb.",
+     "refs": [
+      {
+       "text": "Num 13:6",
+       "ref": "NUM.13.6"
+      },
+      {
+       "text": "1Ch 4:15",
+       "ref": "1CH.4.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.18#p2-4c22845e",
+     "text": "i.e. the sons, either,",
+     "anchor": "Her sons"
+    },
+    {
+     "id": "poole/1CH.2.18#p3-d4ac422d",
+     "text": "1. Of Jerioth, she being last mentioned; or rather,"
+    },
+    {
+     "id": "poole/1CH.2.18#p4-63874527",
+     "text": "2. Of Azubah, who is by way of distinction called his wife, when Jerioth probably was only his concubine, and, as it may seem, barren; and therefore upon Azubah’s death he married another wife, 1Ch 2:19. And those other sons of this Caleb, mentioned below, 1Ch 2:42, are his sons by some other wife distinct from all these.",
+     "refs": [
+      {
+       "text": "1Ch 2:19",
+       "ref": "1CH.2.19"
+      },
+      {
+       "text": "1Ch 2:42",
+       "ref": "1CH.2.42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.21",
+   "range": "1CH.2.21",
+   "kind": "passage",
+   "hash": "ea01bbc5",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.21#p1-b2f4cb82",
+     "text": "i.e. lay with her, as that phrase is commonly used, as Gen 4:1 6:4.",
+     "anchor": "Went in",
+     "refs": [
+      {
+       "text": "Gen 4:1",
+       "ref": "GEN.4.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.21#p2-67fb6b7d",
+     "text": "of a man so called. Or if Gilead be the name of that known country, father is put for head or governor, as it is used 1Sa 24:11 2Ki 5:13 16:7 Isa 22:21; or for protector or curator, as father is used Job 29:16 Jer 2:27 Lam 5:3; this man being a man of noted valour, and the great champion in those parts.",
+     "anchor": "The father of Gilead",
+     "refs": [
+      {
+       "text": "1Sa 24:11",
+       "ref": "1SA.24.11"
+      },
+      {
+       "text": "2Ki 5:13",
+       "ref": "2KI.5.13"
+      },
+      {
+       "text": "Isa 22:21",
+       "ref": "ISA.22.21"
+      },
+      {
+       "text": "Job 29:16",
+       "ref": "JOB.29.16"
+      },
+      {
+       "text": "Jer 2:27",
+       "ref": "JER.2.27"
+      },
+      {
+       "text": "Lam 5:3",
+       "ref": "LAM.5.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.21#p3-f8d9a941",
+     "text": "Heb. and he took her, to wit, to wife. Or, after he had taken her; for so the particle vau is used, as hath been formerly noted.",
+     "anchor": "Whom, he married"
+    },
+    {
+     "id": "poole/1CH.2.21#p4-0b0d32fb",
+     "text": "Heb. and he was, to wit, when he went in unto her, or when he married her.",
+     "anchor": "When he was threescore years old"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.22",
+   "range": "1CH.2.22",
+   "kind": "passage",
+   "hash": "4490093a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.22#p1-4490093a",
+     "text": "Which he had, though he was of the tribe of Judah, as here we see, because he married a daughter of Manasseh, Num 26:29, whence he is called a son of Manasseh, Num 32:41 Deu 3:14; and because, being a man of great courage, he joined himself with that half tribe in subduing Gilead, wherein he acted so valiantly and successfully, that he had twenty-three cities or great towns given to him to possess or dispose of; or rather, to rule over them, and have some advantage from them; as a king is said to have his kingdom, although he hath not the propriety of all the lands and houses in it.",
+     "refs": [
+      {
+       "text": "Num 26:29",
+       "ref": "NUM.26.29"
+      },
+      {
+       "text": "Num 32:41",
+       "ref": "NUM.32.41"
+      },
+      {
+       "text": "Deu 3:14",
+       "ref": "DEU.3.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.23",
+   "range": "1CH.2.23",
+   "kind": "passage",
+   "hash": "0c8fb122",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.23#p1-b6009bfd",
+     "text": "or, for he had taken. So this is the reason why he had so great a territory and jurisdiction given to him.",
+     "anchor": "And he took"
+    },
+    {
+     "id": "poole/1CH.2.23#p2-a0b39443",
+     "text": "two cities or great towns so called.",
+     "anchor": "Geshur and Aram"
+    },
+    {
+     "id": "poole/1CH.2.23#p3-89a1e807",
+     "text": "i.e. with those twenty-three cities which he is said to have, 1Ch 2:22.",
+     "anchor": "With the towns of Jair",
+     "refs": [
+      {
+       "text": "1Ch 2:22",
+       "ref": "1CH.2.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.23#p4-5a892a77",
+     "text": "i.e. from the former inhabitants, which is easily understood.",
+     "anchor": "From them"
+    },
+    {
+     "id": "poole/1CH.2.23#p5-489d8d1d",
+     "text": "which was taken by Nobah, one of Jair’s commanders, sent by him to take it, as may be gathered from Num 32:41,42.",
+     "anchor": "With Kenath",
+     "refs": [
+      {
+       "text": "Num 32:41",
+       "ref": "NUM.32.41"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.23#p6-61e315f9",
+     "text": "partly to his own sons, and partly to his son-in-law Jair, who by reason of that dear affection which was betwixt them and his forsaking his own tribe and kindred to fight for them, and to dwell with them, is here reckoned as his own son.",
+     "anchor": "To the sons of Machir"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.24",
+   "range": "1CH.2.24",
+   "kind": "passage",
+   "hash": "a362a4ef",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.24#p1-f0da1f35",
+     "text": "a place then so called by a conjunction of the names of the man and his wife; afterwards supposed to be called Beth-lehem Ephratah. Others translate the words thus, When Caleb took Ephratah. So it is an ellipsis of the verb, which is here to be understood out of 1Ch 2:19, where it is expressed.",
+     "anchor": "Caleb-ephratah",
+     "refs": [
+      {
+       "text": "1Ch 2:19",
+       "ref": "1CH.2.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.24#p2-96c2da51",
+     "text": "after the father’s death.",
+     "anchor": "Abiah bare him Ashur"
+    },
+    {
+     "id": "poole/1CH.2.24#p3-0027995a",
+     "text": "a known place, 2Sa 14:2,4 Jer 6:1 Amo 1:1; whose father he is called, because he was either the progenitor of the people inhabiting there, or their prince and ruler, or the builder of the city.",
+     "anchor": "The father of Tekoa",
+     "refs": [
+      {
+       "text": "2Sa 14:2",
+       "ref": "2SA.14.2"
+      },
+      {
+       "text": "Amo 1:1",
+       "ref": "AMO.1.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.25",
+   "range": "1CH.2.25",
+   "kind": "passage",
+   "hash": "0c95dbd6",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.25#p1-3f09a65f",
+     "text": "Or, of (the prefix, mere being oft understood)"
+    },
+    {
+     "id": "poole/1CH.2.25#p2-7cb20c06",
+     "text": "his wife so called, as may seem probable from the next verse, where he mentions another wife.",
+     "anchor": "Ahijah"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.31",
+   "range": "1CH.2.31",
+   "kind": "passage",
+   "hash": "224005c2",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.31#p1-224005c2",
+     "text": "an expression oft used, both afterwards in this verse, and elsewhere, and in profane authors too, where there is but one son. It is an enallage of the number, which is frequent in the Hebrew.",
+     "anchor": "The sons of Appaim"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.34",
+   "range": "1CH.2.34",
+   "kind": "passage",
+   "hash": "f148a051",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.34#p1-f148a051",
+     "text": "to wit, living when he died, his son Ahlai, 1Ch 2:31, dying before him; unless Ahlai was the name of a daughter.",
+     "anchor": "Sheshan had no sons",
+     "refs": [
+      {
+       "text": "1Ch 2:31",
+       "ref": "1CH.2.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.42",
+   "range": "1CH.2.42",
+   "kind": "passage",
+   "hash": "8d66b228",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.42#p1-e6733524",
+     "text": "to wit, of that Caleb mentioned 1Ch 2:18, as appears by comparing that verse with 1Ch 2:21. And these are his sons by another and his third wife. See Poole \"1Ch 2:18\".",
+     "anchor": "The sons of Caleb",
+     "refs": [
+      {
+       "text": "1Ch 2:18",
+       "ref": "1CH.2.18"
+      },
+      {
+       "text": "1Ch 2:21",
+       "ref": "1CH.2.21"
+      },
+      {
+       "text": "1Ch 2:18",
+       "ref": "1CH.2.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.42#p2-7c277cdd",
+     "text": "the name either of a man, or of a place, of which see Jos 15:24,55; and then father is to be understood here, as 1Ch 2:23,24.",
+     "anchor": "Ziph",
+     "refs": [
+      {
+       "text": "Jos 15:24",
+       "ref": "JOS.15.24"
+      },
+      {
+       "text": "1Ch 2:23",
+       "ref": "1CH.2.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.42#p3-7832fbfc",
+     "text": "not the place so called, but a man, as is evident, because his sons here follow.",
+     "anchor": "The father of Hebron"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.45",
+   "range": "1CH.2.45",
+   "kind": "passage",
+   "hash": "550dce0f",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.45#p1-550dce0f",
+     "text": "A place in Judah, Jos 15:58, See Poole on \"1Ch 2:23\".",
+     "refs": [
+      {
+       "text": "Jos 15:58",
+       "ref": "JOS.15.58"
+      },
+      {
+       "text": "1Ch 2:23",
+       "ref": "1CH.2.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.47",
+   "range": "1CH.2.47",
+   "kind": "passage",
+   "hash": "aaaafff7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.47#p1-aaaafff7",
+     "text": "the son of Gazez last mentioned; which is implied, because he follows next after him in the genealogy. Or, the sons of Moza; whose name might be changed into Jahdai for some reason now unknown.",
+     "anchor": "The sons of Jahdai"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.49",
+   "range": "1CH.2.49",
+   "kind": "passage",
+   "hash": "209c45e3",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.49#p1-81b07f50",
+     "text": "this and divers other following names are the names of places in Judah, and",
+     "anchor": "Madmannah"
+    },
+    {
+     "id": "poole/1CH.2.49#p2-deb1d3a7",
+     "text": "is meant as 1Ch 2:23,24.",
+     "anchor": "father",
+     "refs": [
+      {
+       "text": "1Ch 2:23",
+       "ref": "1CH.2.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.51",
+   "range": "1CH.2.51",
+   "kind": "passage",
+   "hash": "115574ff",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.51#p1-fdd0a399",
+     "text": "to wit, in part; for Boaz descended from another Salmon, who was the son of Nahshon, 1Ch 2:11.",
+     "anchor": "Salma the father of Beth-lehem",
+     "refs": [
+      {
+       "text": "1Ch 2:11",
+       "ref": "1CH.2.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.51#p2-77806153",
+     "text": "called also Penuel the father of Gedor, 1Ch 4:4.",
+     "anchor": "Hareph the father of Beth-gader",
+     "refs": [
+      {
+       "text": "1Ch 4:4",
+       "ref": "1CH.4.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.52",
+   "range": "1CH.2.52",
+   "kind": "passage",
+   "hash": "7c1d17d1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.52#p1-7c1d17d1",
+     "text": "which may signify an overseer, a prophet, or teacher, or ruler; but here is a proper name, as appears from 1Ch 4:2, where he is called Reaiah, with no great variation in the Hebrew.",
+     "anchor": "Haroeh",
+     "refs": [
+      {
+       "text": "1Ch 4:2",
+       "ref": "1CH.4.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.53",
+   "range": "1CH.2.53",
+   "kind": "passage",
+   "hash": "1d02ff00",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.53#p1-1d57a7bc",
+     "text": "or, in Kirjath-jearim; all which descended from Shobal, 1Ch 2:50.",
+     "anchor": "The families of Kirjath-jearim",
+     "refs": [
+      {
+       "text": "1Ch 2:50",
+       "ref": "1CH.2.50"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.53#p2-ebad9269",
+     "text": "i.e. of the family of the Mishraites, last mentioned.",
+     "anchor": "Of them"
+    },
+    {
+     "id": "poole/1CH.2.53#p3-14778268",
+     "text": "the inhabitants of two places called Zoreah and Eshtaol, Jos 15:33.",
+     "anchor": "The Eshtaulites",
+     "refs": [
+      {
+       "text": "Jos 15:33",
+       "ref": "JOS.15.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.54",
+   "range": "1CH.2.54",
+   "kind": "passage",
+   "hash": "83239c75",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.54#p1-c0bf3d8c",
+     "text": "of that Salma mentioned 1Ch 2:51.",
+     "anchor": "The sons of Salma",
+     "refs": [
+      {
+       "text": "1Ch 2:51",
+       "ref": "1CH.2.51"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.54#p2-5311aada",
+     "text": "i.e. the inhabitants of Beth-lehem.",
+     "anchor": "Beth-lehem"
+    },
+    {
+     "id": "poole/1CH.2.54#p3-38bc234a",
+     "text": "the name of a person or people.",
+     "anchor": "Ataroth"
+    },
+    {
+     "id": "poole/1CH.2.54#p4-6ddc96c1",
+     "text": "the progenitors of Joab’s family.",
+     "anchor": "The house of Joab"
+    },
+    {
+     "id": "poole/1CH.2.54#p5-b26ce6a8",
+     "text": "the other half being mentioned 1Ch 2:52.",
+     "anchor": "Half of the Manahethites",
+     "refs": [
+      {
+       "text": "1Ch 2:52",
+       "ref": "1CH.2.52"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.54#p6-87aab8a1",
+     "text": "for, to wit, the Zorites.",
+     "anchor": "Zorites"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.2.55",
+   "range": "1CH.2.55",
+   "kind": "passage",
+   "hash": "d9d5233a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.2.55#p1-a2aa4e96",
+     "text": "either civil, who were public notaries, who wrote and signed legal instruments; or ecclesiastical. And these were either Levites, or Simeonites, or rather Kenites, and are here mentioned not as if they were of the tribe of Judah, but because they dwelt among them, and probably were allied to them by marriages, and so in a manner incorporated with them.",
+     "anchor": "The scribes"
+    },
+    {
+     "id": "poole/1CH.2.55#p2-2641d333",
+     "text": "or rather, dwelt; Heb. were dwellers. For the other translation, which dwelt, may seem to insinuate that these were descendants of Judah, which they were not; but this translation only signifies their cohabitation with them, for which cause they are here named with them.",
+     "anchor": "Which dwelt"
+    },
+    {
+     "id": "poole/1CH.2.55#p3-986a38ad",
+     "text": "a place in Judah, so named probably from that famous Jabez of that tribe, 1Ch 4:9.",
+     "anchor": "At Jabez",
+     "refs": [
+      {
+       "text": "1Ch 4:9",
+       "ref": "1CH.4.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.2.55#p4-3e325a55",
+     "text": "who dwelt in Judah, Jud 1:16. Thus they are distinguished from the other branch of the Kenites, who dwelt in the tribe of Manasseh, Jud 4:11.",
+     "anchor": "The Kenites that came of Hemath",
+     "refs": [
+      {
+       "text": "Jud 1:16",
+       "ref": "JUD.1.16"
+      },
+      {
+       "text": "Jud 4:11",
+       "ref": "JUD.4.11"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

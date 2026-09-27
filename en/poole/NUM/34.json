@@ -1,0 +1,328 @@
+{
+ "source": "poole",
+ "book": "NUM",
+ "chapter": 34,
+ "units": [
+  {
+   "id": "poole/NUM.34",
+   "range": "NUM.34",
+   "kind": "chapter",
+   "hash": "7dacfd45",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34#p1-7dacfd45",
+     "text": "God describes the borders of Canaan, Num 34:1-15; and names those who should divide the same among the children of Israel, Num 34:16-29.",
+     "refs": [
+      {
+       "text": "Num 34:1-15",
+       "ref": "NUM.34.1-15"
+      },
+      {
+       "text": "Num 34:16-29",
+       "ref": "NUM.34.16-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.2",
+   "range": "NUM.34.2",
+   "kind": "passage",
+   "hash": "d95ff7af",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.2#p1-45284238",
+     "text": "Or, limits, or bounds, to wit, of the land beyond Jordan; which are here particularly described,"
+    },
+    {
+     "id": "poole/NUM.34.2#p2-edf40aba",
+     "text": "1. To direct and bound them in their wars and conquests, that they might not seek the enlargement of their empire, after the manner of other nations, but be contented with their own portion."
+    },
+    {
+     "id": "poole/NUM.34.2#p3-3e787a61",
+     "text": "2. To encourage them in their attempt upon Canaan, and assure them of their success."
+    },
+    {
+     "id": "poole/NUM.34.2#p4-35411531",
+     "text": "3. To guide them in the approaching distribution of the land."
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.3",
+   "range": "NUM.34.3",
+   "kind": "passage",
+   "hash": "030faf69",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.3#p1-354affff",
+     "text": "is here described from east to west by divers windings and turnings, by reason of the mountains, rivers, &c.",
+     "anchor": "The south quarter"
+    },
+    {
+     "id": "poole/NUM.34.3#p2-d83fe410",
+     "text": "bordering all along upon the Edomites.",
+     "anchor": "By the coast of Edom"
+    },
+    {
+     "id": "poole/NUM.34.3#p3-1293290e",
+     "text": "so called from the salt and sulphurous taste of its waters.",
+     "anchor": "The Salt Sea"
+    },
+    {
+     "id": "poole/NUM.34.3#p4-6ee5575d",
+     "text": "i.e. at the eastern part of that sea, where the eastern and southern borders meet.",
+     "anchor": "Eastward"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.4",
+   "range": "NUM.34.4",
+   "kind": "passage",
+   "hash": "c7fd1170",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.4#p1-b4013eb1",
+     "text": "called Maaleh-acrabbim, Jos 15:3, which was at the south end of the Salt or Dead Sea.",
+     "anchor": "Akrabbim",
+     "refs": [
+      {
+       "text": "Jos 15:3",
+       "ref": "JOS.15.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.34.4#p2-80e1881e",
+     "text": "or, on the south, i.e. proceeding onward towards the south.",
+     "anchor": "From the south"
+    },
+    {
+     "id": "poole/NUM.34.4#p3-0c5c3e0a",
+     "text": "was on the southern part of Canaan, Num 13:17.",
+     "anchor": "Kadesh-barnea",
+     "refs": [
+      {
+       "text": "Num 13:17",
+       "ref": "NUM.13.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.34.4#p4-4382a8aa",
+     "text": "in Jos 15:3, may seem distinguished into two places, Hezron and Adar, which here are united, because peradventure they were contiguous, or joined together. Or, the village of Addar; and so this is the same place called Adar, Jos 15:3; and for Hezron, that may be another place here omitted, and there supplied for more exactness. Azmon is at the west end of the Mount of Edom.",
+     "anchor": "Hazar-addar",
+     "refs": [
+      {
+       "text": "Jos 15:3",
+       "ref": "JOS.15.3"
+      },
+      {
+       "text": "Jos 15:3",
+       "ref": "JOS.15.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.5",
+   "range": "NUM.34.5",
+   "kind": "passage",
+   "hash": "3aec750f",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.5#p1-65db0528",
+     "text": "called Sihor, Jos 13:3, which divided Egypt from Canaan. See Gen 15:18.",
+     "anchor": "The river of Egypt",
+     "refs": [
+      {
+       "text": "Jos 13:3",
+       "ref": "JOS.13.3"
+      },
+      {
+       "text": "Gen 15:18",
+       "ref": "GEN.15.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/NUM.34.5#p2-48335b92",
+     "text": "the midland sea, called the sea emphatically; whereas the other seas there, as they are called, are indeed but lakes.",
+     "anchor": "The sea"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.6",
+   "range": "NUM.34.6",
+   "kind": "passage",
+   "hash": "e346cecc",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.6#p1-e346cecc",
+     "text": "the midland sea from the south to the north so far as runs parallel with Mount Libanus.",
+     "anchor": "The great sea"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.7",
+   "range": "NUM.34.7",
+   "kind": "passage",
+   "hash": "0f644b65",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.7#p1-0f644b65",
+     "text": "Not that Hor where Aaron died, Num 20:23, which was southward, and bordering upon Edom, Num 33:37,38, and therefore could not be their northern border; but another mountain, and, as it is conceived, the mountain of Libanus, which is elsewhere mentioned as the northern border of the land, and which, in regard of divers parts, or by divers people, is called by divers names, as Sirion and Shenir, Deu 3:9, and Sion, Deu 4:48, and Hermon, Jos 13:5, and here Hor, which signifies a mountain, and this may be called so by way of eminency. Certain it is, that as Hor here, so Hemon, Jos 13:5, is joined with the entrance of Hamath, which makes it probable they are one and the same place.",
+     "refs": [
+      {
+       "text": "Num 20:23",
+       "ref": "NUM.20.23"
+      },
+      {
+       "text": "Num 33:37",
+       "ref": "NUM.33.37"
+      },
+      {
+       "text": "Deu 3:9",
+       "ref": "DEU.3.9"
+      },
+      {
+       "text": "Deu 4:48",
+       "ref": "DEU.4.48"
+      },
+      {
+       "text": "Jos 13:5",
+       "ref": "JOS.13.5"
+      },
+      {
+       "text": "Jos 13:5",
+       "ref": "JOS.13.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.8",
+   "range": "NUM.34.8",
+   "kind": "passage",
+   "hash": "d278684b",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.8#p1-d278684b",
+     "text": "called Hamath the great, Amo 6:2, which is among the northern borders, Eze 47:16,17. See Gen 10:15,18 Num 13:21 Jud 3:3 1Ki 8:65.",
+     "anchor": "Hamath",
+     "refs": [
+      {
+       "text": "Amo 6:2",
+       "ref": "AMO.6.2"
+      },
+      {
+       "text": "Eze 47:16",
+       "ref": "EZK.47.16"
+      },
+      {
+       "text": "Gen 10:15",
+       "ref": "GEN.10.15"
+      },
+      {
+       "text": "Jud 3:3",
+       "ref": "JUD.3.3"
+      },
+      {
+       "text": "1Ki 8:65",
+       "ref": "1KI.8.65"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.11",
+   "range": "NUM.34.11",
+   "kind": "passage",
+   "hash": "14162275",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.11#p1-14162275",
+     "text": "of this name we have a city, Jos 19:35, and a country, Jos 11:2 1Ki 15:20 and a sea or lake, here an Jos 12:3 13:27 which in the New Testament is called the sea of Gennesaret, Luk 5:1 and of Galilee, and of Tiberas Joh 6:1.",
+     "anchor": "Chinnereth",
+     "refs": [
+      {
+       "text": "Jos 19:35",
+       "ref": "JOS.19.35"
+      },
+      {
+       "text": "Jos 11:2",
+       "ref": "JOS.11.2"
+      },
+      {
+       "text": "1Ki 15:20",
+       "ref": "1KI.15.20"
+      },
+      {
+       "text": "Jos 12:3",
+       "ref": "JOS.12.3"
+      },
+      {
+       "text": "Luk 5:1",
+       "ref": "LUK.5.1"
+      },
+      {
+       "text": "Joh 6:1",
+       "ref": "JHN.6.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.12",
+   "range": "NUM.34.12",
+   "kind": "passage",
+   "hash": "1cccda42",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.12#p1-1cccda42",
+     "text": "i.e. all along the river of Jordan, even to the end of it, which is the eastern border.",
+     "anchor": "Down to Jordan"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.17",
+   "range": "NUM.34.17",
+   "kind": "passage",
+   "hash": "eb41fdb8",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.17#p1-eb41fdb8",
+     "text": "was to act in God’s name, to cast lots, to prevent differences and contentions, to consult with God in cases of difficulty, to transact the whole business in a solemn and religious manner.",
+     "anchor": "Eleazar"
+    }
+   ]
+  },
+  {
+   "id": "poole/NUM.34.19",
+   "range": "NUM.34.19",
+   "kind": "passage",
+   "hash": "52726214",
+   "paragraphs": [
+    {
+     "id": "poole/NUM.34.19#p1-52726214",
+     "text": "The order of the tribes is here differing from that Num 1:7,26, and in other places, being here, as also Jos 16 Jos 17 Jos 18 Jos 19 conformed to the order of their several inheritances, which afterwards fell to them by lot; which is an evident demonstration of the infinite wisdom of God’s providence, and of his exact and peculiar care over his people.",
+     "refs": [
+      {
+       "text": "Num 1:7",
+       "ref": "NUM.1.7"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

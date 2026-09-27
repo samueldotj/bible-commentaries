@@ -1,0 +1,296 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/1CH.1",
+   "range": "1CH.1",
+   "kind": "chapter",
+   "hash": "132a2595",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1#p1-132a2595",
+     "text": "Adam’s line to Noah, 1Ch 1:1-4. Noah’s posterity, by Japheth, 1Ch 1:5-7; by Ham, 1Ch 1:8-16; by Shem to Abraham, 1Ch 1:17-27. His posterity, by Ishmael, 1Ch 1:28-31; by Keturah, and Isaac, 1Ch 1:32-34. His posterity by Esau: the kings and dukes of Edom, 1Ch 1:35-54.",
+     "refs": [
+      {
+       "text": "1Ch 1:1-4",
+       "ref": "1CH.1.1-4"
+      },
+      {
+       "text": "1Ch 1:5-7",
+       "ref": "1CH.1.5-7"
+      },
+      {
+       "text": "1Ch 1:8-16",
+       "ref": "1CH.1.8-16"
+      },
+      {
+       "text": "1Ch 1:17-27",
+       "ref": "1CH.1.17-27"
+      },
+      {
+       "text": "1Ch 1:28-31",
+       "ref": "1CH.1.28-31"
+      },
+      {
+       "text": "1Ch 1:32-34",
+       "ref": "1CH.1.32-34"
+      },
+      {
+       "text": "1Ch 1:35-54",
+       "ref": "1CH.1.35-54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.1",
+   "range": "1CH.1.1",
+   "kind": "passage",
+   "hash": "e6edd374",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.1#p1-e6edd374",
+     "text": "i.e. Adam begat Sheth; and so in the following particulars. For brevity sake he only mentions their names; but the rest is easily understood out of the former books, and from the nature of the thing; and from some following passages where the sense is completed."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.4",
+   "range": "1CH.1.4",
+   "kind": "passage",
+   "hash": "9b6fdb3a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.4#p1-9b6fdb3a",
+     "text": "Formerly he mentions only one son, but here he names and treats of Noah’s three sons, partly because they were all the founders of the new world, and partly because the accomplishment of Noah’s famous prophecy, Gen 9:25-27, could not otherwise appear, but by the account of their several posterities.",
+     "refs": [
+      {
+       "text": "Gen 9:25-27",
+       "ref": "GEN.9.25-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.6",
+   "range": "1CH.1.6",
+   "kind": "passage",
+   "hash": "c330a284",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.6#p1-c330a284",
+     "text": "or Diphath; for those two Hebrew letters which answer to our D and R, being very like, are oft confounded and exchanged, as 1Ch 1:7,41,46,50.",
+     "anchor": "Riphath",
+     "refs": [
+      {
+       "text": "1Ch 1:7",
+       "ref": "1CH.1.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.12",
+   "range": "1CH.1.12",
+   "kind": "passage",
+   "hash": "7ee02b5f",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.12#p1-7ee02b5f",
+     "text": "of which See Poole \"Gen 10:14\".",
+     "anchor": "Of whom came the Philistines",
+     "refs": [
+      {
+       "text": "Gen 10:14",
+       "ref": "GEN.10.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.14",
+   "range": "1CH.1.14",
+   "kind": "passage",
+   "hash": "22ffa69d",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.14#p1-22ffa69d",
+     "text": "the people so called. So the names which follow until 1Ch 1:17, are not the names of particular persons, but of people or nations. And all these descended from Canaan, though some of them were afterwards extinct or confounded with others of their brethren by cohabitation or mutual marriages, whereby they lost their names; which is the reason why they are no more mentioned, at least under these names.",
+     "anchor": "The Jebusite",
+     "refs": [
+      {
+       "text": "1Ch 1:17",
+       "ref": "1CH.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.17",
+   "range": "1CH.1.17",
+   "kind": "passage",
+   "hash": "fffdecb0",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.17#p1-c9ee2f49",
+     "text": "either the name of sons is so taken here as to include grandsons, who are called sons, Gen 29:5 2Sa 19:21; or, these words, the children of Aram, are understood and inserted before",
+     "anchor": "The sons of Shem",
+     "refs": [
+      {
+       "text": "Gen 29:5",
+       "ref": "GEN.29.5"
+      },
+      {
+       "text": "2Sa 19:21",
+       "ref": "2SA.19.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.1.17#p2-769a3a66",
+     "text": "out of Gen 10:23, where they are expressed.",
+     "anchor": "Uz",
+     "refs": [
+      {
+       "text": "Gen 10:23",
+       "ref": "GEN.10.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.18",
+   "range": "1CH.1.18",
+   "kind": "passage",
+   "hash": "571a21ab",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.18#p1-571a21ab",
+     "text": "either immediately, or mediately by his son Cainan, who is expressed, Luk 3:35, of which, God assisting, I shall speak in its proper place.",
+     "anchor": "Arphaxad begat Shelah",
+     "refs": [
+      {
+       "text": "Luk 3:35",
+       "ref": "LUK.3.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.19",
+   "range": "1CH.1.19",
+   "kind": "passage",
+   "hash": "be94a92e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.19#p1-be94a92e",
+     "text": "in their languages and habitation; of which see Gen 11:7.",
+     "anchor": "The earth was divided",
+     "refs": [
+      {
+       "text": "Gen 11:7",
+       "ref": "GEN.11.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.22",
+   "range": "1CH.1.22",
+   "kind": "passage",
+   "hash": "28749a35",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.22#p1-28749a35",
+     "text": "or Obal, as it is Gen 10:28; such proper names being oft differently written, according to the difference of times, and people, and writers.",
+     "anchor": "Ebal",
+     "refs": [
+      {
+       "text": "Gen 10:28",
+       "ref": "GEN.10.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.24",
+   "range": "1CH.1.24",
+   "kind": "passage",
+   "hash": "a6c05ec2",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.24#p1-a6c05ec2",
+     "text": "having given a brief and general account of the original of the world, and the people in it, he now returns to a more large and particular account of the genealogy of Shem, from whom the Jews were descended.",
+     "anchor": "Arphaxad"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.36",
+   "range": "1CH.1.36",
+   "kind": "passage",
+   "hash": "ba5badbe",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.36#p1-ba5badbe",
+     "text": "there is another Timna, the concubine of Eliphaz, Gen 36:12, but this was one of his sons, though called by the same name; there being some names common both to men and women in the Hebrew and in other languages.",
+     "anchor": "Timna",
+     "refs": [
+      {
+       "text": "Gen 36:12",
+       "ref": "GEN.36.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.38",
+   "range": "1CH.1.38",
+   "kind": "passage",
+   "hash": "784e6922",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.38#p1-784e6922",
+     "text": "one of another nation, prince of the Horims; whose genealogy is here described, because of that affinity which was contracted between his and Esau’s posterity; and those who were not united and incorporated with them were destroyed by them. See Deu 2:12.",
+     "anchor": "The sons of Seir",
+     "refs": [
+      {
+       "text": "Deu 2:12",
+       "ref": "DEU.2.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.1.43",
+   "range": "1CH.1.43",
+   "kind": "passage",
+   "hash": "46e60426",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.1.43#p1-46e60426",
+     "text": "Of this and the following verses, See Poole \"Gen 36:31\", &c., whence this whole relation is taken.",
+     "refs": [
+      {
+       "text": "Gen 36:31",
+       "ref": "GEN.36.31"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

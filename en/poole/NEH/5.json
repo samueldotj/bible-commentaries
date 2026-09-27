@@ -1,0 +1,418 @@
+{
+ "source": "poole",
+ "book": "NEH",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/NEH.5",
+   "range": "NEH.5",
+   "kind": "chapter",
+   "hash": "64214b86",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5#p1-64214b86",
+     "text": "The people complain of their brethren, by reason of their debts, mortgages, and bondage, Neh 5:1-5. Nehemiah rebuketh the usurers, and causeth them to make a covenant of restitution, Neh 5:6-13. He forbeareth his own allowance, and keepeth hospitality, Neh 5:14-17. The quantity of his preparations, and his prayer, Neh 5:18,19.",
+     "refs": [
+      {
+       "text": "Neh 5:1-5",
+       "ref": "NEH.5.1-5"
+      },
+      {
+       "text": "Neh 5:6-13",
+       "ref": "NEH.5.6-13"
+      },
+      {
+       "text": "Neh 5:14-17",
+       "ref": "NEH.5.14-17"
+      },
+      {
+       "text": "Neh 5:18",
+       "ref": "NEH.5.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.1",
+   "range": "NEH.5.1",
+   "kind": "passage",
+   "hash": "2d5e250e",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.1#p1-2d5e250e",
+     "text": "To wit, the great and rich who had oppressed their brethren."
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.2",
+   "range": "NEH.5.2",
+   "kind": "passage",
+   "hash": "08a6bd13",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.2#p1-c86d75d0",
+     "text": "which is in itself a blessing, but to us is turned into a curse.",
+     "anchor": "We, our sons, and our daughters, are many"
+    },
+    {
+     "id": "poole/NEH.5.2#p2-193f1eca",
+     "text": "i.e. we are forced by our and their necessities to take up corn, to wit, upon their own unreasonable terms, as is here implied, and plainly expressed in the following relation. Others, Let us take up, &c., i.e. seeing we do the public work, let provision be made for us and our children out of the public stock. But this is no petition, but a complaint, as will appear.",
+     "anchor": "We take up corn for them"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.3",
+   "range": "NEH.5.3",
+   "kind": "passage",
+   "hash": "5e865f7f",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.3#p1-5e865f7f",
+     "text": "Which might easily happen, both from the multitude of the people now in and near Jerusalem, and from their building work, which wholly took them up, and kept them from taking care of their own families, and from the expectation and dread of their enemies’ invasion, which hindered them from going abroad to fetch in provision, and the people round about from bringing it in to them; or from divers other causes."
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.4",
+   "range": "NEH.5.4",
+   "kind": "passage",
+   "hash": "8b15c77d",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.4#p1-8b15c77d",
+     "text": "was laid upon them all. See Ezr 4:13 7:24",
+     "anchor": "The kings tribute",
+     "refs": [
+      {
+       "text": "Ezr 4:13",
+       "ref": "EZR.4.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.5",
+   "range": "NEH.5.5",
+   "kind": "passage",
+   "hash": "39fdf614",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.5#p1-6b697531",
+     "text": "we are of the same nature, and nation, and religion with them although they treat us as if we were beasts or heathens, forgetting both humanity and God’s law, Deu 15:7.",
+     "anchor": "Our flesh is as the flesh of our brethren",
+     "refs": [
+      {
+       "text": "Deu 15:7",
+       "ref": "DEU.15.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/NEH.5.5#p2-3caf2a0f",
+     "text": "we are compelled to sell them for our subsistence.",
+     "anchor": "We bring into bondage"
+    },
+    {
+     "id": "poole/NEH.5.5#p3-f2b174fe",
+     "text": "which was an evidence of their great necessity, because their daughters were more tender, and weak, and unfit for bond-service, and more exposed to injuries, than their sons.",
+     "anchor": "Our sons and our daughters"
+    },
+    {
+     "id": "poole/NEH.5.5#p4-eff6cba6",
+     "text": "which we are allowed to do, Exo 21:7, but have not wherewith to do it.",
+     "anchor": "Neither is it in our power to redeem them",
+     "refs": [
+      {
+       "text": "Exo 21:7",
+       "ref": "EXO.21.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.7",
+   "range": "NEH.5.7",
+   "kind": "passage",
+   "hash": "5815791e",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.7#p1-9ffdb741",
+     "text": "which was against the plain and positive law of God, Deu 23:19,20; especially in this time of public calamity and dearth.",
+     "anchor": "Ye exact usury every one of his brother",
+     "refs": [
+      {
+       "text": "Deu 23:19",
+       "ref": "DEU.23.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/NEH.5.7#p2-977b4b85",
+     "text": "I called a public congregation, both of the rulers and people, the greatest part whereof were free from this guilt, and therefore mere impartial judges of the matter, and represented it to them, that the offenders might be convinced, and reform this abuse; if not for fear of God, or love of their brethren, yet at least for the public shame, and the cries of the poor.",
+     "anchor": "I set a great assembly against them"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.8",
+   "range": "NEH.5.8",
+   "kind": "passage",
+   "hash": "5f55ddd4",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.8#p1-440b0bd1",
+     "text": "I, and my, brethren, and predecessors, have used our utmost interest and power, both with the kings of Persia, that our brethren might be redeemed from that bondage into which God had sold them for their sins; and with particular persons in Babylon and Persia, and the adjacent parts, whose bond-slaves the Jews were, and who would not part with them without a price, which we paid for them.",
+     "anchor": "We after our ability have redeemed our brethren the Jews, which were sold unto the heathen"
+    },
+    {
+     "id": "poole/NEH.5.8#p2-b63ea0bb",
+     "text": "or shall they be sold unto us? do you expect that we should pay you a price for them, as we did to the Babylonians? or must we use as much importunity to solicit you for their redemption as we did to their enemies?",
+     "anchor": "Will ye even sell your brethren?"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.9",
+   "range": "NEH.5.9",
+   "kind": "passage",
+   "hash": "5b06051b",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.9#p1-d82fabd8",
+     "text": "i. e. it is a very bad and wicked thing; as this same phrase is used, Pro 16:29 17:26 18:5 19:2. A common figure, called meiosis, where more is understood than is expressed.",
+     "anchor": "It is not good",
+     "refs": [
+      {
+       "text": "Pro 16:29",
+       "ref": "PRO.16.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/NEH.5.9#p2-27a8227f",
+     "text": "who are round about you, and observe all your actions, and will loath and reproach both you for such barbarous usage of your brethren, and religion for your sakes; which, if you have any love or respect either to God or to yourselves, you will prevent.",
+     "anchor": "Because of the reproach of the heathen our enemies"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.10",
+   "range": "NEH.5.10",
+   "kind": "passage",
+   "hash": "b0d83df2",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.10#p1-36f6c6c1",
+     "text": "to wit, in office; those who are employed with me in the government of this people.",
+     "anchor": "My brethren"
+    },
+    {
+     "id": "poole/NEH.5.10#p2-1a52603f",
+     "text": "in my name, and for my use.",
+     "anchor": "My servants"
+    },
+    {
+     "id": "poole/NEH.5.10#p3-3049df7d",
+     "text": "as a just recompence for our pains and care for the public good, to which we wholly devote ourselves, even to the neglect of all our private concerns. But I will not rigorously exact, but do freely remit my own right, which, in those circumstances, it is my duty to do; and therefore you also ought to do so, seeing I lay no burden upon you but what I am willing to bear a part of upon my own shoulders.",
+     "anchor": "Might exact of them money and corn"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.11",
+   "range": "NEH.5.11",
+   "kind": "passage",
+   "hash": "14fe8c34",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.11#p1-14fe8c34",
+     "text": "also require not; which is to be supplied out of the next verse, where it is expressed in their answer to and grant of this desire. The hundredth part; which they required every month for the use of their monies or goods, according to the custom then used, and afterwards by the Romans.",
+     "anchor": "Also the hundredth part of the money"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.12",
+   "range": "NEH.5.12",
+   "kind": "passage",
+   "hash": "6dc18c06",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.12#p1-4903c4d1",
+     "text": "to wit, the lands and houses.",
+     "anchor": "We will restore them"
+    },
+    {
+     "id": "poole/NEH.5.12#p2-e18f5cfd",
+     "text": "for the hundredth part.",
+     "anchor": "Will require nothing of them"
+    },
+    {
+     "id": "poole/NEH.5.12#p3-a12a5354",
+     "text": "either,",
+     "anchor": "I called the priests"
+    },
+    {
+     "id": "poole/NEH.5.12#p4-17c31e49",
+     "text": "1. As delinquents in that kind; or rather as witnesses, that the oath being taken before the priests, who acted in God’s name and stead, the oath might make the more deep and durable impression upon their consciences. See Num 5:19 1Ki 1:8,31,32.",
+     "refs": [
+      {
+       "text": "Num 5:19",
+       "ref": "NUM.5.19"
+      },
+      {
+       "text": "1Ki 1:8",
+       "ref": "1KI.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/NEH.5.12#p5-84365044",
+     "text": "not of the priests last mentioned, for it doth not appear that any of them were guilty, and it is absurd to think that they only were guilty of this extortion, as they must be, if this them belongs to them only; but of all the persons who were before charged with this crime, Neh 5:3,4, whether priests or others, as is evident from the text, and from the nature of the thing.",
+     "anchor": "Took an oath of them",
+     "refs": [
+      {
+       "text": "Neh 5:3",
+       "ref": "NEH.5.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.13",
+   "range": "NEH.5.13",
+   "kind": "passage",
+   "hash": "60822f38",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.13#p1-5b808fe1",
+     "text": "i.e. the lap or extreme parts of my garment, which I first folded together, and then shook it, and scattered it asunder. This was a form of swearing then in use.",
+     "anchor": "I shook my lap"
+    },
+    {
+     "id": "poole/NEH.5.13#p2-92778565",
+     "text": "i.e. from enjoying what he hath got by his labour.",
+     "anchor": "From his labour"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.14",
+   "range": "NEH.5.14",
+   "kind": "passage",
+   "hash": "d511b76d",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.14#p1-fd99bbd5",
+     "text": "not that he continued so long together at Jerusalem, of which see Neh 2:6; but that he so long governed Jerusalem by himself when he was present, and in his absence by a deputy.",
+     "anchor": "Twelve years",
+     "refs": [
+      {
+       "text": "Neh 2:6",
+       "ref": "NEH.2.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/NEH.5.14#p2-ecf7f5fc",
+     "text": "either my fellow officers, or they whom I left in my stead, who as they were to do any work, so might have required my rights.",
+     "anchor": "I and my brethren"
+    },
+    {
+     "id": "poole/NEH.5.14#p3-3f6265c1",
+     "text": "i.e. that allowance which by the laws of God and nations, and of the king of Persia, the governors might require for the maintenance of their own dignity and office, and of the public service.",
+     "anchor": "The bread of the governor"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.15",
+   "range": "NEH.5.15",
+   "kind": "passage",
+   "hash": "535d063e",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.15#p1-2019d450",
+     "text": "not Ezra, who was no governor, but only a priest sent to teach them, and to rectify church abuses; nor Zerubbabel; but others between him and Nehemiah, whom he forbears to name, because he designed not to disgrace any person, but only to reform the abuses.",
+     "anchor": "The former governors"
+    },
+    {
+     "id": "poole/NEH.5.15#p2-1246b1d4",
+     "text": "which they required of the people for every day to defray their other expenses.",
+     "anchor": "Beside forty shekels of silver"
+    },
+    {
+     "id": "poole/NEH.5.15#p3-2b5eed52",
+     "text": "i.e. ruled them with rigour and cruelty; which fault of the servants is charged upon their masters; the former governors, because they did not restrain nor punish them.",
+     "anchor": "Their servants bare rule over the people"
+    },
+    {
+     "id": "poole/NEH.5.15#p4-dbcb796f",
+     "text": "because I feared to break God’s commands, or to incur his displeasure, by such immoderate and unseasonable oppressions of the people. This he speaks not to commend himself, but rather to diminish his praise, and to show that this was no heroical action, nor work of supererogation, to be admired rather than imitated; but only his duty in that case, which for his own sake he durst not decline; and consequently that it was their duty also now to relinquish even those rights which in other times and conditions they might lawfully require.",
+     "anchor": "Because of the fear of God"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.16",
+   "range": "NEH.5.16",
+   "kind": "passage",
+   "hash": "1b6da642",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.16#p1-4c993bca",
+     "text": "overseeing, directing, and encouraging the workmen, which was my whole business; and this at my own cost.",
+     "anchor": "In the work of this wall"
+    },
+    {
+     "id": "poole/NEH.5.16#p2-50ca1e68",
+     "text": "whose necessities gave me abundant opportunity of enriching myself with good bargains. But I durst not build my house upon other men’s ruins.",
+     "anchor": "Neither bought we any land of our poor brethren"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.17",
+   "range": "NEH.5.17",
+   "kind": "passage",
+   "hash": "1b9d9ce6",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.17#p1-1b9d9ce6",
+     "text": "not only Jews of the inferior sort, for whom meaner provisions might suffice, but also their rulers, such as there were in many places, for whom better provision was fit; who resorted to him upon all occasions, either to pour out their complaints, as here they did; or to give him notice of the enemy’s designs; or to receive his orders and directions.",
+     "anchor": "An hundred and fifty of the Jews and rulers"
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.18",
+   "range": "NEH.5.18",
+   "kind": "passage",
+   "hash": "5260fe88",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.18#p1-5260fe88",
+     "text": "But bore it out of my own estate; which was very considerable, his office in the Persian court being a place of very great profit as well as honour, and that profit no doubt continued to him in this his absence from the king. From this great and daily expense, it seems more than probable that Nehemiah did not continue here for twelve years together, as some would think, or at least that he did not this all that time, but only during the great and present exigencies and distresses of the Jews, which ceased in good part after the walls were built, and the hearts of all the Jews revived, and their enemies dispirited thereby."
+    }
+   ]
+  },
+  {
+   "id": "poole/NEH.5.19",
+   "range": "NEH.5.19",
+   "kind": "passage",
+   "hash": "e088de5d",
+   "paragraphs": [
+    {
+     "id": "poole/NEH.5.19#p1-e088de5d",
+     "text": "As I have done thy people good for thy sake, so do me good for thine own sake; for thou art pleased, and hast promised graciously to reward us according to our works, and to mete to men the same measure which they mete to others."
+    }
+   ]
+  }
+ ]
+}

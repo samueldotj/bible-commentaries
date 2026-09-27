@@ -1,0 +1,703 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "poole/1CH.9",
+   "range": "1CH.9",
+   "kind": "chapter",
+   "hash": "814eb4a7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9#p1-814eb4a7",
+     "text": "The chief of the tribe of Judah, Benjamin, Ephraim, and Manasseh, who returned from captivity, and dwelt at Jerusalem, 1Ch 9:1-9. Also the priests and Levites, and how they executed their office in the temple at Jerusalem, 1Ch 9:10-34. The family of Saul, 1Ch 9:35-44.",
+     "refs": [
+      {
+       "text": "1Ch 9:1-9",
+       "ref": "1CH.9.1-9"
+      },
+      {
+       "text": "1Ch 9:10-34",
+       "ref": "1CH.9.10-34"
+      },
+      {
+       "text": "1Ch 9:35-44",
+       "ref": "1CH.9.35-44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.1",
+   "range": "1CH.9.1",
+   "kind": "passage",
+   "hash": "c5c44a9b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.1#p1-c5c44a9b",
+     "text": "not in that sacred and canonical book so called, but (as hath been oft observed before) in the public records, wherein there was an account of that kingdom, and of the several families in it, according to their genealogies. Who were carried away, i.e. which tribe or people of Judah last mentioned.",
+     "anchor": "In the book of the kings of Israel and Judah"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.2",
+   "range": "1CH.9.2",
+   "kind": "passage",
+   "hash": "a5bc4f49",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.2#p1-dd5bf08e",
+     "text": "the first after the return from Babylon.",
+     "anchor": "The first inhabitants"
+    },
+    {
+     "id": "poole/1CH.9.2#p2-b6f69619",
+     "text": "i.e. that took possession of their own lands and cities, which had been formerly allotted to them; but of late years had been taken from them for their sins, and possessed by other people.",
+     "anchor": "That dwelt in their possessions in their cities"
+    },
+    {
+     "id": "poole/1CH.9.2#p3-58fc7645",
+     "text": "i.e. the common people of Judah and Israel, called here by the general name of Israelites, which was given to them before that unhappy division of the two kingdoms, and now is restored to them when the Israelites are united with the Jews in one and the same commonwealth, that so all the names and signs of their former division might be blotted out. And although the generality of the ten tribes were yet in captivity, yet divers of them were now returned; either such as had long before the captivity fled to Jerusalem to worship God, and joined themselves with Judah, as those 2Ch 11:16, and others; or such as, upon Cyrus’s general proclamation, associated themselves, and returned with those of Judah and Benjamin.",
+     "anchor": "The Israelites",
+     "refs": [
+      {
+       "text": "2Ch 11:16",
+       "ref": "2CH.11.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.2#p4-45189378",
+     "text": "these took possession of the cities or places belonging to them, as they had need and opportunity. The",
+     "anchor": "The priests, Levites"
+    },
+    {
+     "id": "poole/1CH.9.2#p5-da705f9c",
+     "text": "a certain order of men, either Gibeonites, or others joined with them, devoted to the service of God, and of his house, and of the priests and Levites; who, that they might attend upon their work without distraction, had certain places and possessions given to them; which they are now said to repossess.",
+     "anchor": "Nethinims"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.3",
+   "range": "1CH.9.3",
+   "kind": "passage",
+   "hash": "b9c2298c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.3#p1-b9c2298c",
+     "text": "i.e. Some of each of these tribes; either such as offered themselves, or such as were chosen by lot: See Neh 11:1,2",
+     "refs": [
+      {
+       "text": "Neh 11:1",
+       "ref": "NEH.11.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.4",
+   "range": "1CH.9.4",
+   "kind": "passage",
+   "hash": "5f11d7f5",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.4#p1-9c6bd04c",
+     "text": "That there is so great a diversity of names between this catalogue and that Ne 11, may be ascribed to two causes:"
+    },
+    {
+     "id": "poole/1CH.9.4#p2-5b64f3b1",
+     "text": "1. To the custom of the Hebrews, who used very frequently to give two or three several names to one person; and,"
+    },
+    {
+     "id": "poole/1CH.9.4#p3-60c3d093",
+     "text": "2. To the change of times; for here they are named who came up at the first return; but many of those in Nehemiah might be such as returned afterward, and came and dwelt either instead of the persons here named, who might be then dead, or gone from Jerusalem, or with them."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.5",
+   "range": "1CH.9.5",
+   "kind": "passage",
+   "hash": "71bb7bc1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.5#p1-34ff308f",
+     "text": "Or, Shelanites, as they are called from Shelah, Num 26:20.",
+     "refs": [
+      {
+       "text": "Num 26:20",
+       "ref": "NUM.26.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.5#p2-2afd5f57",
+     "text": "called also Masseiah, Neh 11:5.",
+     "anchor": "Asaiah",
+     "refs": [
+      {
+       "text": "Neh 11:5",
+       "ref": "NEH.11.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.7",
+   "range": "1CH.9.7",
+   "kind": "passage",
+   "hash": "83a28023",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.7#p1-83a28023",
+     "text": "who is mentioned, but described by other parents, Neh 11:7, or at least by persons under other names. Possibly these were his more immediate, and those his more remote parents; or he might be born of one, and adopted by another. For this is certain, men are sometimes in Scripture called the sons of those who adopted them, or whose right of inheritance fell to them.",
+     "anchor": "Salu the son of Meshullam",
+     "refs": [
+      {
+       "text": "Neh 11:7",
+       "ref": "NEH.11.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.9",
+   "range": "1CH.9.9",
+   "kind": "passage",
+   "hash": "d116c773",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.9#p1-d116c773",
+     "text": "they are reckoned but nine hundred and twenty-eight in Neh 11:8, either because there he mentions only those that were by lot determined to dwell at Jerusalem, to whom he here adds those who freely offered themselves to it; see Neh 11:1,2; or because some of the persons and families first placed there were dead or extinguished, or else removed from Jerusalem upon some emergent occasion.",
+     "anchor": "Nine hundred and fifty and six",
+     "refs": [
+      {
+       "text": "Neh 11:8",
+       "ref": "NEH.11.8"
+      },
+      {
+       "text": "Neh 11:1",
+       "ref": "NEH.11.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.11",
+   "range": "1CH.9.11",
+   "kind": "passage",
+   "hash": "6668aba7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.11#p1-a22de2e0",
+     "text": "the same called Seraiah, Neh 11:11.",
+     "anchor": "Azariah",
+     "refs": [
+      {
+       "text": "Neh 11:11",
+       "ref": "NEH.11.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.11#p2-29d427fc",
+     "text": "either of him in Josiah’s time, 2Ki 22:8, or rather another of the same name.",
+     "anchor": "Hilkiah",
+     "refs": [
+      {
+       "text": "2Ki 22:8",
+       "ref": "2KI.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.11#p3-e49e879c",
+     "text": "or, a ruler in the house of God; not the high priest, who was Ezra, Ezr 3:8, but a chief ruler under him; either the second priest, as such are called, Num 3:32; or the head of one of the twenty-four families or courses of the priests.",
+     "anchor": "The ruler of the house of God",
+     "refs": [
+      {
+       "text": "Ezr 3:8",
+       "ref": "EZR.3.8"
+      },
+      {
+       "text": "Num 3:32",
+       "ref": "NUM.3.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.12",
+   "range": "1CH.9.12",
+   "kind": "passage",
+   "hash": "5054dbdb",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.12#p1-5054dbdb",
+     "text": "i.e. his great-grandson, as appears from Neh 11:12,13.",
+     "anchor": "The son of Pashur",
+     "refs": [
+      {
+       "text": "Neh 11:12",
+       "ref": "NEH.11.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.13",
+   "range": "1CH.9.13",
+   "kind": "passage",
+   "hash": "ca6e9a65",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.13#p1-ca6e9a65",
+     "text": "Heb. mighty men of valour; which is here noted as an excellent qualification for their place; because the priests might meet with great opposition and difficulty in the faithful discharge of their office, in the execution of the censures upon all impure persons without exception, and in preserving sacred things from violation by the touch of forbidden hands; of which see an eminent instance in Azariah, 2Ch 26:17, &c.",
+     "anchor": "Very able men",
+     "refs": [
+      {
+       "text": "2Ch 26:17",
+       "ref": "2CH.26.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.16",
+   "range": "1CH.9.16",
+   "kind": "passage",
+   "hash": "a878722c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.16#p1-a878722c",
+     "text": "were in Judah, 1Ch 2:54. There they now dwelt, either because their proper cities were not yet built, or because they were not yet numerous enough to replenish them.",
+     "anchor": "The Netophathites",
+     "refs": [
+      {
+       "text": "1Ch 2:54",
+       "ref": "1CH.2.54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.17",
+   "range": "1CH.9.17",
+   "kind": "passage",
+   "hash": "6cd6f24c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.17#p1-6cd6f24c",
+     "text": "whose office it was to keep all the gates of the temple, that no unclean person or thing might enter into it.",
+     "anchor": "Porters"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.18",
+   "range": "1CH.9.18",
+   "kind": "passage",
+   "hash": "45ac668e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.18#p1-f14f02c4",
+     "text": "in the east gate of the temple, which was so called, either because it was the chief and most magnificent of all the gates, or because the kings of Judah used to go to the temple through that gate, 2Ki 16:18 compare Eze 44:1,2. Under this gate he comprehends all the rest, which also were guarded by these porters.",
+     "anchor": "In the king’s gate eastward",
+     "refs": [
+      {
+       "text": "2Ki 16:18",
+       "ref": "2KI.16.18"
+      },
+      {
+       "text": "Eze 44:1",
+       "ref": "EZK.44.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.18#p2-0ebf7e5f",
+     "text": "or, according to the companies, or orders, or courses, i.e. they kept the gates successively, according to that method into which themselves and the rest of their brethren the Levites were distributed, for the more convenient management of their several offices; among which this of the porters was one.",
+     "anchor": "In the companies"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.19",
+   "range": "1CH.9.19",
+   "kind": "passage",
+   "hash": "96f950d3",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.19#p1-8e64394d",
+     "text": "or, who were, to wit, in time past, which is expressed in a like case, 1Ch 9:20, when the tabernacle was standing, before the temple was built. Their fathers; the Kohathites, of whom see on Num 4:4. Over the host of the Lord, or, with (as this Hebrew particle is oft used) the host, &c., i.e. when the Israelites were in the wilderness, encamped in a military manner round about the tabernacle, with or among whom these were then placed.",
+     "anchor": "Keepers of the gates of the tabernacle",
+     "refs": [
+      {
+       "text": "1Ch 9:20",
+       "ref": "1CH.9.20"
+      },
+      {
+       "text": "Num 4:4",
+       "ref": "NUM.4.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.19#p2-1436c577",
+     "text": "i.e. of the veil by which they entered into the tabernacle; which he calls the entry distinctively, because then there were no gates. The meaning is, that all things were now restored to their primitive order and institution; and the several persons took those places and offices upon them, which their ancestors had before them.",
+     "anchor": "Keepers of the entry"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.20",
+   "range": "1CH.9.20",
+   "kind": "passage",
+   "hash": "d4d3614f",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.20#p1-83c82869",
+     "text": "i.e. over all the porters, and other Levites and priests before mentioned.",
+     "anchor": "Over them"
+    },
+    {
+     "id": "poole/1CH.9.20#p2-ce68ac83",
+     "text": "to direct, and assist, and bless him in the discharge of his place; which seems here related to encourage his successor, and consequently all the priests and Levites of this time, to go on courageously and resolutely in their work, not doubting but God will stand by them as he had done by their fathers.",
+     "anchor": "The Lord was with him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.21",
+   "range": "1CH.9.21",
+   "kind": "passage",
+   "hash": "80cc21ef",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.21#p1-4e76b0ec",
+     "text": "To wit, in the, time of David, as the following verse showeth. See 1Ch 26:1,2 27:2.",
+     "refs": [
+      {
+       "text": "1Ch 26:1",
+       "ref": "1CH.26.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.21#p2-b0770e80",
+     "text": "i.e. chief porter.",
+     "anchor": "Porter"
+    },
+    {
+     "id": "poole/1CH.9.21#p3-95f54702",
+     "text": "i.e. of the door which led out of the priests’ court into the tabernacle, in which the ark was placed, 2Sa 6:17.",
+     "anchor": "Of the door of the tabernacle",
+     "refs": [
+      {
+       "text": "2Sa 6:17",
+       "ref": "2SA.6.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.22",
+   "range": "1CH.9.22",
+   "kind": "passage",
+   "hash": "827c0618",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.22#p1-5d973439",
+     "text": "where their usual residence was, and whence they came to Jerusalem in their courses.",
+     "anchor": "In their villages"
+    },
+    {
+     "id": "poole/1CH.9.22#p2-dbd36d63",
+     "text": "in the times of the judges there was much disorder and confusion, both in the Jewish state and church, and the Levites came to the tabernacle promiscuously, and as their inclinations or occasions brought them. But Samuel, the best of judges, having some prospect and good hopes of deliverance from their enemies, and of a happy settlement of the Israelitish church and nation, and observing that the Levites were greatly increased he began to think of establishing some order among the Levites in their ministration about the tabernacle. And these intentions of his probably were communicated by him to David, who after Samuel’s death, and his own peaceable settlement in his throne, revived and perfected Samuel’s design, and took care to put it in execution.",
+     "anchor": "Did ordain"
+    },
+    {
+     "id": "poole/1CH.9.22#p3-e535b588",
+     "text": "Heb. in their faith, or faithfulness, i.e. either,",
+     "anchor": "In their set office"
+    },
+    {
+     "id": "poole/1CH.9.22#p4-07e6e4dd",
+     "text": "1. In their office, which is called faithfulness, because this is required in that office. Or,"
+    },
+    {
+     "id": "poole/1CH.9.22#p5-c8efc0ea",
+     "text": "2. In the faithful discharge of their duty, and in obedience to the will of God, signified to them by revelation, or by the Spirit, as it is said of David, 1Ch 28:12, which they received by faith, and accordingly designed, and David executed it. And so this is added to show that this was no human invention, as some might conceive, but a Divine appointment, to which all ought to submit.",
+     "refs": [
+      {
+       "text": "1Ch 28:12",
+       "ref": "1CH.28.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.23",
+   "range": "1CH.9.23",
+   "kind": "passage",
+   "hash": "06724a28",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.23#p1-8415efc5",
+     "text": "To wit, in David’s time."
+    },
+    {
+     "id": "poole/1CH.9.23#p2-47bbb78e",
+     "text": "this is added to explain what he means by the house of the Lord; not that tabernacle which David had set up for the ark, but that more solemn tabernacle, which Moses had made by God’s express command and most particular direction; which in David’s time was at Gibeon; in which God was and would be worshipped until the temple was built. See 1Ki 3:2 2Ch 1:3,5, &c.",
+     "anchor": "The house of the tabernacle",
+     "refs": [
+      {
+       "text": "1Ki 3:2",
+       "ref": "1KI.3.2"
+      },
+      {
+       "text": "2Ch 1:3",
+       "ref": "2CH.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.23#p3-16f70ea8",
+     "text": "i.e. by turns or courses, each of them at his gate, and in his appointed time.",
+     "anchor": "By wards"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.24",
+   "range": "1CH.9.24",
+   "kind": "passage",
+   "hash": "d78c1df7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.24#p1-d78c1df7",
+     "text": "i.e. the chief porters, as this is explained, 1Ch 9:26.",
+     "anchor": "The porters",
+     "refs": [
+      {
+       "text": "1Ch 9:26",
+       "ref": "1CH.9.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.25",
+   "range": "1CH.9.25",
+   "kind": "passage",
+   "hash": "724e3e3d",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.25#p1-c2049bfa",
+     "text": "From their several villages to the place of worship."
+    },
+    {
+     "id": "poole/1CH.9.25#p2-c015574f",
+     "text": "every sabbath or seventh day the courses were changed, and the new comers were to tarry till the next sabbath day. See 2Ki 11:5,7,9.",
+     "anchor": "After seven days",
+     "refs": [
+      {
+       "text": "2Ki 11:5",
+       "ref": "2KI.11.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.25#p3-9e22a287",
+     "text": "i.e. to be with them, i.e. with the chief porters, who always abode in the place of God’s worship, and to minister to them.",
+     "anchor": "With them"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.26",
+   "range": "1CH.9.26",
+   "kind": "passage",
+   "hash": "bff8a341",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.26#p1-74b73a26",
+     "text": "i. e. these were constantly upon the place, and in the execution of their office, that so they might oversee and direct the inferior porters in their work. Or, as others render the words, agreeably to the Hebrew text, For these (i.e. their brethren, 1Ch 9:25) were under the charge, or committed to the trust of the",
+     "anchor": "Were in their set office",
+     "refs": [
+      {
+       "text": "1Ch 9:25",
+       "ref": "1CH.9.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.26#p2-37636194",
+     "text": "who also were Levites, as their brethren were; whereas the chief of all of them was a priest. Either way these words contain a reason of what was said, 1Ch 9:25, why the rest were to come to these, and to be with them.",
+     "anchor": "four chief porters",
+     "refs": [
+      {
+       "text": "1Ch 9:25",
+       "ref": "1CH.9.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.9.26#p3-8acaee50",
+     "text": "in which the sacred utensils, and other treasures belonging to the temple, were kept.",
+     "anchor": "Treasuries"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.27",
+   "range": "1CH.9.27",
+   "kind": "passage",
+   "hash": "e3850f33",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.27#p1-e3850f33",
+     "text": "therefore they were obliged to constant residence in the place; and were not permitted to dwell in the villages, as their brethren were.",
+     "anchor": "They lodged round about the house of God"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.30",
+   "range": "1CH.9.30",
+   "kind": "passage",
+   "hash": "7231a544",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.30#p1-7231a544",
+     "text": "This is added to prevent a mistake, and to show that although the Levites were intrusted with the keeping of this ointment, yet none but the priests could make it. See Exo 30:22, etc.",
+     "refs": [
+      {
+       "text": "Exo 30:22",
+       "ref": "EXO.30.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.31",
+   "range": "1CH.9.31",
+   "kind": "passage",
+   "hash": "f5dd6586",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.31#p1-f5dd6586",
+     "text": "i.e. Was to take care that fine flour might be provided and kept safely and well, that when occasion required they might make cakes in pans to be offered to the Lord; of which See Poole \"Lev 2:5\".",
+     "refs": [
+      {
+       "text": "Lev 2:5",
+       "ref": "LEV.2.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.32",
+   "range": "1CH.9.32",
+   "kind": "passage",
+   "hash": "2a260af3",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.32#p1-2a260af3",
+     "text": "Of which see Exo 35:13.",
+     "refs": [
+      {
+       "text": "Exo 35:13",
+       "ref": "EXO.35.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.33",
+   "range": "1CH.9.33",
+   "kind": "passage",
+   "hash": "e423857c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.33#p1-6d158e83",
+     "text": "i.e. others of the Levites; of whose several offices he had spoken before.",
+     "anchor": "These"
+    },
+    {
+     "id": "poole/1CH.9.33#p2-fba3297f",
+     "text": "or rather, were, which is understood, and all along in the foregoing and following verses, and again in this very verse.",
+     "anchor": "Are the singers"
+    },
+    {
+     "id": "poole/1CH.9.33#p3-7a4ad1c1",
+     "text": "where they waited, that they might be ready to come whensoever they were called to the service of God in the tabernacle.",
+     "anchor": "In the chambers"
+    },
+    {
+     "id": "poole/1CH.9.33#p4-13ebfbd9",
+     "text": "from all trouble and employment, that they might wholly attend upon the proper work.",
+     "anchor": "Were free"
+    },
+    {
+     "id": "poole/1CH.9.33#p5-e290868c",
+     "text": "either composing or ordering sacred songs; or actually singing; or teaching others to sing them.",
+     "anchor": "Employed in that work"
+    },
+    {
+     "id": "poole/1CH.9.33#p6-676742bc",
+     "text": "i.e. continually, and particularly in the morning and evening, the two times appointed for solemn service and offerings.",
+     "anchor": "Day and night"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.34",
+   "range": "1CH.9.34",
+   "kind": "passage",
+   "hash": "84fcf075",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.34#p1-84fcf075",
+     "text": "Upon their return from Babylon they were not suffered to choose their habitations in the country, as others were, but were obliged to settle themselves at Jerusalem, that they might constantly attend upon God’s service there, and be ready to instruct the younger Levites in their office, as they needed or desired it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.9.35",
+   "range": "1CH.9.35",
+   "kind": "passage",
+   "hash": "0dd17ec9",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.9.35#p1-0dd17ec9",
+     "text": "In this and the following verses to the end of this chapter he repeats what he said before, 1Ch 8:29, &c., concerning Saul’s genealogy, that he might make way for the following history; which is a figure called epanalepsis, which is frequent both in sacred and profane writers.",
+     "refs": [
+      {
+       "text": "1Ch 8:29",
+       "ref": "1CH.8.29"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

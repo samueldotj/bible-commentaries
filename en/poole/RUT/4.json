@@ -1,0 +1,404 @@
+{
+ "source": "poole",
+ "book": "RUT",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "poole/RUT.4",
+   "range": "RUT.4",
+   "kind": "chapter",
+   "hash": "e3797af3",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4#p1-e3797af3",
+     "text": "Boaz goeth up to the gate, calleth his kinsman; inquires whether he would redeem and marry Ruth, Rth 4:1-5. He refuseth, Rth 4:6-8. Boaz, the people witnessing and congratulating, buyeth the inheritance, and marrieth Ruth, Rth 4:9-12. She beareth Obed the grandfather of David, Rth 4:13-17. The genealogy from Pharez unto David, Rth 4:18-22.",
+     "refs": [
+      {
+       "text": "Rth 4:1-5",
+       "ref": "RUT.4.1-5"
+      },
+      {
+       "text": "Rth 4:6-8",
+       "ref": "RUT.4.6-8"
+      },
+      {
+       "text": "Rth 4:9-12",
+       "ref": "RUT.4.9-12"
+      },
+      {
+       "text": "Rth 4:13-17",
+       "ref": "RUT.4.13-17"
+      },
+      {
+       "text": "Rth 4:18-22",
+       "ref": "RUT.4.18-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.1",
+   "range": "RUT.4.1",
+   "kind": "passage",
+   "hash": "6f820561",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.1#p1-1102e0d7",
+     "text": "the place where controversies were decided, and the people assembled, and where they used to go out and come in to the town; where he was most likely to find his kinsman. Ho, such a one! doubtless Boaz both knew his name, and called him by it; but it is omitted by the holy writer, partly because it was unnecessary to know it; and principally in way of contempt, as is usual, and as a just punishment upon him, that he who would not preserve his brother’s name might lose his own, and be buried in the grave of perpetual oblivion.",
+     "anchor": "The gate"
+    },
+    {
+     "id": "poole/RUT.4.1#p2-99fa03f0",
+     "text": "I have some business of importance with you.",
+     "anchor": "Sit down here"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.2",
+   "range": "RUT.4.2",
+   "kind": "passage",
+   "hash": "8191097a",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.2#p1-7a7c5199",
+     "text": "to be umpires or witnesses between them; for though two or three witnesses were sufficient, yet in weightier matters they used more. And",
+     "anchor": "He took two men"
+    },
+    {
+     "id": "poole/RUT.4.2#p2-204b8d07",
+     "text": "was the usual number among the Jews, in causes of matrimony and divorce, and translation of inheritances; who were both judges of the causes, and witnesses of the fact. See 1Ki 21:8.",
+     "anchor": "ten",
+     "refs": [
+      {
+       "text": "1Ki 21:8",
+       "ref": "1KI.21.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.3",
+   "range": "RUT.4.3",
+   "kind": "passage",
+   "hash": "0da55a95",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.3#p1-fd3b6c8f",
+     "text": "Both Naomi and Ruth had an interest in this land during their lives, but he mentions only Naomi, partly because all was done by her direction, to which Ruth wholly submitted herself; and partly lest the mention of Ruth should raise a suspicion of the necessity of his marrying Ruth, before he had given his answer to the first proposition."
+    },
+    {
+     "id": "poole/RUT.4.3#p2-c92594d5",
+     "text": "which she might do because of her poverty, Lev 25:25.",
+     "anchor": "Selleth a parcel of land",
+     "refs": [
+      {
+       "text": "Lev 25:25",
+       "ref": "LEV.25.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.4",
+   "range": "RUT.4.4",
+   "kind": "passage",
+   "hash": "14c723aa",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.4#p1-14c723aa",
+     "text": "before this assembly, that it may be legally and firmly made over to thee.",
+     "anchor": "Before the elders of my people"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.5",
+   "range": "RUT.4.5",
+   "kind": "passage",
+   "hash": "99bba2cb",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.5#p1-34812cdb",
+     "text": "according to the law, Deu 25:5 Mat 22:24, &c.",
+     "anchor": "The wife of the dead",
+     "refs": [
+      {
+       "text": "Deu 25:5",
+       "ref": "DEU.25.5"
+      },
+      {
+       "text": "Mat 22:24",
+       "ref": "MAT.22.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/RUT.4.5#p2-b2a177a6",
+     "text": "to revive his name, which was lost and buried with his body, by raising up a seed to him, to be called by his name.",
+     "anchor": "To raise up the name of the dead"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.6",
+   "range": "RUT.4.6",
+   "kind": "passage",
+   "hash": "2b540bca",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.6#p1-3ddd3d61",
+     "text": "either, first, Because having no children of his own, he might have one, and but one, son by Ruth, who, though he should carry away his inheritance, yet should not bear his name, but the name of Ruth’s husband; and so by preserving another man’s name, he should lose his own. Or, secondly, Because as his inheritance would be but very little increased by this marriage, so it might be much diminished by being divided amongst his many children, which he possibly had already, and might probably have more by Ruth.",
+     "anchor": "Lest I mar mine own inheritance"
+    },
+    {
+     "id": "poole/RUT.4.6#p2-4fa89b18",
+     "text": "which I freely renounce and resign to thee.",
+     "anchor": "Redeem thou my right"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.7",
+   "range": "RUT.4.7",
+   "kind": "passage",
+   "hash": "b442d721",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.7#p1-0537604c",
+     "text": "i.e. in all alienation of lands. So that it is no wonder if this ceremony differ a little from that Deu 25:9, because that concerned only one case, but this is more general. Besides, he pleads not the command of God, but only ancient custom, for this practice.",
+     "anchor": "For to confirm all things",
+     "refs": [
+      {
+       "text": "Deu 25:9",
+       "ref": "DEU.25.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/RUT.4.7#p2-44b5da12",
+     "text": "he who relinquished his right to another, plucked off his own shoe, and gave it to him. This was symbolical, and a significant and convenient ceremony; as if he said, Take this shoe wherewith I used to go and tread upon my land, and in that shoe do thou enter upon it, and take possession of it.",
+     "anchor": "A man plucked off his shoe, and gave it to his neighbour"
+    },
+    {
+     "id": "poole/RUT.4.7#p3-fca2c574",
+     "text": "this was admitted for sufficient evidence in all such cases.",
+     "anchor": "This was a testimony in Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.10",
+   "range": "RUT.4.10",
+   "kind": "passage",
+   "hash": "e4ec8691",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.10#p1-e4ec8691",
+     "text": "i.e. from among the inhabitants dwelling within the gate of this city, which was Bethlehem-judah.",
+     "anchor": "From the gate of his place"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.11",
+   "range": "RUT.4.11",
+   "kind": "passage",
+   "hash": "0dde891f",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.11#p1-e8a1b5b1",
+     "text": "amiable and fruitful. Those two are singled out, partly because they were of a foreign and heathenish original, and yet ingrafted into God’s people, as Ruth also was; and partly because of that singular fertility which God vouchsafed unto them above their predecessors, Sarah and Rebekah.",
+     "anchor": "Like Rachel and like Leah"
+    },
+    {
+     "id": "poole/RUT.4.11#p2-f1c3ca0b",
+     "text": "because she was his most lawful, and only intended, and chosen, and best beloved wife.",
+     "anchor": "Rachel is placed before Leah"
+    },
+    {
+     "id": "poole/RUT.4.11#p3-0ff137b4",
+     "text": "i.e. increase the posterity. See Gen 16:2 Exo 1:21. Ephratah and Bethlehem, two names of one and the same place; of which See Poole \"Rth 1:2\".",
+     "anchor": "Build the house",
+     "refs": [
+      {
+       "text": "Gen 16:2",
+       "ref": "GEN.16.2"
+      },
+      {
+       "text": "Exo 1:21",
+       "ref": "EXO.1.21"
+      },
+      {
+       "text": "Rth 1:2",
+       "ref": "RUT.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.12",
+   "range": "RUT.4.12",
+   "kind": "passage",
+   "hash": "21b3cc4d",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.12#p1-21b3cc4d",
+     "text": "as honourable and numerous as his family was; whom, though he also was born of a stranger, God so far blessed, that his family was one of the five families to which all the tribe of Judah belonged, and the progenitor of the inhabitants of this city.",
+     "anchor": "Like the house of Pharez"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.13",
+   "range": "RUT.4.13",
+   "kind": "passage",
+   "hash": "eb897019",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.13#p1-132ad08c",
+     "text": "which he might do, though she was a Moabite, because the prohibition against marrying such is to be restrained to those who continue in the heathenish estate, as is evident from the reason of it; whereas Ruth was a sincere proselyte and convert to the God and faith of Israel.",
+     "anchor": "Boaz took Ruth"
+    },
+    {
+     "id": "poole/RUT.4.13#p2-1d8e2d2a",
+     "text": "i.e. had conjugal converse with her. See Gen 6:4.",
+     "anchor": "He went in unto her",
+     "refs": [
+      {
+       "text": "Gen 6:4",
+       "ref": "GEN.6.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/RUT.4.13#p3-b58f9223",
+     "text": "i.e. strength to conceive and retain seed.",
+     "anchor": "Conception"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.14",
+   "range": "RUT.4.14",
+   "kind": "passage",
+   "hash": "d3cacce2",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.14#p1-ce271371",
+     "text": "which is understood, either, first, Of the son new born. Or rather, secondly, Of Boaz; for the name of goel, which is translated kinsman or redeemer, is never, that I know of, given to the child born, but always to the person begetting him of his brother’s or near kinsman’s wife. And whereas it is objected, that there was no cause for this congratulation at this time in reference to Boaz, because that was done divers months before this time; it may be replied, that the memory of that generous action was revived upon this occasion, and therefore is fitly mentioned as the foundation of this child’s birth; and this happy effect justly leads them to the cause and original of it, which was this, that Boaz had shown himself to be a kinsman or not only in name and title, as the other kinsman was, Rth 4:6, but in truth and reality. The words may be rendered,",
+     "anchor": "Without a kinsman",
+     "refs": [
+      {
+       "text": "Rth 4:6",
+       "ref": "RUT.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/RUT.4.14#p2-f66f7266",
+     "text": "i.e. to neglect or refuse the performance of his duty to thee and thine, as the other kinsman did.",
+     "anchor": "which hath not made or suffered thy kinsman to fail to thee"
+    },
+    {
+     "id": "poole/RUT.4.14#p3-34da3477",
+     "text": "Heb. and his name shall be famous in Israel, for this noble and worthy action, wherein he gave so great an example of piety, charity, humility, and self-denial.",
+     "anchor": "That his name may be famous in Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.15",
+   "range": "RUT.4.15",
+   "kind": "passage",
+   "hash": "cfd1817a",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.15#p1-6f043672",
+     "text": "i.e. of the comfort of thy life, which was in a great measure dead and gone.",
+     "anchor": "A restorer of thy life"
+    },
+    {
+     "id": "poole/RUT.4.15#p2-1e378d2c",
+     "text": "to wit, a son; the pronoun for the noun understood, which is frequent in the Hebrew tongue. Or, hath born to him, i.e. to thy kinsman, to wit, a son, which is easily understood; and so the pronoun affix is put for the separate; of which there are instances; as Jos 15:19 1Ki 19:21 Job 31:37 Eze 29:3.",
+     "anchor": "Hath born him",
+     "refs": [
+      {
+       "text": "Jos 15:19",
+       "ref": "JOS.15.19"
+      },
+      {
+       "text": "1Ki 19:21",
+       "ref": "1KI.19.21"
+      },
+      {
+       "text": "Job 31:37",
+       "ref": "JOB.31.37"
+      },
+      {
+       "text": "Eze 29:3",
+       "ref": "EZK.29.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.17",
+   "range": "RUT.4.17",
+   "kind": "passage",
+   "hash": "7eb79342",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.17#p1-de5e6fae",
+     "text": "i.e. they gave her advice about the name; for otherwise they had no power or right to do so.",
+     "anchor": "Gave it a name"
+    },
+    {
+     "id": "poole/RUT.4.17#p2-b0a7caee",
+     "text": "a servant, to wit, to thee, to nourish, and comfort, and assist thee; which duty children owe to their progenitors.",
+     "anchor": "Obed"
+    }
+   ]
+  },
+  {
+   "id": "poole/RUT.4.22",
+   "range": "RUT.4.22",
+   "kind": "passage",
+   "hash": "9463e805",
+   "paragraphs": [
+    {
+     "id": "poole/RUT.4.22#p1-4b4e18ca",
+     "text": "How can this be a true genealogy, seeing by this means four persons take up three hundred and eighty years, which were between Salmon and David, and consequently every one of them must beget a son when he was very old?"
+    },
+    {
+     "id": "poole/RUT.4.22#p2-3b24b653",
+     "text": "1. It is not certain that each of these was the immediate parent of him whom he is said to beget; for sometimes grandfathers are said in Scripture to beget their grandchildren, to wit, by the intervention of their immediate sons; whereof instances have been given. And sometimes in genealogies whole generations are omitted, as may appear by Ezr 7:2, compared with 1Ch 6:3 and by Mat 1:8, which might be done here for divers reasons now unknown.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Ezr 7:2",
+       "ref": "EZR.7.2"
+      },
+      {
+       "text": "1Ch 6:3",
+       "ref": "1CH.6.3"
+      },
+      {
+       "text": "Mat 1:8",
+       "ref": "MAT.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/RUT.4.22#p3-6c423480",
+     "text": "2. There are many examples even in profane writers, both ancient and modern, of persons that have not only lived one hundred and twenty and one hundred and thirty years and upwards, but have been vigorous and have begotten children at above one hundred years old; and of women that have conceived and born children at the age of fifty, sixty, yea, seventy years. And therefore if it were so in these more ancient times, when men were longer lived, and under the law, when long life was expressly promised to the obedient, and in persons of strong constitutions and sober conversations, such as some of these are known to have been, and the others may justly be presumed to be such, it is not strange, nor in the least incredible."
+    }
+   ]
+  }
+ ]
+}

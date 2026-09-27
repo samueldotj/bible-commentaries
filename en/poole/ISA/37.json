@@ -1,0 +1,67 @@
+{
+ "source": "poole",
+ "book": "ISA",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "poole/ISA.37",
+   "range": "ISA.37",
+   "kind": "chapter",
+   "hash": "465d8a6d",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.37#p1-465d8a6d",
+     "text": "Hezekiah mourneth, and sendeth to Isaiah to pray for them, Isa 37:1-5. He comforteth them, Isa 37:6,7. Sennacherib, called away against the king of the Ethiopians, sendeth a blasphemous letter to Hezekiah, Isa 37:8-13. His prayer, Isa 37:14-20. Isaiah’s prophecy, Isa 37:21-35. An angel slayeth the Assyrians, Isa 37:36. Sennacherib is slain at Nineveh by his own sons, Isa 37:37,38.",
+     "refs": [
+      {
+       "text": "Isa 37:1-5",
+       "ref": "ISA.37.1-5"
+      },
+      {
+       "text": "Isa 37:6",
+       "ref": "ISA.37.6"
+      },
+      {
+       "text": "Isa 37:8-13",
+       "ref": "ISA.37.8-13"
+      },
+      {
+       "text": "Isa 37:14-20",
+       "ref": "ISA.37.14-20"
+      },
+      {
+       "text": "Isa 37:21-35",
+       "ref": "ISA.37.21-35"
+      },
+      {
+       "text": "Isa 37:36",
+       "ref": "ISA.37.36"
+      },
+      {
+       "text": "Isa 37:37",
+       "ref": "ISA.37.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.37.38",
+   "range": "ISA.37.38",
+   "kind": "passage",
+   "hash": "285d4b58",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.37.38#p1-285d4b58",
+     "text": "For the understanding of this, and the foregoing chapter, the reader is desired to consult my notes upon 2Ki 18:1-20:21.",
+     "refs": [
+      {
+       "text": "2Ki 18:1-20",
+       "ref": "2KI.18.1-20"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

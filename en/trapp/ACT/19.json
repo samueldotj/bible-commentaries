@@ -1,0 +1,725 @@
+{
+ "source": "trapp",
+ "book": "ACT",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "trapp/ACT.19.1",
+   "range": "ACT.19.1",
+   "kind": "passage",
+   "hash": "5f45fcb1",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.1#p1-5f45fcb1",
+     "text": "A mercy of God to the Church, that in Paul’s absence they should be so well provided of a preacher.",
+     "anchor": "While Apollos was at Corinth"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.2",
+   "range": "ACT.19.2",
+   "kind": "passage",
+   "hash": "5cd46ff5",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.2#p1-5cd46ff5",
+     "text": "That is, the extraordinary gifts of the Holy Ghost in prophecy, tongues, &c., as Act 19:6.",
+     "anchor": "Have ye received the Holy Ghost",
+     "refs": [
+      {
+       "text": "Act 19:6",
+       "ref": "ACT.19.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.3",
+   "range": "ACT.19.3",
+   "kind": "passage",
+   "hash": "ae9aaad8",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.3#p1-ae9aaad8",
+     "text": "That is, unto John’s doctrine sealed by baptism. This Paul shows to be nothing so, Act 19:4. Whence Piscator collecteth that they were baptized by some of John’s disciples into John’s name, as if he had been the Christ. For that John had some such zealots about him, appears by Joh 3:26, &c.",
+     "anchor": "Unto John’s baptism",
+     "refs": [
+      {
+       "text": "Act 19:4",
+       "ref": "ACT.19.4"
+      },
+      {
+       "text": "Joh 3:26",
+       "ref": "JHN.3.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.4",
+   "range": "ACT.19.4",
+   "kind": "passage",
+   "hash": "042a9568",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.4#p1-042a9568",
+     "text": "That is, he taught the doctrine of repentance: {See Trapp on \"Act 19:5\"} It is not to be thought that those were by Paul re-baptized who were formerly baptized by John; for if that had been necessary, Christ would have baptized his disciples again: but he baptized none himself, Joh 4:1-2; and they baptized not themselves.",
+     "anchor": "John verily baptized with the baptism of repentance",
+     "refs": [
+      {
+       "text": "Act 19:5",
+       "ref": "ACT.19.5"
+      },
+      {
+       "text": "Joh 4:1-2",
+       "ref": "JHN.4.1-2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.5",
+   "range": "ACT.19.5",
+   "kind": "passage",
+   "hash": "e702d429",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.5#p1-e702d429",
+     "text": "That is, say some, they were re-baptized, because baptized before in a wrong name. Therefore Paul first catechiseth them, Act 19:4. Others say that it was rather their renewing to their baptism than their baptism to them; and not that they took any other than that of John, but that they now began to entertain and apply it to the right intent. (Mr Lightfoot, Harm.)",
+     "anchor": "They were baptized",
+     "refs": [
+      {
+       "text": "Act 19:4",
+       "ref": "ACT.19.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.6",
+   "range": "ACT.19.6",
+   "kind": "passage",
+   "hash": "02b6baa2",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.6#p1-02b6baa2",
+     "text": "By a divine and evident inspiration they expounded the writings of the prophets, and also foretold future events.",
+     "anchor": "And prophesied"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.7",
+   "range": "ACT.19.7",
+   "kind": "passage",
+   "hash": "b893e268",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.7#p1-b893e268",
+     "text": "These twelve, being the firstfruits of this Church, were endued with extraordinary gifts to be for elders and rulers there: for these gifts were not common to all believers, as Beza well noteth.",
+     "anchor": "And all the men were about twelve"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.8",
+   "range": "ACT.19.8",
+   "kind": "passage",
+   "hash": "82f6ba11",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.8#p1-82f6ba11",
+     "text": "The subject matter of his discourse were faith, righteousness, life eternal. Of these things he disputed, and so informed their judgments: and these things he persuaded, and so reduced all to practice. Lo, this is preaching. Every sound is not music; neither is every pulpit discourse, preaching.",
+     "anchor": "The things concerning the kingdom of God"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.9",
+   "range": "ACT.19.9",
+   "kind": "passage",
+   "hash": "d5e95c5e",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.9#p1-3288b615",
+     "text": "Hardness of heart is either natural or habitual: and this again is increased either by doing (that is, by resisting the word of God), or by suffering it to pass by us without amendment of life.",
+     "anchor": "But when divers were hardened"
+    },
+    {
+     "id": "trapp/ACT.19.9#p2-60f6d9e8",
+     "text": "So did Zuinglius and Luther separate from the Papists for like reason. It was laid to Luther’s charge that he was an apostate. Confitetur se esse apostatam, sed beatum et sanctum, qui fidem diabolo datam non servavit. An apostate he confessed himself; but one that had fallen off from the devil only.",
+     "anchor": "He departed from them and separated"
+    },
+    {
+     "id": "trapp/ACT.19.9#p3-b3ea23fd",
+     "text": "In one ancient copy it is added, \"From the fifth hour to the tenth hour:\" so indefatigable a preacher was Paul, a very χαλκεντερος, or iron-sides. He had a golden wit in an iron body, as one saith of Julius Scaliger.",
+     "anchor": "In the school of one Tyrannus"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.10",
+   "range": "ACT.19.10",
+   "kind": "passage",
+   "hash": "9ca77692",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.10#p1-9ca77692",
+     "text": "Which now (according to the notation of its name) became àùéä Esh-jah, the fire of God: not from the fire which at first they worshipped as God; but from the fire of grace kindled upon the hearth of their hearts, and making them shine as lamps in their lives. Father Latimer, when he was demanded the reason why so much preaching and little practice? answered, Deest ignis, the fire of God is wanting, there is not a coal to warm at. It was otherwise now at Ephesus; all was on a light fire, which opened to St Paul that great door and effectual, 1Co 16:9, so that all they that dwelt in Asia were fired up to a holy contention in godliness.",
+     "anchor": "So that all they that dwelt in Asia",
+     "refs": [
+      {
+       "text": "1Co 16:9",
+       "ref": "1CO.16.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.11",
+   "range": "ACT.19.11",
+   "kind": "passage",
+   "hash": "21bb6b1b",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.11#p1-21bb6b1b",
+     "text": "Virtutes non vulgares, not common power, yet ordinary in the infancy of the Church, but now not to be expected. Manna ceased when they came to Canaan; as if it would say, Ye need no miracles now you have means. So here.",
+     "anchor": "And God wrought special miracles"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.12",
+   "range": "ACT.19.12",
+   "kind": "passage",
+   "hash": "252aa0d4",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.12#p1-252aa0d4",
+     "text": "Which having been touched by Paul’s body, became sovereign (by a miracle) to cure diseases and cast out devils.",
+     "anchor": "Handkerchiefs or aprons"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.13",
+   "range": "ACT.19.13",
+   "kind": "passage",
+   "hash": "e8991d18",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.13#p1-e8991d18",
+     "text": "But of these (having no call from God, but unwarrantably emulating Paul, and yet using good words) we may say, as one doth of witches with their good prayers (as they call them, Si magicae, Deus non vult tales; si piae, non per tales. If magical, God will none of them; as if good prayers, yet because out of an evil mouth, he rejects them.)",
+     "anchor": "Exorcists"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.14",
+   "range": "ACT.19.14",
+   "kind": "passage",
+   "hash": "16be4d40",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.14#p1-16be4d40",
+     "text": "All fathers, but especially ministers, should use all utmost care that their children be well educated and instructed; and not think it sufficient to say of them as Pope Paul III did of his dissolute sea Farnesius, Haec vitia me non commonstratore didicit, He never learned it from his father.",
+     "anchor": "Seven sons of one Sceva"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.15",
+   "range": "ACT.19.15",
+   "kind": "passage",
+   "hash": "17f37d84",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.15#p1-17f37d84",
+     "text": "Jesus had destroyed his works, and Paul had felt his fingers, 2Co 12:7, and yet thrown him out of his trenches, 2Co 10:4.",
+     "anchor": "Jesus I know, and Paul",
+     "refs": [
+      {
+       "text": "2Co 12:7",
+       "ref": "2CO.12.7"
+      },
+      {
+       "text": "2Co 10:4",
+       "ref": "2CO.10.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.16",
+   "range": "ACT.19.16",
+   "kind": "passage",
+   "hash": "ea5f1cc2",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.16#p1-ea5f1cc2",
+     "text": "Non omnia possumus omnes. Albeit the eagle in the fable did bear away a lamb in her talons with full flight, yet a raven endeavouring to do the like was held entangled, and fettered in the fleece. Every exorcist must not think to do as Paul did, nor every preacher as Latimer did. He had my fiddle and my stick, said he of one that preached his sermons, but wanted my resin.",
+     "anchor": "So that they fled out, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.17",
+   "range": "ACT.19.17",
+   "kind": "passage",
+   "hash": "a342335f",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.17#p1-a342335f",
+     "text": "{See Trapp on \"Act 5:5\"}",
+     "anchor": "And fear fell on them all",
+     "refs": [
+      {
+       "text": "Act 5:5",
+       "ref": "ACT.5.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.18",
+   "range": "ACT.19.18",
+   "kind": "passage",
+   "hash": "50756f10",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.18#p1-50756f10",
+     "text": "With detestation, being moved thereto by the fear of God’s judgments. This they did publicly, not in the priest’s ear, as Papists, nor out of a brain sick humour, as the Anabaptists at Sangall ( Coeperunt plurimi enormia sun delicta profiteri, alius furta, alius adulteria, alius alia, non sine admiratione audientium, non sine stomacho coniugum maritis talibns nihil non imprecantium, saith Scultetus); but with discretion and detestation. Oftentimes the very opening of men’s grievances easeth the conscience, as the very opening of a vein cools the blood. Howbeit it is neither wisdom nor mercy to put men upon the rack of confession, further than they can have no ease any other way. (Dr Sibbes.)",
+     "anchor": "Confessed and showed their deeds"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.19",
+   "range": "ACT.19.19",
+   "kind": "passage",
+   "hash": "4b59aa0f",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.19#p1-4b59aa0f",
+     "text": "The Ephesians were much addicted to the black art. Whence that ancient proverb, Εφεσια γραμματα, Ephesian learning for necromancy. Cornelius Agrippa’s dog had a devil tied to his collar, as some write. And Paracelsus (or else Erastus belies him) had one confined to his sword pommel.",
+     "anchor": "Which used curious arts"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.20",
+   "range": "ACT.19.20",
+   "kind": "passage",
+   "hash": "29e13a2a",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.20#p1-29e13a2a",
+     "text": "Happy it is for a people or person, when the word falls upon their spirits in the power of it, and subdues them; when the peace of God ruleth in their hearts, {βραβευετω, Col 3:15} and every high thought is so captivated to the obedience of Christ, that they can say, as Jdg 8:22; \"Rule thou over us,\" &c. \"For thou hast delivered us from the hand of Midian.\"",
+     "anchor": "So mightily grew the word of God and prevailed",
+     "refs": [
+      {
+       "text": "Col 3:15",
+       "ref": "COL.3.15"
+      },
+      {
+       "text": "Jdg 8:22",
+       "ref": "JDG.8.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.21",
+   "range": "ACT.19.21",
+   "kind": "passage",
+   "hash": "841816f3",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.21#p1-841816f3",
+     "text": "i.e. By the instinct of the Holy Spirit, his counsellor and conduct, by whom all his actions were moderated. So he went bound in the spirit, Act 20:22. So Simeon came by the spirit into the temple, Luk 2:27. And so still, the steps of every good man are ordered by the Lord, Psa 37:23.",
+     "anchor": "Purposed in the spirit",
+     "refs": [
+      {
+       "text": "Act 20:22",
+       "ref": "ACT.20.22"
+      },
+      {
+       "text": "Luk 2:27",
+       "ref": "LUK.2.27"
+      },
+      {
+       "text": "Psa 37:23",
+       "ref": "PSA.37.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.22",
+   "range": "ACT.19.22",
+   "kind": "passage",
+   "hash": "934428e5",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.22#p1-934428e5",
+     "text": "i.e. At Ephesus, the chief city of Asia the Less. {See Trapp on \"Act 19:10\"}",
+     "anchor": "In Asia",
+     "refs": [
+      {
+       "text": "Act 19:10",
+       "ref": "ACT.19.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.23",
+   "range": "ACT.19.23",
+   "kind": "passage",
+   "hash": "4ed164c6",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.23#p1-4ed164c6",
+     "text": "Covetousness, as itself is idolatry, so it upholds idolatry. (as here) under a pretext of piety. Deos quisqus sibi utiles cudit, saith Epictetus. Ubi utilitas, ibi pietas, saith another. The Papists are sound in those points that touch not upon their profit, as in the doctrine of the Trinity, &c. Luther was therefore so much set against (as Erasmus told the Elector of Saxony) because he meddled with the pope’s triple crown and the monks’ fat paunches. (Scultet. Annal.)",
+     "anchor": "No small stir"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.24",
+   "range": "ACT.19.24",
+   "kind": "passage",
+   "hash": "8f0d0989",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.24#p1-8f0d0989",
+     "text": "Gr. temples, Templa portatilia, small portable temples, resembling that greater temple of Diana; as now the Agnus Dei (lamb of God) among the Papists. (Beza.) Some say they were little houses or caskets to put the idols in. (Casaubon.) Others, small coins stamped with the image of that famous temple. (Piscator.) Idolatrous trinkets they were, such as brought no small gain to the craftsmen, to whom gain was godliness.",
+     "anchor": "Which made silver shrines"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.25",
+   "range": "ACT.19.25",
+   "kind": "passage",
+   "hash": "fba10176",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.25#p1-fba10176",
+     "text": "And wealth is the wordling’s god, which he prizeth, as Micah did his idol; and can as hardly forego it. What a cursing made Micah’s mother in the loss of her eleven hundred shekels of silver, Jdg 17:2, and what a hubbub raised Micah all the country over, when the Danites had despoiled him of his dunghill deity, Jdg 18:22-27. So did the silversmiths here, and they thought they had reason to be thus mad when their trade was taken away.",
+     "anchor": "By this craft we have our wealth",
+     "refs": [
+      {
+       "text": "Jdg 17:2",
+       "ref": "JDG.17.2"
+      },
+      {
+       "text": "Jdg 18:22-27",
+       "ref": "JDG.18.22-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.26",
+   "range": "ACT.19.26",
+   "kind": "passage",
+   "hash": "7bdcb4fb",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.26#p1-7bdcb4fb",
+     "text": "The town clerk then told a loud lie, Act 19:5. Politicians think they may lawfully lie for peace sake. Howbeit Paul decried Diana’s temple and worship with better discretion than Abdias the bishop burnt down the temple of the fire (which the Persians worship) at Persepolis. Whereupon not only he himself was slain, but all the temples of the Christians throughout Persia were overthrown, and many Christians put to death; the Persian priests being their chief persecutors, A. D. 413. (Funccius.)",
+     "anchor": "They be no gods",
+     "refs": [
+      {
+       "text": "Act 19:5",
+       "ref": "ACT.19.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.27",
+   "range": "ACT.19.27",
+   "kind": "passage",
+   "hash": "a9bbdf60",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.27#p1-3cb69d73",
+     "text": "Whereof they had the patent, the monopoly, το μερος. Dictio est mercimoniorum et negotiorum, in genere significans illud quod in divisione obvenit, saith Lorinus. Istud quod nobis est peculiare. So Beza renders it.",
+     "anchor": "This our craft"
+    },
+    {
+     "id": "trapp/ACT.19.27#p2-6a69d352",
+     "text": "Gr. εις απελεγμον ελθειν. To be refuted, disgraced, decried, and we greatly damnified. Nobis refutatum intercidat. (Beza.) This was the Diana they strove for, and about which they raised all this uproar. So the poor Waldenses were persecuted, not for detestation of their tenets, but out of a jealousy lest these men’s plain dealing should discover their drifts and mar their markets.",
+     "anchor": "To be set at nought"
+    },
+    {
+     "id": "trapp/ACT.19.27#p3-ba7cf5a7",
+     "text": "Her majesty, μεγαλειοτητα. Utinam aeque saltem reverenter de Dei nomine hodie homines loquerentur, saith Malcolm. I would men would but use like reverence in speaking of the true God.",
+     "anchor": "And her magnificence should be destroyed"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.28",
+   "range": "ACT.19.28",
+   "kind": "passage",
+   "hash": "02b16005",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.28#p1-813b7e09",
+     "text": "The Greek word θυμος signifieth the heating or heaving of the blood by the apprehension of the injury offered; hot and fiery anger, such as was that of Nebuchadnezzar, seven fold hotter than his fiery furnace, Dan 3:19.",
+     "anchor": "They were full of wrath",
+     "refs": [
+      {
+       "text": "Dan 3:19",
+       "ref": "DAN.3.19"
+      }
+     ]
+    },
+    {
+     "id": "trapp/ACT.19.28#p2-e786a463",
+     "text": "Papists boast and write much of the Romish greatness, as Lipsius and others. We grant them to be that great whore in the Revelation, Rev 17:18.",
+     "anchor": "Great is Diana",
+     "refs": [
+      {
+       "text": "Rev 17:18",
+       "ref": "REV.17.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.29",
+   "range": "ACT.19.29",
+   "kind": "passage",
+   "hash": "ab3647d7",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.29#p1-ab3647d7",
+     "text": "{See Trapp on \"Act 17:1\"}",
+     "anchor": "And the whole city was filled with confusion",
+     "refs": [
+      {
+       "text": "Act 17:1",
+       "ref": "ACT.17.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.30",
+   "range": "ACT.19.30",
+   "kind": "passage",
+   "hash": "db013c3e",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.30#p1-db013c3e",
+     "text": "i.e. They persuaded him otherwise, and prevailed. It is best, if a man can so order his affairs, as not to need the counsel of others. And the next best is to rest in good counsel, and to be ruled by it. But he that is uncounsellable is ripe for ruin, and that without remedy, Pro 29:1.",
+     "anchor": "The disciples suffered him not",
+     "refs": [
+      {
+       "text": "Pro 29:1",
+       "ref": "PRO.29.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.31",
+   "range": "ACT.19.31",
+   "kind": "passage",
+   "hash": "21139f42",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.31#p1-21139f42",
+     "text": "Not rulers, but priests, saith Beza, whose office was to set forth stage players in honour of the gods. These, though bad enough, had some good affection to the Christian religion, and cautioned Paul not to come into the theatre. Christ finds some friends among the worst of men.",
+     "anchor": "Certain of the chief of Asia"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.32",
+   "range": "ACT.19.32",
+   "kind": "passage",
+   "hash": "d5a0c598",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.32#p1-d5a0c598",
+     "text": "No more do the most of our common hearers. They follow the drove, and believe as the Church believeth. They will say, they come to Church to serve God; but who that God is, how to be served, wherein, and in whom to be served, they know not. Si ventri bene sit, si lateri, as Epicurus in Horace, if the belly may be filled, the back fitted, it sufficeth them.",
+     "anchor": "Knew not wherefore, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.33",
+   "range": "ACT.19.33",
+   "kind": "passage",
+   "hash": "299654f9",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.33#p1-3658a7ee",
+     "text": "The coppersmith, who was here near to martyrdom, yet afterwards made shipwreck of the faith, 1Ti 1:19-20, and did the apostle much evil, and greatly withstood not his person only, but his preachings, 2Ti 4:15-16, which was a sin of a high and heinous nature.",
+     "anchor": "And they drew Alexander",
+     "refs": [
+      {
+       "text": "1Ti 1:19-20",
+       "ref": "1TI.1.19-20"
+      },
+      {
+       "text": "2Ti 4:15-16",
+       "ref": "2TI.4.15-16"
+      }
+     ]
+    },
+    {
+     "id": "trapp/ACT.19.33#p2-6df83a07",
+     "text": "He would have excused his countrymen the Jews (who therefore put him forward), and have turned all the rage of the people upon the apostles. But by a sweet providence of God he could not have audience.",
+     "anchor": "Would have made his defence"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.34",
+   "range": "ACT.19.34",
+   "kind": "passage",
+   "hash": "3b7559c2",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.34#p1-6aa23992",
+     "text": "The Jews were generally hated of the Gentiles, and especially after their return from the Babylonish captivity, because they cried down all gods and religions but their own, and would never be drawn again to worship other gods, for which sin they had so exceedingly smarted. At this day the Jews, for their inexpiable guilt in crucifying Christ and their implacable hatred to his people, are by a common consent of nations banished out of the world, as it were. The very Turks themselves so hate the Jews for their crucifying Christ, that they used to say in detestation of a thing, Iudaeus sim, si mentiar, I would I might die a Jew then. Neither will they permit a Jew to turn Turk, unless he be first baptized.",
+     "anchor": "That he was a Jew"
+    },
+    {
+     "id": "trapp/ACT.19.34#p2-63e4382b",
+     "text": "So the Papists cry up, ad ravim usque, their Lady of Loretto, of Sichem, of Walsingham, &c., and have nothing in their mouths so much as the Church, the Church; wherein, like oyster wives, they do easily out cry us.",
+     "anchor": "All with one voice cried out, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.35",
+   "range": "ACT.19.35",
+   "kind": "passage",
+   "hash": "1c973ece",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.35#p1-683385bf",
+     "text": "Who yet, as great as she was, being busy at Alexander’s birth (as he said), could not be at leisure to save her temple at Ephesus from burning. Like as Baal was so hot in the pursuit of his enemies, that he could not be at hand to help his friends, 1Ki 18:27.",
+     "anchor": "Great goddess Diana",
+     "refs": [
+      {
+       "text": "1Ki 18:27",
+       "ref": "1KI.18.27"
+      }
+     ]
+    },
+    {
+     "id": "trapp/ACT.19.35#p2-9417990c",
+     "text": "A very ancient image made by Canetias a certain artificer, and for the antiquity of it, said by the covetous priests to have fallen down from Jupiter, that it might be the more venerable. By a like craft the Popish priests now show some shivers of the cross whereon our Saviour suffered, yea, some shreds of the tail of that ass whereupon he rode to Jerusalem.",
+     "anchor": "And of the image that fell"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.36",
+   "range": "ACT.19.36",
+   "kind": "passage",
+   "hash": "a141d711",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.36#p1-a141d711",
+     "text": "Or, sedate, composed, kept within compass, \"to do nothing rashly or headlongly:\" Temeritas enim comitem την μετανοιαν εχει.",
+     "anchor": "Ye ought to be quiet"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.37",
+   "range": "ACT.19.37",
+   "kind": "passage",
+   "hash": "22e5f48d",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.37#p1-22e5f48d",
+     "text": "This was false: but this politician held it lawful to redeem peace with a lie. Not so St Paul, who knew that after his departure from Ephesus grievous wolves would enter in, Act 20:29. And yet, because he could not stay to preach unless he would have restored some Pharisaical observations, and unless, for peace’s sake, he would have yielded to the rites and image of Diana, he left the place, because he must not do the greatest good by any evil means.",
+     "anchor": "Blasphemers of your goddess",
+     "refs": [
+      {
+       "text": "Act 20:29",
+       "ref": "ACT.20.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.38",
+   "range": "ACT.19.38",
+   "kind": "passage",
+   "hash": "8f0440cd",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.38#p1-8f0440cd",
+     "text": "As the town clerk here quieted the tumultuating people, so ought we to compose unruly passions. Say to them, 1. Ye ought to do nothing rashly. 2. The law is open; so is God’s ear, to whom vengeance belongeth. 3. We are in danger of this day’s uproar, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.39",
+   "range": "ACT.19.39",
+   "kind": "passage",
+   "hash": "61ef7cb6",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.39#p1-61ef7cb6",
+     "text": "Such as this could not be. Cum boni, cum probi coeunt, non est factio dicenda sed curia: ut e contrario, illis nomen factionis accommodandum est, qui in odium bonorum et Troborum conspirant. (Tertul. Apol. xxxix.)",
+     "anchor": "In a lawful assembly"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.40",
+   "range": "ACT.19.40",
+   "kind": "passage",
+   "hash": "a5d14c8f",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.40#p1-a5d14c8f",
+     "text": "Danger we all desire to decline, whether it be of life, limb, estate, &c., but venture our souls daily to the danger of damnation: this is practical atheism, rank folly.",
+     "anchor": "For we are in danger"
+    }
+   ]
+  },
+  {
+   "id": "trapp/ACT.19.41",
+   "range": "ACT.19.41",
+   "kind": "passage",
+   "hash": "5f1715e0",
+   "paragraphs": [
+    {
+     "id": "trapp/ACT.19.41#p1-5f1715e0",
+     "text": "And so Demetrius was deceived. See here the power of civil prudence and flexanimous eloquence. (See Cic. de Oratore, i.)",
+     "anchor": "Dismissed the assembly"
+    }
+   ]
+  }
+ ]
+}

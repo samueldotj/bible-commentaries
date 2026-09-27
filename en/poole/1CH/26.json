@@ -1,0 +1,580 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 26,
+ "units": [
+  {
+   "id": "poole/1CH.26",
+   "range": "1CH.26",
+   "kind": "chapter",
+   "hash": "f20a91cc",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26#p1-f20a91cc",
+     "text": "The division of the porters, 1Ch 26:1-12. The gates assigned by lot, 1Ch 26:13-19. The Levites have charge of the treasures of the temple, 1Ch 26:20-28. Officers and judges, 1Ch 26:29-32.",
+     "refs": [
+      {
+       "text": "1Ch 26:1-12",
+       "ref": "1CH.26.1-12"
+      },
+      {
+       "text": "1Ch 26:13-19",
+       "ref": "1CH.26.13-19"
+      },
+      {
+       "text": "1Ch 26:20-28",
+       "ref": "1CH.26.20-28"
+      },
+      {
+       "text": "1Ch 26:29-32",
+       "ref": "1CH.26.29-32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.1",
+   "range": "1CH.26.1",
+   "kind": "passage",
+   "hash": "6f10b645",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.1#p1-6f10b645",
+     "text": "Not that famous Asaph the singer, but another Asaph, called also Ebiasaph, 1Ch 6:37.",
+     "refs": [
+      {
+       "text": "1Ch 6:37",
+       "ref": "1CH.6.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.5",
+   "range": "1CH.26.5",
+   "kind": "passage",
+   "hash": "976925e1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.5#p1-976925e1",
+     "text": "To wit, with a numerous posterity and other blessings, for his respect and affection to the ark. See 2Sa 6:11.",
+     "refs": [
+      {
+       "text": "2Sa 6:11",
+       "ref": "2SA.6.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.6",
+   "range": "1CH.26.6",
+   "kind": "passage",
+   "hash": "767e4885",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.6#p1-de5eae3a",
+     "text": "that had the command of their brethren and families, being, as some say, captains of hundreds or of thousands; of which see Exo 18:25 2Ki 11:9.",
+     "anchor": "That ruled throughout the house of their father",
+     "refs": [
+      {
+       "text": "Exo 18:25",
+       "ref": "EXO.18.25"
+      },
+      {
+       "text": "2Ki 11:9",
+       "ref": "2KI.11.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.26.6#p2-71251a84",
+     "text": "this clause is divers times mentioned, because their office returned both strength and courage; for they were to shut the doors of the temple, one whereof was so great and weighty, that in the second temple it required the help of twenty men to open and shut it, as Josephus, an eye-witness, reports. They were also to keep the guard, and to keep out all unclean or forbidden persons, who might sometimes presumptuously attempt to enter into the temple, as Uzziah did, and to prevent or suppress any tumults or disorders which might happen in the temple or in its courts, and to keep the treasures of the temple. 1Ch 26:20,22,24,26, and to be officers and judges over Israel, 1Ch 26:29, and to manage every matter pertaining to God and the affairs of the king, 1Ch 26:32.",
+     "anchor": "They were mighty men of valor",
+     "refs": [
+      {
+       "text": "1Ch 26:20",
+       "ref": "1CH.26.20"
+      },
+      {
+       "text": "1Ch 26:29",
+       "ref": "1CH.26.29"
+      },
+      {
+       "text": "1Ch 26:32",
+       "ref": "1CH.26.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.10",
+   "range": "1CH.26.10",
+   "kind": "passage",
+   "hash": "fd8fe35c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.10#p1-fd8fe35c",
+     "text": "Taking away the birthright from the first-born, either absolutely for some gross miscarriage, as Gen 49:4; or only in this respect, because he wanted either strength or valour, or some other qualification necessary for his office.",
+     "refs": [
+      {
+       "text": "Gen 49:4",
+       "ref": "GEN.49.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.12",
+   "range": "1CH.26.12",
+   "kind": "passage",
+   "hash": "60f84711",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.12#p1-60f84711",
+     "text": "Heb. having wards against or answerably to their brethren, to wit, the other Levites, who were divided into twenty-four courses, as the priests also were, and so it seems were the porters.",
+     "anchor": "Having wards one against another"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.13",
+   "range": "1CH.26.13",
+   "kind": "passage",
+   "hash": "e182d573",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.13#p1-b16bbb6d",
+     "text": "determining the times and places of their service not by age or dignity, but merely by lot.",
+     "anchor": "They cast lots, as well the small as the great"
+    },
+    {
+     "id": "poole/1CH.26.13#p2-6e18f9e6",
+     "text": "a several lot being allowed for each several house.",
+     "anchor": "According to the house of their fathers"
+    },
+    {
+     "id": "poole/1CH.26.13#p3-d342ca11",
+     "text": "that it might be known to whom the care of each gate was more especially committed.",
+     "anchor": "For every gate"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.14",
+   "range": "1CH.26.14",
+   "kind": "passage",
+   "hash": "f5261d5c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.14#p1-f5261d5c",
+     "text": "which is noted as an excellent and useful accomplishment for his office, in which there was need of wisdom as well as courage, as may appear by the description of their work, 1Ch 26:20, &c. See Poole \"1Ch 26:6\".",
+     "anchor": "A wise counsellor",
+     "refs": [
+      {
+       "text": "1Ch 26:20",
+       "ref": "1CH.26.20"
+      },
+      {
+       "text": "1Ch 26:6",
+       "ref": "1CH.26.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.15",
+   "range": "1CH.26.15",
+   "kind": "passage",
+   "hash": "81453e6c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.15#p1-81453e6c",
+     "text": "a place so called; or, of gatherings; so named either from the assembly of the elders, who met there to consult about the affairs of the temple; or from the people, who were there gathered together to hear the discourses and debates of the teachers of the law; or because the gifts of the people towards the house and worship of God were kept there. See 2Ki 22:4 2Ch 25:24.",
+     "anchor": "Asuppim",
+     "refs": [
+      {
+       "text": "2Ki 22:4",
+       "ref": "2KI.22.4"
+      },
+      {
+       "text": "2Ch 25:24",
+       "ref": "2CH.25.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.16",
+   "range": "1CH.26.16",
+   "kind": "passage",
+   "hash": "b3c42d43",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.16#p1-f816e1cd",
+     "text": "for some reason were joined together in the custody of that gate.",
+     "anchor": "Shuppim and Hosah"
+    },
+    {
+     "id": "poole/1CH.26.16#p2-6249bd13",
+     "text": "a gate of the court so called, as some think, because the ashes and filth of the temple were cast out on that side, which was the most convenient gate for that purpose, because that was a private quarter, the great ways to the temple lying on the other sides.",
+     "anchor": "The gate Shallecheth"
+    },
+    {
+     "id": "poole/1CH.26.16#p3-f3c22e0b",
+     "text": "by which causeway they went up towards the temple.",
+     "anchor": "By the causeway of the going up"
+    },
+    {
+     "id": "poole/1CH.26.16#p4-28087a72",
+     "text": "which may respect either,",
+     "anchor": "Ward against ward"
+    },
+    {
+     "id": "poole/1CH.26.16#p5-10d46d82",
+     "text": "1. The time of their watching, that when one guard went off another came on. Or rather,"
+    },
+    {
+     "id": "poole/1CH.26.16#p6-10582f4f",
+     "text": "2. The place of their guard; and so this may be understood, either,"
+    },
+    {
+     "id": "poole/1CH.26.16#p7-b00365ff",
+     "text": "1. Of this western quarter, where there was a double guard, either because there were two gates there, as some think, or for some other cause now unknown. Or rather,"
+    },
+    {
+     "id": "poole/1CH.26.16#p8-0e314922",
+     "text": "2. Of all the quarters compared together; of all which having spoken he adds this, that as one gate was over against another, the west against the east, and the north against the south, so one ward was over against another."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.17",
+   "range": "1CH.26.17",
+   "kind": "passage",
+   "hash": "726bac5b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.17#p1-5fb2e870",
+     "text": "for that being the chief gate of the temple, required a better guard.",
+     "anchor": "Eastward were six Levites"
+    },
+    {
+     "id": "poole/1CH.26.17#p2-0358c6c7",
+     "text": "i.e., the house of Asuppim, as it is called, 1Ch 26:15, where also it is said to be on the south side; on which there seems to have been a double guard both belonging to Obed-edom, 1Ch 26:15, one at the south gate, and the other at Asuppim; here possibly the sacred treasures, mentioned 1Ch 26:20, &c., were laid up, and therefore a particular guard was necessary. See Poole \"1Ch 26:15\".",
+     "anchor": "Toward Asuppim",
+     "refs": [
+      {
+       "text": "1Ch 26:15",
+       "ref": "1CH.26.15"
+      },
+      {
+       "text": "1Ch 26:15",
+       "ref": "1CH.26.15"
+      },
+      {
+       "text": "1Ch 26:20",
+       "ref": "1CH.26.20"
+      },
+      {
+       "text": "1Ch 26:15",
+       "ref": "1CH.26.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.18",
+   "range": "1CH.26.18",
+   "kind": "passage",
+   "hash": "223bdb2c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.18#p1-f651f7ff",
+     "text": "or, as concerning Parbar, which was another gate, or some building on the western quarter of the temple.",
+     "anchor": "At Parbar"
+    },
+    {
+     "id": "poole/1CH.26.18#p2-348cad55",
+     "text": "which led to Parbar. At Parbar; at the gate or house itself; by which it may seem that this was a place of some importance, either the vessels of the temple, or some part of the treasures of God’s house, being kept here.",
+     "anchor": "At the causeway"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.20",
+   "range": "1CH.26.20",
+   "kind": "passage",
+   "hash": "38ddbcd1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.20#p1-38ddbcd1",
+     "text": "Either these are the same kind of treasures, the latter phrase only explaining the former, the particle and being used for that is; or rather, they are two different kinds of treasures, the former containing the sacred vessels and other treasures, which by God’s command were appropriated to the maintenance of the house, and worship, and ministers of God, as tithes, and first-fruits, and other things; and the latter only those things which had been freely given or dedicated to God for those ends; of which 1Ch 26:26,27.",
+     "refs": [
+      {
+       "text": "1Ch 26:26",
+       "ref": "1CH.26.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.21",
+   "range": "1CH.26.21",
+   "kind": "passage",
+   "hash": "4f853f90",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.21#p1-4b0c04fa",
+     "text": "i.e. which sons were chief fathers, or heads of the houses of their fathers.",
+     "anchor": "The sons of the Gershonite Laadan, chief fathers"
+    },
+    {
+     "id": "poole/1CH.26.21#p2-c06b1106",
+     "text": "understand here, and his sons, which here follow.",
+     "anchor": "Jehieli"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.22",
+   "range": "1CH.26.22",
+   "kind": "passage",
+   "hash": "d78e645b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.22#p1-d78e645b",
+     "text": "As Shelomith and his brethren were over the treasures of the dedicated things, 1Ch 26:26. But both may seem to have been subject and accountable to Ahijah, who was over both these kinds of treasures, 1Ch 26:20. Or Ahijah might have a general oversight into the management of those treasures as an auditor of the accounts, although the others had more dignity and power in the disposal of them.",
+     "refs": [
+      {
+       "text": "1Ch 26:26",
+       "ref": "1CH.26.26"
+      },
+      {
+       "text": "1Ch 26:20",
+       "ref": "1CH.26.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.23",
+   "range": "1CH.26.23",
+   "kind": "passage",
+   "hash": "2c61a8b1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.23#p1-2c61a8b1",
+     "text": "Or, as concerning the Amramites, &c. The meaning is, the persons here following were of these, or the most of these, families. Only here is none of the family of the Uzzielites; either because that family was now extinct; whence it is that we read no more of them in the Scripture, but only in this place, and Num 3:27; or because there was none of them fit to be employed and trusted in these matters.",
+     "refs": [
+      {
+       "text": "Num 3:27",
+       "ref": "NUM.3.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.24",
+   "range": "1CH.26.24",
+   "kind": "passage",
+   "hash": "b6b724ba",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.24#p1-b6b724ba",
+     "text": "The prince or chief over all the treasures, and treasures mentioned either before or afterward, as his very title shows, which is peculiarly given to him, and to none of the rest."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.25",
+   "range": "1CH.26.25",
+   "kind": "passage",
+   "hash": "59fb3697",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.25#p1-59fb3697",
+     "text": "another son of Moses, Exo 18:4.",
+     "anchor": "His brethren by Eliezer",
+     "refs": [
+      {
+       "text": "Exo 18:4",
+       "ref": "EXO.18.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.27",
+   "range": "1CH.26.27",
+   "kind": "passage",
+   "hash": "94716e2d",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.27#p1-94716e2d",
+     "text": "Heb. to strengthen it; either to make that building strong and substantial by these and other charges; or rather, to repair it when it should be built; for which they might the rather take particular care, because it was likely that every one would contribute to the building of the temple, and there would be no want for that use; but few would provide for the repairs of it, when by the injury of men or time it should receive any damage."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.28",
+   "range": "1CH.26.28",
+   "kind": "passage",
+   "hash": "8de3c56e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.28#p1-8de3c56e",
+     "text": "is particularly named here, and 1Ch 26:26, because they were chiefly committed to his trust, he being, it seems, a person of eminent wisdom and faithfulness.",
+     "anchor": "Shelomith",
+     "refs": [
+      {
+       "text": "1Ch 26:26",
+       "ref": "1CH.26.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.29",
+   "range": "1CH.26.29",
+   "kind": "passage",
+   "hash": "c88d98a0",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.29#p1-006ca814",
+     "text": "who are probably thought to have been one thousand six hundred, for that sum added to the one thousand seven hundred, 1Ch 26:30, and the two thousand seven hundred, 1Ch 26:32, make up those six thousand Levites which were",
+     "anchor": "Chenaniah and his sons",
+     "refs": [
+      {
+       "text": "1Ch 26:30",
+       "ref": "1CH.26.30"
+      },
+      {
+       "text": "1Ch 26:32",
+       "ref": "1CH.26.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.26.29#p2-6e4da3aa",
+     "text": "1Ch 23:4.",
+     "anchor": "officers and judges",
+     "refs": [
+      {
+       "text": "1Ch 23:4",
+       "ref": "1CH.23.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.26.29#p3-8235eabc",
+     "text": "for that business of the Lord and of the king (as it is explained here, 1Ch 26:30,32) which was to be done without the temple, and without Jerusalem; for what was to be done within them was committed to other hands, as we have seen.",
+     "anchor": "For the outward business",
+     "refs": [
+      {
+       "text": "1Ch 26:30",
+       "ref": "1CH.26.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.26.29#p4-3327c2d4",
+     "text": "synecdochically; i.e. over part of Israel, even over the midland part, and that which lay upon the sea-coast; for the other parts of the land on both sides of Jordan are here committed to others, 1Ch 26:30-32.",
+     "anchor": "Over Israel",
+     "refs": [
+      {
+       "text": "1Ch 26:30-32",
+       "ref": "1CH.26.30-32"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.26.29#p5-edb26620",
+     "text": "who shall be officers and judges over the people in the several cities and towns or parts of the land, to determine questions and controversies which might arise among them. And the reason why the Levites were intrusted with these matters was, because the common or municipal law of Israel, by which they had and held all their rights, was no other than the law of God, whereof the priests and Levites being the best and established interpreters, must needs therefore be the most proper judges of things depending thereupon.",
+     "anchor": "For officers and judges"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.30",
+   "range": "1CH.26.30",
+   "kind": "passage",
+   "hash": "46c7b82b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.30#p1-3861ec6d",
+     "text": "in those parts of the land of Canaan which border upon Jordan, or are not very remote from it.",
+     "anchor": "On this side Jordan westward"
+    },
+    {
+     "id": "poole/1CH.26.30#p2-374646ef",
+     "text": "i.e. in all things which did or should concern the house or worship of God; partly to take care that such monies as were either imposed by a tax, or freely given by the people, towards the building or repairing of the temple, or towards the sacrifices and other holy ministrations, should be gathered and received, and faithfully sent up to Jerusalem to be employed in that work; partly to see to the execution of all the laws of God among the people, and to restrain or punish wilful offenders against it.",
+     "anchor": "In all the business of the Lord"
+    },
+    {
+     "id": "poole/1CH.26.30#p3-f6091fba",
+     "text": "not that all the king’s businesses were managed by them; for it is apparent, both from the nature of the thing, and from Scripture, that the king’s military affairs were managed by his captains, and his political or civil affairs were managed by the princes, and judges, and officers of other tribes; but because they served the king in the execution of his decrees, made pursuantly to the laws of God, by which the several rights of king and people were established, and all things both in church and commonwealth were to be ordered.",
+     "anchor": "In the service of the king"
+    },
+    {
+     "id": "poole/1CH.26.30#p4-be833def",
+     "text": "Now as the king was the principal person intrusted with the execution of God’s laws, so these Levites chiefly were his eyes by which he saw his people’s transgressions, and his hands by which he inflicted due and deserved censures upon them for their miscarriages. And the doing of this was very much for the service of the king, whose throne was established and secured by such righteous administrations. Besides, they were to take care by their counsel and authority to keep the people in obedience to their king; which the Levites were most obliged and best obliged to do."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.31",
+   "range": "1CH.26.31",
+   "kind": "passage",
+   "hash": "e5d1ad4c",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.31#p1-018e894f",
+     "text": "which was his last year, in which he made all the orders and distributions of families and offices recorded in these chapters.",
+     "anchor": "In the fortieth year"
+    },
+    {
+     "id": "poole/1CH.26.31#p2-fd62f073",
+     "text": "is here named, either because they were seated in or near that place, but for what cause it is now unknown; or because they were numbered there by some person sent by David to that purpose.",
+     "anchor": "Jazer of Gilead"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.26.32",
+   "range": "1CH.26.32",
+   "kind": "passage",
+   "hash": "26b14cf5",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.26.32#p1-26b14cf5",
+     "text": "which is a very great number to be employed about two tribes and a half, when all the rest of the tribes had only one thousand and seven hundred, 1Ch 26:30, besides those under Chenaniah; of whom See Poole \"1Ch 26:29\". But the reason hereof is plain, because the tribes without Jordan being more remote from the king’s court, and from the place of public and solemn worship, needed more than ordinary help to instruct and keep them in the practice of the true religion, and the worship of God, and in obedience to their king.",
+     "anchor": "Two thousand and seven hundred chief fathers",
+     "refs": [
+      {
+       "text": "1Ch 26:30",
+       "ref": "1CH.26.30"
+      },
+      {
+       "text": "1Ch 26:29",
+       "ref": "1CH.26.29"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

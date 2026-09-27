@@ -1,0 +1,59 @@
+{
+ "source": "poole",
+ "book": "ISA",
+ "chapter": 39,
+ "units": [
+  {
+   "id": "poole/ISA.39",
+   "range": "ISA.39",
+   "kind": "chapter",
+   "hash": "2030d0e9",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.39#p1-2030d0e9",
+     "text": "The king of Babel sendeth ambassadors with letters and a present to Hezekiah; who showeth them all his treasures, Isa 39:1-2. Isaiah foretelleth him of the Babylonish captivity, Isa 39:3-7. His resignation, Isa 39:8.",
+     "refs": [
+      {
+       "text": "Isa 39:1-2",
+       "ref": "ISA.39.1-2"
+      },
+      {
+       "text": "Isa 39:3-7",
+       "ref": "ISA.39.3-7"
+      },
+      {
+       "text": "Isa 39:8",
+       "ref": "ISA.39.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ISA.39.8",
+   "range": "ISA.39.8",
+   "kind": "passage",
+   "hash": "bd5174af",
+   "paragraphs": [
+    {
+     "id": "poole/ISA.39.8#p1-bd5174af",
+     "text": "The history contained in this chapter is related in the same words, 2Ki 20:12, &c., only he who here is called Merodach is there called Berodach, merely by the change of one letter, which is very usual in the Hebrew language, especially in proper names, as Dimon is put for Dibon, Isa 15:9, and the same man is called Nebuchadnezzar and Nebuchadrezzar. This king is called Merodach from the idol so called, Jer 1:2, and Baladan from his father’s name. But whether this man was an Assyrian, or a Mede, or a Babylonian, it is not easy to determine, nor worth while to inquire. But this is certain, that about this time there were wars between the Assyrians and the Babylonians, the issue whereof was, that the latter subdued the former.",
+     "refs": [
+      {
+       "text": "2Ki 20:12",
+       "ref": "2KI.20.12"
+      },
+      {
+       "text": "Isa 15:9",
+       "ref": "ISA.15.9"
+      },
+      {
+       "text": "Jer 1:2",
+       "ref": "JER.1.2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

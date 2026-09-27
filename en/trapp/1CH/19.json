@@ -1,0 +1,52 @@
+{
+ "source": "trapp",
+ "book": "1CH",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "trapp/1CH.19.1",
+   "range": "1CH.19.1",
+   "kind": "passage",
+   "hash": "eb23e287",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.19.1#p1-eb23e287",
+     "text": "This chapter is the same also with 2Sa 10:1-19. {See Trapp on \"2Sa 10:1\"} &c.",
+     "anchor": "Ver 1.",
+     "refs": [
+      {
+       "text": "2Sa 10:1-19",
+       "ref": "2SA.10.1-19"
+      },
+      {
+       "text": "2Sa 10:1",
+       "ref": "2SA.10.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/1CH.19.4",
+   "range": "1CH.19.4",
+   "kind": "passage",
+   "hash": "196004ee",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.19.4#p1-b53eeaaf",
+     "text": "Sic legatos Davidis deturpans illudit, {a} Popish priests say they do therefore shave their beards, lest while they drink Christ’s blood out of the chalice, any drop thereof should hang upon their beards. Oh, shameful superstition!",
+     "anchor": "And shaved them."
+    },
+    {
+     "id": "trapp/1CH.19.4#p2-976b9c91",
+     "text": "This is check to the fashion mongers of our time, saith Piscator; who wear their clothes so close, and cloaks so short, that they cover not their buttocks.",
+     "anchor": "Hard by their buttocks."
+    },
+    {
+     "id": "trapp/1CH.19.4#p3-34cc88ff",
+     "text": "{a} Piscator."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "source": "calvin",
+ "book": "MAT",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "calvin/MAT",
+   "range": "MAT",
+   "kind": "book",
+   "title": "The Author's Preface",
+   "hash": "d38d9388",
+   "paragraphs": [
+    {
+     "id": "calvin/MAT#p1-3637452e",
+     "text": "All the writings of John Calvin are marked by extraordinary vigor, learning, and judgment. Few of them are so well known as the institutes of the christian religion — a systematic treatise, which, though written at the early age of twenty-four, was universally acknowledged to be a production of the highest ability. Concise and luminous, powerful in argument, scriptural, devout and practical, it has not been superseded by any later work. But the fame which he acquired by the institutes was fully sustained by his expository writings, which possess at least equal claims on the attention of divines."
+    },
+    {
+     "id": "calvin/MAT#p2-12e394f1",
+     "text": "They contributed powerfully to diffuse the pure Gospel of Christ, commanded the applause of all the Reformed Churches, and received even from enemies no mean commendation. More than a century after his valuable life had closed, they occupied a place in every theological library. The learned Matthew Poole, in the preface to his Synopsis, apologizes for the small number of his quotations from them, on the express ground that the Commentaries themselves, he had every reason to believe, were in the hands of all his readers."
+    },
+    {
+     "id": "calvin/MAT#p3-77d45113",
+     "text": "This reputation, after having suffered a partial eclipse, will soon, in all probability, regain its former brightness. The first tendency to this improvement was discovered in a neighboring country, where the distinguishing doctrines of Christianity had long been supplanted by a creed little removed from infidelity. In Germany, Biblical criticism is almost a national pursuit. That unconquerable industry which had already crowned her scholars with laurels in Greek and Roman literature, has given them as unquestionable a pre-eminence in the field of sacred philology. Had such rare attainments been always consecrated to the honor of the Redeemer, every good man would have rejoiced."
+    },
+    {
+     "id": "calvin/MAT#p4-b0a67a62",
+     "text": "Unhappily, they were but too frequently employed in maintaining the most dangerous errors, in opposing every inspired statement which the mind of man is unable fully to comprehend, in divesting religion of its spiritual and heavenly character, and in undermining the whole fabric of revealed truth. But a gracious Providence has raised up other men, whom, though we may not feel ourselves at liberty to subscribe to all their views, we cannot but hail as the friends of evangelical truth, and admire for their holy fortitude in coming"
+    },
+    {
+     "id": "calvin/MAT#p5-6fd09729",
+     "text": "to the help of the Lord, to the help of the Lord against the mighty,\n(Judges 5:23.)",
+     "refs": [
+      {
+       "text": "Judges 5:23",
+       "ref": "JDG.5.23"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p6-8c05605f",
+     "text": "At the head of this illustrious band it is almost superfluous to name Professor Tholuck of Halle, admitted by the most competent judges, both in Britain and on the Continent, to be one of the first biblical scholars of the age. Having been led by his own researches, and by public events, to examine the writings of the Reformer, he hastened to draw the attention of his countrymen to the neglected treasures. His own Commentary on the Epistle to the Romans afforded an opportunity which was eagerly embraced."
+    },
+    {
+     "id": "calvin/MAT#p7-3289298d",
+     "text": "Not satisfied with this brief notice, he wrote an elaborate and masterly dissertation on “The merits of Calvin as an Interpreter of the Holy Scriptures,” a translation of which appeared shortly afterwards in the (American) “Biblical Repository.” He superintended a handsome octavo edition of Calvin’s Commentaries on the New Testament, printed at Berlin, and sold at a moderate price."
+    },
+    {
+     "id": "calvin/MAT#p8-d555145d",
+     "text": "To another eminent interpreter he candidly awards the honor of having led the way in this undertaking. {1} But he was one of the earliest to follow in the path which had been marked out, and has labored, beyond all his contemporaries, to make the Commentaries of Calvin more extensively known, and more highly esteemed."
+    },
+    {
+     "id": "calvin/MAT#p9-7e2420b8",
+     "text": "“To Lucke belongs the honor of having first referred, in the department of exigesis, to Luther, Beza, Calvin, Camerarius, and many other excellent interpreters of the period of the Reformation. He was followed by the writer of these pages in his Commentary on the Epistle to the Romans.” — Literarischer Anzeiger fur 1831. Biblical Repository, July 1832.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/MAT#p10-fc7a18ce",
+     "text": "Our Author has exerted a powerful influence on all succeeding expositors. They have found their interest in listening to his instructions, and have been more deeply indebted to him than is generally known. Many valuable interpretations of passages of Scripture appeared for the first time in his writings, and have ever since been warmly approved. In other cases, the views which had been previously held are placed by him in so strong a light as to remove every doubt, and satisfy the most cautious inquiry."
+    },
+    {
+     "id": "calvin/MAT#p11-6e0dac06",
+     "text": "And yet the stores, from which so much has been drawn, are far from being exhausted, nor is their value greatly lowered by improvements which have been subsequently made. The department of History presents an analogous case. Documents which had been overlooked are carefully examined. Conflicting evidence is more accurately weighed. Important transactions assume a new aspect, or, at least, are altered in their subordinate details. Still, there are historians, in whose narrative the great lines of truth are so powerfully drawn, that the feebler, though more exact, delineations of other men cannot supply their place."
+    },
+    {
+     "id": "calvin/MAT#p12-c28ba4b8",
+     "text": "In the chief moral requisite for such a work Calvin is excelled by none. He is an honest interpreter. No consideration would have induced him to wrest the words of Scripture from their plain meaning. Those who may question his conclusions cannot trace them to an unworthy motive. Timid theologians will be occasionally startled by his expositions. Though they may not absolutely impeach the soundness of his doctrine, they will tremble for the fate of some favorite theory or ingenious argument. With such minds he has no sympathy. He examines the Scriptures with the humility of one who inquires at the oracle of God, (2 Samuel 16:23,) and proclaims the reply with the faith of one who knows that the word of the Lord is tried, (Psalm 18:30.)",
+     "refs": [
+      {
+       "text": "2 Samuel 16:23",
+       "ref": "2SA.16.23"
+      },
+      {
+       "text": "Psalm 18:30",
+       "ref": "PSA.18.30"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p13-592265b7",
+     "text": "Intimately connected with this integrity of purpose is the Catholic spirit which he constantly breathes. His labors are dedicated to no sect, but to the cause of divine truth. If his opinions do not find equal favor with all true Christians, they are made to feel that he addresses them as brethren in Christ Jesus. In his eye the Church of Christ is one. He never forgets the ties which unite all believers to each other and to their exalted Head. Are there any whose sentiments are hardly distinguishable from those things which are most surely believed among us, (Luke 1:1,) and yet who associate with the name of Calvinism all that is stern and repulsive?",
+     "refs": [
+      {
+       "text": "Luke 1:1",
+       "ref": "LUK.1.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p14-839320c5",
+     "text": "Let them follow the expositions of this master in Israel. They will find the most remarkable peculiarities of his creed boldly avowed, but accompanied by other revealed truths to which they had supposed him to be indifferent, and by no ordinary earnestness of practical exhortation. Amidst his severest denunciations of doctrinal error, they will not fail to discover the same enlarged views and Christian forbearance which animated the great apostle of the Gentiles. Rarely will they behold that sentiment more beautifully exemplified,"
+    },
+    {
+     "id": "calvin/MAT#p15-d35cbfeb",
+     "text": "Grace be to all them that love our Lord Jesus Christ in sincerity,\n(Ephesians 6:24.)",
+     "refs": [
+      {
+       "text": "Ephesians 6:24",
+       "ref": "EPH.6.24"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p16-100ec137",
+     "text": "ought not to be a prominent feature in a work essentially popular. But the learning of Calvin manifests itself in the most desirable manner, and adds great weight to his interpretations. Of his acquaintance with Hebrew it is unnecessary now to speak. His familiarity with the Greek language appears less in observations on phrases, or allusions to the various renderings of some passages, than in a close adherence to those shades of meaning which no translation of the Scriptures can convey. Even when he appears to have overlooked or mistaken the words, a reference to the original, which had been studiously kept out of view, will justify the unexpected remark. {2}",
+     "anchor": "Learning"
+    },
+    {
+     "id": "calvin/MAT#p17-6cb21e81",
+     "text": "The observation might be extended to some other expositors, who, with little parade of any kind, are qualified to instruct every class of readers. Those only who have subjected them to a close comparison with the Hebrew and Greek originals can judge of their attainments in criticism. Matthew Henry, though deservedly the most popular of this class, receives less credit than he deserves for the extent and variety of his learning.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/MAT#p18-f4b8adc5",
+     "text": "Origen, Chrysostom, and other Greek Fathers, were among his familiar authors. Classical writers are introduced on every proper occasion, for illustrating a term, or a custom, or the general principles of reasoning. Quotations are made from these writers, and from some of their philosophical treatises, which are seldom even consulted except by those who can read the language with considerable freedom. To say nothing of the Stagyrite, every scholar knows, for example, that no Greek prose offers more serious difficulties than the idiomatic, though fascinating, style of Plato. {3}"
+    },
+    {
+     "id": "calvin/MAT#p19-c21a2a12",
+     "text": "This statement may require both explanation and defense. Many of those who have devoted their attention to Greek literature would be more likely to name Thucydides as an author who had cost them long and severe application. But the difficulties of that historian, though more obvious, are in reality less formidable, and will be found not to arise so directly from any peculiarities of style as from a singular condensation of thought which demands the close and sustained attention of his readers, and sometimes from an affectation of conciseness on the part of the author which leads him into obscurity. The difficulties of Plato are chiefly idiomatic, and do not lie on the surface.",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/MAT#p20-47da5494",
+     "text": "Like those noble performances which are said to indicate the hand of a master in the higher walks of art, in which the uninitiated hardly discover any meaning, but which reveal to the cultivated eye or ear the highest beauty or magnificence of conception, the masterly strokes of Plato are not perceived by ordinary readers, and can only be appreciated by the accomplished scholar. He who reads with case the original Greek of Plato, following out all the windings of his subtle argument, (and Calvin appears to have accomplished this task,) must have previously unraveled the most perplexing intricacies of that language.",
+     "footnote": true
+    },
+    {
+     "id": "calvin/MAT#p21-2d864441",
+     "text": "In that minute analysis which is peculiar to modern criticism, Calvin may have been deficient. That he wanted the skill necessary for such investigations is not so manifest. The absence of those processes by which he arrived at his conclusions makes it difficult to determine how far the subtle elements of language had undergone his scrutiny. If we shall suppose him to have neglected these matters, our astonishment must be the greater that the deductions of recent inquirers should have been so largely anticipated. Conjectures thrown out by Sir Isaac Newton were long afterwards verified by experiments of extreme labor and delicacy. But Calvin speaks habitually with a tone of confidence. We must therefore conclude that, like the shrewd remarks to which the philosopher was pleased to give the name of conjectures, his discoveries were reached by a shorter route, which other minds could with difficulty follow. {4}"
+    },
+    {
+     "id": "calvin/MAT#p22-5943f31c",
+     "text": "It may be proper to mention, that a considerable part of this Preface has already appeared in The Biblical Cabinet, Vol. XXX., prefixed to a translation of Calvin’s Commentaries on the Epistles to the Galatians and Ephesians. With the kind permission of my friend, the publisher of that series, I have transferred it to a place where it is not less appropriate than in its former situation. Some remarks on Calvin’s excellencies as a Commentator, and on the estimation in which he is now held, might be expected to precede the first volume of a modem version of his Commentaries, that has been brought out by the Calvin Translation Society. No change having taken place in the carefully matured views which were formerly expressed, it has been judged advisable to present them in their original form, rather than to leave them out, or to undergo the labor of fresh writing.",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/MAT#p23-3595cb60",
+     "text": "This extraordinary sagacity was accompanied by another quality not less needed in an interpreter, a sound judgment, which leaned neither to ancient usage nor to ingenious novelties, which refused to bow to the authority of great names, and sternly rebuked the most plausible sophistry when opposed to the plain and obvious meaning of Scripture. He took a dispassionate and wide survey, not only of the passage immediately under consideration, but of kindred expressions or sentiments that were found in any of the inspired writers. It was left to the industry of later times to collect parallels, and arrange them on the margin of our Bibles, as an invaluable aid to interpretation. But his own perusal of the sacred volume supplied him largely with such materials, and enabled him to draw them out with instinctive readiness as occasion required."
+    },
+    {
+     "id": "calvin/MAT#p24-9e466055",
+     "text": "As we pass along, we meet with direct quotations, largely but appositely introduced, and tending to confirm the views which he had adopted. Still more frequently we observe a copious use of that phraseology which is peculiar to the sacred writers, and which falls on the pious ear with refreshing melody."
+    },
+    {
+     "id": "calvin/MAT#p25-a6e4ab32",
+     "text": "In him it rises higher than that felicitous application of Scripture which our more elegant writers have cultivated for the purpose of imparting a literary charm to their compositions; for those beauties came to him unsought while he was aiming at something higher than the mere ornaments of diction, and the language of Scripture had been so thoroughly interwoven with his ordinary style, that he must have been frequently unconscious of its presence. To aid the reader in discovering those allusions, the passages from which they have been taken are generally marked."
+    },
+    {
+     "id": "calvin/MAT#p26-0a24b38e",
+     "text": "The references made by our Author himself may be supposed to be abundant, and must have struck many persons as a prominent feature of his writings; but in far more numerous cases, no clue was given to his authorities, and some pains have been taken to supply the omissions."
+    },
+    {
+     "id": "calvin/MAT#p27-e82c366b",
+     "text": "The Latin original has been scrupulously followed. His own vernacular version gives us some idea of the freedom, spirit, and elegance, with which he would have accommodated himself to the taste of the English reader, if it had been executed in our language. But a translator is not permitted to use the same liberties as the author, and faithfulness demands that he shall adhere strictly to the copy which is set before him. The meaning has been given without addition or omission, and even the structure of the sentences has been followed, so far as that could be done without violating the purity of English idiom."
+    },
+    {
+     "id": "calvin/MAT#p28-db258aa0",
+     "text": "To exhibit the peculiar excellencies of such a writer, or, where that could not be done, to find in a modern tongue a suitable equivalent, was no easy task. His admirably concise diction, and rapid but masterly transitions, and above all, that rare felicity of expression for which his severest judges have given him credit, render it difficult to represent the style and manner of so great a master of composition."
+    },
+    {
+     "id": "calvin/MAT#p29-191f6ece",
+     "text": "All the assistance that could be derived from our Author’s French version has been thankfully accepted."
+    },
+    {
+     "id": "calvin/MAT#p30-e029290b",
+     "text": "It would have been unwise as well as ungrateful to leave out of view so authoritative an exposition of his meaning, or to disregard the production of one whose command of his native tongue is acknowledged by the ablest critics to have anticipated the elegancies of a later age. “He wrote in Latin,” says D’Alembert, “as well as is possible in a dead language, and in French with a purity which was extraordinary for his time. This purity, which is to the present day admired by our skillful critics, renders his writings greatly superior to almost all of the same age; as the works of Messieurs de Port Royal are still distinguished on the same account from the barbarous rhapsodies of their opponents and contemporaries.” Amidst the driest details of verbal criticism, there are frequent glimpses of that eloquence which De Thou and other great men regarded with admiration, and which, when aided by the living voice, must have told powerfully on his hearers."
+    },
+    {
+     "id": "calvin/MAT#p31-5126a803",
+     "text": "It must be observed, however, that the Latin and French texts have been treated apart, as if they had not proceeded from the same pen, and have been separated by a broad line which meets the eye of the reader. The old translators sometimes proceeded as if they had not been aware of the vernacular copy, and at other times blended it with the original in so strange a manner, that they appear to follow a path of their own, while they are faithfully tracking the Author’s footsteps."
+    },
+    {
+     "id": "calvin/MAT#p32-05efce03",
+     "text": "In the new translations prepared for the Calvin Society, care has been taken to adhere scrupulously to the Latin text, and at the same time to give the English reader the full benefit of those illustrations which the Author thought fit to employ in submitting the work to the perusal of his countrymen. The French translation has been all along collated with the original; and whenever it contained additional matter, or removed obscurity by greater copiousness of language, or even when a striking phrase occurred, the passages have been exhibited and translated at the bottom of the page."
+    },
+    {
+     "id": "calvin/MAT#p33-b76a5f2e",
+     "text": "partly selected, but chiefly original, have been added. Some are intended to illustrate a remote allusion, to prevent a casual expression from being misunderstood, or to bring out more clearly the Author’s meaning. Others are devoted to history, or to biblical criticism. Those which have been written by myself, and for which I must be held responsible, are marked. Ed. All questions of a doctrinal nature have been excluded from these Notes. The publications of the Calvin Translation Society are addressed to the whole Church of Christ, and ought not to wear the badge of any of the sections into which that Church is unhappily divided. In every thing that relates to doctrine the Author has been left in full possession of the field.",
+     "anchor": "Notes"
+    },
+    {
+     "id": "calvin/MAT#p34-32ca9b51",
+     "text": "It will scarcely be supposed that every interpretation contained in this work has my entire concurrence. The great principles inculcated in the writings of Calvin have my cordial approbation; and, indeed, I could scarcely name a writer with whose views of Divine truth I more fully coincide. As a Commentator, ever since I became acquainted with him, I have been accustomed to assign to him the highest rank, and to receive his expositions with the deepest respect. My labors on this and on a former occasion {5} led me to examine his opinions more closely than before, and have raised him still more highly in my estimation."
+    },
+    {
+     "id": "calvin/MAT#p35-8f23a166",
+     "text": "There are some points on which I feel assured that he mistook the meaning of Scripture; but almost all of them had been little investigated in his day, and do not appear to have been subjected to his usual severity of judgment. Many will wonder that he should contend so earnestly for the identity of John’s baptism with Christ’s baptism, instead of representing them to be two distinct ordinances, instituted for separate purposes, and placed under totally different regulations: but on this question the followers of Christ may agree to differ."
+    },
+    {
+     "id": "calvin/MAT#p36-835ab816",
+     "text": "It will excite more general surprise to find the great Reformer maintaining the right of the civil magistrate to punish heretics, and even to inflict on them the last sentence of the law. Men far inferior to him in learning and ability have avoided mistakes from which his powerful and enlightened mind was not exempted. They ought to regard with admiration and gratitude the conduct of a gracious Providence, which preserved his creed so remarkably free from Romish errors, and enabled him to approach so closely to the mind of the Holy Spirit."
+    },
+    {
+     "id": "calvin/MAT#p37-b5fb8624",
+     "text": "Biblical Cabinet, vol. xxx.",
+     "footnote": true,
+     "label": "5"
+    },
+    {
+     "id": "calvin/MAT#p38-a8eafb58",
+     "text": "A may be expected to resemble other works which bear the same title. Our Author’s delight in brevity, and his extreme aversion to repeat what he had said before, would aid the influence of other reasons for adopting this plan, which are stated by himself towards the conclusion of The Argument. To meet one obvious disadvantage of this arrangement, a Table of the passages expounded, which may enable the reader easily to discover where the exposition is to be found, becomes necessary. Such a Table, together with a list of the passages taken from other books of Scripture which are quoted or illustrated in this work, and a copious Index to the subjects of which it treats, will be given in the Third volume."
+    },
+    {
+     "id": "calvin/MAT#p39-16fc769d",
+     "text": "The old translator of the Harmony, Eusebius Paget, deserves to be honored by the admirers of Calvin. It was indeed to be expected that, after the lapse of nearly three centuries, his version would be found unsuitable to modern taste. But it is highly creditable to his scholarship, and to his scrupulous fidelity to the original, for which his well known integrity, and his warm attachment to the writings of the Reformer, were a sufficient guarantee. His name has come down to us in connection with sermons and other works, which appear to have been much esteemed, but are now little known. “The History of the Bible, briefly collected, by way of Question and Answer,” was one of his productions, and was printed at the end of several of the old editions of the Bible."
+    },
+    {
+     "id": "calvin/MAT#p40-83b1ecda",
+     "text": "This volume is adorned by a well-authenticated likeness of the Reformer. {6} Many will be surprised to trace the lines of extreme old age in the countenance of one who died at the age of fifty-five. But all his biographers agree in stating that, ere he had concluded his fortieth year, the white locks, shrivelled features, and bent shoulders, bespoke Calvin to be already an old man; {7} and that long before other fifteen years had run their course, he seemed as if threescore years and ten, or rather fourscore years, had passed over him, and brought their usual attendants of labor and sorrow, (Psalm 90:10.) His friends observed with grief the forerunners of an event which, when it arrived, they could not but mourn as the premature close of a life so highly valued.",
+     "refs": [
+      {
+       "text": "Psalm 90:10",
+       "ref": "PSA.90.10"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p41-baf7c513",
+     "text": "It is taken from a rare etching by Pierre Woieiriot, goldsmith, and engraver on copper and wood. This artist was born at Bar-le-duc in 1510. He was established at Lyons about the middle of the sixteenth century. His engravings are all distinguished by the monogram which may be observed on the etching itself, surmounted by the small cross of Lorraine. This engraving was issued previous to the death of Calvin, and probably during his last illness, as the likeness bears evident marks of premature decrepitude and debility.",
+     "footnote": true,
+     "label": "6"
+    },
+    {
+     "id": "calvin/MAT#p42-66f0b7b5",
+     "text": "A letter of Calvin to his dear friends, Farel and Viret, dated 30th May, 1540, when he had not comp1eted his thirty-first year, contains the following remarkable passage: “Car si nous voulons bien pourvoir aux profits de l’Eglise, il nous faut appeller a l’office de Pasteurs tels gens, qu’ils puissent quelque iour soustenir la charge apres nous. Combien que ie soye ieune, toutesfois quand ie voy ma debilite et indisposition de mon corps, i’ay soin de ceux qui seront apres nous, comme si i’estoye desia vieil.” — “For if we are desirous to provide for the advantage of the Church, we must call to the office of Pastors such persons as may one day hold the office after us. Though I am young, yet when I perceive my debility and my bodily indisposition, I have anxiety about those who shall come after us, as if I were already old.”",
+     "footnote": true,
+     "label": "7"
+    },
+    {
+     "id": "calvin/MAT#p43-4dced132",
+     "text": "The quaint title-pages of two editions of the French version, together with the “Epistle Dedicatory” of Eusebius Paget, and a fac-simile of his title-page, immediately follow this Preface."
+    },
+    {
+     "id": "calvin/MAT#p44-3536f8aa",
+     "text": "It may be proper to state, in conclusion, that, throughout this work, Calvin’s own version of the three evangelists is adopted, as nearly as the difference of the languages would allow, in preference to our Authorized Version, which would not have rendered equal assistance to the reader in understanding the expositions. Yet the singular coincidence between the two Versions, interrupted chiefly by verbal differences which do not affect the sense, lends countenance to the suggestion of an esteemed friend and fellow-laborer, that King James’s Translators have been more deeply indebted to the labors of Calvin than is generally believed."
+    },
+    {
+     "id": "calvin/MAT#p45-a49c516c",
+     "text": "W. P.\nAuchterarder,\n4th January, 1845."
+    },
+    {
+     "id": "calvin/MAT#p46-d18e7ba6",
+     "text": "In order to read with profit the Evangelical history, it is of great importance to understand the meaning of the word Gospel. {1} We shall thus be enabled to ascertain what design those heavenly witnesses had in writing, and to what object the events related by them must be referred. That their histories did not receive this name from others, but were so denominated by the Authors, is evident from Mark, who expressly says (1:1) that he relates the beginning of the Gospel of Jesus Christ. There is one passage in the writings of Paul, from which above all others a clear and certain definition of the word Gospel may be obtained, where he tells us that it...",
+     "refs": [
+      {
+       "text": "1:1",
+       "ref": "MRK.1.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p47-6009e69d",
+     "text": "Evangelium in Latin, Evangile in French, and Evangell in old English, are derived, with little alteration, from the Greek word εὐαγγέλιον, which is compounded of εὖ, well, and ἀγγελία, a message, and signifies glad news. The English word Gospel is of Saxon derivation, and is determined by its etymology to signify God’s word; but must have acquired, at a very early period, the meaning of the Greek word for which it has been adopted as a translation. In the margin of the celebrated Geneva Testament, printed A.D. 1557, Gospel is thus defined: — “This worde signifieth good tidinges, and is taken here for the storie which conteineth the joyful message of the comming of the Sonne of God.” — Ed",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/MAT#p48-f3ed8ebb",
+     "text": "was promised by God in the Scriptures, through the prophets, concerning his Son Jesus Christ our Lord, who was made of the seed of David according to the flesh, and declared to be the Son of God with power, according to the Spirit of sanctification, by the resurrection from the dead,\n(Romans 1:2-4.)",
+     "refs": [
+      {
+       "text": "Romans 1:2-4",
+       "ref": "ROM.1.2-4"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p49-78f5ed64",
+     "text": "First, this passage shows that the Gospel is a testimony of the revealed salvation, which had been formerly promised to the Fathers in an uninterrupted succession of ages. It points out, at the same time, a distinction between the promises which kept the hope of the people in suspense, and this joyful message, by which God declares that he has accomplished those things which he had formerly required them to expect. {2} In the same manner he states a little afterwards, that in the Gospel"
+    },
+    {
+     "id": "calvin/MAT#p50-f31edd19",
+     "text": "“Ce qu’il avoit auparavant commande a tous fideles d’attendre et esperer;” — “which he had formerly commanded all believers to expect and hope.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/MAT#p51-a0e9485d",
+     "text": "the righteousness of God is openly manifested, which was testified by the Law and the Prophets, (Romans 3:21.)",
+     "refs": [
+      {
+       "text": "Romans 3:21",
+       "ref": "ROM.3.21"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p52-5af75c40",
+     "text": "The same apostle calls it, in another passage, an Embassy by which the reconciliation of the world to God, once accomplished by the death of Christ, is daily offered to men, (2 Corinthians 5:20.)",
+     "refs": [
+      {
+       "text": "2 Corinthians 5:20",
+       "ref": "2CO.5.20"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p53-536a0833",
+     "text": "Secondly, Paul means not only that Christ is the pledge of all the blessings that God has ever promised, but that we have in him a full and complete exhibition of them; as he elsewhere declares that all the promises of God in him are yea, and in him amen, (2 Corinthians 1:20.) And, indeed, the freely bestowed adoption, by which we are made sons of God, as it proceeds from the good pleasure which the Father had from eternity, has been revealed to us in this respect, that Christ (who alone is the Son of God by nature) has clothed himself with our flesh, and made us his brethren. That satisfaction by which sins are blotted out, so that we are no longer under the curse and the sentence of, death, is to be found nowhere else than in the sacrifice of his death. Righteousness, and salvation, and perfect happiness, are founded on his resurrection.",
+     "refs": [
+      {
+       "text": "2 Corinthians 1:20",
+       "ref": "2CO.1.20"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p54-b4760a25",
+     "text": "The Gospel, therefore, is a public exhibition of the Son of God manifested in the flesh, (1 Timothy 3:16,) to deliver a ruined world, and to restore men from death to life. It is justly called a good and joyful message, for it contains perfect happiness. Its object is to commence the reign of God, and by means of our deliverance from the corruption of the flesh, and of our renewal by the Spirit, to conduct us to the heavenly glory. For this reason it is often called the kingdom of heaven, and the restoration to a blessed life, which is brought to us by Christ, is sometimes called the kingdom of God: as when Mark says that Joseph waited for the kingdom of God, (Mark 15:43,) he undoubtedly refers to the coming of the Messiah.",
+     "refs": [
+      {
+       "text": "1 Timothy 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Mark 15:43",
+       "ref": "MRK.15.43"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p55-6c60e589",
+     "text": "Hence it is evident that the word Gospel applies properly to the New Testament, and that those writers are chargeable with a want of precision, {3} who say that it was common to all ages, and who suppose that the Prophets, equally with the Apostles, were ministers of the Gospel. Widely different is the account which Christ gives us, when he says, that"
+    },
+    {
+     "id": "calvin/MAT#p56-c0caa733",
+     "text": "“Que c’est aucunement confondre les termes;” — “that it is in a manner a confounding of words.”",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/MAT#p57-272b922d",
+     "text": "the law and the prophets were till John, and that since that time the kingdom of God began to be preached, (Luke 16:16.)",
+     "refs": [
+      {
+       "text": "Luke 16:16",
+       "ref": "LUK.16.16"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p58-618061f9",
+     "text": "Mark, too, as we mentioned a little ago, declares that the preaching of John was the beginning of the Gospel, (John 1:1.) Again, the four histories, which relate how Christ discharged the office of Mediator, have with great propriety received this designation. As the birth, death, and resurrection of Christ contain the whole of our salvation, and are therefore the peculiar subject of the Gospel, the name of Evangelists is justly and suitably applied to those who place before our eyes Christ who has been sent by the Father, that our faith may acknowledge him to be the Author of a blessed life.",
+     "refs": [
+      {
+       "text": "John 1:1",
+       "ref": "JHN.1.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p59-95aa76a3",
+     "text": "The power and results of his coming are still more fully expressed in other books of the New Testament. And even in this respect John differs widely from the other three Evangelists: for he is almost wholly occupied in explaining the power of Christ, and the advantages which we derive from him; while they insist more fully on one point, that our Christ is that Son of God who had been promised to be the Redeemer of the world."
+    },
+    {
+     "id": "calvin/MAT#p60-72080889",
+     "text": "They interweave, no doubt, the doctrine which relates to the office of Christ, and inform us what is the nature of his grace, and for what purpose he has been given to us; but they are principally employed, as I have said, in showing that in the person of Jesus Christ has been fulfilled what God had promised from the beginning. {4} They had no intention or design to abolish by their writings the law and the prophets; as some fanatics dream that the Old Testament is superfluous, now that the truth of heavenly wisdom has been revealed to us by Christ and his Apostles."
+    },
+    {
+     "id": "calvin/MAT#p61-07b899c5",
+     "text": "On the contrary, they point with the finger to Christ, and admonish us to seek from him whatever is ascribed to him by the law and the prophets. The full profit and advantage, therefore, to be derived from the reading of the Gospel will only be obtained when we learn to connect it with the ancient promises."
+    },
+    {
+     "id": "calvin/MAT#p62-ffc955a6",
+     "text": "“Des le commencement du monde;” — “from the beginning of the world.”",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/MAT#p63-edcfacd9",
+     "text": "With regard to the three writers of the Evangelical history, whom I undertake to expound, Matthew is sufficiently known. Mark is generally supposed to have been the private friend and disciple of Peter."
+    },
+    {
+     "id": "calvin/MAT#p64-aa7de253",
+     "text": "It is even believed that he wrote the Gospel, as it was dictated to him by Peter, and thus merely performed the office of an amanuensis or clerk. {5} But on this subject we need not give ourselves much trouble, for it is of little importance to us, provided only we believe that he is a properly qualified and divinely appointed witness, who committed nothing to writing, but as the Holy Spirit directed him and guided his pen. There is no ground whatever for the statement of Jerome, that his Gospel is an abridgment of the Gospel by Matthew. He does not everywhere adhere to the order which Matthew observed, and from the very commencement handles the subjects in a different manner."
+    },
+    {
+     "id": "calvin/MAT#p65-b7367c39",
+     "text": "Some things, too, are related by him which the other had omitted, and his narrative of the same event is sometimes more detailed. It is more probable, in my opinion — and the nature of the case warrants the conjecture — that he had not seen Matthew’s book when he wrote his own; so far is he from having expressly intended to make an abridgment."
+    },
+    {
+     "id": "calvin/MAT#p66-942a21ef",
+     "text": "“En sorte qu il ait seulement este escrivain sous luy;” — “so that he was only a writer under him.”",
+     "footnote": true,
+     "label": "5"
+    },
+    {
+     "id": "calvin/MAT#p67-e7540c6a",
+     "text": "I have the same observation to make respecting Luke: for we will not say that the diversity which we perceive in the three Evangelists was the object of express arrangement, but as they intended to give an honest narrative of what they knew to be certain and undoubted, each followed that method which he reckoned best. Now as this did not happen by chance, but by the direction of Divine Providence, so under this diversity in the manner of writing the Holy Spirit suggested to them an astonishing harmony, which would almost be sufficient of itself to secure credit to them, if there were not other and stronger evidences to support their authority."
+    },
+    {
+     "id": "calvin/MAT#p68-78734796",
+     "text": "Luke asserts plainly enough that he is the person who attended Paul. But it is a childish statement which Eusebius makes, that Paul is the Author of the Gospel which bears the name of Luke, because in one passage he mentions his Gospel, {6} (2 Timothy 2:8.) As if what follows did not make it clear that Paul is speaking of his whole preaching, and not of a single book: for he adds, for which I suffer trouble, even to bonds, (2 Timothy 2:9.) Now, it is certain that he was not held guilty {7} of having written a book, but of having administered and preached with the living voice the doctrine of Christ.",
+     "refs": [
+      {
+       "text": "2 Timothy 2:8",
+       "ref": "2TI.2.8"
+      },
+      {
+       "text": "2 Timothy 2:9",
+       "ref": "2TI.2.9"
+      }
+     ]
+    },
+    {
+     "id": "calvin/MAT#p69-c8622779",
+     "text": "Eusebius, whose industry was great, discovers here a singular want of judgment in collecting without discrimination such gross absurdities. On this head I have thought it necessary to warn my readers, that they may not be shocked at fooleries of the same description which occur in every part of his history."
+    },
+    {
+     "id": "calvin/MAT#p70-1a11ac3c",
+     "text": "“Se fondant sur une passage ou il fait mention de son Evangile;” — “founding on a passage in which he makes mention of his Gospel,” (according to my gospel.)",
+     "footnote": true,
+     "label": "6"
+    },
+    {
+     "id": "calvin/MAT#p71-66c25b90",
+     "text": "“Il n’avoit este accuse, et emprisonne;” — “he was not accused and imprisoned.”",
+     "footnote": true,
+     "label": "7"
+    },
+    {
+     "id": "calvin/MAT#p72-9739ee59",
+     "text": "Of that method of interpretation which I have chosen to adopt, and which it may be many persons, at first sight, will not approve, it will be proper to give some account for the satisfaction of pious and candid readers. First, it is beyond all dispute, that it is impossible to expound, in a proper and successful manner, any one of the Evangelists, without comparing him with the other two; and, accordingly, faithful and learned commentators spend a very great portion of their labor on reconciling the narratives of the three Evangelists."
+    },
+    {
+     "id": "calvin/MAT#p73-b4b9ed3f",
+     "text": "But as it frequently happens that persons of ordinary abilities find the comparison to be no easy matter, when it is necessary to pass at every turn from the one to the other, I thought that it might prove to be a seasonable and useful abridgment of their labor, if I were to arrange the three histories in one unbroken chain, or in a single picture, in which the reader may perceive at a glance the resemblance or diversity that exists. In this way I shall leave out nothing that has been written by any of the three Evangelists; and whatever may be found in more than one of them will be collected into one place."
+    },
+    {
+     "id": "calvin/MAT#p74-9da7cbd8",
+     "text": "Whether or not I have succeeded to my expectation, the reader must decide by his own experience. So far from claiming the praise of having brought out something new, I readily acknowledge, as becomes an honest man, that I have adopted this method in imitation of others. Bucer, a man of revered memory, and an eminent teacher of the Church of God, who above all others appears to me to have labored successfully in this field, has been especially my model. As he availed himself of the labors of the ancients who had traveled this road before him, so my toils have been not a little alleviated by his industry and application. Where I use the liberty of differing from him, (which I have freely done, whenever it was necessary,) Bucer himself, if he were still an inhabitant of the earth, would not be displeased."
+    }
+   ]
+  }
+ ]
+}

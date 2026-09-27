@@ -1,0 +1,548 @@
+{
+ "source": "poole",
+ "book": "GEN",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "poole/GEN.8",
+   "range": "GEN.8",
+   "kind": "chapter",
+   "hash": "79a1fb3b",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8#p1-79a1fb3b",
+     "text": "The waters abate, Gen 8:1-3. The ark rests on Mount Ararat, Gen 8:4. The day on which the tops of the mountians were seen, noted, Gen 8:5. Noah opens the window of the ark, Gen 8:6; sends forth a raven, Gen 8:7; after that a dove, Gen 8:8, which returned, Gen 8:9. He sends the dove out a second time, Gen 8:10, which returns with an olive leaf, Gen 8:11. He sends her out again, and she returns not, Gen 8:12. The earth dry, Gen 8:13-14. God commands Noah and his family to come out, Gen 8:15-17, which they do, Gen 8:18-19. Noah builds an altar, and sacrifices, Gen 8:20. God accepts it, and promises not to drown the world again, Gen 8:21, but to continue the seasons of the year, Gen 8:22.",
+     "refs": [
+      {
+       "text": "Gen 8:1-3",
+       "ref": "GEN.8.1-3"
+      },
+      {
+       "text": "Gen 8:4",
+       "ref": "GEN.8.4"
+      },
+      {
+       "text": "Gen 8:5",
+       "ref": "GEN.8.5"
+      },
+      {
+       "text": "Gen 8:6",
+       "ref": "GEN.8.6"
+      },
+      {
+       "text": "Gen 8:7",
+       "ref": "GEN.8.7"
+      },
+      {
+       "text": "Gen 8:8",
+       "ref": "GEN.8.8"
+      },
+      {
+       "text": "Gen 8:9",
+       "ref": "GEN.8.9"
+      },
+      {
+       "text": "Gen 8:10",
+       "ref": "GEN.8.10"
+      },
+      {
+       "text": "Gen 8:11",
+       "ref": "GEN.8.11"
+      },
+      {
+       "text": "Gen 8:12",
+       "ref": "GEN.8.12"
+      },
+      {
+       "text": "Gen 8:13-14",
+       "ref": "GEN.8.13-14"
+      },
+      {
+       "text": "Gen 8:15-17",
+       "ref": "GEN.8.15-17"
+      },
+      {
+       "text": "Gen 8:18-19",
+       "ref": "GEN.8.18-19"
+      },
+      {
+       "text": "Gen 8:20",
+       "ref": "GEN.8.20"
+      },
+      {
+       "text": "Gen 8:21",
+       "ref": "GEN.8.21"
+      },
+      {
+       "text": "Gen 8:22",
+       "ref": "GEN.8.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.1",
+   "range": "GEN.8.1",
+   "kind": "passage",
+   "hash": "8dfb14de",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.1#p1-692f190f",
+     "text": "i.e. he showed by his actions that he minded and cared for him, or pitied and succoured him. God is said to remember his people, when after some delays or suspensions of his favour he returns and shows kindness to them, as Gen 19:29, Gen 30:22, Exo 32:13 Job 14:13 Psa 132:1. As God punished the beasts for man’s sin, so now he favours them for man’s sake.",
+     "anchor": "God remembered Noah",
+     "refs": [
+      {
+       "text": "Gen 19:29",
+       "ref": "GEN.19.29"
+      },
+      {
+       "text": "Gen 30:22",
+       "ref": "GEN.30.22"
+      },
+      {
+       "text": "Exo 32:13",
+       "ref": "EXO.32.13"
+      },
+      {
+       "text": "Job 14:13",
+       "ref": "JOB.14.13"
+      },
+      {
+       "text": "Psa 132:1",
+       "ref": "PSA.132.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.1#p2-f00ecd74",
+     "text": "a drying or burning wind, like that of Exo 14:21, which had a natural power to dry up the waters; but that was heightened by the assistance of a higher and miraculous operation of God.",
+     "anchor": "God made a wind to pass",
+     "refs": [
+      {
+       "text": "Exo 14:21",
+       "ref": "EXO.14.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.4",
+   "range": "GEN.8.4",
+   "kind": "passage",
+   "hash": "1c27dafc",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.4#p1-1c1f1cd1",
+     "text": "from the beginning, not of the flood, but of the year, as appears by comparing Gen 7:11, and Gen 8:13-14,",
+     "anchor": "In the seventh month",
+     "refs": [
+      {
+       "text": "Gen 7:11",
+       "ref": "GEN.7.11"
+      },
+      {
+       "text": "Gen 8:13-14",
+       "ref": "GEN.8.13-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.4#p2-333ef1c8",
+     "text": "upon one of the mountains of Ararat; by a frequent enallage of the number, as Jud 12:7 Mat 21:5. And by Ararat is here commonly and rightly understood Armenia, as appears both by comparing Isa 37:38 Jer 51:27, and by the testimony of ancient writers, produced by Josephus and others to this purpose; and by the great height of those mountains, and by its nearness to the place where the first men lived; this great vessel not being fitted for sailing to remote places, but only for the receipt and preservation of men and other creatures in it.",
+     "anchor": "the ark rested",
+     "refs": [
+      {
+       "text": "Jud 12:7",
+       "ref": "JUD.12.7"
+      },
+      {
+       "text": "Mat 21:5",
+       "ref": "MAT.21.5"
+      },
+      {
+       "text": "Isa 37:38",
+       "ref": "ISA.37.38"
+      },
+      {
+       "text": "Jer 51:27",
+       "ref": "JER.51.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.7",
+   "range": "GEN.8.7",
+   "kind": "passage",
+   "hash": "5dc11d69",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.7#p1-06227319",
+     "text": "a fit messenger for that purpose, because it smells dead carcasses at a great distance, and flies far, and then returneth to its former habitation with something in its bill.",
+     "anchor": "He sent forth a raven"
+    },
+    {
+     "id": "poole/GEN.8.7#p2-37220a87",
+     "text": "Heb. going and returning; i.e. went forth hither and thither; now forward, then backward; sometimes going from the ark, and sometimes returning to the ark, though never entering into it again. Not as if she returned afterwards; the phrase implies that she never returned. And so the word until is often used, as 2Sa 6:23, Michal had no child until the day of her death, i.e. never had a child. See also Psa 110:1 Mat 1:25.",
+     "anchor": "To and fro",
+     "refs": [
+      {
+       "text": "2Sa 6:23",
+       "ref": "2SA.6.23"
+      },
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      },
+      {
+       "text": "Mat 1:25",
+       "ref": "MAT.1.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.8",
+   "range": "GEN.8.8",
+   "kind": "passage",
+   "hash": "0dcc8cdb",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.8#p1-0dcc8cdb",
+     "text": "The dove flies lower and longer than the raven, and is more sociable and familiar with man, and more constant to its accustomed dwelling, and more loving and faithful to its mate, and therefore more likely to return with some discovery."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.9",
+   "range": "GEN.8.9",
+   "kind": "passage",
+   "hash": "4dcf8c9f",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.9#p1-d5208183",
+     "text": "because the tops of the hills which then appeared were either muddy and dirty, or unobserved by the dove, as not soaring so high; whence the doves are emphatically called the doves of the valleys, Eze 7:16.",
+     "anchor": "The dove found no rest for the sole of her foot",
+     "refs": [
+      {
+       "text": "Eze 7:16",
+       "ref": "EZK.7.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.9#p2-de86d1e8",
+     "text": "her former acquaintance with Noah, and her present necessity, making her more tractable.",
+     "anchor": "He took her, and pulled her in"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.11",
+   "range": "GEN.8.11",
+   "kind": "passage",
+   "hash": "fbdf505e",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.11#p1-8b234fcd",
+     "text": "as the manner of doves is, partly for better accommodation, both for food and lodging, than yet she could meet with abroad; and partly from her love to her mate.",
+     "anchor": "The dove came in to him in the evening"
+    },
+    {
+     "id": "poole/GEN.8.11#p2-90884d1e",
+     "text": "In her mouth was an olive leaf."
+    },
+    {
+     "id": "poole/GEN.8.11#p3-38c16053",
+     "text": "Whence was this leaf, when trees had been so generally overthrown and rooted up by the deluge?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/GEN.8.11#p4-08e684d8",
+     "text": "Answ."
+    },
+    {
+     "id": "poole/GEN.8.11#p5-fec2d495",
+     "text": "1. Many trees might be preserved by an advantageous situation, between the rocks or hills which broke the force of the waters."
+    },
+    {
+     "id": "poole/GEN.8.11#p6-58c7da7b",
+     "text": "2. It is probable that God, by his powerful providence, preserved the plants and trees for future ages; and therefore there is no mention of any of their roots or seeds preserved in the ark."
+    },
+    {
+     "id": "poole/GEN.8.11#p7-27ab8470",
+     "text": "3. The olive-tree especially will not only stand, but live and flourish under the waters, as Pliny, 1. 13. c. 25, and 16. 20, and Theophrastus, 4. 8, observe. Add, that the word here rendered leaf signifies also a tender branch."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.12",
+   "range": "GEN.8.12",
+   "kind": "passage",
+   "hash": "491a124a",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.12#p1-491a124a",
+     "text": "Finding convenient food and resting place upon the earth, and preferring her freedom before her mate: possibly she might lose the sight of the ark, and forget or mistake the way to it."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.13",
+   "range": "GEN.8.13",
+   "kind": "passage",
+   "hash": "a32fca7d",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.13#p1-a32fca7d",
+     "text": "The words month and day are ofttimes, for brevity sake, omitted by the Hebrews, as being easily understood. Thus the first of the feast, Mat 26:17, is the first day of the feast, Mar 14:12.",
+     "refs": [
+      {
+       "text": "Mat 26:17",
+       "ref": "MAT.26.17"
+      },
+      {
+       "text": "Mar 14:12",
+       "ref": "MRK.14.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.14",
+   "range": "GEN.8.14",
+   "kind": "passage",
+   "hash": "098a4535",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.14#p1-098a4535",
+     "text": "Not only from water, as it was Gen 8:13, but from mud and dirt also. So the flood continued ten days more than a year, by comparing this with Gen 7:11.",
+     "refs": [
+      {
+       "text": "Gen 8:13",
+       "ref": "GEN.8.13"
+      },
+      {
+       "text": "Gen 7:11",
+       "ref": "GEN.7.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.16",
+   "range": "GEN.8.16",
+   "kind": "passage",
+   "hash": "3b19de39",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.16#p1-3b19de39",
+     "text": "As Noah expected the command of God for his going into the ark, Gen 7:1-2, so for his coming forth of it.",
+     "refs": [
+      {
+       "text": "Gen 7:1-2",
+       "ref": "GEN.7.1-2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.17",
+   "range": "GEN.8.17",
+   "kind": "passage",
+   "hash": "e711aa6f",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.17#p1-139f1695",
+     "text": "How could these creatures which came out of the ark in Asia get thence to America, or to the islands remote from the continent?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/GEN.8.17#p2-5f59d5fd",
+     "text": "1. As for America, it is thought by divers learned men, that it is either joined to this continent, or separated from it only by a narrow sea, which divers living creatures could easily swim over.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/GEN.8.17#p3-2626cecd",
+     "text": "2. Many living creatures are, and always were, transported by men in their vessels, either for their supply, or profit, or diversion, or other ends, and thence might easily be propagated there."
+    },
+    {
+     "id": "poole/GEN.8.17#p4-e8c2fd23",
+     "text": "3. The same God who made all these creatures, and caused them to come first to Adam, and afterwards to Noah, could afterwards both incline and empower them to go whither he pleased, without the advice of these vain men, who will believe nothing of God which themselves either do not see or cannot do."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.20",
+   "range": "GEN.8.20",
+   "kind": "passage",
+   "hash": "12a83502",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.20#p1-9d22e15e",
+     "text": "This is the first altar we read of, but not the first which was built; for the sacrifices which were offered before, Gen 4:3-4, presuppose an altar. Therefore it is no sufficient evidence that such things were not done because they are not said to be done in Scripture; which will be a useful consideration for the understanding of many passages in Scripture hereafter.",
+     "refs": [
+      {
+       "text": "Gen 4:3-4",
+       "ref": "GEN.4.3-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.20#p2-1614ace4",
+     "text": "The first thing Noah doth, is to pay his debt of justice and gratitude to that God which had so miraculously preserved him, and restored him to his ancient and proper habitation. God expects to be served in the first place. What beasts were clean and what unclean, see Gen 7:2 Lev 11:2, &c.",
+     "refs": [
+      {
+       "text": "Gen 7:2",
+       "ref": "GEN.7.2"
+      },
+      {
+       "text": "Lev 11:2",
+       "ref": "LEV.11.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.21",
+   "range": "GEN.8.21",
+   "kind": "passage",
+   "hash": "adb04c70",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.21#p1-22f46054",
+     "text": "i.e. graciously accepted the person and faith and praise offering of Noah, and was as well pleased therewith as men use to be with a sweet smell;",
+     "anchor": "The Lord smelled a sweet savour"
+    },
+    {
+     "id": "poole/GEN.8.21#p2-8c926b34",
+     "text": "i.e. determined within himself, and expressed so much to Noah. The Hebrew preposition el sometimes signifies in, as Gen 21:6 1Sa 27:1. Others, said to his heart, i.e. spoke to the heart of Noah, who is mentioned, Gen 8:20.",
+     "anchor": "and the Lord said in his heart",
+     "refs": [
+      {
+       "text": "Gen 21:6",
+       "ref": "GEN.21.6"
+      },
+      {
+       "text": "1Sa 27:1",
+       "ref": "1SA.27.1"
+      },
+      {
+       "text": "Gen 8:20",
+       "ref": "GEN.8.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.21#p3-64962cd0",
+     "text": "in Scripture use, signifies to comfort.",
+     "anchor": "To speak to the heart"
+    },
+    {
+     "id": "poole/GEN.8.21#p4-338f844c",
+     "text": "i.e. the whole earth, with this kind of curse, with another deluge. Otherwise God doth not hereby tie his hands, that he may not either destroy a particular land by a deluge, which hath been done since, or destroy the world by fire when he sees fit, as he hath declared he will do.",
+     "anchor": "Will not again curse the ground"
+    },
+    {
+     "id": "poole/GEN.8.21#p5-2b15bf30",
+     "text": "The reason contained in these words is this: Since all men’s hearts are naturally corrupt, and from that filthy spring wicked actions will be continually flowing forth into the world; and consequently, if I should be severe to punish men according to their sins, I should do nothing but send one deluge after another. Or these words may be joined with the former, and the sense may be this: I will not again destroy the earth with a deluge",
+     "anchor": "For the imagination of man’s heart is evil"
+    },
+    {
+     "id": "poole/GEN.8.21#p6-8f75975c",
+     "text": "or for man’s sin, or because of the imagination, & c., i.e. because his heart is corrupt, and his actions are agreeable to it, which was the cause of the last deluge. Or the particle chi may be rendered although, as it is frequently taken, as Exo 5:11, Exo 13:17, Exo 34:9, Jos 17:13 Psa 25:11, Psa 41:5; and so the sense is plain, I will not again destroy the earth, although the imagination, & c., i.e. although I have just cause to do so. Or, from his very childhood and infancy, as the Chaldee and Greek interpreters translate it.",
+     "anchor": "for man’s sake",
+     "refs": [
+      {
+       "text": "Exo 5:11",
+       "ref": "EXO.5.11"
+      },
+      {
+       "text": "Exo 13:17",
+       "ref": "EXO.13.17"
+      },
+      {
+       "text": "Exo 34:9",
+       "ref": "EXO.34.9"
+      },
+      {
+       "text": "Jos 17:13",
+       "ref": "JOS.17.13"
+      },
+      {
+       "text": "Psa 25:11",
+       "ref": "PSA.25.11"
+      },
+      {
+       "text": "Psa 41:5",
+       "ref": "PSA.41.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.8.21#p7-49aa113e",
+     "text": "i.e. kill or destroy, as the word smiting is taken, Exo 21:18 Num 14:12, Num 35:16, Deu 28:22, Deu 28:27, Amos 4:9.",
+     "anchor": "Neither will I again smite",
+     "refs": [
+      {
+       "text": "Exo 21:18",
+       "ref": "EXO.21.18"
+      },
+      {
+       "text": "Num 14:12",
+       "ref": "NUM.14.12"
+      },
+      {
+       "text": "Num 35:16",
+       "ref": "NUM.35.16"
+      },
+      {
+       "text": "Deu 28:22",
+       "ref": "DEU.28.22"
+      },
+      {
+       "text": "Deu 28:27",
+       "ref": "DEU.28.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.8.22",
+   "range": "GEN.8.22",
+   "kind": "passage",
+   "hash": "b9e10743",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.8.22#p1-16902047",
+     "text": "viz. in this estate; for though it seems probable that the substance of the earth will abide for ever, after the dissolution of the world by fire; yet that will be in another manner, and for other purposes, and then there will be no need of",
+     "anchor": "While the earth remaineth"
+    },
+    {
+     "id": "poole/GEN.8.22#p2-08b05407",
+     "text": "or",
+     "anchor": "seed-time"
+    },
+    {
+     "id": "poole/GEN.8.22#p3-2292e964",
+     "text": "& c.",
+     "anchor": "harvest"
+    },
+    {
+     "id": "poole/GEN.8.22#p4-1f265830",
+     "text": "This distinction in a manner ceased in the ark, the heavens being covered, and all its lights eclipsed by such thick and black clouds, as never were before nor since.",
+     "anchor": "Day and night"
+    }
+   ]
+  }
+ ]
+}

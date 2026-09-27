@@ -1,0 +1,1127 @@
+{
+ "source": "poole",
+ "book": "REV",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/REV.1",
+   "range": "REV.1",
+   "kind": "chapter",
+   "hash": "2378b8be",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1#p1-c35d699e",
+     "text": "Rev 1:1-3 The preface.",
+     "refs": [
+      {
+       "text": "Rev 1:1-3",
+       "ref": "REV.1.1-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1#p2-c292d031",
+     "text": "Rev 1:4-6 John’s salutation to the seven churches of Asia.",
+     "refs": [
+      {
+       "text": "Rev 1:4-6",
+       "ref": "REV.1.4-6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1#p3-47b19f7c",
+     "text": "Rev 1:7 The coming of Christ,",
+     "refs": [
+      {
+       "text": "Rev 1:7",
+       "ref": "REV.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1#p4-fa330e48",
+     "text": "Rev 1:8 his eternal majesty.",
+     "refs": [
+      {
+       "text": "Rev 1:8",
+       "ref": "REV.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1#p5-8cc52082",
+     "text": "Rev 1:9-20 John relateth his vision of the Son of man with the",
+     "refs": [
+      {
+       "text": "Rev 1:9-20",
+       "ref": "REV.1.9-20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.1",
+   "range": "REV.1.1",
+   "kind": "passage",
+   "hash": "9c72635f",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.1#p1-f48cc62e",
+     "text": "seven stars and the seven golden candlesticks."
+    },
+    {
+     "id": "poole/REV.1.1#p2-e4a6d5f9",
+     "text": "the Apocalypse, (as this book is sometimes called), that is, the discovering or unveiling of some hidden things; so the word revelation signifieth. The Greek word is often used in the New Testament, and is ordinarily translated so. It is called The Revelation of Jesus Christ because Christ received it from his Father, as the next words show.",
+     "anchor": "The Revelation of Jesus Christ"
+    },
+    {
+     "id": "poole/REV.1.1#p3-6c94aefc",
+     "text": "as he was Mediator: by God, here, is to be understood the Father, not exclusively to the Son, as if he were not God, but to show the order of working in the Holy Trinity, Joh 7:16 Joh 14:10. Christ in his state of humiliation is said to learn of the Father; in his state of exaltation, to receive from the Father.",
+     "anchor": "Which God gave unto him",
+     "refs": [
+      {
+       "text": "Joh 7:16",
+       "ref": "JHN.7.16"
+      },
+      {
+       "text": "Joh 14:10",
+       "ref": "JHN.14.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.1#p4-fc4e9fea",
+     "text": "to John, and by him to all saints that will be studious of things revealed.",
+     "anchor": "To show unto his servants"
+    },
+    {
+     "id": "poole/REV.1.1#p5-2132e64b",
+     "text": "α δει γενεσθαι εν ταχει. This phrase puts us out of doubt, that this book is not a relation or narrative of things past, but a revelation or prediction of things to come: see also Rev 22:6,16. Which makes me wonder at the confidence of a learned annotator of our that all things here relate, either to the siege of Jerusalem (which was past more than twenty years before this Revelation to St. John), or to pagan Rome, which, indeed, continued two hundred and odd years after this. But his notion is contrary to the general sense of all interpreters, whether the ancient fathers or modern writers.",
+     "anchor": "Things which must shortly come to pass",
+     "refs": [
+      {
+       "text": "Rev 22:6",
+       "ref": "REV.22.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.1#p6-213b27bc",
+     "text": "The phrase, indeed, signifies shortly, but never what was past, nor always what shall in a few days come to pass; see Luk 18:8 Rom 16:20; though indeed sometimes it signifies the time immediately following a command, as Act 12:7 Act 22:18: and considering it is God’s phrase, to whom a thousand years are but as yesterday, Psa 90:4, and who calls the things that are not as if they were, and who manifestly calls all those years between Christ’s coming and the end of the world (almost one thousand seven hundred of which are past already) the last days, we may allow him to say, those things should be shortly, which soon after should begin to be effected, though not finished till Christ’s second coming.",
+     "refs": [
+      {
+       "text": "Luk 18:8",
+       "ref": "LUK.18.8"
+      },
+      {
+       "text": "Rom 16:20",
+       "ref": "ROM.16.20"
+      },
+      {
+       "text": "Act 12:7",
+       "ref": "ACT.12.7"
+      },
+      {
+       "text": "Act 22:18",
+       "ref": "ACT.22.18"
+      },
+      {
+       "text": "Psa 90:4",
+       "ref": "PSA.90.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.1#p7-ae9e6323",
+     "text": "Though therefore we may allow this verse the key to open the whole Apocalypse, yet we must judge the learned author hath turned it the wrong way. Christ had foretold the ruin of Jerusalem, Mat 24:1-51, nor was it now the matter of a prophecy, but history. The first six seals plainly show the state of the Christian church under Rome pagan; what shall we say to all things represented under the seventh seal, &c.?",
+     "refs": [
+      {
+       "text": "Mat 24:1-51",
+       "ref": "MAT.24.1-51"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.1#p8-177661e5",
+     "text": "first by one angel, and then by another, or (possibly) constantly by the same.",
+     "anchor": "And he sent and signified it by his angel"
+    },
+    {
+     "id": "poole/REV.1.1#p9-a21d6d22",
+     "text": "who this John was, we shall declare further, Rev 1:2,4.",
+     "anchor": "Unto his servant John",
+     "refs": [
+      {
+       "text": "Rev 1:2",
+       "ref": "REV.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.2",
+   "range": "REV.1.2",
+   "kind": "passage",
+   "hash": "31266528",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.2#p1-554058fa",
+     "text": "this phrase determines the controversy about the penman of this part of holy writ, and puts it out of doubt that it was John the apostle and evangelist; the phrase so agrees to Joh 1:19,32,34 19:35. The word in the Greek signifies, bare testimony to, or of, the word of God. Some understand Christ, so called, 1Jn 1:2. Some would have the gospel meant by it; and if any think this the more probable sense, because, though Christ be elsewhere called the Word, yet he is not called the word of God; and it is not here in the dative, but the accusative case; I see no reason to contradict them.",
+     "anchor": "Who bare record of the word of God",
+     "refs": [
+      {
+       "text": "Joh 1:19",
+       "ref": "JHN.1.19"
+      },
+      {
+       "text": "1Jn 1:2",
+       "ref": "1JN.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.2#p2-94d84ca8",
+     "text": "by the testimony of Christ is to be understood the doctrine of Christ, called so, because it is a testimony concerning him; or rather, that which he testified, who is elsewhere called the true and faithful witness.",
+     "anchor": "And of the testimony of Jesus Christ"
+    },
+    {
+     "id": "poole/REV.1.2#p3-333a0484",
+     "text": "this may be understood with reference to what went before; so it agreeth with 1Jn 1:1-10; or to what followeth in this Revelation, made to him in visions in a great measure.",
+     "anchor": "And of all things that he saw",
+     "refs": [
+      {
+       "text": "1Jn 1:1-10",
+       "ref": "1JN.1.1-10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.3",
+   "range": "REV.1.3",
+   "kind": "passage",
+   "hash": "97304772",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.3#p1-9b92d6dd",
+     "text": "from hence is well concluded, that this is a portion of holy writ to be read publicly and privately, otherwise no blessing would have been pronounced to the readers or the hearers of it. It is also well from hence concluded, that this book is no history of things done, but a prediction of things to come to pass; for though prophecy in some scriptures signifieth more largely the revelation of the Divine will, yet here it must signify strictly.",
+     "anchor": "Blessed is he that readeth, and they that hear the words of this prophecy"
+    },
+    {
+     "id": "poole/REV.1.3#p2-3534db9f",
+     "text": "that keep it in memory, and live in view of it, and as persons that believe it; they are blessed, as they will from it be comforted, concerning all the sufferings of the church, and people of God.",
+     "anchor": "And keep those things which are written therein"
+    },
+    {
+     "id": "poole/REV.1.3#p3-ef09140f",
+     "text": "the season for the accomplishment of these things is nigh, not past, but the time when they shall begin to happen is not very far off.",
+     "anchor": "For the time is at hand"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.4",
+   "range": "REV.1.4",
+   "kind": "passage",
+   "hash": "c780d51a",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.4#p1-cec556ca",
+     "text": "John, the apostle and evangelist, writes either to all the churches of Asia under the notion of seven, (which is the number of perfection), or to those seven churches mentioned Rev 1:11, Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea, seven famous places in Asia the Less, where the gospel was planted; which being the most famous churches in that part of the world, John is commanded to deposit this prophecy in their hands, by them to be communicated unto other churches.",
+     "anchor": "John to the seven churches which are in Asia",
+     "refs": [
+      {
+       "text": "Rev 1:11",
+       "ref": "REV.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.4#p2-b09e3817",
+     "text": "These churches were in the most famous cities of the Lesser Asia: some think John was the apostle that preached most in Asia, and founded these churches; others, that though they were founded by Peter and Paul, yet after their death John took upon him the charge of them. It is the opinion of some learned men, that the apostle did not, in the epistles to the churches in Asia, design only to tell them of their error, and prescribe to their cure; but that in writing to them, he assigns both a prophetical instruction of us all concerning the state of the church in all periods from that time to the day of judgment, and also to reprove and counsel all present and succeeding churches; but of this we may possibly speak more afterward."
+    },
+    {
+     "id": "poole/REV.1.4#p3-1031018b",
+     "text": "grace and peace is the common apostolical salutation, as to the sense of which we have often spoken: the apostle wisheth them the free love of God, that is, grace, and the seal of it, Rom 5:1, peace with God and their own consciences, and each with other.",
+     "anchor": "Grace be unto you, and peace",
+     "refs": [
+      {
+       "text": "Rom 5:1",
+       "ref": "ROM.5.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.4#p4-9b30a4e5",
+     "text": "these words are a description of God, particularly of Jesus Christ in his eternity and immutability: he was from eternity; he is now; and he shall be for ever. Or, (as some), he was in his promises before his incarnation; he is now God manifested in the flesh; and he is to come as a Judge, to judge the quick and the dead. This was an ancient name of God, Exo 3:14, I am that I am.—I AM hath sent me unto you. These words interpret the name Jehovah.",
+     "anchor": "From him which is, and which was, and which is to come",
+     "refs": [
+      {
+       "text": "Exo 3:14",
+       "ref": "EXO.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.4#p5-1e3194e9",
+     "text": "it is very difficult to determine what is meant by the seven Spirits here before the throne: we read of them also, Rev 3:1 4:5 5:6. Christ is described, Rev 3:1, as having the seven Spirits of God. It is said, Rev 4:5, that the seven lamps of fire burning before the throne, are the seven Spirits of God; and Rev 5:6, that the Lamb’s seven eyes were the seven Spirits of God. This is all the light we have from Scripture. Some think they are seven angels that are here meant.",
+     "anchor": "And from the seven Spirits which are before his throne",
+     "refs": [
+      {
+       "text": "Rev 3:1",
+       "ref": "REV.3.1"
+      },
+      {
+       "text": "Rev 3:1",
+       "ref": "REV.3.1"
+      },
+      {
+       "text": "Rev 4:5",
+       "ref": "REV.4.5"
+      },
+      {
+       "text": "Rev 5:6",
+       "ref": "REV.5.6"
+      },
+      {
+       "text": "Rev 4:5",
+       "ref": "REV.4.5"
+      },
+      {
+       "text": "Rev 5:6",
+       "ref": "REV.5.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.4#p6-ae5e953b",
+     "text": "We read, Rev 8:2, of seven angels that stood before God; and in Rev 15:6-8, there is a like mention of seven angels; and Zec 4:2,10, Zechariah had a vision of seven lamps, and seven pipes, which, Rev 1:10, are said to be the eyes of the Lord, which run to and fro through the whole earth. But John saluting the churches with grace and peace from these seven Spirits, and joining them with Christ, they do not seem to be creatures, angels, that are here meant, but such a Being from whom grace and peace cometh.",
+     "refs": [
+      {
+       "text": "Rev 8:2",
+       "ref": "REV.8.2"
+      },
+      {
+       "text": "Rev 15:6-8",
+       "ref": "REV.15.6-8"
+      },
+      {
+       "text": "Zec 4:2",
+       "ref": "ZEC.4.2"
+      },
+      {
+       "text": "Rev 1:10",
+       "ref": "REV.1.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.4#p7-6e87b351",
+     "text": "Others therefore understand by them, the seven workings of Divine Providence in his management of the affairs of the world, with relation to the church, of which we shall read after; but this also seems hard. The sense seems to be, and from the Holy Ghost, who, though but one spiritual Being, yet exerteth his influence many ways, and by various manifestations, called here seven Spirits, because all flow from the same Spirit."
+    },
+    {
+     "id": "poole/REV.1.4#p8-b2f477cb",
+     "text": "They are therefore called, Rev 4:5, burning lamps; the Holy Ghost descending in the appearance of fire, Act 2:3,4, and being compared to fire, Mat 3:11. They are called the Lamb’s seven eyes and seven horns, Rev 5:6. Christ had the Spirit without measure; and the Holy Spirit is oft called the Spirit of Christ. This seemeth the best sense; the reader may find the objections to it answered in Mr. Pool’s Synopsis Criticorum upon this verse.",
+     "refs": [
+      {
+       "text": "Rev 4:5",
+       "ref": "REV.4.5"
+      },
+      {
+       "text": "Rev 5:6",
+       "ref": "REV.5.6"
+      },
+      {
+       "text": "Rev 4:5",
+       "ref": "REV.4.5"
+      },
+      {
+       "text": "Act 2:3",
+       "ref": "ACT.2.3"
+      },
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "Rev 5:6",
+       "ref": "REV.5.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.5",
+   "range": "REV.1.5",
+   "kind": "passage",
+   "hash": "2d7407c7",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.5#p1-3a511dc5",
+     "text": "here is an express mention of Jesus Christ, because he was the procurer of our redemption, and our Mediator, to whom the Father committed all power as to the church. He is called the faithful and true witness; 1Ti 6:13, he witnessed a good confession before Pontius Plate; he bare record of himself, Joh 8:13,14: see also Isa 43:10 55:4 Joh 18:37.",
+     "anchor": "And from Jesus Christ, who is the faithful witness",
+     "refs": [
+      {
+       "text": "1Ti 6:13",
+       "ref": "1TI.6.13"
+      },
+      {
+       "text": "Joh 8:13",
+       "ref": "JHN.8.13"
+      },
+      {
+       "text": "Isa 43:10",
+       "ref": "ISA.43.10"
+      },
+      {
+       "text": "Joh 18:37",
+       "ref": "JHN.18.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.5#p2-69a50ef2",
+     "text": "that is, who first rose from the dead, viz. by his own power, Joh 10:18, and to die no more: see Act 13:34 1Co 15:20.",
+     "anchor": "And the first begotten of the dead",
+     "refs": [
+      {
+       "text": "Joh 10:18",
+       "ref": "JHN.10.18"
+      },
+      {
+       "text": "Act 13:34",
+       "ref": "ACT.13.34"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.5#p3-f50cf0f9",
+     "text": "the King of kings, Rev 17:14 19:16 1Ti 6:15. The first name here given to Christ speaketh his prophetical office, the second his priestly office, this last his kingly office.",
+     "anchor": "And the prince of the kings of the earth",
+     "refs": [
+      {
+       "text": "Rev 17:14",
+       "ref": "REV.17.14"
+      },
+      {
+       "text": "1Ti 6:15",
+       "ref": "1TI.6.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.5#p4-c6b541f4",
+     "text": "here begins a doxology, or giving glory to Christ, (such forms are frequent in the Epistles), first, as he that washed us from our sins, both from the guilt and from the power and dominion of our sins, with his blood, paying a price, and satisfying God’s justice for, and meriting our sanctification: see Heb 9:14 1Jn 1:7.",
+     "anchor": "Unto him that loved us, and washed us from our sins in his own blood",
+     "refs": [
+      {
+       "text": "Heb 9:14",
+       "ref": "HEB.9.14"
+      },
+      {
+       "text": "1Jn 1:7",
+       "ref": "1JN.1.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.6",
+   "range": "REV.1.6",
+   "kind": "passage",
+   "hash": "2b83b82c",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.6#p1-b10abba2",
+     "text": "kings, to rule over our own appetite, and govern ourselves by the law of his word, to fight and conquer the world, the flesh, and the devil. Kings in a spiritual sense, for our kingdom is like his from whom we derive it, not of this world; therefore he adds, unto God, to the honour and glory of God, for his service, who is the Father of Christ.",
+     "anchor": "And hath made us kings and priests unto God and his Father"
+    },
+    {
+     "id": "poole/REV.1.6#p2-58ae9554",
+     "text": "Priests, to offer up spiritual sacrifices, acceptable to God through the Beloved, 1Pe 2:5; our bodies as a living sacrifice, Rom 12:1; part of our estates, Php 4:18; the sacrifice of praise, the fruit of our lips, Heb 13:15. So as all the privileges of the Jews, Exo 19:6, belong to us, and that in a more eminent manner. Through Christ we also are a royal priesthood, a peculiar people.",
+     "refs": [
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      },
+      {
+       "text": "Rom 12:1",
+       "ref": "ROM.12.1"
+      },
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      },
+      {
+       "text": "Heb 13:15",
+       "ref": "HEB.13.15"
+      },
+      {
+       "text": "Exo 19:6",
+       "ref": "EXO.19.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.6#p3-ea5c3092",
+     "text": "let all praise, and honour, and acknowledgments be paid, and all power ascribed, to him for ever.",
+     "anchor": "To him be glory and dominion for ever and ever. Amen"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.7",
+   "range": "REV.1.7",
+   "kind": "passage",
+   "hash": "10597a9e",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.7#p1-cb684fcd",
+     "text": "St. John being to speak of the various afflictions of the church of God, which should immediately begin, and hold on during the whole time that Rome should continue heathen, and one thousand two hundred and sixty years after, during the whole reign of the beasts, prepareth Christians for it, by calling them by the eye of faith to see (though at a great distance) Christ coming to judgment, whom he speaks of as already coming, according to the usual style of prophets, who use to speak of those things that shall shortly be done, or certainly, as if they were already done. He describes the manner of Christ’s coming to judgment, and saith,"
+    },
+    {
+     "id": "poole/REV.1.7#p2-8c7b9e53",
+     "text": "that is, in a glorious manner; in the clouds with power and great glory, Mat 24:30; in his glory, and all the holy angels with him, Mat 25:31; with ten thousand of his saints, Jud 1:14; with a shout, the voice of the archangel, and the trump of God, 1Th 4:16; here, with clouds, bright and glorious clouds, not obscuring him, but making his appearance more glorious and terrible.",
+     "anchor": "he cometh with clouds",
+     "refs": [
+      {
+       "text": "Mat 24:30",
+       "ref": "MAT.24.30"
+      },
+      {
+       "text": "Mat 25:31",
+       "ref": "MAT.25.31"
+      },
+      {
+       "text": "Jud 1:14",
+       "ref": "JUD.1.14"
+      },
+      {
+       "text": "1Th 4:16",
+       "ref": "1TH.4.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.7#p3-775215fc",
+     "text": "he shall come visibly, for, Act 1:11, he shall so come, as he was seen going up to heaven: see Isa 40:5.",
+     "anchor": "And every eye shall see him",
+     "refs": [
+      {
+       "text": "Act 1:11",
+       "ref": "ACT.1.11"
+      },
+      {
+       "text": "Isa 40:5",
+       "ref": "ISA.40.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.7#p4-7ab9c2c1",
+     "text": "they also which pierced him shall look on him, Zec 12:10; yea, not those only which pierced him with their spears, but every sinner who hath pierced him with his sins, Heb 6:6. From whence we may observe, that the resurrection will be general; and those in the Great Mogul’s country are like to awake out of their sleep in the grave, as well as others.",
+     "anchor": "And they also which pierced him",
+     "refs": [
+      {
+       "text": "Zec 12:10",
+       "ref": "ZEC.12.10"
+      },
+      {
+       "text": "Heb 6:6",
+       "ref": "HEB.6.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.7#p5-288e3372",
+     "text": "all the nations of the earth, (Greek, the tribes of the earth), shall wail, not with a mourning of repentance, the time for that will be past, but with a wailing of despair and horror.",
+     "anchor": "And all kindreds of the earth shall wail because of him"
+    },
+    {
+     "id": "poole/REV.1.7#p6-8a6fb047",
+     "text": "these words are either a prophetical assertion, confirming the truth of what he had said, or a pious prayer or desire, or rather both together.",
+     "anchor": "Even so, Amen"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.8",
+   "range": "REV.1.8",
+   "kind": "passage",
+   "hash": "467b11e7",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.8#p1-1cef7f2a",
+     "text": "and Omega are the first and last letters in the Greek alphabet, as Aleph and Tau are in the Hebrew alphabet: the meaning of these is expounded,",
+     "anchor": "Alpha"
+    },
+    {
+     "id": "poole/REV.1.8#p2-394e5594",
+     "text": "he who was before all, and shall continue to exist when all creatures shall cease to be; the first and the last, as the same terms are expounded, Rev 22:13: so Isa 41:4 43:13.",
+     "anchor": "the beginning and the ending",
+     "refs": [
+      {
+       "text": "Rev 22:13",
+       "ref": "REV.22.13"
+      },
+      {
+       "text": "Isa 41:4",
+       "ref": "ISA.41.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.8#p3-ce1eae2a",
+     "text": "see Rev 1:4: He addeth the Almighty, to show that he was able to make his words good. Thus in this verse, omnipotency, eternity, and immutability, are all applied to God, and particularly predicated of our Lord and Saviour Jesus Christ.",
+     "anchor": "Which is, and which was, and which is to come, the Almighty",
+     "refs": [
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.9",
+   "range": "REV.1.9",
+   "kind": "passage",
+   "hash": "a834ce20",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.9#p1-9ed90939",
+     "text": "the same mentioned Rev 1:4, the apostle of Jesus Christ, yet he disdaineth not to call those his brethren whom his Lord so called.",
+     "anchor": "I John, who also am your brother",
+     "refs": [
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.9#p2-c2eb862e",
+     "text": "the pagan persecutions were now begun. Nero first began them about twenty-three years after Christ was ascended into heaven, but he died within three years’ time after he had began that course.",
+     "anchor": "And companion in tribulation"
+    },
+    {
+     "id": "poole/REV.1.9#p3-e03d1d75",
+     "text": "Then the Christians had some rest for twelve years, by reason of the short reigns of Galba, Otho, and Vitellius, and the kindness of Flavius and Titus Vespasianus; but about eighty-two years after Christ began Domitian to reign, and to persecute the Christians about the year 90. He lived not long, for he was slain Anno 97, but in those seven years he put to death, imprisoned, and banished many. John is said to have been banished by him, Anno 91, and to have had this revelation, 94 and 95. Domitian lived but four or five years after this. After his death John is said to have come back to Ephesus, and to have died there three years after, about the year 98. But for five years John was the Christians’ companion in tribulation."
+    },
+    {
+     "id": "poole/REV.1.9#p4-ac1cb357",
+     "text": "either the kingdom of grace, a member of the Christian church; or the kingdom of glory, which is to be arrived at both by patient waiting and by patient suffering for Jesus Christ, or waiting for the second appearance of Christ, in order to his glorious kingdom.",
+     "anchor": "And in the kingdom and patience of Jesus Christ"
+    },
+    {
+     "id": "poole/REV.1.9#p5-622daaa3",
+     "text": "this island, geographers tell us, was an island in the Icarian or Ægean Sea, about thirty-five miles in compass, one of those fifty-three islands called the Cyclades.",
+     "anchor": "Was in the isle that is called Patmos"
+    },
+    {
+     "id": "poole/REV.1.9#p6-6195bf34",
+     "text": "he tells us how he came to be in Patmos, viz. for preaching the word of God, and those truths to which Christ had given testimony: he did not voluntarily go thither to preach the gospel, (for those isles have in them few inhabitants), but he was banished thither by the emperor Domitian’s officers. Banishment was a very ordinary punishment amongst the Romans, in case of what they would call sedition. Eusebius tells us, that one Flavia Dometilla, though she was niece to the consul, was banished upon the same account at this time.",
+     "anchor": "For the word of God, and for the testimony of Jesus Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.10",
+   "range": "REV.1.10",
+   "kind": "passage",
+   "hash": "0900491f",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.10#p1-fb813cee",
+     "text": "not only in spiritual employment, suppose meditation and prayer, but in an ecstasy; my soul was (as it were) separated from my body, and under the more than ordinary influence and communications of the Spirit, as Act 10:10 11:5 16:9 18:9.",
+     "anchor": "I was in the Spirit",
+     "refs": [
+      {
+       "text": "Act 10:10",
+       "ref": "ACT.10.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.10#p2-6c80efa5",
+     "text": "upon the Christian sabbath, called the Lord’s day, ( as the eucharist, or breaking of bread, is called the Lord’s supper, 1Co 11:20), because Christ instituted it; or, because the end of its institution was the remembrance of Christ’s resurrection, (as the end of the Lord’s supper was the commemoration of Christ’s death), or because it was instituted for the honour of Christ.",
+     "anchor": "On the Lord’s day",
+     "refs": [
+      {
+       "text": "1Co 11:20",
+       "ref": "1CO.11.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.10#p3-ea3b0604",
+     "text": "John in the isle of Patmos was keeping the Christian sabbath in spiritual services, meditation and prayer, and fell into a trance, wherein he had a more immediate communion with the Holy Spirit, which begun with his hearing a loud voice, as it were, behind him, as loud as the sound of a trumpet.",
+     "anchor": "And heard behind me a great voice, as of a trumpet"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.11",
+   "range": "REV.1.11",
+   "kind": "passage",
+   "hash": "82f8c6d3",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.11#p1-50863c2f",
+     "text": "I, who speak unto thee, am the eternal, immutable God.",
+     "anchor": "I am Alpha and Omega, the first and the last"
+    },
+    {
+     "id": "poole/REV.1.11#p2-00226f06",
+     "text": "what thou shalt presently see, write in a book, not in loose papers. Whence we may observe, that this book is not only the revelation of the will of Christ, but written by his direction.",
+     "anchor": "What thou seest, write in a book"
+    },
+    {
+     "id": "poole/REV.1.11#p3-e6133d32",
+     "text": "not to all that lived within the jurisdiction or compass of these cities, but only to those Christians who lived in or near these places, which are all cities in the Lesser Asia.",
+     "anchor": "And send it unto the seven churches which are in Asia"
+    },
+    {
+     "id": "poole/REV.1.11#p4-0ca27f07",
+     "text": "was the most famous, where Paul preached, Act 19:10, &c., and stayed three years, Act 20:31. It was a noble city in that part of Greece which was called Ionia.",
+     "anchor": "Ephesus",
+     "refs": [
+      {
+       "text": "Act 19:10",
+       "ref": "ACT.19.10"
+      },
+      {
+       "text": "Act 20:31",
+       "ref": "ACT.20.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.11#p5-04a9b81a",
+     "text": "was a sea-port city in the same country.",
+     "anchor": "Smyrna"
+    },
+    {
+     "id": "poole/REV.1.11#p6-3d60c784",
+     "text": "was a city of Troas, or Phrygia.",
+     "anchor": "Pergamos"
+    },
+    {
+     "id": "poole/REV.1.11#p7-25a56a56",
+     "text": "was a city in Lydia, or Mysia.",
+     "anchor": "Thyatira"
+    },
+    {
+     "id": "poole/REV.1.11#p8-5e1da067",
+     "text": "also was a city in Lydia, near the mountain Tmolus.",
+     "anchor": "Sardis"
+    },
+    {
+     "id": "poole/REV.1.11#p9-ee05b5aa",
+     "text": "was a city in Lydia, next Mysia.",
+     "anchor": "Philadelphia"
+    },
+    {
+     "id": "poole/REV.1.11#p10-87988c38",
+     "text": "was a city in Asia, near the river Lycus. In all these cities there were congregations of Christians formed into churches, to whom God here ordereth St. John to send these visions, when he had written them in a book. Our countryman, Mr. Brightman, asks: Where Rome was all this while? And how it came to pass God directed not these mysteries to be sent, and kept in their archives, especially if (as the papists say) the bishop there be Christ’s successive vicar? And considering, too, how great friends Peter and John were wont to be? But the forementioned author tartly replies to his own question: That that church, it seems, could never err, and therefore needed not any correptory or monitory epistle.",
+     "anchor": "Laodicea"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.12",
+   "range": "REV.1.12",
+   "kind": "passage",
+   "hash": "d47bcb3e",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.12#p1-bfc56f9e",
+     "text": "that is, to see the person whose voice I heard speaking to me: or else, by seeing is meant understanding; but that he might have done without turning; he therefore turned, hoping to see the person that spake.",
+     "anchor": "And I turned to see the voice that spake with me"
+    },
+    {
+     "id": "poole/REV.1.12#p2-80fab8a0",
+     "text": "by these seven candlesticks which he saw, are meant the seven churches; so we find it infallibly expounded, Rev 1:20. We shall find in this book frequent allusions to the Jewish temple: here they begin. In the Jewish tabernacle there was one golden candlestick, and seven lamps, to give light against it; so Num 8:2 Zec 4:2. John here seeth seven. God had but one church of the Jews, but many amongst the Gentiles. This notion, or comparison of churches to golden candlesticks, both showeth us the nature and office of the churches of Christ, they do not give light of themselves, only hold lights, and it is their duty to keep in them the pure word of God, which is a light to our feet, and a godly ministry; and it also lets us know, that they ought to keep themselves pure (as beaten gold) from all corruption as to doctrine, and their members from all scandalous conversation.",
+     "anchor": "And being turned, I saw seven golden candlesticks",
+     "refs": [
+      {
+       "text": "Rev 1:20",
+       "ref": "REV.1.20"
+      },
+      {
+       "text": "Num 8:2",
+       "ref": "NUM.8.2"
+      },
+      {
+       "text": "Zec 4:2",
+       "ref": "ZEC.4.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.13",
+   "range": "REV.1.13",
+   "kind": "passage",
+   "hash": "b0fabeb7",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.13#p1-0be8a8ff",
+     "text": "that is, of the churches, resembled by the golden candlesticks.",
+     "anchor": "And in the midst of the seven candlesticks"
+    },
+    {
+     "id": "poole/REV.1.13#p2-d1c69d3a",
+     "text": "we say, no like is the same; but Christ, who was the Son of man, and who ordinarily calls himself so throughout the gospel, is undoubtedly here meant, as appeareth by Rev 1:17,18, which description can agree to him alone. He is said to have come in the likeness of sinful flesh, though he came in true human flesh; and Php 2:7, he was made in the likeness of men. John saw one who appeared to him as a man in the midst of seven golden candlesticks, which was Christ in the midst of his churches; placed in the midst, partly to let us know his observation of them all, and partly to let us know his being at hand to them all, to help, protect, and defend them.",
+     "anchor": "One like unto the Son of man",
+     "refs": [
+      {
+       "text": "Rev 1:17",
+       "ref": "REV.1.17"
+      },
+      {
+       "text": "Php 2:7",
+       "ref": "PHP.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.13#p3-5be8dfb6",
+     "text": "ποδηρη the word signifieth a long garment reaching to the feet, whether of linen or woollen, or what other material, is not expressed; so as it seemeth to me hard to determine, whether it was to signify his priestly or kingly office, or neither. It is a habit of gravity.",
+     "anchor": "Clothed with a garment down to the foot"
+    },
+    {
+     "id": "poole/REV.1.13#p4-401b88ae",
+     "text": "nor dare I determine the significancy of the golden girdle about his loins. It was a habit like that in Daniel’s vision, Dan 10:5. They were both symbols of majesty, authority, and dignity, and the appearance agreed very well to him, who was both a High Priest and a King.",
+     "anchor": "And girt about the paps with a golden girdle",
+     "refs": [
+      {
+       "text": "Dan 10:5",
+       "ref": "DAN.10.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.14",
+   "range": "REV.1.14",
+   "kind": "passage",
+   "hash": "fb8fc3d2",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.14#p1-1f877294",
+     "text": "whiteness signifies purity; whiteness of hair signifies old age ordinarily, which commonly is attended with more prudence, as having most experience: hence this appearance of Christ may denote both his purity and wisdom, and that he is the Ancient of days; see Dan 7:9,13,22; though there the term of Ancient of days belongs to God the Father, yet it also agreeth to Christ, who is equal with the Father, as to his Divine nature.",
+     "anchor": "His head and his hairs were white like wool, as white as snow",
+     "refs": [
+      {
+       "text": "Dan 7:9",
+       "ref": "DAN.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.14#p2-be2d8f4f",
+     "text": "such an appearance is applied to God, Eze 1:27 Dan 10:6; and to Christ, Rev 19:12, to denote either Christ’s knowledge, wisdom, and omniscience; or his grace in purifying souls, as fire doth metals; or his wrath and anger against his enemies.",
+     "anchor": "And his eyes were as a flame of fire",
+     "refs": [
+      {
+       "text": "Eze 1:27",
+       "ref": "EZK.1.27"
+      },
+      {
+       "text": "Dan 10:6",
+       "ref": "DAN.10.6"
+      },
+      {
+       "text": "Rev 19:12",
+       "ref": "REV.19.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.15",
+   "range": "REV.1.15",
+   "kind": "passage",
+   "hash": "7ada47fe",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.15#p1-731aec2a",
+     "text": "there are nice disquisitions what this chalcolibanum (which we translate, fine brass) was: vid. Poli Synopsin. I understand not of what profit the determination will be to us. By the feet of Christ (probably) are signified his ways, counsels, and methods, in ordering and governing his church, which are compared to fine brass, for the beauty and glory of them, and for their firmness, strength, and steadiness.",
+     "anchor": "And his feet like unto fine brass"
+    },
+    {
+     "id": "poole/REV.1.15#p2-5840041a",
+     "text": "they appeared like brass filled with fire, as if it were burning, and red-hot in furnace.",
+     "anchor": "As if they burned in a furnace"
+    },
+    {
+     "id": "poole/REV.1.15#p3-c9294944",
+     "text": "loud and terrible, like the noise of the sea dashing upon a rock, or the shore.",
+     "anchor": "And his voice as the sound of many waters"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.16",
+   "range": "REV.1.16",
+   "kind": "passage",
+   "hash": "96b8966c",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.16#p1-f5b9577f",
+     "text": "the right hand is the hand of power, Psa 21:8; and of favour, Psa 44:3; and of honour and dignity, Psa 110:1. The seven stars are expounded, Rev 1:20, to be the ministers of the gospel, his messengers to his churches, who having in all times been most exposed to the malice and rage of enemies, Christ is said to hold them in his right hand, as to signify the dignity he hath put upon them and the favour he hath showed them, so also to show his resolution to protect them, according to his promise, Mat 28:20.",
+     "anchor": "And he had in his right hand seven stars",
+     "refs": [
+      {
+       "text": "Psa 21:8",
+       "ref": "PSA.21.8"
+      },
+      {
+       "text": "Psa 44:3",
+       "ref": "PSA.44.3"
+      },
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      },
+      {
+       "text": "Rev 1:20",
+       "ref": "REV.1.20"
+      },
+      {
+       "text": "Mat 28:20",
+       "ref": "MAT.28.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.16#p2-f6e720e0",
+     "text": "either his gospel and word, compared to a two-edged sword, Heb 4:12; or a sword of justice, which he will use till he hath perfectly overcome and vanquished his enemies.",
+     "anchor": "And out of his mouth went a sharp two-edged sword",
+     "refs": [
+      {
+       "text": "Heb 4:12",
+       "ref": "HEB.4.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.16#p3-b522b2a7",
+     "text": "that is, was very glorious, so as the apostle was not able to behold him.",
+     "anchor": "And his countenance was as the sun shineth in his strength"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.17",
+   "range": "REV.1.17",
+   "kind": "passage",
+   "hash": "cd7bfc6c",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.17#p1-42a30eba",
+     "text": "astonished at the majesty and glory of the appearance: see Jos 5:14 Dan 8:17,18 Mt 17:6 Act 9:4.",
+     "anchor": "I fell at his feet as dead",
+     "refs": [
+      {
+       "text": "Jos 5:14",
+       "ref": "JOS.5.14"
+      },
+      {
+       "text": "Dan 8:17",
+       "ref": "DAN.8.17"
+      },
+      {
+       "text": "Act 9:4",
+       "ref": "ACT.9.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.17#p2-6b8aed53",
+     "text": "to comfort me, and let me know, that I had no reason to be afraid, he would do me no harm.",
+     "anchor": "And he laid his right hand upon me, saying unto me, Fear not"
+    },
+    {
+     "id": "poole/REV.1.17#p3-5e932783",
+     "text": "see Rev 1:8,11.",
+     "anchor": "I am the first and the last",
+     "refs": [
+      {
+       "text": "Rev 1:8",
+       "ref": "REV.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.18",
+   "range": "REV.1.18",
+   "kind": "passage",
+   "hash": "7819aa81",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.18#p1-f2ddb5b5",
+     "text": "the living God, who had life in myself, and gave life to the world, but assumed the human nature, and was made man, and in that nature died; but I rose again from the dead, and shall die no more, but ever live to make intercession for my people.",
+     "anchor": "I am he that liveth, and was dead; and, behold, I am alive for evermore"
+    },
+    {
+     "id": "poole/REV.1.18#p2-e7edc6c9",
+     "text": "this is a great truth.",
+     "anchor": "Amen"
+    },
+    {
+     "id": "poole/REV.1.18#p3-555fceba",
+     "text": "and have a power to kill, and cast into hell; or, I have the power over death, and the state of the dead, so as I can raise those that are dead to life again: I have the command of death, whether temporal or eternal; as he who hath the keys of a house can let in and shut out of it whom he pleaseth, so I bring to heaven and throw to hell whom I please.",
+     "anchor": "And have the keys of hell and of death"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.19",
+   "range": "REV.1.19",
+   "kind": "passage",
+   "hash": "10c490af",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.19#p1-36a60651",
+     "text": "either the things which thou hast seen from the beginning of the gospel; for John, Mat 4:21, was a companion of Christ from the time presently following his baptism and temptations: or, the vision of me which thou hast now had; which I judge most probably the sense, not understanding why our Lord should set John to write what (though they were not yet written, yet) Christ knew should be written in another book by John himself, viz. in his Gospel, and by Matthew, Mark, and Luke, in their histories of the Gospel, and in the Acts of the Apostles; especially considering they were to be written plainly, so as he who runs may read them; and what John was to write here, was to be written enigmatically, and darkly represented in visions: and it is against reason to think the same things should be first revealed plainly, and then more darkly, and both by direction from God.",
+     "anchor": "Write the things which thou hast seen",
+     "refs": [
+      {
+       "text": "Mat 4:21",
+       "ref": "MAT.4.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.19#p2-f5ff9d31",
+     "text": "the present affairs of the church; we have the history till Paul was carried prisoner to Rome, (which was about the 60th year after Christ), in the Acts of the apostles; so that I conceive the farthest that John looked back was but thirty-five years; for he was in Patmos about the year 93, and is conceived to have written this book, 96. Hence the matter of the Revelation is easily concluded:",
+     "anchor": "And the things which are"
+    },
+    {
+     "id": "poole/REV.1.19#p3-e0256983",
+     "text": "1. The things which were the present affairs of the church, Anno 96, or looking back only to 60, which things are supposed to be written by John, in Rev 2:3.",
+     "refs": [
+      {
+       "text": "Rev 2:3",
+       "ref": "REV.2.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.19#p4-06347ac3",
+     "text": "to the end of the world, under the reign of the dragon, (the pagan Roman empire), and the reign of antichrist, or the beast, for one thousand two hundred and sixty years, and from thence until Christ shall come to judgment.",
+     "anchor": "And the things which shall be hereafter"
+    }
+   ]
+  },
+  {
+   "id": "poole/REV.1.20",
+   "range": "REV.1.20",
+   "kind": "passage",
+   "hash": "3e55fdae",
+   "paragraphs": [
+    {
+     "id": "poole/REV.1.20#p1-06a8b958",
+     "text": "see Rev 1:12,16.",
+     "anchor": "The mystery of the seven stars, and the seven golden candlesticks",
+     "refs": [
+      {
+       "text": "Rev 1:12",
+       "ref": "REV.1.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.20#p2-73b57152",
+     "text": "that is, they signify the angels of the seven churches. By angels he means God’s messengers and ambassadors to the seven churches, called angels, both in respect of their office, being the ambassadors of Christ, 2Co 5:20, and of that holiness which they should show forth in their doctrine and life. To interpret the term of angels by nature, seems not agreeable to what we shall hereafter meet with said to some of them; Christ would never have ordered John to have charged them with a loss of their first love, or to admonish them to be faithful unto death, or to repent. Whether the term angel denoteth any particular superior minister or bishop in those churches, or is to be taken collectively for all the ministers in those churches, I shall not dispute. Certain it is, αγγελος signifieth no more than is common to all ministers, viz. to be God’s messengers, and move upon his errand.",
+     "anchor": "The seven stars are the angels of the seven churches",
+     "refs": [
+      {
+       "text": "2Co 5:20",
+       "ref": "2CO.5.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.20#p3-82c4ae3b",
+     "text": "the seven churches mentioned Rev 1:11: or else, seven being the number of perfection, all the churches, which are fitly represented by candlesticks, in the same sense as they are called pillars of truth in Paul’s Epistle to Timothy, because they have not the light they show from themselves, only hold it forth from Christ.",
+     "anchor": "And the seven candlesticks which thou sawest are the seven churches",
+     "refs": [
+      {
+       "text": "Rev 1:11",
+       "ref": "REV.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.20#p4-9b80af91",
+     "text": "But it is the opinion of very learned writers upon this book, that our Lord, by these seven churches, signifies all the churches of Christ to the end of the world; and by what he saith to them, designs to show what shall be the state of the churches in all ages, and what their duty is. That by the church of Ephesus, was represented the purest state of all the Christian churches, which determined thirty years before this book was written. By the church of Smyrna, the state of all Christian churches till the year 300. By the church of Pergamos, all the Christian churches till antichrist got up into the saddle, and the Albigenses and Waldenses were so persecuted."
+    },
+    {
+     "id": "poole/REV.1.20#p5-5df61544",
+     "text": "By the church of Thyatira, the state of the churches from that time till our Reformation. By the other three, the state of all churches for one hundred and fifty years last past, and which shall be to the end of the world. See Dr. More, Mr. Mede, Cocceius, and Forbes, as learned and diligent inquirers into the sense of this book as any have been, who give many reasons for this:"
+    },
+    {
+     "id": "poole/REV.1.20#p6-c7a15d9c",
+     "text": "1. Because no reason else can be given, why epistles should not be written to other churches as well as these."
+    },
+    {
+     "id": "poole/REV.1.20#p7-c0788f78",
+     "text": "2. He doth not call them the seven churches of Asia, but seven churches."
+    },
+    {
+     "id": "poole/REV.1.20#p8-052fb46f",
+     "text": "3. The number seven is a number used to signify perfection."
+    },
+    {
+     "id": "poole/REV.1.20#p9-0121aabf",
+     "text": "4. What is said of Christ’s walking in the midst of the golden candlesticks, having the stars in his right hand, &c., agreeth to him with reference to all churches, not to these seven only."
+    },
+    {
+     "id": "poole/REV.1.20#p10-29b1ec83",
+     "text": "5. His calling ministers angels, speaks this a prophecy, for that is a prophetical style."
+    },
+    {
+     "id": "poole/REV.1.20#p11-d3bad531",
+     "text": "6. The mentioning the same number of churches and ministers, as of the seals, speaks this part of the Revelation as comprehensive, with respect to time, as the other."
+    },
+    {
+     "id": "poole/REV.1.20#p12-cbd289c4",
+     "text": "7. It is not probable that these epistles would have been ushered in with such a vision, if they had been merely historical and didactic, not prophetical also."
+    },
+    {
+     "id": "poole/REV.1.20#p13-edd91a2f",
+     "text": "8. They argue from Rev 1:19, where John is bid to write not only what is, but what shall come to pass.",
+     "refs": [
+      {
+       "text": "Rev 1:19",
+       "ref": "REV.1.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/REV.1.20#p14-a4f03360",
+     "text": "9. They argue from the matter of the epistles.—Let the curious reader see more of this in the authors themselves, as also in Mr. Brightman."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "poole/1CH.18",
+   "range": "1CH.18",
+   "kind": "chapter",
+   "hash": "ede5b85d",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.18#p1-ede5b85d",
+     "text": "David subdueth the Philistines and the Moabites; smiteth Hadarezer and the Syrians, 1Ch 18:1-8. Tou sendeth Hadoram with presents to bless David: the presents and spoil David dedicated to God, 1Ch 18:9-11. He putteth garrisons in Edom, 1Ch 18:12,13. David’s officers, 1Ch 18:14-17.",
+     "refs": [
+      {
+       "text": "1Ch 18:1-8",
+       "ref": "1CH.18.1-8"
+      },
+      {
+       "text": "1Ch 18:9-11",
+       "ref": "1CH.18.9-11"
+      },
+      {
+       "text": "1Ch 18:12",
+       "ref": "1CH.18.12"
+      },
+      {
+       "text": "1Ch 18:14-17",
+       "ref": "1CH.18.14-17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.18.1",
+   "range": "1CH.18.1",
+   "kind": "passage",
+   "hash": "b0d192e8",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.18.1#p1-b0d192e8",
+     "text": "All this chapter is explained on 2Sa 8."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.18.8",
+   "range": "1CH.18.8",
+   "kind": "passage",
+   "hash": "481c6d24",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.18.8#p1-481c6d24",
+     "text": "for which, 2Sa 8:8, Betah and Berothai are mentioned. Either therefore they were the same places called by several names, as is usual; or they were four neighbouring places, out of all which the brass was taken, whereof two places having been named there are omitted here, and the other two places there omitted are here remembered.",
+     "anchor": "Tibhath and Chun",
+     "refs": [
+      {
+       "text": "2Sa 8:8",
+       "ref": "2SA.8.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

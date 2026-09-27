@@ -1,0 +1,950 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "poole/1SA.14",
+   "range": "1SA.14",
+   "kind": "chapter",
+   "hash": "5b8c64b0",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14#p1-5b8c64b0",
+     "text": "Jonathan and his armour-bearer secretly smite the Philistines’ army; they slay one another, 1Sa 14:1-15; which being perceived, 1Sa 14:16,17, Saul pursueth the Philistines, the captivated and hidden Israelites join in the pursuit, 1Sa 14:18-23. Saul adjureth the people not to eat any thing till evening. Jonathan eateth honey: the Philistines are smitten, 1Sa 14:24-31. The people eat flesh with the blood: Saul restraineth them, and buildeth an altar, 1Sa 14:32-35. Design to pursue the Philistines by night, he consults God, who answers not: he casts a lot to find out the cause: Jonathan is taken: Saul dooms him to die: the people rescue him, 1Sa 14:36-45. Saul’s wars, sons, daughters, wife, 1Sa 14:46-52.",
+     "refs": [
+      {
+       "text": "1Sa 14:1-15",
+       "ref": "1SA.14.1-15"
+      },
+      {
+       "text": "1Sa 14:16",
+       "ref": "1SA.14.16"
+      },
+      {
+       "text": "1Sa 14:18-23",
+       "ref": "1SA.14.18-23"
+      },
+      {
+       "text": "1Sa 14:24-31",
+       "ref": "1SA.14.24-31"
+      },
+      {
+       "text": "1Sa 14:32-35",
+       "ref": "1SA.14.32-35"
+      },
+      {
+       "text": "1Sa 14:36-45",
+       "ref": "1SA.14.36-45"
+      },
+      {
+       "text": "1Sa 14:46-52",
+       "ref": "1SA.14.46-52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.1",
+   "range": "1SA.14.1",
+   "kind": "passage",
+   "hash": "6771cbf6",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.1#p1-90e7c3c2",
+     "text": "This was a rash and foolish attempt, if it be examined by common rules; but not so, if we consider the singular promises made to the Israelites, that one should chase a thousand, &c., and especially the heroical and extraordinary motions which were then frequently put into the minds of gallant men by God’s Spirit, whereby they undertook and accomplished noble and wonderful things; as did Samson, and David, and his worthies."
+    },
+    {
+     "id": "poole/1SA.14.1#p2-c268cd06",
+     "text": "beyond that rocky passage described below, 1Sa 14:4,13, which he pointed at with his hand.",
+     "anchor": "On the other side",
+     "refs": [
+      {
+       "text": "1Sa 14:4",
+       "ref": "1SA.14.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.1#p3-6b615067",
+     "text": "lest he should hinder him in so improbable an enterprise. Nor was it necessary he should inform him of it, because he had a commission from his father to fight when he saw occasion, as he had done without his father’s privity, 1Sa 13:3.",
+     "anchor": "He told not his father",
+     "refs": [
+      {
+       "text": "1Sa 13:3",
+       "ref": "1SA.13.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.2",
+   "range": "1SA.14.2",
+   "kind": "passage",
+   "hash": "c7011873",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.2#p1-50719098",
+     "text": "in the outworks of the city, where he had intrenched himself to observe the motion of the Philistines.",
+     "anchor": "In the uttermost part of Gibeah"
+    },
+    {
+     "id": "poole/1SA.14.2#p2-9acecf33",
+     "text": "or towards (as the Hebrew beth is oft used) Migron, which was another place, but near Gibeah. See Isa 10:28.",
+     "anchor": "In Migron",
+     "refs": [
+      {
+       "text": "Isa 10:28",
+       "ref": "ISA.10.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.3",
+   "range": "1SA.14.3",
+   "kind": "passage",
+   "hash": "4516d21a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.3#p1-9562b939",
+     "text": "the same who is called Ahimelech, 1Sa 22:9,11,20, the high priest, who was here to attend upon the ark, which was brought hither, 1Sa 14:18.",
+     "anchor": "Ahiah",
+     "refs": [
+      {
+       "text": "1Sa 22:9",
+       "ref": "1SA.22.9"
+      },
+      {
+       "text": "1Sa 14:18",
+       "ref": "1SA.14.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.3#p2-7b069273",
+     "text": "to wit, the high priest’s ephod, wherein the Urim and Thummim was.",
+     "anchor": "An ephod"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.4",
+   "range": "1SA.14.4",
+   "kind": "passage",
+   "hash": "9eaf35ec",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.4#p1-4aaef137",
+     "text": "so these might be two known and common passages, both which Jonathan must cross, or pass over, to go to the Philistines, between which the following rocks lay. But the words may be rendered thus, In the middle (for so the Hebrew particle ben signifies, as Isa 44:4; and beth, in, is understood by a very frequent ellipsis) of the passage; the plural number being put for the singular, as is frequent.",
+     "anchor": "The passages",
+     "refs": [
+      {
+       "text": "Isa 44:4",
+       "ref": "ISA.44.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.4#p2-34be922a",
+     "text": "A sharp rock on the one side, and on the other side; which is not so to be understood, as if in this passage one rock was on the right hand, and the other on the left; for so he should have gone between both; and there was no need of climbing up to them, which is mentioned below, 1Sa 14:13. But the meaning is, that the tooth (or prominency) of the one rock (as it is in the Hebrew) was on the one side, i.e. northward, looking towards Michmash, (the garrison of the Philistines,) and the tooth of the other rock was on the other side, i.e. southward, looking towards Gibeah, (where Saul’s camp lay,) as the next verse informs us; and Jonathan was forced to climb over these two rocks, because the other and common ways from one town to the other might now be obstructed, or were not so fit for his present design.",
+     "refs": [
+      {
+       "text": "1Sa 14:13",
+       "ref": "1SA.14.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.6",
+   "range": "1SA.14.6",
+   "kind": "passage",
+   "hash": "baca35fc",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.6#p1-d4955cdc",
+     "text": "so he calls them, partly in contempt, and principally to strengthen his faith by this consideration, that his enemies were enemies to God, and without any hope in God, or help from him; whereas he was circumcised, and therefore in covenant with God, who was both able and engaged to assist his people.",
+     "anchor": "These uncircumcised"
+    },
+    {
+     "id": "poole/1SA.14.6#p2-0280b31a",
+     "text": "he speaks doubtfully; for though he found and felt himself stirred up by God to this exploit, and was assured that God would deliver his people, yet he was not certain that he would do it at this time, and in this way.",
+     "anchor": "It may be"
+    },
+    {
+     "id": "poole/1SA.14.6#p3-168c0004",
+     "text": "to wit, great and wonderful things.",
+     "anchor": "The Lord will work"
+    },
+    {
+     "id": "poole/1SA.14.6#p4-068acddc",
+     "text": "there is no person nor thing which can hinder God from thus doing.",
+     "anchor": "There is no restraint to the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.7",
+   "range": "1SA.14.7",
+   "kind": "passage",
+   "hash": "fad76128",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.7#p1-fad76128",
+     "text": "march on to the enemies.",
+     "anchor": "Turn thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.10",
+   "range": "1SA.14.10",
+   "kind": "passage",
+   "hash": "e82599f3",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.10#p1-e82599f3",
+     "text": "Jonathan not being assured of the success of this present exploit, desires a sign; and by the instinct of God’s Spirit, as the success shows, pitched upon this. Divers such heroical motions and extraordinary impulses there were among great and good men in ancient times; as Gen 24:13 Jud 6:37; which are not precedents to us.",
+     "refs": [
+      {
+       "text": "Gen 24:13",
+       "ref": "GEN.24.13"
+      },
+      {
+       "text": "Jud 6:37",
+       "ref": "JUD.6.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.11",
+   "range": "1SA.14.11",
+   "kind": "passage",
+   "hash": "80e01ffd",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.11#p1-80e01ffd",
+     "text": "Therefore Jonathan chose that rocky and unusual way, that the Philistines might suppose they did not come from Saul’s camp to fight with them, but rather out of the caves and holes of the rocks, from which their necessity had now driven them."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.12",
+   "range": "1SA.14.12",
+   "kind": "passage",
+   "hash": "74a7dcc5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.12#p1-105b06bd",
+     "text": "we having something of importance to communicate to you. A speech of contempt and derision.",
+     "anchor": "We will show you a thing"
+    },
+    {
+     "id": "poole/1SA.14.12#p2-47151f87",
+     "text": "he piously and modestly ascribes the success which he now foresees to God only.",
+     "anchor": "The Lord hath delivered them"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.13",
+   "range": "1SA.14.13",
+   "kind": "passage",
+   "hash": "b3011986",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.13#p1-92f26886",
+     "text": "The Philistines could easily have hindered their ascent, but thought scorn to do it, not questioning but they could cut them off in a moment when they were come up to them according to their invitation."
+    },
+    {
+     "id": "poole/1SA.14.13#p2-224fe97e",
+     "text": "being endowed with extraordinary strength and courage, and having with incredible boldness killed the first they met with, and so proceeding with success, it is not strange if the Philistines were both astonished and intimidated; God also struck them with a panic terror; and withal, infatuated their minds, and possibly put an evil spirit among them, which in this universal confusion made them conceive that there was treachery amongst themselves, and therefore caused them to sheath their swords in one another’s bowels, as appears from 1Sa 14:16,20.",
+     "anchor": "Jonathan and his armourbearer",
+     "refs": [
+      {
+       "text": "1Sa 14:16",
+       "ref": "1SA.14.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.15",
+   "range": "1SA.14.15",
+   "kind": "passage",
+   "hash": "42585928",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.15#p1-5d36ce79",
+     "text": "a great consternation; partly from this unexpected and prodigious slaughter, which made them suspect there was more than man in the case, and that the Lord (of whose infinite power they had had former experience) was come forth to fight against them; and partly from the Lord, who took away their spirits and strength, and struck them with fear and amazement.",
+     "anchor": "Trembling"
+    },
+    {
+     "id": "poole/1SA.14.15#p2-532b662a",
+     "text": "i.e. in the whole host, which as there in the field.",
+     "anchor": "In the field"
+    },
+    {
+     "id": "poole/1SA.14.15#p3-70f3e59c",
+     "text": "i.e. among all the rest of their forces, as well those in the garrison (as it is here explained in the following words) at Michmash, as the spoilers, mentioned 1Sa 13:17; the report of this prodigy, and with it the terror of God, speedily passing from one to another.",
+     "anchor": "Among all the people",
+     "refs": [
+      {
+       "text": "1Sa 13:17",
+       "ref": "1SA.13.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.15#p4-a12a5354",
+     "text": "either,",
+     "anchor": "The earth quaked"
+    },
+    {
+     "id": "poole/1SA.14.15#p5-e1aac41b",
+     "text": "1. Metaphorically and hyperbolically, the whole land, i.e. the inhabitants of the land, to wit, of the Philistines, trembled. Or rather,"
+    },
+    {
+     "id": "poole/1SA.14.15#p6-12d172b2",
+     "text": "2. Properly, God sent an earthquake among them, which probably overthrew their tents and chariots, and destroyed many of their persons, and scattered the whole host, making them to flee away for their lives."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.16",
+   "range": "1SA.14.16",
+   "kind": "passage",
+   "hash": "eb35cc72",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.16#p1-cc73012c",
+     "text": "or, in the hill, as the very same word is rendered, 1Sa 13:16, and that was the fittest place for watchmen.",
+     "anchor": "In Gibeah",
+     "refs": [
+      {
+       "text": "1Sa 13:16",
+       "ref": "1SA.13.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.16#p2-27e36f49",
+     "text": "to wit, of that numerous host of the Philistines.",
+     "anchor": "The multitude"
+    },
+    {
+     "id": "poole/1SA.14.16#p3-a63403a5",
+     "text": "i.e. were strangely and suddenly dispersed, and put to flight.",
+     "anchor": "Melted away"
+    },
+    {
+     "id": "poole/1SA.14.16#p4-a12a5354",
+     "text": "either,",
+     "anchor": "Beating down one another"
+    },
+    {
+     "id": "poole/1SA.14.16#p5-f713e1a4",
+     "text": "1. Accidentally, through hasty flight; or,"
+    },
+    {
+     "id": "poole/1SA.14.16#p6-7166f171",
+     "text": "2. With design to destroy one another, as the authors or abettors of the present calamity. Possibly God blinded their eyes or their minds, that they could not distinguish friends from foes. Compare Jud 7:22 2Ki 6:18, &c.; 2Ch 20:23.",
+     "refs": [
+      {
+       "text": "Jud 7:22",
+       "ref": "JUD.7.22"
+      },
+      {
+       "text": "2Ki 6:18",
+       "ref": "2KI.6.18"
+      },
+      {
+       "text": "2Ch 20:23",
+       "ref": "2CH.20.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.17",
+   "range": "1SA.14.17",
+   "kind": "passage",
+   "hash": "d5db4430",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.17#p1-d5db4430",
+     "text": "probably supposed that not only Jonathan, but also some considerable number of his army, was gone, and that by them that slaughter was made.",
+     "anchor": "Saul"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.18",
+   "range": "1SA.14.18",
+   "kind": "passage",
+   "hash": "4408740d",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.18#p1-f3e62965",
+     "text": "That the priest may put on the ephod, and may inquire of the Lord before the ark what the occasion of this tumult among our enemies is, and what we shall do."
+    },
+    {
+     "id": "poole/1SA.14.18#p2-4e3fc97c",
+     "text": "to wit, in the camp, whither sometimes it was brought; as 1Sa 4:5; and now the rather, partly because it was now in an unsettled condition, and without the tabernacle, and therefore easily removed from place to place; and partly because Saul thought to compensate Samuel’s absence with the presence of the ark.",
+     "anchor": "With the children of Israel",
+     "refs": [
+      {
+       "text": "1Sa 4:5",
+       "ref": "1SA.4.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.19",
+   "range": "1SA.14.19",
+   "kind": "passage",
+   "hash": "ec7cd268",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.19#p1-ec7cd268",
+     "text": "Trouble not thyself in putting on the breastplate, with the ephod, to inquire of God; for I now plainly discern the matter; the business calls not for prayer, but for action. But if it did so, there was the more need of God’s direction and blessing, that they might act with more success. Herein therefore he shows his impatience in waiting upon God; his hypocrisy, in pretending to religion; and yet his profaneness, in neglecting and despising it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.20",
+   "range": "1SA.14.20",
+   "kind": "passage",
+   "hash": "bcb4035f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.20#p1-bcb4035f",
+     "text": "The Philistines slew one another; which might come, either from mistake, of which see on 1Sa 14:16; or from mutual jealousies and passions, to which God could easily dispose them.",
+     "refs": [
+      {
+       "text": "1Sa 14:16",
+       "ref": "1SA.14.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.21",
+   "range": "1SA.14.21",
+   "kind": "passage",
+   "hash": "c76bbf96",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.21#p1-c76bbf96",
+     "text": "either by constraint, as servants; or in policy, to gain their favour and protection.",
+     "anchor": "Which went up with them into the camp"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.23",
+   "range": "1SA.14.23",
+   "kind": "passage",
+   "hash": "da762d9d",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.23#p1-da762d9d",
+     "text": "i.e. the warriors who were engaged in the battle, and were pursuing and fighting with the Philistines.",
+     "anchor": "The battle"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.24",
+   "range": "1SA.14.24",
+   "kind": "passage",
+   "hash": "989c38a4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.24#p1-989c38a4",
+     "text": "with hunger, and weakness, and faintness, thence arising; and all by reason of the following oath. As Saul’s intention was good, namely, to execute vengeance upon God’s and his enemies; so the matter of the obligation was not simply and in itself unlawful, if it had not been so rigorous in excluding all food, without any exception of cases of necessity; and in obliging the people to it under pain of a curse, and an accursed death, 1Sa 14:38,39,44, which was a punishment far exceeding the fault. None of the people tasted any food; partly in obedience to the king’s command; and partly for fear of the curse.",
+     "anchor": "Were distressed",
+     "refs": [
+      {
+       "text": "1Sa 14:38",
+       "ref": "1SA.14.38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.25",
+   "range": "1SA.14.25",
+   "kind": "passage",
+   "hash": "7a75fc73",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.25#p1-7a75fc73",
+     "text": "Heb. all the land, i.e. the people of the land; as it is explained below, 1Sa 14:29; and so the word is taken Gen 41:57. All the Israelites who were with Saul.",
+     "anchor": "All they of the land",
+     "refs": [
+      {
+       "text": "1Sa 14:29",
+       "ref": "1SA.14.29"
+      },
+      {
+       "text": "Gen 41:57",
+       "ref": "GEN.41.57"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.26",
+   "range": "1SA.14.26",
+   "kind": "passage",
+   "hash": "caefe752",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.26#p1-caefe752",
+     "text": "It hath been observed by many travellers and writers, that bees do ofttimes settle themselves, and make their hives and honey, in the trunks of trees, or clefts of rocks, or holes of the earth; and this in divers countries, but eminently in this of Canaan; as may be gathered from Deu 32:13 Psa 81:16; whence it was called a land flowing with milk and honey.",
+     "anchor": "The honey dropped",
+     "refs": [
+      {
+       "text": "Deu 32:13",
+       "ref": "DEU.32.13"
+      },
+      {
+       "text": "Psa 81:16",
+       "ref": "PSA.81.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.27",
+   "range": "1SA.14.27",
+   "kind": "passage",
+   "hash": "c9836107",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.27#p1-4472d481",
+     "text": "being then absent, and in pursuit of the Philistines, divers of the Israelites having joined themselves with him, 1Sa 14:21.",
+     "anchor": "Jonathan heard not",
+     "refs": [
+      {
+       "text": "1Sa 14:21",
+       "ref": "1SA.14.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.27#p2-be42d747",
+     "text": "he was refreshed, and recovered his lost spirits, whereof part went into his optic nerves, and so cleared his sight, which was much darkened by famine, as is usual.",
+     "anchor": "His eyes were enlightened"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.28",
+   "range": "1SA.14.28",
+   "kind": "passage",
+   "hash": "17477fad",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.28#p1-17477fad",
+     "text": "who came along with Saul, whose forces were now united with Jonathan’s.",
+     "anchor": "One of the people"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.29",
+   "range": "1SA.14.29",
+   "kind": "passage",
+   "hash": "2c2c4f4b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.29#p1-2c2c4f4b",
+     "text": "i.e. the people of the land, the whole army, whom by this rash oath he hath greatly injured. The zeal of defending himself makes him run into the other extreme of accusing his father, and that before the people, whom by this means he might have stirred up to a sedition.",
+     "anchor": "The land"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.31",
+   "range": "1SA.14.31",
+   "kind": "passage",
+   "hash": "1ef8f27f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.31#p1-1ef8f27f",
+     "text": "either that in Dan, Jos 19:42; or rather, that in Judah, 2Ch 11:10.",
+     "anchor": "Aijalon",
+     "refs": [
+      {
+       "text": "Jos 19:42",
+       "ref": "JOS.19.42"
+      },
+      {
+       "text": "2Ch 11:10",
+       "ref": "2CH.11.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.32",
+   "range": "1SA.14.32",
+   "kind": "passage",
+   "hash": "fffd5b3e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.32#p1-68a77d2a",
+     "text": "to wit, at evening, when the time prefixed by Saul was expired.",
+     "anchor": "The people flew upon the spoil"
+    },
+    {
+     "id": "poole/1SA.14.32#p2-559fe660",
+     "text": "not having patience to tarry till the blood was perfectly gone out of them, as they should have done. See Gen 9:4 Lev 17:14 Deu 12:16. So they who seemed to make conscience of the king’s commandment for fear of the curse, make no scruple of transgressing God’s command.",
+     "anchor": "With the blood",
+     "refs": [
+      {
+       "text": "Gen 9:4",
+       "ref": "GEN.9.4"
+      },
+      {
+       "text": "Lev 17:14",
+       "ref": "LEV.17.14"
+      },
+      {
+       "text": "Deu 12:16",
+       "ref": "DEU.12.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.33",
+   "range": "1SA.14.33",
+   "kind": "passage",
+   "hash": "19836744",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.33#p1-049bf06f",
+     "text": "He sees their fault, but not his own, in giving the occasion to it."
+    },
+    {
+     "id": "poole/1SA.14.33#p2-d49fe309",
+     "text": "that the cattle might be all killed in one place, under the inspection of Saul, or some other appointed by him for that work; and upon the stone, that the blood may sooner and better flow out.",
+     "anchor": "Roll a great stone unto me"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.34",
+   "range": "1SA.14.34",
+   "kind": "passage",
+   "hash": "0d20d7a5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.34#p1-0d20d7a5",
+     "text": "And his sheep, which is to be understood out of the foregoing words."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.35",
+   "range": "1SA.14.35",
+   "kind": "passage",
+   "hash": "bdcd6497",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.35#p1-40e38d8c",
+     "text": "Either for a monument of the victory; or rather, for sacrifice, as the next words imply."
+    },
+    {
+     "id": "poole/1SA.14.35#p2-4f477c0f",
+     "text": "though he had occasion to do so oft ere this time. So this is quoted as another evidence of his neglect of God and his worship. It is true, Saul sacrificed before this, as at Gilgal; but that was upon an old altar, erected by others.",
+     "anchor": "The same was the first altar"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.36",
+   "range": "1SA.14.36",
+   "kind": "passage",
+   "hash": "b0ebf324",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.36#p1-4fabe9b4",
+     "text": "Remembering Saul’s contempt of God’s ordinance the last time, and the in consequence of it; and perceiving Saul ready to run into the same error again, even though he had not now the same pretence of the necessity of haste as before, and that the people were forward to comply with the motion; he gives them this pious and prudent advice."
+    },
+    {
+     "id": "poole/1SA.14.36#p2-bb66e77b",
+     "text": "to wit, to the ark, as above, 1Sa 14:18.",
+     "anchor": "Hither unto God",
+     "refs": [
+      {
+       "text": "1Sa 14:18",
+       "ref": "1SA.14.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.37",
+   "range": "1SA.14.37",
+   "kind": "passage",
+   "hash": "06c01f1f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.37#p1-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/1SA.14.37#p2-1c76dfae",
+     "text": "1. Because he was displeased with Saul for his former neglect, 1Sa 14:18,19, where he began to ask advice of God, but was so rude and impious as not to tarry for an answer; and therefore it was but a just retaliation, if when Saul did ask, God would not vouchsafe him an answer. Or,",
+     "refs": [
+      {
+       "text": "1Sa 14:18",
+       "ref": "1SA.14.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.37#p3-e2822157",
+     "text": "2. To manifest his dislike of the violation of oaths. For although Jonathan might have a fair excuse from his invincible ignorance and urgent necessity; and though Saul had done foolishly in making this oath (which also God would this way discover); yet when once it was made, God would hereby teach them that it should be observed, and that they should abstain even from all appearance of the breach of it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.38",
+   "range": "1SA.14.38",
+   "kind": "passage",
+   "hash": "50e4cdc7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.38#p1-50e4cdc7",
+     "text": "in the name of all the people, that you may be witnesses, and may see where the fault lies.",
+     "anchor": "All the chief of the people"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.39",
+   "range": "1SA.14.39",
+   "kind": "passage",
+   "hash": "f26b1501",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.39#p1-f26b1501",
+     "text": "None of those who either saw Jonathan eating, or heard of it, informed against him; partly because they were satisfied that his ignorance excused him, and that there was some other reason of God’s not answering; and partly from their great love to Jonathan, whom they would not expose to death for so small an offence."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.41",
+   "range": "1SA.14.41",
+   "kind": "passage",
+   "hash": "3d30ebdf",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.41#p1-a85d2d5f",
+     "text": "or declare (for giving is oft put for declaring or pronouncing, as Deu 11:29 13:1,2 Pr 9:9) the perfect or guiltless person; i.e. O Lord, so guide the lot, that it may discover who is guilty in this matter, and that it may clear the innocent.",
+     "anchor": "Give a perfect lot",
+     "refs": [
+      {
+       "text": "Deu 11:29",
+       "ref": "DEU.11.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.41#p2-c15d609c",
+     "text": "to wit, the danger; they were pronounced guiltless.",
+     "anchor": "The people escaped"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.42",
+   "range": "1SA.14.42",
+   "kind": "passage",
+   "hash": "24f9eae4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.42#p1-24f9eae4",
+     "text": "God so ordered the lot; not that he approved Saul’s execration, 1Sa 14:24, or his oath that the transgressor should die, 1Sa 14:39, nor that he would expose Jonathan to death; (for he designed so to rule the hearts of the people, and of Saul also, that Jonathan should not die;) but because he would have the whole matter brought to light; partly, that Saul’s folly might be chastised, when he saw what danger it had brought upon his eldest and excellent son; partly, that Jonathan’s innocency might he cleared; and partly, to stablish the authority of kings and rulers, and the obedience which subjects owe to all their lawful commands.",
+     "refs": [
+      {
+       "text": "1Sa 14:24",
+       "ref": "1SA.14.24"
+      },
+      {
+       "text": "1Sa 14:39",
+       "ref": "1SA.14.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.43",
+   "range": "1SA.14.43",
+   "kind": "passage",
+   "hash": "92337602",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.43#p1-92337602",
+     "text": "I am sentenced to death for it; which is hard measure. He had another answer, that he knew not of his father’s command; but that being said before, 1Sa 14:27, it was needless here to repeat it.",
+     "refs": [
+      {
+       "text": "1Sa 14:27",
+       "ref": "1SA.14.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.44",
+   "range": "1SA.14.44",
+   "kind": "passage",
+   "hash": "cc881d92",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.44#p1-2556eccd",
+     "text": "From this and other like expressions of Saul’s, some gather that he was exceeding prone to the vice of swearing and cursing."
+    },
+    {
+     "id": "poole/1SA.14.44#p2-a0b3f1f9",
+     "text": "strange perverseness! He who was so indulgent as to spare wicked Agag, 1Sa 15, is now so severe as to destroy his own worthy son: he that could easily dispense with God’s righteous and reasonable command, will not bear the violation of his own rash and foolish command; because his own authority and power is concerned in this, and only God’s in the other.",
+     "anchor": "Thou shalt surely die"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.45",
+   "range": "1SA.14.45",
+   "kind": "passage",
+   "hash": "8b04d897",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.45#p1-8b04d897",
+     "text": "i.e. in concurrence with God, or by God’s help he had wrought this salvation. God is so far from being offended with Jonathan, as thou apprehendest, that he hath graciously owned and assisted him in the great service of this day.",
+     "anchor": "With God"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.46",
+   "range": "1SA.14.46",
+   "kind": "passage",
+   "hash": "3e3945ee",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.46#p1-3e3945ee",
+     "text": "partly because he was discouraged by God’s refusing to answer him; and partly because his delays had given them occasion to secure themselves.",
+     "anchor": "Saul went up from following the Philistines"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.47",
+   "range": "1SA.14.47",
+   "kind": "passage",
+   "hash": "a29b5837",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.47#p1-5a887fa0",
+     "text": "i.e. recovered it, and resumed the administration of it, after he had in a manner lost it, partly by Samuel’s sentence, 1Sa 13:14, and partly by the Philistines, who had almost turned him out of it. But now, being encouraged by this success, he returns to the exercise of his kingly office.",
+     "anchor": "Took the kingdom",
+     "refs": [
+      {
+       "text": "1Sa 13:14",
+       "ref": "1SA.13.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.47#p2-57e49a03",
+     "text": "lay not far from Damascus. See 2Sa 8:5.",
+     "anchor": "Zobah",
+     "refs": [
+      {
+       "text": "2Sa 8:5",
+       "ref": "2SA.8.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.14.47#p3-1aa8ab4e",
+     "text": "Heb. he condemned them, he treated them like wicked people, and enemies to God and his people; or, he punished them.",
+     "anchor": "He vexed them"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.48",
+   "range": "1SA.14.48",
+   "kind": "passage",
+   "hash": "3a0ed5fd",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.48#p1-3a0ed5fd",
+     "text": "which is here mentioned only in the general, but is particularly described in the next chapter.",
+     "anchor": "Smote the Amalekites"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.49",
+   "range": "1SA.14.49",
+   "kind": "passage",
+   "hash": "f9e3d7e7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.49#p1-f9e3d7e7",
+     "text": "called also Abinadab, 1Sa 31:2 1Ch 8:33. Ishbosheth, Saul’s other son, is here omitted, because he intended to mention only those of his sons who went with him into the battles here mentioned, and who were afterwards slain with him.",
+     "anchor": "Ishui",
+     "refs": [
+      {
+       "text": "1Sa 31:2",
+       "ref": "1SA.31.2"
+      },
+      {
+       "text": "1Ch 8:33",
+       "ref": "1CH.8.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.14.52",
+   "range": "1SA.14.52",
+   "kind": "passage",
+   "hash": "c03aeddd",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.14.52#p1-c03aeddd",
+     "text": "Into his service, or army."
+    }
+   ]
+  }
+ ]
+}

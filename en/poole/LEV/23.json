@@ -1,0 +1,822 @@
+{
+ "source": "poole",
+ "book": "LEV",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "poole/LEV.23",
+   "range": "LEV.23",
+   "kind": "chapter",
+   "hash": "a86bc9f4",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23#p1-a86bc9f4",
+     "text": "The feasts or, the Lord, Lev 23:1,2. The sabbath, Lev 23:3. The passover, Lev 23:4-8. The sheaf of first-fruits, Lev 23:9-14. The feast of pentecost, Lev 23:15-21. Gleanings to be left for the poor, Lev 23:22. The feast of trumpets, Lev 23:23-25. The day of atonement, Lev 23:26-32. The feast of tabernacles, Lev 23:33-43.",
+     "refs": [
+      {
+       "text": "Lev 23:1",
+       "ref": "LEV.23.1"
+      },
+      {
+       "text": "Lev 23:3",
+       "ref": "LEV.23.3"
+      },
+      {
+       "text": "Lev 23:4-8",
+       "ref": "LEV.23.4-8"
+      },
+      {
+       "text": "Lev 23:9-14",
+       "ref": "LEV.23.9-14"
+      },
+      {
+       "text": "Lev 23:15-21",
+       "ref": "LEV.23.15-21"
+      },
+      {
+       "text": "Lev 23:22",
+       "ref": "LEV.23.22"
+      },
+      {
+       "text": "Lev 23:23-25",
+       "ref": "LEV.23.23-25"
+      },
+      {
+       "text": "Lev 23:26-32",
+       "ref": "LEV.23.26-32"
+      },
+      {
+       "text": "Lev 23:33-43",
+       "ref": "LEV.23.33-43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.2",
+   "range": "LEV.23.2",
+   "kind": "passage",
+   "hash": "aebb763a",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.2#p1-e5e0611a",
+     "text": "i.e. cause to be proclaimed by the priests. See Num 10:8-10.",
+     "anchor": "Ye shall proclaim",
+     "refs": [
+      {
+       "text": "Num 10:8-10",
+       "ref": "NUM.10.8-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.2#p2-410706a9",
+     "text": "days for your assembling together to my worship and service in a special manner.",
+     "anchor": "Holy convocations"
+    },
+    {
+     "id": "poole/LEV.23.2#p3-f99b2fbf",
+     "text": "which I have appointed, and the right observation whereof I will accept.",
+     "anchor": "These are my feasts"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.3",
+   "range": "LEV.23.3",
+   "kind": "passage",
+   "hash": "5d3efa7c",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.3#p1-5d3efa7c",
+     "text": "No work; so it runs in the general for the sabbath day, and for the day of expiation, Lev 23:28, excluding all works about earthly occasions or employments, whether of profit or pleasure; but on other feast days he forbids only servile works, as Lev 23:7,21,36, for surely this manifest difference in the expressions used by the wise God must needs imply a difference in the things. In all your dwellings: this is added to distinguish the sabbath from other feasts, which were to be kept before the Lord in Jerusalem only, whither all the males were to come for that end; but the sabbath was to be kept in all places, where they were, both in synagogues, which were erected for that end, and in their private houses.",
+     "refs": [
+      {
+       "text": "Lev 23:28",
+       "ref": "LEV.23.28"
+      },
+      {
+       "text": "Lev 23:7",
+       "ref": "LEV.23.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.4",
+   "range": "LEV.23.4",
+   "kind": "passage",
+   "hash": "176b0a11",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.4#p1-176b0a11",
+     "text": "In their appointed and proper times, as the word is used Gen 1:14 Psa 104:19.",
+     "refs": [
+      {
+       "text": "Gen 1:14",
+       "ref": "GEN.1.14"
+      },
+      {
+       "text": "Psa 104:19",
+       "ref": "PSA.104.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.8",
+   "range": "LEV.23.8",
+   "kind": "passage",
+   "hash": "59fffece",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.8#p1-59fffece",
+     "text": "Seven days, the matter and manner whereof, see Num 28:18, &c.",
+     "refs": [
+      {
+       "text": "Num 28:18",
+       "ref": "NUM.28.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.10",
+   "range": "LEV.23.10",
+   "kind": "passage",
+   "hash": "de6fa306",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.10#p1-4b52e980",
+     "text": "therefore this obliged them not in the desert, where they reaped no harvest, &c.",
+     "anchor": "When ye be come into the land"
+    },
+    {
+     "id": "poole/LEV.23.10#p2-d6319859",
+     "text": "i.e. begin to reap, as it is expounded Deu 16:9. So, he begat, i.e. began to beget, Gen 5:32 11:26; and, he built, 1Ki 6:1, i.e. he began to build, as it is explained 2Ch 3:2. The harvest thereof, to wit, barley harvest, which was before wheat harvest. See Exo 9:31,32 34:22 Rth 2:23.",
+     "anchor": "Shall reap",
+     "refs": [
+      {
+       "text": "Deu 16:9",
+       "ref": "DEU.16.9"
+      },
+      {
+       "text": "Gen 5:32",
+       "ref": "GEN.5.32"
+      },
+      {
+       "text": "1Ki 6:1",
+       "ref": "1KI.6.1"
+      },
+      {
+       "text": "2Ch 3:2",
+       "ref": "2CH.3.2"
+      },
+      {
+       "text": "Exo 9:31",
+       "ref": "EXO.9.31"
+      },
+      {
+       "text": "Rth 2:23",
+       "ref": "RUT.2.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.10#p3-3de8aa8e",
+     "text": "Heb. an omer, which is the tenth part of an ephah. It seems here to note the measure of corn which was to be offered. For it is to be considered that they did not offer this corn in the ear, or by a sheaf or handful, but as Josephus, iii. 10, affirms, and may be gathered from Lev 2:14-16, purged from the chaff, and dried, and beaten out, and, some add, ground into meal, and sifted into fine flour; though this may be doubted of, because the meat-offering attending upon this was of fine flour, Lev 23:13, and because this offering is said to be of green ears of corn dried, &c., Lev 2:14.",
+     "anchor": "A sheaf",
+     "refs": [
+      {
+       "text": "Lev 2:14-16",
+       "ref": "LEV.2.14-16"
+      },
+      {
+       "text": "Lev 23:13",
+       "ref": "LEV.23.13"
+      },
+      {
+       "text": "Lev 2:14",
+       "ref": "LEV.2.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.11",
+   "range": "LEV.23.11",
+   "kind": "passage",
+   "hash": "d2ecdcfd",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.11#p1-2b3e8e62",
+     "text": "that God may accept of you, and bless you in the rest of your harvest.",
+     "anchor": "To be accepted for you"
+    },
+    {
+     "id": "poole/LEV.23.11#p2-a56bab51",
+     "text": "i.e. after the first day of the feast of unleavened bread, which was a sabbath, or day of rest, as appears from Lev 23:7, or upon the sixteenth day of the month. And this was the first of those fifty days, in the close whereof was the feast of pentecost, or Whitsuntide.",
+     "anchor": "On the morrow after the sabbath",
+     "refs": [
+      {
+       "text": "Lev 23:7",
+       "ref": "LEV.23.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.12",
+   "range": "LEV.23.12",
+   "kind": "passage",
+   "hash": "45cf685a",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.12#p1-45cf685a",
+     "text": "besides the daily morning and evening sacrifice, which it was needless to mention here, and besides one of those sacrifices to be offered every day of the seven, Lev 23:8.",
+     "anchor": "An he lamb",
+     "refs": [
+      {
+       "text": "Lev 23:8",
+       "ref": "LEV.23.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.13",
+   "range": "LEV.23.13",
+   "kind": "passage",
+   "hash": "65afc415",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.13#p1-c09b6859",
+     "text": "or, parts, to wit, of an ephah, i. e. two omers, whereas in other sacrifices of lambs there was but one tenth deal prescribed, Num 15:4. The reason of which disproportion may be this, that one of the tenth deals was a necessary attendant upon the lamb, and the other was peculiar to this feast and occasion, and was an attendant upon that of the sheaf or corn, and was offered with it in thanksgiving to God for the fruits of the earth. Drink-offerings were added to all burnt-offerings, as we may see Num 15:5.",
+     "anchor": "Two tenth deals",
+     "refs": [
+      {
+       "text": "Num 15:4",
+       "ref": "NUM.15.4"
+      },
+      {
+       "text": "Num 15:5",
+       "ref": "NUM.15.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.13#p2-1a902042",
+     "text": "the measure appointed for every lamb, Num 15:5. This also probably would have been doubled, for the reason now mentioned, had this been a thank-offering for the vintage, as it was for the harvest.",
+     "anchor": "An hin",
+     "refs": [
+      {
+       "text": "Num 15:5",
+       "ref": "NUM.15.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.14",
+   "range": "LEV.23.14",
+   "kind": "passage",
+   "hash": "76c13d5f",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.14#p1-a1d3c650",
+     "text": "made of new wheat, as the nature and reason of the law showeth.",
+     "anchor": "Bread"
+    },
+    {
+     "id": "poole/LEV.23.14#p2-9b2b44d2",
+     "text": "which were usual, not only for offerings to God, as Lev 2:14, but also for man’s food. See Jos 5:11 Rth 2:14 1Sa 17:17 Mat 12:1.",
+     "anchor": "Nor green ears",
+     "refs": [
+      {
+       "text": "Lev 2:14",
+       "ref": "LEV.2.14"
+      },
+      {
+       "text": "Jos 5:11",
+       "ref": "JOS.5.11"
+      },
+      {
+       "text": "Rth 2:14",
+       "ref": "RUT.2.14"
+      },
+      {
+       "text": "1Sa 17:17",
+       "ref": "1SA.17.17"
+      },
+      {
+       "text": "Mat 12:1",
+       "ref": "MAT.12.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.14#p3-57d6d490",
+     "text": "good reason God should be first served and owned as the supreme Landlord.",
+     "anchor": "Until the selfsame day"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.15",
+   "range": "LEV.23.15",
+   "kind": "passage",
+   "hash": "a42ef086",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.15#p1-8b158d49",
+     "text": "i.e. from the sixteenth day of the month, and the second day of the feast of unleavened bread inclusively. See on Lev 23:11.",
+     "anchor": "From the morrow after the sabbath",
+     "refs": [
+      {
+       "text": "Lev 23:11",
+       "ref": "LEV.23.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.15#p2-70bd6d9c",
+     "text": "i.e. weeks, which are so called, by a synecdoche, from the chief day of it, both here and Luk 18:12 Act 20:7 1Co 16:2.",
+     "anchor": "Seven sabbaths",
+     "refs": [
+      {
+       "text": "Luk 18:12",
+       "ref": "LUK.18.12"
+      },
+      {
+       "text": "Act 20:7",
+       "ref": "ACT.20.7"
+      },
+      {
+       "text": "1Co 16:2",
+       "ref": "1CO.16.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.16",
+   "range": "LEV.23.16",
+   "kind": "passage",
+   "hash": "a98f3704",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.16#p1-c6c599f4",
+     "text": "i.e. After seven weeks, or forty-nine days, the morrow after which was the fiftieth day, called also pentecost."
+    },
+    {
+     "id": "poole/LEV.23.16#p2-bd90b554",
+     "text": "to wit, of new corn made into loaves, as it follows.",
+     "anchor": "A new meat offering"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.17",
+   "range": "LEV.23.17",
+   "kind": "passage",
+   "hash": "2e30e4b5",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.17#p1-3d24b686",
+     "text": "i.e. out of the corn of your own land, for which and for the fruits of it you are now to offer praises unto God. And this also, as well as the former sacrifice, was brought out of the common charge, and in the name of the whole nation, whence it is said to be brought out of their habitations in the plural number. Some conceive two several loaves were brought from every family, or, as others, from every city or town. But this is easily confuted from Lev 23:18, where we read that with the bread, to wit, the two loaves, were to be offered seven lambs, one bullock, &c., which doubtless was a common oblation, and in the name of all.",
+     "anchor": "Out of your habitations",
+     "refs": [
+      {
+       "text": "Lev 23:18",
+       "ref": "LEV.23.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.17#p2-532ed419",
+     "text": "in double proportion, as before, Lev 23:13.",
+     "anchor": "Two wave loaves",
+     "refs": [
+      {
+       "text": "Lev 23:13",
+       "ref": "LEV.23.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.17#p3-ed767d9f",
+     "text": "because these were not offered to God, but wholly given to the priest for food. See on Lev 2:11 7:13.",
+     "anchor": "Baken with leaven",
+     "refs": [
+      {
+       "text": "Lev 2:11",
+       "ref": "LEV.2.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.18",
+   "range": "LEV.23.18",
+   "kind": "passage",
+   "hash": "c4a9a20c",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.18#p1-c4a9a20c",
+     "text": "in Num 28:11,19 it is two young bullocks and one ram. Either therefore it was left to their liberty to choose which they would offer, or one of the bullocks there, and one of the rams here, were the peculiar sacrifices of the feast-day, and the other were attendants upon the two loaves, which were the principal and most proper offering at this time. And the one may be mentioned there, and the other here, to teach us that the addition of a new sacrifice did not destroy the former, but both were to be offered, as the extraordinary sacrifices of every feast did not hinder the oblation of the daily sacrifice.",
+     "anchor": "Two rams",
+     "refs": [
+      {
+       "text": "Num 28:11",
+       "ref": "NUM.28.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.19",
+   "range": "LEV.23.19",
+   "kind": "passage",
+   "hash": "65c6c425",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.19#p1-65c6c425",
+     "text": "in Lev 4:14 the sin-offering for the sin of the people is a bullock, but here a kid, &c.; the reason of the difference may be this, because that was for some particular sin of the people, but this only in general for all their sins. If it be said, then this should have been the better sacrifice, as being for far more, and possibly greater, offences; it may be replied, that this is not the only instance wherein the greater sins are expiated by smaller sacrifices, and the smaller sins by greater sacrifices, which was to instruct us, that sins were not expiated by the sacrifices for any worth in them, but only in respect of Christ, and that, though all sins are not equal, yet they are all expiated by one and the same price, even by the blood of Christ.",
+     "anchor": "One kid",
+     "refs": [
+      {
+       "text": "Lev 4:14",
+       "ref": "LEV.4.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.20",
+   "range": "LEV.23.20",
+   "kind": "passage",
+   "hash": "658e7872",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.20#p1-658e7872",
+     "text": "i.e. some part of them in the name of the whole, and so for the two lambs, otherwise they had been too big and too heavy to be waved. So it is a synecdochical expression. For the priests; who had to themselves not only the breast and shoulder, as in others, which belonged to the priest, but also the rest which belonged to the offerer, because the whole congregation being the offerer here, it could neither be distributed to them all, nor given to some without offence or injury to the rest.",
+     "anchor": "The priest shall wave them"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.21",
+   "range": "LEV.23.21",
+   "kind": "passage",
+   "hash": "014c553b",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.21#p1-014c553b",
+     "text": "a sabbath or day of rest, called pentecost, which was instituted, partly in remembrance of the consummation of their deliverance out of Egypt, by bringing them thence to the mount of God, or Sinai, as God had promised, and of that admirable blessing of giving the law to them at that time, and forming them into a commonwealth under his own immediate government; and partly in gratitude for the further progress of their harvest, as in the passover they offered a thank-offering to God for the beginning of their harvest.",
+     "anchor": "An holy convocation"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.22",
+   "range": "LEV.23.22",
+   "kind": "passage",
+   "hash": "323759a6",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.22#p1-323759a6",
+     "text": "From the plural ye he comes to the singular thou, because he would press this duty upon every person who hath a harvest to reap, that none might plead exemption from it. And it is observable, that though the present business is only concerning the worship of God, yet he makes a kind of excursion to repeat a former law of providing for the poor, to show that our piety and devotion to God is little esteemed by him, if it be not accompanied with acts of charity to men."
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.24",
+   "range": "LEV.23.24",
+   "kind": "passage",
+   "hash": "84c5f56b",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.24#p1-8a552f01",
+     "text": "i.e. solemnized with the blowing of trumpets by the priests; not in a common way, as they did every first day of every month, Num 10:10, but in an extraordinary manner, not only in Jerusalem, but in all the cities of Israel. This seems to have been instituted,",
+     "anchor": "A memorial of blowing of trumpets",
+     "refs": [
+      {
+       "text": "Num 10:10",
+       "ref": "NUM.10.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.24#p2-c7816391",
+     "text": "1. To solemnize the beginning of the new year, whereof as to civil matters, and particularly as to the jubilee, this was the first day; concerning which it was fit the people should be admonished, both to excite their thankfulness for God’s blessing in the last year, and to direct them in the management of their civil affairs."
+    },
+    {
+     "id": "poole/LEV.23.24#p3-65f5a297",
+     "text": "2. To put a special honour upon this month. For as the seventh day was the sabbath, and the seventh year was a sabbatical year; so God would have the seventh month to be a kind of sabbatical month, for the many sabbaths and solemn feasts which were observed in this more than in any other month. And by this sounding of the trumpets in its beginning, God would quicken and prepare them for the following sabbaths, as well that of atonement and humiliation for their sins, as those of thanksgiving for God’s mercies."
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.27",
+   "range": "LEV.23.27",
+   "kind": "passage",
+   "hash": "61e0a6bd",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.27#p1-61e0a6bd",
+     "text": "with fasting, and bitter repentance for all, especially their national sins, among which no doubt God would have them remember their sin of the golden calf. For as God had threatened to remember it in after-times to punish them for it, Exo 32:34, so there was great reason why they should remember it to humble themselves for it.",
+     "anchor": "Ye shall afflict your souls",
+     "refs": [
+      {
+       "text": "Exo 32:34",
+       "ref": "EXO.32.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.29",
+   "range": "LEV.23.29",
+   "kind": "passage",
+   "hash": "ba508dff",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.29#p1-ba508dff",
+     "text": "either of the Jewish nation or religion. Hereby God would signify the absolute necessity which every man had of repentance and forgiveness of sin, and the desperate condition of all impenitent persons.",
+     "anchor": "Whatsoever soul"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.32",
+   "range": "LEV.23.32",
+   "kind": "passage",
+   "hash": "bdbefb36",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.32#p1-6efa254c",
+     "text": "This clause seems to be added to answer an objection, how this day of atonement could be both on the tenth day Lev 23:27, and on the ninth day here. The answer is, it began at the evening or close of the ninth day, and continued till the evening or close of the tenth day; and so both were true, especially if you consider, that the Jews did take in some part of the sixth day’s evening by way of preparation for the sabbath, and therefore would much more take in a part of the ninth day to prepare and begin the great and solemn work of their yearly atonement. And this clause may be understood either,",
+     "refs": [
+      {
+       "text": "Lev 23:27",
+       "ref": "LEV.23.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.32#p2-2c454f3b",
+     "text": "1. Of this-particular sabbath, called here"
+    },
+    {
+     "id": "poole/LEV.23.32#p3-a6a93670",
+     "text": "in the singular number, possibly to note the difference between this and other sabbaths; for the weekly sabbath is oft called the sabbath of the Lord, because that was in a special manner appointed for the praising, honouring, and serving of God, and celebrating his glorious works, as also the other sabbaths here mentioned were, whereas this was principally ordained for their need and for their good, even to seek and obtain the pardon of their sins. Or,",
+     "anchor": "your sabbath"
+    },
+    {
+     "id": "poole/LEV.23.32#p4-84b071e3",
+     "text": "2. Of all their sabbaths, and consequently of this. The Jews are supposed to begin every day, and consequently their sabbaths, at the evening, in remembrance of the creation, Gen 1:5, as Christians generally begin their days and sabbaths with the morning, in memory of Christ’s resurrection.",
+     "refs": [
+      {
+       "text": "Gen 1:5",
+       "ref": "GEN.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.34",
+   "range": "LEV.23.34",
+   "kind": "passage",
+   "hash": "dd557b97",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.34#p1-dd557b97",
+     "text": "i.e. of tents, or booths, or arbours. This feast was appointed principally to remind them of that time when they had no other dwellings in the wilderness, as it is expressed Lev 23:43, and to stir them up to bless God as well for the gracious conduct and protection then afforded them, as for their more commodious and secure habitations now given them; and secondarily, to excite them to gratitude for all the fruits of the year newly ended, which were now completely brought in, as may be gathered from Lev 23:39 Exo 23:16 Deu 16:13,14. See an instance of this feast Neh 8:16.",
+     "anchor": "Of tabernacles",
+     "refs": [
+      {
+       "text": "Lev 23:43",
+       "ref": "LEV.23.43"
+      },
+      {
+       "text": "Lev 23:39",
+       "ref": "LEV.23.39"
+      },
+      {
+       "text": "Exo 23:16",
+       "ref": "EXO.23.16"
+      },
+      {
+       "text": "Deu 16:13",
+       "ref": "DEU.16.13"
+      },
+      {
+       "text": "Neh 8:16",
+       "ref": "NEH.8.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.36",
+   "range": "LEV.23.36",
+   "kind": "passage",
+   "hash": "555b61ca",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.36#p1-ac6257a1",
+     "text": "a several offering each day, which is particularly described Num 29:13, &c.",
+     "anchor": "Seven days ye shall offer an offering",
+     "refs": [
+      {
+       "text": "Num 29:13",
+       "ref": "NUM.29.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.36#p2-99bbc82e",
+     "text": "which though it was not one of the days of this feast strictly taken, nor is it here affirmed to be so, but on the contrary is expressly said to consist of seven days, Lev 23:31,39, nor did they dwell longer in tabernacles; yet in a larger sense it belonged to this feast, and is called the great day of the feast, Joh 7:37. And so indeed it was, as for other reasons, so because, by their removal from their tabernacles into more fixed and comfortable habitations, it represented that happy time wherein their forty years’ tedious march in the wilderness was ended, with their introduction into, and settlement in, the land of Canaan, which it was most fit and just they should acknowledge with such a solemn day of thanksgiving as this was.",
+     "anchor": "On the eighth day",
+     "refs": [
+      {
+       "text": "Lev 23:31",
+       "ref": "LEV.23.31"
+      },
+      {
+       "text": "Joh 7:37",
+       "ref": "JHN.7.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.36#p3-0fc3d4e0",
+     "text": "Heb. a day of conclusion, because it was the end of the feast, Joh 7:37; or, of restraint, because they were restrained from servile work, and obliged to attendance upon God’s worship; or, of detention, because they were yet detained before the Lord, and kept together for his service, and not suffered to return to their tents till this was over.",
+     "anchor": "A solemn assembly",
+     "refs": [
+      {
+       "text": "Joh 7:37",
+       "ref": "JHN.7.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.37",
+   "range": "LEV.23.37",
+   "kind": "passage",
+   "hash": "42725c63",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.37#p1-42725c63",
+     "text": "i.e. another sacrifice, to wit, for a sin-offering, as we shall find it Num 29:16,19,22, &c., called by the general name, a sacrifice, because it was designed for that which was the principal end of all sacrifices, to wit, for the expiation of sin.",
+     "anchor": "A sacrifice",
+     "refs": [
+      {
+       "text": "Num 29:16",
+       "ref": "NUM.29.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.38",
+   "range": "LEV.23.38",
+   "kind": "passage",
+   "hash": "962affcc",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.38#p1-a05c373d",
+     "text": "i.e. the offerings of the weekly sabbaths, by a metonymy, as the day is sometimes put for the actions done in it, as Pro 27:1 1Co 3:13. God will not have any sabbath sacrifice diminished, because of the addition of others proper to any, other feast. And it is here to be noted, that though other festival days are sometimes called sabbaths, as here Lev 23:39, yet these are here called",
+     "anchor": "Beside the sabbaths",
+     "refs": [
+      {
+       "text": "Pro 27:1",
+       "ref": "PRO.27.1"
+      },
+      {
+       "text": "1Co 3:13",
+       "ref": "1CO.3.13"
+      },
+      {
+       "text": "Lev 23:39",
+       "ref": "LEV.23.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.38#p2-1a191bf7",
+     "text": "in way of contradistinction to other days of rest, to show that this was more eminently such than other feast-days, which also sufficiently appears from the fourth commandment.",
+     "anchor": "the sabbaths of the Lord"
+    },
+    {
+     "id": "poole/LEV.23.38#p3-f5cb80aa",
+     "text": "which, being here distinguished from free-will offerings made to the Lord, may seem to note what they freely gave to the priests over and above their first-fruits and tithes, or other things which they were enjoined to give.",
+     "anchor": "Beside your gifts"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.39",
+   "range": "LEV.23.39",
+   "kind": "passage",
+   "hash": "a593bf1f",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.39#p1-cd13ce26",
+     "text": "or rather, surely, as this particle is oft used; for this is no addition of a new, but only a repetition of the former injunction, with a more particular explication both of the manner and reason of the feast.",
+     "anchor": "Also"
+    },
+    {
+     "id": "poole/LEV.23.39#p2-cc19469a",
+     "text": "not the corn, which was gathered long before, but of their trees, as vines, olives, and other fruit-trees; which completed the harvest, whence this is called the feast of ingathering, Exo 23:16.",
+     "anchor": "The fruit",
+     "refs": [
+      {
+       "text": "Exo 23:16",
+       "ref": "EXO.23.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.40",
+   "range": "LEV.23.40",
+   "kind": "passage",
+   "hash": "19ff7375",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.40#p1-8d193f9d",
+     "text": "Heb. the fruit, i.e. fruit-bearing boughs, or branches with the fruit on them, as the word fruit seems to be taken, 2Ki 19:30 Eze 19:12. Goodly trees, to wit, the olive, myrtle, and pine, as they are mentioned, Neh 8:15,16, which were most plentiful there, and which would best preserve their greenness or freshness.",
+     "anchor": "Boughs",
+     "refs": [
+      {
+       "text": "2Ki 19:30",
+       "ref": "2KI.19.30"
+      },
+      {
+       "text": "Eze 19:12",
+       "ref": "EZK.19.12"
+      },
+      {
+       "text": "Neh 8:15",
+       "ref": "NEH.8.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.23.40#p2-98225094",
+     "text": "fit for shade and shelter.",
+     "anchor": "Thick trees"
+    },
+    {
+     "id": "poole/LEV.23.40#p3-3da80539",
+     "text": "which might do well to mix with the other, and in some sort to bind them together. And as they made their booths of these materials, as is apparent from Ne 8, so it seems they did also carry some of these boughs in their hands, as is affirmed by Jewish and other ancient writers.",
+     "anchor": "Willows of the brook"
+    },
+    {
+     "id": "poole/LEV.23.40#p4-5168ea50",
+     "text": "which joy they testified by feasting, thanksgiving, &c.",
+     "anchor": "Ye shall rejoice"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.23.42",
+   "range": "LEV.23.42",
+   "kind": "passage",
+   "hash": "72264790",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.23.42#p1-72264790",
+     "text": "were erected in their cities or towns, either in their streets or gardens, or the tops of their houses, Neh 8:16, which were made flat, and therefore were proper and fit for that use.",
+     "anchor": "Booths",
+     "refs": [
+      {
+       "text": "Neh 8:16",
+       "ref": "NEH.8.16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "poole/1CH.14",
+   "range": "1CH.14",
+   "kind": "chapter",
+   "hash": "011a8800",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.14#p1-011a8800",
+     "text": "Hiram’s kindness to David, 1Ch 14:1. His felicity in people, wives, and children, 1Ch 14:2-7. His two victories against the Philistines, 1Ch 14:8-17.",
+     "refs": [
+      {
+       "text": "1Ch 14:1",
+       "ref": "1CH.14.1"
+      },
+      {
+       "text": "1Ch 14:2-7",
+       "ref": "1CH.14.2-7"
+      },
+      {
+       "text": "1Ch 14:8-17",
+       "ref": "1CH.14.8-17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.14.2",
+   "range": "1CH.14.2",
+   "kind": "passage",
+   "hash": "12bb49e1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.14.2#p1-12bb49e1",
+     "text": "by the remembrance of God’s promise, and his providence complying with it, &c. But of this and the following verses, See Poole \"2Sa 5:12\", &c., where the same history is related.",
+     "anchor": "David perceived",
+     "refs": [
+      {
+       "text": "2Sa 5:12",
+       "ref": "2SA.5.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.14.17",
+   "range": "1CH.14.17",
+   "kind": "passage",
+   "hash": "42295520",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.14.17#p1-42295520",
+     "text": "Into all lands, i.e. into all the neighbouring countries."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "source": "trapp",
+ "book": "EXO",
+ "chapter": 40,
+ "units": [
+  {
+   "id": "trapp/EXO.40.36",
+   "range": "EXO.40.36",
+   "kind": "passage",
+   "hash": "431da0fd",
+   "paragraphs": [
+    {
+     "id": "trapp/EXO.40.36#p1-431da0fd",
+     "text": "The Jews conceive that this cloud that led Israel through the wilderness, levelled mountains, raised valleys, and laid all aflat: that it burnt up bushes, and smoothed rocks, and made all plain, &c. See Luk 3:5 Isa 4:5",
+     "anchor": "The children of Israel went.",
+     "refs": [
+      {
+       "text": "Luk 3:5",
+       "ref": "LUK.3.5"
+      },
+      {
+       "text": "Isa 4:5",
+       "ref": "ISA.4.5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

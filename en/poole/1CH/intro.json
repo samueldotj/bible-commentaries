@@ -1,0 +1,49 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/1CH",
+   "range": "1CH",
+   "kind": "book",
+   "title": "THE FIRST BOOK OF THE CHRONICLES",
+   "hash": "80286b84",
+   "paragraphs": [
+    {
+     "id": "poole/1CH#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/1CH#p2-cfbcbbd6",
+     "text": "THESE Books of the CHRONICLES are not the same which are so called, 1Ki 14:19, and elsewhere, (because some passages said to be there mentioned are not found here,) but other books, and written by other persons, and for other ends. Yet this same writer took out of those books such historical passages as were most useful or necessary.",
+     "refs": [
+      {
+       "text": "1Ki 14:19",
+       "ref": "1KI.14.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH#p3-afa08c00",
+     "text": "They were written after the Babylonish captivity, as appears from 2Ch 36:20, &c., by Ezra; as may be gathered not only from the same words used in the place now quoted, and in the beginning of that book which goeth under the name of Ezra, but also from some other passages, which we may observe hereafter, and from the exactness and diligence here used in making catalogues of persons and families, which also is used in the Book of Ezra. If one or two passages seem to be of a later date, those were added by some other prophets; there being some few such additional passages in the Books of Moses.",
+     "refs": [
+      {
+       "text": "2Ch 36:20",
+       "ref": "2CH.36.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH#p4-1a8291f7",
+     "text": "The chief design of these books is, to complete the history of the kings of Judah, and to gather up the fragments of sacred history which were omitted in the Books of Samuel and Kings, and to explain some passages there mentioned, and to give an exact account of the genealogies; which (though ignorant or inconsiderate persons may think trivial and useless) was a work of great necessity, to preserve the distinction of the tribes and families, that so it might appear that Christ came of that nation, and tribe, and family, of which he was to be born. And this account having been hitherto neglected, is most seasonably mentioned in these books, because this was to be in a manner the last part of the sacred and canonical history of the Old Testament, and therefore the fittest place to record those genealogies, upon which the truth and authority of the New Testament ill some sort depends."
+    },
+    {
+     "id": "poole/1CH#p5-7428567c",
+     "text": "And whereas many things in these genealogies to us are obscure and doubtful, they were not so to the Hebrews; and all the persons here named were known to them by those very particular and exact genealogies, which they kept in their several families and in public registers; from whence this sacred penman, by the direction of God’s Spirit, took those things which were of most importance."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "source": "poole",
+ "book": "1KI",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/1KI",
+   "range": "1KI",
+   "kind": "book",
+   "title": "THE FIRST BOOK OF KINGS COMMONLY CALLED",
+   "hash": "6dbbe3b3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI#p1-7e71b100",
+     "text": "THE THIRD BOOK OF THE KINGS",
+     "heading": true
+    },
+    {
+     "id": "poole/1KI#p2-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/1KI#p3-3ad65257",
+     "text": "THESE two Books called Of the Kings, because they treat of the kings of Judah and Israel, were written by the prophets, or holy men of God, living in or near their several times, and by some one of them digested into this order. But whoever was the penman, that these are a part of those Holy Scriptures which were Divinely inspired is sufficiently evident first,"
+    },
+    {
+     "id": "poole/1KI#p4-11628f79",
+     "text": "From the concurring testimony of the whole Jewish church in all ages, to whom were committed the oracles of God, Rom 3:2, who also did faithfully discharge their duty in preserving and delivering them entirely and truly to their posterity from time to time, as plainly appears, because Christ and his apostles, who reproved them freely for their several sins, never taxed them with this fault, of depraving the Holy Scriptures of the Old Testament. Secondly, Because this is manifest concerning divers parcels of them which were taken out of the records of the prophets Nathan, Ahijah, and Iddo, 2Ch 9:29, and out of the prophecies of Isaiah and Jeremiah; and the rest doubtless were of the same nature.",
+     "refs": [
+      {
+       "text": "Rom 3:2",
+       "ref": "ROM.3.2"
+      },
+      {
+       "text": "2Ch 9:29",
+       "ref": "2CH.9.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI#p5-019a601e",
+     "text": "Thirdly, From the approbation of these books by the New Testament, both generally, as 2Ti 3:16, All Scripture is given by inspiration from God, &c., which is affirmed concerning all those Holy Scriptures which Timothy had known, from a child, 2Ti 3:15, and therefore must necessarily be meant of all the books of the Old Testament, which the Jews owned for canonical Scripture; and particularly Rom 11:2-3, &c., where a passage out of these books is quoted and owned as a part of the Holy Scripture, called the Scripture by way of eminency.",
+     "refs": [
+      {
+       "text": "2Ti 3:16",
+       "ref": "2TI.3.16"
+      },
+      {
+       "text": "2Ti 3:15",
+       "ref": "2TI.3.15"
+      },
+      {
+       "text": "Rom 11:2-3",
+       "ref": "ROM.11.2-3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

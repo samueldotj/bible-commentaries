@@ -1,0 +1,705 @@
+{
+ "source": "poole",
+ "book": "1CO",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "poole/1CO.12",
+   "range": "1CO.12",
+   "kind": "chapter",
+   "hash": "23728fa7",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12#p1-2cb73d92",
+     "text": "1Co 12:1-3 Paul teacheth that none can own Christ but by the Holy Ghost,",
+     "refs": [
+      {
+       "text": "1Co 12:1-3",
+       "ref": "1CO.12.1-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12#p2-7d04acb6",
+     "text": "1Co 12:4-6 whose gifts are diverse,",
+     "refs": [
+      {
+       "text": "1Co 12:4-6",
+       "ref": "1CO.12.4-6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12#p3-6ab4cf5b",
+     "text": "1Co 12:7-11 and dealt out to different persons to profit withal.",
+     "refs": [
+      {
+       "text": "1Co 12:7-11",
+       "ref": "1CO.12.7-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12#p4-53220476",
+     "text": "1Co 12:12,13 As many members make up one natural body, so Christians in general form one mystical body,",
+     "refs": [
+      {
+       "text": "1Co 12:12",
+       "ref": "1CO.12.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12#p5-5fd8e90b",
+     "text": "1Co 12:14-26 and as every member is equally a part of the natural body, and hath a necessary function allotted it.",
+     "refs": [
+      {
+       "text": "1Co 12:14-26",
+       "ref": "1CO.12.14-26"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12#p6-a01c8677",
+     "text": "1Co 12:27-31 So is it with Christ’s body, the church; to the several members of which God hath assigned different gifts and offices for the general good.",
+     "refs": [
+      {
+       "text": "1Co 12:27-31",
+       "ref": "1CO.12.27-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.1",
+   "range": "1CO.12.1",
+   "kind": "passage",
+   "hash": "80e2b4b8",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.1#p1-a7228d3f",
+     "text": "The word gifts is not in the Greek, but supplied by our interpreters. In the Greek is no more than concerning spirituals, which is equally applicable to spiritual offices, or administrations, operations, and gifts; of all which he afterward treateth something, but mostly concerning gifts, which are chiefly spoken of in this chapter: and our translaters agree with the best interpreters, in supplying the text with the word gifts. This church eminently abounded in these abilities to spiritual actions given them of God (for spirtual gifts signifies nothing else); and as they abounded in them, so they erred much in the abuse or ill use of them, as we shall afterward read in this chapter. Therefore the apostle tells them, that as to them, he would not have them"
+    },
+    {
+     "id": "poole/1CO.12.1#p2-cb96fadc",
+     "text": "either of the favour of God in enriching them with them, as he had said, 1Co 1:5, or yet in the due and right use of them, so as God might have glory from their good use of them: or of the errors that they had ran into, or might further run into, in the ill use of them.",
+     "anchor": "ignorant",
+     "refs": [
+      {
+       "text": "1Co 1:5",
+       "ref": "1CO.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.2",
+   "range": "1CO.12.2",
+   "kind": "passage",
+   "hash": "de161870",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.2#p1-f0535476",
+     "text": "so they were still in respect of their birth and country; but he speaketh with reference to their religion and way of worship.",
+     "anchor": "Ye know that ye were Gentiles"
+    },
+    {
+     "id": "poole/1CO.12.2#p2-1bd08411",
+     "text": "carried away by your idol priests, and by the examples of your friends and neighbours, to idols, which, though they seem to you to speak, and to tell you of things to come, yet indeed have mouths and speak not, only the devil spake from them.",
+     "anchor": "Carried away unto these dumb idols"
+    },
+    {
+     "id": "poole/1CO.12.2#p3-6d1ae0d6",
+     "text": "wherein you acted not under the conduct of reason, nor as became reasonable creatures, but you were blindly led by the dictates of priests, or by the examples of others. This the apostle puts them in mind of, to let them know, that all those excellent gifts with which they were now endued, as he had told them, 1Co 1:5,6, they had received from God since their conversion to Christianity, and from the Spirit of Christ; for before their conversion they were like brute beasts, knowing nothing, but led by others.",
+     "anchor": "Even as ye were led",
+     "refs": [
+      {
+       "text": "1Co 1:5",
+       "ref": "1CO.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.3",
+   "range": "1CO.12.3",
+   "kind": "passage",
+   "hash": "6144f978",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.3#p1-128e55c8",
+     "text": "The apostle proveth that they had received their spiritual gifts from the Spirit of God, because when they had not received this Spirit, they blasphemed the Christian religion, and called Christ"
+    },
+    {
+     "id": "poole/1CO.12.3#p2-2a60df5c",
+     "text": "which could not be done by any that spake",
+     "anchor": "accursed"
+    },
+    {
+     "id": "poole/1CO.12.3#p3-ea24e9ec",
+     "text": "for there being but one God, and the Holy Spirit being one of the three persons in the Divine Being, and Jesus Christ another, and the eternal Son of God, it could not be but he that called Christ accursed, as the Jews and the heathens did, must blaspheme God, which none could do by the influence of that Holy Spirit, who was one of the persons in the blessed Trinity: and as by this the apostle lets them know, that they were now acted by another spirit than they were in their Gentile state; so he also lets them know, that those heathens, amongst whom they lived, were not acted by the Spirit of God, but by the evil spirit. On the other side, he saith, that",
+     "anchor": "by the Spirit of God"
+    },
+    {
+     "id": "poole/1CO.12.3#p4-1ee5139b",
+     "text": "There is a double saying that Jesus is the Lord:",
+     "anchor": "no man can say that Jesus is the Lord, but by the Holy Ghost"
+    },
+    {
+     "id": "poole/1CO.12.3#p5-9ccb9c68",
+     "text": "1. When men only say it with their lips, but do not believe it in their hearts, are not affected with what they say, nor do pay that homage of faith and obedience to him, which should correspond with such a profession: thus men say Christ is the Lord, who preach him or discourse of him as men, though they do not in heart believe in him, receive or embrace him, or live up to the holy rules of life which he hath given; thus Judas, Caiaphas, and others, said Christ was the Lord; this they could not do but by the Holy Ghost, that is, the gifts of the Holy Ghost, which are common, which those might have who were never renewed by the Holy Ghost. So these Corinthians generally going thus far verbally to acknowledge Christ the Lord, it was an argument they had thus far been influenced by the Holy Ghost."
+    },
+    {
+     "id": "poole/1CO.12.3#p6-7593b859",
+     "text": "2. There is a serious and saving saying that Jesus is the Lord, when men do not only with their lips speak these words, and other words to the same sense, but heartily acknowledge him, believe in him, love him, obey him, and call upon him, professing him as they ought to do, and so as may be of advantage to them to life and salvation. No man now doth this but by the Holy Ghost renewing and sanctifying him, and blessing him with and helping him in the exercise of such habits. We shall observe in holy writ, that some verbs signify not the action only, but the action with its due quality: thus, hearing sometimes signifieth to hear so, as withal to believe."
+    },
+    {
+     "id": "poole/1CO.12.3#p7-32212b2e",
+     "text": "Calling upon the name of the Lord, Rom 10:13, signifieth a calling aright. Confessing, 1Jn 4:15, signifies a confessing with faith and love. So the verb say in this text may signify such a saying or speaking, as is attended with faith, love, and due obedience.",
+     "refs": [
+      {
+       "text": "Rom 10:13",
+       "ref": "ROM.10.13"
+      },
+      {
+       "text": "1Jn 4:15",
+       "ref": "1JN.4.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.4",
+   "range": "1CO.12.4",
+   "kind": "passage",
+   "hash": "a4e1f0b0",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.4#p1-236df228",
+     "text": "signifieth the same thing with habits, or powers, or abilities to actions; our actions being either natural, as eating, drinking, sleeping, &c., or moral, or spiritual.",
+     "anchor": "Gifts"
+    },
+    {
+     "id": "poole/1CO.12.4#p2-707bef57",
+     "text": "These powers are either natural, which are in an ordinary course of providence bred with us, as the infant hath a power to eat, drink, sleep, cry, &c.: or acquired, and that by imitation, or human learning, as the child gets a habit of speaking, or a power to write, understand languages, arts, and sciences: or infused; and those are either merely infused, as faith, love, and all habits truly spiritual are, and therefore called graces, or spiritual gifts of the highest natures; or else such as are obtained by the use of means on our parts, but yet not without the influence of the Holy Spirit of God; such are abilities to pray, preach, &c. There are some common powers, that is, such as those might have, who should never be saved, which might be merely infused, and were extraordinary in those first times of the gospel; such as the gift of tongues, prophecy, healing, &c. These powers, especially such as are not natural and common to all in an ordinary course of providence, nor acquired merely by imitation, or study, or the teaching of others, but infused either in whole or in part, are those which the apostle here calleth gifts: and he saith there is a diversity of them; there was the gift of prophecy, of healing, of tongues, &c.; but he tells them, this diversity of gifts flowed all from one and the same Spirit, the Spirit was not diverse, though his influences were divers."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.5",
+   "range": "1CO.12.5",
+   "kind": "passage",
+   "hash": "c7334c08",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.5#p1-c7334c08",
+     "text": "There are divers offices or ministries in the church of God; one ministereth in the office of an elder, another in the office of a deacon; one in one service of the church, another in another service; but there is but one Lord to whom they minister; they all serve the great Lord of the church, Jesus Christ, though in divers orders and places of ministration."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.6",
+   "range": "1CO.12.6",
+   "kind": "passage",
+   "hash": "9fd309b3",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.6#p1-85c77749",
+     "text": "and administrations both differ from gifts, as acts from habits. Habits and powers, by which men performed holy offices in the church, or wrought miracles, are called gifts. The acts or exercise of these powers are called administrations and operations. These latter differ one from another, as the former signify standing and continuing acts in the church; operations, ενεργνματα, rather signify miraculous effects, such as healing the sick without the application of ordinary means, speaking with divers tongues, &c. The apostle tells them, that as there was a diversity of gifts, or powers, and a diversity of acts in the constant service of the church, by which men exercised those gifts or powers they had in the performance of them; so there were diversities of operations, by which men used those extraordinary gifts or powers, which God gave some in the first plantation of the church, for the sake of such as believed not. But it was",
+     "anchor": "Operations"
+    },
+    {
+     "id": "poole/1CO.12.6#p2-7b5259cb",
+     "text": "that wrought them all, and in all, though all did not do, or could not do, the same things.",
+     "anchor": "the same God"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.7",
+   "range": "1CO.12.7",
+   "kind": "passage",
+   "hash": "3dbadb37",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.7#p1-4b68bc95",
+     "text": "He here calleth gifts, the manifestation of the Spirit, partly to let them know, that these powers flowed from the Holy Spirit apparently, they having no such powers while they were heathens, and carried after dumb idols, as they were led; and partly to let all know, that these gifts and powers were evident proofs both of Christ’s ascension, and of the promise of the Father and of Christ in sending the Holy Spirit, Act 1:4 16:7,8 Eph 4:8. These gifts he tells them were",
+     "refs": [
+      {
+       "text": "Act 1:4",
+       "ref": "ACT.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12.7#p2-bd5d4766",
+     "text": "where every signifieth each one; for the same gifts or powers were not given to all, but to those to whom they were given, they were given not to puff them up, or to give them matter to boast of, but to do good withal to the church of Christ. No man hath any power or gift given him of God, either for his own hurt, or the hurt of others, but only for his own good, and the good of others.",
+     "anchor": "given to every man"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.8",
+   "range": "1CO.12.8",
+   "kind": "passage",
+   "hash": "27c874da",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.8#p1-f64bb5b6",
+     "text": "There are different apprehensions as to the particular gifts here enumerated, and it is no wonder, these extraordinary gifts being ceased, if we be now at a loss to determine what is to be understood by the terms whereby they are expressed. Some by"
+    },
+    {
+     "id": "poole/1CO.12.8#p2-649b2f73",
+     "text": "here, understand a faculty to deliver grave sentences; others, an ability to open the deep mysteries of religion; others, a singular knowledge of spiritual things, joined with a great authority, &c.; others, an ability to explain the deep wisdom of God. But it is most probable, that he meaneth by it what we ordinarily understand by wisdom, viz. a faculty, from a good judgment of the circumstances of actions, to do them at the best time, and in the best manner, wherein they may be serviceable to their ends. It is as uncertain, whether by",
+     "anchor": "the word of wisdom"
+    },
+    {
+     "id": "poole/1CO.12.8#p3-90cf1d0d",
+     "text": "he meaneth a capacity to comprehend things in our knowledge, or to communicate it to others, or the actual communication of it by preaching, which was the work of the pastors and teachers; or the prophetical knowledge of future contingencies; or an ability to speak of spiritual things doctrinally, without any great faculty of applying them.",
+     "anchor": "the word of knowledge"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.9",
+   "range": "1CO.12.9",
+   "kind": "passage",
+   "hash": "93a47d08",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.9#p1-015f8872",
+     "text": "he saith, is given faith: by which cannot be understood that faith which is common to all Christians, for he is speaking of such gifts as were given to some Christians, not to all; he must therefore mean, either a faith of miracles, that is, a persuasion that God would work a miracle in this or that case, or a great knowledge in the matters of faith, or a great confidence and boldness in the discharge of their office.",
+     "anchor": "To another"
+    },
+    {
+     "id": "poole/1CO.12.9#p2-65be1701",
+     "text": "of healing diseases miraculously, without the application of ordinary rational medicines.",
+     "anchor": "To another the gifts of healing"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.10",
+   "range": "1CO.12.10",
+   "kind": "passage",
+   "hash": "ffc2685e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.10#p1-3d67002f",
+     "text": "of other sorts, such as the inflicting punishments on sinners, casting out devils, &c.",
+     "anchor": "To another the working of miracles"
+    },
+    {
+     "id": "poole/1CO.12.10#p2-dffc3adf",
+     "text": "which in the general signifieth the revelation of the will of God, whether by the foretelling future contingencies, or opening the Scriptures by preaching or teaching.",
+     "anchor": "To another prophecy"
+    },
+    {
+     "id": "poole/1CO.12.10#p3-3830ecf3",
+     "text": "a power wherein God, for the further authority and credit of his gospel in the primitive times, communicated to some men something of his own prerogative to discern men’s inward thoughts and hearts, and to make up a judgment of their truth and sincerity, or contrariwise of their falsehood and hypocrisy.",
+     "anchor": "To another discerning of spirits"
+    },
+    {
+     "id": "poole/1CO.12.10#p4-d543d169",
+     "text": "that is, a power to discourse with men in their several languages, as we read in Act 2:8.",
+     "anchor": "To another divers kinds of tongues",
+     "refs": [
+      {
+       "text": "Act 2:8",
+       "ref": "ACT.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12.10#p5-1ed6ca31",
+     "text": "this is made a diverse gift from an ability to speak with divers tongues; possibly some of those that spake with divers tongues could not interpret what they said.",
+     "anchor": "To another the interpretation of tongues"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.11",
+   "range": "1CO.12.11",
+   "kind": "passage",
+   "hash": "70e90b5b",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.11#p1-70e90b5b",
+     "text": "Though the Spirit of God be but one, from whom these several powers and abilities flow; yet he doth not give all this variety of gifts to all Christians, but one to this man, another to another, as the same Holy Spirit pleaseth, for the glory of God, or the good of the church."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.12",
+   "range": "1CO.12.12",
+   "kind": "passage",
+   "hash": "7bbb3922",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.12#p1-85792836",
+     "text": "For as it is in the body natural, the integral parts, or members of it, are"
+    },
+    {
+     "id": "poole/1CO.12.12#p2-a2a761ca",
+     "text": "yet the body is but one; so it is in the spiritual body, the church, which is that mystical body of which Christ is the Head. The members of the church may be many, and there may be in several members of the church a diversity of gifts, of administrations, and operations, yet the church is but one, yea, Christ and the church make up but one mystical body, of which he is the Head; and they are the members; and therefore the several members, having several gifts, or several offices, or several powers and operations, had no reason, for their difference in such gifts, or powers, or offices, to envy one another, or to despise each other, or glory over one another; for they were but one body, and had all the same Head, though they had from the same Spirit divers abilities, offices, and powers for several operations.",
+     "anchor": "many"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.13",
+   "range": "1CO.12.13",
+   "kind": "passage",
+   "hash": "6d2ebe6d",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.13#p1-6ab8f95a",
+     "text": "The apostle proveth the oneness of the church, as the body of Christ, from the same sacraments of the New Testament instituted for all Christians, and wherein they jointly partake. He saith, we are"
+    },
+    {
+     "id": "poole/1CO.12.13#p2-1b08a095",
+     "text": "by which he must mean the universal church, for Christ is the Head of that; particular churches are but parts of that church, of which Christ is the Head. Let men be of what nation they will, whether Jews or Gentiles, turning to the Christian religion, and of what condition they will, when they are baptized they are by it made members of that one body, of which Christ is the Head; though for the more convenient administration of, and participation in, the ordinances, they are divided into smaller societies, which also have the denomination of churches; as the smallest drop of water may be called water, though there be but one element of water.",
+     "anchor": "baptized into one body"
+    },
+    {
+     "id": "poole/1CO.12.13#p3-ff0125f2",
+     "text": "saith the apostle, we have been all made to drink into one Spirit; which some interpret as if it were, we have all drank of one Spirit, that is, been made partakers of one Spirit, whose benefits are, sometimes set out under the notion of water, living water, Joh 4:10,14 7:38,39; and so in the Old Testament, Isa 12:3 Eze 47:1-23. But many others choose rather to interpret drinking in this place, of drinking at the table of the Lord, partaking of that whole action being set out here by one particular act there performed. This is probable, considering that the apostle, in the former part of the verse, had been speaking of the other sacrament of the gospel, and that he, speaking of the Lord’s supper. 1Co 10:17, had used this expression: For we being many, are one bread, and one body.",
+     "anchor": "And",
+     "refs": [
+      {
+       "text": "Joh 4:10",
+       "ref": "JHN.4.10"
+      },
+      {
+       "text": "Isa 12:3",
+       "ref": "ISA.12.3"
+      },
+      {
+       "text": "Eze 47:1-23",
+       "ref": "EZK.47.1-23"
+      },
+      {
+       "text": "1Co 10:17",
+       "ref": "1CO.10.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.14",
+   "range": "1CO.12.14",
+   "kind": "passage",
+   "hash": "43b052b4",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.14#p1-43b052b4",
+     "text": "As the natural body is totum integrale, a whole consisting of many members; so the body spiritual, the mystical body of Christ, is not made up of one single member, but of many members."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.15",
+   "range": "1CO.12.15",
+   "kind": "passage",
+   "hash": "69d43db8",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.15#p1-69d43db8",
+     "text": "Ver. 15,16. It should seem by these expressions, that one great cause of those divisions, which the apostle had charged the church of Corinth with, was their difference in gifts, administrations, and operations; which was to that degree, that either those who were higher in gifts and administrations, and more famous for their miraculous operations, despised and vilified those that were inferior to them; or those who were lower in gifts, or in their stations in the church, or their power to work miracles, would not own themselves members of the church at Corinth, because they were in those low and inferior orders and degrees. The apostle argueth the unreasonableness of this, by a further comparing of the natural with the spiritual mystical body, the church, and showeth, it was altogether as unreasonable for men to disclaim the church, and their relation to it, because they had not the most eminent gifts, or were not in the most eminent places and offices, as for the foot to say, it was not of the body, because it was not the hand; or for the ear to say, it was not of the body, because it was not the eye."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.16",
+   "range": "1CO.12.16",
+   "kind": "passage",
+   "hash": "91b70410",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.16#p1-91b70410",
+     "text": "1Co 12:15\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "1Co 12:15",
+       "ref": "1CO.12.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.17",
+   "range": "1CO.12.17",
+   "kind": "passage",
+   "hash": "4e3b283e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.17#p1-4e3b283e",
+     "text": "There are several actions to be performed by the body of a man, either for the support and the upholding of it in life, or for the accommodation of it while it lives; seeing, hearing, and smelling (which are the three actions here mentioned) are not indeed necessary for the upholding of life, but they are highly useful for a man’s better being, and the accommodation of bodily life; therefore there is need of a variety of bodily members, organs or instruments of sight as well as of hearing, and organs of smelling as well as hearing; the wise God hath created no member of man’s body in vain, each one hath its use in order to the being or well-being of the body: so it is in the church of God, as the apostle, 1Co 12:27, argueth; but he goes yet further on, first, in his comparison of the natural and mystical body.",
+     "refs": [
+      {
+       "text": "1Co 12:27",
+       "ref": "1CO.12.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.18",
+   "range": "1CO.12.18",
+   "kind": "passage",
+   "hash": "591a9b28",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.18#p1-591a9b28",
+     "text": "The infinitely wise God, who hath made the body of man, and ordered all the members of the body for several uses and offices, either for the upholding or accommodating the life of man, hath likewise appointed the order in the body in which every member shall stand; that the head should be uppermost for the better guidance of the whole body; the feet lowermost to tread upon the earth, and to bear the weight of the whole body: and none must repine at the wisdom of God, which hath not only created man’s body, (consisting of a variety of members), but also appointed every member its place, and there setteth it, that it cannot shift its station or office."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.19",
+   "range": "1CO.12.19",
+   "kind": "passage",
+   "hash": "18607e4c",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.19#p1-18607e4c",
+     "text": "The body is a whole consisting of many members, it could not therefore be a body if there were but only one member. Or how could the body perform the several actions necessary either for the being or the well-being of it, if it consisted but of one member?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.20",
+   "range": "1CO.12.20",
+   "kind": "passage",
+   "hash": "62e2581f",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.20#p1-62e2581f",
+     "text": "The multiplicity of members, having several uses and offices for the service of the whole body, do not make a multiplicity of bodies, the body still is but one."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.21",
+   "range": "1CO.12.21",
+   "kind": "passage",
+   "hash": "4f09853e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.21#p1-4f09853e",
+     "text": "He names two of the most noble and useful members of the body, the head and the eye, which yet cannot tell the hands or the feet they have no need of them: the wise God having created nothing in vain, but made every member in the body of a man for use, as to the whole, so to the several parts of the body; the hand is useful to the eye, and the feet are of use to the head. The application of this similitude, which the apostle so much enlargeth upon, we shall have, 1Co 12:27, &c.",
+     "refs": [
+      {
+       "text": "1Co 12:27",
+       "ref": "1CO.12.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.22",
+   "range": "1CO.12.22",
+   "kind": "passage",
+   "hash": "ff477559",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.22#p1-ff477559",
+     "text": "By feeble the apostle here doth not only mean most weak, but which seem to us most abject and contemptible; in which sense the word is used, 2Co 12:10; such are the belly and the entrails; the eye also is a feeble member, &c.; yet these parts are most necessary for the use of the body, being such without the use of which the body cannot live.",
+     "refs": [
+      {
+       "text": "2Co 12:10",
+       "ref": "2CO.12.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.23",
+   "range": "1CO.12.23",
+   "kind": "passage",
+   "hash": "7cb28f86",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.23#p1-7cb28f86",
+     "text": "All know what those parts of the body are, which are commonly judged less honourable and less comely; upon these we bestow more abundant honour and comeliness, by hiding them and covering them, that they are not, as the hands, and face, and head, (which we esteem more honourable parts of the body), exposed to the public view of those with whom we converse."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.24",
+   "range": "1CO.12.24",
+   "kind": "passage",
+   "hash": "0ae74524",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.24#p1-0ae74524",
+     "text": "God hath, in the wisdom of his providence, so ordered it, that as we have some parts of our body which are judged uncomely, and not for those noble uses that others are; so we have other parts that are, for use, more noble, yet in common repute more ignoble and uncomely: and the same wise God hath so built the body of man, as of both these to make a temperament so as they all concur in the composition of the same body, and more abundant honour in covering and clothing them is given to those parts, that, in the judgment of men, seemed most to lack honour, that their uncomeliness might by some artificial means be taken away."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.25",
+   "range": "1CO.12.25",
+   "kind": "passage",
+   "hash": "33e7ca3e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.25#p1-f5edb09c",
+     "text": "By schism is here meant division, and that also must be expounded figuratively, and it is expounded in the next words,"
+    },
+    {
+     "id": "poole/1CO.12.25#p2-89b78c32",
+     "text": "that though the members differ in honour and office, yet they might mutually take care for each other, as if they were all in an equal degree of honour.",
+     "anchor": "that the members should have the same care one for another"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.26",
+   "range": "1CO.12.26",
+   "kind": "passage",
+   "hash": "57b1b393",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.26#p1-57b1b393",
+     "text": "From this union of the members in the body natural, of all the members proceedeth a natural sympathy, that if one member suffereth, all are afflicted, and ready to contribute to the relief and help each of other; and likewise the honour that is reflected on the body, is reflected on all the parts, and all rejoice in the good that affecteth any one single member."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.27",
+   "range": "1CO.12.27",
+   "kind": "passage",
+   "hash": "f93af0e3",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.27#p1-1a454e13",
+     "text": "Considering you in the whole as a church, so ye are the body of Christ: considering you particularly as individual believers, so ye are"
+    },
+    {
+     "id": "poole/1CO.12.27#p2-9e9f4903",
+     "text": "of Christ. Some think εκ μερους signifies in part, intending that true believers amongst them were members of Christ, but not others. The apostle, in these words, beginneth to apply to them what he had before discoursed concerning the body natural, and the parts thereof; you are the mystical body of Christ, which hath a great analogy with that natural body which you carry about with you.",
+     "anchor": "members"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.28",
+   "range": "1CO.12.28",
+   "kind": "passage",
+   "hash": "cfc1591f",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.28#p1-a99da3e4",
+     "text": "The apostle, Eph 4:11, seemeth to make a different enumeration; there he saith: And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers. He mentioneth here only three of those there mentioned, viz. apostles, prophets, teachers. He reckoneth up there evangelists, whom be doth not here mention. He here first mentioneth apostles, by whom he meaneth those servants of God who were sent out by Christ to lay the first foundations of the gospel church, and upon whom a universal care lay over all the churches of Christ, having not only a power in all places to preach and administer the sacraments, but to give rules of order, and direct in matters of government; though particular churches had a power of government within themselves, otherwise the apostle would not have blamed this church for not casting out the incestuous person.",
+     "refs": [
+      {
+       "text": "Eph 4:11",
+       "ref": "EPH.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12.28#p2-05a35c5f",
+     "text": "signify persons (as I have before noted) that revealed the mind and will of God to people, whether it were by an extraordinary impulse and revelations or in an ordinary course of teaching; whether they revealed things to come, or opened the mind and will of God already revealed. But in this text, and in Eph 4:11, prophets seem to signify, either such as from the Spirit of God foretold future contingencies, (such was Agabus, of whom we read in the Acts of the Apostles, and others in the primitive church), or else such as interpreted Scripture by extraordinary and immediate revelation.",
+     "anchor": "Prophets",
+     "refs": [
+      {
+       "text": "Eph 4:11",
+       "ref": "EPH.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.12.28#p3-a03c0172",
+     "text": "Some think that prophets signify the ordinary pastors of churches; but they seem rather to be comprehended under the next term of teachers, unless we had better grounds than we have to distinguish between pastors and teachers, making the work of the teacher to speak by way of doctrine and explication, and the work of the pastor to speak practically."
+    },
+    {
+     "id": "poole/1CO.12.28#p4-d3473af0",
+     "text": "some by these understand governors of schools; others, such ministers whose work was only to expound the Scriptures, or the mysteries of salvation: but the apostle, in this enumeration, (which is the largest we have in Scripture), not mentioning pastors, it seemeth to me that he means the fixed and ordinary ministers of churches, or the elders, whom the apostles left in every city, which by their ministry had received the gospel.",
+     "anchor": "Thirdly teachers"
+    },
+    {
+     "id": "poole/1CO.12.28#p5-cddf5450",
+     "text": "after that such as he empowered to work miraculous operations, and those of more remarkable nature, for otherwise the healings next mentioned come under that notion also.",
+     "anchor": "After that miracles"
+    },
+    {
+     "id": "poole/1CO.12.28#p6-596df4de",
+     "text": "then such persons as he gave a power to in an extraordinary way to heal the sick. Who the apostle means by helps, and by governments, is very hard to determine. Certain it is, that he doth not mean the civil magistrates; for the time was not yet come for kings to be nursing fathers, and queens nursing mothers to the gospel church. But whether he meaneth deacons, or widows, elsewhere mentioned, as helpful in the case of the poor, or some that assisted the pastors in the government of the church, or some that were extraordinary helps to the apostles in the first plantation of the church, is very hard to determine.",
+     "anchor": "Then gifts of healings"
+    },
+    {
+     "id": "poole/1CO.12.28#p7-b4530065",
+     "text": "such as spake with divers tongues, that faculty being a gift, as we heard before, not given to all, but to some in the primitive church. The apostle, by this enumeration, showeth what he meant by those diversities of gifts, differences of administrations, and diversities of operations, of which he spake in 1Co 12:4-6.",
+     "anchor": "Diversities of tongues",
+     "refs": [
+      {
+       "text": "1Co 12:4-6",
+       "ref": "1CO.12.4-6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.29",
+   "range": "1CO.12.29",
+   "kind": "passage",
+   "hash": "8abd44f5",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.29#p1-8abd44f5",
+     "text": "Ver. 29,30. That is, all are not, nor can be, any more than all the body can be an ear, or an eye, or a hand, or a foot: you cannot expect, that in a governed body all should be governors; and you see by experience, that all cannot work miracles, prophesy, speak with tongues, or heal those that are sick."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.30",
+   "range": "1CO.12.30",
+   "kind": "passage",
+   "hash": "ab16e510",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.30#p1-ab16e510",
+     "text": "1Co 12:29\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "1Co 12:29",
+       "ref": "1CO.12.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.12.31",
+   "range": "1CO.12.31",
+   "kind": "passage",
+   "hash": "e4e75f51",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.12.31#p1-ba2f3ded",
+     "text": "the word may be translated indicatively: Ye do covet the best gifts; or as we translate it, imperatively: Covet ye; I would have you be covetous to excel in the best gifts, that is, those which will make you most useful and profitable to the church of God.",
+     "anchor": "But covet earnestly the best gifts"
+    },
+    {
+     "id": "poole/1CO.12.31#p2-842e4a16",
+     "text": "but yet (saith he) gifts are not the best things, the habits of saving grace are much more valuable than gifts; love to God and your neighbour ought to be by you preferred before gifts. To a discourse of which the apostle thus shortly passeth.",
+     "anchor": "And yet show I unto you a more excellent way"
+    }
+   ]
+  }
+ ]
+}

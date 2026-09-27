@@ -1,0 +1,502 @@
+{
+ "source": "poole",
+ "book": "JOS",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "poole/JOS.9",
+   "range": "JOS.9",
+   "kind": "chapter",
+   "hash": "673f81d6",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9#p1-673f81d6",
+     "text": "The kings of Canaan hear of Joshua’s exploits; consult together, and conclude to fight against Israel, Jos 9:1,2. The Gibeonites, feigning themselves to be of a far country, obtain a league, Jos 9:3-15. The craft is discovered; the promise which was confirmed with an oath remains firm, Jos 9:16-20. But for a punishment they are condemned to perpetual slavery, Jos 9:21-27.",
+     "refs": [
+      {
+       "text": "Jos 9:1",
+       "ref": "JOS.9.1"
+      },
+      {
+       "text": "Jos 9:3-15",
+       "ref": "JOS.9.3-15"
+      },
+      {
+       "text": "Jos 9:16-20",
+       "ref": "JOS.9.16-20"
+      },
+      {
+       "text": "Jos 9:21-27",
+       "ref": "JOS.9.21-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.2",
+   "range": "JOS.9.2",
+   "kind": "passage",
+   "hash": "58cfd832",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.2#p1-58cfd832",
+     "text": "not actually, as the following history shows; but they entered into a league or confederation to do this.",
+     "anchor": "They gathered themselves together"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.3",
+   "range": "JOS.9.3",
+   "kind": "passage",
+   "hash": "0bd9c295",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.3#p1-58b2c735",
+     "text": "Or, but when the inhabitants; for he shows that these took another and a wiser course."
+    },
+    {
+     "id": "poole/JOS.9.3#p2-56a5812b",
+     "text": "a great and royal city of the Hivites, Jos 10:2 11:19.",
+     "anchor": "Gibeon",
+     "refs": [
+      {
+       "text": "Jos 10:2",
+       "ref": "JOS.10.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.4",
+   "range": "JOS.9.4",
+   "kind": "passage",
+   "hash": "705d3397",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.4#p1-705d3397",
+     "text": "sent from a far country, as they say, Jos 9:6.",
+     "anchor": "Ambassadors",
+     "refs": [
+      {
+       "text": "Jos 9:6",
+       "ref": "JOS.9.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.6",
+   "range": "JOS.9.6",
+   "kind": "passage",
+   "hash": "8b6a187a",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.6#p1-cdfe7be4",
+     "text": "the place of their head-quarters. To the men of Israel, to wit, those who used to meet in council with Joshua, to whom it belonged to make leagues, as it here follows, even the princes of the congregation; not the common people, as appears both from Jos 9:15,18,19,21, and from common usage of all ambassadors, who generally deliver their message to and treat with princes, not people. And the Hebrew word iseh, here used, sometimes notes men of eminency and dignity.",
+     "anchor": "Gilgal",
+     "refs": [
+      {
+       "text": "Jos 9:15",
+       "ref": "JOS.9.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.6#p2-c3af2c08",
+     "text": "because we are not of this people, whom, as we are informed, you are obliged utterly to destroy; that which appeared sufficiently, by the Israelites’ practice in destroying the Amorites beyond Jordan, and the people of Jericho and At, without any allowance for sex or age; and by common rumour, and the report of the Israelites and other persons who dwelt among them, or had converse with them, as Rahab and all her kindred; and by the nature of the thing, because they were to possess that whole land, and were not to mix themselves with the people of it.",
+     "anchor": "Now therefore"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.7",
+   "range": "JOS.9.7",
+   "kind": "passage",
+   "hash": "e8c33cef",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.7#p1-ee39109d",
+     "text": "i.e. the Gibeonites, who were Hivites, Jos 11:19.",
+     "anchor": "The Hivites",
+     "refs": [
+      {
+       "text": "Jos 11:19",
+       "ref": "JOS.11.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.7#p2-b94ea145",
+     "text": "i.e. in this land, and so are of that people with whom we are forbidden to make any league or covenant, Exo 23:32,33 Deu 7:2 20:15,16.",
+     "anchor": "Among us",
+     "refs": [
+      {
+       "text": "Exo 23:32",
+       "ref": "EXO.23.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.8",
+   "range": "JOS.9.8",
+   "kind": "passage",
+   "hash": "f4bc87e8",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.8#p1-5c0b5b5f",
+     "text": "we desire a league with you upon your own terms; we are ready to accept of any conditions.",
+     "anchor": "We are thy servants"
+    },
+    {
+     "id": "poole/JOS.9.8#p2-711be1ca",
+     "text": "for this free and general concession of theirs gave Joshua just cause to suspect that they were of the cursed Canaanites.",
+     "anchor": "Who are ye? and from whence come ye?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.9",
+   "range": "JOS.9.9",
+   "kind": "passage",
+   "hash": "edd853c2",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.9#p1-dfaab682",
+     "text": "being moved thereunto by the report of his great and glorious nature and works; so they gave them hopes that they would embrace their religion.",
+     "anchor": "Because of the name of the Lord"
+    },
+    {
+     "id": "poole/JOS.9.9#p2-b96d85f3",
+     "text": "they cunningly mention those things only which were done some time since, and say nothing of the dividing of Jordan, nor of the destruction of Jericho and Ai, as if they lived so far off that the fame of those things had not yet reached them.",
+     "anchor": "All that he did in Egypt"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.14",
+   "range": "JOS.9.14",
+   "kind": "passage",
+   "hash": "14c10ddd",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.14#p1-ca02a7a2",
+     "text": "i.e. the princes, as before, Jos 9:6.",
+     "anchor": "The men",
+     "refs": [
+      {
+       "text": "Jos 9:6",
+       "ref": "JOS.9.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.14#p2-0259d464",
+     "text": "not from their want or any desire they could have to such unpleasant and unwholesome food; nor in a ceremony usual in making leagues, for that was not now done, but in the next verse; but that they might examine the truth of what they said.",
+     "anchor": "Took of their victuals"
+    },
+    {
+     "id": "poole/JOS.9.14#p3-16f7d133",
+     "text": "as they ought to have done upon all such weighty and doubtful occasions. So they are accused of rashness, and neglect of their duty. For though it is probable, if God had been consulted, he would have consented to the sparing of the Gibeonites; yet it should have been done with more caution, and an obligation left upon them to embrace the true religion, which here was omitted.",
+     "anchor": "Asked not counsel at the mouth of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.15",
+   "range": "JOS.9.15",
+   "kind": "passage",
+   "hash": "f879833a",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.15#p1-b16f07e6",
+     "text": "i.e. that they would not destroy them. Some question whether this league was lawful and obliging, because it is contrary to a positive and precedent law of God, by which they were enjoined to make no peace with them, but utterly to destroy them, Exo 23:32 Exo 34 &c. But this law seems to admit of some exception and favourable interpretation, and that taken from the reason and soul of that law; which was this, that the Israelites might not be tainted with their idolatry and other abominations by cohabitation with them; and therefore when that reason ceased, i.e. if they were willing to relinquish their possessions and idolatry, and other wickedness, and to embrace the true religion, they might be spared.",
+     "anchor": "To let them live",
+     "refs": [
+      {
+       "text": "Exo 23:32",
+       "ref": "EXO.23.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p2-8ad637e1",
+     "text": "And though this law was delivered in general terms, because God foresaw that the Israelites would be most prone to err on that hand, by sparing those whom they should destroy; yet that it was to be understood with an exception of penitents and true converts might easily be gathered, both from the example of Rahab, and from the tenor of Divine threatenings, which, though absolutely delivered, allow of this exception; as appears from Jer 18:7,8 Jon 3 Jon 4, and from the great kindness and favour which God hath manifested unto all true penitents, in delivering them from evils threatened to them, and inflicted upon others; which kindness of God we also are obliged to imitate by virtue of that natural and moral law of God implanted in us, and revealed to us, to which such positive commands as this of killing the Canaanites must give place. And that this league was lawful and obliging, may seem probable,",
+     "refs": [
+      {
+       "text": "Jer 18:7",
+       "ref": "JER.18.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p3-bf383518",
+     "text": "1. Because Joshua and all the princes upon the review concluded it so to be, and spared them accordingly, Jos 9:19,20,22,23.",
+     "refs": [
+      {
+       "text": "Jos 9:19",
+       "ref": "JOS.9.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p4-bcb93b43",
+     "text": "2. Because God punished the violation of it long after, 2Sa 21:1.",
+     "refs": [
+      {
+       "text": "2Sa 21:1",
+       "ref": "2SA.21.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p5-521a25fc",
+     "text": "3. Because God is said to have hardened the hearts of all other cities not to seek peace with Israel, that so he might utterly destroy them, Jos 11:19,20, which seems to imply that their utter destruction did not necessarily come upon them by virtue of any absolute and peremptory command of God to destroy them, but by their own obstinate hardness, whereby they neglected and refused to make peace with the Israelites.",
+     "refs": [
+      {
+       "text": "Jos 11:19",
+       "ref": "JOS.11.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p6-ca72c7ca",
+     "text": "This league was grounded upon a deceit and error of the persons, which also they had entered a caution against, Jos 9:7.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "Jos 9:7",
+       "ref": "JOS.9.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.15#p7-d73d4c3c",
+     "text": "Their supposition that they were Canaanites was indeed a part of the foregoing discourse, Jos 9:7, and the Israelites rested satisfied with their answer, and believed they were not, and so entered into the league; but that league was absolute, not suspended upon that or any other condition; and the error was not about the persons, but about the country and people to which they belonged, which was not material to this contract, no more than it is to a contract of marriage, that the one person believed the other to be of another country or family than indeed they were.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Jos 9:7",
+       "ref": "JOS.9.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.16",
+   "range": "JOS.9.16",
+   "kind": "passage",
+   "hash": "2413c544",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.16#p1-2413c544",
+     "text": "i.e. at the last of them, or upon the third day, as it is said Jos 9:17; so this phrase is elsewhere used, as Deu 14:28 31:10. Or it may be properly understood, that after three days they heard this; and on the day after they heard this, they came to their cities, as is said, Jos 9:17.",
+     "anchor": "At the end of three days",
+     "refs": [
+      {
+       "text": "Jos 9:17",
+       "ref": "JOS.9.17"
+      },
+      {
+       "text": "Deu 14:28",
+       "ref": "DEU.14.28"
+      },
+      {
+       "text": "Jos 9:17",
+       "ref": "JOS.9.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.17",
+   "range": "JOS.9.17",
+   "kind": "passage",
+   "hash": "525c99f5",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.17#p1-525c99f5",
+     "text": "Cities which were subject to Gibeon, which was the royal city, Jos 10:2.",
+     "refs": [
+      {
+       "text": "Jos 10:2",
+       "ref": "JOS.10.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.18",
+   "range": "JOS.9.18",
+   "kind": "passage",
+   "hash": "b6c3e5ee",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.18#p1-b6c3e5ee",
+     "text": "Partly, from that proneness which is in people to censure the actions of their rulers; partly, because they might think the princes by their rashness had brought them into a snare, that they could neither kill them for fear of the oath, nor spare them for fear of God’s command to the contrary; and partly, for their desire of the possession and spoil of these cities, of which they thought themselves hereby deprived."
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.19",
+   "range": "JOS.9.19",
+   "kind": "passage",
+   "hash": "9eb35844",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.19#p1-1b8d1f14",
+     "text": "They plead not the lawfulness or the prudence of the action, but only the obligation of an oath; of which, though it was procured by fraud, they perceived the people sufficiently sensible."
+    },
+    {
+     "id": "poole/JOS.9.19#p2-5ab62eb2",
+     "text": "i.e. not hurt them, as that word is oft used, as Gen 26:11 Psa 105:15 Psa 144:5; or not smite them, as is said, Jos 9:18.",
+     "anchor": "We may not touch them",
+     "refs": [
+      {
+       "text": "Gen 26:11",
+       "ref": "GEN.26.11"
+      },
+      {
+       "text": "Psa 105:15",
+       "ref": "PSA.105.15"
+      },
+      {
+       "text": "Psa 144:5",
+       "ref": "PSA.144.5"
+      },
+      {
+       "text": "Jos 9:18",
+       "ref": "JOS.9.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.21",
+   "range": "JOS.9.21",
+   "kind": "passage",
+   "hash": "ebb67d61",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.21#p1-bb7156cd",
+     "text": "i.e. Let them be public servants, and employed in the meanest offices and drudgeries, (such as this was, this one kind being put for all the rest, as it is Deu 29:11) for the use and benefit of the congregation; to do this partly for the sacrifices and services of the house of God, as it is expressed, Jos 9:23, which otherwise the Israelites themselves must have done, partly for the service of the camp or body of the people, and sometimes upon occasion even to particular Israelites; whence they are made bondmen, which is mentioned as a filing distinct from their service in the house of God, Jos 9:23. And so they are in effect stripped of all their possessions, whereby the main ground of the people’s quarrel was taken away.",
+     "refs": [
+      {
+       "text": "Deu 29:11",
+       "ref": "DEU.29.11"
+      },
+      {
+       "text": "Jos 9:23",
+       "ref": "JOS.9.23"
+      },
+      {
+       "text": "Jos 9:23",
+       "ref": "JOS.9.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.21#p2-507c8e84",
+     "text": "or, because or seeing that (as the Hebrew word sometimes signifies) the princes (i.e. we ourselves; they speak of themselves in the third person, which is very frequent in the Hebrew language) had promised it to them, to wit, that they should live, and confirmed their promise by an oath. So the princes speaking here to the people allege the promise or oath of the princes when they met among themselves, and apart from the people. And this change of persons may possibly arise from hence, because some of the princes who were present in the assembly of the princes might now be absent upon some occasion. And this clause relates not to the next words, which are fitly enclosed within a parenthesis, but to the foregoing clause,",
+     "anchor": "As the princes had promised them"
+    },
+    {
+     "id": "poole/JOS.9.21#p3-4352d2b1",
+     "text": "because the princes have promised them their lives.",
+     "anchor": "let them live"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.23",
+   "range": "JOS.9.23",
+   "kind": "passage",
+   "hash": "c46c5041",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.23#p1-529daee2",
+     "text": "you shall not escape the curse of God, which by Divine sentence belongs to all the Canaanites, who are a people devoted by God to ruin, but only change the quality of it; you shall feel that curse of bondage and servitude, which is proper to your race by virtue of that ancient decree, Gen 9:25; you shall live indeed, but in a poor, vile, and miserable condition.",
+     "anchor": "Ye are cursed",
+     "refs": [
+      {
+       "text": "Gen 9:25",
+       "ref": "GEN.9.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/JOS.9.23#p2-314e91e6",
+     "text": "the slavery which is upon you shall be entailed to your posterity.",
+     "anchor": "There shall none of you be freed from being bond-men"
+    },
+    {
+     "id": "poole/JOS.9.23#p3-f47d01fd",
+     "text": "this only service they mention here, because it was their principal and most durable servitude, being first in the tabernacle, and then in the temple, whence they were called Nethinims, 1Ch 9:2 Ezr 2:43; whereas their servitude to the whole congregation would in a great measure cease when the Israelites were dispersed to their several habitations.",
+     "anchor": "Hewers of wood and drawers of water for the house of my God",
+     "refs": [
+      {
+       "text": "1Ch 9:2",
+       "ref": "1CH.9.2"
+      },
+      {
+       "text": "Ezr 2:43",
+       "ref": "EZR.2.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.25",
+   "range": "JOS.9.25",
+   "kind": "passage",
+   "hash": "61c45539",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.25#p1-61c45539",
+     "text": "i.e. in thy power to use as thou wilt. We refer ourselves to thee and thy own piety and probity, and faithfulness to thy word and oath; if thou wilt destroy thy humble suppliants, we submit.",
+     "anchor": "We are in thine hand"
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.26",
+   "range": "JOS.9.26",
+   "kind": "passage",
+   "hash": "cb5728b5",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.26#p1-cb5728b5",
+     "text": "So as was said Jos 9:23, and so as here follows.",
+     "refs": [
+      {
+       "text": "Jos 9:23",
+       "ref": "JOS.9.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JOS.9.27",
+   "range": "JOS.9.27",
+   "kind": "passage",
+   "hash": "ef38c582",
+   "paragraphs": [
+    {
+     "id": "poole/JOS.9.27#p1-ef38c582",
+     "text": "By which it appears that they were not only to do this service in God’s house, but upon all other occasions, as the congregation needed or required their help."
+    }
+   ]
+  }
+ ]
+}

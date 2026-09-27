@@ -1,0 +1,3763 @@
+{
+ "source": "poole",
+ "book": "COL",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/COL.1",
+   "range": "COL.1",
+   "kind": "chapter",
+   "hash": "de52c93e",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1#p1-028ee37a",
+     "text": "Col 1:1,2 After saluting the saints at Colosse,",
+     "refs": [
+      {
+       "text": "Col 1:1",
+       "ref": "COL.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1#p2-5d19e238",
+     "text": "Col 1:3-8 Paul testifieth his thankfulness to God for the good account he had heard of their faith and love,",
+     "refs": [
+      {
+       "text": "Col 1:3-8",
+       "ref": "COL.1.3-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1#p3-b0c656e3",
+     "text": "Col 1:9-14 and his continual prayers for their improvement in spiritual knowledge, right practice, and thanksgiving to God for the benefits of redemption by his Son.",
+     "refs": [
+      {
+       "text": "Col 1:9-14",
+       "ref": "COL.1.9-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1#p4-66e8b754",
+     "text": "Col 1:15-20 He showeth them the exalted nature and mediatorial office of Christ,",
+     "refs": [
+      {
+       "text": "Col 1:15-20",
+       "ref": "COL.1.15-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1#p5-bf3345f5",
+     "text": "Col 1:21,22 by whom they, who were once enemies, were now reconciled, if they continued true to the gospel,",
+     "refs": [
+      {
+       "text": "Col 1:21",
+       "ref": "COL.1.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1#p6-c740cb5f",
+     "text": "Col 1:23-29 whereof he Paul was made a minister to preach to the Gentiles.",
+     "refs": [
+      {
+       "text": "Col 1:23-29",
+       "ref": "COL.1.23-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.1",
+   "range": "COL.1.1",
+   "kind": "passage",
+   "hash": "fde83e10",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.1#p1-12d176dd",
+     "text": "he who of a persecutor was become a preacher, and that amongst the Gentiles laid aside his Hebrew name Saul and made use of this, which was more familiar amongst the Gentiles, viz. Paul, Act 13:2,3,9.",
+     "anchor": "Paul",
+     "refs": [
+      {
+       "text": "Act 13:2",
+       "ref": "ACT.13.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.1#p2-a817c218",
+     "text": "one of those extraordinary persons immediately deputed by the special command of our Lord himself, with sovereign authority to preach the gospel, and establish his church, which is the highest charge God ever gave to men, Mat 10:2 Luk 6:13 1Co 12:28 Gal 1:12: See Poole on \"Eph 1:1\". See Poole on \"Eph 4:11\".",
+     "anchor": "An apostle of Jesus Christ by the will of God",
+     "refs": [
+      {
+       "text": "Mat 10:2",
+       "ref": "MAT.10.2"
+      },
+      {
+       "text": "Luk 6:13",
+       "ref": "LUK.6.13"
+      },
+      {
+       "text": "1Co 12:28",
+       "ref": "1CO.12.28"
+      },
+      {
+       "text": "Gal 1:12",
+       "ref": "GAL.1.12"
+      },
+      {
+       "text": "Eph 1:1",
+       "ref": "EPH.1.1"
+      },
+      {
+       "text": "Eph 4:11",
+       "ref": "EPH.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.1#p3-8a7fc8c6",
+     "text": "he joins Timothy, as elsewhere Sosthenes, 1Co 1:1, by the title of",
+     "anchor": "And Timotheus our brother",
+     "refs": [
+      {
+       "text": "1Co 1:1",
+       "ref": "1CO.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.1#p4-58ae094a",
+     "text": "as being of the same faith, labouring in one and the same work, which might be more for their satisfaction.",
+     "anchor": "brother"
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.2",
+   "range": "COL.1.2",
+   "kind": "passage",
+   "hash": "427907c7",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.2#p1-ee73c228",
+     "text": "Php 1:1\".",
+     "anchor": "To the saints: See Poole on \"",
+     "refs": [
+      {
+       "text": "Php 1:1",
+       "ref": "PHP.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.2#p2-0a41697b",
+     "text": "Php 4:21\".",
+     "anchor": "And faithful brethren in Christ: See Poole on \"",
+     "refs": [
+      {
+       "text": "Php 4:21",
+       "ref": "PHP.4.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.2#p3-595fb105",
+     "text": "see the Argument: (See Poole on \"Col 1:1\".)",
+     "anchor": "Which are at Colosse",
+     "refs": [
+      {
+       "text": "Col 1:1",
+       "ref": "COL.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.2#p4-efd93f6e",
+     "text": "Eph 1:2\", and See Poole on \"Php 1:2\".",
+     "anchor": "Grace be unto you, and peace, from God our Father and the Lord Jesus Christ: See Poole on \"",
+     "refs": [
+      {
+       "text": "Eph 1:2",
+       "ref": "EPH.1.2"
+      },
+      {
+       "text": "Php 1:2",
+       "ref": "PHP.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.3",
+   "range": "COL.1.3",
+   "kind": "passage",
+   "hash": "38cf5463",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.3#p1-0aa127d6",
+     "text": "Php 1:3\". He doth here take in Timothy and others, in acknowledging of God’s grace to them, which might express his great good-will to them.",
+     "anchor": "We give thanks to God: See Poole on \"",
+     "refs": [
+      {
+       "text": "Php 1:3",
+       "ref": "PHP.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.3#p2-5537d0e3",
+     "text": "describing God, to whom they render thanks both absolutely and relatively, as the Father of Jesus Christ, according to both natures: See Poole on \"2Co 1:3\", and See Poole on \"Eph 1:3\".",
+     "anchor": "And the Father of our Lord Jesus Christ",
+     "refs": [
+      {
+       "text": "2Co 1:3",
+       "ref": "2CO.1.3"
+      },
+      {
+       "text": "Eph 1:3",
+       "ref": "EPH.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.3#p3-6759073a",
+     "text": "always when they did address themselves to God by prayer making mention of them, as he also wrote to the Philippians: See Poole on \"Php 1:3,4\".",
+     "anchor": "Praying always for you",
+     "refs": [
+      {
+       "text": "Php 1:3",
+       "ref": "PHP.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.4",
+   "range": "COL.1.4",
+   "kind": "passage",
+   "hash": "e31814c1",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.4#p1-e31814c1",
+     "text": "He instanceth in principal graces, as the matter of his thanksgiving, beginning with faith, described and differenced from the special object of it, Christ Jesus, implying not a bare knowledge or assent, but a trust in him alone for salvation; so Rom 1:8. Understanding this saving grace with the consequent was wrought in them, as he heard it was in the Ephesians, and Philemon, it, was a cogent motive to engage them in solemn thankfulness to God: see on Eph 1:15, compared with Phm 1:5. He joins love, or charity, to all the saints, with faith to our Saviour, because they are in effect inseparable, there being no real embracing of Christ without loving of him, and all his members for his sake, Gal 5:6 2Ti 1:13: not as if believers were not to show love or charity to others, who are of the same nature, and so bear the image of God, for this Christ requires of them, Mat 5:44,45; but by how much the nearer any are brought to God by sanctification, by so much the more a special love is to be showed to them, as fellow citizens, of the household of God, and the hosehold of faith, Rom 15:26, with Gal 6:10 Eph 2:19.",
+     "refs": [
+      {
+       "text": "Rom 1:8",
+       "ref": "ROM.1.8"
+      },
+      {
+       "text": "Eph 1:15",
+       "ref": "EPH.1.15"
+      },
+      {
+       "text": "Phm 1:5",
+       "ref": "PHM.1.5"
+      },
+      {
+       "text": "Gal 5:6",
+       "ref": "GAL.5.6"
+      },
+      {
+       "text": "2Ti 1:13",
+       "ref": "2TI.1.13"
+      },
+      {
+       "text": "Mat 5:44",
+       "ref": "MAT.5.44"
+      },
+      {
+       "text": "Rom 15:26",
+       "ref": "ROM.15.26"
+      },
+      {
+       "text": "Gal 6:10",
+       "ref": "GAL.6.10"
+      },
+      {
+       "text": "Eph 2:19",
+       "ref": "EPH.2.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.5",
+   "range": "COL.1.5",
+   "kind": "passage",
+   "hash": "b776b3e6",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.5#p1-b777a035",
+     "text": "hope here, in this description of it, seems chiefly by a metonymy to be put for the glorious eternal salvation hoped for, Rom 8:24 Eph 1:18 which may also include that lively grace whereby we lay hold of eternal life contained in the promise, Tit 1:2. This indeed is set before believers here to encourage them to fly unto Christ for refuge, Heb 6:18, and reserved in heaven for them, 1Pe 1:4; which may well quicken in Christian love all the members of Christ in every condition; yet not with a mercenary of affection, 2Co 5:14, as if any by offices of Christian love to brethren could merit what is laid up for those who exercise faith, love, and hope, but that God of his mere grace and undeserved love is pleased to reward such as diligently seek him, and thereby gives an exact evidence of his admirable liberality, Heb 11:6, which will abundantly weigh down those light afflictions they sustain here, 2Co 4:17.",
+     "anchor": "For the hope which is laid up for you in heaven",
+     "refs": [
+      {
+       "text": "Rom 8:24",
+       "ref": "ROM.8.24"
+      },
+      {
+       "text": "Eph 1:18",
+       "ref": "EPH.1.18"
+      },
+      {
+       "text": "Tit 1:2",
+       "ref": "TIT.1.2"
+      },
+      {
+       "text": "Heb 6:18",
+       "ref": "HEB.6.18"
+      },
+      {
+       "text": "1Pe 1:4",
+       "ref": "1PE.1.4"
+      },
+      {
+       "text": "2Co 5:14",
+       "ref": "2CO.5.14"
+      },
+      {
+       "text": "Heb 11:6",
+       "ref": "HEB.11.6"
+      },
+      {
+       "text": "2Co 4:17",
+       "ref": "2CO.4.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.5#p2-c73b6479",
+     "text": "hereupon he puts them in mind of the means whereby they attained to this good hope when they first embraced the gospel, viz. by hearing, Rom 10:14, the word of truth, eminently, 2Co 6:7 Eph 1:13; not only because it is the word of Jesus Christ, who is the truth, and the life, Joh 14:6, but because the gospel (which is here put appositively) is the most excellent of all truths, surpassing all in philosophy, and the law, Joh 1:17.",
+     "anchor": "Whereof ye heard before in the word of the truth of the gospel",
+     "refs": [
+      {
+       "text": "Rom 10:14",
+       "ref": "ROM.10.14"
+      },
+      {
+       "text": "2Co 6:7",
+       "ref": "2CO.6.7"
+      },
+      {
+       "text": "Eph 1:13",
+       "ref": "EPH.1.13"
+      },
+      {
+       "text": "Joh 14:6",
+       "ref": "JHN.14.6"
+      },
+      {
+       "text": "Joh 1:17",
+       "ref": "JHN.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.6",
+   "range": "COL.1.6",
+   "kind": "passage",
+   "hash": "4e917434",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.6#p1-c497582f",
+     "text": "and passing the narrow bounds of Judea, unto all or most of the regions of the world, Col 1:23 Mat 24:14 Act 2:5 Rom 1:8 10:18. So admirable was the progress of it east, west, north, and south, well nigh over the world as it was then known to the Greeks and Romans; whereupon the apostle might well write, Christ was",
+     "anchor": "Which is come unto you, as it is in all the world",
+     "refs": [
+      {
+       "text": "Col 1:23",
+       "ref": "COL.1.23"
+      },
+      {
+       "text": "Mat 24:14",
+       "ref": "MAT.24.14"
+      },
+      {
+       "text": "Act 2:5",
+       "ref": "ACT.2.5"
+      },
+      {
+       "text": "Rom 1:8",
+       "ref": "ROM.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.6#p2-6034988d",
+     "text": "1Ti 3:16: as Christ had said he was the light of the world, and, by a figure of part for the whole, would upon his death draw all men to him, Joh 12:32,46. Yet let not the Rhemists, or any other Romanist, think that the promulgation of the mysteries of the gospel then is any proof of the verity of the Romish religion in these latter ages, when by tyranny they impose for doctrines the traditions of men: they do not bring forth that genuine fruit which the Colossians did.",
+     "anchor": "believed on in the world",
+     "refs": [
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Joh 12:32",
+       "ref": "JHN.12.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.6#p3-08b62439",
+     "text": "viz. becoming the gospel, (as the Philipplans did, Php 1:27), and true repentance, Mat 3:8 13:23 Joh 15:16; and real holiness, abiding in the hearts and lives of men, and effectually working in them that believe it, Isa 55:10 Act 5:14 Act 6:7 12:24,16,17,20 1Th 2:13; which the practical religion of the papists generally bears no proportion to, being contrary to that.",
+     "anchor": "And bringeth forth fruit",
+     "refs": [
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "Mat 3:8",
+       "ref": "MAT.3.8"
+      },
+      {
+       "text": "Joh 15:16",
+       "ref": "JHN.15.16"
+      },
+      {
+       "text": "Isa 55:10",
+       "ref": "ISA.55.10"
+      },
+      {
+       "text": "Act 5:14",
+       "ref": "ACT.5.14"
+      },
+      {
+       "text": "Act 6:7",
+       "ref": "ACT.6.7"
+      },
+      {
+       "text": "1Th 2:13",
+       "ref": "1TH.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.6#p4-0d31b82a",
+     "text": "which from the first receiving of the gospel, was found growing amongst the true converts at Colosse, though it should seem false teachers crept in to choke the good fruit with their tares.",
+     "anchor": "As it doth also in you, since the day ye heard of it"
+    },
+    {
+     "id": "poole/COL.1.6#p5-960bba16",
+     "text": "however, they who had real experience of the grace of God and the excellency of the knowledge of Christ, Psa 3:8, did hold, bringing forth fruit in old age, Psa 92:14.",
+     "anchor": "And knew the grace of God in truth",
+     "refs": [
+      {
+       "text": "Psa 3:8",
+       "ref": "PSA.3.8"
+      },
+      {
+       "text": "Psa 92:14",
+       "ref": "PSA.92.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.7",
+   "range": "COL.1.7",
+   "kind": "passage",
+   "hash": "0fbb3e9d",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.7#p1-adbae8dd",
+     "text": "to maintain the truth, it did much concern them to have a good opinion of him, who was an eminent instrument in communicating it to them, and therefore Paul doth here very opportunely commend Epaphras, in opposition to those false teachers, who likely might insinuate somewhat to his disparagement.",
+     "anchor": "As ye also learned of Epaphras"
+    },
+    {
+     "id": "poole/COL.1.7#p2-feb82b12",
+     "text": "the respect they bare, and relation he stood in to them, being dearly beloved of him for his sincerity in promulgating the gospel; and being engaged with them in the service of the same Master, Col 4:7 Rev 6:11.",
+     "anchor": "Our dear fellow servant",
+     "refs": [
+      {
+       "text": "Col 4:7",
+       "ref": "COL.4.7"
+      },
+      {
+       "text": "Rev 6:11",
+       "ref": "REV.6.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.7#p3-588a8448",
+     "text": "his office, which he discharged with fidelity and affection unto them. He did with all honesty and integrity, as became one intrusted by his Master Christ, discharge what was incumbent on him for their good, Col 4:13 Joh 12:26 1Co 4:1,2 Eph 4:12 1Ti 4:6 Heb 13:17.",
+     "anchor": "Who is for you a faithful minister of Christ",
+     "refs": [
+      {
+       "text": "Col 4:13",
+       "ref": "COL.4.13"
+      },
+      {
+       "text": "Joh 12:26",
+       "ref": "JHN.12.26"
+      },
+      {
+       "text": "1Co 4:1",
+       "ref": "1CO.4.1"
+      },
+      {
+       "text": "1Ti 4:6",
+       "ref": "1TI.4.6"
+      },
+      {
+       "text": "Heb 13:17",
+       "ref": "HEB.13.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.8",
+   "range": "COL.1.8",
+   "kind": "passage",
+   "hash": "2cbdede7",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.8#p1-2cbdede7",
+     "text": "Having with kindness and delight reported to Paul and Timothy, &c., what a spiritually fervent affection, not moved by carnal considerations, but inwrought by the Spirit, Gal 5:6,22, arising from a renewed heart, 1Ti 1:5 2Ti 1:7, they had for Christ, for the gospel, the apostle, and all that did love the Lord Jesus in sincerity, Gal 6:10 1Pe 1:22,23.",
+     "refs": [
+      {
+       "text": "Gal 5:6",
+       "ref": "GAL.5.6"
+      },
+      {
+       "text": "1Ti 1:5",
+       "ref": "1TI.1.5"
+      },
+      {
+       "text": "2Ti 1:7",
+       "ref": "2TI.1.7"
+      },
+      {
+       "text": "Gal 6:10",
+       "ref": "GAL.6.10"
+      },
+      {
+       "text": "1Pe 1:22",
+       "ref": "1PE.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.9",
+   "range": "COL.1.9",
+   "kind": "passage",
+   "hash": "5aa5fdc1",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.9#p1-f5fa6439",
+     "text": "he doth here suggest the motive mentioned in the precedent verses, viz. their faith and love, Col 1:4,5, and their special love to him, Col 1:8, why he and his brethren had them so much upon their hearts: See Poole on \"Eph 1:15-17\".",
+     "anchor": "For this cause we also",
+     "refs": [
+      {
+       "text": "Col 1:4",
+       "ref": "COL.1.4"
+      },
+      {
+       "text": "Col 1:8",
+       "ref": "COL.1.8"
+      },
+      {
+       "text": "Eph 1:15-17",
+       "ref": "EPH.1.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.9#p2-98723760",
+     "text": "it seems, from the time they were refreshed with these things they did (as he exhorts the Colossians here, Col 4:2) always upon all solemn occasions wait upon God for the Colossians’ spiritual prosperity, as Paul himself did for the Philippians: See Poole on \"Luk 18:1\". See Poole on \"Rom 12:12\". See Poole on \"Php 1:4\". See Poole on \"Php 1:9\". See Poole on \"1Th 5:17\".",
+     "anchor": "Since the day we heard it, do not cease to pray for you",
+     "refs": [
+      {
+       "text": "Col 4:2",
+       "ref": "COL.4.2"
+      },
+      {
+       "text": "Luk 18:1",
+       "ref": "LUK.18.1"
+      },
+      {
+       "text": "Rom 12:12",
+       "ref": "ROM.12.12"
+      },
+      {
+       "text": "Php 1:4",
+       "ref": "PHP.1.4"
+      },
+      {
+       "text": "Php 1:9",
+       "ref": "PHP.1.9"
+      },
+      {
+       "text": "1Th 5:17",
+       "ref": "1TH.5.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.9#p3-140fa371",
+     "text": "and the subject matter of their instant prayer was, that they might attain to a more distinct, clear, and practical knowledge of the mind of God in Christ, and a greater measure of conformity to what he requires in the gospel, Col 1:6 Eph 5:15-17.",
+     "anchor": "And to desire that ye might be filled with the knowledge of his will",
+     "refs": [
+      {
+       "text": "Col 1:6",
+       "ref": "COL.1.6"
+      },
+      {
+       "text": "Eph 5:15-17",
+       "ref": "EPH.5.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.9#p4-87897a7b",
+     "text": "in (rather than with) all necessary knowledge of the things of faith and manners, according to the prescript of the gospel: for sapience or wisdom doth properly respect the most excellent things, and such we learn most distinctly and satisfactorily from the revealed will of God, which we have in the Bible: this is that which Paul and other holy men spoke as taught of God amongst the perfect or grown Christians, in opposition both to the wisdom of man and of the world, 1Co 2:4,6, being agreeable to the will of God, Job 28:28 Pro 28:7 Joh 6:40 1Th 4:3. And with this Christian wisdom some would render the following words, in",
+     "anchor": "In all wisdom",
+     "refs": [
+      {
+       "text": "1Co 2:4",
+       "ref": "1CO.2.4"
+      },
+      {
+       "text": "Job 28:28",
+       "ref": "JOB.28.28"
+      },
+      {
+       "text": "Pro 28:7",
+       "ref": "PRO.28.7"
+      },
+      {
+       "text": "Joh 6:40",
+       "ref": "JHN.6.40"
+      },
+      {
+       "text": "1Th 4:3",
+       "ref": "1TH.4.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.9#p5-238b9a1c",
+     "text": "but if we render it understanding, or intelligence, it may be expounded to the same sense; for which there may be very good reason, for the philosopher doth sometimes by the Greek word mean that power or habit whereby men judge aright of things presented conducing to happiness, so as upon a due expense of circumstances to discern the good from the evil, the true from the false, and the real from the apparent: such a gift as Paul prays the Lord would give unto Timothy, 2Ti 2:7, compared with 1Co 1:5, that they might rightly distinguish between the simplicity and purity of the gospel, and those false glosses and colours that false teachers went about to sophisticate it with; not be without understanding his some who followed our Saviour, Mat 15:16 what course they should take in the practice of piety, but be able to discern the times, 1Ch 12:32, and other circumstances, Psa 39:1 50:23 Ecc 5:1 Luk 8:18; for the ordering their actions aright, so as they may adorn the doctrine of God our Saviour in all things, as becomes the gospel, Eph 1:8, with Php 1:10,27 Col 4:5 Tit 2:10. Ignorance then can be no mother of true devotion, nor the inventions of men acceptable service to the living God, whose will alone is the rule of his worship.",
+     "anchor": "spiritual prudence",
+     "refs": [
+      {
+       "text": "2Ti 2:7",
+       "ref": "2TI.2.7"
+      },
+      {
+       "text": "1Co 1:5",
+       "ref": "1CO.1.5"
+      },
+      {
+       "text": "Mat 15:16",
+       "ref": "MAT.15.16"
+      },
+      {
+       "text": "1Ch 12:32",
+       "ref": "1CH.12.32"
+      },
+      {
+       "text": "Psa 39:1",
+       "ref": "PSA.39.1"
+      },
+      {
+       "text": "Ecc 5:1",
+       "ref": "ECC.5.1"
+      },
+      {
+       "text": "Luk 8:18",
+       "ref": "LUK.8.18"
+      },
+      {
+       "text": "Eph 1:8",
+       "ref": "EPH.1.8"
+      },
+      {
+       "text": "Php 1:10",
+       "ref": "PHP.1.10"
+      },
+      {
+       "text": "Tit 2:10",
+       "ref": "TIT.2.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.10",
+   "range": "COL.1.10",
+   "kind": "passage",
+   "hash": "09b14e5a",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.10#p1-0f25bdc2",
+     "text": "they prayed for the above mentioned gracious habits, that the Colossians might exercise them in a course of life as it becomes those who are effectually called by the gospel to be the sons of God, and the servants of Christ; suitable to the members of the body of Christ: See Poole on \"Eph 4:1\". See Poole on \"Php 1:27\"; compared with Rom 16:2 1Th 2:12 2Th 1:11. As the word God alone ordinary connotes the Father, so Lord doth Christ; answerable to whose wisdom, holiness, and example, Christians professing a relation to him, and expecting benefit by his purchase, should behave themselves; so that the papists cannot from this walking",
+     "anchor": "That ye might walk worthy of the Lord",
+     "refs": [
+      {
+       "text": "Eph 4:1",
+       "ref": "EPH.4.1"
+      },
+      {
+       "text": "Php 1:27",
+       "ref": "PHP.1.27"
+      },
+      {
+       "text": "Rom 16:2",
+       "ref": "ROM.16.2"
+      },
+      {
+       "text": "1Th 2:12",
+       "ref": "1TH.2.12"
+      },
+      {
+       "text": "2Th 1:11",
+       "ref": "2TH.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.10#p2-5974d849",
+     "text": "justly infer a merit of condignity, behaving ourselves as Christians being so far from any merit or desert of ours, that it is a debt, we being indispensably obliged to do so, practice being the end of our knowledge. And this end we are to respect",
+     "anchor": "worthy of the Lord"
+    },
+    {
+     "id": "poole/COL.1.10#p3-4935851f",
+     "text": "i.e. designing and endeavouring not in one thing only, or in few things, but in all things whatsoever are incmnbent on us, we may find aceptance with our Lord and Master, Col 3:20 1Co 7:32 10:31 1Th 2:4 Heb 12:28: all should be great and generous, such as may best like our Lord, keeping themselves from the defilements of the age, Rev 3:4.",
+     "anchor": "unto all pleasing",
+     "refs": [
+      {
+       "text": "Col 3:20",
+       "ref": "COL.3.20"
+      },
+      {
+       "text": "1Co 7:32",
+       "ref": "1CO.7.32"
+      },
+      {
+       "text": "1Th 2:4",
+       "ref": "1TH.2.4"
+      },
+      {
+       "text": "Heb 12:28",
+       "ref": "HEB.12.28"
+      },
+      {
+       "text": "Rev 3:4",
+       "ref": "REV.3.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.10#p4-5f9a708c",
+     "text": "particularly fructifying, which in the sense may be joined with being filled, Col 1:8: being fruitful is a metaphorical expression borrowed from fruit-bearing trees, unto which godly men and real Christians are compared, Psa 1:3 Joh 15:8; and",
+     "anchor": "Being fruitful in every good work",
+     "refs": [
+      {
+       "text": "Col 1:8",
+       "ref": "COL.1.8"
+      },
+      {
+       "text": "Psa 1:3",
+       "ref": "PSA.1.3"
+      },
+      {
+       "text": "Joh 15:8",
+       "ref": "JHN.15.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.10#p5-07206b8c",
+     "text": "is the fruit which these plants of the Lord, having his Spirit as the seed remaining in them, 1Jn 3:9, do bring forth of every sort from a right principle, 1Ti 1:5, according to rule warranted by God, Isa 29:13 Gal 6:16; or having a call from him, for his glory: see 2Co 9:8 Php 1:11 2Th 2:17 Heb 13:21.",
+     "anchor": "every good work",
+     "refs": [
+      {
+       "text": "1Jn 3:9",
+       "ref": "1JN.3.9"
+      },
+      {
+       "text": "1Ti 1:5",
+       "ref": "1TI.1.5"
+      },
+      {
+       "text": "Isa 29:13",
+       "ref": "ISA.29.13"
+      },
+      {
+       "text": "Gal 6:16",
+       "ref": "GAL.6.16"
+      },
+      {
+       "text": "2Co 9:8",
+       "ref": "2CO.9.8"
+      },
+      {
+       "text": "Php 1:11",
+       "ref": "PHP.1.11"
+      },
+      {
+       "text": "2Th 2:17",
+       "ref": "2TH.2.17"
+      },
+      {
+       "text": "Heb 13:21",
+       "ref": "HEB.13.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.10#p6-a549a38f",
+     "text": "the Colossians were not yet perfect in knowledge, and therefore they prayed that they might go on, and grow in grace and knowledge of God and Christ, 2Pe 3:18, the best here knowing but in part, 1Co 13:9; therefore they desired these Christians, as the Philippians, Php 3:10,12, and the Ephesians, Eph 4:13, might come to their stature: see on the texts.",
+     "anchor": "And increasing in the knowledge of God",
+     "refs": [
+      {
+       "text": "2Pe 3:18",
+       "ref": "2PE.3.18"
+      },
+      {
+       "text": "1Co 13:9",
+       "ref": "1CO.13.9"
+      },
+      {
+       "text": "Php 3:10",
+       "ref": "PHP.3.10"
+      },
+      {
+       "text": "Eph 4:13",
+       "ref": "EPH.4.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.11",
+   "range": "COL.1.11",
+   "kind": "passage",
+   "hash": "6dd8a00b",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.11#p1-d53d6cde",
+     "text": "whereunto that they might be enabled, it was needful to pray for a power from above, for the best Christians here below are but infirm as well as imperfect, not able to perform what is required of them for doing and suffering the will of God till strengthened: See Poole on \"Php 4:13\", compared with Rev 7:17. We have here great need of all might, special aids of God, to discharge difficult duties, to mortify strong corruptions, to contemn worldly allurements, to repulse frequent temptations, to bear manifold crosses, and to improve daily mercies, derived from exceeding great and mighty power; See Poole on \"Eph 1:19\". See Poole on \"Eph 1:20\". See Poole on \"Eph 3:16\"; an excellent glorious power, 2Co 4:7,13, needful to consummate and complete, as well as begin, the work of grace, 2Th 1:11; a great reality (and not a metaphor) to sincere converts and sound believers.",
+     "anchor": "Strengthened with all might, according to his glorious power",
+     "refs": [
+      {
+       "text": "Php 4:13",
+       "ref": "PHP.4.13"
+      },
+      {
+       "text": "Rev 7:17",
+       "ref": "REV.7.17"
+      },
+      {
+       "text": "Eph 1:19",
+       "ref": "EPH.1.19"
+      },
+      {
+       "text": "Eph 1:20",
+       "ref": "EPH.1.20"
+      },
+      {
+       "text": "Eph 3:16",
+       "ref": "EPH.3.16"
+      },
+      {
+       "text": "2Co 4:7",
+       "ref": "2CO.4.7"
+      },
+      {
+       "text": "2Th 1:11",
+       "ref": "2TH.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.11#p2-3c9e183c",
+     "text": "every way to bear the things which come hard upon them or continue long. Philosophy, with all its prescriptions, is ineffectual to form the soul to true patience and contentment under sufferings, it must be given on the behalf of Christ, Php 1:29, to a believer, to suffer patiently in tongue and heart, without a prevailing mixture of passion, so that evils do not make all impression upon him, but he doth possess his soul with patience to the end.",
+     "anchor": "Unto all patience",
+     "refs": [
+      {
+       "text": "Php 1:29",
+       "ref": "PHP.1.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.11#p3-5000cf61",
+     "text": "which he could not do with a becoming Christian cheerfulness, when, surcharged with a weight of troubles, he finds himself sinking, if he were not supported with the hands of Heaven, which relieve with present comfort, and raise up to believe a future reward, Mat 5:12 Act 5:41 Rom 5:3 1Co 11:32 2Co 1:5 Heb 11:27 12:10,12 Jas 1:2,4.",
+     "anchor": "And long-suffering with joyfulness",
+     "refs": [
+      {
+       "text": "Mat 5:12",
+       "ref": "MAT.5.12"
+      },
+      {
+       "text": "Act 5:41",
+       "ref": "ACT.5.41"
+      },
+      {
+       "text": "Rom 5:3",
+       "ref": "ROM.5.3"
+      },
+      {
+       "text": "1Co 11:32",
+       "ref": "1CO.11.32"
+      },
+      {
+       "text": "2Co 1:5",
+       "ref": "2CO.1.5"
+      },
+      {
+       "text": "Heb 11:27",
+       "ref": "HEB.11.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.12",
+   "range": "COL.1.12",
+   "kind": "passage",
+   "hash": "220862dd",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.12#p1-98feea09",
+     "text": "he passeth from petitioning, Col 1:9, to thanksgiving to God the Father, upon the consideration of his grace manifested in his Son for our redemption. In the Ephesians, Eph 1:3,4, he began with election, here with effectual vocation; he acknowledgeth God the Father to be the object and author of what was wrought for us by his Son, and in us by his Spirit.",
+     "anchor": "Giving thanks unto the Father",
+     "refs": [
+      {
+       "text": "Col 1:9",
+       "ref": "COL.1.9"
+      },
+      {
+       "text": "Eph 1:3",
+       "ref": "EPH.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.12#p2-6c5673ec",
+     "text": "who hath made us capable of communion with himself, or ready and fit, which implies that by nature we are unready and unfit; so that merit cannot be drawn hence, and the Rhemists have done ill, contrary to the translation of the Syriac, to translate it, made us worthy: one copy hath, who hath called us. The original word, in that we follow, seems to be an idiom of the apostle (as the learned think) borrowed from the Hebrew; we find it used only in one other text by the apostle, 2Co 3:5,6; and there he shows we are insufficient for, and incapable of, saying good things, till God do capacitate us by making us accepted in the beloved, Eph 1:6; we cannot understand things of the Spirit of God, nor affect God, Joh 12:39 Rom 8:5 1Co 2:14, till God do draw and capacitate us, Joh 6:44,45 Phm 2:13, and form and work us by his Spirit unto this selfsame thing, Rom 4:17 2Co 5:5.",
+     "anchor": "Which hath made us meet",
+     "refs": [
+      {
+       "text": "2Co 3:5",
+       "ref": "2CO.3.5"
+      },
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      },
+      {
+       "text": "Joh 12:39",
+       "ref": "JHN.12.39"
+      },
+      {
+       "text": "Rom 8:5",
+       "ref": "ROM.8.5"
+      },
+      {
+       "text": "1Co 2:14",
+       "ref": "1CO.2.14"
+      },
+      {
+       "text": "Joh 6:44",
+       "ref": "JHN.6.44"
+      },
+      {
+       "text": "Rom 4:17",
+       "ref": "ROM.4.17"
+      },
+      {
+       "text": "2Co 5:5",
+       "ref": "2CO.5.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.12#p3-96aaf614",
+     "text": "to have a part in the lot of the purchased inheritance with them that are sanctified, Act 26:18 Eph 1:14. The apostle seems to allude to the land of Canaan, wherein a portion was assigned to every one by lot for his inheritance, that being a type of the rest which remaineth to the people of God, Heb 4:9; and this is here said to be",
+     "anchor": "To be partakers of the inheritance of the saints in light",
+     "refs": [
+      {
+       "text": "Act 26:18",
+       "ref": "ACT.26.18"
+      },
+      {
+       "text": "Eph 1:14",
+       "ref": "EPH.1.14"
+      },
+      {
+       "text": "Heb 4:9",
+       "ref": "HEB.4.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.12#p4-bae3edeb",
+     "text": "as allegorically connoting the joy and glory of that state and place, in opposition to the power of darkness.",
+     "anchor": "of the saints in light"
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.13",
+   "range": "COL.1.13",
+   "kind": "passage",
+   "hash": "81fe635b",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.13#p1-b0299cac",
+     "text": "which signifies the sadness and despair of the damned, Eph 6:12 Jud 1:8, that they who are made meet to walk in the light as children of the light, Eph 5:8, are eternally freed from. The word which the apostle useth to express God’s delivering of believers from the power of sin and Satan is very emphatical, signifying a gratuitous freedom, where a stranger hath delivered him from slavery who did not deserve it, nor then desire it, Mar 3:27 Luk 1:74,79 Eph 2:2,5,6 Heb 2:14,15, though he was held fast as in fetters of iron. And which is more, he adds another word,",
+     "anchor": "The power of darkness",
+     "refs": [
+      {
+       "text": "Eph 6:12",
+       "ref": "EPH.6.12"
+      },
+      {
+       "text": "Jud 1:8",
+       "ref": "JUD.1.8"
+      },
+      {
+       "text": "Eph 5:8",
+       "ref": "EPH.5.8"
+      },
+      {
+       "text": "Mar 3:27",
+       "ref": "MRK.3.27"
+      },
+      {
+       "text": "Luk 1:74",
+       "ref": "LUK.1.74"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.13#p2-72adb974",
+     "text": "intimating he did not leave us as Adam was before the fall, but transport us without any precedent will of ours, by the effectual call of his insuperable grace, Joh 6:44 1Th 2:12 1Pe 2:9, from the dominion of Satan, into that of his own Son, the Son of his love, Mat 3:17 17:5 Eph 1:6, amongst his subjects and servants, where he reigns, in his kingdom of grace, Mat 13:11, where Christ dwells in the heart by his Spirit, that is united to him by faith, Eph 3:17 Eph 4:12,13 Heb 12:22,23; and of glory indeed in our Head, Col 1:24, with Eph 2:6, by right of adoption, Rom 8:17, and hope of salvation through him promised by the omnipotent and true God, Rom 8:24 1Th 5:23,24 Tit 1:2; who may well call it the kingdom of his dear Son, in that he admits none into it but by the mediation of his Son, who makes his subjects willing, Psa 110:3, and received this government of his Father, Mat 28:18 Luk 22:29 Eph 1:6,7; of whose dear Son Paul hath more to say, to the comfort of his faithful subjects at Colosse, and every where.",
+     "anchor": "hath translated us into the kingdom of his dear Son",
+     "refs": [
+      {
+       "text": "Joh 6:44",
+       "ref": "JHN.6.44"
+      },
+      {
+       "text": "1Th 2:12",
+       "ref": "1TH.2.12"
+      },
+      {
+       "text": "1Pe 2:9",
+       "ref": "1PE.2.9"
+      },
+      {
+       "text": "Mat 3:17",
+       "ref": "MAT.3.17"
+      },
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      },
+      {
+       "text": "Mat 13:11",
+       "ref": "MAT.13.11"
+      },
+      {
+       "text": "Eph 3:17",
+       "ref": "EPH.3.17"
+      },
+      {
+       "text": "Eph 4:12",
+       "ref": "EPH.4.12"
+      },
+      {
+       "text": "Col 1:24",
+       "ref": "COL.1.24"
+      },
+      {
+       "text": "Eph 2:6",
+       "ref": "EPH.2.6"
+      },
+      {
+       "text": "Rom 8:17",
+       "ref": "ROM.8.17"
+      },
+      {
+       "text": "Rom 8:24",
+       "ref": "ROM.8.24"
+      },
+      {
+       "text": "1Th 5:23",
+       "ref": "1TH.5.23"
+      },
+      {
+       "text": "Psa 110:3",
+       "ref": "PSA.110.3"
+      },
+      {
+       "text": "Mat 28:18",
+       "ref": "MAT.28.18"
+      },
+      {
+       "text": "Luk 22:29",
+       "ref": "LUK.22.29"
+      },
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.14",
+   "range": "COL.1.14",
+   "kind": "passage",
+   "hash": "52c4321b",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.14#p1-4db14e69",
+     "text": "i.e. in the person of Christ alone God-man, deputed of his Father to die for our salvation, Act 4:12 20:28.",
+     "anchor": "In whom",
+     "refs": [
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.14#p2-191cbc1f",
+     "text": "We; as we are in him, made meet, Col 1:12.",
+     "refs": [
+      {
+       "text": "Col 1:12",
+       "ref": "COL.1.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.14#p3-fd254fb9",
+     "text": "we have eternal deliverance, Heb 9:12, effected by a full ransom paid, 1Co 6:20 7:23 1Pe 1:18,19. For the freeing us indeed out of a state of sin and misery, Joh 8:36, or eternal death the wages of sin, Rom 6:23 16:20; so that by redemption here is not meant barely laying down the price, Luk 2:38, nor consummate redemption at the last, Eph 1:14 4:30, but efficacious redemption.",
+     "anchor": "Have redemption",
+     "refs": [
+      {
+       "text": "Heb 9:12",
+       "ref": "HEB.9.12"
+      },
+      {
+       "text": "1Co 6:20",
+       "ref": "1CO.6.20"
+      },
+      {
+       "text": "1Pe 1:18",
+       "ref": "1PE.1.18"
+      },
+      {
+       "text": "Joh 8:36",
+       "ref": "JHN.8.36"
+      },
+      {
+       "text": "Rom 6:23",
+       "ref": "ROM.6.23"
+      },
+      {
+       "text": "Luk 2:38",
+       "ref": "LUK.2.38"
+      },
+      {
+       "text": "Eph 1:14",
+       "ref": "EPH.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.14#p4-0285c903",
+     "text": "upon the account of Christ’s offering himself an expiatory sacrifice to God, without which is no remission, Heb 9:22 Rev 5:9; effusion of his blood, by a synecdoche, takes in his humiliation to the death of the cross, and the pains of the second death he underwent for us, Isa 53:5,6 Ac 2:24 Gal 3:13 Php 2:8.",
+     "anchor": "Through his blood",
+     "refs": [
+      {
+       "text": "Heb 9:22",
+       "ref": "HEB.9.22"
+      },
+      {
+       "text": "Rev 5:9",
+       "ref": "REV.5.9"
+      },
+      {
+       "text": "Isa 53:5",
+       "ref": "ISA.53.5"
+      },
+      {
+       "text": "Gal 3:13",
+       "ref": "GAL.3.13"
+      },
+      {
+       "text": "Php 2:8",
+       "ref": "PHP.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.14#p5-ef39c446",
+     "text": "plenary remission of offences is by apposition to, or follows, redemption as a necessary effect, Col 2:13 Luk 1:77 Act 10:43, by a metonymy transferring the cause to the effect: to see more: See Poole on \"Eph 1:7\".",
+     "anchor": "Even the forgiveness of sins",
+     "refs": [
+      {
+       "text": "Col 2:13",
+       "ref": "COL.2.13"
+      },
+      {
+       "text": "Luk 1:77",
+       "ref": "LUK.1.77"
+      },
+      {
+       "text": "Act 10:43",
+       "ref": "ACT.10.43"
+      },
+      {
+       "text": "Eph 1:7",
+       "ref": "EPH.1.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.15",
+   "range": "COL.1.15",
+   "kind": "passage",
+   "hash": "6973d810",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.15#p1-10426cb3",
+     "text": "Having touched on the benefit of Christ’s sacrifice, which implies his human nature, he doth here rise higher, to set forth the dignity of his person, (which made it satisfactory), both with respect to his Father and the creature. As to the former, he styles him his image, which is not to be understood of an artificial, accidental, or imperfect image, as that of the king on his coin, or as man was the feeble image of God, Gen 9:6 1Co 11:7 Col 3:10; for the apostle’s arguing Christ’s dignity to redeem, would have no force in it, if Christ were no more than a mere man; but of a natural, substantial, and perfect image: as Seth was the natural image of his father Adam, of the same substance with him, Gen 5:3; so Christ, the eternal Word, the only begotten Son of God by nature, Joh 1:1,18, (See Poole on \"Php 2:6\"), very God of very God, Joh 17:3,5, doth exactly resemble, perfectly and adequately represent, his Father, of whose person he is the express character, or perfect image, Heb 1:3. Yet more distinctly Christ is the image of God, either:",
+     "refs": [
+      {
+       "text": "Gen 9:6",
+       "ref": "GEN.9.6"
+      },
+      {
+       "text": "1Co 11:7",
+       "ref": "1CO.11.7"
+      },
+      {
+       "text": "Col 3:10",
+       "ref": "COL.3.10"
+      },
+      {
+       "text": "Gen 5:3",
+       "ref": "GEN.5.3"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Php 2:6",
+       "ref": "PHP.2.6"
+      },
+      {
+       "text": "Joh 17:3",
+       "ref": "JHN.17.3"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p2-dbec912f",
+     "text": "1. As he is the Second Person in the blessed Trinity, from an intrinsical relation to the Father, in regard of the same essence with him by eternal generation before the world was made. He being eternally in the Father, and the Father in him, Joh 14:10; so he is in respect of his Father his essential image, and in regard to us as invisible as the Father himself; no creature could be the eternal image of the Creator, as that Son of the only true God, the living God, was, and is, Mat 16:16 Joh 6:69, in respect of his Father.",
+     "refs": [
+      {
+       "text": "Joh 14:10",
+       "ref": "JHN.14.10"
+      },
+      {
+       "text": "Mat 16:16",
+       "ref": "MAT.16.16"
+      },
+      {
+       "text": "Joh 6:69",
+       "ref": "JHN.6.69"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p3-430051bc",
+     "text": "2. As he is God-man, in whom the fulness of the Godhead dwells bodily, Col 2:9, whereby he doth infinitely exceed and surpass angels and men at first, Heb 1:5,6 2:5. The apostle in this place doth not say simply Christ the image of God, but of the invisible God, ( considered personally), i.e. the Father; because the Father cannot be known to us but in his Son, as in an image, in which he would represent or manifest himself to be seen or known, Joh 1:14,18 Joh 14:8,9 2Co 4:4. And in this latter respect (which imports the manifestative, not essential image) is Christ the image of his invisible Father unto us;",
+     "refs": [
+      {
+       "text": "Col 2:9",
+       "ref": "COL.2.9"
+      },
+      {
+       "text": "Heb 1:5",
+       "ref": "HEB.1.5"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "2Co 4:4",
+       "ref": "2CO.4.4"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Heb 1:5",
+       "ref": "HEB.1.5"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p4-a24614e0",
+     "text": "unto whom, in all his offices and works of mediation, the attributes, affections, and excellencies of God clearly shine forth, they being otherwise incomprehensible and invisible by a creature: but Christ is the complete image of them, in a transcendent way; for as they are in him, they are incommunicable to any mere creature, and therefore he is the image of the invisible God, in that he makes him visible unto us. God is a pure Spirit, without body, or bodily parts, but yet was clearly manifested in Christ tabernacling amongst us, Joh 1:14 1Ti 3:16: he represents him to us in his understanding and wisdom, Pro 8:14,15;",
+     "refs": [
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Pro 8:14",
+       "ref": "PRO.8.14"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p5-30058fb9",
+     "text": "almightiness and eternity, Isa 9:6 Joh 1:1 8:58, permanency and unchangeableness, Heb 1:11,12 13:8, omnipresence and omnisciency, Joh 2:24,25 13:18 Rev 2:13. Not (as the Lutherans strangely imagine) that Christ is omnipotent with the omnipotency of the Divine nature, or omniscient with that omnisciency, as if the manhood did instrumentally use the attributes of the Godhead;",
+     "refs": [
+      {
+       "text": "Isa 9:6",
+       "ref": "ISA.9.6"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Heb 1:11",
+       "ref": "HEB.1.11"
+      },
+      {
+       "text": "Joh 2:24",
+       "ref": "JHN.2.24"
+      },
+      {
+       "text": "Rev 2:13",
+       "ref": "REV.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p6-918011f8",
+     "text": "but such perfections are really inherent in and appertaining to the manhood, by virtue of its union with the Divine nature in the Second Person of the Trinity, that though they are vastly short of the attributes which are essential to the Godhead, yet they are the completest image of them, and such as no mere creature is capable of. Hence it is said, we beheld his glory, the glory of the only begotten Son of God, who did further represent and manifest his Father to us, in the works of creation and preservation which he did, Joh 1:3 5:19 Heb 1:10. Hence the apostle in this verse considers the dignity of Christ, with respect to the creature, adding to the forementioned intrinsic, an extrinsic royalty, the first-born of every creature, which a learned man would render, begotten before all the creation, or born before every creature, which is a Hebrew phrase.",
+     "refs": [
+      {
+       "text": "Joh 1:3",
+       "ref": "JHN.1.3"
+      },
+      {
+       "text": "Heb 1:10",
+       "ref": "HEB.1.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p7-7754e636",
+     "text": "The Greek scholiast and several of the Greek fathers go this way; not as if the ineffable generation of Christ had any beginning, as some falsely conceited Christ to be made in time, just in the beginning before the world, by whom as an instrument all the rest were created; but the apostle doth not say he was first made, or first created; but, Col 1:17, was, or did exist, before all things besides; (as John Baptist said, he was before me, Joh 1:15); and therefore none of the rank of all them, but of another, viz. equal with his Father, whose image he was, above all that was made or created: he was not created at all, though first-born, or first-begotten, yet not first-created, (being distinguished here from created, as the cause from the effect), as it refers to him that begets, so it may to only begotten, Christ being so begotten as no other was or could be, Pro 8:22 Mic 5:2 Heb 1:5,6, even from eternity. The word first may either respect what follows, and so notes order in the things spoken of, he who is first being one of them, 1Co 15:47; or things going before, in which sense it denies all order or series of things in the same kind: as God is first before whom none, Isa 41:4 43:11 Rev 21:6; so Christ may be said to be first-born because the only begotten Son of his Father, Joh 1:14: so the apostle may consider him here in order to establish the consideration of him as Mediator and Head of his church, Col 1:18; he speaking before, Col 1:16, of those things more generally whose creation are assigned to him, in contradistinction to those of the church or new creation, Col 1:18. Agreeably to our translation, first-born of every creature, ( note, here is a difference in the Greek, between first-born of and for, Col 1:18), we may consider:",
+     "refs": [
+      {
+       "text": "Heb 1:5",
+       "ref": "HEB.1.5"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Col 1:17",
+       "ref": "COL.1.17"
+      },
+      {
+       "text": "Joh 1:15",
+       "ref": "JHN.1.15"
+      },
+      {
+       "text": "Pro 8:22",
+       "ref": "PRO.8.22"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Heb 1:5",
+       "ref": "HEB.1.5"
+      },
+      {
+       "text": "1Co 15:47",
+       "ref": "1CO.15.47"
+      },
+      {
+       "text": "Isa 41:4",
+       "ref": "ISA.41.4"
+      },
+      {
+       "text": "Rev 21:6",
+       "ref": "REV.21.6"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      },
+      {
+       "text": "Col 1:16",
+       "ref": "COL.1.16"
+      },
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      },
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p8-0a5a0393",
+     "text": "1. Negatively. It is not to be understood properly for the first in order, so as to be one of them, in reference to whom he is said to be the first-born. But:"
+    },
+    {
+     "id": "poole/COL.1.15#p9-6b99456e",
+     "text": "2. Positively, yet figuratively in a borrowed speech: so primacy and primogeniture may be attributed to him in regard of the creatures:"
+    },
+    {
+     "id": "poole/COL.1.15#p10-45442297",
+     "text": "a) By a metonymy of the antecedent for the consequent; he who hath the privileges of enjoying and disposing of his father’s goods and inheritance, is accounted the first-born, Gen 27:29 Gal 4:1; so is Christ, being Owner, Lord, and Prince of every creature, as he is God-man, or ordained to human nature, he hath the preeminence of the whole creation, and is the chief, Psa 2:7,8",
+     "refs": [
+      {
+       "text": "Gen 27:29",
+       "ref": "GEN.27.29"
+      },
+      {
+       "text": "Gal 4:1",
+       "ref": "GAL.4.1"
+      },
+      {
+       "text": "Psa 2:7",
+       "ref": "PSA.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p11-39d38fb9",
+     "text": "Heb 1:2,6. The heir amongst the Hebrews was reckoned the prince of the family, and so amongst the Romans the heir was taken for the lord: so God said he would make David his first-born, Psa 89:27, compared with Job 18:13 Isa 14:30",
+     "refs": [
+      {
+       "text": "Heb 1:2",
+       "ref": "HEB.1.2"
+      },
+      {
+       "text": "Psa 89:27",
+       "ref": "PSA.89.27"
+      },
+      {
+       "text": "Job 18:13",
+       "ref": "JOB.18.13"
+      },
+      {
+       "text": "Isa 14:30",
+       "ref": "ISA.14.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p12-c50aa6ef",
+     "text": "Jer 31:9. This sovereign empire which Christ hath over all the creation, and the parts of it, is by his primogeniture, or that he is first-born, since there is left nothing that is not under him, Heb 2:8, (as Adam in this lower world, in regard of his dominion, the state of innocency, might be first-born of them created for him), for the apostle brings in the next verse as the fundamental reason of this assertion.",
+     "refs": [
+      {
+       "text": "Jer 31:9",
+       "ref": "JER.31.9"
+      },
+      {
+       "text": "Heb 2:8",
+       "ref": "HEB.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p13-7b4392fb",
+     "text": "b) By a consideration of Christ in God’s eternal decree and purpose, as the common womb of him who is God-man, and all creatures; being fore-ordained before the foundation of the world, 1Pe 1:20, he may be looked upon as the first-born amongst those who are predestinated to be conformed to his image, Rom 8:29, with Eph 1:4,5; for upon this account he is the first-born of the first-born creatures or church, (but this, as hinted before, is considered more specially, Col 1:18), Heb 12:23, therefore the first-born of all others: and this may be one respect in which he is before them, Col 1:17, with Pro 8:22; yea, all of them of the old, as well as the new creation. The Socinians are so daringly bold as to restrain this extensive expression of",
+     "refs": [
+      {
+       "text": "1Pe 1:20",
+       "ref": "1PE.1.20"
+      },
+      {
+       "text": "Rom 8:29",
+       "ref": "ROM.8.29"
+      },
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      },
+      {
+       "text": "Heb 12:23",
+       "ref": "HEB.12.23"
+      },
+      {
+       "text": "Col 1:17",
+       "ref": "COL.1.17"
+      },
+      {
+       "text": "Pro 8:22",
+       "ref": "PRO.8.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.15#p14-e0d2224d",
+     "text": "or all the creation, to the new creation of men or the faithtful only, by perverting some texts of Scripture to strain them that way; when it is plain by what follows, the Spirit of God means all created beings, either in the first or second world, Christ being the principal cause both of the one and the other; the apostle, by the general term every creature simply, without any additament, doth import all created things, viz. the heavens and the earth, with all that is made in them: neither angels, nor inanimate and irrational creatures, are excluded; as in the apostle’s reason immediately following this expression.",
+     "anchor": "every creature"
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.16",
+   "range": "COL.1.16",
+   "kind": "passage",
+   "hash": "701fd6f1",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.16#p1-a9d4e97a",
+     "text": "he proves Christ to be before and Lord over every creature, more excellent than them all, with a prerogative other princes want, for none of them is a creator of his subjects, who were not made by him or for him, as all creatures without exception were made by and for Christ. The apostle here is as cautious as may be, lest by speaking of Christ as",
+     "anchor": "For by him were all things created"
+    },
+    {
+     "id": "poole/COL.1.16#p2-3c9e67d0",
+     "text": "he should seem to put him in the order of creatures, which he shows do depend upon him for their creation and preservation, since he brought them out of nothing into being, and therein doth sustain them.",
+     "anchor": "the firstborn of every creature"
+    },
+    {
+     "id": "poole/COL.1.16#p3-9f9b8a0c",
+     "text": "in whom they have their beings, live and move, Act 17:28. Some render the particle in, rather than by. But they disclaim the philosophical notions about Platonic ideas, only conceive all to be made in Christ, as the exemplary cause, whom God had in his eternal decree set up as the pattern of all perfections, being his image, according to which it was agreed, in the council of the Trinity, man should be made, Gen 1:26. But the most do, according to our translation, render it (as a Hebrew phrase) by, ( being of the same import with that in the end of the verse), or through, which is expressive of the principal efficient, not the instrumental cause, for all the things made were produced out of nothing into being immediately by him, Joh 1:3,10 Heb 1:8,10: he might well be Lord over them all, who was the first founder of them, Act 10:36 1Co 8:6; and whatever the adversaries allege, it is plain in Scripture that by is used of the principal cause, Col 1:1 Rom 11:31,36 1Co 1:1 1Co 12:8,9 2Co 1:1 Gal 1:1 1Th 4:2 2Th 3:12.",
+     "anchor": "By him",
+     "refs": [
+      {
+       "text": "Act 17:28",
+       "ref": "ACT.17.28"
+      },
+      {
+       "text": "Gen 1:26",
+       "ref": "GEN.1.26"
+      },
+      {
+       "text": "Joh 1:3",
+       "ref": "JHN.1.3"
+      },
+      {
+       "text": "Act 10:36",
+       "ref": "ACT.10.36"
+      },
+      {
+       "text": "1Co 8:6",
+       "ref": "1CO.8.6"
+      },
+      {
+       "text": "Col 1:1",
+       "ref": "COL.1.1"
+      },
+      {
+       "text": "Rom 11:31",
+       "ref": "ROM.11.31"
+      },
+      {
+       "text": "1Co 1:1",
+       "ref": "1CO.1.1"
+      },
+      {
+       "text": "1Co 12:8",
+       "ref": "1CO.12.8"
+      },
+      {
+       "text": "2Co 1:1",
+       "ref": "2CO.1.1"
+      },
+      {
+       "text": "Gal 1:1",
+       "ref": "GAL.1.1"
+      },
+      {
+       "text": "1Th 4:2",
+       "ref": "1TH.4.2"
+      },
+      {
+       "text": "2Th 3:12",
+       "ref": "2TH.3.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p4-b063cf5d",
+     "text": "creation is simply, universally, and absolutely attributed to him; for whatever subtilties some would suggest,",
+     "anchor": "Were all things created"
+    },
+    {
+     "id": "poole/COL.1.16#p5-9ada3998",
+     "text": "is equivalent to he created all things; compare Psa 96:5 102:25, with Isa 44:24 48:13 Jer 10:12 Act 17:24, with Rom 11:36: (like 1Co 1:9, with 1Th 2:12).",
+     "anchor": "all things created by him",
+     "refs": [
+      {
+       "text": "Psa 96:5",
+       "ref": "PSA.96.5"
+      },
+      {
+       "text": "Isa 44:24",
+       "ref": "ISA.44.24"
+      },
+      {
+       "text": "Jer 10:12",
+       "ref": "JER.10.12"
+      },
+      {
+       "text": "Act 17:24",
+       "ref": "ACT.17.24"
+      },
+      {
+       "text": "Rom 11:36",
+       "ref": "ROM.11.36"
+      },
+      {
+       "text": "1Co 1:9",
+       "ref": "1CO.1.9"
+      },
+      {
+       "text": "1Th 2:12",
+       "ref": "1TH.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p6-82a9c2a7",
+     "text": "the apostle speaks extensively of all proceeding from not being into being, both generally and distributively, agreeably to the common expression of",
+     "anchor": "That are in heaven, and that are in earth"
+    },
+    {
+     "id": "poole/COL.1.16#p7-6a14f1eb",
+     "text": "that were made at the beginning, Act 4:24: though in Scripture, where mention is made of the creation, heaven and earth be not always expressed, Isa 40:26 Mar 10:6 13:19 Act 17:24 Rom 1:20 2Pe 3:4 Rev 4:11; but here, where all things in heaven and earth, visible and invisible, are expressed, it is evident that heaven and earth are together comprehended.",
+     "anchor": "all things",
+     "refs": [
+      {
+       "text": "Act 4:24",
+       "ref": "ACT.4.24"
+      },
+      {
+       "text": "Isa 40:26",
+       "ref": "ISA.40.26"
+      },
+      {
+       "text": "Mar 10:6",
+       "ref": "MRK.10.6"
+      },
+      {
+       "text": "Act 17:24",
+       "ref": "ACT.17.24"
+      },
+      {
+       "text": "Rom 1:20",
+       "ref": "ROM.1.20"
+      },
+      {
+       "text": "2Pe 3:4",
+       "ref": "2PE.3.4"
+      },
+      {
+       "text": "Rev 4:11",
+       "ref": "REV.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p8-232f281f",
+     "text": "these two adjuncts of visible and invisible do divide all creatures whatsoever, there being nothing made that is not one or the other.",
+     "anchor": "Visible and invisible"
+    },
+    {
+     "id": "poole/COL.1.16#p9-e76a04bd",
+     "text": "all enumeration is particularly made of the latter, which for their excellency (if any) might seem to be exempted (by those in danger of being beguiled to the worshipping of angels) from the state and condition of being created by Jesus Christ; particularly,",
+     "anchor": "Whether they be"
+    },
+    {
+     "id": "poole/COL.1.16#p10-bed7cb5d",
+     "text": "those he here names, as elsewhere, Rom 8:38 Eph 1:20,21 3:10 6:12, in the abstracts for the concretes, the invisible inhabitants of the world.",
+     "anchor": "thrones, or dominions, or principalities, or powers",
+     "refs": [
+      {
+       "text": "Rom 8:38",
+       "ref": "ROM.8.38"
+      },
+      {
+       "text": "Eph 1:20",
+       "ref": "EPH.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p11-5ce42a57",
+     "text": "I know some would have dignities in human policy to be meant, as Tit 3:1 2Pe 2:10 Jud 1:8; but it is more rational, with the generality of ancient and modern interpreters, as Col 2:15, to expound these titles of incorporeal and angelical creatures, whether by an emphatical synonyme, angels generally, by a metonymy, being ministers of the heavenly state; or more probably, as should seem from the scope of the place, by such a subdivision of invisibles as the apostle did conceive there was, according to the properties wherein they were eminent, and the offices whereunto they were delegated of God, which he expressed disjunctively by borrowed titles from the distinctions of men in dignities and offices here below, as dukes, earls, lords, and other magistrates; the Scriptures elsewhere initmating distinctions amongst the spiritual ministers attending the commands of the heavenly Majesty upon his throne, represented shadowed by the cherubims, Gen 3:24 Exo 25:18,22 1Sa 4:4 2Sa 6:2 1Ch 28:18 Psa 80:1 Isa 37:16 Eze 1:13; denominated archangels and princes, Dan 10:13,21 1Th 4:16 Jud 1:9; which imply some distinctions and orders amongst angelical beings, but what that is we know not, (whatever is disputed in the Roman schools from the spurious Denys), and therefore having no ground from Scripture, account it no better than curiosity to inquire, and rashness to determine.",
+     "refs": [
+      {
+       "text": "Tit 3:1",
+       "ref": "TIT.3.1"
+      },
+      {
+       "text": "2Pe 2:10",
+       "ref": "2PE.2.10"
+      },
+      {
+       "text": "Jud 1:8",
+       "ref": "JUD.1.8"
+      },
+      {
+       "text": "Col 2:15",
+       "ref": "COL.2.15"
+      },
+      {
+       "text": "Gen 3:24",
+       "ref": "GEN.3.24"
+      },
+      {
+       "text": "Exo 25:18",
+       "ref": "EXO.25.18"
+      },
+      {
+       "text": "1Sa 4:4",
+       "ref": "1SA.4.4"
+      },
+      {
+       "text": "2Sa 6:2",
+       "ref": "2SA.6.2"
+      },
+      {
+       "text": "1Ch 28:18",
+       "ref": "1CH.28.18"
+      },
+      {
+       "text": "Psa 80:1",
+       "ref": "PSA.80.1"
+      },
+      {
+       "text": "Isa 37:16",
+       "ref": "ISA.37.16"
+      },
+      {
+       "text": "Eze 1:13",
+       "ref": "EZK.1.13"
+      },
+      {
+       "text": "Dan 10:13",
+       "ref": "DAN.10.13"
+      },
+      {
+       "text": "1Th 4:16",
+       "ref": "1TH.4.16"
+      },
+      {
+       "text": "Jud 1:9",
+       "ref": "JUD.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p12-260f58b4",
+     "text": "after his enumeration and distribution of things created, the apostle doth, for further confirmation, repeat the universal proposition or assumption, with a preposition expressive of the same absolute efficiency of causality that is attributed to God the Father and the Holy Ghost; all created things being made by him, i.e. by Christ, whose works without are undivided from those of the other Persons in the Trinity; they were all brought out of nothing into being by him, not by angels.",
+     "anchor": "All things were created by him"
+    },
+    {
+     "id": "poole/COL.1.16#p13-0fd54a0c",
+     "text": "which is more fully proved from his being the final (as well as efficient) cause of them; they all had their being in respect of him or for him, i.e. his glory, Rom 11:36, to manifest his Divine power and infinite goodness, Joh 5:17,23Jn 17:5; he is their end as well as founder, Rev 5:13; the apostle affirms the same of him that is affirmed of the Father, Job 9:8 Pro 16:4 Isa 44:24; he made them all for his own sake. The Socinians, in derogation to Christ’s Divinity, would restrain, limit, and narrow what Christ saith here in this verse to the new creation, or reparation, but against manifest reason. For:",
+     "anchor": "And for him",
+     "refs": [
+      {
+       "text": "Rom 11:36",
+       "ref": "ROM.11.36"
+      },
+      {
+       "text": "Joh 5:17",
+       "ref": "JHN.5.17"
+      },
+      {
+       "text": "3Jn 17:5",
+       "ref": "3JN.17.5"
+      },
+      {
+       "text": "Rev 5:13",
+       "ref": "REV.5.13"
+      },
+      {
+       "text": "Job 9:8",
+       "ref": "JOB.9.8"
+      },
+      {
+       "text": "Pro 16:4",
+       "ref": "PRO.16.4"
+      },
+      {
+       "text": "Isa 44:24",
+       "ref": "ISA.44.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p14-3a7d4f01",
+     "text": "1. The words creature and creation in the foregoing verse and this, are used absolutely, as was before suggested, and so created here repeated twice, and joined with the word all, and therefore to be understood, as elsewhere, absolutely of the old or first creation, Mar 10:6 13:19 16:15 Rom 1:20,25 1Co 11:9 1Ti 4:3 Heb 4:13 2Pe 3:4 Rev 10:6; for when it is used of the second creation, or restoration, the restrictive additament of new is joined with it, Isa 65:17,18 2Co 5:17 Gal 6:15 Eph 2:15 4:24, not left indefinitely as here.",
+     "refs": [
+      {
+       "text": "Mar 10:6",
+       "ref": "MRK.10.6"
+      },
+      {
+       "text": "Rom 1:20",
+       "ref": "ROM.1.20"
+      },
+      {
+       "text": "1Co 11:9",
+       "ref": "1CO.11.9"
+      },
+      {
+       "text": "1Ti 4:3",
+       "ref": "1TI.4.3"
+      },
+      {
+       "text": "Heb 4:13",
+       "ref": "HEB.4.13"
+      },
+      {
+       "text": "2Pe 3:4",
+       "ref": "2PE.3.4"
+      },
+      {
+       "text": "Rev 10:6",
+       "ref": "REV.10.6"
+      },
+      {
+       "text": "Isa 65:17",
+       "ref": "ISA.65.17"
+      },
+      {
+       "text": "2Co 5:17",
+       "ref": "2CO.5.17"
+      },
+      {
+       "text": "Gal 6:15",
+       "ref": "GAL.6.15"
+      },
+      {
+       "text": "Eph 2:15",
+       "ref": "EPH.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p15-22406b1a",
+     "text": "2. In parallel places, the making and founding of the old creation is ascribed to Christ, both negatively and positively, Joh 1:3 Heb 1:3,10; not one thing is excepted, and therefore should not be restrained to men.",
+     "refs": [
+      {
+       "text": "Joh 1:3",
+       "ref": "JHN.1.3"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p16-97c6a4d2",
+     "text": "3. It is most evident from the context the apostle doth in this verse discourse of creation, in contradistinction to what he speaks of afterwards in, {Col 1:18,20} when he comes to treat of Christ as Head of his church, and we have no reason to charge the apostle with a useless repetition further.",
+     "refs": [
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.16#p17-d9e76d63",
+     "text": "4. The apostle’s significant enumeration and distinction of things created, doth evidence that he understood the subject, the creation, in the most extensive and unlimited consideration of it. He reckons up material as well as immaterial things, and those in heaven, which needed no restoration, as well as those on earth, which did, being polluted with sin. Those angels who had not put off the honour of the first, did not belong to the new creation; having not divested themselves of their original integrity, they needed not to be reinvested with that they never lost: and devils cannot be ranked among new creatures, neither can wicked souls, Mat 25:41 Rev 22:15; neither are there new and old orders of angels; so that the dominion Christ is here (as elsewhere) asserted as founder of, is the whole, not only the new creation, Rev 5:13.",
+     "refs": [
+      {
+       "text": "Mat 25:41",
+       "ref": "MAT.25.41"
+      },
+      {
+       "text": "Rev 22:15",
+       "ref": "REV.22.15"
+      },
+      {
+       "text": "Rev 5:13",
+       "ref": "REV.5.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.17",
+   "range": "COL.1.17",
+   "kind": "passage",
+   "hash": "23cb1a55",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.17#p1-ca4d7efe",
+     "text": "to obviate all exceptions to what he had said before, the apostle doth expressly assert (what was implied before) Christ’s pre-existence to all the things that were created, and therefore that he himself was not made, but eternally begotten, and so did exist, and was actually before all creatures in causality, dignity, and time; which proves his eternity, (consonant to other scriptures, Pro 8:22 Isa 44:6 Mic 5:2 Joh 1:1 17:5 Rev 1:8,11,17 Re 22:13), because before all things there was nothing but proper eternity, Psa 90:2.",
+     "anchor": "And he is before all things",
+     "refs": [
+      {
+       "text": "Pro 8:22",
+       "ref": "PRO.8.22"
+      },
+      {
+       "text": "Isa 44:6",
+       "ref": "ISA.44.6"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      },
+      {
+       "text": "Rev 1:8",
+       "ref": "REV.1.8"
+      },
+      {
+       "text": "Psa 90:2",
+       "ref": "PSA.90.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.17#p2-be342e73",
+     "text": "then follows this further argument of Christ’s excellency and perfection, that he is not only the Creator or Founder, but likewise the Supporter or Upholder, of all things whatsoever are created, yea, even of the most excellent and useful of them, who in him do live and move, Act 17:28 Heb 1:3: he being the conservant as well as procreant cause of the heavens and earth, with all things therein, because in respect of God it is the same action which is continued in conservation and providence whielt was in creation, not breaking off the same influence which was exerted in producing them out of nothing into being, Isa 46:4 Joh 5:19.",
+     "anchor": "And by him all things consist",
+     "refs": [
+      {
+       "text": "Act 17:28",
+       "ref": "ACT.17.28"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      },
+      {
+       "text": "Isa 46:4",
+       "ref": "ISA.46.4"
+      },
+      {
+       "text": "Joh 5:19",
+       "ref": "JHN.5.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.18",
+   "range": "COL.1.18",
+   "kind": "passage",
+   "hash": "0c65b5bd",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.18#p1-8d423d4d",
+     "text": "having spoken of Christ in reference to the creatures in general, or old creation, showing how he is the Creator, Preserver, and Governor thereof, the apostle doth here speak of him with a special reference to his church, or the new creation, whereof he shows here, (as elsewhere: See Poole on \"Eph 1:22,23\", with Eph 4:15, and Eph 5:23), that he is the Head and Governor, his chosen and called being the proper subjects of his special kingdom, the choice body, unto which he doth more peculiarly relate, Col 1:24, for the guiding and governing of it, he being that to it which the head is to the natural body, and more especially in the two former respects:",
+     "anchor": "And he is the head of the body, the church",
+     "refs": [
+      {
+       "text": "Eph 1:22",
+       "ref": "EPH.1.22"
+      },
+      {
+       "text": "Eph 4:15",
+       "ref": "EPH.4.15"
+      },
+      {
+       "text": "Eph 5:23",
+       "ref": "EPH.5.23"
+      },
+      {
+       "text": "Col 1:24",
+       "ref": "COL.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p2-ff9268b6",
+     "text": "1. Of their union to God, which was chiefly designed and expressed in those words, who is the beginning, i.e. the first foundation or principle of their union to God, whereupon the first corner-stone of the church’s happiness is laid, he being the beginning of the second creation, as of the first, Rev 3:14. And:",
+     "refs": [
+      {
+       "text": "Rev 3:14",
+       "ref": "REV.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p3-c1ef183b",
+     "text": "2. Of their restoration from sin and death, being brought into that first-designed happiness, which is the great intention of that union, as appears from the following expression, the firstborn from the dead, in a special distinction from the dead, here too of the creature, Col 1:15.",
+     "refs": [
+      {
+       "text": "Col 1:15",
+       "ref": "COL.1.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p4-3a270d23",
+     "text": "The apostle doth not tautologize, but what he spoke of Christ there with respect to the creature, he doth here speak of him with respect to his church, as 1Co 15:20,23 Re 1:5. By the particle from is implied not only that he was before the dead, but that he was numbered amongst the dead in respect of that nature wherein he was once dead; from which he was demonstrated to be first-born; his resurrection with a glorious body {Php 3:21} being a kind of new birth, whereby upon the reunion of his holy soul and body he was born from the womb of the grave, the Head in regard of the members: resurrection is called a regeneration, Mat 19:28;",
+     "refs": [
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      },
+      {
+       "text": "Mat 19:28",
+       "ref": "MAT.19.28"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p5-d2c090d3",
+     "text": "and as there is a gracious resurrection of the soul upon effectual calling in conversion, so there is a glorious regeneration of the body in the resurrection, Luk 20:36, in contradistinction to Luk 20:34. Christ is the first-born of these, in reference to God, Act 26:23 1Co 15:20,23; as the first-fruits, or first ear of this blessed harvest, that was carried up into the sanctuary, and offered in due season to the eternal Father, until the rest do become ripe: and in reference to the dead, i.e. in the Lord, 1Co 15:18 1Th 4:14 Rev 14:13; from whom he first rose in regard of time fully and perfectly;",
+     "refs": [
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "Luk 20:36",
+       "ref": "LUK.20.36"
+      },
+      {
+       "text": "Luk 20:34",
+       "ref": "LUK.20.34"
+      },
+      {
+       "text": "Act 26:23",
+       "ref": "ACT.26.23"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "1Co 15:18",
+       "ref": "1CO.15.18"
+      },
+      {
+       "text": "1Th 4:14",
+       "ref": "1TH.4.14"
+      },
+      {
+       "text": "Rev 14:13",
+       "ref": "REV.14.13"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p6-58d559a0",
+     "text": "and of whom, in regard of dignity and dominion, Psa 89:27 Gal 4:1, he is chief, and Lord, (hath the pre-eminence, as it follows), and is first in regard of causality of those dead in him, standing in relation to him their Head, Rom 11:15, with 1Co 15:20, who shall be perfectly raised by virtue of his resurrection. And however it be said, both in the Old and New Testament, some were before raised; yet he was the cause of his own resurrection, as none others were, or can be. He properly rose, and that by his own power, Psa 110:7 Joh 10:17,18;",
+     "refs": [
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "Psa 89:27",
+       "ref": "PSA.89.27"
+      },
+      {
+       "text": "Gal 4:1",
+       "ref": "GAL.4.1"
+      },
+      {
+       "text": "Rom 11:15",
+       "ref": "ROM.11.15"
+      },
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      },
+      {
+       "text": "Psa 110:7",
+       "ref": "PSA.110.7"
+      },
+      {
+       "text": "Joh 10:17",
+       "ref": "JHN.10.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p7-75127f23",
+     "text": "others were and will be raised by his. In regard of the sort and kind of resurrection, he it was first which was not imperfect, as others, or Lazarus, who was raised but to return to his former state of mortality;"
+    },
+    {
+     "id": "poole/COL.1.18#p8-c6ca15eb",
+     "text": "but perfect, Christ rose to die no more, Rom 6:9 Heb 9:28. He was the first that rose as a public person, Head of his Church, the Second Adam, representing all his members, 1Co 15:21,22, who are raised together with him spiritually, virtually, and representatively, Eph 2:6 1Pe 3:21: those actually raised before in another sort were like singular ears of corn, by occasion more timely gathered for a special instance of Divine power, but Christ was the first that ever rose in the nature and quality of the first-fruits duly gathered, to sanctify and consecrate the whole harvest of the dead in him, who shall one day be raised to a conformity unto him, Php 3:21. The Socinians, from this metaphorical expression of Christ’s being the first-born from the dead, and fetching in that passage where it is said: Thou art my Son, this day have I begotten thee, Act 13:33, do oppose Christ’s natural and eternal Sonship, but very inconsequently and absurdly;",
+     "refs": [
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      },
+      {
+       "text": "Rom 6:9",
+       "ref": "ROM.6.9"
+      },
+      {
+       "text": "Heb 9:28",
+       "ref": "HEB.9.28"
+      },
+      {
+       "text": "1Co 15:21",
+       "ref": "1CO.15.21"
+      },
+      {
+       "text": "Eph 2:6",
+       "ref": "EPH.2.6"
+      },
+      {
+       "text": "1Pe 3:21",
+       "ref": "1PE.3.21"
+      },
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      },
+      {
+       "text": "Act 13:33",
+       "ref": "ACT.13.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p9-dd1cbc79",
+     "text": "for:"
+    },
+    {
+     "id": "poole/COL.1.18#p10-2021359e",
+     "text": "1. Christ was properly the Son of God before his resurrection from the dead, he did not then receive that relation by it, as other texts clearly prove, Psa 2:7 Pro 30:4 Mic 5:2 Joh 1:1 17:5.",
+     "refs": [
+      {
+       "text": "Psa 2:7",
+       "ref": "PSA.2.7"
+      },
+      {
+       "text": "Pro 30:4",
+       "ref": "PRO.30.4"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Joh 1:1",
+       "ref": "JHN.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p11-2cb4cb75",
+     "text": "2. If his resurrection had been a begetting of him, then would he have begotten himself, so been Father and Son to himself, because he raised himself."
+    },
+    {
+     "id": "poole/COL.1.18#p12-9eb14882",
+     "text": "As to that other text they allege, things are sometimes said to be done then, when only manifested and doclared to be done: then was Christ the first of all the dead that was born, and raised again in incorruption, declared to be the Son of God with power, Rom 1:4, according to the prophecy: q.d. This day I have manifested thee by raising of thyself to be my natural Son, whom I begat from everlasting. Be sure he hath the primacy and pre-eminence, as it follows.",
+     "refs": [
+      {
+       "text": "Rom 1:4",
+       "ref": "ROM.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p13-c474a79e",
+     "text": "That in all things he might have the pre-eminence; which some expound as the end and intention of Christ the agent, that he might obtain the primacy, Rom 14:9 2Co 5:15, or hold the first place in all things; whether more generally, according with the common scope of the apostle in the precedent verses, compared with Col 2:10 Joh 5:25,29 Eph 1:22; or more specially, amongst his brethren and all the members of his mystical body, Rom 8:29, with 2Co 5:17,18; but this is not material, because all things are brought under his empire.",
+     "refs": [
+      {
+       "text": "Rom 14:9",
+       "ref": "ROM.14.9"
+      },
+      {
+       "text": "2Co 5:15",
+       "ref": "2CO.5.15"
+      },
+      {
+       "text": "Col 2:10",
+       "ref": "COL.2.10"
+      },
+      {
+       "text": "Joh 5:25",
+       "ref": "JHN.5.25"
+      },
+      {
+       "text": "Rom 8:29",
+       "ref": "ROM.8.29"
+      },
+      {
+       "text": "2Co 5:17",
+       "ref": "2CO.5.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.18#p14-a5af526c",
+     "text": "Others, because the primacy doth belong to him by undoubted right, and that he, being Head of his church, did ultimalely design to save it, and so to glorify his Father, do expound it rather as the event, consequent, and conclusion from the antecedent, which is the end of the work, so as that, or in such a sort as, he actually is declared to be the first, or he holds the primacy in the old and new creation. According to the agreement with his Father, he is such a one as not only hath all manner of privileges, that any in this or the other world do, or may be supposed to, excel in; but also with a pre-eminence, a primacy in all, above what any one hath in any thing he may glory of."
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.19",
+   "range": "COL.1.19",
+   "kind": "passage",
+   "hash": "2598160a",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.19#p1-bac190b0",
+     "text": "A learned man reads it: For all fulness pleased to dwell in him. Others: He liked, or approved, that all fulness should dwell in him, bringing instances for that construction of the word"
+    },
+    {
+     "id": "poole/COL.1.19#p2-2ce2664d",
+     "text": "it pleased."
+    },
+    {
+     "id": "poole/COL.1.19#p3-3fa255a7",
+     "text": "it is true the word Father is not in the Greek text, nor in the oriental versions, but is well understood and supplied from the context, Col 1:12, where the apostle gives thanks to the Father, and then describes his dear Son in the following verses, and here in this adds a cogent reason why he should be the Head of his church, since the Son of his love, (in whom he is well pleased, Mat 3:17), is he alone in whom he likes to dwell with all fulness or all fulness, doth will to abide.",
+     "anchor": "For it pleased the Father",
+     "refs": [
+      {
+       "text": "Col 1:12",
+       "ref": "COL.1.12"
+      },
+      {
+       "text": "Mat 3:17",
+       "ref": "MAT.3.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.19#p4-662cf595",
+     "text": "here is another all, and a fulness added to that all; an all for parts, a fulness for degrees; a transcendency in all, above all. It is of the Father’s good pleasure that Christ, not here considered simply, as the Son of God, but respectively, as Head of his church, and Mediator, should be the subject of this all fulness, which is not directly that of his body mystical, Eph 1:23. But:",
+     "anchor": "That in him should all fulness",
+     "refs": [
+      {
+       "text": "Eph 1:23",
+       "ref": "EPH.1.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.19#p5-92ebec46",
+     "text": "1. Originally, the fulness of the Godhead, whereby he hath an all-sufficiency of perfections for his mediatory office upon the mystical union, which none other hath or can have, Col 2:9 Joh 1:14: of which more distinctly in the next chapter.",
+     "refs": [
+      {
+       "text": "Col 2:9",
+       "ref": "COL.2.9"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.19#p6-cecc464a",
+     "text": "2. Derivatively, a fulness of the Spirit and habitual grace, Luk 1:80, with Joh 1:16,33 3:34; holiness, wisdom, power, perfectly to finish his work, Joh 17:4 19:30, and other excellencies for the reconciling (as it follows) and actual influencing of his body, Psa 130:7,8 Mt 28:18 Joh 5:20 Rom 1:4 1Co 5:4; with 2Co 12:9 Eph 1:20-22 Heb 7:25,26 Re 5:6,12.",
+     "refs": [
+      {
+       "text": "Luk 1:80",
+       "ref": "LUK.1.80"
+      },
+      {
+       "text": "Joh 1:16",
+       "ref": "JHN.1.16"
+      },
+      {
+       "text": "Joh 17:4",
+       "ref": "JHN.17.4"
+      },
+      {
+       "text": "Psa 130:7",
+       "ref": "PSA.130.7"
+      },
+      {
+       "text": "Joh 5:20",
+       "ref": "JHN.5.20"
+      },
+      {
+       "text": "Rom 1:4",
+       "ref": "ROM.1.4"
+      },
+      {
+       "text": "1Co 5:4",
+       "ref": "1CO.5.4"
+      },
+      {
+       "text": "2Co 12:9",
+       "ref": "2CO.12.9"
+      },
+      {
+       "text": "Eph 1:20-22",
+       "ref": "EPH.1.20-22"
+      },
+      {
+       "text": "Heb 7:25",
+       "ref": "HEB.7.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.19#p7-a34747ab",
+     "text": "and this all fulness doth not only lodge in him for a time, but resideth and abideth in him; it is not in him as the Divine glory was awhile in the tabernacle of Moses, and the temple of Solomon, but dwells constantly in him, not as a private person, but a universal principle; as Head of the body, (as well as reconciler), to fill up the emptiness of man with the abundant grace that perpetually resideth in him.",
+     "anchor": "Dwell"
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.20",
+   "range": "COL.1.20",
+   "kind": "passage",
+   "hash": "df778000",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.20#p1-f505938e",
+     "text": "Some, from the Greek, would (not have that clause we read in a parenthesis to come next the copulative and, but) have it: And by himself he should reconcile unto himself (in or to himself) all things, (having made or obtained peace through the blood of his cross), I say, &c. But the reading of that sentence in the parenthesis after, or before the reconciliation of all things, as we do, because of the next following distribution, is not very material as to the sense of the thing, redemption, Col 1:14, or rather, the manner or means of reconciliation unto God by Christ, in whom the fulness of all Divine and human perfections was sealed for the bringing of heaven and earth together.",
+     "refs": [
+      {
+       "text": "Col 1:14",
+       "ref": "COL.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p2-2ecbc05e",
+     "text": "God the Father, for bringing enemies nigh unto himself in the kingdom of his dear Son, Col 1:13,19,21, was in him, 2Co 5:18,19, who having took on him the seed of Abraham, Heb 2:16, and because without shedding of blood there could be no remission, or being brought nigh, Eph 2:13 Heb 9:12,22,23, according to his Father’s ordination and agreement with him for the expiation of sin, became obedient unto death, that cursed death of the cross, Isa 53:5 Gal 3:13 Php 2:8; and by that bloody sacrifice of himself, there once perfected, Heb 9:14 10:10,14, obtained peace: that by a figure being put to express his most perfect merit, as being the finishing of his obedience and passion, Col 2:14 Rom 3:25 5:10 Eph 2:16 Heb 9:12.",
+     "anchor": "Having made peace through the blood of his cross",
+     "refs": [
+      {
+       "text": "Col 1:13",
+       "ref": "COL.1.13"
+      },
+      {
+       "text": "2Co 5:18",
+       "ref": "2CO.5.18"
+      },
+      {
+       "text": "Heb 2:16",
+       "ref": "HEB.2.16"
+      },
+      {
+       "text": "Eph 2:13",
+       "ref": "EPH.2.13"
+      },
+      {
+       "text": "Heb 9:12",
+       "ref": "HEB.9.12"
+      },
+      {
+       "text": "Isa 53:5",
+       "ref": "ISA.53.5"
+      },
+      {
+       "text": "Gal 3:13",
+       "ref": "GAL.3.13"
+      },
+      {
+       "text": "Php 2:8",
+       "ref": "PHP.2.8"
+      },
+      {
+       "text": "Heb 9:14",
+       "ref": "HEB.9.14"
+      },
+      {
+       "text": "Col 2:14",
+       "ref": "COL.2.14"
+      },
+      {
+       "text": "Rom 3:25",
+       "ref": "ROM.3.25"
+      },
+      {
+       "text": "Eph 2:16",
+       "ref": "EPH.2.16"
+      },
+      {
+       "text": "Heb 9:12",
+       "ref": "HEB.9.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p3-607c80e0",
+     "text": "which alone could satisfy his offended Father’s demands: angels could not shed blood which was necessary to make peace and reconcile enemies; and though some false apostles might seduce to the worshipping of them, their obedience could not be meritorious.",
+     "anchor": "By him"
+    },
+    {
+     "id": "poole/COL.1.20#p4-62458e52",
+     "text": "God designing an atonement to himself. i.e. God the Father, (and, by consequence, to the whole Trinity), did it by Christ, in whom all fulness dwelling there was a proper fitness upon his Father’s call, Isa 42:1,4,6, with Heb 9:1-28, for so perfect a work as to take away the enmity of those alienated from God, and to bring them into favour again. The great inquiry is about the extent of this reconciliation, because the apostle mentions all things (rather than all persons); and then, having emphatically repeated by him, viz. Christ as God-man, and none other, Act 4:12, he adds a distribution of all things, whether they be things in earth, or things in heaven. To answer which, all things may be understood, either:",
+     "anchor": "To reconcile all things unto himself",
+     "refs": [
+      {
+       "text": "Isa 42:1",
+       "ref": "ISA.42.1"
+      },
+      {
+       "text": "Heb 9:1-28",
+       "ref": "HEB.9.1-28"
+      },
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p5-ea06a7de",
+     "text": "1. Restrictively to the subject, the universal church of which Christ is the Head; so he doth not mean all things whatsoever, unlimitedly, but with respect to the subject matter, as, Col 1:21, all things which being alienated from God are reconciled to him; i.e. whatsoever things are reconciled are by him reconciled, all relating to the subject matter of reconciliation, (as all made to creation, Col 1:16), all the real subjects of his kingdom, whether gathered and gone to heaven before in hope of the Messiah to come, or now and hereafter shall be gathered, Act 15:11 Rom 3:25 Eph 3:15 Heb 11:39,40 12:23: yet this doth not altogether satisfy some, by reason of the sublimity of the apostle’s word in the distribution; and ordinarily in Scripture, by things in heaven are meant the angels, whose natural seat it is, spirits of just men made perfect being advanced thither only by God’s gracious vouchsafement. Or:",
+     "refs": [
+      {
+       "text": "Col 1:21",
+       "ref": "COL.1.21"
+      },
+      {
+       "text": "Col 1:16",
+       "ref": "COL.1.16"
+      },
+      {
+       "text": "Act 15:11",
+       "ref": "ACT.15.11"
+      },
+      {
+       "text": "Rom 3:25",
+       "ref": "ROM.3.25"
+      },
+      {
+       "text": "Eph 3:15",
+       "ref": "EPH.3.15"
+      },
+      {
+       "text": "Heb 11:39",
+       "ref": "HEB.11.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p6-91cbf25c",
+     "text": "2. Largely, as comprehending the good angels, especially if upon the foundation of reconciliation considered strictly, we take reconciliation here more generally, (as the apostle doth in his Epistle to the Ephesians, expatiating more upon this matter there than he doth here, writing more concisely and contractedly), for recapitulation, (or analogical reconciliation), bringing all under one head, the recomposing or reuniting of creatures terrestrial or celestial, upon the atonement for sinners by Christ; so that all his subjects, those that divide the state of his kingdom, are at an agreement amongst themselves and with each other; God did so by Christ conjoin miserable men with himself, that now also the holy angels are conjoined, they come under the same Head, Christ, Col 2:10 Eph 1:22, whom they worship as at his first, so second coming, Luk 2:13,14 Heb 1:6.",
+     "refs": [
+      {
+       "text": "Col 2:10",
+       "ref": "COL.2.10"
+      },
+      {
+       "text": "Eph 1:22",
+       "ref": "EPH.1.22"
+      },
+      {
+       "text": "Luk 2:13",
+       "ref": "LUK.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p7-caf7bf05",
+     "text": "As men cleave to him by faith, so the angels by vision {1Ti 3:16} look upon him their Head; yet is he not their Redeemer, Col 1:14 Eph 1:3; not partaking of their nature, they are not his members as believers are (as God is the Head of Christ, yet is not he a member of God, 1Co 11:3); Christ beareth a more special relation to them, than he doth unto these principalities and powers, Eph 5:23,30,31; however, they, being under a hypothetical possibility of falling, should seem to have need of a preventive kind of reconciliation, upon that account, if their standing is otherwise secured to them, they abiding in their purity could not be friends to impure creatures, Gen 3:24; but upon the satisfaction of their Lord, their distaste and dissatisfaction is removed, they being reduced into a corporation, under Christ, with those whom he hath reconciled, Eph 1:10. As they, to the glory of the supreme Majesty, rejoiced when Christ came to seek these lost ones, so they are ministers to them that he hath made willing, Heb 1:14; they delight in the ministry of reconciliation, Eph 3:10 1Pe 1:12, attend the service with their brethren, (in doing their office), Rev 19:10 22:9, further the work, Act 8:26, rejoice when it takes effect, Luk 15:10, and carry those that are perfected to the place of their own residence, Luk 16:22, to their own innumerable assembly in the heavenly Jerusalem, Heb 12:22; waiting on Christ, (according to the typical representatives, Exo 25:19 26:1 1Ki 6:23,29), with those that are with him, and made like to him at his throne, Mat 22:30 Mar 12:25, where he sits as the Son of man, and the holy angels (as he saith) are continually ascending and descending upon him, Joh 1:51: he fills them, as the rest of his subjects,",
+     "refs": [
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Col 1:14",
+       "ref": "COL.1.14"
+      },
+      {
+       "text": "Eph 1:3",
+       "ref": "EPH.1.3"
+      },
+      {
+       "text": "1Co 11:3",
+       "ref": "1CO.11.3"
+      },
+      {
+       "text": "Eph 5:23",
+       "ref": "EPH.5.23"
+      },
+      {
+       "text": "Gen 3:24",
+       "ref": "GEN.3.24"
+      },
+      {
+       "text": "Eph 1:10",
+       "ref": "EPH.1.10"
+      },
+      {
+       "text": "Heb 1:14",
+       "ref": "HEB.1.14"
+      },
+      {
+       "text": "Eph 3:10",
+       "ref": "EPH.3.10"
+      },
+      {
+       "text": "1Pe 1:12",
+       "ref": "1PE.1.12"
+      },
+      {
+       "text": "Rev 19:10",
+       "ref": "REV.19.10"
+      },
+      {
+       "text": "Act 8:26",
+       "ref": "ACT.8.26"
+      },
+      {
+       "text": "Luk 15:10",
+       "ref": "LUK.15.10"
+      },
+      {
+       "text": "Luk 16:22",
+       "ref": "LUK.16.22"
+      },
+      {
+       "text": "Heb 12:22",
+       "ref": "HEB.12.22"
+      },
+      {
+       "text": "Exo 25:19",
+       "ref": "EXO.25.19"
+      },
+      {
+       "text": "1Ki 6:23",
+       "ref": "1KI.6.23"
+      },
+      {
+       "text": "Mat 22:30",
+       "ref": "MAT.22.30"
+      },
+      {
+       "text": "Mar 12:25",
+       "ref": "MRK.12.25"
+      },
+      {
+       "text": "Joh 1:51",
+       "ref": "JHN.1.51"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p8-b272f01b",
+     "text": "Eph 1:21,23; they have grace by way of participation, having it from him their Head, who hath it of himself, Joh 5:26. So that upon the matter, this reconciliation of things in heaven, seems most to accord with Eph 1:9,10, and is not much unlike that in Eph 2:13,16; that which is separately said there by his blood, Col 1:13, and by the cross, Col 1:16, is here conjoined by",
+     "anchor": "all in all",
+     "refs": [
+      {
+       "text": "Eph 1:21",
+       "ref": "EPH.1.21"
+      },
+      {
+       "text": "Joh 5:26",
+       "ref": "JHN.5.26"
+      },
+      {
+       "text": "Eph 1:9",
+       "ref": "EPH.1.9"
+      },
+      {
+       "text": "Eph 2:13",
+       "ref": "EPH.2.13"
+      },
+      {
+       "text": "Col 1:13",
+       "ref": "COL.1.13"
+      },
+      {
+       "text": "Col 1:16",
+       "ref": "COL.1.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.20#p9-7944aa7e",
+     "text": "There is making peace in one simple word; here, (in the Greek), in a compounded one. There, that he might reconcile both unto God; here, that he might",
+     "anchor": "the blood of his cross"
+    },
+    {
+     "id": "poole/COL.1.20#p10-70bcd901",
+     "text": "i.e. God. There he speaks only of men on earth being reconciled amongst themselves, because they had also been reconciled to God; if we take in angles also under those all, we have an allowance from that forecited Eph 1:10; yea, and in favour of the larger acceptation of reconciliation here, it may be considered that the whole creation which was put into disorder and subjected unto vanity, is in earnest expectation of the fruits of this gracious reconciliation, in being brought to a perfect harmony, to the glory of him who is all in all, Rom 8:19-23, with 1Co 15:58.",
+     "anchor": "reconcile all things unto himself",
+     "refs": [
+      {
+       "text": "Eph 1:10",
+       "ref": "EPH.1.10"
+      },
+      {
+       "text": "Rom 8:19-23",
+       "ref": "ROM.8.19-23"
+      },
+      {
+       "text": "1Co 15:58",
+       "ref": "1CO.15.58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.21",
+   "range": "COL.1.21",
+   "kind": "passage",
+   "hash": "f7ae08d2",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.21#p1-1df383d3",
+     "text": "the particle and, by a Hebraism, is put for therefore, or wherefore, leading the Colossians from the doctrines he had proposed, to consider their own estrangement from God and the things that please him, before they were effectually called by the gospel, being then in such a miserable condition as others were in a state of corrupted nature. See Psa 5:9 Rom 6:19 1Co 6:11 Eph 2:1,3,11,12.",
+     "anchor": "And you, that were sometime alienated",
+     "refs": [
+      {
+       "text": "Psa 5:9",
+       "ref": "PSA.5.9"
+      },
+      {
+       "text": "Rom 6:19",
+       "ref": "ROM.6.19"
+      },
+      {
+       "text": "1Co 6:11",
+       "ref": "1CO.6.11"
+      },
+      {
+       "text": "Eph 2:1",
+       "ref": "EPH.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.21#p2-8ce77408",
+     "text": "not only in their outward deportment had they no communion with the true God, but inwardly they hated God as an enemy, and they were hated of him as his enemies; by their willing and nilling that which was contrary to him and his pleasure, in opposing his revealed will, Joh 15:18,21 Ro 1:29,30 5:10 8:7 Jas 4:4.",
+     "anchor": "And enemies",
+     "refs": [
+      {
+       "text": "Joh 15:18",
+       "ref": "JHN.15.18"
+      },
+      {
+       "text": "Jas 4:4",
+       "ref": "JAS.4.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.21#p3-79fe27dd",
+     "text": "this enmity was predominant in their mind, or cogitation, or carnal reasoning, not receiving or comprehending the things of the Spirit of God, 1Co 2:14; that leading power of their souls being darkened, Eph 4:18, there was an enmity against God, so that they neither could be subject to God’s law, Rom 8:7, under the prevaleney of that corrupt reasoning which was so intent upon their corrupt courses, Gen 6:5, that then they thought not of peace with God.",
+     "anchor": "In your mind by wicked works",
+     "refs": [
+      {
+       "text": "1Co 2:14",
+       "ref": "1CO.2.14"
+      },
+      {
+       "text": "Eph 4:18",
+       "ref": "EPH.4.18"
+      },
+      {
+       "text": "Rom 8:7",
+       "ref": "ROM.8.7"
+      },
+      {
+       "text": "Gen 6:5",
+       "ref": "GEN.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.21#p4-f233f265",
+     "text": "yet such was the unconstrained compassion of God, that now while sinners, (in a divided sense), Rom 5:10, they were actually reconciled; now, not before, not from eternity in his decree, nor meritoriously when upon the cross, 2Co 5:19: he doth not mean simply the action, of such virtue, necessary and efficacious to make reconciliation, and the appeasing of God’s displeasure; but compriseth the efect of it also when it is wrought in time, 2Co 5:20, and the enmity in the subject is actually removed.",
+     "anchor": "Yet now hath he reconciled",
+     "refs": [
+      {
+       "text": "Rom 5:10",
+       "ref": "ROM.5.10"
+      },
+      {
+       "text": "2Co 5:19",
+       "ref": "2CO.5.19"
+      },
+      {
+       "text": "2Co 5:20",
+       "ref": "2CO.5.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.22",
+   "range": "COL.1.22",
+   "kind": "passage",
+   "hash": "4ede768a",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.22#p1-4ede768a",
+     "text": "the means whereby their reconciliation to God was purchased, (which they had particularly applied by faith, Col 1:4), was the sacrifice of that fleshy (not fantastical) body which Christ had assumed, subject to the condition of an animal life, being capable of suffering and mortal, (not refined and immortal, as after his resurrection, Rom 5:10 1Co 15:44, 53), 2Co 5:14 Php 2:16, with Heb 10:5,10 1Pe 2:24 1Pe 3:18. Christ’s death was not only for our good, but in our stead thereby offering himself to God, he satisfied Divine justice, and his sacrifice, giving himself for us, was a sacrifice of a sweet smell to God, Eph 5:2. To present you holy and unblamable and unreprovable in his sight; before whom believers cannot make themselves to stand holy, but Christ doth upon the account of his sacrifice for them; so that through the veil of his flesh, Heb 10:19,20, God doth look upon such as having neither spot nor wrinkle, without blame or blemish: see Eph 1:4 5:27. Unto whom Christ is made righteousness, he is also made sanctification, 1Co 1:30. Those who are washed are sanctified, 1Co 6:11. The end of reconciliation is restoration or sanctification, Luk 1:74,75 2Co 5:15 Tit 2:14 1Pe 2:24; inchoatively here, with a perfection of parts, Heb 13:21, and consummatively hereafter, with a perfection of degrees, 1Co 13:10 Eph 4:13 Php 3:11,12.",
+     "anchor": "In the body of his flesh through death",
+     "refs": [
+      {
+       "text": "Col 1:4",
+       "ref": "COL.1.4"
+      },
+      {
+       "text": "Rom 5:10",
+       "ref": "ROM.5.10"
+      },
+      {
+       "text": "1Co 15:44",
+       "ref": "1CO.15.44"
+      },
+      {
+       "text": "2Co 5:14",
+       "ref": "2CO.5.14"
+      },
+      {
+       "text": "Php 2:16",
+       "ref": "PHP.2.16"
+      },
+      {
+       "text": "Heb 10:5",
+       "ref": "HEB.10.5"
+      },
+      {
+       "text": "1Pe 2:24",
+       "ref": "1PE.2.24"
+      },
+      {
+       "text": "1Pe 3:18",
+       "ref": "1PE.3.18"
+      },
+      {
+       "text": "Eph 5:2",
+       "ref": "EPH.5.2"
+      },
+      {
+       "text": "Heb 10:19",
+       "ref": "HEB.10.19"
+      },
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      },
+      {
+       "text": "1Co 1:30",
+       "ref": "1CO.1.30"
+      },
+      {
+       "text": "1Co 6:11",
+       "ref": "1CO.6.11"
+      },
+      {
+       "text": "Luk 1:74",
+       "ref": "LUK.1.74"
+      },
+      {
+       "text": "2Co 5:15",
+       "ref": "2CO.5.15"
+      },
+      {
+       "text": "Tit 2:14",
+       "ref": "TIT.2.14"
+      },
+      {
+       "text": "1Pe 2:24",
+       "ref": "1PE.2.24"
+      },
+      {
+       "text": "Heb 13:21",
+       "ref": "HEB.13.21"
+      },
+      {
+       "text": "1Co 13:10",
+       "ref": "1CO.13.10"
+      },
+      {
+       "text": "Eph 4:13",
+       "ref": "EPH.4.13"
+      },
+      {
+       "text": "Php 3:11",
+       "ref": "PHP.3.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.23",
+   "range": "COL.1.23",
+   "kind": "passage",
+   "hash": "ea33ff6c",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.23#p1-10eaf040",
+     "text": "this if doth not import the believers’ continuance in faith to depend merely upon their own free-will, or a carnal doubting of being kept to salvation, 1Pe 1:5, but infers that they are then reconciled to God when they do indeed persevere in the faith; implying that by reason of the seducers amongst them all and every one might not really have that sound faith they would be thought to have. Wherefore the apostle engageth them to prove their faith, whereby only they can have peace with God, Rom 5:1, to be real, by taking care it be well founded and firm, Mat 13:23, as a house built on a sure foundation, a tree well rooted, Eph 3:17,18 Heb 13:9.",
+     "anchor": "If ye continue in the faith grounded and settled",
+     "refs": [
+      {
+       "text": "1Pe 1:5",
+       "ref": "1PE.1.5"
+      },
+      {
+       "text": "Rom 5:1",
+       "ref": "ROM.5.1"
+      },
+      {
+       "text": "Mat 13:23",
+       "ref": "MAT.13.23"
+      },
+      {
+       "text": "Eph 3:17",
+       "ref": "EPH.3.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.23#p2-e5d99de0",
+     "text": "and be not as temporary believers which have no root, Luk 8:13, or as those who want anchorhold are tossed to and fro, Eph 4:14, and put off from that hope of eternal life, set before us in the gospel, which is sure and certain, Heb 6:18,19, built upon the foundation of the prophets and apostles, Eph 2:20, the sweet promises of eternal life.",
+     "anchor": "And be not moved away from the hope of the gospel",
+     "refs": [
+      {
+       "text": "Luk 8:13",
+       "ref": "LUK.8.13"
+      },
+      {
+       "text": "Eph 4:14",
+       "ref": "EPH.4.14"
+      },
+      {
+       "text": "Heb 6:18",
+       "ref": "HEB.6.18"
+      },
+      {
+       "text": "Eph 2:20",
+       "ref": "EPH.2.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.23#p3-3b20ff3a",
+     "text": "not the works of vain philosophy which leave the minds of men unsettled, but the plain and solid doctrines of Christ, wherein the believers at Colosse had been instructed, Col 1:7.",
+     "anchor": "Which ye have heard",
+     "refs": [
+      {
+       "text": "Col 1:7",
+       "ref": "COL.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.23#p4-e5291af7",
+     "text": "and which the faithful apostles, according to the commission of Christ, had promulgated to every creature beneath the heavens, i.e. every rational creature here below, i.e. to all men, collectively, or nations in the world, as Col 1:6 Mat 28:19 Mar 16:15. Creature with the Hebrews doth eminently signify man, by an antonomasia, or a synecdeche, putting the general for a particular. In the original it is, in all the creature; and so it may be, in all the world, (creature being sometimes used for the system of the world, Rom 8:19-21), in opposition to Judea, i.e. in those other parts of the earth which the Greeks and Romans knew to be then inhabited: under heaven, which is a pleonasm, but of the greatest emphasis, as Act 4:12.",
+     "anchor": "And which was preached to every creature which is under heaven",
+     "refs": [
+      {
+       "text": "Col 1:6",
+       "ref": "COL.1.6"
+      },
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Mar 16:15",
+       "ref": "MRK.16.15"
+      },
+      {
+       "text": "Rom 8:19-21",
+       "ref": "ROM.8.19-21"
+      },
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.23#p5-d61ac666",
+     "text": "and the more to confirm them in what he had said, he adds of this gospel of reconciliation so spread, he was immediately called, Gal 1:1, and constituted to be a minister for the promulgation of it amongst the Gentiles, it being, with others, most notably committed to him, 2Co 5:19 1Ti 1:11.",
+     "anchor": "Whereof I Paul am made a minister",
+     "refs": [
+      {
+       "text": "Gal 1:1",
+       "ref": "GAL.1.1"
+      },
+      {
+       "text": "2Co 5:19",
+       "ref": "2CO.5.19"
+      },
+      {
+       "text": "1Ti 1:11",
+       "ref": "1TI.1.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.24",
+   "range": "COL.1.24",
+   "kind": "passage",
+   "hash": "c7c528f7",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.24#p1-6d7405f1",
+     "text": "he confirms his call to the ministry of the gospel from his cheerfulness in his present sufferings, so that they should not be discenraged, being it highly contented him to witness and seal his doctrine by bearing his cross for them, Rev 5:2,3 2Co 7:4: see Php 1:14,20 2:17. The Jews hated him and persecuted him because of his communion with the Greeks and other Gentiles, which occasioned his imprisonment at Rome, Col 2:1 4:3,18 Ac 21:28,29 26:17,18 Eph 3:1; yet this did not deter him from his office, but he took pleasure in doing his duty. Act 5:41 2Ti 2:10, gladly spending himself and being spent for their souls, 2Co 12:15, for their edification and consolation, 2Co 1:6,7 Php 1:13,14.",
+     "anchor": "Who now rejoice in my sufferings for you",
+     "refs": [
+      {
+       "text": "Rev 5:2",
+       "ref": "REV.5.2"
+      },
+      {
+       "text": "2Co 7:4",
+       "ref": "2CO.7.4"
+      },
+      {
+       "text": "Php 1:14",
+       "ref": "PHP.1.14"
+      },
+      {
+       "text": "Col 2:1",
+       "ref": "COL.2.1"
+      },
+      {
+       "text": "Act 5:41",
+       "ref": "ACT.5.41"
+      },
+      {
+       "text": "2Ti 2:10",
+       "ref": "2TI.2.10"
+      },
+      {
+       "text": "2Co 12:15",
+       "ref": "2CO.12.15"
+      },
+      {
+       "text": "2Co 1:6",
+       "ref": "2CO.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p2-e60cbfa4",
+     "text": "and, the copulative, is used as causal; fill up, not simply, but in one’s turn, implying a contradistinction between what Christ suffered for the apostle, and what the apostle suffered for Christ. Christ in his rank suffered what was necessary for my redemption; now I, in my turn, (by his gift, Php 1:29), undergo what afflictions are useful for his glory. He purchased salvation by his cross, I advance his kingdom and cause by my combats.",
+     "anchor": "And fill up",
+     "refs": [
+      {
+       "text": "Php 1:29",
+       "ref": "PHP.1.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p3-a0726574",
+     "text": "one learned man renders this clause, what remains concerning the afflictions for Christ in my flesh; however, if we conceive of things distinctly, we may retain our own translation, considering Paul’s filling up is either:",
+     "anchor": "That which is behind of the afflictions of Christ in my flesh"
+    },
+    {
+     "id": "poole/COL.1.24#p4-f475b478",
+     "text": "1. With respect to Christ; so he doth not mean what Christ suffered in his own proper person during his tabernacling here; for neither Paul nor any other penman of the New Testament doth use the term affliction, to express the sufferings of Christ whereby he appeased God’s wrath and satisfied his justice: that he finished in his own person when he gave up the ghost, Joh 19:30, he perfected all completely, Col 1:14,22; nothing will be required from any believer upon that account, Rom 6:9,10 Heb 10:14; there be no remains upon that account, all was filled up by Christ himself. All can be imagined that Paul should mean in this respect, would be only from Christ’s leaving an example, 1Pe 2:21: q.d. As Christ hath suffered for my salvation, so in like manner, following him, I bear his cross, suffering for his gospel and glory. Or:",
+     "refs": [
+      {
+       "text": "Joh 19:30",
+       "ref": "JHN.19.30"
+      },
+      {
+       "text": "Col 1:14",
+       "ref": "COL.1.14"
+      },
+      {
+       "text": "Rom 6:9",
+       "ref": "ROM.6.9"
+      },
+      {
+       "text": "1Pe 2:21",
+       "ref": "1PE.2.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p5-6d46e2cc",
+     "text": "2. With respect to Paul himself: the sense is, q.d. As I have borne a great part of afflictions for the name of Christ, and in his glorious communion, 2Co 1:5 Gal 6:17 2Ti 1:8,10; so in like manner I fill up the remains of them assigned to me a member of the mystical body, in conformity to the image of him who is the Head, Rom 8:18 1Pe 4:13. I do by little and little accomplish in my present sufferings (which make a part of it) the portion allotted to me in the same afflictions, which are accomplished and accomplishing in our brethren that are in the world, 1Pe 5:9, in time and degree according to God’s counsel, (whereby the Head was preordained to suffer, Act 4:28 1Pe 1:20), which apportioned to every member what share it is to bear, till it be perfectly confirmed to Christ, Php 3:10,12,21. These sufferings as Christians, 1Pe 4:13,14,16, (which the members undergo in their causes), may be said to be the afflictions of Christ:",
+     "refs": [
+      {
+       "text": "2Co 1:5",
+       "ref": "2CO.1.5"
+      },
+      {
+       "text": "Gal 6:17",
+       "ref": "GAL.6.17"
+      },
+      {
+       "text": "2Ti 1:8",
+       "ref": "2TI.1.8"
+      },
+      {
+       "text": "Rom 8:18",
+       "ref": "ROM.8.18"
+      },
+      {
+       "text": "1Pe 4:13",
+       "ref": "1PE.4.13"
+      },
+      {
+       "text": "1Pe 5:9",
+       "ref": "1PE.5.9"
+      },
+      {
+       "text": "Act 4:28",
+       "ref": "ACT.4.28"
+      },
+      {
+       "text": "1Pe 1:20",
+       "ref": "1PE.1.20"
+      },
+      {
+       "text": "Php 3:10",
+       "ref": "PHP.3.10"
+      },
+      {
+       "text": "1Pe 4:13",
+       "ref": "1PE.4.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p6-f2004260",
+     "text": "(1.) Being for his cause and glory, the troubles they receive upon his account may be called his, the badges of his family and followers, Gal 6:17 Heb 11:26.",
+     "refs": [
+      {
+       "text": "Gal 6:17",
+       "ref": "GAL.6.17"
+      },
+      {
+       "text": "Heb 11:26",
+       "ref": "HEB.11.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p7-39aab5fe",
+     "text": "(2.) Because of the union between Head and members, 1Co 12:12; they being give, to the whole body, the wounds of his members are his, Act 9:4,16, he doth sympathize with them; but as he finished his work of proper sufferings while in the flesh, so the apostle’s expression intimates here, their sufferings shall not last longer than they are in the body, they need not fear any purgatory afterwards.",
+     "refs": [
+      {
+       "text": "1Co 12:12",
+       "ref": "1CO.12.12"
+      },
+      {
+       "text": "Act 9:4",
+       "ref": "ACT.9.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p8-de5e6230",
+     "text": "and while Paul suffered here, he adds another reason for the supporting and cheering of him, viz. the usefulness of his sufferings for the whole church, the mystical body of Christ, as Col 1:18; which consideration might sweeten his bitterest afflictions, not only because it was in their service, to further their faith, that he was so persecuted, but for their edification and consolation; this was the scope of his patience, Php 1:12-14, to encourage those who knew his testimony to embrace the truth, 2Ti 2:10. What the Rhemists and other papists infer hence, that the apostle satisfied for the sins of other believers by his sufferings, contributing to the church’s treasury of satisfactions for temporary punishments, is altogether groundless.",
+     "anchor": "For his body’s sake, which is the church",
+     "refs": [
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      },
+      {
+       "text": "Php 1:12-14",
+       "ref": "PHP.1.12-14"
+      },
+      {
+       "text": "2Ti 2:10",
+       "ref": "2TI.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.24#p9-c906eee3",
+     "text": "It is brutish to conclude, because he sustained afflictions for the edification of the church, that therefore he satisfied for the sins of the church; because he was spent for the Corinthians, that he answered for their faults, 2Co 12:15: he was not crucified for any, 1Co 1:13. To take Paul’s sufferings satisfactory is to derogate from Christ’s merit; none is without sin as Christ was, and as it is necessary for him that satisfieth, Pro 20:9. Christ’s sacrifice became expiatory, being offered by the eternal Spirit, Heb 9:14; he having borne the sins of believers in his own natural body upon the cross, and that by himself, there needs no supplements (could any be found) from others, Joh 1:29 Heb 1:3,8 1Pe 2:24 1Jn 2:2. To conceit there is any need of human satisfactions as supplies to Christ’s sufferings, is to cross the apostle’s main drift here, Col 1:12-14,20-22; he was far from satisfying for himself, Php 3:9,12, and shows that every man shall bear his own burden. Gal 6:5, however he should endeavour to honour Christ, and edify his church, 2Co 12:10.",
+     "refs": [
+      {
+       "text": "2Co 12:15",
+       "ref": "2CO.12.15"
+      },
+      {
+       "text": "1Co 1:13",
+       "ref": "1CO.1.13"
+      },
+      {
+       "text": "Pro 20:9",
+       "ref": "PRO.20.9"
+      },
+      {
+       "text": "Heb 9:14",
+       "ref": "HEB.9.14"
+      },
+      {
+       "text": "Joh 1:29",
+       "ref": "JHN.1.29"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      },
+      {
+       "text": "1Pe 2:24",
+       "ref": "1PE.2.24"
+      },
+      {
+       "text": "1Jn 2:2",
+       "ref": "1JN.2.2"
+      },
+      {
+       "text": "Col 1:12-14",
+       "ref": "COL.1.12-14"
+      },
+      {
+       "text": "Php 3:9",
+       "ref": "PHP.3.9"
+      },
+      {
+       "text": "Gal 6:5",
+       "ref": "GAL.6.5"
+      },
+      {
+       "text": "2Co 12:10",
+       "ref": "2CO.12.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.25",
+   "range": "COL.1.25",
+   "kind": "passage",
+   "hash": "54fefc8f",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.25#p1-214d83eb",
+     "text": "see under what title he suffers for the church, because a minister, ( in the more general acceptation of the word), as Col 1:23, not (as one of the ancients saith) to give the price of redemption, but to preach.",
+     "anchor": "Whereof I am made a minister",
+     "refs": [
+      {
+       "text": "Col 1:23",
+       "ref": "COL.1.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.25#p2-dd627746",
+     "text": "He looked not on his apostleship as a domination, but ministration, 2Co 5:18; and though in regard of his call he was an extraordinary apostle, yet he, (remembering his Master’s injunction, Mat 20:26), no more than Peter did affect dominion or a lordship over Christ’s heritage 2Co 1:24 1Pe 5:1-3, according to his singular and eminent call to be a minister and a witness, Act 26:16. As he doth elsewhere make mention of the minister of God, 2Co 6:4 1Th 3:2; of the New Testament, gospel, word, reconciliation, Act 6:4 2Co 3:6 5:18,19 Eph 3:7; of Jesus Christ and of the Lord, Rom 15:8 1Co 4:1 Eph 6:20 1Ti 4:6; so he doth here, by reason of the union between the Head and the body, own himself to be constituted a minister of the church, which some, of a lower rank, like not now to be called.",
+     "refs": [
+      {
+       "text": "2Co 5:18",
+       "ref": "2CO.5.18"
+      },
+      {
+       "text": "Mat 20:26",
+       "ref": "MAT.20.26"
+      },
+      {
+       "text": "2Co 1:24",
+       "ref": "2CO.1.24"
+      },
+      {
+       "text": "1Pe 5:1-3",
+       "ref": "1PE.5.1-3"
+      },
+      {
+       "text": "Act 26:16",
+       "ref": "ACT.26.16"
+      },
+      {
+       "text": "2Co 6:4",
+       "ref": "2CO.6.4"
+      },
+      {
+       "text": "1Th 3:2",
+       "ref": "1TH.3.2"
+      },
+      {
+       "text": "Act 6:4",
+       "ref": "ACT.6.4"
+      },
+      {
+       "text": "2Co 3:6",
+       "ref": "2CO.3.6"
+      },
+      {
+       "text": "Rom 15:8",
+       "ref": "ROM.15.8"
+      },
+      {
+       "text": "1Co 4:1",
+       "ref": "1CO.4.1"
+      },
+      {
+       "text": "Eph 6:20",
+       "ref": "EPH.6.20"
+      },
+      {
+       "text": "1Ti 4:6",
+       "ref": "1TI.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.25#p3-ab8849d0",
+     "text": "and that by Divine vouchsafement and commandment, being called from persecution of the church to this ministry, Act 9:15,16 1Co 4:1 2Co 5:19 Eph 1:1. Yea, and also for them at Colosse, who, being of the Gentiles, were in his commission, according to the gift of the grace of God given to him, Eph 3:7.",
+     "anchor": "According to the dispensation of God",
+     "refs": [
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      },
+      {
+       "text": "1Co 4:1",
+       "ref": "1CO.4.1"
+      },
+      {
+       "text": "2Co 5:19",
+       "ref": "2CO.5.19"
+      },
+      {
+       "text": "Eph 1:1",
+       "ref": "EPH.1.1"
+      },
+      {
+       "text": "Eph 3:7",
+       "ref": "EPH.3.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.25#p4-6a994c95",
+     "text": "fully to preach the word of God amongst them, as well as to the Romans and others, Rom 15:19, and so to fulfil the prophecy, Zec 2:11, for the calling of the Gentiles by the promulgation of the gospel amongst them, Act 22:21 Rom 1:5 11:13 1Ti 2:7; and so fulfilling God’s word, by fully expounding the whole doctrine of salvation amongst them, and promoting of it to the end of his life.",
+     "anchor": "Which is given to me for you, to fulfil the word of God",
+     "refs": [
+      {
+       "text": "Rom 15:19",
+       "ref": "ROM.15.19"
+      },
+      {
+       "text": "Zec 2:11",
+       "ref": "ZEC.2.11"
+      },
+      {
+       "text": "Act 22:21",
+       "ref": "ACT.22.21"
+      },
+      {
+       "text": "Rom 1:5",
+       "ref": "ROM.1.5"
+      },
+      {
+       "text": "1Ti 2:7",
+       "ref": "1TI.2.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.26",
+   "range": "COL.1.26",
+   "kind": "passage",
+   "hash": "a9fe722b",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.26#p1-53c04172",
+     "text": "viz. that holy secret of godliness, Col 2:2,3 4:3 Mat 13:11 Rom 16:25,26 1Co 2:7 Eph 3:3,4,6,8,9,10; see 1Ti 3:16 Rev 14:6; which doth not consist in beggarly elements, Gal 4:9, or vain speculations, which these Colossians are cautioned to avoid, Col 2:8, however varnished; but is to them who are saved, the power of God, Rom 1:16 1Co 1:18,19, and the wisdom of God, 1Co 1:24, which lay hid in God before the world, 1Co 2:7 2Ti 1:9 Tit 1:2 1Pe 1:20: yea, and after God had to our first parents, and so to his people the Jews, given some glimpse of this mystery, which yet the Gentiles of several ages were ignorant of, and many of the Jews, yea, the most knowing of them did not, for many generations, know that the Gentiles without circumcision, &c. were to be admitted into the church, Act 10:28: the prophets were very inquisitive to know the meaning of it, but yet they also were much in the dark, 1Co 2:9 1Pe 1:10,11; yea, the angels did not know this hidden mystery, till revealed by the church, Eph 1:10.",
+     "anchor": "Even the mystery which hath been hid from ages and from generations",
+     "refs": [
+      {
+       "text": "Col 2:2",
+       "ref": "COL.2.2"
+      },
+      {
+       "text": "Mat 13:11",
+       "ref": "MAT.13.11"
+      },
+      {
+       "text": "Rom 16:25",
+       "ref": "ROM.16.25"
+      },
+      {
+       "text": "1Co 2:7",
+       "ref": "1CO.2.7"
+      },
+      {
+       "text": "Eph 3:3",
+       "ref": "EPH.3.3"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Rev 14:6",
+       "ref": "REV.14.6"
+      },
+      {
+       "text": "Gal 4:9",
+       "ref": "GAL.4.9"
+      },
+      {
+       "text": "Col 2:8",
+       "ref": "COL.2.8"
+      },
+      {
+       "text": "Rom 1:16",
+       "ref": "ROM.1.16"
+      },
+      {
+       "text": "1Co 1:18",
+       "ref": "1CO.1.18"
+      },
+      {
+       "text": "1Co 1:24",
+       "ref": "1CO.1.24"
+      },
+      {
+       "text": "1Co 2:7",
+       "ref": "1CO.2.7"
+      },
+      {
+       "text": "2Ti 1:9",
+       "ref": "2TI.1.9"
+      },
+      {
+       "text": "Tit 1:2",
+       "ref": "TIT.1.2"
+      },
+      {
+       "text": "1Pe 1:20",
+       "ref": "1PE.1.20"
+      },
+      {
+       "text": "Act 10:28",
+       "ref": "ACT.10.28"
+      },
+      {
+       "text": "1Co 2:9",
+       "ref": "1CO.2.9"
+      },
+      {
+       "text": "1Pe 1:10",
+       "ref": "1PE.1.10"
+      },
+      {
+       "text": "Eph 1:10",
+       "ref": "EPH.1.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.26#p2-03520b51",
+     "text": "but now God that revealeth secrets, Dan 2:28, hath opened his bosom counsel about this affair most clearly, so that his glory, by those that really fear him, may be seen with open face as in a glass through Christ, Mat 13:11 Mar 4:11 Joh 8:47 15:15 Act 16:14 1Co 2:10,16 2Co 3:18; all necessary to salvation being made conspicuous and clear to them, 1Pe 2:9.",
+     "anchor": "But now is made manifest to his saints",
+     "refs": [
+      {
+       "text": "Dan 2:28",
+       "ref": "DAN.2.28"
+      },
+      {
+       "text": "Mat 13:11",
+       "ref": "MAT.13.11"
+      },
+      {
+       "text": "Mar 4:11",
+       "ref": "MRK.4.11"
+      },
+      {
+       "text": "Joh 8:47",
+       "ref": "JHN.8.47"
+      },
+      {
+       "text": "Act 16:14",
+       "ref": "ACT.16.14"
+      },
+      {
+       "text": "1Co 2:10",
+       "ref": "1CO.2.10"
+      },
+      {
+       "text": "2Co 3:18",
+       "ref": "2CO.3.18"
+      },
+      {
+       "text": "1Pe 2:9",
+       "ref": "1PE.2.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.27",
+   "range": "COL.1.27",
+   "kind": "passage",
+   "hash": "84b0bcdd",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.27#p1-4fde4e30",
+     "text": "he refers the manifestation purely to God’s good will and pleasure, as Christ himself doth, Mat 11:26,27 Lu 10:21; so in the like case, Rev 9:18; that having mentioned saints, none might conceit it was for foreseen faith, but the Colossians might value their privilege, reverently receive that grace which was not given to all: in short, to restrain curiosity why God would not do it otherwise or sooner, he cuts the knots of all questions, only by signifying his sovereign pleasure, he would make it known to them; elsewhere, this mystery of his will, according to his good pleasure, Eph 1:9, which was not to be touched till he thought meet to make it known.",
+     "anchor": "To whom God would make known",
+     "refs": [
+      {
+       "text": "Mat 11:26",
+       "ref": "MAT.11.26"
+      },
+      {
+       "text": "Rev 9:18",
+       "ref": "REV.9.18"
+      },
+      {
+       "text": "Eph 1:9",
+       "ref": "EPH.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.27#p2-a6b0ab71",
+     "text": "some refer the glory to mystery, as glorious mystery, because it lets forth Divine glory, and promiseth it to believers, Luk 2:14; others, and the most, rather to riches, and that either as its epithet, {Col 1:11} the glorious riches of this mystery, or noting the subject, for salvation of the church amongst the Gentiles, Eph 1:18 3:7,8. It is usual with the apostle to use the word riches to set forth abundance, Rom 2:4,11:33 Eph 1:7: here, for the praise of the gospel, he would signify a very great and most abundant glory, far surpassing any former ministration, 2Co 3:8,18. In the law those riches {Eph 2:7} were not only imperfectly and obscurely discovered, but scatteredly with broken beams, as the sun in water when the water is disturbed; one attribute shining out in one work, another in another; but now the harmony of the Divine attributes in man’s redemption shines out most fully, clearly, and gloriously, contracted in Christ, who is the object and revealer of the mystery by his Spirit, the glory whereof breaks forth with much more splendour amongst the Gentiles, Rom 15:7-9 1Co 2:10 2Co 3:9,18; all glory before was but a shadow to this. Col 2:17 2Co 3:18 Gal 3:1 Heb 10:1.",
+     "anchor": "What is the riches of the glory of this mystery among the Gentiles",
+     "refs": [
+      {
+       "text": "Luk 2:14",
+       "ref": "LUK.2.14"
+      },
+      {
+       "text": "Col 1:11",
+       "ref": "COL.1.11"
+      },
+      {
+       "text": "Eph 1:18",
+       "ref": "EPH.1.18"
+      },
+      {
+       "text": "Rom 2:4",
+       "ref": "ROM.2.4"
+      },
+      {
+       "text": "Eph 1:7",
+       "ref": "EPH.1.7"
+      },
+      {
+       "text": "2Co 3:8",
+       "ref": "2CO.3.8"
+      },
+      {
+       "text": "Eph 2:7",
+       "ref": "EPH.2.7"
+      },
+      {
+       "text": "Rom 15:7-9",
+       "ref": "ROM.15.7-9"
+      },
+      {
+       "text": "1Co 2:10",
+       "ref": "1CO.2.10"
+      },
+      {
+       "text": "2Co 3:9",
+       "ref": "2CO.3.9"
+      },
+      {
+       "text": "Col 2:17",
+       "ref": "COL.2.17"
+      },
+      {
+       "text": "2Co 3:18",
+       "ref": "2CO.3.18"
+      },
+      {
+       "text": "Gal 3:1",
+       "ref": "GAL.3.1"
+      },
+      {
+       "text": "Heb 10:1",
+       "ref": "HEB.10.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.27#p3-1dce8f78",
+     "text": "which is Christ, amongst, for, or in them, i.e. who not only was preached amongst them, but whom they possessed, and who dwelt in them by faith, Eph 3:17; the revelation being accompanied with the power of the Spirit in the translating them by his glorious power from the kingdom of darkness into his kingdom, Col 1:13 Luk 17:21 Gal 2:20 4:19 Eph 3:5,7.",
+     "anchor": "Which is Christ in you",
+     "refs": [
+      {
+       "text": "Eph 3:17",
+       "ref": "EPH.3.17"
+      },
+      {
+       "text": "Col 1:13",
+       "ref": "COL.1.13"
+      },
+      {
+       "text": "Luk 17:21",
+       "ref": "LUK.17.21"
+      },
+      {
+       "text": "Gal 2:20",
+       "ref": "GAL.2.20"
+      },
+      {
+       "text": "Eph 3:5",
+       "ref": "EPH.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.27#p4-545db5ed",
+     "text": "so is not only the object, 1Ti 1:1, but the ground of their expectation of glory, he in whom the mystery begins and ends, 1Ti 3:16; out of whom all are hopeless of being happy, Eph 2:12, and in whom all have strong consolation, Heb 6:18.",
+     "anchor": "The hope of glory",
+     "refs": [
+      {
+       "text": "1Ti 1:1",
+       "ref": "1TI.1.1"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "Eph 2:12",
+       "ref": "EPH.2.12"
+      },
+      {
+       "text": "Heb 6:18",
+       "ref": "HEB.6.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.28",
+   "range": "COL.1.28",
+   "kind": "passage",
+   "hash": "57845d9d",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.28#p1-10bf091f",
+     "text": "here he shows that the subject of his and other ministers’ preaching was Christ, (as he had before described him), in whom alone hope of glory was to be had, Act 4:12 1Co 2:2 Gal 5:4 1Jn 1:3.",
+     "anchor": "Whom we preach",
+     "refs": [
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      },
+      {
+       "text": "1Co 2:2",
+       "ref": "1CO.2.2"
+      },
+      {
+       "text": "Gal 5:4",
+       "ref": "GAL.5.4"
+      },
+      {
+       "text": "1Jn 1:3",
+       "ref": "1JN.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.28#p2-b41b512e",
+     "text": "the manner of it was by admonishing and instructing all, in all the Christian wisdom that Christ required, that they might avoid sin and do their duty. He means all collectively, not distributively; of the generals of each, not each one of those generals; excluding none from the communion of so great a benefit, having no acceptation of nations or persons, making no exception of any condition, but inviting all men to Christ, holding forth this light of the gospel to whosoever would receive it, while God did vouchsafe life and strength to them, in the most taking way, Act 20:21,27,31 Ro 1:14-16 1Ti 3:2 2Ti 2:24 2Ti 3:16 4:2 Tit 1:9.",
+     "anchor": "Warning every man, and teaching every man in all wisdom",
+     "refs": [
+      {
+       "text": "Act 20:21",
+       "ref": "ACT.20.21"
+      },
+      {
+       "text": "1Ti 3:2",
+       "ref": "1TI.3.2"
+      },
+      {
+       "text": "2Ti 2:24",
+       "ref": "2TI.2.24"
+      },
+      {
+       "text": "2Ti 3:16",
+       "ref": "2TI.3.16"
+      },
+      {
+       "text": "Tit 1:9",
+       "ref": "TIT.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/COL.1.28#p3-791daef4",
+     "text": "and the end and aim he and others of his mind had in preaching of this matter in such a manner was the same with Christ’s, Col 1:22, to put them into such an estate by their labours that they might, through Christ, appear at a throne of grace without confusion, 2Co 11:2 Php 3:12,15 Heb 5:14.",
+     "anchor": "That we may present every man perfect in Christ Jesus",
+     "refs": [
+      {
+       "text": "Col 1:22",
+       "ref": "COL.1.22"
+      },
+      {
+       "text": "2Co 11:2",
+       "ref": "2CO.11.2"
+      },
+      {
+       "text": "Php 3:12",
+       "ref": "PHP.3.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/COL.1.29",
+   "range": "COL.1.29",
+   "kind": "passage",
+   "hash": "214cddd4",
+   "paragraphs": [
+    {
+     "id": "poole/COL.1.29#p1-214cddd4",
+     "text": "To perform which, saith he, I earnestly endeavour and take pains to weariness, as a husbandman, 2Ti 2:6, contending as one in an agony, 1Th 5:12, by his grace which was with me {1Co 15:10} in power; not by my own strength or wisdom to do or suffer, but by his effectual aids, enabling me for his service which might, Col 1:11 Rom 15:15-21 1Co 9:25-27 Eph 1:19,20 3:7 Php 4:13.",
+     "refs": [
+      {
+       "text": "2Ti 2:6",
+       "ref": "2TI.2.6"
+      },
+      {
+       "text": "1Th 5:12",
+       "ref": "1TH.5.12"
+      },
+      {
+       "text": "1Co 15:10",
+       "ref": "1CO.15.10"
+      },
+      {
+       "text": "Col 1:11",
+       "ref": "COL.1.11"
+      },
+      {
+       "text": "Rom 15:15-21",
+       "ref": "ROM.15.15-21"
+      },
+      {
+       "text": "1Co 9:25-27",
+       "ref": "1CO.9.25-27"
+      },
+      {
+       "text": "Eph 1:19",
+       "ref": "EPH.1.19"
+      },
+      {
+       "text": "Php 4:13",
+       "ref": "PHP.4.13"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

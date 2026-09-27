@@ -34,3 +34,16 @@ Poole's Greek and Hebrew were typed in the OLB Greek and Hebrew fonts, which use
 
 The import should read the RTF edition, or take the Greek and Hebrew runs from it, and convert them to
 Unicode.
+
+## Import (`tools/import_poole.py`)
+
+- 27,136 units, 75,440 paragraphs, 3,200,161 words, plus about 0.22M words of lemmas:
+  - 63 book introductions ("THE ARGUMENT");
+  - 1,050 chapter introductions: heading, Psalm argument and title, and the chapter's outline;
+  - 26,023 verses.
+- 4,924 entries that are only "No text from Poole on this verse" are dropped.
+- 50,767 notes open with the words they explain in bold, which are kept as `anchor`.
+- **Greek and Hebrew:** all 992 font runs in the RTF edition were found in the HTML text and put back:
+  - 882 Greek runs, converted from the OLB key (`anwyen` → ανωθεν);
+  - 110 Hebrew runs, which became `[Hebrew]` because the key is not consistent. Poole usually gives
+    the transliteration beside them.

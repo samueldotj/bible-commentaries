@@ -1,0 +1,51 @@
+{
+ "source": "poole",
+ "book": "JOS",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/JOS",
+   "range": "JOS",
+   "kind": "book",
+   "title": "THE BOOK OF JOSHUA",
+   "hash": "502d335b",
+   "paragraphs": [
+    {
+     "id": "poole/JOS#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/JOS#p2-fbad8d87",
+     "text": "IT is not material to know who was the penman of this book, whether Joshua, as seems most probable from Jos 24:26, or some other holy prophet. It is sufficient that this book was a part of the Holy Scriptures, or oracles of God, committed to and carefully kept by the Jews, and by them faithfully delivered to us, as appears by the concurring testimony of Christ and his apostles, who owned and approved of the same Holy Scriptures which the church of the Jews did. But this is certain, that divers passages in this book were put into it after Joshua’s death, as Jos 10:13, compared with 2Sa 1:18 Jos 19:47, compared with Jdg 18:1; and Jos 24:29-30. And such like insertions have been observed in the five books of Moses.",
+     "refs": [
+      {
+       "text": "Jos 24:26",
+       "ref": "JOS.24.26"
+      },
+      {
+       "text": "Jos 10:13",
+       "ref": "JOS.10.13"
+      },
+      {
+       "text": "2Sa 1:18",
+       "ref": "2SA.1.18"
+      },
+      {
+       "text": "Jos 19:47",
+       "ref": "JOS.19.47"
+      },
+      {
+       "text": "Jdg 18:1",
+       "ref": "JDG.18.1"
+      },
+      {
+       "text": "Jos 24:29-30",
+       "ref": "JOS.24.29-30"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

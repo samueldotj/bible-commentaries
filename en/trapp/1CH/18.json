@@ -1,0 +1,30 @@
+{
+ "source": "trapp",
+ "book": "1CH",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "trapp/1CH.18.1",
+   "range": "1CH.18.1",
+   "kind": "passage",
+   "hash": "5dbfbc09",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.18.1#p1-5dbfbc09",
+     "text": "This chapter is the same with 2Sa 8:1-18. {See Trapp on \"2Sa 8:1\"} &c.",
+     "anchor": "Ver 1.",
+     "refs": [
+      {
+       "text": "2Sa 8:1-18",
+       "ref": "2SA.8.1-18"
+      },
+      {
+       "text": "2Sa 8:1",
+       "ref": "2SA.8.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

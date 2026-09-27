@@ -1,0 +1,553 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "poole/1SA.23",
+   "range": "1SA.23",
+   "kind": "chapter",
+   "hash": "e406a6a3",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23#p1-e406a6a3",
+     "text": "David, inquiring of the Lord by Abiathar, rescueth Keilah, and goeth into it, 1Sa 23:1-6. God showing him the coming of Saul, and treachery of the Kennites, 1Sa 23:7-12, he flieth thence to the wilderness of Ziph, with his six hundred men, 1Sa 23:13-15. Here Jonathan cometh to him, and reneweth the covenant of friendship with him, 1Sa 23:16-18. The Ziphites discover him to Saul, 1Sa 23:19-23; who pursueth him into the wilderness of Maon, 1Sa 23:24-26. He is called away by a message that the Philistines had invaded the land, 1Sa 23:27,28. David dwelleth at En-gedi, 1Sa 23:29.",
+     "refs": [
+      {
+       "text": "1Sa 23:1-6",
+       "ref": "1SA.23.1-6"
+      },
+      {
+       "text": "1Sa 23:7-12",
+       "ref": "1SA.23.7-12"
+      },
+      {
+       "text": "1Sa 23:13-15",
+       "ref": "1SA.23.13-15"
+      },
+      {
+       "text": "1Sa 23:16-18",
+       "ref": "1SA.23.16-18"
+      },
+      {
+       "text": "1Sa 23:19-23",
+       "ref": "1SA.23.19-23"
+      },
+      {
+       "text": "1Sa 23:24-26",
+       "ref": "1SA.23.24-26"
+      },
+      {
+       "text": "1Sa 23:27",
+       "ref": "1SA.23.27"
+      },
+      {
+       "text": "1Sa 23:29",
+       "ref": "1SA.23.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.1",
+   "range": "1SA.23.1",
+   "kind": "passage",
+   "hash": "dfe9bb61",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.1#p1-4cdc9fac",
+     "text": "or, Now they had told David, to wit, before he heard of the slaughter of the priests. Keilah; a city in the tribe of Judah, Jos 15:44, not far from the forest of Hareth, where David now was, 1Sa 22:5.",
+     "anchor": "Then they told David",
+     "refs": [
+      {
+       "text": "Jos 15:44",
+       "ref": "JOS.15.44"
+      },
+      {
+       "text": "1Sa 22:5",
+       "ref": "1SA.22.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.23.1#p2-2814b4f5",
+     "text": "usually were without the cities, in places open to the wind. See Jud 6:11 Rth 3:2, &c.",
+     "anchor": "The threshing-floors",
+     "refs": [
+      {
+       "text": "Jud 6:11",
+       "ref": "JUD.6.11"
+      },
+      {
+       "text": "Rth 3:2",
+       "ref": "RUT.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.2",
+   "range": "1SA.23.2",
+   "kind": "passage",
+   "hash": "c69215e3",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.2#p1-d5defed3",
+     "text": "either by Abiathar; or rather, by Gad, who was a prophet, 2Sa 24:11, and David’s seer, 1Ch 21:9, and was now with David, 1Sa 22:5; for Abiathar was not yet come to him, 1Sa 23:6.",
+     "anchor": "David inquired of the Lord",
+     "refs": [
+      {
+       "text": "2Sa 24:11",
+       "ref": "2SA.24.11"
+      },
+      {
+       "text": "1Ch 21:9",
+       "ref": "1CH.21.9"
+      },
+      {
+       "text": "1Sa 22:5",
+       "ref": "1SA.22.5"
+      },
+      {
+       "text": "1Sa 23:6",
+       "ref": "1SA.23.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.23.2#p2-d18f6012",
+     "text": "for the case was both doubtful and new, he having not yet made any attempt upon the Philistines, but by Saul’s commission; and dangerous, because of the small number of his forces.",
+     "anchor": "Shall I go and smite these Philistines?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.3",
+   "range": "1SA.23.3",
+   "kind": "passage",
+   "hash": "4a4a7ba7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.3#p1-6035f202",
+     "text": "i. e. in this part of Judah, whereas yet we have no army to oppose us; for else Keilah also was in Judah.",
+     "anchor": "Here in Judah"
+    },
+    {
+     "id": "poole/1SA.23.3#p2-e6b3a078",
+     "text": "when we shall have a potent enemy before us, the Philistines, and, it may be, another behind us, even Saul, who probably will come forth, either to resist the Philistines, or to intercept us.",
+     "anchor": "If we come to Keilah"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.4",
+   "range": "1SA.23.4",
+   "kind": "passage",
+   "hash": "8ddd88e9",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.4#p1-8ddd88e9",
+     "text": "not for his own, but for his soldiers’ satisfaction and encouragement, as Gideon did, Jud 7.",
+     "anchor": "David inquired of the Lord yet again"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.5",
+   "range": "1SA.23.5",
+   "kind": "passage",
+   "hash": "e179b6ce",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.5#p1-e0d2c27f",
+     "text": "The Philistines had either brought"
+    },
+    {
+     "id": "poole/1SA.23.5#p2-c91b580f",
+     "text": "out of their land, or had taken from the Israelites in their march, for the sustenance of their army.",
+     "anchor": "their cattle"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.6",
+   "range": "1SA.23.6",
+   "kind": "passage",
+   "hash": "9907b64c",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.6#p1-9907b64c",
+     "text": "Or, with the ephod, to wit, the high priest’s ephod, in which were the Urim and Thummim, Exo 28:30, which when Ahimelech and the rest of the priests went to Saul, were probably left in his hand, and to his care; which gave him the opportunity both of escaping, whilst Doeg the butcher was killing his brethren, and of bringing away the ephod, which Saul had oft grossly neglected, and now was justly deprived of it.",
+     "refs": [
+      {
+       "text": "Exo 28:30",
+       "ref": "EXO.28.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.7",
+   "range": "1SA.23.7",
+   "kind": "passage",
+   "hash": "c8085af5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.7#p1-c4bc6c4e",
+     "text": "He easily believed what he greedily desired, though his own experience had oft showed him how strangely God had delivered him out of his hands, and what a singular care God had over him."
+    },
+    {
+     "id": "poole/1SA.23.7#p2-622efe7d",
+     "text": "so that which he chose for his safety will be his certain ruin.",
+     "anchor": "For he is shut in, by entering into a town that hath gates and bars"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.9",
+   "range": "1SA.23.9",
+   "kind": "passage",
+   "hash": "87f6ae04",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.9#p1-4f67796d",
+     "text": "whereby it may seem he pretended that he raised his army to defend Keilah and his country from the Philistines, and kept his intention against David in his own breast. Or, designed or devised; for so the word signifies; and so it is here translated by many; and it seems both from 1Sa 23:8, and from his publicly avowed jealousy of and rage against David, that he declared his design to be against him, as a traitor to his crown and dignity.",
+     "anchor": "Saul secretly practised mischief against him",
+     "refs": [
+      {
+       "text": "1Sa 23:8",
+       "ref": "1SA.23.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.23.9#p2-b0040f7d",
+     "text": "and put it upon thee, that thou mayst ask counsel of God for me.",
+     "anchor": "Bring hither the ephod"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.10",
+   "range": "1SA.23.10",
+   "kind": "passage",
+   "hash": "21fedae5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.10#p1-21fedae5",
+     "text": "David said this by the priest, for he was to make the inquiry of God, Num 27:21, and David puts the words into his mouth.",
+     "refs": [
+      {
+       "text": "Num 27:21",
+       "ref": "NUM.27.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.11",
+   "range": "1SA.23.11",
+   "kind": "passage",
+   "hash": "11d3859e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.11#p1-ca495ac6",
+     "text": "to wit, if I continue in their city, and if Saul come down?",
+     "anchor": "Will the men of Keilah deliver me up"
+    },
+    {
+     "id": "poole/1SA.23.11#p2-f88cf46a",
+     "text": "From this place it may appear that God’s answer by Urim and Thummim was not by any change in the colour or situation of the precious stones in the breastplate of the ephod, but by a voice or suggestion from God to the high priest.",
+     "anchor": "The Lord said"
+    },
+    {
+     "id": "poole/1SA.23.11#p3-59217bce",
+     "text": "i.e. he purposeth to come, if thou continuest here; for still, as David’s question, so God’s answer, is upon supposition, as is here sufficiently implied.",
+     "anchor": "He will come down"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.12",
+   "range": "1SA.23.12",
+   "kind": "passage",
+   "hash": "4121325b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.12#p1-4121325b",
+     "text": "To wit, if thou abidest there; for God saw their hearts, their purposes and passions, their aversion from David, and their affections to Saul, and knew better than themselves what they would do in that case."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.13",
+   "range": "1SA.23.13",
+   "kind": "passage",
+   "hash": "2a73b2c4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.13#p1-8d2cad50",
+     "text": "two hundred being added to his former number, 1Sa 22:2, upon his last and great success against the Philistines.",
+     "anchor": "Which were about six hundred",
+     "refs": [
+      {
+       "text": "1Sa 22:2",
+       "ref": "1SA.22.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.23.13#p2-b395ab06",
+     "text": "hither or thither, where they could find refuge, or a hiding-place.",
+     "anchor": "Whithersoever they could go"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.14",
+   "range": "1SA.23.14",
+   "kind": "passage",
+   "hash": "e78c4efc",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.14#p1-e78c4efc",
+     "text": "As Saul fondly persuaded himself he intended, 1Sa 23:7.",
+     "refs": [
+      {
+       "text": "1Sa 23:7",
+       "ref": "1SA.23.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.15",
+   "range": "1SA.23.15",
+   "kind": "passage",
+   "hash": "a76b1bd8",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.15#p1-a76b1bd8",
+     "text": "either by information from his spies, or by prospect from the top of the mountain where he was.",
+     "anchor": "David saw"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.16",
+   "range": "1SA.23.16",
+   "kind": "passage",
+   "hash": "15718ef6",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.16#p1-15718ef6",
+     "text": "where David had appointed to meet him at that time, and strengthened his hand in God; he comforted and supported him against all his fears, by minding him of God’s infallible promises made to him, and his singular providence which hitherto had and still would be with him.",
+     "anchor": "Jonathan went"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.17",
+   "range": "1SA.23.17",
+   "kind": "passage",
+   "hash": "f9cceab7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.17#p1-1c9bec5a",
+     "text": "which he gathered either from David’s generosity, ingenuousness, and true friendship to him; or from some promise made to him by David concerning it. Or the meaning of the words, next unto thee, may be as much as to say, I shall be under thee, after thee, or inferior to thee, as the phrase tibi secundus oft signifies. So that the whole imports thus much: I do not look to be king myself, (as by my birth I might expect,) but that thou shalt be king, (God having so appointed,) and I but in a secondary place inferior to thee.",
+     "anchor": "I shall be next unto thee"
+    },
+    {
+     "id": "poole/1SA.23.17#p2-efc62443",
+     "text": "by strong and well-grounded conjectures, as hath been noted.",
+     "anchor": "That also Saul my father knoweth"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.18",
+   "range": "1SA.23.18",
+   "kind": "passage",
+   "hash": "6b0de912",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.18#p1-6b0de912",
+     "text": "i.e. renewed their former covenant before the Lord; setting themselves as in God’s presence, and calling upon him to be witness between them.",
+     "anchor": "They two made a covenant"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.19",
+   "range": "1SA.23.19",
+   "kind": "passage",
+   "hash": "5602241a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.19#p1-5602241a",
+     "text": "were of David’s own tribe, though for this their unnatural and strange carriage to him he calls them strangers, Psa 44:3.",
+     "anchor": "The Ziphites",
+     "refs": [
+      {
+       "text": "Psa 44:3",
+       "ref": "PSA.44.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.20",
+   "range": "1SA.23.20",
+   "kind": "passage",
+   "hash": "b81d2e66",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.20#p1-b81d2e66",
+     "text": "It shall be our care and business to the utmost of our power. Or, we will undertake to deliver him, or betray him to thee."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.21",
+   "range": "1SA.23.21",
+   "kind": "passage",
+   "hash": "e9a79385",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.21#p1-e9a79385",
+     "text": "Whilst others harden their hearts against me, and join with David in his treasonable conspiracy, you show your pity to me by your readiness to help me."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.22",
+   "range": "1SA.23.22",
+   "kind": "passage",
+   "hash": "ad4f2b78",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.22#p1-21ef9c2f",
+     "text": "to wit, the matter; inform yourselves certainly of things, and dispose them so that we may not be frustrated in our attempt.",
+     "anchor": "Prepare yet"
+    },
+    {
+     "id": "poole/1SA.23.22#p2-7ed1e5db",
+     "text": "in what cave, or wood, or mountain he is most frequently.",
+     "anchor": "Where his haunt is"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.23",
+   "range": "1SA.23.23",
+   "kind": "passage",
+   "hash": "31db5ebf",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.23#p1-31db5ebf",
+     "text": "i.e. Through all the parts of that tribe. Every tribe was divided into thousands, as counties are now with us into hundreds. See Jud 6:15. Or, with all the thousands of Judah, i. e. I will raise against him all the forces of that tribe in which he trusteth and hideth himself. This he saith to animate them to the more vigorous prosecution of him.",
+     "refs": [
+      {
+       "text": "Jud 6:15",
+       "ref": "JUD.6.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.24",
+   "range": "1SA.23.24",
+   "kind": "passage",
+   "hash": "e9272af4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.24#p1-3a1e6408",
+     "text": "to prepare things for Saul, who marched after them.",
+     "anchor": "Before Saul"
+    },
+    {
+     "id": "poole/1SA.23.24#p2-83e01d4b",
+     "text": "whither he went from the wilderness of Ziph, upon suspicion or information that Saul was coming thither.",
+     "anchor": "In the wilderness of Maon"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.25",
+   "range": "1SA.23.25",
+   "kind": "passage",
+   "hash": "0b22c6a3",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.25#p1-0b22c6a3",
+     "text": "i. e. into a cave which was in the rock; or which might, be called a rock, not for the height, but the strength of its situation; where at first he might think to hide himself, but upon further intelligence or consideration he removed from thence upon Saul’s approach. Or, he came down from the rock, i. e. either, first, From the mountain mentioned in the next verse, whence he came down, that so he might get out of Saul’s sight and reach. Or, secondly, From the hill of Hachilah, where David hid himself, which is said to be on the south of Jeshimon, 1Sa 23:19, as this place where he now was is also described, 1Sa 23:24, only that speaks of the plain, and this of the rock or hill adjoining to it, or in the midst of it. Or, he came down to Selah, as the Syriac and Arabic translate it; a place so called from the many rocks or stones which were in it, or near it.",
+     "anchor": "Into a rock",
+     "refs": [
+      {
+       "text": "1Sa 23:19",
+       "ref": "1SA.23.19"
+      },
+      {
+       "text": "1Sa 23:24",
+       "ref": "1SA.23.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.26",
+   "range": "1SA.23.26",
+   "kind": "passage",
+   "hash": "cb1a288f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.26#p1-cb1a288f",
+     "text": "Dividing themselves into several parties, each marching a several way after him."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.27",
+   "range": "1SA.23.27",
+   "kind": "passage",
+   "hash": "7897b095",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.27#p1-7897b095",
+     "text": "God stirring them up by his all-disposing providence to do it at this time for David’s rescue. Compare 2Ki 19:9.",
+     "refs": [
+      {
+       "text": "2Ki 19:9",
+       "ref": "2KI.19.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.23.28",
+   "range": "1SA.23.28",
+   "kind": "passage",
+   "hash": "f522ff12",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.23.28#p1-c9cea9c4",
+     "text": "i.e."
+    },
+    {
+     "id": "poole/1SA.23.28#p2-e4aee758",
+     "text": "because there Saul was separated, and in a manner pulled asunder from David, who was now almost within his reach.",
+     "anchor": "The rock of divisions"
+    }
+   ]
+  }
+ ]
+}

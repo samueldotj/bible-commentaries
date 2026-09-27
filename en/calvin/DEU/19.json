@@ -1,0 +1,87 @@
+{
+ "source": "calvin",
+ "book": "DEU",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "calvin/DEU.19.1",
+   "range": "DEU.19.1",
+   "kind": "passage",
+   "hash": "b8972feb",
+   "paragraphs": [
+    {
+     "id": "calvin/DEU.19.1#p1-58c04d07",
+     "text": "Moses repeats the same precepts which we have just been considering, that, in regard to murders, the people should distinguish between inadvertency and crime. With this view, he assigns six cities, wherein those who have proved their innocence before the judges should rest in peace and concealment. In one word, however, he defines who is to be exempt from punishment, viz., he who has killed his neighbor ignorantly, as we have previously seen; and this is just, because the will is the sole source and cause of criminality, and therefore, where there is no malicious feeling, there is no crime.",
+     "verse": 1,
+     "anchor": "When the Lord thy God hath cut off the nations"
+    },
+    {
+     "id": "calvin/DEU.19.1#p2-875f9a8a",
+     "text": "But, lest under the pretext of inadvertency those who are actually guilty should escape, a mark of distinction is added, i.e., that no hatred should have preceded; and of this an instance is given, if two friends should have gone out together into a wood, and, without any quarrel or wrangling, the head of the axe should slip out of the hand of one of them, and strike the other. God, therefore, justly commands that the motive of the crime should be investigated, and shows how it is to be ascertained, viz., if there had been any previous animosity, or if any contention should have arisen."
+    },
+    {
+     "id": "calvin/DEU.19.1#p3-d4c27775",
+     "text": "For it is incredible that any one should be so wicked as gratuitously to rush into so abominable a sin. It must be observed, however, that there was no room for this conjecture, except in a doubtful matter; for if any should stab his neighbor with a drawn sword, or should hurl a dart into his bosom, the inquiry would be superfluous, because the guilty intention would be abundantly manifest."
+    }
+   ]
+  },
+  {
+   "id": "calvin/DEU.19.14",
+   "range": "DEU.19.14",
+   "kind": "passage",
+   "hash": "9331983f",
+   "paragraphs": [
+    {
+     "id": "calvin/DEU.19.14#p1-bd683ebb",
+     "text": "A kind of theft is here condemned which is severely punished by the laws of Rome; {1} for that every one’s property may be secure, it is necessary that the land-marks set up for the division of fields should remain untouched, as if they were sacred. He who fraudulently removes a landmark is already convicted by this very act, because he disturbs the lawful owner in his quiet possession of the land; {2} whilst he who advances further the boundaries of his own land to his neighbor’s loss, doubles the crime by the deceptive concealment of his theft. Whence also we gather that not only are those thieves, who actually carry away their neighbor’s property, who take his money out of his chest, or who pillage his cellars and granaries, but also those who unjustly possess themselves of his land."
+    },
+    {
+     "id": "calvin/DEU.19.14#p2-59b24297",
+     "text": "“In the digests there is a vague law, de termino moto, Digestor. Lib. 47. tit. 21, on which Calmer remarks, that, though the Romans had no determined punishment for those who removed the ancient land-marks, yet, if slaves were found to have done it with an evil design, they were put to death; that persons of quality were sometimes exiled when found, guilty; and that others were sentenced to primary fines, or corporal punishment. — Adam Clarke, in loco.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/DEU.19.14#p3-05b928a2",
+     "text": "“Est desia assez convaincu par ce seul acte d’avoir voulu debouter le possesseur de son champ;” is already sufficiently convicted by this act alone of having wished to deprive the possessor of his land. — Fr.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/DEU.19.14#p4-5ea67982",
+     "text": "Exodus 22",
+     "refs": [
+      {
+       "text": "Exodus 22",
+       "ref": "EXO.22"
+      }
+     ]
+    },
+    {
+     "id": "calvin/DEU.19.14#p5-2e01d8b6",
+     "text": "Deuteronomy 24",
+     "refs": [
+      {
+       "text": "Deuteronomy 24",
+       "ref": "DEU.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/DEU.19.16",
+   "range": "DEU.19.16",
+   "kind": "passage",
+   "hash": "6cecbc30",
+   "paragraphs": [
+    {
+     "id": "calvin/DEU.19.16#p1-6cecbc30",
+     "text": "Because the fear of God does not so prevail in all men, as that they should voluntarily abstain from the love of slander, God here appoints the punishment to be inflicted for perjury: for political laws are enacted against the ungodly and disobedient, in order that those who despise God’s judgment should be brought before the tribunal of men. Although perjury is not here ordained to be tried before the judges, unless there should be an accuser, who should complain that he had been unjustly injured by false-witness, still reason dictates, that if any man have been condemned to death by false-witnesses, the judges should not hesitate to make an official inquiry into the matter. Yet, inasmuch as men are generally disposed to assert their own innocence, God has deemed it sufficient to put the case, that if any complaint should be lodged, the judges should diligently investigate it, and if the crime be proved, should inflict the punishment of retaliation (talionis.) Whence it appears that false-witnesses and murderers stand in the same light before God. By commanding that the inquiry should be made not only by the judges, but also by the priests, as if God Himself were present, He shews that He requires unusual diligence to be used; because a secret crime is not easily detected without the most anxious care.",
+     "verse": 16,
+     "anchor": "If a false witness rise up against any man"
+    }
+   ]
+  }
+ ]
+}

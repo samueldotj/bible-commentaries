@@ -1,0 +1,391 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/DEU.20",
+   "range": "DEU.20",
+   "kind": "chapter",
+   "hash": "5fd59a98",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20#p1-5fd59a98",
+     "text": "The priest’s exhortation to encourage the people to fight their enemies, Deu 20:1-4. The officers’ proclamation who are to be dismissed from the war, Deu 20:5-9. A proclamation of peace to be made to besieged cities, Deu 20:10, and to deal with them as they accept or refuse it, Deu 20:11-18. What trees were to be cut down for the siege, and what not, Deu 20:19,20.",
+     "refs": [
+      {
+       "text": "Deu 20:1-4",
+       "ref": "DEU.20.1-4"
+      },
+      {
+       "text": "Deu 20:5-9",
+       "ref": "DEU.20.5-9"
+      },
+      {
+       "text": "Deu 20:10",
+       "ref": "DEU.20.10"
+      },
+      {
+       "text": "Deu 20:11-18",
+       "ref": "DEU.20.11-18"
+      },
+      {
+       "text": "Deu 20:19",
+       "ref": "DEU.20.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.1",
+   "range": "DEU.20.1",
+   "kind": "passage",
+   "hash": "987aa494",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.1#p1-987aa494",
+     "text": "upon a just and necessary cause, as upon great provocation, or for thy own defence.",
+     "anchor": "When thou goest out to battle"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.2",
+   "range": "DEU.20.2",
+   "kind": "passage",
+   "hash": "50792695",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.2#p1-413a6f49",
+     "text": "an eminent priest appointed for this work, and to blow with the holy trumpets, Num 10:9 31:6.",
+     "anchor": "The priest",
+     "refs": [
+      {
+       "text": "Num 10:9",
+       "ref": "NUM.10.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.20.2#p2-fba68988",
+     "text": "either successively to one regiment of the army after another, or to some by himself, to others by his brethren or deputies, which accompanied him for that end.",
+     "anchor": "Speak unto the people"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.3",
+   "range": "DEU.20.3",
+   "kind": "passage",
+   "hash": "8e9c2262",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.3#p1-8e9c2262",
+     "text": "Heb. be soft or tender. Softness or tenderness of heart towards God is commended, 2Ki 22:19, but towards enemies it is condemned, here and Deu 20:8 Lev 26:36 2Ch 13:7 Isa 7:4.",
+     "anchor": "Faint",
+     "refs": [
+      {
+       "text": "2Ki 22:19",
+       "ref": "2KI.22.19"
+      },
+      {
+       "text": "Deu 20:8",
+       "ref": "DEU.20.8"
+      },
+      {
+       "text": "Lev 26:36",
+       "ref": "LEV.26.36"
+      },
+      {
+       "text": "2Ch 13:7",
+       "ref": "2CH.13.7"
+      },
+      {
+       "text": "Isa 7:4",
+       "ref": "ISA.7.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.5",
+   "range": "DEU.20.5",
+   "kind": "passage",
+   "hash": "d11a5511",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.5#p1-b1eb237a",
+     "text": "Houses were dedicated by feasting and thanksgiving to God. See Psa 30:1 Neh 12:27. Heb. hath initiated it, i. e. entered upon it, taken possession of it, dwelt in it.",
+     "refs": [
+      {
+       "text": "Psa 30:1",
+       "ref": "PSA.30.1"
+      },
+      {
+       "text": "Neh 12:27",
+       "ref": "NEH.12.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.20.5#p2-86cf0e64",
+     "text": "lest his heart be set upon it, and thereby he be negligent or timorous in the battle, to the scandal and prejudice of others.",
+     "anchor": "Let him return to his house"
+    },
+    {
+     "id": "poole/DEU.20.5#p3-4f2ccfb1",
+     "text": "and so he should lose and another get the fruit of his labours, which might seem unjust or hard. And God provides even for men’s infirmities. But this and the following exceptions are to be understood only of a war allowed by God, not in a war commanded by God, not in the approaching war with the Canaanites, from which even the bridegroom was not exempted, as the Jewish writers note.",
+     "anchor": "Another man dedicate it"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.6",
+   "range": "DEU.20.6",
+   "kind": "passage",
+   "hash": "dc7fdead",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.6#p1-1f9e104e",
+     "text": "This and the former dispensation were generally convenient, but more necessary in the beginning of their settlement in Canaan, for the encouragement of those who should build houses or plant vineyards, which was chargeable to them, and beneficial to the commonwealth."
+    },
+    {
+     "id": "poole/DEU.20.6#p2-10f2aa5f",
+     "text": "Heb. made it common, to wit, for the use of himself and family and friends, which it was not till the fifth year, Lev 19:23 Jer 31:5.",
+     "anchor": "Eaten of it",
+     "refs": [
+      {
+       "text": "Lev 19:23",
+       "ref": "LEV.19.23"
+      },
+      {
+       "text": "Jer 31:5",
+       "ref": "JER.31.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.7",
+   "range": "DEU.20.7",
+   "kind": "passage",
+   "hash": "9de40325",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.7#p1-9de40325",
+     "text": "Betrothing was done by a solemn and mutual promise, but not by an actual contract. See Gen 19:14 Deu 22:23.",
+     "refs": [
+      {
+       "text": "Gen 19:14",
+       "ref": "GEN.19.14"
+      },
+      {
+       "text": "Deu 22:23",
+       "ref": "DEU.22.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.9",
+   "range": "DEU.20.9",
+   "kind": "passage",
+   "hash": "04af446b",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.9#p1-04af446b",
+     "text": "Or rather, as the Hebrew hath it, they shall set or place the captains of the armies in the head or front of the people under their charge, that they may conduct and manage them, and by their example encourage their soldiers. But it is not likely they had their captains to make or choose when they were just going to battle."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.10",
+   "range": "DEU.20.10",
+   "kind": "passage",
+   "hash": "00edb0eb",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.10#p1-00edb0eb",
+     "text": "This seems to be understood not of the cities of the Canaanites, as is manifest from Deu 20:16-18, who were under an absolute sentence of utter destruction, Exo 23:32,33 Deu 7:1,2; whence they are blamed that made any league or peace with them, Jud 2:2; but of the cities either of other nations who injured or disturbed them, or commenced war against them, or aided their enemies, or oppressed their friends and allies; or of the Hebrews themselves, if they were guilty or abettors of idolatry or apostacy from God, or of sedition or rebellion against authority, or of giving protection and defence to capital offenders. See Ge 15 Jud 20 2Sa 20, &c.",
+     "refs": [
+      {
+       "text": "Deu 20:16-18",
+       "ref": "DEU.20.16-18"
+      },
+      {
+       "text": "Exo 23:32",
+       "ref": "EXO.23.32"
+      },
+      {
+       "text": "Jud 2:2",
+       "ref": "JUD.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.11",
+   "range": "DEU.20.11",
+   "kind": "passage",
+   "hash": "ffc76d57",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.11#p1-ffc76d57",
+     "text": "By their purses, and by their labours too, as appears from 1Ki 9:15 2Ch 8:7,8",
+     "refs": [
+      {
+       "text": "1Ki 9:15",
+       "ref": "1KI.9.15"
+      },
+      {
+       "text": "2Ch 8:7",
+       "ref": "2CH.8.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.13",
+   "range": "DEU.20.13",
+   "kind": "passage",
+   "hash": "a1264839",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.13#p1-a1264839",
+     "text": "A just punishment of their obstinate refusal of peace offered."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.14",
+   "range": "DEU.20.14",
+   "kind": "passage",
+   "hash": "c48531a7",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.14#p1-c48531a7",
+     "text": "excused by their sex or age, as not involved in the guilt, nor being likely to revenge their quarrel.",
+     "anchor": "The little ones"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.16",
+   "range": "DEU.20.16",
+   "kind": "passage",
+   "hash": "19873c3c",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.16#p1-19873c3c",
+     "text": "Heb. no seed, i.e. no man, as that word is oft used. Compare Jos 10:40, with Deu 11:14. For the beasts, some few excepted as being under a special curse, were given them for a prey.",
+     "refs": [
+      {
+       "text": "Jos 10:40",
+       "ref": "JOS.10.40"
+      },
+      {
+       "text": "Deu 11:14",
+       "ref": "DEU.11.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.20.19",
+   "range": "DEU.20.19",
+   "kind": "passage",
+   "hash": "aabdfea6",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.20.19#p1-0addd2a9",
+     "text": "to wit, the fruit trees, as appears from the following words; which is to be understood of a general destruction of them, not of the cutting down of some few of them, as the conveniency of the siege might require.",
+     "anchor": "The trees thereof"
+    },
+    {
+     "id": "poole/DEU.20.19#p2-9191172b",
+     "text": "i.e. the sustenance or support of his life, as life is taken Deu 24:6. But this place may be otherwise translated, as it is in the margin of our English Bibles: For, O man, (the Hebrew letter he being here the note of a vocative case, as it is Psa 9:7)",
+     "anchor": "Man’s life",
+     "refs": [
+      {
+       "text": "Deu 24:6",
+       "ref": "DEU.24.6"
+      },
+      {
+       "text": "Psa 9:7",
+       "ref": "PSA.9.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.20.19#p3-e61c087c",
+     "text": "(or trees, the singular number for the plural, as is common) of the field is (or ought, as the Hebrew lamed is used Est 9:1 Psa 62:10) to be employed in the siege; or, as it is in the Hebrew, to go before thy face, i.e. to make fences for thy security, in the siege.",
+     "anchor": "the tree",
+     "refs": [
+      {
+       "text": "Est 9:1",
+       "ref": "EST.9.1"
+      },
+      {
+       "text": "Psa 62:10",
+       "ref": "PSA.62.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.20.19#p4-c27e9954",
+     "text": "I here understand not its general signification of all trees, including fruit-bearing trees, as that phrase is commonly used, but in its more special and distinct signification, for unfruitful trees, as it is taken Isa 55:12; or such as grow only in open fields, such as are elsewhere called the trees of the wood, 1Ch 16:33 Isa 7:2, or the trees of the forest, Son 2:3 Isa 10:19, which are opposed to the trees of the gardens, Gen 3:2,8 Ec 2:5 Eze 31:9; as the flower of the field, Psa 103:15 Isa 40:6, and the lilies of the field, Mat 6:28, are opposed to those that grow in gardens, and are preserved and cultivated by the gardener’s art and care. And so it is a very proper argument to dissuade from the destroying of fruit trees, because the wild and unfruitful trees were sufficient for the use of the siege. And this sense fitly agrees with the following words, where the concession or grant, which here is delivered in more ambiguous terms, of the tree of the field, is repeated and explained concerning the trees which thou knowest that they be not trees for meat.",
+     "anchor": "The trees of the field",
+     "refs": [
+      {
+       "text": "Isa 55:12",
+       "ref": "ISA.55.12"
+      },
+      {
+       "text": "1Ch 16:33",
+       "ref": "1CH.16.33"
+      },
+      {
+       "text": "Isa 7:2",
+       "ref": "ISA.7.2"
+      },
+      {
+       "text": "Son 2:3",
+       "ref": "SNG.2.3"
+      },
+      {
+       "text": "Isa 10:19",
+       "ref": "ISA.10.19"
+      },
+      {
+       "text": "Gen 3:2",
+       "ref": "GEN.3.2"
+      },
+      {
+       "text": "Eze 31:9",
+       "ref": "EZK.31.9"
+      },
+      {
+       "text": "Psa 103:15",
+       "ref": "PSA.103.15"
+      },
+      {
+       "text": "Isa 40:6",
+       "ref": "ISA.40.6"
+      },
+      {
+       "text": "Mat 6:28",
+       "ref": "MAT.6.28"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

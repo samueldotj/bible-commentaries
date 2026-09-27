@@ -1,0 +1,152 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 146,
+ "units": [
+  {
+   "id": "poole/PSA.146",
+   "range": "PSA.146",
+   "kind": "chapter",
+   "hash": "4a3a79df",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.146#p2-68e9ad96",
+     "text": "The design of this Psalm is to persuade men to trust in God, and in him alone."
+    },
+    {
+     "id": "poole/PSA.146#p3-bcae6ffe",
+     "text": "The psalmist voweth perpetual praises to God, Psa 146:1,2; and exhorteth that none put their trust in man, Psa 146:3,4, but in God, in regard of his power, faithfulness, and everlasting government, Psa 146:5-10.",
+     "refs": [
+      {
+       "text": "Psa 146:1",
+       "ref": "PSA.146.1"
+      },
+      {
+       "text": "Psa 146:3",
+       "ref": "PSA.146.3"
+      },
+      {
+       "text": "Psa 146:5-10",
+       "ref": "PSA.146.5-10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.146.3",
+   "range": "PSA.146.3",
+   "kind": "passage",
+   "hash": "653a1874",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146.3#p1-da89678c",
+     "text": "in men of greatest wealth and power, in whose favour men are very prone to trust.",
+     "anchor": "In princes"
+    },
+    {
+     "id": "poole/PSA.146.3#p2-9f65aa8a",
+     "text": "who are utterly unable frequently to give you that help which they promise, and you expect.",
+     "anchor": "In whom there is no help"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.146.4",
+   "range": "PSA.146.4",
+   "kind": "passage",
+   "hash": "774f735e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146.4#p1-f53b8021",
+     "text": "in his body, Ecc 12:7,",
+     "anchor": "He returneth",
+     "refs": [
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.146.4#p2-d34726a4",
+     "text": "to that earth from which all mankind, princes not excepted, had their original.",
+     "anchor": "to his earth"
+    },
+    {
+     "id": "poole/PSA.146.4#p3-476dc850",
+     "text": "as soon as ever he is dead, his thoughts perish; all his designs and endeavours, either for himself or for others.",
+     "anchor": "In that very day"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.146.6",
+   "range": "PSA.146.6",
+   "kind": "passage",
+   "hash": "eac0b524",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146.6#p1-eac0b524",
+     "text": "Both because he liveth for ever to fulfil his promises, and because he is eternally and unchangeably faithful."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.146.8",
+   "range": "PSA.146.8",
+   "kind": "passage",
+   "hash": "318dd108",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146.8#p1-a12a5354",
+     "text": "either,",
+     "anchor": "The eyes of the blind"
+    },
+    {
+     "id": "poole/PSA.146.8#p2-9d9b9050",
+     "text": "1. The eyes of their mind, which he enlightens and directs in doubtful and difficult causes; or,"
+    },
+    {
+     "id": "poole/PSA.146.8#p3-bff9268b",
+     "text": "2. Their bodily eyes, which he did abundantly by his Son Jesus Christ."
+    },
+    {
+     "id": "poole/PSA.146.8#p4-f9c80dea",
+     "text": "even when he doth afflict them, which also he doth out of love, Heb 12:6.",
+     "anchor": "Loveth the righteous",
+     "refs": [
+      {
+       "text": "Heb 12:6",
+       "ref": "HEB.12.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.146.9",
+   "range": "PSA.146.9",
+   "kind": "passage",
+   "hash": "0fb4a66f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.146.9#p1-0fb4a66f",
+     "text": "as the phrase is, Psa 140:4. He maketh them to lose their way; he not only frustrateth their plots and enterprises but turneth them against themselves. This and all the foregoing sentences are so many arguments to encourage all good men to trust in God in all their straits and afflictions.",
+     "anchor": "He overthroweth their goings",
+     "refs": [
+      {
+       "text": "Psa 140:4",
+       "ref": "PSA.140.4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

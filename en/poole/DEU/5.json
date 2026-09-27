@@ -1,0 +1,342 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/DEU.5",
+   "range": "DEU.5",
+   "kind": "chapter",
+   "hash": "8f269b14",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5#p1-8f269b14",
+     "text": "God, upon Mount Horeb, makes a covenant with Israel, Deu 5:1-5. The covenant or ten commandments is delivered to Moses in two tables, Deu 5:6-22. The Israelites desire that not God, but Moses, may speak to them, Deu 5:23-27; which God approves of, Deu 5:28-31. Moses exhorts them to obedience, with a pro mise of life, Deu 5:32,33.",
+     "refs": [
+      {
+       "text": "Deu 5:1-5",
+       "ref": "DEU.5.1-5"
+      },
+      {
+       "text": "Deu 5:6-22",
+       "ref": "DEU.5.6-22"
+      },
+      {
+       "text": "Deu 5:23-27",
+       "ref": "DEU.5.23-27"
+      },
+      {
+       "text": "Deu 5:28-31",
+       "ref": "DEU.5.28-31"
+      },
+      {
+       "text": "Deu 5:32",
+       "ref": "DEU.5.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.1",
+   "range": "DEU.5.1",
+   "kind": "passage",
+   "hash": "39455e5c",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.1#p1-39455e5c",
+     "text": "to wit, by their elders, who were to impart it to the rest.",
+     "anchor": "Moses called all Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.3",
+   "range": "DEU.5.3",
+   "kind": "passage",
+   "hash": "b8dbe4c3",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.3#p1-a12a5354",
+     "text": "either,",
+     "anchor": "With our fathers"
+    },
+    {
+     "id": "poole/DEU.5.3#p2-99e9758b",
+     "text": "1. Not only with them, the word only being here understood, as it is Gen 32:28 35:10 1Sa 8:7 Jer 7:19 31:34 Mat 9:13. Or,",
+     "refs": [
+      {
+       "text": "Gen 32:28",
+       "ref": "GEN.32.28"
+      },
+      {
+       "text": "1Sa 8:7",
+       "ref": "1SA.8.7"
+      },
+      {
+       "text": "Jer 7:19",
+       "ref": "JER.7.19"
+      },
+      {
+       "text": "Mat 9:13",
+       "ref": "MAT.9.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.5.3#p3-06ca0238",
+     "text": "2. Not at all with them. But then the word covenant is not here to be taken for the covenant of grace in general, for so it was made with their fathers, Exo 2:24, but for this particular and mixed dispensation of the covenant at Sinai, as appears both by the foregoing and following words.",
+     "refs": [
+      {
+       "text": "Exo 2:24",
+       "ref": "EXO.2.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.5.3#p4-39eaae06",
+     "text": "he saith not, that all who made that covenant at Sinai are now alive, for many of them were dead, but that this covenant was made with all that are now alive, which is most true, for it was made with the elder sort of them in their own persons, and with the rest in their parents, who did covenant for them; for this phrase,",
+     "anchor": "All of us here alive this day"
+    },
+    {
+     "id": "poole/DEU.5.3#p5-6581684e",
+     "text": "is put exclusively as to their fathers, but not as to their posterity, as is evident from the nature of the covenant, Act 2:39, and course of the story.",
+     "anchor": "with us",
+     "refs": [
+      {
+       "text": "Act 2:39",
+       "ref": "ACT.2.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.4",
+   "range": "DEU.5.4",
+   "kind": "passage",
+   "hash": "73d59a04",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.4#p1-73d59a04",
+     "text": "Not in a visible shape, which was utterly denied, Deu 4:12,15; but personally and immediately, not by the mouth or ministry of Moses; plainly and certainly, as when two men talk face to face; freely and familiarly, so as not to overwhelm and confound you. Compare Exo 33:11 Num 12:8.",
+     "refs": [
+      {
+       "text": "Deu 4:12",
+       "ref": "DEU.4.12"
+      },
+      {
+       "text": "Exo 33:11",
+       "ref": "EXO.33.11"
+      },
+      {
+       "text": "Num 12:8",
+       "ref": "NUM.12.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.5",
+   "range": "DEU.5.5",
+   "kind": "passage",
+   "hash": "86325ab9",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.5#p1-56ed3e76",
+     "text": "As a mediator or messenger between you, according to your desire, below, Deu 5:27. Compare Exo 19:16, &c.; Exo 20:19 Gal 3:19.",
+     "refs": [
+      {
+       "text": "Deu 5:27",
+       "ref": "DEU.5.27"
+      },
+      {
+       "text": "Exo 19:16",
+       "ref": "EXO.19.16"
+      },
+      {
+       "text": "Exo 20:19",
+       "ref": "EXO.20.19"
+      },
+      {
+       "text": "Gal 3:19",
+       "ref": "GAL.3.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.5.5#p2-98666eef",
+     "text": "not the ten commandments, which God himself uttered, but the following statutes and judgments.",
+     "anchor": "The word of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.6",
+   "range": "DEU.5.6",
+   "kind": "passage",
+   "hash": "7d377d5f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.6#p1-7d377d5f",
+     "text": "The ten commandments, delivered Exo 20, are here repeated with some small difference of words, but the sense is perfectly the same, and therefore the explication of them must be fetched thence."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.12",
+   "range": "DEU.5.12",
+   "kind": "passage",
+   "hash": "4e9045d9",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.12#p1-11637764",
+     "text": "to wit, in mind and memory, as it is Exo 20:8. As God hath commanded thee, to wit, in",
+     "anchor": "Keep the sabbath day",
+     "refs": [
+      {
+       "text": "Exo 20:8",
+       "ref": "EXO.20.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.5.12#p2-d715a0c1",
+     "text": "whither he directs them, and therefore he here omits the argument of the creation, which is urged there.",
+     "anchor": "Exo 20"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.15",
+   "range": "DEU.5.15",
+   "kind": "passage",
+   "hash": "711a0349",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.15#p1-711a0349",
+     "text": "and therefore art highly obliged both to serve that God who redeemed thee, especially upon his own day, and not to grudge thy servants their rest upon that day.",
+     "anchor": "Remember that thou wast a servant"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.21",
+   "range": "DEU.5.21",
+   "kind": "passage",
+   "hash": "82a6a49b",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.21#p1-82a6a49b",
+     "text": "In Exo 20, the order is contrary, and thy neighbour’s house is put before his wife, whereby it is evident that Moses intended this but for one commandment, wherein the order of the words was an inconsiderable circumstance; for if this were two commandments, as some would have it, it would be altogether uncertain which is the ninth, and which the tenth commandment, seeing the one is first, Exo 20, and the other here."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.22",
+   "range": "DEU.5.22",
+   "kind": "passage",
+   "hash": "d7ca920d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.22#p1-d7ca920d",
+     "text": "he ceased for that time to speak immediately, and with that loud voice unto the people, for the rest were delivered to Moses, and by him communicated to the people. This he did to show the preeminence of that law above the rest, and its everlasting obligation.",
+     "anchor": "He added no more"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.25",
+   "range": "DEU.5.25",
+   "kind": "passage",
+   "hash": "7af81c62",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.25#p1-7af81c62",
+     "text": "for though God hath for this season kept us alive to our admiration, yet we shall never be able to endure any further discourse from him in such a terrible manner, but shall certainly sink under the burden of it. Compare Gen 16:13 Jud 6:22.",
+     "anchor": "Why should we die?",
+     "refs": [
+      {
+       "text": "Gen 16:13",
+       "ref": "GEN.16.13"
+      },
+      {
+       "text": "Jud 6:22",
+       "ref": "JUD.6.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.26",
+   "range": "DEU.5.26",
+   "kind": "passage",
+   "hash": "02550c50",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.26#p1-02550c50",
+     "text": "is here put for man in his frail, corruptible, and mortal state, as Mat 16:17 1Co 15:50 Eph 6:12 Heb 2:14.",
+     "anchor": "Flesh",
+     "refs": [
+      {
+       "text": "Mat 16:17",
+       "ref": "MAT.16.17"
+      },
+      {
+       "text": "1Co 15:50",
+       "ref": "1CO.15.50"
+      },
+      {
+       "text": "Eph 6:12",
+       "ref": "EPH.6.12"
+      },
+      {
+       "text": "Heb 2:14",
+       "ref": "HEB.2.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.29",
+   "range": "DEU.5.29",
+   "kind": "passage",
+   "hash": "053d772f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.29#p1-053d772f",
+     "text": "Heb. Who will give them such an heart? This is spoken of God after the manner of men, to show that such a heart is desirable to him, and required by him; otherwise it is certain that God can give such a heart, and hath promised to give it, Jer 32:40 Eze 36:27. And if God will work, who can hinder him? Job 11:10.",
+     "refs": [
+      {
+       "text": "Jer 32:40",
+       "ref": "JER.32.40"
+      },
+      {
+       "text": "Eze 36:27",
+       "ref": "EZK.36.27"
+      },
+      {
+       "text": "Job 11:10",
+       "ref": "JOB.11.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.5.32",
+   "range": "DEU.5.32",
+   "kind": "passage",
+   "hash": "68d0b60f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.5.32#p1-68d0b60f",
+     "text": "Neither by superstitious additions to God’s commands, nor by a bold or profane rejection or contempt of any one of them."
+    }
+   ]
+  }
+ ]
+}

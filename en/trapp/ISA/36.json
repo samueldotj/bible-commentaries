@@ -1,0 +1,33 @@
+{
+ "source": "trapp",
+ "book": "ISA",
+ "chapter": 36,
+ "units": [
+  {
+   "id": "trapp/ISA.36.1",
+   "range": "ISA.36.1",
+   "kind": "passage",
+   "hash": "6b52a156",
+   "paragraphs": [
+    {
+     "id": "trapp/ISA.36.1#p1-6b52a156",
+     "text": "See 2Ki 18:1-37 2Ki 19:1-37 with the notes; See also 2Ch 32:1-33.",
+     "refs": [
+      {
+       "text": "2Ki 18:1-37",
+       "ref": "2KI.18.1-37"
+      },
+      {
+       "text": "2Ki 19:1-37",
+       "ref": "2KI.19.1-37"
+      },
+      {
+       "text": "2Ch 32:1-33",
+       "ref": "2CH.32.1-33"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1539 @@
+{
+ "source": "poole",
+ "book": "1CO",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "poole/1CO.15",
+   "range": "1CO.15",
+   "kind": "chapter",
+   "hash": "227cedac",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15#p1-a4b5a031",
+     "text": "1Co 15:1-19 From the truth of Christ’s resurrection Paul inferreth the necessity of our own.",
+     "refs": [
+      {
+       "text": "1Co 15:1-19",
+       "ref": "1CO.15.1-19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p2-1eba9ffa",
+     "text": "1Co 15:20-23 Christ the first-fruits, being raised, shall be followed in due order by those that are his,",
+     "refs": [
+      {
+       "text": "1Co 15:20-23",
+       "ref": "1CO.15.20-23"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p3-f762bd81",
+     "text": "1Co 15:24-28 till having subdued all enemies he shall give up the kingdom to God the Father.",
+     "refs": [
+      {
+       "text": "1Co 15:24-28",
+       "ref": "1CO.15.24-28"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p4-acfe6302",
+     "text": "1Co 15:29-34 If there be no resurrection of the dead, in vain is it for any one to risk his life, as the apostle did continually.",
+     "refs": [
+      {
+       "text": "1Co 15:29-34",
+       "ref": "1CO.15.29-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p5-a34b866e",
+     "text": "1Co 15:35-50 The manner of the resurrection.",
+     "refs": [
+      {
+       "text": "1Co 15:35-50",
+       "ref": "1CO.15.35-50"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p6-365225d5",
+     "text": "1Co 15:51-57 The change which shall be wrought at the last day in the bodies both of the dead and the living.",
+     "refs": [
+      {
+       "text": "1Co 15:51-57",
+       "ref": "1CO.15.51-57"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15#p7-8a79756b",
+     "text": "1Co 15:58 An exhortation to stedfast faith and perseverance in our duty.",
+     "refs": [
+      {
+       "text": "1Co 15:58",
+       "ref": "1CO.15.58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.1",
+   "range": "1CO.15.1",
+   "kind": "passage",
+   "hash": "9dbf0925",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.1#p1-bfa2cc52",
+     "text": "The apostle, towards the conclusion of his Epistle, comes to reprove the Corinthians for an error in the doctrine of the resurrection from the dead; an error, though last mentioned, yet of all the most momentous. The resurrection of the body in the last day is an article of faith, to the firm belief of which reason speaketh not sufficiently, and therefore it was denied by many philosophers and worldly wise men, Act 17:18. It should seem, that some in the church of Corinth had sucked in some of their notions; the apostle, therefore, in this chapter setteth himself to confirm that article of the Christian faith. To this purpose he begins, telling them, that that which he declared unto them was",
+     "refs": [
+      {
+       "text": "Act 17:18",
+       "ref": "ACT.17.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.1#p2-37ebd9ce",
+     "text": "that is, that doctrine of the gospel which he had before preached to them, and which they had heard, and believed, and embraced as the truth of God, and wherein the greatest part yet stood firm to their former profession, though some of them had been seduced and warped.",
+     "anchor": "the gospel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.2",
+   "range": "1CO.15.2",
+   "kind": "passage",
+   "hash": "d926eb71",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.2#p1-d926eb71",
+     "text": "by the believing, receiving, of which doctrine, you are already in the way to salvation (as it is said, Joh 3:18: He that believeth on him is not condemned; and Joh 3:36: He hath everlasting life, and shall be eternally saved): but not unless ye persevere (for that is meant by keeping in memory the doctrine which I have preached unto you); and this you must do, or your believing will signify nothing, but be in vain to your souls.",
+     "anchor": "By which also ye are saved",
+     "refs": [
+      {
+       "text": "Joh 3:18",
+       "ref": "JHN.3.18"
+      },
+      {
+       "text": "Joh 3:36",
+       "ref": "JHN.3.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.3",
+   "range": "1CO.15.3",
+   "kind": "passage",
+   "hash": "a463e708",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.3#p1-a463e708",
+     "text": "For I, in my preaching, delivered it to you as one of the principal articles of the Christian faith, which I received, either from Christ by revelation, ( as he saith, Gal 1:12), or from Ananias. Act 9:17, how that Christ died for our sins, Rom 4:25, that is, that he might satisfy the Divine justice for our sins, and make an atonement for us. And this is according to the Scriptures of the Old Testament, where it was foretold, Isa 53:5, He was wounded for our transgressions, and bruised for our iniquities; and Dan 9:26, that the Messiah should be cut off, but not for himself.",
+     "refs": [
+      {
+       "text": "Gal 1:12",
+       "ref": "GAL.1.12"
+      },
+      {
+       "text": "Act 9:17",
+       "ref": "ACT.9.17"
+      },
+      {
+       "text": "Rom 4:25",
+       "ref": "ROM.4.25"
+      },
+      {
+       "text": "Isa 53:5",
+       "ref": "ISA.53.5"
+      },
+      {
+       "text": "Dan 9:26",
+       "ref": "DAN.9.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.4",
+   "range": "1CO.15.4",
+   "kind": "passage",
+   "hash": "ae9ee47a",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.4#p1-ae9ee47a",
+     "text": "Not the death only, but the burial of Christ, and his resurrection again from the dead, were (though more darkly) revealed in the Scriptures of the Old Testament. Jonah and Isaac were both of them types of this; David prophesied, that God would not leave his soul in hell, nor suffer his Holy One to see corruption, Psa 16:10; which Peter applieth to Christ, Act 2:31: so Act 13:35. So that the doctrine of the New Testament in these things agreeth with the doctrine of the Old; with this only difference, that the Old Testament contained the New Testament in a mystery, and the New Testament was the Old Testament more fully and plainly revealed.",
+     "refs": [
+      {
+       "text": "Psa 16:10",
+       "ref": "PSA.16.10"
+      },
+      {
+       "text": "Act 2:31",
+       "ref": "ACT.2.31"
+      },
+      {
+       "text": "Act 13:35",
+       "ref": "ACT.13.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.5",
+   "range": "1CO.15.5",
+   "kind": "passage",
+   "hash": "9640ea2c",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.5#p1-5e1f00d4",
+     "text": "We read not in the history of the gospel of Christ’s appearing unto Peter, unless he were one of those to whom Christ appeared, as they were going to Emmaus; for which there is this probability, because when they came to Jerusalem, they told the rest, that the Lord was risen, and had appeared unto Simon, Luk 24:34 (if Simon Peter be there meant).",
+     "refs": [
+      {
+       "text": "Luk 24:34",
+       "ref": "LUK.24.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.5#p2-e46ae6da",
+     "text": "His appearance to the whole number of the disciples we have recorded, Joh 20:19: they are called twelve, ( though Judas was now dead, and Thomas at that time was not there), because twelve was the number that God had appointed the college of apostles to consist of; so, Gen 42:13, the children of Jacob said they were twelve brethren, though they thought at that time that Joseph (who made the twelfth) was dead. This is much more probably the sense, than the fancy of some, that Barnabas, who was afterward chosen to supply the room of Judas, being at that time a disciple, might at that time be with them; for admit he were, yet Thomas, we are sure, was at that time absent.",
+     "refs": [
+      {
+       "text": "Joh 20:19",
+       "ref": "JHN.20.19"
+      },
+      {
+       "text": "Gen 42:13",
+       "ref": "GEN.42.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.6",
+   "range": "1CO.15.6",
+   "kind": "passage",
+   "hash": "32c1d023",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.6#p1-32c1d023",
+     "text": "Of this appearance to above five hundred brethren at once the Gospels say nothing; but it is probably thought to be understood of that great meeting of the disciples in Galilee, where our Saviour promised to meet them, Mat 26:32 28:7, after his resurrection. Wherever it was, the apostle saith, that the greater part of them were yet in a capacity to give a living testimony to the resurrection of Christ, though some of them were dead.",
+     "refs": [
+      {
+       "text": "Mat 26:32",
+       "ref": "MAT.26.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.7",
+   "range": "1CO.15.7",
+   "kind": "passage",
+   "hash": "a6a7b57a",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.7#p1-a6a7b57a",
+     "text": "The Scripture tells us nothing, in the history of the gospel, of Christ’s appearing to James; but we read of two appearances to the apostles besides these, which the apostle had before mentioned."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.8",
+   "range": "1CO.15.8",
+   "kind": "passage",
+   "hash": "25af887f",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.8#p1-8bac8c4a",
+     "text": "the apostles, or, it may be, last of all persons; for after Stephen we read of none but St. Paul who saw Christ. Stephen, as they were stoning him, cried out: Behold, I see the heavens opened, and the Son of man standing on the right hand of God, Act 7:56. We read of Paul’s hearing a voice from him, Act 9:4, and no doubt but he had a bodily sight of him, for he here reckoneth himself amongst those that were eye witnesses. Nor is it any objection against it, that he was struck blind, for that was after his sight of Christ, not before. He calls himself an abortive, or",
+     "anchor": "Last of all",
+     "refs": [
+      {
+       "text": "Act 7:56",
+       "ref": "ACT.7.56"
+      },
+      {
+       "text": "Act 9:4",
+       "ref": "ACT.9.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.8#p2-dedf9c01",
+     "text": "either because he was added to the number of the twelve; or in respect to his new birth, he being converted (as he tells us afterward) after that he had been a persecutor of the church of Christ, after the descending of the Holy Ghost; or, it may be, because his conversion was sudden, like the abortive birth of a woman.",
+     "anchor": "one born out of due time"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.9",
+   "range": "1CO.15.9",
+   "kind": "passage",
+   "hash": "6046e15b",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.9#p1-6046e15b",
+     "text": "not in dignity, or gifts, or labours; (he tells us, that he had laboured more than all, he had made the gospel to abound from Jerusalem to Illyricum; he hath in this Epistle let us know, that he spake with tongues more than they all); but deserving the least esteem, as he afterward expoundeth himself, telling us, that he was not worthy of the name of an apostle. He gives the reason, because he had before been a persecutor of the church of God, the history of which we have, Act 9:1-3.",
+     "anchor": "The least",
+     "refs": [
+      {
+       "text": "Act 9:1-3",
+       "ref": "ACT.9.1-3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.10",
+   "range": "1CO.15.10",
+   "kind": "passage",
+   "hash": "58b0ff39",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.10#p1-23a85522",
+     "text": "by the free love and goodness of God, I, that was before a blasphemer, and a persecutor, and injurious, have obtained mercy; and though it was impossible for me any more to requite and answer, than at first to merit, that love, yet his grace in me hath produced some fruit, and hath not been wholly in vain; for in the discharge of my ministry, as an apostle, I have abundantly laboured, though not more than all the rest of the apostles taken together, yet more than any one of them all, who were my fellow apostles: what these labours were, he told us, Rom 15:19; and more fully, 2Co 6:4-10. But lest he should be thought to arrogate any thing to himself, and the power or good use of his own will, he addeth,",
+     "anchor": "By the grace of God I am what I am",
+     "refs": [
+      {
+       "text": "Rom 15:19",
+       "ref": "ROM.15.19"
+      },
+      {
+       "text": "2Co 6:4-10",
+       "ref": "2CO.6.4-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.10#p2-2063d596",
+     "text": "yet not I, but the grace of God which was with me."
+    },
+    {
+     "id": "poole/1CO.15.10#p3-ccc7d91f",
+     "text": "seemeth, in the latter part of the verse, to be taken in something a different sense from what it was in the former part: here it signifies the free love and favour of God; though it may also there be understood of those gracious habits, which were the effects of that free love and mercy; here it plainly signifies those gracious habits which were infused into Paul, together with the gracious influences of the Holy Spirit, by which he was enabled to reduce those habits into acts. Paul had something in the acts he had done considered as a man, but yet so little, as in these spiritual acts he denieth his own efficiency, and attributeth all to Divine grace, either exciting him to his actions, or preventing, or working in and with him, and assisting him, and giving him all that success he had had.",
+     "anchor": "Grace"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.11",
+   "range": "1CO.15.11",
+   "kind": "passage",
+   "hash": "a50cd4a3",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.11#p1-5239e672",
+     "text": "whether I or any other of the apostles preached amongst you.",
+     "anchor": "Whether it were I or they"
+    },
+    {
+     "id": "poole/1CO.15.11#p2-6186e641",
+     "text": "this was one great point that we preached amongst you, that Christ was risen again from the dead. This we held forth to you as the object of your faith, this you received and closed with as the object of your faith; we did not only preach to you, that Christ died for our sins, but that he rose again for our justification. Neither was your faith objected only in Christ as one that was crucified and had died, but as one that was risen from the dead. Thus Peter preached, Act 2:31 3:15 4:10 5:30; and Stephen, Act 7:56; and Peter, Act 10:40; and Paul, Act 13:37 17:3,31; and so all the apostles.",
+     "anchor": "So we preach, and so ye believed",
+     "refs": [
+      {
+       "text": "Act 2:31",
+       "ref": "ACT.2.31"
+      },
+      {
+       "text": "Act 7:56",
+       "ref": "ACT.7.56"
+      },
+      {
+       "text": "Act 10:40",
+       "ref": "ACT.10.40"
+      },
+      {
+       "text": "Act 13:37",
+       "ref": "ACT.13.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.12",
+   "range": "1CO.15.12",
+   "kind": "passage",
+   "hash": "8fc0f5f3",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.12#p1-f6ba446f",
+     "text": "The apostle having laid a good foundation, proving the resurrection of Christ by a plentiful testimony of those who saw him after that he was risen from the dead; and minded them, that this was the doctrine of the gospel, which both they and all the rest of the apostles had with one consent preached to them; he comes to build upon it, and from this, as a main argument, to prove, that there must needs be a resurrection from the dead; and beginneth with a reflection upon some in that church who denied it. Who those were we are not told: some think they were Hymeneus and Philetus, mentioned 2Ti 2:17,18, who held that the resurrection was past; others think he reflects on Cerinthus, who was one of the leaders of those heretics we read of, who after Simon Magus denied the resurrection others think they were some of the Sadducees, of whom we read in the Acts, that they denied the resurrection, or some of the Pharisees, who denied the resurrection of Christians, looking on them as apostates; others think they were some who had been tinctured, at least, with the doctrine of the pagan philosophers.",
+     "refs": [
+      {
+       "text": "2Ti 2:17",
+       "ref": "2TI.2.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.12#p2-aecd6c84",
+     "text": "We cannot certainly determine who, but certain it is some there were; and the apostle argues them in this thing to assert absurdly, upon this supposition, that Christ was risen."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.13",
+   "range": "1CO.15.13",
+   "kind": "passage",
+   "hash": "edd56d1f",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.13#p1-5fb58699",
+     "text": "(saith the apostle) there be no resurrection of the dead, then is Christ not risen. But some will possibly say: How doth this follow? Suppose it true, that Christ be risen, how doth it follow, that the dead shall rise? The force of it lieth in several things:",
+     "anchor": "If"
+    },
+    {
+     "id": "poole/1CO.15.13#p2-837bdb18",
+     "text": "1. Christ, as he saith, 1Co 15:20, is the first-fruits of them that slept, the exemplary cause of our resurrection.",
+     "refs": [
+      {
+       "text": "1Co 15:20",
+       "ref": "1CO.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.13#p3-1b0f1417",
+     "text": "2. If we consider Christ as the Head, it is unreasonable, that the Head should be risen from the dead, and the members yet held of death, when it is the office of the Head to communicate sense, life, and motion to the members."
+    },
+    {
+     "id": "poole/1CO.15.13#p4-361acda6",
+     "text": "Again, the argument is strong from the consideration of the end of Christ’s resurrection, which was to show his victory over death, that the dead might hear his voice and live, and that he might be the Judge of the quick and the dead (which he could not have been, if the dead did not rise). Now though it be true, that Christ’s headship to his church, and the apostle’s argument from thence, will not prove the resurrection of the wicked, yet, (besides that the resurrection of believers is the main thing the apostle here proveth, having elsewhere abundantly proved the general resurrection), the consideration here of Christ’s being raised, that he might be the Judge both of the quick and of the dead, will prove the resurrection of the wicked, as well as of believers."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.14",
+   "range": "1CO.15.14",
+   "kind": "passage",
+   "hash": "81f6f98d",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.14#p1-81f6f98d",
+     "text": "Now, (saith the apostle), if Christ be not raised, in what a case are you! And we also, who have preached his resurrection to you! Our preaching is vain and false, and your faith is so also, for the object of it faileth, which is a Christ risen from the dead."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.15",
+   "range": "1CO.15.15",
+   "kind": "passage",
+   "hash": "1bf9eb78",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.15#p1-e45b73e6",
+     "text": "Ver. 15,16. There is nothing in these two verses but what the apostle had before said, viz. That if Christ were not risen, the apostles’ preaching and the Corinthians’ believing were both of them vain and false. Only what the apostle, in the former verse, called preaching, he here calleth witnessing:"
+    },
+    {
+     "id": "poole/1CO.15.15#p2-54cfa0ec",
+     "text": "(saith he) false witnesses of God. To be false witnesses for men, or in the name of men, is against the ninth commandment, and a sin of no ordinary magnitude; but to be a false witness of God, is a much higher sin. This title of witnesses was at first given to the apostles by Christ, Act 1:8; afterwards often (especially in the Acts) applied to them, Act 1:22 2:32 4:33 5:32 10:39,41: particularly Paul applieth it to himself, Act 22:15 26:16. It is true, the apostles, who either saw Christ while he was on earth after his resurrection, or in heaven, as Paul did, Act 9:1-43, were in the strictest sense eye witnesses; but yet in a larger sense this notion agreeth to all ministers, who testify, upon the hearing of the ears, and upon reading the Scriptures, the same thing which the apostles testified, though not upon the same evidence. Now to aifirm a thing, as from God, for truth, which is in itself false, is a very high transgression; which (saith the apostle) we must be guilty of, if Christ be not raised; and",
+     "anchor": "We are",
+     "refs": [
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      },
+      {
+       "text": "Act 1:22",
+       "ref": "ACT.1.22"
+      },
+      {
+       "text": "Act 22:15",
+       "ref": "ACT.22.15"
+      },
+      {
+       "text": "Act 9:1-43",
+       "ref": "ACT.9.1-43"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.15#p3-b6fed500",
+     "text": "if the dead rise not, then is not Christ raised."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.16",
+   "range": "1CO.15.16",
+   "kind": "passage",
+   "hash": "d0596a45",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.16#p1-d0596a45",
+     "text": "1Co 15:51\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "1Co 15:51",
+       "ref": "1CO.15.51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.17",
+   "range": "1CO.15.17",
+   "kind": "passage",
+   "hash": "3f48694c",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.17#p1-3f48694c",
+     "text": "That is, ye are yet in your estate of nature, under the guilt and condemning power of your sins, which are not yet pardoned to you; for no sins are remitted, but upon believing in the Lord Jesus Christ, which none can do, if Christ be not risen from the dead; for by that he was declared to be the Son of God with power, Rom 1:4: his death declared him to be truly man, it was his resurrection that manifested him to be truly God, God over all blessed for ever, and so the proper object of people’s faith.",
+     "refs": [
+      {
+       "text": "Rom 1:4",
+       "ref": "ROM.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.18",
+   "range": "1CO.15.18",
+   "kind": "passage",
+   "hash": "d82ac77c",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.18#p1-d82ac77c",
+     "text": "Some think that the term in Christ in this text, is of the same significancy with for the sake of Christ, which would restrain it to martyrs; but I know no reason for that, because what is said is true of all; for it is plain, from what was said before, that if Christ be not risen from the dead, all that die must die in their sins, there being no object for their faith to work or lay hold upon; the door of salvation remaineth as fast shut as ever, so as those whom they looked upon as being asleep in Christ, must necessarily perish, if Christ be not risen; there is no forerunner entered into the heavens for us."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.19",
+   "range": "1CO.15.19",
+   "kind": "passage",
+   "hash": "f8a88716",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.19#p1-0881ec69",
+     "text": "The apostle here argueth the resurrection of believers from a new head. It is not reasonable for any to imagine, that those who believe in Jesus Christ should of all others be the most miserable; but this they must be, if there be no resurrection from the dead. He enlargeth upon this head or argument further, 1Co 15:30,31. The reason of it is, because it must then follow, that they could have no hope in Christ beyond this life; and the condition of the apostles, and the generality of Christians, at least in those first and furious times, was a most afflicted state and condition. The apostle was in jeopardy every hour, 1Co 15:30, he died daily, 1Co 15:31. If any say: How doth this follow? For their souls might be in glory, though their bodies, once dead, were not raised? It is answered:",
+     "refs": [
+      {
+       "text": "1Co 15:30",
+       "ref": "1CO.15.30"
+      },
+      {
+       "text": "1Co 15:30",
+       "ref": "1CO.15.30"
+      },
+      {
+       "text": "1Co 15:31",
+       "ref": "1CO.15.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.19#p2-d5fa30d9",
+     "text": "1. That it still must hold as to their bodily, fleshy part."
+    },
+    {
+     "id": "poole/1CO.15.19#p3-06454773",
+     "text": "2. That those who denied the resurrection of the body, denied also the immortality of the soul."
+    },
+    {
+     "id": "poole/1CO.15.19#p4-9b2ef805",
+     "text": "3. That Paul speaketh upon the supposition of the Divine ordination; God having so ordered it, that the death of Christ, without his resurrection, should be of no avail to us to save either soul or body; and that our souls and bodies should not be separately, but jointly, glorified upon their re-union in the end of the world: 1Pe 1:3, we are said to be begotten to a lively hope by the resurrection of Jesus Christ from the dead.",
+     "refs": [
+      {
+       "text": "1Pe 1:3",
+       "ref": "1PE.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.20",
+   "range": "1CO.15.20",
+   "kind": "passage",
+   "hash": "016addce",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.20#p1-829efd78",
+     "text": "The apostle returneth to his former argument, to discourse concerning the resurrection of Christ, who is by him called the"
+    },
+    {
+     "id": "poole/1CO.15.20#p2-3be2a6ad",
+     "text": "not of all that shall rise, (as some think), for it will be hard to prove, that any benefit of Christ’s death or resurrection, after this life, belongs to wicked men: nor is it usual for the penmen of holy writ to express the death of unbelievers under the gentle notion of a sleep; and, Col 1:18, Christ is called the first-born from the dead, as he is the Head of the church. It is rather spoken with reference to believers; the resurrection of wicked men, flowing rather from God’s providence, in order to the manifestation of his justice in the last judgment, than from the mediation of Christ. But here a question ariseth: How Christ is said to be the first-fruits of those that sleep, whenas we read of divers in Scripture that were raised from the dead before Christ was so raised?",
+     "anchor": "first-fruits of them that slept",
+     "refs": [
+      {
+       "text": "Col 1:18",
+       "ref": "COL.1.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.20#p3-b76e9dee",
+     "text": "Answer."
+    },
+    {
+     "id": "poole/1CO.15.20#p4-01816900",
+     "text": "1. Christ was the first that rose again by his own power and virtue."
+    },
+    {
+     "id": "poole/1CO.15.20#p5-0f02f8bd",
+     "text": "2. He was the first who rose again, and died no more."
+    },
+    {
+     "id": "poole/1CO.15.20#p6-290592cf",
+     "text": "3. He was the first in respect of dignity."
+    },
+    {
+     "id": "poole/1CO.15.20#p7-9a959522",
+     "text": "4. He was the first-fruits of them that sleep, by his resurrection making a way for the resurrection of others, even of all such as were members of him; as the offering of the first-fruits, under the law, sanctified the whole crop."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.21",
+   "range": "1CO.15.21",
+   "kind": "passage",
+   "hash": "f86512fd",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.21#p1-f86512fd",
+     "text": "Since by one man, viz. Adam, (who is also styled the son of God. Luk 3:38, because he had neither father nor mother), came man’s subjection to mortality, sicknesses, and death here, and eternal death and misery in another world; it pleased God that by one, who though he was the eternal, only begotten Son of God, yet was also made man, and was flesh of our flesh, the resurrection of those that are believers, and asleep in Christ, should come, Heb 2:14.",
+     "refs": [
+      {
+       "text": "Luk 3:38",
+       "ref": "LUK.3.38"
+      },
+      {
+       "text": "Heb 2:14",
+       "ref": "HEB.2.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.22",
+   "range": "1CO.15.22",
+   "kind": "passage",
+   "hash": "87a61f17",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.22#p1-87a61f17",
+     "text": "As in the first Adam all men, that were in him, became subject both to temporal death, and all the afflictions and miseries of this life, which are so many little deaths, Rom 8:36, and forerunners of natural death, or attendants upon it; and also to that eternal death, which is the consequent of the guilt of sin, Rom 6:23: so in Christ, that is, through the merits of his death, and through his resurrection, all that are in him, being chosen in him, given to him, and by faith implanted into him, are not only spiritually made alive, (being passed from death unto life, 1Jn 3:14), but shall be raised from the dead unto eternal life. But though this text doth not prove the general resurrection, (being only intended of believers, that are members of Christ), yet it doth not oppose it. But that the all here mentioned is no more than all believers, appeareth not only from the term in Christ in this verse, but from the whole following discourse; which is only concerning the resurrection of believers to life, not that of the wicked to eternal condemnation.",
+     "refs": [
+      {
+       "text": "Rom 8:36",
+       "ref": "ROM.8.36"
+      },
+      {
+       "text": "Rom 6:23",
+       "ref": "ROM.6.23"
+      },
+      {
+       "text": "1Jn 3:14",
+       "ref": "1JN.3.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.23",
+   "range": "1CO.15.23",
+   "kind": "passage",
+   "hash": "66515a7a",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.23#p1-3ddf2824",
+     "text": "either with respect to time, or dignity, lest any should say: If Christ’s resurrection be the cause of the resurrection of believers, then why did not all the saints, that were in the graves, rise with Christ? The apostle saith: God had appointed an order, and this order was, that they that were dead, or should be dead, before Christ’s second coming, should not prevent one another, 1Th 4:15, &c. Besides, the order which God had set was, That Christ should be",
+     "anchor": "In his own order",
+     "refs": [
+      {
+       "text": "1Th 4:15",
+       "ref": "1TH.4.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.23#p2-bd4ee927",
+     "text": "of this harvest, rising first from the dead, so as to die no more.",
+     "anchor": "the first-fruits"
+    },
+    {
+     "id": "poole/1CO.15.23#p3-4e90a6b5",
+     "text": "then believers, that are members of Christ, by faith implanted into him, should also rise, but not before his second coming.",
+     "anchor": "Afterward they that are Christ’s at his coming"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.24",
+   "range": "1CO.15.24",
+   "kind": "passage",
+   "hash": "2d300769",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.24#p1-c86a7088",
+     "text": "the end of all the miseries and afflictions which believers meet with in this life, or the end of all our preaching and ministry, the end of the world, or the end of man; or rather, (as the next words seem to interpret it), the end of that mediatory kingdom of Christ, which he now administereth instead of his Father, and shall manage to the end of the world.",
+     "anchor": "Then cometh the end"
+    },
+    {
+     "id": "poole/1CO.15.24#p2-b114a739",
+     "text": "Christ shall then deliver up those keys of life, and hell, and death to his Father, yet shall not Christ’s kingdom cease (for the prophet saith, Isa 9:7, that of it there shall be no end): Christ’s essential kingdom, which is his dominion, which he hath and exerciseth over all created beings, together with his Father, and the Holy Spirit, (all being but one Divine essence), that shall hold and abide for ever; but his mediatory kingdom, by which he ruleth over his church in the midst of his enemies, that shall cease, and be delivered up unto the Father.",
+     "anchor": "When he shall have delivered up the kingdom to God, even the Father",
+     "refs": [
+      {
+       "text": "Isa 9:7",
+       "ref": "ISA.9.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.24#p3-fa2451de",
+     "text": "So that Christ’s delivering up the kingdom to his Father, proveth no inferiority of Christ to his Father, more than his Father’s committing that mediatory kingdom to him can prove his Father’s not reigning, or inferiority to him, which it certainly doth not. It signifieth only the ceasing of that dispensation, or Christ’s exercise of his mediatory kingdom on earth, in the rule and government of the church, and subduing his and his people’s enemies."
+    },
+    {
+     "id": "poole/1CO.15.24#p4-1ae629ba",
+     "text": "then shall all rule and authority of kings and princes of the earth cease, and all the ministration of good angels, and power of evil angels; so shall all ministrations and governments in the church militant here on earth, and all those that are the enemies of the church shall be subdued and brought under.",
+     "anchor": "When he shall have put down all rule and all authority and power"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.25",
+   "range": "1CO.15.25",
+   "kind": "passage",
+   "hash": "c6224848",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.25#p1-b604f6fb",
+     "text": "God hath so decreed, (and what he hath said must come to pass), that Christ should, as Mediator, exercise a Kingdom and government in the world, until he haith subdued all the enemies of his gospel and people; all those who have said, he shall not rule over them; the whole world that lieth in wickedness, the devil, and all his instruments: this he proveth from the words of the psalmist, Psa 110:1.",
+     "refs": [
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.25#p2-e44ddfdf",
+     "text": "The term until doth not signify the determination of Christ’s kingdom then, though his mediatory kingdom on earth will then be determined. He shall still reign, but not as now, in the midst of his enemies, and in the exercise of his kingdom in the conquest and subduing of them."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.26",
+   "range": "1CO.15.26",
+   "kind": "passage",
+   "hash": "bc1f156e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.26#p1-bc1f156e",
+     "text": "If death be an enemy, (as we usually judge), that also must be destroyed; and there is no other way to destroy death, but by the causing of a resurrection from the dead. So that the apostle proveth the resurrection from the necessity of Christ’s reigning until all his enemies be destroyed, of which death is one; for it keeps the bodies of the members of Christ from their union with their souls, and with Christ, who is the Head of the whole believer, the body as well as the soul."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.27",
+   "range": "1CO.15.27",
+   "kind": "passage",
+   "hash": "58dcf5a8",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.27#p1-58dcf5a8",
+     "text": "The apostle referreth to Psa 8:6, where the psalmist adoreth God for the privileges given man in his creation; amongst which this is one, that God had put all things under his feet: the psalmist afterward expounds that universal particle, Psa 8:7,8, by all sheep and oxen, yea, and the beasts of the field, the fowls of the air, and the fish of the sea. But that that psalm, or some passages at least in it, are to be understood of Christ, appeareth from Heb 2:6-8, where the penman applieth it to him, as doth the apostle here; under whose feet all things are put in a much larger sense, and therefore the apostle expounds the affirmative, Heb 2:8, by a negative, he left nothing that is not put under him. But lest men of perverse minds should conclude, that then the Father also is put under Christ, the apostle addeth, that when he saith, he hath put all things under his feet, the Father himself, who is the person that put all things under him, is not to be included.",
+     "refs": [
+      {
+       "text": "Psa 8:6",
+       "ref": "PSA.8.6"
+      },
+      {
+       "text": "Psa 8:7",
+       "ref": "PSA.8.7"
+      },
+      {
+       "text": "Heb 2:6-8",
+       "ref": "HEB.2.6-8"
+      },
+      {
+       "text": "Heb 2:8",
+       "ref": "HEB.2.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.28",
+   "range": "1CO.15.28",
+   "kind": "passage",
+   "hash": "c6c99dc7",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.28#p1-f63c496b",
+     "text": "The Son’s subjection to his Father, which is mentioned in this place, doth no where prove his inequality of essence or power with his Father; it only signifieth what was spoken before, that Christ should deliver up his mediatory kingdom to his Father; so manifesting, that whatsoever he had done in the office of Mediator, was done in the name of his Father, and by his power and authority; and that as he was man, he was subject to his Father. Suppose (saith Pareus) a king should have one only son, whom he should take into a partnership with him in his majesty and kingdom; but yet so, that the king should still have the pre-eminence of a father, the son only the dignity of a son in such power and authority: after which this king, having some subjects risen up in rebellion against him, should send his son with armies and his authority against them; he should despatch the work, and at his return yield up his commission to his father, yet still retaining the same nature he had, and authority with which his Father had before clothed him, was a partner in the kingdom and government with him."
+    },
+    {
+     "id": "poole/1CO.15.28#p2-43e9db4a",
+     "text": "(saith the apostle) may be all in all; instead of all things which the heart of man can wish; or that God may exercise a full and perfect empire and government over all things; that the incomprehensible glory of God may fill all the elect. But is not God in this world all in all?",
+     "anchor": "That God"
+    },
+    {
+     "id": "poole/1CO.15.28#p3-80e2f8dc",
+     "text": "He is; but he doth not so appear ruling in the midst of his enemies here.",
+     "anchor": "Answer"
+    },
+    {
+     "id": "poole/1CO.15.28#p4-9f374bb2",
+     "text": "2. The government will be altered; God here is sole King of the world, but he partly ruleth it by Christ, as Mediator, whose mediatory kingdom shall then cease, and nothing shall appear but the essential kingdom of God; the power by which the Father, the Son, and the Holy Ghost (three persons, though but one God) shall govern and rule all things, when all this sublunary world shall cease."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.29",
+   "range": "1CO.15.29",
+   "kind": "passage",
+   "hash": "828571bd",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.29#p1-29b3ffd6",
+     "text": "A very difficult text, and variously expounded. The terms baptize, and baptism, signify no more in their original and native signification, than to wash, and a washing: the washing of pots and cups, in use amongst the Jews, is, in the Greek, the baptisms of pots and cups. But the most usual acceptation of baptism in Scripture, is to signify one of the sacraments of the New Testament; that sacred action, by which one is washed according to the institution of Christ, in the name of the Father, the Son, and the Holy Ghost. It is also metaphorically used by our Saviour in the Gospels, Mat 20:22,23 Mr 10:38,39 Lu 12:50, to signify a suffering for the name of Christ.",
+     "refs": [
+      {
+       "text": "Mat 20:22",
+       "ref": "MAT.20.22"
+      },
+      {
+       "text": "Mat 20:22",
+       "ref": "MAT.20.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.29#p2-d3c0be29",
+     "text": "And it is also used thus metaphorically, to signify the action of the Holy Ghost in cleansing and renewing our hearts, Mat 3:11,12Jn 3:5. The last usage of the term is by no means applicable here. The question is: Whether the apostle meaneth here only: Why are men washed for the dead? Or why are men baptized religiously for the dead? Or why are men baptized with blood for the dead? For the popish notion, that baptism here signifies any religious actions, as fastings, and prayers, and penances for those that are in purgatory, there is no such usage of the term in Scripture; for though in Scripture it signifies sometimes sufferings from the hands of others, as in Mat 20:22,23 Mr 10:38,39, yet it no where signifies penances, or such sufferings as men impose upon themselves for the dead. Nor doth Paul here say: To what purpose do men baptize themselves? But",
+     "refs": [
+      {
+       "text": "Mat 20:22",
+       "ref": "MAT.20.22"
+      },
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "2Jn 3:5",
+       "ref": "2JN.3.5"
+      },
+      {
+       "text": "Mat 20:22",
+       "ref": "MAT.20.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.29#p3-1bf3817c",
+     "text": "why are they baptized for the dead?"
+    },
+    {
+     "id": "poole/1CO.15.29#p4-66d54fb8",
+     "text": "1. Those that think the term here signifies washing, what shall they do who are washed for the dead? Tell us, that it being a custom in many countries, for neatness and cleanliness, to wash dead bodies, the primitive Christians used that ceremony as a religious rite, and a testification of their belief of the resurrection. That such a custom was in use amongst Christians, is plain from Act 9:37: but that they used it as religious rite, or a testimony of their taith in the resurrection, appeareth not. And though it be υπερ των νεκρων, yet they say υπερ is so used, Rom 15:8, for the truth of God, expounded by the next word, to confirm the promises.",
+     "refs": [
+      {
+       "text": "Act 9:37",
+       "ref": "ACT.9.37"
+      },
+      {
+       "text": "Rom 15:8",
+       "ref": "ROM.15.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.29#p5-627c606b",
+     "text": "2. Those that think, that by baptizing, in this text, the sacrament of baptism is to be understood, give us more than one account."
+    },
+    {
+     "id": "poole/1CO.15.29#p6-a33e1668",
+     "text": "Some say, that whereas they were wont in the primitive church, before they admitted persons into a full communion with the church, to keep them for some time under catechism, in which time they were called catechumeni; if such fell sick, and in danger of death, they baptized them; or if they died suddenly, they baptized some other for them, in testimony of their hope of the joyful resurrection of such a person to eternal life. Now admit this were an error of practice in them, as to this ordinance; yet if any such thing were in practice in this church, the argument of the apostle was good against them. But how shall any such thing be made appear to us, that there was such an early corruption in this church?"
+    },
+    {
+     "id": "poole/1CO.15.29#p7-0f2e2f35",
+     "text": "Others say, that some, believing the resurrection, would upon their death beds be baptized, in testimony of it, from whence they had the name of clinici. Others say: To be baptized for the dead, signifieth to be baptized when they were dying, and so as good as dead. Mr. Calvin chooseth this sense: but the question is: Whether the Greek phrase υπερ των νεκρων will bear it? Others tell us of a custom in use in the primitive church, to baptize persons over the graves of the martyrs, as a testimony of their belief of the resurrection."
+    },
+    {
+     "id": "poole/1CO.15.29#p8-c8475604",
+     "text": "That there was anciently such a custom, I doubt not; and I believe that the custom with us in reading of prayers over dead bodies at the grave, doth much more probably derive from this ancient usage, than the papists’ praying for the dead; but that there was any such custom so ancient as the apostles’ times, I very much doubt. There are yet two other senses given of this difficult phrase, either of which seemeth to me much more probable than any of these. To the first we are led by the next verse:"
+    },
+    {
+     "id": "poole/1CO.15.29#p9-f74e86a3",
+     "text": "Which inclineth many good interpreters to think, that the baptism here mentioned, is that baptism with blood mentioned by our Saviour, Mat 20:22,23; and so the sense is no more than, if there be no resurrection of the dead, why do we die daily? Why are we killed all the day long? For we do that in hope of a blessed resurrection. The only objections against this are:",
+     "anchor": "And why stand we in jeopardy every hour?",
+     "refs": [
+      {
+       "text": "Mat 20:22",
+       "ref": "MAT.20.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.29#p10-d6a76f77",
+     "text": "1. That none but Christ himself useth the word in this sense (which seemeth a light exception)."
+    },
+    {
+     "id": "poole/1CO.15.29#p11-3fd4b07b",
+     "text": "2. That υπερ των νεκρων is hardly capable of that sense; but yet our learned Dr. Lightfoot brings parallels of such a usage of the preposition out of the LXX. Others observe, that the apostle, in this whole chapter, is discoursing of the resurrection of believers unto life, and they are such dead alone, that he here speaketh of, for whom he saith any were baptized."
+    },
+    {
+     "id": "poole/1CO.15.29#p12-3bc08488",
+     "text": "Now, it is plain from Scripture, that baptism is a seal of the resurrection, signifying to believers, that they shall be made partakers of the death and resurrection of Christ (the resurrection being strongly proved from God’s covenant, of which baptism is a seal, Luk 20:37,38); and being so, it confirmed the covenant, not only to the persons baptized, but to the whole church, as well the triumphant as the militant part of it; as well with reference to those of it that were dead, as those that were living.",
+     "refs": [
+      {
+       "text": "Luk 20:37",
+       "ref": "LUK.20.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.29#p13-41b047ea",
+     "text": "So that so often as baptism was administered in the church, so often God repeated the covenant made to his whole church, that he was the God of believers and of their seed: so that all who to this day are baptized, are baptized for the dead, that is, for the confirmation of God’s covenant to his whole church, as well that part of it which is dead, as that part which is yet alive; and it testifieth, that those that sleep in Christ (although dead) yet live in the promise of the resurrection, because God is their God, and he is not the God of the dead, but of the living, as our Saviour speaketh in Luk 20:38. In this variety amongst learned men about the true sense of this place, I shall leave the reader to his own judgment, although to me the two last seem to be most probable.",
+     "refs": [
+      {
+       "text": "Luk 20:38",
+       "ref": "LUK.20.38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.30",
+   "range": "1CO.15.30",
+   "kind": "passage",
+   "hash": "1efa6ca1",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.30#p1-1efa6ca1",
+     "text": "We are the veriest fools in nature, if there be no resurrection of believers unto life; for it is in the firm belief and hopes of that, that we are in danger of our lives, and all that we have, every hour of our lives."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.31",
+   "range": "1CO.15.31",
+   "kind": "passage",
+   "hash": "c53fad70",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.31#p1-f8b343f1",
+     "text": "What is meant here by your rejoicing which I have, is something doubted; some understanding it of the apostle’s rejoicing in them as believers, whom he had been an instrument to convert, and bring home to Christ; others, of their rejoicing in him (which seems not probable, many of them so much despising and vilifying him): others understand it of their glorying against him, and triumphing over him, and that this was one of his sufferings which he instanceth in, which he underwent in hope of a resurrection. The words are not an oath, (for here God is not called to witness), they are only an attestation."
+    },
+    {
+     "id": "poole/1CO.15.31#p2-ab67b1ab",
+     "text": "As the prophets sometimes call heaven and earth to witness, so here he calls their rejoicing to witness; and this rejoicing seems to be the joy of those who amongst them truly rejoiced in Jesus Christ, for which also he rejoiced daily, they being the seal of his apostleship. That which he solemnly affirms, is, that he died daily; not only was ready to die daily, but in the same sense that he elsewhere saith, he was in deaths often, and that they were killed all the day long; suffering such afflictions as were near akin to death, and led on to death, as their end."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.32",
+   "range": "1CO.15.32",
+   "kind": "passage",
+   "hash": "a93214c9",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.32#p1-9acd024f",
+     "text": "Concerning this fight of the apostle with beasts at Ephesus, there are two opinions; some thinking that he indeed fought with beasts, and we know that in those countries such a punishment was in use, to bring out malefactors to fight with wild beasts; but as we read in the Acts of no such dealings with Paul, so that being a punishment rather for their slaves and vilest men, it can hardly be thought that Paul, who was a free man of Rome, should be exposed to it. They seem therefore better to understand it, who interpret it of his conflict with men, who in their conditions and manners were like beasts; and that he doth not speak here of his scuffle with Demetrius, mentioned Act 19:34-41, but some other conflict he had there, of which the Scripture giveth us no large account, but it seems to be generally and obscurely mentioned in the next Epistle, 2Co 1:8, for this Epistle was wrote after his contest with Demetrius. By that phrase, after the manner of men, some think he means, as men use to fight; some have other notions of it: the sense seems to be plainly this: If I have fought with beastly men at Ephesus after the manner that men fight with beasts, exposing my body to their rage and fury, what profit is it to me, if the dead rise not? I have opposed myself to their fury out of a hope for a joyful resurrection; but if there shall be no such resurrection, the epicures, that resolve to stick at nothing, nor to deny themselves in any sensual satisfaction from meat and drink, have the best of it; all men had then best sing their song:",
+     "refs": [
+      {
+       "text": "Act 19:34-41",
+       "ref": "ACT.19.34-41"
+      },
+      {
+       "text": "2Co 1:8",
+       "ref": "2CO.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.32#p2-6d676b6c",
+     "text": "for we have but a little time to eat and to drink in; we know that we shall die, and there will be an end of us.",
+     "anchor": "Let us eat and drink"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.33",
+   "range": "1CO.15.33",
+   "kind": "passage",
+   "hash": "70191ba4",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.33#p1-70191ba4",
+     "text": "Do not suffer yourselves to be abused with evil and corrupt discourses of those philosophers amongst whom you converse, who argue from innate principles of reason against articles of faith; though you may judge that they talk but for discourse sake, yet their communication or discourse is naught, and will influence men as to things of practice, and debauch men in their morals. It is a verse or saying taken out of, or at least found in, one of the pagan poets; but containing in it much truth."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.34",
+   "range": "1CO.15.34",
+   "kind": "passage",
+   "hash": "00049e13",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.34#p1-a8f21c5f",
+     "text": "sin is in Scripture compared to sleep, Rev 13:11 Eph 5:14, and that very properly; for as the natural senses are bound up in natural sleep, so the sinner’s spiritual senses are locked up, so that he doth not exercise them to discern between good and evil; and as he that is asleep is void of all care and fear, is secure, so the sinner is secure and void of fear. And repentance is set out under the notion of awaking; we are not only concerned to eschew evil, but to do good; not only to awake from sin, but to righteousness, that is, to a holy life and conversation, that is it which is here called righteousness, all spiritual rectitude being to be judged from the soul’s conformity to the Divine rule; hence sin is called a crooked way, because it will not agree with the rule of God’s word.",
+     "anchor": "Awake to righteousness, and sin not",
+     "refs": [
+      {
+       "text": "Rev 13:11",
+       "ref": "REV.13.11"
+      },
+      {
+       "text": "Eph 5:14",
+       "ref": "EPH.5.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.34#p2-161f2c96",
+     "text": "for some amongst you have not a due and saving knowledge of God, or a right apprehension of the things of God;",
+     "anchor": "For some have not the knowledge of God"
+    },
+    {
+     "id": "poole/1CO.15.34#p3-fee55fb2",
+     "text": "though it be a shame for them that have it not, considering the light and means of knowledge which you have had by my ministry, and the ministry of others who have been amongst you.",
+     "anchor": "I speak this to your shame"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.35",
+   "range": "1CO.15.35",
+   "kind": "passage",
+   "hash": "23438823",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.35#p1-23438823",
+     "text": "Some of your vain philosophers, who are resolved to give credit to nothing upon the account of a bare Divine revelation, unless they can give a further rational account of it in the circumstances, will be ready to object and say: How is it possible, that those very bodies which are putrefied, and turned into dust, and that dust, it may be, scattered to the four winds, should be raised up? And if the same bodies shall not again rise, what kind of bodies shall the believers have in the resurrection? Shall they be bodies that will need meat, and drink, and clothes, as our present bodies do? Or what other bodies shall they be?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.36",
+   "range": "1CO.15.36",
+   "kind": "passage",
+   "hash": "530262e8",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.36#p1-530262e8",
+     "text": "He saith not: Thou fool, in anger, (which is that using of this term which our Saviour saith, Mat 5:22 brings a man under the danger of hell fire), but in the way of a grave and authoritative reproof, calling them fools for their want of a due understanding of the things and ways of God. He lets them know, that they might as well ask, how the grain of wheat, which they ordinarily sowed in their field, did rise again; for that grain also rotteth under the clods of the earth, under which it is buried, before it again riseth.",
+     "refs": [
+      {
+       "text": "Mat 5:22",
+       "ref": "MAT.5.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.37",
+   "range": "1CO.15.37",
+   "kind": "passage",
+   "hash": "5eac40ca",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.37#p1-5eac40ca",
+     "text": "And when it again riseth, or shooteth up, it is not bare grain, without either stalk or ear, which was the body by them sown."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.38",
+   "range": "1CO.15.38",
+   "kind": "passage",
+   "hash": "aef9ffd5",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.38#p1-aef9ffd5",
+     "text": "But God giveth to every grain, or kind of seed, such a kind of body as it pleaseth him, and a several body, according to the nature of the grain; yet none will deny, but it is the seed sown which cometh up, though with a different body, in respect of some qualities."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.39",
+   "range": "1CO.15.39",
+   "kind": "passage",
+   "hash": "31261b66",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.39#p1-31261b66",
+     "text": "Flesh is a kind of body, but it is of various degrees of dignity and excellency, in respect of the qualities of it: the flesh of men is of a differing excellency from the flesh of beasts; and there is a difference in natural qualities between the corporeal substances of beasts, and of fishes, and birds; yet they are all bodies, they are all flesh; our distinction between flesh and fish, is but according to our idiom or propriety of speaking; we read of the flesh of fish, Lev 11:10,11.",
+     "refs": [
+      {
+       "text": "Lev 11:10",
+       "ref": "LEV.11.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.40",
+   "range": "1CO.15.40",
+   "kind": "passage",
+   "hash": "6c3de944",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.40#p1-969189ac",
+     "text": "such are the sun, the moon, and the stars.",
+     "anchor": "There are also celestial bodies"
+    },
+    {
+     "id": "poole/1CO.15.40#p2-cfbf31b6",
+     "text": "men, beasts, birds, fishes, the elements, stones, &c.",
+     "anchor": "And bodies terrestrial"
+    },
+    {
+     "id": "poole/1CO.15.40#p3-46175157",
+     "text": "now between these two species of bodies, in respect of qualities, there is a very great difference; the glory of the heavenly bodies is much greater than the glory of the earthy bodies that are compounded of the elements.",
+     "anchor": "But the glory of the celestial is one, and the glory of the terrestrial is another"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.41",
+   "range": "1CO.15.41",
+   "kind": "passage",
+   "hash": "20f057f7",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.41#p1-20f057f7",
+     "text": "Amongst the celestial bodies there is a great deal of difference with respect to the qualities; one of them is in glory much differing from another, the glory of the moon is not like the glory of the sun, and the glory of a star is much beneath the glory both of the sun and of the moon; yea, one star is more glorious than another: yet they are all bodies, though of different species and qualities."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.42",
+   "range": "1CO.15.42",
+   "kind": "passage",
+   "hash": "6699f7be",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.42#p1-76f60b20",
+     "text": "that is, so shall it be, as to the bodies of the saints, in the resurrection. The same bodies of the saints shall rise, though with qualities, and in a condition, much different from what they were when they fell; as the same grain of wheat shooteth up, though with another body: and as there is a difference between celestial and terrestrial bodies, and between celestial bodies themselves; so there will be a difference between the bodies of the saints, now that they are only of the earth, earthy, from what they shall be in the resurrection; which difference he openeth in several particulars.",
+     "anchor": "So also is the resurrection of the dead"
+    },
+    {
+     "id": "poole/1CO.15.42#p2-bb52a7d4",
+     "text": "it is sown that is, it dieth and is buried in such a state, that it is subject to putrefaction; but when it shall be again raised from the dead, it shall be subject to no putrefaction or corruption: so 1Co 15:52: The dead shall be raised incorruptible.",
+     "anchor": "It is sown in corruption, it is raised in incorruption",
+     "refs": [
+      {
+       "text": "1Co 15:52",
+       "ref": "1CO.15.52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.43",
+   "range": "1CO.15.43",
+   "kind": "passage",
+   "hash": "13412f56",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.43#p1-e3a251e3",
+     "text": "there is nothing more uncomely, unlovely, and loathsome than a dead body; but it will not be so when it shall be raised again, then it shall be a beautiful, comely body. We shall rise in a full and perfect age, (as is generally thought), and without those defects and deformities which may here make our bodies appear unlovely.",
+     "anchor": "It is sown in dishonour; it is raised in glory"
+    },
+    {
+     "id": "poole/1CO.15.43#p2-357f9ed4",
+     "text": "Daniel says, Dan 12:3, the righteous shall shine as the stars: Christ saith, Mat 13:43, they shall shine like the sun: the apostle saith, Php 3:21, we shall be made like unto his glorious body. Three things make the body beautiful, a perfection of parts, the well putting them together and proportioning them one to another, and a well-tempered, cheerly spirit; all these will concur in the bodies of saints in the resurrection. The schoolmen determine, that much of the beauty of the saints’ bodies in the resurrection, will flow from their perfect sight of God, and the reflection of God upon them.",
+     "refs": [
+      {
+       "text": "Dan 12:3",
+       "ref": "DAN.12.3"
+      },
+      {
+       "text": "Mat 13:43",
+       "ref": "MAT.13.43"
+      },
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.43#p3-80c97fd7",
+     "text": "when it dieth it is a frail, weak body, unable to resist injuries; but it shall rise a strong body, with quick senses, and subject to no more weaknesses.",
+     "anchor": "It is sown in weakness; it is raised in power"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.44",
+   "range": "1CO.15.44",
+   "kind": "passage",
+   "hash": "914c65e6",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.44#p1-c71847ba",
+     "text": "such a body as all living creatures have by nature, which is upheld by the actions of the soul that quickeneth it; both the vegetative powers, by which it is nourished by the use of meat and drink, the eating, concocting, and digesting it, &c.; and the sensitive powers, &c. But it shall be",
+     "anchor": "It is sown a natural body"
+    },
+    {
+     "id": "poole/1CO.15.44#p2-804be237",
+     "text": "spiritual, not as to the substance of it, for in that sense a spiritual body is a contradiction, but in respect of the qualities and conditions of it, Mat 22:30 Luk 20:35,36. Bodies which, in respect of many new qualities they shall have, shall be more like angels and other spirits, than human bodies; beautiful, incorruptible, free from infirmities, not subject to hunger, or thirst, or injuries from cold or heat, &c.; not using meat, drink, clothes, physic, or marriage; free, active, and nimble as spirits, 1Th 4:17.",
+     "anchor": "raised a spiritual body",
+     "refs": [
+      {
+       "text": "Mat 22:30",
+       "ref": "MAT.22.30"
+      },
+      {
+       "text": "Luk 20:35",
+       "ref": "LUK.20.35"
+      },
+      {
+       "text": "1Th 4:17",
+       "ref": "1TH.4.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.44#p3-76d8c458",
+     "text": "because they shall perfectly obey the soul made perfect, and be by it commanded to spiritual actions only; of subtile, spiritual, refined constitutions.",
+     "anchor": "Spiritual"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.45",
+   "range": "1CO.15.45",
+   "kind": "passage",
+   "hash": "3ad49421",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.45#p1-c85e19f3",
+     "text": "The first part is written in Gen 2:7, God breathed into man’s nostrils the breath of life, and so he became a living soul; that is, a living substance, living an animal, natural life, by virtue of that breath of life which God breathed into him.",
+     "refs": [
+      {
+       "text": "Gen 2:7",
+       "ref": "GEN.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.45#p2-ba137f5e",
+     "text": "by which he meaneth Christ, who in time was after the first Adam, and was born in the last days, and was the last common Head; as Adam was the first, with respect of natural and carnal propagation, so Christ was the last Head, in respect of grace and spiritual regeneration, he",
+     "anchor": "The last Adam"
+    },
+    {
+     "id": "poole/1CO.15.45#p3-b25e43f7",
+     "text": "He was made so, not when he was conceived and born, for he had a body subject to the same natural infirmities that ours are; but upon his resurrection from the dead, when, though he had the same body, in respect of the substance of it, yet it differed in qualities, and was much more spiritual; with which body he ascended up into heaven, clothed with a power, as to quicken souls with a spiritual life, so also to quicken our mortal bodies at his second coming, when he shall raise the dead out of their graves.",
+     "anchor": "was made a quickening spirit"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.46",
+   "range": "1CO.15.46",
+   "kind": "passage",
+   "hash": "72761a53",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.46#p1-72761a53",
+     "text": "Christ, the spiritual Adam, was not first in order of time, but the natural Adam, God in his providence rising from more imperfect to more perfect dispensations: and so it is as to God’s providences relating unto us; we have first natural bodies, we are born with such, we grow up and die with such, but then we shall rise again with ohers, in respect of more excellent qualities and endowments."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.47",
+   "range": "1CO.15.47",
+   "kind": "passage",
+   "hash": "8f673424",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.47#p1-8f673424",
+     "text": "Adam, who was the first man, was of the earth, Gen 2:7, and was of an earthy constitution, like unto the earth out of which he was formed; but Christ had another original: for though his body was formed in the womb of the virgin, and he was flesh of her flesh, yet she conceived by the Holy Ghost overshadowing her, and Christ had an eternal generation (as to his Divine nature) from his Father.",
+     "refs": [
+      {
+       "text": "Gen 2:7",
+       "ref": "GEN.2.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.48",
+   "range": "1CO.15.48",
+   "kind": "passage",
+   "hash": "18768a09",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.48#p1-18768a09",
+     "text": "Such a body as Adam had, (which was earthy), such all the sons of Adam have; and such a body as Christ now hath since his resurrection, (which is a heavenly body), such a body also shall believers, who are heavenly, have in the resurrection."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.49",
+   "range": "1CO.15.49",
+   "kind": "passage",
+   "hash": "86fa53ca",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.49#p1-86fa53ca",
+     "text": "And as believers, being the natural sons of the first Adam, have borne his image, had such bodies as he had while they lived here; so they shall also in the resurrection bear the image of the heavenly, the image of Christ; that is, have such bodies as was Christ’s body after that he was again risen from the dead."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.50",
+   "range": "1CO.15.50",
+   "kind": "passage",
+   "hash": "b175d205",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.50#p1-8a543342",
+     "text": "do not here signify sin, the unrenewed nature, (as some would have it), but our bodies, in their present natural, corruptible, frail, mortal state; so the terms signify, Eph 6:12 Heb 2:14. Flesh and blood shall inherit the kingdom of God, (else our bodies could not be glorified), but our body, as in its present state, till changed and altered as to qualities, till it be made a spiritual body, shall not inherit the kingdom of God. The latter words give a reason why",
+     "anchor": "Flesh and blood",
+     "refs": [
+      {
+       "text": "Eph 6:12",
+       "ref": "EPH.6.12"
+      },
+      {
+       "text": "Heb 2:14",
+       "ref": "HEB.2.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.50#p2-d958c1b5",
+     "text": "because it is corruption, that is, subject to natural corruption and putrefaction, and the heavenly state of incorruption; the bodies of believers therefore must be raised up in that state of incorruption mentioned 1Co 15:42, before they can be capable of inheriting the kingdom of God.",
+     "anchor": "flesh and blood cannot inherit the kingdom of God",
+     "refs": [
+      {
+       "text": "1Co 15:42",
+       "ref": "1CO.15.42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.51",
+   "range": "1CO.15.51",
+   "kind": "passage",
+   "hash": "c71c1070",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.51#p1-dac19767",
+     "text": "They might object: How can this be? There will be many saints alive in the world at the day when Christ shall come to judge the world, they will have natural bodies, such as they were born with, and grew up with in the world until that time. Saith the apostle: I now tell you a secret thing; for so the term mystery signifieth, Rom 11:25 16:25, and in many other texts.",
+     "refs": [
+      {
+       "text": "Rom 11:25",
+       "ref": "ROM.11.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.51#p2-640c894a",
+     "text": "any long sleep: some think all shall die, but some for a very short time, and then they shall revive.",
+     "anchor": "We shall not all sleep"
+    },
+    {
+     "id": "poole/1CO.15.51#p3-be60dfe8",
+     "text": "either dying for time, or by some other work of God, their natural, corruptible bodies shall be turned into spiritual bodies, not capable of corruption.",
+     "anchor": "But we shall all be changed"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.52",
+   "range": "1CO.15.52",
+   "kind": "passage",
+   "hash": "179e537a",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.52#p1-0ca4f337",
+     "text": "This change will be on the sudden, in a moment; either upon the will and command of Christ, which shall be as effectual to call persons out of their graves, as a trumpet is to call persons together; or rather, upon a sound made like to the sound of a trumpet, as it was at the giving of the law upon Sinai, Exo 19:16. We read of this last trump, Mat 24:31 1Th 4:16. There shall (saith the apostle) be such a sound made; and upon the making of it, the saints, that are dead, shall be raised out of their graves; not with such bodies as they carried thither, (which were corruptible), but with such bodies as shall be no more subject to corruption; and those who at that time shall be alive, shall one way or another be",
+     "refs": [
+      {
+       "text": "Exo 19:16",
+       "ref": "EXO.19.16"
+      },
+      {
+       "text": "Mat 24:31",
+       "ref": "MAT.24.31"
+      },
+      {
+       "text": "1Th 4:16",
+       "ref": "1TH.4.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.52#p2-99be69d4",
+     "text": "and be also put into an incorruptible state.",
+     "anchor": "changed"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.53",
+   "range": "1CO.15.53",
+   "kind": "passage",
+   "hash": "1ce1629e",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.53#p1-de704960",
+     "text": "God hath so decreed, that our flesh and blood, in the state wherein now it is, shall not be glorified; it shall be the same body as to the substance, but not as to the qualities; it is now corruptable and mortal, it must be put into a state of"
+    },
+    {
+     "id": "poole/1CO.15.53#p2-c55ffbc5",
+     "text": "and immortality, before it can enter into the kingdom of heaven.",
+     "anchor": "incorruption"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.54",
+   "range": "1CO.15.54",
+   "kind": "passage",
+   "hash": "92d1ab3d",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.54#p1-92d1ab3d",
+     "text": "That is, in an eternal and continuing victory; the saints shall die no more. The quotation which the apostle bringeth, is out of those two texts, Isa 25:8 Hos 13:14; which two texts, the apostle saith, at that day will have a more full, perfect, and eminent accomplishment, than ever they before had.",
+     "refs": [
+      {
+       "text": "Isa 25:8",
+       "ref": "ISA.25.8"
+      },
+      {
+       "text": "Hos 13:14",
+       "ref": "HOS.13.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.55",
+   "range": "1CO.15.55",
+   "kind": "passage",
+   "hash": "94238dec",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.55#p1-2d775893",
+     "text": "The apostle, in the contemplation of this blessed day, triumpheth over death, in a metaphorical phrase:"
+    },
+    {
+     "id": "poole/1CO.15.55#p2-16507e97",
+     "text": "What hurt canst thou now do unto believers, more than a wasp, or hornet, or bee, that hath lost its sting?",
+     "anchor": "Where is thy sting?"
+    },
+    {
+     "id": "poole/1CO.15.55#p3-b4873e48",
+     "text": "or O hell, (the same word signifieth both),",
+     "anchor": "O grave"
+    },
+    {
+     "id": "poole/1CO.15.55#p4-bb8e384d",
+     "text": "now is thy victory? The conqueror of all flesh is now conquered, the spoiler of all men is spoiled; it had got a victory, but now, O death, where is thy victory?",
+     "anchor": "where"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.56",
+   "range": "1CO.15.56",
+   "kind": "passage",
+   "hash": "3bcda682",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.56#p1-fb30c05f",
+     "text": "if it were not for sin, death could have no power over man; sin is that which giveth death a power to hurt the children of men: The wages of sin is death, Rom 6:23.",
+     "anchor": "The sting of death is sin",
+     "refs": [
+      {
+       "text": "Rom 6:23",
+       "ref": "ROM.6.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CO.15.56#p2-fb6eecd0",
+     "text": "and without the law there could be no transgression. The law is so far from taking away the guilt of sin, that, through the corruption of our natures, strongly inclining us to what is forbidden, it addeth strength to sin; sin (as the apostle saith, Rom 7:8) taking occasion by the commandment, and working in us all manner of concupiscence.",
+     "anchor": "And the strength of sin is the law",
+     "refs": [
+      {
+       "text": "Rom 7:8",
+       "ref": "ROM.7.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.57",
+   "range": "1CO.15.57",
+   "kind": "passage",
+   "hash": "fdbef298",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.57#p1-fdbef298",
+     "text": "The victory over sin and over death, we have both through the death and the resurrection of our Lord Jesus Christ; who by his death both delivered us from the guilt of sin, and also from the power of sin; and who through death destroyed him who had the power of death, even the devil."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CO.15.58",
+   "range": "1CO.15.58",
+   "kind": "passage",
+   "hash": "a4b392c2",
+   "paragraphs": [
+    {
+     "id": "poole/1CO.15.58#p1-6c38d909",
+     "text": "The apostle concludeth his discourse, proving the resurrection of the body from the dead, founding upon it an exhortation to holiness, which is here called"
+    },
+    {
+     "id": "poole/1CO.15.58#p2-c192390a",
+     "text": "because it is made up of works done by us at the command of Christ, and with direct respect to his glory in obedience to his will. He mindeth them not only to do these things, but to do them",
+     "anchor": "the work of the Lord"
+    },
+    {
+     "id": "poole/1CO.15.58#p3-b793bf0d",
+     "text": "not by fits, but never turning aside from them either one way or another; and unmovably, so as no temptations, either from dangers, or rewards, or false teachers, should shake their faith, as to the principles that lead unto such a holy life, this especially of the resurrection from the dead.",
+     "anchor": "stedfastly"
+    },
+    {
+     "id": "poole/1CO.15.58#p4-2d3bb66f",
+     "text": "because they knew, that through the grace of God, and the merits of Christ, such works as these should not want their reward; for though the work of God be wages to itself, and Christians should not serve God merely for wages, yet it is lawful for them (as for Moses) to have an eye to the recompence of reward; and a greater reward than this of the resurrection of the body to eternal life, and that in a state of immortality and incorruption, in a spiritual and honourable estate, could not be.",
+     "anchor": "For as much as ye know that your labour is not in vain in the Lord"
+    }
+   ]
+  }
+ ]
+}

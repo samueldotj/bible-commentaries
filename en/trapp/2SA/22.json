@@ -1,0 +1,30 @@
+{
+ "source": "trapp",
+ "book": "2SA",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "trapp/2SA.22.1",
+   "range": "2SA.22.1",
+   "kind": "passage",
+   "hash": "fc40440b",
+   "paragraphs": [
+    {
+     "id": "trapp/2SA.22.1#p1-fc40440b",
+     "text": "Which being the same, for substance, with Psa 18:1-50, see the notes there. {See Trapp on \"Psa 18:1\"}",
+     "anchor": "The words of this song.",
+     "refs": [
+      {
+       "text": "Psa 18:1-50",
+       "ref": "PSA.18.1-50"
+      },
+      {
+       "text": "Psa 18:1",
+       "ref": "PSA.18.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

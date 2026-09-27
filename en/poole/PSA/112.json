@@ -1,0 +1,299 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 112,
+ "units": [
+  {
+   "id": "poole/PSA.112",
+   "range": "PSA.112",
+   "kind": "chapter",
+   "hash": "70600315",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.112#p2-6c26b96c",
+     "text": "This Psalm containeth a description of a good man’s gracious disposition and carriage; as also of his blessed condition, even in this life as well as in the next."
+    },
+    {
+     "id": "poole/PSA.112#p3-0409deec",
+     "text": "The blessedness of them that fear the Lord in this life, and in that to come, Psa 112:1-9; for which the wicked envy them, and are grieved, Psa 112:10.",
+     "refs": [
+      {
+       "text": "Psa 112:1-9",
+       "ref": "PSA.112.1-9"
+      },
+      {
+       "text": "Psa 112:10",
+       "ref": "PSA.112.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.1",
+   "range": "PSA.112.1",
+   "kind": "passage",
+   "hash": "59e51f3f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.1#p1-fec1d5ec",
+     "text": "The fear of God, as it is man’s only wisdom, Psa 111:10, so it is his only way to true happiness.",
+     "refs": [
+      {
+       "text": "Psa 111:10",
+       "ref": "PSA.111.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.112.1#p2-722cc13d",
+     "text": "who makes it his chief delight, care, and business to study and obey God’s commandments. He intimates that zeal and fervency in God’s service is essential to true piety.",
+     "anchor": "That delighteth greatly in his commandments"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.2",
+   "range": "PSA.112.2",
+   "kind": "passage",
+   "hash": "4119b727",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.2#p1-4119b727",
+     "text": "i.e. the posterity, as this word is oft used, as Lev 23:43 Num 9:10, &c., called his seed in the former branch.",
+     "anchor": "The generation",
+     "refs": [
+      {
+       "text": "Lev 23:43",
+       "ref": "LEV.23.43"
+      },
+      {
+       "text": "Num 9:10",
+       "ref": "NUM.9.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.3",
+   "range": "PSA.112.3",
+   "kind": "passage",
+   "hash": "11b759ee",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.3#p1-57866e7b",
+     "text": "possessed by him whilst he lives, and continued in his family after his death.",
+     "anchor": "Shall be in his house"
+    },
+    {
+     "id": "poole/PSA.112.3#p2-2f657833",
+     "text": "i.e. the fruit or reward of his righteousness, which is God’s blessing upon his estate; for the work is oft put for the reward of it, as in the Hebrew, Lev 19:13 Job 7:2 Psa 109:20. And",
+     "anchor": "His righteousness",
+     "refs": [
+      {
+       "text": "Lev 19:13",
+       "ref": "LEV.19.13"
+      },
+      {
+       "text": "Job 7:2",
+       "ref": "JOB.7.2"
+      },
+      {
+       "text": "Psa 109:20",
+       "ref": "PSA.109.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.112.3#p3-2798f22f",
+     "text": "may be here taken for his bounty or charity, as it is below, Psa 112:9, and as this Hebrew word is frequently taken.",
+     "anchor": "righteousness",
+     "refs": [
+      {
+       "text": "Psa 112:9",
+       "ref": "PSA.112.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.4",
+   "range": "PSA.112.4",
+   "kind": "passage",
+   "hash": "33011ec3",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.4#p1-d582952f",
+     "text": "and although he is subject to the troubles and calamities of this life, as others are, yet God will give him support and comfort in them, and a happy issue out of them, whereas the wicked sink under their burdens, and their present miseries usher in their eternal destruction.",
+     "anchor": "Unto the upright there ariseth light in the darkness"
+    },
+    {
+     "id": "poole/PSA.112.4#p2-a12a5354",
+     "text": "either,",
+     "anchor": "He"
+    },
+    {
+     "id": "poole/PSA.112.4#p3-23dd2145",
+     "text": "1. God. And so this is added as a reason why God causeth light to shine to the upright out of darkness, because the Lord is gracious, &c. Or rather,"
+    },
+    {
+     "id": "poole/PSA.112.4#p4-46f82092",
+     "text": "2. The good or upright man, of whom he speaks both in the foregoing and following words. So this is either,"
+    },
+    {
+     "id": "poole/PSA.112.4#p5-32a19f01",
+     "text": "1. A reason why God dealeth thus with good men; it is not from a partial and fond affection to them, but because they are such persons to whom God hath engaged himself by promise and covenant to bless them, they are"
+    },
+    {
+     "id": "poole/PSA.112.4#p6-a3347ba4",
+     "text": "& c. Or,",
+     "anchor": "gracious"
+    },
+    {
+     "id": "poole/PSA.112.4#p7-48d27e1a",
+     "text": "2. As an effect of their affliction and deliverance out of it; thereby they learn to be more merciful, and compassionate, and just, or bountiful to others in want and misery."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.5",
+   "range": "PSA.112.5",
+   "kind": "passage",
+   "hash": "28fd104b",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.5#p1-3cb9b41d",
+     "text": "giveth freely to some, and kindly lendeth to others, according to the variety of their conditions.",
+     "anchor": "Showeth favour, and lendeth"
+    },
+    {
+     "id": "poole/PSA.112.5#p2-d6186ca5",
+     "text": "maintain and manage his estate or domestic affairs.",
+     "anchor": "Guide his affairs"
+    },
+    {
+     "id": "poole/PSA.112.5#p3-3c6db548",
+     "text": "Heb. with judgment; so as is fit and meet, and as God requires, not getting his estate unjustly, nor casting it away prodigally or wickedly, nor yet withholding it uncharitably from such as need it.",
+     "anchor": "With discretion"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.6",
+   "range": "PSA.112.6",
+   "kind": "passage",
+   "hash": "bc5e9cf8",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.6#p1-bc5e9cf8",
+     "text": "though he may for a season be afflicted, yet he shall not be utterly and eternally destroyed, as wicked men shall. Shall be in everlasting remembrance; though whilst he lives he may be exposed to the censures, and slanders, and contradictions of sinners, yet after death his memory will be precious and honourable, both with God and with all men, his very enemies not excepted.",
+     "anchor": "Shall not be moved for ever"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.7",
+   "range": "PSA.112.7",
+   "kind": "passage",
+   "hash": "24ca38c0",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.7#p1-4cdea911",
+     "text": "at the report of approaching calamities and judgments of God, at which the wicked are so dismayed and affrighted.",
+     "anchor": "Of evil tidings"
+    },
+    {
+     "id": "poole/PSA.112.7#p2-c797d3b2",
+     "text": "casting all his care upon God, and securely relying upon his providence and promise.",
+     "anchor": "Trusting in the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.8",
+   "range": "PSA.112.8",
+   "kind": "passage",
+   "hash": "745ef2ec",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.8#p1-745ef2ec",
+     "text": "And although his enemies be many, and mighty, and terrible, yet he shall confidently and cheerfully wait upon God, until he see their ruin and his own deliverance and safety."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.9",
+   "range": "PSA.112.9",
+   "kind": "passage",
+   "hash": "77f8afc9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.9#p1-ade27e8a",
+     "text": "to wit, his goods, and that freely and liberally, to several persons, as occasion is offered, as this word implies.",
+     "anchor": "Dispersed"
+    },
+    {
+     "id": "poole/PSA.112.9#p2-b05cc2f4",
+     "text": "i.e. his liberality, as this word is used, Pro 10:2 11:4 Dan 4:27 2Co 9:9,10, &c.; or the reward of it, as before, Psa 112:3.",
+     "anchor": "His righteousness",
+     "refs": [
+      {
+       "text": "Pro 10:2",
+       "ref": "PRO.10.2"
+      },
+      {
+       "text": "Dan 4:27",
+       "ref": "DAN.4.27"
+      },
+      {
+       "text": "2Co 9:9",
+       "ref": "2CO.9.9"
+      },
+      {
+       "text": "Psa 112:3",
+       "ref": "PSA.112.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.112.9#p3-a12a5354",
+     "text": "either,",
+     "anchor": "Endureth for ever"
+    },
+    {
+     "id": "poole/PSA.112.9#p4-91fc7cab",
+     "text": "1. His charity is not a transient or occasional act, but his constant course, of which he is not weary, but perseveres in it to the end of his life. Or,"
+    },
+    {
+     "id": "poole/PSA.112.9#p5-28171915",
+     "text": "2. What he gives is not lost nor cast away, as covetous or ungodly men judge of alms, but indeed is the only part of his estate, which will abide with him unto all eternity."
+    },
+    {
+     "id": "poole/PSA.112.9#p6-007e8ee9",
+     "text": "though he may be reproached by ungodly men, yet his innocency shall be cleared, and his name and honour gloriously exalted.",
+     "anchor": "His horn shall be exalted with honour"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.112.10",
+   "range": "PSA.112.10",
+   "kind": "passage",
+   "hash": "8334825f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.112.10#p1-8334825f",
+     "text": "at the felicity of good men, partly, from envy at the happiness of others; partly, from his peculiar hatred of all godly men; and partly, because it is a plain testimony of God’s justice and providence, and therefore a certain presage of his own ruin. The desire; his desire either of the misery of good men, or of his own constant prosperity and happiness in the world.",
+     "anchor": "Be grieved"
+    }
+   ]
+  }
+ ]
+}

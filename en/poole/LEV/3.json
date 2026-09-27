@@ -1,0 +1,231 @@
+{
+ "source": "poole",
+ "book": "LEV",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "poole/LEV.3",
+   "range": "LEV.3",
+   "kind": "chapter",
+   "hash": "f407e2e4",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3#p1-f407e2e4",
+     "text": "Concerning thank-offerings: of bullocks, male or female, without blemish; the manner of this oblation, Lev 3:1-5. Of small cattle, male or female, without blemish; a lamb, Lev 3:6-11; a goat, Lev 3:12-16. All fat the Lord’s; the fat and blood not to be eat, 16, 17.",
+     "refs": [
+      {
+       "text": "Lev 3:1-5",
+       "ref": "LEV.3.1-5"
+      },
+      {
+       "text": "Lev 3:6-11",
+       "ref": "LEV.3.6-11"
+      },
+      {
+       "text": "Lev 3:12-16",
+       "ref": "LEV.3.12-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.1",
+   "range": "LEV.3.1",
+   "kind": "passage",
+   "hash": "03315d75",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.1#p1-26eb7c62",
+     "text": "Which was an offering for peace and prosperity, and the favour and blessing of God, either,"
+    },
+    {
+     "id": "poole/LEV.3.1#p2-971e1d85",
+     "text": "1. Obtained; and so this was a thank-offering, as Lev 7:12,16; or,",
+     "refs": [
+      {
+       "text": "Lev 7:12",
+       "ref": "LEV.7.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.3.1#p3-c8801d83",
+     "text": "2. Desired; and so it was a kind of supplication to God, as Jud 20:26 1Ch 21:26. Whether it be a male or female; which were allowed here, though not in burnt-offerings, because those principally respected the honour of God, who is to be served with the best; but the peace-offerings did primarily respect the benefit of the offerer, and therefore the choice was left to himself.",
+     "refs": [
+      {
+       "text": "Jud 20:26",
+       "ref": "JUD.20.26"
+      },
+      {
+       "text": "1Ch 21:26",
+       "ref": "1CH.21.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.2",
+   "range": "LEV.3.2",
+   "kind": "passage",
+   "hash": "1fe6669f",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.2#p1-1fe6669f",
+     "text": "not on the north side of the altar, where the burnt-offering was killed, Lev 1:11, as also the sin-offering, and the trespass-offering, Lev 6:25 7:2, but in the very entrance of the court where the Brazen altar stood, which place was not so holy as the other; as appears both because it was more remote from the holy of holies, and because the ashes of the sacrifices were to be laid here. And the reason of this difference is not obscure, both because part of this sacrifice was to be waved by the hands of the offerer, Lev 7:30, who might not come into the court; and because this offering was not so holy as the other, which were to be eaten only by the priest, when part of these were eaten by the offerer.",
+     "anchor": "At the door of the tabernacle of the congregation",
+     "refs": [
+      {
+       "text": "Lev 1:11",
+       "ref": "LEV.1.11"
+      },
+      {
+       "text": "Lev 6:25",
+       "ref": "LEV.6.25"
+      },
+      {
+       "text": "Lev 7:30",
+       "ref": "LEV.7.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.5",
+   "range": "LEV.3.5",
+   "kind": "passage",
+   "hash": "25dc2491",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.5#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Upon the burnt sacrifice"
+    },
+    {
+     "id": "poole/LEV.3.5#p2-17bc9bc3",
+     "text": "1. Upon the remainders of it, which yet were burning; or rather,"
+    },
+    {
+     "id": "poole/LEV.3.5#p3-0bacabca",
+     "text": "2. After it; for the daily burnt-offering was first to be offered, both as more eminently respecting God’s honour, which ought to be preferred before all things; and as the most solemn and stated sacrifice, which should take place of all voluntary and occasional oblation, and as a sacrifice of a higher nature and use, being for expiation and atonement, without which no peace could be obtained, nor peace-offering offered with acceptance."
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.9",
+   "range": "LEV.3.9",
+   "kind": "passage",
+   "hash": "986fde1b",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.9#p1-986fde1b",
+     "text": "which in sheep is fat and sweet, and in these parts was; cry much larger and better than ours, as is agreed both by ancient and modern writers, and therefore was fitly offered to God.",
+     "anchor": "The fat thereof, and the whole rump"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.11",
+   "range": "LEV.3.11",
+   "kind": "passage",
+   "hash": "d08c8c06",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.11#p1-59bc5fc3",
+     "text": "i.e. the parts now mentioned, and for the rest, they fell to the priest, Lev 7:31.",
+     "anchor": "The priest shall burn it",
+     "refs": [
+      {
+       "text": "Lev 7:31",
+       "ref": "LEV.7.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.3.11#p2-ebaaa654",
+     "text": "i.e. the fuel of the fire, or the matter of the offering. It is called food, bread, to note God’s acceptance of it, and delight in it, as men delight in their food.",
+     "anchor": "The food of the offering"
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.16",
+   "range": "LEV.3.16",
+   "kind": "passage",
+   "hash": "7cdd1d60",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.16#p1-fb143f48",
+     "text": "the parts mentioned, among which the tail is not one, as it was in the sheep, because that in goats is a refuse part.",
+     "anchor": "The priest shall burn them"
+    },
+    {
+     "id": "poole/LEV.3.16#p2-f0a24760",
+     "text": "this is to be limited,",
+     "anchor": "All the fat"
+    },
+    {
+     "id": "poole/LEV.3.16#p3-b38ae532",
+     "text": "1. To those beasts which were offered or might be offered in sacrifice, as it is explained and restrained Lev 7:23,25.",
+     "refs": [
+      {
+       "text": "Lev 7:23",
+       "ref": "LEV.7.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/LEV.3.16#p4-b123e5ca",
+     "text": "2. To that kind of fat which is here above mentioned, and required to be offered, which was separated, or easily separable, from the flesh; for the fat which was here and there mixed with the flesh they might eat, Deu 32:14 Neh 8:10.",
+     "refs": [
+      {
+       "text": "Deu 32:14",
+       "ref": "DEU.32.14"
+      },
+      {
+       "text": "Neh 8:10",
+       "ref": "NEH.8.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LEV.3.17",
+   "range": "LEV.3.17",
+   "kind": "passage",
+   "hash": "52a85dbd",
+   "paragraphs": [
+    {
+     "id": "poole/LEV.3.17#p1-ea73b0fb",
+     "text": "not only at or near the tabernacle, nor only of those beasts which you actually sacrifice, but also in your several dwellings, and of all that kind of beasts.",
+     "anchor": "Throughout all your dwellings"
+    },
+    {
+     "id": "poole/LEV.3.17#p2-28d98b7b",
+     "text": "this was forbidden,",
+     "anchor": "That ye eat neither fat"
+    },
+    {
+     "id": "poole/LEV.3.17#p3-55562d67",
+     "text": "1. To preserve the reverence of the holy rites and sacrifices."
+    },
+    {
+     "id": "poole/LEV.3.17#p4-669a9942",
+     "text": "2. That they might be taught hereby to acknowledge God as their Lord, and the Lord of all the creatures, who might reserve what he pleased to himself."
+    },
+    {
+     "id": "poole/LEV.3.17#p5-b3796482",
+     "text": "3. To exercise them in obedience to God, and self-denial, and mortification of their appetites, even in those things which probably many of them would much desire."
+    },
+    {
+     "id": "poole/LEV.3.17#p6-065b5d7f",
+     "text": "this was forbidden, partly, to maintain reverence to God and his worship; partly, out of opposition to idolaters, who used to drink the blood of their sacrifices; partly, with respect unto Christ’s blood, thereby manifestly signified; and partly, for moral admonition about avoiding cruelty, &c.",
+     "anchor": "Nor blood"
+    }
+   ]
+  }
+ ]
+}

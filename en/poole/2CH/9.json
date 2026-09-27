@@ -1,0 +1,131 @@
+{
+ "source": "poole",
+ "book": "2CH",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "poole/2CH.9",
+   "range": "2CH.9",
+   "kind": "chapter",
+   "hash": "e902ab84",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9#p1-e902ab84",
+     "text": "The queen of Sheba visiteth Solomon, and admireth his wisdom; giveth and receiveth presents, 2Ch 9:1-12. Solomon’s gold; his targets, and shields, 2Ch 9:13-16. The throne of ivory, 2Ch 9:17-19. His vessels; his presents, 2Ch 9:20-21. His chariots and horses; his tributes; his reign and death, 2Ch 9:25-31.",
+     "refs": [
+      {
+       "text": "2Ch 9:1-12",
+       "ref": "2CH.9.1-12"
+      },
+      {
+       "text": "2Ch 9:13-16",
+       "ref": "2CH.9.13-16"
+      },
+      {
+       "text": "2Ch 9:17-19",
+       "ref": "2CH.9.17-19"
+      },
+      {
+       "text": "2Ch 9:20-21",
+       "ref": "2CH.9.20-21"
+      },
+      {
+       "text": "2Ch 9:25-31",
+       "ref": "2CH.9.25-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.9.1",
+   "range": "2CH.9.1",
+   "kind": "passage",
+   "hash": "376f95d8",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9.1#p1-376f95d8",
+     "text": "Almost all this chapter is contained in 1Ki 10, where it is explained."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.9.8",
+   "range": "2CH.9.8",
+   "kind": "passage",
+   "hash": "9163191a",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9.8#p1-9163191a",
+     "text": "i.e. in the Lord’s name and stead, both in general, because all kings have and hold their kingdoms from God, and act as his viceregents and deputies; and in a special manner, because he sat in God’s own throne and ruled over God’s peculiar people, and did in a singular and eminent manner maintain the honour and worship of God in his land, and in the eyes of all the world besides.",
+     "anchor": "King for the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.9.12",
+   "range": "2CH.9.12",
+   "kind": "passage",
+   "hash": "c84a589c",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9.12#p1-c84a589c",
+     "text": "besides what he gave her of his royal bounty, as it is expressed, 1Ki 10:13, which was in compensation for her presents, as is here noted.",
+     "anchor": "Besides that which she had brought",
+     "refs": [
+      {
+       "text": "1Ki 10:13",
+       "ref": "1KI.10.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.9.25",
+   "range": "2CH.9.25",
+   "kind": "passage",
+   "hash": "834c6968",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9.25#p1-834c6968",
+     "text": "to wit, greater stalls, in each of which were ten stalls, in all forty thousand stalls, as it is in 1Ki 4:26, See Poole \"1Ki 4:26\".",
+     "anchor": "Four thousand stalls",
+     "refs": [
+      {
+       "text": "1Ki 4:26",
+       "ref": "1KI.4.26"
+      },
+      {
+       "text": "1Ki 4:26",
+       "ref": "1KI.4.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.9.29",
+   "range": "2CH.9.29",
+   "kind": "passage",
+   "hash": "c6e63837",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.9.29#p1-c6e63837",
+     "text": "mentioned also 1Ch 12:15, supposed to be the same who is called Obed, 2Ch 15:1. This, and the other prophets mentioned, were also historians, and wrote some annals or histories of their times; out of which these sacred and canonical books were taken, either by these or other prophets.",
+     "anchor": "Iddo the seer",
+     "refs": [
+      {
+       "text": "1Ch 12:15",
+       "ref": "1CH.12.15"
+      },
+      {
+       "text": "2Ch 15:1",
+       "ref": "2CH.15.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

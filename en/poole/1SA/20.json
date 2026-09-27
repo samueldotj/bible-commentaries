@@ -1,0 +1,809 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/1SA.20",
+   "range": "1SA.20",
+   "kind": "chapter",
+   "hash": "235ead63",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20#p1-235ead63",
+     "text": "David complaineth to Jonathan of Saul: he comforteth him; can hardly believe what David saith of his father; promiseth to give him notice how his absence was taken: they renew a covenant of friendship, and swear to each other, 1Sa 20:1-17. Their sign, 1Sa 20:18-23. Saul asketh for David at the feast of the new moon, 1Sa 20:24-27. Jonathan execuseth David: Saul incensed hereat, revileth Jonathan, and seeketh to kill him, 1Sa 20:28-34. Jonathan advertiseth David, 1Sa 20:35-40. They part with tears, 1Sa 20:41,42.",
+     "refs": [
+      {
+       "text": "1Sa 20:1-17",
+       "ref": "1SA.20.1-17"
+      },
+      {
+       "text": "1Sa 20:18-23",
+       "ref": "1SA.20.18-23"
+      },
+      {
+       "text": "1Sa 20:24-27",
+       "ref": "1SA.20.24-27"
+      },
+      {
+       "text": "1Sa 20:28-34",
+       "ref": "1SA.20.28-34"
+      },
+      {
+       "text": "1Sa 20:35-40",
+       "ref": "1SA.20.35-40"
+      },
+      {
+       "text": "1Sa 20:41",
+       "ref": "1SA.20.41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.1",
+   "range": "1SA.20.1",
+   "kind": "passage",
+   "hash": "c560682d",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.1#p1-14f3da7d",
+     "text": "whilst Saul lay in an ecstasy,",
+     "anchor": "David fled"
+    },
+    {
+     "id": "poole/1SA.20.1#p2-f44a46fb",
+     "text": "where Jonathan was, taking the opportunity of Saul’s absence.",
+     "anchor": "from Naioth in Ramah to Gibeah"
+    },
+    {
+     "id": "poole/1SA.20.1#p3-2e821123",
+     "text": "what is it which thus incenseth thy father against me? what crime doth he charge me with?",
+     "anchor": "What is my sin before thy father?"
+    },
+    {
+     "id": "poole/1SA.20.1#p4-727d523b",
+     "text": "to wit, to destroy it, as this phrase is oft used, as 1Sa 22:23 Psa 38:12 54:3 63:9.",
+     "anchor": "That he seeketh my life",
+     "refs": [
+      {
+       "text": "1Sa 22:23",
+       "ref": "1SA.22.23"
+      },
+      {
+       "text": "Psa 38:12",
+       "ref": "PSA.38.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.2",
+   "range": "1SA.20.2",
+   "kind": "passage",
+   "hash": "a0275531",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.2#p1-a0275531",
+     "text": "I will secure thee by my interest with my father; nor doth he design to destroy thee; for what he doth in his frantic fits is not to be imputed to him; and when he comes to himself, I doubt not to reconcile thee to him. For Jonathan gave credit to his father’s oath, 1Sa 19:6; and the worthiest minds are least suspicious and most charitable in their opinions of others.",
+     "anchor": "Thou shalt not die",
+     "refs": [
+      {
+       "text": "1Sa 19:6",
+       "ref": "1SA.19.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.3",
+   "range": "1SA.20.3",
+   "kind": "passage",
+   "hash": "43e27382",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.3#p1-43e27382",
+     "text": "The matter being of great moment, and Jonathan doubting the truth of it, David confirms his word with an oath, which follows in the end of the verse; only he interposeth a reason why Saul concealed it from Jonathan."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.4",
+   "range": "1SA.20.4",
+   "kind": "passage",
+   "hash": "7357b42a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.4#p1-7357b42a",
+     "text": "To wit, for the discovery of the truth, and for the preservation of thy life."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.5",
+   "range": "1SA.20.5",
+   "kind": "passage",
+   "hash": "60a47c14",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.5#p1-b97d140d",
+     "text": "was a solemn and festival time, as among the Romans and other heathens, so also with the Hebrews, who solemnized it with offering peace-offerings to God, and feasting together upon the remainders of it, after the manner. See Num 10:10 28:11 Psa 81:3.",
+     "anchor": "The new moon",
+     "refs": [
+      {
+       "text": "Num 10:10",
+       "ref": "NUM.10.10"
+      },
+      {
+       "text": "Psa 81:3",
+       "ref": "PSA.81.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.5#p2-d84c2215",
+     "text": "then he useth to expect my company above other times.",
+     "anchor": "I should not fail to sit with the king at meat"
+    },
+    {
+     "id": "poole/1SA.20.5#p3-51fccab2",
+     "text": "i.e. unto the next day but one after the new moon; as appears by comparing 1Sa 20:19,27,35. His meaning is not that he should hide himself in any certain place all the three days, but that he should secure himself, either at Bethlehem with his friends, or in any other place, till the third day.",
+     "anchor": "Unto the third day",
+     "refs": [
+      {
+       "text": "1Sa 20:19",
+       "ref": "1SA.20.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.6",
+   "range": "1SA.20.6",
+   "kind": "passage",
+   "hash": "6292673e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.6#p1-09012071",
+     "text": "Quest."
+    },
+    {
+     "id": "poole/1SA.20.6#p2-d12c1a4a",
+     "text": "How could David imagine that Saul would expect his company, whom he had once and again endeavoured to kill?"
+    },
+    {
+     "id": "poole/1SA.20.6#p3-37bde1df",
+     "text": "First, He might suppose that David would ascribe all that to his madness and frantic fits, which being over, he would promise himself safety in the king’s presence. Secondly, David might not think that Saul would indeed expect him to feast with him, considering his late and great danger from Saul; but that Saul would make use of this pretence, and require his presence, that he might lay hold upon him; and therefore he desired to try the experiment.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/1SA.20.6#p4-364bba87",
+     "text": "who being the king’s son and deputy, used to give licence to military men to depart for a season upon just occasions.",
+     "anchor": "Asked leave of me"
+    },
+    {
+     "id": "poole/1SA.20.6#p5-e3cf4593",
+     "text": "i.e. the place of his birth and education, Joh 7:42.",
+     "anchor": "His city",
+     "refs": [
+      {
+       "text": "Joh 7:42",
+       "ref": "JHN.7.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.6#p6-86617d9b",
+     "text": "a sacrifice which was offered up in some high place there yearly, upon some special occasion not mentioned in Scripture, which was accompanied with a feast; or, a yearly feast, as the Hebrew word is sometimes used.",
+     "anchor": "A yearly sacrifice"
+    },
+    {
+     "id": "poole/1SA.20.6#p7-4b870b3e",
+     "text": "wherein all the members of our family used to meet together, when they will earnestly expect me above others, and will charge me with pride and unnaturalness, if I neglect their invitation.",
+     "anchor": "For all the family"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.7",
+   "range": "1SA.20.7",
+   "kind": "passage",
+   "hash": "b44050fe",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.7#p1-b44050fe",
+     "text": "Heb. know thou; for indeed David knew well enough that Saul designed to kill him.; but he useth this course for Jonathan’s information and satisfaction, and for his own greater vindication, if he did wholly withdraw himself from Saul, and from his wife; which he foresaw he should be forced to do.",
+     "anchor": "Then be sure"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.8",
+   "range": "1SA.20.8",
+   "kind": "passage",
+   "hash": "9b83cc1e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.8#p1-dc1c13ef",
+     "text": "in giving me timely notice, and a true account of Saul’s disposition and intention towards me.",
+     "anchor": "Thou shalt deal kindly with thy servant"
+    },
+    {
+     "id": "poole/1SA.20.8#p2-c4cb0a7e",
+     "text": "i.e. a solemn covenant, not lightly undertaken, but seriously entered into, in the name and fear of God, and in his presence, calling him to be the witness of our sincerity therein, and the avenger of perfidiousness in him that breaks it.",
+     "anchor": "A covenant of the Lord"
+    },
+    {
+     "id": "poole/1SA.20.8#p3-721d33b1",
+     "text": "I am contented thou shouldst kill me.",
+     "anchor": "Slay me thyself"
+    },
+    {
+     "id": "poole/1SA.20.8#p4-f287a932",
+     "text": "why shouldst thou betray me to thy father, by concealing his evil intentions from me?",
+     "anchor": "Why shouldest thou bring me to thy father?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.9",
+   "range": "1SA.20.9",
+   "kind": "passage",
+   "hash": "04f1b3d5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.9#p1-04f1b3d5",
+     "text": "I abhor the thoughts of either killing thee myself, or giving thee up to my father to slay thee.",
+     "anchor": "Far be it from thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.10",
+   "range": "1SA.20.10",
+   "kind": "passage",
+   "hash": "4435ddf4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.10#p1-4435ddf4",
+     "text": "By what means or messenger shall I understand this? for peradventure thou wilt not be able to come to me thyself."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.11",
+   "range": "1SA.20.11",
+   "kind": "passage",
+   "hash": "6394d4af",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.11#p1-6394d4af",
+     "text": "Lest they should be overheard."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.12",
+   "range": "1SA.20.12",
+   "kind": "passage",
+   "hash": "c03ad300",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.12#p1-c03ad300",
+     "text": "do thou hear and judge between us. It is an abrupt speech, which is usual in great passions.",
+     "anchor": "O Lord God of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.13",
+   "range": "1SA.20.13",
+   "kind": "passage",
+   "hash": "767ea4fe",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.13#p1-767ea4fe",
+     "text": "The Lord give thee that honour and success in all thy affairs which he hath given to my father. Jonathan undoubtedly knew of Samuel’s final and irrevocable sentence of Saul’s rejection from the kingdom, and of the substitution of some other person after God’s own heart in his stead; and that David was this person he might strongly suspect, (that which even Saul suspected,) both from his eminent piety, and wisdom, and valour, and universal worth, and from the great things which God had done, both by him and for him, in preserving and advancing him by such unusual methods; and it is most likely that Jonathan did ask David about it, and that David did faithfully inform him of the whole truth, as may be gathered both from the words here following, and from 1Sa 23:17. And that the knowledge hereof did not raise jealousy, and envy, and rage in him, who was the next heir of the crown, as it did in his father, must be ascribed to Jonathan’s piety towards God, to whose disposal he cheerfully submitted himself, and to his sincere friendship to David, in whose happiness he rejoiced as in his own.",
+     "refs": [
+      {
+       "text": "1Sa 23:17",
+       "ref": "1SA.23.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.14",
+   "range": "1SA.20.14",
+   "kind": "passage",
+   "hash": "84278ccc",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.14#p1-30047119",
+     "text": "Or,"
+    },
+    {
+     "id": "poole/1SA.20.14#p2-f195ca19",
+     "text": "( to wit, when the Lord shall be with thee, as he hath been with my father, as he now said, i.e. when God shall have advanced thee to the kingdom, as he did him,) yea, wilt thou not (the same particle twice repeated for asseveration, i.e. I am well assured that thou wilt)",
+     "anchor": "And wilt thou not, if I shall then be alive"
+    },
+    {
+     "id": "poole/1SA.20.14#p3-6d3f6ab9",
+     "text": "i.e. either such kindness as the Lord hath showed to thee in preserving thy life in the midst of so many and such great dangers; or that kindness to which thou hast engaged thyself; in the covenant sworn between thee and me in God’s presence.",
+     "anchor": "show me the kindness of the Lord"
+    },
+    {
+     "id": "poole/1SA.20.14#p4-ff17f34b",
+     "text": "that thou do not kill me or mine, as princes of another line use to kill the nearest relations of the former line, from whom the kingdom was translated to them; which they do either by way of revenge, or in policy, and reason of state, to secure the kingdom to themselves.",
+     "anchor": "That I die not"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.15",
+   "range": "1SA.20.15",
+   "kind": "passage",
+   "hash": "d5aa1287",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.15#p1-b04d3c65",
+     "text": "he saith not, the kindness of the Lord, as before, because the covenant between them seem to have been only personal, and not comprehending their posterity. And therefore as Jonathan speaks confidently of his own preservation by virtue of that covenant; so he here lays this additional obligation upon David, that he would extend his kindness to all his progeny.",
+     "anchor": "Thy kindness"
+    },
+    {
+     "id": "poole/1SA.20.15#p2-f99f70f4",
+     "text": "which he will certainly do without exception of Saul my father, and those of his children who have joined, or shall join, with him in his hostilities and cruelties against David. And by this word",
+     "anchor": "When the Lord hath cut off the enemies of David"
+    },
+    {
+     "id": "poole/1SA.20.15#p3-0cbfae28",
+     "text": "he implies the reasonableness of his request, because Jonathan was none of that number, and therefore not to be treated as such.",
+     "anchor": "enemies"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.16",
+   "range": "1SA.20.16",
+   "kind": "passage",
+   "hash": "ac4c3b2b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.16#p1-02b36bb7",
+     "text": "The covenant which before was personal, he now extends to the whole house of David, expecting a reciprocal enlargement of it on David’s side, which doubtless he obtained."
+    },
+    {
+     "id": "poole/1SA.20.16#p2-f4602a95",
+     "text": "if either I or any of my house shall break this covenant, and shall prove enemies to David, or to his house, let the Lord, the witness of this covenant, severely punish the violators of it, whoever they are. Others thus, Let the Lord require and punish the breach of this covenant in David, if he break it. But because it was ominous and reproachful to suppose such a thing of David, by a figure called euphemismus, he names David’s enemies for David; as they also expound 1Sa 25:22. But the former sense seems more probable, because this verse contains only Jonathan’s stipulation or covenant with David and his house, which being expressed in the former part of it, is in this latter part confirmed by the usual form of imprecation; and the restipulation or covenant of David to Jonathan and his house is mentioned in the next verse.",
+     "anchor": "Let the Lord even require it at the hand of David’s enemies",
+     "refs": [
+      {
+       "text": "1Sa 25:22",
+       "ref": "1SA.25.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.16#p3-a36dbc8a",
+     "text": "Yet may that other sense stand well enough; taking these words for Jonathan’s adjuration of David to be kind to him, confirmed with an imprecation in case he do otherwise; as if he should say, I adjure thee, as thou hopest to escape such a mischief, (which I had rather might befall thine enemies than thee,) that thou deal not so ungratefully with me or my house: which adjuration of Jonathan David seconds by an oath in the next verse, at the request of Jonathan."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.17",
+   "range": "1SA.20.17",
+   "kind": "passage",
+   "hash": "b16dd482",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.17#p1-90064562",
+     "text": "Heb. And Jonathan added or proceeded to make David swear, i.e. having himself sworn to David, or adjured David, in the foregoing verse, he here requires David’s oath to him, by way of restipulation or confirmation."
+    },
+    {
+     "id": "poole/1SA.20.17#p2-f87ad0a1",
+     "text": "because he had a true friendship for David, he desired that the covenant might be inviolably observed through all their generations.",
+     "anchor": "Because he loved him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.18",
+   "range": "1SA.20.18",
+   "kind": "passage",
+   "hash": "acaaf47e",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.18#p1-acaaf47e",
+     "text": "i.e. the place where David used to sit at meals with Saul. See 1Sa 20:25.",
+     "anchor": "Thy seat",
+     "refs": [
+      {
+       "text": "1Sa 20:25",
+       "ref": "1SA.20.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.19",
+   "range": "1SA.20.19",
+   "kind": "passage",
+   "hash": "a159ed87",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.19#p1-58347830",
+     "text": "either at Bethlehem with thy friends, 1Sa 20:6, or elsewhere, as thou shalt see fit.",
+     "anchor": "When thou hast stayed three days",
+     "refs": [
+      {
+       "text": "1Sa 20:6",
+       "ref": "1SA.20.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.19#p2-5ddeb1e0",
+     "text": "Heb. in the day of business; or, of the business. And these words are to be joined, either,",
+     "anchor": "When the business was in hand"
+    },
+    {
+     "id": "poole/1SA.20.19#p3-4c205d7e",
+     "text": "1. With the words next foregoing; and so they note the time when David hid himself there; which was, when this same business which now they were treating about was in agitation formerly, to wit, to discover Saul’s mind and purpose towards him, 1Sa 19:2,3. Or,",
+     "refs": [
+      {
+       "text": "1Sa 19:2",
+       "ref": "1SA.19.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.19#p4-57ba7c87",
+     "text": "2. With the more remote words; and so they note the time when David should come to the place appointed, and formerly used to hide himself in, upon a like occasion, to wit, in the day when the business here spoken of was to be done, i.e. when the discovery of Saul’s mind was to be made."
+    },
+    {
+     "id": "poole/1SA.20.19#p5-faf22f8c",
+     "text": "or, by the stone of going, or travelling, i.e. by that stone which directs travellers in the way, to wit, in some cave, or convenient place, which was near that stone.",
+     "anchor": "By the stone Ezel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.20",
+   "range": "1SA.20.20",
+   "kind": "passage",
+   "hash": "d6590715",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.20#p1-d6590715",
+     "text": "He chose this way to avoid Saul’s suspicion, because bows and arrows were the principal arms of those times; and Jonathan, as well as others, did oft go forth to exercise himself with them, both for recreation, and improvement of his skill in that art. Besides, he knew not that he should have any opportunity of private converse with David, by reason of passengers, though the event proved better than he expected."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.21",
+   "range": "1SA.20.21",
+   "kind": "passage",
+   "hash": "d49aeb7b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.21#p1-d49aeb7b",
+     "text": "I will send him out before I shoot, to find out and take up the arrows which I shall shoot. And I shall shoot them either short of him, or beyond him, as I shall see occasion."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.22",
+   "range": "1SA.20.22",
+   "kind": "passage",
+   "hash": "b802ed70",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.22#p1-b802ed70",
+     "text": "Take this for an intimation of God’s providence, that thou shouldst keep away from the court."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.24",
+   "range": "1SA.20.24",
+   "kind": "passage",
+   "hash": "7a1b00a5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.24#p1-7a1b00a5",
+     "text": "to wit, at the time appointed; for it seems probable that he went first to Bethlehem, as he bade Jonathan tell his father, 1Sa 20:6, and thence returned to the field, when the occasion required; else we must charge him with a downright lie, which ought not to be imagined (without any apparent cause) concerning so good a man, especially in so distressed and dangerous a condition. And why should he hide himself there so long before the time when Jonathan was to come thither to inform him? Nor were there any need of appointing a certain time to meet, if David were there all the while.",
+     "anchor": "David hid himself",
+     "refs": [
+      {
+       "text": "1Sa 20:6",
+       "ref": "1SA.20.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.25",
+   "range": "1SA.20.25",
+   "kind": "passage",
+   "hash": "9214254a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.25#p1-9214254a",
+     "text": "to wit, from his seat where he was sat next to the king, whence he arose, and stood up at Abner’s coming, to do honour to him, who was his father’s cousin, and the general of the army. David’s place seems to have been next to Abner, on the same side with him.",
+     "anchor": "Jonathan arose"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.26",
+   "range": "1SA.20.26",
+   "kind": "passage",
+   "hash": "fa1a66e1",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.26#p1-fa1a66e1",
+     "text": "some accident which hath rendered him unclean, and so unfit to partake of this feast, which consisted in part of the remainders of these peace-offerings, according to the law, Lev 7:20; unfit also to come into any company, much more into the king’s company, lest he should pollute them also. See Poole \"1Sa 20:5\". See also Le 11 Le 15.",
+     "anchor": "Something hath befallen",
+     "refs": [
+      {
+       "text": "Lev 7:20",
+       "ref": "LEV.7.20"
+      },
+      {
+       "text": "1Sa 20:5",
+       "ref": "1SA.20.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.27",
+   "range": "1SA.20.27",
+   "kind": "passage",
+   "hash": "eb29ff38",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.27#p1-86faf333",
+     "text": "or, on the morrow of the new moon, being the second day; either,",
+     "anchor": "Which was the second day of the month"
+    },
+    {
+     "id": "poole/1SA.20.27#p2-165d2cf0",
+     "text": "1. Of the three days appointed, 1Sa 20:5,19. Or,",
+     "refs": [
+      {
+       "text": "1Sa 20:5",
+       "ref": "1SA.20.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.27#p3-0df5dee7",
+     "text": "2. Of the feast. Or,"
+    },
+    {
+     "id": "poole/1SA.20.27#p4-2c8ae53b",
+     "text": "3. Of the month. Saul said unto Jonathan, who was David’s friend, and best knew his mind and his ways. He calls him the son of Jesse, in scorn and contempt, to note the meanness of his original; and as not deigning to call him by his proper name: see below, 1Sa 22:9 25:10.",
+     "refs": [
+      {
+       "text": "1Sa 22:9",
+       "ref": "1SA.22.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.20.27#p5-c76e8beb",
+     "text": "for the uncleanness which came by some chance usually lasted but for one day. See Le 11.",
+     "anchor": "Neither yesterday, nor to-day"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.29",
+   "range": "1SA.20.29",
+   "kind": "passage",
+   "hash": "e909b038",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.29#p1-e909b038",
+     "text": "either in his father’s name, or in the right of the first-born; one branch of which was authority over his brethren in all the concerns of the family; whereof this was one.",
+     "anchor": "He hath commanded me to be there"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.30",
+   "range": "1SA.20.30",
+   "kind": "passage",
+   "hash": "82da80f4",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.30#p1-f4e3203a",
+     "text": "this base temper of thine thou hast not from me, but from thy mother; of whose perverseness I have had so much experience. Or,",
+     "anchor": "Thou son of the perverse rebellious woman"
+    },
+    {
+     "id": "poole/1SA.20.30#p2-dc7dcda1",
+     "text": "i.e. thou perverse and rebellious son. Or, thou most perverse rebel; for in the Hebrew language, the word",
+     "anchor": "thou son of perverse rebellion"
+    },
+    {
+     "id": "poole/1SA.20.30#p3-543aa903",
+     "text": "thus used, is an aggravation of a man’s crime, and notes one who is extraordinarily addicted to it. Thus he calls him, because he hid and preserved that man whom the king had commanded to be brought forth, that he might be slain.",
+     "anchor": "son"
+    },
+    {
+     "id": "poole/1SA.20.30#p4-15cd1f4f",
+     "text": "for it will be a horrible shame and reproach unto thee, that David by his crafty insinuations, and fair pretences, should cheat thee of thy kingdom. To the confusion of thy mother’s nakedness; men will conclude, that thy mother was a whore, and thou a bastard; and that thou hast no royal blood in thy veins, that canst so tamely give up thy crown to so contemptible a person.",
+     "anchor": "To thine own confusion"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.31",
+   "range": "1SA.20.31",
+   "kind": "passage",
+   "hash": "5607b478",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.31#p1-5607b478",
+     "text": "Thus he grossly mistakes the cause of Jonathan’s loss of the kingdom, which was not David’s art, but Saul’s sin; and vainly endeavours to prevent God’s irrevocable sentence."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.33",
+   "range": "1SA.20.33",
+   "kind": "passage",
+   "hash": "5d369639",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.33#p1-5d369639",
+     "text": "i. e. to wound him, though not to smite him even to the wall, as he designed to do to David, 1Sa 19:10.",
+     "anchor": "To smite him",
+     "refs": [
+      {
+       "text": "1Sa 19:10",
+       "ref": "1SA.19.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.34",
+   "range": "1SA.20.34",
+   "kind": "passage",
+   "hash": "414dc1b8",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.34#p1-414dc1b8",
+     "text": "Or, and because; for this is a second cause of his grief. The conjunction and is ofttimes omitted, and to be supplied; as Psa 33:2 144:9 Hab 3:11.",
+     "refs": [
+      {
+       "text": "Psa 33:2",
+       "ref": "PSA.33.2"
+      },
+      {
+       "text": "Hab 3:11",
+       "ref": "HAB.3.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.35",
+   "range": "1SA.20.35",
+   "kind": "passage",
+   "hash": "153a6a78",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.35#p1-153a6a78",
+     "text": "to wit, of the third day, appointed, for this work, 1Sa 20:5.",
+     "anchor": "In the morning",
+     "refs": [
+      {
+       "text": "1Sa 20:5",
+       "ref": "1SA.20.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.37",
+   "range": "1SA.20.37",
+   "kind": "passage",
+   "hash": "db8c1667",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.37#p1-db8c1667",
+     "text": "i.e. near to the place. Or, and the lad went, or was going on to the place; for the words following show the he was not yet come thither. The Hebrew verb bo, which properly signifies to come, sometimes signifies to go; as here, and Rth 3:7 Jon 1:3.",
+     "anchor": "To the place",
+     "refs": [
+      {
+       "text": "Rth 3:7",
+       "ref": "RUT.3.7"
+      },
+      {
+       "text": "Jon 1:3",
+       "ref": "JON.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.38",
+   "range": "1SA.20.38",
+   "kind": "passage",
+   "hash": "3dba890b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.38#p1-3dba890b",
+     "text": "so he bids him, because finding the coast clear, he made haste to take the opportunity-to speak with his dearly beloved David.",
+     "anchor": "Haste, stay not"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.40",
+   "range": "1SA.20.40",
+   "kind": "passage",
+   "hash": "28217a61",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.40#p1-28217a61",
+     "text": "his bow, and arrows, and quiver.",
+     "anchor": "His artillery"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.41",
+   "range": "1SA.20.41",
+   "kind": "passage",
+   "hash": "f5df4caf",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.41#p1-599de178",
+     "text": "in respect of the stone where David by appointment hid himself.",
+     "anchor": "Toward the south"
+    },
+    {
+     "id": "poole/1SA.20.41#p2-06a09aa0",
+     "text": "as well he might, because he was driven away, not only from his dear friend Jonathan, but also from his wife, and all his relations, and from the commonwealth of israel, and from the service of God; as he complains below, 1Sa 26:19.",
+     "anchor": "Until David exceeded",
+     "refs": [
+      {
+       "text": "1Sa 26:19",
+       "ref": "1SA.26.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.20.42",
+   "range": "1SA.20.42",
+   "kind": "passage",
+   "hash": "110f16cc",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.20.42#p1-110f16cc",
+     "text": "therefore doubt not but I will ever love thee, and faithfully serve thee; and the like I assure myself from thee; and this must be our comfort in our state of separation.",
+     "anchor": "We have sworn both of us"
+    }
+   ]
+  }
+ ]
+}

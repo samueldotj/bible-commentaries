@@ -1,0 +1,43 @@
+{
+ "source": "poole",
+ "book": "2TH",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/2TH",
+   "range": "2TH",
+   "kind": "book",
+   "title": "2 THESSALONIANS",
+   "hash": "f68472ba",
+   "paragraphs": [
+    {
+     "id": "poole/2TH#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/2TH#p2-8455ebbf",
+     "text": "(deutera. This is well called the Second or latter Epistle to these Thessalonians, for so it is; though Grotius would have it the first, if not sent, yet first written.)"
+    },
+    {
+     "id": "poole/2TH#p3-013ee2d6",
+     "text": "The apostle being yet hindered from coming to them, and understanding some mistake of what he wrote in his former Epistle about the coming of Christ, he thereupon sends this Second Epistle; where, after his usual salutation, he gives thanks for them, and hearing of the continuance of their faith and patience under all their persecutions, he glories in them; and then comforts them by arguments taken from the righteous judgment of God, and the different manner and effect of Christ’s coming, both to themselves and all the saints that believe, and to their adversaries, and all that knew not God, nor obeyed the gospel; and then prays for the perfecting of their faith to the glorifying the name of Christ, 2Th 1:1-12. But hearing they were shaken in their minds about the time of Christ’s coming, as if it should be presently, in the age wherein they lived, he doth vehemently caution them against such a mistake: and tells them of a great apostacy, and the revelation of the man of sin, which innst precede that day, which he doth particularly describe in the manner and effects thereof: but speaks of these Thessalonians with thanksgiving to God, as such as God had chosen, and called to obtain the glory of the Lord Jesus; and then prays for their comfort and establishment, 2Th 2:1-17. He next proceeds to desire their prayers, both with respect to the success of the ministry, and the safety of the persons who were employed therein; and declares his confidence in them that God would establish them, and that they would obey the commandments they had received from them: and gives them some further commandments about such in the church as did walk disorderly; and so concludes his Epistle with prayers for their peace, and recommending them to the grace of Jesus Christ, 2Th 3:1-18.",
+     "refs": [
+      {
+       "text": "2Th 1:1-12",
+       "ref": "2TH.1.1-12"
+      },
+      {
+       "text": "2Th 2:1-17",
+       "ref": "2TH.2.1-17"
+      },
+      {
+       "text": "2Th 3:1-18",
+       "ref": "2TH.3.1-18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

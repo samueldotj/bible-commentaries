@@ -1,0 +1,361 @@
+{
+ "source": "poole",
+ "book": "EST",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/EST.1",
+   "range": "EST.1",
+   "kind": "chapter",
+   "hash": "7696eac1",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1#p1-7696eac1",
+     "text": "Ahasuerus and Vashti make a royal banquet, Est 1:1-9. He sends for Vashti, Est 1:10,1. She refuseth to come, Est 1:12. He consulteth his wise men about it, Est 1:13-15. Their judgment and advice to put her away, Est 1:16-20. He maketh the decree of men’s sovereignty in their own houses, Est 1:21,22.",
+     "refs": [
+      {
+       "text": "Est 1:1-9",
+       "ref": "EST.1.1-9"
+      },
+      {
+       "text": "Est 1:10",
+       "ref": "EST.1.10"
+      },
+      {
+       "text": "Est 1:12",
+       "ref": "EST.1.12"
+      },
+      {
+       "text": "Est 1:13-15",
+       "ref": "EST.1.13-15"
+      },
+      {
+       "text": "Est 1:16-20",
+       "ref": "EST.1.16-20"
+      },
+      {
+       "text": "Est 1:21",
+       "ref": "EST.1.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.1",
+   "range": "EST.1.1",
+   "kind": "passage",
+   "hash": "4b34491f",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.1#p1-76c3fe86",
+     "text": "Who was this king?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/EST.1.1#p2-688dc032",
+     "text": "It is confessed and manifest that this was one of the kings of Persia; but which of them it was is not yet agreed, nor is it of any necessity for us now to know. But it is sufficiently evident that this was either,",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/EST.1.1#p3-ba73e982",
+     "text": "1. Darius Hystaspes, as divers both Jewish and Christian writers affirm; for his kingdom was thus vast, and he subdued India, as Herodotus reports; and one of his wives was called Atossa, which differs little from Hadassah, which is Esther’s other name, Est 2:7. Or,",
+     "refs": [
+      {
+       "text": "Est 2:7",
+       "ref": "EST.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/EST.1.1#p4-aa7ea3b9",
+     "text": "2. Xerxes, whose wife, as Herodotus notes, was called Amestris, which is not much differing from Esther; by whom all these things were transacted whilst he was potent and prosperous, before his unhappy expedition against the Grecians. Or,"
+    },
+    {
+     "id": "poole/EST.1.1#p5-cdddd7a1",
+     "text": "3. Artaxerxes Longimanus, to whom the characters of Ahasuerus represented in this book do not disagree. And whereas it is objected, that by this account Mordecai must be a man of about a hundred and forty years, and consequently Esther, who is called his uncle’s daughter, Est 2:7, must be too old to make a wife for the king; as for Mordecai, it may be granted, there being divers instances of persons of greater age than that in sacred and profane historians; and for Esther, it may be said that she was his uncle’s granddaughter, nothing being more frequent than for the names of sons or daughters to be given to more remote posterity.",
+     "refs": [
+      {
+       "text": "Est 2:7",
+       "ref": "EST.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/EST.1.1#p6-87e80369",
+     "text": "so seven new provinces were added to those hundred and twenty mentioned Dan 6:1.",
+     "anchor": "An hundred and seven and twenty provinces",
+     "refs": [
+      {
+       "text": "Dan 6:1",
+       "ref": "DAN.6.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.2",
+   "range": "EST.1.2",
+   "kind": "passage",
+   "hash": "ec657a8d",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.2#p1-e6bd827b",
+     "text": "i.e. either was lately advanced to it, or rather was settled in the peaceable possession of it.",
+     "anchor": "Sat on the throne of his kingdom"
+    },
+    {
+     "id": "poole/EST.1.2#p2-0be4de31",
+     "text": "or, the castle; or, the chief or royal city, as both, Jewish and Christian interpreters render it. Shushan might be the proper name of the palace, which thence was given to the whole city. Here the kings of Persia used to keep their courts chiefly in winter, as ordinarily they were in Ecbatana in summer.",
+     "anchor": "The palace"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.3",
+   "range": "EST.1.3",
+   "kind": "passage",
+   "hash": "a688317a",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.3#p1-a688317a",
+     "text": "i.e. the mighty men; the chief officers of state, and commanders of all his forces; whom by this splendid entertainment he endeavoured to oblige and assure to himself.",
+     "anchor": "The power of Persia"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.4",
+   "range": "EST.1.4",
+   "kind": "passage",
+   "hash": "54e0fa9d",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.4#p1-54e0fa9d",
+     "text": "Making every day a magnificent feast, either for all his princes, or for some of them, who might come to the feast successively, as the king ordered them to do. The Persian feasts are much celebrated in authors for their length and luxury."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.5",
+   "range": "EST.1.5",
+   "kind": "passage",
+   "hash": "978dd087",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.5#p1-2e699b19",
+     "text": "both such as constantly resided there, and such as were come thither upon their occasions, of whatsoever condition or quality.",
+     "anchor": "All the people that were present"
+    },
+    {
+     "id": "poole/EST.1.5#p2-b2e7a4e9",
+     "text": "the Persian gardens were exceeding large and pleasant.",
+     "anchor": "In the court of the garden"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.6",
+   "range": "EST.1.6",
+   "kind": "passage",
+   "hash": "1606fdf2",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.6#p1-1606fdf2",
+     "text": "for in those eastern countries and ancient times they did not sit at tables, as we do, but rested or leaned upon beds; of which we have many testimonies, both in Scripture, as Est 7:8 Amo 2:8 6:4 Joh 13:23, and in all other authors.",
+     "anchor": "The beds",
+     "refs": [
+      {
+       "text": "Est 7:8",
+       "ref": "EST.7.8"
+      },
+      {
+       "text": "Amo 2:8",
+       "ref": "AMO.2.8"
+      },
+      {
+       "text": "Joh 13:23",
+       "ref": "JHN.13.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.8",
+   "range": "EST.1.8",
+   "kind": "passage",
+   "hash": "aecaea03",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.8#p1-aecaea03",
+     "text": "none did compel, i.e. according to this law which the king had now made, that none should compel another to drink more than he pleased; which the Persians and other loose and heathenish nations used to do, though that practice was condemned by the wise and sober heathens, and among others by this great prince. Or, no man did compel another to drink, according to the law, i.e. as by the laws or orders of the Persians prescribed and used in their feasts they might have done, if not restrained by this law.",
+     "anchor": "According to the law"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.9",
+   "range": "EST.1.9",
+   "kind": "passage",
+   "hash": "0b9674e8",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.9#p1-0b9674e8",
+     "text": "Whilst the king entertained the men; for this was the common custom of the Persians, that men and women did not feast together, but in several places."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.10",
+   "range": "EST.1.10",
+   "kind": "passage",
+   "hash": "337d9025",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.10#p1-337d9025",
+     "text": "or eunuchs; which were much in use and in favour in the eastern courts, and particularly with the Persian emperors, as ancient histories inform us.",
+     "anchor": "Chamberlains"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.12",
+   "range": "EST.1.12",
+   "kind": "passage",
+   "hash": "3b4ee3af",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.12#p1-3b4ee3af",
+     "text": "being favoured in this refusal by the laws and customs of Persia, which was to keep men’s wives, and especially queens, as much as might be from the view of other men.",
+     "anchor": "Vashti refused to come"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.13",
+   "range": "EST.1.13",
+   "kind": "passage",
+   "hash": "a0dbbb66",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.13#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Which knew the times"
+    },
+    {
+     "id": "poole/EST.1.13#p2-2e75accb",
+     "text": "1. The histories of former times, what princes have done in such cases as this was. Or,"
+    },
+    {
+     "id": "poole/EST.1.13#p3-dea20fa0",
+     "text": "2. Things done or to be done in time; what was just and fit to be done, or what was the law and judgment in these cases, as the following words explain it, and how and when things were to be done. See Poole \"1Ch 12:32\". Times are oft put in Scripture and other authors for the things done in them, by a common figure called a metonymy of the adjunct.",
+     "refs": [
+      {
+       "text": "1Ch 12:32",
+       "ref": "1CH.12.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/EST.1.13#p4-ede9d389",
+     "text": "to wit, to consult with them in all matters of moment.",
+     "anchor": "So was the king’s manner"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.14",
+   "range": "EST.1.14",
+   "kind": "passage",
+   "hash": "fe92d96e",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.14#p1-02ec4d20",
+     "text": "which had constant freedom of access to the king, and familiar converse with him; which is thus expressed, because the Persian kings were very seldom seen by their subjects.",
+     "anchor": "Which saw the king’s face"
+    },
+    {
+     "id": "poole/EST.1.14#p2-b3c3cb51",
+     "text": "which were his chief counsellors and officers, and had the precedency from all others.",
+     "anchor": "Which sat the first in the kingdom"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.16",
+   "range": "EST.1.16",
+   "kind": "passage",
+   "hash": "790759a5",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.16#p1-125dc8e1",
+     "text": "though last named, spake first, either because the king first asked him; or because he was the chief of them all, either in dignity or in reputation; or because it then was, as now it is in many places, the custom for the youngest counsellors or judges to deliver their opinion first.",
+     "anchor": "Memucan"
+    },
+    {
+     "id": "poole/EST.1.16#p2-8f6d8acf",
+     "text": "by giving them an example and encouragement to contemn and disobey their husbands. It is a crime of a high nature, and therefore deserves an exemplary punishment.",
+     "anchor": "To all the people"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.18",
+   "range": "EST.1.18",
+   "kind": "passage",
+   "hash": "e82ad6a0",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.18#p1-e82ad6a0",
+     "text": "in the wives, and thereupon wrath in the husbands; and consequently strife in families; which may produce great and general mischiefs.",
+     "anchor": "Contempt"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.19",
+   "range": "EST.1.19",
+   "kind": "passage",
+   "hash": "78532e7d",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.19#p1-e9d0186d",
+     "text": "which this cunning politician knew it would do.",
+     "anchor": "If it please the king"
+    },
+    {
+     "id": "poole/EST.1.19#p2-9b8e4cde",
+     "text": "which caution was necessary for his own security; for if the queen should recover her state and the king’s favour, he was most likely to fall into his displeasure.",
+     "anchor": "That it be not altered"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.21",
+   "range": "EST.1.21",
+   "kind": "passage",
+   "hash": "b09d7600",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.21#p1-b09d7600",
+     "text": "partly because their own authority and interest was concerned in it; and especially by the singular providence of God, who designed to bring about his own great work by this small occasion.",
+     "anchor": "The saying pleased the king and the princes"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.1.22",
+   "range": "EST.1.22",
+   "kind": "passage",
+   "hash": "c19a4f88",
+   "paragraphs": [
+    {
+     "id": "poole/EST.1.22#p1-c19a4f88",
+     "text": "That all sorts of persons, not men only, (who by study or travel many times understand divers languages,) but the women also, might understand it, and therefore be inexcusable if they did not comply with it; for which end it was not only written in each language, for that writing might come but to few hands, but moreover it was published in the several cities and towns by such persons as used to publish the king’s edicts. Others, that he should speak in the language of his own people, i.e. that men should not, in compliance with their wives, who were oft of other nations and languages, inure themselves to it, and bring their wives’ language into the family; but that men should use their own proper language, and cause their wives and children to use it; this being one sign of dominion, and therefore frequent after this time among the Greeks and Romans, who, together with their victorious arms, brought in their language into other countries, and in a great measure imposed it upon them."
+    }
+   ]
+  }
+ ]
+}

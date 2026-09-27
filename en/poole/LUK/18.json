@@ -1,0 +1,1180 @@
+{
+ "source": "poole",
+ "book": "LUK",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "poole/LUK.18",
+   "range": "LUK.18",
+   "kind": "chapter",
+   "hash": "7204baf0",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18#p1-161f5b88",
+     "text": "Luk 18:1-8 The parable of the unjust judge and the importunate widow.",
+     "refs": [
+      {
+       "text": "Luk 18:1-8",
+       "ref": "LUK.18.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p2-7dddd788",
+     "text": "Luk 18:9-14 The parable of the Pharisee and publican.",
+     "refs": [
+      {
+       "text": "Luk 18:9-14",
+       "ref": "LUK.18.9-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p3-8f0cfb14",
+     "text": "Luk 18:15-17 Christ’s tenderness to the little children that were brought unto him.",
+     "refs": [
+      {
+       "text": "Luk 18:15-17",
+       "ref": "LUK.18.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p4-5b24aefa",
+     "text": "Luk 18:18-23 He teacheth a ruler how to attain eternal life.",
+     "refs": [
+      {
+       "text": "Luk 18:18-23",
+       "ref": "LUK.18.18-23"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p5-4edebd75",
+     "text": "Luk 18:24-27 He showeth how hard it is for the rich to enter into the kingdom of God,",
+     "refs": [
+      {
+       "text": "Luk 18:24-27",
+       "ref": "LUK.18.24-27"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p6-81e7572f",
+     "text": "Luk 18:28-30 promises rewards to those who have foregone aught for the gospel’s sake,",
+     "refs": [
+      {
+       "text": "Luk 18:28-30",
+       "ref": "LUK.18.28-30"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p7-20ac4110",
+     "text": "Luk 18:31-34 foretells his own death and resurrection,",
+     "refs": [
+      {
+       "text": "Luk 18:31-34",
+       "ref": "LUK.18.31-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18#p8-19e21218",
+     "text": "Luk 18:35-43 and giveth sight to a blind man.",
+     "refs": [
+      {
+       "text": "Luk 18:35-43",
+       "ref": "LUK.18.35-43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.1",
+   "range": "LUK.18.1",
+   "kind": "passage",
+   "hash": "cd27ca4d",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.1#p1-88b4a696",
+     "text": "This duty of praying always is inculcated to us several times in the Epistles, as may appear from those texts quoted in the margin, which we must not interpret as an obligation upon us to be always upon our knees praying; for thus our obedience to it would be inconsistent with our obedience to other precepts of God, relating both to religious duties and civil actions, neither was Christ himself always praying: but it either, first, lets us know, that there is no time in which we may not pray; as we may pray in all places, every where lifting up holy hands without doubting, ( as the apostle saith, 1 1Ti 2:8), so we must pray at any time. Or, secondly, it is as much as, pray frequently and ordinarily; as Solomon’s servants are said by the queen of Sheba to stand always, that is, ordinarily and frequently, before him, 1Ki 10:8; and the Jews are said always to have resisted the Spirit of God, Act 7:51; that is, very often, for they did it not in every individual act of their lives.",
+     "refs": [
+      {
+       "text": "1Ti 2:8",
+       "ref": "1TI.2.8"
+      },
+      {
+       "text": "1Ki 10:8",
+       "ref": "1KI.10.8"
+      },
+      {
+       "text": "Act 7:51",
+       "ref": "ACT.7.51"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.1#p2-ae8991fb",
+     "text": "Or else, in every part of time; knitting the morning and evening (the general parts of our time) together by prayer. Thus the morning and evening sacrifice is called the continual burnt offering, Exo 29:42 Neh 10:33. Or, as it is in Eph 6:18, εν παντι χαιρω, in every season, whenever the providence of God offers us a fair season and opportunity for prayer. Or mentally praying always, intermixing good and pious ejaculations with our most earthly and sublunary occasions. Or, having our hearts at all times ready for prayer, having the fire always on the altar, (as was required under the old law), though the sacrifice be not always offering.",
+     "refs": [
+      {
+       "text": "Exo 29:42",
+       "ref": "EXO.29.42"
+      },
+      {
+       "text": "Neh 10:33",
+       "ref": "NEH.10.33"
+      },
+      {
+       "text": "Eph 6:18",
+       "ref": "EPH.6.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.1#p3-1b196db1",
+     "text": "which is the same with that, Eph 6:18, watching thereunto with all perseverance; and Col 4:2, Continue in prayer, and watch in the same. Not fainting either by reason of God’s delay to give us the things we ask of him, or through laziness, and remission of our duty, before our life doth determine. This is now what our Saviour designs to teach us in this parable which followeth.",
+     "anchor": "And not to faint",
+     "refs": [
+      {
+       "text": "Eph 6:18",
+       "ref": "EPH.6.18"
+      },
+      {
+       "text": "Col 4:2",
+       "ref": "COL.4.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.2",
+   "range": "LUK.18.2",
+   "kind": "passage",
+   "hash": "68c0d077",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.2#p1-31f5e0ae",
+     "text": "Ver. 2-8. We have here the parable, and the interpretation thereof, both, Luk 18:1, in the proparabole, or the words immediately going before it, and also in an epiparabole, or some words following it, which sufficiently explain our Saviour’s scope and intention in it, viz. To assure his people, that though the Lord show a great deal of patience towards wicked men, who are the enemies of his people, and doth not presently answer their cries for a deliverance of them out of their hand; yet if they go on crying to him, he will most certainly at length deliver them. To this purpose he tells them a matter of fact, which either had happened, or might happen in the world.",
+     "refs": [
+      {
+       "text": "Luk 18:1",
+       "ref": "LUK.18.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.2#p2-c35d7370",
+     "text": "& c.: from hence he concludes, arguing from the lesser to the greater, and indeed there is an emphasis in every part of the comparison.",
+     "anchor": "There was in a city a judge, which feared not God"
+    },
+    {
+     "id": "poole/LUK.18.2#p3-1f0927fd",
+     "text": "1. This was an unjust judge; God is a righteous Judge."
+    },
+    {
+     "id": "poole/LUK.18.2#p4-65c4f3f7",
+     "text": "2. He did this for a stranger; God’s people are his own elect."
+    },
+    {
+     "id": "poole/LUK.18.2#p5-dcd132e7",
+     "text": "Then he assures them, that God would avenge them speedily. We may from this discourse of our Saviour observe several things."
+    },
+    {
+     "id": "poole/LUK.18.2#p6-e65cb32f",
+     "text": "1. That all the wrongs and injuries which the people of God suffer in this life should make them fervent and frequent in prayer to God for redressing them."
+    },
+    {
+     "id": "poole/LUK.18.2#p7-020ba3b3",
+     "text": "2. That notwithstanding their prayers, God may bear with their enemies long, for so much time as they shall think a long time."
+    },
+    {
+     "id": "poole/LUK.18.2#p8-a31e64b6",
+     "text": "3. If God’s people do not faint, but continue night and day crying to him, God will hear them, and avenge them of their adversaries."
+    },
+    {
+     "id": "poole/LUK.18.2#p9-fe60d6c1",
+     "text": "The power that importunity hath upon sinful men, may confirm us in this thing, and ought to engage us to pray without ceasing and fainting."
+    },
+    {
+     "id": "poole/LUK.18.2#p10-18213ae4",
+     "text": "When Christ shall come to judgment, he will find very few whose hearts have not fainted; there will be multitudes who are fallen away, through the power that temptations have upon the frailty of human nature. By faith here seems to be understood the true and proper effects of faith, growing out of it as the fruit out of the root. This premonition of our Saviour also served for an excellent caution to his disciples, that they would watch, and take care that they might be none of that part of the stars of heaven, which by the dragon’s tail should be cast down to the earth.",
+     "anchor": "Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.3",
+   "range": "LUK.18.3",
+   "kind": "passage",
+   "hash": "f19fe0ef",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.3#p1-f19fe0ef",
+     "text": "Luk 18:2\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.4",
+   "range": "LUK.18.4",
+   "kind": "passage",
+   "hash": "f19fe0ef",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.4#p1-f19fe0ef",
+     "text": "Luk 18:2\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.5",
+   "range": "LUK.18.5",
+   "kind": "passage",
+   "hash": "f19fe0ef",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.5#p1-f19fe0ef",
+     "text": "Luk 18:2\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.6",
+   "range": "LUK.18.6",
+   "kind": "passage",
+   "hash": "34439ce2",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.6#p1-34439ce2",
+     "text": "Ver. 6 See Poole on \"Luk 18:2\"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.7",
+   "range": "LUK.18.7",
+   "kind": "passage",
+   "hash": "f19fe0ef",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.7#p1-f19fe0ef",
+     "text": "Luk 18:2\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.8",
+   "range": "LUK.18.8",
+   "kind": "passage",
+   "hash": "f19fe0ef",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.8#p1-f19fe0ef",
+     "text": "Luk 18:2\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:2",
+       "ref": "LUK.18.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.9",
+   "range": "LUK.18.9",
+   "kind": "passage",
+   "hash": "6495605e",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.9#p1-6495605e",
+     "text": "By the term certain, or some, he unquestionably understandeth the Pharisees and their disciples, who (as we have all along in the history of the Gospel observed) were a generation of men who were eminently guilty both of a boasting of themselves, and a scorning and despising all others."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.10",
+   "range": "LUK.18.10",
+   "kind": "passage",
+   "hash": "4358d374",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.10#p1-4358d374",
+     "text": "Who these Pharisees, and who the Publicans, were we have had frequent occasions before to tell. The temple stood upon a hill, therefore they are said to ascend, or go up. They had in the temple set hours for prayer, as may be learned from Act 3:1, at which some of all sorts went up to pay that homage unto God. Our Saviour mentions but two, having in it no further design than by this parable to inform His disciples, how much more acceptable to God the prayers of broken, humble, contrite hearts are, though the persons possessed of them be such as have been, or at least have been reputed, great sinners, than the prayers of those who are hypocrites, and proud, and come unto God pleading their own righteousness, in order to the obtaining of his favour.",
+     "refs": [
+      {
+       "text": "Act 3:1",
+       "ref": "ACT.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.11",
+   "range": "LUK.18.11",
+   "kind": "passage",
+   "hash": "21514dce",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.11#p1-02f231b3",
+     "text": "From hence we may observe that thanksgiving is a part of prayer. It is said he prayed, yet we read not of any one petition he put up. His standing while he prayed is not to be found fault with, (that was a usual posture used by persons praying), unless the Pharisee made choice of it for ostentation, that he might be the better taken notice of; which was too much their fault, Mat 6:5. Whether the term προς εαυτον, with himself, in this place, signifieth that he only prayed in his heart, or with a voice that could not be heard, or only that he prayed by himself, I doubt; for though our Saviour, who knew men’s thoughts, could easily repeat his prayer, supposing it only mental, or at least with a voice not audible, yet this seemeth not to suit the humour of a Pharisee, whose whole design was to be taken notice of, seen, and heard by others. He saith,",
+     "refs": [
+      {
+       "text": "Mat 6:5",
+       "ref": "MAT.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.11#p2-19ee2fb9",
+     "text": "But was this blameworthy? May we not bless God for his restraining grace, not suffering us to run into, the same excesses of riot with other men? Doubtless it is both lawful, and our duty, provided:",
+     "anchor": "God, I thank thee, that I am not as other men, extortioners, adulterers, &c"
+    },
+    {
+     "id": "poole/LUK.18.11#p3-1505ef09",
+     "text": "1. That we speak truth when we say it."
+    },
+    {
+     "id": "poole/LUK.18.11#p4-e8e77f30",
+     "text": "2. That we do not come to plead this as our righteousness before God."
+    },
+    {
+     "id": "poole/LUK.18.11#p5-4862dde3",
+     "text": "But this Pharisee:"
+    },
+    {
+     "id": "poole/LUK.18.11#p6-fc26d3c0",
+     "text": "1. Speaks this in the pride of his heart, in the justification of himself."
+    },
+    {
+     "id": "poole/LUK.18.11#p7-7acdcb05",
+     "text": "2. In the scorn and contempt of his neighbour."
+    },
+    {
+     "id": "poole/LUK.18.11#p8-5a3b6d54",
+     "text": "3. Though he were guilty of as great sins as these, though of another kind."
+    },
+    {
+     "id": "poole/LUK.18.11#p9-ec307397",
+     "text": "In the mean time we observe, that he did not attribute this negative goodness, of which he had boasted, or that positive goodness, which he will tell us of by and by, to the power of his own will. He gives thanks to God for them."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.12",
+   "range": "LUK.18.12",
+   "kind": "passage",
+   "hash": "1b9b7799",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.12#p1-cc1a9cfd",
+     "text": "Twice in the sabbath, saith the Greek, but that is ordinary, to denominate the days of the week from the sabbath; the meaning is, twice between sabbath and sabbath. Those learned in the Jewish Rabbins tell us, that the Jews were wont to fast twice in a week, that is, the Pharisees and the more devout sort of them; once on the second, another time on the fifth day (which are those days which we call Monday and Thursday)."
+    },
+    {
+     "id": "poole/LUK.18.12#p2-1c5ceddc",
+     "text": "From whence some tell us that Wednesday and Friday come to be with us fasting days or fish days. The Christians in former times, thinking it beneath them to be less in these exercises than the Jews, would have also two fasting days each week; and those not the same with the Jews, that they might not be thought to Judaize. If that custom had any true antiquity, I doubt not but they fasted after another rate than the papists or others now do, who pretend a religion to those days. But neither was the Pharisees practice, nor the practice of Christians, in this thing to be much admired or applauded."
+    },
+    {
+     "id": "poole/LUK.18.12#p3-1edc1e73",
+     "text": "For fasting was always used in extraordinary cases; and the bringing extraordinary duties into ordinary practice usually ends in a mere formality. It is a good rule, neither to make ordinary duties extraordinary or rare, nor yet extraordinary duties ordinary: the doing of the first ordinarily issues in the loss of them, and quite leaving them off; the latter, in a formal lifeless performance of them."
+    },
+    {
+     "id": "poole/LUK.18.12#p4-4bc94126",
+     "text": "The emphasis lieth in the word all. Others paid tithe of apples, and some fruits of the earth (of which alone tithe was due); but the Pharisees would pay tithes of those things, as to which it was generally held that the law did not strictly require them, such as pot herbs, eggs milk, cheese.",
+     "anchor": "I give tithes of all that I possess"
+    },
+    {
+     "id": "poole/LUK.18.12#p5-62b52f47",
+     "text": "Our Saviour bare them this testimony, that they paid tithe of mint, anise, and cummin, Mat 23:23; rue, and all manner of herbs, Luk 11:42. This Pharisee boasteth of his exactness in two things, neither of which were required particularly by the law of God. Nor did he amiss in them, if he had not omitted the weightier things of the law, as our Saviour charges them to have done in both the texts before mentioned. But how came these things to make him a plea for his justification before God? Will he plead his righteousness, because he did things which God did not command him, while in the mean time he omitted those things which God had commanded?",
+     "refs": [
+      {
+       "text": "Mat 23:23",
+       "ref": "MAT.23.23"
+      },
+      {
+       "text": "Luk 11:42",
+       "ref": "LUK.11.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.12#p6-5d5865f9",
+     "text": "Or, what did these things signify; if they were not done out of a root of love? The law is, Thou shalt love the Lord thy God with all thy heart; and how could they be performed out of love, when love was one of the things which our Saviour charges them to have omitted? Of the same nature are other works, such as building of churches, and hospitals, and alms houses: the fruit is good, if the root be good; but if they be done out of ostentation, or opinion of meriting at God’s hands, men’s money (notwithstanding these things) will perish with them, for heaven is not to be purchased by our money."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.13",
+   "range": "LUK.18.13",
+   "kind": "passage",
+   "hash": "2959ebac",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.13#p1-ea6b11f8",
+     "text": "Those who fancy the publican stood afar off from the Pharisee, because the Pharisees would suffer none but those of their sect, at least none that were under such a notoriety of disrepute as the publicans generally were, to come near them, suppose him to have been a Jew (which is not impossible): if he were a Gentile, he must stand so far off as the court of the Gentiles was from the court of Israel. This publican’s humility in his address to God is described,"
+    },
+    {
+     "id": "poole/LUK.18.13#p2-a32faf9f",
+     "text": "1. By his posture; he looked upon the earth, as one that thought himself not worthy to look toward heaven."
+    },
+    {
+     "id": "poole/LUK.18.13#p3-fbb32b15",
+     "text": "2. By his action; he smote upon his breast, as one full of sorrow and trouble."
+    },
+    {
+     "id": "poole/LUK.18.13#p4-5ce1498d",
+     "text": "3. By the matter and form of his prayer; he confesseth himself a sinner; he fleeth unto the free grace of God."
+    },
+    {
+     "id": "poole/LUK.18.13#p5-3cd43dd6",
+     "text": "Here is not a word of boasting, that he was not such or such, nor yet that he did thus or thus. He confesseth himself a sinner, a miserable sinner, and fleeth to the free grace of God; thereby instructing us how to make our applications to God, disclaiming any goodness or righteousness in ourselves, and fleeing to the alone merits of Christ, and the free grace of God in and through him."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.14",
+   "range": "LUK.18.14",
+   "kind": "passage",
+   "hash": "4aa82374",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.14#p1-4aa82374",
+     "text": "Justified η εχεινος, we translate, rather than the other; not that the other was at all justified by God; the other was justified by himself only, and those of his party. The publican was justified by God. It followeth, for every one that exalteth himself shall be abased, & c. It is another of our Saviour’s sentences, often made use of by him, Mat 23:12, and in this Gospel, Luk 14:11. It is applied to the ordinary practice of men, but here to God in the ways of his providence; he resisteth the proud, and giveth grace to the humble. The blessed Virgin magnifies God on this account, Luk 1:51,52.",
+     "refs": [
+      {
+       "text": "Mat 23:12",
+       "ref": "MAT.23.12"
+      },
+      {
+       "text": "Luk 14:11",
+       "ref": "LUK.14.11"
+      },
+      {
+       "text": "Luk 1:51",
+       "ref": "LUK.1.51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.15",
+   "range": "LUK.18.15",
+   "kind": "passage",
+   "hash": "1121a4a2",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.15#p1-1121a4a2",
+     "text": "Mat 19:13\", and following verses to Mat 19:15, See Poole on \"Mar 10:13\", and following verses to Mar 10:16, where we before met with this piece of history.",
+     "verse": 15,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 19:13",
+       "ref": "MAT.19.13"
+      },
+      {
+       "text": "Mat 19:15",
+       "ref": "MAT.19.15"
+      },
+      {
+       "text": "Mar 10:13",
+       "ref": "MRK.10.13"
+      },
+      {
+       "text": "Mar 10:16",
+       "ref": "MRK.10.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.16",
+   "range": "LUK.18.16",
+   "kind": "passage",
+   "hash": "4de4c22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.16#p1-4de4c22a",
+     "text": "Luk 18:15\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:15",
+       "ref": "LUK.18.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.17",
+   "range": "LUK.18.17",
+   "kind": "passage",
+   "hash": "4de4c22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.17#p1-4de4c22a",
+     "text": "Luk 18:15\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:15",
+       "ref": "LUK.18.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.18",
+   "range": "LUK.18.18",
+   "kind": "passage",
+   "hash": "bfdc9b15",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.18#p1-ce948a61",
+     "text": "Ver. 18-27. We have met with this story at large, Mat 19:16-26; and with (if not the same) very like to it. Mar 10:17-27. See Poole on \"Mat 19:16\", and following verses to Mat 19:26. See Poole on \"Mar 10:17\", and following verses to Mar 10:17. The history is of great use to us.",
+     "refs": [
+      {
+       "text": "Mat 19:16-26",
+       "ref": "MAT.19.16-26"
+      },
+      {
+       "text": "Mar 10:17-27",
+       "ref": "MRK.10.17-27"
+      },
+      {
+       "text": "Mat 19:16",
+       "ref": "MAT.19.16"
+      },
+      {
+       "text": "Mat 19:26",
+       "ref": "MAT.19.26"
+      },
+      {
+       "text": "Mar 10:17",
+       "ref": "MRK.10.17"
+      },
+      {
+       "text": "Mar 10:17",
+       "ref": "MRK.10.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.18#p2-eefa52aa",
+     "text": "1. To show how far a man may go, that yet is a great way short of a truly good and spiritual state. He may know that nothing in this life will make him perfectly happy. He may desire eternal life, and salvation. He may go a great way in keeping the commandments of God, as to the letter of them. He may come to the ministers of the gospel to be further instructed. But herein he will fail, he will not come to Christ that he may have life, but fancy he should do something meritorious of it; he doth not aright understand the law, and that there is no going to heaven that way, but by the perfect observation of it, and therefore fancies himself in a much better state than he is."
+    },
+    {
+     "id": "poole/LUK.18.18#p3-a240dd7c",
+     "text": "2. It instructs us in this, that there is no coming to heaven by works, but by a full and perfect obedience to the whole revealed will of God."
+    },
+    {
+     "id": "poole/LUK.18.18#p4-76116ab6",
+     "text": "3. That every hypocrite hath some lust or other, in which he cannot deny himself. This ruler’s lust was his immoderate love of the world, and the things thereof."
+    },
+    {
+     "id": "poole/LUK.18.18#p5-64756ba9",
+     "text": "4. That it is a mighty difficult thing for any persons, but especially such as have great possessions on earth, to get to heaven."
+    },
+    {
+     "id": "poole/LUK.18.18#p6-3eefb1c1",
+     "text": "5. As difficult and almost impossible as it may appear to men, yet nothing is impossible with God. He can change the heart of the rich, and incline it to himself; as well as the, heart of the poor. The rich man hath more impediments; but be men rich or poor, without the powerful influence of God upon the heart, without his free grace, no soul will be saved."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.19",
+   "range": "LUK.18.19",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.19#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.20",
+   "range": "LUK.18.20",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.20#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.21",
+   "range": "LUK.18.21",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.21#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.22",
+   "range": "LUK.18.22",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.22#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.23",
+   "range": "LUK.18.23",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.23#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.24",
+   "range": "LUK.18.24",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.24#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.25",
+   "range": "LUK.18.25",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.25#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.26",
+   "range": "LUK.18.26",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.26#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.27",
+   "range": "LUK.18.27",
+   "kind": "passage",
+   "hash": "4ddacc2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.27#p1-4ddacc2a",
+     "text": "Luk 18:18\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:18",
+       "ref": "LUK.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.28",
+   "range": "LUK.18.28",
+   "kind": "passage",
+   "hash": "5a73f9b1",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.28#p1-52ea9e07",
+     "text": "Mat 19:27\" and following verses to Mat 19:30, See Poole on \"Mar 10:28\" and following verses to Mar 10:30. The difficulty is only to reconcile Luk 18:30 to God’s providences. For the everlasting life promised in the world to come, that is matter of faith, and not so much as seemingly contradicted by any providence of God. But how many lose much for Christ, that in this life do not receive manifold more, or a hundredfold!",
+     "verse": 28,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 19:27",
+       "ref": "MAT.19.27"
+      },
+      {
+       "text": "Mat 19:30",
+       "ref": "MAT.19.30"
+      },
+      {
+       "text": "Mar 10:28",
+       "ref": "MRK.10.28"
+      },
+      {
+       "text": "Mar 10:30",
+       "ref": "MRK.10.30"
+      },
+      {
+       "text": "Luk 18:30",
+       "ref": "LUK.18.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.28#p2-d45673e2",
+     "text": "It is true, if we understood it in specie. But the promise is not so to be interpreted. It is enough, if they do receive much more in valore, in value upon a true and just estimation. And this every sufferer for Christ hath, either,",
+     "anchor": "Answer"
+    },
+    {
+     "id": "poole/LUK.18.28#p3-3b784212",
+     "text": "1. In a joy, and peace, and assurance of God’s love, which is a thousand times more."
+    },
+    {
+     "id": "poole/LUK.18.28#p4-07377f62",
+     "text": "2. Or at least in a contentment of mind with that state into which the providence of God bringeth them: this also is much more, as any will judge it a happier state never to thirst, than to have much drink to satisfy the appetite."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.29",
+   "range": "LUK.18.29",
+   "kind": "passage",
+   "hash": "32ce3f2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.29#p1-32ce3f2a",
+     "text": "Luk 18:28\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:28",
+       "ref": "LUK.18.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.30",
+   "range": "LUK.18.30",
+   "kind": "passage",
+   "hash": "32ce3f2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.30#p1-32ce3f2a",
+     "text": "Luk 18:28\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:28",
+       "ref": "LUK.18.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.31",
+   "range": "LUK.18.31",
+   "kind": "passage",
+   "hash": "9483d874",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.31#p1-484bc71a",
+     "text": "Ver. 31-34. We shall afterward, in the history of our Saviour’s passion, see all these things exactly fulfilled, and our Lord here assures his disciples, that it was but in accomplishment of all that was prophesied concerning the Messiah; nor was it any more than he had told them, Luk 9:22, and again, Luk 9:44 Mat 20:17-19, Mar 10:32-34. Yet it is said, that they understood none of these things.",
+     "refs": [
+      {
+       "text": "Luk 9:22",
+       "ref": "LUK.9.22"
+      },
+      {
+       "text": "Luk 9:44",
+       "ref": "LUK.9.44"
+      },
+      {
+       "text": "Mat 20:17-19",
+       "ref": "MAT.20.17-19"
+      },
+      {
+       "text": "Mar 10:32-34",
+       "ref": "MRK.10.32-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.31#p2-4c96b741",
+     "text": "The words were easy enough to be understood, but they could not reconcile them to the notion of the Messiah which they had drank in, they could not conceive how the Messiah, that should redeem Israel, should die, or be thus barbarously used by those whom he came to redeem, or save. We have great need to consider well what notions we entertain concerning the things of God. All this blindness and unbelief of the disciples was bottomed in the false notion of the Messiah which they had taken up. However, our Saviour thought fit to inculcate them, to prepare them against the offence they might take at them when the providence of God brought them forth. It is good for us to hear, though it be only for the time to come."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.32",
+   "range": "LUK.18.32",
+   "kind": "passage",
+   "hash": "3bc98a2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.32#p1-3bc98a2a",
+     "text": "Luk 18:30\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:30",
+       "ref": "LUK.18.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.33",
+   "range": "LUK.18.33",
+   "kind": "passage",
+   "hash": "3bc98a2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.33#p1-3bc98a2a",
+     "text": "Luk 18:30\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:30",
+       "ref": "LUK.18.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.34",
+   "range": "LUK.18.34",
+   "kind": "passage",
+   "hash": "3bc98a2a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.34#p1-3bc98a2a",
+     "text": "Luk 18:30\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:30",
+       "ref": "LUK.18.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.35",
+   "range": "LUK.18.35",
+   "kind": "passage",
+   "hash": "c51c0214",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.35#p1-c51c0214",
+     "text": "This blind man was Bartimaeus, the son of Timaeus, as Mark tells us, Mar 10:46. Matthew mentions two, the other two evangelists but one, as being more famous, either upon his own or his father’s account.",
+     "refs": [
+      {
+       "text": "Mar 10:46",
+       "ref": "MRK.10.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.36",
+   "range": "LUK.18.36",
+   "kind": "passage",
+   "hash": "5bcbd8da",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.36#p1-c2bbf707",
+     "text": "Mat 20:30\", and following verses to Mat 20:34, See Poole on \"Mar 10:46\", and following verses to Mar 10:52, where this whole history is more fully opened. It is here again very remarkable, how much Christ attributes to faith:",
+     "verse": 36,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 20:30",
+       "ref": "MAT.20.30"
+      },
+      {
+       "text": "Mat 20:34",
+       "ref": "MAT.20.34"
+      },
+      {
+       "text": "Mar 10:46",
+       "ref": "MRK.10.46"
+      },
+      {
+       "text": "Mar 10:52",
+       "ref": "MRK.10.52"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.36#p2-33e9a0e0",
+     "text": "Luk 18:42, which can be no otherwise understood, than of faith as the condition that was required in the person to be healed, for it is most certain that Christ by his Divine power was the efficient cause of this blind man’s healing; but he exerted this Divine power upon that exercise of faith which he discerned in the blind man, whose faith seemeth to be a degree higher than that of the leper’s, Luk 17:13, who said no more than Jesus, Master. Jesus, thou Son of David, was much more than this. It speaks the blind man’s persuasion, that Christ was the Messiah; for it was an uncontrolled tradition amongst the Jews, that the Messiah was to be the Son of David. Christ rewards the least exercises of true faith, but much more the higher exercises of it. It doth not appear that this blind man was fully informed who the Messiah should be, viz. God man, but so far as he knew he professeth, he calleth Jesus the",
+     "anchor": "Thy faith hath saved thee",
+     "refs": [
+      {
+       "text": "Luk 18:42",
+       "ref": "LUK.18.42"
+      },
+      {
+       "text": "Luk 17:13",
+       "ref": "LUK.17.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.18.36#p3-9f8ea8e0",
+     "text": "Son of David."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.37",
+   "range": "LUK.18.37",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.37#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.38",
+   "range": "LUK.18.38",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.38#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.39",
+   "range": "LUK.18.39",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.39#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.40",
+   "range": "LUK.18.40",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.40#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.41",
+   "range": "LUK.18.41",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.41#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.42",
+   "range": "LUK.18.42",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.42#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.18.43",
+   "range": "LUK.18.43",
+   "kind": "passage",
+   "hash": "3bb4e22a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.18.43#p1-3bb4e22a",
+     "text": "Luk 18:36\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 18:36",
+       "ref": "LUK.18.36"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

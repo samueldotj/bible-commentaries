@@ -32,11 +32,26 @@ importer, not the files.
     very long sentence or list is cut at line breaks or semicolons.
   - Poetry keeps its line breaks as `\n`.
   - `heading: true` marks a heading inside a unit.
-  - Geneva notes carry `label` (`a`, `1`) and `anchor`: the KJV words the note explains, taken from
-    where the marker stands in the verse.
+  - `anchor` holds the words of the verse that a paragraph explains:
+    - Geneva: the KJV words where the note's marker stands;
+    - Poole: the bold words that open a note ("**The vision,**");
+    - Trapp: the words before the `]` ("Ver. 1. **A ruler of the Jews**]");
+    - Calvin: the italic words after the verse number ("**2.** *He came to Jesus by night.*").
+
+    They are the old English wording of the verse. The site can print them before the paragraph,
+    and the translation should use the IRV's wording.
+  - `verse` is the verse a paragraph is on, when it differs from the unit's first verse or the unit
+    covers several.
+  - `label` is a Geneva note's letter or number (`a`, `1`), or a footnote's marker.
+  - `footnote: true` marks a footnote: Calvin's editors' notes, or Trapp's Latin and Greek sources.
+    Its marker stays in the text it belongs to, as `{55}` or `{a}`, and the footnote follows that
+    paragraph.
 - **`refs`:** the references in a paragraph.
   - `text` is written as the commentator wrote it ("Mal. ii. 7", "Ro 3:31"), so the translator can
     find it.
   - `ref` is the verse id. A range across chapters is written `JHN.3.36-4.2`.
-- **Not included:** the KJV text that the modules repeat (Henry's passage before each section,
-  Geneva's verse before its notes). The site shows the IRV.
+- **Not included:**
+  - the KJV text that the modules repeat (Henry's passage before each section, Geneva's and Trapp's
+    verse before their notes, the KJV's closing lines to the epistles) — the site shows the IRV;
+  - Calvin's translation tables (0.29M words);
+  - Poole's "No text from Poole on this verse" placeholders.

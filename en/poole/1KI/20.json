@@ -1,0 +1,842 @@
+{
+ "source": "poole",
+ "book": "1KI",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/1KI.20",
+   "range": "1KI.20",
+   "kind": "chapter",
+   "hash": "4f66e5e5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20#p1-4f66e5e5",
+     "text": "Ben-hadad, not content with Ahab’s homage, besiegeth Samaria, 1Ki 20:1-12. By the direction of a prophet the Syrians are twice beaten, and Ben-hadad hides himself, 1Ki 20:13-30. The Syrians submit themselves, and Ahab maketh a covenant with Ben-hadad, 1Ki 20:31-34. The prophet by a parable reproveth Ahab, and denounceth judgments against him 1Ki 20:35-43.",
+     "refs": [
+      {
+       "text": "1Ki 20:1-12",
+       "ref": "1KI.20.1-12"
+      },
+      {
+       "text": "1Ki 20:13-30",
+       "ref": "1KI.20.13-30"
+      },
+      {
+       "text": "1Ki 20:31-34",
+       "ref": "1KI.20.31-34"
+      },
+      {
+       "text": "1Ki 20:35-43",
+       "ref": "1KI.20.35-43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.1",
+   "range": "1KI.20.1",
+   "kind": "passage",
+   "hash": "f7f46d1a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.1#p1-ece76bbe",
+     "text": "called Adad by Josephus, and Ader by the LXX., and Adores by Justin; such changes of names being usual in their translations into other languages, and by other authors.",
+     "anchor": "Ben-hadad"
+    },
+    {
+     "id": "poole/1KI.20.1#p2-0c183b63",
+     "text": "to war against Israel; wherein his design was to amplify the conquests which his father had made, 1Ki 15:20, but God’s design was to punish Israel for their apostacy and idolatry. Thirty and two kings; petty kings, such as were in Canaan in Joshua’s time, who indeed were no more than governors of cities or small territories. These were either subject or tributary to Ben-hadad, or hired by him.",
+     "anchor": "Gathered all his host together",
+     "refs": [
+      {
+       "text": "1Ki 15:20",
+       "ref": "1KI.15.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.3",
+   "range": "1KI.20.3",
+   "kind": "passage",
+   "hash": "b61e25a6",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.3#p1-b61e25a6",
+     "text": "I challenge them as my own, and accordingly expect to have them forthwith delivered into my possession, if thou expectest peace with me."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.4",
+   "range": "1KI.20.4",
+   "kind": "passage",
+   "hash": "d4e09edf",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.4#p1-d4e09edf",
+     "text": "I do so far comply with thy demand, that I will own thee for my lord, and myself for thy vassal and tributary; and will hold my wives, and children, and estate as by thy favour, and with an acknowledgment. But it is not likely that he would deliver up his wives and children into the barbarian’s hand, or that his proud and imperious wife Jezebel would permit him to do so."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.5",
+   "range": "1KI.20.5",
+   "kind": "passage",
+   "hash": "337b2136",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.5#p1-337b2136",
+     "text": "Although I did before demand not only the dominion of thy treasures, and wives, and children, as thou mayest seem to understand me, but also the propriety and actual possession of them, wherewith I would then have been contented;"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.6",
+   "range": "1KI.20.6",
+   "kind": "passage",
+   "hash": "e66390f8",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.6#p1-e66390f8",
+     "text": "Yet now I will not accept of those terms, but, together with thy royal treasures, I expect all the treasures of thy servants or subjects; nor will I wait till thou deliver them to me, but I will send my servants into the city, and they shall have free liberty and power to search out and take away all which they desire, and this to prevent fraud and delay; and then I will grant thee a peace."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.7",
+   "range": "1KI.20.7",
+   "kind": "passage",
+   "hash": "f96f72f3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.7#p1-d2c84691",
+     "text": "whose counsel and concurrence he now desires in his distress.",
+     "anchor": "The elders of the land"
+    },
+    {
+     "id": "poole/1KI.20.7#p2-16c880f4",
+     "text": "though he pretended peace, and a friendly agreement upon these terms propounded, it is apparent by those additional demands that he intends nothing less than our utter ruin.",
+     "anchor": "See how this man seeketh mischief"
+    },
+    {
+     "id": "poole/1KI.20.7#p3-93d885bd",
+     "text": "I granted his demands in the sense before mentioned.",
+     "anchor": "I denied him not"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.9",
+   "range": "1KI.20.9",
+   "kind": "passage",
+   "hash": "3d98b2b0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.9#p1-3d98b2b0",
+     "text": "if I would do it, I cannot, because my people will not suffer it.",
+     "anchor": "This thing I may not do"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.10",
+   "range": "1KI.20.10",
+   "kind": "passage",
+   "hash": "7dbcc6c0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.10#p1-7dbcc6c0",
+     "text": "If I do not assault thy city with so potent and numerous an army, that shall turn all thy city into a heap of dust, and shall be sufficient to carry it all away, though every soldier take but one handful of it: see the like boast 2Sa 17:13.",
+     "refs": [
+      {
+       "text": "2Sa 17:13",
+       "ref": "2SA.17.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.11",
+   "range": "1KI.20.11",
+   "kind": "passage",
+   "hash": "96a2a7d3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.11#p1-96a2a7d3",
+     "text": "Do not triumph before the fight and victory, for the events of war are uncertain."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.12",
+   "range": "1KI.20.12",
+   "kind": "passage",
+   "hash": "678fc4ee",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.12#p1-678fc4ee",
+     "text": "put yourselves and engines in order to make the assault.",
+     "anchor": "Set yourselves in array"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.13",
+   "range": "1KI.20.13",
+   "kind": "passage",
+   "hash": "fe6b96d9",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.13#p1-e69e6014",
+     "text": "who having hid himself before, now ventures to come to Ahab, having this welcome message in his mouth.",
+     "anchor": "There came a prophet"
+    },
+    {
+     "id": "poole/1KI.20.13#p2-5cad2414",
+     "text": "God, though forsaken and neglected by Ahab, prevents him with his gracious promise of help; partly that Ahab and the idolatrous Israelites might hereby be fully convinced, and won to God, or left without all excuse; and partly, that Ben-hadad’s intolerable pride, and contempt of God, and of his people, might be repressed and punished; and partly, that the remnant of his prophets and people who were involved in the same calamity with the rest of the Israelites might be preserved and delivered.",
+     "anchor": "Thus saith the Lord"
+    },
+    {
+     "id": "poole/1KI.20.13#p3-0c0f758a",
+     "text": "that I am the Lord, and not Baal, because I will deliver thee, which he cannot do.",
+     "anchor": "Thou shalt know"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.14",
+   "range": "1KI.20.14",
+   "kind": "passage",
+   "hash": "d5ac510a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.14#p1-9823c83e",
+     "text": "not by old and experienced soldiers, but by those young men; either the sons of the princes and great men of the land, who were generally fled thither for safety; or their pages or servants that used to attend upon them, who are bred up delicately, and seem unfit for the business.",
+     "anchor": "By the young men of the princes of the provinces"
+    },
+    {
+     "id": "poole/1KI.20.14#p2-d8d418d5",
+     "text": "partly to encourage the young men to fight courageously, as being in the presence of their prince; and partly that it might appear that the victory was wholly due to God’s gracious and powerful providence, and not to the valour or worthiness of the instruments.",
+     "anchor": "He answered, Thou"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.15",
+   "range": "1KI.20.15",
+   "kind": "passage",
+   "hash": "27d35ce7",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.15#p1-a12a5354",
+     "text": "either,",
+     "anchor": "All the children of Israel"
+    },
+    {
+     "id": "poole/1KI.20.15#p2-48fcea9a",
+     "text": "1. All the men; for they only went out to battle; and the rest of the men might be consumed with the sword or famine, or other judgments. Or rather,"
+    },
+    {
+     "id": "poole/1KI.20.15#p3-4dc4597f",
+     "text": "2. All the men of war, or all that were fit to go out to war; all except those whom their age, or infirmity, or other sufficient causes excused. Being seven thousand; which number may possibly be noted with respect unto those seven thousand, commended 1Ki 19:18, for whose sakes principally God gave this deliverance.",
+     "refs": [
+      {
+       "text": "1Ki 19:18",
+       "ref": "1KI.19.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.16",
+   "range": "1KI.20.16",
+   "kind": "passage",
+   "hash": "627fd345",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.16#p1-627fd345",
+     "text": "when they were eating, and drinking, and secure from all fear and expectation of an assault.",
+     "anchor": "They went out at noon"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.18",
+   "range": "1KI.20.18",
+   "kind": "passage",
+   "hash": "d9d19787",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.18#p1-d9d19787",
+     "text": "He bids them not fight; for he thought they needed not to strike one stroke, and that the Israelites could not stand the first brunt."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.20",
+   "range": "1KI.20.20",
+   "kind": "passage",
+   "hash": "4f8520d9",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.20#p1-e0b26cc7",
+     "text": "i.e. him who came to fight with him, or to seize upon him, as Ben-hadad had commanded.",
+     "anchor": "They slew every one his man"
+    },
+    {
+     "id": "poole/1KI.20.20#p2-1e7225b1",
+     "text": "being amazed at the unexpected and undaunted courage of the Israelites, and being struck with a Divine terror.",
+     "anchor": "The Syrians fled"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.21",
+   "range": "1KI.20.21",
+   "kind": "passage",
+   "hash": "4651d95b",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.21#p1-764c7e3f",
+     "text": "i.e. proceeded further in his march, and fought against them.",
+     "anchor": "Went out"
+    },
+    {
+     "id": "poole/1KI.20.21#p2-05b29d60",
+     "text": "i.e. the men that fought from them, or belonged to them; for so horses and chariots are sometimes taken. See Poole \"1Sa 13:5\".",
+     "anchor": "The horses and chariots",
+     "refs": [
+      {
+       "text": "1Sa 13:5",
+       "ref": "1SA.13.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.22",
+   "range": "1KI.20.22",
+   "kind": "passage",
+   "hash": "7fcf2bbd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.22#p1-cb5af742",
+     "text": "consider what is fit and necessary for thee to do by way of preparation, or prevention.",
+     "anchor": "Mark, and see what thou doest"
+    },
+    {
+     "id": "poole/1KI.20.22#p2-63a321bf",
+     "text": "next year about this time, when the season comes of going forth to battle; of which see 2Sa 11:1 1Ch 20:1 2Ch 36:10.",
+     "anchor": "At the return of the year",
+     "refs": [
+      {
+       "text": "2Sa 11:1",
+       "ref": "2SA.11.1"
+      },
+      {
+       "text": "1Ch 20:1",
+       "ref": "1CH.20.1"
+      },
+      {
+       "text": "2Ch 36:10",
+       "ref": "2CH.36.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.23",
+   "range": "1KI.20.23",
+   "kind": "passage",
+   "hash": "a30246b4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.23#p1-fd4ac63f",
+     "text": "suppose that their gods were no better than the Syrian gods, (which the idolatry of the Israelites had given them too great cause to imagine,) and that there were many gods who had each his particular charge and jurisdiction; which was the opinion of all heathen nations, that some were gods of the woods, others of the rivers, and others of the mountains; and they fancied these to be the latter, because the land of Canaan was a mountainous land, Deu 12:2; and the great temple of their god at Jerusalem stood upon a hill, and so did Samaria, where they had received their last blow: or because the Israelites did generally chose high places for the worship of their gods. It is observable that they do not impute their ill success to their negligence, and drunkenness, and bad conduct, or cowardice, of which they were really guilty; nor to the valour of the Israelites; but to a Divine power, which indeed was visible in it.",
+     "anchor": "The servants of the king of Syria",
+     "refs": [
+      {
+       "text": "Deu 12:2",
+       "ref": "DEU.12.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.23#p2-1451d03c",
+     "text": "wherein there was not only superstition, but policy, because the Syrians most excelled the Israelites in horses, which are most serviceable in plain ground.",
+     "anchor": "Let us fight against them in the plain"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.24",
+   "range": "1KI.20.24",
+   "kind": "passage",
+   "hash": "615cf3e8",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.24#p1-3b8f5cd6",
+     "text": "and less experienced in military matters, were less fit for his service; and being many of them but mercenaries, and therefore less concerned in his good success, would be more negligent and cautious in venturing themselves for his good.",
+     "anchor": "The kings being of softer education"
+    },
+    {
+     "id": "poole/1KI.20.24#p2-81e56139",
+     "text": "i.e. experienced soldiers of his own subjects, who will faithfully obey the commands of the general, (to which the kings would not so readily yield,) and use their utmost skill and valour for their own interest and advancement.",
+     "anchor": "Captains"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.26",
+   "range": "1KI.20.26",
+   "kind": "passage",
+   "hash": "0e41d48d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.26#p1-0e41d48d",
+     "text": "Not that Aphek in Judah, of which Jos 13:4 Jos 15:31; but that in Asher, of which Jos 19:30 Jud 1:31, nigh unto which was the great plain of Galilee. And this seems to be one of those cities which Ben-hadad’s father had taken from Israel, 1Ki 20:34. Here also the Syrians might retreat, if they should be worsted.",
+     "refs": [
+      {
+       "text": "Jos 13:4",
+       "ref": "JOS.13.4"
+      },
+      {
+       "text": "Jos 15:31",
+       "ref": "JOS.15.31"
+      },
+      {
+       "text": "Jos 19:30",
+       "ref": "JOS.19.30"
+      },
+      {
+       "text": "Jud 1:31",
+       "ref": "JUD.1.31"
+      },
+      {
+       "text": "1Ki 20:34",
+       "ref": "1KI.20.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.27",
+   "range": "1KI.20.27",
+   "kind": "passage",
+   "hash": "017df8cd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.27#p1-3c2143ea",
+     "text": "i.e. all the forces of the Israelites were here gathered together to oppose the Syrians; so if these had been conquered, all had been lost.",
+     "anchor": "Were all present"
+    },
+    {
+     "id": "poole/1KI.20.27#p2-0594a9b6",
+     "text": "being persuaded and encouraged so to do; partly to invent the mischiefs of a siege in Samaria, and the waste of all the rest of their country; and partly by the remembrance of their former success, and an expectation of the same assistance from God again.",
+     "anchor": "Went against them"
+    },
+    {
+     "id": "poole/1KI.20.27#p3-5b4486da",
+     "text": "probably upon some hilly ground, where they might secure themselves, and watch for advantage against their enemies; which may be the reason why the Syrians durst not assault them before the seventh day, 1Ki 20:29.",
+     "anchor": "Pitched before them",
+     "refs": [
+      {
+       "text": "1Ki 20:29",
+       "ref": "1KI.20.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.27#p4-73275c8f",
+     "text": "i.e. few, and weak, and heartless; being also for conveniency of fighting, and that they might seem to be more than they were, divided into two bodies.",
+     "anchor": "Like two little flocks of kids"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.28",
+   "range": "1KI.20.28",
+   "kind": "passage",
+   "hash": "2af8bad6",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.28#p1-2af8bad6",
+     "text": "which he knew, either by common report, strengthened by their present choice of a plain ground for the battle; or rather, by revelation from God, who discovered their secret counsels, 2Ki 6:12. I am the Lord, to wit, the universal Lord of all places, and persons, and things.",
+     "anchor": "Because the Syrians have said",
+     "refs": [
+      {
+       "text": "2Ki 6:12",
+       "ref": "2KI.6.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.30",
+   "range": "1KI.20.30",
+   "kind": "passage",
+   "hash": "d1a9179d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.30#p1-8b2ae35a",
+     "text": "or, the walls, (the singular number for the plural, than which nothing more frequent,) of the city; or of some great castle or fort in or near the city, in which they were now fortifying themselves; or of some part of the city where they lay. Which might possibly happen through natural causes; but most probably was effected by the mighty power of God, then sending some sudden earthquake, or violent storm of wind, which threw down the wall, or walls, upon them; or doing this by the ministry of angels; which cannot be incredible to any man, except to him that denies the truth of all the miracles recorded in the Old and New Testament; which being attested, many of them, by Jews and heathens, it is the height of folly and impudence to deny. For if ever miracle was to be wrought, now seems to have been the proper time and season for it; when the blasphemous Syrians denied the sovereign and infinite power of God, and thereby in some sort obliged him, for his own honour, to give a proof of it; and to show that he was the God of the plains as well as of the mountains, and that he could as effectually destroy them in their strongest holds as in the open fields, and make the very walls, to whose strength they trusted for their defence, to be the instruments of their ruin. But it may be further observed, that it is not said that all these were killed by the fall of this wall; but only that the wall fell upon them, killing some, and wounding others, as is usual in those cases. Nor is it necessary that the wall should fall upon every individual person; but it is sufficient to justify this phrase, if it fell upon the main body of them; for the words in the Hebrew ran thus,",
+     "anchor": "The wall"
+    },
+    {
+     "id": "poole/1KI.20.30#p2-052d13f9",
+     "text": "(not of the men that are left, as we render it, but) which were left of that great army. Into the city; either,",
+     "anchor": "the wall fell upon twenty-seven thousand"
+    },
+    {
+     "id": "poole/1KI.20.30#p3-5a8eabae",
+     "text": "1. Out of the fields, as the rest of his army did; which is distinctly and particularly noted of him, because he was the most eminent person in it, and the head of it. Compare the title of Psa 18:1. Or,",
+     "refs": [
+      {
+       "text": "Psa 18:1",
+       "ref": "PSA.18.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.30#p4-01900523",
+     "text": "2. At and from the noise and report of that terrible fall of the wall, or walls; which possibly might be in the outside or suburbs of the city; from whence he fled further into the city."
+    },
+    {
+     "id": "poole/1KI.20.30#p5-b77323dc",
+     "text": "or, a chamber within a chamber; where he supposed he might lie hid, till he had an opportunity of making an escape, or of obtaining mercy.",
+     "anchor": "Into an inner chamber"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.31",
+   "range": "1KI.20.31",
+   "kind": "passage",
+   "hash": "1e847075",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.31#p1-fcb22c8d",
+     "text": "more merciful than others, because that religion which they had professed taught them humanity, and obliged them to show mercy.",
+     "anchor": "Merciful kings"
+    },
+    {
+     "id": "poole/1KI.20.31#p2-d509b1c0",
+     "text": "as a testimony of our sorrow for undertaking this war; and that we have justly forfeited our lives for it, which we submit to their mercy.",
+     "anchor": "Sackcloth on our loins, and ropes upon our heads"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.32",
+   "range": "1KI.20.32",
+   "kind": "passage",
+   "hash": "16bcfc01",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.32#p1-16bcfc01",
+     "text": "I do not only freely pardon him, but honour and love him as my brother."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.33",
+   "range": "1KI.20.33",
+   "kind": "passage",
+   "hash": "822f5c59",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.33#p1-0d346030",
+     "text": "or, they took that word for a good token, and made haste and snatched it (i.e. that word) from him, i.e. from his mouth; they repeated the word again, to try whether the king would own it, or it only dropped casually from him: or made haste to know whether it was from him, i.e. whether he spoke this from his heart, or only in dissimulation or design; for it seemed too good news to be true.",
+     "anchor": "Did hastily catch it"
+    },
+    {
+     "id": "poole/1KI.20.33#p2-6fe6d0e0",
+     "text": "understand, liveth; for that he inquired after, 1Ki 8:32.",
+     "anchor": "Thy brother Ben-hadad",
+     "refs": [
+      {
+       "text": "1Ki 8:32",
+       "ref": "1KI.8.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.34",
+   "range": "1KI.20.34",
+   "kind": "passage",
+   "hash": "29ba014c",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.34#p1-a12a5354",
+     "text": "either,",
+     "anchor": "The cities which my father took from thy father"
+    },
+    {
+     "id": "poole/1KI.20.34#p2-e10f2364",
+     "text": "1. From Baasha, 1Ki 15:20, whom he calls Ahab’s father, because he was his legal father, i.e. his predecessor. Or,",
+     "refs": [
+      {
+       "text": "1Ki 15:20",
+       "ref": "1KI.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.34#p3-c263613c",
+     "text": "2. From Omri; in whose time, it seems, he made a successful invasion into the land of Israel, and took some more of the cities, and Aphek amongst the rest, though it be not elsewhere recorded in Scripture."
+    },
+    {
+     "id": "poole/1KI.20.34#p4-e85112e7",
+     "text": "or markets, &c., places where thou mayest either receive the tribute which I promise to pay thee, or exercise judicature upon my subjects in case of their refusal; or outlets (as the LXX. render it) in or into Damascus, i.e. some strong fort near Damascus, which might curb the kings of Damascus, and keep them from attempting any other invasion into the land of Israel. With this covenant: he takes no notice of his blasphemy against God, nor of the vast injuries which his people had suffered from him; but only minds his own grandeur, and the advancement of his power.",
+     "anchor": "Thou shalt make streets"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.35",
+   "range": "1KI.20.35",
+   "kind": "passage",
+   "hash": "03e322ea",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.35#p1-d3378e1b",
+     "text": "or brother; another son of the prophets.",
+     "anchor": "Unto his neighbour"
+    },
+    {
+     "id": "poole/1KI.20.35#p2-0f68124f",
+     "text": "in the name and by the command of God, whereof doubtless he had informed him.",
+     "anchor": "In the word of the Lord"
+    },
+    {
+     "id": "poole/1KI.20.35#p3-e34e99c7",
+     "text": "so as to wound me, 1Ki 20:37. He speaks what God commanded him, though it was to his own hurt; by which obedience to God he secretly reproacheth Ahab’s disobedience in a far easier matter. And this the prophet by God’s appointment desires, that looking like a wounded soldier, he might have the more free access to the king, and discourse with him; which it was very hard for a prophet to obtain, that sort of men being hateful to Ahab, 1Ki 22:8, and to his courtiers.",
+     "anchor": "Smite me",
+     "refs": [
+      {
+       "text": "1Ki 20:37",
+       "ref": "1KI.20.37"
+      },
+      {
+       "text": "1Ki 22:8",
+       "ref": "1KI.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.35#p4-e1d8d424",
+     "text": "not out of contempt of God’s command, but most probably in tenderness and compassion to his brother.",
+     "anchor": "The man refused to smite him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.36",
+   "range": "1KI.20.36",
+   "kind": "passage",
+   "hash": "0a48a022",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.36#p1-9f295713",
+     "text": "If the punishment seem too severe for so small a fault, let it be considered."
+    },
+    {
+     "id": "poole/1KI.20.36#p2-09a72eed",
+     "text": "1. That disobedience to God’s express command, especially when it is delivered by a prophet, is a great sin, and no less than capital, Deu 18:19.",
+     "refs": [
+      {
+       "text": "Deu 18:19",
+       "ref": "DEU.18.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.36#p3-fd36a2d4",
+     "text": "2. This fault was much worse in a prophet, who very well knew the authority of God’s commands, and this way or manner of publishing them."
+    },
+    {
+     "id": "poole/1KI.20.36#p4-0b11b7b4",
+     "text": "3. We cannot judge of the case, because this man might be guilty of many other heinous sins unknown to us, but known to God; for which God might justly cut him off; which God chose to do upon this occasion, that by the severity of this punishment of a prophet’s disobedience, proceeding from pity to his brother, he might teach Ahab the greatness of his sin, in sparing him through foolish pity, whom by the laws of religion, and justice, and prudence, and common safety, he should have cut off, and what punishment he might expect for it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.38",
+   "range": "1KI.20.38",
+   "kind": "passage",
+   "hash": "6ab05d52",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.38#p1-9709d6e4",
+     "text": "That he might sooner gain access to the king, and audience from him. See Poole \"1Ki 20:35\".",
+     "refs": [
+      {
+       "text": "1Ki 20:35",
+       "ref": "1KI.20.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.38#p2-d61fb16b",
+     "text": "whereby he changed the colour of it. Or, with a veil, or cloth, or band, (as the Hebrew doctors understand the word,) whereby he might seem to have bound up his wound, which probably was in his face; for it was to be made in a very conspicuous place, that it might be visible to Ahab and others.",
+     "anchor": "With ashes"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.39",
+   "range": "1KI.20.39",
+   "kind": "passage",
+   "hash": "33cfde3d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.39#p1-7e3c25ed",
+     "text": "this following relation is not an untruth, but a parable; a usual way of instruction in the eastern parts, and ancient times, and most fit for this occasion, wherein an obscure prophet was to speak to a great king; whose ears were tender, and impatient of a downright reproof, and exceeding partial in his own cause; who by this artifice is made to condemn himself before he was aware of it, and so forced to receive the prophet’s just sentence with more patience and moderation: compare 1Sa 12 1Sa 14.",
+     "anchor": "Thy servant went out"
+    },
+    {
+     "id": "poole/1KI.20.39#p2-dec4ff6c",
+     "text": "my commander or superior, as the manner of his expression here following showeth.",
+     "anchor": "A man turned aside"
+    },
+    {
+     "id": "poole/1KI.20.39#p3-8430115f",
+     "text": "thou shalt die in his stead; as below, 1Ki 20:42: compare Exo 21:23.",
+     "anchor": "Then shall thy life be for his life",
+     "refs": [
+      {
+       "text": "1Ki 20:42",
+       "ref": "1KI.20.42"
+      },
+      {
+       "text": "Exo 21:23",
+       "ref": "EXO.21.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.40",
+   "range": "1KI.20.40",
+   "kind": "passage",
+   "hash": "67724204",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.40#p1-67724204",
+     "text": "i. e. Thy sentence; or the sentence against thee: thou must perform the condition to which thou didst submit; either suffer the one, or do the other."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.41",
+   "range": "1KI.20.41",
+   "kind": "passage",
+   "hash": "33cb0322",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.41#p1-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/1KI.20.41#p2-c69c86ee",
+     "text": "1. By his face, which was known either to the king, or to some of his courtiers there present. Or,"
+    },
+    {
+     "id": "poole/1KI.20.41#p3-b2c004ca",
+     "text": "2. By the change of the manner of his address to him, which now was such as the prophets used."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.42",
+   "range": "1KI.20.42",
+   "kind": "passage",
+   "hash": "af8c533d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.42#p1-1ae3895f",
+     "text": "What was the great sin of Ahab in this action for which God so severely punisheth him?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/1KI.20.42#p2-0e9a942f",
+     "text": "The great dishonour hereby done to God in suffering so horrid a blasphemer, 1Ki 20:23, to go unpunished, which was, contrary to an express law, Lev 24:16.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Ki 20:23",
+       "ref": "1KI.20.23"
+      },
+      {
+       "text": "Lev 24:16",
+       "ref": "LEV.24.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.42#p3-331d23a4",
+     "text": "What is this to Ben-hadad, seeing that law concerned Israelites only?",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/1KI.20.42#p4-b764fc66",
+     "text": "It reached both to them that were born in the land, and (as is there expressed) unto strangers that were among them, and in their power, which was Ben-hadad’s case; for God had delivered him into Ahab’s hand for his blasphemy, as he promised to do, 1Ki 20:28, by which act of his providence, especially compared with that law, it was most evident that this man was appointed by God to destruction, as is here said. But Ahab was so far from punishing this blasphemer, that he doth not so much as rebuke him, but treats him like a friend and a brother; dismisseth him upon easy terms, and takes his word for the performance, and takes not the least care for the reparation of God’s honour, but only for the amplification of his own power.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Ki 20:28",
+       "ref": "1KI.20.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.20.42#p5-12904773",
+     "text": "Thy people for his people."
+    },
+    {
+     "id": "poole/1KI.20.42#p6-5df68915",
+     "text": "Why were the people punished for Ahab’s sin?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/1KI.20.42#p7-8021a6c4",
+     "text": "1. Because Ahab was punished in the loss of his people.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/1KI.20.42#p8-bdcffdd5",
+     "text": "2. The people were punished for their own sins, which were many and great; though God took this occasion to inflict it."
+    },
+    {
+     "id": "poole/1KI.20.42#p9-f93308bd",
+     "text": "3. The great injury and mischief was hereby done to his own people, who by this most foolish and wicked act were exposed to all those rapines and slaughters which Ben-hadad either did commit, or might have committed, against them afterwards; of which consequently Ahab was guilty. And it must be considered that all the Israelites were the Lord’s peculiar people; nor did their apostacy from God deprive God of his right; and the kings of Israel and Judah had these committed to them, in way of trust, to be governed and protected by them. And therefore Ahab for this gross breach of his trust was justly liable, though not to the censures of his people, yet to the hand of God, who was his King and Governor."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.20.43",
+   "range": "1KI.20.43",
+   "kind": "passage",
+   "hash": "8e6d3a08",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.20.43#p1-8e6d3a08",
+     "text": "not for his sin, but for the sad effects of it upon himself and people; which he might confidently expect, having had many experiences that God did not suffer the words of his prophets to fall to the ground.",
+     "anchor": "Heavy and displeased"
+    }
+   ]
+  }
+ ]
+}

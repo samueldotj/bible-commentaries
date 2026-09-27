@@ -1,0 +1,64 @@
+{
+ "source": "poole",
+ "book": "2CH",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "poole/2CH.10",
+   "range": "2CH.10",
+   "kind": "chapter",
+   "hash": "7d262f6d",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.10#p1-7d262f6d",
+     "text": "Rehoboam made king. The Israelites by Jeroboam request a relaxation, 2Ch 10:1-5. Rehoboam refusing the old men’s counsel, by the advice of young men, answereth them roughly, 2Ch 10:6-15. Ten tribes revolting, kill Hadoram, and make Rehoboam to flee, 2Ch 10:16-19.",
+     "refs": [
+      {
+       "text": "2Ch 10:1-5",
+       "ref": "2CH.10.1-5"
+      },
+      {
+       "text": "2Ch 10:6-15",
+       "ref": "2CH.10.6-15"
+      },
+      {
+       "text": "2Ch 10:16-19",
+       "ref": "2CH.10.16-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.10.1",
+   "range": "2CH.10.1",
+   "kind": "passage",
+   "hash": "8a58e6b9",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.10.1#p1-8a58e6b9",
+     "text": "The contents of this chapter are in 1Ki 12$, where see the notes."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.10.3",
+   "range": "2CH.10.3",
+   "kind": "passage",
+   "hash": "fd6e2b07",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.10.3#p1-fd6e2b07",
+     "text": "or, for (as that particle is oft used, as hath been noted before) they had sent, &c. So this is the reason why he returned, as was said, 2Ch 10:2.",
+     "anchor": "And they sent",
+     "refs": [
+      {
+       "text": "2Ch 10:2",
+       "ref": "2CH.10.2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

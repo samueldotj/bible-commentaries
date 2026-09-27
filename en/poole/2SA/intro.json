@@ -1,0 +1,21 @@
+{
+ "source": "poole",
+ "book": "2SA",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/2SA",
+   "range": "2SA",
+   "kind": "book",
+   "title": "THE SECOND BOOK OF SAMUEL OTHERWISE CALLED",
+   "hash": "aac3c376",
+   "paragraphs": [
+    {
+     "id": "poole/2SA#p1-77a37d1c",
+     "text": "THE SECOND BOOK OF THE KINGS",
+     "heading": true
+    }
+   ]
+  }
+ ]
+}

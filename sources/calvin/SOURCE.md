@@ -55,3 +55,20 @@ The CrossWire module was also surveyed:
 It lacks the comment on each verse in Psalms, Zechariah, Malachi, 1–2 Timothy and Titus: those books
 have only chapter arguments and translation tables. For example, it has 115,220 words for Psalms against
 763,597 in CCEL.
+
+## Import (`tools/import_calvin.py`)
+
+- 13,724 units, 80,662 paragraphs, 7,012,859 words:
+  - 41 book introductions: Calvin's Arguments and his own prefaces (to the Psalms, the Harmony of the
+    Law, Isaiah, Jeremiah, Daniel);
+  - 231 chapter introductions: Psalm arguments and chapter headnotes;
+  - 13,452 comments on verses.
+- 14,628 paragraphs open with a verse number and the words explained ("**2.** *He came to Jesus by
+  night.*"). These are kept as `verse` and `anchor`.
+- 15,490 footnote paragraphs by the Calvin Translation Society editors, marked `{55}` in the text.
+  Whether they are translated is still open.
+- Left out:
+  - translation tables (0.29M words inside comments; more in the section openings);
+  - dedications, translators' prefaces, title pages, indexes, and the Daniel dissertations.
+- The Harmony of the Gospels' Argument goes with Matthew.
+- 511 bare headings ("PSALM 23.") are dropped.

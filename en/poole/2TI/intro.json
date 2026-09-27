@@ -1,0 +1,39 @@
+{
+ "source": "poole",
+ "book": "2TI",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/2TI",
+   "range": "2TI",
+   "kind": "book",
+   "title": "2 TIMOTHY",
+   "hash": "394f9f48",
+   "paragraphs": [
+    {
+     "id": "poole/2TI#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/2TI#p2-193f1073",
+     "text": "This Second Epistle to Timothy was most certainly written from Rome, when Paul was a prisoner there, 2Ti 1:8, and, as most judge, a very little while before his death, for he tells us, 2Ti 4:7-8, that he was ready to be offered, he had finished his course, the time of his departure was at hand. He is said to have died Anno Christi 68, and in the five and thirtieth after his conversion; so this Epistle was written about sixteen years after the writing of the former.",
+     "refs": [
+      {
+       "text": "2Ti 1:8",
+       "ref": "2TI.1.8"
+      },
+      {
+       "text": "2Ti 4:7-8",
+       "ref": "2TI.4.7-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/2TI#p3-90afc4f2",
+     "text": "The scope of it is much the same as of the former: to exhort and encourage him to faithfulness in his ministry, to keep stedfast in the faith, to be diligent in his work; to avoid all strifes of words, perverse disputings, &c. He also in it admonisheth him, that the latter times were like to be yet more dangerous, and therefore adviseth him to prepare for hardship and persecutions, propounding his own example to him, both as to doctrine and as to suffering."
+    }
+   ]
+  }
+ ]
+}

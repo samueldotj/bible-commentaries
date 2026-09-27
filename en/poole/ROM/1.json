@@ -1,0 +1,1582 @@
+{
+ "source": "poole",
+ "book": "ROM",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/ROM.1",
+   "range": "ROM.1",
+   "kind": "chapter",
+   "hash": "c8f6da70",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1#p1-0dee7510",
+     "text": "Rom 1:1-7 Paul, commending to the Romans his calling, greets them,",
+     "refs": [
+      {
+       "text": "Rom 1:1-7",
+       "ref": "ROM.1.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1#p2-1794b3d5",
+     "text": "Rom 1:8-15 and professes his concern for, and desire of coming to see them.",
+     "refs": [
+      {
+       "text": "Rom 1:8-15",
+       "ref": "ROM.1.8-15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1#p3-c76cc9ab",
+     "text": "Rom 1:16,17 He shows that the gospel is for the justification of all mankind through faith.",
+     "refs": [
+      {
+       "text": "Rom 1:16",
+       "ref": "ROM.1.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1#p4-1464144c",
+     "text": "Rom 1:18-32 And having premised that sinners in general are obnoxious to God’s wrath, he describes at large the corruption of the Gentile world.",
+     "refs": [
+      {
+       "text": "Rom 1:18-32",
+       "ref": "ROM.1.18-32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.1",
+   "range": "ROM.1.1",
+   "kind": "passage",
+   "hash": "360763e7",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.1#p1-01f49135",
+     "text": "is a higher title than monarch of the world: several great emperors styled themselves Christ’s vassals. He so calls himself, either in respect of his condition, which was common with him to all true Christians; or else in respect of his office. Of old, they who were in great offices were called the servants of God: see Jos 1:1 Neh 1:6 Psa 132:10. Or else in respect of his singular and miraculous conversion: by reason of which, he thought himself so obliged to Christ, that he wholly addicted or devoted himself to his service.",
+     "anchor": "A servant of Jesus Christ",
+     "refs": [
+      {
+       "text": "Jos 1:1",
+       "ref": "JOS.1.1"
+      },
+      {
+       "text": "Neh 1:6",
+       "ref": "NEH.1.6"
+      },
+      {
+       "text": "Psa 132:10",
+       "ref": "PSA.132.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.1#p2-8fcb3150",
+     "text": "appointed to that high office by the immediate call of Christ himself: see Gal 1:1 Tit 1:3. The history of this call you have in Act 9:15.",
+     "anchor": "Called to be an apostle",
+     "refs": [
+      {
+       "text": "Gal 1:1",
+       "ref": "GAL.1.1"
+      },
+      {
+       "text": "Tit 1:3",
+       "ref": "TIT.1.3"
+      },
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.1#p3-a727992d",
+     "text": "Two things are couched in this phrase:"
+    },
+    {
+     "id": "poole/ROM.1.1#p4-6406dd17",
+     "text": "1. That he did not take this honour to himself, but was thereunto appointed and called of God."
+    },
+    {
+     "id": "poole/ROM.1.1#p5-f78f9765",
+     "text": "2. That this apostolical dignity was not by any desert of his, but by grace only, and the free gift of him that calleth."
+    },
+    {
+     "id": "poole/ROM.1.1#p6-a174eb12",
+     "text": "It was formerly matter of admiration, and so it became a proverb in Israel: Is Saul also among the prophets? And we may say, with great astonishment, Is Saul also among the apostles? He that a little before had seen him doing what he is recorded to have done, Act 26:10,11, would never have dreamed of any such thing.",
+     "refs": [
+      {
+       "text": "Act 26:10",
+       "ref": "ACT.26.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.1#p7-abc59215",
+     "text": "either from his mother’s womb, in the purpose of God, Gal 1:15; so Jeremiah of old, Jer 1:5. Or else it may have respect to Act 13:2, where the Holy Ghost did actually order he should be separated for the work to which he had called him. The Greek word, in both places, is the same. Or else it may respect the more immediate commission he had from Christ himself, Act 9:15 26:16-18. Some think he alludes to the name of Pharisee, which is from separating: when he was a Pharisee, he was separated to the law of God; and now, being a Christian, he was separated to the gospel of God.",
+     "anchor": "Separated",
+     "refs": [
+      {
+       "text": "Gal 1:15",
+       "ref": "GAL.1.15"
+      },
+      {
+       "text": "Jer 1:5",
+       "ref": "JER.1.5"
+      },
+      {
+       "text": "Act 13:2",
+       "ref": "ACT.13.2"
+      },
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.1#p8-583a8a18",
+     "text": "that is, to the preaching and publishing of it. The gospel is sometimes called the gospel of God, as in this place; and sometimes the gospel of Christ, as in Rom 1:16: it is said to be the gospel of God, because he is the author of it, it is not a human invention; and it is said to be the gospel of Christ, because he is the matter and subject of it.",
+     "anchor": "Unto the gospel of God",
+     "refs": [
+      {
+       "text": "Rom 1:16",
+       "ref": "ROM.1.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.2",
+   "range": "ROM.1.2",
+   "kind": "passage",
+   "hash": "c5b36fe0",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.2#p1-82d90cec",
+     "text": "the meaning is not, that the history of the gospel was promised by the prophets, but that Jesus Christ, with all his benefits, (which is the direct subject of the gospel history and revelation), was promised or foreshown by them.",
+     "anchor": "Which he had promised"
+    },
+    {
+     "id": "poole/ROM.1.2#p2-8a18346b",
+     "text": "this word is added to prevent the imputation of novelty: q.d. Let none object and say, the gospel is a new and modern doctrine; for it was promised or foretold of old, by all the prophets which have been since the world began, Luk 1:70.",
+     "anchor": "Afore",
+     "refs": [
+      {
+       "text": "Luk 1:70",
+       "ref": "LUK.1.70"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.2#p3-82bd4cb8",
+     "text": "by prophets we may understand, not only those that were commonly dignified with that title, but all those also whom God condescended to converse with in a familiar manner, revealing his secrets to them: that such are called prophets, see Gen 20:7 Psa 105:15.",
+     "anchor": "By his prophets",
+     "refs": [
+      {
+       "text": "Gen 20:7",
+       "ref": "GEN.20.7"
+      },
+      {
+       "text": "Psa 105:15",
+       "ref": "PSA.105.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.2#p4-ab472178",
+     "text": "to wit, of the Old Testament; he hath respect to the oracles and promises therein contained, concerning Christ and his kingdom; chiefly to Gen 3:15 49:8,10 Deu 18:18 Psa 16:10 Psa 22:1-31 40:1-17 110:1 Isa 7:14 9:6 53:1-12 63:1-3 Dan 9:24-26 Mic 5:2 Zec 9:9 Mal 3:1, &c. He hereby intimates, that there is a great harmony and consent betwixt the prophets and apostles, the doctrine of the Old Testament and the New; see Luk 24:44 Joh 12:16 Act 10:43. Our modern translators include this verse in a parenthesis; the ancients did not.",
+     "anchor": "In the holy Scriptures",
+     "refs": [
+      {
+       "text": "Gen 3:15",
+       "ref": "GEN.3.15"
+      },
+      {
+       "text": "Psa 16:10",
+       "ref": "PSA.16.10"
+      },
+      {
+       "text": "Psa 22:1-31",
+       "ref": "PSA.22.1-31"
+      },
+      {
+       "text": "Isa 7:14",
+       "ref": "ISA.7.14"
+      },
+      {
+       "text": "Dan 9:24-26",
+       "ref": "DAN.9.24-26"
+      },
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      },
+      {
+       "text": "Mal 3:1",
+       "ref": "MAL.3.1"
+      },
+      {
+       "text": "Luk 24:44",
+       "ref": "LUK.24.44"
+      },
+      {
+       "text": "Joh 12:16",
+       "ref": "JHN.12.16"
+      },
+      {
+       "text": "Act 10:43",
+       "ref": "ACT.10.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.3",
+   "range": "ROM.1.3",
+   "kind": "passage",
+   "hash": "1587c529",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.3#p1-bb6d2659",
+     "text": "this phrase either respects the Holy Scriptures, mentioned immediately before in Rom 1:2; the sum and substance of them is, concerning the Messiah, the Son of God: or else it respects the gospel, that was spoken of in the Rom 1:1,2 being only a parenthesis, as was before hinted; then the meaning is, that the apostle Paul was separated to the gospel of God, which only or mainly concerns his Son Jesus Christ. And this seems to show the excellency of the gospel, that it doth not treat of vulgar and ordinary matters. as of the gods of the Gentiles, or the actions of Alexander, Caesar, the Scipios, or such like heroes; but of the Son of God himself.",
+     "anchor": "Concerning his Son Jesus Christ our Lord",
+     "refs": [
+      {
+       "text": "Rom 1:2",
+       "ref": "ROM.1.2"
+      },
+      {
+       "text": "Rom 1:1",
+       "ref": "ROM.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.3#p2-d5bf184f",
+     "text": "i.e. as he afterwards expresseth it, according to the flesh, or his human nature: in regard of his Divine subsistence, he was begotten and not made; in regard of his manhood, he was made and not begotten. When he says the Son of God was made, & c., it is undeniably implied, that he did exist before his incarnation, and was the Son of God before he was the Son of man. This place proves clearly these two truths:",
+     "anchor": "Which was made"
+    },
+    {
+     "id": "poole/ROM.1.3#p3-b2f36d80",
+     "text": "1. That in the person of Jesus Christ there are two natures."
+    },
+    {
+     "id": "poole/ROM.1.3#p4-bd3fa63f",
+     "text": "2. That there is between these a communication of properties; here the Son of God is said to be made of the seed of David; and elsewhere the Son of man is said to have come down from heaven: see Joh 3:13: cf. Joh 6:62 Act 20:28 1Co 2:8.",
+     "refs": [
+      {
+       "text": "Joh 3:13",
+       "ref": "JHN.3.13"
+      },
+      {
+       "text": "Joh 6:62",
+       "ref": "JHN.6.62"
+      },
+      {
+       "text": "Act 20:28",
+       "ref": "ACT.20.28"
+      },
+      {
+       "text": "1Co 2:8",
+       "ref": "1CO.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.3#p5-f51eb306",
+     "text": "i.e. of the virgin Mary, who was of David’s lineage and posterity; the promise was expressly, that the Messiah should be of the fruit of his loins, Act 2:30, compared saith Isa 11:1 Jer 23:5 Eze 34:24. Yea, this promise was so fully known to the Jews, that when they spake of the Messiah, they called him the Son of David: see Mat 21:9 22:42 Mar 10:47,48 Joh 7:42. Hence it is that the evangelists, Matthew and Luke, are so careful and industrious to prove, that the virgin Mary, and Joseph to whom she was espoused, did come of David’s line and race.",
+     "anchor": "Of the seed of David",
+     "refs": [
+      {
+       "text": "Act 2:30",
+       "ref": "ACT.2.30"
+      },
+      {
+       "text": "Isa 11:1",
+       "ref": "ISA.11.1"
+      },
+      {
+       "text": "Jer 23:5",
+       "ref": "JER.23.5"
+      },
+      {
+       "text": "Eze 34:24",
+       "ref": "EZK.34.24"
+      },
+      {
+       "text": "Mat 21:9",
+       "ref": "MAT.21.9"
+      },
+      {
+       "text": "Mar 10:47",
+       "ref": "MRK.10.47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.4",
+   "range": "ROM.1.4",
+   "kind": "passage",
+   "hash": "a08cd4f9",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.4#p1-19c5a0a9",
+     "text": "Not made the Son of God, as he was said before to be made of the seed of David; but"
+    },
+    {
+     "id": "poole/ROM.1.4#p2-df30a5af",
+     "text": "or demonstrated, to be the Son of God.",
+     "anchor": "declared"
+    },
+    {
+     "id": "poole/ROM.1.4#p3-7c1ec940",
+     "text": "this refers either to the word declared, and then the meaning is, he was powerfully or miraculously declared to be the Son of God; the Greek word ordinarily signifies a miracle in the New Testament: or else it refers to the last words, the Son of God; and then the sense is, he was declared to be the powerful and omnipotent Son of God, of the same power and majesty with the Father.",
+     "anchor": "With power"
+    },
+    {
+     "id": "poole/ROM.1.4#p4-d7bd7a4f",
+     "text": "By the spirit of holiness, some would understand the Third Person in the blessed Trinity, which is often called the Holy Spirit, and here the Spirit of holiness; but others, and they more rightly, do understand the Deity and Divine nature of Christ; this is called the Spirit, 1Ti 3:16 1Pe 3:18; and the eternal Spirit, Heb 9:14 and here it is called the Spirit of holiness, or the most Holy Spirit, and that, probably, because of its effects; for thereby he sanctified his natural body, and still sanctifies his mystical body, the church. That this is the meaning is evident, by the opposition between the flesh and the Spirit: as according to the flesh, in the former verse, did signify his human nature; so according to the Spirit, in this verse, doth signify his Divine nature. See the like antithesis in 1Ti 3:16 1Pe 3:18.",
+     "refs": [
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "1Pe 3:18",
+       "ref": "1PE.3.18"
+      },
+      {
+       "text": "Heb 9:14",
+       "ref": "HEB.9.14"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      },
+      {
+       "text": "1Pe 3:18",
+       "ref": "1PE.3.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.4#p5-b974fbb2",
+     "text": "because it is said, the resurrection of the dead, not from the dead, some would understand the words of Lazarus, and others, who by the power of Christ were raised from the dead; and others would understand the words of those who were raised with Christ, when he himself arose: see Mat 27:52,53. But in Scripture the resurrection of the dead, is put for the resurrection from the dead; see 1Co 15:42 Heb 6:2; and hereby is meant the resurrection of Christ himself: he rose again from the dead, and thereby declared or manifested himself to be the Son of God with power: see Joh 2:19,21 5:26 10:18 1Co 15:4. And though it be said in Scripture, that the Father raised him from the dead, Act 2:24 13:30,33; yet that doth not hinder but by his own power he raised himself; seeing the Father and he were one, and the works of the Three Persons in one and the same Essence are undivided.",
+     "anchor": "By the resurrection from the dead",
+     "refs": [
+      {
+       "text": "Mat 27:52",
+       "ref": "MAT.27.52"
+      },
+      {
+       "text": "1Co 15:42",
+       "ref": "1CO.15.42"
+      },
+      {
+       "text": "Heb 6:2",
+       "ref": "HEB.6.2"
+      },
+      {
+       "text": "Joh 2:19",
+       "ref": "JHN.2.19"
+      },
+      {
+       "text": "1Co 15:4",
+       "ref": "1CO.15.4"
+      },
+      {
+       "text": "Act 2:24",
+       "ref": "ACT.2.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.5",
+   "range": "ROM.1.5",
+   "kind": "passage",
+   "hash": "d1a0aa81",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.5#p1-58fba697",
+     "text": "or of whom; by whom, as Mediator, or of whom, as Author and Giver.",
+     "anchor": "By whom"
+    },
+    {
+     "id": "poole/ROM.1.5#p2-a01c747f",
+     "text": "some make these two distinct gifts; the one common, which is grace; the other special, which is apostleship: others think, that, by an hendiadis, he means the grace of apostleship; which he so calls, because it was conferred upon him, not for any desert of his, but by the mere favour and free grace of God. It is his manner to call his apostleship by the name or style of grace: see Rom 15:15 Gal 2:9 Eph 3:2,8.",
+     "anchor": "Grace and apostleship",
+     "refs": [
+      {
+       "text": "Rom 15:15",
+       "ref": "ROM.15.15"
+      },
+      {
+       "text": "Gal 2:9",
+       "ref": "GAL.2.9"
+      },
+      {
+       "text": "Eph 3:2",
+       "ref": "EPH.3.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.5#p3-eab656b1",
+     "text": "you have the same phrase, Rom 16:26, and there it is rendered for the obedience of faith. By faith here some understand the gospel or doctrine of faith; it hath this sense, Act 6:7 Jud 1:3, &c.; and then the meaning is, God, of his mere grace, hath given me this office, that I might bring the nations to believe, and work in them obedience to the doctrine of the gospel. Others understand the grace of faith; and then the meaning is, I have received this office, that I might bring the nations to believe, and so to obey the gospel. Therefore obedience is joined with faith, because by faith we obey the commands of God; and faith itself consists in obedience, and is the great command of the gospel.",
+     "anchor": "For obedience to the faith",
+     "refs": [
+      {
+       "text": "Rom 16:26",
+       "ref": "ROM.16.26"
+      },
+      {
+       "text": "Act 6:7",
+       "ref": "ACT.6.7"
+      },
+      {
+       "text": "Jud 1:3",
+       "ref": "JUD.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.5#p4-cdc679bf",
+     "text": "according to the general commission, Mat 28:19, and a more special commission to this apostle; see Act 9:15 Gal 2:7,8 1Ti 2:7 2Ti 1:11.",
+     "anchor": "Among all nations",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      },
+      {
+       "text": "Gal 2:7",
+       "ref": "GAL.2.7"
+      },
+      {
+       "text": "1Ti 2:7",
+       "ref": "1TI.2.7"
+      },
+      {
+       "text": "2Ti 1:11",
+       "ref": "2TI.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.5#p5-598ef0ec",
+     "text": "that the nations might believe in his name; so some: others suppose these words are added to declare the end of Paul’s preaching and apostleship, which was to set forth the glory and praise of Christ: see 2Th 1:12.",
+     "anchor": "For his name",
+     "refs": [
+      {
+       "text": "2Th 1:12",
+       "ref": "2TH.1.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.6",
+   "range": "ROM.1.6",
+   "kind": "passage",
+   "hash": "aa21c788",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.6#p1-2688acb7",
+     "text": "the Romans are in this number, and a part of the nations to whom I have a commission, and for whom I have received the grace of apostleship. He adds this, to show his warrant for writing to them, he did it by virtue of his office; as also to humble them; for though they were Romans, and such as bore the greatest sway in the world, yet they were formerly pagans and idolaters.",
+     "anchor": "Among whom are ye also"
+    },
+    {
+     "id": "poole/ROM.1.6#p2-47d87c93",
+     "text": "though such were some of you, to wit, heathen idolaters; yet now you are Christians, and the called of Jesus Christ: called outwardly by his word, and inwardly by his Spirit. By effectual calling you are become his disciples and followers.",
+     "anchor": "The called of Jesus Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.7",
+   "range": "ROM.1.7",
+   "kind": "passage",
+   "hash": "e79ffbfd",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.7#p1-deadba90",
+     "text": "he doth not direct this Epistle to all that there inhabited, as to the emperor and senate, &c.; but to the church, and all the Christians there, as appears by the two following phrases. He wrote not to those only which were Romans by nation, but to all the faithful, whether Jews or Gentiles, bond or free, for they were all one and alike in Christ. They are deceived that think this Epistle, because directed to the Romans, was written in Latin. The Greek tongue was well understood in that city. Juvenal calls Rome a Greek city, because the inhabitants, as well natives as strangers, did some of them use, and most of them understand, that language.",
+     "anchor": "To all that be in Rome"
+    },
+    {
+     "id": "poole/ROM.1.7#p2-750dfda8",
+     "text": "or, called saints; though there might be hypocrites amongst them, yet they were denominated from the better part. The Jews of old were only accounted a holy nation or people; and the Gentiles, common or unclean; but now that difference is taken away, faith in Jesus Christ, and effectual calling, makes the Gentiles holy as well as the Jews. The name saint doth not denote a perfection in holiness, but one that is devoted and consecrated to God, who is holy in heart and life, though he hath many imperfections.",
+     "anchor": "Called to be saints"
+    },
+    {
+     "id": "poole/ROM.1.7#p3-2a68a9ab",
+     "text": "under these two words, grace and peace, are comprehended all spiritual and temporal blessings. It is a usual salutation or benediction in the Epistles of this apostle: see 1Co 1:3 2Co 1:2 Gal 1:3 Eph 1:2 Php 1:2 Col 1:2 2Th 1:2 1Ti 1:2 Tit 1:4 Phm 1:3. See the like in the Epistles of Peter, 1Pe 1:2 2Pe 1:2. See also 2Jn 1:3 Rev 1:4.",
+     "anchor": "Grace to you, and peace",
+     "refs": [
+      {
+       "text": "1Co 1:3",
+       "ref": "1CO.1.3"
+      },
+      {
+       "text": "2Co 1:2",
+       "ref": "2CO.1.2"
+      },
+      {
+       "text": "Gal 1:3",
+       "ref": "GAL.1.3"
+      },
+      {
+       "text": "Eph 1:2",
+       "ref": "EPH.1.2"
+      },
+      {
+       "text": "Php 1:2",
+       "ref": "PHP.1.2"
+      },
+      {
+       "text": "Col 1:2",
+       "ref": "COL.1.2"
+      },
+      {
+       "text": "2Th 1:2",
+       "ref": "2TH.1.2"
+      },
+      {
+       "text": "1Ti 1:2",
+       "ref": "1TI.1.2"
+      },
+      {
+       "text": "Tit 1:4",
+       "ref": "TIT.1.4"
+      },
+      {
+       "text": "Phm 1:3",
+       "ref": "PHM.1.3"
+      },
+      {
+       "text": "1Pe 1:2",
+       "ref": "1PE.1.2"
+      },
+      {
+       "text": "2Pe 1:2",
+       "ref": "2PE.1.2"
+      },
+      {
+       "text": "2Jn 1:3",
+       "ref": "2JN.1.3"
+      },
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.7#p4-2ee4f8bb",
+     "text": "why is there no mention made here of the Holy Ghost?",
+     "anchor": "From God our Father, and the Lord Jesus Christ"
+    },
+    {
+     "id": "poole/ROM.1.7#p5-73c0e9f3",
+     "text": "Because he is implied in his gifts: grace and peace are the fruits and gifts of the Holy Spirit. In other salutations the Holy Ghost is expressed; see 2Co 13:14; and here, when the Father and Son are named, he is plainly implied.",
+     "anchor": "Answer",
+     "refs": [
+      {
+       "text": "2Co 13:14",
+       "ref": "2CO.13.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.8",
+   "range": "ROM.1.8",
+   "kind": "passage",
+   "hash": "3f18bc89",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.8#p1-4cc95da7",
+     "text": "here, is not a word of order, for there follows no secondly, &c.; but it serves to show, that here the Epistle begins, for all before was but a preface or inscription: q.d. In the first place. See the like, 1Ti 2:1.",
+     "anchor": "First",
+     "refs": [
+      {
+       "text": "1Ti 2:1",
+       "ref": "1TI.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.8#p2-018a9de8",
+     "text": "that is, through many parts of it; it is a figurative speech: see the like, Joh 12:19. Or else, by the whole world may be understood the Roman empire, which ruled at that time over a great part of the known world. See the like, Luk 2:1. Besides, there was a resort to Rome from all parts of the world, and so this report might be diffused far and near. The faith of the gospel at Rome made it more famous than all its victories and triumphs. Oh, how is Rome degenerated! We may take up the complaint concerning her which we find, Isa 1:11,12. The Romanists urge this place to prove Rome the mother church; but without reason: the church of Thessalonica had as high a eulogy: see 1Th 1:8.",
+     "anchor": "Throughout the whole world",
+     "refs": [
+      {
+       "text": "Joh 12:19",
+       "ref": "JHN.12.19"
+      },
+      {
+       "text": "Luk 2:1",
+       "ref": "LUK.2.1"
+      },
+      {
+       "text": "Isa 1:11",
+       "ref": "ISA.1.11"
+      },
+      {
+       "text": "1Th 1:8",
+       "ref": "1TH.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.9",
+   "range": "ROM.1.9",
+   "kind": "passage",
+   "hash": "172c78b5",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.9#p1-675271d7",
+     "text": "in these words there is the force, if not the form, of an oath. See the like, 2Co 1:18 11:31 Gal 1:20. His great love and care of them was a hidden thing, and known only to God; to him therefore he appeals for the truth thereof. Oaths, in certain cases, are allowable under the New Testament, as well as the Old.",
+     "anchor": "God is my witness",
+     "refs": [
+      {
+       "text": "2Co 1:18",
+       "ref": "2CO.1.18"
+      },
+      {
+       "text": "Gal 1:20",
+       "ref": "GAL.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.9#p2-e3560464",
+     "text": "i.e. sincerely, or with my whole heart: see Eph 6:6 2Ti 1:3.",
+     "anchor": "With my spirit",
+     "refs": [
+      {
+       "text": "Eph 6:6",
+       "ref": "EPH.6.6"
+      },
+      {
+       "text": "2Ti 1:3",
+       "ref": "2TI.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.9#p3-c34f21a5",
+     "text": "i.e. as often as he prayed. This was a great indication of his hearty affection to them.",
+     "anchor": "Without ceasing"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.10",
+   "range": "ROM.1.10",
+   "kind": "passage",
+   "hash": "73c16a29",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.10#p1-7dda34e5",
+     "text": "this was one thing he requested of God, that what he had long desired and designed might happily (if it seemed good in God’s sight) be at last accomplished, that he might come in person to them. This desire of Paul to see the Romans might be one cause of that appeal which he made to Rome, Act 25:10,11,",
+     "anchor": "Making request",
+     "refs": [
+      {
+       "text": "Act 25:10",
+       "ref": "ACT.25.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.10#p2-72e120e6",
+     "text": "he adds this, because, in publishing the gospel, he followed the order which God, by his Spirit, prescribed him: see Act 16:7,9,10.",
+     "anchor": "By the will of God",
+     "refs": [
+      {
+       "text": "Act 16:7",
+       "ref": "ACT.16.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.11",
+   "range": "ROM.1.11",
+   "kind": "passage",
+   "hash": "663e67c5",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.11#p1-ef0c1976",
+     "text": "He declares his end in desiring to see them; it was not his own profit, but their edification."
+    },
+    {
+     "id": "poole/ROM.1.11#p2-8ab59eed",
+     "text": "he means some one or other of those gifts of the Spirit, of which particular mention is made, 1Co 12:7-11.",
+     "anchor": "By some spiritual gift",
+     "refs": [
+      {
+       "text": "1Co 12:7-11",
+       "ref": "1CO.12.7-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.11#p3-237b2733",
+     "text": "q.d. I do not intend to bring any new doctrine to you, but to confirm and establish you in that which you have already heard and received. Establishing grace is that which all Christians stand in need of. See Rom 16:25 1Th 3:8,13 2Th 2:15-17.",
+     "anchor": "To the end ye may be established",
+     "refs": [
+      {
+       "text": "Rom 16:25",
+       "ref": "ROM.16.25"
+      },
+      {
+       "text": "1Th 3:8",
+       "ref": "1TH.3.8"
+      },
+      {
+       "text": "2Th 2:15-17",
+       "ref": "2TH.2.15-17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.12",
+   "range": "ROM.1.12",
+   "kind": "passage",
+   "hash": "f39902be",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.12#p1-9553f651",
+     "text": "This is added to qualify what he had said before, lest he should seem to arrogate too much to himself; he tells them, he hoped not only to comfort them, but to be comforted by them. The meanest of Christ’s members may contribute somewhat to the edifying even of an apostle. The apostle John did hope to be quickened and comforted by the graces of a woman and her children, 2Jn 1:12. Great is the benefit of the communion of saints.",
+     "refs": [
+      {
+       "text": "2Jn 1:12",
+       "ref": "2JN.1.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.12#p2-0d4873af",
+     "text": "i.e. by the faith which you and I have in Jesus Christ; which he elsewhere calls the common faith, and the faith of God’s elect. All true comfort springs from faith.",
+     "anchor": "By the mutual faith both of you and me"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.13",
+   "range": "ROM.1.13",
+   "kind": "passage",
+   "hash": "724c93e6",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.13#p1-f1346f2b",
+     "text": "He prevents a cavil; they might say, If Paul hath such a longing desire to see us, why doth he not come to us? To this he answers, it was not for want of will or affection; for he often intended and attempted it."
+    },
+    {
+     "id": "poole/ROM.1.13#p2-a2d4143d",
+     "text": "either by Satan, as 1Th 2:18; or by the Holy Spirit otherwise disposing of him, as Act 16:6,7 Ro 15:22. It is possible that he might be hindered also by his own infirmities, or by others’ necessities and entreaties, Act 10:48 16:15 28:14.",
+     "anchor": "But was let hitherto",
+     "refs": [
+      {
+       "text": "1Th 2:18",
+       "ref": "1TH.2.18"
+      },
+      {
+       "text": "Act 16:6",
+       "ref": "ACT.16.6"
+      },
+      {
+       "text": "Act 10:48",
+       "ref": "ACT.10.48"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.13#p3-1b01bcd4",
+     "text": "i.e. of my ministry and calling, as the apostle of the uncircumcision. He hoped the gospel he should preach among them would have good success, and bring forth fruit in them, as it had done in other churches of the Gentiles. See Col 1:6.",
+     "anchor": "That I might have some fruit",
+     "refs": [
+      {
+       "text": "Col 1:6",
+       "ref": "COL.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.14",
+   "range": "ROM.1.14",
+   "kind": "passage",
+   "hash": "c3c75eb3",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.14#p1-e43d80da",
+     "text": "as being obliged by virtue of my calling, and as being intrusted by God with talents to that purpose. You are not beholden to me for this desire, as if it were an arbitrary favour, for it is my bounden duty.",
+     "anchor": "I am debtor"
+    },
+    {
+     "id": "poole/ROM.1.14#p2-7442921d",
+     "text": "i.e. to all nations, which he divides into these two sorts, Greeks and Barbarians. The Jews he mentions not, because he was the doctor of the Gentiles.",
+     "anchor": "Both to the Greeks, and to the Barbarians"
+    },
+    {
+     "id": "poole/ROM.1.14#p3-5cfb7736",
+     "text": "by these he understands particular persons among the Greeks and Barbarians, for there were among either of them some wise, and some unwise. The gospel is adapted to all sorts of persons, whether wise or simple.",
+     "anchor": "Both to the wise, and to the unwise"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.15",
+   "range": "ROM.1.15",
+   "kind": "passage",
+   "hash": "5f7c7fe8",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.15#p1-5f7c7fe8",
+     "text": "q.d. I have preached it at Antioch, at Athens, at Ephesus, at Corinth, &c.; and I: am ready (if God permit) to preach it in the most splendid city of Rome likewise. So the reason is not in myself, or in my own will, why I have not come to you all this while."
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.16",
+   "range": "ROM.1.16",
+   "kind": "passage",
+   "hash": "d1115c16",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.16#p1-7d5ca53e",
+     "text": "Though Rome be the head of the empire, and the Romans bear the name of wise and learned persons; and though the gospel hath the show of simplicity, and is foolishness to the wise men of this world; yet"
+    },
+    {
+     "id": "poole/ROM.1.16#p2-242052f2",
+     "text": "to own and publish this gospel of Christ. I do not shrink back, and withdraw myself, as men do from these things whereof they are ashamed. Neither indeed need I, because, how mean soever it seems to be to carnal eyes, yet",
+     "anchor": "I am not ashamed"
+    },
+    {
+     "id": "poole/ROM.1.16#p3-f320d5cc",
+     "text": "& c.; not the essential power of God, but the organical power. See the like, 1Co 1:18. The meaning is, it is a powerful means ordained of God for this purpose. Touching the efficacy and excellent power of the gospel for the conversion and salvation of the souls of men, see Isa 53:1 1Co 4:15 2Co 4:7 2Co 10:4,5 Heb 4:12 Jas 1:21.",
+     "anchor": "it is the power of God unto salvation",
+     "refs": [
+      {
+       "text": "1Co 1:18",
+       "ref": "1CO.1.18"
+      },
+      {
+       "text": "Isa 53:1",
+       "ref": "ISA.53.1"
+      },
+      {
+       "text": "1Co 4:15",
+       "ref": "1CO.4.15"
+      },
+      {
+       "text": "2Co 4:7",
+       "ref": "2CO.4.7"
+      },
+      {
+       "text": "2Co 10:4",
+       "ref": "2CO.10.4"
+      },
+      {
+       "text": "Jas 1:21",
+       "ref": "JAS.1.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.16#p4-04a9c20b",
+     "text": "the gospel is offered unto all, but it profiteth unto salvation only those that believe; as a medicine is only effectual to those who receive or apply it.",
+     "anchor": "To every one that believed"
+    },
+    {
+     "id": "poole/ROM.1.16#p5-2a6d2f61",
+     "text": "the gospel was first to be published to the Jews, and then to the Gentiles, whom he here calls Greeks: see Luk 24:47 Act 1:8. This order the apostles accordingly kept and observed, Act 13:46.",
+     "anchor": "To the Jew first, and also to the Greek",
+     "refs": [
+      {
+       "text": "Luk 24:47",
+       "ref": "LUK.24.47"
+      },
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      },
+      {
+       "text": "Act 13:46",
+       "ref": "ACT.13.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.17",
+   "range": "ROM.1.17",
+   "kind": "passage",
+   "hash": "d30323df",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.17#p1-87d3a992",
+     "text": "It will give light to this whole Epistle, to explain what is here meant by"
+    },
+    {
+     "id": "poole/ROM.1.17#p2-a54eb17c",
+     "text": "Some do thereby understand the whole doctrine of salvation and eternal life, which is revealed in the gospel; and they make it the same with the faith of God, Rom 3:3, and with the truth of God, Rom 3:7. Others, by the righteousness of God, do understand that righteousness whereby a man is justified, or stands just and righteous in the sight of God: and it is called the righteousness of God, to distinguish it from our own righteousness, Rom 10:3, and because it is appointed, approved, and accepted by him, it being such as he himself can find no fault with. Further, it is called",
+     "anchor": "the righteousness of God",
+     "refs": [
+      {
+       "text": "Rom 3:3",
+       "ref": "ROM.3.3"
+      },
+      {
+       "text": "Rom 3:7",
+       "ref": "ROM.3.7"
+      },
+      {
+       "text": "Rom 10:3",
+       "ref": "ROM.10.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.17#p3-cbbc5216",
+     "text": "because it was performed by him, who is God as well as man, and imputed unto us: hence he is said to be made righteousness unto us, and we are said to be made the righteousness of God in him; we having his righteousness, as he had our sins, viz. by imputation. This is often called the righteousness of faith, because by faith it is apprehended and applied. And again, it is called the law of righteousness, Rom 9:31, in opposition to that law of righteousness whereby the unbelieving Jews sought to be justified.",
+     "anchor": "the righteousness of God",
+     "refs": [
+      {
+       "text": "Rom 9:31",
+       "ref": "ROM.9.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.17#p4-af6f1ea6",
+     "text": "Revealed; the law of God discovers no suchway of justifying a sinner, nor is it taught by reason or philosophy: the gospel only makes a revelation of it; which occasioned the apostle’s glorying in it."
+    },
+    {
+     "id": "poole/ROM.1.17#p5-34ed8f65",
+     "text": "From faith to faith: this apostle seems to delight in such repetitions, and there is an elegancy in them: see Rom 6:19 2Co 2:16 2Co 3:18. The words are variously interpreted: from the fiath of the Old Testament to the faith of the New; so that no person ever was or shall be justified in any other way. Or, from a lesser faith to a greater; not noting two faiths, but one and the same faith increasing to perfection. He saith not, from faith to works, or from works to faith; but from faith to faith, i.e. only by faith. The words to be must be understood: q.d. The gospel reveals the righteousness of God to be from faith to faith. The beginning, the continuance, the accomplishment of our justification is wholly absolved by faith.",
+     "refs": [
+      {
+       "text": "Rom 6:19",
+       "ref": "ROM.6.19"
+      },
+      {
+       "text": "2Co 2:16",
+       "ref": "2CO.2.16"
+      },
+      {
+       "text": "2Co 3:18",
+       "ref": "2CO.3.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.17#p6-378abe57",
+     "text": "The just shall live by faith: some refer these words, by faith, to the subject of this proposition, the just; and thus they render it: The just by faith shall live; and so read, the foregoing proposition is the better proved thereby. There is some diffculty to understand the fitness of this testimony to prove the conclusion in hand; for it is evident, that the prophet Habakkuk, in whom these words are found, doth speak of a temporal preservation; and what is that to eternal life?"
+    },
+    {
+     "id": "poole/ROM.1.17#p7-26fd4b32",
+     "text": "Answer. The Babylonian captivity figured out our spiritual bondage under sin and Satan; and deliverance from that calamity did shadow forth our deliverance from hell, to be procured by Christ: compare Isa 40:2-4, with Mat 3:3. Again, general sentences applied to particular cases, are not thereby restrained to those particulars, but still retain the generality of their nature: see Mat 19:6. Again, one and the same faith apprehends and gives us interest in all the promises of God; and as by it we live in temporal dangers, so by it we are freed from eternal destruction.",
+     "refs": [
+      {
+       "text": "Isa 40:2-4",
+       "ref": "ISA.40.2-4"
+      },
+      {
+       "text": "Mat 3:3",
+       "ref": "MAT.3.3"
+      },
+      {
+       "text": "Mat 19:6",
+       "ref": "MAT.19.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.18",
+   "range": "ROM.1.18",
+   "kind": "passage",
+   "hash": "3e93a71f",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.18#p1-1109e607",
+     "text": "He proceeds to prove the principal proposition laid down in the foregoing verse; the causal particle for implies as much. Men must be justified by the righteousness of God, because they have no righteousness of their own to justify them, they themselves are all unrighteous. This he proves both of the Gentiles and Jews. He begins with the Gentiles, and proves it upon them, from this verse to Rom 2:17; and then he proves it upon the Jews also, from thence to the end of the 3rd chapter. {Rom 2:18-3:31}",
+     "refs": [
+      {
+       "text": "Rom 2:17",
+       "ref": "ROM.2.17"
+      },
+      {
+       "text": "Rom 2:18-3",
+       "ref": "ROM.2.18-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.18#p2-53ae4e4c",
+     "text": "it is revealed in the word of God, or rather, by the judgments which he inflicteth.",
+     "anchor": "The wrath of God is revealed"
+    },
+    {
+     "id": "poole/ROM.1.18#p3-ae8acf65",
+     "text": "i.e. from God in heaven. Plagues and judgments spring not out of the dust, proceed not originally from second causes, much less do they come by chance.",
+     "anchor": "From heaven"
+    },
+    {
+     "id": "poole/ROM.1.18#p4-d1ab698b",
+     "text": "the abstract is put for the concrete; he means unrighteous and ungodly men; but he chooseth this way of speaking, because God, when he punisheth, aims at the sins of men; and would not punish their persons, but for their sins. By ungodliness, understand sins against the first table, which are mentioned Rom 1:21,23: by unrighteousness, sins against the second, of which there is mention at large, from Rom 1:26 to the end of the chapter.",
+     "anchor": "Against all ungodliness and unrighteousness of men",
+     "refs": [
+      {
+       "text": "Rom 1:21",
+       "ref": "ROM.1.21"
+      },
+      {
+       "text": "Rom 1:26",
+       "ref": "ROM.1.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.18#p5-0e100444",
+     "text": "by truth, understand all that light which is left in man since the fall. There are in all men some common notions of God, his nature and will; some common principles also of equity and charity towards men, which nature itself teacheth, and upon which the consciences of the Gentiles did accuse or excuse them. These natural notions concerning God and their neighbour they did not obey and follow, but wickedly suppressed them. They imprisoned the truth which they acknowledged, that they might sin the more securely. The metaphor is taken from tyrants, who oppress the innocent, and imprison them: so the Gentiles did by the truth which they had by nature, they kept it in and under.",
+     "anchor": "Who hold the truth in unrighteousness"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.19",
+   "range": "ROM.1.19",
+   "kind": "passage",
+   "hash": "bee78a4a",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.19#p1-8f32c138",
+     "text": "or, that which is knowable of God, viz. by the light of nature. The apostle, by a prolepis, prevents an objection which some might make in excuse of the Gentiles: how could they sufficate or suppress the truth, seeing they wanted the Scripture, and were without the knowledge of it? To this he answers, that they were not wholly without knowledge, for that which might be known of God was manifest in them, and revealed to them.",
+     "anchor": "That which may be known of God"
+    },
+    {
+     "id": "poole/ROM.1.19#p2-fca736ba",
+     "text": "i.e. in their heart and minds; see Rom 2:15: or, to and among them; as appears by many of their learned writers, who have left behind them many clear discourses, and wise essays and sayings, about this matter, though they themselves did act contrary thereunto.",
+     "anchor": "Is manifest in them",
+     "refs": [
+      {
+       "text": "Rom 2:15",
+       "ref": "ROM.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.19#p3-872599c8",
+     "text": "i.e. as before, by the light of nature in their consciences, or by the consideration of the creatures, as it follows in the next verse.",
+     "anchor": "For God hath showed it unto them"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.20",
+   "range": "ROM.1.20",
+   "kind": "passage",
+   "hash": "1b3b3bba",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.20#p1-7df81e18",
+     "text": "Because it might be further objected in behalf of the Gentiles, that the notions of God imprinted in their nature are so weak, that they may be well excused; therefore the apostle adds, that the certainty of them is further confirmed by the book of the creatures, which was written before them in capital letters, so that he that runs may read."
+    },
+    {
+     "id": "poole/ROM.1.20#p2-22218613",
+     "text": "the apostle tells us afterwards himself what he means by the invisible things of God, viz. his being and his attributes, particularly his eternity and almighty power; to which we might add, his wisdom, goodness, &c. These, though invisible in themselves, yet are discernible by his works, and that ever since the creation of the world. By what they see created, they may easily collect or understand, that there is an eternal and almighty Creator; they may argue from the effects to the cause.",
+     "anchor": "The invisible things of him"
+    },
+    {
+     "id": "poole/ROM.1.20#p3-41cf8595",
+     "text": "some render it, that they may be without excuse; but it is better rendered in our translation: the meaning is not, that God gave them that knowledge for this end and purpose, that they might be inexcusable, for they might catch even at that for an excuse; but the plain sense is this, that God hath given all men such means of knowledge as sufficeth to leave them without excuse, there can be no pretence of ignorance.",
+     "anchor": "So that they are without excuse"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.21",
+   "range": "ROM.1.21",
+   "kind": "passage",
+   "hash": "5281bebc",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.21#p1-57bea78c",
+     "text": "either this must be referred to the words immediately foregoing, and then it is a reason why the Gentiles are inexcusable,",
+     "anchor": "Because"
+    },
+    {
+     "id": "poole/ROM.1.21#p2-6bd6f349",
+     "text": "&c.; or else it refers to Rom 1:18, and then it is a proof of their withholding the truth in unrighteousness, because, & c.",
+     "anchor": "because that, when they knew God, they glorified him not as God",
+     "refs": [
+      {
+       "text": "Rom 1:18",
+       "ref": "ROM.1.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.21#p3-49f551c1",
+     "text": "they had a natural knowledge of God, it was taught them, as before, by the light of natnre, and by the book of the creatures. Though this was not sufficient to save them, yet it was sufficient to save them without excuse.",
+     "anchor": "They knew God"
+    },
+    {
+     "id": "poole/ROM.1.21#p4-b6b00b27",
+     "text": "they did not conceive of him and worship him as became his Divine excellencies and perfections; see Psa 29:2.",
+     "anchor": "They glorified him not as God",
+     "refs": [
+      {
+       "text": "Psa 29:2",
+       "ref": "PSA.29.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.21#p5-38746672",
+     "text": "they did not own God to be the Author and Giver of all the good things they enjoyed, and return him thanks accordingly; but referred all to chance and fortune, their own prudence and providence, the influence of the stars, &c.",
+     "anchor": "Neither were thankful"
+    },
+    {
+     "id": "poole/ROM.1.21#p6-323597f1",
+     "text": "or reasonings. This hath chief respect to the conception and opinions that the heathen framed to themselves of the Divine Being. For though some denied there was a God, and others doubted thereof, yet generally it was acknowledged by them; yea, some owned a multiplicity of gods, and those either corporeal or incorporeal. Others acknowledged but one God, as Plato, Aristotle, &c.; but then they either denied his providence, as the Peripatetics, or tied him to second or inferior causes, as the Stoics. This is the vanity which the apostle here speaketh of. Note also, that idols, the frame of idle brains, are called vanities: see Deu 32:21 Jer 10:15 Act 14:15.",
+     "anchor": "But became vain in their imaginations",
+     "refs": [
+      {
+       "text": "Deu 32:21",
+       "ref": "DEU.32.21"
+      },
+      {
+       "text": "Jer 10:15",
+       "ref": "JER.10.15"
+      },
+      {
+       "text": "Act 14:15",
+       "ref": "ACT.14.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.21#p7-33e328f7",
+     "text": "by the heart is meant the mind, their very understandings were darkened, the natural reason in them was obscured. This was a just judgment upon them for their abuse of knowledge, and pride, of which in the next verse. {see Rom 1:22}",
+     "anchor": "And their foolish heart was darkened",
+     "refs": [
+      {
+       "text": "Rom 1:22",
+       "ref": "ROM.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.22",
+   "range": "ROM.1.22",
+   "kind": "passage",
+   "hash": "ac4ec22a",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.22#p1-d7c81c8b",
+     "text": "Some think, that all along this context the apostle hath reference to the Gnostics, a sort of heretics in the first age, (of which see Dr. Hammond in locum), and that the meaning of the words is this, That they, assuming the title of Gnostics, of knowing men, and of men wiser than others, have proved more sottish than any. Others think the words refer to the heathen philosophers, who though they were learned and wise in secular and natural things, yet they became fools in spiritual and heavenly matters; though they well understood the creature, yet they erred concerning the Creator."
+    },
+    {
+     "id": "poole/ROM.1.22#p2-32d5de05",
+     "text": "And as fools delight in toys, neglecting things of great value; so they set up puppets and idols of their own devising, in the room of the true God; which the apostle gives us in the next verse, as a demonstration of their folly. Socrates, who was accounted one of the wisest amongst them, desired his friends, when he was about to die, to offer for him a cock to Aesculapius, which he had vowed."
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.23",
+   "range": "ROM.1.23",
+   "kind": "passage",
+   "hash": "4f6c1617",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.23#p1-0ccffa36",
+     "text": "you have the same phrase, Psa 106:20 Jer 2:11; and from thence it is borrowed.",
+     "anchor": "Changed the glory of the uncorruptible God",
+     "refs": [
+      {
+       "text": "Psa 106:20",
+       "ref": "PSA.106.20"
+      },
+      {
+       "text": "Jer 2:11",
+       "ref": "JER.2.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.23#p2-f3e79599",
+     "text": "the apostle proeeedeth from the more worthy to the less worthy creatures, that the grossness of their idolatry might the better appear; and these four are put for all other kinds.",
+     "anchor": "Into an image made like to corruptible man, &c"
+    },
+    {
+     "id": "poole/ROM.1.23#p3-6842a12b",
+     "text": "This gross idolatry of the heathen in worshipping such images as are here spoken of, was practised by the Israelites; see Eze 8:10,11: and so it is by the Romanists to this day; nor doth it avail them to say, they do not worship images, but the true God in or before those images; for the same plea was made by the idolaters of old. Symmachus, in a learned oration, wherein he craved of the emperors Valentinian and Theodosius the restitution of the Roman gods, affirms, that they had respect only to one God; but they had divers ways to bring them to that God: they did not hold such things as they worshipped to be God, but in them they said they worshipped the true God. That worship which is intended to God by an image, is not the worship of God, but of the image. Compare Psa 106:19,20, with Exo 32:4,5.",
+     "refs": [
+      {
+       "text": "Eze 8:10",
+       "ref": "EZK.8.10"
+      },
+      {
+       "text": "Psa 106:19",
+       "ref": "PSA.106.19"
+      },
+      {
+       "text": "Exo 32:4",
+       "ref": "EXO.32.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.24",
+   "range": "ROM.1.24",
+   "kind": "passage",
+   "hash": "87f282ad",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.24#p1-137285d5",
+     "text": "their impiety was the cause of what followed: this is repeated again, that it may be the better observed. The contempt of God and of religion is the cause of all wickedness.",
+     "anchor": "Wherefore"
+    },
+    {
+     "id": "poole/ROM.1.24#p2-9053b05a",
+     "text": "this phrase is thrice used in this context, viz. Rom 1:24,26,28: it seems to be taken out of Psa 81:12. Some think his giving them up, is only’ his withdrawing his grace from them, and permitting them to sin; but there seems to be more in it than a bare subtraction or permission. He did not only leave them to themselves, but, in a judicial way, he put then, into the hands of Satan, and of their own lusts; as it is said, Psa 69:27, he added iniquity to their iniquity, making the latter iniquity a punishment of the former.",
+     "anchor": "God also gave them up",
+     "refs": [
+      {
+       "text": "Rom 1:24",
+       "ref": "ROM.1.24"
+      },
+      {
+       "text": "Psa 81:12",
+       "ref": "PSA.81.12"
+      },
+      {
+       "text": "Psa 69:27",
+       "ref": "PSA.69.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.24#p3-79123af8",
+     "text": "some read it, in themselves, and some read it, one among another; so the same word is rendered, Eph 4:32 Col 3:13. The apostle here speaks more generally of all kinds of pollution and uncleanness that was committed by them, whether natural or unnatural.",
+     "anchor": "Between themselves",
+     "refs": [
+      {
+       "text": "Eph 4:32",
+       "ref": "EPH.4.32"
+      },
+      {
+       "text": "Col 3:13",
+       "ref": "COL.3.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.25",
+   "range": "ROM.1.25",
+   "kind": "passage",
+   "hash": "0d4c53fa",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.25#p1-14e84152",
+     "text": "i.e. the God of truth, or the true God, into an idol, which is a lie, which seems to be that which it is not: or else, by the truth of God, understand those true sentiments and notions that they had of God, and were taught them, as before, by the light of nature, and the book of the creatures; these they changed into lying imaginations and conceits.",
+     "anchor": "Who changed the truth of God into a lie"
+    },
+    {
+     "id": "poole/ROM.1.25#p2-1a519a60",
+     "text": "or, besides the Creator: some understand it comparatively, they worshipped one more than the other; others exclusively, they worshipped one and not the other. They were guilty of two great errors; one was in their minds, they changed the truth of God into a lie; the other in their wills, they served the creature more than the Creator.",
+     "anchor": "And worshipped and served the creature more than the Creator"
+    },
+    {
+     "id": "poole/ROM.1.25#p3-7f8f5d8b",
+     "text": "when the Hebrews of old made mention of the true God, they were wont to add these words: Let him be blessed for ever.",
+     "anchor": "Who is blessed for ever. Amen"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.26",
+   "range": "ROM.1.26",
+   "kind": "passage",
+   "hash": "56a2c406",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.26#p1-bc907c90",
+     "text": "i.e. for their idolatry and uncleanness both, for now their idolatry is aggravated by the uncleanness accompanying it.",
+     "anchor": "For this cause"
+    },
+    {
+     "id": "poole/ROM.1.26#p2-b3815073",
+     "text": "Gr. affections of dishonour, i.e. the most dishonourable and shameful affections; for as we are exhorted, 1Th 4:4,5, to possess our vessels in honour, that is, to withhold our body from uncleanness; so they that give up themselves to uncleanness, dishonour themselves and their own bodies; see 1Co 6:18: if they, as this scripture tells us, that commit fornication dishonour their own bodies; then much more do they that practise the unnatural uncleanness hereafter mentioned.",
+     "anchor": "Vile affections",
+     "refs": [
+      {
+       "text": "1Th 4:4",
+       "ref": "1TH.4.4"
+      },
+      {
+       "text": "1Co 6:18",
+       "ref": "1CO.6.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.26#p3-133ae4ba",
+     "text": "i.e γυναικες ανδριζονται, so Clem. Alexandr. Ad praeposteros et sodomiticos concubitus sese maribus prostituerunt. See Paraeus: a filthy practice not to be named, Eph 5:3.",
+     "anchor": "For even their women, &c",
+     "refs": [
+      {
+       "text": "Eph 5:3",
+       "ref": "EPH.5.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.27",
+   "range": "ROM.1.27",
+   "kind": "passage",
+   "hash": "9e667cfa",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.27#p1-9e667cfa",
+     "text": "This was the sin of the Sodomites of old, for which they were destroyed, Gen 19:5: see Lev 18:22. How meet was it that they who had forsaken the Author of nature, should be given up not to keep the order of nature; that they who had changed the glory of God into the similitude of beasts, should be left to do those things which beasts themselves abhorred! God only concurred as a just judge in punishing foregoing with following sins: see Rom 1:25.",
+     "refs": [
+      {
+       "text": "Gen 19:5",
+       "ref": "GEN.19.5"
+      },
+      {
+       "text": "Lev 18:22",
+       "ref": "LEV.18.22"
+      },
+      {
+       "text": "Rom 1:25",
+       "ref": "ROM.1.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.28",
+   "range": "ROM.1.28",
+   "kind": "passage",
+   "hash": "dfb24fd0",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.28#p1-7deb3965",
+     "text": "or, to have God in acknowledgment. The apostle proceeds to show the analogy betwixt their sin and their punishment. The evil he here taxed them with is much the same with that in Rom 1:21; though they had some knowledge of God, yet they did not acknowledge him as God, by glorifying him, and giving thanks to him; it did not seem good to them so to do.",
+     "anchor": "To retain God in their knowledge",
+     "refs": [
+      {
+       "text": "Rom 1:21",
+       "ref": "ROM.1.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.28#p2-94e656ed",
+     "text": "or, an injudicious mind, a mind void of judgment. It is just and equal, that he, who in his judgment disapproves of God, should be left either to be of a corrupt judgment, or of none at all. The word may be taken passively, for a mind disapproved of God; or actively, for a mind which disapproves of all good. They were not given up to this reprobate mind all at once, but by degrees. First, they were given up to their own hearts’ lusts, Rom 1:24; then, to vile affections, Rom 1:26; and then, lastly, to a mind void of judgment; to such an evil habit, that they could do nothing but evil.",
+     "anchor": "God gave them over to a reprobate mind",
+     "refs": [
+      {
+       "text": "Rom 1:24",
+       "ref": "ROM.1.24"
+      },
+      {
+       "text": "Rom 1:26",
+       "ref": "ROM.1.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.29",
+   "range": "ROM.1.29",
+   "kind": "passage",
+   "hash": "f07db7b5",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.29#p1-c779f9f4",
+     "text": "Now follow the sins against the second table, which reigned amongst the Gentiles; amongst which"
+    },
+    {
+     "id": "poole/ROM.1.29#p2-253ef584",
+     "text": "is as the fountain, from whence the rest as streams do flow. This is the genus that comprehends all the evils hereafter enumerated. It is not to be supposed that all the following vices were found in every individual person; but the meaning is, that all were guilty of some, and some were guilty of all of them.",
+     "anchor": "unrighteousness"
+    },
+    {
+     "id": "poole/ROM.1.29#p3-1e04b615",
+     "text": "in the Greek there is all elegant paronomasia, πορνεια, πονηρια. So there are two more in the following verses, φθονου, φονου, ασυνετοι, ασυνθετοι. The design of the apostle is, to set down a particular vice; therefore, instead of wickedness, some read troublesomeness, or a desire to procure trouble and molestation to another. The devil is called οο πονηρος, the troublesome one.",
+     "anchor": "Fornication, wickedness"
+    },
+    {
+     "id": "poole/ROM.1.29#p4-ac4a255f",
+     "text": "or, mischievousness, the better to distinguish it from envy.",
+     "anchor": "Maliciousness"
+    },
+    {
+     "id": "poole/ROM.1.29#p5-cbd0c44d",
+     "text": "or, morosity and churlishness, taking all things in the worser part.",
+     "anchor": "Malignity"
+    },
+    {
+     "id": "poole/ROM.1.29#p6-bf9a3a98",
+     "text": "whisperers speak evil privily of others; backbiters, openly.",
+     "anchor": "Whisperers"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.30",
+   "range": "ROM.1.30",
+   "kind": "passage",
+   "hash": "6a4c4556",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.30#p1-c0ae2a40",
+     "text": "the original word hath a passive termination, and therefore some read it, hated of God. But words passive are sometimes actively taken: see 2Pe 1:3. And the apostle here intendeth a catalogue of the Gentiles’ sins, whereof this was one: see Psa 81:15.",
+     "anchor": "Haters of God",
+     "refs": [
+      {
+       "text": "2Pe 1:3",
+       "ref": "2PE.1.3"
+      },
+      {
+       "text": "Psa 81:15",
+       "ref": "PSA.81.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.30#p2-f3da94f3",
+     "text": "or, injurious.",
+     "anchor": "Despiteful"
+    },
+    {
+     "id": "poole/ROM.1.30#p3-5340b3e5",
+     "text": "they were not contented with old usual evils, but they invented new; whether we refer this to evils of pain, or evils of sin, we may find examples thereof amongst the heathen. Phalaris propounded a reward to him that could devise a new torment; and Sardanapalus offered rewards to such as could find out new venereal pleasures.",
+     "anchor": "Inventors of evil things"
+    },
+    {
+     "id": "poole/ROM.1.30#p4-2bf3363f",
+     "text": "either natural or political.",
+     "anchor": "Disobedient to parents"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.31",
+   "range": "ROM.1.31",
+   "kind": "passage",
+   "hash": "95574e91",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.31#p1-27dcbb03",
+     "text": "or, without conscience; συνεσις, or σνυειδησις, being much the same.",
+     "anchor": "Without understanding"
+    },
+    {
+     "id": "poole/ROM.1.31#p2-394464b9",
+     "text": "this evil also reigned amongst the Gentiles, who sacrificed their very children to their idols, and otherwise exposed them to ruin: see 2Ti 3:3.",
+     "anchor": "Without natural affection",
+     "refs": [
+      {
+       "text": "2Ti 3:3",
+       "ref": "2TI.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.31#p3-941c8ada",
+     "text": "or, irreconcilable and vindictive.",
+     "anchor": "Implacable"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.1.32",
+   "range": "ROM.1.32",
+   "kind": "passage",
+   "hash": "d7c0869b",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.1.32#p1-effae4fb",
+     "text": "i.e. his just law and statute, or his justice in punishing sin and sinners. This the Gentiles knew by the light of nature, and by the examples of God’s justice in the world.",
+     "anchor": "Knowing the judgment of God"
+    },
+    {
+     "id": "poole/ROM.1.32#p2-ad259db7",
+     "text": "the barbarians of Melita judged murder worthy of death, Act 28:4: see Act 23:29 26:31. The heathen also had some knowledge of future and everlasting punishment, as appears by their writings: and were persuaded that the sins be dementioned, and such like, did really deserve it.",
+     "anchor": "That they which commit such things are worthy of death",
+     "refs": [
+      {
+       "text": "Act 28:4",
+       "ref": "ACT.28.4"
+      },
+      {
+       "text": "Act 23:29",
+       "ref": "ACT.23.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.1.32#p3-b6cd8105",
+     "text": "or, patronize and applaud such; see Psa 10:3. This is set last, as worst of all; it is the highest degree of wickedness: such come nearest the devil, who take pleasure in evil because it is evil.",
+     "anchor": "Have pleasure in them that do them",
+     "refs": [
+      {
+       "text": "Psa 10:3",
+       "ref": "PSA.10.3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

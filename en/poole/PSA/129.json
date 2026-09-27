@@ -1,0 +1,162 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 129,
+ "units": [
+  {
+   "id": "poole/PSA.129",
+   "range": "PSA.129",
+   "kind": "chapter",
+   "hash": "42a9c524",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.129#p2-3ed6c494",
+     "text": "This Psalm contains a joyful and thankful remembrance of the church’s former and manifold calamities from barbarous enemies, and of God’s wonderful mercy in delivering them out of their hands."
+    },
+    {
+     "id": "poole/PSA.129#p3-f0de1c3a",
+     "text": "The various manifold afflictions of the church described, but delivered out of all, Psa 139:1-4. The haters thereof cursed, and devoted to judgment, Psa 139:5-8.",
+     "refs": [
+      {
+       "text": "Psa 139:1-4",
+       "ref": "PSA.139.1-4"
+      },
+      {
+       "text": "Psa 139:5-8",
+       "ref": "PSA.139.5-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.129#p4-b5544ad3",
+     "text": "They; mine enemies or oppressors; which is easily understood, both from the nature of the thing, and from Psa 129:3, where they are expressed under the name of ploughers.",
+     "refs": [
+      {
+       "text": "Psa 129:3",
+       "ref": "PSA.129.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.129#p5-4f181401",
+     "text": "From my youth; from the time that I was a people, when I was in Egypt and came out of it, which is called the time of Israel’s youth, Jer 2:2 Eze 23:3.",
+     "refs": [
+      {
+       "text": "Jer 2:2",
+       "ref": "JER.2.2"
+      },
+      {
+       "text": "Eze 23:3",
+       "ref": "EZK.23.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.129.3",
+   "range": "PSA.129.3",
+   "kind": "passage",
+   "hash": "4b972938",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129.3#p1-4e3264aa",
+     "text": "they have not only thrown me down, and trod me under foot, but have cruelly tormented me, wounded and mangled me, and had no more pity upon me than the ploughman hath upon the earth which he cuts up at his pleasure. He saith,",
+     "anchor": "Ploughed upon my back"
+    },
+    {
+     "id": "poole/PSA.129.3#p2-2313d78d",
+     "text": "either because they did literally scourge the captives upon their backs with such cords as are mentioned Psa 129:4, although we do not read that the Israelitish captives were thus used by any of their enemies; or by way of allusion to that usage, which made a sort of furrows in their backs, upon which they used to lay on their strokes.",
+     "anchor": "upon my back",
+     "refs": [
+      {
+       "text": "Psa 129:4",
+       "ref": "PSA.129.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.129.3#p3-f729402f",
+     "text": "they oft repeated their injuries and prolonged my torments.",
+     "anchor": "They made long their furrows"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.129.4",
+   "range": "PSA.129.4",
+   "kind": "passage",
+   "hash": "8bb10c54",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129.4#p1-1863a4b3",
+     "text": "faithful or merciful, as that word is frequently used.",
+     "anchor": "Righteous"
+    },
+    {
+     "id": "poole/PSA.129.4#p2-1471ad8a",
+     "text": "wherewith the plough was drawn; by which means they were stopped in their course. So he persists in the same metaphor of a plough. By these",
+     "anchor": "Cut asunder the cords"
+    },
+    {
+     "id": "poole/PSA.129.4#p3-c7d010d1",
+     "text": "he understands all their plots and endeavours.",
+     "anchor": "cords"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.129.5",
+   "range": "PSA.129.5",
+   "kind": "passage",
+   "hash": "24033e48",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129.5#p1-24033e48",
+     "text": "Forced to retreat with shame and disappointment."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.129.6",
+   "range": "PSA.129.6",
+   "kind": "passage",
+   "hash": "08f5855c",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129.6#p1-2448d358",
+     "text": "there were flat, and therefore more capable of grass or green corn growing between the stones than ours are.",
+     "anchor": "The house-tops"
+    },
+    {
+     "id": "poole/PSA.129.6#p2-174d15c8",
+     "text": "which having no deep root, never comes to maturity. And so all their designs shall be abortive, and never come to perfection.",
+     "anchor": "Which withereth afore it groweth up"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.129.8",
+   "range": "PSA.129.8",
+   "kind": "passage",
+   "hash": "5b4f4293",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.129.8#p1-5b4f4293",
+     "text": "Which was a usual salutation given by passengers to reapers, as Rth 2:4. So the meaning is, It never continues till the harvest comes.",
+     "refs": [
+      {
+       "text": "Rth 2:4",
+       "ref": "RUT.2.4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

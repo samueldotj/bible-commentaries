@@ -1,0 +1,1415 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "poole/MAT.9",
+   "range": "MAT.9",
+   "kind": "chapter",
+   "hash": "5b8003a8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9#p1-66631406",
+     "text": "Mat 9:1-8 Christ cures one sick of the palsy,",
+     "refs": [
+      {
+       "text": "Mat 9:1-8",
+       "ref": "MAT.9.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p2-9f700ca5",
+     "text": "Mat 9:9 calleth Matthew from the receipt of custom,",
+     "refs": [
+      {
+       "text": "Mat 9:9",
+       "ref": "MAT.9.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p3-554fdacb",
+     "text": "Mat 9:10-13 justifieth himself for eating with publicans and sinners,",
+     "refs": [
+      {
+       "text": "Mat 9:10-13",
+       "ref": "MAT.9.10-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p4-6aaa00a1",
+     "text": "Mat 9:14-17 and his disciples for not fasting.",
+     "refs": [
+      {
+       "text": "Mat 9:14-17",
+       "ref": "MAT.9.14-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p5-e8f3b0ea",
+     "text": "Mat 9:18,19 is entreated by a ruler to go and heal his daughter,",
+     "refs": [
+      {
+       "text": "Mat 9:18",
+       "ref": "MAT.9.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p6-11bb8142",
+     "text": "Mat 9:20-22 healeth by the way a woman of an inveterate issue of blood,",
+     "refs": [
+      {
+       "text": "Mat 9:20-22",
+       "ref": "MAT.9.20-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p7-3a0777a3",
+     "text": "Mat 9:23-26 raiseth to life the ruler’s daughter,",
+     "refs": [
+      {
+       "text": "Mat 9:23-26",
+       "ref": "MAT.9.23-26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p8-f48c3bcc",
+     "text": "Mat 9:27-31 giveth sight to two blind men,",
+     "refs": [
+      {
+       "text": "Mat 9:27-31",
+       "ref": "MAT.9.27-31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p9-1fb3381b",
+     "text": "Mat 9:32-35 healeth a dumb man possessed of a devil,",
+     "refs": [
+      {
+       "text": "Mat 9:32-35",
+       "ref": "MAT.9.32-35"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9#p10-103669b9",
+     "text": "Mat 9:36-38 hath compassion on the multitudes, and teacheth his disciples to pray that God would send forth labourers into his harvest.",
+     "refs": [
+      {
+       "text": "Mat 9:36-38",
+       "ref": "MAT.9.36-38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.1",
+   "range": "MAT.9.1",
+   "kind": "passage",
+   "hash": "31c975c4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.1#p1-0f4c9d73",
+     "text": "Whether the same ship he came in or no it is not material: he"
+    },
+    {
+     "id": "poole/MAT.9.1#p2-4d8b03e5",
+     "text": "the lake of Gennesaret,",
+     "anchor": "passed over"
+    },
+    {
+     "id": "poole/MAT.9.1#p3-6915d135",
+     "text": "not Bethlehem, in which he was born, but either Nazareth, where he was brought up, or (which most judge) Capernaum, whither, leaving Nazareth, he went formerly to dwell, Mat 4:13, whither he is said to have entered, Mar 2:1; this was upon the seacoast of Zebulun and Naphtali, Mat 4:13.",
+     "anchor": "and came into his own city",
+     "refs": [
+      {
+       "text": "Mat 4:13",
+       "ref": "MAT.4.13"
+      },
+      {
+       "text": "Mar 2:1",
+       "ref": "MRK.2.1"
+      },
+      {
+       "text": "Mat 4:13",
+       "ref": "MAT.4.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.2",
+   "range": "MAT.9.2",
+   "kind": "passage",
+   "hash": "651bf3cc",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.2#p1-48286ca0",
+     "text": "The history of this miracle is reported by Mar 2:3-12; by Luke, Luk 5:18-26; by both with more circumstances than Matthew doth report it. Mark saith, He entered into Capernaum after some days; and it was noised that he was in the house.",
+     "refs": [
+      {
+       "text": "Mar 2:3-12",
+       "ref": "MRK.2.3-12"
+      },
+      {
+       "text": "Luk 5:18-26",
+       "ref": "LUK.5.18-26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.2#p2-e5c256ad",
+     "text": "And straightway many were gathered together, insomuch that there was not room to receive them, no, not so much as about the door: and he preached the word unto them. And they came unto him, bringing one sick of the palsy, which was borne of four. And when they could not come nigh unto him for the press, they uncovered the roof where he was; and when they had broken it up, they let down the bed wherein the sick of the palsy lay. When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee, Mar 2:1-5. Luke mentions not the place, nor our Saviour’s being preaching, but saith, And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him. And when they could not find by what way they might bring him in, they went upon the house top, and let him down through the thing with his couch into the midst before Jesus.",
+     "refs": [
+      {
+       "text": "Mar 2:1-5",
+       "ref": "MRK.2.1-5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.2#p3-59467e51",
+     "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee, Luk 5:18-20. All interpreters agree it to be the same history. Mark, in his preface to the report of the miracle, tells us where Christ was, viz. in Capernaum; what he was doing, preaching the word; the occasion of the people breaking up the roof of the house, viz. the press of the people, so as they could not come nigh to Christ.",
+     "refs": [
+      {
+       "text": "Luk 5:18-20",
+       "ref": "LUK.5.18-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.2#p4-85685bef",
+     "text": "All three evangelists agree the sick man’s disease to be the palsy, which being the resolution of the nerves, besides the pain that attends it, debilitates the person, and confines him to his bed, or couch, which was the reason of his being brought in his bed, and by four men. All the evangelists mention Jesus seeing their faith, their inward persuasion of his Divine power, and their confidence in his goodness, both the faith of the sick person and of those who brought him. He saw it in their hearts, for the inward principles and habits are not visible to us, yet they are seen and known to him who searcheth the heart, and knoweth what is in the heart of man. He saw it in the fruits, their endeavouring to lay him before Christ."
+    },
+    {
+     "id": "poole/MAT.9.2#p5-0fb9b917",
+     "text": "He said unto the sick of the palsy, Son, be of good cheer, thy sins be forgiven thee. But what was this to his palsy? Our Saviour by this lets him, and those who brought him, know,"
+    },
+    {
+     "id": "poole/MAT.9.2#p6-a2955d97",
+     "text": "1. That sin is the root from which our evils spring."
+    },
+    {
+     "id": "poole/MAT.9.2#p7-8bcbb5a2",
+     "text": "2. That being forgiven, bodily distempers (how fatal soever) can do a man no hurt."
+    },
+    {
+     "id": "poole/MAT.9.2#p8-f46ba234",
+     "text": "3. That his primary end of coming into the world was to save his people from their sins."
+    },
+    {
+     "id": "poole/MAT.9.2#p9-705079bf",
+     "text": "4. That in the hour wherein remission of sins is granted to a soul, it becomes God’s son, dear to Christ."
+    },
+    {
+     "id": "poole/MAT.9.2#p10-acfab480",
+     "text": "5. That remission of sins followeth the exercise of faith in Christ."
+    },
+    {
+     "id": "poole/MAT.9.2#p11-8202def9",
+     "text": "6. Possibly he begins with this to give the scribes and Pharisees occasion of some discourse."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.3",
+   "range": "MAT.9.3",
+   "kind": "passage",
+   "hash": "185e5ff7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.3#p1-6f2f8454",
+     "text": "Mark saith, There were certain of the scribes sitting there, and reasoning in their hearts, Why doth this man thus speak blasphemies? Who can forgive sins but God only? Mar 2:6,7. Luke saith, The scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone? Luk 5:21. It should seem they did not speak it out. Mark saith, they reasoned in their hearts. Matthew in the next verse saith,",
+     "refs": [
+      {
+       "text": "Mar 2:6",
+       "ref": "MRK.2.6"
+      },
+      {
+       "text": "Luk 5:21",
+       "ref": "LUK.5.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.3#p2-9b1f3df8",
+     "text": "It seemeth that it was then agreed on all hands, that forgiving of sins was the prerogative of God alone; and that for man to arrogate to himself such a power as belonged to God alone was no less than blasphemy, as all ascribings of Divine perfections to creatures must be. It stands the pope and priests in hand to clear themselves from this guilt. It was also agreed by the scribes and Pharisees, that Christ spake blasphemy in pronouncing to the sick of the palsy, that his sins were forgiven. The reason was, because they did not believe him to be the Son of God, but looked on him as mere man.",
+     "anchor": "Jesus, knowing their thoughts"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.4",
+   "range": "MAT.9.4",
+   "kind": "passage",
+   "hash": "73324ca5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.4#p1-73324ca5",
+     "text": "Mat 9:6\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:6",
+       "ref": "MAT.9.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.5",
+   "range": "MAT.9.5",
+   "kind": "passage",
+   "hash": "73324ca5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.5#p1-73324ca5",
+     "text": "Mat 9:6\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:6",
+       "ref": "MAT.9.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.6",
+   "range": "MAT.9.6",
+   "kind": "passage",
+   "hash": "0aa96fa6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.6#p1-e5af0361",
+     "text": "Ver. 4-6. Mark repeats almost the same words, Mar 2:8-10. So doth Luke, Luk 5:22-24. Christ here giveth the scribes and Pharisees a demonstration of his Deity, by letting them know that he knew their thoughts, Jesus knowing their thoughts said; a thing not compatible to angels, much less to one who is mere man; yet these blind scribes and Pharisees take no notice of it.",
+     "refs": [
+      {
+       "text": "Mar 2:8-10",
+       "ref": "MRK.2.8-10"
+      },
+      {
+       "text": "Luk 5:22-24",
+       "ref": "LUK.5.22-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.6#p2-bc0e39fe",
+     "text": "Wherefore think ye evil in your hearts; evil concerning me? I did this, saith he, on purpose to let you know, that I, who am indeed the Son of man, and whom you mistake in thinking to be no more than the Son of man, hath power, while he is upon the earth, and so conversing amongst you, to forgive sins, and you may make suitable applications to him for that end."
+    },
+    {
+     "id": "poole/MAT.9.6#p3-7be884b5",
+     "text": "It had been as easy for me every whit to have said to this sick man, Arise and walk; and that I will demonstrate to you. Then saith he to the sick of the palsy,"
+    },
+    {
+     "id": "poole/MAT.9.6#p4-518a649e",
+     "text": "The same power is required to the one as to the other; God, by your confession, can forgive sins, and God alone can raise men from the grave. The end of my miraculous operations is to convince you that I am he who hath a power to forgive men their sins. I therefore chose first to pronounce this man’s sins forgiven, that I might have the advantage to confirm to you by a subsequent miracle this great truth, that I am the Son of God, though you think me no more than the Son of man, and that I have a power to forgive sins upon men’s exercise of their faith and coming unto me. Now therefore believe, not because of my word only, but because of the sign I show you confirmative of it.",
+     "anchor": "Arise, take up thy bed, and go unto thine house"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.7",
+   "range": "MAT.9.7",
+   "kind": "passage",
+   "hash": "856c3ea5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.7#p1-856c3ea5",
+     "text": "Mat 9:8\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:8",
+       "ref": "MAT.9.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.8",
+   "range": "MAT.9.8",
+   "kind": "passage",
+   "hash": "ebdb1b89",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.8#p1-193ed30d",
+     "text": "Ver. 7,8. Mark saith. And immediately he arose, took up his bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion, Mar 2:12. Luke saith, And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God. And they were all amazed, and they glorified God, and were filled with fear, saying, we have seen strange things today, Luk 5:25,26. They all agree in sense, though not in words. With Christ’s word there went out a power, enabling him to do what he had commanded him. He immediately stands upon his feet, takes up his bed, or couch, that whereon he lay, ( saith Luke), and went home in the sight of them all, so as none could doubt concerning the cure. What effect hath this upon the people?",
+     "refs": [
+      {
+       "text": "Mar 2:12",
+       "ref": "MRK.2.12"
+      },
+      {
+       "text": "Luk 5:25",
+       "ref": "LUK.5.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.8#p2-13bb40c9",
+     "text": "saith Matthew; they were amazed, and filled with fear, saith Luke. Here is not a word of their believing and owning Christ as the Son of God, which was the great thing the miracle was wrought to bring them to; but blindness was happened to Israel, seeing they saw and could not perceive. The miracle wrought in them an awe and reverence of him as an extraordinary person, and put them into a kind of ecstasy and admiration; and the text saith they",
+     "anchor": "They marvelled"
+    },
+    {
+     "id": "poole/MAT.9.8#p3-8b89cee5",
+     "text": "but not aright: they praised God, not for sending his Son into the world to save sinners, but for giving such power unto men; they would still own Christ no more than a man, though a man to whom God had given great power.",
+     "anchor": "glorified God"
+    },
+    {
+     "id": "poole/MAT.9.8#p4-43bd47de",
+     "text": "No man can say that Jesus is the Lord, but by the Holy Ghost, 1Co 12:3. Truly to believe, own, and receive Christ as our Lord, requireth the operation of the Spirit of grace, working such a faith and persuasion in us.",
+     "refs": [
+      {
+       "text": "1Co 12:3",
+       "ref": "1CO.12.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.9",
+   "range": "MAT.9.9",
+   "kind": "passage",
+   "hash": "d0dbf55b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.9#p1-9e99e589",
+     "text": "Mark hath the same story, Mar 2:14, only he calleth him Levi, and tells us he was the son of Alphaeus. Luke also mentions it, Luk 5:27,28, and calls him Levi, adding that he was a publican, and saith that he left all, rose up, and followed him. This Matthew might have also the name of Levi; all interpreters agree he was the same man. All three evangelists say, that when Christ called him, he was sitting in the custom house",
+     "refs": [
+      {
+       "text": "Mar 2:14",
+       "ref": "MRK.2.14"
+      },
+      {
+       "text": "Luk 5:27",
+       "ref": "LUK.5.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.9#p2-99417c9d",
+     "text": "This Matthew was one of the twelve apostles, Mat 10:3, and the penman of this Gospel. His father Alphaeus was honoured to have four of his sons apostles, James the less, and Thaddaeus, (called Lebbeus), Simon the Canaanite, and Matthew. He was a publican, an officer under the Romans to gather the public revenue; it was an odious name amongst the Jews, but Matthew, to magnify the grace of Christ in calling him, is not ashamed thus to describe himself, both here and Mat 10:3.",
+     "anchor": "at the receipt of custom",
+     "refs": [
+      {
+       "text": "Mat 10:3",
+       "ref": "MAT.10.3"
+      },
+      {
+       "text": "Mat 10:3",
+       "ref": "MAT.10.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.9#p3-2af2197e",
+     "text": "His word carried a secret power with it, which Matthew obeyed by leaving his employment and going after Christ.",
+     "anchor": "He saith unto him, Follow me. And he arose and followed him"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.10",
+   "range": "MAT.9.10",
+   "kind": "passage",
+   "hash": "d4727219",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.10#p1-d4727219",
+     "text": "Luke saith that Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them, Luk 5:29. Mark saith, there were many, and they followed him, Mar 2:15. Matthew, touched with the sense of the free and infinite love of Christ to him, maketh Christ a feast: this speaketh him a man of some estate: he invites many to dine with him, some of them publicans, some noted sinners. He designs good undoubtedly to such as had been his former companions, that they might also see the Lord, and be brought to follow him. Grace teacheth a man to study the conversion of others, and never dwelleth in a narrow soul, nor studieth its concealment from others.",
+     "refs": [
+      {
+       "text": "Luk 5:29",
+       "ref": "LUK.5.29"
+      },
+      {
+       "text": "Mar 2:15",
+       "ref": "MRK.2.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.11",
+   "range": "MAT.9.11",
+   "kind": "passage",
+   "hash": "2c13258a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.11#p1-2c13258a",
+     "text": "Mark hath the same, Mar 2:16; so hath Luke, Luk 5:30, only he saith they murmured. The Pharisees having a perfect malice to Christ, did not only seek all means to carp at him, but to bring him under a popular odium: this seemed a fair opportunity. The publicans being an order of persons who both for their employment, and perhaps also their ill management of it, were abominated by the Jews, and reckoned amongst the more notorious sort of sinners; they therefore come to his disciples clamouring against their Master, that he kept communion with publicans and sinners.",
+     "refs": [
+      {
+       "text": "Mar 2:16",
+       "ref": "MRK.2.16"
+      },
+      {
+       "text": "Luk 5:30",
+       "ref": "LUK.5.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.12",
+   "range": "MAT.9.12",
+   "kind": "passage",
+   "hash": "4ac69aa4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.12#p1-4ac69aa4",
+     "text": "Mat 9:13\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:13",
+       "ref": "MAT.9.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.13",
+   "range": "MAT.9.13",
+   "kind": "passage",
+   "hash": "d759bc58",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.13#p1-2c6183d7",
+     "text": "Ver. 12,13. Mark and Luke, in the places before mentioned, have the same answer, only leaving out these words, Go ye and learn what that meaneth, I will have mercy, and not sacrifice, quoted from Hos 6:6. Our Saviour’s reply to the Pharisees, to him that duly considers it, will appear very smart.",
+     "refs": [
+      {
+       "text": "Hos 6:6",
+       "ref": "HOS.6.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.13#p2-a949cc7c",
+     "text": "1. They were a generation that laid all religion upon rituals, sacrifice, and traditions."
+    },
+    {
+     "id": "poole/MAT.9.13#p3-2f760275",
+     "text": "2. That justified themselves, Luk 16:15, and thought they needed no repentance.",
+     "refs": [
+      {
+       "text": "Luk 16:15",
+       "ref": "LUK.16.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.13#p4-f8218480",
+     "text": "Saith our Saviour, I am the spiritual Physician. With him would they have the physician to converse, but with such as are sick? Those that are whole (as the Pharisees account themselves) think they have no need of my coming amongst them. By their peevishness at the acts of mercy which I do (and those of the highest mercy too, healing souls) they show that they do not understand what Hosea (a prophet acknowledged by themselves) long since taught them, that the Lord desired mercy before sacrifice; for that appeareth to be the sense of not sacrifice in that text, both by the next words, and the knowledge of God more than burnt offerings, and by the many precepts by which God declared that he did desire sacrifices."
+    },
+    {
+     "id": "poole/MAT.9.13#p5-c1c4d611",
+     "text": "that is, those who are swelled in an opinion of their own righteousness but (sensible) sinners to repentance: first to repentance, then to the receiving remission of sins through me, and eternal life.",
+     "anchor": "For I am not come to call the righteous"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.14",
+   "range": "MAT.9.14",
+   "kind": "passage",
+   "hash": "6d6c3ea4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.14#p1-6d6c3ea4",
+     "text": "Mat 9:17\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:17",
+       "ref": "MAT.9.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.15",
+   "range": "MAT.9.15",
+   "kind": "passage",
+   "hash": "6d6c3ea4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.15#p1-6d6c3ea4",
+     "text": "Mat 9:17\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:17",
+       "ref": "MAT.9.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.16",
+   "range": "MAT.9.16",
+   "kind": "passage",
+   "hash": "6d6c3ea4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.16#p1-6d6c3ea4",
+     "text": "Mat 9:17\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:17",
+       "ref": "MAT.9.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.17",
+   "range": "MAT.9.17",
+   "kind": "passage",
+   "hash": "740c12c1",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.17#p1-cff82526",
+     "text": "Ver. 14-17. Mark hath this same history, almost in the same words, Mar 2:18-22, only he saith that some of the disciples of the Pharisees came with the disciples of John. Luke also hath it varying little, Luk 5:33-38; only he saith, fast often, and make prayers, ( and), the piece that was taken out of the new agreeth not with the old. And he addeth at last, Luk 5:39, No man also having drank old wine, straightway desireth new: for he saith, The old is better: which I shall consider, it plainly belonging to this history.",
+     "refs": [
+      {
+       "text": "Mar 2:18-22",
+       "ref": "MRK.2.18-22"
+      },
+      {
+       "text": "Luk 5:33-38",
+       "ref": "LUK.5.33-38"
+      },
+      {
+       "text": "Luk 5:39",
+       "ref": "LUK.5.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.17#p2-ff4ececb",
+     "text": "Mark begins his narration of this history with telling us, And the disciples of John and of the Pharisees used to fast; which is implied, though not expressed, by the two other evangelists. For the Pharisees, it is plain enough from the Pharisee’s boast, Luk 18:12, that he fasted twice in the week, John also used his disciples to a severer discipline than Christ did (of which we shall afterward hear more.) It should seem that the Pharisees had a mind to make a division betwixt the followers of John and the followers of Christ, and set on John’s disciples to go and ask an account of this. Hypocrites are always hottest for ritual things, as things most fit to raise a division about.",
+     "refs": [
+      {
+       "text": "Luk 18:12",
+       "ref": "LUK.18.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.17#p3-f6a3b67d",
+     "text": "There was no precept of God for any fast, but once in a year, though indeed God left people a liberty to fast oftener, as their circumstances more fitted and called for the duty. The Pharisees had set up themselves a method, and would fain have imposed it on Christ’s disciples; especially considering John’s disciples complied with the practice of frequent fasts, and seemed to suggest as if Christ set up a new and more jovial religion. (As if religion lay only or principally in rituals, as to which God had set no rule). The papists are at this day the Pharisees’ true successors in these arts. Christ answereth them in two particulars:"
+    },
+    {
+     "id": "poole/MAT.9.17#p4-d2a3e28f",
+     "text": "1. He tells them that his disciples were not as yet under such a dispensation as called for fasting."
+    },
+    {
+     "id": "poole/MAT.9.17#p5-e121c01c",
+     "text": "2. That his disciples were new converts, and to be brought on by degrees to the severer practices of external discipline and godliness. This is the sum of Mat 9:15-17. This he delivers in metaphorical expressions:",
+     "refs": [
+      {
+       "text": "Mat 9:15-17",
+       "ref": "MAT.9.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.17#p6-8bb8d594",
+     "text": "Can the children of the bride chamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, then shall they fast. Your master John hath compared me to a bridegroom, Joh 3:29. These my disciples are the children of the bride chamber. It is as yet a festival time with them. Fasting is a duty fitted to a day of mourning and affliction. It is not yet a time of mourning for my disciples: yet do not envy them. There will shortly come a time when, as to my bodily presence, I shall be taken from them: then they shall mourn and fast. The second thing he saith he illustrates by two similitudes.",
+     "refs": [
+      {
+       "text": "Joh 3:29",
+       "ref": "JHN.3.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.17#p7-95fb7c99",
+     "text": "First, (saith he), amongst men no discreet person will put in an old garment a new piece of cloth, for they will not agree together; the strength of the new cloth will bear no proportion to the strength of the old, which by wearing is made weak, so as if the garment comes to a stress the rent will be the greater. So as to wine, men do not use to put new wine into old bottles, that through much use are weakened, for fear of breaking the bottles and spilling the wines; but they use to put new wine into new bottles, to proportion the thing containing to the thing contained. My disciples are newly converted."
+    },
+    {
+     "id": "poole/MAT.9.17#p8-b5c85ae2",
+     "text": "Should I impose upon them the severer exercises of religion, it might discourage them, and be a temptation to them to go back; for, as Luke addeth, No man having drank old wine desireth new; for he saith, The old is better. Custom is a great tyrant, and men are not on the sudden brought off from their former practices, but by degrees. This is a portion of Scripture which much commendeth prudence to ministers, both teaching their people as they are able to bear, and also putting them upon duties with respect to their stature and proficiency in the ways of God; especially in such things as are but our free will offerings to God."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.18",
+   "range": "MAT.9.18",
+   "kind": "passage",
+   "hash": "a15794a5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.18#p1-a15794a5",
+     "text": "Mat 9:19\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:19",
+       "ref": "MAT.9.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.19",
+   "range": "MAT.9.19",
+   "kind": "passage",
+   "hash": "dd880982",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.19#p1-d75e3195",
+     "text": "Ver. 18,19. Mark hath this history, Mar 5:22-24, And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet, and besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live. And Jesus went with him; and much people followed him, and thronged him. Luke hath it, Luk 8:42, adding only that she was his only daughter, twelve years of age. Two evangelists say she was at the point of death, or dying: Matthew saith that he said she was dead; that might be according to his apprehension; she was so near death, that he concluded that by that time he was got to Christ she was dead. Others observe out of Greek authors, that the particle αρτι, here used, doth not always signify a time past, but sometimes a time near at hand. But the best answer is, that Matthew relates the story compendiously. It appears from Luk 8:49, that the maid did die. Matthew reports that first, which the messenger brought them the news of afterwards, as we shall see in Mat 9:23. By the ruler here both Mark and Luke tell us is to be understood Jairus; not a civil magistrate, but one who was the ruler of the synagogue in that place; for in their synagogues they had an order, there was one chief who ordered the affairs of it, and they say the interpretation of the law belonged to him.",
+     "refs": [
+      {
+       "text": "Mar 5:22-24",
+       "ref": "MRK.5.22-24"
+      },
+      {
+       "text": "Luk 8:42",
+       "ref": "LUK.8.42"
+      },
+      {
+       "text": "Luk 8:49",
+       "ref": "LUK.8.49"
+      },
+      {
+       "text": "Mat 9:23",
+       "ref": "MAT.9.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.19#p2-22da0843",
+     "text": "with a civil worship, or respect,",
+     "anchor": "And worshipped him"
+    },
+    {
+     "id": "poole/MAT.9.19#p3-93272781",
+     "text": "One would judge the latter should be the evangelist’s meaning of the particle, because of what the other evangelists say,",
+     "anchor": "saying, My daughter is even now dead, or dying"
+    },
+    {
+     "id": "poole/MAT.9.19#p4-69fcc8f7",
+     "text": "His faith riseth not up to the centurion’s faith, who declared his faith that if Christ would but speak the word his servant should live. Jairus desires him to come and lay his hands upon her.",
+     "anchor": "Come and lay thy hands on her, and she shall live"
+    },
+    {
+     "id": "poole/MAT.9.19#p5-dc114489",
+     "text": "The Jews thrust Christ’s followers out of their synagogues; he is more kind to the ruler of their synagogue, he presently goeth, and his disciples followed him: they were to be witnesses of his miracles. Mark adds, much people followed, and thronged him; which gave occasion to another miracle, which Christ did in his way to Jairus’s house, the relation of which Matthew giveth us before he perfecth the history of this miracle.",
+     "anchor": "And Jesus arose, and followed him, and his disciples"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.20",
+   "range": "MAT.9.20",
+   "kind": "passage",
+   "hash": "237016ad",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.20#p1-237016ad",
+     "text": "Mat 9:21\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:21",
+       "ref": "MAT.9.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.21",
+   "range": "MAT.9.21",
+   "kind": "passage",
+   "hash": "58b003f6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.21#p1-086e62d5",
+     "text": "Ver. 20,21. Mark addeth, Mar 5:26,27, that she had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse; when she had heard of Jesus, she came in the press behind, and touched his garment, &c. Luke saith, the border of his garment. In the crowd there cometh a woman that had a bloody flux twelve years. Inveterate diseases are hard to be cured. Nor had means been neglected, she had tried many physicians, and had spent all her estate upon them. She",
+     "refs": [
+      {
+       "text": "Mar 5:26",
+       "ref": "MRK.5.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.21#p2-3044653c",
+     "text": "out of modesty, and perhaps shame, desiring not to be taken notice of. That which induced her to come, was the fame she had heard of Jesus, and a persuasion wrought in her heart, (doubtless by the Spirit of God), that if she could but come to touch the hem or border of his garment she should be cured. In this she judged rightly, that Christ was all virtue, and that his virtue was not restrained to his laying his hand upon her. She believed that the oil poured on his head was like that poured on the head of Aaron, which ran down to the skirts of his garment. But if she thought that she could thus steal a cure, and that Christ’s cures flowed not from his grace and good will, but a kind of necessity, herein she wonderfully erred, and Christ afterward let her know it, though he pardoned her mistake.",
+     "anchor": "came behind him"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.22",
+   "range": "MAT.9.22",
+   "kind": "passage",
+   "hash": "ba900782",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.22#p1-96567042",
+     "text": "Matthew relates this story shortly, as he doth many others, being only intent upon recording the miracle. We must here supply something out of Mark and Luke. Mark saith, Mar 5:29-34, And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague. And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, who touched my clothes? And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me? And he looked round about to see her that had done this thing.",
+     "refs": [
+      {
+       "text": "Mar 5:29-34",
+       "ref": "MRK.5.29-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.22#p2-ae079285",
+     "text": "But the woman fearing and trembling, knowing what was done in her came and fell down before him, and told him all the truth. And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
+    },
+    {
+     "id": "poole/MAT.9.22#p3-2364cd7d",
+     "text": "Luke reports the same circumstances with little variation, Luk 8:45-48. Christ was not ignorant of this woman’s coming and touching his garment, he doubtless influenced her to the motion, his inquiry was therefore only that the miracle might be taken notice of: he knew that virtue was gone out of him, and had healed the woman, for he had commanded it so to go out, or she had not been healed; but he desired that the people might take notice that she was healed by his grace, not by any magical virtue in his clothes. The woman is brought openly to come and confess it, that she had touched his clothes, and that she was healed. She feared and trembled, lest she should have offended.",
+     "refs": [
+      {
+       "text": "Luk 8:45-48",
+       "ref": "LUK.8.45-48"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.22#p4-27a50636",
+     "text": "Christ comforts her, by assuring her the cure, and telling her, that her faith in him, as an instrumental cause, had effected it. We have met with Christ often before, as well as in this text, and shall again often meet with him, ascribing much to the exercise of faith. And the faith to which he ascribes so much seemeth not to be justifying faith, or that exercise of grace whereby a soul, in the sense of its lost estate by reason of sin, accepteth of him as its Saviour, and relies upon his merits alone for salvation; for we read nothing of the persons’ repentance for sin, nor reliance upon Christ for the salvation of their souls, or any profession of any such thing. Is it then so valuable an act of faith to believe that Christ is the Son of God? I answer,"
+    },
+    {
+     "id": "poole/MAT.9.22#p5-d7d60cc0",
+     "text": "1. Though faith in Christ be the only saving faith, yet a faith in God, being persuaded of his power and trusting in him, is an exercise of grace, which God (as appeareth in Scripture) much rewarded with blessings of this life; it giveth God the honour of his power, &c."
+    },
+    {
+     "id": "poole/MAT.9.22#p6-a61751b7",
+     "text": "2. But, secondly: The great truth, That Christ was the eternal Son of God, was that which God more especially aimed at to give the world’s assent unto and persuasion of at this time; and indeed preliminary and necessary to people’s receiving of him as their Saviour, for, Cursed is he that trusteth in man. It was also the great truth which the Pharisees and the rest of the Jews did oppose. Hence our Saviour takes all occasions both to confirm and to encourage this faith; which was but a persuasion that he was clothed with a Divine power, and did that which no man could do; and that he had in him Divine goodness, ready to relieve man’s infirmities, according to that power."
+    },
+    {
+     "id": "poole/MAT.9.22#p7-69a0a794",
+     "text": "3. It is hardly possible that any should truly and seriously believe that Christ, being apparently man, and the Son of man, should also exercise a power which none but God could do; and that they should not believe in him as the Saviour of the world, and be quickened to the use of those means which he should reveal for their salvation. For these reasons, amongst others, we may conceive that Christ predicates this faith so much in those in whom he found it."
+    },
+    {
+     "id": "poole/MAT.9.22#p8-a188e1b4",
+     "text": "This miracle being wrought by our Lord in his way to Jairus’s house, after the first notice he had of the dangerous sickness of his daughter, the evangelist now goeth on to give us an account of his perfecting that good work."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.23",
+   "range": "MAT.9.23",
+   "kind": "passage",
+   "hash": "adfb8a0a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.23#p1-62f5c721",
+     "text": "Neither Mark nor Luke speak any thing of the minstrels, but only of the people’s wailing. Amongst the Jews we read not in any part of the Old Testament of musical instruments used at funerals, but amongst the pagans it was usual, as we read in their writers. Amongst the Jews, they had some songs sang, as some gather from Jer 9:17 Jer 22:18 34:5 Amo 5:16. It is very like that the Jews having long lived amongst the heathens, had learned this usage from them. Before this Mark addeth, Mar 5:35-40, that there came some from the ruler’s house, which said, Thy daughter is dead: why troublest thou the Master any further?",
+     "refs": [
+      {
+       "text": "Jer 9:17",
+       "ref": "JER.9.17"
+      },
+      {
+       "text": "Jer 22:18",
+       "ref": "JER.22.18"
+      },
+      {
+       "text": "Amo 5:16",
+       "ref": "AMO.5.16"
+      },
+      {
+       "text": "Mar 5:35-40",
+       "ref": "MRK.5.35-40"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.23#p2-4bc03439",
+     "text": "But Jesus, as soon as he had heard the word that was spoken, said to the ruler of the synagogue, Be not afraid, only believe. And he suffered no man to follow him, save Peter, and James, and John the brother of James. And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly. And when he was come in, he saith unto them, Why make ye this ado, and weep? The damsel is not dead, but sleepeth. And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying."
+    },
+    {
+     "id": "poole/MAT.9.23#p3-569aa0d9",
+     "text": "Matthew saith nothing of what happened in the way, neither the messengers’ coming, and telling Jairus that his daughter was dead, nor our Saviour’s comforting of him; but Luke mentions all, Luk 8:49,50. Matthew goes on with an account of what Christ did in the house, seeing the minstrels, and the tumult caused by the mourners there.",
+     "refs": [
+      {
+       "text": "Luk 8:49",
+       "ref": "LUK.8.49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.24",
+   "range": "MAT.9.24",
+   "kind": "passage",
+   "hash": "593487ba",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.24#p1-9ef3773d",
+     "text": "Mark saith, Mar 5:39,40, When he was come in, he saith unto them, Why make ye this ado, and weep? The damsel is not dead, but sleepeth. And they laughed him to scorn. But when he had put them all out, he taketh the father and mother, and them that were with him, and entereth in where the damsel was lying. Luke saith, Luk 8:51-53, When he came into the house, he suffered no man to go in, ( that is, into the chamber where the dead body lay), save Peter, James, and John, and the father and mother of the maiden. And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
+     "refs": [
+      {
+       "text": "Mar 5:39",
+       "ref": "MRK.5.39"
+      },
+      {
+       "text": "Luk 8:51-53",
+       "ref": "LUK.8.51-53"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.24#p2-246b5701",
+     "text": "And they laughed him to scorn, knowing that she was dead. The history is plain: when Christ came into the house, there was a mixed noise of fiddlers or pipers, and mourners. Christ coming in, with Peter, James, and John, asked them what they made such ado for? The maid was not dead, but asleep. They apprehending that she was dead, mocked him. He desires to go into the chamber where the corpse lay; but would suffer none but Peter, James, and John, and the father and mother of the maid, to go in with him; the reason appeareth afterward, because he did not desire that this miracle should be presently published. The only question is, in what sense our Saviour saith, she is not dead, but sleepeth; whereas they knew she was dead."
+    },
+    {
+     "id": "poole/MAT.9.24#p3-fb965933",
+     "text": "1. Some think our Saviour speaketh ambiguously, for death is in Scripture often called a sleep, 1Ki 14:20 Joh 11:11 Act 7:60 1Co 15:6 with respect to the resurrection.",
+     "refs": [
+      {
+       "text": "1Ki 14:20",
+       "ref": "1KI.14.20"
+      },
+      {
+       "text": "Joh 11:11",
+       "ref": "JHN.11.11"
+      },
+      {
+       "text": "Act 7:60",
+       "ref": "ACT.7.60"
+      },
+      {
+       "text": "1Co 15:6",
+       "ref": "1CO.15.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.24#p4-d1136661",
+     "text": "2. Others think that our Saviour speaks ironically, knowing that some of them would so diminish the miracle, to calumniate him, or abate his reputation. But it is a better answer to say that he speaks with reference to their opinion; she is not dead in that sense you judge her dead, so as she shall not come to life before the resurrection; she is not so dead but she shall come to life again; as he said to Mary concerning Lazarus, Joh 11:23.",
+     "refs": [
+      {
+       "text": "Joh 11:23",
+       "ref": "JHN.11.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.24#p5-e5e86135",
+     "text": "3. Or, to me she is not dead."
+    },
+    {
+     "id": "poole/MAT.9.24#p6-8d1560a6",
+     "text": "4. Or shall we say, as soon as Christ was come into the house, who is the resurrection, and the life, Joh 11:25, her soul again returned into her body, which though to their appearance it was separated from her body, was not yet fixed in its eternal mansion?",
+     "refs": [
+      {
+       "text": "Joh 11:25",
+       "ref": "JHN.11.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.24#p7-51112e8f",
+     "text": "In what sense soever he spake it, they judged it ridiculous, and laughed him to scorn."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.25",
+   "range": "MAT.9.25",
+   "kind": "passage",
+   "hash": "e5f3f5ad",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.25#p1-e5f3f5ad",
+     "text": "Mat 9:26\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:26",
+       "ref": "MAT.9.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.26",
+   "range": "MAT.9.26",
+   "kind": "passage",
+   "hash": "736e1773",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.26#p1-dbfcb44f",
+     "text": "Ver. 25,26. Mark saith, Mar 5:41-43, And he took the damsel by the hand and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise. And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment. And he charged them straitly that no man should know it; and commanded that something should be given her to eat. Luke saith, Luk 8:54-56, And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
+     "refs": [
+      {
+       "text": "Mar 5:41-43",
+       "ref": "MRK.5.41-43"
+      },
+      {
+       "text": "Luk 8:54-56",
+       "ref": "LUK.8.54-56"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.26#p2-aa5f075f",
+     "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat. And her parents were astonished: but he charged them that they should tell no man what was done. It was the power and virtue that went out of Christ which wrought the miracles: he performeth them under a variety of circumstances; sometimes he used only his word, (as in the case of Lazarus), sometimes he touched the persons, laying his hand upon them; here he takes the maid by the hand, and also saith, Daughter, or maid, arise. They were words of power and authority, she presently arose. Luke saith her spirit returned again."
+    },
+    {
+     "id": "poole/MAT.9.26#p3-28dcde7a",
+     "text": "Luke by this lets us know, that the soul is not the crasis, or some accident to the body, but a distinct subsistence of itself. For the curious question of some, where the soul of this maiden was, as also the soul of Lazarus, of whom we read in Joh 11:1-57, and others restored to life, when dead, were in the time while they were separated from their bodies; it is a matter of no great concern to us to know where: this we know, that God designed their return to their bodies again, they were not therefore fixed in their eternal mansions. Our Saviour hath taught us, that souls departed are under the conduct of angels to their stations. Lazarus’s soul was carried by angels into Abraham’s bosom.",
+     "refs": [
+      {
+       "text": "Joh 11:1-57",
+       "ref": "JHN.11.1-57"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.26#p4-a95ae913",
+     "text": "What can be opposed if we say, that it is probable the souls of these persons were under the guard of angels, about or near the dead bodies, waiting the pleasure of God with reference to them, until the Lord again commanded the restoring of them to their bodies?"
+    },
+    {
+     "id": "poole/MAT.9.26#p5-36dde3c1",
+     "text": "He commanded to give her meat, to confirm the truth of the miracle. Concerning our Lord’s command that they should not publish what he had done, we spake before in the case of the leper. Our Lord’s time was not yet come, and he was not willing his enemies should take too public a notice of him. But Matthew saith,"
+    },
+    {
+     "id": "poole/MAT.9.26#p6-7a3553e6",
+     "text": "that is, Galilee, at some distance from Jerusalem, which was the great seat of his enemies, where probably our Saviour did least desire any public notice should as yet be taken of him.",
+     "anchor": "The fame thereof went abroad into all that land"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.27",
+   "range": "MAT.9.27",
+   "kind": "passage",
+   "hash": "c66d58b6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.27#p1-c66d58b6",
+     "text": "Mat 9:31\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:31",
+       "ref": "MAT.9.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.28",
+   "range": "MAT.9.28",
+   "kind": "passage",
+   "hash": "c66d58b6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.28#p1-c66d58b6",
+     "text": "Mat 9:31\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:31",
+       "ref": "MAT.9.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.29",
+   "range": "MAT.9.29",
+   "kind": "passage",
+   "hash": "c66d58b6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.29#p1-c66d58b6",
+     "text": "Mat 9:31\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:31",
+       "ref": "MAT.9.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.30",
+   "range": "MAT.9.30",
+   "kind": "passage",
+   "hash": "cfe303b6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.30#p1-cfe303b6",
+     "text": "Mat 9:30\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:30",
+       "ref": "MAT.9.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.31",
+   "range": "MAT.9.31",
+   "kind": "passage",
+   "hash": "e90f0c67",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.31#p1-baa04d1f",
+     "text": "Ver. 27-31. This miracle is reported only by St. Matthew, though the other evangelists tell us of some others of the same kind. They"
+    },
+    {
+     "id": "poole/MAT.9.31#p2-88769456",
+     "text": "in the way,",
+     "anchor": "followed him"
+    },
+    {
+     "id": "poole/MAT.9.31#p3-221795b3",
+     "text": "These are the first we read of in this Gospel, that made their applications to Christ under the notion of the Messiah (for so much that compellation, Thou Son of David, importeth). He was to open the blind eyes, Isa 35:5 42:7, and was to be the Son of David, according to the prophecies of him; nor can any reason be given, why they called him the Son of David, but this their belief that he was the true Messias.",
+     "anchor": "crying, and saying, Thou Son of David, have mercy on us",
+     "refs": [
+      {
+       "text": "Isa 35:5",
+       "ref": "ISA.35.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.31#p4-74faf44d",
+     "text": "their petition is general, though without doubt they had a particular respect to their want of sight, and so our Saviour understood them. Others, that came to Christ for cure before, looked upon Christ as a man to whom God had given great power, and glorified God upon that account, as in Mat 9:8. Their courage and boldness in the faith also appeared, in that they feared not the Pharisees decree made, as appeareth from Joh 9:22; for the Christ and the Son of David amongst the Jews at this time signified the same person, as appears by Mat 22:42. Christ listens not unto them till he came into the house; there he saith,",
+     "anchor": "Have mercy on us",
+     "refs": [
+      {
+       "text": "Mat 9:8",
+       "ref": "MAT.9.8"
+      },
+      {
+       "text": "Joh 9:22",
+       "ref": "JHN.9.22"
+      },
+      {
+       "text": "Mat 22:42",
+       "ref": "MAT.22.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.31#p5-4925e86d",
+     "text": "Christ forgetteth not the prayer of faith, though he doth not give a present answer according to our expectation, that he may continue us in our duty, and quicken us yet to further importunity. Our Lord puts the common test upon them, Believe ye that I am able to do this? There is no absolute particular promise for good things of a temporal concern; it is enough for us in those cases to believe that God is able to do the thing, and that he will do it if he seeth it be for our good; he only therefore questions their faith as to his power. In their former owning him as the Messiah, the Son of David, they had declared that they believed his kindness to the sons of men.",
+     "anchor": "Believe ye that I am able to do this?"
+    },
+    {
+     "id": "poole/MAT.9.31#p6-4281a355",
+     "text": "we believe thou art able; and we believe thee the Messiah, come to do good, and we have a trust in thee thou wilt do it; for this cause we are come, we cry unto thee.",
+     "anchor": "They said unto him, Yea, Lord"
+    },
+    {
+     "id": "poole/MAT.9.31#p7-2ec8cf3d",
+     "text": "See the mighty power of the prayer of faith.",
+     "anchor": "Then touched he their eyes, saying, According to your faith be it unto you"
+    },
+    {
+     "id": "poole/MAT.9.31#p8-006e2074",
+     "text": "that is, their visive faculty was restored, or given to them.",
+     "anchor": "Their eyes were opened"
+    },
+    {
+     "id": "poole/MAT.9.31#p9-dc9ad743",
+     "text": "It was known they were blind, and men must know that they now saw; but he charges them not to publish it as done by him. The word used signifieth to command with authority, and with a threatening annexed: we have met with several such commands to persons cured, and none of them observed, nor the persons blamed by Christ for not observing them. We must say the parties sinned in publishing the things, unless the command was with some limitations not mentioned by the evangelists; but we are not able, either to give a just account why or how Christ commanded them, nor how they published the things, or were excusable in doing of it.",
+     "anchor": "And Jesus straitly charged them, saying, See that no man know it"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.32",
+   "range": "MAT.9.32",
+   "kind": "passage",
+   "hash": "d88c8ab6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.32#p1-d88c8ab6",
+     "text": "Mat 9:33\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:33",
+       "ref": "MAT.9.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.33",
+   "range": "MAT.9.33",
+   "kind": "passage",
+   "hash": "4027408d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.33#p1-e925b6db",
+     "text": "Ver. 32,33. Some think this the same mentioned Luk 11:14, as shortly as it is here. The word in the Greek signifies deaf as well as dumb, for all persons who are deaf from their birth are also dumb. But it is probable this man was only accidentally dumb, from the power of the devil, that had possessed him, and suppressed his speech. It is observed that Christ cured,",
+     "refs": [
+      {
+       "text": "Luk 11:14",
+       "ref": "LUK.11.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.33#p2-1af0bb14",
+     "text": "1. Some that came on their own accord to him, as the woman with her bloody flux."
+    },
+    {
+     "id": "poole/MAT.9.33#p3-67f4d61c",
+     "text": "2. Others that could not come, but were brought to him, as the paralytic, before mentioned in this chapter, who was willingly brought."
+    },
+    {
+     "id": "poole/MAT.9.33#p4-ea9f0cf3",
+     "text": "3. Others who neither came nor were willingly brought, but he occasionally met, Luk 7:12 Joh 5:5 9:1.",
+     "refs": [
+      {
+       "text": "Luk 7:12",
+       "ref": "LUK.7.12"
+      },
+      {
+       "text": "Joh 5:5",
+       "ref": "JHN.5.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.33#p5-c020be86",
+     "text": "4. Others that were brought without their consent, as the demoniac before mentioned, and this in this verse."
+    },
+    {
+     "id": "poole/MAT.9.33#p6-4b930433",
+     "text": "His design was, by these operations, to show himself the Son of God, and therefore did not always stay for people’s voluntarily offering him occasions, but sometimes took them when they were not voluntarily offered, to show the freeness of his grace."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.34",
+   "range": "MAT.9.34",
+   "kind": "passage",
+   "hash": "4472dda3",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.34#p1-6f0fba06",
+     "text": "This was not the only time they said so: see Mat 12:24 Mar 3:22 Luk 11:15. See Poole on \"Mat 12:24\". I shall in my notes on Mat 12:24 speak more fully to this text, where we shall also meet with our Saviour’s vindication of himself from this imputation. At present, I shall only observe the miserable effects of blindness and malice. The common people marvelled, and said there was never seen such things in Israel.",
+     "refs": [
+      {
+       "text": "Mat 12:24",
+       "ref": "MAT.12.24"
+      },
+      {
+       "text": "Mar 3:22",
+       "ref": "MRK.3.22"
+      },
+      {
+       "text": "Luk 11:15",
+       "ref": "LUK.11.15"
+      },
+      {
+       "text": "Mat 12:24",
+       "ref": "MAT.12.24"
+      },
+      {
+       "text": "Mat 12:24",
+       "ref": "MAT.12.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.34#p2-03380540",
+     "text": "The Jewish doctors are mad, and charge our Saviour to have made a contract with the devil, and to have derived this power from him. But how did this appear to them? Nothing appeared as to any thing which our Saviour had done that could conduct their reason to such a judgment; nothing but what led their more charitable neighbours to a quite contrary judgment."
+    },
+    {
+     "id": "poole/MAT.9.34#p3-4087dd3e",
+     "text": "But something they must say to defame our Saviour’s reputation amongst the people; having nothing else, but what the people would have judged false, they thus charge him. Nor are the children of the devil to learn his arts, who, when they cannot charge good and holy men with profaneness, charge them with hypocrisy, of which it is impossible they should be competent judges."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.35",
+   "range": "MAT.9.35",
+   "kind": "passage",
+   "hash": "871259dc",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.35#p1-871259dc",
+     "text": "We met with these words Mat 4:23, only there it was all Galilee, by which probably this text ought to be expounded: See Poole on \"Mat 4:23\".",
+     "refs": [
+      {
+       "text": "Mat 4:23",
+       "ref": "MAT.4.23"
+      },
+      {
+       "text": "Mat 4:23",
+       "ref": "MAT.4.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.36",
+   "range": "MAT.9.36",
+   "kind": "passage",
+   "hash": "b50d1e28",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.36#p1-34c28659",
+     "text": "Mark hath something of this, Mar 6:34. It pitied him, who came down from heaven to earth to seek and to save lost souls, to see what a company of people followed him, willing to be instructed, because they were εκλελυμενοι, or, as some read it, εσκυλμενοι, tired and wearied with running after him to hear the gospel, and ερριμμενοι,",
+     "refs": [
+      {
+       "text": "Mar 6:34",
+       "ref": "MRK.6.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.36#p2-cf916be6",
+     "text": "Had then the Jews at this time no ministry? They had the temple at Jerusalem, scribes, and Pharisees, and priests; synagogues in other places, where the law was read and interpreted. Christ accounts those people to have no ministers who have no good ones; but either dumb dogs, that cannot bark, or lazy ones, that will not. Such was the generality of the Jewish ministry at this time. This moved the bowels of Christ (so the word signifies). It is a great misery when the congregation of the Lord are as sheep which have no shepherd, Num 27:17; and so they are when they have no true prophets of the Lord to instruct them, 1Ki 22:17.",
+     "anchor": "scattered abroad, as sheep having no shepherd",
+     "refs": [
+      {
+       "text": "Num 27:17",
+       "ref": "NUM.27.17"
+      },
+      {
+       "text": "1Ki 22:17",
+       "ref": "1KI.22.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.37",
+   "range": "MAT.9.37",
+   "kind": "passage",
+   "hash": "8a973bb6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.37#p1-8a973bb6",
+     "text": "Mat 9:38\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 9:38",
+       "ref": "MAT.9.38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.9.38",
+   "range": "MAT.9.38",
+   "kind": "passage",
+   "hash": "5642cf06",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.9.38#p1-fd64a8f7",
+     "text": "Ver. 37,38. The plain sense of these two verses is this: John the Baptist and Christ had now been preaching for some time, God inclined the hearts of great multitudes to follow both the one and the other; there was a great people prepared for the Lord: Mat 11:12, From the days of John the Baptist, the kingdom of heaven had suffered violence, and the violent took it by force; men were exceeding fond of hearing the gospel.",
+     "refs": [
+      {
+       "text": "Mat 11:12",
+       "ref": "MAT.11.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.38#p2-4d77caf6",
+     "text": "The fields were white to the harvest, as our Saviour expresses it, Joh 4:35. But there were few that would faithfully deliver the mind of God; there were abundance of idle Pharisees, and scribes, and priests, that spent their time in teaching people their rites, and ceremonies, and traditions, but the labourers were few; such must be God’s gift to the people, and they must be thrust out. No arguments will be sufficient to persuade men to the weighty work of the ministry, with an intention to fulfil it, but the power of God inclining their hearts to it. You had need therefore pray unto God that he would send, nay, that he would εκβαλη, thrust out, labourers into his harvest.",
+     "refs": [
+      {
+       "text": "Joh 4:35",
+       "ref": "JHN.4.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.38#p3-9537318e",
+     "text": "1. The inclination and desire of multitudes to hear Divine truth is God’s harvest."
+    },
+    {
+     "id": "poole/MAT.9.38#p4-531461d0",
+     "text": "2. Ministers’ work is a labour, Gal 4:11 Php 4:3 1Ti 5:17; if rightly discharged, it must be with labour.",
+     "refs": [
+      {
+       "text": "Gal 4:11",
+       "ref": "GAL.4.11"
+      },
+      {
+       "text": "Php 4:3",
+       "ref": "PHP.4.3"
+      },
+      {
+       "text": "1Ti 5:17",
+       "ref": "1TI.5.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.38#p5-47cd97a3",
+     "text": "3. God is the Lord of the harvest; ministers ought to look upon him as so."
+    },
+    {
+     "id": "poole/MAT.9.38#p6-9320809b",
+     "text": "4. None ought to thrust themselves into the work of the ministry, till God thrust them out, Heb 5:4.",
+     "refs": [
+      {
+       "text": "Heb 5:4",
+       "ref": "HEB.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.9.38#p7-b99a5e0e",
+     "text": "5. There always were but a few labourers in God’s harvest. Hence Chrysostom thought that but a few ministers would be saved."
+    },
+    {
+     "id": "poole/MAT.9.38#p8-6c6ce296",
+     "text": "Our Saviour in this chapter prefaces his work of which we shall discourse in the next chapter, viz. his sending forth his twelve apostles."
+    }
+   ]
+  }
+ ]
+}

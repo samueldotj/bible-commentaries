@@ -1,0 +1,1611 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "poole/MAT.21",
+   "range": "MAT.21",
+   "kind": "chapter",
+   "hash": "0679d583",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21#p1-99750d84",
+     "text": "Mat 21:1-11 Christ rideth into Jerusalem upon an ass amidst the acclamations of the multitude.",
+     "refs": [
+      {
+       "text": "Mat 21:1-11",
+       "ref": "MAT.21.1-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p2-83fa821a",
+     "text": "Mat 21:12-14 He driveth the buyers and sellers out of the temple, and healeth the diseased there.",
+     "refs": [
+      {
+       "text": "Mat 21:12-14",
+       "ref": "MAT.21.12-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p3-29862bce",
+     "text": "Mat 21:15-16 His reply to the priests and scribes who took offence at the hosannas of the people.",
+     "refs": [
+      {
+       "text": "Mat 21:15-16",
+       "ref": "MAT.21.15-16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p4-e8e346e1",
+     "text": "Mat 21:17-22 He curseth the barren fig tree, which presently withereth.",
+     "refs": [
+      {
+       "text": "Mat 21:17-22",
+       "ref": "MAT.21.17-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p5-14740902",
+     "text": "Mat 21:23-27 He silences the priests and elders who questioned his authority.",
+     "refs": [
+      {
+       "text": "Mat 21:23-27",
+       "ref": "MAT.21.23-27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p6-1dc5bcad",
+     "text": "Mat 21:28-32 The parable of the two sons whom their father sent to work in his vineyard.",
+     "refs": [
+      {
+       "text": "Mat 21:28-32",
+       "ref": "MAT.21.28-32"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21#p7-d237c098",
+     "text": "Mat 21:33-46 The parable of the vineyard let out to wicked husbandmen.",
+     "refs": [
+      {
+       "text": "Mat 21:33-46",
+       "ref": "MAT.21.33-46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.1",
+   "range": "MAT.21.1",
+   "kind": "passage",
+   "hash": "e5e20157",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.1#p1-e5e20157",
+     "text": "Mat 21:3\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:3",
+       "ref": "MAT.21.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.2",
+   "range": "MAT.21.2",
+   "kind": "passage",
+   "hash": "e5e20157",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.2#p1-e5e20157",
+     "text": "Mat 21:3\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:3",
+       "ref": "MAT.21.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.3",
+   "range": "MAT.21.3",
+   "kind": "passage",
+   "hash": "8f15588b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.3#p1-b5d8514c",
+     "text": "Ver. 1-3. This famous story of our Lord’s entrance into Jerusalem is recorded by Mark, and Luke also: by Mark, Mar 11:1; by Luke, Luk 19:29. There is little difference in their relation of it thus far; afterwards we shall find more. I shall consider what they all say, that I may at once give the story perfect. Mark saith, Bethphage and Bethany. He saith, ye shall find a colt tied, whereon never man sat. Luke hardly varies at all from Mark, at least in nothing considerable.",
+     "refs": [
+      {
+       "text": "Mar 11:1",
+       "ref": "MRK.11.1"
+      },
+      {
+       "text": "Luk 19:29",
+       "ref": "LUK.19.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.3#p2-2d8f3aec",
+     "text": "Our Lord was come now very nigh Jerusalem; Bethany was but fifteen furlongs from Jerusalem, that was about two miles, wanting an eighth part, Joh 11:18; it was the town of Lazarus, Joh 11:1. Matthew names only Bethphage, which was a place at the same distance, at the foot of the Mount of Olives, so called from the plenty of olive trees growing there; this mount was betwixt Jerusalem and Bethphage.",
+     "refs": [
+      {
+       "text": "Joh 11:18",
+       "ref": "JHN.11.18"
+      },
+      {
+       "text": "Joh 11:1",
+       "ref": "JHN.11.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.3#p3-2096385c",
+     "text": "It is like our Saviour was at both these towns, for Mark and Luke nameth both. From one of them he sendeth two of his disciples to a village near hand, telling them they should there find, at their entrance in, an ass tied, with a colt, on which yet never man sat. Mark and Luke only mention the colt, because Christ rode only upon the colt. Matthew mentions the ass, for the fulfilling of the prophecy, of which we shall hear in the next verses."
+    },
+    {
+     "id": "poole/MAT.21.3#p4-d86a80bf",
+     "text": "( which he knew they would, and Mark and Luke tell us they did),",
+     "anchor": "Loose them, and bring them unto me. And if any man say ought unto you"
+    },
+    {
+     "id": "poole/MAT.21.3#p5-039d3c9a",
+     "text": "Not, our Lord, but the Lord of heaven and earth, whose are the cattle upon a thousand hills, hath need of them: not for any weariness; he who had travelled on foot from Galilee to Bethany, could have gone the other two miles; but that he might enter into Jerusalem as was prophesied of him, Zec 9:9.",
+     "anchor": "ye shall say, The Lord hath need of them",
+     "refs": [
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.3#p6-384b2f55",
+     "text": "The words are so, as may be understood as a promise of Christ to send them back, but it is more likely they are intended as an assurance to the disciples that the owners would make no difficulty to send them. These instructions (considered with the success) were an evident argument of Christ’s Divine nature, who could tell all particular circumstances, and also which way the heart of man would incline.",
+     "anchor": "And straightway he will send them"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.4",
+   "range": "MAT.21.4",
+   "kind": "passage",
+   "hash": "f64dd357",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.4#p1-f64dd357",
+     "text": "Mat 21:5\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:5",
+       "ref": "MAT.21.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.5",
+   "range": "MAT.21.5",
+   "kind": "passage",
+   "hash": "3210a156",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.5#p1-42ec839e",
+     "text": "Ver. 4,5. The words are, Zec 9:9, Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass. The evangelist quotes no more of them than served for his purpose. John, in the short account he giveth of this our Saviour’s entrance, quotes them shorter, Joh 12:15. The former part of the words are found Isa 62:11. The Jews agree this prophecy to respect the Messiah, though they were so blinded as not to see it was fulfilled in Christ.",
+     "refs": [
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      },
+      {
+       "text": "Joh 12:15",
+       "ref": "JHN.12.15"
+      },
+      {
+       "text": "Isa 62:11",
+       "ref": "ISA.62.11"
+      },
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.5#p2-595bfabf",
+     "text": "Tell ye the daughter of Zion, prophesy you to the Jews, to the citizens and inhabitants of Jerusalem, Behold, thy King cometh unto thee: thy spiritual King, having salvation, the King promised and foretold, that shall bring salvation, cometh, that is, shall shortly come to thee for thy profit and advantage."
+    },
+    {
+     "id": "poole/MAT.21.5#p3-21bbb95f",
+     "text": "And you shall know him by this; he shall come θκπ, poor, afflicted, meek, lowly, sitting upon an ass, an ass used to bear burdens, (so the word signifies), and a colt the foal of an ass: not upon both; they are exegetical of each other; the first denoted the species of the beast, the second its age. There was not any prophecy of Christ more plainly fulfilled than this. Asses were of old beasts that great persons used to ride on, Jud 10:4 12:14. But after Solomon’s time the Jews got a breed of horses; so as only poor people rode upon asses, mostly reserved for burdens.",
+     "refs": [
+      {
+       "text": "Jud 10:4",
+       "ref": "JUD.10.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.5#p4-4239bcc6",
+     "text": "Whom could the Jews possibly expect to see coming riding into Jerusalem, under the notion of a King bringing them salvation, in so little state, upon the foal of an ass, but the person prophesied of by Zechariah, Zec 9:9, whom they themselves confess to be the Messiah? And had not there been a strange veil upon their hearts, Herod’s courtiers, and Pilate’s, might have understood his kingdom was not of this world, nor he such a King as threatened their grandeur.",
+     "refs": [
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      },
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.6",
+   "range": "MAT.21.6",
+   "kind": "passage",
+   "hash": "695e302b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.6#p1-695e302b",
+     "text": "Mark saith, Mar 11:4-6, And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him. And certain of them that stood there said unto them, What do ye, loosing the colt? And they said unto them even as Jesus had commanded: and they let them go. Luke saith, Luk 19:32-34, And they that were sent went their way, and found even as he had said unto them. And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt? And they said, The Lord hath need of him. The true obedience of Christ’s disciples is to be learned from the practice of these two disciples: they dispute not the commands of their Lord, nor make objections, nor raise any disputes, nor are afraid of any danger to themselves; they went, and that speedily, and are exact to what their Lord had commanded them; accordingly they find as he had said. They loose the colt. The owner seeing them, asks why they loose the colt. They tell him the Lord had need of him.",
+     "refs": [
+      {
+       "text": "Mar 11:4-6",
+       "ref": "MRK.11.4-6"
+      },
+      {
+       "text": "Luk 19:32-34",
+       "ref": "LUK.19.32-34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.7",
+   "range": "MAT.21.7",
+   "kind": "passage",
+   "hash": "18f37757",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.7#p1-18f37757",
+     "text": "Mat 21:9\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:9",
+       "ref": "MAT.21.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.8",
+   "range": "MAT.21.8",
+   "kind": "passage",
+   "hash": "18f37757",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.8#p1-18f37757",
+     "text": "Mat 21:9\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:9",
+       "ref": "MAT.21.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.9",
+   "range": "MAT.21.9",
+   "kind": "passage",
+   "hash": "028cacc3",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.9#p1-b4e53406",
+     "text": "Ver. 7-9. Mark saith, Mar 11:7-10, And they brought the colt to Jesus, and cast their garments on him; and he sat upon him. And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way. And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord: blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest. Luke hath it yet with more circumstances, Luk 19:35-40: And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.",
+     "refs": [
+      {
+       "text": "Mar 11:7-10",
+       "ref": "MRK.11.7-10"
+      },
+      {
+       "text": "Luk 19:35-40",
+       "ref": "LUK.19.35-40"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.9#p2-1bcf5fc7",
+     "text": "And as they went, they spread their clothes in the way. And when he was come nigh, even now at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen; saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest. And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+    },
+    {
+     "id": "poole/MAT.21.9#p3-090959ac",
+     "text": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out. John also gives us some account of this, Joh 12:12,13: On the next day much people that were come to the feast, when they had heard that Jesus was coming to Jerusalem, took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord. They bring the ass and the colt to Jesus, who had no saddle, no costly furniture for him; they were glad to lay on the ass’s back some of their garments, and to set Christ upon the colt. And in a kind of a natural country triumph, made up without any kind of art, some threw their clothes in his way, some cut down boughs of trees, (palm trees, saith John), with these they bestrew the way. Christ at Bethany, in his journey, had done a famous miracle, raising up Lazarus from the dead. John saith, Joh 12:18, the fame of this made many that were in Jerusalem, who were come thither against the passover time, (for, Joh 12:1, it was but six days before the passover), go out to meet him; and, joined with those who came along with him from Bethany, they cried all along as they came, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.",
+     "refs": [
+      {
+       "text": "Joh 12:12",
+       "ref": "JHN.12.12"
+      },
+      {
+       "text": "Joh 12:18",
+       "ref": "JHN.12.18"
+      },
+      {
+       "text": "Joh 12:1",
+       "ref": "JHN.12.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.9#p4-b586aa28",
+     "text": "Blessed be the kingdom of our father David. Peace in heaven, and glory in the highest. Many of these expressions, seem to be taken out of Psa 118:24-26. Their laying the garments upon the ass, and throwing them in the way, was a custom they used towards princes, as appears not only by many records out of profane authors, but from 2Ki 9:13, where the like was done to Jehu, upon his being anointed king over Israel. For the acclamations, they were also such as were usual to princes.",
+     "refs": [
+      {
+       "text": "Psa 118:24-26",
+       "ref": "PSA.118.24-26"
+      },
+      {
+       "text": "2Ki 9:13",
+       "ref": "2KI.9.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.9#p5-d8566a40",
+     "text": "Whether Hosanna signifieth, Save now, or, Help, we pray; or whether it was a term by which they expressed their desire of good success or prosperity to the person to whom they applied it; or whether it was the name of some song used in their festivals, or it signifies boughs, &c., is not much material: they by this acclamation acknowledged him a King, the Son of David; they blessed him, they wished him peace, honour, and glory. This was the acclamation of the multitude, who doubtless had but a small and imperfect knowledge of the Divine nature of Christ, but yet looked on him as the Son of David, as the Messiah."
+    },
+    {
+     "id": "poole/MAT.21.9#p6-98c6c727",
+     "text": "The Pharisees (some of which it seemeth had mixed themselves with this multitude) were troubled at the acclamation, and (as Luke tells us) speak to Christ to rebuke them; but he answereth, If these should hold their peace, the stones would immediately cry out. It is a proverbial expression, the sense of which is alone to be attended. The sense is this: The time is come, set by my Father for the publication of my kingdom, and declaring what I am; and when God’s time is come the thing must come to pass, by one means or another. If these children of Abraham should hold their peace, God is able of these stones to raise up children to Abraham, and they should do the same thing, publish me as the Son of David, the King in Zion."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.10",
+   "range": "MAT.21.10",
+   "kind": "passage",
+   "hash": "a9463224",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.10#p1-a9463224",
+     "text": "Mat 21:11\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:11",
+       "ref": "MAT.21.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.11",
+   "range": "MAT.21.11",
+   "kind": "passage",
+   "hash": "eae10517",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.11#p1-eae10517",
+     "text": "Ver. 10,11. Such an unusual sight might well affect a great number in Jerusalem with admiration and astonishment, the people, especially, giving honour to him as a King, and calling him the Son of David; and certainly, but that the meanness of his appearance and meanness of his followers put uninterested men out of fear, and gave Herod and Pilate some security that there was no attempt on foot against the civil government, our Saviour and his followers would have been apprehended, as raisers of a sedition and rebellion. But the multitude now gave him no other title than that of Jesus the Prophet; which yet was enough to distinguish him from other prophets, for he was Jesus a Saviour, and the Prophet foretold, Deu 18:15,18,19.",
+     "refs": [
+      {
+       "text": "Deu 18:15",
+       "ref": "DEU.18.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.12",
+   "range": "MAT.21.12",
+   "kind": "passage",
+   "hash": "d4a30124",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.12#p1-d4a30124",
+     "text": "Mat 21:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:14",
+       "ref": "MAT.21.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.13",
+   "range": "MAT.21.13",
+   "kind": "passage",
+   "hash": "d4a30124",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.13#p1-d4a30124",
+     "text": "Mat 21:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:14",
+       "ref": "MAT.21.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.14",
+   "range": "MAT.21.14",
+   "kind": "passage",
+   "hash": "36ae70f4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.14#p1-a9ff99e8",
+     "text": "Ver. 12-14. This piece of the history is related by two of the other evangelists, but with great difference. Luke before this mentions a discourse upon the way, upon our Saviour’s first sight of the city, and his prophecy of the destruction of it; but no other evangelist mentioning it, I shall pass it over till I come to his history. Mark hath this part of the history thus, Mar 11:11-19, And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve. And on the morrow, when they were come from Bethany, he was hungry.",
+     "refs": [
+      {
+       "text": "Mar 11:11-19",
+       "ref": "MRK.11.11-19"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p2-3e15aae4",
+     "text": "(Then he relates our Saviour’s cursing the barren fig tree, which I leave till I come to it in order). And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the money changers and the seats of them that sold doves: and would not suffer that any man should carry any vessel through the temple."
+    },
+    {
+     "id": "poole/MAT.21.14#p3-7b13e6d9",
+     "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves. —And when the even was come, he went out of the city, Mat 21:19. Luke saith, Luk 19:45-47, And he went into the temple, and began to cast out them that sold therein, and those that bought; saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves. And he taught daily in the temple.",
+     "refs": [
+      {
+       "text": "Mat 21:19",
+       "ref": "MAT.21.19"
+      },
+      {
+       "text": "Luk 19:45-47",
+       "ref": "LUK.19.45-47"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p4-cab45994",
+     "text": "It is plain by all the evangelists, that our Saviour, coming to Jerusalem five days before the passover, went every night to Bethany, about two miles off, and returned in the morning to the temple, where Luke saith that he taught daily. The first day it should seem, by Mark, that he only came into the temple, looked round about upon all things, and with the twelve went out to lodge at Bethany."
+    },
+    {
+     "id": "poole/MAT.21.14#p5-daf8de6e",
+     "text": "By his going into the temple, we must understand only the outward court, for the priests and Levites only might enter into the inner court, and the holy place; and the high priest only might enter into the holiest of all. Though Mark mentions not his driving out the buyers and sellers the first day, but recites it as if it had been done the second day of his coming, yet the best interpreters think that it was done the first day, as Matthew and Luke seem to hint; nor is any thing more usual, than for the evangelists to set down things out of the order of time in which they were done. Some learned authors in the Hebrew learning tell us, that in the outward court was a daily market of such things as the Jews used for sacrifices, wine salt, oil, oxen, and sheep; but it being but three or four days before the passover, the market was much greater, because of the great multitude of lambs then to be used. By the law, Exo 30:12,15, every one also was to bring a half shekel.",
+     "refs": [
+      {
+       "text": "Exo 30:12",
+       "ref": "EXO.30.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p6-62ce4eef",
+     "text": "For this purpose there were tables of moneychangers, men that were furnished with half Shekels to change with the people, that every one might have his half shekel; and those that so changed allowed some little profit to those that changed their money, which gain was called κολλυβισται; thence the changers were called δολλυβισται, money changers."
+    },
+    {
+     "id": "poole/MAT.21.14#p7-55bd3bc8",
+     "text": "Those that sold doves were there, to furnish the women that came up to their purification with their offerings, according to the law, Lev 12:6. This was the reason of that great market which our Lord found in the outward court of the temple; and it is not likely that our Lord should see these abuses the first day and take no notice of them, but come the next day and correct them, which makes interpreters think Mark in this relation postponed this part of the history. Here arise two questions:",
+     "refs": [
+      {
+       "text": "Lev 12:6",
+       "ref": "LEV.12.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p8-ed2d95a8",
+     "text": "1. Whether it was unlawful for them to sell these things in that part of the temple."
+    },
+    {
+     "id": "poole/MAT.21.14#p9-06a40a5a",
+     "text": "2. Admit it were, By what authority did our Saviour do this?"
+    },
+    {
+     "id": "poole/MAT.21.14#p10-8a37bf72",
+     "text": "To the first it must be said, That had it not been unlawful, our Saviour would not have reproved them for turning his Father’s house, and the house of prayer, into a place of merchandise; nor would he have driven them out in such a zeal, overturning the tables, &c., which he had done also once before, Joh 2:15. The temple was built by God’s direction, not only dedicated by men, but God’s acceptation of it was testified.",
+     "refs": [
+      {
+       "text": "Joh 2:15",
+       "ref": "JHN.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p11-0816bdc5",
+     "text": "It appeareth by Joh 2:19, it was a type of Christ’s body. We know there were special promises made to those that did pray toward it. God saith he had hallowed it, 1Ki 9:3; that is, separated it from common use to his service, amongst other things for a house of prayer, Isa 56:7. Now though we read of no other things sold there but what were useful for sacrifices, yet this was a civil use, and a profanation of that holy place, because there were market places in Jerusalem, in which these things might have been done. It had been against decency, if the temple had not been hallowed in this manner, if such things had been done in the synagogues, being places set apart and commonly used for God’s worship; but to use the temple in this manner, so specially hallowed, was doubtless a great profanation of that holy place.",
+     "refs": [
+      {
+       "text": "Joh 2:19",
+       "ref": "JHN.2.19"
+      },
+      {
+       "text": "1Ki 9:3",
+       "ref": "1KI.9.3"
+      },
+      {
+       "text": "Isa 56:7",
+       "ref": "ISA.56.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p12-7e162bbc",
+     "text": "As to the second question, By what authority our Lord, being no public magistrate, did these things, I am not so posed to determine that, he being the eternal Son of God, and now in the exercise of his regal power, as I am to give an account how it came to pass that the priests, and scribes, and Pharisees never questioned him for what he did; for if any will say, that we presently shall read of their taking counsel against him, I reply, But we read of nothing relating to this laid to his charge."
+    },
+    {
+     "id": "poole/MAT.21.14#p13-3533d433",
+     "text": "Nor do we read of their questioning him when he did the same things before, an account of which we have in Joh 2:13-25. For though I know some say that our Saviour did this Jure zelotarum: that the Jews had a law, that any might punish even to death such as profaned the worship or holy things of God; which they justify from Deu 13:9, and the examples of Phinehas killing Zimri and Cozbi, Num 25:6-8, and Mattaniah’s killing the Jew sacrificing to idols at Modin, and the king’s commissioner, of which we read in /Apc 2Ma 2:24,25: yet this doth no way give me any satisfaction: for as, on the one side, I should not have known how to have defended the act of Phinehas if God had not by and by justified him, nor do I think that the law in Deu 13:9 is to be expounded of private persons; so, on the other side, if the priests, and scribes, and Pharisees had not known of some law that justified our Saviour in this act, I can hardly conceive they would have so quietly put it up, especially considering that probably their profit was concerned, if they had for gain licensed those traders to a place within the compass of the temple, as is very probable.",
+     "refs": [
+      {
+       "text": "Joh 2:13-25",
+       "ref": "JHN.2.13-25"
+      },
+      {
+       "text": "Deu 13:9",
+       "ref": "DEU.13.9"
+      },
+      {
+       "text": "Num 25:6-8",
+       "ref": "NUM.25.6-8"
+      },
+      {
+       "text": "Deu 13:9",
+       "ref": "DEU.13.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.14#p14-ec4aa1c3",
+     "text": "Being therefore fully satisfied that our Saviour, who was Lord of the temple, and to whom the Spirit was given without measure, did no more than he might lawfully do, I am willingly ignorant how it came to pass that he met with no opposition in it, because God hath not pleased in his word to inform us. It is certain that he did the thing, and that it was a thing fit to be done, and that he, as the Son of God, had authority to do it; what made them take it so quietly I cannot tell, nor is it necessary for us to know, nor of any great advantage."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.15",
+   "range": "MAT.21.15",
+   "kind": "passage",
+   "hash": "c2692f24",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.15#p1-c2692f24",
+     "text": "Mat 21:16\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:16",
+       "ref": "MAT.21.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.16",
+   "range": "MAT.21.16",
+   "kind": "passage",
+   "hash": "a8a82356",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.16#p1-a8a82356",
+     "text": "Ver. 15,16. The other evangelists say nothing of this part of this history. The wonderful things here mentioned, are his healing the blind and lame, of which we read Mat 21:14. The cry of the children doubtless more displeased them; it was of the same nature with that of the multitude in the way, and in the streets, when our Lord came into Jerusalem; they owned Christ as the Messiah, and gave him praise, and wished all manner of felicity to him. The Pharisees showing a displeasure at the acclamation, Christ refers them to what was written, Psa 8:2: there it is, thou hast founded, or ordained, strength, that is, a solid and firm praise; a prediction that from the testimony of such weak persons, the glorious power of Christ should be proclaimed, and from such mean and despicable beginnings great and glorious things should come to pass.",
+     "refs": [
+      {
+       "text": "Mat 21:14",
+       "ref": "MAT.21.14"
+      },
+      {
+       "text": "Psa 8:2",
+       "ref": "PSA.8.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.17",
+   "range": "MAT.21.17",
+   "kind": "passage",
+   "hash": "54fadf2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.17#p1-54fadf2d",
+     "text": "Mat 21:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.18",
+   "range": "MAT.21.18",
+   "kind": "passage",
+   "hash": "54fadf2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.18#p1-54fadf2d",
+     "text": "Mat 21:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.19",
+   "range": "MAT.21.19",
+   "kind": "passage",
+   "hash": "54fadf2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.19#p1-54fadf2d",
+     "text": "Mat 21:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.20",
+   "range": "MAT.21.20",
+   "kind": "passage",
+   "hash": "54fadf2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.20#p1-54fadf2d",
+     "text": "Mat 21:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.21",
+   "range": "MAT.21.21",
+   "kind": "passage",
+   "hash": "54fadf2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.21#p1-54fadf2d",
+     "text": "Mat 21:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.22",
+   "range": "MAT.21.22",
+   "kind": "passage",
+   "hash": "4e27a8fa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.22#p1-82cf5a5b",
+     "text": "Ver. 17-22. Luke hath nothing of this passage, but Mark relates it with some variation and additions: the variation is only as to time, as to which the evangelists were not curious."
+    },
+    {
+     "id": "poole/MAT.21.22#p2-98103391",
+     "text": "Matthew relates this miracle as done in the morning of the second day, as Christ and his disciples returned from Bethany; so doth Mar 11:12: but Matthew speaks as if the disciples discerned it presently withered; Mark mentions it as not discerned to be withered till the next morning, Mar 11:20. Mark saith, Mar 11:13, for the time of figs was not yet; which breeds a difficulty, why our Saviour should curse the fig tree for having no fruit, when the time for its fruit was not come (of which more by and by). Mark saith, Mar 11:21,22, that Peter calling to remembrance his Master’s cursing the fig tree, saith unto him, Master, behold, the fig tree which thou cursedst is withered away. And Jesus answering saith unto them, Have faith in God. Then repeats the substance of what Matthew hath in Mat 21:21,22; to which Mark addeth, Mar 11:25,26, And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+     "refs": [
+      {
+       "text": "Mar 11:12",
+       "ref": "MRK.11.12"
+      },
+      {
+       "text": "Mar 11:20",
+       "ref": "MRK.11.20"
+      },
+      {
+       "text": "Mar 11:13",
+       "ref": "MRK.11.13"
+      },
+      {
+       "text": "Mar 11:21",
+       "ref": "MRK.11.21"
+      },
+      {
+       "text": "Mat 21:21",
+       "ref": "MAT.21.21"
+      },
+      {
+       "text": "Mar 11:25",
+       "ref": "MRK.11.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.22#p3-033b6f87",
+     "text": "But if ye do not forgive, neither will your Father which is in heaven forgive you your trespasses. When our Lord had been in the temple, and driven out the buyers and sellers there, he went out of the city to be at Bethany, either to avoid the noises of the city, (now very full of people, the passover being so nigh), or to get a more private place for prayer."
+    },
+    {
+     "id": "poole/MAT.21.22#p4-f6270f8f",
+     "text": "He returns the next morning; and being hungry, and seeing a fig tree in his way, he goes to it, finds it full of leaves, but no fruit on it. He saith unto it, Never fruit grow on thee more. Mark saith, For the time of figs was not yet. Why then doth our Saviour curse this tree? Some think that by time is here meant season (as indeed the Greek word often signifieth); these would have the meaning to be, for it was not a seasonable year for figs. But this rather augments than abates the difficulty, for why should our Saviour curse it for having no figs, when the year was such as was not seasonable? Others therefore think that ου should be ου, then the English would be, Where he was was a time of figs. For this it is said;"
+    },
+    {
+     "id": "poole/MAT.21.22#p5-6f615ce9",
+     "text": "1. That the Greek spirits and accents were ordinarily left out in ancient copies, which if they be taken away the words are the same."
+    },
+    {
+     "id": "poole/MAT.21.22#p6-aab1e1be",
+     "text": "2. That this was according to truth, for it was a time of green figs, at least; it being near Jerusalem, and but three or four days before the passover, about which time they reaped their corn, as appears from Lev 23:10 Deu 16:9; and it is plain from Son 2:13, that in the beginning of their spring their fig trees put forth green figs.",
+     "refs": [
+      {
+       "text": "Lev 23:10",
+       "ref": "LEV.23.10"
+      },
+      {
+       "text": "Deu 16:9",
+       "ref": "DEU.16.9"
+      },
+      {
+       "text": "Son 2:13",
+       "ref": "SNG.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.22#p7-528da9b6",
+     "text": "But when I consider that none of the ancient translations are according to this criticism, but as our translations, I conclude that the ancients understood it ου, not ου, and it seemeth too bold to interpret the words contrary to their unanimous sense."
+    },
+    {
+     "id": "poole/MAT.21.22#p8-ff1d6e9b",
+     "text": "Others therefore tell us, that fig trees, or at least some kind of them, (like orange trees), had leaves and fruit upon them always, some green, some half ripe, some full ripe; and that these kept on their leaves all the winter: so that our Saviour seeing leaves, might be led to it with an expectation of some fruit put forth the former year, for the time for the ripening of fruit of that kind that year was not come; and finding none, he cursed it; thereby in a type showing what should be done to barren souls, who have only leaves, no true fruit of righteousness."
+    },
+    {
+     "id": "poole/MAT.21.22#p9-7ae3efe8",
+     "text": "Or what if we should say, that he did not curse it with any respect to its want of fruit, but only to show his Divine power, working a miracle?"
+    },
+    {
+     "id": "poole/MAT.21.22#p10-a32ed8a4",
+     "text": "And presently the fig tree withered away: as soon as our Saviour had cursed it, it began to wither. Mark tells us this was the next morning, Mar 11:20, which made Peter say, Master, behold, the fig tree which thou cursedst is withered away. Matthew saith, When the disciples saw it, they marvelled, saying, How soon is the fig tree withered away! Upon this our Saviour telleth Peter and the rest, that if they had faith, and doubted not, they should not only do that which he had done to the fig tree, but if they said to that mountain, Be removed and cast into the sea, it should be done. This is interpreted by Mat 21:22,",
+     "refs": [
+      {
+       "text": "Mar 11:20",
+       "ref": "MRK.11.20"
+      },
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.22#p11-8c59a5db",
+     "text": "We met with the like expression before, Mat 17:20. Mark hath the same, Mar 11:23. Luke hath it, Luk 17:6. It is an expression which ought not to be strained further than to signify, that there is nothing conducive to the glory of God and our own good, but believers may receive at the hand of God, if they can believe without doubting that what they would have shall come to pass. I see no reason to discourse of a faith of miracles as different from other faith; which only thus differed, that the disciples (the apostles I mean) had a power given them, and a promise made to them, that they should be able to work miraculous operations, which is not given to other Christians serving only the particular occasions of that time, to give credit to the gospel.",
+     "anchor": "All things, whatsoever ye shall ask in prayer believing, ye shall receive",
+     "refs": [
+      {
+       "text": "Mat 17:20",
+       "ref": "MAT.17.20"
+      },
+      {
+       "text": "Mar 11:23",
+       "ref": "MRK.11.23"
+      },
+      {
+       "text": "Luk 17:6",
+       "ref": "LUK.17.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.22#p12-e819ce3f",
+     "text": "The general proposition is true, and shall be made good to every believer, That whatsoever good is made the matter of a promise, (such are all good things), shall be given to believing souls, praying for them. But there were of old special promises, not made to the people of God in general, but to particular persons, for particular ends; we cannot expect to do or obtain such things now. Nothing is too big for true faith to obtain, but that faith must have a promise to lean upon, and it must be showed by prayer, as Mat 21:22. Mark adds, that it must be also attended with charity, a charitable heart, ready to forgive, and actually forgiving, our brethren their trespasses.",
+     "refs": [
+      {
+       "text": "Mat 21:22",
+       "ref": "MAT.21.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.22#p13-e059db86",
+     "text": "But it is no more than we met with in Matthew, Mat 6:14,15, where we opened the sense of those words.",
+     "refs": [
+      {
+       "text": "Mat 6:14",
+       "ref": "MAT.6.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.23",
+   "range": "MAT.21.23",
+   "kind": "passage",
+   "hash": "c2f05b20",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.23#p1-ac31e5de",
+     "text": "Mark hath before this, Mar 11:18, And the scribes and chief priests heard it, that is, his turning the buyers and sellers out, and overturning the tables of the money changers, and sought how they might destroy him: for they feared him, because all the people were astonished at his doctrine. Then he saith, Mat 22:27,28, And they come again, to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders, and say unto him, By what authority doest thou these things? and who gave thee this authority to do these things? Luke saith, Luk 19:47,48: And he taught daily in the temple.",
+     "refs": [
+      {
+       "text": "Mar 11:18",
+       "ref": "MRK.11.18"
+      },
+      {
+       "text": "Mat 22:27",
+       "ref": "MAT.22.27"
+      },
+      {
+       "text": "Luk 19:47",
+       "ref": "LUK.19.47"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.23#p2-d49608b8",
+     "text": "But the chief priests and the scribes and the chief of the people sought to destroy him, and could not find what they might do: for all the people were very attentive to hear him. It is plain that our Saviour went every night to Bethany, and returned to Jerusalem every morning, and daily preached in the temple. And Luke saith, the people were very attentive to hear him; in the Greek it is, hung upon him, hearing him. They were also much affected with the miracles which they had seen him working."
+    },
+    {
+     "id": "poole/MAT.21.23#p3-52add8c1",
+     "text": "So as the scribes and the elders feared him, saith Mark. This possibly might be one reason why they made no opposition to our Saviour, driving the buyers and sellers out of the temple, viz. for fear of the people; for we must remember they were a conquered, tributary people, and traded the jurisdiction of the Romans, under whom, though they had a liberty for the exercise of their own religion, yet they had not such a power as before; it was not lawful for them to put any to death, Joh 18:31. And for the preserving of their own liberty, they were obliged to take heed of causing any tumults for matters concerning their religion.",
+     "refs": [
+      {
+       "text": "Joh 18:31",
+       "ref": "JHN.18.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.23#p4-dc98836b",
+     "text": "So as what they did of this nature they did by craft, rather than plainly and openly attempting it, Mar 14:1. It is likely they might have some previous secret counsels what method to take, mentioned both by Mark and Luke. The method, it seems, which they agreed upon, was first to send to him, to know by what authority he did those things, and who gave him such authority. This is mentioned both by Matthew and Mark. They sent such a message to John, Joh 1:19-21. They had often questioned him about his doctrine, and had gone by the worst, he justifying his doctrine to their faces.",
+     "refs": [
+      {
+       "text": "Mar 14:1",
+       "ref": "MRK.14.1"
+      },
+      {
+       "text": "Joh 1:19-21",
+       "ref": "JHN.1.19-21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.23#p5-dcafd96e",
+     "text": "For the truth of his miracles, it was so evident that they could not question that; They therefore now only question his authority to preach. The question was captious enough, for if he had said, By a Divine authority, they would probably have accused him of blasphemy. For a human authority, they knew he had none, according to their rules for order, for they came from the court that should have given them such authority. Our Saviour well enough understanding their design, gives them, who would not understand his Divine mission by his miraculous operations, a wary answer."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.24",
+   "range": "MAT.21.24",
+   "kind": "passage",
+   "hash": "3bca662d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.24#p1-3bca662d",
+     "text": "Mat 21:27\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:27",
+       "ref": "MAT.21.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.25",
+   "range": "MAT.21.25",
+   "kind": "passage",
+   "hash": "3bca662d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.25#p1-3bca662d",
+     "text": "Mat 21:27\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:27",
+       "ref": "MAT.21.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.26",
+   "range": "MAT.21.26",
+   "kind": "passage",
+   "hash": "3bca662d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.26#p1-3bca662d",
+     "text": "Mat 21:27\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:27",
+       "ref": "MAT.21.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.27",
+   "range": "MAT.21.27",
+   "kind": "passage",
+   "hash": "94055343",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.27#p1-6c01f7a2",
+     "text": "Ver. 24-27. We have the same without any considerable alteration Mar 11:27-33. Luke also records the same history, Luk 20:1-8, with no considerable difference, only he thus prefaceth to it: And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders: which makes it plain, that their question principally related to our Saviour’s preaching. It should seem, they had a law prohibiting any to preach in the temple without authority from the chief priests and elders. If any one think this was not an apposite answer to the question propounded to him,",
+     "refs": [
+      {
+       "text": "Mar 11:27-33",
+       "ref": "MRK.11.27-33"
+      },
+      {
+       "text": "Luk 20:1-8",
+       "ref": "LUK.20.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.27#p2-7d9018b0",
+     "text": "1. They ought to consider, that our Saviour did truly judge they deserved no answer, for his works had testified of him that he acted by a Divine power; he should not need tell them so, in so many words."
+    },
+    {
+     "id": "poole/MAT.21.27#p3-91410bd8",
+     "text": "2. In very deed there was a direct answer couched in this question of our Saviour. I pray, saith he, by what authority did John preach and baptize? They could not say, By a human authority, for they knew he was not licensed by their masters: it must follow that he acted by virtue of an extraordinary Divine mission."
+    },
+    {
+     "id": "poole/MAT.21.27#p4-241a6b02",
+     "text": "So do I, saith our Saviour, and have given you a greater proof of it than ever John Baptist did. But our Lord well knew that the Pharisees had a greater reverence for John the Baptist than for him, and that many of the people had a great opinion of John, indeed greater than of him; our Saviour coming eating and drinking, as he expresses it, that is, being of a more free and sociable conversation, which did not so please the Pharisaical morose, and supercilious humour: he therefore chooseth to teach them by a question, in which, as soon as they could resolve themselves, they might know by what authority he did what he did. Besides, by the baptism of John, mentioned in our Saviour’s question, is not to be understood only his administration of baptism, but his doctrine, and indeed the whole of his ministry; for as his baptism is called the baptism of repentance, so the Pharisees here argue, that if they should say, From heaven, he would say, Why then did ye not believe him? Which must be understood of his doctrine."
+    },
+    {
+     "id": "poole/MAT.21.27#p5-cf1394bb",
+     "text": "A great part of John’s doctrine was, that the Messiah was come, that Christ was he; Joh 1:29, he pointed to him and said, Behold the Lamb of God which taketh away the sin of the world; which had they believed, they would never have come to him with so silly a question. The Pharisees therefore rightly judged how they would be ensnared, if they said John’s baptism and doctrine was from God, for then a Divine faith was due to his words, and they must have owned Christ to be the Messiah. But why did not they say, Of men? The text saith, they feared the people. Those who will not fear God, shall have something to fear sordidly and slavishly. The people all owning John as a prophet, a man that had an extraordinary mission from God, and commission to reveal the mind and will of God, would have cried shame upon them had they disparaged him, as one that spake of his own head. They say,",
+     "refs": [
+      {
+       "text": "Joh 1:29",
+       "ref": "JHN.1.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.27#p6-4ccb926f",
+     "text": "Herein they lied. Our Saviour replies,",
+     "anchor": "We cannot tell"
+    },
+    {
+     "id": "poole/MAT.21.27#p7-1c6a6f5a",
+     "text": "& c. Not, I cannot tell you, but I do not tell you: I will tell you no more than what John hath long since told you, and what, if you will, you and all men may know by my miracles.",
+     "anchor": "Neither do I tell you"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.28",
+   "range": "MAT.21.28",
+   "kind": "passage",
+   "hash": "2da41b36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.28#p1-2da41b36",
+     "text": "Mat 21:32\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:32",
+       "ref": "MAT.21.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.29",
+   "range": "MAT.21.29",
+   "kind": "passage",
+   "hash": "2da41b36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.29#p1-2da41b36",
+     "text": "Mat 21:32\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:32",
+       "ref": "MAT.21.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.30",
+   "range": "MAT.21.30",
+   "kind": "passage",
+   "hash": "2da41b36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.30#p1-2da41b36",
+     "text": "Mat 21:32\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:32",
+       "ref": "MAT.21.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.31",
+   "range": "MAT.21.31",
+   "kind": "passage",
+   "hash": "2da41b36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.31#p1-2da41b36",
+     "text": "Mat 21:32\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:32",
+       "ref": "MAT.21.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.32",
+   "range": "MAT.21.32",
+   "kind": "passage",
+   "hash": "22b0787d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.32#p1-ab4a8237",
+     "text": "Ver. 28-32. Matthew alone mentions this parable. The scope of it is taught us Mat 21:31,",
+     "refs": [
+      {
+       "text": "Mat 21:31",
+       "ref": "MAT.21.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.32#p2-653510ff",
+     "text": "(that is, shall go)",
+     "anchor": "The publicans and the harlots go"
+    },
+    {
+     "id": "poole/MAT.21.32#p3-cdf3d26f",
+     "text": "that is, you Pharisees. Who these Pharisees and who the publicans were, we showed before, Mat 3:7. The publicans were very odious to the Jews: see Mar 2:16. Harlots are great sinners. By the kingdom of God, here, is meant that of glory. Our Lord’s saying that publicans and harlots should go in before the Pharisees, doth not imply that they should follow. It only signifieth that some who had been publicans (as Matthew and Zacchaeus) and harlots were in a better condition than these Pharisees.",
+     "anchor": "into the kingdom of God before you",
+     "refs": [
+      {
+       "text": "Mat 3:7",
+       "ref": "MAT.3.7"
+      },
+      {
+       "text": "Mar 2:16",
+       "ref": "MRK.2.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.32#p4-0ca84f59",
+     "text": "He proves it because they had done the will of God, which the Pharisees, notwithstanding all their fair profession, had not, but resisted it, and particularly in the ministry of John the Baptist, who came to them in the way of righteousness, preaching the true doctrine of righteousness, and living a holy and righteous life; upon the hearing of whose doctrine, some of the publicans and other great sinners had believed in Christ; but the Pharisees, though they heard his doctrine, saw his conversation, and saw others repent and own Christ, yet were so far from believing, that they would not repent, that they might believe; they would not be awakened to any sense of their sinful courses, nor amend any thing of their former ways, that they might receive Christ and embrace his righteousness and salvation."
+    },
+    {
+     "id": "poole/MAT.21.32#p5-a7125cea",
+     "text": "For although evangelical repentance is the fruit of faith, yet that repentance which lieth in a previous sense of sin, and a resolution to leave sinful courses, goeth before it. Now to illustrate and press this home upon the consciences of these Pharisees, our Saviour brings this parable, (as Nathan did to David, 2Sa 12:1,11) that they might, being convicted, condemn themselves. Hence the parable is easily understood: The man mentioned is God. The two sons were the Pharisees, a people highly pretending obedience to the law of God, and making a great show of religion. And the publicans and harlots, great sinners, bad and vile people, making no pretence to religion.",
+     "refs": [
+      {
+       "text": "2Sa 12:1",
+       "ref": "2SA.12.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.32#p6-85caac04",
+     "text": "God saith to the one and the other, Go, work in my vineyard, that is, do my will, do the work I command you to do. The Pharisees, so hypocrites and formalists, by their outward pretence and profession, say, I go, sir; but yet go not; all their religion is a vain show, a mere outside appearance. Others by their lives declare that they will not go; but yet upon second thoughts, having their hearts touched by the finger of God, they do God’s work."
+    },
+    {
+     "id": "poole/MAT.21.32#p7-7a26d4dc",
+     "text": "Whether of them twain did the will of his father? They say unto him, The first. This is plain; for what was the will of the father, but that they should do the work he set them to do? This the latter did not. The father’s will was not only that the son should give him a cap and a knee, and compliment him, but that he should go to work in the vineyard. It is the least part of God’s will that men should give him good words, be a little complemental and ceremonious toward him; but that they should repent and believe, and obey his gospel. This some publicans and harlots did; the generality of the Pharisees refused. It is a hard thing to convince a moral, righteous, civil man, that he lacks any thing to salvation; and hence it is that profane persons many times repent, believe, and are saved, when others perish in their impenitency and unbelief, because they think they have no need of repentance, or any further righteousness than they are possessed of."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.33",
+   "range": "MAT.21.33",
+   "kind": "passage",
+   "hash": "0432d161",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.33#p1-0432d161",
+     "text": "Mark hath this parable, Mar 12:1-9. Luke hath it, Luk 20:9-16. Who is here intended under the notion of a householder, or a man? We are told by the prophet Isaiah, Isa 5:1,2, it is the Lord of hosts, the God of Israel: the house of Israel and the men of Judah are his vineyard, his pleasant plant, Isa 5:7 he hedged this people by his providence. God often compares his church to a vineyard, Deu 32:32 Psa 80:8 Jer 2:21. The other expressions, of making in it a winepress, or a winefat, signify no more than that God had provided for the Jews all things necessary for use or ornament. His letting of it out to husbandmen, and going into a far country, signifies that, being himself, as to his glorious residence, in heaven, he had entrusted the church of the Jews with a high priest, and other priests and Levites.",
+     "refs": [
+      {
+       "text": "Mar 12:1-9",
+       "ref": "MRK.12.1-9"
+      },
+      {
+       "text": "Luk 20:9-16",
+       "ref": "LUK.20.9-16"
+      },
+      {
+       "text": "Isa 5:1",
+       "ref": "ISA.5.1"
+      },
+      {
+       "text": "Isa 5:7",
+       "ref": "ISA.5.7"
+      },
+      {
+       "text": "Deu 32:32",
+       "ref": "DEU.32.32"
+      },
+      {
+       "text": "Psa 80:8",
+       "ref": "PSA.80.8"
+      },
+      {
+       "text": "Jer 2:21",
+       "ref": "JER.2.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.34",
+   "range": "MAT.21.34",
+   "kind": "passage",
+   "hash": "504a3f36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.34#p1-504a3f36",
+     "text": "Mat 21:36\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:36",
+       "ref": "MAT.21.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.35",
+   "range": "MAT.21.35",
+   "kind": "passage",
+   "hash": "504a3f36",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.35#p1-504a3f36",
+     "text": "Mat 21:36\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:36",
+       "ref": "MAT.21.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.36",
+   "range": "MAT.21.36",
+   "kind": "passage",
+   "hash": "e5ab9a2d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.36#p1-e5ab9a2d",
+     "text": "Ver. 34-36. Mark agrees in the substance, but mentions three single servants sent, and then many others. The first he saith they caught, and beat, and sent away empty. At the second he saith they cast stones, wounded him in the head, and sent him away shamefully handled. The third he saith they killed; and for others, they did beat some, and kill some. Luke speaks to the same sense. I observed before, that we must not look to fit every particular phrase in a parable in the explication. By the servants here sent to the husbandmen are doubtless to be understood those extraordinary prophets, whom in the corrupt state of the Jewish church God sent to reprove the priests, and to admonish the priests, as well as the people, of the duty which they owed unto God, in obedience to his law. And the various phrases here used, to express the indignities offered to the servants, do but signify the various abuses offered to many of these prophets, of which are instances in 1Ki 19:10 2Ch 36:16 Neh 9:26 Jer 44:4,5. Jeremiah was beaten and imprisoned; so was Micaiah; Zechariah slain in the temple, &c.",
+     "refs": [
+      {
+       "text": "1Ki 19:10",
+       "ref": "1KI.19.10"
+      },
+      {
+       "text": "2Ch 36:16",
+       "ref": "2CH.36.16"
+      },
+      {
+       "text": "Neh 9:26",
+       "ref": "NEH.9.26"
+      },
+      {
+       "text": "Jer 44:4",
+       "ref": "JER.44.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.37",
+   "range": "MAT.21.37",
+   "kind": "passage",
+   "hash": "e62145b0",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.37#p1-e62145b0",
+     "text": "Mark saith he had but one son, his well beloved, Mar 12:6. Luke saith, Luk 20:13, Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him. God is here brought in acting after the manner of men, using all probable means to get their rent: we must not fancy that God did not know what men would do. God, after all his prophets, sent his only Son to the Jews and to their priests, his well beloved Son; he said, Perhaps they will reverence my Son. These words must be understood, not as expressing what they would do, or what appeared to God probable that they would do, but as expressive of what they ought to do, and what God might reasonably expect from them.",
+     "refs": [
+      {
+       "text": "Mar 12:6",
+       "ref": "MRK.12.6"
+      },
+      {
+       "text": "Luk 20:13",
+       "ref": "LUK.20.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.38",
+   "range": "MAT.21.38",
+   "kind": "passage",
+   "hash": "ce5bd636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.38#p1-ce5bd636",
+     "text": "Mat 21:39\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:39",
+       "ref": "MAT.21.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.39",
+   "range": "MAT.21.39",
+   "kind": "passage",
+   "hash": "aaf523bc",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.39#p1-66897184",
+     "text": "Ver. 38,39. Mark and Luke have the same with no considerable alteration. Our Lord here prophesieth his own death by the means of these wicked priests, and so both lets them know that he was not ignorant of what was in their hearts, and they had been already (as we heard before) taking counsel about, by which they might again have concluded that he was the Son of God, and one who knew their hearts; and he also lets them know, that they should not surprise him, and that he was not afraid of them."
+    },
+    {
+     "id": "poole/MAT.21.39#p2-06dc4a01",
+     "text": "But when the husbandmen saw the son, they said, This is the heir. These words let the Pharisees (to whom, together with the people, he at that time spake) know that themselves knew he was the Son of God, and were convicted in their own consciences that he was the true Lord of the church."
+    },
+    {
+     "id": "poole/MAT.21.39#p3-f5a812c4",
+     "text": "Though this was not true of all that had a hand in crucifying Christ; for Paul saith of some of them, that if they had known him, they would not have crucified the Lord of glory; yet it was doubtless true of many of them, and those the most knowing men amongst them. But herein did their most prodigious blindness and madness appear, that when they knew this, they should think it possible to prevent his being set as King upon the Lord’s holy hill of Zion. One would think this were impossible to rational creatures."
+    },
+    {
+     "id": "poole/MAT.21.39#p4-3c36d39e",
+     "text": "But why should we think so? How many are there in the world at this day, that are convicted in their own consciences, and do believe that the ways and people whom they prosecute to their ruin, yea, to death itself, are the truths, the ways, the people of God, yet they will be kicking against the pricks! And though God makes many of them perish in their enterprises, and suffers them not to come with hoary heads to the grave in peace, yet there ariseth another instead of this hydra, a posterity approving their doings and thinking, though their fathers failed in this or that little policy, yet they shall prevail against God, and his inheritance shall be theirs."
+    },
+    {
+     "id": "poole/MAT.21.39#p5-61b91f59",
+     "text": "Wise Providence thus fitteth the saints for their crown, and suffers sinners to prepare themselves for the day of wrath."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.40",
+   "range": "MAT.21.40",
+   "kind": "passage",
+   "hash": "8559c83d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.40#p1-8559c83d",
+     "text": "Mat 21:41\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:41",
+       "ref": "MAT.21.41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.41",
+   "range": "MAT.21.41",
+   "kind": "passage",
+   "hash": "97f5fb4b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.41#p1-f944713b",
+     "text": "Ver. 40,41. Mark relates the latter verse as Christ’s own words, Mar 12:9; so doth Luke, Luk 20:15,16, adding, that when they heard it, they said, God forbid. It is said, to solve this difficulty,",
+     "refs": [
+      {
+       "text": "Mar 12:9",
+       "ref": "MRK.12.9"
+      },
+      {
+       "text": "Luk 20:15",
+       "ref": "LUK.20.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.41#p2-30813c9a",
+     "text": "1. That they say unto him must not be understood of the Pharisees, but some of the hearers; the Pharisees said only, God forbid."
+    },
+    {
+     "id": "poole/MAT.21.41#p3-8b087838",
+     "text": "2. Others think the Pharisees and elders did at first say as is here expressed, but our Saviour then telling them they were the men and opening it further to them, they said, God forbid."
+    },
+    {
+     "id": "poole/MAT.21.41#p4-b9affbb6",
+     "text": "It is very possible the Pharisees and elders might first say it, and that our Saviour confirming and opening their words, showing them how they had given judgment against themselves, they said, God forbid; so both they might say these words, and Christ also. This I take to be the most satisfactory answer. By those words also our Saviour declares, that his church should shortly be taken out of the hands of these Pharisees, and elders, and priests, and put into the hands of his apostles and a gospel ministry."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.42",
+   "range": "MAT.21.42",
+   "kind": "passage",
+   "hash": "5a17f93d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.42#p1-5a17f93d",
+     "text": "Mat 21:44\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:44",
+       "ref": "MAT.21.44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.43",
+   "range": "MAT.21.43",
+   "kind": "passage",
+   "hash": "5a17f93d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.43#p1-5a17f93d",
+     "text": "Mat 21:44\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:44",
+       "ref": "MAT.21.44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.44",
+   "range": "MAT.21.44",
+   "kind": "passage",
+   "hash": "02a503e5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.44#p1-63fde58e",
+     "text": "Ver. 42-44. Mark saith, Mar 12:10,11, And have ye not read this scripture, The stone which the builders rejected is become the head of the corner: this was the Lord’s doing, and it is marvellous in our eyes. Luke saith, Luk 20:17,18, And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner? Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.",
+     "refs": [
+      {
+       "text": "Mar 12:10",
+       "ref": "MRK.12.10"
+      },
+      {
+       "text": "Luk 20:17",
+       "ref": "LUK.20.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p2-73b8a1b5",
+     "text": "It is more than probable that our Saviour had more words with them upon this argument than are left us upon sacred record; for John hath let us know, that we are not to expect that all he did or spake should be written, Joh 21:25; and as not every discourse or action, so not all words in the same discourse, nor all circumstances relating to the same action. Knowing themselves and their masters to be the husbandmen with whom the Lord had entrusted this vineyard the house of Israel, it is not reasonable to think they should be very patient to hear that God would miserably destroy them as wicked men, and commit his vineyard to the trust of others.",
+     "refs": [
+      {
+       "text": "Joh 21:25",
+       "ref": "JHN.21.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p3-dd81bf22",
+     "text": "We cannot therefore in reason imagine but that they should reply something to that, as thinking it a strange thing that he should assert, that for the rejection of him, God would reject his ancient people, and cast off the church of the Jews. To show this was nothing which ought to seem strange to them, he asks them, Did ye never read in the Scriptures, The stone, & c. Luke saith, he beheld them, and said, What is this then, &c.? As if the Pharisees had charged him with speaking without any warrant from the word of God, there was no such thing in the law or prophets."
+    },
+    {
+     "id": "poole/MAT.21.44#p4-8abeabcf",
+     "text": "To convince them of their mistake, or at least that there was nothing in that he said which needed to appear strange to them, he saith, Did ye never read? or, Have ye not read the scripture? (so Mark relates it); or, What is this then? As Luke hath it. The text he quotes is Psa 118:22,23. It is manifest that the Jews understood that Psalm to be a prophecy of Christ, by the people’s acclamations of Hosanna; for the substance of those acclamations are in Psa 118:25,26: Save now, I beseech thee, O Lord: O Lord, I beseech thee, send now prosperity. Blessed is he that cometh in the name of the Lord. Hoshiah na, [Hebrew] Save, I beseech thee. This they understood of the Messiah.",
+     "refs": [
+      {
+       "text": "Psa 118:22",
+       "ref": "PSA.118.22"
+      },
+      {
+       "text": "Psa 118:25",
+       "ref": "PSA.118.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p5-8ef7827a",
+     "text": "This they had heard cried unto our Saviour. Saith our Saviour, In that very Psalm you may read, The stone which the builders rejected is become the head of the corner. Before he had compared the church to a vineyard, to show their obligation to bring forth fruit; here to a building, to denote God’s dwelling in it. The builders here intended were the heads of the Jewish church, who not only by their own pretences, but by their calling, were builders, and ought to have been builders; though indeed they proved destroyers and pullers down, instead of builders."
+    },
+    {
+     "id": "poole/MAT.21.44#p6-58ec7088",
+     "text": "The church is elsewhere compared to a building, 1Co 3:9 Eph 2:21; and the teachers in it to builders, Rom 15:20 Gal 2:18. Our Lord is here compared to a stone, because he is the only firm foundation, the chief cornerstone; in whom all the building fitly framed together groweth unto an holy temple in the Lord: in whom ye also are builded together for an habitation of God through the Spirit, Eph 2:20-22: called by the prophet Isaiah, Isa 28:16, a stone laid in Zion for a foundation, a tried stone, a precious cornerstone, a sure foundation; which is applied to Christ, Act 4:11 Rom 9:33 1Pe 2:6-8. He is become the head of the corner, that is, the chief, the principal stone in the building.",
+     "refs": [
+      {
+       "text": "1Co 3:9",
+       "ref": "1CO.3.9"
+      },
+      {
+       "text": "Eph 2:21",
+       "ref": "EPH.2.21"
+      },
+      {
+       "text": "Rom 15:20",
+       "ref": "ROM.15.20"
+      },
+      {
+       "text": "Gal 2:18",
+       "ref": "GAL.2.18"
+      },
+      {
+       "text": "Eph 2:20-22",
+       "ref": "EPH.2.20-22"
+      },
+      {
+       "text": "Isa 28:16",
+       "ref": "ISA.28.16"
+      },
+      {
+       "text": "Act 4:11",
+       "ref": "ACT.4.11"
+      },
+      {
+       "text": "Rom 9:33",
+       "ref": "ROM.9.33"
+      },
+      {
+       "text": "1Pe 2:6-8",
+       "ref": "1PE.2.6-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p7-0cd1e281",
+     "text": "Lest they should be startled at this, he addeth, this is the Lord’s doing, and it is marvellous in our eyes. This may seem strange to you, that those who seemed to be builders and pillars should be rejected and thrown away; and no wonder, for it is the Lord’s doing. In the reformations of churches from gross corruptions, God doth always some extraordinary things, which we are not at present able to reconcile to other reasons. Mat 21:43, (which some think should have been put after the next verse), our Lord tells them plainly, that God was removing his church from them to the Gentiles, which he calleth a people that should bring forth the fruits thereof.",
+     "refs": [
+      {
+       "text": "Mat 21:43",
+       "ref": "MAT.21.43"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p8-566f1e43",
+     "text": "there will be many that shall be offended at Christ, his person, his doctrine, his institutions, upon which account he is called a stumbling stone, Rom 9:33. But they shall be broken: if they take offence at me, so as they will not believe on me, nor receive me, it will be their ruin.",
+     "anchor": "And whosoever shall fall on this stone shall be broken",
+     "refs": [
+      {
+       "text": "Rom 9:33",
+       "ref": "ROM.9.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.44#p9-9817d249",
+     "text": "if they shall go on to persecute me and my members, so that I fall on them, they shall be ruined, irreparably and irrecoverably, with a more dreadful destruction.",
+     "anchor": "But on whomsoever it shall fall, it will grind him to powder"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.45",
+   "range": "MAT.21.45",
+   "kind": "passage",
+   "hash": "6a83eb3d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.45#p1-6a83eb3d",
+     "text": "Mat 21:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 21:46",
+       "ref": "MAT.21.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.21.46",
+   "range": "MAT.21.46",
+   "kind": "passage",
+   "hash": "3d1015ee",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.21.46#p1-0ecbd1a6",
+     "text": "Ver. 45,46. Mark hath much the same, Mar 12:12; so hath Luke, Luk 20:19,20: but Luke adds, They watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor. These wretched men were convinced in their own consciences, they perceived that he spake of them. They had nothing to oppose to what he said. They could not deny but that the psalmist, Psa 118:22, spake of the Messias.",
+     "refs": [
+      {
+       "text": "Mar 12:12",
+       "ref": "MRK.12.12"
+      },
+      {
+       "text": "Luk 20:19",
+       "ref": "LUK.20.19"
+      },
+      {
+       "text": "Psa 118:22",
+       "ref": "PSA.118.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.21.46#p2-220e5679",
+     "text": "They could not but own that they were the builders, and that they had refused him. Yet their lusts and interests would not suffer then, to obey these convictions, to receive and to embrace Christ, and prevent that ruin which was coming upon them. They durst not apprehend Christ for fear of the people. They had nothing to lay to his charge; they therefore send out spies to watch him, to see if they could catch any thing from him in discourse, whereof to accuse him before Pilate, the Roman governor in Judea at this time."
+    }
+   ]
+  }
+ ]
+}

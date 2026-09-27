@@ -30,7 +30,18 @@ module text.
 
 ## Problems
 
-- **No comment on Jude.** e-Sword book 65 has no rows. Trapp's New Testament includes Jude, so this is a
-  gap in the module.
+- ~~No comment on Jude.~~ e-Sword book 65 has no rows, but Jude's comment is filed under Judges 1. See
+  the import below.
 - Some books have comment on fewer verses: Numbers 36%, 1 Chronicles 42%, Deuteronomy 64%. This may be
   Trapp's own selection. To be checked against the printed volumes.
+
+## Import (`tools/import_trapp.py`)
+
+- 27,595 units, 63,344 paragraphs, 3,203,109 words, plus about 0.2M words of lemmas.
+- The survey's 4.24M counted the Old Testament's KJV verses ("Exo 1:1 And these...") as comment. The
+  import drops all 27,874 KJV verse paragraphs.
+- **Jude is not missing.** Its 25 verses were filed under Judges 1:1–25. Each entry is checked against
+  the KJV by its verse text, and 141 were re-keyed, all of Jude among them. The second Luke 2:1 entry
+  is 2:2.
+- 44,401 notes keep their lemma ("Ver. 1. **A ruler of the Jews**]") as `anchor`.
+- 1,005 footnotes of Latin and Greek sources, marked `{a}` in the note.

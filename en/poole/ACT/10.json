@@ -1,0 +1,1418 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "poole/ACT.10",
+   "range": "ACT.10",
+   "kind": "chapter",
+   "hash": "f6b55994",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10#p1-f2d443bc",
+     "text": "Act 10:1-8 Cornelius, a devout centurion, being commanded by an angel, sendeth for Peter,",
+     "refs": [
+      {
+       "text": "Act 10:1-8",
+       "ref": "ACT.10.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10#p2-f21eb220",
+     "text": "Act 10:9-16 who in the mean time is prepared by a heavenly vision,",
+     "refs": [
+      {
+       "text": "Act 10:9-16",
+       "ref": "ACT.10.9-16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10#p3-95d65ed4",
+     "text": "Act 10:17-24 and, receiving a command from the Spirit, goeth with the messengers to Caesarea.",
+     "refs": [
+      {
+       "text": "Act 10:17-24",
+       "ref": "ACT.10.17-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10#p4-80fcfeed",
+     "text": "Act 10:25-33 Cornelius receiveth him with great respect, and showeth the occasion of his sending for him.",
+     "refs": [
+      {
+       "text": "Act 10:25-33",
+       "ref": "ACT.10.25-33"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10#p5-67166b51",
+     "text": "Act 10:34-43 Peter preacheth Christ to him and his company.",
+     "refs": [
+      {
+       "text": "Act 10:34-43",
+       "ref": "ACT.10.34-43"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10#p6-24b65d35",
+     "text": "Act 10:44-48 The Holy Ghost falleth on them, whereupon they are baptized.",
+     "refs": [
+      {
+       "text": "Act 10:44-48",
+       "ref": "ACT.10.44-48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.1",
+   "range": "ACT.10.1",
+   "kind": "passage",
+   "hash": "ef01638f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.1#p1-56a70721",
+     "text": "in Caesarea Palestine, as it was called in contra distinction to Caesarea Philippi.",
+     "anchor": "In Caesarea"
+    },
+    {
+     "id": "poole/ACT.10.1#p2-f8adb28b",
+     "text": "a Roman by his name; which name was ordinarily to be found amongst the families of the Scipios and Syllas.",
+     "anchor": "Cornelius"
+    },
+    {
+     "id": "poole/ACT.10.1#p3-d3a633aa",
+     "text": "A band answers either to a regiment amongst us, or to a legion amongst the Romans (this latter was far greater than the former)."
+    },
+    {
+     "id": "poole/ACT.10.1#p4-539b7ff9",
+     "text": "It was called the Italian band, as being composed of Italian soldiers, and might be used as a guard of the proconsul, who dwelt at Caesarea, who was that Felix we read of, Act 23:24.",
+     "refs": [
+      {
+       "text": "Act 23:24",
+       "ref": "ACT.23.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.2",
+   "range": "ACT.10.2",
+   "kind": "passage",
+   "hash": "df4a3c0f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.2#p1-46a6c22a",
+     "text": "this Cornelius was a proselyte of the gate, or such as observed the seven precepts of Noah, and lived without giving any offence to the Jews.",
+     "anchor": "A devout man"
+    },
+    {
+     "id": "poole/ACT.10.2#p2-6fee7df7",
+     "text": "it was a very good sign that he feared God, in that he engaged all his house to do the like, at least outwardly, which was as much as he could do: this was spoken by God in Abraham’s commendation, Gen 18:19.",
+     "anchor": "With all his house",
+     "refs": [
+      {
+       "text": "Gen 18:19",
+       "ref": "GEN.18.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.2#p3-2fad5eb4",
+     "text": "he did not neglect the seasons of prayer, especially the time of offering the morning and evening sacrifice, which by prayer they desired to partake the benefit of by which Christ our sacrifice, and his merits, were figured unto them. Cornelius indeed prayed always, or at all times, taking time in a moral sense, for the seasons and opportunities for such a duty; (as we are commanded to give thanks always, Eph 5:20); but he could not pray always, or at all times, taking time in a natural sense, for then he must have neglected all other duties; however, his endeavour was to keep his heart always in a praying disposition.",
+     "anchor": "Prayed to God alway",
+     "refs": [
+      {
+       "text": "Eph 5:20",
+       "ref": "EPH.5.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.3",
+   "range": "ACT.10.3",
+   "kind": "passage",
+   "hash": "01dcfe12",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.3#p1-e345746b",
+     "text": "not in a dream or rapture, but sensibly and plainly.",
+     "anchor": "In a vision"
+    },
+    {
+     "id": "poole/ACT.10.3#p2-64d692fe",
+     "text": "their ninth hour was with us about three o’clock in the afternoon; being the ordinary time for the evening sacrifice; and, by consequence, their time of prayer, Act 3:1. And this devout man doth not seek God’s face in vain; Cornelius had been faithful in a little, and God would give him much; rather than he should want further instruction, who had improved what he had already, God here sends an angel, and soon after an apostle unto him.",
+     "anchor": "About the ninth hour",
+     "refs": [
+      {
+       "text": "Act 3:1",
+       "ref": "ACT.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.4",
+   "range": "ACT.10.4",
+   "kind": "passage",
+   "hash": "0b350aab",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.4#p1-5116ba78",
+     "text": "the angel appeared in so great splendour: all admiration hath some fear with it.",
+     "anchor": "He was afraid"
+    },
+    {
+     "id": "poole/ACT.10.4#p2-2da43954",
+     "text": "This is equivalent to, \"What wilt thou have me to do?\" and shows that Cornelius was prepared to hear the message.",
+     "anchor": "And said, \"What is it, Lord?\""
+    },
+    {
+     "id": "poole/ACT.10.4#p3-680b149a",
+     "text": "prayer and alms are joined together in our Saviour’s discourse concerning them, Mat 6:1-7 and in the apostle’s order about them, 1Co 16:1: alms are our sacrifices now under the gospel, Php 4:18 Heb 13:16.",
+     "anchor": "Thy prayers and thine alms",
+     "refs": [
+      {
+       "text": "Mat 6:1-7",
+       "ref": "MAT.6.1-7"
+      },
+      {
+       "text": "1Co 16:1",
+       "ref": "1CO.16.1"
+      },
+      {
+       "text": "Php 4:18",
+       "ref": "PHP.4.18"
+      },
+      {
+       "text": "Heb 13:16",
+       "ref": "HEB.13.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.4#p4-ea1db8d9",
+     "text": "an allusion to the offering up of incense under the law; the smoke of the incense did ascend, and so David desires that his prayers might ascend toward God, Psa 141:2: thus, under the gospel, prayers are resembled to incense, Rev 8:3. That prayers are said to come up for a memorial, is but the pursuance of the same metaphor; for, Lev 2:2, the frankincense, &c. was the memorial there commanded to be burned; and all this only to represent unto us how well pleasing the prayers of his people are unto God through Christ, and that God keeps in remembrance all those things they thus desire of him, and in his time and measure (which are the best circumstances) bestows all upon them: but let not prayers and alms, which God here hath put together, be put asunder, and in due time we shall reap.",
+     "anchor": "Are come up for a memorial before God",
+     "refs": [
+      {
+       "text": "Psa 141:2",
+       "ref": "PSA.141.2"
+      },
+      {
+       "text": "Rev 8:3",
+       "ref": "REV.8.3"
+      },
+      {
+       "text": "Lev 2:2",
+       "ref": "LEV.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.5",
+   "range": "ACT.10.5",
+   "kind": "passage",
+   "hash": "738e22ac",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.5#p1-738e22ac",
+     "text": "a town that was memorable for Jonah’s taking ship there, when he would flee from God, and decline his message, Joh 1:3. The angel could have declared the gospel, and instructed Cornelius; but he sends him to Peter, God being willing to honour the means of his own institution.",
+     "anchor": "Joppa",
+     "refs": [
+      {
+       "text": "Joh 1:3",
+       "ref": "JHN.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.6",
+   "range": "ACT.10.6",
+   "kind": "passage",
+   "hash": "34152916",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.6#p1-34152916",
+     "text": "These particulars, when found true by Cornelius, did very much advantage him towards his believing what Peter in the name of the Lord did tell him."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.7",
+   "range": "ACT.10.7",
+   "kind": "passage",
+   "hash": "de69225d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.7#p1-73645d13",
+     "text": "these servants doubtless Cornelius had instructed, as appears Act 10:2, and God blesses him with faithful and successful service from them.",
+     "anchor": "Two of his household servants",
+     "refs": [
+      {
+       "text": "Act 10:2",
+       "ref": "ACT.10.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.7#p2-8019f4dd",
+     "text": "no condition, or temptation, too hard for the grace of God to overcome; both centurion and soldier are willing to hazard all they had, rather than not to obey God, and come to the knowledge of Jesus Christ.",
+     "anchor": "A devout soldier"
+    },
+    {
+     "id": "poole/ACT.10.7#p3-6f34c6f9",
+     "text": "this soldier, for his religion’s sake, and his holy life, was taken into nearer attendance on Cornelius; it is no small matter to have one near us that hath power with God.",
+     "anchor": "Waited on him continually"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.8",
+   "range": "ACT.10.8",
+   "kind": "passage",
+   "hash": "021ce710",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.8#p1-021ce710",
+     "text": "Thus on Cornelius’s side all things are disposed towards his receiving of the gospel; and the same providence, at the same time, disposes all things on Peter’s part towards his coming to publish it: for,.{ see Act 10:9}",
+     "refs": [
+      {
+       "text": "Act 10:9",
+       "ref": "ACT.10.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.9",
+   "range": "ACT.10.9",
+   "kind": "passage",
+   "hash": "367ff127",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.9#p1-a7b896e0",
+     "text": "These houses were flat on the tops, and therefore they were commanded to make battlements for them, Deu 22:8.",
+     "refs": [
+      {
+       "text": "Deu 22:8",
+       "ref": "DEU.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.9#p2-a9f38236",
+     "text": "that he might from thence view the temple, which was a type of Christ, through whom only we and our prayers can be acceptable unto God; hence, 1Ki 8:30, &c., there is so often mention made of praying towards the city, and towards the place which God should choose; this Daniel practised, though upon the hazard of his life, when both city and temple were ruined, Dan 6:10.",
+     "anchor": "Peter went up upon the housetop to pray",
+     "refs": [
+      {
+       "text": "1Ki 8:30",
+       "ref": "1KI.8.30"
+      },
+      {
+       "text": "Dan 6:10",
+       "ref": "DAN.6.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.9#p3-f06d25f2",
+     "text": "with them is high noon, or midday, and is accounted one of the three times of prayer, {see Act 3:1} and was, as the Jews say, recommended to them by Isaac; howsoever, it was the time when they might begin to prepare the evening sacrifice: none of these causes need to be assigned, for doubtless this blessed apostle did watch unto prayer, 1Pe 4:7, and desirously laid hold upon all opportunities to pour out his soul unto God.",
+     "anchor": "The sixth hour",
+     "refs": [
+      {
+       "text": "Act 3:1",
+       "ref": "ACT.3.1"
+      },
+      {
+       "text": "1Pe 4:7",
+       "ref": "1PE.4.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.10",
+   "range": "ACT.10.10",
+   "kind": "passage",
+   "hash": "7f6a5035",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.10#p1-354cb50d",
+     "text": "he might be more than ordinarily hungry, to fit or suit the vision, which is hereafter mentioned.",
+     "anchor": "He became very hungry"
+    },
+    {
+     "id": "poole/ACT.10.10#p2-caf8fb3a",
+     "text": "the most excellent way of God’s manifesting himself unto man, is by a trance; (and they reckon seven ways, in which God makes himself known unto man); but what this trance was is diversly expressed: it is certain. that in it the soul was, as it were. absent from the body, drawn off from the perception of earthly and sensible things, and enabled unto the perception of heavenly mysteries: in such an ecstasy was St. Paul, 2Co 12:2, and St. John, Rev 1:10, who is therefore said to be in the Spirit.",
+     "anchor": "He fell into a trance",
+     "refs": [
+      {
+       "text": "2Co 12:2",
+       "ref": "2CO.12.2"
+      },
+      {
+       "text": "Rev 1:10",
+       "ref": "REV.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.11",
+   "range": "ACT.10.11",
+   "kind": "passage",
+   "hash": "65a8347a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.11#p1-d4ce770e",
+     "text": "either visibly to his corporal eyes, as to St. Stephen’s; or rather mentally, more suitably to the rapture mentioned in the former verse.",
+     "anchor": "And saw heaven"
+    },
+    {
+     "id": "poole/ACT.10.11#p2-c8bc76ee",
+     "text": "which might signify, that heaven, that was shut to the children of men by the first Adam, was now by Christ, the Second Adam, opened to all believers.",
+     "anchor": "Opened"
+    },
+    {
+     "id": "poole/ACT.10.11#p3-3f61b02b",
+     "text": "this word is taken for any utensil commonly used about the house; and, with the",
+     "anchor": "Vessel"
+    },
+    {
+     "id": "poole/ACT.10.11#p4-3e3e17da",
+     "text": "here spoken of, bears an analogy to a table and table cloth amongst us.",
+     "anchor": "sheet"
+    },
+    {
+     "id": "poole/ACT.10.11#p5-c7af5a2a",
+     "text": "so gathered up or knit, that the viands, Act 10:12, might not fall down. And this Peter saw to come from heaven, to show that the liberty of taking Cornelius and other Gentiles into the church, did come from thence only.",
+     "anchor": "Knit at the four corners",
+     "refs": [
+      {
+       "text": "Act 10:12",
+       "ref": "ACT.10.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.12",
+   "range": "ACT.10.12",
+   "kind": "passage",
+   "hash": "30024542",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.12#p1-30024542",
+     "text": "As well unclean beasts, such as were forbidden by the law, as clean, such as by the law might be eaten."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.13",
+   "range": "ACT.10.13",
+   "kind": "passage",
+   "hash": "517b889d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.13#p1-517b889d",
+     "text": "Of that thou seest, without any exception, whether they be clean, or (formerly) unclean creatures. The moral of which command is, that he might now converse with Jews and Gentiles indifferently, and preach unto these also the word of life."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.14",
+   "range": "ACT.10.14",
+   "kind": "passage",
+   "hash": "24b42e7a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.14#p1-24b42e7a",
+     "text": "These words may signify one and the same thing, and the latter explain the former; showing that those things are said to be common, which the law, by forbidding them, had made unclean. Others make some difference; and by things common, understand all sorts of creatures, which were forbidden to the Jews, but were commonly fed upon by all nations round about them; and by things unclean, they understand such as by accident became so, as when any of the creatures permitted for use was strangled."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.15",
+   "range": "ACT.10.15",
+   "kind": "passage",
+   "hash": "dcf9170f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.15#p1-dcf9170f",
+     "text": "Do not make in thy esteem, or practice, as common, that is, polluted. The Jews did imagine, that by unclean creatures were meant the Gentiles, as by clean creatures they would have themselves to be understood; howsoever, they opposed common unto holy; indeed a holy man is (as they called him) a singular man: it was God that cleansed Cornelius, turning him from idolatry to the worship of the true God, from darkness unto light."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.16",
+   "range": "ACT.10.16",
+   "kind": "passage",
+   "hash": "46d829a2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.16#p1-46d829a2",
+     "text": "Whereby this great mystery of the conversion of the Gentiles, and taking them into the church, might be the more confirmed, and fixed in St. Peter’s mind."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.17",
+   "range": "ACT.10.17",
+   "kind": "passage",
+   "hash": "dcc9b81f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.17#p1-2105b26a",
+     "text": "recollecting himself; for the vision had so affected him, that it had put him into a kind of ecstasy, out of which when he came to himself,",
+     "anchor": "Doubted in himself"
+    },
+    {
+     "id": "poole/ACT.10.17#p2-1a42d4f8",
+     "text": "the two servants and the soldier which Cornelius had sent.",
+     "anchor": "behold, the men"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.18",
+   "range": "ACT.10.18",
+   "kind": "passage",
+   "hash": "19af567a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.18#p1-19af567a",
+     "text": "Being strangers, they address themselves to such of the house as came to the door."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.19",
+   "range": "ACT.10.19",
+   "kind": "passage",
+   "hash": "00f14e54",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.19#p1-a2110bd5",
+     "text": "set himself to meditate upon that he had seen and heard.",
+     "anchor": "Thought on the vision"
+    },
+    {
+     "id": "poole/ACT.10.19#p2-705c5705",
+     "text": "the Holy Spirit informs him further. Thus whosoever meditares carefully upon what he hears from God’s word, God will never leave him without sufficient instruction.",
+     "anchor": "The Spirit said unto him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.20",
+   "range": "ACT.10.20",
+   "kind": "passage",
+   "hash": "7cf92bb7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.20#p1-906e8ad5",
+     "text": "immediately put thyself upon the journey.",
+     "anchor": "Arise therefore"
+    },
+    {
+     "id": "poole/ACT.10.20#p2-e8298b44",
+     "text": "spend no time in disputing within thyself, because that they, unto whom thou art sent, are not Jews.",
+     "anchor": "Doubting nothing"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.21",
+   "range": "ACT.10.21",
+   "kind": "passage",
+   "hash": "8eb9b305",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.21#p1-8eb9b305",
+     "text": "Peter being in no small consternation, and not perfectly knowing whither all this tended, makes the more exact inquiry."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.22",
+   "range": "ACT.10.22",
+   "kind": "passage",
+   "hash": "2b649013",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.22#p1-25b0c14e",
+     "text": "That they might speed in their message, they labour to prevent all prejudice Peter might have against Cornelius, who was a Gentile by title; telling him:"
+    },
+    {
+     "id": "poole/ACT.10.22#p2-20c32e56",
+     "text": "1. That he was a just man, as is said of Joseph, Mat 1:19.",
+     "refs": [
+      {
+       "text": "Mat 1:19",
+       "ref": "MAT.1.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.22#p3-32da99c5",
+     "text": "2. That he worshipped the true God the same with the Jews, and not the false gods of the Gentiles."
+    },
+    {
+     "id": "poole/ACT.10.22#p4-c6478069",
+     "text": "3. That he was reputed a pious and good man, and so it would be no disparagement to the apostles to go unto him."
+    },
+    {
+     "id": "poole/ACT.10.22#p5-67ddee57",
+     "text": "this argument St. Peter could not deny. When God’s command is evident, his people are determined and resolved.",
+     "anchor": "Was warned from God"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.23",
+   "range": "ACT.10.23",
+   "kind": "passage",
+   "hash": "7d5eead2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.23#p1-7ed4f7c7",
+     "text": "he delays not to obey the heavenly vision; but as Abraham took his journey the very next morning after that he had received the command, Gen 22:3, so did Peter here, and bis dat qui cito dat, he doubles his obedience that obeys speedily and cheerfully.",
+     "anchor": "And on the morrow Peter went away with them",
+     "refs": [
+      {
+       "text": "Gen 22:3",
+       "ref": "GEN.22.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.23#p2-ff7aa899",
+     "text": "these brethren were six in number, as Act 11:12; who might undertake this journey,",
+     "anchor": "And certain brethren from Joppa accompanied him",
+     "refs": [
+      {
+       "text": "Act 11:12",
+       "ref": "ACT.11.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.23#p3-2326ff14",
+     "text": "1. Out of respect to Peter, to accompany him."
+    },
+    {
+     "id": "poole/ACT.10.23#p4-07c89205",
+     "text": "2. Being moved at the extraordinary visions that were spoken of. But especially:"
+    },
+    {
+     "id": "poole/ACT.10.23#p5-cfbac5d7",
+     "text": "3. Disposed by the providence of God to accompany St. Peter, that they might testify the grace of God that was come unto the Gentiles, when it might be afterwards questioned."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.24",
+   "range": "ACT.10.24",
+   "kind": "passage",
+   "hash": "db00ee33",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.24#p1-8f37bd8a",
+     "text": "Joppa was about fifteen leagues from Caesarea, so that the next day after they set out they might easily come from Joppa thither."
+    },
+    {
+     "id": "poole/ACT.10.24#p2-5d5750e0",
+     "text": "his relations.",
+     "anchor": "His kinsmen"
+    },
+    {
+     "id": "poole/ACT.10.24#p3-f4dea25d",
+     "text": "and such as he had the greatest love and kindness for; he thought that he could not express it better, than by giving them an opportunity to hear the word of life, and to gain instruction for their souls: and probably those here spoken of were reckoned as friends, and near friends, by Cornelius, because they were such aswith him had forsaken all pagan idolatry, and were worshippers of the true and living God.",
+     "anchor": "And near friends"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.25",
+   "range": "ACT.10.25",
+   "kind": "passage",
+   "hash": "99ed8011",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.25#p1-0d01c5a7",
+     "text": "into Cornelius’s house, for he hastened to meet with him.",
+     "anchor": "As Peter was coming in, Cornelius met him"
+    },
+    {
+     "id": "poole/ACT.10.25#p2-4a6fa39f",
+     "text": "Cornelius worshipped with the most humble civil worship; but he could not think him to be God, and therefore he did give him no Divine worship, he having forsaken the idolatry of the Gentiles; but might perhaps think him to have been an angel, and intended to worship him accordingly, for which he is blamed in the following verse.",
+     "anchor": "Worshipped him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.26",
+   "range": "ACT.10.26",
+   "kind": "passage",
+   "hash": "524028cb",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.26#p1-524028cb",
+     "text": "It is certain that Peter did think this worship Cornelius gave him to have exceeded; and here he blames him for it, telling him, he was but a man like unto him; and he needed not give any further reason of his reproof, for man must adore, but by no means may be adored; no, nor take too much honour unto himself."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.27",
+   "range": "ACT.10.27",
+   "kind": "passage",
+   "hash": "86a3ef94",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.27#p1-86a3ef94",
+     "text": "they went talking together into the house, probably of the goodness of God, that they should be directed so happily unto one another; for they could not but see and acknowledge God in it.",
+     "anchor": "As he talked with him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.28",
+   "range": "ACT.10.28",
+   "kind": "passage",
+   "hash": "c4ecb573",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.28#p1-aff748cd",
+     "text": "God himself did erect a partition wall betwixt his people and other nations, Jews and Gentiles; hence by God’s own command the Jews might not have any familiar converse with the Gentiles, especially they might not marry with them. The Jews themselves had made this partition wall much larger, and they held it unlawful to eat with any of the Gentiles, or to go so much as into their houses; hence that objection made upon this occasion against St. Peter, Act 11:3.",
+     "refs": [
+      {
+       "text": "Act 11:3",
+       "ref": "ACT.11.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.28#p2-6014506b",
+     "text": "no man is now unclean by any ceremonial uncleanness, because he is not circumcised, or because he is not sprinkled with the blood of bulls, Heb 9:13; yet sin hath defiled the whole mass of mankind, and they are equally by nature morally unclean.",
+     "anchor": "Unclean",
+     "refs": [
+      {
+       "text": "Heb 9:13",
+       "ref": "HEB.9.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.29",
+   "range": "ACT.10.29",
+   "kind": "passage",
+   "hash": "3032025c",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.29#p1-6b6e96c9",
+     "text": "or delay.",
+     "anchor": "Gainsaying"
+    },
+    {
+     "id": "poole/ACT.10.29#p2-1c694eb8",
+     "text": "Peter did in a great measure know the business he came about, partly by the vision and its interpretation, partly by what he might have heard from them that Cornelius sent for him, unto whom Cornelius had declared the whole matter, as we find, Act 10:8; yet Peter’s question is but necessary, for to give Cornelius an opportunity to acquaint his friends, who were met there, with all that had passed.",
+     "anchor": "I ask therefore for what intent ye have sent for me?",
+     "refs": [
+      {
+       "text": "Act 10:8",
+       "ref": "ACT.10.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.30",
+   "range": "ACT.10.30",
+   "kind": "passage",
+   "hash": "e48ea0b6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.30#p1-46ff603b",
+     "text": "Cornelius does not intend to declare by this how long he had fasted; but he tells him when he, being fasting, saw the vision, which was four days before, at the same time of the day.",
+     "anchor": "Four days ago I was fasting until this hour"
+    },
+    {
+     "id": "poole/ACT.10.30#p2-c0840cbe",
+     "text": "which was a time of prayer, it being the time of offering the evening sacrifice: see Act 3:1.",
+     "anchor": "The ninth hour",
+     "refs": [
+      {
+       "text": "Act 3:1",
+       "ref": "ACT.3.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.30#p3-7c1ac04f",
+     "text": "in appearance, but an angel indeed, as in Act 10:3.",
+     "anchor": "A man",
+     "refs": [
+      {
+       "text": "Act 10:3",
+       "ref": "ACT.10.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.30#p4-290c00e0",
+     "text": "why angels appeared in bright or white raiment, see Act 1:10.",
+     "anchor": "In bright clothing",
+     "refs": [
+      {
+       "text": "Act 1:10",
+       "ref": "ACT.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.31",
+   "range": "ACT.10.31",
+   "kind": "passage",
+   "hash": "905e6871",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.31#p1-604d351b",
+     "text": "of which see in Act 10:4.",
+     "anchor": "Alms",
+     "refs": [
+      {
+       "text": "Act 10:4",
+       "ref": "ACT.10.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.31#p2-130f32bd",
+     "text": "unto which, not only the outward gift, but the inward affection, is visible; and this is peculiarly in the sight of God, the other may be seen also by men.",
+     "anchor": "In the sight of God"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.32",
+   "range": "ACT.10.32",
+   "kind": "passage",
+   "hash": "b369cb8b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.32#p1-b369cb8b",
+     "text": "The substance of this verse is in Act 10:5,6 which we read before. Cornelius might say this to excuse his sending for Peter, being a stranger to him; as also to encourage Peter to speak in such a matter as God had appeared in.",
+     "refs": [
+      {
+       "text": "Act 10:5",
+       "ref": "ACT.10.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.33",
+   "range": "ACT.10.33",
+   "kind": "passage",
+   "hash": "e0e16612",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.33#p1-a49d46cb",
+     "text": "as a hungry soul delays not to send for food, as soon as he knows where to have it.",
+     "anchor": "Immediately therefore I sent to thee"
+    },
+    {
+     "id": "poole/ACT.10.33#p2-40f68b98",
+     "text": "which does not only approve of St. Peter’s coming, but thank him for it.",
+     "anchor": "Thou hast well done that thou art come"
+    },
+    {
+     "id": "poole/ACT.10.33#p3-4e163759",
+     "text": "we will set ourselves to attend to thy words, as if we saw God looking upon us, whom we call to witness that we are ready to do whatsoever he shall require of us. Thus it becomes every one that would profit by the word of God, to attend upon it. Men do not behave themselves as before God, and therefore they enjoy nothing less than God in an ordinance, and are as if God had taken no notice of them.",
+     "anchor": "Present before God"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.34",
+   "range": "ACT.10.34",
+   "kind": "passage",
+   "hash": "b697d0fc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.34#p1-21eb2132",
+     "text": "an expression used (as formerly) in matters of great moment, as Mat 5:2.",
+     "anchor": "Opened his mouth",
+     "refs": [
+      {
+       "text": "Mat 5:2",
+       "ref": "MAT.5.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.34#p2-a8b20623",
+     "text": "God does not accept of one because he is a Jew, and respect another because he is a Gentile; though St. Paul, being prejudiced by his education, had been carried along with that error of the Jews; against which, notwithstanding, God had declared himself even unto them, Deu 10:17, which is also confirmed unto us in the New Testament, Rom 2:11 1Pe 1:17: so that our being of any nation or any condition, rich or poor, honoured or despised, on the one side recommends us not unto God, and on the other side it will not hinder us from being accepted with the Lord.",
+     "anchor": "God is no respecter of persons",
+     "refs": [
+      {
+       "text": "Deu 10:17",
+       "ref": "DEU.10.17"
+      },
+      {
+       "text": "Rom 2:11",
+       "ref": "ROM.2.11"
+      },
+      {
+       "text": "1Pe 1:17",
+       "ref": "1PE.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.35",
+   "range": "ACT.10.35",
+   "kind": "passage",
+   "hash": "371dacb7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.35#p1-9a7892df",
+     "text": "even though Romans or Italians, of which nation Cornelius was, and might probably be worse thought of by the Jews, because they supposed themselves to have been hardly used by them.",
+     "anchor": "In every nation"
+    },
+    {
+     "id": "poole/ACT.10.35#p2-4d9f8f39",
+     "text": "these two particulars include the observation of both tables of the law: the fearing of God comprehends piety, that is, the true worship of the true God; and working righteousness, includes all the duties to our neighbour; and both describe a truly good and holy man, such as Cornelius was; unto whose case this is to be applied.",
+     "anchor": "Feareth him, and worketh righteousness"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.36",
+   "range": "ACT.10.36",
+   "kind": "passage",
+   "hash": "3f752333",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.36#p1-34d040ed",
+     "text": "the word of reconciliation between God and man, not only between God and the Jews, but between him and the Gentiles also, he had",
+     "anchor": "The word"
+    },
+    {
+     "id": "poole/ACT.10.36#p2-b9507c6e",
+     "text": "by his prophets formerly. God is said to create peace to him that is afar off, the Gentile, as well as to him that is near, the Jew, Isa 57:19; and that salvation was not limited to the Jews only, Psa 72:7,8 Isa 49:6, might be known unto them by the examples of Melchizedck, Job, and Naaman, who did no ways belong unto them; but this was now more manifest: God preaching this peace between himself and all nations indifferently:",
+     "anchor": "sent unto Israel",
+     "refs": [
+      {
+       "text": "Isa 57:19",
+       "ref": "ISA.57.19"
+      },
+      {
+       "text": "Psa 72:7",
+       "ref": "PSA.72.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.36#p3-df538a27",
+     "text": "1. By Christ in his own person preaching this, Mat 8:11, and telling them that by his death he would draw all men unto him, Joh 12:32.",
+     "refs": [
+      {
+       "text": "Mat 8:11",
+       "ref": "MAT.8.11"
+      },
+      {
+       "text": "Joh 12:32",
+       "ref": "JHN.12.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.36#p4-0f55b798",
+     "text": "2. This peace is preached to be had by Christ, or only through Christ, by the angels themselves, Luk 2:14. And:",
+     "refs": [
+      {
+       "text": "Luk 2:14",
+       "ref": "LUK.2.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.36#p5-dda9441a",
+     "text": "3. By all the apostles and ministers of the gospel. Speaking to the Gentiles, St. Paul says, Ye who were afar off are made nigh by the blood of Christ, Eph 2:13; and it was their constant doctrine, that there was no name under heaven by which men could be saved, but the name of Christ, Act 4:12; and that it was all one whether they were Greeks or Jews, &c., but Christ is all, and in all, Col 3:11: so that in this doctrine there is an exact harmony between the Old and New Testaments, the prophets and the apostles.",
+     "refs": [
+      {
+       "text": "Eph 2:13",
+       "ref": "EPH.2.13"
+      },
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      },
+      {
+       "text": "Col 3:11",
+       "ref": "COL.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.36#p6-a04fbc02",
+     "text": "Christ is Lord, not of the Jews, or one people, only; but of the Gentiles, all nations, also, as Mat 28:19,20 Ro 3:29.",
+     "anchor": "He is Lord of all",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.37",
+   "range": "ACT.10.37",
+   "kind": "passage",
+   "hash": "d0c713f3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.37#p1-242d14c1",
+     "text": "They had heard of the doctrine of the gospel by common fame and report, which could not but spread abroad; all might know that Christ and his apostles did preach, though these might be ignorant of the particular doctrines which they taught, and which Peter was now sent to instruct them in: or by the word (in a usual Hebraism) the matter of the gospel may be meant, as the life, death, and resurrection of our blessed Saviour, which they could not but have heard several reports of."
+    },
+    {
+     "id": "poole/ACT.10.37#p2-3ef9e898",
+     "text": "who, as the Elijah who was promised, Mal 4:5, was the forerunner of the Lord.",
+     "anchor": "After the baptism which John preached",
+     "refs": [
+      {
+       "text": "Mal 4:5",
+       "ref": "MAL.4.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.38",
+   "range": "ACT.10.38",
+   "kind": "passage",
+   "hash": "0cd84546",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.38#p1-713833ef",
+     "text": "it was usual to anoint their kings, priests, and prophets, unto all which offices Christ was anointed by his Father; hence called Christ, as in the Old Testament the Messiah.",
+     "anchor": "God anointed Jesus"
+    },
+    {
+     "id": "poole/ACT.10.38#p2-408db4e5",
+     "text": "the apostle is not ashamed of this name, though given to our Saviour by way of contempt; he gloried in the cross of Christ.",
+     "anchor": "Of Nazareth"
+    },
+    {
+     "id": "poole/ACT.10.38#p3-4e515b9c",
+     "text": "Christ was endued with the Almighty Spirit of God, and with the power of it.",
+     "anchor": "With the Holy Ghost and with power"
+    },
+    {
+     "id": "poole/ACT.10.38#p4-7caf9951",
+     "text": "all the miracles our blessed Saviour wrought, were works of mercy, for the benefit and relief of those upon whom he wrought them: he could have wrought miracles to destroy and ruin such as would not believe in him, which he was often provoked unto; nay, his apostles would have had him but to permit them by fire from heaven to destroy the Samaritans, Luk 9:54, and he would not.",
+     "anchor": "Who went about doing good",
+     "refs": [
+      {
+       "text": "Luk 9:54",
+       "ref": "LUK.9.54"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.38#p5-17990bbc",
+     "text": "the deliverances our Saviour so often wrought upon such as were possessed of devils, was to show unto them that he was come to destroy the works of the devil, aim to cast him out of the souls of men who were spiritually possessed by him; which also our Saviour did, so that it was a happy calamity for them, which brought them to Christ.",
+     "anchor": "Healing all that were oppressed of the devil"
+    },
+    {
+     "id": "poole/ACT.10.38#p6-83d452c1",
+     "text": "God was with our Saviour,",
+     "anchor": "For God was with him"
+    },
+    {
+     "id": "poole/ACT.10.38#p7-3774c8de",
+     "text": "1. By his might and power doing such miracles."
+    },
+    {
+     "id": "poole/ACT.10.38#p8-adcfdd14",
+     "text": "2. In his extraordinary love to him, Mat 3:17, and always hearing of him, Joh 11:42. And also,",
+     "refs": [
+      {
+       "text": "Mat 3:17",
+       "ref": "MAT.3.17"
+      },
+      {
+       "text": "Joh 11:42",
+       "ref": "JHN.11.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.38#p9-6e93683d",
+     "text": "3. God was with Christ ουσιωδως, in the fulness of the Godhead, Col 2:9.",
+     "refs": [
+      {
+       "text": "Col 2:9",
+       "ref": "COL.2.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.39",
+   "range": "ACT.10.39",
+   "kind": "passage",
+   "hash": "579722ae",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.39#p1-0991246a",
+     "text": "the apostles, whom Christ had chosen to go in and out with him, and to be eye and ear witnesses of all that was done by him, or against him.",
+     "anchor": "We are witnesses"
+    },
+    {
+     "id": "poole/ACT.10.39#p2-dd286a52",
+     "text": "their killing of our Saviour is the rather here spoken of, to show how rightfully the Jews were now to be forsaken, and that they had no cause to complain of the calling in of the Gentiles, being themselves had in such a manner rejected Christ; but especially, that they who were here met, and we, all might consider, how much it cost our blessed Saviour to deliver us from sin and hell. He was made a curse for us, Gal 3:13, as Deu 21:23 that the blessing of Abraham might come upon us, Gal 3:14.",
+     "anchor": "Whom they slew",
+     "refs": [
+      {
+       "text": "Gal 3:13",
+       "ref": "GAL.3.13"
+      },
+      {
+       "text": "Deu 21:23",
+       "ref": "DEU.21.23"
+      },
+      {
+       "text": "Gal 3:14",
+       "ref": "GAL.3.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.40",
+   "range": "ACT.10.40",
+   "kind": "passage",
+   "hash": "4ff5d43d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.40#p1-4ff5d43d",
+     "text": "Lest these Gentiles be deterred from believing in Christ, and take offence at his cross, St. Peter preached unto them the resurrection, which suddenly and powerfully followed. And this he tells them was unquestionable, as appeared by all the ways that any thing can be proved by; Christ was seen, and heard, and felt after his resurrection, as the beloved disciple tells us, 1Jn 1:1, and manifested his victory over death for us.",
+     "refs": [
+      {
+       "text": "1Jn 1:1",
+       "ref": "1JN.1.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.41",
+   "range": "ACT.10.41",
+   "kind": "passage",
+   "hash": "19f439e5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.41#p1-ca250000",
+     "text": "Christ after his resurrection appeared not to the wicked Jews, for being to suffer no more, his enemies were not vouchsafed a sight of him; and thus he did not manifest himself unto the world, Joh 14:22.",
+     "anchor": "Not to all the people",
+     "refs": [
+      {
+       "text": "Joh 14:22",
+       "ref": "JHN.14.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.41#p2-ea22f9d9",
+     "text": "these witnesses were the apostles, who were chosen by God himself immediately; and the vacancy supplied by lot, which was at God’s direction, Act 1:24,26. The metaphor here used is taken from the ordinary way then in use of choosing men into offices, which is here alluded to.",
+     "anchor": "But unto witnesses",
+     "refs": [
+      {
+       "text": "Act 1:24",
+       "ref": "ACT.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.41#p3-660c1432",
+     "text": "though in the gospel history we do not read that our Saviour drank after he rose again; yet it is sufficiently implied, being he did eat, and make a meal with his disciples, Luk 24:30,42,43Jn 21:12; and eating is put in Scripture for the whole refection, Mat 15:2, compared with Luk 7:36.",
+     "anchor": "Eat and drink with him",
+     "refs": [
+      {
+       "text": "Luk 24:30",
+       "ref": "LUK.24.30"
+      },
+      {
+       "text": "3Jn 21:12",
+       "ref": "3JN.21.12"
+      },
+      {
+       "text": "Mat 15:2",
+       "ref": "MAT.15.2"
+      },
+      {
+       "text": "Luk 7:36",
+       "ref": "LUK.7.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.42",
+   "range": "ACT.10.42",
+   "kind": "passage",
+   "hash": "ba60e521",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.42#p1-cd0ed794",
+     "text": "Our Saviour gave this charge to his apostles before his ascension, Mat 28:19 Mar 16:15 Luk 24:47; and foretold that they should execute this his charge, Act 1:8.",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Mar 16:15",
+       "ref": "MRK.16.15"
+      },
+      {
+       "text": "Luk 24:47",
+       "ref": "LUK.24.47"
+      },
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.42#p2-b614ea0a",
+     "text": "that God hath ordained to judge the world by Jesus Christ, Scripture abundantly testifies, Joh 5:26,27 2Ti 4:1 1Pe 4:5. And this is here spoken of the apostle, and was given in charge by our Saviour to be principally preached of by them all, because the resurrection of Christ, and the glory of his kingdom in this world, is clouded by the blindness and hardness of men; as also, because it is of the greatest concernment unto all, that at any time hear the word of God, to be persuaded of this, that Christ, whose gospel and word they hear, will judge them according unto it.",
+     "anchor": "Ordained of God to be the Judge",
+     "refs": [
+      {
+       "text": "Joh 5:26",
+       "ref": "JHN.5.26"
+      },
+      {
+       "text": "2Ti 4:1",
+       "ref": "2TI.4.1"
+      },
+      {
+       "text": "1Pe 4:5",
+       "ref": "1PE.4.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.42#p3-786d349c",
+     "text": "such as shall be alive at the coming of our Lord to judgment, 1Th 4:15.",
+     "anchor": "Quick",
+     "refs": [
+      {
+       "text": "1Th 4:15",
+       "ref": "1TH.4.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.43",
+   "range": "ACT.10.43",
+   "kind": "passage",
+   "hash": "33300678",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.43#p1-52572491",
+     "text": "This our Saviour had told his apostles, which St. Peter here preaches to his auditors. It was included in the very first promise recorded by Moses, Gen 3:15, The seed of the woman shall break the serpent’s head; and so continued through all ages of the church, to be manifest in such degrees as it pleased the wisdom of God to make it known: it is certain that all the ceremonial law concerning sacrifices did testify this very thing; for by it, it did appear, that without shedding of blood there was no remission of sin, as Heb 9:22; and it is manifest by the light of nature, that the blood of bulls and goats could not take away sins, as Heb 10:4.",
+     "refs": [
+      {
+       "text": "Gen 3:15",
+       "ref": "GEN.3.15"
+      },
+      {
+       "text": "Heb 9:22",
+       "ref": "HEB.9.22"
+      },
+      {
+       "text": "Heb 10:4",
+       "ref": "HEB.10.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.43#p2-08bcf576",
+     "text": "But through Christ’s name, for his sake, and by virtue of his merit, who died for our sins, and rose again for our justification, Rom 4:25, we shall receive remission of sins, Heb 9:13,14.",
+     "refs": [
+      {
+       "text": "Rom 4:25",
+       "ref": "ROM.4.25"
+      },
+      {
+       "text": "Heb 9:13",
+       "ref": "HEB.9.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.44",
+   "range": "ACT.10.44",
+   "kind": "passage",
+   "hash": "0636ba1b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.44#p1-c5d16c8d",
+     "text": "that God might miraculously show his approbation of what Peter had said, and to assure Peter of the real conversion of these Gentiles, which all the Jews did make such a difficulty to believe,",
+     "anchor": "While Peter yet spake these words"
+    },
+    {
+     "id": "poole/ACT.10.44#p2-8b11c613",
+     "text": "such fiery tongues in a visible shape as had appeared unto the apostles, Act 2:3, whereby the inward powerful effects of the Spirit upon their hearts was signified. What wonderful efferts had this short sermon! And doubtless, were practisers but as sincere, and hearers as intent, these days, as then, we should find that the hand of the Lord is not shortened.",
+     "anchor": "the Holy Ghost fell on all them which heard the word",
+     "refs": [
+      {
+       "text": "Act 2:3",
+       "ref": "ACT.2.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.45",
+   "range": "ACT.10.45",
+   "kind": "passage",
+   "hash": "2008ba40",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.45#p1-d684f40d",
+     "text": "such as were not only themselves circumcised, but born of circumcised parents, who are thus called, Gal 2:12. These, not minding, or understanding, the many predictions of the calling of the Gentiles, thought that Christ was only promised unto the Jews; and were amazed to see now such an argument as might convince them to the contrary.",
+     "anchor": "They of the circumcision",
+     "refs": [
+      {
+       "text": "Gal 2:12",
+       "ref": "GAL.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.45#p2-fc887241",
+     "text": "speaks the abundant measure in which the Holy Ghost was given unto them.",
+     "anchor": "Poured out"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.46",
+   "range": "ACT.10.46",
+   "kind": "passage",
+   "hash": "f8758b75",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.46#p1-11a3ccc2",
+     "text": "with variety of languages, or strange tongues, as in the day of Pentecost, Act 2:6.",
+     "anchor": "With tongues",
+     "refs": [
+      {
+       "text": "Act 2:6",
+       "ref": "ACT.2.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.46#p2-b91a69f9",
+     "text": "an ordinary Hebraism for speaking, though the first part of any discourse. And Peter, knowing that these miraculous fiery tongues did show that these men did partake of the same Spirit from whom the apostles had received them, he makes an inference from thence.",
+     "anchor": "Answered"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.47",
+   "range": "ACT.10.47",
+   "kind": "passage",
+   "hash": "efd55010",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.47#p1-efd55010",
+     "text": "This question, as Act 8:36, is without question, and denies that any can forbid water, that is, in order to baptize such as these. As if the apostle had argued thus: They that have the grace signified or promised, have a right unto the seal of the promise: but these Gentiles have the grace signified or promised in baptism; they had the inward part, and therefore the outward part could not be denied unto them. He that hath the inheritance, may claim the writings, wax, and parchment that belong unto it.",
+     "refs": [
+      {
+       "text": "Act 8:36",
+       "ref": "ACT.8.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.10.48",
+   "range": "ACT.10.48",
+   "kind": "passage",
+   "hash": "2b01255b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.10.48#p1-f13e2a70",
+     "text": "that is, in the name of our Saviour. But this does not imply, but that they were baptized according to our Saviour’s prescription, Mat 28:19: but the Jews by their baptism were become the Lord’s, and had given up their names to Jesus Christ; under which title, the Lord, not only our Saviour, but the Father who anointed him, and the Spirit by whom he was anointed, is to be understood.",
+     "anchor": "In the name of the Lord",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.10.48#p2-7def2c33",
+     "text": "Cornelius and the rest of his friends, which he caused to be present. At their entreaty, Peter, and others that came with him, {as Act 11:12} tarried there, that they might further instruct, confirm, and comfort them; (as the best have ever need to learn, and to grow in grace and knowledge); and by this Peter showed that he looked upon himself and others as not bound to observe those precepts, (of the wise men, as they called them), forbidding them all familiarity with the uncircumcised.",
+     "anchor": "Then prayed they",
+     "refs": [
+      {
+       "text": "Act 11:12",
+       "ref": "ACT.11.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

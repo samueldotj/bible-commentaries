@@ -1,0 +1,1394 @@
+{
+ "source": "poole",
+ "book": "ROM",
+ "chapter": 16,
+ "units": [
+  {
+   "id": "poole/ROM.16",
+   "range": "ROM.16",
+   "kind": "chapter",
+   "hash": "5e3d6902",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16#p1-238e5c81",
+     "text": "Rom 16:1,2 Paul commendeth Phebe to the Christians at Rome,",
+     "refs": [
+      {
+       "text": "Rom 16:1",
+       "ref": "ROM.16.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16#p2-aa9ec5fa",
+     "text": "Rom 16:3-16 and sendeth salutations to many by name.",
+     "refs": [
+      {
+       "text": "Rom 16:3-16",
+       "ref": "ROM.16.3-16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16#p3-60dcec29",
+     "text": "Rom 16:17-20 He warneth them to take heed of those who cause divisions and offences.",
+     "refs": [
+      {
+       "text": "Rom 16:17-20",
+       "ref": "ROM.16.17-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16#p4-2f7879e6",
+     "text": "Rom 16:21-24 After sundry salutations,",
+     "refs": [
+      {
+       "text": "Rom 16:21-24",
+       "ref": "ROM.16.21-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16#p5-fe26ece9",
+     "text": "Rom 16:25-27 he concludes with praise to God.",
+     "refs": [
+      {
+       "text": "Rom 16:25-27",
+       "ref": "ROM.16.25-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.1",
+   "range": "ROM.16.1",
+   "kind": "passage",
+   "hash": "952df10e",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.1#p1-9c4d9203",
+     "text": "This chapter is in the nature of a postscript. The apostle begins it with the recommendation of a certain woman to them. She went upon some occasion to Rome, and by her (as some have supposed) this Epistle was sent to the church there."
+    },
+    {
+     "id": "poole/ROM.16.1#p2-94fbfc8e",
+     "text": "the poets called the moon Phoebe, as they did the sun Phoebus. This name is likely to have been imposed by her parents, being Gentiles.",
+     "anchor": "Phebe"
+    },
+    {
+     "id": "poole/ROM.16.1#p3-8853c8ad",
+     "text": "i.e. in Christ, and by the profession of the same faith: see Jas 2:16.",
+     "anchor": "Our sister",
+     "refs": [
+      {
+       "text": "Jas 2:16",
+       "ref": "JAS.2.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.1#p4-b463a358",
+     "text": "a port or haven belonging to Corinth, on the east side towards Asia: there was another on the west side towards Italy, called Lechea. By reason of this double haven, Corinth was called by the poets, Bi maris. Here Paul paid a vow, which he had made, Act 18:18. Here also he preached and converted many, amongst whom this Phebe (as is probable) was one. When he saith, she was",
+     "anchor": "Cenchrea",
+     "refs": [
+      {
+       "text": "Act 18:18",
+       "ref": "ACT.18.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.1#p5-554bc7a4",
+     "text": "it is not meant she was a deaconness, or one of the college of widows, of whom he speaketh, 1Ti 5:9. But she served the church, in harbouring and succouring the saints that were driven out of their country; yea, as appears by the next verse, she was a succourer of the ministers of the gospel, and of the apostle himself. We read, Luk 8:3, of some that ministered unto the Lord of their substance; there the same word is used. And this Phebe seems to have been employed in the same works; she ministered unto Paul as Onesiphorus did, 2Ti 1:18; there the same word is used again.",
+     "anchor": "servant of the church",
+     "refs": [
+      {
+       "text": "1Ti 5:9",
+       "ref": "1TI.5.9"
+      },
+      {
+       "text": "Luk 8:3",
+       "ref": "LUK.8.3"
+      },
+      {
+       "text": "2Ti 1:18",
+       "ref": "2TI.1.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.2",
+   "range": "ROM.16.2",
+   "kind": "passage",
+   "hash": "ef495b98",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.2#p1-7484ce37",
+     "text": "i.e. in the Lord’s name, or for the Lord’s sake: see Mat 18:5. Or else it is as if he had said: Receive her Christianly.",
+     "anchor": "Receive her in the Lord",
+     "refs": [
+      {
+       "text": "Mat 18:5",
+       "ref": "MAT.18.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.2#p2-1d96ba17",
+     "text": "as it is fit that saints should be rcceived, or as it is fit for them, who profess themselves to be saints, to receive one another.",
+     "anchor": "As becometh saints"
+    },
+    {
+     "id": "poole/ROM.16.2#p3-524c1ad4",
+     "text": "that you stand by her, and afford her your counsel, or any other assistance. She might have some business in the emperor’s court, by reason of fraud, oppression, or some unjust vexations; and there might be those amongst them that could stand her in some stead. There were Christians of Caesar’s household, Php 4:22.",
+     "anchor": "That ye assist her in whatsoever business she hath need of you",
+     "refs": [
+      {
+       "text": "Php 4:22",
+       "ref": "PHP.4.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.2#p4-9e60f825",
+     "text": "the word signifieth a patroness. She had been hospitable to many, and in particular, to the apostle himself. This showeth she was a woman of some account: it was but equal that the saints at Rome should assist her, who had been assistant unto so many others.",
+     "anchor": "For she hath been a succourer of many, and of myself also"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.3",
+   "range": "ROM.16.3",
+   "kind": "passage",
+   "hash": "af6988a2",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.3#p1-20f6c01d",
+     "text": "In the next place, he saluteth several persons by name; the first are"
+    },
+    {
+     "id": "poole/ROM.16.3#p2-7c58339c",
+     "text": "Sometimes she is called Prisca, 2Ti 4:19; and by a diminutive, Priscilla. This was usual amongst the Romans. So Livia was called Livilla; Tullia, Tulliola; Petrona, Petronella, &c. The wife is named before her husband; so she is, Act 18:18 2Ti 4:19. Some think she was first called; others, that she was most renowned for her zeal and charity. We need not to be curious in our inquiry after the reason; we find in other places Aquila is set before Priscilla, Act 18:2,26 1Co 16:19. Hence it may appear how weakly the papists argue for Peter’s primacy, because he was placed first on the catalogue of the apostles; for by the same argument, the wife should be preferred before her husband.",
+     "anchor": "Priscilla and Aquila",
+     "refs": [
+      {
+       "text": "2Ti 4:19",
+       "ref": "2TI.4.19"
+      },
+      {
+       "text": "Act 18:18",
+       "ref": "ACT.18.18"
+      },
+      {
+       "text": "2Ti 4:19",
+       "ref": "2TI.4.19"
+      },
+      {
+       "text": "Act 18:2",
+       "ref": "ACT.18.2"
+      },
+      {
+       "text": "1Co 16:19",
+       "ref": "1CO.16.19"
+      },
+      {
+       "text": "Act 18:2",
+       "ref": "ACT.18.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.3#p3-0fea8a92",
+     "text": "This Aquila was a Jew of Pontus, and by occupation a tent-maker: with him the apostle Paul abode and wrought at Corinth, Act 18:2,3. Though Claudius the emperor had commanded the Jews to depart from Rome, yet now, it seems, they were returned thither again; possibly, because Claudius was dead, or because that severe edict was relaxed.",
+     "refs": [
+      {
+       "text": "Act 18:2",
+       "ref": "ACT.18.2"
+      },
+      {
+       "text": "Act 18:2",
+       "ref": "ACT.18.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.3#p4-aa546de7",
+     "text": "in propagating the gospel in their place and calling, and as they had opportunity. Though they preached not publicly, yet they furthered the gospel many ways privately: see Act 18:26.",
+     "anchor": "My helpers in Christ Jesus",
+     "refs": [
+      {
+       "text": "Act 18:26",
+       "ref": "ACT.18.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.4",
+   "range": "ROM.16.4",
+   "kind": "passage",
+   "hash": "c4314a8e",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.4#p1-af2d9cea",
+     "text": "i.e. they hazarded their own lives to save mine. The Scripture speaks of this as the duty of Christians, 1Jn 3:16. He refers (it may be) to that uproar that was at Corinth, of which see Act 18:12; or that in Asia, of which see Act 19:23.",
+     "anchor": "Who have for my life laid down their own necks",
+     "refs": [
+      {
+       "text": "1Jn 3:16",
+       "ref": "1JN.3.16"
+      },
+      {
+       "text": "Act 18:12",
+       "ref": "ACT.18.12"
+      },
+      {
+       "text": "Act 19:23",
+       "ref": "ACT.19.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.4#p2-9cabfc34",
+     "text": "because he was the apostle of the Gentiles, and his preservation redounded to the benefit of them all.",
+     "anchor": "Unto whom not only I give thanks, but also all the churches of the Gentiles"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.5",
+   "range": "ROM.16.5",
+   "kind": "passage",
+   "hash": "df0ad2ad",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.5#p1-0a10c97e",
+     "text": "the word greet is supplied to fill up the sense: q.d. Declare my goodwill to them, and desires of their welfare. You have the same salutations, 1Co 16:19; and the like in Col 4:15 Phm 1:2. By",
+     "anchor": "Likewise greet the church that is in their house",
+     "refs": [
+      {
+       "text": "1Co 16:19",
+       "ref": "1CO.16.19"
+      },
+      {
+       "text": "Col 4:15",
+       "ref": "COL.4.15"
+      },
+      {
+       "text": "Phm 1:2",
+       "ref": "PHM.1.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.5#p2-588ec418",
+     "text": "is generally understood, their family or household; which he calls a church, because of the godly order and religious worship that was exercised amongst them. May Aquila and Priscilia be a pattern unto other housekeepers; may the families of Christians be every where as little churches. The house of George, prince of Anhalt, for the good and godly order therein observed, was said to be, as well a church as a court. There are some that think, that by the church in their house, is meant the Christians that were wont to assemble there for solemn worship; but this is not likely, because of the particular salutations of so many in the following verses.",
+     "anchor": "the church in their house"
+    },
+    {
+     "id": "poole/ROM.16.5#p3-75baf2aa",
+     "text": "in the Greek tongue, is laudable and praise-worthy; so was this person, both in name and in deed.",
+     "anchor": "Salute my well-beloved Epenetus: Epenetus"
+    },
+    {
+     "id": "poole/ROM.16.5#p4-df64f96c",
+     "text": "the same is affirmed of the house of Stephanas, 1Co 16:15. The meaning may be this, Epenetus was the first person, and Stephana’s family was the first family, that embraced the faith of Christ in the region of Achaia. This is a singular commendation; God’s soul desires such first-ripe fruits, Mic 7:1.",
+     "anchor": "Who is the first-fruits, of Achaia unto Christ",
+     "refs": [
+      {
+       "text": "1Co 16:15",
+       "ref": "1CO.16.15"
+      },
+      {
+       "text": "Mic 7:1",
+       "ref": "MIC.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.6",
+   "range": "ROM.16.6",
+   "kind": "passage",
+   "hash": "0024b37b",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.6#p1-82d410bc",
+     "text": "this was a common name, but the person here meant was of special note. Ignatius highly commends one of this name, giving her an ample character for wisdom and godliness.",
+     "anchor": "Greet Mary"
+    },
+    {
+     "id": "poole/ROM.16.6#p2-6b562af0",
+     "text": "this is the commendation the apostle gives of this woman: it is to be understood of her labour and service in providing food and other necessaries for the entertainment of the faithful, especially the preachers of the gospel; which he acknowledgeth as done to himself, though he had not been at Rome, because of the communion of saints. Some think this woman dwelt before at Corinth, or Antioch, or in some other places, where she had ministered unto the apostle Paul himself.",
+     "anchor": "Who bestowed much labour on us"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.7",
+   "range": "ROM.16.7",
+   "kind": "passage",
+   "hash": "9b22214b",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.7#p1-6b922898",
+     "text": "it may be rendered Junius. Some think this Junia was a woman, and the wife of Andronicus; others take them both for men.",
+     "anchor": "Salute Andronicus and Junia"
+    },
+    {
+     "id": "poole/ROM.16.7#p2-a44bf4c6",
+     "text": "so he calls them, either because they were Jews, Rom 9:3; or because they were of the same tribe; or because they were more nearly related to him by consanguinity and affinity.",
+     "anchor": "My kinsmen",
+     "refs": [
+      {
+       "text": "Rom 9:3",
+       "ref": "ROM.9.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.7#p3-911eee7c",
+     "text": "i.e. they had been imprisoned for the gospel, as well as he: the apostle had been often in prison himself, 2Co 11:23. We read, Act 16:23, of his being imprisoned at Philippi, and it may be these two were his fellow prisoners, for we read of other prisoners there besides Paul and Silas, Rom 16:25,26.",
+     "anchor": "My fellow prisoners",
+     "refs": [
+      {
+       "text": "2Co 11:23",
+       "ref": "2CO.11.23"
+      },
+      {
+       "text": "Act 16:23",
+       "ref": "ACT.16.23"
+      },
+      {
+       "text": "Rom 16:25",
+       "ref": "ROM.16.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.7#p4-661a728e",
+     "text": "i.e. they were well known to the apostles, and were in good esteem with them: not only the twelve, together with Paul and Barnabas, but other teachers are sometimes called apostles, or messengers; see 2Co 8:23 Php 2:25. Some have thought these two, Andronicus and Junia, were of the number of the seventy disciples, who are mentioned Luk 10:1. Others, that they were of the one hundred and twenty, who are mentioned in Act 1:15; or of those that were converted by the first preaching of Peter, and the rest, Act 2:41 4:4. By what follows, it appeareth they were of considerable standing in Christianity.",
+     "anchor": "Who are of note among the apostles",
+     "refs": [
+      {
+       "text": "2Co 8:23",
+       "ref": "2CO.8.23"
+      },
+      {
+       "text": "Php 2:25",
+       "ref": "PHP.2.25"
+      },
+      {
+       "text": "Luk 10:1",
+       "ref": "LUK.10.1"
+      },
+      {
+       "text": "Act 1:15",
+       "ref": "ACT.1.15"
+      },
+      {
+       "text": "Act 2:41",
+       "ref": "ACT.2.41"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.7#p5-7df110cb",
+     "text": "there are three things for which he commends these two persons: the first is, their sufferings for Christ; the second is, their fame among the apostles; and the third is, their forwardness in conversion. This was Mnason’s commendation, Act 21:16. When he saith, they",
+     "anchor": "Who also were in Christ before me",
+     "refs": [
+      {
+       "text": "Act 21:16",
+       "ref": "ACT.21.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.7#p6-6970ec37",
+     "text": "he intimates the virtue and power of faith to incorporate us into Christ, as branches into a vine.",
+     "anchor": "were in Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.8",
+   "range": "ROM.16.8",
+   "kind": "passage",
+   "hash": "b6dfb54d",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.8#p1-c28690fe",
+     "text": "Some translations call him Ampliatus; it is a Roman name."
+    },
+    {
+     "id": "poole/ROM.16.8#p2-6fe7f890",
+     "text": "this is added, to show that he did not love him for his riches, or any outward respect, but for the Lord’s sake; for the grace of Christ, which appeared in him.",
+     "anchor": "My beloved in the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.9",
+   "range": "ROM.16.9",
+   "kind": "passage",
+   "hash": "7d2a5ea0",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.9#p1-b74dad9e",
+     "text": "this also is a Roman name; it was coveted afterwards by many bishops of Rome.",
+     "anchor": "Urbane"
+    },
+    {
+     "id": "poole/ROM.16.9#p2-a922d420",
+     "text": "the same that was said of Aquila and Priscilla, Rom 16:3. Possibly he might be one of their teachers.",
+     "anchor": "Our helper in Christ",
+     "refs": [
+      {
+       "text": "Rom 16:3",
+       "ref": "ROM.16.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.9#p3-d815c106",
+     "text": "this is a Greek name, which signifieth an ear of corn. Some have reported, he was the first bishop of Constantinople: he was doubtless a person eminent in grace and gifts, or else the apostle would never have dignified him with this additional commendation, that he was beloved of him, or dear to him.",
+     "anchor": "Stachys my beloved"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.10",
+   "range": "ROM.16.10",
+   "kind": "passage",
+   "hash": "404b36bc",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.10#p1-f7d1cca1",
+     "text": "Origen supposeth this Apelles to be Apollos, of whom you read, Act 18:24, and in other places. Epiphanius saith, he was teacher in the churches of Smyrna, before Polycarpus.",
+     "refs": [
+      {
+       "text": "Act 18:24",
+       "ref": "ACT.18.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.10#p2-edcdced4",
+     "text": "one who hath showed himself a faithful and sincere Christian, who hath given many proofs of his sincerity, zeal, and constancy. This is a high encomium; to be",
+     "anchor": "Approved in Christ"
+    },
+    {
+     "id": "poole/ROM.16.10#p3-7bf607ee",
+     "text": "is much, to be approved in Christ is more: tried gold is most precious. In a time of trial, to stand fast, and hold his own, is a Christian’s greatest praise.",
+     "anchor": "in Christ"
+    },
+    {
+     "id": "poole/ROM.16.10#p4-4c865cf8",
+     "text": "the word household is not in the Greek, but is added to fill up the sense; you have the like in the next verse, and in 1Co 1:11. Aristobulus himself is not saluted; either he was dead, or as yet unconverted to the faith of Christ; but it seems there were several Christians in or belonging to his family, whom the apostle here salutes. See the next verse.",
+     "anchor": "Salute them which are of Aristobulus’ household",
+     "refs": [
+      {
+       "text": "1Co 1:11",
+       "ref": "1CO.1.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.11",
+   "range": "ROM.16.11",
+   "kind": "passage",
+   "hash": "812903ef",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.11#p1-93f85336",
+     "text": "see Rom 16:7.",
+     "anchor": "Salute Herodion my kinsman",
+     "refs": [
+      {
+       "text": "Rom 16:7",
+       "ref": "ROM.16.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.11#p2-cf1c26da",
+     "text": "this Narcissus is reported by Suetonius to have been in great favour with Claudius the emperor, and to have abounded in wealth, so that he was worth ten millions. He was a wicked man himself, yet it seems he had divers good Christians in his family. So we read that there were saints in Nero’s house or court, Php 4:22. To what a degree of wickedness are they arrived, who will not suffer a religious person to dwell in their houses! This shows, that good Christians may serve wicked masters with a good conscience.",
+     "anchor": "Greet them that be of the household of Narcissus",
+     "refs": [
+      {
+       "text": "Php 4:22",
+       "ref": "PHP.4.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.11#p3-c3cbf35f",
+     "text": "this may be added, because that all in Narcissus’s family were not Christians, or members of the church of Christ.",
+     "anchor": "Which are in the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.12",
+   "range": "ROM.16.12",
+   "kind": "passage",
+   "hash": "6bac019c",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.12#p1-78dc9479",
+     "text": "He salutes several women as well as men: you read before of Priscilla, Rom 16:3; of Mary, Rom 16:6; and now he adds three more in this verse. He saith of the two first, that they",
+     "refs": [
+      {
+       "text": "Rom 16:3",
+       "ref": "ROM.16.3"
+      },
+      {
+       "text": "Rom 16:6",
+       "ref": "ROM.16.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.12#p2-bffb9fc7",
+     "text": "i.e. in the service of Christ and his church, according to their place and power. See the notes on Rom 16:6.",
+     "anchor": "laboured in the Lord",
+     "refs": [
+      {
+       "text": "Rom 16:6",
+       "ref": "ROM.16.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.12#p3-abd79f99",
+     "text": "he gives this woman a higher commendation, calling her",
+     "anchor": "Salute the beloved Persis, which laboured much in the Lord"
+    },
+    {
+     "id": "poole/ROM.16.12#p4-d85b4bf3",
+     "text": "see Rom 16:8. He saith of the other two, that they laboured; but of this, that she hath laboured much in the Lord, noting some special favour or service for which she is here commended.",
+     "anchor": "the beloved Persis",
+     "refs": [
+      {
+       "text": "Rom 16:8",
+       "ref": "ROM.16.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.13",
+   "range": "ROM.16.13",
+   "kind": "passage",
+   "hash": "0b65d0ab",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.13#p1-dc36bd7f",
+     "text": "the same (it may be) of whom you may read, Mar 15:21.",
+     "anchor": "Salute Rufus",
+     "refs": [
+      {
+       "text": "Mar 15:21",
+       "ref": "MRK.15.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.13#p2-461fd52c",
+     "text": "a choice Christian, one eminent for gifts and graces. So, 2Jn 1:1, you read of an elect lady: he is supposed not to speak here of eternal election.",
+     "anchor": "Chosen in the Lord",
+     "refs": [
+      {
+       "text": "2Jn 1:1",
+       "ref": "2JN.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.13#p3-4d7a03cc",
+     "text": "by nature, mine by affection: she hath tendered me as a mother her son: see 1Ti 5:2.",
+     "anchor": "And his mother and mine; his mother",
+     "refs": [
+      {
+       "text": "1Ti 5:2",
+       "ref": "1TI.5.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.14",
+   "range": "ROM.16.14",
+   "kind": "passage",
+   "hash": "28f35140",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.14#p1-28f35140",
+     "text": "i.e. The Christians that are their domestics, or that dwell with them."
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.15",
+   "range": "ROM.16.15",
+   "kind": "passage",
+   "hash": "b8565092",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.15#p1-e6a2eb75",
+     "text": "probably the wife of Philologus.",
+     "anchor": "Julia"
+    },
+    {
+     "id": "poole/ROM.16.15#p2-fbd14a75",
+     "text": "this is thought to be the name of a man, rather than of a woman.",
+     "anchor": "Olympas"
+    },
+    {
+     "id": "poole/ROM.16.15#p3-45aadf6b",
+     "text": "that are in their several families: see Rom 16:14. There were, doubtless, many more Christians in the church of Rome, but either they were of no great note, or else not known to the apostle: and indeed it is matter of admiration, that he, who was never at Rome, should know the name and proper characters of so many there. And because he sendeth salutations to so many brethren at Rome, and makes no mention of Peter, it may be rationally inferred, that Peter was not there at the writing of this Epistle. It is questionable whether ever he were there at all; but it is without question, that he came not thither in the beginning of Claudius’s reign, and in the forty-fifth year of our Lord, as the Romanists report; nor was he bishop there for the space of five and twenty years, as they affirm.",
+     "anchor": "All the saints which are with them",
+     "refs": [
+      {
+       "text": "Rom 16:14",
+       "ref": "ROM.16.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.16",
+   "range": "ROM.16.16",
+   "kind": "passage",
+   "hash": "5fae41f6",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.16#p1-4242a116",
+     "text": "From greeting them himself, he proceeds to exhort them to greet or"
+    },
+    {
+     "id": "poole/ROM.16.16#p2-3165a50d",
+     "text": "this he adviseth them to do",
+     "anchor": "salute one another"
+    },
+    {
+     "id": "poole/ROM.16.16#p3-6d2f572f",
+     "text": "You have the same exhortation, in 1Co 16:20 2Co 13:12 1Th 5:26. This the apostle Peter calls a kiss of charity, 1Pe 5:14. Kissing is accounted a great symbol of love and concord: q.d. You have been much troubled with dissensions, about meats and days, &c.; therefore I beseech you that, forgetting all former offences, you would manifest for the future all signs of love to and peace with one another. Kissing was an old custom amongst the Hebrews; we find it used by the patriarchs, Gen 27:26 29:11. It is still retained more or less in all countries.",
+     "anchor": "with an holy kiss",
+     "refs": [
+      {
+       "text": "1Co 16:20",
+       "ref": "1CO.16.20"
+      },
+      {
+       "text": "2Co 13:12",
+       "ref": "2CO.13.12"
+      },
+      {
+       "text": "1Th 5:26",
+       "ref": "1TH.5.26"
+      },
+      {
+       "text": "1Pe 5:14",
+       "ref": "1PE.5.14"
+      },
+      {
+       "text": "Gen 27:26",
+       "ref": "GEN.27.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.16#p4-875dd993",
+     "text": "The primitive Christians did use it in their assemblies; so Tertullian testifieth, Lib. Dec.; and they did it especially in receiving the eucharist. So Chrysostom witnesseth, Hom. 77. in Joh 16. \"We do well,\" saith he, \"to kiss in the mysteries, that we may become one.\" This custom, for good reasons, is laid down, and the Romanists, in room of it, keep up a foolish and superstitious ceremony, which is to kiss the pax in the mass."
+    },
+    {
+     "id": "poole/ROM.16.16#p5-e09594ac",
+     "text": "he sends, besides his own, the salutations of others also to the Christians at Rome; and that, first, of whole churches, and by and by of particular persons, Rom 16:21-23. By churches, here, he principally means, the churches in Greece, where he then was, of whose good affection to the Christian Romans he was well assured.",
+     "anchor": "The churches of Christ salute you",
+     "refs": [
+      {
+       "text": "Rom 16:21-23",
+       "ref": "ROM.16.21-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.17",
+   "range": "ROM.16.17",
+   "kind": "passage",
+   "hash": "ebb2500a",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.17#p1-61244366",
+     "text": "He shuts up the Epistle with a seasonable admonition, which he reserved to the last, that it might be the better remembered: it is, to beware of those that"
+    },
+    {
+     "id": "poole/ROM.16.17#p2-fe0128f4",
+     "text": "By the former, some understand those that corrupt the doctrine of the church; by the latter, those that violate the discipline thereof: others refer divisions to faith, and offences to manners. There are that like neither of these distinctions, but, think he only cautions them against church dividers; and mentions scandal or offences as the effect or fruit of church divisions. He seems to aim more especially at those who, together with the Christian faith, did obtrude upon believers the ceremonies of the law, as necessary to salvation; of these he often complains as enemies to the gospel and cross of Christ: see Gal 1:7 Php 3:2,18,19 Tit 1:10.",
+     "anchor": "cause divisions and offences",
+     "refs": [
+      {
+       "text": "Gal 1:7",
+       "ref": "GAL.1.7"
+      },
+      {
+       "text": "Php 3:2",
+       "ref": "PHP.3.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.17#p3-11affe7c",
+     "text": "i.e. that you have learned from those that first taught you and converted you to Christ: q.d. You have been instructed in the true doctrine of Christ; and there are some that would innovate and teach another doctrine, that broach opinions that are contrary, or, at least, beside the doctrine which is pure and apostolical, and so make divisions and factions amongst you: of such as those he speaks what follows.",
+     "anchor": "Contrary to the doctrine which ye have learned"
+    },
+    {
+     "id": "poole/ROM.16.17#p4-7109042d",
+     "text": "here are two precepts with respect to innovators and church dividers. The first is, that they should be marked. The word signifies such a marking, as a watchman useth that standeth on a tower to descry enemies; he marketh diligently all comers, and giveth notice accordingly, for the safety of the place. The second is, that they should be avoided, or declined: the like counsel is given, 2Th 3:6,14 1Ti 6:3-5 2Ti 3:5 Tit 3:10 2Jn 1:10. The sum is, the church should excommunicate them, and all sound Christians should turn away from them, and shun their society, that they may be ashamed.",
+     "anchor": "And avoid them",
+     "refs": [
+      {
+       "text": "2Th 3:6",
+       "ref": "2TH.3.6"
+      },
+      {
+       "text": "1Ti 6:3-5",
+       "ref": "1TI.6.3-5"
+      },
+      {
+       "text": "2Ti 3:5",
+       "ref": "2TI.3.5"
+      },
+      {
+       "text": "Tit 3:10",
+       "ref": "TIT.3.10"
+      },
+      {
+       "text": "2Jn 1:10",
+       "ref": "2JN.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.18",
+   "range": "ROM.16.18",
+   "kind": "passage",
+   "hash": "8ac876e7",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.18#p1-caf13c41",
+     "text": "In this verse you have a reason of the foregoing admonition, together with a description of the seducers, whom they should mark and avoid. He says, they are such as"
+    },
+    {
+     "id": "poole/ROM.16.18#p2-8b6d435b",
+     "text": "i.e. they serve themselves rather than Christ. Though they pretend to be the servants of Jesus Christ, and give themselves out for his ministers, yet they aim at nothing but their own commodity and advantage. A further account you have of such persons in Php 3:19 1Ti 6:5 Tit 1:11 2Pe 2:3.",
+     "anchor": "serve not our Lord Jesus Christ, but their own belly",
+     "refs": [
+      {
+       "text": "Php 3:19",
+       "ref": "PHP.3.19"
+      },
+      {
+       "text": "1Ti 6:5",
+       "ref": "1TI.6.5"
+      },
+      {
+       "text": "Tit 1:11",
+       "ref": "TIT.1.11"
+      },
+      {
+       "text": "2Pe 2:3",
+       "ref": "2PE.2.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.18#p3-c1120326",
+     "text": "q.d. As Satan insinuated into Eve, by pretending he wished her good; so these seducers pretend they aim at nothing but the good and benefit of those with whom they have to do: with smooth and flattering words, they praise both the persons and doings of those whom they would insnare, (so much the word ευλογια, here used, imports), and by this means they impose upon the simple, i.e. the over credulous and unwary, who do not mistrust any deceit or hurt. The word here rendered simple, properly signifies such as are not evil, or that are incautious, and not suspicious.",
+     "anchor": "By good words and fair speeches deceive the hearts of the simple"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.19",
+   "range": "ROM.16.19",
+   "kind": "passage",
+   "hash": "d62d4eca",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.19#p1-f448a197",
+     "text": "q.d. As for you, your ready embracing of the gospel, and conformity thereunto, is generally taken notice of by all that mind such things: see the like, Rom 1:8 1Th 1:8.",
+     "anchor": "For your obedience is come abroad unto all men",
+     "refs": [
+      {
+       "text": "Rom 1:8",
+       "ref": "ROM.1.8"
+      },
+      {
+       "text": "1Th 1:8",
+       "ref": "1TH.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.19#p2-9a03c557",
+     "text": "I rejoice to hear of your soundness and teachablehess; I do not therefore speak this to accuse, but to caution you.",
+     "anchor": "I am glad therefore on your behalf"
+    },
+    {
+     "id": "poole/ROM.16.19#p3-0f25c56d",
+     "text": "q.d. Take heed that you be not cheated by seducers, that thcy do not abuse your tractableness to draw you into errors. He exhorts them to join prudence with simplicity; to be so harmless and simple as not to invent false doctrine, and yet to be so wise and skilful as to be able to discern truth from falsehood; to be so innocent as not to deceive, and so prudent as not to be deceived: see Mat 10:16. He prays for the Philippians, that they may have this discretion, Php 1:9,10, and exhorts the Thessalonians thereunto, 1Th 5:21.",
+     "anchor": "But yet I would have you wise unto that which is good, and simple concerning evil",
+     "refs": [
+      {
+       "text": "Mat 10:16",
+       "ref": "MAT.10.16"
+      },
+      {
+       "text": "Php 1:9",
+       "ref": "PHP.1.9"
+      },
+      {
+       "text": "1Th 5:21",
+       "ref": "1TH.5.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.20",
+   "range": "ROM.16.20",
+   "kind": "passage",
+   "hash": "fae6aed7",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.20#p1-1a1d7171",
+     "text": "And, &c.: q.d. And to encourage you to be watchful, I dare promise you shall be successful."
+    },
+    {
+     "id": "poole/ROM.16.20#p2-4fddbf55",
+     "text": "so he is called, Rom 15:33.",
+     "anchor": "The God of peace",
+     "refs": [
+      {
+       "text": "Rom 15:33",
+       "ref": "ROM.15.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.20#p3-9d8600ec",
+     "text": "the word signifies to bruise by treading: it imports the conquest that the Lord gives his people over Satan and all his wicked instruments, that divide, seduce, or oppress his people; the promise is that they shall overcome him and them; they shall deal by Satan and his agents, as Joshua and his captains did by those five kings, Jos 10:24: see Rev 22:11. This promise plainly bears upon the first grand promise, in Gen 3:15, that Jesus Christ, the Seed of the woman, should bruise the head of the serpent; for it is by virtue of his bruising the head of Satan, that he is subdued and brought under our feet. The seed of the woman, in their own persons, as well as in their representative, shall bruise the serpent’s head.",
+     "anchor": "Shall bruise Satan under your feet",
+     "refs": [
+      {
+       "text": "Jos 10:24",
+       "ref": "JOS.10.24"
+      },
+      {
+       "text": "Rev 22:11",
+       "ref": "REV.22.11"
+      },
+      {
+       "text": "Gen 3:15",
+       "ref": "GEN.3.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.20#p4-1c87e77a",
+     "text": "or suddenly; though now he rage, yet ere long he shall be thrown down. Some refer this to the day of judgment: others, to the time of Constantine, who overthrew idolatry; and that it is not only a promise, but a prophecy also of the conversion of the Roman empire. There are that think that the apostle doth comfort here the believing Romans, by telling them, that the dissensions raised amongst them by means of Satan’s malice and subtlety, should be shortly quenched and reconciled; and that it was effected partly by this Epistle, and partly by the apostle’s labours afterwards amongst them.",
+     "anchor": "Shortly"
+    },
+    {
+     "id": "poole/ROM.16.20#p5-9a8a75bb",
+     "text": "as he began this Epistle with wishing them grace and peace, so he ends it. He had said, Rom 15:33,",
+     "anchor": "The grace of our Lord Jesus Christ be with you",
+     "refs": [
+      {
+       "text": "Rom 15:33",
+       "ref": "ROM.15.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.20#p6-2170e242",
+     "text": "The God of peace be with you; and here he saith: The grace of our Lord Jesus Christ be with you. He was once and again shutting up his Epistle, but having more room and time, he makes some short additions and supplements, as it is usual with those that write epistles. This salutation he was wont in the end of every Epistle to write with his own hand, 2Th 3:17. It is repeated, Rom 16:24. Hereby he intimates the necessity of the grace of Christ, therefore he prayeth for it again and again. See Poole on \"Rom 1:7\".",
+     "refs": [
+      {
+       "text": "2Th 3:17",
+       "ref": "2TH.3.17"
+      },
+      {
+       "text": "Rom 16:24",
+       "ref": "ROM.16.24"
+      },
+      {
+       "text": "Rom 1:7",
+       "ref": "ROM.1.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.21",
+   "range": "ROM.16.21",
+   "kind": "passage",
+   "hash": "338173f0",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.21#p1-9fb26179",
+     "text": "As before he saluted divers persons himself, so now he sendeth the salutation of others to the church of Rome. This he doth to show the mutual amity and love that is and ought to be between Christians; though they are divided in respect of place, yet not in respect of affection and goodwill. He begins with"
+    },
+    {
+     "id": "poole/ROM.16.21#p2-e73927e6",
+     "text": "or Timothy, whom he calls his work-fellow, or fellow helper, viz. in preaching and propagating the gospel of Christ. This shows the humility of the apostle, that he dignifies so young a man with this title. This is he to whom he wrote afterwards two Epistles; you may read more of him, Act 16:1-7, and elsewhere.",
+     "anchor": "Timotheus",
+     "refs": [
+      {
+       "text": "Act 16:1-7",
+       "ref": "ACT.16.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.21#p3-c9f46a8c",
+     "text": "Origen and some others are of opinion that this was Luke the evangelist, who was the inseparable companion of the apostle Paul, and was with him about this very time, as appears by Act 20:5; and here he is called Lucius, according to the Roman inflexion. Others think that this was Lucius of Cyrene, of whom you read, Act 23:1.",
+     "anchor": "Lucius",
+     "refs": [
+      {
+       "text": "Act 20:5",
+       "ref": "ACT.20.5"
+      },
+      {
+       "text": "Act 23:1",
+       "ref": "ACT.23.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.21#p4-0cdd005d",
+     "text": "this was Paul’s host at Thessalonica, Act 17:5,7; the same, as some think, that is called Secundus, Act 20:4, the one being his Hebrew, the other his Roman name.",
+     "anchor": "Jason",
+     "refs": [
+      {
+       "text": "Act 17:5",
+       "ref": "ACT.17.5"
+      },
+      {
+       "text": "Act 20:4",
+       "ref": "ACT.20.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.21#p5-1b9f32e1",
+     "text": "the same that is called Sopater of Berea, in Act 20:4.",
+     "anchor": "Sosipater",
+     "refs": [
+      {
+       "text": "Act 20:4",
+       "ref": "ACT.20.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.21#p6-93f85336",
+     "text": "see Rom 16:7.",
+     "anchor": "My kinsmen",
+     "refs": [
+      {
+       "text": "Rom 16:7",
+       "ref": "ROM.16.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.22",
+   "range": "ROM.16.22",
+   "kind": "passage",
+   "hash": "3ff43f2e",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.22#p1-16b4263e",
+     "text": "this was the apostle’s scribe or amanuensis,",
+     "anchor": "Tertius"
+    },
+    {
+     "id": "poole/ROM.16.22#p2-0cf28a4d",
+     "text": "either from his mouth, or from his papers: he put in this salutation by the apostle’s licence.",
+     "anchor": "who wrote this Epistle"
+    },
+    {
+     "id": "poole/ROM.16.22#p3-f407895a",
+     "text": "i.e. I wish you safety from the Lord.",
+     "anchor": "Salute you in the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.23",
+   "range": "ROM.16.23",
+   "kind": "passage",
+   "hash": "abb506f9",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.23#p1-cb73505a",
+     "text": "we read of more than one that bore this name; there was Gaius of Macedonia, of whom you read, in Act 19:29; there was Gaius of Derbe, of whom you read, Act 20:4; he is most likely the person here meant. There was one of this name whom Paul baptized at Corinth, 1Co 1:14; and there was another Gaius, to whom St. John wrote his Third Epistle: whether any of those were the same, or whether they were all different persons, is uncertain.",
+     "anchor": "Gaius",
+     "refs": [
+      {
+       "text": "Act 19:29",
+       "ref": "ACT.19.29"
+      },
+      {
+       "text": "Act 20:4",
+       "ref": "ACT.20.4"
+      },
+      {
+       "text": "1Co 1:14",
+       "ref": "1CO.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.23#p2-d22ea491",
+     "text": "i.e. he entertained the apostle, and all Christian strangers that passed that way. That Gaius to whom the apostle John wrote, is commended for the like hospitality, 3Jn 1:5,6.",
+     "anchor": "Mine host, and of the whole church",
+     "refs": [
+      {
+       "text": "3Jn 1:5",
+       "ref": "3JN.1.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.23#p3-c82d1c1e",
+     "text": "or the receiver or steward of the city; one that had the management of the city’s stock or public treasure. The city was Corinth, from whence the apostle wrote this Epistle. There Erastus is said to abide, 2Ti 4:20, possibly to attend upon his office. Yet we find, Act 19:22, that he was one of them that ministered to the apostle, and was sent by him hither and thither, as he had occasion, which would not well consist with his being chamberlain or steward of so great a city; therefore some are of opinion, that he is so called, because that had been his office in time past. So Abigail is called the wife of Nabal, 2Sa 3:3, because she formerly stood in that relation to him.",
+     "anchor": "Erastus the chamberlain of the city",
+     "refs": [
+      {
+       "text": "2Ti 4:20",
+       "ref": "2TI.4.20"
+      },
+      {
+       "text": "Act 19:22",
+       "ref": "ACT.19.22"
+      },
+      {
+       "text": "2Sa 3:3",
+       "ref": "2SA.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.23#p4-abeb585c",
+     "text": "this is no word of number, but it was his name: we had Tertius in the foregoing verse; and we read of Secundus, Act 20:4. Histories also speak of the name of Quintus, and Sextus, &c.",
+     "anchor": "Quartus",
+     "refs": [
+      {
+       "text": "Act 20:4",
+       "ref": "ACT.20.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.24",
+   "range": "ROM.16.24",
+   "kind": "passage",
+   "hash": "0177dfdd",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.24#p1-0177dfdd",
+     "text": "These words are the very same which you had, Rom 16:20, only the word all is added. Some have thought, that the former was written with the hand of Tertius, the scribe or notary, and this with the apostle’s own hand. He seems to be like a loving and tender father, who bids his children farewell once and again; and being loth to leave them, returns a second and a third time to discourse with them.",
+     "refs": [
+      {
+       "text": "Rom 16:20",
+       "ref": "ROM.16.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.25",
+   "range": "ROM.16.25",
+   "kind": "passage",
+   "hash": "14736bbb",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.25#p1-19cd1f94",
+     "text": "He concludes all with an excellent doxology; wherein, first, he describes God, and then he ascribes eternal glory to him. He describes him by two of his attributes or perfections: the first is his"
+    },
+    {
+     "id": "poole/ROM.16.25#p2-1277366a",
+     "text": "He is able to establish you; i.e. in grace and in truth; to keep you from falling into sin and into error. The Scripture often attributes our establishment unto God: see 1Th 3:13 2Th 2:17 2Th 3:3 1Pe 5:10. Our own weakness and Satan’s power are such, that unless God did establish us, we shonld soon totter and fall: see Rom 14:4, and the notes there. Our establishment is further amplified by the instrumental cause thereof, which is the gospel; touching which, several things are here to be noted. First, he calls it my gospel, because he was the preacher and publisher thereof: see Rom 2:16, and the notes there. Secondly, he calls it",
+     "anchor": "power",
+     "refs": [
+      {
+       "text": "1Th 3:13",
+       "ref": "1TH.3.13"
+      },
+      {
+       "text": "2Th 2:17",
+       "ref": "2TH.2.17"
+      },
+      {
+       "text": "2Th 3:3",
+       "ref": "2TH.3.3"
+      },
+      {
+       "text": "1Pe 5:10",
+       "ref": "1PE.5.10"
+      },
+      {
+       "text": "Rom 14:4",
+       "ref": "ROM.14.4"
+      },
+      {
+       "text": "Rom 2:16",
+       "ref": "ROM.2.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.25#p3-4501a503",
+     "text": "which may be taken actively, for the preaching of our Lord himself; so the doctrine of salvation is called, the word that was spoken by the Lord, Heb 2:3: see Mat 4:23 Mat 9:35. Or rather passively, for the gospel which was preached concerning Jesus Christ: see Rom 1:1,3, and the notes there. Thirdly: He calls it a",
+     "anchor": "the preaching of Jesus Christ",
+     "refs": [
+      {
+       "text": "Heb 2:3",
+       "ref": "HEB.2.3"
+      },
+      {
+       "text": "Mat 4:23",
+       "ref": "MAT.4.23"
+      },
+      {
+       "text": "Mat 9:35",
+       "ref": "MAT.9.35"
+      },
+      {
+       "text": "Rom 1:1",
+       "ref": "ROM.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.25#p4-d34784e9",
+     "text": "see parallel places, 1Co 2:7 Eph 3:9 Col 1:26. Some restrain this to the calling of the Gentiles; but it is better understood of the whole doctrine of the gospel, concerning the Trinity, the incarnation of the Son of God, &c., which. although it was in some sort made known under the Old Testament, yet, in respect of the present light and revelation, it was a hidden mystery.",
+     "anchor": "mystery, which was kept secret since the world began, but now is made manifest",
+     "refs": [
+      {
+       "text": "1Co 2:7",
+       "ref": "1CO.2.7"
+      },
+      {
+       "text": "Eph 3:9",
+       "ref": "EPH.3.9"
+      },
+      {
+       "text": "Col 1:26",
+       "ref": "COL.1.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.26",
+   "range": "ROM.16.26",
+   "kind": "passage",
+   "hash": "ddfa97d9",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.26#p1-92ef7851",
+     "text": "Concerning the revelation of this mystery, four things are further recorded:"
+    },
+    {
+     "id": "poole/ROM.16.26#p2-e33c813e",
+     "text": "1. The means whereby it was made known; viz."
+    },
+    {
+     "id": "poole/ROM.16.26#p3-2b028f81",
+     "text": "see Act 10:43 16:32 28:23.",
+     "anchor": "the Scriptures of the prophets",
+     "refs": [
+      {
+       "text": "Act 10:43",
+       "ref": "ACT.10.43"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.26#p4-4bb9ffd8",
+     "text": "2. The authority by which it was made known;"
+    },
+    {
+     "id": "poole/ROM.16.26#p5-1f9481ff",
+     "text": "the commandment of the everlasting God."
+    },
+    {
+     "id": "poole/ROM.16.26#p6-adeaa0bb",
+     "text": "3. The persons to whom it was made known; the Gentiles, or the inhabitants of"
+    },
+    {
+     "id": "poole/ROM.16.26#p7-81629bc3",
+     "text": "all nations."
+    },
+    {
+     "id": "poole/ROM.16.26#p8-0daa2d0d",
+     "text": "4. The end for which it was made known; viz."
+    },
+    {
+     "id": "poole/ROM.16.26#p9-bc0c3eda",
+     "text": "i.e. that it may be believed and obeyed: see Rom 1:5 15:18.",
+     "anchor": "for the obedience of faith",
+     "refs": [
+      {
+       "text": "Rom 1:5",
+       "ref": "ROM.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ROM.16.27",
+   "range": "ROM.16.27",
+   "kind": "passage",
+   "hash": "0134c2a4",
+   "paragraphs": [
+    {
+     "id": "poole/ROM.16.27#p1-847ade2a",
+     "text": "The second attribute in the description of God, is his wisdom; he is said to be"
+    },
+    {
+     "id": "poole/ROM.16.27#p2-e6f79719",
+     "text": "and",
+     "anchor": "wise"
+    },
+    {
+     "id": "poole/ROM.16.27#p3-a0fe6f69",
+     "text": "See the like, 1Ti 1:17 Jud 1:25. So he is said to be only true, Joh 17:3, and to be the only Potentate, 1Ti 6:15, and only to have immortality, 1Ti 6:16. And this doth not exclude the wisdom of the Son, and of the Holy Spirit, but the wisdom of the creatures. He is said to be only wise, because none is as wise as he, and all the wisdom of others is from him; the wisdom of men and angels is but a ray from his light. Again, he is said to be only wise, because he is originally wise; his wisdom is of himself; yea, his wisdom is himself.",
+     "anchor": "only wise",
+     "refs": [
+      {
+       "text": "1Ti 1:17",
+       "ref": "1TI.1.17"
+      },
+      {
+       "text": "Jud 1:25",
+       "ref": "JUD.1.25"
+      },
+      {
+       "text": "Joh 17:3",
+       "ref": "JHN.17.3"
+      },
+      {
+       "text": "1Ti 6:15",
+       "ref": "1TI.6.15"
+      },
+      {
+       "text": "1Ti 6:16",
+       "ref": "1TI.6.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p4-f0656687",
+     "text": "here he ascribes eternal glory to God. You had the same before, Rom 11:36. Only here is added, through Jesus Christ, to show that our praise and thanksgiving is accepted of God through him: see Rom 1:7 Eph 3:20,21.",
+     "anchor": "Be glory through Jesus Christ for ever",
+     "refs": [
+      {
+       "text": "Rom 11:36",
+       "ref": "ROM.11.36"
+      },
+      {
+       "text": "Rom 1:7",
+       "ref": "ROM.1.7"
+      },
+      {
+       "text": "Eph 3:20",
+       "ref": "EPH.3.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p5-fe49bf19",
+     "text": "this word is six times before used in this Epistle; Rom 1:25 Rom 9:5 11:36 15:33 16:20,24. It is a Hebrew word, but retained in all languages. It cannot be translated without losing much of its weight. It may be taken three ways:",
+     "anchor": "Amen",
+     "refs": [
+      {
+       "text": "Rom 1:25",
+       "ref": "ROM.1.25"
+      },
+      {
+       "text": "Rom 9:5",
+       "ref": "ROM.9.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p6-0cc29e51",
+     "text": "1. As a name, and so it is a name of Christ, Rev 3:14.",
+     "refs": [
+      {
+       "text": "Rev 3:14",
+       "ref": "REV.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p7-6f9b381e",
+     "text": "2. As an adverb: so it is used in the beginning of speech, and signifies verily; or in the end of speech, and so it notes assent. Therefore it was used of old by the Jews, not only at prayer, but at all the sermons and expositions of their rabbins, to testify that they assented and agreed to all that they taught: see 1Co 14:16.",
+     "refs": [
+      {
+       "text": "1Co 14:16",
+       "ref": "1CO.14.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p8-2c441ccc",
+     "text": "3. As a verb; and so it is as much as: So be it, having the nature of a prayer: hence Jeremiah said Amen to the prophecy of Hananiah, though false, concerning the sudden return from the Babylonish captivity, to show how earnestly he desired it might be so, Jer 28:6.",
+     "refs": [
+      {
+       "text": "Jer 28:6",
+       "ref": "JER.28.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ROM.16.27#p9-0c640b0e",
+     "text": "Written to the Romans from Corinthus, (and sent) by Phebe servant of the church at Cenchrea."
+    },
+    {
+     "id": "poole/ROM.16.27#p10-a49736bf",
+     "text": "This was not added by the apostle Paul, nor by Tertius his amanuensis, but by a later and unknown hand; yet there is nothing in the Epistle itself, nor in any ancient or modern writer, that may induce us to question the verity thereof."
+    }
+   ]
+  }
+ ]
+}

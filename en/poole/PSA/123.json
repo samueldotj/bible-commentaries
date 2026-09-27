@@ -1,0 +1,119 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 123,
+ "units": [
+  {
+   "id": "poole/PSA.123",
+   "range": "PSA.123",
+   "kind": "chapter",
+   "hash": "71e320fe",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.123#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.123#p2-e0671ba6",
+     "text": "This Psalm contains a description of the great agony and distress of God’s people, and of their carriage under it."
+    },
+    {
+     "id": "poole/PSA.123#p3-d997c608",
+     "text": "The godly profess their patient trusting and confidence in God, Psa 123:1,2; and withal earnestly pray to be delivered from the contempt of the proud, Psa 123:3,4.",
+     "refs": [
+      {
+       "text": "Psa 123:1",
+       "ref": "PSA.123.1"
+      },
+      {
+       "text": "Psa 123:3",
+       "ref": "PSA.123.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.123.1",
+   "range": "PSA.123.1",
+   "kind": "passage",
+   "hash": "429a1884",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.123.1#p1-429a1884",
+     "text": "because all other persons either cannot or will not help me.",
+     "anchor": "Unto thee only"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.123.2",
+   "range": "PSA.123.2",
+   "kind": "passage",
+   "hash": "293ce6a0",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.123.2#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Look unto the hand of their masters"
+    },
+    {
+     "id": "poole/PSA.123.2#p2-84047065",
+     "text": "1. For supply of their wants, which comes from their masters’ hand; or,"
+    },
+    {
+     "id": "poole/PSA.123.2#p3-f2955341",
+     "text": "2. For pity, the hand being the instrument whereby masters commonly correct their servants, and looking to the hand may express the posture of one supplicating for mercy; or rather,"
+    },
+    {
+     "id": "poole/PSA.123.2#p4-ead16e14",
+     "text": "3. For help and defence against their oppressors. For servants were unable to defend themselves, and were not allowed to wear defensive weapons, but expected and had protection kern their masters in case of injury. For this phrase of having one’s eyes towards another, both in this and other sacred books, constantly notes expectation and desire of help from them, as Psa 25:15 69:3 Isa 17:7 Eze 23:27, and oft elsewhere. And the phrase of God’s having mercy upon another, doth most commonly signify that act or effect of his mercy in helping and delivering him.",
+     "refs": [
+      {
+       "text": "Psa 25:15",
+       "ref": "PSA.25.15"
+      },
+      {
+       "text": "Isa 17:7",
+       "ref": "ISA.17.7"
+      },
+      {
+       "text": "Eze 23:27",
+       "ref": "EZK.23.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.123.2#p5-d792f167",
+     "text": "until he graciously help and save us.",
+     "anchor": "Until that he have mercy upon us"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.123.3",
+   "range": "PSA.123.3",
+   "kind": "passage",
+   "hash": "1b352b21",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.123.3#p1-1b352b21",
+     "text": "With opprobrious words and injuries."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.123.4",
+   "range": "PSA.123.4",
+   "kind": "passage",
+   "hash": "44fe8dd8",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.123.4#p1-44fe8dd8",
+     "text": "With the scornful and contemptuous carriage of thine and our enemies, who live in great ease and glory, whilst we, thy people, are overwhelmed with manifold calamities."
+    }
+   ]
+  }
+ ]
+}

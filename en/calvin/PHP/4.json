@@ -1,0 +1,862 @@
+{
+ "source": "calvin",
+ "book": "PHP",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "calvin/PHP.4.1",
+   "range": "PHP.4.1",
+   "kind": "passage",
+   "hash": "c6416b1e",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.1#p1-753a41da",
+     "text": "He concludes his doctrine, as he is wont, with most urgent exhortations, that he may fix it the more firmly in the minds of men. He also insinuates himself into their affections by endearing appellations {1}, which at the same time are not dictated by flattery, but by sincere affection. He calls them his joy and crown; because, delighted to see those who had been gained over through his instrumentality persevering in the faith {2}, he hoped to attain that triumph, of which we have spoken {3}, when the Lord will reward with a crown those things which have been accomplished under his guidance.",
+     "verse": 1,
+     "anchor": "Therefore, my brethren"
+    },
+    {
+     "id": "calvin/PHP.4.1#p2-b3118648",
+     "text": "“Et les appelant par noms amiables et gracieux, il tasche de gaigner leurs coeurs;” — “And calling them by lovely and kind names, he endeavors to gain their hearts.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.1#p3-75db6692",
+     "text": "“Estant ioyeux de les veoir perseuerer en la foy, a laquelle ils auoyent este amenez par son moyen;” — “Being delighted to see them persevere in the faith, to which they had been brought through his instrumentality.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.1#p4-0614452d",
+     "text": "Calvin seems to refer here to what he had said when commenting on Philippians 2:16. See p. 72.—Ed.",
+     "footnote": true,
+     "label": "3",
+     "refs": [
+      {
+       "text": "Philippians 2:16",
+       "ref": "PHP.2.16"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.1#p5-1582aadf",
+     "text": "When he bids them so stand fast in the Lord, he means that their condition is approved of by him. At the same time, the particle so might be taken as referring to the doctrine going before; but the former view is more suitable, so that, by praising their present condition, he exhorts them to perseverance. They had already, it is true, given some evidence of their constancy. Paul, however, well knowing human weakness, reckons that they have need of confirmation for the future."
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.2",
+   "range": "PHP.4.2",
+   "kind": "passage",
+   "hash": "b60381ce",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.2#p1-db8cb21a",
+     "text": "It is an almost universally received opinion that Paul was desirous to settle a quarrel, I know not of what sort, between those two women. While I am not inclined to contend as to this, the words of Paul do not afford ground enough for such a conjecture to satisfy us that it really was so. It appears, from the testimony which he gives in their favor, that they were very excellent women; for he assigns to them so much honor as to call them fellow-soldiers in the gospel {1}. Hence, as their agreement was a matter of great moment {2}, and, on the other hand, there would be great danger attendant on their disagreement, he stirs them up particularly to concord.",
+     "verse": 2,
+     "anchor": "I exhort Euodias and Syntyche"
+    },
+    {
+     "id": "calvin/PHP.4.2#p2-20aa427a",
+     "text": "“1l les appelle ses compagnes de guerre, d’autant qu’elles ont batail1e auec luy en l’euangile;” — “He calls them his companions in war, inasmuch as they had struggled hard with him in the gospel.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.2#p3-78e0d3c5",
+     "text": "“C’estoit une chose grandement requise et necessaire qu’elles fussent d’un consentement;” — “It was a thing greatly requisite and necessary that they should be in a state of agreement.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.2#p4-5f9cef6f",
+     "text": "We must take notice, however, that, whenever he speaks of agreement, he adds also the bond of it—in the Lord. For every combination will inevitably be accursed, if apart from the Lord, and, on the other hand, nothing is so disjoined, but that it ought to be reunited in Christ."
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.3",
+   "range": "PHP.4.3",
+   "kind": "passage",
+   "hash": "91adc27f",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.3#p1-33960a23",
+     "text": "I am not inclined to dispute as to the gender of the noun, and shall, accordingly, leave it undetermined {1}, whether he addresses here a man or a woman. At the same time there is excessive weakness in the argument of Erasmus, who infers that it is a woman from the circumstance, that mention is made here of other women — as though he did not immediately subjoin the name of Clement in the same connection. I refrain, however, from that dispute: only I maintain that it is not Paul’s wife that is designated by this appellation. Those who maintain this, quote Clement and Ignatius as their authorities. If they quoted correctly, I would not certainly despise men of such eminence. But as writings are brought forward from Eusebius {2} which are spurious, and were contrived by ignorant monks {3}, they are not deserving of much credit among readers of sound judgment {4}",
+     "verse": 3,
+     "anchor": "I entreat thee, also, true yokefellow"
+    },
+    {
+     "id": "calvin/PHP.4.3#p2-33251b57",
+     "text": "“Je le laisse a disputer aux autres;” —”I leave it to others to dispute as to this.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.3#p3-d6717ad4",
+     "text": "“Comme ainsi soit qu’on metre en auant ie ne scay quels faux escrits sous le nom d’Eusebe;” — “As they set forth I know not what spurious writings under the name of Eusebius.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.3#p4-6aa965ef",
+     "text": "“Et adioustez a son histoire;” — “And added to his history.”",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/PHP.4.3#p5-283cfddb",
+     "text": "“Ils ne meritent point enuers les lecteurs de bon iugement, qu’on y adiouste grande foy;” — “They do not deserve, as to readers of good judgment, that much credit should be attached to them.”",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/PHP.4.3#p6-3738e48a",
+     "text": "Let us, therefore, inquire as to the thing itself, without taking any false impression from the opinions of men. When Paul wrote the First Epistle to the Corinthians, he was, as he mentions, at that time unmarried."
+    },
+    {
+     "id": "calvin/PHP.4.3#p7-482b5b4e",
+     "text": "“To the unmarried,” says he, “and widows, I say it is good that they should continue even as I am” (1 Corinthians 7:8.)",
+     "refs": [
+      {
+       "text": "1 Corinthians 7:8",
+       "ref": "1CO.7.8"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p8-5a03a7a0",
+     "text": "He wrote that Epistle at Ephesus {5} when he was prepared to leave it. Not long after, he proceeded to Jerusalem, where he was put in prison, and sent to Rome. Every one must perceive how unsuitable a period of time it would have been for marrying a wife, spent by him partly in journeying, and partly in prison. In addition to this, he was even at that time prepared to endure imprisonment and persecutions, as he himself testifies, according to Luke. (Acts 21:13.) I am, at the same time, well aware what objection is usually brought forward in opposition to this — that Paul, though married, refrained from conjugal intercourse. The words, however, convey another meaning, for he is desirous that unmarried persons may have it in their power to remain in the same condition with himself. Now, what is that condition but celibacy? As to their bringing forward that passage —",
+     "refs": [
+      {
+       "text": "Acts 21:13",
+       "ref": "ACT.21.13"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p9-9759abc4",
+     "text": "See Calvin on the Corinthians, vol. 2, pp. 70, 72, 78.",
+     "footnote": true,
+     "label": "5"
+    },
+    {
+     "id": "calvin/PHP.4.3#p10-b2ac33e8",
+     "text": "Is it not lawful for me to lead about a wife (I Corinthians 9:5,)",
+     "refs": [
+      {
+       "text": "I Corinthians 9:5",
+       "ref": "1CO.9.5"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p11-7fe785dc",
+     "text": "for the purpose of proving he had a wife, it is too silly to require any refutation {6}. But granting that Paul was married, how came his wife to be at Philippi — a city which we do not read of his entering on more than two occasions, and in which it is probable he never remained so much as two whole months? In fine, nothing is more unlikely than that he speaks here of his wife; and to me it does not seem probable that he speaks of any female. I leave it, however, to the judgment of my readers. The word which Paul makes use of here (συλλάμβανεσθαι) means, to take hold of a thing and embrace it along with another person, with the view of giving help {7}"
+    },
+    {
+     "id": "calvin/PHP.4.3#p12-e59f4601",
+     "text": "See Calvin on the Corinthians, vol. 1, p. 234, 235, 292.",
+     "footnote": true,
+     "label": "6"
+    },
+    {
+     "id": "calvin/PHP.4.3#p13-89c22a67",
+     "text": "It is defined by Wahl, in his Clavis N. T. Philologica, as follows. Una manaum admoveo, i.e. opitulor, opem fero, iuvo; (I lend a helping hand; that is, I assist, I bring assistance, I aid.) — Ed.",
+     "footnote": true,
+     "label": "7"
+    },
+    {
+     "id": "calvin/PHP.4.3#p14-91f37d41",
+     "text": "The book of life is the roll of the righteous, who are predestinated to life, as in the writings of Moses. (Exodus 32:32.) God has this roll beside himself in safekeeping. Hence the book is nothing else than His eternal counsel, fixed in His own breast. In place of this term, Ezekiel employs this expression — the writing of the house of Israel. With the same view it is said in",
+     "anchor": "Whose names are in the book of life",
+     "refs": [
+      {
+       "text": "Exodus 32:32",
+       "ref": "EXO.32.32"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p15-6aaa14bf",
+     "text": "Let them be blotted out of the book of the living, and let them not be written among the righteous; (Psalm 69:28)",
+     "refs": [
+      {
+       "text": "Psalm 69:28",
+       "ref": "PSA.69.28"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p16-3957a9f7",
+     "text": "that is, let them not be numbered among the elect of God, whom he receives within the limits of his Church and kingdom {8}."
+    },
+    {
+     "id": "calvin/PHP.4.3#p17-ddf21264",
+     "text": "See Calvin on the Psalms, vol. 3, pp. 73, 74.",
+     "footnote": true,
+     "label": "8"
+    },
+    {
+     "id": "calvin/PHP.4.3#p18-1ee398f0",
+     "text": "Should any one allege, that Paul therefore acts rashly in usurping to himself the right of pronouncing as to the secrets of God, I answer, that we may in some measure form a judgment from the token by which God manifests his election, but only in so far as our capacity admits."
+    },
+    {
+     "id": "calvin/PHP.4.3#p19-54e6b786",
+     "text": "In all those, therefore, in whom we see the marks of adoption shine forth, let us in the mean time reckon those to be the sons of God until the books are opened, (Revelation 20:12,) which will thoroughly bring all things to view. It belongs, it is true, to God alone now to know them that are his, (2 Timothy 2:19,) and to separate at least the lambs from the kids; {9} but it is our part to reckon in charity all to be lambs who, in a spirit of obedience, submit themselves to Christ as their Shepherd {10}, who betake themselves to his fold, and remain there constantly. It is our part to set so high a value upon the gifts of the Holy Spirit, which he confers peculiarly on his elect, that they shall be to us the seals, as it were, of an election which is hid from us.",
+     "refs": [
+      {
+       "text": "Revelation 20:12",
+       "ref": "REV.20.12"
+      },
+      {
+       "text": "2 Timothy 2:19",
+       "ref": "2TI.2.19"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.3#p20-a62db19b",
+     "text": "“Les agneux des boucs;” — “The lambs from the goats.”",
+     "footnote": true,
+     "label": "9"
+    },
+    {
+     "id": "calvin/PHP.4.3#p21-cced4042",
+     "text": "“Christ vray Pastuer;” — “Christ the true Shepherd.”",
+     "footnote": true,
+     "label": "10"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.4",
+   "range": "PHP.4.4",
+   "kind": "passage",
+   "hash": "4b2fd1e6",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.4#p1-2ae0a827",
+     "text": "It is an exhortation suited to the times; for, as the condition of the pious was exceedingly troublous, and dangers threatened them on every side, it was possible that they might give way, overcome by grief or impatience. {1} Hence he enjoins it upon them, that, amidst circumstances of hostility and disturbance, they should nevertheless rejoice in the Lord, {2} as assuredly these spiritual consolations, by means of which the Lord refreshes and gladdens us, ought then most of all to show their efficacy when the whole world tempts us to despair. Let us, however, in connection with the circumstances of the times, consider what efficacy there must have been in this word uttered by the mouth of Paul, who might have had special occasion of sorrow. {3} For if they are appalled by persecutions, or imprisonments, or exile, or death, here is the Apostle setting himself forward, who, amidst imprisonments, in the very heat of persecution, and in fine, amidst apprehensions of death, is not merely himself joyful, but even stirs up others to joy. The sum, then, is this — that come what may, believers, having the Lord standing on their side {4}, have amply sufficient ground of joy.",
+     "verse": 4,
+     "anchor": "Rejoice in the Lord"
+    },
+    {
+     "id": "calvin/PHP.4.4#p2-be8d9470",
+     "text": "“Il se pouuoit faire que les Philippiens, estans vaincus de tristesse ou impatience, venissent a perdre courage;” — “It might be, that the Philippians, being overcome by grief or impatience, might come to lose heart.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.4#p3-69ce85f4",
+     "text": "“Non obstant les troubles et les fascheries qu’ils voyoyent deuant leurs yeux;” — “Notwithstanding the troubles and annoyances that they saw before their eyes.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.4#p4-64a68415",
+     "text": "“Qui plus que tous les autres pouuoit auoir matiere de se contrister;” — “Who might more than all others have had occasion to indulge sorrow.”“",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/PHP.4.4#p5-a3a6440b",
+     "text": "“Ont le Seigneur pour eux;” — “Have the Lord for them.”",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/PHP.4.4#p6-64cec9e2",
+     "text": "The repetition of the exhortation serves to give greater force to it: Let this be your strength and stability, to rejoice in the Lord, and that, too, not for a moment merely, but so that your joy in him may be perpetuated. {5} For unquestionably it differs from the joy of the world in this respect — that we know from experience that the joy of the world is deceptive, frail, and fading, and Christ even pronouces it to be accursed (Luke 6:25). Hence, that only is a settled joy in God which is such as is never taken away from us.",
+     "refs": [
+      {
+       "text": "Luke 6:25",
+       "ref": "LUK.6.25"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.4#p7-5b21896b",
+     "text": "“Que vostre ioye se continue en iceluy iusques a la fin;” — “That your joy may maintain itself in him until the end.”",
+     "footnote": true,
+     "label": "5"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.5",
+   "range": "PHP.4.5",
+   "kind": "passage",
+   "hash": "e7c31aa1",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.5#p1-a13e5217",
+     "text": "This may be explained in two ways. We may understand him as bidding them rather give up their right, than that any one should have occasion to complain of their sharpness or severity. “Let all that have to deal with you have experience of your equity and humanity.” In this way to know, will mean to experience. Or we may understand him as exhorting them to endure all things with equanimity. {1} This latter meaning I rather prefer; for is a term that is made use of by the Greeks themselves to denote moderation of spirit — when we are not easily moved by injuries, when we are not easily annoyed by adversity, but retain equanimity of temper.",
+     "verse": 5,
+     "anchor": "Your moderation"
+    },
+    {
+     "id": "calvin/PHP.4.5#p2-d6f20406",
+     "text": "In accordance with this, Cicero makes use of the following expression, — “My mind is tranquil, which takes everything in good part.” {2} Such equanimity — which is as it were the mother of patience — he requires here on the part of the Philippians, and, indeed, such as will manifest itself to all, according as occasion will require, by producing its proper effects. The term modesty does not seem appropriate here, because Paul is not in this passage cautioning them against haughty insolence, but directs them to conduct themselves peaceably in everything, and exercise control over themselves, even in the endurance of injuries or inconveniences."
+    },
+    {
+     "id": "calvin/PHP.4.5#p3-f59877c3",
+     "text": "“En douceur et patience;” — “With sweetness and patience.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.5#p4-7d178456",
+     "text": "“TranquilIus animus meus, qui aequi boni facit omnia.” Calvin here gives the sense, but not the precise words, of Cicero, which are as follows: “Tranquillissimus autem animus meus, qui totm istuc aequi boni facit;” — “My mind, however, is most tranquil, which takes all that in good part.” See Cic. Art.7,7. — Ed.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.5#p5-15312b44",
+     "text": "Here we have an anticipation, by which he obviates an objection that might be brought forward. For carnal sense rises in opposition to the foregoing statement. For as the rage of the wicked is the more inflamed in proportion to our mildness, {3} and the more they see us prepared for enduring, are the more emboldened to inflict injuries, we are with difficulty induced to possess our souls in patience.",
+     "anchor": "The Lord is at hand"
+    },
+    {
+     "id": "calvin/PHP.4.5#p6-27db890f",
+     "text": "(Luke 21:19.) Hence those proverbs, — “We must howl when among wolves.” “Those who act like sheep will quickly be devoured by wolves.” Hence we conclude, that the ferocity of the wicked must be repressed by corresponding violence, that they may not insult us with impunity. {4} To such considerations Paul here opposes confidence in Divine providence. He replies, I say, that the Lord is at hand, whose power can overcome their audacity, and whose goodness can conquer their malice. He promises that he will aid us, provided we obey his commandment. Now, who would not rather be protected by the hand of God alone, than have all the resources of the world at his command?",
+     "refs": [
+      {
+       "text": "Luke 21:19",
+       "ref": "LUK.21.19"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.5#p7-e1be9a2d",
+     "text": "“D’autant plus que nous-nous monstrons gracieux et debonnaires;” — “The more that we show ourselves agreeable and gentle.”",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/PHP.4.5#p8-4bb9c80c",
+     "text": "“Afin qu’ils ne s’esleuent point a l’encontre de nous a leur plaisir et sans resistance;” — “That they may not rise up against us at their pleasure, and without resistance.”",
+     "footnote": true,
+     "label": "4"
+    },
+    {
+     "id": "calvin/PHP.4.5#p9-a4fe610b",
+     "text": "Here we have a most beautiful sentiment, from which we learn, in the first place, that ignorance of the providence of God is the cause of all impatience, and that this is the reason why we are so quickly, and on trivial accounts, thrown into confusion, {5} and often, too, become disheartened because we do not recognize the fact that the Lord cares for us. On the other hand, we learn that this is the only remedy for tranquillizing our minds — when we repose unreservedly in his providential care, as knowing that we are not exposed either to the rashness of fortune, or to the caprice of the wicked, {6} but are under the regulation of God’s fatherly care. In fine, the man that is in possession of this truth, that God is present with him, has what he may rest upon with security."
+    },
+    {
+     "id": "calvin/PHP.4.5#p10-abb519ac",
+     "text": "“Que nous sommes tout incontinent et pour vn rien troublez et esmeus;” — “That we are all at once and for nothing troubled and moved.”",
+     "footnote": true,
+     "label": "5"
+    },
+    {
+     "id": "calvin/PHP.4.5#p11-c27b7ecd",
+     "text": "“Ni au plaisir desborde des meschans;” — “Nor to the unbridled inclination of the wicked.”",
+     "footnote": true,
+     "label": "6"
+    },
+    {
+     "id": "calvin/PHP.4.5#p12-a12b5b6e",
+     "text": "There are, however, two ways in which the Lord is said to be at hand — either because his judgment is at hand, or because he is prepared to give help to his own people, in which sense it is made use of here; and also in Psalm 145:18, The Lord is near to all that call upon him. The meaning therefore is, — “Miserable were the condition of the pious, if the Lord were at a distance from them.” But as he has received them under his protection and guardianship, and defends them by his hand, which is everywhere present, let them rest upon this consideration, that they may not be intimidated by the rage of the wicked. It is well known, and matter of common occurrence, that the term solicitudo (carefulness) is employed to denote that anxiety which proceeds from distrust of Divine power or help.",
+     "refs": [
+      {
+       "text": "Psalm 145:18",
+       "ref": "PSA.145.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.6",
+   "range": "PHP.4.6",
+   "kind": "passage",
+   "hash": "a245ae40",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.6#p1-c0a98426",
+     "text": "It is the singular number that is made use of by Paul, but is the neuter gender; the expression, therefore, is equivalent to omni negotio, (in every matter,) for (prayer) and (supplication) are feminine nouns. In these words he exhorts the Philippians, as David does all the pious in Psalm 55:22, and Peter also in 1 Peter 5:7, to cast all their care upon the Lord. For we are not made of iron, {1} so as not to be shaken by temptations. But this is our consolation, this is our solace — to deposit, or (to speak with greater propriety) to disburden in the bosom of God everything that harasses us. Confidence, it is true, brings tranquillity to our minds, but it is only in the event of our exercising ourselves in prayers. Whenever, therefore, we are assailed by any temptation, let us betake ourselves forthwith to prayer, as to a sacred asylum. {2}",
+     "verse": 6,
+     "anchor": "But in all things",
+     "refs": [
+      {
+       "text": "Psalm 55:22",
+       "ref": "PSA.55.22"
+      },
+      {
+       "text": "1 Peter 5:7",
+       "ref": "1PE.5.7"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.6#p2-55637a3e",
+     "text": "“Car nous ne sommes de fer ni d’acier (comme on dit) ne si insensibles;” — “For we are not of iron nor steel, as they say, nor so insensible.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.6#p3-3af6a70e",
+     "text": "“Comme a vne franchise;” — “As to a privilege.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.6#p4-5233f771",
+     "text": "The term requests he employs here to denote desires or wishes. He would have us make these known to God by prayer and supplication, as though believers poured forth their hearts before God, when they commit themselves, and all that they have, to Him. Those, indeed, who look hither and thither to the vain comforts of the world, may appear to be in some degree relieved; but there is one sure refuge — leaning upon the Lord."
+    },
+    {
+     "id": "calvin/PHP.4.6#p5-98dc4cd4",
+     "text": "As many often pray to God amiss, {3} full of complaints or of murmurings, as though they had just ground for accusing him, while others cannot brook delay, if he does not immediately gratify their desires, Paul on this account conjoins thanksgiving with prayers. It is as though he had said, that those things which are necessary for us ought to be desired by us from the Lord in such a way, that we, nevertheless, subject our affections to his good pleasure, and give thanks while presenting petitions. And, unquestionably, gratitude {4} will have this effect upon us — that the will of God will be the grand sum of our desires.",
+     "anchor": "With thanksgiving"
+    },
+    {
+     "id": "calvin/PHP.4.6#p6-e3c103dc",
+     "text": "“Autrement qu’ils ne doyuent;” — “Otherwise than they ought.”",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/PHP.4.6#p7-91cc544b",
+     "text": "“La recognoissance des benefices de Dieu;” — “Gratitude for God’s benefits.”",
+     "footnote": true,
+     "label": "4"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.7",
+   "range": "PHP.4.7",
+   "kind": "passage",
+   "hash": "0f32e1b9",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.7#p1-2a2627a1",
+     "text": "Some, by turning the future tense into the optative mood, convert this statement into a prayer, but it is without proper foundation. For it is a promise in which he points out the advantage of a firm confidence in God, and invocation of him. “If you do that,” says he, “the peace of God will keep your minds and hearts.” Scripture is accustomed to divide the soul of man, as to its frailties, into two parts — the mind and the heart. The mind means the understanding, while the heart denotes all the disposition or inclinations. These two terms, therefore, include the entire soul, in this sense, — “The peace of God will guard you, so as to prevent you from turning back from God in wicked thoughts or desires.”",
+     "verse": 7,
+     "anchor": "And the peace of God"
+    },
+    {
+     "id": "calvin/PHP.4.7#p2-4606c911",
+     "text": "It is on good ground that he calls it the peace of God, inasmuch as it does not depend on the present aspect of things, {1} and does not bend itself to the various shiftings of the world, {2} but is founded on the firm and immutable word of God. It is on good grounds, also, that he speaks of it as surpassing all understanding or perception, for nothing is more foreign to the human mind, than in the depth of despair to exercise, nevertheless, a feeling of hope, in the depth of poverty to see opulence, and in the depth of weakness to keep from giving way, and, in fine, to promise ourselves that nothing will be wanting to us when we are left destitute of all things; and all this in the grace of God alone, which is not itself known otherwise than through the word, and the inward earnest of the Spirit."
+    },
+    {
+     "id": "calvin/PHP.4.7#p3-2a35acda",
+     "text": "“De ces chc.ses basses;” — “Of these low things.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.7#p4-dbd5a9ff",
+     "text": "“N’est point en branle pour chanceler selon les changemens diuers du monde;” — “Is not in suspense so as to turn about according to the various shiftings of the world.”",
+     "footnote": true,
+     "label": "2"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.8",
+   "range": "PHP.4.8",
+   "kind": "passage",
+   "hash": "ac62fa61",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.8#p1-54a5c798",
+     "text": "What follows consists of general exhortations which relate to the whole of life. In the first place, he commends truth, which is nothing else than the integrity of a good conscience, with the fruits of it: secondly, gravity, or sanctity, for τὸ σεμνόν {1} denotes both — an excellence which consists in this, that we walk in a manner worthy of our vocation, (Ephesians 4:1,) keeping at a distance from all profane filthiness: thirdly, justice, which has to do with the mutual intercourse of mankind — that we do not injure any one, that we do not defraud any one; and, fourthly, purity, which denotes chastity in every department of life. Paul, however, does not reckon all these things to be sufficient, if we do not at the same time endeavor to make ourselves agreeable to all, in so far as we may lawfully do so in the Lord, and have regard also to our good name. For it is in this way that I understand the words —",
+     "verse": 8,
+     "anchor": "Finally",
+     "refs": [
+      {
+       "text": "Ephesians 4:1",
+       "ref": "EPH.4.1"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.8#p2-8548b702",
+     "text": "The word σεμνὸν means that which has dignity connected with it. Hence σεμνὸς and μεγαλοπρεπη; are joined together by Aristotle, as quoted by Wetstein, and in 2 Macc. 8:15.” — Storr. See Biblical Cabinet, vol. 40, p. 178, note; — Ed.",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.8#p3-d2ca124f",
+     "text": "If any praise, {2} that is, anything praiseworthy, for amidst such a corruption of manners there is so great a perversity in men’s judgments that praise is often bestowed {3} upon what is blameworthy, and it is not allowable for Christians to be desirous even of true praise among men, inasmuch as they are elsewhere forbidden to glory, except in God alone. (1 Corinthians 1:31.) Paul, therefore, does not bid them try to gain applause or commendation by virtuous actions, nor even to regulate their life according to the judgments of the people, but simply means, that they should devote themselves to the performance of good works, which merit commendation, that the wicked, and those who are enemies of the gospel, while they deride Christians and cast reproach upon them, may, nevertheless, be constrained to commend their deportment.",
+     "refs": [
+      {
+       "text": "1 Corinthians 1:31",
+       "ref": "1CO.1.31"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.8#p4-0e098656",
+     "text": "“The Clermont copy reads here, εἴ τις ἔπαινος, If there be any praise of knowledge. Instead of ἐπιστήμης, the Valesian readings have παιδείες, with which the Vulg. Latin, agrees, reading, If there be any praise of discipline, (disciplinae,) as does also the Ethiopic, and two ancient Commentators mentioned by Dr. Mills.” — Pierce. — Ed.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.8#p5-bb0260b9",
+     "text": "“Bien souuent on loue;” — “Very frequently they praise.”",
+     "footnote": true,
+     "label": "3"
+    },
+    {
+     "id": "calvin/PHP.4.8#p6-d7ac1816",
+     "text": "The word, προσφιλὢ καὶ εὔφημα however, among the Greeks, is employed, like cogitare among the Latins, to mean, meditate. {4} Now meditation comes first, afterwards follows action."
+    },
+    {
+     "id": "calvin/PHP.4.8#p7-fde8e80a",
+     "text": "Like the Latin terms cogitare, meditari, the Greek μελετᾷν signifies to contemplate a thing, with the view of, finding means for effecting it.... According to this view, ταῦτα λογίζεσθε, in the passage before us, will be equivalent to ταῦτα ποιεῖν λογίζεσθε, ‘think to do these things,’ — ‘give diligence to do them.’” — Storr. See Biblical Cabinet, vol. 40, p. 180 Note. — Ed.",
+     "footnote": true,
+     "label": "4"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.9",
+   "range": "PHP.4.9",
+   "kind": "passage",
+   "hash": "1e0ddc09",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.9#p1-f419f585",
+     "text": "By this accumulation of terms he intimates, that he was assiduous in inculcating these things. “This was my doctrine — my instruction — my discourse among you.” Hypocrites, on the other hand, insisted upon nothing but ceremonies. Now, it was a dishonorable thing to abandon the holy instruction, {1} which they had wholly imbibed, and with which they had been thorouglly imbued.",
+     "verse": 9,
+     "anchor": "What things ye have learned, and received, and heard"
+    },
+    {
+     "id": "calvin/PHP.4.9#p2-fb1f5c73",
+     "text": "“C’eust este vne chose dishonneste aux Philippiens de delaisser la sainte doctrine et instruction;” — “It would have been a dishonorable thing for the Philipplans to abandon the holy doctrine and instruction.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.9#p3-cb2211f3",
+     "text": "Now, the main thing in a public speaker {2} should be, that he may speak, not with his mouth merely, but by his life, and procure authority for his doctrine by rectitude of life. Paul, accordingly, procures authority for his exhortation on this ground, that he had, by his life no less than by his mouth, been a leader and master of virtues.",
+     "anchor": "You have seen in me"
+    },
+    {
+     "id": "calvin/PHP.4.9#p4-2bd63f57",
+     "text": "“En vn prescheur;” — “In a preacher.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.9#p5-c42dcfce",
+     "text": "He had spoken of the peace of God; he now more particularly confirms what he had said, by promising that God himself, the Author of peace, will be with them. For the presence of God brings us every kind of blessing: as though he had said, that they would feel that God was present with them to make all things turn out well and prosperously, provided they apply themselves to pious and holy actions.",
+     "anchor": "And the God of peace"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.10",
+   "range": "PHP.4.10",
+   "kind": "passage",
+   "hash": "2710767e",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.10#p1-7772f0c2",
+     "text": "He now declares the gratitude of his mind towards the Philippians, that they may not regret their beneficence, {1} as is usually the case when we think that our services are despised, or are reckoned of no account. They had sent him by Epaphroditus supplies for the relief of his necessity; he declares that their present had been acceptable to him, and he says, that he rejoiced that they had plucked up new vigor so as to exercise care respecting him. The metaphor is borrowed from trees, the strength of which is drawn inward, and lies concealed during winter, and begins to flourish {2} in spring.",
+     "verse": 10,
+     "anchor": "But I rejoiced"
+    },
+    {
+     "id": "calvin/PHP.4.10#p2-6d5b3c33",
+     "text": "But immediately afterwards subjoining a correction, he qualifies what he had said, that he may not seem to reprove their negligence in the past. He says, therefore, that they had formerly, too, been concerned respecting him, but that the circumstances of the times had not admitted of his being sooner relieved by their benignity. Thus he throws the blame upon the want of opportunity. I take the phrase ἐφ᾿ ᾧ᾿ as referring to the person of Paul, and that is its proper signification, as well as more in accordance with the connection of Paul’s words."
+    },
+    {
+     "id": "calvin/PHP.4.10#p3-040e26e7",
+     "text": "“Afin qu’ils ne se repentent point de luy auoir assiste;” — “That they may not regret their having assisted him.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.10#p4-f5bc6adb",
+     "text": "“A reprendre vigueur et fleurir;” — “To recover strength and flourish.”",
+     "footnote": true,
+     "label": "2"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.11",
+   "range": "PHP.4.11",
+   "kind": "passage",
+   "hash": "ccb47661",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.11#p1-79536713",
+     "text": "Here we have a second correction, by which he guards against its being suspected that his spirit was pusillanimous and broken down by adversities. For it was of importance that his constancy and moderation should be known by the Philippians, to whom he was a pattern of life. Accordingly he declares, that he had been gratified by their liberality in such a way that he could at the same time endure want with patience. Want refers here to disposition, for that man can never be poor in mind, who is satisfied with the lot which has been assigned to him by God.",
+     "verse": 11,
+     "anchor": "Not that I speak with respect to want"
+    },
+    {
+     "id": "calvin/PHP.4.11#p2-83d2ae19",
+     "text": "says he, that is, “Whatever my condition may be, I am satisfied with it.” Why? because saints know that they thus please God. Hence they do not measure sufficiency by abundance, but by the will of God, which they judge of by what takes place, for they are persuaded that their affairs are regulated by his providence and good pleasure.",
+     "anchor": "In what state I am"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.12",
+   "range": "PHP.4.12",
+   "kind": "passage",
+   "hash": "7ab2bc1c",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.12#p1-9979b13d",
+     "text": "There follows here a distinction, with the view of intimating that he has a mind adapted to bear any kind of condition. {1} Prosperity is wont to puff up the mind beyond measure, and adversity, on the other hand, to depress. From both faults he declares himself to be free. I know, says he, to be abased — that is, to endure abasement with patience. Περισσεύειν is made use of twice, but in the former instance it is employed as meaning, to excel; in the second instance as meaning, to abound, so as to correspond with the things to which they are exposed.",
+     "verse": 12,
+     "anchor": "I know both how to be abased"
+    },
+    {
+     "id": "calvin/PHP.4.12#p2-71406468",
+     "text": "If a man knows to make use of present abundance in a sober and temperate manner, with thanksgiving, prepared to part with everything whenever it may be the good pleasure of the Lord, giving also a share to his brother, according to the measure of his ability, and is also not puffed up, that man has learned to excel, and to abound. This is a peculiarly excellent and rare virtue, and much superior to the endurance of poverty."
+    },
+    {
+     "id": "calvin/PHP.4.12#p3-0cba7959",
+     "text": "Let all who wish to be Christ’s disciples exercise themselves in acquiring this knowledge which was possessed by Paul, but in the mean time let them accustom themselves to the endurance of poverty in such a manner that it will not be grievous and burdensome to them when they come to be deprived of their riches."
+    },
+    {
+     "id": "calvin/PHP.4.12#p4-280d0a09",
+     "text": "“Il fait yci vne diuision, disant qu’il est tellement dispose en son coeur qu’il scait se cornporter et en prosperite et en adversite;” — “He makes a distinction here, saying that he is prepared in his mind in such a manner, that he knows how to conduct himself both in prosperity and in adversity.”",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.13",
+   "range": "PHP.4.13",
+   "kind": "passage",
+   "hash": "ed8ada7d",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.13#p1-0755a501",
+     "text": "As he had boasted of things that were very great, {1} in order that this might not be attributed to pride or furnish others with occasion of foolish boasting, he adds, that it is by Christ that he is endowed with this fortitude. “I can do all things,” says he, “but it is in Christ, not by my own power, for it is Christ that supplies me with strength.” Hence we infer, that Christ will not be less strong and invincible in us also, if, conscious of our own weakness, we place reliance upon his power alone. When he says all things, he means merely those things which belong to his calling.",
+     "verse": 13,
+     "anchor": "I can do all things through Christ"
+    },
+    {
+     "id": "calvin/PHP.4.13#p2-d5ccc50d",
+     "text": "“De choses grandes et excellentes;” — “Of things great and excellent.”",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.14",
+   "range": "PHP.4.14",
+   "kind": "passage",
+   "hash": "9d6a0122",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.14#p1-e0c77a00",
+     "text": "How prudently and cautiously he acts, looking round carefully in both directions, that he may not lean too much to the one side or to the other. By proclaiming in magnificent terms his steadfastness, he meant to provide against the Philippians supposing that he had given way under the pressure of want. {1} He now takes care that it may not, from his speaking in high terms, appear as though he despised their kindness — a thing that would not merely shew cruelty and obstinacy, but also haughtiness. He at the same time provides for this, that if any other of the servants of Christ should stand in need of their assistance they may not be slow to give him help.",
+     "verse": 14,
+     "anchor": "Nevertheless ye did well"
+    },
+    {
+     "id": "calvin/PHP.4.14#p2-1d866048",
+     "text": "“Qu’il fust abbattu, et eust perdu courage estant en indigence;” — “That he had been overcome, and had lost heart, being in poverty.”",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.15-16",
+   "range": "PHP.4.15-16",
+   "kind": "passage",
+   "hash": "34218d45",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.15-16#p1-bc74fac2",
+     "text": "I understand this to have been added by way of excuse, inasmuch as he often received something from them, for if the other Churches had discharged their duty, it might have seemed as though he were too eager to receive. Hence in clearing himself he praises them, and in praising them he modestly excuses others. We must also, after Paul’s example, take heed lest the pious, on seeing us too much inclined to receive from others, should on good grounds reckon us to be insatiable. You also know, says he. “I do not require to call in other witnesses, for ye yourselves also know.” For it frequently happens, that when one thinks that others are deficient in duty, he is the more liberal in giving assistance. Thus the liberality of some escapes the notice of others.",
+     "verse": 15,
+     "anchor": "And ye know"
+    },
+    {
+     "id": "calvin/PHP.4.15-16#p2-a233225f",
+     "text": "He alludes to pecuniary matters, in which there are two parts, the one receiving, the other expending. It is necessary that these should be brought to an equality by mutual compensation. There was an account of this nature carried on between Paul and the Churches. {1} While Paul administered the gospel to them, there was an obligation devolving upon them in return for supplying what was necessary for the support of his life, as he says elsewhere,",
+     "anchor": "In the matter of giving and receiving"
+    },
+    {
+     "id": "calvin/PHP.4.15-16#p3-c7e0c152",
+     "text": "“Il y auoit quelque telle condition et conuenance entre Sainct Paul et les Eglises;” — “There was some such condition and correspondence between St. Paul and the Churches.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.15-16#p4-df6bb7bf",
+     "text": "If we dispense to you spiritual thinqs, is it a great matter if you give in return carnal things? (1 Corinthians 9:11.)",
+     "refs": [
+      {
+       "text": "1 Corinthians 9:11",
+       "ref": "1CO.9.11"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.15-16#p5-11fd8d67",
+     "text": "Hence, if the other churches had relieved Paul’s necessities, they would have been giving nothing gratuitously, but would have been simply paying their debt, for they ought to have acknowledged themselves indebted to him for the gospel. This, however, he acknowledges, had not been the case, inasmuch as they had not laid out anything on his account. What base ingratitude, and how very unseemly, to treat such an Apostle with neglect, to whom they knew themselves to be under obligation beyond their power to discharge! On the other hand, how great the forbearance of this holy man, to bear with their inhumanity with so much gentleness and indulgence, as not to make use of one sharp word by way of accusing them!"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.17",
+   "range": "PHP.4.17",
+   "kind": "passage",
+   "hash": "fa6320a1",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.17#p1-68aa1307",
+     "text": "Again he repels an unfavourable opinion that might be formed of immoderate cupidity, that they might not suppose that it was an indirect hint, {1} as if they ought singly to stand in the room of all, {2} and as if he abused their kindness. He accordingly declares, that he consulted not so much his own advantage as theirs. “While I receive from you,” says he, “there is proportionably much advantage that redounds to yourselves; for there are just so many articles that you may reckon to have been transferred to the table of accounts.” The meaning of this word {3} is connected with the similitude formerly employed of exchange or compensation in pecuniary matters.",
+     "verse": 17,
+     "anchor": "Not that I demand a gift"
+    },
+    {
+     "id": "calvin/PHP.4.17#p2-efca7deb",
+     "text": "“Pour les induire a continuer;” — “To induce them to hold on.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.17#p3-f3695bf5",
+     "text": "“Comme si eux deussent tenir la place de tous, et faire pour les autres;” — “As if they ought to hold the place of all, and to act in the room of others.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.17#p4-181cf846",
+     "text": "Calvin evidently refers to the word λόγον, (account,) which the Apostle had made use of in the fifteenth verse, in the phrase εἰς λόγον δόσεω; καὶ λήψεω;, (in the matter of giving and receiving.) It is noticed by Beza, that the Rabbins make use of a corresponding phrase אשמו ןחמ (mattan umassa) — giving and taking. — Ed.",
+     "footnote": true,
+     "label": "3",
+     "refs": [
+      {
+       "text": "the fifteenth verse",
+       "ref": "PHP.4.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.18",
+   "range": "PHP.4.18",
+   "kind": "passage",
+   "hash": "ea148678",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.18#p1-22b17809",
+     "text": "He declares in more explicit terms, that he has what is sufficient, and honors their liberality with a remarkable testimony, by saying, that he has been filled. It was undoubtedly a moderate sum that they had sent, but he says, that by means of that moderate sum he is filled to satiety. It is, however, a more distinguished commendation that he bestows upon the gift in what follows, when he calls it a sacrifice acceptable, and presented as the odour of a good fragrance For what better thing can be desired than that our acts of kindness should be sacred offerings, which God receives from our hands, and takes pleasure in their sweet odour? For the same reason Christ says, Whatsoever ye shall have done unto one of the least of these, ye have done it unto me.",
+     "verse": 18,
+     "anchor": "I have received all things, and abound"
+    },
+    {
+     "id": "calvin/PHP.4.18#p2-84dc031a",
+     "text": "The similitude of sacrifices, however, adds much emphasis, by which we are taught, that the exercise of love which God enjoins upon us, is not merely a benefit conferred upon man, but is also a spiritual and sacred service which is performed to God, as we read in the Epistle to the Hebrews, that he is well pleased with such sacrifices."
+    },
+    {
+     "id": "calvin/PHP.4.18#p3-b0c4a54a",
+     "text": "(Hebrews 13:16.) Alas for our indolence! {1} — which appears in this, that while God invites us with so much kindness to the honor of priesthood, and even puts sacrifices in our hands, we nevertheless do not sacrifice to him, and those things which were set apart for sacred oblations we not only lay out for profane uses, but squander them wickedly upon the most polluted contaminations. {2} For the altars, on which sacrifices from our resources ought to be presented, are the poor, and the servants of Christ. To the neglect of these some squander their resources on every kind of luxury, others upon the palate, others upon immodest attire, others upon magnificent dwellings. {3}",
+     "refs": [
+      {
+       "text": "Hebrews 13:16",
+       "ref": "HEB.13.16"
+      }
+     ]
+    },
+    {
+     "id": "calvin/PHP.4.18#p4-f4bdd77d",
+     "text": "“Or maudite soit nostre paresse;” — “But accursed be our indolence.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.18#p5-927248b3",
+     "text": "“Les consumons prodigalement et meschamment en choses infames et abominables;” — “We lay them out lavishly and wickedly on things infamous and abominable.”",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.18#p6-0cae8f14",
+     "text": "“Les vns dependent tout leur bien en toutes de dissolutions, les autres en gouermandise et yurognerie, les autres en brauetes excessiues, les autres a bastir des palais somptueux;” — “Some lay out all their wealth on all kinds of luxuries, others on eating and drinking, others superfluous elegance of dress, others in building sumptuous palaces.”",
+     "footnote": true,
+     "label": "3"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.19",
+   "range": "PHP.4.19",
+   "kind": "passage",
+   "hash": "a69f00a7",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.19#p1-83153c84",
+     "text": "Some read impleat — in the optative — May he supply. {1} While I do not reject this reading, I approve more of the other. He expressly makes mention of God as his, because he owns and acknowledges as done to himself whatever kindness is shewn to his servants. They had therefore been truly sowing in the Lord’s field, from which a sure and abundant harvest might be expected. Nor does he promise them merely a reward in the future life, but even in respect of the necessities of the present life: “Do not think that you have impoverished yourselves; God, whom I serve, will abundantly furnish you with everything necessary for you.” The phrase, in glory, ought to be taken in place of the adverb gloriously, as meaning magnificently, or splendidly. He adds, however, by Christ, in whose name everything that we do is acceptable to God.",
+     "verse": 19,
+     "anchor": "My God will supply"
+    },
+    {
+     "id": "calvin/PHP.4.19#p2-eec0f071",
+     "text": "“Comme si c’estoit vn souhait que sainct Paul feist;” — “As if it were a wish that St. Paul expressed.”",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.20-21",
+   "range": "PHP.4.20-21",
+   "kind": "passage",
+   "hash": "ea94f782",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.20-21#p1-e8734c67",
+     "text": "This may be taken as a general thanksgiving, by which he closes the epistle; or it may be viewed as bearing more particularly upon the last clause in reference to the liberality shewn to Paul. {1} For in respect of the assistance which the Philippians had afforded him, it became him to reckon himself indebted to them for it in such a manner as to acknowledge, that this aid had been afforded to them by the mercy of God.",
+     "verse": 20,
+     "anchor": "Now to our God and Father"
+    },
+    {
+     "id": "calvin/PHP.4.20-21#p2-8ce7367d",
+     "text": "“La liberalite de laquelle les Philippiens auoyent vse enuers sainct Paul;” — “The liberality which the Philippians had exercised towards St. Paul.”",
+     "footnote": true,
+     "label": "1"
+    }
+   ]
+  },
+  {
+   "id": "calvin/PHP.4.22",
+   "range": "PHP.4.22",
+   "kind": "passage",
+   "hash": "d3f03810",
+   "paragraphs": [
+    {
+     "id": "calvin/PHP.4.22#p1-5a65425f",
+     "text": "In these salutations he names first of all his intimate associates, {1} afterwards all the saints in general, that is, the whole Church at Rome, but chiefly those of the household of Nero — a thing well deserving to be noticed; for it is no common evidence of divine mercy, that the gospel had made its way into that sink of all crimes and iniquities. It is also the more to be admired, in proportion as it is a rare thing for holiness to reign in the courts of sovereigns. The conjecture formed by some, that Seneca is here referred to among others, has no appearance of foundation; for he never gave any evidence, even the smallest, of his being a Christian; nor did he belong to the household of Caesar, but was a senator, and had at one time held the office of praetor. {2}",
+     "verse": 22,
+     "anchor": "The brethren that are with me salute you"
+    },
+    {
+     "id": "calvin/PHP.4.22#p2-7f48c7c7",
+     "text": "“Les compagnons, qui demeuroyent auec luy;” — “His associates who lived with him.”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PHP.4.22#p3-e8797d99",
+     "text": "“Some imagine,” says Dr. A. Clarke, “that Seneca, the preceptor of Nero, and the poet Lucan, were converted by St. Paul; and there are still extant, and in a MS. now before me, letters which profess to have passed between Paul and Seneca; but they are worthy of neither. They have been printed in some editions of Seneca’s works.” — Ed.",
+     "footnote": true,
+     "label": "2"
+    },
+    {
+     "id": "calvin/PHP.4.22#p4-05360a9b",
+     "text": "END OF THE COMMENTARY ON THE EPISTLE TO THE PHILIPPIANS."
+    }
+   ]
+  }
+ ]
+}

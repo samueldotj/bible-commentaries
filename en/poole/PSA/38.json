@@ -1,0 +1,482 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 38,
+ "units": [
+  {
+   "id": "poole/PSA.38",
+   "range": "PSA.38",
+   "kind": "chapter",
+   "hash": "bd533c22",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.38#p2-f6b2128d",
+     "text": "This is reckoned one of David’s penitential Psalms. It was composed upon occasion of some sore disease, or grievous calamity; which he rightly judged to be inflicted upon him for his sins."
+    },
+    {
+     "id": "poole/PSA.38#p3-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/PSA.38#p4-c44cc78a",
+     "text": "1. To God, that by this humble and mournful prayer he might prevail with God to remember and pity him; for now he seemed quite to have forgotten him. Or,"
+    },
+    {
+     "id": "poole/PSA.38#p5-174e1355",
+     "text": "2. To himself, that by reviewing this Psalm afterwards he might call to mind his former danger and misery, and God’s wonderful mercy in delivering him from them; which we are very apt to forget; and that others also might remember and consider what God had done to him, first in chastening, and then in restoring him, and might make use of his example for their benefit."
+    },
+    {
+     "id": "poole/PSA.38#p6-febcdce3",
+     "text": "David, being visited with sickness, rehearseth his woeful condition, Psa 38:1-3, by reason of his sins, Psa 38:4-8; prayeth for forgiveness, help, and favour, Psa 38:9,10. He lays before God the unfaithfuless of his friends, Psa 38:11-18, and the cruelty of his enemies, Psa 38:19-22.",
+     "refs": [
+      {
+       "text": "Psa 38:1-3",
+       "ref": "PSA.38.1-3"
+      },
+      {
+       "text": "Psa 38:4-8",
+       "ref": "PSA.38.4-8"
+      },
+      {
+       "text": "Psa 38:9",
+       "ref": "PSA.38.9"
+      },
+      {
+       "text": "Psa 38:11-18",
+       "ref": "PSA.38.11-18"
+      },
+      {
+       "text": "Psa 38:19-22",
+       "ref": "PSA.38.19-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.1",
+   "range": "PSA.38.1",
+   "kind": "passage",
+   "hash": "cff0a2f6",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.1#p1-cff0a2f6",
+     "text": "I confess I both deserve chastisement and need it, and therefore I desire not that thou wouldst remove it, but only moderate it. See the same expression Psa 6:1.",
+     "refs": [
+      {
+       "text": "Psa 6:1",
+       "ref": "PSA.6.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.2",
+   "range": "PSA.38.2",
+   "kind": "passage",
+   "hash": "07239e58",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.2#p1-89fd5154",
+     "text": "i.e. thy judgments inflicted upon my outward and inward man, oft compared to arrows, as Deu 32:23 Psa 7:13 45:5 91:5.",
+     "anchor": "Thine arrows",
+     "refs": [
+      {
+       "text": "Deu 32:23",
+       "ref": "DEU.32.23"
+      },
+      {
+       "text": "Psa 7:13",
+       "ref": "PSA.7.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.38.2#p2-17b772ba",
+     "text": "or, comes down upon me; as when a strong man lifts up his hand and weapon, that it may fall down with greater violence, and make the deeper wound.",
+     "anchor": "Presseth me sore"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.3",
+   "range": "PSA.38.3",
+   "kind": "passage",
+   "hash": "4cba65c1",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.3#p1-9c8e5e36",
+     "text": "My disease or grief hath seized upon all the parts of my body, my very bones not excepted, so that my bed can give me no rest;"
+    },
+    {
+     "id": "poole/PSA.38.3#p2-7f665b94",
+     "text": "which hath provoked thee to deal, thus severely with me.",
+     "anchor": "because of my sin"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.4",
+   "range": "PSA.38.4",
+   "kind": "passage",
+   "hash": "f13a574e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.4#p1-f17d4371",
+     "text": "or, the punishment of mine iniquities, as this word is frequently used; which best agrees both with the foregoing and following verses, and with the metaphor here used; which in other places of Scripture is generally applied to afflictions, and not to sins.",
+     "anchor": "Mine iniquities"
+    },
+    {
+     "id": "poole/PSA.38.4#p2-cdcf1d7a",
+     "text": "like deep waters, wherewith I am overwhelmed and almost drowned, Psa 42:7 69:2 124:4,5.",
+     "anchor": "Gone over my head",
+     "refs": [
+      {
+       "text": "Psa 42:7",
+       "ref": "PSA.42.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.5",
+   "range": "PSA.38.5",
+   "kind": "passage",
+   "hash": "ee645f4e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.5#p1-4db95c8e",
+     "text": "The bruises and sores caused by my disease are not only painful, but loathsome to myself and to others."
+    },
+    {
+     "id": "poole/PSA.38.5#p2-f4e71021",
+     "text": "i.e. sin, which really is, and is commonly called, folly, as Psa 69:5 Pro 13:16 14:17 15:2, &c.",
+     "anchor": "Foolishnss",
+     "refs": [
+      {
+       "text": "Psa 69:5",
+       "ref": "PSA.69.5"
+      },
+      {
+       "text": "Pro 13:16",
+       "ref": "PRO.13.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.6",
+   "range": "PSA.38.6",
+   "kind": "passage",
+   "hash": "cc932a8c",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.6#p1-9ed0ebdd",
+     "text": "Heb. distorted, or depressed; or, as it is expressed by another word, signifying the same thing,",
+     "anchor": "Troubled"
+    },
+    {
+     "id": "poole/PSA.38.6#p2-8a1342a2",
+     "text": "to wit, in my body, as diseased persons commonly are, and withal dejected in my mind. I go mourning, Heb. in black, the sign of mourning, which may here signify the thing, as signs oft do. When for my ease I rise out of my bed and walk, or rather creep about in my chamber, I do it with a sad heart and dejected countenance. Or if he did walk further, his disease had some intervals and mitigations. Or going may be here meant of his languishing, or going towards the grave, as this same word is used, Gen 15:2, compared with Gen 25:32 Jos 23:14.",
+     "anchor": "bowed down",
+     "refs": [
+      {
+       "text": "Gen 15:2",
+       "ref": "GEN.15.2"
+      },
+      {
+       "text": "Gen 25:32",
+       "ref": "GEN.25.32"
+      },
+      {
+       "text": "Jos 23:14",
+       "ref": "JOS.23.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.7",
+   "range": "PSA.38.7",
+   "kind": "passage",
+   "hash": "022bbfcd",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.7#p1-022bbfcd",
+     "text": "Or, with filthiness; or, with scorching heat. The disease might be some burning fever, being also malignant or pestilential, either burning inwardly, or breaking forth outwardly in carbuncles or boils. It is true, this and the other expressions may be taken figuratively, of some grievous calamity; but we should not forsake the proper and the literal sense of the words without necessity, which seems not to be in this place."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.8",
+   "range": "PSA.38.8",
+   "kind": "passage",
+   "hash": "393e566f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.8#p1-971e8c95",
+     "text": "like a bear or a lion, through extreme pain and misery.",
+     "anchor": "Roared"
+    },
+    {
+     "id": "poole/PSA.38.8#p2-750b5c98",
+     "text": "for the great anxiety and torment of my mind, caused by the deep sense of my sins, and of God’s wrath, and of the sad issue of my disease; which being added to my bodily pains, makes them more intolerable.",
+     "anchor": "By reason of the disquietness of my heart"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.9",
+   "range": "PSA.38.9",
+   "kind": "passage",
+   "hash": "6b276527",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.9#p1-6b276527",
+     "text": "I do not utter all these complaints, nor roar out, that thou mayst hear and know them, for thou hearest and knowest even my lowest groans; yea, mine inward desires, and all my necessities. And therefore, I pray thee, pity and deliver me, as I trust thou wilt do."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.10",
+   "range": "PSA.38.10",
+   "kind": "passage",
+   "hash": "09594d54",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.10#p1-09594d54",
+     "text": "or, goes round; wanders hither and thither, as the word signifies; is perplexed and tossed with many and various thoughts, not knowing what to do, nor whither to go. Mine eyes are grown dim; either through grief and tears, as @Psa 6:7; or through weakness, as 1Sa 14:28,29.",
+     "anchor": "Panteth",
+     "refs": [
+      {
+       "text": "Psa 6:7",
+       "ref": "PSA.6.7"
+      },
+      {
+       "text": "1Sa 14:28",
+       "ref": "1SA.14.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.11",
+   "range": "PSA.38.11",
+   "kind": "passage",
+   "hash": "5c17308f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.11#p1-5c17308f",
+     "text": "Either through neglect, and contempt, or disdain of me; or through delicacy and abhorrency from loathsome and sadding spectacles; or through fear of infection, or some other inconveniences."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.12",
+   "range": "PSA.38.12",
+   "kind": "passage",
+   "hash": "e2d4255b",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.12#p1-40692cd8",
+     "text": "that if my disease do not kill me, they may destroy me some other way.",
+     "anchor": "Lay snares for me"
+    },
+    {
+     "id": "poole/PSA.38.12#p2-9c68813a",
+     "text": "they design mischief, but cover it with fair pretences.",
+     "anchor": "Imagine deceits"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.13",
+   "range": "PSA.38.13",
+   "kind": "passage",
+   "hash": "ec3ab823",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.13#p1-ec3ab823",
+     "text": "I carried myself towards them as if I had no ears to hear what they said either to me or for me, nor a tongue to answer or reprove them for their reproaches and calumnies; which he did not for, want of just answers to them, but to testify his humiliation for his sins, and his patient submission to and acceptation of the punishment which he had brought upon himself; of which see an instance, 2Sa 16:10-12; wherein also he was an eminent type of Christ, who, when he was reviled, reviled not again, 1Pe 2:23.",
+     "refs": [
+      {
+       "text": "2Sa 16:10-12",
+       "ref": "2SA.16.10-12"
+      },
+      {
+       "text": "1Pe 2:23",
+       "ref": "1PE.2.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.14",
+   "range": "PSA.38.14",
+   "kind": "passage",
+   "hash": "df7cca98",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.14#p1-df7cca98",
+     "text": "Or arguments, to convince or confute them, or to defend myself."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.15",
+   "range": "PSA.38.15",
+   "kind": "passage",
+   "hash": "40d93aae",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.15#p1-ed48b1b2",
+     "text": "I bore their carriage silently and patiently, because I hoped and knew that thou wouldst answer for me, and plead my cause better than myself; which I would not prevent by my impatience, and avenging myself. Or, but in thee"
+    },
+    {
+     "id": "poole/PSA.38.15#p2-ec1d944b",
+     "text": "i.e. though friends forsake me, and mine enemies plot and practise against me, yet I do not despair, because I have thee on my side.",
+     "anchor": "do I hope"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.16",
+   "range": "PSA.38.16",
+   "kind": "passage",
+   "hash": "612f656a",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.16#p1-819bdbee",
+     "text": "to wit, in my heart and prayers; I used this argument, which I knew was prevalent.",
+     "anchor": "I said"
+    },
+    {
+     "id": "poole/PSA.38.16#p2-ac875866",
+     "text": "in my destruction, which also will reflect upon thee; who hast undertaken to defend and save me, and for whose sake I suffer so much from these wicked men, Psa 38:20.",
+     "anchor": "Rejoice over me",
+     "refs": [
+      {
+       "text": "Psa 38:20",
+       "ref": "PSA.38.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.38.16#p3-43251867",
+     "text": "when I fall either into any gross sin, or into any misery, or into both, as I have now done.",
+     "anchor": "When my foot slippeth"
+    },
+    {
+     "id": "poole/PSA.38.16#p4-e56d0b5c",
+     "text": "they triumph in the accomplishment of their designs or desires.",
+     "anchor": "They magnify themselves against me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.17",
+   "range": "PSA.38.17",
+   "kind": "passage",
+   "hash": "ec037c19",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.17#p1-9253c7f9",
+     "text": "just falling into utter destruction; see Jer 20:10; and therefore if thou dost not help me speedily, it will be too late.",
+     "anchor": "Ready to halt",
+     "refs": [
+      {
+       "text": "Jer 20:10",
+       "ref": "JER.20.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.38.17#p2-1a80f151",
+     "text": "I am deeply and constantly sensible of thy just hand, and of my sins, the cause of it; wherewith I shall be overwhelmed, if thou dost not prevent it.",
+     "anchor": "My sorrow is continually before me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.18",
+   "range": "PSA.38.18",
+   "kind": "passage",
+   "hash": "5024059a",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.18#p1-084e3d53",
+     "text": "either to thee; or publicly to the world, because my sin hath been public and scandalous.",
+     "anchor": "Declare mine iniquity"
+    },
+    {
+     "id": "poole/PSA.38.18#p2-82f10a36",
+     "text": "Heb. I will be (or, I am; futures being oft so taken) solicitous or anxious; full of grief for what is past, and of cares and fears for the future; partly lest I should relapse into the same folly upon new temptations; and partly lest thou shouldst cut me off for my sins. Therefore pity, and pardon, and save me.",
+     "anchor": "I will be sorry"
+    },
+    {
+     "id": "poole/PSA.38.18#p3-eb81ad70",
+     "text": "or, by reason of my sin, or upon that occasion.",
+     "anchor": "For my sin"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.19",
+   "range": "PSA.38.19",
+   "kind": "passage",
+   "hash": "dfaf5eba",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.19#p1-dfaf5eba",
+     "text": "Heb. living, i.e. thriving, or flourishing, or prosperous, as life is used, Psa 22:26 34:12, and elsewhere.",
+     "anchor": "Lively",
+     "refs": [
+      {
+       "text": "Psa 22:26",
+       "ref": "PSA.22.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.38.20",
+   "range": "PSA.38.20",
+   "kind": "passage",
+   "hash": "bf5819c6",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.38.20#p1-1a559070",
+     "text": "they hate and persecute me, not only without any injury or provocation on my part, but as it were in requital of the good which I have done to them.",
+     "anchor": "They render evil for good"
+    },
+    {
+     "id": "poole/PSA.38.20#p2-050df5fd",
+     "text": "because I love and diligently practise justice and godliness, which they hate, and which they take to be a reproach to them, and which I did exercise, as I had opportunity, in the punishment of such as they are. Compare Joh 15:19 1Jn 3:12.",
+     "anchor": "Because I follow the thing that good is",
+     "refs": [
+      {
+       "text": "Joh 15:19",
+       "ref": "JHN.15.19"
+      },
+      {
+       "text": "1Jn 3:12",
+       "ref": "1JN.3.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

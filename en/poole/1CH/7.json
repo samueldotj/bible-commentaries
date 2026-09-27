@@ -1,0 +1,634 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "poole/1CH.7",
+   "range": "1CH.7",
+   "kind": "chapter",
+   "hash": "2092d29e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7#p1-2092d29e",
+     "text": "The sons of Issachar, 1Ch 7:1-5. Of Benjamin, 1Ch 7:6-12. Of Naphtali, 1Ch 7:13. Of Manasseh, 1Ch 7:14-19. Of Ephraim; their calamity; and habitations, 1Ch 7:20-29. Of Asher, 1Ch 7:30-40.",
+     "refs": [
+      {
+       "text": "1Ch 7:1-5",
+       "ref": "1CH.7.1-5"
+      },
+      {
+       "text": "1Ch 7:6-12",
+       "ref": "1CH.7.6-12"
+      },
+      {
+       "text": "1Ch 7:13",
+       "ref": "1CH.7.13"
+      },
+      {
+       "text": "1Ch 7:14-19",
+       "ref": "1CH.7.14-19"
+      },
+      {
+       "text": "1Ch 7:20-29",
+       "ref": "1CH.7.20-29"
+      },
+      {
+       "text": "1Ch 7:30-40",
+       "ref": "1CH.7.30-40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.1",
+   "range": "1CH.7.1",
+   "kind": "passage",
+   "hash": "f2ec1dd2",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.1#p1-f2ec1dd2",
+     "text": "called, by way of contraction, Job, Gen 46:13.",
+     "anchor": "Jashub",
+     "refs": [
+      {
+       "text": "Gen 46:13",
+       "ref": "GEN.46.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.2",
+   "range": "1CH.7.2",
+   "kind": "passage",
+   "hash": "33393975",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.2#p1-33393975",
+     "text": "when he numbered the people, 2Sa 24:1, &c.",
+     "anchor": "In the days of David",
+     "refs": [
+      {
+       "text": "2Sa 24:1",
+       "ref": "2SA.24.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.3",
+   "range": "1CH.7.3",
+   "kind": "passage",
+   "hash": "eb2590db",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.3#p1-31f3e09e",
+     "text": "for the son; for he names but one son.",
+     "anchor": "The sons"
+    },
+    {
+     "id": "poole/1CH.7.3#p2-33c9686d",
+     "text": "including their father",
+     "anchor": "Michael, and Obadiah, and Joel, Ishiah, five"
+    },
+    {
+     "id": "poole/1CH.7.3#p3-c5cd1404",
+     "text": "Izrahiah."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.4",
+   "range": "1CH.7.4",
+   "kind": "passage",
+   "hash": "66e422fc",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.4#p1-66e422fc",
+     "text": "to wit, of the posterity of Uzzi, as the other twenty-two thousand six hundred, 1Ch 7:2, were the posterity of Tola.",
+     "anchor": "Six and thirty thousand men",
+     "refs": [
+      {
+       "text": "1Ch 7:2",
+       "ref": "1CH.7.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.6",
+   "range": "1CH.7.6",
+   "kind": "passage",
+   "hash": "a79c95fe",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.6#p1-a79c95fe",
+     "text": "There were ten, Gen 46:21, and five of them are named, 1Ch 8:1, but here only three are mentioned, either because these were most eminent for courage or fruitfulness, or because the other families were now extinct.",
+     "refs": [
+      {
+       "text": "Gen 46:21",
+       "ref": "GEN.46.21"
+      },
+      {
+       "text": "1Ch 8:1",
+       "ref": "1CH.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.7",
+   "range": "1CH.7.7",
+   "kind": "passage",
+   "hash": "dc7a95c7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.7#p1-dc7a95c7",
+     "text": "each of them head, or chief, or commander of that house or family from which he was descended, or to which he belonged. For it may seem, by comparing this with 1Ch 8:3, &c. that these were not the immediate sons of Bela, but his grandchildren descended each from a several father; and their fathers are here omitted, peradventure because they were obscure persons, as their sons are mentioned for their eminency.",
+     "anchor": "Heads of the house of their fathers",
+     "refs": [
+      {
+       "text": "1Ch 8:3",
+       "ref": "1CH.8.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.12",
+   "range": "1CH.7.12",
+   "kind": "passage",
+   "hash": "32f6054f",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.12#p1-8a584fa8",
+     "text": "called Muppim and Huppim, Gen 46:21, also Hupham and Shupham, Num 26:39.",
+     "anchor": "Shuppim also, and Huppim",
+     "refs": [
+      {
+       "text": "Gen 46:21",
+       "ref": "GEN.46.21"
+      },
+      {
+       "text": "Num 26:39",
+       "ref": "NUM.26.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.12#p2-8534c3f9",
+     "text": "but divers take the Hebrew word aher for a common, not proper name, and render the words thus, another son, or the son of another family or tribe, to wit, of Dan, as may be gathered,",
+     "anchor": "The sons of Aher"
+    },
+    {
+     "id": "poole/1CH.7.12#p3-7b00b7f1",
+     "text": "1. From Gen 46:23, where Hushim is mentioned as the only son of Dan, where also the word sons is used of that one man, as it is here.",
+     "refs": [
+      {
+       "text": "Gen 46:23",
+       "ref": "GEN.46.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.12#p4-263d27e9",
+     "text": "2. From the clause of the next verse, the sons of Bilhah, who was mother both to Dan and Naphtali."
+    },
+    {
+     "id": "poole/1CH.7.12#p5-2278add8",
+     "text": "3. Because otherwise the genealogy of Dan is quite left out."
+    },
+    {
+     "id": "poole/1CH.7.12#p6-8e879918",
+     "text": "4. From the word another, which is used in the Hebrew writers to design an abominable thing which the writer disdained to mention; whence they call a swine, which to them was a very unclean and loathsome creature, another thing. And it must be remembered that the tribe of Dan had made themselves and their memory infamous and detestable by that gross idolatry, which began first and continued longest in that tribe, Jud 18; for which reason many interpreters conceive this tribe is omitted in the numbering of the scaled persons, Re 7."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.13",
+   "range": "1CH.7.13",
+   "kind": "passage",
+   "hash": "99529176",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.13#p1-99529176",
+     "text": "i.e. the grandchildren; for Bilhah was Jacob’s concubine, and mother both to Naphtali, the father of these last named persons, and to Dan. See Poole \"1Ch 7:12\".",
+     "anchor": "The sons of Bilhah",
+     "refs": [
+      {
+       "text": "1Ch 7:12",
+       "ref": "1CH.7.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.14",
+   "range": "1CH.7.14",
+   "kind": "passage",
+   "hash": "7ed81145",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.14#p1-c686a1ab",
+     "text": "i.e. grandchildren, as 1Ch 7:13. For both Ashriel and Zelophehad were the grandchildren of Machir son of Manasseh, Num 26:29 &c.; Num 27:1.",
+     "anchor": "The sons of Manasseh",
+     "refs": [
+      {
+       "text": "1Ch 7:13",
+       "ref": "1CH.7.13"
+      },
+      {
+       "text": "Num 26:29",
+       "ref": "NUM.26.29"
+      },
+      {
+       "text": "Num 27:1",
+       "ref": "NUM.27.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.14#p2-43eda6e4",
+     "text": "to wit, his wife, as may be thought, because his concubine is here opposed to her. Or, whom he got; for the Hebrew word yalad is sometimes used of men’s begetting, as Gen 5:18, &c. Compare Psa 2:7. But these and the following words may be otherwise rendered according to the Hebrew text,",
+     "anchor": "Whom she bare",
+     "refs": [
+      {
+       "text": "Gen 5:18",
+       "ref": "GEN.5.18"
+      },
+      {
+       "text": "Psa 2:7",
+       "ref": "PSA.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.14#p3-2b14e319",
+     "text": "who bare him (which ellipses are very frequent in the Hebrew) for meeth, of, or by Machir: so this was a differing Ashriel from him named Num 26:31; for that was Gilead’s son, and this his brother.",
+     "anchor": "whom his concubine the Aramitess bare",
+     "refs": [
+      {
+       "text": "Num 26:31",
+       "ref": "NUM.26.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.14#p4-eee4425a",
+     "text": "a person so called, as is manifest from 1Ch 7:17 Num 26:29.",
+     "anchor": "The father of Gilead",
+     "refs": [
+      {
+       "text": "1Ch 7:17",
+       "ref": "1CH.7.17"
+      },
+      {
+       "text": "Num 26:29",
+       "ref": "NUM.26.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.15",
+   "range": "1CH.7.15",
+   "kind": "passage",
+   "hash": "19163ab8",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.15#p1-002c207f",
+     "text": "which word is here fitly understood out of the following clause, where it is expressed, and she is called Maachah, who also is called the wife of Machir, 1Ch 7:16. The name of the second; of the second son or grandson of Machir; for so Zelophehad was, Num 26:29, &c. Or Zelophehad is here called the second, because he was the younger brother of Ashriel, who was the eldest son of Hepher, the son of Gilead, the son of Machir.",
+     "anchor": "The sister",
+     "refs": [
+      {
+       "text": "1Ch 7:16",
+       "ref": "1CH.7.16"
+      },
+      {
+       "text": "Num 26:29",
+       "ref": "NUM.26.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.15#p2-6c1009c0",
+     "text": "i.e. only daughters, and no sons.",
+     "anchor": "Had daughters"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.17",
+   "range": "1CH.7.17",
+   "kind": "passage",
+   "hash": "301ac391",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.17#p1-301ac391",
+     "text": "to wit, Ashriel and Zelophehad, named 1Ch 7:14,15; the relative being here referred to the remoter antecedent, as is frequent in the Hebrew.",
+     "anchor": "These",
+     "refs": [
+      {
+       "text": "1Ch 7:14",
+       "ref": "1CH.7.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.18",
+   "range": "1CH.7.18",
+   "kind": "passage",
+   "hash": "584792e9",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.18#p1-815e0e96",
+     "text": "i.e. Gilead’s sister.",
+     "anchor": "His sister"
+    },
+    {
+     "id": "poole/1CH.7.18#p2-0a0b3009",
+     "text": "understand, and Shemidah, out of the next verse.",
+     "anchor": "Ishod, and Abiezer, and Mahalah"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.20",
+   "range": "1CH.7.20",
+   "kind": "passage",
+   "hash": "88abdaa7",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.20#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Bered his son"
+    },
+    {
+     "id": "poole/1CH.7.20#p2-c5befe1c",
+     "text": "1. The son of"
+    },
+    {
+     "id": "poole/1CH.7.20#p3-9054a411",
+     "text": "and so Tahath the son of Bered; and so the rest, which make up seven succeeding generations. Or,",
+     "anchor": "Shuthelah"
+    },
+    {
+     "id": "poole/1CH.7.20#p4-a576c579",
+     "text": "2. The son of Ephraim; and so Tahath is the son not of Bered, but of Ephraim, and so forward. And thus all these were brethren, and sons or grandchildren of Ephraim, living together at one time with their father."
+    },
+    {
+     "id": "poole/1CH.7.20#p5-36380f75",
+     "text": "This cannot be, because then Ephraim had two sons called Shuthelah, and two called Tahath.",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/1CH.7.20#p6-2533ccc9",
+     "text": "That might easily happen, either because the first Shuthelah and Tahath were dead before the other two of those names were born; or because two of them were Ephraim’s sons, and two of them his grandchildren, called after their uncle’s names. For this is certain, the name of sons is promiscuously used concerning immediate children, and grandchildren, and great-grandchildren.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.21",
+   "range": "1CH.7.21",
+   "kind": "passage",
+   "hash": "e9b7a073",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.21#p1-62802ca8",
+     "text": "This history is not recorded elsewhere in Scripture, but it is in the ancient Hebrew writers, though mixed with many fables. The Philistines (one of whose cities this Gath was) and the Egyptians were next neighbours; and in those ancient times it was usual for such to make inroads one into another’s country, and to carry thence what prey they could take, as we find both in Scripture and in profane writers."
+    },
+    {
+     "id": "poole/1CH.7.21#p2-267e8069",
+     "text": "And as the Philistines had probably made such inroads formerly into Egypt, and particularly into the land of Goshen, which was the utmost part of Egypt bordering upon the Philistines’ land; so the Israelites might requite them in the like kind: and particularly the children of Ephraim, either presuming upon their numbers and strength, or having possibly received the greatest injury from the Philistines in their last invasion, might make an attempt upon the Philistines to their own great loss, as is here related. And this seems to have happened a little before the Egyptian persecution, and before the reign of that new king mentioned Exo 1:8. The Philistines are here called",
+     "refs": [
+      {
+       "text": "Exo 1:8",
+       "ref": "EXO.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.21#p3-d89c9893",
+     "text": "either because they were subject to the king of Gath, as afterwards that people were, or because they lived about Gath. And this clause,",
+     "anchor": "the men of Gath"
+    },
+    {
+     "id": "poole/1CH.7.21#p4-e34b23a6",
+     "text": "may be added emphatically, as the motive which made them more resolute and furious in their fight with the Ephraimites, because they fought in and for their own land, wherein all their wealth and concerns lay, and against those that unjustly endeavoured to turn them out of their native country.",
+     "anchor": "that were born in that land"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.22",
+   "range": "1CH.7.22",
+   "kind": "passage",
+   "hash": "8becc348",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.22#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Ephraim their father"
+    },
+    {
+     "id": "poole/1CH.7.22#p2-5678efce",
+     "text": "1. That Ephraim of whom he speaks, 1Ch 7:20, whose sons are here named. But that to many seems hard, especially if these several sons, named 1Ch 7:20,21, be understood successively, so as each man be the son of him who is named next and immediately before him, which seems most probable; for so here are seven successive generations of Ephraim, which it is not likely that Ephraim lived to see; for then he must have been near two hundred years old. Although it is not necessary that the persons here said to be slain should be that generation which was last mentioned; but the particle whom may belong to the other sons of Ephraim of the fourth, or fifth, or sixth generation.",
+     "refs": [
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      },
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      },
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.22#p3-b2667e35",
+     "text": "Nor is the word whom in the Hebrew text, which runs thus, and the men of Gath slew them, i.e. the sons of Ephraim in the general, as they are expressed in the beginning of 1Ch 7:20, without respect to this or that particular generation. And the relative particle them may be referred not unto the persons last named, but unto some of the other and more remote persons; this being a common observation of Hebricians, that the relative oft belongs to the remoter antecedent. Or,",
+     "refs": [
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      },
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      },
+      {
+       "text": "1Ch 7:20",
+       "ref": "1CH.7.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.22#p4-73b5af6d",
+     "text": "2. Zabad the father of the three persons and families last named, who might possibly have two names, and be called both Zabad and Ephraim. Or rather, the name of Ephraim may be put patronymically (as the learned speak) for the son and successor of Ephraim; who being now in Ephraim’s stead the head of the tribe, as old Ephraim was in his time, might well be called by the same name. Thus Isaac is put for his son Jacob or Israel, Amo 7:9, and Moses for the sons of Moses, Psa 90:1, and David for his son Rehoboam, 1Ki 12:16, and for Christ, Jer 30:9 Eze 34:23, and (as many think) Abraham for Jacob, Abraham’s grandchild, Act 7:16. And these words,",
+     "refs": [
+      {
+       "text": "Amo 7:9",
+       "ref": "AMO.7.9"
+      },
+      {
+       "text": "Psa 90:1",
+       "ref": "PSA.90.1"
+      },
+      {
+       "text": "1Ki 12:16",
+       "ref": "1KI.12.16"
+      },
+      {
+       "text": "Jer 30:9",
+       "ref": "JER.30.9"
+      },
+      {
+       "text": "Eze 34:23",
+       "ref": "EZK.34.23"
+      },
+      {
+       "text": "Act 7:16",
+       "ref": "ACT.7.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.7.22#p5-1d9cdd4e",
+     "text": "seem to be added by way of distinction, to show that he meant not this of the old Ephraim, but of another, who was father to the three persons said to be slain, 1Ch 7:21. For if he had understood this of the first Ephraim, having called these the sons of Ephraim, it might seem superfluous and tautological to tell us that Ephraim was their father. His brethren, i.e. his kinsmen, as that word is frequently used.",
+     "anchor": "their father",
+     "refs": [
+      {
+       "text": "1Ch 7:21",
+       "ref": "1CH.7.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.24",
+   "range": "1CH.7.24",
+   "kind": "passage",
+   "hash": "a0920b00",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.24#p1-b234f7c9",
+     "text": "i.e. his grandchild, or great-grandchild, for such are oft called sons or daughters in Scripture.",
+     "anchor": "His daughter"
+    },
+    {
+     "id": "poole/1CH.7.24#p2-63b0dded",
+     "text": "i.e. rebuilt or repaired, which possibly she did in Joshua’s time. And this work may be ascribed to her, because these works were done either by her design or contrivance, or by her instigation and influence upon her husband and brethren who did it.",
+     "anchor": "Who built Beth-horon"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.26",
+   "range": "1CH.7.26",
+   "kind": "passage",
+   "hash": "8198326b",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.26#p1-8198326b",
+     "text": "the head of the tribe of Ephraim in the wilderness, Num 1:10.",
+     "anchor": "Elishama",
+     "refs": [
+      {
+       "text": "Num 1:10",
+       "ref": "NUM.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.28",
+   "range": "1CH.7.28",
+   "kind": "passage",
+   "hash": "7c2cfdff",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.28#p1-e826cc3b",
+     "text": "i.e. the portion allotted to the tribe of Ephraim.",
+     "anchor": "Their possessions"
+    },
+    {
+     "id": "poole/1CH.7.28#p2-846df2ec",
+     "text": "which stood in the border of Benjamin, but belonged to Ephraim.",
+     "anchor": "Beth-el"
+    },
+    {
+     "id": "poole/1CH.7.28#p3-5fc54f43",
+     "text": "not that of the Philistines, which belonged to another tribe, and was remote from Ephraim; but another of the same name. Or rather Adasa, as it is in the margin of our Bible; the particle ad, here rendered unto, being a part of the name; for why should unto be put to this town, which is not put to any of the other?",
+     "anchor": "Unto Gaza"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.29",
+   "range": "1CH.7.29",
+   "kind": "passage",
+   "hash": "a3c71b0e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.29#p1-a3c71b0e",
+     "text": "i.e. of Ephraim, Joseph’s eldest son, who is sometimes called Joseph, as hath been noted before.",
+     "anchor": "The children of Joseph"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.35",
+   "range": "1CH.7.35",
+   "kind": "passage",
+   "hash": "55d3eb84",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.35#p1-55d3eb84",
+     "text": "brother either of Shamer the eldest, namely, Hotham; or of Aram last mentioned.",
+     "anchor": "His brother"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.7.39",
+   "range": "1CH.7.39",
+   "kind": "passage",
+   "hash": "c962147e",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.7.39#p1-c962147e",
+     "text": "another son of Jether, as may be gathered by the course of the genealogy, though he be not expressed with his brethren, 1Ch 7:38. See the like defect 1Ch 7:18,34.",
+     "anchor": "Ulla",
+     "refs": [
+      {
+       "text": "1Ch 7:38",
+       "ref": "1CH.7.38"
+      },
+      {
+       "text": "1Ch 7:18",
+       "ref": "1CH.7.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

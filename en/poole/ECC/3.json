@@ -1,0 +1,750 @@
+{
+ "source": "poole",
+ "book": "ECC",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "poole/ECC.3",
+   "range": "ECC.3",
+   "kind": "chapter",
+   "hash": "2aa9b4fa",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3#p1-2aa9b4fa",
+     "text": "Every thing hath its time; in which, to enjoy it, and therewith do good to others, is our good, Ecc 3:1-13. God doth all according to his decree that we should fear him, and there is nothing new, Ecc 3:14,15. The vanity of unjust judgment; God is the great Judge of all, Ecc 3:16,17; and he will make men know that they are here but as brute beasts, Ecc 3:18-22.",
+     "refs": [
+      {
+       "text": "Ecc 3:1-13",
+       "ref": "ECC.3.1-13"
+      },
+      {
+       "text": "Ecc 3:14",
+       "ref": "ECC.3.14"
+      },
+      {
+       "text": "Ecc 3:16",
+       "ref": "ECC.3.16"
+      },
+      {
+       "text": "Ecc 3:18-22",
+       "ref": "ECC.3.18-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.1",
+   "range": "ECC.3.1",
+   "kind": "passage",
+   "hash": "4b76cc6e",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.1#p1-014d3d32",
+     "text": "a certain thee appointed by God for its being and continuance, which no human wit or providence can prevent or alter.",
+     "anchor": "A season"
+    },
+    {
+     "id": "poole/ECC.3.1#p2-7e8611d0",
+     "text": "And by virtue of this appointment or decree of God, all the vicissitudes and changes which happen in the world, whether comforts or calamities, do come to pass; which is here added, partly, to prove what he last said, Ecc 2:24,26, that both the free and comfortable enjoyment of the creatures which some have, and the crosses and vexations which others have with them, are from the hand and counsel of God; partly, to prove the principal proposition of the book, that all things below are vain, and happiness is not to be found in them, because of their great uncertainty, and mutability, and transitoriness, and because they are so much out of the reach and power of men, and wholly in the disposal of another, to wit, God, who doth either give or take them away, either sweeten or embitter them, as it pleaseth him; and partly, to bring the minds of men into a quiet and cheerful dependence upon God’s providence, and submission to his will, and a state of preparation for all events.",
+     "refs": [
+      {
+       "text": "Ecc 2:24",
+       "ref": "ECC.2.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.1#p3-19ddabc5",
+     "text": "or will, or desire, to wit, of man; to all men’s designs. attempts, and businesses. Not only natural, but even the free and voluntary actions of men, are ordered and disposed by God to accomplish his own purpose. But it must be considered, that he doth not here speak of a thee allowed by God, wherein all the following things may lawfully be done, which is wholly besides his scope and business; but only of a thee fixed by God, in which they would or should be done.",
+     "anchor": "To every purpose"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.2",
+   "range": "ECC.3.2",
+   "kind": "passage",
+   "hash": "904b8c89",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.2#p1-82e58e08",
+     "text": "a certain period unknown to man, but fixed by God, in which a man must unavoidably die; of which see Job 14:5 Joh 13:1.",
+     "anchor": "A time to die",
+     "refs": [
+      {
+       "text": "Job 14:5",
+       "ref": "JOB.14.5"
+      },
+      {
+       "text": "Joh 13:1",
+       "ref": "JHN.13.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.2#p2-5a8cc46a",
+     "text": "wherein God inclines a man’s heart to planting.",
+     "anchor": "A time to plant"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.3",
+   "range": "ECC.3.3",
+   "kind": "passage",
+   "hash": "008277d6",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.3#p1-47706b78",
+     "text": "when a man shall die a violent death, either by chance, as Exo 21:13, or by the sentence of the magistrate, or by the hands of murderers.",
+     "anchor": "A time to kill",
+     "refs": [
+      {
+       "text": "Exo 21:13",
+       "ref": "EXO.21.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.3#p2-225ebee9",
+     "text": "when he who seemed to be mortally wounded shall be healed and restored.",
+     "anchor": "A time to heal"
+    },
+    {
+     "id": "poole/ECC.3.3#p3-87add52f",
+     "text": "when houses shall be demolished, either by the fancy of the owner, or by the rage of other men, or otherwise.",
+     "anchor": "A time to break down"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.4",
+   "range": "ECC.3.4",
+   "kind": "passage",
+   "hash": "e6b82d49",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.4#p1-e6b82d49",
+     "text": "when men shall have just occasion for weeping and mourning.",
+     "anchor": "A time to weep"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.5",
+   "range": "ECC.3.5",
+   "kind": "passage",
+   "hash": "c76989fe",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.5#p1-1d7b848f",
+     "text": "which were brought together in order to the building of a wall or house, but are now cast away, either because the man who gathered them hath changed his mind, and desists from his project, or by other causes or accidents.",
+     "anchor": "A time to cast away stones"
+    },
+    {
+     "id": "poole/ECC.3.5#p2-a9d6fdf9",
+     "text": "when persons shall enter into friendship, and perform all friendly offices one to another.",
+     "anchor": "A time to embrace"
+    },
+    {
+     "id": "poole/ECC.3.5#p3-967b503a",
+     "text": "either through alienation of affections, or grievous calamities. See Joe 2:16 1Co 7:5",
+     "anchor": "A time to refrain from embracing",
+     "refs": [
+      {
+       "text": "Joe 2:16",
+       "ref": "JOL.2.16"
+      },
+      {
+       "text": "1Co 7:5",
+       "ref": "1CO.7.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.6",
+   "range": "ECC.3.6",
+   "kind": "passage",
+   "hash": "9581b7fe",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.6#p1-728fc211",
+     "text": "when men shall lose their estates, either by God’s providence, or by their own choice.",
+     "anchor": "A time to lose"
+    },
+    {
+     "id": "poole/ECC.3.6#p2-ccebcb44",
+     "text": "when a man shall cast away his goods voluntarily, as in a storm to save his life, as Jon 1:5 Act 27:18,19; or out of love and obedience to God, as Mat 10:37,39 Heb 10:34.",
+     "anchor": "A time to cast away",
+     "refs": [
+      {
+       "text": "Jon 1:5",
+       "ref": "JON.1.5"
+      },
+      {
+       "text": "Act 27:18",
+       "ref": "ACT.27.18"
+      },
+      {
+       "text": "Mat 10:37",
+       "ref": "MAT.10.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.7",
+   "range": "ECC.3.7",
+   "kind": "passage",
+   "hash": "8cce3e35",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.7#p1-629c335b",
+     "text": "when men shall rend their garments, as they did in great and sudden griefs, as Gen 37:29 Joe 2:13.",
+     "anchor": "A time to rend",
+     "refs": [
+      {
+       "text": "Gen 37:29",
+       "ref": "GEN.37.29"
+      },
+      {
+       "text": "Joe 2:13",
+       "ref": "JOL.2.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.7#p2-f3b725ce",
+     "text": "wherein men will or shall be silent, either through grief, as Job 2:12,13, or by sickness or weakness, or because God denies a man ability to utter his mind.",
+     "anchor": "A time to keep silence",
+     "refs": [
+      {
+       "text": "Job 2:12",
+       "ref": "JOB.2.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.8",
+   "range": "ECC.3.8",
+   "kind": "passage",
+   "hash": "cb1f9daf",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.8#p1-cb1f9daf",
+     "text": "when God will stir up the affection of love, or give occasion for the exercise or discovery of it to others.",
+     "anchor": "A time to love"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.9",
+   "range": "ECC.3.9",
+   "kind": "passage",
+   "hash": "318b1c5c",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.9#p1-318b1c5c",
+     "text": "Seeing then all actions and events in the world are out of man’s power, and no man can at any time do or enjoy any thing at his pleasure, but only what and when God pleaseth, as hath been now shown in many particulars, and it is as true and certain in all others, hence it follows that all men’s labours, of themselves, and without God’s help and blessing, are unprofitable, and utterly insufficient to make them happy."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.10",
+   "range": "ECC.3.10",
+   "kind": "passage",
+   "hash": "1d674c34",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.10#p1-5b57c5ff",
+     "text": "I have diligently observed and considered upon this occasion,",
+     "anchor": "I have seen"
+    },
+    {
+     "id": "poole/ECC.3.10#p2-94263f26",
+     "text": "or the occupation or business, men’s various employments, and the differing successes of them,",
+     "anchor": "the travail"
+    },
+    {
+     "id": "poole/ECC.3.10#p3-a12a5354",
+     "text": "either,",
+     "anchor": "which God hath given to the sons of men"
+    },
+    {
+     "id": "poole/ECC.3.10#p4-cbadf0bc",
+     "text": "1. Which God hath imposed upon men as their duty; and therefore men must labour, although it brings them no profit, as was now said. Or,"
+    },
+    {
+     "id": "poole/ECC.3.10#p5-dc63dcd2",
+     "text": "2. Which God hath inflicted upon mankind as a just punishment for their sins; to which therefore men ought quietly to submit."
+    },
+    {
+     "id": "poole/ECC.3.10#p6-e9a8e9a6",
+     "text": "that hereby they might have constant matter of exercise for their diligence, and patience, and submission to God’s will and providence, and for all other graces. Or, that they might be afflicted or humbled therewith, as the same phrase is rendered by divers, Ecc 1:13.",
+     "anchor": "To be exercised in it",
+     "refs": [
+      {
+       "text": "Ecc 1:13",
+       "ref": "ECC.1.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.11",
+   "range": "ECC.3.11",
+   "kind": "passage",
+   "hash": "7b6814a2",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.11#p1-6ce2c1ef",
+     "text": "this seems to be added as an apology for God’s providence, notwithstanding all the contrary events and confusions which are in the world.",
+     "anchor": "He hath made every thing beautiful in his time"
+    },
+    {
+     "id": "poole/ECC.3.11#p2-930598bf",
+     "text": "(i.e. God, expressed in the last clause of the verse)",
+     "anchor": "He"
+    },
+    {
+     "id": "poole/ECC.3.11#p3-940685b5",
+     "text": "(or doth make or do, by his providence in the government of the world)",
+     "anchor": "hath made"
+    },
+    {
+     "id": "poole/ECC.3.11#p4-799f1624",
+     "text": "(which he doth either immediately, or by the ministry of men or other creatures, for God worketh in and with all his creatures in all their actions, as is agreed by divines and philosophers)",
+     "anchor": "every thing"
+    },
+    {
+     "id": "poole/ECC.3.11#p5-b69deb8f",
+     "text": "(decently and conveniently, so that, all things considered, it could not have been done better) in his time; in the time which he had appointed, or which he saw most proper and fit for it; or, in its time or season, when it was most fit to be done. Many events seem to men’s shallow and perverse judgments, at least for a time, to be very irregular and unbecoming, as when wicked men prosper in their impious and unrighteous enterprises, and good men are sorely oppressed and afflicted, and that for righteousness’ sake; but when men shall come thoroughly to understand God’s works, and the whole frame and contexture of them, and to see the end of them, they will then say that all things were done most wisely and most seasonably; whereof we have eminent instances in Joseph, and David, and Mordecai, and the Jews of his time.",
+     "anchor": "beautiful"
+    },
+    {
+     "id": "poole/ECC.3.11#p6-585a707a",
+     "text": "i.e. in the hearts of men, as the following words show, where man is expressed. The sense is either,",
+     "anchor": "He hath set the world in their heart"
+    },
+    {
+     "id": "poole/ECC.3.11#p7-7d279fda",
+     "text": "1. Although all God’s works are beautiful, yet men do not discern the beauty of them, because the world is in their hearts; their minds are so busied and distracted with the thoughts, and cares, and love, and business of this world, that they have neither leisure nor heart seriously to study God’s works. But this inordinate love of the present world comes from man’s own corruption, and not from God; and therefore it seems harsh to impute it to God, and improbable that Solomon would have phrased it thus, that God hath set or put the world i.e. worldly lusts, in men’s hearts. Or,"
+    },
+    {
+     "id": "poole/ECC.3.11#p8-465c3f73",
+     "text": "2. As God’s works are beautiful in themselves, so men are capable of discerning the beauty of them, because God hath set the world in men’s hearts; he hath exposed the world, and all his dispensations in the world, unto the view of men’s minds; both because he hath wrought his works so evidently and publicly, that men might easily observe them; and because he hath given men reason whereby they may discover the wisdom and beauty of all God’s works, if they diligently apply themselves to the study of them."
+    },
+    {
+     "id": "poole/ECC.3.11#p9-8e646072",
+     "text": "so this is another reason why men do not discern the beauty of God’s works, because they do not see the whole frame or course of them from the beginning to the end, but only some small parcels or fragments of them; the eminent works of God being oft begun in one age, and finished in another. Or, yet so that, &c. or, except that (as this phrase properly signifies, and is elsewhere used) no man can find out, &c. Thus it is an exception to the next foregoing clause, and the sense is, It is true God hath put the world into men’s hearts, or made them capable of observing all events and dispensations of God in the world; but this is to be understood with a limitation, because there are some more mysterious works of God which no man can fully understand, because he cannot search them out through or from the beginning to the end.",
+     "anchor": "So that no man can find out the work that God maketh from the beginning to the end"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.12",
+   "range": "ECC.3.12",
+   "kind": "passage",
+   "hash": "bc4a3b9c",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.12#p1-7a9168b5",
+     "text": "by clear reason, and my own long and certain experience,",
+     "anchor": "I know"
+    },
+    {
+     "id": "poole/ECC.3.12#p2-3bb716a3",
+     "text": "no other satisfaction or felicity which a man can enjoy, in them, in creatures or worldly enjoyments. To do good; either,",
+     "anchor": "that there is no good"
+    },
+    {
+     "id": "poole/ECC.3.12#p3-0ccb31bf",
+     "text": "1. To himself, as it is fully expressed, Psa 49:18. Or,",
+     "refs": [
+      {
+       "text": "Psa 49:18",
+       "ref": "PSA.49.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.12#p4-34acb1f5",
+     "text": "2. To others; to employ them in acts of charity and liberality towards others. Or,"
+    },
+    {
+     "id": "poole/ECC.3.12#p5-b612451b",
+     "text": "3. Towards God; to use them, and to live in the fear of God, which is necessary to the happiness of this as well as of the other life."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.13",
+   "range": "ECC.3.13",
+   "kind": "passage",
+   "hash": "61431f64",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.13#p1-07ceeafd",
+     "text": "i.e. hath power or a heart to use what God hath given him, as it is expressed, Ecc 6:2.",
+     "anchor": "That every man should eat and drink",
+     "refs": [
+      {
+       "text": "Ecc 6:2",
+       "ref": "ECC.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.13#p2-80312d7d",
+     "text": "of which See Poole \"Ecc 2:24\".",
+     "anchor": "It is the gift of God",
+     "refs": [
+      {
+       "text": "Ecc 2:24",
+       "ref": "ECC.2.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.14",
+   "range": "ECC.3.14",
+   "kind": "passage",
+   "hash": "4816dd63",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.14#p1-faaaa9e6",
+     "text": "all God’s counsels or decrees are eternal and unchangeable, and his providence works effectually, so as men cannot resist or hinder it.",
+     "anchor": "Whatsoever God doeth, it shall be for ever"
+    },
+    {
+     "id": "poole/ECC.3.14#p2-5a4550cd",
+     "text": "men can neither do any thing besides or against God’s counsel and providence, nor hinder any work or act of it.",
+     "anchor": "Nothing can be put to it, nor any thing taken from it"
+    },
+    {
+     "id": "poole/ECC.3.14#p3-398bdfb4",
+     "text": "not that men should make this an occasion of despair, or idleness, or dissoluteness, as some abuse this doctrine, but that, by the consideration of his sovereign and irresistible power in the disposal of all persons and things as pleaseth him, men should learn to trust in him, to submit to him, to fear to offend or rebel against him, and more carefully and industriously to study to please him.",
+     "anchor": "That men should fear before him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.15",
+   "range": "ECC.3.15",
+   "kind": "passage",
+   "hash": "57273947",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.15#p1-b26058c3",
+     "text": "things past, present, and to come, are all of the same nature, and all ordered in the same manner by one constant counsel and settled course in all parts and ages of the world. There is a continual return of the same motions and influences of the heavenly bodies, of the same seasons of the year, and a constant succession of new generations of men and beasts, but all of the same quality. The same thing in substance was said before, Ecc 1:9.",
+     "anchor": "That which hath been is now; and that which is to be hath already been",
+     "refs": [
+      {
+       "text": "Ecc 1:9",
+       "ref": "ECC.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.15#p2-84a87392",
+     "text": "i.e. reneweth, as this word is used, Job 3:4.",
+     "anchor": "Requireth",
+     "refs": [
+      {
+       "text": "Job 3:4",
+       "ref": "JOB.3.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.15#p3-d983ffe5",
+     "text": "that time and those things which are irrecoverably gone in themselves, but are as it were recalled, because others of the same kind arise and come in their stead. Heb. that which is driven away with a mighty, force, as time present is violently thrust away by that which comes after it.",
+     "anchor": "That which is past"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.16",
+   "range": "ECC.3.16",
+   "kind": "passage",
+   "hash": "a39ec7c7",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.16#p1-953cdb6a",
+     "text": "This is mentioned, either,"
+    },
+    {
+     "id": "poole/ECC.3.16#p2-77b87f42",
+     "text": "1. As another vanity, to wit, the vanity of honour and power, which is so oft an instrument of injustice and oppression. Or rather,"
+    },
+    {
+     "id": "poole/ECC.3.16#p3-747cf9ec",
+     "text": "2. As another argument of the vanity of worldly things, or a hinderance of that comfort which men expect in this life, because they are oppressed by their rulers."
+    },
+    {
+     "id": "poole/ECC.3.16#p4-12ad2afa",
+     "text": "I perceived it by information from others, and by my own observation.",
+     "anchor": "I saw"
+    },
+    {
+     "id": "poole/ECC.3.16#p5-9ad23c46",
+     "text": "in the thrones of princes and tribunals of magistrates, where judgment should be duly executed.",
+     "anchor": "The place of judgment"
+    },
+    {
+     "id": "poole/ECC.3.16#p6-374e7ed7",
+     "text": "judgment was perverted, the guilty acquitted, and the innocent condemned.",
+     "anchor": "Wickedness was there"
+    },
+    {
+     "id": "poole/ECC.3.16#p7-bf5160a9",
+     "text": "in which righteousness should be found and should dwell, if it were banished from all other places.",
+     "anchor": "The place of righteousness"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.17",
+   "range": "ECC.3.17",
+   "kind": "passage",
+   "hash": "fc0ee55f",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.17#p1-1a6596ad",
+     "text": "mine heart was sorely grieved at this disorder, but I quieted it with this consideration,",
+     "anchor": "I said in mine heart"
+    },
+    {
+     "id": "poole/ECC.3.17#p2-0aa089e0",
+     "text": "absolving and saving the just, and condemning the wicked.",
+     "anchor": "God shall judge the righteous and the wicked"
+    },
+    {
+     "id": "poole/ECC.3.17#p3-85ee11ec",
+     "text": "fixed by God’s unalterable decree. He implies, that as this life is the sinner’s time in which he doth whatsoever seemeth good in his own eyes, so God will have his time to reckon with them, and rectify all these disorders.",
+     "anchor": "A time"
+    },
+    {
+     "id": "poole/ECC.3.17#p4-7e7c7ae3",
+     "text": "in the presence or at the judgment-seat of God; which is easily understood out of the foregoing words, the relative being put for the antecedent, as it is Num 7:89 Est 9:25 Job 1:21 Psa 14:5 114:2. Or it may be rendered then, as this particle is used, Psa 14:5 Hos 2:15, and as it is usual in other authors for adverbs of place to be put for adverbs of time.",
+     "anchor": "There",
+     "refs": [
+      {
+       "text": "Num 7:89",
+       "ref": "NUM.7.89"
+      },
+      {
+       "text": "Est 9:25",
+       "ref": "EST.9.25"
+      },
+      {
+       "text": "Job 1:21",
+       "ref": "JOB.1.21"
+      },
+      {
+       "text": "Psa 14:5",
+       "ref": "PSA.14.5"
+      },
+      {
+       "text": "Psa 14:5",
+       "ref": "PSA.14.5"
+      },
+      {
+       "text": "Hos 2:15",
+       "ref": "HOS.2.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.17#p5-37d7948a",
+     "text": "for the examining and judging, not only all men’s practices or open actions, but also all their secret thoughts and purposes; all the evil which they either did, or designed, or desired, or endeavoured to do. The design of this verse is partly to strike a terror into oppressing potentates, and partly to satisfy the doubts and support the spirits of good men, who are oppressed in this life.",
+     "anchor": "For every purpose, and for every work"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.18",
+   "range": "ECC.3.18",
+   "kind": "passage",
+   "hash": "85ac1889",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.18#p1-e58eedf5",
+     "text": "and further I considered with myself.",
+     "anchor": "I said in my heart"
+    },
+    {
+     "id": "poole/ECC.3.18#p2-8c78dfa0",
+     "text": "concerning their condition and deportment in this present world.",
+     "anchor": "Concerning the estate of the sons of men"
+    },
+    {
+     "id": "poole/ECC.3.18#p3-d02b017f",
+     "text": "God suffers these horrible disorders among men, expressed Ecc 3:16, that he might discover men to themselves, and by permitting these actions show what strange creatures they are, and what vile hearts they have, which men would not otherwise understand or believe. See 2Ki 8:13,14.",
+     "anchor": "That God might manifest them",
+     "refs": [
+      {
+       "text": "Ecc 3:16",
+       "ref": "ECC.3.16"
+      },
+      {
+       "text": "2Ki 8:13",
+       "ref": "2KI.8.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.18#p4-8c630bb4",
+     "text": "Heb. that they are beasts to themselves; either,",
+     "anchor": "That they themselves are beasts"
+    },
+    {
+     "id": "poole/ECC.3.18#p5-affc8c81",
+     "text": "1. One to another, devouring and destroying one another. Or,"
+    },
+    {
+     "id": "poole/ECC.3.18#p6-b097b598",
+     "text": "2. In their own judgment, or themselves being judges; that although God made them men or reasonable creatures, yet they have made themselves beasts by their brutish practices; and that men, considered only with respect unto the present life, which is the only thing valued and regarded by most men, and the vanity whereof is the principal subject of this book, are as vain and miserable creatures as the beasts themselves, the great differences between men and beasts being such as respect the other life. For men seem here to be called beasts in both these respects, and the latter he prosecutes more largely in the following verses."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.19",
+   "range": "ECC.3.19",
+   "kind": "passage",
+   "hash": "bd1ddbf7",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.19#p1-bcbbab8e",
+     "text": "they are subject to the same diseases, pains, and casualties.",
+     "anchor": "Befalleth beasts"
+    },
+    {
+     "id": "poole/ECC.3.19#p2-96700e62",
+     "text": "as certainly, and no less painfully.",
+     "anchor": "So dieth the other"
+    },
+    {
+     "id": "poole/ECC.3.19#p3-53722047",
+     "text": "one breath of life, which is in their nostrils; one and the same living soul, by which the beasts perform the same vital and animal operations. For he speaks not here of man’s rational and immortal spirit, nor of the future life.",
+     "anchor": "One breath"
+    },
+    {
+     "id": "poole/ECC.3.19#p4-b257f00e",
+     "text": "in respect of the present life and sensible things. Nay, the beasts have quicker senses than men, and therefore enjoy more pleasure in those things, and that with less dangers and mischief, than men do.",
+     "anchor": "A man hath no pre-eminence above a beast"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.20",
+   "range": "ECC.3.20",
+   "kind": "passage",
+   "hash": "0daacfa9",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.20#p1-783984cb",
+     "text": "to the earth, as it is expressed, Ecc 3:21, out of which they were both taken.",
+     "anchor": "All go unto one place",
+     "refs": [
+      {
+       "text": "Ecc 3:21",
+       "ref": "ECC.3.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.20#p2-010502c1",
+     "text": "which is meant only of their bodies, as it is explained, Ecc 12:7.",
+     "anchor": "All turn to dust again",
+     "refs": [
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.21",
+   "range": "ECC.3.21",
+   "kind": "passage",
+   "hash": "b5b80924",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.21#p1-2aa627ee",
+     "text": "It might be objected, that the conditions of men and beasts are vastly differing, because man’s spirit goeth upward to God, Ecc 12:7, but the spirit of a beast goeth downward, together with its body, and perisheth with it. To this he answers, Who knoweth this? which is not to be understood as if no man did know it, or as if the thing were utterly uncertain and unknown, for he knew it, and positively affirms it, Ecc 12:7; but that few know it; as the same manner of expression is understood, Pro 31:10, Who can find? Isa 53:1, Who hath believed? &c.; which note the scarcity or difficulty, but not the nullity or impossibility of the thing.",
+     "refs": [
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      },
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      },
+      {
+       "text": "Pro 31:10",
+       "ref": "PRO.31.10"
+      },
+      {
+       "text": "Isa 53:1",
+       "ref": "ISA.53.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.21#p2-35b449f6",
+     "text": "Besides, he seems here to speak not so much of a speculative as of a practical knowledge, as such words are most commonly used. Who considers or regards this, or layeth it to heart? True it is, there is such a difference, which also is known and believed by wise and good men; but the generality of mankind never mind it; their hearts are wholly set upon this life, and upon present and sensible things, and they place all their hopes and happiness in them, and take no thought nor care for the things of the future and invisible world."
+    },
+    {
+     "id": "poole/ECC.3.21#p3-b7d7d0cf",
+     "text": "And as to them with whom Solomon hath to do in this matter, the argument is strong and good, being, as logicians call it, an argument to the man; and there is no considerable difference between sensual men and beasts, because their affections are set upon the same objects, and both of them are partakers of the same sensual satisfactions, and subject to the same sensual pains and miseries, and their hopes and felicity perish together, to wit, at death, and therefore such men are no more happy than the beasts that perish. Others understand it thus, Who knoweth this? to wit, by sense or experience, or merely by his own reason, or without the help of Divine revelation."
+    },
+    {
+     "id": "poole/ECC.3.21#p4-26fb3dc7",
+     "text": "But, with the leave of so many worthy interpreters, and with submission to better judgments, the former seems to be the truer sense."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.3.22",
+   "range": "ECC.3.22",
+   "kind": "passage",
+   "hash": "7a1f4e54",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.3.22#p1-a6a46867",
+     "text": "to wit, for a man’s present satisfaction, and the happiness of this life, than that a man should rejoice in his own works; that he comfortably enjoy what God hath given him, and not disquiet himself with cares about future events. He seems to speak this, not in the person of an epicure, but as his own judgment, which also he declareth, Ecc 2:24 5:18,19 8:15.",
+     "anchor": "There is nothing better",
+     "refs": [
+      {
+       "text": "Ecc 2:24",
+       "ref": "ECC.2.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.3.22#p2-491adc27",
+     "text": "this is the benefit of his labours; he hath no more than he useth, for what he leaveth behind him is not his, but another man’s.",
+     "anchor": "That is his portion"
+    },
+    {
+     "id": "poole/ECC.3.22#p3-7de54f5a",
+     "text": "when once he is dead he shall never return into this life to see into whose hands his estate falls, and how it is either used or abused; nor is he at all concerned in those matters.",
+     "anchor": "Who shall bring him to see what shall be after him?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "source": "trapp",
+ "book": "ISA",
+ "chapter": 39,
+ "units": [
+  {
+   "id": "trapp/ISA.39.1",
+   "range": "ISA.39.1",
+   "kind": "passage",
+   "hash": "8a83bb8e",
+   "paragraphs": [
+    {
+     "id": "trapp/ISA.39.1#p1-8a83bb8e",
+     "text": "See 2Ki 20:12 &c. {See Trapp on \"2Ki 20:12\"} &c.",
+     "refs": [
+      {
+       "text": "2Ki 20:12",
+       "ref": "2KI.20.12"
+      },
+      {
+       "text": "2Ki 20:12",
+       "ref": "2KI.20.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

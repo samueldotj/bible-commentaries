@@ -1,0 +1,214 @@
+{
+ "source": "poole",
+ "book": "EST",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/EST.5",
+   "range": "EST.5",
+   "kind": "chapter",
+   "hash": "2d4fe173",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5#p1-2d4fe173",
+     "text": "Esther, venturing on the king’s favour, hath the golden sceptre held out to her, Est 5:1-3. She inviteth the king and Haman to a banquet, Est 5:4,5; and being encouraged by the king in her petition, Est 5:6, invites them to another banquet, Est 5:7,8. Haman’s joy, but angry with Mordecai for contemning him, Est 5:9-13. By the counsel of his wife he builds a gallows for him, Est 5:14.",
+     "refs": [
+      {
+       "text": "Est 5:1-3",
+       "ref": "EST.5.1-3"
+      },
+      {
+       "text": "Est 5:4",
+       "ref": "EST.5.4"
+      },
+      {
+       "text": "Est 5:6",
+       "ref": "EST.5.6"
+      },
+      {
+       "text": "Est 5:7",
+       "ref": "EST.5.7"
+      },
+      {
+       "text": "Est 5:9-13",
+       "ref": "EST.5.9-13"
+      },
+      {
+       "text": "Est 5:14",
+       "ref": "EST.5.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.1",
+   "range": "EST.5.1",
+   "kind": "passage",
+   "hash": "afe83074",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.1#p1-2f7853f3",
+     "text": "of which See Poole \"Est 4:16\".",
+     "anchor": "On the third day",
+     "refs": [
+      {
+       "text": "Est 4:16",
+       "ref": "EST.4.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/EST.5.1#p2-8e77abb5",
+     "text": "that she might render herself as amiable in the king’s eyes as she could, and so obtain her request.",
+     "anchor": "Esther put on her royal apparel"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.2",
+   "range": "EST.5.2",
+   "kind": "passage",
+   "hash": "5335e4f7",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.2#p1-1b70859c",
+     "text": "in testimony that he pardoned her presumption, and accepted her person, and was ready to grant her petition.",
+     "anchor": "The king held out the golden sceptre"
+    },
+    {
+     "id": "poole/EST.5.2#p2-30cf0882",
+     "text": "in token of her thankful acceptance of the king’s great favour, and of her reverence and submission to his majesty, whereof that might possibly be a usual token, and it may be, at the king’s call and invitation to her to come near to him.",
+     "anchor": "Esther touched the top of his sceptre"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.4",
+   "range": "EST.5.4",
+   "kind": "passage",
+   "hash": "e0a9df12",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.4#p1-e0a9df12",
+     "text": "She invited Haman; partly that by showing such respect to the king’s great favourite she might insinuate herself into the king’s good opinion and affection; and partly that, if she saw fit, she might then present her request to the king."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.6",
+   "range": "EST.5.6",
+   "kind": "passage",
+   "hash": "7f1363aa",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.6#p1-a12a5354",
+     "text": "either,",
+     "anchor": "At the banquet of wine"
+    },
+    {
+     "id": "poole/EST.5.6#p2-20489b5e",
+     "text": "1. At the latter end of the feast, when they used to drink wine more freely, whereas in the former part most of their drink was water. Or,"
+    },
+    {
+     "id": "poole/EST.5.6#p3-0b52e4f4",
+     "text": "2. At her banquet; which is so called, because it consisted not of meals, which probably the king had plentifully eaten before at his own table, but of fruits and wines; which banquets were very frequent among the Persians."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.8",
+   "range": "EST.5.8",
+   "kind": "passage",
+   "hash": "1bff9e58",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.8#p1-1bff9e58",
+     "text": "I will acquaint thee with my humble request. She did not present her petition at this time, but delayed it till the next meeting; either through modesty, or because she was a little daunted with the king’s presence, and had not yet good courage to propose her request; or in policy, because she would further engage the king’s affection to her by a second entertainment, and would also intimate to him that her petition was of a more than ordinary nature; and principally by direction and disposition of the Divine Providence, which took away her courage or utterance for this time, that she might have a better opportunity for it the next time, by that great accident which happened before it."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.9",
+   "range": "EST.5.9",
+   "kind": "passage",
+   "hash": "fc043f02",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.9#p1-fc043f02",
+     "text": "partly, lest he should seem or be interpreted to give him that adoration which he hitherto had justly denied; partly, because by his bloody and barbarous design and practice he had put off all humanity, and forfeited all respect; and partly, to show how little he feared him, and that he had a firm confidence in his God that he would deliver him and his people in this great exigence; which he was the more encouraged to hope, because God had inclined Esther’s heart to that pious and valiant resolution of interceding with the king, which he doubted not would meet with good success.",
+     "anchor": "Mordecai stood not up, nor moved for him"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.10",
+   "range": "EST.5.10",
+   "kind": "passage",
+   "hash": "aa5c2ed2",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.10#p1-aa5c2ed2",
+     "text": "from taking present vengeance upon Mordecai, to which he was strongly inclined, and which he might easily have effected, either by his own or any of his servants’ hands, without any expectation or fear of inconvenience to himself, who having obtained license to destroy a whole nation, could easily get a pardon for having killed one obscure and infamous member of it. Herein therefore God’s wise and powerful providence appeared in disposing Haman’s heart, contrary to his own inclination and interest, and making him, as it were, to put fetters upon his own hands.",
+     "anchor": "Haman refrained himself"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.11",
+   "range": "EST.5.11",
+   "kind": "passage",
+   "hash": "7134597f",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.11#p1-7134597f",
+     "text": "partly to gratify his own vain-glorious humour; and partly to aggravate Mordecai’s impudence in denying him civil respect, and to alleviate his own vexation caused by it.",
+     "anchor": "Haman told them of the glory of his riches"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.12",
+   "range": "EST.5.12",
+   "kind": "passage",
+   "hash": "0a6ff91c",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.12#p1-0a6ff91c",
+     "text": "Thus he makes that matter of glorying which was designed for and the occasion of his utter ruin. So ignorant are the wisest men, and subject to fatal mistakes; rejoicing when they have most cause of fear and grief, and sorrowing for those things which tend to joy and comfort."
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.13",
+   "range": "EST.5.13",
+   "kind": "passage",
+   "hash": "faca6cf7",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.13#p1-33a73e2e",
+     "text": "i.e. gives me no content. Such torment did his envy and malice bring upon him.",
+     "anchor": "Availeth me nothing"
+    },
+    {
+     "id": "poole/EST.5.13#p2-2367957d",
+     "text": "enjoying that honour and privilege without disturbance, and denying me the worship due to me by my place, and by the king’s command; though this last and the chief cause of his rage he was somewhat ashamed to express. Either Mordecai was come, having laid by his sackcloth for this time, that he might be in a capacity of coming thither, and so of understanding how matters proceeded. Besides, this was a private fast, and so he was not obliged always to wear his sackcloth in public, during the whole time of the fast, though he did once come abroad with it, that the cause of it might be publicly known, and so come to Esther’s ears.",
+     "anchor": "Sitting at the king’s gate"
+    }
+   ]
+  },
+  {
+   "id": "poole/EST.5.14",
+   "range": "EST.5.14",
+   "kind": "passage",
+   "hash": "bae2eacb",
+   "paragraphs": [
+    {
+     "id": "poole/EST.5.14#p1-bae2eacb",
+     "text": "that it might be more conspicuous to all, and thereby be more disgraceful to Mordecai, and strike all Haman’s enemies with the great dread of despising or opposing him.",
+     "anchor": "Fifty cubits high"
+    }
+   ]
+  }
+ ]
+}

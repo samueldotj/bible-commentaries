@@ -1,0 +1,97 @@
+{
+ "source": "poole",
+ "book": "2CH",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "poole/2CH.6",
+   "range": "2CH.6",
+   "kind": "chapter",
+   "hash": "59f9f2cf",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.6#p1-59f9f2cf",
+     "text": "Solomon blesseth the people, and praiseth God. 2Ch 6:1-11. His excellent prayer, wherein he showeth the right use of the temple 2Ch 6:12-42.",
+     "refs": [
+      {
+       "text": "2Ch 6:1-11",
+       "ref": "2CH.6.1-11"
+      },
+      {
+       "text": "2Ch 6:12-42",
+       "ref": "2CH.6.12-42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.6.1",
+   "range": "2CH.6.1",
+   "kind": "passage",
+   "hash": "442bad2f",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.6.1#p1-442bad2f",
+     "text": "This whole chapter, for the substance, and almost all the words of it, are explained See Poole \"1Ki 8:1\".",
+     "refs": [
+      {
+       "text": "1Ki 8:1",
+       "ref": "1KI.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.6.41",
+   "range": "2CH.6.41",
+   "kind": "passage",
+   "hash": "59c989a5",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.6.41#p1-6a69443a",
+     "text": "O thou that sittest in the heavens. arise from the throne of thy glory, and come down into this place, which thou hast appointed for thy constant and fixed habitation, from which thou wilt not remove, as formerly thou hast done, from place to place."
+    },
+    {
+     "id": "poole/2CH.6.41#p2-05cfe04a",
+     "text": "i.e. thou in the ark.",
+     "anchor": "Thou and the ark"
+    },
+    {
+     "id": "poole/2CH.6.41#p3-233500b1",
+     "text": "which is the sign and instrument of thy great power put forth from time to time on the behalf of thy people.",
+     "anchor": "Of thy strength"
+    },
+    {
+     "id": "poole/2CH.6.41#p4-c2106061",
+     "text": "i.e. let them be adorned and encompassed on every side with thy protection and benediction. For he seems rather to speak of the salvation afforded to the priests, than of that which by God’s blessing on the priests’ labours is conferred upon the people; this being a prayer for God’s blessing upon the whole community, consisting of priests and people.",
+     "anchor": "Let thy priests, O Lord God, be clothed with salvation"
+    },
+    {
+     "id": "poole/2CH.6.41#p5-b50a791e",
+     "text": "i.e. let them have cause of rejoicing and thanksgiving for the effects of thy goodness imparted unto them.",
+     "anchor": "Let thy saints rejoice in goodness"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.6.42",
+   "range": "2CH.6.42",
+   "kind": "passage",
+   "hash": "cb5df456",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.6.42#p1-d7ba7a6f",
+     "text": "i.e. of me, who by thy command and appointment was anointed the king and ruler of thy people: do not deny my present requests, nor send me back from the throne of thy grace with a sad heart and dejected countenance.",
+     "anchor": "Of thine anointed"
+    },
+    {
+     "id": "poole/2CH.6.42#p2-b452ef6c",
+     "text": "i.e. those which thou hast promised to David and to his house for ever.",
+     "anchor": "The mercies of David thy servant"
+    }
+   ]
+  }
+ ]
+}

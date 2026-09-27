@@ -1,0 +1,105 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 100,
+ "units": [
+  {
+   "id": "poole/PSA.100",
+   "range": "PSA.100",
+   "kind": "chapter",
+   "hash": "f33f226e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.100#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.100#p2-8ae83c20",
+     "text": "This Psalm seems to have been composed for the use of the Israelites in their thank-offerings, or upon other solemn occasions of praising God, as the title speaks; but withal it hath a further prospect, even to the days of the Messiah, as some of the Hebrew doctors acknowledge, and to the calling of the Gentiles, whom he invites to join with them in the praises of God their Lord and Maker."
+    },
+    {
+     "id": "poole/PSA.100#p3-0bb3c023",
+     "text": "An exhortation to praise God joyfully, Psa 100:1,2, for his greatness, power, Psa 100:3,4, goodness, and faithfulness to his church, Psa 100:5.",
+     "refs": [
+      {
+       "text": "Psa 100:1",
+       "ref": "PSA.100.1"
+      },
+      {
+       "text": "Psa 100:3",
+       "ref": "PSA.100.3"
+      },
+      {
+       "text": "Psa 100:5",
+       "ref": "PSA.100.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.100.1",
+   "range": "PSA.100.1",
+   "kind": "passage",
+   "hash": "ae16c95a",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.100.1#p1-2a50d96e",
+     "text": "partly with voices and songs of rejoicing and thanksgiving; and partly with musical instruments, as the manner then was.",
+     "anchor": "Make a joyful noise"
+    },
+    {
+     "id": "poole/PSA.100.1#p2-f6c1659a",
+     "text": "all the inhabitants of the earth. Or, all the land, i.e. all the people of Israel dwelling in this land. Although his invitation seems to be more general, extending also to the Gentiles, of whom many even in those days joined themselves to the church of God.",
+     "anchor": "All ye lands"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.100.3",
+   "range": "PSA.100.3",
+   "kind": "passage",
+   "hash": "7d3ce8f8",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.100.3#p1-9a295675",
+     "text": "both by creation, and by adoption and regeneration, whereby he made us his people, which also is called a creation or making, as Deu 32:6 Isa 29:23 43:7 Eph 2:10.",
+     "anchor": "It is he that hath made us",
+     "refs": [
+      {
+       "text": "Deu 32:6",
+       "ref": "DEU.32.6"
+      },
+      {
+       "text": "Isa 29:23",
+       "ref": "ISA.29.23"
+      },
+      {
+       "text": "Eph 2:10",
+       "ref": "EPH.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.100.3#p2-1461ce32",
+     "text": "therefore we owe him homage and service, and him only, and not other gods, who made us not.",
+     "anchor": "And not we ourselves"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.100.4",
+   "range": "PSA.100.4",
+   "kind": "passage",
+   "hash": "0c45f768",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.100.4#p1-0c45f768",
+     "text": "the gates of his courts; for the people might enter no further, and the courts had walls and gates as well as the house.",
+     "anchor": "Enter into his gates"
+    }
+   ]
+  }
+ ]
+}

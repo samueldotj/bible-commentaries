@@ -1,0 +1,94 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 108,
+ "units": [
+  {
+   "id": "poole/PSA.108",
+   "range": "PSA.108",
+   "kind": "chapter",
+   "hash": "c969a546",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.108#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.108#p2-05657c8c",
+     "text": "This Psalm is almost word for word taken out of two foregoing Psalms, the first five verses out of Psa 57:7-11, and the rest out of Psa 60:5, &c., to which the reader must resort for the explication of it. This only is observable, that the psalmist designing to take the body of this Psalm out of Psa 60, doth industriously lay aside that mournful preface, Psa 60:1-4, and borrows one more pleasant out of Psa 57. The reason of which change is supposed to be this, that Psa 60 was composed in the time of his danger and distress, and the latter after his deliverance.",
+     "refs": [
+      {
+       "text": "Psa 57:7-11",
+       "ref": "PSA.57.7-11"
+      },
+      {
+       "text": "Psa 60:5",
+       "ref": "PSA.60.5"
+      },
+      {
+       "text": "Psa 60:1-4",
+       "ref": "PSA.60.1-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.108#p3-d399ee15",
+     "text": "David rouseth up himself to praise the Lord, Psa 108:1-4; praying also for assistance, being fully assured of it, against his enemies, Psa 108:5-13.",
+     "refs": [
+      {
+       "text": "Psa 108:1-4",
+       "ref": "PSA.108.1-4"
+      },
+      {
+       "text": "Psa 108:5-13",
+       "ref": "PSA.108.5-13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.108.1",
+   "range": "PSA.108.1",
+   "kind": "passage",
+   "hash": "48b15c2d",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.108.1#p1-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/PSA.108.1#p2-0ba1e880",
+     "text": "1. With my heart or soul, which is fixed for that work, as he said in the former branch. Or rather,"
+    },
+    {
+     "id": "poole/PSA.108.1#p3-2d069eaf",
+     "text": "2. With my tongue, which is called a man’s glory, Psa 16:9, compared with Act 2:26. So the first branch describes the fixedness of his heart, to which this adds the expressions of his mouth.",
+     "refs": [
+      {
+       "text": "Psa 16:9",
+       "ref": "PSA.16.9"
+      },
+      {
+       "text": "Act 2:26",
+       "ref": "ACT.2.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.108.10",
+   "range": "PSA.108.10",
+   "kind": "passage",
+   "hash": "e359d947",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.108.10#p1-e359d947",
+     "text": "This he repeats in this place, either because, though the enemies were defeated and subdued, yet there was some strong city or cities which were not yet taken; or in way of thankful commemoration of God’s goodness in answering his former requests, as if he had said, I remember this day, to thy glory and my own comfort, my former straits and dangers, which made mile cry out, Who will bring me, &c.?"
+    }
+   ]
+  }
+ ]
+}

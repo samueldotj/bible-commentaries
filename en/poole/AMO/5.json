@@ -1,0 +1,1112 @@
+{
+ "source": "poole",
+ "book": "AMO",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/AMO.5",
+   "range": "AMO.5",
+   "kind": "chapter",
+   "hash": "1eadf258",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5#p1-1eadf258",
+     "text": "A lamentation for Israel, Amo 5:1-3. An exhortation to repentance, Amo 5:4-20. God rejecteth their hypocritical service, Amo 5:21-27.",
+     "refs": [
+      {
+       "text": "Amo 5:1-3",
+       "ref": "AMO.5.1-3"
+      },
+      {
+       "text": "Amo 5:4-20",
+       "ref": "AMO.5.4-20"
+      },
+      {
+       "text": "Amo 5:21-27",
+       "ref": "AMO.5.21-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.1",
+   "range": "AMO.5.1",
+   "kind": "passage",
+   "hash": "d0cbd84c",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.1#p1-b9753f3f",
+     "text": "This preface you have in the same words Amo 3:1, and in part also Amo 4:1; to which I now add, that the person here speaking may refer to the prophet and to the Lord who sent him, both speak this word.",
+     "refs": [
+      {
+       "text": "Amo 3:1",
+       "ref": "AMO.3.1"
+      },
+      {
+       "text": "Amo 4:1",
+       "ref": "AMO.4.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.1#p2-3b98cab2",
+     "text": "which is very sad and mournful to all concerned in it, woeful news to the kingdom of the ten tribes.",
+     "anchor": "A lamentation"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.2",
+   "range": "AMO.5.2",
+   "kind": "passage",
+   "hash": "11d1a6d6",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.2#p1-24fe40a3",
+     "text": "this name is given to her not for her purity and integrity, for she was an adulteress, but either ironically, or because her present riches, glory, and beauty seemed to be that of a virgin that had her portion, strength, and honour untouched; or else by a figure as properly may it be applied to Israel, as to Babylon, Isa 47:1, or to Egypt, Jer 46:11, to Zidon, Isa 23:12.",
+     "anchor": "The virgin",
+     "refs": [
+      {
+       "text": "Isa 47:1",
+       "ref": "ISA.47.1"
+      },
+      {
+       "text": "Jer 46:11",
+       "ref": "JER.46.11"
+      },
+      {
+       "text": "Isa 23:12",
+       "ref": "ISA.23.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.2#p2-815536b2",
+     "text": "or shall ere long fall, the thing put as done already because of the certainty of it. Or rather, is already falling by civil wars and conspiracies, which prepared way for the final ruin of Israel: it is possible this sermon of the prophet might be about the time that Shallum or Menahem usurped the throne. Or else it may refer to the times of Jehoahaz, when that of the third verse will appear to have been fulfilled; this seems most probable.",
+     "anchor": "Is fallen"
+    },
+    {
+     "id": "poole/AMO.5.2#p3-95efd055",
+     "text": "though they might by repentance have risen again, yet the prophet, considering their obstinacy, speaks of it as a thing that should never be, as eventually it proved also, for Israel never recovered the fall by Shalmaneser.",
+     "anchor": "She shall no more rise"
+    },
+    {
+     "id": "poole/AMO.5.2#p4-6824d298",
+     "text": "broken to pieces upon her own land, and so left as a broken vessel; or she shall be by home divisions first broken, and afterwards carried captive.",
+     "anchor": "She is forsaken upon her land"
+    },
+    {
+     "id": "poole/AMO.5.2#p5-f7cfaab0",
+     "text": "none at home among all her princes, counsellors, and rulers, nor any friend among her allies; all leave her to sink.",
+     "anchor": "There is none to raise her up"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.3",
+   "range": "AMO.5.3",
+   "kind": "passage",
+   "hash": "4ae6be0d",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.3#p1-b9911202",
+     "text": "this solemnly attesteth the certainty of the thing.",
+     "anchor": "Thus saith the Lord God"
+    },
+    {
+     "id": "poole/AMO.5.3#p2-0ff65906",
+     "text": "that sent out one thousand soldiers as the quota they were assessed at to help against an invader,",
+     "anchor": "The city that went out by a thousand"
+    },
+    {
+     "id": "poole/AMO.5.3#p3-60fa90f8",
+     "text": "shall lose nine parts of ten, so great shall the slaughter be which the prevailing enemy shall make upon Israel; and here the prophet useth a certain number to express an uncertain; or proverbially, scarce a tenth man shall escape.",
+     "anchor": "shall leave a hundred"
+    },
+    {
+     "id": "poole/AMO.5.3#p4-d516d566",
+     "text": "the kingdom of the ten tribes; and this perhaps may refer backward to Jehoahaz’s time, 2Ki 13; to be sure it is fulfilled in the wars of Shalmaneser and the taking Samaria.",
+     "anchor": "That which went forth by a hundred shall leave ten, to the house of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.4",
+   "range": "AMO.5.4",
+   "kind": "passage",
+   "hash": "e21439a8",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.4#p1-71606a28",
+     "text": "or yet, truly.",
+     "anchor": "For"
+    },
+    {
+     "id": "poole/AMO.5.4#p2-0cdb3c72",
+     "text": "amidst all those threats there is still a reserve, a conditional proviso, and the Lord here does by his prophet declare it.",
+     "anchor": "Thus saith the Lord"
+    },
+    {
+     "id": "poole/AMO.5.4#p3-80ae48ad",
+     "text": "though apostate both in sacred and civil things, though polluted and defiled greatly, and this through many scores of years, yet after all repentance would help them.",
+     "anchor": "Unto the house of Israel"
+    },
+    {
+     "id": "poole/AMO.5.4#p4-c1f7aebc",
+     "text": "inquire for my law, and repent of your despising it, obey it in all things for the future, inquire diligently what promises I have made and wait for them, believe, obey, and repent; for this is to seek the Lord, when a people have turned from the Lord, as you have done, O house of Israel.",
+     "anchor": "Seek ye me"
+    },
+    {
+     "id": "poole/AMO.5.4#p5-eacf03e9",
+     "text": "it shall be well with you, your persons, families, and the whole kingdom shall prosper, as the Hebrew phrase importeth.",
+     "anchor": "Ye shall live"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.5",
+   "range": "AMO.5.5",
+   "kind": "passage",
+   "hash": "4923f86a",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.5#p1-ec69763f",
+     "text": "consult not, worship not, depend not on the idol calf at Beth-el; or seek not God at Beth-el, but at Jerusalem, where he will be found; cast off idolatry, return to the true God and to his instituted worship, so shall ye live.",
+     "anchor": "But seek not Beth-el"
+    },
+    {
+     "id": "poole/AMO.5.5#p2-6d83d324",
+     "text": "a city of great idolatry, a place where God will not be sought nor found by you: see Hos 4:15 9:15 12:11, where it is more fully explained.",
+     "anchor": "Nor enter into Gilgal",
+     "refs": [
+      {
+       "text": "Hos 4:15",
+       "ref": "HOS.4.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.5#p3-1852c230",
+     "text": "though God of old did appear there to Isaac, Gen 26:24, though Abraham dwelt there, Gen 21:31-33, and Jacob sacrificed there with acceptance, Gen 46:1-3, yet now God appointeth Jerusalem and the temple the only places of his solemn worship, and of your seeking him.",
+     "anchor": "Pass not to Beer-sheba",
+     "refs": [
+      {
+       "text": "Gen 26:24",
+       "ref": "GEN.26.24"
+      },
+      {
+       "text": "Gen 21:31-33",
+       "ref": "GEN.21.31-33"
+      },
+      {
+       "text": "Gen 46:1-3",
+       "ref": "GEN.46.1-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.5#p4-dacbca64",
+     "text": "the inhabitants of Gilgal, for the place could not go into captivity; it is a metonymy, the place put for the people.",
+     "anchor": "Gilgal"
+    },
+    {
+     "id": "poole/AMO.5.5#p5-1bd76308",
+     "text": "Shalmaneser and his Assyrians shall certainly carry them away captives.",
+     "anchor": "Shall surely go into captivity"
+    },
+    {
+     "id": "poole/AMO.5.5#p6-5d99d4f2",
+     "text": "both city and people,",
+     "anchor": "Beth-el"
+    },
+    {
+     "id": "poole/AMO.5.5#p7-c997ea95",
+     "text": "shall be vanity and disappointment to all that trust to the idols of it.",
+     "anchor": "shall come to nought"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.6",
+   "range": "AMO.5.6",
+   "kind": "passage",
+   "hash": "d465765d",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.6#p1-e6df8d24",
+     "text": "the prophet repeateth his exhortation to repentance with the repeated promise of a good issue hereon: see Amo 5:4.",
+     "anchor": "Seek the Lord, and ye shall life",
+     "refs": [
+      {
+       "text": "Amo 5:4",
+       "ref": "AMO.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.6#p2-762ab0f9",
+     "text": "this is a new argument to persuade them to do their duty, for unless they do it God’s judgments will break out upon them.",
+     "anchor": "Lest he break out"
+    },
+    {
+     "id": "poole/AMO.5.6#p3-c38cf0a1",
+     "text": "suddenly, with strength and prevalence, as the Hebrew word here rendered break out importeth. In the house of Joseph; the kingdom of the ten tribes, the chief whereof was Ephraim, who was the younger son of Joseph, and the first erecter of this kingdom was an Ephraimite, 1Ki 11:26.",
+     "anchor": "Like fire",
+     "refs": [
+      {
+       "text": "1Ki 11:26",
+       "ref": "1KI.11.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.6#p4-e297c1a9",
+     "text": "utterly consume it, as fire useth to do where it gets head and prevaileth.",
+     "anchor": "And devour it"
+    },
+    {
+     "id": "poole/AMO.5.6#p5-4a782e21",
+     "text": "if once this fire break out from God, all your idols in Beth-el shall not be able to quench it; no tears from your eyes there shed, no blood of sacrifice there offered, shall quench it.",
+     "anchor": "And there be none to quench it in Beth-el"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.7",
+   "range": "AMO.5.7",
+   "kind": "passage",
+   "hash": "41e0a77d",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.7#p1-b92ceb50",
+     "text": "rulers and judges.",
+     "anchor": "Ye"
+    },
+    {
+     "id": "poole/AMO.5.7#p2-9e641e92",
+     "text": "the righteous sentence of the law, the equity of it, which is sweet and pleasing to just men, and safe for all.",
+     "anchor": "Judgment"
+    },
+    {
+     "id": "poole/AMO.5.7#p3-7af8fdac",
+     "text": "proverbially understood, bitterness, grief, injustice, and oppression.",
+     "anchor": "Wormwood"
+    },
+    {
+     "id": "poole/AMO.5.7#p4-527fa0ae",
+     "text": "make it to cease in your courts of judicature, and tread it under foot.",
+     "anchor": "Leave off righteousness"
+    },
+    {
+     "id": "poole/AMO.5.7#p5-7106ff31",
+     "text": "or among men, in the land: the latter part of this verse explains the former.",
+     "anchor": "In the earth"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.8",
+   "range": "AMO.5.8",
+   "kind": "passage",
+   "hash": "18fb7524",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.8#p1-cd160426",
+     "text": "though this be not in the Hebrew, it is well supplied by our interpreters.",
+     "anchor": "Seek him"
+    },
+    {
+     "id": "poole/AMO.5.8#p2-f312df81",
+     "text": "a famous constellation, and whose rising about September was usually accompanied with rains and sweet showers, which, as Amo 4:7, had been withholden, whence want of water and bread; now the prophet adviseth to seek the Lord, who can give them rain and corn by the kindly influences of that watery constellation, which as he made, so he guides and manageth. This I take to be the most natural meaning of the place.",
+     "anchor": "That maketh the seven stars",
+     "refs": [
+      {
+       "text": "Amo 4:7",
+       "ref": "AMO.4.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.8#p3-9ffcb2d5",
+     "text": "which rising about November brings usually cold rains and frosts, intermixed with much uncertainty, but very seasonable for the earth, to make it fruitful; this mentioned to persuade these people to repent, who were afflicted with such barrenness and unfruitfulness as brought famine with it.",
+     "anchor": "Orion"
+    },
+    {
+     "id": "poole/AMO.5.8#p4-f15b8f13",
+     "text": "proverbially, that turneth greatest adversity, which is here called the",
+     "anchor": "Turneth the shadow of death into the morning"
+    },
+    {
+     "id": "poole/AMO.5.8#p5-651a2caf",
+     "text": "into as great prosperity, here called the morning, Psa 23:4.",
+     "anchor": "shadow of death",
+     "refs": [
+      {
+       "text": "Psa 23:4",
+       "ref": "PSA.23.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.8#p6-9cd0ee6a",
+     "text": "metaphorically this expresseth a change of prosperity into adversity. Ye house of Israel, think well of it, you are in a dangerous state; be advised to seek him who can turn your morning into night, or your night into morning; who can on a sudden remove all evil from you, and bring all good upon you; seek him therefore, and seek not idols.",
+     "anchor": "Maketh the day dark with night"
+    },
+    {
+     "id": "poole/AMO.5.8#p7-3ab6851c",
+     "text": "either to raise them to terrible swellings and rage, or rather calls up waters out of the sea, by commanding the vapour to ascend, which he turneth into rain;",
+     "anchor": "Calleth for the waters of the sea"
+    },
+    {
+     "id": "poole/AMO.5.8#p8-23607f4d",
+     "text": "and then poureth out from the clouds to make the earth fruitful.",
+     "anchor": "and poureth them out upon the face of the earth"
+    },
+    {
+     "id": "poole/AMO.5.8#p9-73c2c0e7",
+     "text": "he only is God and the Lord. Who doth thus seek him?",
+     "anchor": "The Lord is his name"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.9",
+   "range": "AMO.5.9",
+   "kind": "passage",
+   "hash": "e61f0a37",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.9#p1-352b7e97",
+     "text": "you have been exceedingly weakened and spoiled by your enemies; yet return, repent, seek God, for he can renew your strength, that you shall spoil your spoilers who are strong.",
+     "anchor": "That strengtheneth the spoiled"
+    },
+    {
+     "id": "poole/AMO.5.9#p2-1319c810",
+     "text": "the mighty, victorious, and insolent.",
+     "anchor": "Against the strong"
+    },
+    {
+     "id": "poole/AMO.5.9#p3-d39ab78e",
+     "text": "those that had lost their strength, and were as conquered,",
+     "anchor": "The spoiled"
+    },
+    {
+     "id": "poole/AMO.5.9#p4-ab6cd89f",
+     "text": "shall rally, re-embody, and form a siege against their besiegers: so God, whom you should serve, will soon turn all from dark and dismal into light and pleasing unto you and yours; in your apostacy all will be misery and darkness, but in your return all shall be well and prosperous with you.",
+     "anchor": "shall come against the fortress"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.10",
+   "range": "AMO.5.10",
+   "kind": "passage",
+   "hash": "1b5adbbe",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.10#p1-60ca1011",
+     "text": "Either this is the prophet’s complaint of them without further expecting their compliance with his advice, or he foretells what they will do, judges and people."
+    },
+    {
+     "id": "poole/AMO.5.10#p2-f3f7396d",
+     "text": "they both hate them that rebuke; judges hate the prophets, who rebuke corrupt judges; and the people hate impartial judges, if any such be among them.",
+     "anchor": "They hate him that rebuketh"
+    },
+    {
+     "id": "poole/AMO.5.10#p3-7b11f222",
+     "text": "where judges sat, and where the prophets did many times deliver their message.",
+     "anchor": "In the gate"
+    },
+    {
+     "id": "poole/AMO.5.10#p4-46c54fc5",
+     "text": "they cannot brook any one that deals plainly and honestly with them, whether judge, prophet, or private person.",
+     "anchor": "They abhor him that speaketh uprightly"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.11",
+   "range": "AMO.5.11",
+   "kind": "passage",
+   "hash": "4f6a5050",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.11#p1-d8a1cfca",
+     "text": "their oppression was more than ordinarily proud and tyrannous, expressed here by treading. It was very heavy on the poor, an effect of fraud, and executed with tyrannical insolence, as the word and its paraphrase imports.",
+     "anchor": "Your treading"
+    },
+    {
+     "id": "poole/AMO.5.11#p2-663e65a2",
+     "text": "who have not power to withstand your violence, nor money to buy your friendship.",
+     "anchor": "Is upon the poor"
+    },
+    {
+     "id": "poole/AMO.5.11#p3-a9c77ff8",
+     "text": "receive when offered, and ye force them to offer, you extort from the poor,",
+     "anchor": "Ye take from him"
+    },
+    {
+     "id": "poole/AMO.5.11#p4-50451720",
+     "text": "great quantities of best wheat, on which the poor should live, either making bread of it to feed them, or else making money of it to serve other occasions. It is not said what burden, but probably as much as the poor man was able to carry.",
+     "anchor": "burdens of wheat"
+    },
+    {
+     "id": "poole/AMO.5.11#p5-62ebc19d",
+     "text": "perhaps these corrupt judges had built for their children; so one greedy and ravenous judge might build as many houses as he had sons, or these judges being many, had built many houses.",
+     "anchor": "Ye have built houses"
+    },
+    {
+     "id": "poole/AMO.5.11#p6-999bb1f9",
+     "text": "intimating the greatness, beauty, and strength of them, and they flatter themselves that they and their posterity shall long dwell at ease and multiply in these goodly houses.",
+     "anchor": "Of hewn stone"
+    },
+    {
+     "id": "poole/AMO.5.11#p7-dc4fe60a",
+     "text": "you by oppression build, but God will by his just hand, and by the Assyrians’ violence, turn you out of those houses, and make you captives in a land where your enemies please to carry you, you shall find that, Deu 28:30, fulfilled on you.",
+     "anchor": "But ye shall not dwell in them",
+     "refs": [
+      {
+       "text": "Deu 28:30",
+       "ref": "DEU.28.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.11#p8-a31967f7",
+     "text": "most desirable for situation, for fruitfulness, for sweetness and goodness of the grape; every way delightful.",
+     "anchor": "Pleasant vineyards"
+    },
+    {
+     "id": "poole/AMO.5.11#p9-d225de88",
+     "text": "either they shall not bear, or the enemy shall devour, or you shall be carried away into captivity. The threat, Deu 28:39, shall be executed.",
+     "anchor": "But ye shall not drink wine of them",
+     "refs": [
+      {
+       "text": "Deu 28:39",
+       "ref": "DEU.28.39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.12",
+   "range": "AMO.5.12",
+   "kind": "passage",
+   "hash": "57455dee",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.12#p1-9dc2ad0e",
+     "text": "wonder not at the threatened severity, as if it were too rigorous; it is but proportioned to your sins.",
+     "anchor": "For"
+    },
+    {
+     "id": "poole/AMO.5.12#p2-a8917338",
+     "text": "the Lord, whom you provoke, who have threatened you, know, clearly, fully, and in all the circumstances of them, what moves you to do so, what pretences of law you make: all your evasions are vain and foolish.",
+     "anchor": "I"
+    },
+    {
+     "id": "poole/AMO.5.12#p3-ef800fff",
+     "text": "the increased number of your sins, and the greatness of them too, as the word importeth.",
+     "anchor": "Your manifold transgressions"
+    },
+    {
+     "id": "poole/AMO.5.12#p4-20022f76",
+     "text": "which mightily wrong and break the poor and needy.",
+     "anchor": "Your mighty sins"
+    },
+    {
+     "id": "poole/AMO.5.12#p5-3b76c45e",
+     "text": "besiege, or with hostile minds watch against, and gladly take any occasion to wrong and grieve, the just; not absolutely and sinlessly just, but such as are comparatively just, or those whose cause is just, or those that live with regard to all the commands of God, and follow righteousness: it was the mighty sin of the corrupt rulers in Samaria and Israel at that day, that they were enemies to all righteousness.",
+     "anchor": "They afflict"
+    },
+    {
+     "id": "poole/AMO.5.12#p6-382f84df",
+     "text": "in civil causes bribes carried it; see Amo 2:6; here bribes set criminals free, a ransom. as the word in the Hebrew, buys off the punishment appointed by the law against murderers, adulterers, &c.",
+     "anchor": "They take a bribe",
+     "refs": [
+      {
+       "text": "Amo 2:6",
+       "ref": "AMO.2.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.12#p7-af595099",
+     "text": "the poor, who appear in their courts for justice, they turn them away, or delay to hear, or hear and judge unjustly, and so send them away wronged and crying.",
+     "anchor": "They turn aside the poor in the gate"
+    },
+    {
+     "id": "poole/AMO.5.12#p8-144bf510",
+     "text": "these words fully express the prophet’s meaning, and are therefore well supplied in our version.",
+     "anchor": "From their right"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.13",
+   "range": "AMO.5.13",
+   "kind": "passage",
+   "hash": "0ed00e70",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.13#p1-a8056816",
+     "text": "because that men are so universally impatient of hearing reproof, and yet their sins so much abound, and so much deserve reproof; since they will sooner turn against the speaker, than turn from the sin spoken against.",
+     "anchor": "Therefore"
+    },
+    {
+     "id": "poole/AMO.5.13#p2-eaf635db",
+     "text": "the wise men; prophets, say some, but I rather think other private men are here meant, whose private capacity alloweth them to keep silence when others must speak.",
+     "anchor": "The prudent"
+    },
+    {
+     "id": "poole/AMO.5.13#p3-3a93f9f9",
+     "text": "be forced to it, say some, they shall be silenced; this is true, but rather here is a voluntary, chosen silence toward vile corrupters of law and justice, who will nothing mend though reproved; or a silence before God, owning his justice in punishing such sinners.",
+     "anchor": "Shall keep silence"
+    },
+    {
+     "id": "poole/AMO.5.13#p4-e20549e3",
+     "text": "both for the sinfulness of it, which provoketh God to wrath, and for the sorrows, troubles, wars, and captivity of this people, by the Assyrians.",
+     "anchor": "For it is an evil time"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.14",
+   "range": "AMO.5.14",
+   "kind": "passage",
+   "hash": "ce0bc151",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.14#p1-0acafe7f",
+     "text": "turn to the law of God, study it, that ye may do the good it requireth in works of piety, justice, and charity.",
+     "anchor": "Seek good"
+    },
+    {
+     "id": "poole/AMO.5.14#p2-2eb8b904",
+     "text": "you have devised evil, and done it in works of impiety, injustice, and cruelty. Or this may be the same with Amo 5:4-6, which see.",
+     "anchor": "And not evil",
+     "refs": [
+      {
+       "text": "Amo 5:4-6",
+       "ref": "AMO.5.4-6"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.14#p3-c59e1fba",
+     "text": "see Amo 5:4.",
+     "anchor": "That ye may live",
+     "refs": [
+      {
+       "text": "Amo 5:4",
+       "ref": "AMO.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.14#p4-90ab4dee",
+     "text": "the eternal glorious God, who is Lord of all, and can help you, having all the hosts of heaven and earth at his disposal; he will be with you to bless and save you yet, notwithstanding all your former sins.",
+     "anchor": "The Lord, the God of hosts, shall be with you"
+    },
+    {
+     "id": "poole/AMO.5.14#p5-0146d9c1",
+     "text": "you have boasted his being with you, you think he is bound to be with you and own you; so he will indeed, but it is if you repent, cease from idols and violence.",
+     "anchor": "As ye have spoken"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.15",
+   "range": "AMO.5.15",
+   "kind": "passage",
+   "hash": "70c03e9a",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.15#p1-ae8f9d60",
+     "text": "Slight dislikes will do little in this ease, you rulers and judges must heartily"
+    },
+    {
+     "id": "poole/AMO.5.15#p2-4d1e9795",
+     "text": "and show that you hate, the evil, both ways, doings, contrivers, and abettors of the evil among the people and yourselves;",
+     "anchor": "hate"
+    },
+    {
+     "id": "poole/AMO.5.15#p3-b0407d27",
+     "text": "commend, encourage, defend, and reward all good in others, and do it yourselves; let your heart be toward good things and good men.",
+     "anchor": "and love the good"
+    },
+    {
+     "id": "poole/AMO.5.15#p4-30d5c4a8",
+     "text": "by this it is evident the prophet speaks to governors and judges among them: what the import of the phrase is see Amo 5:10,12. Set up honest and upright judges in every gate, where judges did sit in those days.",
+     "anchor": "Establish judgment in the gate",
+     "refs": [
+      {
+       "text": "Amo 5:10",
+       "ref": "AMO.5.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.15#p5-a7fec22a",
+     "text": "possibly he will forgive, or abate or respite the evil days, possibly he may give you his gracious presence, and yet save",
+     "anchor": "It may be that the Lord God of hosts will be gracious"
+    },
+    {
+     "id": "poole/AMO.5.15#p6-4fd3e483",
+     "text": "what the invasions of enemies, or the civil wars, have spared, and left in Samaria and Israel, the ten tribes: Amo 5:6.",
+     "anchor": "the remnant of Joseph",
+     "refs": [
+      {
+       "text": "Amo 5:6",
+       "ref": "AMO.5.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.16",
+   "range": "AMO.5.16",
+   "kind": "passage",
+   "hash": "60de8384",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.16#p1-aec2371b",
+     "text": "The prophet foreseeing their obstinacy in their sins, and their refusing to obey his counsel from the Lord, doth proceed to denounce judgment against them."
+    },
+    {
+     "id": "poole/AMO.5.16#p2-01971f7d",
+     "text": "that there might be no doubt made of the truth of the prophet’s words, he doth in most solemn manner attest it to be from the Lord; and that he might awake them to repentance and humiliation, he proclaims the majesty and power of God who calls them to it.",
+     "anchor": "The Lord, the God of hosts, the Lord, saith thus"
+    },
+    {
+     "id": "poole/AMO.5.16#p3-0042a490",
+     "text": "lamentations uttered in words and gestures, Ecc 12:5 Jer 4:8 Zec 12:10, shall every where be seen and heard in the broad streets of your cities, as when the Assyrians prevailed and cut off the forces of Israel, besieged and took their strong holds. Shall be in all streets of great towns or cities.",
+     "anchor": "Wailing",
+     "refs": [
+      {
+       "text": "Ecc 12:5",
+       "ref": "ECC.12.5"
+      },
+      {
+       "text": "Jer 4:8",
+       "ref": "JER.4.8"
+      },
+      {
+       "text": "Zec 12:10",
+       "ref": "ZEC.12.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.16#p4-b190ccd4",
+     "text": "abroad in the country, and on the road, all shall cry out, as undone, dispirited, and hopeless men,",
+     "anchor": "They shall say in all the highways"
+    },
+    {
+     "id": "poole/AMO.5.16#p5-ac35e3f3",
+     "text": "this sort of men are little used to such ceremonies of mourning, but now such shall their state be, that they shall be called upon; Leave your toil, betake yourselves to public mourning.",
+     "anchor": "Alas! alas! They shall call the husbandman to mourning"
+    },
+    {
+     "id": "poole/AMO.5.16#p6-a1a119ca",
+     "text": "and to make all sound doleful, call in those whose art lieth in acting the part of mourners, and can move hardest hearts to lament and bewail. See these Jer 9:17,18 Mt 9:23.",
+     "anchor": "And such as are skilful of lamentation",
+     "refs": [
+      {
+       "text": "Jer 9:17",
+       "ref": "JER.9.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.17",
+   "range": "AMO.5.17",
+   "kind": "passage",
+   "hash": "d1f5546d",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.17#p1-5f2ec1c1",
+     "text": "in these places was usually the greatest jollity, and they gathered their vintage with joy; but now it is quite contrary, either vines are blasted, or eaten up, or destroyed of the enemy.",
+     "anchor": "In all vineyards shall be wailing"
+    },
+    {
+     "id": "poole/AMO.5.17#p2-283b3d35",
+     "text": "as an incensed God, punishing all, every where, who have sinned against him; and therefore every place now shall be full of sorrow, because every place hath been full of sin.",
+     "anchor": "I will pass through thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.18",
+   "range": "AMO.5.18",
+   "kind": "passage",
+   "hash": "9cefe3c1",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.18#p1-ca51a799",
+     "text": "scoffingly, or not believing any such day would come: the prophets had long threatened such a day, but these scoffers thought no such thing could overtake them, and if it did they would know the worst of it; alter their course they will not, whatever comes on it, and they are confident the prophets fright them with bugbears: but woe to such scoffers!",
+     "anchor": "That desire"
+    },
+    {
+     "id": "poole/AMO.5.18#p2-34b6141c",
+     "text": "see Joe 1:15 2:1 Zep 1:14.",
+     "anchor": "The day of the Lord",
+     "refs": [
+      {
+       "text": "Joe 1:15",
+       "ref": "JOL.1.15"
+      },
+      {
+       "text": "Zep 1:14",
+       "ref": "ZEP.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.18#p3-30238b0b",
+     "text": "what do you think to get by it? what good can you expect when darkest calamities overwhelm you?",
+     "anchor": "To what end is it for you?"
+    },
+    {
+     "id": "poole/AMO.5.18#p4-7790a110",
+     "text": "all adversity, most black and doleful, therefore called in the abstract darkness.",
+     "anchor": "The day of the Lord is darkness"
+    },
+    {
+     "id": "poole/AMO.5.18#p5-b614ad4d",
+     "text": "no joy, hope, or comfort in it.",
+     "anchor": "And not light"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.19",
+   "range": "AMO.5.19",
+   "kind": "passage",
+   "hash": "d83accd8",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.19#p1-79796ad4",
+     "text": "here proverbially is expressed the continuance and succession of evils one after another; it will be a long calamity, when your civil dissensions waste you first, next God’s armies of locusts and palmer-worms, and the Assyrians too, until all ends in final captivity; you may escape one, but shall fall into another calamity, and worse than that you escaped; abroad your miseries shall be like a lion or bear.",
+     "anchor": "As if a man did flee from a lion, and a bear met him"
+    },
+    {
+     "id": "poole/AMO.5.19#p2-5d405b55",
+     "text": "at home you may hope for safety from such open dangers, but there other kind of mischief shall meet you.",
+     "anchor": "Or went into the house"
+    },
+    {
+     "id": "poole/AMO.5.19#p3-024ceadd",
+     "text": "weary and faint, shall think to ease and support himself.",
+     "anchor": "And leaned his hand on the wall"
+    },
+    {
+     "id": "poole/AMO.5.19#p4-3e6eb9fc",
+     "text": "whose biting infuseth a deadly poison, which suddenly corrupts the whole mass of blood, and kills the man. If conspirators at home be lions, the Assyrians will be as bears to you.",
+     "anchor": "And a serpent bit him"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.20",
+   "range": "AMO.5.20",
+   "kind": "passage",
+   "hash": "d9a36fa0",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.20#p1-d9a36fa0",
+     "text": "All these things considered, ye secure, profane, and atheistical scoffers, speak yourselves, will not that day be as dark as I have described, and as little to your comfort?"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.21",
+   "range": "AMO.5.21",
+   "kind": "passage",
+   "hash": "5b5c6af0",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.21#p1-8e54824f",
+     "text": "impure and unholy they are, whatever they seem to be, and therefore the Lord hateth them, they are abomination to him, Pro 15:8 Isa 1:13,14. Worthless and contemptible they are, and as such God rejecteth them, Isa 1:10-12, &c. There is no goodness that I should value in them, there is all that vileness in them which attends deep hypocrisy, for which I do hate them. The apostate Israelites imitated the Jews in many things, amongst which they retained their festivals, in which they multiplied their ceremonial sacrifices; and yet God owns them not as his; but brands them with this, They are yours, therefore unwarrantable, will-worship, and displeasing to God.",
+     "anchor": "I hate, I despise your feast days",
+     "refs": [
+      {
+       "text": "Pro 15:8",
+       "ref": "PRO.15.8"
+      },
+      {
+       "text": "Isa 1:13",
+       "ref": "ISA.1.13"
+      },
+      {
+       "text": "Isa 1:10-12",
+       "ref": "ISA.1.10-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.21#p2-81d409c4",
+     "text": "a savour of rest or delight, I will not accept and be pleased with, Gen 8:21,",
+     "anchor": "I will not smell",
+     "refs": [
+      {
+       "text": "Gen 8:21",
+       "ref": "GEN.8.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.21#p3-faadecf3",
+     "text": "appointed, as you think, on very weighty reasons, and by sufficient authority, and celebrated with rich sacrifices, in mighty crowds, and in excellent order; all is yours, not mine.",
+     "anchor": "your solemn assemblies"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.22",
+   "range": "AMO.5.22",
+   "kind": "passage",
+   "hash": "d105d7ba",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.22#p1-d5599256",
+     "text": "that have departed from my temple, law, and institutions, you of the ten tribes, offer me burnt-offerings; which was wholly burnt on the altar; no part due to any but God; of this these hypocrites had a high esteem, Mic 6:6, because they accounted it an entire gift to God.",
+     "anchor": "Though ye",
+     "refs": [
+      {
+       "text": "Mic 6:6",
+       "ref": "MIC.6.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.22#p2-9e40a608",
+     "text": "to your burnt-offering add the other, your meat-offering also, as Lev 2:1,2 Num 6:17. See Joe 1:13 2:14.",
+     "anchor": "And your meat-offerings",
+     "refs": [
+      {
+       "text": "Lev 2:1",
+       "ref": "LEV.2.1"
+      },
+      {
+       "text": "Joe 1:13",
+       "ref": "JOL.1.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.22#p3-5a0f60d2",
+     "text": "it may be a meiosis, I will hate them, as Amo 5:21.",
+     "anchor": "I will not accept them",
+     "refs": [
+      {
+       "text": "Amo 5:21",
+       "ref": "AMO.5.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.22#p4-cf273ec6",
+     "text": "your thank-offerings too, of which Lev 6:12 7:15, your praises for your prosperity, are no better pleasing neither.",
+     "anchor": "Neither will I regard the peace-offerings",
+     "refs": [
+      {
+       "text": "Lev 6:12",
+       "ref": "LEV.6.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.22#p5-a800af1d",
+     "text": "in these peace-offerings, though you bring the best, the fattest, yet you bring nothing but a beast, for you leave your hearts with your sins; and you have no warrant from God to do this, nay, you are prohibited, for you are to offer only at Jerusalem, and at the temple.",
+     "anchor": "Of your fat beasts"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.23",
+   "range": "AMO.5.23",
+   "kind": "passage",
+   "hash": "a774d2b8",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.23#p1-8b2201d1",
+     "text": "by way of contempt and loathing, God calls their songs noise; how harmonious, delightful, and ravishing soever they might be to their ears, they were not pleasing unto God.",
+     "anchor": "The noise of thy songs"
+    },
+    {
+     "id": "poole/AMO.5.23#p2-593dd29e",
+     "text": "used in their sacrifices, and their solemn feasts; herein they imitated temple-worship, but all was unpleasing to the Lord.",
+     "anchor": "Songs"
+    },
+    {
+     "id": "poole/AMO.5.23#p3-ea217cd4",
+     "text": "this is not to be taken absolutely, for God heard the noise; but it is taken in a qualified sense, he did not hear with delight and acceptance.",
+     "anchor": "I will not hear"
+    },
+    {
+     "id": "poole/AMO.5.23#p4-2fb39ae4",
+     "text": "the pleasing harmony, the sweet concert,",
+     "anchor": "The melody"
+    },
+    {
+     "id": "poole/AMO.5.23#p5-eb3ff8ce",
+     "text": "this one kind of musical instrument put for all the rest: in a word, your hypocrisy, idolatry, and injustice spoil all your services, and make God weary of you and them.",
+     "anchor": "of thy viols"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.24",
+   "range": "AMO.5.24",
+   "kind": "passage",
+   "hash": "5c5aa814",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.24#p1-d7b9bb2b",
+     "text": "Heb. And",
+     "anchor": "But"
+    },
+    {
+     "id": "poole/AMO.5.24#p2-7fe868d9",
+     "text": "some interpret this of penal judgment, by God threatened against these hypocrites; but it is better understood of justice to be administered by rulers, whose office it was to determine between party and party.",
+     "anchor": "judgment"
+    },
+    {
+     "id": "poole/AMO.5.24#p3-f7183f4a",
+     "text": "freely, constantly, speedily, and for common benefit of all, as waters run.",
+     "anchor": "Run down as waters"
+    },
+    {
+     "id": "poole/AMO.5.24#p4-49799db8",
+     "text": "equity, relieving justice, the want of which hath been notorious among you.",
+     "anchor": "Righteousness"
+    },
+    {
+     "id": "poole/AMO.5.24#p5-c2c82354",
+     "text": "which bears down all that opposeth it: be hindered by none from doing every one right; do this, and you may yet be accepted.",
+     "anchor": "As a mighty stream"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.25",
+   "range": "AMO.5.25",
+   "kind": "passage",
+   "hash": "4771cea0",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.25#p1-3e144f7e",
+     "text": "Their fathers and they, though at so great distance of time, are one people, and so the prophet considers them in this place."
+    },
+    {
+     "id": "poole/AMO.5.25#p2-21ba2913",
+     "text": "did you not frequently omit to offer, and yet were not reproved or plagued for the omission, when your frequent removes, and many other difficulties, made it unpracticable? so little is sacrifice with your God! and yet, when you did offer, was it to me only? or did you not sacrifice to idols and false gods, and provoked me? Will-worship and idolatry have been hereditary diseases in your generations; and it is well known, too, that these idolaters fell in the wilderness, and are made admonitions to you.",
+     "anchor": "Have ye offered?"
+    },
+    {
+     "id": "poole/AMO.5.25#p3-737fb4da",
+     "text": "of beasts slain, as the word properly speaks.",
+     "anchor": "Sacrifices"
+    },
+    {
+     "id": "poole/AMO.5.25#p4-2bbf9a7a",
+     "text": "in general, is any gift or present made, but particularly here it is a gift or present of fine flour, oil, and frankincense unto God with the sacrifice.",
+     "anchor": "Offerings: minchah"
+    },
+    {
+     "id": "poole/AMO.5.25#p5-b943dbf4",
+     "text": "it was a broken number of years in exact account, that is, thirty-eight years and eleven months; but, as is common in such cases, the full and round number is taken and so the account runs here, and in Act 7:42, forty years.",
+     "anchor": "In the wilderness forty years",
+     "refs": [
+      {
+       "text": "Act 7:42",
+       "ref": "ACT.7.42"
+      }
+     ]
+    },
+    {
+     "id": "poole/AMO.5.25#p6-e0420ee3",
+     "text": "you of the ten tribes.",
+     "anchor": "O house of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.26",
+   "range": "AMO.5.26",
+   "kind": "passage",
+   "hash": "e92ece33",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.26#p1-e9a3803f",
+     "text": "the idolatrous children of idolatrous fathers,",
+     "anchor": "But ye"
+    },
+    {
+     "id": "poole/AMO.5.26#p2-2d96e7ae",
+     "text": "carried along with you in the wilderness,",
+     "anchor": "have borne"
+    },
+    {
+     "id": "poole/AMO.5.26#p3-ed83f80c",
+     "text": "or little chapel, or shrine, or canopy, in which the image of their idol was placed. Though others conjecture this to be the proper name of an idol, I conjecture it is the name of the portable temple or chapel in which the supposed deity was placed.",
+     "anchor": "the tabernacle"
+    },
+    {
+     "id": "poole/AMO.5.26#p4-237b965a",
+     "text": "the great idol of the Ammonites, as Jupiter was of the Greeks and Romans; some ancient king among them, who was a famous founder, or raiser, and benefactor to their nation, though we know not who this was.",
+     "anchor": "Moloch"
+    },
+    {
+     "id": "poole/AMO.5.26#p5-f87c86cf",
+     "text": "perhaps if we understand the whole apparatus or storehouse of their images, We shall not err. Their grand idol was Moloch, whose image they kept, and carried about in a sacellum, or consecrated portable chapel, and with him the rest of their petit deities, in their images placed orderly, as they fancied, about their great deity. Others will have Chiun to be Saturn.",
+     "anchor": "Chiun"
+    },
+    {
+     "id": "poole/AMO.5.26#p6-2f6cd731",
+     "text": "whatever these were, it is plain God accounts them their inventions and their gods.",
+     "anchor": "Your images"
+    },
+    {
+     "id": "poole/AMO.5.26#p7-a22313fa",
+     "text": "what star this was we need not inquire; the idolaters appropriated the stars to their gods, and probably did in the roof of their gods’ tabernacles frame the star over the image of their god: or, the star your god, or which you worship.",
+     "anchor": "The star of your god"
+    },
+    {
+     "id": "poole/AMO.5.26#p8-9a8debf1",
+     "text": "all which deities you have found out and established to yourselves.",
+     "anchor": "Which ye made to yourselves"
+    }
+   ]
+  },
+  {
+   "id": "poole/AMO.5.27",
+   "range": "AMO.5.27",
+   "kind": "passage",
+   "hash": "edd01059",
+   "paragraphs": [
+    {
+     "id": "poole/AMO.5.27#p1-4f644fe4",
+     "text": "for all your idolatry and other sins in which you have obstinately continued,",
+     "anchor": "Therefore"
+    },
+    {
+     "id": "poole/AMO.5.27#p2-4e976c79",
+     "text": "you shall certainly be subdued and captivated; and this shall be done so that my hand shall appear evidently in it.",
+     "anchor": "will I cause you to go into captivity"
+    },
+    {
+     "id": "poole/AMO.5.27#p3-2a8fd362",
+     "text": "into Assyria, and into parts beyond Damascus: it is not certain into what corners of the world they were sent, but probably to those parts that lay about the Caspian Sea, more remote from their own country than ever to hope they may get back again. Or thus, You shall be carried into a captivity more grievous by Shalmaneser, than was the captivity of those whom Tiglathpileser led captive when he slew Resin, took Damascus, and wasted Israel in the days of Pekah, when some Israelites were carried captives; but this shall be a more grievous captivity.",
+     "anchor": "Beyond Damascus"
+    }
+   ]
+  }
+ ]
+}

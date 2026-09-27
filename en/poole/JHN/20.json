@@ -1,0 +1,792 @@
+{
+ "source": "poole",
+ "book": "JHN",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/JHN.20",
+   "range": "JHN.20",
+   "kind": "chapter",
+   "hash": "31519822",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20#p1-c090c376",
+     "text": "Joh 20:1-10 Mary Magdalene, seeing the stone taken away from the sepulchre, runneth to tell Peter and John, who go thither, and find not the body.",
+     "refs": [
+      {
+       "text": "Joh 20:1-10",
+       "ref": "JHN.20.1-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20#p2-bbbe2b4f",
+     "text": "Joh 20:11-18 Mary seeth two angels sitting in the sepulchre; Jesus himself appeareth to her.",
+     "refs": [
+      {
+       "text": "Joh 20:11-18",
+       "ref": "JHN.20.11-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20#p3-28745912",
+     "text": "Joh 20:19-23 He appeareth to his disciples.",
+     "refs": [
+      {
+       "text": "Joh 20:19-23",
+       "ref": "JHN.20.19-23"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20#p4-30f4fdea",
+     "text": "Joh 20:24,25 The incredulity of Thomas.",
+     "refs": [
+      {
+       "text": "Joh 20:24",
+       "ref": "JHN.20.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20#p5-e4d72e53",
+     "text": "Joh 20:26-29 Jesus appeareth again to the disciples, and satisfieth the doubts of Thomas; who confesseth him.",
+     "refs": [
+      {
+       "text": "Joh 20:26-29",
+       "ref": "JHN.20.26-29"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20#p6-f152423d",
+     "text": "Joh 20:30,31 The sufficiency of what is written for a ground of salvation.",
+     "refs": [
+      {
+       "text": "Joh 20:30",
+       "ref": "JHN.20.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.1",
+   "range": "JHN.20.1",
+   "kind": "passage",
+   "hash": "a90f588e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.1#p1-1a35655b",
+     "text": "Chapter Introduction"
+    },
+    {
+     "id": "poole/JHN.20.1#p2-fc0370ff",
+     "text": "The evangelist St. John giving a fuller account than the other evangelists of Christ’s resurrection, and his converse upon the earth forty days, until he ascended up into heaven, we have in our notes on the other evangelists been shorter, reserving ourselves for a fuller account of it till we should come to these two last chapters of this evangelist."
+    },
+    {
+     "id": "poole/JHN.20.1#p3-cf1246c3",
+     "text": "Matthew saith, In the end of the sabbath, as it began to dawn toward the first day of the week; he also mentions another Mary in company with Mary Magdalene. Mark tells us that other Mary was the mother of James and Salome."
+    },
+    {
+     "id": "poole/JHN.20.1#p4-a4fa821a",
+     "text": "Luke saith, they came, referring to the women which came with him from Galilee, Luk 23:55. For the time, Luke saith it was upon the first day of the week; Mark saith it was when the sabbath was past; our evangelist saith it was when it was yet dark; so that Matthew’s οψε δε σαββατων, which we translate, in the end of the sabbath, must be interpreted by Mark, when the sabbath was past; and indeed Matthew plainly expounds himself, adding, as it began to dawn toward the first day of the week; which must be seven or eight hours after the Jewish sabbath was ended, for that ended with the setting of the sun the night before.",
+     "refs": [
+      {
+       "text": "Luk 23:55",
+       "ref": "LUK.23.55"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.1#p5-d2317178",
+     "text": "The other evangelists tell us, that the design of their coming was to show their last act of love, in anointing or embalming the body of Jesus; for which purpose they had bought materials the night wherein he was crucified, but rested on the sabbath day, which ending about sunset, probably they slept some hours, and early in the morning, in the twilight, they come with their spices. Hence appears, that there is no contradiction at all between the four evangelists about the time of these women’s coming to the sepulchre."
+    },
+    {
+     "id": "poole/JHN.20.1#p6-32e1076d",
+     "text": "Matthew saith it was about the dawning of the first day of the week; Mark saith it was when the sabbath was past; Luke saith it was upon the first day of the week; so saith John: which would make one admire that so many words should have been spent by divines in untying a knot here, where there is indeed none. Though John, in his history of our Saviour’s burial, saith nothing of any stone rolled to the mouth of the sepulchre; yet Matthew doth; and of the Jews’ sealing of it, and setting a watch, Mat 27:64-66. Mark (Mar 16:3) tells us also, that these women were thoughtful as they came, who should roll the stone away; and Matthew also tells us how it came rolled away, viz. by an angel.",
+     "refs": [
+      {
+       "text": "Mat 27:64-66",
+       "ref": "MAT.27.64-66"
+      },
+      {
+       "text": "Mar 16:3",
+       "ref": "MRK.16.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.1#p7-073980e8",
+     "text": "John saith nothing but that the stone was rolled away. So then the history runs thus: Early on the first day of the week an angel, in a glorious appearance, (described by Mark), cometh down, rolleth away the stone from the mouth of the sepulchre, and Christ ariseth: soon after, these women came with spices, and were thoughtful as they came who should roll away the stone; but when they came to the sepulchre they found that, as to that, their cares were needless, for the stone was rolled away to their hands."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.2",
+   "range": "JHN.20.2",
+   "kind": "passage",
+   "hash": "8154a4bd",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.2#p1-8154a4bd",
+     "text": "that is, Mary Magdalene ran into the city to tell Peter; and that seemeth to be the reason why John mentions only her going to the sepulchre: but yet Luke Luk 24:10 makes not Mary Magdalene only, but Joanna, and Mary the mother of James, the reporters of the news to the apostles; but possibly she was the most forward and first reporter of it. She came to the eleven, and told all these things to them, Luk 24:9, but possibly her chief discourse was with Simon Peter, and John, the beloved disciple: she complains to them that her Lord was removed out of the sepulchre, whither and by whom she knew not. But how did they know that? Mark saith, they entered into the sepulchre, Mar 16:5. Or if that were after, as it should seem by Joh 20:11 of this chapter; they guessed that the body was gone when they saw the stone rolled away, and the door open.",
+     "anchor": "Then she runneth",
+     "refs": [
+      {
+       "text": "Luk 24:10",
+       "ref": "LUK.24.10"
+      },
+      {
+       "text": "Luk 24:9",
+       "ref": "LUK.24.9"
+      },
+      {
+       "text": "Mar 16:5",
+       "ref": "MRK.16.5"
+      },
+      {
+       "text": "Joh 20:11",
+       "ref": "JHN.20.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.3",
+   "range": "JHN.20.3",
+   "kind": "passage",
+   "hash": "fab707bb",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.3#p1-fab707bb",
+     "text": "Ver. 3,4. Luke, Luk 24:12, mentions Peter’s going only, upon Mary Magdalene’s report; but he must be expounded by this evangelist, who expressly saith, that Peter and John went together, and that John outran Peter, and got first to the sepulchre.",
+     "refs": [
+      {
+       "text": "Luk 24:12",
+       "ref": "LUK.24.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.4",
+   "range": "JHN.20.4",
+   "kind": "passage",
+   "hash": "6ab05a0e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.4#p1-6ab05a0e",
+     "text": "Joh 20:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 20:3",
+       "ref": "JHN.20.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.5",
+   "range": "JHN.20.5",
+   "kind": "passage",
+   "hash": "9d210710",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.5#p1-9d210710",
+     "text": "John stooped down and looked into the sepulchre, and saw the linen clothes lying, but he would not adventure to go in."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.6",
+   "range": "JHN.20.6",
+   "kind": "passage",
+   "hash": "f8047b97",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.6#p1-f8047b97",
+     "text": "Ver. 6,7. But Peter, who all along the Gospel appears to have been the boldest spirit, goeth into the cave, and seeth all the linen clothes lying there, and the napkin that was about his head lying by itself."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.7",
+   "range": "JHN.20.7",
+   "kind": "passage",
+   "hash": "6aba900e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.7#p1-6aba900e",
+     "text": "Joh 20:6\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 20:6",
+       "ref": "JHN.20.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.8",
+   "range": "JHN.20.8",
+   "kind": "passage",
+   "hash": "cf733046",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.8#p1-cf733046",
+     "text": "John seeing Peter adventure in, adventures also, and seeth the same things, and believeth that Christ was risen from the dead; or (as some think) that, as the women had said, somebody had taken him away."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.9",
+   "range": "JHN.20.9",
+   "kind": "passage",
+   "hash": "8c3c04a1",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.9#p1-8c3c04a1",
+     "text": "That is, they did not fully understand those scriptures of the Old Testament, Psa 2:2 16:10 110:1-7, and the types of the Old Testament, by which Christ’s resurrection was foretold and prefigured.",
+     "refs": [
+      {
+       "text": "Psa 2:2",
+       "ref": "PSA.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.10",
+   "range": "JHN.20.10",
+   "kind": "passage",
+   "hash": "85ea1268",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.10#p1-85ea1268",
+     "text": "Peter and John, when they had been within the sepulchre, and seen that the body was not there, went home; believing verily that what the women at first told them was true, that somebody had removed the body out of the sepulchre; whither, they knew not."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.11",
+   "range": "JHN.20.11",
+   "kind": "passage",
+   "hash": "a941c856",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.11#p1-a941c856",
+     "text": "That the Mary here mentioned was Mary Magdalene appeareth from Joh 20:14, compared with Mar 16:9, which saith, he appeared first to Mary Magdalene.",
+     "refs": [
+      {
+       "text": "Joh 20:14",
+       "ref": "JHN.20.14"
+      },
+      {
+       "text": "Mar 16:9",
+       "ref": "MRK.16.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.12",
+   "range": "JHN.20.12",
+   "kind": "passage",
+   "hash": "de4a4044",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.12#p1-c8c2493c",
+     "text": "Ver. 12,13. The other evangelists differing in their accounts of this part of the history, have raised some questions here not easily to be resolved. Matthew reports thus, see Mat 28:2-9. Mark saith, see Mar 16:2-8. Mar 16:2 Where by the rising of the sun must not be understood its rising above the horizon; but after midnight, (as the learned Casaubon hath noted), when the sun and stars begin to ascend. Luke reports this part of the history thus, see Luk 24:1-12. Concerning the persons that went to the sepulchre, and the time of their going, here is (as we have showed) little difficulty in reconciling the evangelists.",
+     "refs": [
+      {
+       "text": "Mat 28:2-9",
+       "ref": "MAT.28.2-9"
+      },
+      {
+       "text": "Mar 16:2-8",
+       "ref": "MRK.16.2-8"
+      },
+      {
+       "text": "Mar 16:2",
+       "ref": "MRK.16.2"
+      },
+      {
+       "text": "Luk 24:1-12",
+       "ref": "LUK.24.1-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.12#p2-0caac4de",
+     "text": "The greatest difference seemeth to be about the angels that Mary saw; whether she saw two apparitions of angels, or but one, and one angel, or two; and concerning the time when she saw them, whether before or after that Peter and John had been in the sepulchre. Matthew saith, the stone was rolled away, and the angel sat upon the stone; this must be without the sepulchre."
+    },
+    {
+     "id": "poole/JHN.20.12#p3-a2ae2c67",
+     "text": "Mark saith, they, entering into the sepulchre, saw (an angel in the shape of) a young man sitting, &c. Luke and John speak of two angels; but seen in the sepulchre, not without it. There is no doubt but the apparition was of two angels; one of which might be seen without first, sitting upon the stone, to let the women know that he had rolled it away: both of them within, sitting one at the head, the other at the feet, of the place where the body of Jesus lay. But the greatest question is, Whether the woman saw the angels before that Peter and John had been at the sepulchre, or after?"
+    },
+    {
+     "id": "poole/JHN.20.12#p4-b4b27322",
+     "text": "Some think that it was before, but it is no way probable; for it can hardly be thought but that if they had seen the angel at the first, they would have told the eleven of it, or Peter and John at least; nor would Mary have told Peter and John (as Joh 20:2) they had taken away her Lord, &c., for the angels told them he was risen. So that although by some of the others’ relation, who say nothing of Peter and John’s coming to the sepulchre, it seems as if the women saw the angel before their coming to satisfy themselves, yet indeed it was after. The women first came, saw the door open, the stone rolled away, &c. In a fright they ran back, and told it the disciples. Peter and John came to see, and being satisfied, return, leaving Mary still standing at the sepulchre weeping; then she stooping down and looking into the sepulchre, both saw the angel sitting on the stone, and also the two angels within the sepulchre, who fully revealed the resurrection to her.",
+     "refs": [
+      {
+       "text": "Joh 20:2",
+       "ref": "JHN.20.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.13",
+   "range": "JHN.20.13",
+   "kind": "passage",
+   "hash": "b048ca5d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.13#p1-b048ca5d",
+     "text": "Joh 20:12\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 20:12",
+       "ref": "JHN.20.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.14",
+   "range": "JHN.20.14",
+   "kind": "passage",
+   "hash": "dbe88eca",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.14#p1-dbe88eca",
+     "text": "And presently Christ himself appeareth to her, though at first she did not know him."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.15",
+   "range": "JHN.20.15",
+   "kind": "passage",
+   "hash": "5163df1e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.15#p1-5163df1e",
+     "text": "Either these words passed before the angels had told her that he was risen, Mar 16:6 Luk 24:5,6; or (which is most probable) Mary was hard to believe what the angels had told her so lately; but coming out of the sepulchre, Christ appeareth to her, whom she knew not, but thought him to have been the person that had the charge of that garden where Christ was buried, and that he for his own convenience had removed the dead body; she therefore desires to know where he had disposed of it, having a mind to remove it to some honourable place of burial.",
+     "refs": [
+      {
+       "text": "Mar 16:6",
+       "ref": "MRK.16.6"
+      },
+      {
+       "text": "Luk 24:5",
+       "ref": "LUK.24.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.16",
+   "range": "JHN.20.16",
+   "kind": "passage",
+   "hash": "a6820984",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.16#p1-a6820984",
+     "text": "Christ calleth her by name, making such a sound as he certainly knew she understood. She calleth him Rabboni, which is as much as to say: My Master."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.17",
+   "range": "JHN.20.17",
+   "kind": "passage",
+   "hash": "0e355331",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.17#p1-540470f5",
+     "text": "There are in this verse two no mean difficulties: the one about the sense of the prohibition, when our Saviour forbade this woman to touch him; when after his resurrection {Mat 28:9} he suffered the women to hold him by the feet, and himself {Joh 20:27} called Thomas to thrust his hand into the hole of his side. There are many opinions about it: the best seems to be the opinion of those who think that our Saviour saw Mary too fond, and too much in the embraces of her Lord, as if she thought he had been raised up to such a converse with them as he had before his death; and this error is all which he tasks her of, not forbidding her any kind of touching him, so far as to satisfy herself that he was truly risen from the dead, but restraining any such gross conception.",
+     "refs": [
+      {
+       "text": "Mat 28:9",
+       "ref": "MAT.28.9"
+      },
+      {
+       "text": "Joh 20:27",
+       "ref": "JHN.20.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.17#p2-1f9f4957",
+     "text": "The other difficulty, What force of a reason there could be for her not touching him because he had not yet ascended? is much solved by that answer to the former; reminding Mary that he was to ascend to his Father, though he had not yet ascended, and therefore not to be enjoyed by them with so much freedom and familiarity as before. But (saith he) go and tell"
+    },
+    {
+     "id": "poole/JHN.20.17#p3-7b80cb9e",
+     "text": "that is, my disciples; whom the apostle tells us he is not ashamed to call brethren, Heb 2:11,12; that I ascend, that is, I shall shortly ascend,",
+     "anchor": "my brethren",
+     "refs": [
+      {
+       "text": "Heb 2:11",
+       "ref": "HEB.2.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.17#p4-7c94c14e",
+     "text": "though I shall very suddenly leave them, yet I shall go but to my Father and my God, and to their Father and their God.",
+     "anchor": "to my Father and your Father, to my God and your God"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.18",
+   "range": "JHN.20.18",
+   "kind": "passage",
+   "hash": "65c5a3be",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.18#p1-65c5a3be",
+     "text": "This was that first appearance of our Lord after his resurrection to Mary Magdalene, after that he was risen from the dead, mentioned Mar 16:9,10, which she reported to the disciples; but Mark saith, they believed her not, Joh 20:11. Matthew tells us of another appearance of his, Mat 28:9, to the women as they went from the sepulchre, when they held him by the feet, and worshipped him. Luke tells us of a third appearance to the two disciples as they were going to Emmaus; which is also shortly touched by Mark, Mar 16:12,13; but it is there said that they believed them not. John mentions neither of these. These were all the same day that he rose, so was also the next, which is mentioned by our evangelist in the following verses.",
+     "refs": [
+      {
+       "text": "Mar 16:9",
+       "ref": "MRK.16.9"
+      },
+      {
+       "text": "Joh 20:11",
+       "ref": "JHN.20.11"
+      },
+      {
+       "text": "Mat 28:9",
+       "ref": "MAT.28.9"
+      },
+      {
+       "text": "Mar 16:12",
+       "ref": "MRK.16.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.19",
+   "range": "JHN.20.19",
+   "kind": "passage",
+   "hash": "df00479d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.19#p1-c4b70ace",
+     "text": "Luke expounds this verse, Luk 24:29, where the two disciples told Christ it was towards evening, and the day was far spent; for the Jews called the afternoon evening, as well as the time after sunset; and John tells us expressly, it was yet the first day of the week. This appearance is unquestionably the same mentioned in Luke, Luk 24:36. For it is said, the two disciples went immediately to Jerusalem, where they found the eleven gathered together, and discoursed of the Lord’s appearance to them; and while they spake, Jesus came and stood in the midst of them, and said unto them, ( as here), Peace be unto you. The disciples had shut the doors of the place where they met, for fear of the Jews. Here is a great question between the Lutherans and Calvinists, how Christ came in amongst them when the doors were shut? Whether he went through the doors remaining shut? Which the Lutherans stiffly maintain, as a strong proof of the possibility of the real presence of the body of Christ in, with, or under the elements of the Lord’s supper; though we object, that this is to destroy the nature of Christ’s body, and to assign him a body which indeed is no body, being not obvious to the sense, nor confined to a place; and which must pierce another body, which is contrary to the nature of a body according to our notion of bodies. The Lutherans object:",
+     "refs": [
+      {
+       "text": "Luk 24:29",
+       "ref": "LUK.24.29"
+      },
+      {
+       "text": "Luk 24:36",
+       "ref": "LUK.24.36"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.19#p2-3390051d",
+     "text": "1. That here is a plain mention of the doors being shut."
+    },
+    {
+     "id": "poole/JHN.20.19#p3-0e6e9dba",
+     "text": "2. No mention of the opening of them."
+    },
+    {
+     "id": "poole/JHN.20.19#p4-a17d75a1",
+     "text": "3. Nor of Christ’s entrance upon opening any doors, windows, roof, or by any ordinary way, as men use to enter into houses."
+    },
+    {
+     "id": "poole/JHN.20.19#p5-e2b0b27b",
+     "text": "4. Nor, had he so entered, would there have been any occasion for the disciples taking him for a spirit, as it is plain they did, Luk 24:37.",
+     "refs": [
+      {
+       "text": "Luk 24:37",
+       "ref": "LUK.24.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.19#p6-c7a50821",
+     "text": "The Calvinists on the other side object,"
+    },
+    {
+     "id": "poole/JHN.20.19#p7-a6a481b8",
+     "text": "1. That it is not said that he went through the doors."
+    },
+    {
+     "id": "poole/JHN.20.19#p8-ae639e35",
+     "text": "2. That if he had gone through the doors, he would not presently have called to them to have seen him, and handled him; by which he evidenced that his body had such dimensions as our bodies have, and so could not go through a door shut."
+    },
+    {
+     "id": "poole/JHN.20.19#p9-12460d4c",
+     "text": "In the Lutherans’ reason, the fourth is only considerable, the three first have no force, because all circumstances of actions are not recorded in holy writ. Nor is there much force in the fourth, for the doors by his miraculous power opened and shut, and he showed himself in the midst of them, and used to them the usual salutation amongst the Jews, Peace be unto you."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.20",
+   "range": "JHN.20.20",
+   "kind": "passage",
+   "hash": "7e48ec9f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.20#p1-7e48ec9f",
+     "text": "Luke adds his feet too; those parts of his body where were the most undeniable marks of the death he had suffered upon the cross. Then to disciples, who gave little credit to what Mary Magdalene, and the other woman, and the two disciples going to Emmaus, had reported, believed; seeing the Lord, and being exceeding glad at this confirmation of their faith.",
+     "anchor": "He showed unto them his hands and his side"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.21",
+   "range": "JHN.20.21",
+   "kind": "passage",
+   "hash": "b9805e80",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.21#p1-fb1bf557",
+     "text": "the repeating of this salutation speaketh it more than an ordinary compliment, or form of salutation. It signifieth his reconciliation to them, notwithstanding their error in forsaking him, and fleeing; it prepared their attention for the great things that he was now about to speak to them; it also signified, that he was about to preach the gospel of peace to all nations.",
+     "anchor": "Peace be unto you"
+    },
+    {
+     "id": "poole/JHN.20.21#p2-35d6bb98",
+     "text": "I have now fulfilled my ministry, and am now going to my Father who sent me: now by the same authority that I am sent, I send you, to gather, instruct, and govern my church; I send, or I will send, you clothed with the same authority with which I am clothed, and for the same ends in part for which I was sent.",
+     "anchor": "As my Father hath sent me, even so send I you"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.22",
+   "range": "JHN.20.22",
+   "kind": "passage",
+   "hash": "4f4b92ed",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.22#p1-17d1d5e2",
+     "text": "The apostles could not but be apprehensive how great a work their Lord had laid upon them, in sending them as his Father had sent him, to carry the gospel over the world; Who (said Paul afterward) is sufficient for these things? Our Lord therefore fortifies them with an earnest of that more plentiful effusion of the Spirit, which they afterward received in the days of Pentecost. They before this had received the Spirit as a Spirit of sanctification, and had received a power to work miracles."
+    },
+    {
+     "id": "poole/JHN.20.22#p2-e54ebef0",
+     "text": "They did not till after this receive the gift of tongues, &c. But he here assures them of the presence of the Holy Spirit with them, in their more ordinary ministry, in instructing and governing the church. This conferring of the Spirit upon them he confirms to them by breathing, as an exterior sign or symbol. The name, Spirit, signifieth a breath; and it is said, that in the creation God breathed into Adam the breath of life. Christ breatheth into his apostles the Holy Spirit; thereby showing, that the Holy Spirit proceedeth, as from the Father, so also from him; as the breath of a man proceedeth from him. He also useth words, expounding his action in breathing, and carrying with them an authority, which being once spoken, the thing was done."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.23",
+   "range": "JHN.20.23",
+   "kind": "passage",
+   "hash": "38ae3ec4",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.23#p1-db0db428",
+     "text": "Whether Mat 18:18 be a parallel text to this, I doubt: See Poole on \"Mat 18:18\". Our Lord here speaks of the sins of persons,",
+     "refs": [
+      {
+       "text": "Mat 18:18",
+       "ref": "MAT.18.18"
+      },
+      {
+       "text": "Mat 18:18",
+       "ref": "MAT.18.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.23#p2-3db7567d",
+     "text": "& c.; he saith there, Whatsoever ye shall bind or loose. This text hath caused a great deal of contest. All remission of sins is either authoritative; so it is most true, that none can forgive sin but God; and if we had no Scripture to prove it, yet reason will tell us none can discharge the debtor but the creditor, to whom the debt is owing: or else ministerial; thus he who is not the creditor (amongst men) may remit a debt by virtue of a letter of attorney made to him, authorizing him so to do. The question therefore amongst divines is, Whether Christ in this text hath given authority to his ministers actually to discharge men of the guilt of their sins; or only to declare unto them, that if their repentance and faith be true, their sins are really forgiven them? The former is by many contended for; but it doth not seem reasonable,",
+     "anchor": "Whose soever sins remit"
+    },
+    {
+     "id": "poole/JHN.20.23#p3-0e74cb8c",
+     "text": "1. That God should entrust men with such a piece of his prerogative."
+    },
+    {
+     "id": "poole/JHN.20.23#p4-77ebe447",
+     "text": "2. That God, who knoweth the falsehood of men’s hearts, and the inability in the best ministers to judge of the truth of any man’s faith or repentance, as also the passions to which they are subject, should give unto any of the sons of men an absolute power under him, and in his name, to discharge any from the guilt of sin; for certain it is, that without true repentance and faith in Christ no man hath his sins forgiven; so as no minister, that knoweth not the hearts of men, can possibly speak with any certainty to any man, saying, his sins are forgiven."
+    },
+    {
+     "id": "poole/JHN.20.23#p5-67222e35",
+     "text": "What knowledge the apostles might have by the Spirit of discerning, we cannot say. But certain it is, none hath any such certainty of knowledge now of the truth of any man, declaring his faith and true repentance; from whence it is to me apparent, that no man hath any further power from Christ, than to declare to them, that if indeed they truly believe and repent, their sins are really forgiven. Only the minister, being Christ’s interpreter and ambassador, and better able to judge of true faith and repentance than others, (though not certainly and infallibly), such declarations from a faithful, able minister, are of more weight and authority than from others. And this is the most I can conceive should be in this matter; and that if by those words any further power be granted to the apostles, it was by reason of that power of discerning of spirits, 1Co 12:10, which ordinary ministers since the apostles’ times, or in latter ages, cannot with any modesty pretend unto.",
+     "refs": [
+      {
+       "text": "1Co 12:10",
+       "ref": "1CO.12.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.24",
+   "range": "JHN.20.24",
+   "kind": "passage",
+   "hash": "0e16367c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.24#p1-0e16367c",
+     "text": "Whether Thomas had ever, since they all forsook our Saviour in the garden and fled, returned again to a communion with the rest, or was absent through some occasion, is not said; but upon this some have started a question, Whether Thomas, being absent, received the Holy Ghost at this time as the rest did? Some think he did not, because of his unbelief. Some of the ancients think he did; for, Num 11:26,27, when God gave out the Spirit to the seventy elders, Eldad and Medad, though absent, had their share of it, Num 11:27. The matter is not much.",
+     "refs": [
+      {
+       "text": "Num 11:26",
+       "ref": "NUM.11.26"
+      },
+      {
+       "text": "Num 11:27",
+       "ref": "NUM.11.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.25",
+   "range": "JHN.20.25",
+   "kind": "passage",
+   "hash": "b7aab948",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.25#p1-b7aab948",
+     "text": "It is not said what disciples, whether any of the apostles, or some others, told Thomas of this appearing of the Lord unto them. But Thomas eminently declareth his unbelief, which argues him as yet much ignorant of the Deity of Christ, and having given too little heed to what Christ had told them of his rising again the third day."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.26",
+   "range": "JHN.20.26",
+   "kind": "passage",
+   "hash": "a7eca413",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.26#p1-7e015a90",
+     "text": "signifieth here the eighth day from the resurrection, counting the day wherein Christ rose for one; as we call those third day agues which have but one day’s intermission, and those quartan agues which have but two days’ intermission; so it is said, Mar 8:31, after three days he shall rise again, that is, the third day. This appears the most probable sense of the phrase: the disciples beginning from Christ’s resurrection to keep the first day of the week for the weekly sabbath, and having met on the resurrection day, met again that day seven night, hoping (probably) for such a presence of Christ with them in their meeting as they had before experienced; nor was their expectation vain. It appears also there, from Act 20:7, and 1Co 16:2, that the Christians were wont ordinarily to meet together the first day of the week for religious exercises; which from Christ’s resurrection, or institution, or both, is thought to be called the Lord’s day, Rev 1:10. Nor indeed do we read in all the Scripture of any congregation of Christians on the Jewish sabbath, but upon this day; though, indeed, we find that the apostles (and possibly some other Christians) did meet together with the Jews in their synagogues on their sabbath; but we have not so much as one instance after the resurrection of any congregation, where Christians only were assembled upon the Jewish sabbath. Thomas at this time was with them. It is said again that Christ came and stood in the midst of them,",
+     "anchor": "After eight days",
+     "refs": [
+      {
+       "text": "Mar 8:31",
+       "ref": "MRK.8.31"
+      },
+      {
+       "text": "Act 20:7",
+       "ref": "ACT.20.7"
+      },
+      {
+       "text": "1Co 16:2",
+       "ref": "1CO.16.2"
+      },
+      {
+       "text": "Rev 1:10",
+       "ref": "REV.1.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.20.26#p2-42d93728",
+     "text": "concerning which phrase, See Poole on \"Joh 20:19\".",
+     "anchor": "the doors being shut",
+     "refs": [
+      {
+       "text": "Joh 20:19",
+       "ref": "JHN.20.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.27",
+   "range": "JHN.20.27",
+   "kind": "passage",
+   "hash": "79dad24e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.27#p1-79dad24e",
+     "text": "We had need take heed what we speak wherever we are. Christ had not after his resurrection so ordinary and frequent a converse with his disciples as before. This is the fifth time that we read of Christ’s appearing to them since his resurrection. He knew what words of unbelief Thomas had uttered, and accordingly applies himself to him, in a wonderful condescension to his weakness; he bids him reach his finger, and his hands, and behold his hands, and thrust his hands into his side. So pitiful is our Lord, and compassionate towards the infirmities of his people."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.28",
+   "range": "JHN.20.28",
+   "kind": "passage",
+   "hash": "8895ee9e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.28#p1-8895ee9e",
+     "text": "to whom I wholly yield and give up my self; and my God, in whom I believe. It is observed, that this is the first time that in the Gospel the name of God is given to Christ; he was now by his resurrection declared to be the Son of God with power, Rev 1:4. So as Thomas did not show more weakness and unbelief at the first, than he showed faith at last, being the first that acknowledged Christ as God over all blessed for ever, the object of people’s faith and confidence, and his Lord, to whom he freely yielded up himself as a servant, to be guided and conducted by him.",
+     "anchor": "My Lord",
+     "refs": [
+      {
+       "text": "Rev 1:4",
+       "ref": "REV.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.29",
+   "range": "JHN.20.29",
+   "kind": "passage",
+   "hash": "d33e0921",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.29#p1-389941e1",
+     "text": "Thou believest that I am risen from the dead upon the testimony of thy senses; thou doest well in that: thou hast seen, thou hast felt me; but it is a more noble faith to believe without any such sensible evidence. Faith is properly an assent given to a proposition upon the testimony of revelation, which if it be but human it is no more than a human faith; as we give credit to what our neighbours tell us, though we have not seen it with our own eyes, nor heard it with our ears immediately, nor had it made evident to any of our senses."
+    },
+    {
+     "id": "poole/JHN.20.29#p2-22bd8371",
+     "text": "If the revelation to which the assent is given be from God, we call the assent that is given to it a Divine faith; so that to give credit to a thing upon the evidence of sense, is properly no believing, otherwise than as sense confirms what we have before received by a Divine revelation. This is a sure rule, that by how much our faith stands in less need of an external evidence of sense, the stronger it is."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.30",
+   "range": "JHN.20.30",
+   "kind": "passage",
+   "hash": "14893019",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.30#p1-14893019",
+     "text": "This passage plainly refers to whatsoever signs we read of in any part of St. John’s Gospel; and lets us know, that the evangelist could have added abundance more to the history of the miracles which Christ wrought upon the earth."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.20.31",
+   "range": "JHN.20.31",
+   "kind": "passage",
+   "hash": "9c81ac78",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.20.31#p1-9c81ac78",
+     "text": "But he had wrote these to induce his readers to believe that Jesus Christ was the Son of God; a thing of so great concernment to them, that their eternal life depended upon it; for through his name alone eternal life is to be obtained, Act 4:12.",
+     "refs": [
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

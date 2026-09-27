@@ -1,0 +1,1626 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "poole/MAT.12",
+   "range": "MAT.12",
+   "kind": "chapter",
+   "hash": "c33834a9",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12#p1-64c421f8",
+     "text": "Mat 12:1-8 Christ alleges scripture in excuse of his disciples, whom the Pharisees charged with breaking the sabbath in plucking the ears of corn on the sabbath day.",
+     "refs": [
+      {
+       "text": "Mat 12:1-8",
+       "ref": "MAT.12.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p2-fc346e0d",
+     "text": "Mat 12:9-13 He appeals to reason, and healeth the withered hand on the sabbath day.",
+     "refs": [
+      {
+       "text": "Mat 12:9-13",
+       "ref": "MAT.12.9-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p3-cf4fef92",
+     "text": "Mat 12:14-21 The Pharisees seek to destroy him: a prophecy of Esaias fulfilled in him.",
+     "refs": [
+      {
+       "text": "Mat 12:14-21",
+       "ref": "MAT.12.14-21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p4-666e31ba",
+     "text": "Mat 12:22,23 He healeth one possessed of a devil, who was blind and dumb,",
+     "refs": [
+      {
+       "text": "Mat 12:22",
+       "ref": "MAT.12.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p5-819696e0",
+     "text": "Mat 12:24-37 and confuting the absurd charge of his casting out devils by Beelzebub, he showeth that blasphemy against the Holy Ghost is an unpardonable sin, and that every idle word must be accounted for.",
+     "refs": [
+      {
+       "text": "Mat 12:24-37",
+       "ref": "MAT.12.24-37"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p6-c843d0a7",
+     "text": "Mat 12:38-45 He rebuketh those that sought of him a sign,",
+     "refs": [
+      {
+       "text": "Mat 12:38-45",
+       "ref": "MAT.12.38-45"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12#p7-03ae21b5",
+     "text": "Mat 12:46-50 and showeth whom he regardeth as his nearest relations.",
+     "refs": [
+      {
+       "text": "Mat 12:46-50",
+       "ref": "MAT.12.46-50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.1",
+   "range": "MAT.12.1",
+   "kind": "passage",
+   "hash": "734c1d1b",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.1#p1-48f5d16e",
+     "text": "Mark relating this story, Mar 2:23, varies little. Luke relating it, Luk 6:1, saith it was on the second sabbath after the first, and his disciples did eat, rubbing them. God in his law, Deu 23:25, had said, When thou comest into the standing corn of thy neighbour, thou mayest pluck the ears with thine hand, but thou shalt not move a sickle unto thy neighbour’s standing corn. To take for our need so much of our neighbour’s goods as we may reasonably think that, if he were present, and knew our circumstances, he would give us, is no theft. The Pharisees therefore do not accuse them of theft, but of violation of the sabbath. Luke saith this happened upon the second sabbath after the first. Whether that was the sabbath next following the feast of unleavened bread, (which was about the time of our Easter), the first and last days of which were sabbaths in the Jewish sense, or the feast of tabernacles, or any other, is not much material for us to know. But on a sabbath day it was that our Saviour",
+     "refs": [
+      {
+       "text": "Mar 2:23",
+       "ref": "MRK.2.23"
+      },
+      {
+       "text": "Luk 6:1",
+       "ref": "LUK.6.1"
+      },
+      {
+       "text": "Deu 23:25",
+       "ref": "DEU.23.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.1#p2-44fd7f60",
+     "text": "this may teach us their low estate and condition in the world. He could quickly have supplied their hunger, but he chose to leave them to relieve themselves with plucking, rubbing, and eating of the corn, that he might have an opportunity to instruct them and the Pharisees in the true doctrine of the sabbath.",
+     "anchor": "went through the corn, and his disciples were an hungred"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.2",
+   "range": "MAT.12.2",
+   "kind": "passage",
+   "hash": "1e127c67",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.2#p1-f379b8f9",
+     "text": "So saith Mark, Mar 2:24, only he puts it into the form of a question. Luke adds nothing, Luk 6:2, but saith, certain of the Pharisees. They granted the thing lawful to be done another day, but not on the sabbath day. How blind is superstition, that they could think that it was contrary to the will of God, that his people should fit themselves for the service of the sabbath by a moderate refreshment!",
+     "refs": [
+      {
+       "text": "Mar 2:24",
+       "ref": "MRK.2.24"
+      },
+      {
+       "text": "Luk 6:2",
+       "ref": "LUK.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.2#p2-05584f65",
+     "text": "Some of the Pharisees ordinarily attended Christ’s motions, not to be instructed by him, but (as is afterward said) that they might have something whereof to accuse him. What a little thing do they carp at! Wherein was the sin? The plucking of a few ears of corn, and rubbing them, could hardly be called servile labour, especially not in the sense of the commandment, which restrained not necessary labour, but such labour as took them off from the duties of the sabbath; but their tradition had made this unlawful, as it was a little reaping and a kind of threshing. Hypocrites and formalists are always most zealous for little things in the law, or for their own additaments to it."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.3",
+   "range": "MAT.12.3",
+   "kind": "passage",
+   "hash": "0dde1607",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.3#p1-0dde1607",
+     "text": "Mat 12:4\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:4",
+       "ref": "MAT.12.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.4",
+   "range": "MAT.12.4",
+   "kind": "passage",
+   "hash": "3ad88119",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.4#p1-fcf83adc",
+     "text": "Ver. 3,4. Mark and Luke add little, only Mark specifies the time, in the days of Abiathar the high priest, and saith, when he had need, and was an hungred. We have the history, 1Sa 21:1-15. David was upon his flight from Saul, upon the notice of his danger given him by Jonathan, 1Sa 20:1-42, and being hungry, he asks of the high priest five loaves of broad; the high priest tells him he had none but hallowed bread, which the high priest gave him, 1Sa 21:6. What the shewbread was may be read, Lev 24:5-9: it is expressly said, a stranger shall not eat thereof. Now (saith our Saviour) notwithstanding this, David and his followers, being an hungred, did eat thereof, though strictly, according to the letter of the law, none but the priests might eat it.",
+     "refs": [
+      {
+       "text": "1Sa 21:1-15",
+       "ref": "1SA.21.1-15"
+      },
+      {
+       "text": "1Sa 20:1-42",
+       "ref": "1SA.20.1-42"
+      },
+      {
+       "text": "1Sa 21:6",
+       "ref": "1SA.21.6"
+      },
+      {
+       "text": "Lev 24:5-9",
+       "ref": "LEV.24.5-9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.4#p2-50373a22",
+     "text": "But some may object: What was this to the purpose? It was not upon the sabbath day."
+    },
+    {
+     "id": "poole/MAT.12.4#p3-b76e91ee",
+     "text": "Answer:"
+    },
+    {
+     "id": "poole/MAT.12.4#p4-8bac345c",
+     "text": "1. It was either upon the sabbath day, or immediately after, for it was to be set on every sabbath day, and to be eaten in the holy place, Lev 24:8,9, and the high priest told David, 1Sa 21:6, that it was taken away to set hot bread in the room of it.",
+     "refs": [
+      {
+       "text": "Lev 24:8",
+       "ref": "LEV.24.8"
+      },
+      {
+       "text": "1Sa 21:6",
+       "ref": "1SA.21.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.4#p5-e5aea5de",
+     "text": "2. But secondly, that which our Saviour produces this for, was to prove a more general proposition, which being proved, the lawfulness of his disciples’ act would easily be inferred from it. That was this: That the letter of a ritual law is not to be insisted upon, where some eminent necessity urges the contrary, in the performance of some natural or moral duty."
+    },
+    {
+     "id": "poole/MAT.12.4#p6-991beb2a",
+     "text": "The law of nature commandeth every man to feed himself when he is hungry. The moral law confirms this, as it is a means to the observation of the sixth commandment, and especially on the sabbath day, so far as may fit us for the best sanctification of it. The law concerning the shewbread was but a ritual law, and that part of it which restrained the use of it when taken off from the holy table was of lightest concern, as it commanded it should be eaten by the priests only, and by them in the holy place."
+    },
+    {
+     "id": "poole/MAT.12.4#p7-63a5a83b",
+     "text": "Where the life, or necessary relief, of men was concerned, the obligation of the ritual law ceased, and that was lawful, both for David and the high priest, which in ordinary cases had not been lawful. Works necessary either for the upholding of our lives, or fitting us for sabbath services, are lawful upon the sabbath day. Though the law concerning the sabbath be a moral law, yet it is jus positivum, not a law natural, but positive, and must be so interpreted as not to destroy the law natural, which commands men to feed themselves; nor yet to destroy itself."
+    },
+    {
+     "id": "poole/MAT.12.4#p8-0588ff7f",
+     "text": "The scope and end of it is to be considered, which is the keeping of a day as a day of holy and religious rest. What labour is necessary to such keeping of it is also lawful. The time of the sabbath is not more holy than the shewbread; and as David in a case of necessity might make a common use of that holy bread, so the disciples in a case of like necessity might make use of a little of that holy time, in such necessary servile work as might fit them for their sabbath service. Thus it was lawful by the law of God, and if the Pharisees had not been ignorant, or had understood what they had read, they would never have disputed this, the instance of holy David might have satisfied."
+    },
+    {
+     "id": "poole/MAT.12.4#p9-889ab018",
+     "text": "So that this little kind of labour could only be a breach of one of their bylaws, by which they pretended to expound the law of God, in which he showeth they had given a false interpretation."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.5",
+   "range": "MAT.12.5",
+   "kind": "passage",
+   "hash": "2bbdd252",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.5#p1-ecaac411",
+     "text": "Neither Mark nor Luke have this argument of our Saviour’s. The meaning is, all acts of servile labour are not unlawful on the sabbath day. The priests, according to the law, Num 28:9, offer sacrifices, and do many other acts, such as circumcising, and many other things, which in your sense would be a profanation of the sabbath; yet you do not blame them, neither are they to he blamed, because God permitted and directed them.",
+     "refs": [
+      {
+       "text": "Num 28:9",
+       "ref": "NUM.28.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.5#p2-b4cc40cf",
+     "text": "If any say, \"But how doth this agree to what our Saviour is speaking to?\""
+    },
+    {
+     "id": "poole/MAT.12.5#p3-175538a4",
+     "text": "Answer: The disciples of Christ were employed with and by him in going about and preaching the gospel, and what they now did was but in order to fit them for his work, when they had not had such leisure as others beforehand to provide: and this establisheth a second rule, That works of piety, and tending to fit us for acts of piety, that cannot conveniently be done before, are lawful on the sabbath day."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.6",
+   "range": "MAT.12.6",
+   "kind": "passage",
+   "hash": "92a4e8b0",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.6#p1-72fc004c",
+     "text": "The Jews had very superstitious conceits concerning the temple, and might object, But the priests’ works are done in the temple. The Jews had a saying, that in the temple there was no sabbath. They looked upon the temple as sanctifying all actions done there. To obviate this, (saith our Saviour),"
+    },
+    {
+     "id": "poole/MAT.12.6#p2-5f5d821f",
+     "text": "(that is, I am)",
+     "anchor": "In this place is one"
+    },
+    {
+     "id": "poole/MAT.12.6#p3-f10b3fb4",
+     "text": "The temple was but a type of me. If the temple can sanctify so much labour, will not my authority and permission, think you, excuse this little labour of my disciples?",
+     "anchor": "greater than the temple"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.7",
+   "range": "MAT.12.7",
+   "kind": "passage",
+   "hash": "6a19e215",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.7#p1-6a19e215",
+     "text": "Neither Mark nor Luke have this argument. Our Lord yet goeth on taxing these great doctors of ignorance. The text he quotes is Hos 6:6; we met with it before quoted by our Saviour, Mat 9:13. The meaning is, that God prefers mercy before sacrifice. Where two laws in respect of some circumstance seem to clash one with another, so as we cannot obey both, our obedience is due to that which is the more excellent law. Now, saith our Saviour, the law of mercy is the more excellent law; God prefers it before sacrifice; which had you well considered, you would never have accused my disciples, who in this point are guiltless.",
+     "refs": [
+      {
+       "text": "Hos 6:6",
+       "ref": "HOS.6.6"
+      },
+      {
+       "text": "Mat 9:13",
+       "ref": "MAT.9.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.8",
+   "range": "MAT.12.8",
+   "kind": "passage",
+   "hash": "209d4129",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.8#p1-b72be8d3",
+     "text": "This argument Luke hath, Luk 6:5. Mark hath it thus, Mar 2:27,28, And he said unto them, The sabbath was made for man, and not man the sabbath: therefore the Son of man is Lord also of the sabbath. Some interpreters make these two arguments:",
+     "refs": [
+      {
+       "text": "Luk 6:5",
+       "ref": "LUK.6.5"
+      },
+      {
+       "text": "Mar 2:27",
+       "ref": "MRK.2.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.8#p2-465574a1",
+     "text": "1. The Son of man is Lord of the sabbath; therefore it is in my power to dispense with this action of my disciples, though it had been contrary to the letter of the law: or rather, therefore it is in my power to interpret the law, which I myself made."
+    },
+    {
+     "id": "poole/MAT.12.8#p3-4c0a0a3d",
+     "text": "2. The sabbath is made for man, not man for the sabbath. A law made for the good of another bindeth not, in such cases where the observation of it would be evidently for his harm and ruin. The law of the sabbath was made for the good of man, that he might have a solemn time, in which he should be under an obligation to pay his homage unto God; this must not be so interpreted as would tend to the destruction of a man."
+    },
+    {
+     "id": "poole/MAT.12.8#p4-506482e3",
+     "text": "I find interpreters divided about that term the Son of man. Some think that it is not to be interpreted, as usually in the gospel, concerning Christ; but of ordinary men, and that man’s lordship over the sabbath is proved by the subserviency of it to his good, to which end also it was ordained. But certainly that is both a dangerous and unscriptural interpretation: dangerous to give man a lordship over a moral law, for it is very improper to call any lord of a thing, because he hath the use of it, and it is for his advantage: I cannot see but we may as well make man lord of the whole ten commandments as of one of them. Unscriptural, for though our Saviour useth this term more than threescore times in the gospel, yet he always useth it with relation to himself, never with reference to any mere man; neither is there any necessity to understand it otherwise here. Christ affirming himself Lord of the sabbath, spake properly enough to the Pharisees’ quarrel; for it must needs then follow, that he had power to dispense with the observation of it at particular times, and much more to give a true and right interpretation of the law concerning it."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.9",
+   "range": "MAT.12.9",
+   "kind": "passage",
+   "hash": "f6c2cc83",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.9#p1-f6c2cc83",
+     "text": "Mark saith, Mar 3:1, he entered again into the synagogue on the sabbath day. This our Saviour was often wont to do, to own there what was done according to his Father’s institution, and himself to do what good he could; nor doth he now decline it because he had had so late a contest with them: it is therefore said that he went into their synagogue, as being neither ashamed of what he had delivered, nor afraid to own it in the face of his adversaries.",
+     "refs": [
+      {
+       "text": "Mar 3:1",
+       "ref": "MRK.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.10",
+   "range": "MAT.12.10",
+   "kind": "passage",
+   "hash": "7520abc8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.10#p1-7520abc8",
+     "text": "Mark, repeating the same history, saith, Mar 3:1,2, There was a man which had a withered hand, and they watched him, whether he would heal him on the sabbath day, that they might accuse him. So saith Luk 6:6,7, only he addeth that it was his right hand, which made his affliction greater. They asked him not that they might rightly inform themselves, but that they might accuse him to their magistrates, that had power in those cases, for the violation of the sabbath was, amongst the Jews, a capital crime.",
+     "refs": [
+      {
+       "text": "Mar 3:1",
+       "ref": "MRK.3.1"
+      },
+      {
+       "text": "Luk 6:6",
+       "ref": "LUK.6.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.11",
+   "range": "MAT.12.11",
+   "kind": "passage",
+   "hash": "be3af2d9",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.11#p1-be3af2d9",
+     "text": "Mat 12:12\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:12",
+       "ref": "MAT.12.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.12",
+   "range": "MAT.12.12",
+   "kind": "passage",
+   "hash": "3c3d540e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.12#p1-0f207a35",
+     "text": "Ver. 11,12. Mark saith, Mar 3:3-5, And he saith unto the man which had the withered hand, Stand forth. And he saith unto them, is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace. Luke reports it thus, Luk 6:8,9, But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.",
+     "refs": [
+      {
+       "text": "Mar 3:3-5",
+       "ref": "MRK.3.3-5"
+      },
+      {
+       "text": "Luk 6:8",
+       "ref": "LUK.6.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.12#p2-33e5f193",
+     "text": "Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? To save life, or to destroy it? Christ knew their thoughts; he needed not that any man should tell him what was in the heart of men; he knew their design in coming, and propounding this question."
+    },
+    {
+     "id": "poole/MAT.12.12#p3-a94ba316",
+     "text": "He calls this man with the withered hand to stand forth, that all men might see, and take notice of him. Then he argues the case with the Pharisees, telling them, that they themselves would grant, that if a man had a sheep fallen into a pit on the sabbath day, they might labour so far as to take it out; so, it seemeth, in Christ’s time they did expound the law. They also knew that the life or good of a man was to be preferred before the life of a beast. In their reproving him, therefore, they condemned themselves in a thing which they allowed. Then he propounds a question to them, which Matthew hath not, but it is mentioned both by Mark and Luke. He asketh them whether it was lawful on the sabbath days to do good, or to do evil? To save life, or to destroy it? The argument is this, Whatsoever is good to save the life of man may be done on the sabbath day; but this is a good action; if I should not lend him my help when it is in my power, I should, in the sense of God’s law, kill him."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.13",
+   "range": "MAT.12.13",
+   "kind": "passage",
+   "hash": "dcff346a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.13#p1-11d4f8b9",
+     "text": "Mark saith, they held their peace, they made him no answer to his question, upon which he, looking round about him with anger, being grieved for the hardness of their hearts, saith unto the man, Stretch forth thine hand. Luke saith, Looking round about upon them all, he said, &c. Our Saviour looked about him to see if any of them would adventure to answer him, but he saw their mouths were shut. He was angry that these great doctors of the law should understand the law of God no better, and should yet be so hardy as to take upon them to instruct him. He was also grieved (saith Mark) at the hardness of their hearts."
+    },
+    {
+     "id": "poole/MAT.12.13#p2-e67ff566",
+     "text": "That which we call hardness, is a quality in a thing which resisteth the truth, a unimpressiveness, when a thing will receive no impression from things apt to make impressions: the hardness of the Pharisees’ hearts lay in this, that whereas Christ’s words and works might reasonably and ought to have made an impression upon them of faith, that they should have owned and received him as the Messiah, yet they had no such effect, nor made any such impressions upon them. He said to the man, Stretch forth thine hand. And he stretched it forth, & c. Christ sometimes used the ceremony of laying on his hand; here he doth not, to let us know that that was but a sign of what was done by his power."
+    },
+    {
+     "id": "poole/MAT.12.13#p3-e1bce26a",
+     "text": "What little things malicious men will carp at! What was here of servile labour on the sabbath day? They did far more themselves, as often as they lifted a beast out of a pit. Our Saviour compounds or prepareth no medications, he only speaks the word, and he is healed. But Matthew tells us that...( see Mat 12:14).",
+     "refs": [
+      {
+       "text": "Mat 12:14",
+       "ref": "MAT.12.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.14",
+   "range": "MAT.12.14",
+   "kind": "passage",
+   "hash": "cfcd0a4f",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.14#p1-cfcd0a4f",
+     "text": "Luke saith, they were filled with madness, and communed one with another what they might do to Jesus. Mark saith, they straightway took counsel with the Herodians against him, how they might destroy him. What cause of their madness was here offered? A poor lame man was miraculously healed. They certainly were mad to see themselves confuted, who would not acknowledge him to be the Messiah, or to hear themselves nonplussed, or to find themselves contradicted (a thing proud men cannot bear). They take counsel with the Herodians (of whom we shall have occasion to say more when we come to Mat 22:1-46): all agree them and the Pharisees to have been steady enemies one to another, but Herod and Pilate can agree when Christ is to be crucified.",
+     "refs": [
+      {
+       "text": "Mat 22:1-46",
+       "ref": "MAT.22.1-46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.15",
+   "range": "MAT.12.15",
+   "kind": "passage",
+   "hash": "9b94ced9",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.15#p1-9b94ced9",
+     "text": "Mat 12:16\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:16",
+       "ref": "MAT.12.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.16",
+   "range": "MAT.12.16",
+   "kind": "passage",
+   "hash": "93700537",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.16#p1-a9d4c873",
+     "text": "Ver. 15,16. Here is nothing in these two verses but what we have before met with: the multitudes have followed Christ in all his motions, from his first beginning to preach and to work his miraculous operations."
+    },
+    {
+     "id": "poole/MAT.12.16#p2-cb07bf81",
+     "text": "must be understood of those that were sick. The charge he gives is the same which we have often met with, of which no satisfactory account can be given, further than that, knowing his time was not yet come, and he had much work to do before his death, he useth all prudent means to preserve his life, reserving himself for the further work which his Father left him to do. The publishing of his miracles would have made a great noise, and possibly have more enraged the Pharisees against him; neither did he seek his own glory, but the glory of him that sent him.",
+     "anchor": "He healed them all"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.17",
+   "range": "MAT.12.17",
+   "kind": "passage",
+   "hash": "4cb626a8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.17#p1-4e515dab",
+     "text": "Christ did this, that is, he withdrew himself when he heard what counsels the Pharisees and Herodians had taken, he charged those whom he had cured that they should not publish it abroad, he did those good acts before spoken of,"
+    },
+    {
+     "id": "poole/MAT.12.17#p2-098363d1",
+     "text": "that he might show himself to be the very person whom the prophet Isaiah long since did foretell, Isa 42:1-4. The words in the prophet are thus: Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my Spirit upon him: he shall bring forth judgment to the Gentiles. He shall not cry, nor lift up, nor cause his voice to be heard in the street. A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth. He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law. Thus far that prophet; let us now consider his words, or prophecy, as repeated by the evangelist. {see Mat 12:18}",
+     "anchor": "That it might be fulfilled which was spoken by the prophet",
+     "refs": [
+      {
+       "text": "Isa 42:1-4",
+       "ref": "ISA.42.1-4"
+      },
+      {
+       "text": "Mat 12:18",
+       "ref": "MAT.12.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.18",
+   "range": "MAT.12.18",
+   "kind": "passage",
+   "hash": "ff269261",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.18#p1-e31152ec",
+     "text": "The alteration is very little, and we must not expect to meet with quotations out of the Old Testament verbatim: it is enough that the sense is the same."
+    },
+    {
+     "id": "poole/MAT.12.18#p2-71a026ea",
+     "text": "The word indifferently signifieth a child or a servant, Christ is called the Lord’s servant, because he took upon him the form of a servant, and became obedient even to death, Php 2:7,8:",
+     "anchor": "Behold my servant, whom I have chosen",
+     "refs": [
+      {
+       "text": "Php 2:7",
+       "ref": "PHP.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.18#p3-8da74cfa",
+     "text": "in Isaiah it is, whom I uphold; mine elect, in whom my soul delighteth. Matthew seems to have left out whom I uphold, and to have taken the next words, mine elect, and to have translated them, whom I have chosen, which was all said by the prophet. God chose the Lord Jesus Christ to be our Redeemer, and the Head of the elect; hence we are said to be chosen in him, Eph 1:4. Peter saith he was foreordained, 1Pe 1:20 2:6, he is called a chief Cornerstone, elect. My beloved, in whom my soul",
+     "anchor": "Whom I have chosen; my beloved, in whom my soul is well pleased",
+     "refs": [
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      },
+      {
+       "text": "1Pe 1:20",
+       "ref": "1PE.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.18#p4-3e45ab35",
+     "text": "in Isaiah it is, in whom my soul delighteth: the sense is the same.",
+     "anchor": "is well pleased"
+    },
+    {
+     "id": "poole/MAT.12.18#p5-0b704ee0",
+     "text": "He shall bring forth judgment to the Gentiles, or to the nations. The words [Hebrew], in the Hebrew, κρισις in the Greek, and judgment in the English, are all so variously used, as gives interpreters a great latitude to abound in their senses. The most probable to me is this: Judgment signifies a thing adjudged: all judgment is either of approbation or condemnation."
+    },
+    {
+     "id": "poole/MAT.12.18#p6-0260e44b",
+     "text": "He shall bring forth, or he shall show, the things which God approveth and judgeth right, both in matters of doctrine, worship, and the government of the church of God, and in matters which concern the government of men’s lives and conversations: and to this end God promises to put his Spirit upon him, so Isa 11:2 41:1; and John tells us it was not given him by measure, Joh 3:34, which is the same with being anointed with the oil of gladness above his fellows, Psa 45:7, which the apostle applies to Christ, Heb 1:9.",
+     "refs": [
+      {
+       "text": "Isa 11:2",
+       "ref": "ISA.11.2"
+      },
+      {
+       "text": "Joh 3:34",
+       "ref": "JHN.3.34"
+      },
+      {
+       "text": "Psa 45:7",
+       "ref": "PSA.45.7"
+      },
+      {
+       "text": "Heb 1:9",
+       "ref": "HEB.1.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.19",
+   "range": "MAT.12.19",
+   "kind": "passage",
+   "hash": "3da302c5",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.19#p1-3da302c5",
+     "text": "These words declare the meekness, and gentleness, and modesty of our blessed Saviour. His meekness, that he should not do his work in any passion or roughness, nor carry on his kingdom with any strife or violence. Therefore when the Pharisees took counsel against him, he made no opposition, but peaceably withdrew, until the time came when he was to be delivered; and then he as meekly yielded up himself, rebuking Peter for but drawing a sword for him, and healing his ear which he had wounded. His not crying, nor lifting up his voice, or suffering his voice to be heard in the streets, might either signify his meekness, not crying out to stir up any sedition; or not setting a trumpet to his mouth, when he had wrought a miracle, that people might take notice of it; instead of it he charged the persons healed not to publish it."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.20",
+   "range": "MAT.12.20",
+   "kind": "passage",
+   "hash": "90482fc6",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.20#p1-7619ccad",
+     "text": "He shall carry on his work with so little noise, that if he trod upon a bruised reed he should not break it. Or, he shall not despise the afflicted, that are as bruised reeds and smoking flax. But the best expositors interpret it of Christ’s kindness to people’s souls; he will not discourage those that are weak in faith, or weak in hope."
+    },
+    {
+     "id": "poole/MAT.12.20#p2-4e7d952f",
+     "text": "signifieth flax in the kindling of which the fire had not prevailed, and so is a very apt metaphor to express such as believe, but are full of doubts and fears, or such as have a truth of grace, but yet much corruption; Christ is prophesied of as one that will encourage, not discourage, such souls.",
+     "anchor": "Smoking flax"
+    },
+    {
+     "id": "poole/MAT.12.20#p3-c513ec66",
+     "text": "Until he hath brought forth judgment unto victory; Isaiah saith, unto truth. Some think that until here only signifies the event of the thing, not a term of time, for there shall never be a time when Christ shall break a bruised reed, or quench a smoking flax, in the sense before mentioned. By judgment here may be meant, as before, what his Father hath judged right, until he hath caused the doctrine of the gospel, and the Messiah, to be believed and embraced of all the world."
+    },
+    {
+     "id": "poole/MAT.12.20#p4-4874277e",
+     "text": "Or, until he shall have brought forth the judgment of those broken reeds and that smoking flax unto victory, until such souls be made perfect in faith and holiness, and shall have got a victory over all its unbelief and other corruptions. Or, until he hath brought forth condemnation unto victory, (for so the word signifieth), till he hath conquered death and hell, so as there shall be no condemnation to any soul that is in Christ Jesus, Rom 8:1. Or, until the last judgment comes, which shall determine in a perfect absolution and acquittal of all his people, and in a perfect victory over all his enemies.",
+     "refs": [
+      {
+       "text": "Rom 8:1",
+       "ref": "ROM.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.21",
+   "range": "MAT.12.21",
+   "kind": "passage",
+   "hash": "877cfba7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.21#p1-452aeaa4",
+     "text": "This makes some think, that the bringing of judgment unto victory refers to the final destruction of the Jews by the Romans, after which the Gentiles came more universally to receive the gospel. Though Christ be meek and gentle with men a long time, while there is any hope of their reformation, yet he will not be so meek and patient always. Neither was he so with the Jews. But the falling of them proved the rising of the Gentiles. Christ is beholden to no people for bearing the name of his church; if the Jews fail in their duty, they shall be cast off, and in his name shall the Gentiles trust. God is able of stones to raise up children unto Abraham."
+    },
+    {
+     "id": "poole/MAT.12.21#p2-948c0eb6",
+     "text": "Isaiah saith, the isles shall wait for his law; his law, both of faith and holiness, shall be acceptable to the Gentiles. The term law here seemeth to expound that phrase, Mat 12:18, he shall show judgment to the Gentiles, that is, right things, he shall give them his law.",
+     "refs": [
+      {
+       "text": "Mat 12:18",
+       "ref": "MAT.12.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.22",
+   "range": "MAT.12.22",
+   "kind": "passage",
+   "hash": "7bc4f242",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.22#p1-7bc4f242",
+     "text": "Some think this person was the same mentioned Luk 11:14, I presume, because the following discourse there is much the same with what followeth here; but others are of another mind; and it is certain Luke speaketh of no blindness in him. We heard before a discourse of such as were possessed by devils, so as this verse affords nothing new.",
+     "refs": [
+      {
+       "text": "Luk 11:14",
+       "ref": "LUK.11.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.23",
+   "range": "MAT.12.23",
+   "kind": "passage",
+   "hash": "23590701",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.23#p1-23590701",
+     "text": "This is the first conviction we meet with, from the miracles wrought by our Saviour, that he was the Messiah, unless that of the two blind men, mentioned Mat 9:27; and their faith in it appears but weak, for they do not plainly affirm it, only ask the question, like the faith of those mentioned Joh 7:31, When Christ cometh, will he do more miracles than these which this man hath done?",
+     "refs": [
+      {
+       "text": "Mat 9:27",
+       "ref": "MAT.9.27"
+      },
+      {
+       "text": "Joh 7:31",
+       "ref": "JHN.7.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.24",
+   "range": "MAT.12.24",
+   "kind": "passage",
+   "hash": "afa1a3fa",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.24#p1-8c243c57",
+     "text": "We met with the same blasphemous calumny from the same persons, Mat 9:34. The Pharisees, not acknowledging the Deity of Christ, nor that he was the Messiah, were for their interest concerned not to acknowledge, and as much as in them lay to keep others from believing, that he did that from his own power which God alone could do. But yet they might have allowed him to have by a power derived from God done these miraculous things, as Elijah and Elisha of old did. But they blaspheme at the highest rate imaginable, ascribing that to the devil which was proper to God alone. Christ’s miracles were exceeding many, and it was a time when the Messiah was expected.",
+     "refs": [
+      {
+       "text": "Mat 9:34",
+       "ref": "MAT.9.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.24#p2-b3153a81",
+     "text": "The sceptre was departed from Judah, and, as it appears from Joh 7:31, (whatever the Jews now say impudently), they heard that when the Messiah did come he should work many miracles. These things put them into a rage. This remarkable piece of history is recorded by three evangelists: by Matthew in this place; by Mark, Mar 3:22-30; and by Luke, Luk 11:15-20.",
+     "refs": [
+      {
+       "text": "Joh 7:31",
+       "ref": "JHN.7.31"
+      },
+      {
+       "text": "Mar 3:22-30",
+       "ref": "MRK.3.22-30"
+      },
+      {
+       "text": "Luk 11:15-20",
+       "ref": "LUK.11.15-20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.25",
+   "range": "MAT.12.25",
+   "kind": "passage",
+   "hash": "cfed0ac0",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.25#p1-cfed0ac0",
+     "text": "Mat 12:26\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:26",
+       "ref": "MAT.12.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.26",
+   "range": "MAT.12.26",
+   "kind": "passage",
+   "hash": "2774d590",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.26#p1-3e3d1984",
+     "text": "Ver. 25,26. This is our Lord’s first argument. Mark relates it, Mar 3:23-26, with little alteration in the phrase; so doth Luke, Luk 11:17,18. The sum of the argument is, The devil is so wise, that he will look to the upholding of his own kingdom in the world. This will require an agreement of the devils amongst themselves, for if they be divided they cannot uphold their kingdom, nor stand, any more than a house, city, or kingdom in the world so divided can stand; therefore the prince of devils will not forcibly cast out the inferior devils.",
+     "refs": [
+      {
+       "text": "Mar 3:23-26",
+       "ref": "MRK.3.23-26"
+      },
+      {
+       "text": "Luk 11:17",
+       "ref": "LUK.11.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.26#p2-3a1090d3",
+     "text": "There is but one imaginable objection to this: Do we not see the contrary to this in people’s going to cunning men for help against those that are bewitched, to get help for them? And is there no truth in those many stories we have of persons that have found help against the devil for some that have traded with the devil? I answer, It is one thing for the devils to play one with another, another thing for them to cast out one another. One devil may yield and give place to another, to gain a greater advantage for the whole society, but one never quarrels with another. The first may be for the enlarging of Satan’s kingdom."
+    },
+    {
+     "id": "poole/MAT.12.26#p3-e6c8afb3",
+     "text": "This must be to destroy it. When a poor wretched creature goeth to one who dealeth with the devil for help for one who is vexed with some effect of the devil, one devil here doth but yield and give place to another by compact, voluntarily, and for the devil’s greater advantage; for it is more advantage to the devil (who seeks nothing so much as a divine homage) to gain the faith of one soul, than to exercise a power to afflict many bodies. In such cases as these, the devil, for the abatement of a little bodily pain, gains a power over the soul of him or her who cometh to implore his help, and exerciseth a faith in him. This is an establishing, promoting, and enlarging his kingdom."
+    },
+    {
+     "id": "poole/MAT.12.26#p4-9fc7d551",
+     "text": "But Christ forced the devils out of persons; they did not yield voluntarily, for a greater advantage, but forcibly, for no advantage. He did not pray the devils to come out, nor make use of any of the devil’s sacraments, upon the use of which, by some original compact, he was obliged to come out upon a soul’s surrender of itself by faith to him; but they came out unwillingly, upon the authoritative words of Christ, without the use of any magical rites and ceremonies testifying the least homage done to him."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.27",
+   "range": "MAT.12.27",
+   "kind": "passage",
+   "hash": "64662634",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.27#p1-1a8af08f",
+     "text": "Our Saviour’s argument is this, Where the case is the same the judgment ought to be the same, and the contrary judgment speaketh malice, and hatred of the person. Do I cast out devils? So do your children. You say they do it by the power of God; why do you say that I do it by a prince of devils? What appeareth in their casting of them out more than in mine, which can argue that they do it by the power of God, and I by the power of the prince of devils? The only question is who our Saviour here meaneth by their children."
+    },
+    {
+     "id": "poole/MAT.12.27#p2-ceb4dbed",
+     "text": "Some think that he meaneth his own apostles, who were all of them Jews, and to whom they might be more favourable than to him, because of their relation to them. Others think that he means some exorcists amongst the Jews; such they had, Act 19:13. But concerning these there is a double opinion. Some think that they were such as themselves, acted by compact of the devil. Others think that they invocating the God of Abraham, Isaac, and Jacob, God might honour them so far, as upon that invocation to command the devil out of persons. Origen and Justin Martyr both tell us, that there were some that used that form with such success.",
+     "refs": [
+      {
+       "text": "Act 19:13",
+       "ref": "ACT.19.13"
+      },
+      {
+       "text": "Act 19:13",
+       "ref": "ACT.19.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.27#p3-beb92981",
+     "text": "But so they might do, and yet not obtain their effect from a Divine influence, nor so much cast as flatter out devils, upon a homage first paid to the devil. I find some difficulty to persuade myself that in those times, especially when God by this miraculous effect was demonstrating the Messias, God should so far concur with any but him, and those that did it by his express name and authority; and I observe, that when the seven sons of Sceva attempted such a thing, Act 19:13, they called over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus, whom Paul preacheth, ( which they, being the sons of the chief of the priests, would not have done if the more grateful form of, The God of Abraham, Isaac, and Jacob, would have done it), yet could they not prevail, as you read there, Act 19:14-16. Our Saviour’s meaning therefore must certainly be either,",
+     "refs": [
+      {
+       "text": "Act 19:13",
+       "ref": "ACT.19.13"
+      },
+      {
+       "text": "Act 19:13",
+       "ref": "ACT.19.13"
+      },
+      {
+       "text": "Act 19:14-16",
+       "ref": "ACT.19.14-16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.27#p4-d1d470b6",
+     "text": "1. You do not say so of your children, my apostles, who do, and profess to do, what they do by a power derived from me; why do you say this of me, not of them? Or,"
+    },
+    {
+     "id": "poole/MAT.12.27#p5-82f845ec",
+     "text": "2. There are some of you who seem to cast out devils, whereas the devil only plays with them, and yields to their magical arts for his own advantage, and abates some more external effects on people’s bodies, upon the surrender of their souls to him, by believing he is able to cure them, and imploring his help; yet you think these men endowed with the power of God: why are you so unequal to me?"
+    },
+    {
+     "id": "poole/MAT.12.27#p6-2b51859c",
+     "text": "I observe, though we read of exorcists amongst the Jews, Act 19:13, yet they are called περιερχομενοι, vagrants. They were an idle, vagabond sort of persons, (such probably as we call gypsies), with whom, or by whom; it is not probable God would work such effects, especially at such a time, though they used the names of Abraham, Isaac, and Jacob. Nay, it is plain from the story of the Acts, that though they used the name Jesus, God would not work by them; Mat 12:16, the demoniac leaped on them, overcame them, prevailed against them, so that they fled out of that house naked and wounded.",
+     "refs": [
+      {
+       "text": "Act 19:13",
+       "ref": "ACT.19.13"
+      },
+      {
+       "text": "Mat 12:16",
+       "ref": "MAT.12.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.28",
+   "range": "MAT.12.28",
+   "kind": "passage",
+   "hash": "db5c806d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.28#p1-db5c806d",
+     "text": "Luke hath the same, Luk 11:20, only for the Spirit of God he hath the finger of God. By the kingdom of God he here meaneth the coming of the Messiah, which is so called, Dan 2:44. The time is come, when the Lord begins his kingdom of grace, setting up his King upon his holy hill of Zion, Psa 2:6; whence we may observe, that Christ giveth in his casting out of devils by a Divine power, as an argument to prove himself the Messiah; for saith he, By this you may know the kingdom of God is come amongst you, that there is one come among you who by the finger, power, or Spirit of God casts out devils. But where had the force of this argument been, if the Jews had had exorcists whom God had so honoured, though vagabonds, as to cast out devils, upon their calling upon the God of Abraham, Isaac, and Jacob, while in the mean time they derided and contemned Christ?",
+     "refs": [
+      {
+       "text": "Luk 11:20",
+       "ref": "LUK.11.20"
+      },
+      {
+       "text": "Dan 2:44",
+       "ref": "DAN.2.44"
+      },
+      {
+       "text": "Psa 2:6",
+       "ref": "PSA.2.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.29",
+   "range": "MAT.12.29",
+   "kind": "passage",
+   "hash": "f60b7a33",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.29#p1-fd9da0af",
+     "text": "Mark hath the same words, with little variation, Mar 3:27; Luke saith, Luk 11:21,22, When a strong man armed keepeth his palace, his goods are in peace: but when a stronger than he shall come upon him and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoil. The sense is the same, though the words be multiplied.",
+     "refs": [
+      {
+       "text": "Mar 3:27",
+       "ref": "MRK.3.27"
+      },
+      {
+       "text": "Luk 11:21",
+       "ref": "LUK.11.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.29#p2-2a7acee3",
+     "text": "Our Saviour showeth how his casting out of devils by the Spirit and power of God argued that the Messiah was come, and the time come when God would set up his kingdom amongst men. The devil, (saith he), who is the god of the world, and the prince of the power of the air, is very strong; there is none, save God only, who is stronger than he. If I were not God, I could never cast out this strong man, who reigns in the world as in his house; as you see amongst men, the strong man is not overcome but by one stronger."
+    },
+    {
+     "id": "poole/MAT.12.29#p3-398954fe",
+     "text": "He by this also lets them know, that he was so far from any covenant or compact with Beelzebub, that he came into the world a professed enemy to him, to dispossess him of that tyrannical power he exercised amongst men, by his keeping them in darkness, blinding them with error and superstition, and seducing them to sinful practices, till God, for their prodigious sins, had also given him a power over their bodies, variously to vex, afflict, and torment them. Christ took from this strong man all his armour: by scattering the darkness which was in the world by the full revelation of gospel truth: by expelling error and superstition, teaching people the truths of God, and the right way of his worship: by taking away the guilt, and destroying the power of sin and death, ignorance, error, profaneness; the sense of the guilt of sin, and the power of lusts within us, being the devil’s armour, by which he kept up his power, and doth yet keep up what dominion he hath in the world."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.30",
+   "range": "MAT.12.30",
+   "kind": "passage",
+   "hash": "e8d98de9",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.30#p1-e8d98de9",
+     "text": "Luke hath the same, Luk 11:23. Some understand this concerning the devil, whom he was so far from favouring, that his work was quite opposite. Some understand it concerning some neuters, that would neither show themselves for Christ nor against him. Our Saviour tells them, that this cause would bear no neutrality, they must be either for him or against him. But possibly it is best understood concerning the scribes and Pharisees, whom he lets know, that he was one who showed men the true way of life and salvation, and those that complied not with him were his enemies, and instead of gathering, scattered the sheep of God.",
+     "refs": [
+      {
+       "text": "Luk 11:23",
+       "ref": "LUK.11.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.31",
+   "range": "MAT.12.31",
+   "kind": "passage",
+   "hash": "3059e2c7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.31#p1-3059e2c7",
+     "text": "Mat 12:32\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:32",
+       "ref": "MAT.12.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.32",
+   "range": "MAT.12.32",
+   "kind": "passage",
+   "hash": "377fca0f",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.32#p1-1fb3697e",
+     "text": "Ver. 31,32. Mark repeateth the same, Mar 3:28,29, with no alteration as to the sense, and instead of neither in this world, neither in the world to come, he saith, but is in danger of eternal damnation. Luke hath something of it, Luk 12:10, And whosoever shall speak a word against the Son of man, it shall be forgive him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven. It is a text (which) hath very much exercised great divines, and much more perplexed poor Christians in their fits of melancholy and under temptations. There is in it something asserted, that is, that all manner of sin and blasphemy shall be forgiven, Mat 12:32.",
+     "refs": [
+      {
+       "text": "Mar 3:28",
+       "ref": "MRK.3.28"
+      },
+      {
+       "text": "Luk 12:10",
+       "ref": "LUK.12.10"
+      },
+      {
+       "text": "Mat 12:32",
+       "ref": "MAT.12.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.32#p2-9156a073",
+     "text": "Whosoever speaketh a word against the Son of man, it shall be forgiven; that is, upon the terms other sins are forgiven, repentance and faith in Jesus Christ. By the Son of man here some would understand any ordinary man; but;"
+    },
+    {
+     "id": "poole/MAT.12.32#p3-1021040b",
+     "text": "1. Christ never spake of any under the notion but himself."
+    },
+    {
+     "id": "poole/MAT.12.32#p4-7a1da821",
+     "text": "2. It had been no great news for Christ to have told them, that ordinary evil speaking against men should be forgiven."
+    },
+    {
+     "id": "poole/MAT.12.32#p5-f07465a8",
+     "text": "Doubtless by the Son of man here Christ meaneth himself. He declareth that sins of ignorance should be forgiven; though a man should blaspheme Christ, yet if he did it ignorantly, verily thinking he was no more than the son of man, it should, upon his repentance and faith in him, be forgiven: a text yielding exceeding great relief to souls labouring under the burden of their sins, and reflecting upon their aggravation."
+    },
+    {
+     "id": "poole/MAT.12.32#p6-9618ca65",
+     "text": "But the difficulty lieth in the latter part of the text, which denieth forgiveness to any who blaspheme the Holy Ghost. Upon this arise several questions. First, What the sin against the Holy Ghost here specified was."
+    },
+    {
+     "id": "poole/MAT.12.32#p7-67395d01",
+     "text": "Answer: It is not hard to gather this from the context, and what Mark addeth, Mar 3:30, Because they said, He hath an unclean spirit. Christ was come amongst these persons to whom he speaketh; he had not only preached, but he had wrought many miraculous operations sufficient to convince them that he acted by the power and Spirit of God. They were not only convinced of it, so far as to acknowledge it, but they attributed these operations to the devil, and said he had a devil, and that he did what he did by the power of the devil. This, out of doubt, was their sin against the Holy Ghost, maliciously speaking to the highest reproach of the Holy Spirit, contrary to the rational conviction of their own consciences.",
+     "refs": [
+      {
+       "text": "Mar 3:30",
+       "ref": "MRK.3.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.32#p8-a6235ff6",
+     "text": "Hence ariseth a second question, Whether any such sin can be now committed."
+    },
+    {
+     "id": "poole/MAT.12.32#p9-b3d2427b",
+     "text": "Answer: If there were no other texts that seem to conclude, there may be such as those, Heb 6:4-6 10:26,27 1Jn 5:16, where he speaketh of a sin unto death, for the forgiveness of which he would not have Christians pray. I should conclude that there is no such sin now to be committed, for we cannot have such means of conviction as the Pharisees had, Christ not being on the earth now working miracles; but it is plain from the texts before mentioned, that there is such a sin, that men and women may yet incur the guilt of. But now what that sin is hath exercised the judgment of the greatest divines to describe. I shall not repeat the various opinions about it, many of which are easily confuted; but shall determine from the guidance of the scriptures that mention it, so far as they will direct in the finding of it out.",
+     "refs": [
+      {
+       "text": "Heb 6:4-6",
+       "ref": "HEB.6.4-6"
+      },
+      {
+       "text": "1Jn 5:16",
+       "ref": "1JN.5.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.32#p10-4231004b",
+     "text": "1. It cannot be any sin that is committed ignorantly. Paul was a blasphemer, but forgiven, because he did it ignorantly."
+    },
+    {
+     "id": "poole/MAT.12.32#p11-f7a019ba",
+     "text": "2. It must be a sin knowingly committed against the operations of the Holy Ghost. So was this sin of the Pharisees."
+    },
+    {
+     "id": "poole/MAT.12.32#p12-11ec4773",
+     "text": "3. Apostasy must be an ingredient in it: If they fall away, saith the apostle, Heb 6:6. It is a sinning wilfully after the receiving the knowledge of the truth, Heb 10:26.",
+     "refs": [
+      {
+       "text": "Heb 6:6",
+       "ref": "HEB.6.6"
+      },
+      {
+       "text": "Heb 10:26",
+       "ref": "HEB.10.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.32#p13-b6f8cc1b",
+     "text": "4. It should seem by this text persecution is an ingredient in it: the Pharisees did not only say this, but they spake it out of malice, designing to destroy Christ."
+    },
+    {
+     "id": "poole/MAT.12.32#p14-491ce415",
+     "text": "5. Most certainly it is, that though impenitency cannot be called that sin, yet it must be an ingredient in it, for what sins we truly repent of shall be forgiven, 1Jn 1:9; and therefore the apostle saith of such sinners, It is impossible they should be renewed by repentance.",
+     "refs": [
+      {
+       "text": "1Jn 1:9",
+       "ref": "1JN.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.32#p15-6623cbd2",
+     "text": "Upon the whole then, if any person hath been instructed in the things of God, and hath made a profession of religion and godliness, and afterwards falleth off from his profession, and becomes a bitter enemy to it; saying that those things are the effects of the devil in men, which his heart telleth him are the operations of the Holy Spirit, and be so hardy as to persecute and seek to destroy such persons for such profession: the interpretation be to those that hate us and to the enemies of our God: if they have not committed this unpardonable sin, they have done what is very like it; and I know no way they have, but by a timely and hearty repentance to satisfy the world, or their own consciences, that they are not under this dreadful guilt."
+    },
+    {
+     "id": "poole/MAT.12.32#p16-93ffcf8e",
+     "text": "And that which confirms me in this opinion is, that we rarely hear of such persons renewed by repentance (if any instances of that nature at all can be produced). I know some have thought that this sin might be committed by words, without other overt acts, and indeed blaspheming (properly taken) can signify nothing else but evil or reproachful speaking."
+    },
+    {
+     "id": "poole/MAT.12.32#p17-222d4028",
+     "text": "But these words must proceed from a malicious heart, full of rancour and revenge; for it is not every word, nor every blasphemy, that is here meant, it is (as Augustine saith) quoddam dictum, quaedam blasphemia, a certain word, a certain blasphemy; not words spoken ignorantly or hastily, or according to our real judgment and opinion; but words spoken maliciously, in order to destroy God or Christ, if it were possible, after sufficient means of light and conviction, that the things which we speak evil of are not from the evil, but, probably at least, from the Holy Spirit of God, and yet we will impute them to the devil, in order to the defaming or destruction of those servants of God who do them, or in whom they are found."
+    },
+    {
+     "id": "poole/MAT.12.32#p18-52893a03",
+     "text": "We can define nothing certain in the case, but this cometh nearest to the sin here mentioned, that shall never be forgiven in this world, or the world to come; that is, as Mark expounds it, the persons guilty shall be in danger of eternal damnation, by which he hath spoiled the papists’ argument from this text for their purgatory."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.33",
+   "range": "MAT.12.33",
+   "kind": "passage",
+   "hash": "4deb548d",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.33#p1-96b27ca7",
+     "text": "We met with much the same Mat 7:16. The words here spoken may be understood to have reference to the devil, to the scribes and Pharisees, or to Christ himself.",
+     "refs": [
+      {
+       "text": "Mat 7:16",
+       "ref": "MAT.7.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.33#p2-0cbb9c92",
+     "text": "1. You say I do these things by the devil: you cannot but say the things I do are good; the fruit followeth the nature of the tree: the devil is evil, a corrupt tree, how can he produce good fruit? Or thus;"
+    },
+    {
+     "id": "poole/MAT.12.33#p3-e9a29a0f",
+     "text": "2. You show yourselves to be corrupt trees by the fruit you bring forth; you indeed are not lewd and profane, but put on a mask and vizard of godliness, but your fruit showeth what you are. Or;"
+    },
+    {
+     "id": "poole/MAT.12.33#p4-ab52542d",
+     "text": "3. If the fruit which I produce be good, why should not you judge me good? Speak things that are consistent; if the fruit be good, the tree must be good; convince me of any evil things that I do, from whence you can rationally conclude that I am a corrupt tree."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.34",
+   "range": "MAT.12.34",
+   "kind": "passage",
+   "hash": "165d65c7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.34#p1-165d65c7",
+     "text": "Mat 12:35\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:35",
+       "ref": "MAT.12.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.35",
+   "range": "MAT.12.35",
+   "kind": "passage",
+   "hash": "3b5c5773",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.35#p1-632200bd",
+     "text": "Ver. 34,35. The evangelist Luke, Luk 6:45, hath much the same with what is here.",
+     "refs": [
+      {
+       "text": "Luk 6:45",
+       "ref": "LUK.6.45"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.35#p2-82efef29",
+     "text": "John had so called them, and Christ again so called them, Mat 23:33. A viper is of all other the most venomous and dangerous serpent. Christ is calling them a generation of vipers, intimates that the Pharisees were generally a most mischievous faction for the souls of men.",
+     "anchor": "O generation of vipers",
+     "refs": [
+      {
+       "text": "Mat 23:33",
+       "ref": "MAT.23.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.35#p3-5b189cbb",
+     "text": "Why do I (saith he) spend my time and breath in reproving or admonishing you? you have cankered hearts, full of pride, malice, and envy, and therefore, cannot ordinarily speak good things.",
+     "anchor": "How can ye, being evil, speak good things?"
+    },
+    {
+     "id": "poole/MAT.12.35#p4-c02a5c0e",
+     "text": "what men ordinarily and deliberately do speak is from the affections and thoughts of their hearts. Hence good men out of the good treasure of their hearts speak good things, that is, most ordinarily and commonly; and evil men out of the stock of malice, revenge, envy, pride and other lusts, which are in their hearts, speak evil things.",
+     "anchor": "For out of the abundance of the heart the mouth speaketh"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.36",
+   "range": "MAT.12.36",
+   "kind": "passage",
+   "hash": "05f193c7",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.36#p1-05f193c7",
+     "text": "Mat 12:37\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:37",
+       "ref": "MAT.12.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.37",
+   "range": "MAT.12.37",
+   "kind": "passage",
+   "hash": "8e88b1b3",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.37#p1-281614c8",
+     "text": "Ver. 36,37. Some understand by idle words here, lying and deceitful words; others, contumelious and reproachful words. But the best interpreters here extend the sense further, not only from the sense of the word αργον, here used, but because they judge our Saviour is here arguing from the less to the greater, convincing the Pharisees what a dreadful account they had to give for their blasphemous and reproachful words, when all must give an account even for those words which they speak to no good purpose, but vainly, without respect either to the glory of God, or the good of others, or their own necessary and lawful occasions. Hence the apostle doth not only forbid filthiness, foolish talking, and jestings, Eph 5:1, and corrupt communication, Eph 4:29, but in the same verse commandeth that Christians’ speech should be to the use of edifying, that it may administer grace to the hearers; and to the Colossians, Col 4:6, Let your speech be alway with grace, seasoned with salt. Nor will this seem too strict to those who consider, that any thing is abused when it is not used to the right end and use. God hath not given unto man his faculty of speech to fill the world with idle tattle and impertinent discourse, but that by it;",
+     "refs": [
+      {
+       "text": "Eph 5:1",
+       "ref": "EPH.5.1"
+      },
+      {
+       "text": "Eph 4:29",
+       "ref": "EPH.4.29"
+      },
+      {
+       "text": "Col 4:6",
+       "ref": "COL.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.37#p2-70eaa2a4",
+     "text": "1. We might bless God, by prayers and praises, talking of his words and wondrous works."
+    },
+    {
+     "id": "poole/MAT.12.37#p3-7d8e5a27",
+     "text": "2. That we might communicate our minds to men, in their or our own concerns, and so be mutually helpful one to another."
+    },
+    {
+     "id": "poole/MAT.12.37#p4-b4421edc",
+     "text": "what justified here signifies, appears by the word condemned, to which it is opposed. God will pronounce sentence for or against men in the last day, not only according to their other actions, but accordingly as they have used their tongues. If there were no other text in the Bible to prove that we have need of another righteousness, than any of our own, wherein to stand before God, this text alone would be enough, for if a man offend not in word, the same is a perfect man, Jas 3:2.",
+     "anchor": "For by thy words thou shall be justified, &c",
+     "refs": [
+      {
+       "text": "Jas 3:2",
+       "ref": "JAS.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.38",
+   "range": "MAT.12.38",
+   "kind": "passage",
+   "hash": "6a82c339",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.38#p1-ce7ac7ff",
+     "text": "We read the like to this Mat 16:1, and Luke seemeth to relate the same history, Luk 11:29.",
+     "refs": [
+      {
+       "text": "Mat 16:1",
+       "ref": "MAT.16.1"
+      },
+      {
+       "text": "Luk 11:29",
+       "ref": "LUK.11.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.38#p2-0edb7b76",
+     "text": "was the usual title which they gave to any whom they owned as a teacher. By",
+     "anchor": "Master"
+    },
+    {
+     "id": "poole/MAT.12.38#p3-acabef4b",
+     "text": "they mean something that might confirm unto them that he was sent of God; they expected that an extraordinary mission should be so confirmed: so Joh 6:33, What sign showest thou then, that we might see and believe thee? What dost thou work? Moses showed them signs, (as they there go on), he brought down for them bread from heavens. Had not Christ showed them signs enough? What were all the miracles he had wrought in their sight? They either speak this out of a further idle curiosity, (their eye being not satisfied with seeing), or else they speak it in direct opposition to the whole scope and tendency of our Saviour’s former discourse, which was from his miracles to prove himself truly God, and sent of God: if the latter, which seemeth from our Saviour’s sharp answer most probable, the sum of what they say is this, Master, we have seen thee do wonderful works, but no other than what impostors may do by the assistance of the devil; we would see something done by thee which magicians cannot do, such as Moses did, Exo 8:19, when the magicians confessed they were outdone, and cried, This is the finger of God.",
+     "anchor": "a sign",
+     "refs": [
+      {
+       "text": "Joh 6:33",
+       "ref": "JHN.6.33"
+      },
+      {
+       "text": "Exo 8:19",
+       "ref": "EXO.8.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.39",
+   "range": "MAT.12.39",
+   "kind": "passage",
+   "hash": "8c1b90af",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.39#p1-8c1b90af",
+     "text": "Mat 12:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:40",
+       "ref": "MAT.12.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.40",
+   "range": "MAT.12.40",
+   "kind": "passage",
+   "hash": "57ce90bb",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.40#p1-7d9dbe52",
+     "text": "either called adulterous for that specific sin, which reigned amongst them, and indeed their polygamy was hardly better; or else because of their degeneracy from Abraham, whom they so much gloried in as their father, Joh 8:39,44.",
+     "verse": 39,
+     "anchor": "An evil and adulterous generation",
+     "refs": [
+      {
+       "text": "Joh 8:39",
+       "ref": "JHN.8.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.40#p2-8969c53e",
+     "text": "not satisfied with my miracles which I do on earth, they would have a sign from heaven. God was not difficult of confirming and encouraging people’s faith by signs; he gave Gideon a sign upon his asking, he gave Hezekiah and proffered Ahaz a sign without asking; but he had already given the Pharisees signs enough, and sufficient to convince them, but they would not believe, but out of curiosity would have a sign of another kind, a sign from heaven, as Mark expounds it, Mat 8:11, such a sign as the devil could not counterfeit.",
+     "anchor": "Seeketh after a sign",
+     "refs": [
+      {
+       "text": "Mat 8:11",
+       "ref": "MAT.8.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.40#p3-bd69c079",
+     "text": "no sign of that nature, for we shall find that after this Christ wrought many miracles. But they shall have a sign when I shall be risen again from the dead, to their confusion and condemnation; when I shall answer the prophet Jonah’s type of me. He was cast into the sea, and was three days and three nights in the belly of the whale, in the heart of the sea, Jon 1:17, and then the whale vomited (him) out upon the dry land, Jon 2:10. So I shall be by them violently put to death and shall be in the grave part of three days and three nights, and then I shall rise again from the dead.",
+     "anchor": "There shall no sign be given to it",
+     "refs": [
+      {
+       "text": "Jon 1:17",
+       "ref": "JON.1.17"
+      },
+      {
+       "text": "Jon 2:10",
+       "ref": "JON.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.40#p4-95d6b7fe",
+     "text": "But here ariseth a difficulty. Christ indeed dying the day before the Jewish sabbath, and rising the morning after, might be said to be in the grave three days, because he was there part of three days; but how can he be said to have been there three nights? For he was only in the grave the night of the Jewish sabbath, (for their sabbath began at the evening before), and the night following, which were but two nights, either in whole or in part."
+    },
+    {
+     "id": "poole/MAT.12.40#p5-f6ef92fc",
+     "text": "Answer: What we call day and night made up the Jewish νυχθημερον. It appears by Gen 1:5, that the evening and the morning made up a day. Three days and three nights is with us but the same thing with three natural days, and so it must be understood here. Christ was in the grave three natural days, that is, part of three natural days; every one of which days contained a day and a night, viz. twenty-four hours.",
+     "refs": [
+      {
+       "text": "Gen 1:5",
+       "ref": "GEN.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.41",
+   "range": "MAT.12.41",
+   "kind": "passage",
+   "hash": "d19bff6a",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.41#p1-d2e9cde0",
+     "text": "The story of the men of Nineveh we have in Jon 3:1-10. Luke repeateth the same passage, Luk 11:32.",
+     "refs": [
+      {
+       "text": "Jon 3:1-10",
+       "ref": "JON.3.1-10"
+      },
+      {
+       "text": "Luk 11:32",
+       "ref": "LUK.11.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.41#p2-127fb34e",
+     "text": "that is, shall at the general resurrection rise, and stand up in judgment as witnesses against the scribes and Pharisees, and the other unbelieving Jews of this age, and shall be instruments as to that condemnation which God shall that day pronounce against them. Why?",
+     "anchor": "The men of Nineveh shall rise in judgment"
+    },
+    {
+     "id": "poole/MAT.12.41#p3-77e25b55",
+     "text": "Jonas was a stranger to them, he wrought no miracles amongst them to confirm that he was sent of God, he only came and cried, Yet forty days, and Nineveh shall be destroyed; yet they repented, if not truly and sincerely, yet in appearance; they showed themselves to be affected with what Jonah said, his words made some impressions upon them, as that the king arose from his throne, laid his robe from him, covered him with sackcloth, and sat in ashes, called a fast, as Jon 3:5-8. But, saith our Saviour, I am greater than Jonah: I was long since prophesied of, and foretold to this people, to come; I am come; I have preached amongst them, and not only preached, but wrought many wonderful works amongst them, yet they are not so much affected as to show the least signs of repentance.",
+     "anchor": "Because they repented at the preaching of Jonas and, behold, a greater than Jonas is here",
+     "refs": [
+      {
+       "text": "Jon 3:5-8",
+       "ref": "JON.3.5-8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.42",
+   "range": "MAT.12.42",
+   "kind": "passage",
+   "hash": "adf689cf",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.42#p1-af9ab992",
+     "text": "We have the history to which this relates 1Ki 10:1, &c. She is here called the queen of the south; in the Book of Kings, and 2Ch 9:1, the queen of Sheba. Whether this Sheba, or Saba, was in Arabia or Ethiopia, is not much material; certain it is, it was southward of Judea, and a place at a great distance. Yet, saith our Saviour, though she was a great queen, though she lived at so great a distance from Jerusalem, though she had only heard of the fame and wisdom of Solomon; yet she came in person to hear his wise discourses, either about things natural or supernatural.",
+     "refs": [
+      {
+       "text": "1Ki 10:1",
+       "ref": "1KI.10.1"
+      },
+      {
+       "text": "2Ch 9:1",
+       "ref": "2CH.9.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.42#p2-7ca90c67",
+     "text": "These wretched Jews are not put to it to take a journey, I am come amongst them, I who am greater than Solomon, who am the Eternal Wisdom, and come to discourse of heavenly wisdom to them; I am come to their doors, theirs to whom the notion of a Messiah is no new thing, they have heard of me; they are no heathens, but bred up to the knowledge of God. I have done many miracles before them, yet they will not hear nor believe me. The queen of Sheba in the day of judgment shall rise up as a witness against them, when God shall condemn them for their unbelief. The more light, and means, and obligations men have upon them to faith and holiness, the greater will their judgment and condemnation be."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.43",
+   "range": "MAT.12.43",
+   "kind": "passage",
+   "hash": "7305f7af",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.43#p1-7305f7af",
+     "text": "Mat 12:45\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:45",
+       "ref": "MAT.12.45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.44",
+   "range": "MAT.12.44",
+   "kind": "passage",
+   "hash": "7305f7af",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.44#p1-7305f7af",
+     "text": "Mat 12:45\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:45",
+       "ref": "MAT.12.45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.45",
+   "range": "MAT.12.45",
+   "kind": "passage",
+   "hash": "4b417354",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.45#p1-e80af935",
+     "text": "Ver. 43-45. The speech appeareth parabolical, the persons concerned in it are expressed in the last words, the men of that wicked generation. The text is thought to be well expounded by Peter, 2Pe 2:20, If after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning. Our Lord here compares the Jews to a man out of whom the unclean spirit was gone. The devil is called the unclean spirit, both in regard of his own impure nature, and because his work is to tempt men to sin, which is spiritual filthiness.",
+     "refs": [
+      {
+       "text": "2Pe 2:20",
+       "ref": "2PE.2.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.45#p2-ec6d7ad0",
+     "text": "The Jews were a people holy to the Lord, a people distinguished from pagans by a visible profession; so as the devil in a great measure had left them. Now, saith he, the devil is an unquiet spirit, and findeth no rest if he cannot be doing mischief to men. For the phrase, he walketh through dry places, seeking rest, we must know, that in parabolical speeches we must not make a severe scrutiny upon every phrase. Dry places are for the most part places least inhabited, for want of the conveniences of water. The devil cannot be at rest where he hath no mischief to do to men."
+    },
+    {
+     "id": "poole/MAT.12.45#p3-61da43d2",
+     "text": "Then he saith, I will return into my house from whence I came out: the devil so leaveth none, but he will be attempting to come into them again; and he ordinarily succeeds where Christ hath not prepossessed the soul: all other reformation proves but a sweeping and a garnishing, while the soul is empty of Christ. It may be swept from the filth of flagitious sins, and garnished with the paint of religion, or some habits of moral virtue; but none of these will keep out the devil."
+    },
+    {
+     "id": "poole/MAT.12.45#p4-59b5cb4b",
+     "text": "Seven, that is, many. The meaning is, he makes that man much worse than before. So (saith he) it shall be to these Jews. God gave them his laws, and so delivered them from such a dominion as the devil doth exercise over pagans. In force of this law, the scribes and Pharisees amended many things, so as they were like a house swept and garnished. God sent his Son to dwell amongst them, but him they rejected; so the house was empty, though swept and garnished. The devil will come again, and they will be ten times worse.",
+     "anchor": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.46",
+   "range": "MAT.12.46",
+   "kind": "passage",
+   "hash": "2cefc8b8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.46#p1-2cefc8b8",
+     "text": "Mat 12:50\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:50",
+       "ref": "MAT.12.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.47",
+   "range": "MAT.12.47",
+   "kind": "passage",
+   "hash": "2cefc8b8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.47#p1-2cefc8b8",
+     "text": "Mat 12:50\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:50",
+       "ref": "MAT.12.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.48",
+   "range": "MAT.12.48",
+   "kind": "passage",
+   "hash": "2cefc8b8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.48#p1-2cefc8b8",
+     "text": "Mat 12:50\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:50",
+       "ref": "MAT.12.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.49",
+   "range": "MAT.12.49",
+   "kind": "passage",
+   "hash": "2cefc8b8",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.49#p1-2cefc8b8",
+     "text": "Mat 12:50\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 12:50",
+       "ref": "MAT.12.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.12.50",
+   "range": "MAT.12.50",
+   "kind": "passage",
+   "hash": "2a1082fc",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.12.50#p1-64b9891a",
+     "text": "Ver. 46-50. Mark repeateth the same passage, Mar 3:31-35. Luke repeateth it more shortly, Luk 8:20,21. Both Mark and Luke say more than one spake to our Saviour; first one, then others.",
+     "refs": [
+      {
+       "text": "Mar 3:31-35",
+       "ref": "MRK.3.31-35"
+      },
+      {
+       "text": "Luk 8:20",
+       "ref": "LUK.8.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.50#p2-20bc8142",
+     "text": "Thy mother and thy brethren: most interpreters think brethren here signifieth no more than some of his kindred, whom the Hebrews usually called brethren. By the following words of our Saviour, Mat 12:48-50, we must not understand that our Saviour slighted his mother or brethren, we are elsewhere taught what honour he gave to his parents, Luk 2:51; yet he seemeth to speak something angrily, because he was interrupted in his work: so Luk 2:49 Joh 2:3-4. We may show a just respect to our parents, and respect to our relations, though we do not neglect our duty to God out of respect to them. The only thing to be further learned from this paragraph, is, how dear believers and holy persons are to Christ; he counts them as dear as mother, brethren, or sisters, and thereby teacheth us the esteem we ought to have for such. Luke saith, he that heareth my word, and doth it. Matthew saith, he that doth it. It is the will of God, that we should believe on him whom he hath sent:",
+     "refs": [
+      {
+       "text": "Mat 12:48-50",
+       "ref": "MAT.12.48-50"
+      },
+      {
+       "text": "Luk 2:51",
+       "ref": "LUK.2.51"
+      },
+      {
+       "text": "Luk 2:49",
+       "ref": "LUK.2.49"
+      },
+      {
+       "text": "Joh 2:3-4",
+       "ref": "JHN.2.3-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.12.50#p3-adc63113",
+     "text": "Joh 1:12\", See Poole on \"Joh 6:40\", See Poole on \"Joh 8:47\"; This text derogates nothing from the honour truly due to the blessed virgin, as the mother of the Messias; but it shows the madness of the papists, exalting her above Christ, whom Christ, considered only as his mother, seemeth here to set beneath every true believer, though, considered as a believer also, she hath a just preference.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 1:12",
+       "ref": "JHN.1.12"
+      },
+      {
+       "text": "Joh 6:40",
+       "ref": "JHN.6.40"
+      },
+      {
+       "text": "Joh 8:47",
+       "ref": "JHN.8.47"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

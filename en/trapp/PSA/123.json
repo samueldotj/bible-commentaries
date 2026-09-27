@@ -1,0 +1,70 @@
+{
+ "source": "trapp",
+ "book": "PSA",
+ "chapter": 123,
+ "units": [
+  {
+   "id": "trapp/PSA.123.1",
+   "range": "PSA.123.1",
+   "kind": "passage",
+   "hash": "700e009f",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.123.1#p1-700e009f",
+     "text": "Praying by them rather than by words, mine afflictions having swollen my heart too big for my mouth. {See Trapp on \"Psa 121:1\"}",
+     "anchor": "Unto thee lift I up mine eyes",
+     "refs": [
+      {
+       "text": "Psa 121:1",
+       "ref": "PSA.121.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.123.2",
+   "range": "PSA.123.2",
+   "kind": "passage",
+   "hash": "e871d1ad",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.123.2#p1-e871d1ad",
+     "text": "For direction, defence, maintenance, mercy in time of correction, help when the service is too hard, &c.; so do our eyes wait upon the Lord our God, viz. for direction and benediction.",
+     "anchor": "Behold, as the eyes of servants"
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.123.3",
+   "range": "PSA.123.3",
+   "kind": "passage",
+   "hash": "935fa89b",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.123.3#p1-bf49b1a7",
+     "text": "This is preces fundere, coelum tundere, misericordiam extorquere, as Tertullian hath it; to wring mercy out of God’s holy hands, by our utmost importunity.",
+     "anchor": "Have mercy upon us, O Lord, have mercy"
+    },
+    {
+     "id": "trapp/PSA.123.3#p2-e13d3771",
+     "text": "We are made the very scum and scorn of our proud imperious enemies. This the nature of man is very impatient of, and can hardly brook; for there is none so mean but holdeth himself worthy of some regard; and a reproachful scorn showeth an utter disrespect, which issueth from the very superfluity of malice.",
+     "anchor": "For we are exceedingly filled with contempt"
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.123.4",
+   "range": "PSA.123.4",
+   "kind": "passage",
+   "hash": "54cbb2b3",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.123.4#p1-54cbb2b3",
+     "text": "And therehence insolent and unsufferable, for κορος υβριν τικτει, ease breedeth forgetfulness, yea, it maketh men scornful and wrongful to others.",
+     "anchor": "Our soul is exceedingly filled with the scorning of those that are at ease"
+    }
+   ]
+  }
+ ]
+}

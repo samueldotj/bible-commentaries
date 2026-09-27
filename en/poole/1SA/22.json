@@ -1,0 +1,526 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "poole/1SA.22",
+   "range": "1SA.22",
+   "kind": "chapter",
+   "hash": "7b88b58f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22#p1-7b88b58f",
+     "text": "David cometh to Adullam, where companies resort to him, 1Sa 22:1,2. He goeth to Mizpeh, and commendeth his parents to the king of Moab, 1Sa 22:3,4. Admonished by Gad, he returneth to Judah: Saul pursueth him; complaineth of his servants’ unfaithfulness, 1Sa 22:5-8. Doeg accuseth Ahimelech: Saul sentenceth him, the high priest, and the rest of the priests, to die: Doeg slayeth eighty-five priests: the city Nob and all in it is laid waste; only Abiathar the priest remained alive fleeing to David, 1Sa 22:9-21. David acknowledgeth himself to be the cause hereof, 1Sa 22:22,23.",
+     "refs": [
+      {
+       "text": "1Sa 22:1",
+       "ref": "1SA.22.1"
+      },
+      {
+       "text": "1Sa 22:3",
+       "ref": "1SA.22.3"
+      },
+      {
+       "text": "1Sa 22:5-8",
+       "ref": "1SA.22.5-8"
+      },
+      {
+       "text": "1Sa 22:9-21",
+       "ref": "1SA.22.9-21"
+      },
+      {
+       "text": "1Sa 22:22",
+       "ref": "1SA.22.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.1",
+   "range": "1SA.22.1",
+   "kind": "passage",
+   "hash": "9a6356af",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.1#p1-108c0963",
+     "text": "a place of considerable strength, 2Sa 23:13 1Ch 11:15, in the land of Judah, Jos 15:21,35, which being his own tribe, and the tribe to which God had first promised the kingdom, Gen 49:10, he hoped for some protection and assistance there.",
+     "anchor": "The cave Adullam",
+     "refs": [
+      {
+       "text": "2Sa 23:13",
+       "ref": "2SA.23.13"
+      },
+      {
+       "text": "1Ch 11:15",
+       "ref": "1CH.11.15"
+      },
+      {
+       "text": "Jos 15:21",
+       "ref": "JOS.15.21"
+      },
+      {
+       "text": "Gen 49:10",
+       "ref": "GEN.49.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.1#p2-c5d1cfce",
+     "text": "partly, to comfort and assist him; partly, to secure themselves at the present from Saul’s rage, which they knew to be fierce and cruel, and thought he might extend it to David’s friends; especially, because they had so lately entertained him, 1Sa 20:6,29; and partly, that they might share with David in his honour and advancement; which they now concluded certain and near, though it was interrupted with some difficulties.",
+     "anchor": "They went down thither to him",
+     "refs": [
+      {
+       "text": "1Sa 20:6",
+       "ref": "1SA.20.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.2",
+   "range": "1SA.22.2",
+   "kind": "passage",
+   "hash": "de4994ca",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.2#p1-13818893",
+     "text": "through want, or oppression, or otherwise.",
+     "anchor": "Every one that was in distress"
+    },
+    {
+     "id": "poole/1SA.22.2#p2-ecaa99a1",
+     "text": "How could David receive and countenance such persons to the wrong of their creditors?",
+     "anchor": "Every one that was in debt"
+    },
+    {
+     "id": "poole/1SA.22.2#p3-08e684d8",
+     "text": "Answ."
+    },
+    {
+     "id": "poole/1SA.22.2#p4-2283bed9",
+     "text": "1. David might be ignorant of their debts; and it is most likely they concealed that, and pretended other causes of their coming to him, as the protection of the innocent, and the defence of his just rights, &c."
+    },
+    {
+     "id": "poole/1SA.22.2#p5-ee0cd78d",
+     "text": "2. They might be, and probably were, poor debtors, whom their creditors were obliged to spare and favour, Exo 22:25. And though their persons were with David, yet their land and goods were liable to their creditors.",
+     "refs": [
+      {
+       "text": "Exo 22:25",
+       "ref": "EXO.22.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.2#p6-27c4f332",
+     "text": "or, bitter in soul, i.e. in an afflicted and calamitous condition.",
+     "anchor": "Every one that was discontented"
+    },
+    {
+     "id": "poole/1SA.22.2#p7-5f0f181f",
+     "text": "he did not justify nor maintain any injustice or wickedness, which some of them possibly might be guilty of; but, on the contrary, he instructed and obliged them to the practice of all justice and honesty; as appears from 1Sa 25:15; and he only used them for his just defence.",
+     "anchor": "He became a captain over them",
+     "refs": [
+      {
+       "text": "1Sa 25:15",
+       "ref": "1SA.25.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.3",
+   "range": "1SA.22.3",
+   "kind": "passage",
+   "hash": "ae7b1eca",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.3#p1-9dc5906a",
+     "text": "so called, to distinguish it from that Mizpeh, 1Sa 7:5.",
+     "anchor": "Mizpeh of Moab",
+     "refs": [
+      {
+       "text": "1Sa 7:5",
+       "ref": "1SA.7.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.3#p2-00ecfa0b",
+     "text": "partly because he was related to and descended from one of his people, Rth 4:10; and partly because he was Saul’s enemy, 1Sa 14:47, and therefore more likely to be David’s friend.",
+     "anchor": "He said unto the king of Moab",
+     "refs": [
+      {
+       "text": "Rth 4:10",
+       "ref": "RUT.4.10"
+      },
+      {
+       "text": "1Sa 14:47",
+       "ref": "1SA.14.47"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.3#p3-299b7a94",
+     "text": "who being very aged, were not able to endure those journeys and hardships which David foresaw that he was likely to be exposed to.",
+     "anchor": "My father and my mother"
+    },
+    {
+     "id": "poole/1SA.22.3#p4-f0b74a5f",
+     "text": "till I see the accomplishment of God’s promise made to me.",
+     "anchor": "Till I know what God will do for me"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.4",
+   "range": "1SA.22.4",
+   "kind": "passage",
+   "hash": "51a56910",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.4#p1-a97c42df",
+     "text": "into his presence, that he might see them, and give them leave to dwell in his dominion.",
+     "anchor": "Before the king of Moab"
+    },
+    {
+     "id": "poole/1SA.22.4#p2-a12a5354",
+     "text": "either,",
+     "anchor": "In the hold"
+    },
+    {
+     "id": "poole/1SA.22.4#p3-7d71aaef",
+     "text": "1. In Mizpeh of Moab, which was a very strong hold. But it is apparent he speaks of some hold where his father and mother were exposed to fear and danger from Saul, which they were not in the king of Moab’s royal city. Or,"
+    },
+    {
+     "id": "poole/1SA.22.4#p4-b8622172",
+     "text": "2. In the cave of Adullam, mentioned above, 1Sa 22:1. Or,",
+     "refs": [
+      {
+       "text": "1Sa 22:1",
+       "ref": "1SA.22.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.4#p5-ce8f7cc0",
+     "text": "3. In holes; the singular number being put for the plural, as is frequent; i.e. as long as David was forced to go from place to place, and from hold to hold, to secure himself; for it concerned David to secure his father, and he did doubtless secure him for all that time; and not only whilst he was in the hold of Mizpeh, or of Adullam, which was but a little while."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.5",
+   "range": "1SA.22.5",
+   "kind": "passage",
+   "hash": "0fcce0d8",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.5#p1-7682f738",
+     "text": "do not shut up thyself in holes and holds.",
+     "anchor": "Abide not in the hold"
+    },
+    {
+     "id": "poole/1SA.22.5#p2-2e68de05",
+     "text": "go and show thyself in the land of Judah, that thou mayst publicly put in thy claim to the kingdom after Saul’s death, and that thy friends may be invited and encouraged to appear on thy behalf. Hereby also God would exercise David’s faith, and wisdom, and courage; and so prepare him for the kingdom, and uphold and increase his reputation among the people.",
+     "anchor": "Get thee into the land of Judah"
+    },
+    {
+     "id": "poole/1SA.22.5#p3-4dfa6097",
+     "text": "there were many caves and lurking-places.",
+     "anchor": "In the forest of Hareth"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.6",
+   "range": "1SA.22.6",
+   "kind": "passage",
+   "hash": "8b37622f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.6#p1-38cdd098",
+     "text": "i.e. in the territory of Gibeah, in or near (for so the Hebrew particle is oft used, as hath been showed) Ramah. Or, in the town of Gibeah—in a high place; for so the word Ramah unquestionably signifies; and so it is here rendered by some, both ancient and modern, interpreters.",
+     "anchor": "In Ramah"
+    },
+    {
+     "id": "poole/1SA.22.6#p2-79ff02c2",
+     "text": "either as an ensign of majesty, for in old times kings carried a spear instead of a sceptre; as Justin and others note; or as an instrument of self-defence or cruelty, as occasion required.",
+     "anchor": "Having his spear in his hand"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.7",
+   "range": "1SA.22.7",
+   "kind": "passage",
+   "hash": "76c659ba",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.7#p1-b8b32051",
+     "text": "you that are of my own tribe and kindred, from whom David designs to translate the kingdom to another tribe, will he distribute profits and preferments amongst you",
+     "anchor": "Ye Benjamites"
+    },
+    {
+     "id": "poole/1SA.22.7#p2-ed8c3b9e",
+     "text": "as I have done, and intend still to do? will he not rather prefer those of his own tribe before you?",
+     "anchor": "Benjamites"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.8",
+   "range": "1SA.22.8",
+   "kind": "passage",
+   "hash": "3b60e6be",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.8#p1-f696b500",
+     "text": "this he suspected, partly from Jonathan’s passionate love for David, which he had formerly and constantly declared; and from his late discontent and departure from his father, mentioned 1Sa 20:34; and partly from David’s confidence, in invading the land with four hundred men, which he thought he would never presume to do, without some encouragement or promise of assistance from Jonathan.",
+     "anchor": "My son hath made a league with the son of Jesse",
+     "refs": [
+      {
+       "text": "1Sa 20:34",
+       "ref": "1SA.20.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.22.8#p2-9ff53441",
+     "text": "i.e. to design against my crown and life (which will appear to be a most groundless suspicion and false accusation).",
+     "anchor": "To lie in wait"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.9",
+   "range": "1SA.22.9",
+   "kind": "passage",
+   "hash": "9bf7dcd5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.9#p1-9bf7dcd5",
+     "text": "1Sa 21:7\".",
+     "anchor": "See Poole \"",
+     "refs": [
+      {
+       "text": "1Sa 21:7",
+       "ref": "1SA.21.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.10",
+   "range": "1SA.22.10",
+   "kind": "passage",
+   "hash": "cfb96b23",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.10#p1-cfb96b23",
+     "text": "this is not recorded 1Sa 21, and therefore some think that Doeg, to curry favour with Saul, feigned this; for it is certain David chargeth him with the sin of lying, Psa 52:3, though it is not improbable that he told other lies also, not here expressed; and withal, he was guilty of concealing part of the truth, which in this case he was also obliged to declare for Ahimelech’s just defence, to wit, the cunning pretence and artifice whereby David circumvented Ahimelech. Others think this was true, because Ahimelech seems to confess it, 1Sa 22:15, though that may be spoken by way of concession. If it were so as Doeg declares, this was no new thing. Then he might add that it was not so, though this be not here mentioned; for it is evident that all his answer or apology is not here expressed; for here is not a word of the victuals or sword which he gave him.",
+     "anchor": "He inquired of the Lord for him",
+     "refs": [
+      {
+       "text": "Psa 52:3",
+       "ref": "PSA.52.3"
+      },
+      {
+       "text": "1Sa 22:15",
+       "ref": "1SA.22.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.11",
+   "range": "1SA.22.11",
+   "kind": "passage",
+   "hash": "cb3d8cea",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.11#p1-cb3d8cea",
+     "text": "of the house of Eli, which God had threatened to cut off, 1Sa 2:31.",
+     "anchor": "All his father’s house",
+     "refs": [
+      {
+       "text": "1Sa 2:31",
+       "ref": "1SA.2.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.12",
+   "range": "1SA.22.12",
+   "kind": "passage",
+   "hash": "b0f3849a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.12#p1-b0f3849a",
+     "text": "he shows his contempt and anger, that he would not vouchsafe to name him: See Poole \"1Sa 20:27\".",
+     "anchor": "Thou son of Ahitub",
+     "refs": [
+      {
+       "text": "1Sa 20:27",
+       "ref": "1SA.20.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.14",
+   "range": "1SA.22.14",
+   "kind": "passage",
+   "hash": "4da93c4b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.14#p1-4da93c4b",
+     "text": "He doth not determine the differences between Saul and David, nor affirm what David now was; but only declared what David had formerly been, both really, and in public fame and opinion."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.15",
+   "range": "1SA.22.15",
+   "kind": "passage",
+   "hash": "c2854c6d",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.15#p1-76631942",
+     "text": "or, this thing, to wit, which thou now chargest me with, that I should assist David in any evil design against thee.",
+     "anchor": "Any thing"
+    },
+    {
+     "id": "poole/1SA.22.15#p2-7db4c2f9",
+     "text": "or, of thy suspicion concerning him. For as for Saul’s attempts upon David, well might Ahimelech impute them wholly to the violence of Saul’s passion and disease, seeing even Jonathan did so, as may be gathered from 1Sa 20:2.",
+     "anchor": "Thy servant knew nothing of all this",
+     "refs": [
+      {
+       "text": "1Sa 20:2",
+       "ref": "1SA.20.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.17",
+   "range": "1SA.22.17",
+   "kind": "passage",
+   "hash": "ee32d629",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.17#p1-ee32d629",
+     "text": "Choosing rather to offend the king, by disobeying his wicked and bloody command, than to offend God, by shedding the blood of such innocent and sacred persons."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.18",
+   "range": "1SA.22.18",
+   "kind": "passage",
+   "hash": "946bc897",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.18#p1-75bebe11",
+     "text": "or, go about, to wit, from man to man, till thou hast killed all.",
+     "anchor": "Turn thou"
+    },
+    {
+     "id": "poole/1SA.22.18#p2-89538338",
+     "text": "which is noted to wipe off the stain of this butchery from the Israelitish nation, and to show why he was so ready to do it, because he was one of that nation which had an implacable hatred against all Israelites, and against the priests of the Lord.",
+     "anchor": "The Edomite"
+    },
+    {
+     "id": "poole/1SA.22.18#p3-a0383d88",
+     "text": "with his own hand; which was not difficult, when no resistance was made.",
+     "anchor": "Slew on that day fourscore and five persons"
+    },
+    {
+     "id": "poole/1SA.22.18#p4-6cabfc3b",
+     "text": "not at that time, as some fancy, but usually; such as used to minister to the Lord in a linen ephod, which priests and Levites used to do. See Exo 28:40, &c.; 1Sa 2:18.",
+     "anchor": "That did wear a linen ephod",
+     "refs": [
+      {
+       "text": "Exo 28:40",
+       "ref": "EXO.28.40"
+      },
+      {
+       "text": "1Sa 2:18",
+       "ref": "1SA.2.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.19",
+   "range": "1SA.22.19",
+   "kind": "passage",
+   "hash": "0702ec9b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.19#p1-0702ec9b",
+     "text": "either Saul, or Doeg, with the help of some others whom Saul appointed to that work. By this barbarous and bloody fact Saul thought to affright all his subjects from giving any countenance or assistance to David.",
+     "anchor": "He"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.20",
+   "range": "1SA.22.20",
+   "kind": "passage",
+   "hash": "183682db",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.20#p1-80ffdfab",
+     "text": "by his father’s death, was now high priest,",
+     "anchor": "Abiathar"
+    },
+    {
+     "id": "poole/1SA.22.20#p2-cdeb099b",
+     "text": "to Keilah, 1Sa 23:6,7.",
+     "anchor": "Fled after David",
+     "refs": [
+      {
+       "text": "1Sa 23:6",
+       "ref": "1SA.23.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.22",
+   "range": "1SA.22.22",
+   "kind": "passage",
+   "hash": "993e5f21",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.22#p1-993e5f21",
+     "text": "his malice and ambition made me suspect that he would do it.",
+     "anchor": "I knew it"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.22.23",
+   "range": "1SA.22.23",
+   "kind": "passage",
+   "hash": "cff69de9",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.22.23#p1-cff69de9",
+     "text": "Because God will certainly preserve me to the kingdom which he hath promised; and I by his help will protect thee."
+    }
+   ]
+  }
+ ]
+}

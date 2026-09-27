@@ -1,0 +1,756 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/DEU.1",
+   "range": "DEU.1",
+   "kind": "chapter",
+   "hash": "564e58d1",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1#p1-564e58d1",
+     "text": "A rehearsal of what had befallen Israel in their forty years’ march; as, God’s command to depart, Deu 1:1-8. Moses’s inability to judge alone, Deu 1:9-12. Other judges and officers appointed, Deu 1:13-16. Charge given the judges, Deu 1:17,18. Their passage to Kadesh-barnea, Deu 1:19-21. Spies sent to search the land of the Amorites, Deu 1:22-24. Their return and report, Deu 1:25. The disobedience of the people, Deu 1:26-33. God’s wrath, Deu 1:34-40. They smitten by the Amorites, Deu 1:44. Their complaint to God, which the Lord regards not, Deu 1:45.",
+     "refs": [
+      {
+       "text": "Deu 1:1-8",
+       "ref": "DEU.1.1-8"
+      },
+      {
+       "text": "Deu 1:9-12",
+       "ref": "DEU.1.9-12"
+      },
+      {
+       "text": "Deu 1:13-16",
+       "ref": "DEU.1.13-16"
+      },
+      {
+       "text": "Deu 1:17",
+       "ref": "DEU.1.17"
+      },
+      {
+       "text": "Deu 1:19-21",
+       "ref": "DEU.1.19-21"
+      },
+      {
+       "text": "Deu 1:22-24",
+       "ref": "DEU.1.22-24"
+      },
+      {
+       "text": "Deu 1:25",
+       "ref": "DEU.1.25"
+      },
+      {
+       "text": "Deu 1:26-33",
+       "ref": "DEU.1.26-33"
+      },
+      {
+       "text": "Deu 1:34-40",
+       "ref": "DEU.1.34-40"
+      },
+      {
+       "text": "Deu 1:44",
+       "ref": "DEU.1.44"
+      },
+      {
+       "text": "Deu 1:45",
+       "ref": "DEU.1.45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.1",
+   "range": "DEU.1.1",
+   "kind": "passage",
+   "hash": "fe19f81a",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.1#p1-188e137d",
+     "text": "These are the laws, counsels, and admonitions delivered by Moses from God to Israel, which are here repeated for the instruction and obligation of those who by reason of their tender years were uncapable either of understanding them, or of entering into covenant with God."
+    },
+    {
+     "id": "poole/DEU.1.1#p2-1533e322",
+     "text": "to wit, by the heads or elders of the several tribes, or others, who were to communicate these discourses to all the people in several assemblies.",
+     "anchor": "Unto all Israel"
+    },
+    {
+     "id": "poole/DEU.1.1#p3-a12a5554",
+     "text": "either.",
+     "anchor": "In the plain"
+    },
+    {
+     "id": "poole/DEU.1.1#p4-d7e2641b",
+     "text": "1. In the vast desert of Arabia. But that is no where called a plain. Or rather,"
+    },
+    {
+     "id": "poole/DEU.1.1#p5-2637714b",
+     "text": "2. In the plain of Moab, as may appear by comparing this with Deu 1:5 Num 22:1 Deu 34:8.",
+     "refs": [
+      {
+       "text": "Deu 1:5",
+       "ref": "DEU.1.5"
+      },
+      {
+       "text": "Num 22:1",
+       "ref": "NUM.22.1"
+      },
+      {
+       "text": "Deu 34:8",
+       "ref": "DEU.34.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.1.1#p6-3b886955",
+     "text": "That was far from the Red Sea here mentioned.",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/DEU.1.1#p7-a9847e7b",
+     "text": "The word suph here used doth not signify the Red Sea, which is commonly called jam suph, and which was at too great a distance; but some other place now unknown to us, (as also most of the following places are,) so called from the reeds, or flags, or rushes (which that word signifies) that grew in or near it; which reason of the name being common to other places with the Red Sea, it is not strange if they got the same name. Compare Num 21:14. Paran; not that Num 10:12, which there and elsewhere is called the wilderness of Paran, and which was too remote; but some other place called by the same name, than which nothing more usual. Tophel and Laban; places not mentioned elsewhere.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Num 21:14",
+       "ref": "NUM.21.14"
+      },
+      {
+       "text": "Num 10:12",
+       "ref": "NUM.10.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.1.1#p8-2d2f6248",
+     "text": "of which see Num 11:35 33:17,18. And these places seem to be the several bounds and limits not of the whole country of Moab, but of the plain of Moab, where Moses now was, and spoke these words.",
+     "anchor": "Hazeroth",
+     "refs": [
+      {
+       "text": "Num 11:35",
+       "ref": "NUM.11.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.2",
+   "range": "DEU.1.2",
+   "kind": "passage",
+   "hash": "7514ff6a",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.2#p1-3ae65ce4",
+     "text": "This is added to show that the reason why the Israelites in so many years were advanced no further from Horeb than to these plains, was not the great distance of the places or length of the way, which was but a journey of eleven days at most, but because of their rebellions, as is mentioned before and repeated in this book."
+    },
+    {
+     "id": "poole/DEU.1.2#p2-08b05407",
+     "text": "or",
+     "anchor": "Horeb"
+    },
+    {
+     "id": "poole/DEU.1.2#p3-9d6b9623",
+     "text": "the place where the law was given, which is promiscuously called by both those names.",
+     "anchor": "Sinai"
+    },
+    {
+     "id": "poole/DEU.1.2#p4-dca2e2d7",
+     "text": "or Mount Edom, i.e. the mountainous country of Seir, which was first possessed by the Horims, and afterwards by the Edomites, Deu 2:12.",
+     "anchor": "Mount Seir",
+     "refs": [
+      {
+       "text": "Deu 2:12",
+       "ref": "DEU.2.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.1.2#p5-d862eec9",
+     "text": "was not far from the borders of Canaan. See Gen 16:14 Num 13:26.",
+     "anchor": "Kadesh-barnea",
+     "refs": [
+      {
+       "text": "Gen 16:14",
+       "ref": "GEN.16.14"
+      },
+      {
+       "text": "Num 13:26",
+       "ref": "NUM.13.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.3",
+   "range": "DEU.1.3",
+   "kind": "passage",
+   "hash": "1e7e450f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.3#p1-1e7e450f",
+     "text": "This was but a little before his death."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.4",
+   "range": "DEU.1.4",
+   "kind": "passage",
+   "hash": "e14f2f05",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.4#p1-8d22d988",
+     "text": "His palace or mansion-house was at"
+    },
+    {
+     "id": "poole/DEU.1.4#p2-87a2d1bf",
+     "text": "and he was slain at",
+     "anchor": "Astaroth"
+    },
+    {
+     "id": "poole/DEU.1.4#p3-add9f163",
+     "text": "Num 21:33; of both these places, see Gen 14:5 Jos 13:31.",
+     "anchor": "Edrei",
+     "refs": [
+      {
+       "text": "Num 21:33",
+       "ref": "NUM.21.33"
+      },
+      {
+       "text": "Gen 14:5",
+       "ref": "GEN.14.5"
+      },
+      {
+       "text": "Jos 13:31",
+       "ref": "JOS.13.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.6",
+   "range": "DEU.1.6",
+   "kind": "passage",
+   "hash": "c7afd782",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.6#p1-c7afd782",
+     "text": "Of Horeb, where they continued about a year’s space, Exo 19:1 Num 10:11,12.",
+     "refs": [
+      {
+       "text": "Exo 19:1",
+       "ref": "EXO.19.1"
+      },
+      {
+       "text": "Num 10:11",
+       "ref": "NUM.10.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.7",
+   "range": "DEU.1.7",
+   "kind": "passage",
+   "hash": "daacacdb",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.7#p1-daacacdb",
+     "text": "i.e. to the mountainous country where the Amorites dwelt, which is opposed to the plain here following, where others of them dwelt. And this is the first mentioned, because it was in the borders of the land: see below, Deu 1:19,20. The divers parts or bounds of the land are here mentioned.",
+     "anchor": "To the mount of the Amorite",
+     "refs": [
+      {
+       "text": "Deu 1:19",
+       "ref": "DEU.1.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.8",
+   "range": "DEU.1.8",
+   "kind": "passage",
+   "hash": "80be818e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.8#p1-80be818e",
+     "text": "Heb. before your faces; it is open to your view, and to your possession; there is no impediment in the way. See Poole \"Gen 13:9\"; See Poole \"Gen 34:10\".",
+     "anchor": "Before you",
+     "refs": [
+      {
+       "text": "Gen 13:9",
+       "ref": "GEN.13.9"
+      },
+      {
+       "text": "Gen 34:10",
+       "ref": "GEN.34.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.9",
+   "range": "DEU.1.9",
+   "kind": "passage",
+   "hash": "da4e5bc3",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.9#p1-da4e5bc3",
+     "text": "i.e. about that time, to wit, a little before their coming to Horeb, Exo 18:18.",
+     "anchor": "At that time",
+     "refs": [
+      {
+       "text": "Exo 18:18",
+       "ref": "EXO.18.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.12",
+   "range": "DEU.1.12",
+   "kind": "passage",
+   "hash": "7d28989d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.12#p1-e49f6a34",
+     "text": "the trouble of ruling and managing so perverse a people.",
+     "anchor": "Your burden"
+    },
+    {
+     "id": "poole/DEU.1.12#p2-767bc9c9",
+     "text": "either your quarrellings with God; or rather your contentions among yourselves, for the determination whereof the elders were appointed.",
+     "anchor": "Your strife"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.13",
+   "range": "DEU.1.13",
+   "kind": "passage",
+   "hash": "f63dab7c",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.13#p1-f63dab7c",
+     "text": "Persons of knowledge, wisdom, and experience, men famous, and had in reputation, for ability and integrity; for to such they would more readily submit."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.15",
+   "range": "DEU.1.15",
+   "kind": "passage",
+   "hash": "eb7dea7e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.15#p1-40e8e266",
+     "text": "not in authority, which yet they had not, but in endowments for good government.",
+     "anchor": "The chief"
+    },
+    {
+     "id": "poole/DEU.1.15#p2-6db7dac5",
+     "text": "inferior officers, that were to attend upon the superior magistrates, and to execute their decrees.",
+     "anchor": "And officers"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.16",
+   "range": "DEU.1.16",
+   "kind": "passage",
+   "hash": "92cd1e8d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.16#p1-92cd1e8d",
+     "text": "That converseth or dealeth with him. To such God would have justice equally administered as to his own people, partly for the honour of religion, and partly for the interest which every man hath in matters of common right."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.17",
+   "range": "DEU.1.17",
+   "kind": "passage",
+   "hash": "6842d98f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.17#p1-34c45847",
+     "text": "Heb. not know or acknowledge faces, i.e. not give sentence according to the outward qualities of the person as he is poor or rich, your friend or enemy, but purely according to the merits of the cause. For which reason some of the Grecian lawgivers ordered that the judges should give sentence in the dark, where they could not see men’s faces. See the same or the like phrase Deu 10:17 2Ch 19:6,7 Job 13:8 Jas 2:1,9.",
+     "anchor": "Not respect persons",
+     "refs": [
+      {
+       "text": "Deu 10:17",
+       "ref": "DEU.10.17"
+      },
+      {
+       "text": "2Ch 19:6",
+       "ref": "2CH.19.6"
+      },
+      {
+       "text": "Jas 2:1",
+       "ref": "JAS.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.1.17#p2-18544cc9",
+     "text": "persons of the meanest rank.",
+     "anchor": "The small"
+    },
+    {
+     "id": "poole/DEU.1.17#p3-c418f574",
+     "text": "i.e. it is passed in the name of God, and by commission from him, by you as representing his person, and doing his work, who therefore will own and defend you therein against all your enemies, and to whom you must give an exact account.",
+     "anchor": "The judgment is God’s"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.18",
+   "range": "DEU.1.18",
+   "kind": "passage",
+   "hash": "56a050f2",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.18#p1-56a050f2",
+     "text": "I delivered unto you, and especially unto your judges, all the laws, statues, and judgments revealed unto me by the Lord in Horeb."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.23",
+   "range": "DEU.1.23",
+   "kind": "passage",
+   "hash": "3f2e6c3b",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.23#p1-3f2e6c3b",
+     "text": "for there seemed to be some prudence and good policy in it: but Moses could not see into their hearts, nor from what root this desire grew; but God saw it, and therefore in just judgment complied with their desire, and permitted them to do so for their trial and exercise, Num 13:1-3.",
+     "anchor": "The saying pleased me well",
+     "refs": [
+      {
+       "text": "Num 13:1-3",
+       "ref": "NUM.13.1-3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.24",
+   "range": "DEU.1.24",
+   "kind": "passage",
+   "hash": "a74084a3",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.24#p1-aacedd9d",
+     "text": "or, the brook: the word signifies both, for brooks commonly run in valleys.",
+     "anchor": "The valley"
+    },
+    {
+     "id": "poole/DEU.1.24#p2-4aee66dc",
+     "text": "i.e. of grapes, so called from the goodly cluster of grapes which they brought from thence, Num 13:23.",
+     "anchor": "Of Eshcol",
+     "refs": [
+      {
+       "text": "Num 13:23",
+       "ref": "NUM.13.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.25",
+   "range": "DEU.1.25",
+   "kind": "passage",
+   "hash": "102e3506",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.25#p1-ba12e2fa",
+     "text": "grapes, pomegranates, and figs, Num 13:23.",
+     "anchor": "The fruit",
+     "refs": [
+      {
+       "text": "Num 13:23",
+       "ref": "NUM.13.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.1.25#p2-bc33e6fb",
+     "text": "which acknowledgment, coming from its enemies, should have prevailed with you to go in, more than their discouraging words should have beat you off, because the Lord who had given you this land, was unquestionably able to settle you in it in spite of all opposition.",
+     "anchor": "It is a good land"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.27",
+   "range": "DEU.1.27",
+   "kind": "passage",
+   "hash": "b8e8e51e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.27#p1-b8e8e51e",
+     "text": "and therefore designed to destroy us.",
+     "anchor": "Because the Lord hated us"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.28",
+   "range": "DEU.1.28",
+   "kind": "passage",
+   "hash": "3b63cedb",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.28#p1-3abe6af5",
+     "text": "in number and strength and valour.",
+     "anchor": "The people is greater"
+    },
+    {
+     "id": "poole/DEU.1.28#p2-0e57487e",
+     "text": "i.e. to a great height. A common hyperbole, as Gen 11:4 Psa 107:26. The Anakims; the children of Anak or Enak. See Jud 1:10,20.",
+     "anchor": "Up to heaven",
+     "refs": [
+      {
+       "text": "Gen 11:4",
+       "ref": "GEN.11.4"
+      },
+      {
+       "text": "Psa 107:26",
+       "ref": "PSA.107.26"
+      },
+      {
+       "text": "Jud 1:10",
+       "ref": "JUD.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.30",
+   "range": "DEU.1.30",
+   "kind": "passage",
+   "hash": "1476c1ea",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.30#p1-1476c1ea",
+     "text": "Where you were weak, dispirited, divided, raw, and unexperienced, and in a great measure unarmed, and able to do nothing against your numerous, potent, united enemies, but to stand still and see the salvation of God. And therefore now your distrust is highly unreasonable, when you have been hardened and fitted for military service by your travels, disciplined and experienced in some degree as to martial affairs, encouraged by frequent and glorious miracles for forty years together, and you are going into a country divided into several nations and kingdoms."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.31",
+   "range": "DEU.1.31",
+   "kind": "passage",
+   "hash": "d53a6cb0",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.31#p1-d53a6cb0",
+     "text": "or, carried thee, as a father carries his weak and tender child in his arms, as Isa 49:22; or as upon eagles’ wings, as it is Exo 19:4, through difficulties and dangers, gently leading you according as you were able to go, and sustaining you by his power and goodness. See of this or the like phrase Num 11:12 Deu 32:10,11 Psa 91:12 Isa 46:3,4.",
+     "anchor": "God bare thee",
+     "refs": [
+      {
+       "text": "Isa 49:22",
+       "ref": "ISA.49.22"
+      },
+      {
+       "text": "Exo 19:4",
+       "ref": "EXO.19.4"
+      },
+      {
+       "text": "Num 11:12",
+       "ref": "NUM.11.12"
+      },
+      {
+       "text": "Deu 32:10",
+       "ref": "DEU.32.10"
+      },
+      {
+       "text": "Isa 46:3",
+       "ref": "ISA.46.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.32",
+   "range": "DEU.1.32",
+   "kind": "passage",
+   "hash": "3d824c59",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.32#p1-3d824c59",
+     "text": "In this matter which God commanded and encouraged you to do, to wit, in going in confidently to possess the land. Or, in this word, whereby God promised to fight for you, and assured you of good success."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.34",
+   "range": "DEU.1.34",
+   "kind": "passage",
+   "hash": "b9891033",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.34#p1-b9891033",
+     "text": "to wit, your murmurings, your unthankful, impatient, distrustful, and rebellious speeches and carriages.",
+     "anchor": "The voice of your words"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.36",
+   "range": "DEU.1.36",
+   "kind": "passage",
+   "hash": "113e9299",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.36#p1-113e9299",
+     "text": "under whom Joshua is comprehended, as is manifest from Deu 1:38 Num 14:30, though not here expressed, because he was not now to be one of the people, but to be set over them as chief governor. The land; that particular part of the land: compare Jos 14:9.",
+     "anchor": "Caleb",
+     "refs": [
+      {
+       "text": "Deu 1:38",
+       "ref": "DEU.1.38"
+      },
+      {
+       "text": "Num 14:30",
+       "ref": "NUM.14.30"
+      },
+      {
+       "text": "Jos 14:9",
+       "ref": "JOS.14.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.37",
+   "range": "DEU.1.37",
+   "kind": "passage",
+   "hash": "115552d1",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.37#p1-115552d1",
+     "text": "upon occasion of your wickedness and perverseness, by which you provoked me to speak unadvisedly, Psa 106:32,33.",
+     "anchor": "For your sakes",
+     "refs": [
+      {
+       "text": "Psa 106:32",
+       "ref": "PSA.106.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.38",
+   "range": "DEU.1.38",
+   "kind": "passage",
+   "hash": "861ddd64",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.38#p1-861ddd64",
+     "text": "i.e. who is now thy minister and servant, for such are oft described by this phrase, as 1Ki 1:2 Dan 1:5,19.",
+     "anchor": "Which standeth before thee",
+     "refs": [
+      {
+       "text": "1Ki 1:2",
+       "ref": "1KI.1.2"
+      },
+      {
+       "text": "Dan 1:5",
+       "ref": "DAN.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.39",
+   "range": "DEU.1.39",
+   "kind": "passage",
+   "hash": "e8ec6cf6",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.39#p1-e8ec6cf6",
+     "text": "a common description of the state of childhood, as Jon 4:11.",
+     "anchor": "Had no knowledge between good and evil",
+     "refs": [
+      {
+       "text": "Jon 4:11",
+       "ref": "JON.4.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.41",
+   "range": "DEU.1.41",
+   "kind": "passage",
+   "hash": "68458504",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.41#p1-68458504",
+     "text": "Or, ye offered yourselves, or you began, or you earnestly resolved and attempted."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.42",
+   "range": "DEU.1.42",
+   "kind": "passage",
+   "hash": "eb081898",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.42#p1-eb081898",
+     "text": "with my powerful presence and assistance.",
+     "anchor": "I am not among you"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.44",
+   "range": "DEU.1.44",
+   "kind": "passage",
+   "hash": "0552d886",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.44#p1-0552d886",
+     "text": "as bees which being provoked come out of their hives in great numbers, and with great fury pursue and sting their adversary and disturber, Psa 118:12.",
+     "anchor": "As bees do",
+     "refs": [
+      {
+       "text": "Psa 118:12",
+       "ref": "PSA.118.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.1.46",
+   "range": "DEU.1.46",
+   "kind": "passage",
+   "hash": "612d9b24",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.1.46#p1-612d9b24",
+     "text": "i.e. As you abode in Kadesh many, even forty days, until the spies which you sent returned to give you an account; so you also abode there many days, or a long time after, and were not now permitted to make any further progress towards Canaan."
+    }
+   ]
+  }
+ ]
+}

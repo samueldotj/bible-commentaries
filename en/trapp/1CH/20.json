@@ -1,0 +1,78 @@
+{
+ "source": "trapp",
+ "book": "1CH",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "trapp/1CH.20.1",
+   "range": "1CH.20.1",
+   "kind": "passage",
+   "hash": "1b9d3a14",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.20.1#p1-899809ca",
+     "text": "See 2Sa 11:1, {See Trapp on \"2Sa 11:1\"}",
+     "anchor": "And it came to pass.",
+     "refs": [
+      {
+       "text": "2Sa 11:1",
+       "ref": "2SA.11.1"
+      },
+      {
+       "text": "2Sa 11:1",
+       "ref": "2SA.11.1"
+      }
+     ]
+    },
+    {
+     "id": "trapp/1CH.20.1#p2-1bcf7d8f",
+     "text": "And there committed adultery with Bathsheba; {2Sa 11:1-5} but the author of those two books speaks sparingly, as was before noted, of David’s and his son Solomon’s faults and failings.",
+     "anchor": "But David tarried at Jerusalem.",
+     "refs": [
+      {
+       "text": "2Sa 11:1-5",
+       "ref": "2SA.11.1-5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/1CH.20.2-3",
+   "range": "1CH.20.2-3",
+   "kind": "passage",
+   "hash": "e14dbb6a",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.20.2-3#p1-e14dbb6a",
+     "text": "{See Trapp on \"2Sa 12:31\"}",
+     "verse": 2,
+     "refs": [
+      {
+       "text": "2Sa 12:31",
+       "ref": "2SA.12.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/1CH.20.4",
+   "range": "1CH.20.4",
+   "kind": "passage",
+   "hash": "51f7d675",
+   "paragraphs": [
+    {
+     "id": "trapp/1CH.20.4#p1-51f7d675",
+     "text": "{See Trapp on \"2Sa 21:18\"} &c.",
+     "refs": [
+      {
+       "text": "2Sa 21:18",
+       "ref": "2SA.21.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1429 @@
+{
+ "source": "poole",
+ "book": "MAT",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "poole/MAT.22",
+   "range": "MAT.22",
+   "kind": "chapter",
+   "hash": "5f01db40",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22#p1-e8078510",
+     "text": "Mat 22:1-14 The parable of the marriage of the king’s son: the unworthiness of those that were first bidden: others called in their room: the punishment of one that came without a wedding garment.",
+     "refs": [
+      {
+       "text": "Mat 22:1-14",
+       "ref": "MAT.22.1-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22#p2-56b9899f",
+     "text": "Mat 22:15-22 The captious question proposed concerning paying tribute to Caesar, and Christ’s answer.",
+     "refs": [
+      {
+       "text": "Mat 22:15-22",
+       "ref": "MAT.22.15-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22#p3-26809372",
+     "text": "Mat 22:23-33 He confutes the Sadducees who questioned him touching the resurrection.",
+     "refs": [
+      {
+       "text": "Mat 22:23-33",
+       "ref": "MAT.22.23-33"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22#p4-e2f0562f",
+     "text": "Mat 22:34-40 He showeth which are the chief commandments of the law.",
+     "refs": [
+      {
+       "text": "Mat 22:34-40",
+       "ref": "MAT.22.34-40"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22#p5-541b8f1a",
+     "text": "Mat 22:41-46 He proposeth to the Pharisees a knotty question concerning Christ.",
+     "refs": [
+      {
+       "text": "Mat 22:41-46",
+       "ref": "MAT.22.41-46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.1",
+   "range": "MAT.22.1",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.1#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.2",
+   "range": "MAT.22.2",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.2#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.3",
+   "range": "MAT.22.3",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.3#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.4",
+   "range": "MAT.22.4",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.4#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.5",
+   "range": "MAT.22.5",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.5#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.6",
+   "range": "MAT.22.6",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.6#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.7",
+   "range": "MAT.22.7",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.7#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.8",
+   "range": "MAT.22.8",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.8#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.9",
+   "range": "MAT.22.9",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.9#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.10",
+   "range": "MAT.22.10",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.10#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.11",
+   "range": "MAT.22.11",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.11#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.12",
+   "range": "MAT.22.12",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.12#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.13",
+   "range": "MAT.22.13",
+   "kind": "passage",
+   "hash": "16254450",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.13#p1-16254450",
+     "text": "Mat 22:14\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.14",
+   "range": "MAT.22.14",
+   "kind": "passage",
+   "hash": "603c7937",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.14#p1-f9f53a7d",
+     "text": "Ver. 1-14. Luke hath this parable, Mat 14:16-24, which hath made divers interpreters think that Matthew hath put it out of its due order; for Luke reports it as spoken long before, and that not in the temple, but at a Pharisee’s house where he was at dinner, and upon occasion of one of them saying, Blessed is he that shall eat bread in the kingdom of God. But I know no reason why we may not allow our Saviour to have used the same parable twice, in two differing companies, and upon two different occasions, especially considering there are remarkable differences in Luke’s and Matthew’s relation. I shall therefore leave the consideration of Luke’s relation till I come to that chapter in his Gospel, where I shall meet with it in course, and consider only what Matthew saith. We must remember this is a parable, not an historical narration. The first verse tells us,",
+     "refs": [
+      {
+       "text": "Mat 14:16-24",
+       "ref": "MAT.14.16-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.14#p2-647d6009",
+     "text": "he answered, that is, he began a discourse, so the word very often signifies. Our Saviour hath neither given us any particular explication of this parable, nor any proparabola, or epiparabola, any sentence before or after the parable, guiding us as to the explication, except only that short sentence, Mat 22:14,",
+     "anchor": "And Jesus answered and spake unto them again by parables",
+     "refs": [
+      {
+       "text": "Mat 22:14",
+       "ref": "MAT.22.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.14#p3-9abcad22",
+     "text": "which rather guides us in the explication of the four latter verses than of the whole parable: yet it is not hard for us to find out our Saviour’s scope in this parable. It seemeth to be double:",
+     "anchor": "For many are called, but few are chosen"
+    },
+    {
+     "id": "poole/MAT.22.14#p4-a9920205",
+     "text": "1. To inform those to whom he spake of the destruction suddenly coming upon the Jews, for their rejection of the gospel, and of the calling of the Gentiles."
+    },
+    {
+     "id": "poole/MAT.22.14#p5-9c5a407e",
+     "text": "2. To let us know, that neither Amongst the Jews nor Gentiles all should be saved whom God called by the external ministration of the gospel; but those alone who, belonging to the election of grace, should be found in the day of judgment having on the wedding garment."
+    },
+    {
+     "id": "poole/MAT.22.14#p6-e9e42e60",
+     "text": "So then, the kingdom of heaven here signifies, the way or equity of God in the dispensation of the gospel, or the administration of things in order to the kingdom of glory. The king here mentioned must be he who is the King of kings."
+    },
+    {
+     "id": "poole/MAT.22.14#p7-cb844334",
+     "text": "The marriage for his son, is the exhibition of the covenant of grace; which whosoever layeth hold on, Isa 56:4, is by faith united to Christ; which union is often expressed in holy writ under the notion of a marriage, Psa 45:10,11 Eph 5:23, &c.: or their union with him in glory, Rev 19:9. The persons bidden were the Jews. The servants that called them to the wedding, were those that were faithful amongst their ordinary teachers, or the prophets, such as Isaiah and the rest, whom they refused to hearken unto. The other servants might signify John the Baptist, and the twelve, and others sent out by Christ, to tell them that Christ was now come, there wanted nothing but their coming to him and receiving of him. Their making light of it, going one to his farm, another to his merchandise, and others taking the servants, entreating them spitefully, and slaying them, signifies the Jews’ general refusal of the gospel, and the particular rage and malice of some of them, shown in their abusing of the Lord’s prophets and messengers, and which he knew some of them would further show against Stephen and James.",
+     "refs": [
+      {
+       "text": "Isa 56:4",
+       "ref": "ISA.56.4"
+      },
+      {
+       "text": "Psa 45:10",
+       "ref": "PSA.45.10"
+      },
+      {
+       "text": "Rev 19:9",
+       "ref": "REV.19.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.14#p8-320d0697",
+     "text": "The king’s sending forth his armies, and slaying the murderers, signified the coming of the Roman armies, and their utter destroying Jerusalem. The sending of the servants into the highways, and inviting all those whom they found to the wedding, signified the apostles going to the Gentiles, and preaching the gospel to all nations; which much enlarged the territories of the church, gathering in many who professed to accept of Christ, but not all in truth and sincerity. The king’s coming to see his guests, signifieth Christ’s coming at the day of the last judgment, with his fan in his hand, throughly to purge his floor."
+    },
+    {
+     "id": "poole/MAT.22.14#p9-279daf21",
+     "text": "His finding one without his wedding garment, signifieth his finding many hypocrites at the day of judgment. The guests at weddings were either wont to put on their best clothes, (as we usually do), or a particular garment which was then in use, and was worn by those who were invited to weddings. By the"
+    },
+    {
+     "id": "poole/MAT.22.14#p10-b3fabfed",
+     "text": "here is meant Christ, Rom 13:14, who is at this feast both the bridegroom, and the meat at the feast, and the wedding garment also, in divers respects. It is but an idle dispute, whether faith is meant, or love: neither the one nor the other separately, but faith that worketh by love; whatsoever God requireth of us, that we may be made meet for the kingdom of God: without faith and holiness none can see God. His being",
+     "anchor": "wedding garment",
+     "refs": [
+      {
+       "text": "Rom 13:14",
+       "ref": "ROM.13.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.14#p11-4d9fcce4",
+     "text": "signifies, that those who have lived under the proffers of grace and salvation, and have rejected them, neither believing in the Lord Jesus Christ, nor bringing forth fruits of holiness, will be without excuse at the day of judgment. And the king’s commanding his servants to",
+     "anchor": "speechless"
+    },
+    {
+     "id": "poole/MAT.22.14#p12-cc48beec",
+     "text": "& c., signifieth that all such persons as live within the church, under the means of grace, yet die impenitent and unbelievers, having not by a true faith received Christ as their Saviour, and brought forth the fruits of true repentance and holiness, shall get nothing by their being within the church and externally called, but shall be thrown into hell as well as others, the pains of which are here expressed by binding hand and foot, lying in outer darkness, weeping and gnashing of teeth; as in other places by a worm that shall never die, and a fire that shall never go out; all metaphorical expressions, signifying the vexations and intolerable punishment of the damned in hell.",
+     "anchor": "bind him hand and foot"
+    },
+    {
+     "id": "poole/MAT.22.14#p13-91fb61cb",
+     "text": "(saith our Saviour) many are called, but few are chosen. We met with this expression before, Mat 20:16, where the sense of it was not so obvious as it is here. Some by it here understand, a choice unto life eternal; nor without reason, if that be understood by the marriage supper, as it is Rev 19:9; and it appears to be partly at least the sense of it here, in that the person without the wedding garment is doomed to eternal misery. If we by the marriage supper understand a union with Christ here, or the benefits flowing from that, we must by chosen here understand effectually called, being made partakers of that special distinguishing grace which bringeth salvation.",
+     "anchor": "For",
+     "refs": [
+      {
+       "text": "Mat 20:16",
+       "ref": "MAT.20.16"
+      },
+      {
+       "text": "Rev 19:9",
+       "ref": "REV.19.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.14#p14-c8b41338",
+     "text": "The gospel is preached to many whom God doth not favour with his special grace, so as they receive it, convert, and are saved. The former part of this parable doth hint us the reason why the Jews rejected the offers of grace and salvation made to them, viz. the power that the temptations from the world, of pleasure, profit, and honour, had upon them. As the latter part also showeth us the true reason why any are saved to be from the free grace of God, viz. because they are chosen, chosen to eternal life, and particularly favoured to be made partakers of his special and, distinguishing grace."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.15",
+   "range": "MAT.22.15",
+   "kind": "passage",
+   "hash": "0b0496c4",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.15#p1-343291ec",
+     "text": "Mark saith, Mar 12:13, They send unto him certain of the Pharisees and of the Herodians, to catch him in his words. Luke saith, Luk 20:20, They watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor. His life was what they sought for. This they had no power allowed by the Romans to take away without the sentence of Pontius Pilate, the Roman governor. That they might have something to accuse him of before him, which he might condemn him for, they first take counsel.",
+     "refs": [
+      {
+       "text": "Mar 12:13",
+       "ref": "MRK.12.13"
+      },
+      {
+       "text": "Luk 20:20",
+       "ref": "LUK.20.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.15#p2-3843c7b6",
+     "text": "They saw he did nothing worthy of death; they therefore issue their counsels in a resolution to send some persons to discourse with him, under the pretence of conscientious, good men, to propound some questions to him, his answer to which might give them some opportunity to accuse him of blasphemy or sedition. The men they pitch upon were some of them Pharisees, some Herodians."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.16",
+   "range": "MAT.22.16",
+   "kind": "passage",
+   "hash": "0d7bbd50",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.16#p1-0d7bbd50",
+     "text": "Mat 22:17\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:17",
+       "ref": "MAT.22.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.17",
+   "range": "MAT.22.17",
+   "kind": "passage",
+   "hash": "4d328497",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.17#p1-907a7a84",
+     "text": "Ver. 16,17. Mark hath the same, Mar 12:14. So hath Luke, Luk 20:21. There is a great variety of opinions, who these",
+     "refs": [
+      {
+       "text": "Mar 12:14",
+       "ref": "MRK.12.14"
+      },
+      {
+       "text": "Luk 20:21",
+       "ref": "LUK.20.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.17#p2-e9a802c6",
+     "text": "were; we read of them in an early consultation against Christ with the Pharisees, Mar 3:6. Some think, they were foreigners of other nations, whom Herod, being tetrarch of Galilee, had brought in from contiguous pagan nations; but this is not probable, for then the Pharisees would have had nothing to do with them. Others think that they were some of Herod’s guard, or soldiers; but neither is this probable, considering the issue of their counsels, to send some who in Christ should not know, nor be frightened with. Others (which is more probable) think they were some of those Jews who favoured Herod’s side, and had forgotten the liberty of their country, joining with the conqueror, and taking his part. Others think they were Sadducees.",
+     "anchor": "Herodions",
+     "refs": [
+      {
+       "text": "Mar 3:6",
+       "ref": "MRK.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.17#p3-913b6cb4",
+     "text": "Others say, that they were persons that were of a mongrel religion, made up of Judaism and Gentilism. Our Saviour bids them beware of the leaven of the Pharisees, and of Herod, Mar 8:15; which maketh it probable, that the Herodions were not only courtiers, and for the Roman interest, but that they had embraced some particular doctrines, much differing from the Pharisees; it is likely they were leavened with some of the doctrine of the Sadducees, denying angels and spirits, and the resurrection. It is plain that they were some of Herod’s faction; what their principles were as to religion is not so plain, nor of much concern to us to know. They begin their discourse to our Saviour with a great compliment,",
+     "refs": [
+      {
+       "text": "Mar 8:15",
+       "ref": "MRK.8.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.17#p4-ebb57c8f",
+     "text": "a name the Jews did usually give to those whom they owned for teachers.",
+     "anchor": "Master"
+    },
+    {
+     "id": "poole/MAT.22.17#p5-54979c08",
+     "text": "We know that thou art true, one that will tell us the truth, and speak as thou thinkest to be true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men: thou wilt speak nothing out of fear, nor for any favour or affection; but plainly tell us what is truth, and what God would have us do in the cases we offer to thee. In these words they give us the true character of a good teacher; he must be a good man, true, one that will truly teach men the way of God, and, in the faithful discharge of their duty, not be afraid of the face of men. But herein they condemned themselves, for if our Saviour was so, why did they not believe in him, and obey what he taught them?"
+    },
+    {
+     "id": "poole/MAT.22.17#p6-2b7dda2d",
+     "text": "Tell its therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not? But how came this to be a case of conscience?"
+    },
+    {
+     "id": "poole/MAT.22.17#p7-a4850520",
+     "text": "What doubt could there be, whether men from their peace might not lawfully part from their own, especially such a little part of it? Some think that they spake with relation to that particular tribute which was demanded, which they think was that half shekel, Exo 30:12,15, paid by the Jews every year, which was to go for the service of the tabernacle: they say that the Romans had ordered this payment to go to the emperor, and this bred the question, Whether they might lawfully pay that which was appointed as a testimony of their homage to God, and for the service of the temple, to a profane use. I must confess I cannot so freely agree to this, wanting any good proof that the Romans exacted that payment to the emperor, and thinking it a very probable argument to the contrary, that the tables of the money changers, who changed the people’s money into half shekels fit for that payment, was now continued.",
+     "refs": [
+      {
+       "text": "Exo 30:12",
+       "ref": "EXO.30.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.17#p8-b3f51776",
+     "text": "And if that payment had been now altered, and turned to the use of the civil government, our Saviour’s overturning those tables, and driving the money changers out, had offered them a fair opportunity to have charged him with sedition, which they did not do upon that account. I rather therefore think the question propounded concerning the lawfulness of making any payments to the emperor, looking upon him as a usurper of authority over a free people."
+    },
+    {
+     "id": "poole/MAT.22.17#p9-e30a24e5",
+     "text": "That the Jews were very tenacious of their liberty appears from Joh 8:33; and, without doubt, the most of them paid such taxes as the Roman emperor laid upon them with no very good will. Now those hypocrites turn it into a case of conscience, God having made the Jews a free people, Whether they should not sin against God in paying these civil taxes to a pagan conqueror. There was one Theudas, and Judas, mentioned Act 5:36,37, who made an insurrection upon it. This was a question captious enough. For if he had said it was lawful, he had probably incurred the odium of the people, which was what they desired, for they had apprehended him before this time but for fear of them. If he had said it was not lawful, they had what they sought for, a fair opportunity for accusing him, and delivering him up to Pontius Pilate, the Roman governor at this time amongst them.",
+     "refs": [
+      {
+       "text": "Joh 8:33",
+       "ref": "JHN.8.33"
+      },
+      {
+       "text": "Act 5:36",
+       "ref": "ACT.5.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.18",
+   "range": "MAT.22.18",
+   "kind": "passage",
+   "hash": "41581a47",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.18#p1-41581a47",
+     "text": "Mat 22:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:22",
+       "ref": "MAT.22.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.19",
+   "range": "MAT.22.19",
+   "kind": "passage",
+   "hash": "41581a47",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.19#p1-41581a47",
+     "text": "Mat 22:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:22",
+       "ref": "MAT.22.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.20",
+   "range": "MAT.22.20",
+   "kind": "passage",
+   "hash": "41581a47",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.20#p1-41581a47",
+     "text": "Mat 22:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:22",
+       "ref": "MAT.22.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.21",
+   "range": "MAT.22.21",
+   "kind": "passage",
+   "hash": "41581a47",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.21#p1-41581a47",
+     "text": "Mat 22:22\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:22",
+       "ref": "MAT.22.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.22",
+   "range": "MAT.22.22",
+   "kind": "passage",
+   "hash": "361cf0dd",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.22#p1-9f12ce2d",
+     "text": "Ver. 18-22. Mark hath the same, Mar 12:15-17. So hath Luke, Luk 20:23-26. Our Saviour, saith Luke, perceived their craftiness, how subtlety they went about to entrap him. He calls them to show him the tribute money. The Jews had two sorts of money, shekels and half shekels, which was money proper to them, and Roman coin, pence and sesterces. Their tribute was paid in this coin. Accordingly they bring unto him a penny, a Roman penny, as much in value as seven pence halfpenny in our coin; which it seems was the poll money, which the Romans exacted of every head. The coining of money was always looked upon as an act of sovereign power, hence the usurpation of it is made so criminal.",
+     "refs": [
+      {
+       "text": "Mar 12:15-17",
+       "ref": "MRK.12.15-17"
+      },
+      {
+       "text": "Luk 20:23-26",
+       "ref": "LUK.20.23-26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.22#p2-fc0f9d8a",
+     "text": "Most princes use to have their effigies stamped upon their coin, and some inscription about it, with their names, and some words expressive of their dominion over such places where their coin is current; so as the admission of a prince’s coin as current amongst a people was a testimony of their owning and subjection to such a prince. Such an image and superscription this piece of money had; upon which our Saviour concludes,"
+    },
+    {
+     "id": "poole/MAT.22.22#p3-da5bd3f3",
+     "text": "Although Caesar be a usurper, yet God hath given you into his hands, you have owned him by accepting his coin as current amongst you. His right and God’s right are two distinct things. Religion doth not exempt you from your civil duties, and obedience to princes, in things wherein they have a power to command. Princes have power to impose tributes upon their subjects, for the maintenance and upholding of the civil government. Let Caesar have his due, and let God have his right.",
+     "anchor": "Render therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s"
+    },
+    {
+     "id": "poole/MAT.22.22#p4-e5b70b29",
+     "text": "You are a company of hypocrites, who by this question would make me believe you have a great zeal for God and his rights, and that you would not pay taxes that you might assert God’s right over you; this is your preference, but indeed your design is to try me, if you can persuade me, by any words of mine, to encourage you to any sedition, or acts of disloyalty to your civil governors. I see no reason for it; Caesar hath his right, and God hath his rights; you may give them both their rights, and so you ought to do. God’s kingdom is of another nature than the kingdoms of the world. His law forbiddeth no civil rights."
+    },
+    {
+     "id": "poole/MAT.22.22#p5-ecbceff0",
+     "text": "Thus our Saviour answers their question so as he maketh them to condemn themselves, if, owning the civil magistrate’s power, they did not give him his rights, and so as neither Caesar nor yet the people had any just cause of exception against him for his words. This answer surprises them, they marvel and go their way, having played their game and got nothing."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.23",
+   "range": "MAT.22.23",
+   "kind": "passage",
+   "hash": "0d6d2447",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.23#p1-0d6d2447",
+     "text": "Mat 22:28\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:28",
+       "ref": "MAT.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.24",
+   "range": "MAT.22.24",
+   "kind": "passage",
+   "hash": "0d6d2447",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.24#p1-0d6d2447",
+     "text": "Mat 22:28\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:28",
+       "ref": "MAT.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.25",
+   "range": "MAT.22.25",
+   "kind": "passage",
+   "hash": "0d6d2447",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.25#p1-0d6d2447",
+     "text": "Mat 22:28\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:28",
+       "ref": "MAT.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.26",
+   "range": "MAT.22.26",
+   "kind": "passage",
+   "hash": "0d6d2447",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.26#p1-0d6d2447",
+     "text": "Mat 22:28\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:28",
+       "ref": "MAT.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.27",
+   "range": "MAT.22.27",
+   "kind": "passage",
+   "hash": "0d6d2447",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.27#p1-0d6d2447",
+     "text": "Mat 22:28\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:28",
+       "ref": "MAT.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.28",
+   "range": "MAT.22.28",
+   "kind": "passage",
+   "hash": "684b6c33",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.28#p1-3e62d88b",
+     "text": "Ver. 23-28. Mark thus repeats the same history, Mar 12:18-22. So doth Luke, Luk 20:27-33. Concerning the Sadducees we have before spoken; they were a sect amongst the Jews much differing from the Pharisees, as may be seen, Act 23:8. Amongst other erroneous tenets, they denied the resurrection, as may be seen in that text, as well as this; and (which indeed was their fundamental error) they denied spirits, and consequently the immortality of the soul in its separate estate. Their design seemeth not so much to have been to have drawn out a discourse from our Saviour which might have touched his life, (which was the Pharisees’ design), as to have exposed him, by bringing him to an absurdity.",
+     "refs": [
+      {
+       "text": "Mar 12:18-22",
+       "ref": "MRK.12.18-22"
+      },
+      {
+       "text": "Luk 20:27-33",
+       "ref": "LUK.20.27-33"
+      },
+      {
+       "text": "Act 23:8",
+       "ref": "ACT.23.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.28#p2-510c55fc",
+     "text": "To this purpose they put a case to our Saviour upon the law, Deu 25:5, where God had ordained, for the preservation of the inheritances of the several tribes and families distinct, That if brethren dwelt together, and one of them died leaving no issue; the wife of the dead should not marry unto a stranger; her husband’s brother should go in unto her, and take her to him to wife, &c. Now they either knew of, or else supposed, a ease of seven brethren, successively marrying the same woman; they desire to know whose wife of the seven this woman should be in the resurrection.",
+     "refs": [
+      {
+       "text": "Deu 25:5",
+       "ref": "DEU.25.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.28#p3-0adead91",
+     "text": "Instead of discovering their acuteness, and putting our Saviour upon a difficulty, they did but betray their own ignorance as to the state of the resurrection."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.29",
+   "range": "MAT.22.29",
+   "kind": "passage",
+   "hash": "9e68743e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.29#p1-9e68743e",
+     "text": "Mat 22:30\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:30",
+       "ref": "MAT.22.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.30",
+   "range": "MAT.22.30",
+   "kind": "passage",
+   "hash": "02936b4e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.30#p1-29670e14",
+     "text": "Mark hath the same, Mar 12:24,25, only he propounds it as a question, Do ye not therefore err, because ye know, not the Scriptures? Luke saith, Luk 20:34,35, And Jesus answering said unto them, The children of this world marry, and are given in marriage: but they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage: neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.",
+     "refs": [
+      {
+       "text": "Mar 12:24",
+       "ref": "MRK.12.24"
+      },
+      {
+       "text": "Luk 20:34",
+       "ref": "LUK.20.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.30#p2-36d9c895",
+     "text": "The discourse of the Sadducees was bottomed upon this mistake, that there should not only be a resurrection of bodies, but of relations too; and the state of the world to come should be like the state of this world, in, which, for the propagation and continuance of mankind, men and women marry, and are given in marriage. Now, saith our Saviour, your error is bottomed in your ignorance, because ye know not the Scriptures, ( which indeed is the foundation of all men’s errors in matter of faith),"
+    },
+    {
+     "id": "poole/MAT.22.30#p3-47a60804",
+     "text": "If you knew the power of God, you would know that God is able to raise the dead. To confirm our faith in the resurrection, the Scripture every where sendeth us to the consideration of the Divine power, Rom 8:11 Php 3:21. If you knew the Scriptures, you would know that God will raise the dead, and the state of men in the resurrection shall not be as in this life, where men and women die daily; and in case they did not marry and give in marriage, the generation of men would quickly be extinct.",
+     "anchor": "nor the power of God",
+     "refs": [
+      {
+       "text": "Rom 8:11",
+       "ref": "ROM.8.11"
+      },
+      {
+       "text": "Php 3:21",
+       "ref": "PHP.3.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.30#p4-ec0efba5",
+     "text": "But (saith Luke) they who shall be accounted worthy to obtain that world, and the resurrection from the dead. It is manifest by the first words, that the latter words are not to be understood of the general resurrection, (to which all shall come, worthy or unworthy), but of the resurrection unto life; that resurrection which is not the mere effect of Divine providence, necessary in order to the last judgment, but that resurrection to life which is the effect of Christ’s purchase."
+    },
+    {
+     "id": "poole/MAT.22.30#p5-112b54fe",
+     "text": "And this is observable, that the resurrection from the dead will be of so little advantage, nay, of such miserable disadvantage, to wicked men, that the Scripture sometimes speaketh of the resurrection as if it were peculiar to saints, 1Co 15:22 Php 3:11; so in this text. Hence Luke calls them afterward, the children of the resurrection; not that others shall not rise, but the children of God alone shall be the favourites of the resurrection, those who shall rise as children to an eternal inheritance. Concerning the state of persons in the resurrection our Saviour thus describes it: that men and women there shall be",
+     "refs": [
+      {
+       "text": "1Co 15:22",
+       "ref": "1CO.15.22"
+      },
+      {
+       "text": "Php 3:11",
+       "ref": "PHP.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.30#p6-bc248d1b",
+     "text": "not in all things, but in the things mentioned, which are two, one of them mentioned by Matthew, both by Luke:",
+     "anchor": "as the angels"
+    },
+    {
+     "id": "poole/MAT.22.30#p7-a124197e",
+     "text": "1. They shall not die any more."
+    },
+    {
+     "id": "poole/MAT.22.30#p8-a1934278",
+     "text": "2. They shall not marry, nor be given in marriage."
+    },
+    {
+     "id": "poole/MAT.22.30#p9-5fc5a15c",
+     "text": "The first showeth the needlessness of the latter, for one great reason of marriage was to supply the gaps which death maketh in the world; but men shall not die any more, therefore there will be no need of conjugal relations amongst men, more than among angels. The children of this world (saith Luke) marry, and are given in marriage. Marriage was only an institution for this world, and is to continue no longer than this world stands; for the state of men in another world will be such as needs it not, being a state of immortality, so not needing it for propagation; and a state for perfection, and so not needing it for mutual help in the affairs of man’s life, nor a remedy against extravagant lust."
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.31",
+   "range": "MAT.22.31",
+   "kind": "passage",
+   "hash": "b864d13e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.31#p1-b864d13e",
+     "text": "Mat 22:33\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:33",
+       "ref": "MAT.22.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.32",
+   "range": "MAT.22.32",
+   "kind": "passage",
+   "hash": "b864d13e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.32#p1-b864d13e",
+     "text": "Mat 22:33\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:33",
+       "ref": "MAT.22.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.33",
+   "range": "MAT.22.33",
+   "kind": "passage",
+   "hash": "035ad997",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.33#p1-576771d6",
+     "text": "Ver. 31-33. Mark hath the same, Mar 12:26,27; so hath Luke, Luk 20:37,38; only Mark and Luke mention the time when God spake these words—in the bush, that is, when God appeared to Moses in the burning bush, Exo 3:6; and Luke addeth, for all live unto him. Mark also saith, Touching the dead that they rise, have ye not read in the book of Moses? Our Saviour, in the foregoing words, had, by the by, asserted the doctrine of angels; here he asserts both the doctrine of the immortality of the soul, and also of the resurrection of the body: and though Cardinal Perron, and Maldonate the Jesuit, boldly assert that the resurrection of the body cannot be proved from hence without taking in the tradition of the church; yet, notwithstanding their confidence, those who have a greater reverence for our Saviour’s words, think that not only the immortality of the soul, but the resurrection of the body also, is irrefragably proved by this argument of our Saviour’s; to make out which, these things are to be observed:",
+     "refs": [
+      {
+       "text": "Mar 12:26",
+       "ref": "MRK.12.26"
+      },
+      {
+       "text": "Luk 20:37",
+       "ref": "LUK.20.37"
+      },
+      {
+       "text": "Exo 3:6",
+       "ref": "EXO.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.33#p2-1e257e76",
+     "text": "1. God doth not say I have been, but I am: he speaketh of the time present, when he spake to Moses, and of the time to come."
+    },
+    {
+     "id": "poole/MAT.22.33#p3-62602256",
+     "text": "2. He doth not say, I am the Lord of Abraham, Isaac, and Jacob, but the God of: now wherever God styles himself the God of any people or person, it always signifieth, God as a Benefactor, and one that doth and will do good to such a people or person. It is a federal expression, as where he saith to Abraham, Gen 17:7, I will be a God to thee and thy seed, that is, of thee and of thy seed.",
+     "refs": [
+      {
+       "text": "Gen 17:7",
+       "ref": "GEN.17.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.33#p4-25b85a5f",
+     "text": "3. Abraham, Isaac, and Jacob, doth not signify part of Abraham, Isaac, and Jacob, but their entire persons, which consist of bodies as well as souls."
+    },
+    {
+     "id": "poole/MAT.22.33#p5-65f6cc52",
+     "text": "4. God is not the God of the dead, he doth not show kindness to them if they be dead, and shall rise no more."
+    },
+    {
+     "id": "poole/MAT.22.33#p6-e053249b",
+     "text": "5. In this life, Abraham, Isaac, and Jacob received no such signal kindness from God, but others might receive as great kindness as any of them did. Hence now our Lord proveth, as the immortality of their souls, so the resurrection also of their bodies, that God might show himself the God of whole Abraham, Isaac, and Jacob."
+    },
+    {
+     "id": "poole/MAT.22.33#p7-2e8889cc",
+     "text": "Gerard saith: The argument of this text is made clear by Heb 11:16, Wherefore God is not ashamed to be called their God, for he hath prepared for them a city. This is that which made God to be truly called their God, because he hath prepared for them a city, which city they could never possess without a resurrection. It is yet further added by some, That God’s promise to Abraham of the land of Canaan was in these terms, Gen 13:15, To thee will I give it, and to thy seed for ever; not only to thy seed, but to thee: so to Isaac, Gen 26:3; to Jacob, Gen 35:12 Exo 6:4,8 Deu 11:21.",
+     "refs": [
+      {
+       "text": "Heb 11:16",
+       "ref": "HEB.11.16"
+      },
+      {
+       "text": "Gen 13:15",
+       "ref": "GEN.13.15"
+      },
+      {
+       "text": "Gen 26:3",
+       "ref": "GEN.26.3"
+      },
+      {
+       "text": "Gen 35:12",
+       "ref": "GEN.35.12"
+      },
+      {
+       "text": "Exo 6:4",
+       "ref": "EXO.6.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.33#p8-17dc1073",
+     "text": "The promises seemed not to be fulfilled in giving their posterity the earthly Canaan, which Abraham, Isaac, and Jacob lived not to enjoy; but to extend to the rest prepared for the people of God, the city mentioned by the apostle, Heb 11:16, which God had prepared for them, to justify himself to be their God. Now this could not be prepared for their souls merely, which were but a part of them, and hardly capable of perfect happiness without a reunion with the body, there being in it such an innate desire.",
+     "refs": [
+      {
+       "text": "Heb 11:16",
+       "ref": "HEB.11.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.33#p9-8c85eb45",
+     "text": "Nor was it reasonable that the bodies of these saints, having been sharers with their souls in their labours, should have no share in their reward from that covenant; therefore of God with Abraham, Isaac, and Jacob, our Saviour firmly proveth their resurrection. Luke addeth, for all live unto him. Not live unto him only as their end, but in the same sense as Paul saith of Christ, Rom 6:10, in that he liveth, he liveth unto God; that is, with God. So saith Luke, Abraham, Isaac, and Jacob, though dead at present, live with God; and they, and all the children of Abraham, shall live to God, that is, with God, to all eternity. Matthew addeth,",
+     "refs": [
+      {
+       "text": "Rom 6:10",
+       "ref": "ROM.6.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.33#p10-341600e5",
+     "text": "Poor people, they had been used to hear discourses from the Pharisees, about the traditions of the elders, rites and ceremonies, washing hands before meat, and the necessity of washing pots and cups; and the Sadducees, declaiming against the doctrines of angels and spirits, and the resurrection; they were astonished to hear one instructing them in things concerning their souls, the resurrection and life eternal, and confuting their great teachers from books of Scripture owned by themselves; for the Sadducees, though they had no great regard to the prophets, yet they owned and paid a great deference to the books of Moses.",
+     "anchor": "when the multitude heard this, they were astonished at his doctrine"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.34",
+   "range": "MAT.22.34",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.34#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.35",
+   "range": "MAT.22.35",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.35#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.36",
+   "range": "MAT.22.36",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.36#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.37",
+   "range": "MAT.22.37",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.37#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.38",
+   "range": "MAT.22.38",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.38#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.39",
+   "range": "MAT.22.39",
+   "kind": "passage",
+   "hash": "e8570035",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.39#p1-e8570035",
+     "text": "Mat 22:40\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:40",
+       "ref": "MAT.22.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.40",
+   "range": "MAT.22.40",
+   "kind": "passage",
+   "hash": "737ce655",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.40#p1-5af641da",
+     "text": "Ver. 34-40. Mark relates this history more fully, Mar 12:28-31. And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all? And Jesus answered him, The first of all the commandments is, Hear, O Israel; the Lord our God is one Lord: and thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment. And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+     "refs": [
+      {
+       "text": "Mar 12:28-31",
+       "ref": "MRK.12.28-31"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.40#p2-ba324b68",
+     "text": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he: and to love him with all the heart, and with all the understanding, and with all the soul, and with all thy strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices. And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question."
+    },
+    {
+     "id": "poole/MAT.22.40#p3-417201e8",
+     "text": "Luke omits this history, only subjoins to our Saviour’s answer to the Sadducees, Luk 20:39,40, Then certain of the scribes answering said, Master, thou hast well said. And after that they durst not ask him any question at all. There are different opinions of interpreters concerning the design of this scribe, called by Matthew a lawyer, in coming to Christ with this question. Some think that he came upon the same errand with the others, to entangle him in his speech.",
+     "refs": [
+      {
+       "text": "Luk 20:39",
+       "ref": "LUK.20.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.40#p4-b3f9b6b5",
+     "text": "Others, that he came merely out of a desire to be more fully instructed by him, and that tempting here signifies no more than trying him, not for a bad end, but as the queen of Sheba came to prove Solomon with hard questions, to have an experiment of his wisdom. Our Saviour’s fair treating him, and the commendation he gave him, together with his fair speaking to our Saviour, and commending his answer, induce me to think that he came on no ill design."
+    },
+    {
+     "id": "poole/MAT.22.40#p5-c7863e48",
+     "text": "Besides that, the opinion of some, that he came hoping to hear our Saviour vilify their ritual precepts in comparison of the moral precepts, seemeth to me not probable; for himself consents to what our Saviour saith, and addeth, that to love the Lord our God, &c., is more than all burnt offerings and sacrifices. His question was, Which is the first and greatest commandment? Matthew saith, the great; Mark saith, the first: they have both the same sense, and our Saviour puts them together, Mat 22:38. Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. Mark adds, with all thy strength.",
+     "refs": [
+      {
+       "text": "Mat 22:38",
+       "ref": "MAT.22.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.40#p6-ff11e823",
+     "text": "It is to be found Deu 6:5, only there is not with all thy mind. Luke puts it in, Mat 10:27. It is but the same thing expressed in divers terms, for with all thy soul is comprehensive of heart, mind, and strength. Mark adds a preface: Hear, O Israel; the Lord our God is one Lord: thou shalt love, & c. Those words only;",
+     "refs": [
+      {
+       "text": "Deu 6:5",
+       "ref": "DEU.6.5"
+      },
+      {
+       "text": "Mat 10:27",
+       "ref": "MAT.10.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.40#p7-6e6c11f6",
+     "text": "1. Stirred up the people’s attention."
+    },
+    {
+     "id": "poole/MAT.22.40#p8-e9a50fc9",
+     "text": "2. Showed the reason of the following precept, which is fully expressed in Matthew."
+    },
+    {
+     "id": "poole/MAT.22.40#p9-99789d35",
+     "text": "If any ask, To which of the ten commandments is this to be referred?"
+    },
+    {
+     "id": "poole/MAT.22.40#p10-9ead23a6",
+     "text": "It is easily answered, that it is the sum of the four first, which comprehend our duty toward God. Our Saviour’s expressing them by loving God, shows us that the law, of God was not fulfilled in the observation of the letter of those commandments, but doing these things which God commands out of a principle of love, the highest degrees of love to God. They idly interpret this precept, who interpret it only an obligation upon us to love God as much as we are able in our lapsed state; the fall of man lost God no right of commanding, and telling us our duty. The law doth undoubtedly require of us love to God in the highest degree, to be showed by the acts of the whole man, in obedience to all his commandments, and that constantly."
+    },
+    {
+     "id": "poole/MAT.22.40#p11-7d2eddad",
+     "text": "It is our only happiness that the law is in the hands of a Mediator, who hath thus perfectly fulfilled it for all those who believe in him, Rom 8:3, and accepteth of us the will for the deed. Thus the moral law is a schoolmaster that leadeth us unto Christ. Our Saviour justly calls this the first and great commandment,",
+     "refs": [
+      {
+       "text": "Rom 8:3",
+       "ref": "ROM.8.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.40#p12-a66ecc63",
+     "text": "1. Because God is to be served before our neighbour."
+    },
+    {
+     "id": "poole/MAT.22.40#p13-766adc31",
+     "text": "2. Nor can love to our neighbour flow from any other true principle than that of love to God, nor is our neighbour to be loved but for God’s sake, and in subordination unto him."
+    },
+    {
+     "id": "poole/MAT.22.40#p14-438f536c",
+     "text": "commanding love also; so that, as the apostle saith, love is the fulfilling of the law. Thy neighbour, that is, every man, as thyself; doing as much for him as thou wouldst have him do for thee, and doing no more against him than thou wouldst willingly he should do against thee: as truly and sincerely as thyself.",
+     "anchor": "And the second is like unto it"
+    },
+    {
+     "id": "poole/MAT.22.40#p15-308f5e8f",
+     "text": "there is nothing commanded in all the Old Testament but may be reduced to these two heads. This is the whole duty of man there commanded. The whole book of God is our rule, and we are obliged to every precept in it. Moses summed up all in the ten commandments, to which, truly interpreted, all the precepts of Scripture are reducible. Christ here brings the ten to two. The apostle brings all to one, telling us love is the fulfilling of the law. There is nothing forbidden in Scripture but what offends the royal law of love, either to God or man; there is nothing commanded but what will fall under it. Mark addeth, that the scribe applauds our Saviour, as having said the truth, and confessing that the fulfilling these two precepts was more than all sacrifices and burnt offerings; in which he agreed with Samuel, who long since told Saul that to obey was better than sacrifice; and it needs must be so, seeing that all the true value of sacrifices lay in the obedience by them given to the will of God. Christ tells the scribe he was not far from the kingdom of God. He who once rightly understands the law of God, and hath cast off that silly fancy of thinking to please God with ritual things, hath made a great proficiency under that schoolmaster, who, if rightly understood, will show him the need of another righteousness than his own wherein to appear before God.",
+     "anchor": "On these two commandments hang all the law and the prophets"
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.41",
+   "range": "MAT.22.41",
+   "kind": "passage",
+   "hash": "1c5d7636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.41#p1-1c5d7636",
+     "text": "Mat 22:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:46",
+       "ref": "MAT.22.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.42",
+   "range": "MAT.22.42",
+   "kind": "passage",
+   "hash": "1c5d7636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.42#p1-1c5d7636",
+     "text": "Mat 22:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:46",
+       "ref": "MAT.22.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.43",
+   "range": "MAT.22.43",
+   "kind": "passage",
+   "hash": "1c5d7636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.43#p1-1c5d7636",
+     "text": "Mat 22:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:46",
+       "ref": "MAT.22.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.44",
+   "range": "MAT.22.44",
+   "kind": "passage",
+   "hash": "1c5d7636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.44#p1-1c5d7636",
+     "text": "Mat 22:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:46",
+       "ref": "MAT.22.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.45",
+   "range": "MAT.22.45",
+   "kind": "passage",
+   "hash": "1c5d7636",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.45#p1-1c5d7636",
+     "text": "Mat 22:46\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 22:46",
+       "ref": "MAT.22.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MAT.22.46",
+   "range": "MAT.22.46",
+   "kind": "passage",
+   "hash": "c81f558e",
+   "paragraphs": [
+    {
+     "id": "poole/MAT.22.46#p1-dc511268",
+     "text": "Ver. 41-46. Mark hath this story shortly, repeating only the substance of it, Mar 12:35-37; adding nothing to it, but concluding, And the common people heard him gladly. Luke repeateth it as shortly, Luk 20:41,44. For the right understanding of this discourse of our Saviour to the Pharisees, we must know, that though the Pharisees and the Jews in general did expect a Messiah or a Christ, yet they expected no more of him, or in him, than that he should be a man, the son of David, descended from his family, according to the promise, Isa 9:6; and dreamed only of a secular prince, who should deliver them from their enemies, and restore them to their ancient civil liberties.",
+     "refs": [
+      {
+       "text": "Mar 12:35-37",
+       "ref": "MRK.12.35-37"
+      },
+      {
+       "text": "Luk 20:41",
+       "ref": "LUK.20.41"
+      },
+      {
+       "text": "Isa 9:6",
+       "ref": "ISA.9.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.46#p2-8483dbf7",
+     "text": "Christ seeing a pack of them together, took the liberty, which he had allowed them towards himself, to propound a question or two to them. His question was, What think ye of Christ? Not of himself, but of the Messiah whom they expected; whose Son he should be."
+    },
+    {
+     "id": "poole/MAT.22.46#p3-72ba5ae8",
+     "text": "They say unto him, The Son of David, that is, one who should in a right line be descended from David. This was a constant and uncontrolled tradition amongst them. Hence Mark saith, the question was propounded, How say the scribes? Luke, How say they that Christ is, that is, is to be, the Son of David? This was a commonly received opinion amongst them, which our Saviour by the next words doth not contradict, but only argues that he must needs be something more; for, saith he, How then doth David in spirit call him Lord? Psa 110:1. Mark saith, David himself said by the Holy Ghost. David was a prophet, sand spake by inspiration from the Holy Ghost.",
+     "refs": [
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.46#p4-b6d51d5c",
+     "text": "Act 1:16 2:30. Luke saith, in the book of Psalms; whence we may observe, that Psa 110:1-7 was David’s Psalm, not a Psalm composed by some other for David, as some contend. Would David have called him Lord, whom he knew to be merely his son, one that should only descend from him? He would have said, The Lord said to my son, or, will say to my son.",
+     "refs": [
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      },
+      {
+       "text": "Act 1:16",
+       "ref": "ACT.1.16"
+      },
+      {
+       "text": "Psa 110:1-7",
+       "ref": "PSA.110.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.46#p5-ae3b3751",
+     "text": "The Lord said, Jehovah said, unto my Lord, Sit thou at my right hand. Would David, speaking prophetically by the Holy Ghost concerning the Messiah, had he believed he was to be his son, and no more, have said that Jehovah should say unto him, Sit at my right hand, a place of the highest honour, dignity, and favour, until I make thine enemies thy footstool, that is, for ever? For until doth not signify a determinate time. See Poole on \"Mat 1:25\".",
+     "refs": [
+      {
+       "text": "Mat 1:25",
+       "ref": "MAT.1.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MAT.22.46#p6-ff499787",
+     "text": "That is, how is he then no more than his son, no more than a mere man? Our Saviour by this argument doth neither go about to prove that the Christ was not to be the Son of David, nor that he was the Messias himself, but that their expected Messias or Christ must be more than a mere man, otherwise David would never have called him Lord, nor yet prophesied that Jehovah should call him to sit at his right hand. Matthew concludes with telling us, that as the Sadducees and the scribes were nonplussed before, so now the Pharisees’ mouths were also stopped. Mark saith, The common people heard him gladly.",
+     "anchor": "If David then call him Lord, how is he his son?"
+    },
+    {
+     "id": "poole/MAT.22.46#p7-30313d26",
+     "text": "Matthew saith, No man was able to answer him a word, neither durst any man ask him any more questions. Nor shall we hear of their troubling him with disputes any more; they now see disputing will not do their business, their next business is to consult how to take away his life; which is always the course of proud and malicious men, given over of God to ruin, to conceal their convictions, and proceed to execute their lusts and malice, rather than they will not have their ends. But before they meet with a fit opportunity we shall have some excellent discourses from our Saviour to the disciples and the multitude."
+    }
+   ]
+  }
+ ]
+}

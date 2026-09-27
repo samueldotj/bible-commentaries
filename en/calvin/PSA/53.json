@@ -1,0 +1,35 @@
+{
+ "source": "calvin",
+ "book": "PSA",
+ "chapter": 53,
+ "units": [
+  {
+   "id": "calvin/PSA.53",
+   "range": "PSA.53",
+   "kind": "chapter",
+   "hash": "2101492f",
+   "paragraphs": [
+    {
+     "id": "calvin/PSA.53#p1-ca37a0f8",
+     "text": "This psalm being almost identical with the fourteenth, it has not been considered necessary to subjoin any distinct commentary. {1}"
+    },
+    {
+     "id": "calvin/PSA.53#p2-d89c93cf",
+     "text": "Some slight differences will be found, on comparison, between this and the 14th psalm; the chief of which is in the 5th verse. For Calvin’s explanation of this verse, see volume 1, p. 199. It is not easy to say whether these variations are owing to transcribers, or whether they were made by some prophetic bard, who, during some afflictive period of Jewish history, adapted the 14th psalm, by a few alterations, to circumstances different from those for which it was originally composed. Theodoret is of this last opinion, and refers it to the alarm created by Sennacherib’s invasion under the reign of Hezekiah; others think it was written during the captivity — a conjecture which is founded on the last verse, “O that the salvation of Israel were come out of Zion!”",
+     "footnote": true,
+     "label": "1"
+    },
+    {
+     "id": "calvin/PSA.53#p3-2598d249",
+     "text": "To the chief musician upon Mahalath. {2}\nA Psalm of David for instruction."
+    },
+    {
+     "id": "calvin/PSA.53#p4-9447242d",
+     "text": "What מהלת, mahalath, signifies, in the title of this and the 88th psalm, must be uncertain, the word not being found elsewhere. It is most probably the name of an instrument on which the psalm was to be sung; and it may fitly be deduced from חלל, perforavit, or incidit, either from the hollowness of the instrument, or farther, from the holes cut in it; in which respect חליל is ordinarily used for fistula, or tibia, a pipe.” — Hammond",
+     "footnote": true,
+     "label": "2"
+    }
+   ]
+  }
+ ]
+}

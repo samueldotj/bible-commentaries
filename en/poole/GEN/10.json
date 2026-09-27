@@ -1,0 +1,1300 @@
+{
+ "source": "poole",
+ "book": "GEN",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "poole/GEN.10",
+   "range": "GEN.10",
+   "kind": "chapter",
+   "hash": "614ee888",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10#p1-614ee888",
+     "text": "Noah’s posterity, Gen 10:1. Sons of Japheth, Gen 10:2-5. Of Ham, Gen 10:2-14; among whom Nimrod the first monarch and tyrant; he reigns in Babel, &c., Gen 10:10. Asshur builds Nineveh, &c., Gen 10:11. Sons of Canaan, Gen 10:15. Their border, Gen 10:19. Of Shem, Gen 10:21-31.",
+     "refs": [
+      {
+       "text": "Gen 10:1",
+       "ref": "GEN.10.1"
+      },
+      {
+       "text": "Gen 10:2-5",
+       "ref": "GEN.10.2-5"
+      },
+      {
+       "text": "Gen 10:2-14",
+       "ref": "GEN.10.2-14"
+      },
+      {
+       "text": "Gen 10:10",
+       "ref": "GEN.10.10"
+      },
+      {
+       "text": "Gen 10:11",
+       "ref": "GEN.10.11"
+      },
+      {
+       "text": "Gen 10:15",
+       "ref": "GEN.10.15"
+      },
+      {
+       "text": "Gen 10:19",
+       "ref": "GEN.10.19"
+      },
+      {
+       "text": "Gen 10:21-31",
+       "ref": "GEN.10.21-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.1",
+   "range": "GEN.10.1",
+   "kind": "passage",
+   "hash": "e4977ea7",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.1#p1-79acdc8b",
+     "text": "This chapter, though it may seem to some unprofitable, as consisting almost wholly of genealogies, yet hath indeed great and manifold uses."
+    },
+    {
+     "id": "poole/GEN.10.1#p2-70acc287",
+     "text": "1. To show the true original of the several nations; about which all other authors write idly, fabulously, and falsely; and thereby to manifest the providence of God in the government of the world and church, and the truth and authority of the Holy Scriptures."
+    },
+    {
+     "id": "poole/GEN.10.1#p3-3c4c48e1",
+     "text": "2. To discover and distinguish from all other nations that people or nation in which God’s church was to be, and from which Christ was to come."
+    },
+    {
+     "id": "poole/GEN.10.1#p4-02607472",
+     "text": "3. That Noah’s prophecy concerning his three sons might be better understood, and the accomplishment of it made evident."
+    },
+    {
+     "id": "poole/GEN.10.1#p5-909b6b85",
+     "text": "4. To explain divers prophetical predictions and other passages of Scripture, as will appear in the sequel. For the better understanding of this chapter, compare with it 1Ch 1:4-24. And consider these three things.",
+     "refs": [
+      {
+       "text": "1Ch 1:4-24",
+       "ref": "1CH.1.4-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.1#p6-9b1c57a5",
+     "text": "1. In the search of these genealogies we must avoid both carelessness, for the reasons now mentioned, and excessive curiosity about every particular person here named, and the people sprung from him; which is neither necessary nor profitable, nor indeed possible now to find out, by reason of the great changes of names, through length of time, loss of ancient records, differences of languages, extinction of families, conquest and destruction of nations, and other causes. It may suffice that divers of them, and those the most eminent, are evident and discernible at this day, as will appear in the progress, by which we may and ought to presume the truth of the rest, whose names are lost in the public confusions of the world in former ages, of whom I shall therefore be silent, and only speak of the principal persons, and that briefly."
+    },
+    {
+     "id": "poole/GEN.10.1#p7-7d2436fc",
+     "text": "2. The same people which were originally seated in one place did ofttimes shift their places, or at least sent forth colonies; and that sometimes into places far distant from their brethren, as appears from the ancient and famous expeditions mentioned in sacred and profane story. So you must not wonder if you meet with the same people in divers countries."
+    },
+    {
+     "id": "poole/GEN.10.1#p8-89d1ec74",
+     "text": "3. In general, the world was divided into three parts, whereof the more eastern parts were allotted to Shem and his issue, the more southern parts to Ham, and the more northern parts of it to Japheth."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.2",
+   "range": "GEN.10.2",
+   "kind": "passage",
+   "hash": "8bc43fc8",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.2#p1-2b40cf1e",
+     "text": "portion was at first Asia the Less, and afterwards by degrees all Europe, and the northern parts of Asia. This is he so much celebrated among the Greeks by the name of Japetus.",
+     "anchor": "Japheth’s"
+    },
+    {
+     "id": "poole/GEN.10.2#p2-246a6b79",
+     "text": "posterity are reckoned among the northern people, Eze 38:6, and were seated in the northern parts of the Lesser Asia, and afterwards about Thracia; and from him were called Gomari, and by an easy change Cimbri, or Cimmerii.",
+     "anchor": "Gomer’s",
+     "refs": [
+      {
+       "text": "Eze 38:6",
+       "ref": "EZK.38.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.2#p3-87d744f5",
+     "text": "was the father of the Scythians, as may be gathered from Eze 38:2-3, Eze 38:15, Eze 39:3, Eze 39:6.",
+     "anchor": "Magog",
+     "refs": [
+      {
+       "text": "Eze 38:2-3",
+       "ref": "EZK.38.2-3"
+      },
+      {
+       "text": "Eze 38:15",
+       "ref": "EZK.38.15"
+      },
+      {
+       "text": "Eze 39:3",
+       "ref": "EZK.39.3"
+      },
+      {
+       "text": "Eze 39:6",
+       "ref": "EZK.39.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.2#p4-2638ab75",
+     "text": "The posterity of"
+    },
+    {
+     "id": "poole/GEN.10.2#p5-c06b1813",
+     "text": "wheresoever they were first placed, in Macedonia or elsewhere, afterward were fixed in Media, and were called Medes, and in the Hebrew by the name of their father Madai, as appears from 2Ki 17:6 Isa 13:17 Jer 25:25, Jer 51:11, Dan 5:28, Dan 6:8.",
+     "anchor": "Madai",
+     "refs": [
+      {
+       "text": "2Ki 17:6",
+       "ref": "2KI.17.6"
+      },
+      {
+       "text": "Isa 13:17",
+       "ref": "ISA.13.17"
+      },
+      {
+       "text": "Jer 25:25",
+       "ref": "JER.25.25"
+      },
+      {
+       "text": "Jer 51:11",
+       "ref": "JER.51.11"
+      },
+      {
+       "text": "Dan 5:28",
+       "ref": "DAN.5.28"
+      },
+      {
+       "text": "Dan 6:8",
+       "ref": "DAN.6.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.2#p6-a6ab5184",
+     "text": "From"
+    },
+    {
+     "id": "poole/GEN.10.2#p7-74af0d5f",
+     "text": "came the Grecians, who are called by themselves Iaones, or Iones, and in the Hebrew Jevanim, and their country Greece, Javan. See Isa 66:19 Eze 27:13, Eze 27:19, Dan 8:21, Dan 10:20.",
+     "anchor": "Javan",
+     "refs": [
+      {
+       "text": "Isa 66:19",
+       "ref": "ISA.66.19"
+      },
+      {
+       "text": "Eze 27:13",
+       "ref": "EZK.27.13"
+      },
+      {
+       "text": "Eze 27:19",
+       "ref": "EZK.27.19"
+      },
+      {
+       "text": "Dan 8:21",
+       "ref": "DAN.8.21"
+      },
+      {
+       "text": "Dan 10:20",
+       "ref": "DAN.10.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.2#p8-091d6007",
+     "text": "Of"
+    },
+    {
+     "id": "poole/GEN.10.2#p9-8b894dbc",
+     "text": "came the Iberi, anciently called Thobeli, a people of Asia, near the Euxine Sea. See Eze 27:3, Eze 32:26, Eze 38:2-3.",
+     "anchor": "Tubal",
+     "refs": [
+      {
+       "text": "Eze 27:3",
+       "ref": "EZK.27.3"
+      },
+      {
+       "text": "Eze 32:26",
+       "ref": "EZK.32.26"
+      },
+      {
+       "text": "Eze 38:2-3",
+       "ref": "EZK.38.2-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.2#p10-50b30969",
+     "text": "was father of the Moschi, i.e. the Muscovites, or rather, as others think, the Cappadocians, who were anciently called Meschini, and Moschi, and their chief city Maraca.",
+     "anchor": "Meshech"
+    },
+    {
+     "id": "poole/GEN.10.2#p11-f999b719",
+     "text": "And"
+    },
+    {
+     "id": "poole/GEN.10.2#p12-c7e53bf6",
+     "text": "was father of the Thracians; amongst whom is a river and haven called Athyras, and who worshipped their god Mars under the name of Thuras.",
+     "anchor": "Tiras"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.3",
+   "range": "GEN.10.3",
+   "kind": "passage",
+   "hash": "ee46bcb4",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.3#p1-a98e4b5b",
+     "text": "whose seed possessed Pontus and Bithynia, and the neighbouring parts, from whom they took the names of the lake and haven called Ascanius, and the sea called Axenus, or Euxinus.",
+     "anchor": "Ashkenaz"
+    },
+    {
+     "id": "poole/GEN.10.3#p2-50d46c44",
+     "text": "is called Diphath, 1Ch 1:6; the letters Daleth and Resh being oft interchanged, as we shall see in other instances. His posterity dwelled in or near Pontus and Bithynia, where Mela and Pliny and Solinus place the Riphaei, or Riphaces, and the Paphlagonians, who were anciently called Piphataei.",
+     "anchor": "Riphath",
+     "refs": [
+      {
+       "text": "1Ch 1:6",
+       "ref": "1CH.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.3#p3-81e743d6",
+     "text": "whose posterity are joined with Gomer’s; see Eze 27:14, Eze 38:6; and were, as some think, the Phrygians and Galatians, and of them the Gauls and Germans; or, as others, the Armenians, and of them the Turks.",
+     "anchor": "Togarmah",
+     "refs": [
+      {
+       "text": "Eze 27:14",
+       "ref": "EZK.27.14"
+      },
+      {
+       "text": "Eze 38:6",
+       "ref": "EZK.38.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.4",
+   "range": "GEN.10.4",
+   "kind": "passage",
+   "hash": "78e6ec3f",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.4#p1-2967af44",
+     "text": "the father of the Grecians properly so called, who have preserved his name and remembrance in the cities Elis and Elissus, in a tract of ground called Elias, and in the Elysian fields. And from these came the Æolians, a people of the Lesser Asia, where many of the Grecian colonies were seated.",
+     "anchor": "Elishah"
+    },
+    {
+     "id": "poole/GEN.10.4#p2-157ca212",
+     "text": "was father of the Cilicians, from whom their chief city Tarsus, in Hebrew Tarshish, took its name; see Eze 27:12 Jon 1:3 Act 22:3; and from whom the whole Mediterranean Sea is called Tarshish, because the Cilicians were in a great degree masters of that sea.",
+     "anchor": "Tarshish",
+     "refs": [
+      {
+       "text": "Eze 27:12",
+       "ref": "EZK.27.12"
+      },
+      {
+       "text": "Jon 1:3",
+       "ref": "JON.1.3"
+      },
+      {
+       "text": "Act 22:3",
+       "ref": "ACT.22.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.4#p3-55e1a51d",
+     "text": "or, Chittim, the father of the Macedonians, and Italians too, as may be gathered from hence, because both their countries are called by the name of Chittim; Macedonia, /APC 1Ma 1:1 8:5, and Italy, Num 24:24 Dan 11:30. See also Isa 23:1 Jer 2:10. Besides that there are other evidences in profane writers that the Italians came from the Grecians.",
+     "anchor": "Kittim",
+     "refs": [
+      {
+       "text": "Num 24:24",
+       "ref": "NUM.24.24"
+      },
+      {
+       "text": "Dan 11:30",
+       "ref": "DAN.11.30"
+      },
+      {
+       "text": "Isa 23:1",
+       "ref": "ISA.23.1"
+      },
+      {
+       "text": "Jer 2:10",
+       "ref": "JER.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.4#p4-edd6b7cb",
+     "text": "is called also Rodanim, 1Ch 1:7. See Riphath in. { Gen 10:3} His posterity is uncertain. Most probably he was seated near his brethren in some part of Greece. And the Greeks seem to have worshipped him under the name of Jupiter Dodonaeus, whose famous oracle was in the city Dodona.",
+     "anchor": "Dodanim",
+     "refs": [
+      {
+       "text": "1Ch 1:7",
+       "ref": "1CH.1.7"
+      },
+      {
+       "text": "Gen 10:3",
+       "ref": "GEN.10.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.5",
+   "range": "GEN.10.5",
+   "kind": "passage",
+   "hash": "fa03022d",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.5#p1-8f1a06dc",
+     "text": "not isles properly so called; for why should they, having their choice, forsake the continent for islands, and thereby cut off themselves from their brethren? And where had they ships to transport them? But the word isles here and elsewhere signifies all those countries that had the sea between them and Judea, as it doth Isa 11:10-11, Isa 40:15, Jer 2:10, Jer 25:22, Eze 27:3, Zep 2:11. And isles are here put for the inhabitants, as the words earth and land are commonly used. This division of the world among them being a work of great weight, was doubtless managed with great care and consultation, and the advice of their heads and governors, and above all by the wise and special providence of God, which at this time did particularly determine the bounds of their several habitations, as it is recorded Act 17:26.",
+     "anchor": "The isles of the Gentiles",
+     "refs": [
+      {
+       "text": "Isa 11:10-11",
+       "ref": "ISA.11.10-11"
+      },
+      {
+       "text": "Isa 40:15",
+       "ref": "ISA.40.15"
+      },
+      {
+       "text": "Jer 2:10",
+       "ref": "JER.2.10"
+      },
+      {
+       "text": "Jer 25:22",
+       "ref": "JER.25.22"
+      },
+      {
+       "text": "Eze 27:3",
+       "ref": "EZK.27.3"
+      },
+      {
+       "text": "Zep 2:11",
+       "ref": "ZEP.2.11"
+      },
+      {
+       "text": "Act 17:26",
+       "ref": "ACT.17.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.5#p2-ec0e6f1e",
+     "text": "i.e. according to their several languages, into which they were divided at Babel. By which it appears that this division, though mentioned before, was not executed till after the confusion of languages at Babel.",
+     "anchor": "Every one after his tongue"
+    },
+    {
+     "id": "poole/GEN.10.5#p3-15d71f5c",
+     "text": "Here observe the wise and gracious providence of God mixed with this judgment, that God distributed the languages according to the difference of families and nations, that each several nation, and all the families or branches of that nation, should have one and the same language; whereby both union and love were preserved among themselves, and the several nations were distinguished one from another, which was very fit and necessary for many reasons as that the church of God, which was confined to the Hebrew nation, might neither be mixed with nor infected by the idolatrous nations; and that it might be evident to the world, that the Messias was born of the seed of Abraham according to God’s promise, &c.",
+     "anchor": "After their families"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.6",
+   "range": "GEN.10.6",
+   "kind": "passage",
+   "hash": "330f1910",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.6#p1-2638ab75",
+     "text": "The posterity of"
+    },
+    {
+     "id": "poole/GEN.10.6#p2-faefce56",
+     "text": "were disposed into the parts south from Babel, both in Asia and Africa. See 1Ch 4:40 Psa 105:27.",
+     "anchor": "Ham",
+     "refs": [
+      {
+       "text": "1Ch 4:40",
+       "ref": "1CH.4.40"
+      },
+      {
+       "text": "Psa 105:27",
+       "ref": "PSA.105.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.6#p3-9dcd915f",
+     "text": "was father both of the Ethiopians and the Arabians; who, as it seems, sent forth a colony from themselves more eastward, even near to India. See Gen 2:13 2Ki 19:9 Job 28:19 Jer 13:23, Jer 46:9.",
+     "anchor": "Cush",
+     "refs": [
+      {
+       "text": "Gen 2:13",
+       "ref": "GEN.2.13"
+      },
+      {
+       "text": "2Ki 19:9",
+       "ref": "2KI.19.9"
+      },
+      {
+       "text": "Job 28:19",
+       "ref": "JOB.28.19"
+      },
+      {
+       "text": "Jer 13:23",
+       "ref": "JER.13.23"
+      },
+      {
+       "text": "Jer 46:9",
+       "ref": "JER.46.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.6#p4-d38397a1",
+     "text": "was father of the Egyptians, who are generally known in Scripture by that name.",
+     "anchor": "Mizraim"
+    },
+    {
+     "id": "poole/GEN.10.6#p5-091d6007",
+     "text": "Of"
+    },
+    {
+     "id": "poole/GEN.10.6#p6-43084893",
+     "text": "sprung the Libyans, among whom is the river Put, and the Moors. See Jer 46:9 Eze 27:10, Eze 30:5, Nah 3:9.",
+     "anchor": "Phut",
+     "refs": [
+      {
+       "text": "Jer 46:9",
+       "ref": "JER.46.9"
+      },
+      {
+       "text": "Eze 27:10",
+       "ref": "EZK.27.10"
+      },
+      {
+       "text": "Eze 30:5",
+       "ref": "EZK.30.5"
+      },
+      {
+       "text": "Nah 3:9",
+       "ref": "NAM.3.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.6#p7-fe8449c4",
+     "text": "was the cursed parent of that accursed race of the Canaanites, well known in Scripture, Gen 10:15.",
+     "anchor": "Canaan",
+     "refs": [
+      {
+       "text": "Gen 10:15",
+       "ref": "GEN.10.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.7",
+   "range": "GEN.10.7",
+   "kind": "passage",
+   "hash": "b0e2ddcf",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.7#p1-15bbe5c7",
+     "text": "or, Saba, or Sheba, whose seed were the Sabeans in Arabia the Desert; see Psa 72:10 Isa 43:3; and, as some think, the Abyssines in Africa.",
+     "anchor": "Seba",
+     "refs": [
+      {
+       "text": "Psa 72:10",
+       "ref": "PSA.72.10"
+      },
+      {
+       "text": "Isa 43:3",
+       "ref": "ISA.43.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.7#p2-127031af",
+     "text": "the father of the inhabitants of the land of Havilah, mentioned Gen 2:11; a land in the most eastern part of Arabia, this being opposed to Shur, a desert near Egypt, as the two remotest bounds of Arabia, Gen 25:18 1Sa 15:7.",
+     "anchor": "Havilah",
+     "refs": [
+      {
+       "text": "Gen 2:11",
+       "ref": "GEN.2.11"
+      },
+      {
+       "text": "Gen 25:18",
+       "ref": "GEN.25.18"
+      },
+      {
+       "text": "1Sa 15:7",
+       "ref": "1SA.15.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.7#p3-63b1aa06",
+     "text": "was father of those people who were seated in the lower part of Arabia the Happy, near the Persian Gulf, who also sent forth a colony into Persia. For in those parts we meet with the Sabateni in Josephus, the Stabaei and Messabathi in Ptolemy and Pliny.",
+     "anchor": "Sabtah"
+    },
+    {
+     "id": "poole/GEN.10.7#p4-e0a80047",
+     "text": "from whom descended another people dwelling in the same Arabia. See Eze 27:22.",
+     "anchor": "Raamah",
+     "refs": [
+      {
+       "text": "Eze 27:22",
+       "ref": "EZK.27.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.7#p5-54e0302c",
+     "text": "the father of another people adjoining to them.",
+     "anchor": "Sabtechah"
+    },
+    {
+     "id": "poole/GEN.10.7#p6-e87624a9",
+     "text": "was father either of that people which inhabited Ethiopia, who were known by that name; see 1Ki 10:1, Ki 10:4, ze 27:22, Mat 12:42 Act 8:27; or rather of another people in Arabia. So the several sons of Cush are conveniently seated one near another. And those Ethiopians in Africa might be a colony either of these, or rather of the posterity of the former Seba.",
+     "anchor": "Sheba",
+     "refs": [
+      {
+       "text": "1Ki 10:1",
+       "ref": "1KI.10.1"
+      },
+      {
+       "text": "Mat 12:42",
+       "ref": "MAT.12.42"
+      },
+      {
+       "text": "Act 8:27",
+       "ref": "ACT.8.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.7#p7-e27c9d00",
+     "text": "of whose posterity see Eze 27:15, ze 38:13.",
+     "anchor": "Dedan",
+     "refs": [
+      {
+       "text": "Eze 27:15",
+       "ref": "EZK.27.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.8",
+   "range": "GEN.10.8",
+   "kind": "passage",
+   "hash": "6572491c",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.8#p1-6572491c",
+     "text": "Cir. 2218 Whom he placeth last of all his sons, because he was to say more of him."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.9",
+   "range": "GEN.10.9",
+   "kind": "passage",
+   "hash": "14cb3937",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.9#p1-4ae8c817",
+     "text": "first of beasts, and by that occasion of men. For when men were few, and lived dispersedly, and wild beasts abounded, and most of all in those parts, by hunting and destroying of those beasts he got much reputation and favour with men, who thereby were secured in their dwellings. In confidence hereof, and having this occasion to gather great companies of the youngest and strongest men together to himself, by their help he established a tyranny and absolute power over men, insnaring, hunting after, and destroying like beasts all those men who opposed his dominion. Tyrants and persecutors are oft in Scripture called fowlers and hunters, as Psa 91:3 Jer 16:16 Lam 3:52, am 4:18.",
+     "anchor": "He was a mighty hunter",
+     "refs": [
+      {
+       "text": "Psa 91:3",
+       "ref": "PSA.91.3"
+      },
+      {
+       "text": "Jer 16:16",
+       "ref": "JER.16.16"
+      },
+      {
+       "text": "Lam 3:52",
+       "ref": "LAM.3.52"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.9#p2-4ce0e0d5",
+     "text": "an aggravation of his crime, that it was done in of God’s presence, impudently and in contempt both God, who had so lately manifested his detestation of this sin, by the destruction of the world, amongst other sins, for this very sin of violence, Gen 6:13, and of his great-grandfather Noah, then living and preaching, who probably did admonish him of the wickedness and danger of this practice. Thus he showed that he neither feared God nor reverenced man, if they withstood him in his unsurpation of dominion. It became a proverb, when any man was haughty, and cruel, and tyrannical, and that joined with impudence and obstinacy, That he was another Nimrod.",
+     "anchor": "Before the Lord",
+     "refs": [
+      {
+       "text": "Gen 6:13",
+       "ref": "GEN.6.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.10",
+   "range": "GEN.10.10",
+   "kind": "passage",
+   "hash": "3c2540e1",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.10#p1-846e687f",
+     "text": "i.e. either his chief and royal city, or the place where his dominion began, and from whence it was extended to other parts.",
+     "anchor": "The beginning of his kingdom"
+    },
+    {
+     "id": "poole/GEN.10.10#p2-1549a1c1",
+     "text": "which being not built till the confusion of languages, Gen 11:4, showeth that this, though here mentioned upon occasion of the genealogy, was not executed till afterward; it being very usual in Scripture to neglect the order of time in historical relations.",
+     "anchor": "Babel",
+     "refs": [
+      {
+       "text": "Gen 11:4",
+       "ref": "GEN.11.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.10#p3-bada4d7e",
+     "text": "called Calno, Isa 10:9; and Canneh, Eze 27:23; and as it is here, Cabneh, Amo 6:2; where it is mentioned amongst the eminent cities.",
+     "anchor": "Calneh",
+     "refs": [
+      {
+       "text": "Isa 10:9",
+       "ref": "ISA.10.9"
+      },
+      {
+       "text": "Eze 27:23",
+       "ref": "EZK.27.23"
+      },
+      {
+       "text": "Amo 6:2",
+       "ref": "AMO.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.10#p4-a0a2b0ee",
+     "text": "i.e. in Mesopotamia. This clause belongs to all the cities here named; and is added for distinction sake, because there is a Babylon in the land of Egypt, and there might be other cities of the same name with the rest in other countries.",
+     "anchor": "The land of Shinar"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.11",
+   "range": "GEN.10.11",
+   "kind": "passage",
+   "hash": "e513e543",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.11#p1-c5afdb1a",
+     "text": "a man so called: either,",
+     "anchor": "Asshur"
+    },
+    {
+     "id": "poole/GEN.10.11#p2-ddb4ae38",
+     "text": "1. Asshur the son of Shem, who forsook the land, either being forced by or weary of Nimrod’s tyranny and impiety, and erected another kingdom. But it is not probable either that Moses would here relate an exploit of a man whose birth is not mentioned till Gen 10:22, or that one single son of Shem would be here disorderly placed among the sons of Ham. Or,",
+     "refs": [
+      {
+       "text": "Gen 10:22",
+       "ref": "GEN.10.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.11#p3-62a5d980",
+     "text": "2. Another Asshur of Ham’s race. But it seems most likely that Asshur is the name of a place or country, even of Assyria, which in the Hebrew is called Asshur; and that the words should be thus rendered, he, i.e. Nimrod, went forth out of his own land to Asshur, to war against it, and add it to his empire; for to go forth is commonly ascribed to those that go to war or to battle, as dg 2:15, dg 11:3, 2Sa 11:1 Psa 60:10; and the particle to is here understood as it is 2Sa 6:10, Sa 10:2, compared with 1Ch 13:13, Ch 19:2.",
+     "refs": [
+      {
+       "text": "2Sa 11:1",
+       "ref": "2SA.11.1"
+      },
+      {
+       "text": "Psa 60:10",
+       "ref": "PSA.60.10"
+      },
+      {
+       "text": "2Sa 6:10",
+       "ref": "2SA.6.10"
+      },
+      {
+       "text": "1Ch 13:13",
+       "ref": "1CH.13.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.11#p4-11b71b6e",
+     "text": "a famous and vast city near the river Tigris, but so ruined by time, that the learned are not agreed about the place where it was situate.",
+     "anchor": "Nineveh"
+    },
+    {
+     "id": "poole/GEN.10.11#p5-5f7ab032",
+     "text": "Of Rehoboth, see Gen 36:37 1Ch 1:48.",
+     "refs": [
+      {
+       "text": "Gen 36:37",
+       "ref": "GEN.36.37"
+      },
+      {
+       "text": "1Ch 1:48",
+       "ref": "1CH.1.48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.12",
+   "range": "GEN.10.12",
+   "kind": "passage",
+   "hash": "bb1d4794",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.12#p1-c6ae9e10",
+     "text": "Either,"
+    },
+    {
+     "id": "poole/GEN.10.12#p2-23e0d901",
+     "text": "1. Nineveh, which is called a"
+    },
+    {
+     "id": "poole/GEN.10.12#p3-369ec75d",
+     "text": "Jon 3:3, on 4:11; and indeed was so, being sixty miles in compass. Thus it is a trajection, and the relative is referred to the remoter noun, as sometimes is done, though this seems to be a little forced. Or,",
+     "anchor": "great city",
+     "refs": [
+      {
+       "text": "Jon 3:3",
+       "ref": "JON.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.12#p4-10a6d478",
+     "text": "2. Resen; so the meaning is, though this city be much inferior to Nineveh, yet this also, if compared with most others, is a great city."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.13",
+   "range": "GEN.10.13",
+   "kind": "passage",
+   "hash": "44ac72a8",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.13#p1-091d6007",
+     "text": "Of"
+    },
+    {
+     "id": "poole/GEN.10.13#p2-ce91aca9",
+     "text": "and the following names here and Gen 10:14, observe two things:",
+     "anchor": "Ludim",
+     "refs": [
+      {
+       "text": "Gen 10:14",
+       "ref": "GEN.10.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.13#p3-668b0a8b",
+     "text": "1. They are not the names of persons, but of people or nations; and the word father is here understood; Ludim, for the father of the people called Ludim, and so the rest."
+    },
+    {
+     "id": "poole/GEN.10.13#p4-022b343e",
+     "text": "2. That they are the several nations dwelling in Africa, springing from the Egyptians, which, as they multiplied, went further and further westward and southward from Egypt."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.14",
+   "range": "GEN.10.14",
+   "kind": "passage",
+   "hash": "07160c48",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.14#p1-e4d679b4",
+     "text": "the inhabitants of Pathros; of which see Isa 11:11 Jer 44:1, er 44:15, ze 29:14.",
+     "anchor": "Pathrusim",
+     "refs": [
+      {
+       "text": "Isa 11:11",
+       "ref": "ISA.11.11"
+      },
+      {
+       "text": "Jer 44:1",
+       "ref": "JER.44.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.14#p2-dda22245",
+     "text": "the meaning is, they came out of his loins, or were his offspring, which might be true; though afterwards we find them seated amongst the offspring of Canaan, having driven out the former inhabitants, as was usual in those ancient times.",
+     "anchor": "Out of whom came Philistim"
+    },
+    {
+     "id": "poole/GEN.10.14#p3-a2de003b",
+     "text": "Object."
+    },
+    {
+     "id": "poole/GEN.10.14#p4-0010503c",
+     "text": "The Philistines are elsewhere said to come from Caphtorim: see Jer 47:4.",
+     "refs": [
+      {
+       "text": "Jer 47:4",
+       "ref": "JER.47.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.14#p5-24dce83d",
+     "text": "Therefore some make a trajection here, which is not unusual; and read the words thus, and Casluhim, and Caphtorim, out of whom me Philistim. But this seems forced, nor is it necessary; for the place may be thus read without any parenthesis, and Casluhim, out of whom came the Philistim and Caphtorim, which two latter were brethren, both the sons of Casluhim; and so might at first dwell together, whence their names are promiscuously used one for another; and the Caphtorims are said to dwell in Azzah, or Gaza, the known seat of the Philistines, Deu 2:23. Afterwards they might be divided, first in their dwellings, then in their affections, and war one against another; and the Caphtorims seem to have subdued and enslaved the Philistines, and carried them into their country, whom therefore God is said to bring and deliver from Caphtor, Amo 9:9; and the Caphtorims either then or afterward might be destroyed and extirpated by the hand of God or men, whence the Philistines, in after-times, are called The remnant of the country of Caphtor, Jer 47:4.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Deu 2:23",
+       "ref": "DEU.2.23"
+      },
+      {
+       "text": "Amo 9:9",
+       "ref": "AMO.9.9"
+      },
+      {
+       "text": "Jer 47:4",
+       "ref": "JER.47.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.15",
+   "range": "GEN.10.15",
+   "kind": "passage",
+   "hash": "381d2311",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.15#p1-4a8c6560",
+     "text": "the father of the people, and builder of the city of Sidon, Jos 11:8 19:28.",
+     "anchor": "Sidon his first-born",
+     "refs": [
+      {
+       "text": "Jos 11:8",
+       "ref": "JOS.11.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.15#p2-7469d10a",
+     "text": "Of Heth came the Hittites, Jos 1:4 9:1, &c.",
+     "refs": [
+      {
+       "text": "Jos 1:4",
+       "ref": "JOS.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.16",
+   "range": "GEN.10.16",
+   "kind": "passage",
+   "hash": "ec599641",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.16#p1-ec599641",
+     "text": "Of these and the other people following, see Jos 18:22,28 2Ch 13:4 Isa 49:12 Eze 27:8,11 Am 6:2,14, &c.",
+     "refs": [
+      {
+       "text": "Jos 18:22",
+       "ref": "JOS.18.22"
+      },
+      {
+       "text": "2Ch 13:4",
+       "ref": "2CH.13.4"
+      },
+      {
+       "text": "Isa 49:12",
+       "ref": "ISA.49.12"
+      },
+      {
+       "text": "Eze 27:8",
+       "ref": "EZK.27.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.18",
+   "range": "GEN.10.18",
+   "kind": "passage",
+   "hash": "358a7cb1",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.18#p1-358a7cb1",
+     "text": "Dispersed in the several quarters of the land, who, before they grew so numerous, dwelt together in the same place."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.19",
+   "range": "GEN.10.19",
+   "kind": "passage",
+   "hash": "6c964429",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.19#p1-c6ecfc61",
+     "text": "i.e. the city and country of Sidon, on the north-west.",
+     "anchor": "From Sidon"
+    },
+    {
+     "id": "poole/GEN.10.19#p2-c8659c15",
+     "text": "on the south-west.",
+     "anchor": "Unto Gaza"
+    },
+    {
+     "id": "poole/GEN.10.19#p3-7c71e6d9",
+     "text": "on the south and south-east.",
+     "anchor": "Zeboim"
+    },
+    {
+     "id": "poole/GEN.10.19#p4-87958cc3",
+     "text": "on the north-east.",
+     "anchor": "Lasha"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.21",
+   "range": "GEN.10.21",
+   "kind": "passage",
+   "hash": "e3a995d0",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.21#p1-3bd6bd34",
+     "text": "i.e. of the Hebrews, the only church and people of God when Moses wrote, who are called",
+     "anchor": "Of all the children of Eber"
+    },
+    {
+     "id": "poole/GEN.10.21#p2-151b7216",
+     "text": "Num 24:24, as here, the children of Eber. And he is here called the father of them peculiarly, though he had other children, because he was their father not only by natural generation, but also in respect of the promise of God, which was conveyed to them through Shem’s hands, and of that faith and holiness wherein he was their predecessor and eminent pattern; even as Ham, though he had other sons, is specially called the father of Canaan, Gen 9:22, because his father’s curse rested upon him, Gen 10:25.",
+     "anchor": "Eber",
+     "refs": [
+      {
+       "text": "Num 24:24",
+       "ref": "NUM.24.24"
+      },
+      {
+       "text": "Gen 9:22",
+       "ref": "GEN.9.22"
+      },
+      {
+       "text": "Gen 10:25",
+       "ref": "GEN.10.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.21#p3-491cbe10",
+     "text": "Eber had many other children here recorded, and therefore in that sense Shem was not the father of all the children of Eber.",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/GEN.10.21#p4-cdfcc7e9",
+     "text": "Though Eber had other children, yet none are called in Scripture the children of Eber, or, which is all one, the Hebrews, but Abraham’s posterity; even as though Abraham had divers other children, yet the Israelites are in many places peculiarly called the children of Abraham. And the ungodly Jews, when they degenerate from God and godliness, God takes away their name, and denieth them to be Jews, Rom 2:28, and calls them Sodomites, Isa 1:10. And therefore no wonder if Joktan and his posterity, having, as it is probable, forsaken their father’s God, and turned idolaters, be here disowned as bastards, and blotted out of the honourable catalogue of the children of Eber: see Rom 9:8.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Rom 2:28",
+       "ref": "ROM.2.28"
+      },
+      {
+       "text": "Isa 1:10",
+       "ref": "ISA.1.10"
+      },
+      {
+       "text": "Rom 9:8",
+       "ref": "ROM.9.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.21#p5-70f2fc8e",
+     "text": "alone is here mentioned as his brother, and not Ham, because he was deservedly shut out from Shem’s blessing pronounced by Noah, and was accursed of God, whereas Japheth was partaker with Shem, both in the piety exercised towards their father, and the blessing thereupon pronounced; the word brother being often applied to persons alike in condition, disposition, or manners: see Gen 49:5.",
+     "anchor": "Japheth",
+     "refs": [
+      {
+       "text": "Gen 49:5",
+       "ref": "GEN.49.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.21#p6-6c65344a",
+     "text": "Though the words in Hebrew may seem ambiguous, yet other texts make it probable that Japheth was the elder. For Noah began to beget children in his five hundredth year, Gen 5:32. And Shem was but a hundred years old two years after the flood, Gen 11:10. Therefore he was not the eldest. And Ham is concluded not to be the eldest, from Gen 9:24; of which see Poole \"Gen 9:24\"; if so, Japheth must be the eldest. And Shem is generally named first, not because he was the first-born, but because he had the privileges of the first-born, and was chief in dignity and authority in the church of God.",
+     "anchor": "The elder",
+     "refs": [
+      {
+       "text": "Gen 5:32",
+       "ref": "GEN.5.32"
+      },
+      {
+       "text": "Gen 11:10",
+       "ref": "GEN.11.10"
+      },
+      {
+       "text": "Gen 9:24",
+       "ref": "GEN.9.24"
+      },
+      {
+       "text": "Gen 9:24",
+       "ref": "GEN.9.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.22",
+   "range": "GEN.10.22",
+   "kind": "passage",
+   "hash": "f62f69f2",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.22#p1-679eaebe",
+     "text": "Of Elam came the Elamites or Persians: see Gen 14:9 Isa 21:2 Jer 49:34 Dan 8:2 Act 2:9.",
+     "refs": [
+      {
+       "text": "Gen 14:9",
+       "ref": "GEN.14.9"
+      },
+      {
+       "text": "Isa 21:2",
+       "ref": "ISA.21.2"
+      },
+      {
+       "text": "Jer 49:34",
+       "ref": "JER.49.34"
+      },
+      {
+       "text": "Dan 8:2",
+       "ref": "DAN.8.2"
+      },
+      {
+       "text": "Act 2:9",
+       "ref": "ACT.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.22#p2-41c798c3",
+     "text": "was father of the Assyrians: see Gen 10:11.",
+     "anchor": "Asshur",
+     "refs": [
+      {
+       "text": "Gen 10:11",
+       "ref": "GEN.10.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.22#p3-413d20e3",
+     "text": "Of Arphaxad the Chaldeans, as many conceive; or, as others, the inhabitants of that part of Assyria, from him called Arphaxitis, which Ptolemy corruptly calls Arrapachitis."
+    },
+    {
+     "id": "poole/GEN.10.22#p4-029a4006",
+     "text": "was father of the Lydians, a well-known people in Asia the Less.",
+     "anchor": "Lud"
+    },
+    {
+     "id": "poole/GEN.10.22#p5-6e004c3b",
+     "text": "Of Aram the Syrians, known by the name of Aramites, both in sacred and other authors: compare with this Gen 22:21.",
+     "refs": [
+      {
+       "text": "Gen 22:21",
+       "ref": "GEN.22.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.25",
+   "range": "GEN.10.25",
+   "kind": "passage",
+   "hash": "e07d297b",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.25#p1-a12a5354",
+     "text": "either,",
+     "anchor": "In his days"
+    },
+    {
+     "id": "poole/GEN.10.25#p2-4a213424",
+     "text": "1. In the time of his birth, whence he was so called. Or,"
+    },
+    {
+     "id": "poole/GEN.10.25#p3-2770457b",
+     "text": "2. Afterwards in the time of life. So his father gave him this name by the Spirit of prophecy, foreseeing this great event, and the time of it; this being no unusual thing in Scripture, as we shall hereafter see, to give prophetical names to children. And thus there is a longer and more convenient space left for the peopling of the world, and ripening of things for the general dispersion and habitation of the earth."
+    },
+    {
+     "id": "poole/GEN.10.25#p4-e249cb6f",
+     "text": "first in language, and then in habitations.",
+     "anchor": "The earth was divided"
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.26",
+   "range": "GEN.10.26",
+   "kind": "passage",
+   "hash": "5a6639af",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.26#p1-a6ab5184",
+     "text": "From"
+    },
+    {
+     "id": "poole/GEN.10.26#p2-47f3024c",
+     "text": "and the rest of Joktan’s sons here mentioned, come either,",
+     "anchor": "Almodad"
+    },
+    {
+     "id": "poole/GEN.10.26#p3-9945c514",
+     "text": "1. The various nations of India, as most think; or rather,"
+    },
+    {
+     "id": "poole/GEN.10.26#p4-ada54c3b",
+     "text": "2. The several people that live in the innermost parts of Arabia, who profess themselves the posterity of Joktan, and have a city near Mecca called Jectan. And the Homerites, one sort of them, are deduced from him by divers writers."
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.28",
+   "range": "GEN.10.28",
+   "kind": "passage",
+   "hash": "ca5446a5",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.28#p1-ca5446a5",
+     "text": "A different person from him Gen 10:7, and the father of another people, having only the same name with him.",
+     "refs": [
+      {
+       "text": "Gen 10:7",
+       "ref": "GEN.10.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.29",
+   "range": "GEN.10.29",
+   "kind": "passage",
+   "hash": "6e93354c",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.29#p1-10bd25af",
+     "text": "either that in India, of which see 1Ki 9:28 10:11 22:48; or the other in Arabia, of which see Job 22:24 28:16. See also Psa 45:9 Isa 13:12.",
+     "anchor": "Ophir",
+     "refs": [
+      {
+       "text": "1Ki 9:28",
+       "ref": "1KI.9.28"
+      },
+      {
+       "text": "Job 22:24",
+       "ref": "JOB.22.24"
+      },
+      {
+       "text": "Psa 45:9",
+       "ref": "PSA.45.9"
+      },
+      {
+       "text": "Isa 13:12",
+       "ref": "ISA.13.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.29#p2-f74ad316",
+     "text": "a distinct person from him Gen 10:7.",
+     "anchor": "Havilah",
+     "refs": [
+      {
+       "text": "Gen 10:7",
+       "ref": "GEN.10.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/GEN.10.30",
+   "range": "GEN.10.30",
+   "kind": "passage",
+   "hash": "8117fc23",
+   "paragraphs": [
+    {
+     "id": "poole/GEN.10.30#p1-0d5ab318",
+     "text": "These places were either,"
+    },
+    {
+     "id": "poole/GEN.10.30#p2-6cca8bd4",
+     "text": "1. In India, where there are places called by Ptolemy and Pliny, Maesae, and Saparum, and Sabara. Or rather,"
+    },
+    {
+     "id": "poole/GEN.10.30#p3-1f99762f",
+     "text": "2. In Arabia, where there was a noted port called Musa; and near it, and eastward from it, a people called Sapharitae, and a royal city called Saphar; from whence this famous and long mountain doth here receive its name. If it be said Arabia is not east but south from Judea, it may be answered,"
+    },
+    {
+     "id": "poole/GEN.10.30#p4-66147acc",
+     "text": "1. That Arabia, as it is not east in respect of Egypt, where the Jews long dwelt, and part of it is so to Judea also; so it is not seldom in Scripture reckoned as a part of the east country, as appears from Gen 25:6,18 Jud 6:3 1Ki 4:30 Job 1:3 Isa 11:14 Jer 49:28. And Tacitus describing Judea, saith: It is bounded on the east by Arabia.",
+     "refs": [
+      {
+       "text": "Gen 25:6",
+       "ref": "GEN.25.6"
+      },
+      {
+       "text": "1Ki 4:30",
+       "ref": "1KI.4.30"
+      },
+      {
+       "text": "Job 1:3",
+       "ref": "JOB.1.3"
+      },
+      {
+       "text": "Isa 11:14",
+       "ref": "ISA.11.14"
+      },
+      {
+       "text": "Jer 49:28",
+       "ref": "JER.49.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/GEN.10.30#p5-2a6c6cbf",
+     "text": "2. That this mountain is said to be easterly, not simply, but in respect of the city Mesha, on the east whereof Ptolemy placeth this mountain, though he call it by another name, Climax; add to this, that Moses speaks of these places as known to the Jews, and therefore not so far distant from them as India, a place wholly unknown to them, and wherewith, as yet, they had no communication. If it be further objected, that if these people had been so near and well known to the Jews, we should have had more mention of them in Scripture; I answer, there is mention of some of them; and for others, it is no wonder if by the following wars among nations, and mixtures and confusions of people, some of them were extirpated, and others lost their names, though not their beings, as oft happened."
+    }
+   ]
+  }
+ ]
+}

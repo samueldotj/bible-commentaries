@@ -23,9 +23,9 @@ because it is small, and Henry because readers are most likely to want it.
   from the module, and identify who modernised the spelling.
 - [x] Poole and Trapp: the owner downloaded the BibleSupport modules; read
   with `tools/esword.py` and counted.
-- [ ] Poole: convert the Greek and Hebrew typed in the OLB fonts
-  (992 runs) from the RTF edition.
-- [ ] Trapp: find comment for Jude, which is missing from the module.
+- [x] Poole: the Greek typed in the OLB font is converted from the RTF
+  edition; the Hebrew runs are marked `[Hebrew]`.
+- [x] Trapp: Jude was filed under Judges 1, and is re-keyed on import.
 - [ ] Poole and Trapp: check BibleSupport's terms of use.
 - [x] Early Church Fathers: the owner provided the SermonIndex module; read
   with `tools/esword.py` and counted.
@@ -47,7 +47,12 @@ because it is small, and Henry because readers are most likely to want it.
   passage, and book and chapter introductions.
 - [x] Checks: every range parses, stays inside the book's chapters and
   verses, no unit or paragraph is empty, and no markup is left.
-- [ ] Import Calvin, Poole and Trapp.
+- [x] Calvin (`tools/import_calvin.py`): 13,724 units, with Calvin's
+  Arguments and prefaces, and the editors' footnotes as footnote paragraphs.
+- [x] Poole (`tools/import_poole.py`): 27,136 units, with chapter outlines,
+  lemmas, and Greek put back.
+- [x] Trapp (`tools/import_trapp.py`): 27,595 units, re-keyed by verse text.
+- [ ] Early Church Fathers, after the copyright check.
 
 ## 3. Translation tool
 
@@ -114,11 +119,11 @@ run, and estimated for Gill.
 |---|---|---|---|
 | Geneva | 0.39M (imported) | ~$40 | ~$90 |
 | Matthew Henry | 6.47M (imported) | ~$650 | ~$1,420 |
-| Calvin | 6.34M (measured, CCEL) | ~$630 | ~$1,400 |
-| Poole | 3.53M (measured) | ~$350 | ~$780 |
-| Trapp | 4.24M (measured) | ~$420 | ~$930 |
+| Calvin | 7.01M (imported, with 15,490 footnotes) | ~$700 | ~$1,540 |
+| Poole | 3.42M (imported, with lemmas) | ~$340 | ~$750 |
+| Trapp | 3.40M (imported, with lemmas) | ~$340 | ~$750 |
 | Early Church Fathers | 13.42M (measured) | ~$1,340 | ~$2,950 |
-| **Total without Gill** | **34.4M** | **~$3,430** | **~$7,570** |
+| **Total without Gill** | **34.1M** | **~$3,400** | **~$7,500** |
 | Gill, set aside | ~7M (estimate) | ~$700 | ~$1,500 |
 
 Not in the figures above:

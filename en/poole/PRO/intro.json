@@ -1,0 +1,33 @@
+{
+ "source": "poole",
+ "book": "PRO",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "poole/PRO",
+   "range": "PRO",
+   "kind": "book",
+   "hash": "1268b298",
+   "paragraphs": [
+    {
+     "id": "poole/PRO#p1-64af22af",
+     "text": "THE PROVERBS"
+    },
+    {
+     "id": "poole/PRO#p2-bffbd175",
+     "text": "The penman of this book is expressed in the title, Solomon, who was famous for his proverbs, of which he spoke three thousand, as it is recorded, 1Ki 4:32, the most eminent and useful of them being doubtless collected in this book. And that the greatest part of this book was composed by Solomon doth sufficiently appear, because that part of it which was collected and composed by other hands is so plainly distinguished from the foregoing part, Pro 25:1. The nine first chapters contain a preface or introduction to the book, or an exhortation to true wisdom; and all the following chapters contain the precepts of wisdom called proverbs; wherein we are not to expect that order and coherence which is in many other books of Scripture.",
+     "refs": [
+      {
+       "text": "1Ki 4:32",
+       "ref": "1KI.4.32"
+      },
+      {
+       "text": "Pro 25:1",
+       "ref": "PRO.25.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

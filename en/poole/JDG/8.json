@@ -1,0 +1,613 @@
+{
+ "source": "poole",
+ "book": "JDG",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "poole/JDG.8",
+   "range": "JDG.8",
+   "kind": "chapter",
+   "hash": "d99163dc",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8#p1-d99163dc",
+     "text": "The Ephraimites are displeased with Gideon; he satisfies them, Jud 8:1-3. He pursueth two kings of the Midianites he punisheth those of Succoth and Penuel, Jud 8:4-17. He revengeth his brethren’s death on the two kings, Jud 8:18-21. He refuseth government, Jud 8:22,23; demandeth a present of the spoil, and thereof makes an ephod; places it in Ophrah; it is a cause of idolatry, Jud 8:24-27. Gideon’s children, wives, death, and burial, Jud 8:30-32. Israel revolts to idolatry; is ungrateful to Gideon’s family, Jud 8:33-35.",
+     "refs": [
+      {
+       "text": "Jud 8:1-3",
+       "ref": "JUD.8.1-3"
+      },
+      {
+       "text": "Jud 8:4-17",
+       "ref": "JUD.8.4-17"
+      },
+      {
+       "text": "Jud 8:18-21",
+       "ref": "JUD.8.18-21"
+      },
+      {
+       "text": "Jud 8:22",
+       "ref": "JUD.8.22"
+      },
+      {
+       "text": "Jud 8:24-27",
+       "ref": "JUD.8.24-27"
+      },
+      {
+       "text": "Jud 8:30-32",
+       "ref": "JUD.8.30-32"
+      },
+      {
+       "text": "Jud 8:33-35",
+       "ref": "JUD.8.33-35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.1",
+   "range": "JDG.8.1",
+   "kind": "passage",
+   "hash": "303c9606",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.1#p1-303c9606",
+     "text": "Why hast thou neglected and despised us, in not calling us in to thy help, as thou didst other tribes? These were a proud people, Isa 11:13, puffed up with a conceit of their number and strength, and the preference which Jacob by Divine direction gave them above Manasseh, Gen 48:19,20, of which tribe Gideon was, who by this act had seemed to advance his own tribe, and to depress theirs.",
+     "refs": [
+      {
+       "text": "Isa 11:13",
+       "ref": "ISA.11.13"
+      },
+      {
+       "text": "Gen 48:19",
+       "ref": "GEN.48.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.2",
+   "range": "JDG.8.2",
+   "kind": "passage",
+   "hash": "26891c87",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.2#p1-95e0b871",
+     "text": "What was done was done by God’s immediate making them one to kill another; what I have done, in cutting off some of the fugitive common soldiers, is not to be compared with your exploit in destroying their princes; I began the war, but you have finished."
+    },
+    {
+     "id": "poole/JDG.8.2#p2-447fcd1f",
+     "text": "what you have gleaned or done after me.",
+     "anchor": "The gleaning of the grapes of Ephraim"
+    },
+    {
+     "id": "poole/JDG.8.2#p3-5edf05cd",
+     "text": "i.e. of the Abi-ezrites, to whom he modestly communicateth the honour of the victory, and doth not arrogate it to himself, as generals commonly do.",
+     "anchor": "Of Abi-ezer"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.3",
+   "range": "JDG.8.3",
+   "kind": "passage",
+   "hash": "14dcbab9",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.3#p1-14dcbab9",
+     "text": "His soft and humble answer allayed their rage and envy. See Pro 15:1 25:15.",
+     "refs": [
+      {
+       "text": "Pro 15:1",
+       "ref": "PRO.15.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.4",
+   "range": "JDG.8.4",
+   "kind": "passage",
+   "hash": "eb803b0f",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.4#p1-eb803b0f",
+     "text": "or, had passed over: when he passed over, See Poole \"Jud 7:25\".",
+     "anchor": "Passed over",
+     "refs": [
+      {
+       "text": "Jud 7:25",
+       "ref": "JUD.7.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.5",
+   "range": "JDG.8.5",
+   "kind": "passage",
+   "hash": "2d887c6a",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.5#p1-66bc6b5f",
+     "text": "a place beyond Jordan, Gen 33:17 Jos 13:27 Psa 60:6.",
+     "anchor": "Succoth",
+     "refs": [
+      {
+       "text": "Gen 33:17",
+       "ref": "GEN.33.17"
+      },
+      {
+       "text": "Jos 13:27",
+       "ref": "JOS.13.27"
+      },
+      {
+       "text": "Psa 60:6",
+       "ref": "PSA.60.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.5#p2-17faf8f4",
+     "text": "where before this time were five kings at once, Num 31:8, who either reigned separately in divers parts of the land, or governed by common counsel and consent, as sometimes there were two or three Roman emperors together.",
+     "anchor": "Kings of Midian",
+     "refs": [
+      {
+       "text": "Num 31:8",
+       "ref": "NUM.31.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.6",
+   "range": "JDG.8.6",
+   "kind": "passage",
+   "hash": "827a00aa",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.6#p1-827a00aa",
+     "text": "Art thou so foolish to think, with thy three hundred faint and weary soldiers, to conquer and destroy a host of fifteen thousand men?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.7",
+   "range": "JDG.8.7",
+   "kind": "passage",
+   "hash": "a0b2ccf4",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.7#p1-a0b2ccf4",
+     "text": "which grow abundantly in the neighbouring wilderness; I will chastise or beat your naked bodies with thorny rods, even unto death. Or, I will lay you down upon thorns on the ground, and bring the cartwheel upon you, which will both tear your flesh, and bruise you to death.",
+     "anchor": "With the thorns"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.8",
+   "range": "JDG.8.8",
+   "kind": "passage",
+   "hash": "dddf51d4",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.8#p1-dddf51d4",
+     "text": "another city beyond Jordan; of which see Gen 32:30 1Ki 12:25.",
+     "anchor": "Penuel",
+     "refs": [
+      {
+       "text": "Gen 32:30",
+       "ref": "GEN.32.30"
+      },
+      {
+       "text": "1Ki 12:25",
+       "ref": "1KI.12.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.9",
+   "range": "JDG.8.9",
+   "kind": "passage",
+   "hash": "9275bf81",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.9#p1-9275bf81",
+     "text": "Your confidence in which makes you thus proud and presumptuous. He implies that he would afterwards destroy their persons, as is expressed, Jud 8:17.",
+     "refs": [
+      {
+       "text": "Jud 8:17",
+       "ref": "JUD.8.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.10",
+   "range": "JDG.8.10",
+   "kind": "passage",
+   "hash": "ee507127",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.10#p1-ee507127",
+     "text": "i.e. Persons expert and exercised in war, besides the retainers to them, Jud 6:5.",
+     "refs": [
+      {
+       "text": "Jud 6:5",
+       "ref": "JUD.6.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.11",
+   "range": "JDG.8.11",
+   "kind": "passage",
+   "hash": "04b995fa",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.11#p1-44045453",
+     "text": "i.e. of the Arabians; so fetching a compass, and falling upon them where they least expected it.",
+     "anchor": "Of them that dwelt in tents"
+    },
+    {
+     "id": "poole/JDG.8.11#p2-fa4fa58d",
+     "text": "of which cities see Num 32:35,42.",
+     "anchor": "Nobah and Jogbehah",
+     "refs": [
+      {
+       "text": "Num 32:35",
+       "ref": "NUM.32.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.11#p3-ac79e29c",
+     "text": "being now got safe over Jordan, and a great way from the place of battle; and, probably, supposing Gideon’s men, to be so tired with their hard service, and the great slaughter which they had made, that they would have neither strength nor will to pursue them so far.",
+     "anchor": "The host was secure"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.13",
+   "range": "JDG.8.13",
+   "kind": "passage",
+   "hash": "f89da0ef",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.13#p1-f89da0ef",
+     "text": "By which it may be gathered that he came upon them in the night, which was most convenient for him, who had so small a number with him; and most likely both to surprise and terrify them by the remembrance of the last night’s sad work, and the expectation of another like it."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.14",
+   "range": "JDG.8.14",
+   "kind": "passage",
+   "hash": "33feb5d3",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.14#p1-33feb5d3",
+     "text": "He told him their names and qualities."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.16",
+   "range": "JDG.8.16",
+   "kind": "passage",
+   "hash": "f4098a0d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.16#p1-f4098a0d",
+     "text": "By that severe punishment (of which Jud 8:7) he made the men, i.e. the elders of Succoth, to know their sin and folly, though it was too late for their good, but not for the instruction and warning of others.",
+     "refs": [
+      {
+       "text": "Jud 8:7",
+       "ref": "JUD.8.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.18",
+   "range": "JDG.8.18",
+   "kind": "passage",
+   "hash": "0aab5dfe",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.18#p1-a84726d8",
+     "text": "i.e. for outward shape and quality?",
+     "anchor": "What manner of men"
+    },
+    {
+     "id": "poole/JDG.8.18#p2-9fac0157",
+     "text": "whither he understood they fled for shelter, upon the approach of the Midianites; and where he learnt that some were slain, which he suspected might be they.",
+     "anchor": "At Tabor"
+    },
+    {
+     "id": "poole/JDG.8.18#p3-e4e3ff94",
+     "text": "not for their garb, or outward splendour, for the family was but mean; but for the majesty of their looks; by which commendation they thought to ingratiate themselves with their conqueror.",
+     "anchor": "Each one resembled the children of a king"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.19",
+   "range": "JDG.8.19",
+   "kind": "passage",
+   "hash": "3d46c69d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.19#p1-3d46c69d",
+     "text": "For being not Canaanites he was not obliged to kill them; but they having killed his brethren, and that in cool blood, he was by law the avenger of their blood."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.20",
+   "range": "JDG.8.20",
+   "kind": "passage",
+   "hash": "c83892a1",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.20#p1-c83892a1",
+     "text": "partly, that he might animate him to the use of arms for his God and country against their enemies, and to the exercise of justice; partly, that the death of those mischievous persons might be more shameful and painful; and partly, that he might have some share in the honour of the victory.",
+     "anchor": "Up and slay them"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.21",
+   "range": "JDG.8.21",
+   "kind": "passage",
+   "hash": "3908ffce",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.21#p1-3908ffce",
+     "text": "thou excellest him, as in age and stature, so in strength; and it is more honourable, as well as easy, to dig by the hands of a valiant man.",
+     "anchor": "As the man is, so is his strength"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.22",
+   "range": "JDG.8.22",
+   "kind": "passage",
+   "hash": "22f43a71",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.22#p1-22f43a71",
+     "text": "not as a judge, for that he was already made by God; but as a king; and let the kingdom be hereditary to thee and to thy family. This miraculous and glorious deliverance by thy hands deserves no less from us.",
+     "anchor": "Rule thou over us"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.23",
+   "range": "JDG.8.23",
+   "kind": "passage",
+   "hash": "8b1a9e56",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.23#p1-5a5bd8e7",
+     "text": "to wit, as a king, which you desire.",
+     "anchor": "I will not rule over you"
+    },
+    {
+     "id": "poole/JDG.8.23#p2-dee2c9b5",
+     "text": "in a special manner, as he hath hitherto done, by judges, whom God did particularly appoint and direct, even by Urim and Thummim, and assist upon all occasions; whereas kings had a greater power, and only a general dependence upon God, as other kings had. Compare 1Sa 8:6,7.",
+     "anchor": "The Lord shall rule over you",
+     "refs": [
+      {
+       "text": "1Sa 8:6",
+       "ref": "1SA.8.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.24",
+   "range": "JDG.8.24",
+   "kind": "passage",
+   "hash": "87a65fa2",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.24#p1-f918a1a5",
+     "text": "They are called Midianites before.",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/JDG.8.24#p2-f81df849",
+     "text": "Here seems to have been a mixture of people, Jud 6:3, which are all called by one general name, Ishmaelites, or Arabians, who used to wear earrings, Gen 35:4; but the greatest, and the ruling part of them, were Midianites.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Jud 6:3",
+       "ref": "JUD.6.3"
+      },
+      {
+       "text": "Gen 35:4",
+       "ref": "GEN.35.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.27",
+   "range": "JDG.8.27",
+   "kind": "passage",
+   "hash": "f448105f",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.27#p1-0b8ec0a6",
+     "text": "Made an ephod thereof; not of all of it, for then it would have been too heavy for use; but of part of it, the rest being probably employed about other things agreeable and appertaining to it; which elsewhere are comprehended under the name of the ephod, as Jud 17:5 18:14,18 Ho 3:4.",
+     "refs": [
+      {
+       "text": "Jud 17:5",
+       "ref": "JUD.17.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.27#p2-fc39d012",
+     "text": "not as a monument of the victory, for such monuments were neither proper nor usual; but for religious use, for which alone the ephod was appointed. The case seems to be this, Gideon having by God’s command erected an altar in his own city, Ophrah, Jud 6:26, for an extraordinary time and occasion, thought it might be continued for ordinary use; and therefore as he intended to procure priests, so he designed to make priestly garments, and especially an ephod, which was the chief and most costly; which besides its use in sacred ministrations, was also the instrument by which the mind of God was inquired and discovered, 1Sa 23:6,9 30:7, which might seem necessary for the judge to have at hand, that he might consult with God upon all occasions.",
+     "anchor": "Put it in his city",
+     "refs": [
+      {
+       "text": "Jud 6:26",
+       "ref": "JUD.6.26"
+      },
+      {
+       "text": "1Sa 23:6",
+       "ref": "1SA.23.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.27#p3-4ede3c91",
+     "text": "committing superstition or idolatry with it; or going thither to inquire the will of God; whereby they were drawn from the true ephod, instituted by God for this end, which was to be worn by the high priest only.",
+     "anchor": "All Israel went thither a whoring after it"
+    },
+    {
+     "id": "poole/JDG.8.27#p4-dfd07b92",
+     "text": "an occasion of sin and ruin to him and his, as the next chapter showeth. Though Gideon was a good man, and did this with an honest mind, and a desire to set up religion in his own city and family; yet here seems to be many sins in it.",
+     "anchor": "A snare"
+    },
+    {
+     "id": "poole/JDG.8.27#p5-f583fe80",
+     "text": "1. Superstition and willworship, worshipping God by a device of his own, which was frequently and expressly forbidden."
+    },
+    {
+     "id": "poole/JDG.8.27#p6-1bf8e793",
+     "text": "2. Presumption, in wearing, or causing other priests to wear, this kind of ephod, which was peculiar to the high priest."
+    },
+    {
+     "id": "poole/JDG.8.27#p7-f2a579e7",
+     "text": "3. Transgression of a plain command, of worshipping God ordinarily but at one place, and one altar, Deu 12:5,11,14, and withdrawing people from that place to his.",
+     "refs": [
+      {
+       "text": "Deu 12:5",
+       "ref": "DEU.12.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.27#p8-ee37657b",
+     "text": "4. Making a fearful schism or division among the people."
+    },
+    {
+     "id": "poole/JDG.8.27#p9-8b557472",
+     "text": "5. Laying a stumbling-block, or an occasion of superstition or idolatry, before that people, whom he knew to be too prone to it."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.28",
+   "range": "JDG.8.28",
+   "kind": "passage",
+   "hash": "2601a90f",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.28#p1-784ab399",
+     "text": "i.e. recovered not their former strength or courage, so as to conquer or oppress others, as they had done.",
+     "anchor": "Lifted up their heads no more"
+    },
+    {
+     "id": "poole/JDG.8.28#p2-ea2b84b1",
+     "text": "i.e. to the fortieth year, from the beginning of the Midianitish oppression: see on Jud 3:11.",
+     "anchor": "Forty years",
+     "refs": [
+      {
+       "text": "Jud 3:11",
+       "ref": "JUD.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.8.28#p3-5af72c1a",
+     "text": "i.e. as long as Gideon lived.",
+     "anchor": "In the days of Gideon"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.29",
+   "range": "JDG.8.29",
+   "kind": "passage",
+   "hash": "b32dc9b0",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.29#p1-b32dc9b0",
+     "text": "Not in his father’s house, as he did before; nor yet in a court, like a king, as the people desired; but in a middle state, as a judge, for the preservation and maintenance of their religion and liberties."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.31",
+   "range": "JDG.8.31",
+   "kind": "passage",
+   "hash": "1ac2a4e0",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.31#p1-05132320",
+     "text": "she dwelt there, and he oft came thither, either to execute judgment, or upon other occasions.",
+     "anchor": "In Shechem"
+    },
+    {
+     "id": "poole/JDG.8.31#p2-81e69eac",
+     "text": "i.e. my father the king; so he called him, probably to gratify his concubine, who desired it either out of pride or design.",
+     "anchor": "Abimelech"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.32",
+   "range": "JDG.8.32",
+   "kind": "passage",
+   "hash": "932cb5fc",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.32#p1-932cb5fc",
+     "text": "his long life being crowned with the continuance of his honour, tranquility, and happiness.",
+     "anchor": "In a good old age"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.8.33",
+   "range": "JDG.8.33",
+   "kind": "passage",
+   "hash": "98152a66",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.8.33#p1-71286a3d",
+     "text": "whereby we see the wicked temper of this people, who did no longer cleave to God than they were in a manner constrained to it by the presence and authority of their judges.",
+     "anchor": "The children of Israel turned again"
+    },
+    {
+     "id": "poole/JDG.8.33#p2-a3431db6",
+     "text": "this was the general name, including all their idols, whereof one here follows.",
+     "anchor": "Baalim"
+    },
+    {
+     "id": "poole/JDG.8.33#p3-4b7f2ed7",
+     "text": "i.e. The lord of the covenant, so called, either from the covenant wherewith the worshippers of this god bound themselves to maintain his worship, or to defend one another therein; or rather, because he was reputed the god and judge of all covenants, and promises, and contracts, to whom it belonged to maintain them, and to punish the violaters of them; and such a god both the Grecians and the Romans had.",
+     "anchor": "Baal-berith"
+    }
+   ]
+  }
+ ]
+}

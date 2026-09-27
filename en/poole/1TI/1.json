@@ -1,0 +1,930 @@
+{
+ "source": "poole",
+ "book": "1TI",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/1TI.1",
+   "range": "1TI.1",
+   "kind": "chapter",
+   "hash": "1ff6d870",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1#p1-eede0ce1",
+     "text": "1Ti 1:1,2 The salutation.",
+     "refs": [
+      {
+       "text": "1Ti 1:1",
+       "ref": "1TI.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1#p2-322b3df3",
+     "text": "1Ti 1:3,4 Timothy is put in mind of the charge before given him by Paul.",
+     "refs": [
+      {
+       "text": "1Ti 1:3",
+       "ref": "1TI.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1#p3-555ccb5f",
+     "text": "1Ti 1:5-7 The end of the commandment is charity, from which some had turned aside to teach the law, which they understood not.",
+     "refs": [
+      {
+       "text": "1Ti 1:5-7",
+       "ref": "1TI.1.5-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1#p4-d10dd34c",
+     "text": "1Ti 1:8-11 The scope of the law was to condemn wickedness, which is the design of the gospel also.",
+     "refs": [
+      {
+       "text": "1Ti 1:8-11",
+       "ref": "1TI.1.8-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1#p5-e5db37a9",
+     "text": "1Ti 1:12-17 Paul blesseth God for calling him to the ministry notwithstanding his great demerit, whereby all penitent sinners that believe are assured of mercy through Christ.",
+     "refs": [
+      {
+       "text": "1Ti 1:12-17",
+       "ref": "1TI.1.12-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1#p6-51c57e7b",
+     "text": "1Ti 1:18-20 He urgeth Timothy to a due discharge of his trust, warning him of some who had deserted the truth, of whom Hymeneus and Alexander had been delivered by him unto Satan.",
+     "refs": [
+      {
+       "text": "1Ti 1:18-20",
+       "ref": "1TI.1.18-20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.1",
+   "range": "1TI.1.1",
+   "kind": "passage",
+   "hash": "341b8db0",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.1#p1-60ce9d74",
+     "text": "one immediately sent by Jesus Christ, by his voice from heaven, Act 9:15, though not by his voice upon earth, as those, Mat 10:1-42.",
+     "anchor": "Paul, an apostle of Jesus Christ",
+     "refs": [
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      },
+      {
+       "text": "Mat 10:1-42",
+       "ref": "MAT.10.1-42"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.1#p2-8706eddc",
+     "text": "By the commandment of God our Saviour, and Lord Jesus Christ:"
+    },
+    {
+     "id": "poole/1TI.1.1#p3-fea8e379",
+     "text": "1Co 1:1, not his permissive, but preceptive will; and this is the same with his being called to be an apostle, Rom 1:1 1Co 1:1. By our Lord Jesus Christ, the Father not being excluded, but the Son only being named, to whom the mediatory kingdom was committed.",
+     "anchor": "through the will of God",
+     "refs": [
+      {
+       "text": "1Co 1:1",
+       "ref": "1CO.1.1"
+      },
+      {
+       "text": "Rom 1:1",
+       "ref": "ROM.1.1"
+      },
+      {
+       "text": "1Co 1:1",
+       "ref": "1CO.1.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.1#p4-e891125c",
+     "text": "there is no more in the Greek, that is, the object of our hope: as when it is said, Gen 31:53, that Jacob sware by the fear of his father Isaac, that is, by the Deity whom his father feared. This glorious eulogy belongs to our Saviour, in whom there is a concurrence of all that is requisite to free us from destructive evils, and to make us everlastingly happy: for he is wisdom, righteousness, sanctification, and redemption. Hence the Gentiles without Christ are said to be without hope, Eph 2:12. And from hence it is evident that Jesus Christ is the eternal God, for if he were only a man, though in excellence above all others, he could not be our hope, for cursed is he that trusteth in man, Jer 17:5.",
+     "anchor": "Which is our hope: our hope",
+     "refs": [
+      {
+       "text": "Gen 31:53",
+       "ref": "GEN.31.53"
+      },
+      {
+       "text": "Eph 2:12",
+       "ref": "EPH.2.12"
+      },
+      {
+       "text": "Jer 17:5",
+       "ref": "JER.17.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.2",
+   "range": "1TI.1.2",
+   "kind": "passage",
+   "hash": "bc8e95de",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.2#p1-18f9bc3a",
+     "text": "He dignifies Timothy with the title of his son in the faith; that is, being converted by him to Christianity, and begat to the Divine life: and by styling Timothy his"
+    },
+    {
+     "id": "poole/1TI.1.2#p2-83c82f40",
+     "text": "he signifies his piety and virtue, that rendered him a worthy son of such a father, whom he imitated and honoured, and with whom he corresponded in a grateful, obedient affection. Having thus designated the person to whom he writes, he expresses his ardent desires of his complete felicity; which is included in",
+     "anchor": "own son"
+    },
+    {
+     "id": "poole/1TI.1.2#p3-d19464d3",
+     "text": "By grace he means the free favour and good will of God, with all the spiritual gifts that proceed from it, either requisite for salvation, or the great work of the evangelical ministry. By mercy, his compassionate tender love, pardoning, relieving, supporting, and assisting us in our Christian course. By peace he signifies, principally, the peace of God, that divine calm of conscience, that tranquillity and rest of soul, which proceeds from the assurance that God is reconciled to us in Christ, and our freedom by the sanctifying Spirit from the tyranny of carnal lusts: this peace can never be to the wicked.",
+     "anchor": "grace, mercy, and peace"
+    },
+    {
+     "id": "poole/1TI.1.2#p4-51847c8e",
+     "text": "And besides this principal peace, we may understand peace with man, that is, a quiet state, exempt from hatred and persecutions, that Timothy might more comfortably and successfully perform the work of his ministry."
+    },
+    {
+     "id": "poole/1TI.1.2#p5-b5e08cb3",
+     "text": "He prays for these blessings from God, who is the original Fountain of all good: and from Jesus Christ as the channel, by which all the gifts of God are conveyed to us; for without his mediation the Deity is as a sealed fountain, no grace would flow to us. He styles God our Father, because he has adopted us in his Son, and in that quality he communicates his grace, mercy, and peace to us: he styles Christ our Lord, who hath supreme power over us, as well by the right of creation as of redemption."
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.3",
+   "range": "1TI.1.3",
+   "kind": "passage",
+   "hash": "19c52135",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.3#p1-93fd736d",
+     "text": "was a great city in Asia the Less, whither Paul came, Act 19:1; where Demetrius raised a tumult against him, which the town clerk appeased, as we read there. From thence he",
+     "anchor": "Ephesus",
+     "refs": [
+      {
+       "text": "Act 19:1",
+       "ref": "ACT.19.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p2-f9363602",
+     "text": "Act 20:1-3. Upon this his motion into Macedonia (as divines judge) he left Timothy at Ephesus. The end of leaving him at Ephesus was, that he might",
+     "anchor": "went into Macedonia",
+     "refs": [
+      {
+       "text": "Act 20:1-3",
+       "ref": "ACT.20.1-3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p3-643a85c3",
+     "text": "preached no other doctrine, that is, none contrary to what he had preached, none contrary to the doctrine of the gospel, Gal 1:8,9. What power was here committed to Timothy is by some questioned; supposing (which is very probable) there were a greater number of disciples than could meet in one assembly, his power was more than pastoral, for he had a power over the teachers. Whether this power was extraordinary, or ordinary, and what God intended ever to continue in the chnrch, is the question.",
+     "anchor": "charge some that they",
+     "refs": [
+      {
+       "text": "Gal 1:8",
+       "ref": "GAL.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p4-32bddc33",
+     "text": "Those who make it to be such, make it to be episcopal; those that make it extraordinary, say it was the work of an evangelist, 2Ti 4:5. That there was such an officer in the primitive church appears from Act 21:8 Eph 4:11. That this was Timothy’s work appears from 2Ti 4:5. Nor is it a new thing, but very common in the settlement of all new governments, to authorize some special commissioners, and to give them an extraordinary power for a time, till the government can be settled and things brought into a fixed order. If we consider the words without prejudice:",
+     "refs": [
+      {
+       "text": "2Ti 4:5",
+       "ref": "2TI.4.5"
+      },
+      {
+       "text": "Act 21:8",
+       "ref": "ACT.21.8"
+      },
+      {
+       "text": "Eph 4:11",
+       "ref": "EPH.4.11"
+      },
+      {
+       "text": "2Ti 4:5",
+       "ref": "2TI.4.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p5-c8259037",
+     "text": "they seem to signify that Timothy was not the established bishop of Ephesus; for to what end should the apostle desire a bishop to reside in his own diocess, which he could not forsake without neglecting his duty, and the offence of God? This were a tacit reflection, as if he were careless of his duty. And the word abide, προσμειναι, does not necessarily import his constant residence there; for it is used to signify continuance for some time only; as it is said of the apostle, that he remained many days at Corinth, Act 18:18, when his stay there was only for some months.",
+     "anchor": "I besought thee to abide still at Ephesus",
+     "refs": [
+      {
+       "text": "Act 18:18",
+       "ref": "ACT.18.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p6-8e90926c",
+     "text": "The intention of the apostle seems to be that Timothy should continue for a while at Ephesus, and not accompany him in his voyage to Macedonia, as he was wont to do upon other occasions. And it is evident by the sacred history, that about six months after Timothy was with the apostle in Greece, that he went with him to Macedonia, and Troas, and Miletus, Act 20:1,4, where the apostle sent for the elders or bishops of Ephesus, to leave his last solemn charge with them. In short, if Timothy had been appointed the bishop of Ephesus, the apostle would probably have given this title of honour to him in the inscription of his Epistle.",
+     "refs": [
+      {
+       "text": "Act 20:1",
+       "ref": "ACT.20.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.3#p7-636435c0",
+     "text": "Upon the impartial considering of the whole matter, though the passion of prelacy is so ingenious as to discover so many mysteries and mitres in a few plain words, (viz. that Timothy was bishop of that city, metropolitan of the province, and primate of all Asia), yet it is most likely that Timothy was left only for some time with a kind of apostolical power in the church of Ephesus; of which power this was one branch, authoritatively to command seducers not to teach another doctrine than what was taught by the apostles, who were Divinely illuminated: a Divine rule, and most worthy of perpetual observation by all in the office of the ministry."
+    },
+    {
+     "id": "poole/1TI.1.3#p8-fe04dfa4",
+     "text": "And this showeth the mighty proneness of men, as to deviate in their conversations, from the right ways, so in their judgments from the truths of God, otherwise Paul had no need to have left Timothy for that end in this church so newly planted."
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.4",
+   "range": "1TI.1.4",
+   "kind": "passage",
+   "hash": "2dd0d9de",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.4#p1-77a8144f",
+     "text": "by fables he probably meaneth the Jewish fables, and commandments of men, mentioned Tit 1:14; or more generally, all vain and idol speculations.",
+     "anchor": "Neither give heed to fables",
+     "refs": [
+      {
+       "text": "Tit 1:14",
+       "ref": "TIT.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.4#p2-3cabf17a",
+     "text": "whatsoever tendeth not to build men up in godliness, which is the end of preaching. The Jews had many unwritten fables, about what God did before he made the world, &c., and many unwritten endless genealogies, which were as so many labyrinths, intricate, without an issue out of them: and it is probable that some of them (converted to the Christian faith) still busied their heads about them, according to their education and the practice of the Jewish doctors, and made the subject of their sermons and discourses to the assemblies of Christians; which is the thing the apostle here declareth a corruption of the ordinances of preaching, and inveigheth against, 1Ti 6:4 2Ti 2:23 Tit 1:14 3:9; and willeth preachers to avoid, and people to give no heed to them, as nothing tending to the building Christians up in holiness, which he here calleth οικοδομιαν θεου, the building up of God, either so objectively, or efficiently, or by his command, because it is in God, viz. in the knowledge of God, and an increase in the love of God, and other spiritual habits; or from God, being wrought by him, and serving for his honour and glory, or according to his will.",
+     "anchor": "And endless genealogies, which minister questions, rather than godly edifying",
+     "refs": [
+      {
+       "text": "1Ti 6:4",
+       "ref": "1TI.6.4"
+      },
+      {
+       "text": "2Ti 2:23",
+       "ref": "2TI.2.23"
+      },
+      {
+       "text": "Tit 1:14",
+       "ref": "TIT.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.4#p3-d5aa31ac",
+     "text": "he tells us this edifying can be no otherwise than in faith, preaching the doctrine of the gospel, and embracing that which is the doctrine of faith, a doctrine of Divine revelation, to which men must give their assent, because of the authority of God revealing it. So as no discourses which are not founded in a Divine revelation, and to be proved from thence, can possibly tend to any bnilding of God, which cannot stand in the wisdom of men, but must stand in the power of God. From this text we may observe the vanity and proneness of some persons, even from the infancy of the church, to make up what they call sermons of discourses about fables, idle questions, and speculations, and genealogies of which there is no end; the teachers being able to bring the minds of hearers to no rest about them, nor they tending to any good and saving use, but merely to show men’s wit and parts; and we may also learn, that this is no religious preaching or hearing, it being impossible men should be under any religious obligations to hear any but prophets, that is, such as reveal the Divine will. For other discourses, men in their seasons may hear them, or let them alone, and credit or not credit them as they see reason.",
+     "anchor": "Which is in faith"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.5",
+   "range": "1TI.1.5",
+   "kind": "passage",
+   "hash": "408c51c0",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.5#p1-fc2f5735",
+     "text": "Ver. 5,6 Now the end of the commandment is charity: the word translated commandment here is παραγγελια, which rather signifies a particular charge given by superiors as to some thing, than a general law, Act 5:28 16:24; and so in this chapter, 1Ti 1:18; which inclineth me to think, that though the proposition be true of the whole law of God, (for love is the fulfilling of the law), and more eminently of the Divine doctrine in the gospel, for the end and perfection it aims at and produces is a pure, ardent love of God, and of men for his sake, and of the gospel, yet it is rather here to be restrained to the commandment relating to preaching, or discoursing the revealed will of God relating to men’s salvation, the end of which is doubtless charity, which ought to be finis operantis, the end of the workman, what he ought to intend and aim at; and is finis operis, the effect of the work, viz. the begetting in the souls of people love to God and their neighbour, neither of which can rationally be obtained by preachers telling people idle stories, and filling their heads with idle questions and speculations.",
+     "refs": [
+      {
+       "text": "Act 5:28",
+       "ref": "ACT.5.28"
+      },
+      {
+       "text": "1Ti 1:18",
+       "ref": "1TI.1.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.5#p2-24a0b6be",
+     "text": "which love to God and men must proceed from a clean, and holy, and sincere heart.",
+     "anchor": "Out of a pure heart"
+    },
+    {
+     "id": "poole/1TI.1.5#p3-0425b0a6",
+     "text": "and a good and holy life, when conscience doth not sourly reflect upon men for presumptuous miscarriages.",
+     "anchor": "And of a good conscience"
+    },
+    {
+     "id": "poole/1TI.1.5#p4-470db0e8",
+     "text": "which must all be rooted in and attended with a faith unfeigned; rooted in it, as faith signifies a steady assent to Divine revelation; attended with it, as it signifies the soul’s repose and rest upon Christ for the fulfilling of the promises annexed to him that believes and liveth up to such propositions.",
+     "anchor": "And of faith unfeigned"
+    },
+    {
+     "id": "poole/1TI.1.5#p5-b1bc68fd",
+     "text": "These are the noble ends of the whole law of God, and particularly of the charge or command God hath given ministers as to preaching, which can by no means be attained by teachers’ discoursing fables and endless genealogies to people, nor by people’s attendance to such discourses, for they can only fill people’s heads with notions and unprofitable questions, which serve to gender strife and contention amongst people, instead of love either to God or men, and so to defile instead of purifying the heart, and have no influence at all upon a holy life, all which can grow out of no root but an unfeigned faith."
+    },
+    {
+     "id": "poole/1TI.1.5#p6-ac3bf40f",
+     "text": "from which things (for the article is plural, ων); from which commandment, and from the end of which commandment, from which pure heart, good conscience, and faith unfeigned.",
+     "anchor": "From which"
+    },
+    {
+     "id": "poole/1TI.1.5#p7-3dd6e990",
+     "text": "αστοχησαντες, the word signifies to wander from a scope or mark. Some men either propounding to themselves ends in their discourses to people different from the command concerning preaching, and the true end of that, or at least wandering from that true end, they have turned aside. To do an action well, two things are necessary:",
+     "anchor": "Some having swerved"
+    },
+    {
+     "id": "poole/1TI.1.5#p8-e5759a03",
+     "text": "1. The propounding to ourselves a right end;"
+    },
+    {
+     "id": "poole/1TI.1.5#p9-c18f1919",
+     "text": "2. A moving to it by due means and in right order: whoso faileth in either of these, can no more do an action well, than he can shoot an arrow well, that either eyeth no mark, or levelleth his arrow quite beside it."
+    },
+    {
+     "id": "poole/1TI.1.5#p10-2a2742f0",
+     "text": "The preachers reflected on by the apostle, either never considered the true end of preaching, or never regarded it in their action; this made them turn aside from theology to mataeology, from preaching to vain jangling; so we translate it, but the word signifieth foolish talking; so we translate the adjective: Tit 1:10, and so the word properly signifieth, any kind of foolish, impertinent discourse, either serving to no good end, or at least not that which the discourse pretendeth to. And indeed all discourses of fables, and unprofitable, idle questions, tending not to edifying, is no better than foolish talking.",
+     "refs": [
+      {
+       "text": "Tit 1:10",
+       "ref": "TIT.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.6",
+   "range": "1TI.1.6",
+   "kind": "passage",
+   "hash": "1056c1e4",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.6#p1-1056c1e4",
+     "text": "1Ti 1:6\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "1Ti 1:6",
+       "ref": "1TI.1.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.7",
+   "range": "1TI.1.7",
+   "kind": "passage",
+   "hash": "c9ae27b0",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.7#p1-74422806",
+     "text": "Νομοδιδασκαλοι. This term lets us know, that the apostle reflecteth upon some who were or had been Jews, who either pressed the observance of the law in order to justification, or spent their time in pressing the traditions of the elders, and constitutions of the scribes, as sepimenta legis, hedges (as they called them) to the Divine law, though not of the letter of it; upon which there arose a great many questions as insignificant as their traditions themselves, which these vain preachers spent their time in speaking to.",
+     "anchor": "Desiring to be teachers of the law"
+    },
+    {
+     "id": "poole/1TI.1.7#p2-127522a5",
+     "text": "neither understanding the Divine law, nor the questions themselves started and spoke unto, yet ambitious to be accounted",
+     "anchor": "Understanding neither what they say, nor whereof they affirm"
+    },
+    {
+     "id": "poole/1TI.1.7#p3-42c40bfa",
+     "text": "This vain desire of reputation, as persons of excellent skill in the land, was the cause of their erroneous, idle sermons: and their ignorance is aggravated and inexcusable, in that they with presumptuous boldness assert the things of which they are ignorant.",
+     "anchor": "teachers of the law"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.8",
+   "range": "1TI.1.8",
+   "kind": "passage",
+   "hash": "20eca29e",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.8#p1-3dd03f29",
+     "text": "not that I speak against the law of God, I know that it is holy, and spiritual, and just, and good, Rom 7:12,14. It is good, though not for justification, yet for conviction, to convince men of sin, and as a schoolmaster to lead men unto Christ, and to direct us in our walking with God; the equity and sanctity of its precepts are evident to the sincere and purified mind.",
+     "anchor": "But we know that the law is good",
+     "refs": [
+      {
+       "text": "Rom 7:12",
+       "ref": "ROM.7.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.8#p2-832af98e",
+     "text": "and as the law has an intrinsic goodness in its nature, so it is good to men when it is used for the end to which God gave it.",
+     "anchor": "If a man use it lawfully"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.9",
+   "range": "1TI.1.9",
+   "kind": "passage",
+   "hash": "fa4a25a3",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.9#p1-edd1f7b8",
+     "text": "By the law is to be understood the moral law, (though possibly not excluding the law of Moses, consisting in many ordinances), as it is armed with stings and terrors, to restrain rebellious sinners; by the"
+    },
+    {
+     "id": "poole/1TI.1.9#p2-9b7b1092",
+     "text": "one in whom a principle of Divine grace is planted, and, from the knowledge and love of God, chooses the things that are pleasing to him, and is ardent and active to do his will. Now it is true, the holiness commanded in the law, that, consists in the love of God and our neighhour, obliges every reasonable creature indispensably and eternally; but as the law was delivered in so terrible a manner, as it has annexed so many severe threatenings to the transgressors of it, it is evident that it is directed to the wicked, who will only be compelled by fear from an outrageous breaking of it. And this may be emphatically signified in the word here used, κειται, for it signifies to be laid, as well as to be made. The law non objicitur is not lald against a righteous man. Thus we translate it, Mat 3:10: The axe is laid unto the root of the trees: there is some difference in the construction; here it is immediately joined with the dative case, there with an accusative case, with the preposition προς between the verb and the case; but that must be the sense.",
+     "anchor": "righteous man",
+     "refs": [
+      {
+       "text": "Mat 3:10",
+       "ref": "MAT.3.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.9#p3-c2f8e3e0",
+     "text": "It is very probable, that these false teachers had been terrifying the Christians with the law, in opposition to whom the apostle saith, the law was not made for a righteous man, as to its condemning office; it was never intended against a righteous man, but against men that committed and lived in gross sin and wickedness. These sinners are first mentioned in general terms, then the apostle proceedeth to a more particular enumeration of them; whether in them (as some think) the apostle hath respect to the several precepts of the decalogue, I cannot determine. By the lawless he meaneth persons living without any respect to the laws of God or men. By the"
+    },
+    {
+     "id": "poole/1TI.1.9#p4-ae45e842",
+     "text": "he meaneth such as will live in subjection to no government. The word by us translated",
+     "anchor": "disobedient"
+    },
+    {
+     "id": "poole/1TI.1.9#p5-6f80c365",
+     "text": "signifieth such as live without any religion, having no regard to the worship of God, ασεβεσι. The word translated sinners signifies infamous, scandalous sinners.",
+     "anchor": "ungodly"
+    },
+    {
+     "id": "poole/1TI.1.9#p6-2a7047fe",
+     "text": "are also general terms, signifying persons that have no piety, but lewdly talk of things sacred, and live as lewdly.",
+     "anchor": "Unholy and profane"
+    },
+    {
+     "id": "poole/1TI.1.9#p7-47eba32c",
+     "text": "the words signify such as strike or beat their parents, though they do not give them mortal wounds, and well expresseth violaters of the fifth commandment.",
+     "anchor": "Murderers of fathers and murderers of mothers"
+    },
+    {
+     "id": "poole/1TI.1.9#p8-989199b8",
+     "text": "ανδροφονους, signifies such as kill men, whether maliciously or passionately, violaters of the sixth commandment.",
+     "anchor": "Manslayers"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.10",
+   "range": "1TI.1.10",
+   "kind": "passage",
+   "hash": "7b17858f",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.10#p1-4447d317",
+     "text": "The two next terms express violaters of the seventh commandment, whether by fornication, adultery, incest, sodomy, or any beastly lusts."
+    },
+    {
+     "id": "poole/1TI.1.10#p2-a392e376",
+     "text": "the word signifieth such as carry men into captivity, or make slaves of them in the first place; it signifies also any stealing of men. It is probable the first of these is the man-stealing principally intended, being the most common sin by pirates at sea, and soldiers at land; yet not excluding any other stealing of men from their relations, which he instanceth in, as one of the highest violations of the eighth commandment. By",
+     "anchor": "Men-stealers"
+    },
+    {
+     "id": "poole/1TI.1.10#p3-2f387989",
+     "text": "he meaneth such as knowingly speak what is false, especially to the prejudice of others. By",
+     "anchor": "liars"
+    },
+    {
+     "id": "poole/1TI.1.10#p4-7e209bc3",
+     "text": "he means such as swear falsely. And cause it would be too long to reckon up all kinds of sinners, he comprehends them all in a general phrase, and if there",
+     "anchor": "perjured persons"
+    },
+    {
+     "id": "poole/1TI.1.10#p5-aabdae9f",
+     "text": "that is, the holy and pure truth of God, that is not corrupted, but judges aright of good and evil: for these he saith the law is made, that is, to deter from such crimes, or to condenm for them; but not to terrify such who either never were guilty of such flagitious crimes, or if they have been guilty, yet are now washed, and sanctified, and justified in the name of the Lord Jesus, and by the Spirit of God, as the apostle speaks, 1Co 6:11. The law (as the apostle here saith) was never made to terrify, or to condemn and affright, these, for, Rom 8:1: There is no condemnation to those that are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+     "anchor": "be any other thing that is contrary to sound doctrine",
+     "refs": [
+      {
+       "text": "1Co 6:11",
+       "ref": "1CO.6.11"
+      },
+      {
+       "text": "Rom 8:1",
+       "ref": "ROM.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.11",
+   "range": "1TI.1.11",
+   "kind": "passage",
+   "hash": "b2ea5e33",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.11#p1-8b91e892",
+     "text": "Here the apostle specifies the sound doctrine of which he spake; that it is contained in the gospel, the perfect rule of righteousness, which he styles"
+    },
+    {
+     "id": "poole/1TI.1.11#p2-1a66ffec",
+     "text": "it being a doctrine revealed from heaven, wherein the concurrence and command of the Divine attributes, wisdom, power, mercy, and justice, do most clearly shine to the glory of God, 2Co 4:6 Eph 1:6,12: and he gives the title of",
+     "anchor": "the glorious gospel of the blessed God",
+     "refs": [
+      {
+       "text": "2Co 4:6",
+       "ref": "2CO.4.6"
+      },
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.11#p3-9ddb8865",
+     "text": "to God, thereby to signify his transcendent goodness, in that, being infinitely happy in the possession of his own excellencies, without any possible advantage and profit from any creature, yet he was pleased to give his Son to be our ransom, and with him grace and glory to us. The apostle adds,",
+     "anchor": "blessed"
+    },
+    {
+     "id": "poole/1TI.1.11#p4-054cbf8a",
+     "text": "to distinguish it from the false doctrine which seducers published under the name of the gospel.",
+     "anchor": "which was committed to my trust"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.12",
+   "range": "1TI.1.12",
+   "kind": "passage",
+   "hash": "a0674fca",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.12#p1-346d0d86",
+     "text": "Here St. Paul expresses his most humble and solemn thanks to Christ for his rich favour in calling him to the high office of all apostle, for by"
+    },
+    {
+     "id": "poole/1TI.1.12#p2-bd871686",
+     "text": "that is to be understood; and it is so called by way of excellence, it being the most glorious and Divine ministry that ever was established in the church: and he ascribes to our Saviour the praise of all that he performed in the faithful discharge of it. He saith:",
+     "anchor": "the ministry"
+    },
+    {
+     "id": "poole/1TI.1.12#p3-1d99f661",
+     "text": "that is, endowed him with fidelity, zeal, courage, and all otber qualifications requisite for that honourable and difficult ministry, 2Co 3:5,6. The end of that sacred ministry was, to enlighten and reform the world from superstition, and that vicious and vain conversation that was so pleasing to carnal men, to abolish those corrupt customs that had taken such deep root, and to plant the truth that comes from above, and to publish a holy law so opposite to corrupt nature. This work was opposed by the craft and cruelty, the artifice and violence, of the powers of darkness, in conjunction with the perverted world; and the glory of the apostle’s resisting such enemies is entirely due to Christ. He adds, as a motive of his thankfulness, that Jesus Christ",
+     "anchor": "Christ enabled me",
+     "refs": [
+      {
+       "text": "2Co 3:5",
+       "ref": "2CO.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.12#p4-3fb88fb4",
+     "text": "him faithful, which is an evident proof that he intends that he made him faithful. His faithfulness was not the cause or motive, but the fruit and effect, of the grace of God in calling him to the ministry. This he expressly declares, 1Co 7:25, hath obtained mercy to be faithful. If our Saviour had only discovered his fidelity, without bestowing that grace upon him, there had not been a reason of such affectionate thanksgiving; for that always supposes some favour and benefit received.",
+     "anchor": "counted",
+     "refs": [
+      {
+       "text": "1Co 7:25",
+       "ref": "1CO.7.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.13",
+   "range": "1TI.1.13",
+   "kind": "passage",
+   "hash": "d45a9d08",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.13#p1-effd8431",
+     "text": "The kindness of God in putting me into so noble a service was the greater and more thankworthy, because"
+    },
+    {
+     "id": "poole/1TI.1.13#p2-c498f362",
+     "text": "that time I was a blasphemer, one who spake of Christ reproachfully, for that blasphemy signifieth. Paul was a zealous man in the Jewish religion, his blasphemy therefore only respected the Second Person in the Trinity, which the Jews owned not. Paul compelled others to blaspheme, Act 26:11.",
+     "anchor": "before",
+     "refs": [
+      {
+       "text": "Act 26:11",
+       "ref": "ACT.26.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.13#p3-4ef93df3",
+     "text": "of his persecution, see Act 8:3: he entered houses, haled men and women to prison; he breathed threatentings and slaughter against the disciples of the Lord, Act 9:1; he persecuted Christianity even to death, Act 22:4,5. Thus he was injurious, for in other things he was, as to the law, blameless, Php 3:6, bred up a Pharisee according to the strictest sect of the Jewish religion, Act 26:5; but he verily thought with himself that he ought to do many things contrary to the name of Jesus of Nazareth, Act 26:9; so as he went according to his conscience, (such a one as he had), and, Act 26:10, he had also authority from the chief priests. But neither the dictates of his own erroneous conscience, nor yet the command of his superiors, could (according to Paul’s divinity) excuse him from being a",
+     "anchor": "And a persecutor",
+     "refs": [
+      {
+       "text": "Act 8:3",
+       "ref": "ACT.8.3"
+      },
+      {
+       "text": "Act 9:1",
+       "ref": "ACT.9.1"
+      },
+      {
+       "text": "Act 22:4",
+       "ref": "ACT.22.4"
+      },
+      {
+       "text": "Php 3:6",
+       "ref": "PHP.3.6"
+      },
+      {
+       "text": "Act 26:5",
+       "ref": "ACT.26.5"
+      },
+      {
+       "text": "Act 26:9",
+       "ref": "ACT.26.9"
+      },
+      {
+       "text": "Act 26:10",
+       "ref": "ACT.26.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.13#p4-79b58f1f",
+     "text": "and injurious, and standing in need of the free pardoning mercy of God, which he saith he obtained of God’s free grace, because",
+     "anchor": "persecutor"
+    },
+    {
+     "id": "poole/1TI.1.13#p5-fef83aa7",
+     "text": "We cannot reasonably think that ignorance of the Divine law (once published) should excuse any transgressor of it, we see men will not allow it as to their laws, after promulgation; so that although Paul persecuted Christians ignorantly, yet he stood in need of mercy. Ignorance excuseth not a toto, but a tanto, not in whole, but in part, and makes the sinner’s sin not to be so exceeding sinful, especially where it is not vincible.",
+     "anchor": "he did it ignorantly"
+    },
+    {
+     "id": "poole/1TI.1.13#p6-cb222bfb",
+     "text": "Paul’s ignorance here mentioned was vincible; he lived in Judea, where the gospel had been preached some years before he persecuted the professors; he might have heard the sermons preached, and seen the miracles wrought, by Christ and the apostles; but he was bred a Pharisee, and under the prejudices of that sect which were implacable enemies to Christ, this kept him in ignorance. Christ allows something for the prejudices of men’s education. He did what he did also while he was in a state of"
+    },
+    {
+     "id": "poole/1TI.1.13#p7-55c9ba9c",
+     "text": "He believed one true and living God, (all the Jews did so), and worshipped him according to the Jewish manner, yet styles himself an unbeliever. Every man is an unbeliever (in a gospel sense) that receiveth not Jesus Christ as the Son of God and his Saviour, though he believes there is one God, &c. Paul addeth this circumstance of his ignorant blaspheming and persecuting the truth, partly to justify the Divine mercy that pardoned and preserved him; for the gospel peremptorily excludes from pardon all that sin against the Holy Ghost, such who, being enlightened by the knowledge of the saving truth, yet for carnal reasons deliberately and maliciously oppose it; now the showing mercy to Paul was no contradiction to this most wise law of God: and partly he mentions his ignorance to prevent the abuse of the Divine mercy by men; as if from his example they might securely imitate his persecuting the saints, or live in a course of sin, though convinced of their wickedness, and hope for mercy at the last.",
+     "anchor": "unbelief"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.14",
+   "range": "1TI.1.14",
+   "kind": "passage",
+   "hash": "92f36fbc",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.14#p1-93ee7223",
+     "text": "the free love of God towards me, in justifying such a guilty creature, and sanctifying such an unholy creature, and afterwards calling me to the office of an apostle, fitting me for it, and trusting me with that great work and employment, abounded beyond all measure and possibility of expression.",
+     "anchor": "And the grace of our Lord was exceeding abundant"
+    },
+    {
+     "id": "poole/1TI.1.14#p2-952580e6",
+     "text": "Christ working faith in me, enabling me to receive him as the Son of God, and my Lord and Saviour; and to love him, whom I formerly thought I ought to do much against, and his disciples, whom I formerly haled to death, of whom I made havoc, persecuting them to death. He mentions",
+     "anchor": "With faith and love which is in Christ Jesus"
+    },
+    {
+     "id": "poole/1TI.1.14#p3-d409c1e2",
+     "text": "the two principal graces, in opposition to the reigning sins in his unconverted state: faith in the doctrine of the gospel, in opposition to his former ignorance and infidelity; and love to Christ and believers, in opposition to his former rage and cruelty against them. And these graces were from Christ, the fruits of his merit, and Holy Spirit.",
+     "anchor": "faith and love"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.15",
+   "range": "1TI.1.15",
+   "kind": "passage",
+   "hash": "e64919d3",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.15#p1-0a0de2b3",
+     "text": "the following saying, which is the great proposition of the gospel, is a saying that is in itself true, and wherein God hath declared his truth.",
+     "anchor": "This is a faithful saying"
+    },
+    {
+     "id": "poole/1TI.1.15#p2-32c7efe0",
+     "text": "and worthy to be with all thankfulness received, believed, and accepted.",
+     "anchor": "And worthy of all acceptation"
+    },
+    {
+     "id": "poole/1TI.1.15#p3-97472bf3",
+     "text": "that Jesus Christ, being sent of the Father, in the fulness of time, was incarnate, lived, and died in the world; not only to set sinners an example of a better life, nor only to make God placable towards men, that if they would they might be saved; but to purchase a certain salvation for sinners, satisfying Divine justice, and meriting all grace necessary to bring them to salvation, to carry the lost sheep home upon his shoulders; yea, though they had been great wanderers, αμαρτωλους.",
+     "anchor": "That Christ Jesus came into the world to save sinners"
+    },
+    {
+     "id": "poole/1TI.1.15#p4-65209a0d",
+     "text": "and I was as great a one as any other, yea, the chief. Paul, though converted, had his former sin of persecution before his eyes. Persecutors are some of the chief sinners. Some will have the relative of whom to refer to the saving mentioned: of which sinners brought to salvation I am the great president, having been so great a sinner as I have been and yet received to mercy.",
+     "anchor": "Of whom I am chief"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.16",
+   "range": "1TI.1.16",
+   "kind": "passage",
+   "hash": "4910a6a2",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.16#p1-33d4b450",
+     "text": "’ Alla, the word we translate howbeit, is as well to be translated but, and ordinarily is so."
+    },
+    {
+     "id": "poole/1TI.1.16#p2-1fd2dcb9",
+     "text": "that is, for this end, God showed me mercy.",
+     "anchor": "For this cause"
+    },
+    {
+     "id": "poole/1TI.1.16#p3-2c3e8166",
+     "text": "that in me, the first, (so it is in the Greek, for it is an adjective), that is, as he said before, the chiefest or greatest sinner:",
+     "anchor": "That in me first"
+    },
+    {
+     "id": "poole/1TI.1.16#p4-e7776c7e",
+     "text": "bearing with me while I was in my rage against his gospel and saints, and then changing my heart to embrace him and to love him. Or, that in me first, may respect the design of our Saviour in sending Paul to convert the Gentiles: for such a conspicuous example of his clemency and grace towards so great a sinner, whom he not only pardoned but preferred to the dignity of an apostle, would be a strong persuasive to them to receive the gospel with faith and obedience. For it follows,",
+     "anchor": "Christ might show forth all long-suffering"
+    },
+    {
+     "id": "poole/1TI.1.16#p5-9325cb6a",
+     "text": "of God’s patience and free grace to other sinners, from whence they might learn, that if they also shall receive and believe in him, their past sins need not be to them any reason to despair in his mercy.",
+     "anchor": "for a pattern"
+    },
+    {
+     "id": "poole/1TI.1.16#p6-9e7c1747",
+     "text": "there being a certain connection between true believing in Christ and eternal life.",
+     "anchor": "To life everlasting"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.17",
+   "range": "1TI.1.17",
+   "kind": "passage",
+   "hash": "85383f00",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.17#p1-4310c21d",
+     "text": "The apostle falleth out of this discourse with a doxology, or sentence giving glory to God, whom he calls"
+    },
+    {
+     "id": "poole/1TI.1.17#p2-2148ec22",
+     "text": "that is, the Moderator and Governor of all things.",
+     "anchor": "the King"
+    },
+    {
+     "id": "poole/1TI.1.17#p3-59cbb0b6",
+     "text": "without beginning of days or end of life.",
+     "anchor": "Eternal"
+    },
+    {
+     "id": "poole/1TI.1.17#p4-ab522187",
+     "text": "not subject, as creatures, to any passion, or determination of being.",
+     "anchor": "Immortal"
+    },
+    {
+     "id": "poole/1TI.1.17#p5-25df9e46",
+     "text": "not obvious to our senses, whom no mortal eye ever saw.",
+     "anchor": "Invisible"
+    },
+    {
+     "id": "poole/1TI.1.17#p6-0b947e7b",
+     "text": "primitively and originally, and eminently, from whom all wisdom is derived.",
+     "anchor": "Only wise"
+    },
+    {
+     "id": "poole/1TI.1.17#p7-2343b3d7",
+     "text": "be given all praises, homage, and acknowledgments, by which he can be made glorious for ever.",
+     "anchor": "Be honour and glory for ever and ever"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.18",
+   "range": "1TI.1.18",
+   "kind": "passage",
+   "hash": "2c3e83e3",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.18#p1-157d9851",
+     "text": "the term son, here applied to Timothy, whom he elsewhere calls his brother, is not a term of natural relation, but of spiritual relation, and of affectionate friendship and endearment. By the charge mentioned he probably means that before mentioned, 1Ti 1:3,4, to charge the false teachers to teach no other doctrine, nor give heed to fables, & c.",
+     "anchor": "This charge I commit unto thee, son Timothy",
+     "refs": [
+      {
+       "text": "1Ti 1:3",
+       "ref": "1TI.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.18#p2-92016560",
+     "text": "these prophecies were either the judgments of good men before concerning him, or (which possibly is more probable) some Divine revelations Paul, or some believers, had received concerning this young man.",
+     "anchor": "According to the prophecies which went before on thee"
+    },
+    {
+     "id": "poole/1TI.1.18#p3-9fbd4b23",
+     "text": "that thou, having heard of them, or remembering them, (though thou meetest with opposition as a minister and as a Christian, yet) mightest not be discouraged, but preach and hold the faith, against all opposers. So the apostle expoundeth himself.",
+     "anchor": "That thou by them mightest war a good warfare"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.19",
+   "range": "1TI.1.19",
+   "kind": "passage",
+   "hash": "c4921050",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.19#p1-d417b15d",
+     "text": "By faith here is meant, the doctrine of faith, and the holding of it signifies a steadiness of the mind’s assent unto it, without wavering or fluctuation, much less deserting or denying it. By"
+    },
+    {
+     "id": "poole/1TI.1.19#p2-ffc83a46",
+     "text": "is here to be understood what the Scripture elsewhere calls a conscience void of of offence toward God, and toward men, Act 24:16, opposed to the evil conscience, mentioned Heb 10:22; so as a good conscience here signifies a pure conscience, which necessarily implieth a holy life; for our actions are presently copied out into our consciences, and make either blots or good copies there.",
+     "anchor": "a good conscience",
+     "refs": [
+      {
+       "text": "Act 24:16",
+       "ref": "ACT.24.16"
+      },
+      {
+       "text": "Heb 10:22",
+       "ref": "HEB.10.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.19#p3-ecb26264",
+     "text": "which some taking no care in, viz. to live holily, so keeping a good conscience;",
+     "anchor": "Which some having put away"
+    },
+    {
+     "id": "poole/1TI.1.19#p4-ae364e36",
+     "text": "have made shipwreck concerning faith, suffered loss as to it, falling from the truths of the gospel. Error seldom goes along with a holy life. The truths of the gospel have such an influence upon men’s conversation, that ordinarily men’s holiness is proportioned to their soundness in the faith, and usually the love of some lust is what betrayeth men into erroneous judgments and opinions.",
+     "anchor": "concerning faith have made shipwreck"
+    }
+   ]
+  },
+  {
+   "id": "poole/1TI.1.20",
+   "range": "1TI.1.20",
+   "kind": "passage",
+   "hash": "dae70dc3",
+   "paragraphs": [
+    {
+     "id": "poole/1TI.1.20#p1-be999b7a",
+     "text": "Of which men who have made shipwreck of a good conscience and concerning faith,"
+    },
+    {
+     "id": "poole/1TI.1.20#p2-5980c8ea",
+     "text": "are two persons. Of Hymenaeus we read, 2Ti 2:17,18; he affirmed the resurrection was past, and overthrew the faith of many. Of Alexander we read, 2Ti 4:14; he was a great enemy to Paul, the same person, as some judge, mentioned Act 19:33, then a friend to Paul, but afterwards one who did him much harm.",
+     "anchor": "Hymenaeus and Alexander",
+     "refs": [
+      {
+       "text": "2Ti 2:17",
+       "ref": "2TI.2.17"
+      },
+      {
+       "text": "2Ti 4:14",
+       "ref": "2TI.4.14"
+      },
+      {
+       "text": "Act 19:33",
+       "ref": "ACT.19.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.20#p3-7e3f2b2c",
+     "text": "we meet with the same phrase, 1Co 5:5: see the notes there. Some think by it is signified a peculiar power granted the apostles, God in those primitive times confirming regular excommunications, by letting Satan loose upon persons excommunicated to torture them; but we find nothing of this in Scripture. I rather think the sense is no more than, whom I excommunicated and cast out of the church, making them of the world again, (as the world is opposed to the church, and kingdom of Christ), which, for the greater terror, the apostle expresseth by this notion of being delivered to Satan, who is called the god of this world, & c.",
+     "anchor": "Whom I have delivered unto Satan",
+     "refs": [
+      {
+       "text": "1Co 5:5",
+       "ref": "1CO.5.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1TI.1.20#p4-fc9e1c3b",
+     "text": "not that I might ruin and undo them, but that I might amend them by this exercise of discipline, teaching them to take heed of spreading damnable and pernicious errors to the reproach of God. Or, perhaps, with their perverse opinions (which is very ordinary) they mingled reproachful speeches concerning God.",
+     "anchor": "That they may learn not to blaspheme"
+    }
+   ]
+  }
+ ]
+}

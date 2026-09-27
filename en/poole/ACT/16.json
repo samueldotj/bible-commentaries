@@ -1,0 +1,1104 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 16,
+ "units": [
+  {
+   "id": "poole/ACT.16",
+   "range": "ACT.16",
+   "kind": "chapter",
+   "hash": "e9dc7bf4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16#p1-b025ebff",
+     "text": "Act 16:1-8 Paul having circumcised Timothy, and taken him for his companion, passeth through divers countries,",
+     "refs": [
+      {
+       "text": "Act 16:1-8",
+       "ref": "ACT.16.1-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p2-1d7c14f0",
+     "text": "Act 16:9-13 and is directed by a vision to go into Macedonia.",
+     "refs": [
+      {
+       "text": "Act 16:9-13",
+       "ref": "ACT.16.9-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p3-ce234f72",
+     "text": "Act 16:14,15 He converteth Lydia,",
+     "refs": [
+      {
+       "text": "Act 16:14",
+       "ref": "ACT.16.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p4-bd79f1a9",
+     "text": "Act 16:16-18 and casteth out a spirit of divination.",
+     "refs": [
+      {
+       "text": "Act 16:16-18",
+       "ref": "ACT.16.16-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p5-7e4023d3",
+     "text": "Act 16:19-24 He and Silas are whipped and imprisoned.",
+     "refs": [
+      {
+       "text": "Act 16:19-24",
+       "ref": "ACT.16.19-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p6-edd98190",
+     "text": "Act 16:25-34 The prison doors are thrown open by an earthquake at midnight: the jailer, prevented by Paul from killing himself, is converted.",
+     "refs": [
+      {
+       "text": "Act 16:25-34",
+       "ref": "ACT.16.25-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16#p7-86adea12",
+     "text": "Act 16:35-40 They are released by the magistrates.",
+     "refs": [
+      {
+       "text": "Act 16:35-40",
+       "ref": "ACT.16.35-40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.1",
+   "range": "ACT.16.1",
+   "kind": "passage",
+   "hash": "b32e06e0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.1#p1-884d33a8",
+     "text": "of these cities see Act 14:6.",
+     "anchor": "Derbe and Lystra",
+     "refs": [
+      {
+       "text": "Act 14:6",
+       "ref": "ACT.14.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.1#p2-4695d96a",
+     "text": "who was known unto Paul from his childhood, 2Ti 1:5, and accompanied him in many journeys, 2Ti 3:10,11, and is called by him, his work-fellow, Rom 16:21.",
+     "anchor": "Timotheus",
+     "refs": [
+      {
+       "text": "2Ti 1:5",
+       "ref": "2TI.1.5"
+      },
+      {
+       "text": "2Ti 3:10",
+       "ref": "2TI.3.10"
+      },
+      {
+       "text": "Rom 16:21",
+       "ref": "ROM.16.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.1#p3-3e9beec1",
+     "text": "A certain woman, called Eunice; being one of them that had believed in Christ in Judea, and had a holy woman to her mother, named Lois."
+    },
+    {
+     "id": "poole/ACT.16.1#p4-8f0aabf7",
+     "text": "although it was not lawful for a Jew to marry a woman of another nation, yet some think that a Jewess might marry to a stranger, as Esther married to Ahasuerus.",
+     "anchor": "His father was a Greek"
+    },
+    {
+     "id": "poole/ACT.16.1#p5-fd59b08f",
+     "text": "of Gentile extraction, and therefore not circumcised; yet he is accounted to have been a proselyte.",
+     "anchor": "A Greek"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.2",
+   "range": "ACT.16.2",
+   "kind": "passage",
+   "hash": "967f60cc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.2#p1-967f60cc",
+     "text": "Though Timothy was well known unto Paul, yet he would not ordain him without the testimony of others concerning him, of his holy life, and knowledge in the Scripture, 2Ti 3:15, which he did excel in.",
+     "refs": [
+      {
+       "text": "2Ti 3:15",
+       "ref": "2TI.3.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.3",
+   "range": "ACT.16.3",
+   "kind": "passage",
+   "hash": "bb051934",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.3#p1-bb051934",
+     "text": "who could not yet be persuaded that the law of circumcision was abrogated. Paul, who became all things to all men, that he might save some, circumcised Timothy that he might not offend the Jewish converts, 1Co 9:22, but would not circumcise Titus, Gal 2:3, lest that he should harden them, and offend the Gentiles. These indifferent things require a single eye, to the edifying of the church, and the salvation of souls. Timothy was uncircumcised, although his mother was a Jewess; for according to their Talmudists, the mother could not cause her child to be circumcised against the mind of the father.",
+     "anchor": "Circumcised him because of the Jews",
+     "refs": [
+      {
+       "text": "1Co 9:22",
+       "ref": "1CO.9.22"
+      },
+      {
+       "text": "Gal 2:3",
+       "ref": "GAL.2.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.4",
+   "range": "ACT.16.4",
+   "kind": "passage",
+   "hash": "c17d5742",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.4#p1-4806812a",
+     "text": "the determination of the council, mentioned Act 15:20,29.",
+     "anchor": "The decrees",
+     "refs": [
+      {
+       "text": "Act 15:20",
+       "ref": "ACT.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.4#p2-b1a2a7dc",
+     "text": "by common consent, and not of one only, whosoever he were.",
+     "anchor": "Ordained of the apostles and elders"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.5",
+   "range": "ACT.16.5",
+   "kind": "passage",
+   "hash": "ef5d2bfe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.5#p1-659c7966",
+     "text": "being rightly persuaded in the nature and use of things indifferent; and, in general, of things necessary to be believed.",
+     "anchor": "Established in the faith"
+    },
+    {
+     "id": "poole/ACT.16.5#p2-b16b363e",
+     "text": "so that this visitation of the churches had a double benefit. First, it strengthened them that were already converted. Secondly, it added more unto their number.",
+     "anchor": "And increased in number daily"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.6",
+   "range": "ACT.16.6",
+   "kind": "passage",
+   "hash": "1bad2687",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.6#p1-e6f79719",
+     "text": "and",
+     "anchor": "Phrygia"
+    },
+    {
+     "id": "poole/ACT.16.6#p2-b62c492e",
+     "text": "were parts of Asia Minor. They",
+     "anchor": "Galatia"
+    },
+    {
+     "id": "poole/ACT.16.6#p3-78e60aa9",
+     "text": "by some revelation, though the manner is not known,",
+     "anchor": "were forbidden of the Holy Ghost"
+    },
+    {
+     "id": "poole/ACT.16.6#p4-3edce1e1",
+     "text": "for that time; though afterwards Paul preached there about two years together, Act 19:10. Thus God (the great Householder) orders the candle to be removed from one room unto another; sends, or takes away, the light of the gospel, to whom, and as often, as he pleaseth. Our calling, as well as our election, is free; and we may say with our Saviour, Mat 11:26, Even so, Father; for so it seemed good in thy sight.",
+     "anchor": "to preach the word in Asia",
+     "refs": [
+      {
+       "text": "Act 19:10",
+       "ref": "ACT.19.10"
+      },
+      {
+       "text": "Mat 11:26",
+       "ref": "MAT.11.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.7",
+   "range": "ACT.16.7",
+   "kind": "passage",
+   "hash": "dd1361e0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.7#p1-b5140b1a",
+     "text": "a little country near Troas.",
+     "anchor": "Mysia"
+    },
+    {
+     "id": "poole/ACT.16.7#p2-cb0c0e67",
+     "text": "another province nigh unto the same place, over against Thracia, bordering upon the Black Sea.",
+     "anchor": "Bithynia"
+    },
+    {
+     "id": "poole/ACT.16.7#p3-f927c569",
+     "text": "the Spirit of Jesus, or of God, as some copies read.",
+     "anchor": "The Spirit"
+    },
+    {
+     "id": "poole/ACT.16.7#p4-6348dff6",
+     "text": "the journeyings of them that preached the gospel, as well as their words, were directed by God; they might not say, Do, or Go, but according to the will of God.",
+     "anchor": "Suffered them not"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.8",
+   "range": "ACT.16.8",
+   "kind": "passage",
+   "hash": "aa7f2033",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.8#p1-aa7f2033",
+     "text": "Either the relics of the famous city of Troy, or the country thereabouts, in which the city of Antigonia was built."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.9",
+   "range": "ACT.16.9",
+   "kind": "passage",
+   "hash": "7c4bd4f7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.9#p1-dbaddadb",
+     "text": "an angel in the appearance and likeness (in habit and demeanour) of one of that country.",
+     "anchor": "A man"
+    },
+    {
+     "id": "poole/ACT.16.9#p2-fba64f0c",
+     "text": "a Grecian province in Europe, extending to the Archipelago.",
+     "anchor": "Macedonia"
+    },
+    {
+     "id": "poole/ACT.16.9#p3-1436f80f",
+     "text": "as to our souls, with the saving light of the gospel: God sends the ministers of the gospel to help such as would otherwise perish: with the gospel, salvation comes.",
+     "anchor": "Help us"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.10",
+   "range": "ACT.16.10",
+   "kind": "passage",
+   "hash": "73809dd7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.10#p1-1f52b893",
+     "text": "as soon as God’s will was manifested, they make no delay, not objecting against the journey.",
+     "anchor": "Immediately"
+    },
+    {
+     "id": "poole/ACT.16.10#p2-59aa75ff",
+     "text": "St. Luke, the penman of this book was one of them that went, (the others were Paul, Silas, and Timotheus), and therefore speaks in the plural number.",
+     "anchor": "We endeavoured to go"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.11",
+   "range": "ACT.16.11",
+   "kind": "passage",
+   "hash": "0118cd13",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.11#p1-c52d6433",
+     "text": "an island so called, because the inhabitants came partly out of Thrace, and partly from Samos. This",
+     "anchor": "Samothracia"
+    },
+    {
+     "id": "poole/ACT.16.11#p2-10eebd31",
+     "text": "was a city in the confines of Thrace and Macedonia.",
+     "anchor": "Neapolis"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.12",
+   "range": "ACT.16.12",
+   "kind": "passage",
+   "hash": "e5eb1150",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.12#p1-3d0760d0",
+     "text": "a city so called from Philip, the father of Alexander the Great, who repaired a ruined town, and caused it to be called by his name. The chief city of that part of Macedonia; or the first city in the passage from Samothracia unto Macedonia.",
+     "anchor": "Philippi"
+    },
+    {
+     "id": "poole/ACT.16.12#p2-e1364fe7",
+     "text": "where many Roman citizens went to inhabit, and whose inhabitants had the freedom of the city of Rome. To the church in this city Paul wrote an Epistle.",
+     "anchor": "A colony"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.13",
+   "range": "ACT.16.13",
+   "kind": "passage",
+   "hash": "0c868dbb",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.13#p1-0c868dbb",
+     "text": "In those places where there were not enough to build a synagogue, or could not obtain leave to do it, the Jews in those countries chose more private places to meet in, which usually were near rivers, or by the seaside, removed from the noise and observance of the multitude; and these places were called προσευχαι, from the prayers which were usually made there; and to one of these Paul and the rest went, taking that occasion to meet with them whom they might preach the word of life unto. The women are here named, as being more numerous in those oratories, or such as most willingly heard and attended unto what was spoken."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.14",
+   "range": "ACT.16.14",
+   "kind": "passage",
+   "hash": "0c399ffc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.14#p1-f84f09cc",
+     "text": "so called from the country of that name, she being born at",
+     "anchor": "Lydia"
+    },
+    {
+     "id": "poole/ACT.16.14#p2-f7983620",
+     "text": "a city therein, and now lived with her family at Philippi.",
+     "anchor": "Thyatira"
+    },
+    {
+     "id": "poole/ACT.16.14#p3-d26cfe65",
+     "text": "being a proselyte, and one of them who had left the heathenish idolatry, and owned the one only and true God; but as yet unacquainted with the gospel of his Son our Saviour.",
+     "anchor": "Worshipped God"
+    },
+    {
+     "id": "poole/ACT.16.14#p4-387c5fa7",
+     "text": "in Scripture sense, signifies both the understanding and the will: thus, With the heart man believeth unto righteousness, Rom 10:10. Her understanding was enlightened, her heart changed; she now loved what she before hated, and hated what before she loved.",
+     "anchor": "Heart",
+     "refs": [
+      {
+       "text": "Rom 10:10",
+       "ref": "ROM.10.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.14#p5-945d652f",
+     "text": "this was the Lord’s work; according unto what our Saviour himself had said, Joh 6:44, No man can come to me, except the Father which hath sent me draw him. And yet we may in a sense open our hearts, by using such means as God hath promised to succeed for that purpose, Rev 3:20; and especially when, in a sense of our inability and necessity, we implore the free grace of God, and engage him to work in us according unto all his good pleasure. Otherwise creating a clean heart within us, as it is called, Psa 51:10, is beyond the power of nature.",
+     "anchor": "The Lord opened",
+     "refs": [
+      {
+       "text": "Joh 6:44",
+       "ref": "JHN.6.44"
+      },
+      {
+       "text": "Rev 3:20",
+       "ref": "REV.3.20"
+      },
+      {
+       "text": "Psa 51:10",
+       "ref": "PSA.51.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.14#p6-94ac19a0",
+     "text": "hearing is an instructive sense, and faith cometh by it, Rom 10:17, but it must then be accompanied with attention.",
+     "anchor": "She attended",
+     "refs": [
+      {
+       "text": "Rom 10:17",
+       "ref": "ROM.10.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.15",
+   "range": "ACT.16.15",
+   "kind": "passage",
+   "hash": "2348036e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.15#p1-78012093",
+     "text": "when Lydia had right to baptism, by reason of her faith in Jesus Christ, all her family, whom she could undertake to bring up in the knowledge of Christ, were admitted to that ordinance also; as all the servants, and such others as were born in his house, or bought with his money, were circumcised with Abraham, Gen 17:12,13. Now the gospel does not contract in any respect, but enlarges, the privileges of believers in all things. And if they might under the law have their children and servants admitted into a covenant with God, (which could not but rejoice religious parents and masters, who value the relation they and theirs have to God, above all earthly things), surely under the gospel none of our families are excluded, unless they wilfully exclude themselves.",
+     "anchor": "And her household",
+     "refs": [
+      {
+       "text": "Gen 17:12",
+       "ref": "GEN.17.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.15#p2-19390091",
+     "text": "as the two disciples that were going to Emmaus constrained our Saviour, Luk 24:29, with all earnest entreaties and loving violence.",
+     "anchor": "She constrained us",
+     "refs": [
+      {
+       "text": "Luk 24:29",
+       "ref": "LUK.24.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.16",
+   "range": "ACT.16.16",
+   "kind": "passage",
+   "hash": "062dda7d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.16#p1-1dbf3d87",
+     "text": "went towards the place where their public prayers were usually made.",
+     "anchor": "Went to prayer"
+    },
+    {
+     "id": "poole/ACT.16.16#p2-6899a313",
+     "text": "or, of Python, the name of Apollo, from the place where he was worshipped, (which was afterwards called Delphi), and from whom all evil spirits, that pretended to divination, were called Pythons; as that the woman made use of to delude Saul by, 1Sa 28:7.",
+     "anchor": "Of divination",
+     "refs": [
+      {
+       "text": "1Sa 28:7",
+       "ref": "1SA.28.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.17",
+   "range": "ACT.16.17",
+   "kind": "passage",
+   "hash": "7b8307cd",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.17#p1-7b8307cd",
+     "text": "The devil might be forced by God to confess this; or, he might do it voluntarily by God’s permission: First, To draw men on to believe him in other things, being he commended the servants of God, and spake the truth in this. Secondly, That, by flattering St. Paul, he might puff him up, and occasion him to sin. But an evil spirit, (or an evil man), when he dissembles as it he were good, is then worst of all."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.18",
+   "range": "ACT.16.18",
+   "kind": "passage",
+   "hash": "ece54b48",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.18#p1-6876c4bb",
+     "text": "St. Paul was grieved, either for the maid’s sake, who suffered so much by her being possessed with this spirit, or, for their sakes who were seduced by him. St. Paul (as our Saviour had done, Mar 1:25) refuseth the testimony of the devil; for he being the father of lies, Joh 8:44, makes every thing he says to be suspected; as it is a usual punishment of liars, that they are not believed when they speak the truth; and the devil never speaks any truth but with an intention to deceive.",
+     "refs": [
+      {
+       "text": "Mar 1:25",
+       "ref": "MRK.1.25"
+      },
+      {
+       "text": "Joh 8:44",
+       "ref": "JHN.8.44"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.18#p2-3d31d8f6",
+     "text": "by the authority and power of Christ.",
+     "anchor": "In the name of Jesus Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.19",
+   "range": "ACT.16.19",
+   "kind": "passage",
+   "hash": "0f5a7a80",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.19#p1-c16939f3",
+     "text": "for she was a servant, or slave; and being very advantageous, might have many that had a share in her.",
+     "anchor": "Her masters"
+    },
+    {
+     "id": "poole/ACT.16.19#p2-b180a987",
+     "text": "the profit could not but be considerable, for they were to come with the rewards of divination in their hands, as they did to Balaam, Num 22:7.",
+     "anchor": "Their gains",
+     "refs": [
+      {
+       "text": "Num 22:7",
+       "ref": "NUM.22.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.19#p3-5e5a82e3",
+     "text": "Mat 16:20\".",
+     "anchor": "Rulers: See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 16:20",
+       "ref": "MAT.16.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.20",
+   "range": "ACT.16.20",
+   "kind": "passage",
+   "hash": "7715409c",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.20#p1-cb651e69",
+     "text": "the same who are called rulers; and the word here shows, that they were under the power of the sword, and ruled by the Romans; though the rulers spoken of in the former verse might be the civil magistrates of the city, and the magistrates here mentioned might be the commanders of the forces therein. They carried them, as they did our Saviour, from one to the other, the more to disgrace them, and to obtain the greater punishment for them. They mention their",
+     "anchor": "Magistrates"
+    },
+    {
+     "id": "poole/ACT.16.20#p2-1390c921",
+     "text": "because it was a most odious name unto all men, by reason of their different opinions in religion, and diversity of manners in conversation from all.",
+     "anchor": "being Jews"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.21",
+   "range": "ACT.16.21",
+   "kind": "passage",
+   "hash": "68f90772",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.21#p1-68f90772",
+     "text": "There was at Philippi, as appears Act 16:12, a colony of the Romans, and they were governed by their laws, by which they might make no innovation in religion without the consent of the senate, and afterwards of their emperors; which here these persecutors allege.",
+     "refs": [
+      {
+       "text": "Act 16:12",
+       "ref": "ACT.16.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.22",
+   "range": "ACT.16.22",
+   "kind": "passage",
+   "hash": "06659619",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.22#p1-2b6b2823",
+     "text": "generality and unanimity alone cannot authorize opinions or practices.",
+     "anchor": "The multitude"
+    },
+    {
+     "id": "poole/ACT.16.22#p2-56b464fb",
+     "text": "Paul’s and Silas’s clothes, to disgrace them the more, or in order unto their being scourged; though some think that the magistrates rent their own clolhes, in detestation of the pretended blasphemy which was laid to Paul’s charge, as the high priest did, Mar 14:63.",
+     "anchor": "Rent off their clothes",
+     "refs": [
+      {
+       "text": "Mar 14:63",
+       "ref": "MRK.14.63"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.23",
+   "range": "ACT.16.23",
+   "kind": "passage",
+   "hash": "830daa00",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.23#p1-67069ceb",
+     "text": "partly by the lictors or executioners, and partly by the furious rabble.",
+     "anchor": "Laid many stripes upon them"
+    },
+    {
+     "id": "poole/ACT.16.23#p2-4899a4dc",
+     "text": "this jailer’s name (of whose conversion we read hereafter) was Stephanas, as may appear if you compare 1Co 1:16 with what follows by St. Luke in this story. Of him also we read, 1Co 16:15,17.",
+     "anchor": "The jailer",
+     "refs": [
+      {
+       "text": "1Co 1:16",
+       "ref": "1CO.1.16"
+      },
+      {
+       "text": "1Co 16:15",
+       "ref": "1CO.16.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.24",
+   "range": "ACT.16.24",
+   "kind": "passage",
+   "hash": "bc439568",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.24#p1-328da0c9",
+     "text": "Thus they dealt with Joseph, Gen 39:20, compared with Psa 105:18, and with Jeremiah, and with John Baptist.",
+     "refs": [
+      {
+       "text": "Gen 39:20",
+       "ref": "GEN.39.20"
+      },
+      {
+       "text": "Psa 105:18",
+       "ref": "PSA.105.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.24#p2-6aed85df",
+     "text": "Sanctorum sors est, et non moleste ferenda."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.25",
+   "range": "ACT.16.25",
+   "kind": "passage",
+   "hash": "d5fb8339",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.25#p1-ab945c83",
+     "text": "No time or place where prayer is not acceptable unto God, and prevalent with him; nay, it sounds the sweeter when on the waters of affliction a good man pours it forth unto God."
+    },
+    {
+     "id": "poole/ACT.16.25#p2-040a72e3",
+     "text": "that they were counted worthy to suffer for Christ: and being all things are overruled for the good, and conduce to the advantage, of them that love God, Rom 8:28, they owe unto God thanks for all things through Jesus Christ, which is also required of them, Eph 5:20.",
+     "anchor": "Sang praises unto God",
+     "refs": [
+      {
+       "text": "Rom 8:28",
+       "ref": "ROM.8.28"
+      },
+      {
+       "text": "Eph 5:20",
+       "ref": "EPH.5.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.26",
+   "range": "ACT.16.26",
+   "kind": "passage",
+   "hash": "edafe23b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.26#p1-3b284d0f",
+     "text": "how soon is prayer answered, when the fulness of time is come! So nigh is God unto all that call upon him, Psa 34:17 145:18.",
+     "anchor": "Suddenly",
+     "refs": [
+      {
+       "text": "Psa 34:17",
+       "ref": "PSA.34.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.26#p2-3d799476",
+     "text": "an earthquake did usually precede some wonderful matter, as Mat 28:2. And although God could have delivered these his servants without an earthquake, yet, to show the more that their deliverance was his work, and it was no artifice or force of their own, he manifested his power after this manner.",
+     "anchor": "There was a great earthquake",
+     "refs": [
+      {
+       "text": "Mat 28:2",
+       "ref": "MAT.28.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.26#p3-bfb487d4",
+     "text": "either by the earthquake, or some secret power of an angel, or by God himself immediately, that the apostles and others might know that the souls of men should be loosed and set free by them, whose bodies for that purpose were now freed by God.",
+     "anchor": "Every one’s bands were loosed"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.27",
+   "range": "ACT.16.27",
+   "kind": "passage",
+   "hash": "19a4f557",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.27#p1-004e383b",
+     "text": "by the earthquake, which being upon an extraordinary occasion, could not fail to do all that God intended by it.",
+     "anchor": "Awaking out of his sleep"
+    },
+    {
+     "id": "poole/ACT.16.27#p2-c5c073ce",
+     "text": "for fear of suffering a more cruel death; for all jailers, who let any prisoner escape, were to suffer the same punishment that the prisoners were thought to have deserved; and self-murder was very ordinary amongst both the Romans and Grecians. But whatsoever their philosophers have said of it, it must needs have been a very great provocation against God, to show so great an aversion from God’s will, disposing of them and their concerns in this world, and challenging or daring of him to do worse by them in the world to come. Men must have sad comforts, and take desperate resolutions, that come to this at once.",
+     "anchor": "Would have killed himself"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.28",
+   "range": "ACT.16.28",
+   "kind": "passage",
+   "hash": "cb1a5b4b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.28#p1-cb1a5b4b",
+     "text": "The other prisoners were smitten with amazement; neither did they mind (or it might have been kept from them) that the doors were opened, and their chains loosed: but as for the apostles, the same God who wrought this deliverance for them, might inform them of the intent of it; that by this means the conversion of the jailer and his family was intended; and that their doctrine might be magnified, which had been so much vilified."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.29",
+   "range": "ACT.16.29",
+   "kind": "passage",
+   "hash": "0add90a9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.29#p1-f56eed1a",
+     "text": "or lights, which prisons are not usually without.",
+     "anchor": "He called for a light"
+    },
+    {
+     "id": "poole/ACT.16.29#p2-2b9f36d6",
+     "text": "what a sudden and great change can God make! he comes trembling to those feet which he had put into the stocks so lately.",
+     "anchor": "Came trembling"
+    },
+    {
+     "id": "poole/ACT.16.29#p3-50491c9c",
+     "text": "by which he would give a civil respect unto them, it being an ordinary rite amongst the Eastern nations (as endless examples in Scripture witness) to pay their respects; and from them it spread itself into Greece: which respect Paul and Silas do not refuse, because it was barely civil, and did show the humility aud brokenness of the jailer’s heart. Yet Peter would not accept of the like from Cornelius, Act 10:25,26, because it was more than a bare civil respect which Cornelius would have given him.",
+     "anchor": "Fell down before Paul and Silas",
+     "refs": [
+      {
+       "text": "Act 10:25",
+       "ref": "ACT.10.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.30",
+   "range": "ACT.16.30",
+   "kind": "passage",
+   "hash": "e02764ff",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.30#p1-09d448b3",
+     "text": "into his own apartment in the prison, or to some more open and free place.",
+     "anchor": "Brought them out"
+    },
+    {
+     "id": "poole/ACT.16.30#p2-ef4f9a16",
+     "text": "a term of respect given by the Romans and Grecians to such whom they honoured, as now the jailer did these seemingly most contemptible men.",
+     "anchor": "Sirs"
+    },
+    {
+     "id": "poole/ACT.16.30#p3-6b767df5",
+     "text": "He might have some knowledge of a future state, which he here inquires after:",
+     "anchor": "What must I do to be saved?"
+    },
+    {
+     "id": "poole/ACT.16.30#p4-d40e9f81",
+     "text": "1. By the very light of nature."
+    },
+    {
+     "id": "poole/ACT.16.30#p5-1dd11dd7",
+     "text": "2. By tradition."
+    },
+    {
+     "id": "poole/ACT.16.30#p6-1a092d48",
+     "text": "3. By the doctrine of the philosophers."
+    },
+    {
+     "id": "poole/ACT.16.30#p7-6bc1b293",
+     "text": "4. By his frequenting with Jews and proselytes."
+    },
+    {
+     "id": "poole/ACT.16.30#p8-cc63ef3f",
+     "text": "Men under fears, and in dangers, as to the things of this world, are brought to look after another world (as every one prays in a storm): but this is only when God is pleased to sanctify such fears and disasters; otherwise all the plagues of Egypt do but harden them the more, Exo 7:3.",
+     "refs": [
+      {
+       "text": "Exo 7:3",
+       "ref": "EXO.7.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.31",
+   "range": "ACT.16.31",
+   "kind": "passage",
+   "hash": "1ad884fa",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.31#p1-2c7267f8",
+     "text": "this is the sum of the gospel. Christ, apprehended by faith, serves for wisdom, righteousness, sanctification, and redemption, as 1Co 1:30. But then this precious faith must be such as works by love, as purifies the heart, Act 15:9, as overcometh the world, 1Jn 5:4, as quenches the fiery darts of the devil, Eph 6:16, and is deservedly called, a most holy faith, Jud 1:20.",
+     "anchor": "Believe on the Lord Jesus Christ",
+     "refs": [
+      {
+       "text": "1Co 1:30",
+       "ref": "1CO.1.30"
+      },
+      {
+       "text": "Act 15:9",
+       "ref": "ACT.15.9"
+      },
+      {
+       "text": "1Jn 5:4",
+       "ref": "1JN.5.4"
+      },
+      {
+       "text": "Eph 6:16",
+       "ref": "EPH.6.16"
+      },
+      {
+       "text": "Jud 1:20",
+       "ref": "JUD.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.16.31#p2-f0c24773",
+     "text": "thou shalt by this means come to obtain that life thou dost so much desire after; and not only thyself, but (God gives more than we ask) thy children and family shall be saved; inasmuch as the covenant, where it is entered into, is not only with them, but with their children.",
+     "anchor": "Thou shalt be saved, and thy house"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.32",
+   "range": "ACT.16.32",
+   "kind": "passage",
+   "hash": "389125fa",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.32#p1-1eef1c4a",
+     "text": "Expounding more at large that which they had briefly propounded in the foregoing verse, as concerning the natures and offices of Christ; especially his suffering for our sins, and rising again for our justification."
+    },
+    {
+     "id": "poole/ACT.16.32#p2-d7658f05",
+     "text": "their fellow prisoners not exempted, unto whom it was a joyful confinement, being by this means made God’s freemen.",
+     "anchor": "To all that were in his house"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.33",
+   "range": "ACT.16.33",
+   "kind": "passage",
+   "hash": "5dc562e7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.33#p1-0fefcf93",
+     "text": "he did not delay to show forth the fruits of his faith, and real conversion.",
+     "anchor": "The same hour of the night"
+    },
+    {
+     "id": "poole/ACT.16.33#p2-54f50112",
+     "text": "which his stripes had made, using such means as might assuage their pain, and heal their wounds.",
+     "anchor": "And washed their stripes"
+    },
+    {
+     "id": "poole/ACT.16.33#p3-58746b48",
+     "text": "Act 16:15\", See Poole on \"Act 16:32\". Of baptism administered without any delay, upon their profession of faith in Christ, we have had examples, Act 8:38,10:47, and in Act 16:15.",
+     "anchor": "He and all his: See Poole on \"",
+     "refs": [
+      {
+       "text": "Act 16:15",
+       "ref": "ACT.16.15"
+      },
+      {
+       "text": "Act 16:32",
+       "ref": "ACT.16.32"
+      },
+      {
+       "text": "Act 8:38",
+       "ref": "ACT.8.38"
+      },
+      {
+       "text": "Act 16:15",
+       "ref": "ACT.16.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.34",
+   "range": "ACT.16.34",
+   "kind": "passage",
+   "hash": "36cfd4cb",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.34#p1-3a88a5c6",
+     "text": "which was close unto, or a separate part of, the prison, into which they did ascend, being before in a low dungeon.",
+     "anchor": "Into his house"
+    },
+    {
+     "id": "poole/ACT.16.34#p2-1d568538",
+     "text": "Paul and Silas had been long fasting, and in any season of the night it was a mercy to them to have a table spread for them.",
+     "anchor": "He set meat before them"
+    },
+    {
+     "id": "poole/ACT.16.34#p3-91ae7b4e",
+     "text": "finding the effects of his faith, peace with God, and joy in the Holy Ghost; which was not a little augmented, in that he had his family admitted into the covenant of God’s grace, they also believing, and being baptized.",
+     "anchor": "Rejoiced"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.35",
+   "range": "ACT.16.35",
+   "kind": "passage",
+   "hash": "fb833d25",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.35#p1-17feade8",
+     "text": "their messengers, or officers, which did carry a mace, or a rod, from whence they had their name.",
+     "anchor": "The serjeants"
+    },
+    {
+     "id": "poole/ACT.16.35#p2-f3d221a8",
+     "text": "probably being terrified with the earthquake, which if it had not been general, they could not yet have heard of. Their consciences might also accuse them for having unjustly punished them for a good deed which they had done, only to gratify the rage of the multitude; as also because they had acted against the custom of the Romans, (though they did not yet know that they had the privilege of Roman citizens), and had beaten strangers without any legal trial, or form of law.",
+     "anchor": "Saying, Let those men go"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.36",
+   "range": "ACT.16.36",
+   "kind": "passage",
+   "hash": "b477df21",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.36#p1-b477df21",
+     "text": "being glad that he might release them. Neither does he bid them go, as desirous to be rid of them; but, not requiring any fees, he lets them go to preach the gospel, and fulfill their ministry, with his prayers and good wishes.",
+     "anchor": "Told this saying to Paul"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.37",
+   "range": "ACT.16.37",
+   "kind": "passage",
+   "hash": "00311982",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.37#p1-111fc3ed",
+     "text": "the officers who were sent to the prison with the message about their liberty.",
+     "anchor": "Paul said unto them"
+    },
+    {
+     "id": "poole/ACT.16.37#p2-62463e2a",
+     "text": "the magistrates, who commanded them to be beaten, are justly charged with the beating of them, as if they had themselves done it.",
+     "anchor": "They have beaten us"
+    },
+    {
+     "id": "poole/ACT.16.37#p3-3f7f3ecf",
+     "text": "it was no small aggravation of their injustice, and these holy men’s sufferings, that they had, for the greater spite unto them, openly scourged them.",
+     "anchor": "Openly"
+    },
+    {
+     "id": "poole/ACT.16.37#p4-7cc682c8",
+     "text": "for they were not tried, or permitted to speak for themselves.",
+     "anchor": "Uncondemned"
+    },
+    {
+     "id": "poole/ACT.16.37#p5-f542f367",
+     "text": "having the privilege of Roman citizens, which was sometimes given to whole communities. Now such by their laws might not be bound, much less beaten, (and least of all uncondemned), without the consent of the Romans.",
+     "anchor": "Being Romans"
+    },
+    {
+     "id": "poole/ACT.16.37#p6-790fe8e3",
+     "text": "this the apostle stands upon, not so much for his own, as for the gospel’s sake, that it might not be noised abroad, that the preachers of it were wicked and vile men, and did deserve such ignominious punishment. Though they were as innocent as doves, it became them also to be as wise as serpents.",
+     "anchor": "Let them come themselves and fetch us out"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.38",
+   "range": "ACT.16.38",
+   "kind": "passage",
+   "hash": "204ed188",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.38#p1-204ed188",
+     "text": "For the Romans (under whom these magistrates were) made it by their laws to be treason thus to abuse any of their citizens. God overruled their fear of man for the deliverance of his servants."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.39",
+   "range": "ACT.16.39",
+   "kind": "passage",
+   "hash": "80850f97",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.39#p1-de17bf6f",
+     "text": "Two things the magistrates had to desire of them:"
+    },
+    {
+     "id": "poole/ACT.16.39#p2-cdec86f7",
+     "text": "1. That they would excuse the wrong done unto them, which they feared lest the Romans might revenge."
+    },
+    {
+     "id": "poole/ACT.16.39#p3-9f5a0bd9",
+     "text": "2. That, to avoid further mischiefs, (as they thought), they would leave the city. But the words here used do signify, also, that they comforted them, as well as besought, or exhorted them: both by word and deed they sought to make amends for the injury they had offered unto them; and desired them to depart for their own safety, lest the people should express their rage and madness against them."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.16.40",
+   "range": "ACT.16.40",
+   "kind": "passage",
+   "hash": "f0c2f363",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.16.40#p1-f0c2f363",
+     "text": "of whom, Act 16:14. They do not shun dangers, so as to neglect their duty. They comforted them, in respect of the tribulation they had endured, and were still to endure; or exhorted them to prepare for suffering, and to submit unto God in it, and to make a holy use of it.",
+     "anchor": "Entered into the house of Lydia",
+     "refs": [
+      {
+       "text": "Act 16:14",
+       "ref": "ACT.16.14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

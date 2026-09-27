@@ -1,0 +1,1202 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "poole/ACT.15",
+   "range": "ACT.15",
+   "kind": "chapter",
+   "hash": "fdee91e7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15#p1-28aa835a",
+     "text": "Act 15:1-4 Great dissensions arise about circumcising the Gentiles: Paul and Barnabas are sent to consult the apostles and elders at Jerusalem.",
+     "refs": [
+      {
+       "text": "Act 15:1-4",
+       "ref": "ACT.15.1-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p2-6363569b",
+     "text": "Act 15:5,6 The matter is debated in a council there,",
+     "refs": [
+      {
+       "text": "Act 15:5",
+       "ref": "ACT.15.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p3-621ced90",
+     "text": "Act 15:7-11 Peter declareth his opinion.",
+     "refs": [
+      {
+       "text": "Act 15:7-11",
+       "ref": "ACT.15.7-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p4-c0b6deea",
+     "text": "Act 15:12 Paul and Barnabas report the miracles they had wrought among the Gentiles.",
+     "refs": [
+      {
+       "text": "Act 15:12",
+       "ref": "ACT.15.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p5-1bd19887",
+     "text": "Act 15:13-21 James pronounceth sentence in favour of the Gentiles, requiring of them abstinence only in a few particulars.",
+     "refs": [
+      {
+       "text": "Act 15:13-21",
+       "ref": "ACT.15.13-21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p6-d96f8f6c",
+     "text": "Act 15:22-35 Letters are sent with the determination by messengers to the churches, which are received with joy.",
+     "refs": [
+      {
+       "text": "Act 15:22-35",
+       "ref": "ACT.15.22-35"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15#p7-d8765945",
+     "text": "Act 15:36-41 Paul and Barnabas propose to visit together the churches they had planted, but disagree, and travel different ways.",
+     "refs": [
+      {
+       "text": "Act 15:36-41",
+       "ref": "ACT.15.36-41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.1",
+   "range": "ACT.15.1",
+   "kind": "passage",
+   "hash": "88488de9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.1#p1-ad3cb893",
+     "text": "these were such as did pretend to believe, but were false brethren; some think Cerinthus to have been of them.",
+     "anchor": "Certain men"
+    },
+    {
+     "id": "poole/ACT.15.1#p2-41b1e045",
+     "text": "the Gentiles who were converted unto the faith of Christ, or Proselytes of the gate (as they were called) who were not circumcised, and now professing the true faith. These the pharisaical professors would have excluded from any hopes of salvation, although circumcision was not commanded but unto the posterity of Abraham, Gen 17:10-13, and Abraham himself was justified before he was circumcised, Rom 4:10.",
+     "anchor": "The brethren",
+     "refs": [
+      {
+       "text": "Gen 17:10-13",
+       "ref": "GEN.17.10-13"
+      },
+      {
+       "text": "Rom 4:10",
+       "ref": "ROM.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.1#p3-7d24523e",
+     "text": "according unto the law of Moses: for God by him did renew and establish that ordinance unto that people, although it was long before his time both commanded and practised, Joh 7:22.",
+     "anchor": "After the manner of Moses",
+     "refs": [
+      {
+       "text": "Joh 7:22",
+       "ref": "JHN.7.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.2",
+   "range": "ACT.15.2",
+   "kind": "passage",
+   "hash": "6470ad5e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.2#p1-ba6c1b1a",
+     "text": "that meek apostle, who was willing to become all things unto all men, yet he enters into a holy war with them that would introduce circumcision into the Christian church; because,",
+     "anchor": "Paul"
+    },
+    {
+     "id": "poole/ACT.15.2#p2-be1dec8f",
+     "text": "1. He would have no works of the law to be an ingredient into our salvation; but the free grace of God in Christ to be all in all."
+    },
+    {
+     "id": "poole/ACT.15.2#p3-717e8b3e",
+     "text": "2. That our freedom from all the ceremonial law, acquired by the death of Christ, might not be diminished."
+    },
+    {
+     "id": "poole/ACT.15.2#p4-b2e273d4",
+     "text": "3. That the spreading of the gospel might not be hindered, but that Christ might be accepted and honoured amongst all. Now if circumcision had been retained, it would have kept possession for all the other ceremonies to have continued, or re-entered, there being the same reason for the one as for the other, and the circumcised person was obliged by his circumcision to observe them all, Gal 5:3,4.",
+     "refs": [
+      {
+       "text": "Gal 5:3",
+       "ref": "GAL.5.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.2#p5-0e9a6115",
+     "text": "the church at Antioch, where this controversy was moved.",
+     "anchor": "They determined"
+    },
+    {
+     "id": "poole/ACT.15.2#p6-b7622470",
+     "text": "James, Peter, and John who are thought to have been then at Jerusalem, the rest being probably gone to preach Christ in other parts.",
+     "anchor": "Unto the apostles"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.3",
+   "range": "ACT.15.3",
+   "kind": "passage",
+   "hash": "c078e4d2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.3#p1-e3c6fc3b",
+     "text": "the brethren or believers of Antioch, out of respect, went part of the way with them; as also thereby showing, that Paul and Barnabas did not go upon their own business or mind only, and that there was no dissension betwixt them and the church there.",
+     "anchor": "Brought on their way by the church"
+    },
+    {
+     "id": "poole/ACT.15.3#p2-8c170cfa",
+     "text": "it is a conversion or turning indeed from error to truth, from impurity to holiness; that is, from darkness to light, and from the power of Satan unto the ever living God, Act 26:18.",
+     "anchor": "The conversion of the Gentiles",
+     "refs": [
+      {
+       "text": "Act 26:18",
+       "ref": "ACT.26.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.3#p3-6631dac9",
+     "text": "nothing more rejoices a good man, than the bringing of souls unto God, and the enlarging of the kingdom of Jesus Christ.",
+     "anchor": "They caused great joy unto all the brethren"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.4",
+   "range": "ACT.15.4",
+   "kind": "passage",
+   "hash": "8b44adf7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.4#p1-acaccb9e",
+     "text": "they were owned with respect and thankfulness, for their great work and labour in the Lord’s vineyard.",
+     "anchor": "They were received of the church"
+    },
+    {
+     "id": "poole/ACT.15.4#p2-0f4d9a7e",
+     "text": "see Act 14:27.",
+     "anchor": "All things that God had done with them",
+     "refs": [
+      {
+       "text": "Act 14:27",
+       "ref": "ACT.14.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.5",
+   "range": "ACT.15.5",
+   "kind": "passage",
+   "hash": "cbe960af",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.5#p1-d7fca422",
+     "text": "If these words be taken for St. Luke’s, the penman of this book, then they declare, that in the church of Jerusalem there were some that did abet the opinion of the necessity of circumcision; but if, (as most probably we may), we take them for the words of St. Paul, they then are part of his narrative to the church there, of what had happened at Antioch."
+    },
+    {
+     "id": "poole/ACT.15.5#p2-01343489",
+     "text": "these Pharisees were a sect amongst the Jews, (so called from [Hebrew] separavit, and may be Englished, separatists), separating from converse with others, by reason of an opinion they had of their own holiness, Luk 18:11.",
+     "anchor": "The sect of the Pharisees",
+     "refs": [
+      {
+       "text": "Luk 18:11",
+       "ref": "LUK.18.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.6",
+   "range": "ACT.15.6",
+   "kind": "passage",
+   "hash": "caf5eee5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.6#p1-3a40161d",
+     "text": "unto whom Paul and Barnabas were sent about the decision of this question, Act 15:2,",
+     "anchor": "The apostles and elders",
+     "refs": [
+      {
+       "text": "Act 15:2",
+       "ref": "ACT.15.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.6#p2-f9306157",
+     "text": "they had been informed of it, and now they met to deliberate about it.",
+     "anchor": "came together for to consider of this matter"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.7",
+   "range": "ACT.15.7",
+   "kind": "passage",
+   "hash": "938c86b8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.7#p1-f6d659df",
+     "text": "they argued on both sides, and considered what might be said for either opinion: some of them that met here seem at first to have been for the retaining of circumcision; for we know but in part, and from the collision of adverse parties such sparks fly out, that many a man hath lighted his candle at them.",
+     "anchor": "Much disputing"
+    },
+    {
+     "id": "poole/ACT.15.7#p2-d6684659",
+     "text": "from the beginning of our having received our commission to preach, as Mat 28:19; or more particularly, from the time of Cornelius’s conversion, Act 10:22 11:12, which is thought to have been about fourteen or fifteen years before, that Peter preached Christ, by the command of God, unto the Gentiles.",
+     "anchor": "A good while ago",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Act 10:22",
+       "ref": "ACT.10.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.8",
+   "range": "ACT.15.8",
+   "kind": "passage",
+   "hash": "d72e37fe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.8#p1-d72e37fe",
+     "text": "God knew the desires of the Gentiles, that they did sincerely desire to please God, and to see this salvation. This great attribute David improved, 1Ch 29:17, and highly recommended his son Solomon to consider of, 1Ch 28:9; which, if believed, would make us also to serve God with a perfect heart and a willing mind. Giving them the Holy Ghost; God himself was a witness for these Gentiles beyond all exception, when he gave them the ordinary and extraordinary gifts of the Holy Ghost; by which he testified, that they belonged to Christ, whose Spirit this was. Thus the testimony of Jesus is the spirit of prophecy, Rev 19:10; and the Spirit, according to our Saviour’s promise, Joh 15:26, doth testify of him.",
+     "anchor": "Which knoweth the hearts",
+     "refs": [
+      {
+       "text": "1Ch 29:17",
+       "ref": "1CH.29.17"
+      },
+      {
+       "text": "1Ch 28:9",
+       "ref": "1CH.28.9"
+      },
+      {
+       "text": "Rev 19:10",
+       "ref": "REV.19.10"
+      },
+      {
+       "text": "Joh 15:26",
+       "ref": "JHN.15.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.9",
+   "range": "ACT.15.9",
+   "kind": "passage",
+   "hash": "ad07e39a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.9#p1-afee65fe",
+     "text": "God had now broken down the middle wall of partition betwixt Jew and Gentile, Eph 2:14, and distributed his graces to these also, which was signified by the rending of the veil from the top to the bottom, Mat 27:51, whereby such as were formerly without, might see and enjoy the benefit of those great things which had been hidden under those shadows and types.",
+     "refs": [
+      {
+       "text": "Eph 2:14",
+       "ref": "EPH.2.14"
+      },
+      {
+       "text": "Mat 27:51",
+       "ref": "MAT.27.51"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.9#p2-3177cfff",
+     "text": "which is the inward circumcision of the heart; and, whosoever is thus cleansed, ought not to be reputed amongst the unclean.",
+     "anchor": "Purifying their hearts, from idolatry, and other impieties in which they had lived"
+    },
+    {
+     "id": "poole/ACT.15.9#p3-7ce72b80",
+     "text": "faith is the instrument, God is the efficient cause, of our justification and renovation.",
+     "anchor": "By faith"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.10",
+   "range": "ACT.15.10",
+   "kind": "passage",
+   "hash": "c4ccf54f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.10#p1-8ce3fd1f",
+     "text": "Why would you make a doubt of, and put it to a trial, whether God did in good earnest admit the Gentiles to his favour, and whether he remains firm and constant in such his kindness towards them? They did tempt God also, by disliking the calling of the Gentiles, and would have brought God’s will, were it possible, unto theirs; not submitting their wills, as they ought, unto God’s: for he that sins in any kind, does tempt God; that is, he tries God’s patience, power, and righteousness.",
+     "anchor": "Why tempt ye God?"
+    },
+    {
+     "id": "poole/ACT.15.10#p2-53a581af",
+     "text": "so the law of ceremonies is called. Gal 5:1, and was a yoke indeed, if we consider:",
+     "anchor": "A yoke",
+     "refs": [
+      {
+       "text": "Gal 5:1",
+       "ref": "GAL.5.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.10#p3-9f2c6c29",
+     "text": "1. Their variety;"
+    },
+    {
+     "id": "poole/ACT.15.10#p4-1667e2e5",
+     "text": "2. Their difficulty;"
+    },
+    {
+     "id": "poole/ACT.15.10#p5-e9149fcc",
+     "text": "3. Their chargeableness;"
+    },
+    {
+     "id": "poole/ACT.15.10#p6-2fdc3a15",
+     "text": "4. Their inefficacy, being only shadows"
+    },
+    {
+     "id": "poole/ACT.15.10#p7-b1bf1aad",
+     "text": "of good things to come, Col 2:17.",
+     "refs": [
+      {
+       "text": "Col 2:17",
+       "ref": "COL.2.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.11",
+   "range": "ACT.15.11",
+   "kind": "passage",
+   "hash": "28369d33",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.11#p1-241f1761",
+     "text": "all saving grace may be well so called, it being purchased only by Christ, and bestowed upon us from the Father through Christ.",
+     "anchor": "The grace of the Lord Jesus Christ"
+    },
+    {
+     "id": "poole/ACT.15.11#p2-9e166bfb",
+     "text": "the Jews their fathers; these were saved through the grace of the Messiah which was to come; and the apostle urges this (against the imposing of the law) to the Jews, because neither their ancestors nor themselves could be justified by the law, but only by grace.",
+     "anchor": "Even as they"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.12",
+   "range": "ACT.15.12",
+   "kind": "passage",
+   "hash": "f0b32271",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.12#p1-2c872be6",
+     "text": "the apostles and elders themselves gave attention to what Barnabas and Paul declared, and by their silence did tacitly approve of what they had said.",
+     "anchor": "All the multitude"
+    },
+    {
+     "id": "poole/ACT.15.12#p2-cf03da0f",
+     "text": "the conversion of the Gentiles in itself, and not only the signs which did attend it, is truly wonderful: the saving of any one soul is a miraculous work.",
+     "anchor": "Miracles and wonders"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.13",
+   "range": "ACT.15.13",
+   "kind": "passage",
+   "hash": "b22a5e63",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.13#p1-af783bb3",
+     "text": "Barnabas and Paul had finished their narrative.",
+     "anchor": "After they had held their peace"
+    },
+    {
+     "id": "poole/ACT.15.13#p2-2be36273",
+     "text": "who was surnamed the Just, and was the son of Alpheus, and a kinsman to our Saviour, now being president of this council.",
+     "anchor": "James"
+    },
+    {
+     "id": "poole/ACT.15.13#p3-641d69b5",
+     "text": "that is, began to speak.",
+     "anchor": "Answered"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.14",
+   "range": "ACT.15.14",
+   "kind": "passage",
+   "hash": "222cb7ff",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.14#p1-4190d35c",
+     "text": "or Simon, the name of Peter; but St. Luke, being himself a Hebrew, writes it according as they pronounced it, and not so contracted as the Greeks wrote it.",
+     "anchor": "Simeon"
+    },
+    {
+     "id": "poole/ACT.15.14#p2-c6beda70",
+     "text": "there were some at all times probably amongst the Gentiles who did fear God, as Job and his three friends; but they did not make a people, or such a number as is here spoken of.",
+     "anchor": "A people"
+    },
+    {
+     "id": "poole/ACT.15.14#p3-3982d490",
+     "text": "God takes out of the world a people for his name, that is,",
+     "anchor": "For his name"
+    },
+    {
+     "id": "poole/ACT.15.14#p4-5301fa02",
+     "text": "1. For himself; as, Pro 18:10, the name of the Lord is put for the Lord himself.",
+     "refs": [
+      {
+       "text": "Pro 18:10",
+       "ref": "PRO.18.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.14#p5-19515842",
+     "text": "2. For to call upon his name, as also for to be called by his name."
+    },
+    {
+     "id": "poole/ACT.15.14#p6-7657b2bc",
+     "text": "3. For his glory and honour, and to magnify his name."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.15",
+   "range": "ACT.15.15",
+   "kind": "passage",
+   "hash": "c613e452",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.15#p1-c613e452",
+     "text": "in the plural number, though only one cited: it is an ordinary enallage; but it also shows the harmony amongst the prophets, they all speaking by one Spirit; what one said is as if all had said it.",
+     "anchor": "The prophets"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.16",
+   "range": "ACT.15.16",
+   "kind": "passage",
+   "hash": "b773f6f9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.16#p1-e5ead0a8",
+     "text": "in the days of the Messiah.",
+     "anchor": "After this"
+    },
+    {
+     "id": "poole/ACT.15.16#p2-f3772138",
+     "text": "the word may be taken in both voices. If actively, it signifies God’s returning uuto the Gentiles, from whom he had departed. If passively, it foreshows their returning unto God, whom they had forsaken.",
+     "anchor": "I will return"
+    },
+    {
+     "id": "poole/ACT.15.16#p3-bcde25b2",
+     "text": "the house, expressed by a tabernacle, (as frequently in Scripture), because that anciently they dwelt only in tabernacles; and here for the throne of David, who was a type of Christ, whose kingdom is over all. God does promise less than he does perform, for he did not only restore the tabernacle of David, in Christ, but raised it to a far greater splendour and glory in its spiritual state. And though St. James here does not exactly keep unto the words of the prophet, he speaks their sense and meaning.",
+     "anchor": "The tabernacle"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.17",
+   "range": "ACT.15.17",
+   "kind": "passage",
+   "hash": "4edf40b3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.17#p1-9a6863b1",
+     "text": "In the prophet it is the remnant of Edom, Amo 9:12, which is here called the residue of men; for as Jacob, or Israel, shadowed out the church, so Edom, or Esau, (the other son of Isaac), represented those who were rejected, Rom 9:13. The prophet also adds, by way of explication, all the heathen; as the apostle does here,",
+     "refs": [
+      {
+       "text": "Amo 9:12",
+       "ref": "AMO.9.12"
+      },
+      {
+       "text": "Rom 9:13",
+       "ref": "ROM.9.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.17#p2-4f66e3e3",
+     "text": "who shall be mine, or appropriated unto me; also called by his name, they being called Christians from Christ, whom they believed in.",
+     "anchor": "all the Gentiles. Upon whom my name is called"
+    },
+    {
+     "id": "poole/ACT.15.17#p3-d9cd356f",
+     "text": "the calling of the Gentiles was God’s work, and therefore so far from being excepted against, that it ought to be marvellous in our eyes.",
+     "anchor": "Saith the Lord, who doeth all these things"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.18",
+   "range": "ACT.15.18",
+   "kind": "passage",
+   "hash": "b0d31a63",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.18#p1-b0d31a63",
+     "text": "This the apostle adds, that they might not be offended with the seeming novelty and surprise of the calling of the Gentiles, and abrogation of the ceremonies; for it was no other than what God had before determined to do, and therefore they ought to rest satisfied in the wise and holy appointments of God."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.19",
+   "range": "ACT.15.19",
+   "kind": "passage",
+   "hash": "4cd5c13e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.19#p1-4cd5c13e",
+     "text": "St. James here gives his opinion, confirming and approving what Peter had done in conversing with and baptizing of the Gentiles; whom he would not have afflicted or disturbed with such things as were not necessary, lest that it should hinder the conversion of the Gentiles, and the church should lose the substance for a shadow."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.20",
+   "range": "ACT.15.20",
+   "kind": "passage",
+   "hash": "e9bf21b6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.20#p1-6a2a65af",
+     "text": "as Act 15:29 in a case of scandal, and for the present state of the church, was forbid, though afterwards in other cases indulged, 1Co 10:27.",
+     "anchor": "That they abstain from pollutions of idols; eating of meat that was offered to idols",
+     "refs": [
+      {
+       "text": "Act 15:29",
+       "ref": "ACT.15.29"
+      },
+      {
+       "text": "1Co 10:27",
+       "ref": "1CO.10.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.20#p2-1dba53a1",
+     "text": "is here mentioned amongst indiferent things; not that it ever was so, but because it was amongst the Gentiles reputed to be so, even by them who punished adultery severely. By these two, some think all sins against both the tables of the law to be forbidden, because by one sin against each table all the sins against any command may synecdochically be understood.",
+     "anchor": "Fornication"
+    },
+    {
+     "id": "poole/ACT.15.20#p3-b8146d06",
+     "text": "such creatures as had not their blood let out, and therefore were not to be fed upon, by the law of God, Gen 9:4, given as soon as the use of flesh was allowed for food.",
+     "anchor": "From things strangled",
+     "refs": [
+      {
+       "text": "Gen 9:4",
+       "ref": "GEN.9.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.20#p4-9ec3db15",
+     "text": "they were also much more to abstain from blood, when shed out of the body of any slain creature, Lev 3:17 Deu 12:23. That blood was forbidden might be to teach them meekness, and to abstain from revenge. It is certain, that such nations as feed on blood are most barbarous and cruel. It is also probable, that these being included in the precepts which they called, The precepts of Adam, or Noah, and to which all the proselytes of the gate were obliged to yield obedience, the apostle would have the observance of them to be continued upon them that came from amongst them over unto Christianity.",
+     "anchor": "And from blood",
+     "refs": [
+      {
+       "text": "Lev 3:17",
+       "ref": "LEV.3.17"
+      },
+      {
+       "text": "Deu 12:23",
+       "ref": "DEU.12.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.20#p5-d606e8bb",
+     "text": "For though all these ceremonies were dead, (with Christ), yet they were not then deadly, and did wait a time for their more decent burial. If any wonder that the council did not treat of and write about greater matters; as of worshipping God the Father, through the Son; of denying of ourselves, and taking up the cross; he ought to consider, that the question they met upon was about other matters, and that those great things were never in question amongst such as feared God."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.21",
+   "range": "ACT.15.21",
+   "kind": "passage",
+   "hash": "a66d9b55",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.21#p1-a66d9b55",
+     "text": "The reason why St. James would not have the ceremonies buried as soon as they were dead, was because the Jews had been so long confirmed in them, and bare such a love unto them; and he would purchase concord between them and the Gentile converts; though the Gentiles should bear with some inconvenience into the bargain, as not presently using all the liberty which through Christ they had a right unto."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.22",
+   "range": "ACT.15.22",
+   "kind": "passage",
+   "hash": "3e287b59",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.22#p1-d3ba22c1",
+     "text": "a happy concord, all agreeing as one man, by one Spirit.",
+     "anchor": "The apostles and elders, with the whole church"
+    },
+    {
+     "id": "poole/ACT.15.22#p2-06f97778",
+     "text": "that Paul and Barnabas might be the better credited, and that by such as had been of a contrary judgment: so hard it is to remove suspicions, and to root out preconceived opinions.",
+     "anchor": "To send chosen men of their own company"
+    },
+    {
+     "id": "poole/ACT.15.22#p3-540c5557",
+     "text": "the brother of that Joseph mentioned Act 1:23.",
+     "anchor": "Judas surnamed Barsabas",
+     "refs": [
+      {
+       "text": "Act 1:23",
+       "ref": "ACT.1.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.22#p4-37ccfd74",
+     "text": "called Silvanus also.",
+     "anchor": "Silas"
+    },
+    {
+     "id": "poole/ACT.15.22#p5-f7c56640",
+     "text": "noted for their holy living, or great knowledge, or office in the church.",
+     "anchor": "Chief men among the brethren"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.23",
+   "range": "ACT.15.23",
+   "kind": "passage",
+   "hash": "b1d34cc5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.23#p1-7b448042",
+     "text": "the letter was wrote in the name of them all, that it might have the greater force, and better acceptance; that so strong a cord might not be broken by the false apostles.",
+     "anchor": "The apostles and elders and brethren"
+    },
+    {
+     "id": "poole/ACT.15.23#p2-d7cf2f66",
+     "text": "such as out of Gentilism, or paganism, were converted unto Christ; to whom the determination of this case was of the greatest concern; their right of belonging unto Christ, and having any hopes of salvation, being questioned, unless they would be circumcised.",
+     "anchor": "Of the Gentiles"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.24",
+   "range": "ACT.15.24",
+   "kind": "passage",
+   "hash": "ba0363ef",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.24#p1-84f39016",
+     "text": "for these false apostles were such as came from Judea, Act 15:1, that is, from the church there. It is Satan’s great policy to divide, that he may rule; he will have at least one share where there is more than one. No such sad divisions as church divisions, when that some of ourselves preach perverse things, as Act 20:30.",
+     "anchor": "Certain which went out from us",
+     "refs": [
+      {
+       "text": "Act 15:1",
+       "ref": "ACT.15.1"
+      },
+      {
+       "text": "Act 20:30",
+       "ref": "ACT.20.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.24#p2-4dbf751b",
+     "text": "as if in the professing of Christianity there would be no salvation unless Judaism be embraced, and circumcision admitted. No greater trouble to a considerate mind, than about the concern of salvation, when they say, Where is thy God?",
+     "anchor": "Have troubled you with words"
+    },
+    {
+     "id": "poole/ACT.15.24#p3-93ca8124",
+     "text": "these they did well put together; for by circumcision they engaged to the observance of the whole law of Moses; and by the decreeing the omission, that whole law of ceremonies is declared void, and of no effect. What truth and unity build up, discord and error pull down.",
+     "anchor": "Saying, Ye must be circumcised, and keep the law"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.25",
+   "range": "ACT.15.25",
+   "kind": "passage",
+   "hash": "a791ff43",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.25#p1-a791ff43",
+     "text": "with one mind, as if they had all but one soul, (they had but one Spirit, the Spirit of truth), as Act 2:1 Act 5:12; their unanimity adding great strength to the decree they sent.",
+     "anchor": "With one accord",
+     "refs": [
+      {
+       "text": "Act 2:1",
+       "ref": "ACT.2.1"
+      },
+      {
+       "text": "Act 5:12",
+       "ref": "ACT.5.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.26",
+   "range": "ACT.15.26",
+   "kind": "passage",
+   "hash": "648e1c2f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.26#p1-4a18c282",
+     "text": "Because that the false apostles at Antioch had vilified Paul and Barnabas, and opposed their doctrine and practice in admitting of the Gentiles by baptism into the church, the council here at Jerusalem take occasion to vindicate and to commend them, especially for their suffering so much for Christ, of which we read, Act 13:50 14:19: it being most reasonable to believe, that they had not done or said any thing for their own sakes, who had done and suffered so much for Christ and his truth’s sake.",
+     "refs": [
+      {
+       "text": "Act 13:50",
+       "ref": "ACT.13.50"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.26#p2-e3d5e788",
+     "text": "for Christ’s honour, and the truth of his gospel.",
+     "anchor": "For the name of our Lord Jesus Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.27",
+   "range": "ACT.15.27",
+   "kind": "passage",
+   "hash": "28bf6961",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.27#p1-28bf6961",
+     "text": "They shall inform you of the truth of what is contained in this epistle, that you may be more assured it is not forged or counterfeited. Of these men, see Act 15:22.",
+     "refs": [
+      {
+       "text": "Act 15:22",
+       "ref": "ACT.15.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.28",
+   "range": "ACT.15.28",
+   "kind": "passage",
+   "hash": "a49343a4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.28#p1-278df417",
+     "text": "that is, unto us, assisted by the Holy Ghost. The Holy Ghost is deservedly first mentioned, that the apostles might testify that they desired to say, write, or do nothing in which they had not the Spirit of God directing of them: and they mention the Spirit, that the Antiochians, unto whom they wrote, might be assured they were not human inventions which they recommended, but that they had the authority of God for them. Unto us; as ministers, or God’s stewards, who acquainted them with these things, in discharge of their duty, and that they might appear themselves to be faithful.",
+     "anchor": "To the Holy Ghost, and to us"
+    },
+    {
+     "id": "poole/ACT.15.28#p2-f32c2a03",
+     "text": "the yoke spoken of, Act 15:10.",
+     "anchor": "Burden",
+     "refs": [
+      {
+       "text": "Act 15:10",
+       "ref": "ACT.15.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.28#p3-baa7f3d5",
+     "text": "Necessary things: to be sure, several of the things here spoken of are not absolutely necessary unto salvation, or simply, and in their own nature, necessary, as to abstain from blood, &c.; but though they are not necessary always and at all times, yet in this place, and at this time, they were necessary for the peace of the church, and to avoid giving of offence to the converted Jews, and to nourish brotherly love between them and the Gentiles."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.29",
+   "range": "ACT.15.29",
+   "kind": "passage",
+   "hash": "bf9113d6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.29#p1-e23be34b",
+     "text": "Of these see more largely, Act 15:20.",
+     "refs": [
+      {
+       "text": "Act 15:20",
+       "ref": "ACT.15.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.29#p2-c1bbb9d3",
+     "text": "they were wont to carry home and feast upon part of the sacrifices they had offered unto their false gods; nay, they did not, without reproach, eat of any greater beasts, (as oxen and sheep), but they always first offered some of them unto their idols. And it was accounted no small impiety to eat αθυτα ιερα, part of any beasts which they had not first offered up to some or other of their gods.",
+     "anchor": "From meats offered to idols"
+    },
+    {
+     "id": "poole/ACT.15.29#p3-8dbc1c60",
+     "text": "From blood; for this reason they might not eat of any thing that died of itself, as Deu 14:21, because the blood was not gone out of it.",
+     "refs": [
+      {
+       "text": "Deu 14:21",
+       "ref": "DEU.14.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.29#p4-e3183695",
+     "text": "From fornication; mentioned here, because so commonly practised amongst the Gentiles, and yet not esteemed a sin. Hence also, 1Th 4:3, the apostle lays a very great charge against it.",
+     "refs": [
+      {
+       "text": "1Th 4:3",
+       "ref": "1TH.4.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.29#p5-80b3ad53",
+     "text": "Fare ye well; the ordinary apprecation wherewith their letters were concluded, in which they wished health and strength to the party they wrote unto: instead of which word, some ancient copies read, φερομενοι εν πνευματι Αγιω; which is rendered, Walk in the Holy Ghost; or, the Holy Ghost carrying, or enabling of you: a wish or prayer becoming these holy men that made it. They who have found the necessity of the Spirit’s assistance, desire it above all things for such as they wish well unto."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.30",
+   "range": "ACT.15.30",
+   "kind": "passage",
+   "hash": "1ece66de",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.30#p1-48dd94fb",
+     "text": "Paul, Barnabas, Judas, and Silas; which two last, were sent with the former.",
+     "anchor": "When they were dismissed"
+    },
+    {
+     "id": "poole/ACT.15.30#p2-1875dc1a",
+     "text": "from whom they were sent, Act 15:1,2, and that this determination of the council might be more publicly known, as all things concerning our common salvation ought to be.",
+     "anchor": "Gathered the multitude together",
+     "refs": [
+      {
+       "text": "Act 15:1",
+       "ref": "ACT.15.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.31",
+   "range": "ACT.15.31",
+   "kind": "passage",
+   "hash": "4cf705d1",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.31#p1-ac523a05",
+     "text": "It could not but much rejoice the Gentile believers, that they were exempted from circumcision, and the ceremonial law. And it gladdened the believing Jews also, that the controversy was determined, and concord established amongst them. But much more might they all rejoice to understand the grace of the gospel; and that we are not justified by the deeds of the law, but by faith in Christ, Rom 5:1.",
+     "refs": [
+      {
+       "text": "Rom 5:1",
+       "ref": "ROM.5.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.31#p2-ddcd8162",
+     "text": "this word also signifies exhortation, and it was matter of joy to be put upon such excellent duties as our most holy religion recommends, and to be deterred from such erroneous evils as it forbids. All that God requires of us being only to eschew evil, and do good, Isa 1:16,17 1Pe 3:11.",
+     "anchor": "Consolation",
+     "refs": [
+      {
+       "text": "Isa 1:16",
+       "ref": "ISA.1.16"
+      },
+      {
+       "text": "1Pe 3:11",
+       "ref": "1PE.3.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.32",
+   "range": "ACT.15.32",
+   "kind": "passage",
+   "hash": "f29e7fc2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.32#p1-3761a8c8",
+     "text": "not properly so called, from any gift of foretelling things to come, but as doctors and teachers in the church, Eph 4:11, expounding Moses and the prophets, and showing how and what they speak concerning Christ; proving out of them, that he was the Messiah, as Philip had done, Act 8:35.",
+     "anchor": "Prophets",
+     "refs": [
+      {
+       "text": "Eph 4:11",
+       "ref": "EPH.4.11"
+      },
+      {
+       "text": "Act 8:35",
+       "ref": "ACT.8.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.32#p2-402d0189",
+     "text": "see Act 14:22 18:23.",
+     "anchor": "Confirmed them",
+     "refs": [
+      {
+       "text": "Act 14:22",
+       "ref": "ACT.14.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.33",
+   "range": "ACT.15.33",
+   "kind": "passage",
+   "hash": "7847efd9",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.33#p1-e5694681",
+     "text": "a competent time; some make this space to be a year.",
+     "anchor": "A space"
+    },
+    {
+     "id": "poole/ACT.15.33#p2-6635621b",
+     "text": "they were dismissed with earnest prayers for them; for by peace is meant all kind of good, which they desired for them, as Mat 10:13.",
+     "anchor": "They were let go in peace",
+     "refs": [
+      {
+       "text": "Mat 10:13",
+       "ref": "MAT.10.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.33#p3-e02e137a",
+     "text": "such of them as were at Jerusalem, who also had sent them.",
+     "anchor": "Unto the apostles"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.34",
+   "range": "ACT.15.34",
+   "kind": "passage",
+   "hash": "e628babf",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.34#p1-e628babf",
+     "text": "Though, having performed his message, he was discharged, and might have returned; yet, for the further benefit of that church, he continued at Antioch."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.35",
+   "range": "ACT.15.35",
+   "kind": "passage",
+   "hash": "c7382775",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.35#p1-c7382775",
+     "text": "Judas only returned to Jerusalem, to acquaint the apostles with the reception their letter had met with, and what obedience was readily given to their decrees; so that when these went away the church at Antioch was not left destitute of faithful pastors. When God gives the word, great is the multitude of preachers, Psa 68:11.",
+     "refs": [
+      {
+       "text": "Psa 68:11",
+       "ref": "PSA.68.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.36",
+   "range": "ACT.15.36",
+   "kind": "passage",
+   "hash": "4ae19c70",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.36#p1-d14eb057",
+     "text": "It is not enough that they had sown good seed, but they must take care lest it be plucked up, and tares sown in the stead of it, by the wicked one, Mat 13:19. A husbandman’s work is never at an end, neither is the labourer’s in God’s vineyard.",
+     "refs": [
+      {
+       "text": "Mat 13:19",
+       "ref": "MAT.13.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.36#p2-803e006c",
+     "text": "not so much looking after their bodily welfare, as how their souls fared, whether they continued in the faith, and integrity of life.",
+     "anchor": "See how they do"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.37",
+   "range": "ACT.15.37",
+   "kind": "passage",
+   "hash": "70393293",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.37#p1-70393293",
+     "text": "This John, or Mark, was sister’s son to Barnabas, as Col 4:10.",
+     "refs": [
+      {
+       "text": "Col 4:10",
+       "ref": "COL.4.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.38",
+   "range": "ACT.15.38",
+   "kind": "passage",
+   "hash": "18f9e440",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.38#p1-b0046011",
+     "text": "This deserting of Paul and Barnabas by John, is mentioned Act 13:13.",
+     "refs": [
+      {
+       "text": "Act 13:13",
+       "ref": "ACT.13.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.38#p2-777c4280",
+     "text": "the work unto which the Spirit had called them, Act 13:2, which was to offer life and salvation unto the Gentiles, and to gather them into the fold of Jesus Christ. This objection was very considerable, and ought to have weighed more than this John’s propinquity, or nearness in blood, unto Barnabas.",
+     "anchor": "To the work",
+     "refs": [
+      {
+       "text": "Act 13:2",
+       "ref": "ACT.13.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.39",
+   "range": "ACT.15.39",
+   "kind": "passage",
+   "hash": "63b30891",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.39#p1-34f5629f",
+     "text": "as Abraham and Lot parted, Gen 13:9, yet keeping the unity of the Spirit in the bond of peace; loving of and praying for one another, as we may judge, being both good men. But they verified here what they had said at Lystra, Act 14:15,",
+     "anchor": "They departed asunder",
+     "refs": [
+      {
+       "text": "Gen 13:9",
+       "ref": "GEN.13.9"
+      },
+      {
+       "text": "Act 14:15",
+       "ref": "ACT.14.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.39#p2-115be08c",
+     "text": "yet God overruled these very divisions between Paul and Barnabas for his own glory, and the enlargement of the kingdom of Jesus Christ, several places being by this means blessed with the gospel. And this reflection upon this John Mark, is thought, to have made him for the future more diligent and valiant in the cause of the gospel, which occasioned that kind salutation from St. Paul unto him, Col 4:10.",
+     "anchor": "We are men of like passions with you",
+     "refs": [
+      {
+       "text": "Col 4:10",
+       "ref": "COL.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.39#p3-5f0434d9",
+     "text": "an island in the Mediterranean Sea.",
+     "anchor": "Cyprus"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.40",
+   "range": "ACT.15.40",
+   "kind": "passage",
+   "hash": "d79ea12f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.40#p1-d79ea12f",
+     "text": "The favour of God, as Act 14:26, which the wisest and holiest men stand in need of in all their undertakings; as also his gracious conduct and assistance.",
+     "refs": [
+      {
+       "text": "Act 14:26",
+       "ref": "ACT.14.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.15.41",
+   "range": "ACT.15.41",
+   "kind": "passage",
+   "hash": "ab720b66",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.15.41#p1-f9518c30",
+     "text": "where there were several brethren by reason of the dispersion that was upon Stephen’s death, Act 11:19; and unto whom also the before recited letter was written, Act 15:23.",
+     "anchor": "Syria and Cilicia",
+     "refs": [
+      {
+       "text": "Act 11:19",
+       "ref": "ACT.11.19"
+      },
+      {
+       "text": "Act 15:23",
+       "ref": "ACT.15.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.15.41#p2-935c654a",
+     "text": "puting them in mind of the gospel of Christ, which they had heard and believed; and encouraging of them to persevere in the profession of it, and being ready to answer any objection that could be brought against it.",
+     "anchor": "Confirming the churches"
+    }
+   ]
+  }
+ ]
+}

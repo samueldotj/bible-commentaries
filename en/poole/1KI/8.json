@@ -1,0 +1,1454 @@
+{
+ "source": "poole",
+ "book": "1KI",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "poole/1KI.8",
+   "range": "1KI.8",
+   "kind": "chapter",
+   "hash": "61c7025d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8#p1-61c7025d",
+     "text": "The feast of the dedication of the temple; the ark of the covenant with the holy instruments are brought into it; the Lord giveth a token of his presence, 1Ki 8:1-11. Solomon’s blessing and thanksgiving, 1Ki 8:12-21. His prayer, 1Ki 8:22-61. His sacrifice of peace-offerings, 1Ki 8:62-66.",
+     "refs": [
+      {
+       "text": "1Ki 8:1-11",
+       "ref": "1KI.8.1-11"
+      },
+      {
+       "text": "1Ki 8:12-21",
+       "ref": "1KI.8.12-21"
+      },
+      {
+       "text": "1Ki 8:22-61",
+       "ref": "1KI.8.22-61"
+      },
+      {
+       "text": "1Ki 8:62-66",
+       "ref": "1KI.8.62-66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.1",
+   "range": "1KI.8.1",
+   "kind": "passage",
+   "hash": "2f1505b6",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.1#p1-e3814e9f",
+     "text": "the senators, and judges, and rulers.",
+     "anchor": "The elders of Israel"
+    },
+    {
+     "id": "poole/1KI.8.1#p2-49e362af",
+     "text": "for each tribe had a peculiar head or governor.",
+     "anchor": "The heads of the tribes"
+    },
+    {
+     "id": "poole/1KI.8.1#p3-817e5c49",
+     "text": "the chief persons of every great family in each tribe.",
+     "anchor": "The chief of the fathers"
+    },
+    {
+     "id": "poole/1KI.8.1#p4-4ab60d48",
+     "text": "unto himself; the antecedent noun being put for the relative and reciprocal pronoun, as is frequent with the Hebrews.",
+     "anchor": "Unto king Solomon"
+    },
+    {
+     "id": "poole/1KI.8.1#p5-deeb9719",
+     "text": "where the temple was built, and now finished.",
+     "anchor": "In Jerusalem"
+    },
+    {
+     "id": "poole/1KI.8.1#p6-a4eafc9a",
+     "text": "to the top of this hill of Moriah, upon which it was built; whither they were now to carry the ark in a solemn pomp, that by this their attendance they might make a public profession of that service, and respect, and obedience which they owed unto that God who was graciously and gloriously present in the ark.",
+     "anchor": "That they might bring up the ark"
+    },
+    {
+     "id": "poole/1KI.8.1#p7-86ddb920",
+     "text": "where David had placed the ark, 2Sa 6:12,17. See Poole \"1Ki 2:10 3:1\".",
+     "anchor": "Out of the city of David",
+     "refs": [
+      {
+       "text": "2Sa 6:12",
+       "ref": "2SA.6.12"
+      },
+      {
+       "text": "1Ki 2:10",
+       "ref": "1KI.2.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.1#p8-9102b1e5",
+     "text": "which is called Zion, because it was built upon that hill.",
+     "anchor": "Which is Zion"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.2",
+   "range": "1KI.8.2",
+   "kind": "passage",
+   "hash": "e373fc0b",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.2#p1-fc4d51d6",
+     "text": "not only the chief men who were particularly invited, but a vast number of the common people, as being forward to see and to join in this great and glorious solemnity.",
+     "anchor": "All the men of Israel"
+    },
+    {
+     "id": "poole/1KI.8.2#p2-c797e945",
+     "text": "understand either, first, The feast of tabernacles. Or rather, secondly, The feast of the dedication, to which Solomon had invited them, which was before that feast; for that began on the 15th day of the 7th month, Lev 23:34, but this began at the least seven days before that feast; for Solomon and the people kept the feast for fourteen days, here, 1Ki 8:65, i.e. seven days for the dedication of the temple, and seven other days for that of tabernacles; and after both these were finished, he sent all the people to their homes on the twenty-third day of the month. See 2Ch 7:9,10.",
+     "anchor": "At the feast",
+     "refs": [
+      {
+       "text": "Lev 23:34",
+       "ref": "LEV.23.34"
+      },
+      {
+       "text": "1Ki 8:65",
+       "ref": "1KI.8.65"
+      },
+      {
+       "text": "2Ch 7:9",
+       "ref": "2CH.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.2#p3-45575d9a",
+     "text": "which time he chose with common respect to his people’s convenience, because now they had gathered in all their fruits, and now they were come up to Jerusalem to celebrate the feast of tabernacles.",
+     "anchor": "Which is the seventh month"
+    },
+    {
+     "id": "poole/1KI.8.2#p4-ff668911",
+     "text": "The temple was not finished till the eighth month, 1Ki 6:38, how then could he invite them in the seventh month",
+     "anchor": "Quest",
+     "refs": [
+      {
+       "text": "1Ki 6:38",
+       "ref": "1KI.6.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.2#p5-859fa49d",
+     "text": "This was the seventh month of the next year; for although the house in all its parts was finished the year before, yet the utensils of it, described 1Ki 7, were not then fully finished, but took up a considerable time afterward; and many preparations were to be made for this great and extraordinary occasion.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.3",
+   "range": "1KI.8.3",
+   "kind": "passage",
+   "hash": "758c1d05",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.3#p1-38fb0580",
+     "text": "For although the Levites might do this, Num 4:15, yet the priests did it at this time, partly for the greater honour of the solemnity, and partly because the Levites might not enter into the holy place, much less into the holy of holies, where it was to be placed, into which the priests themselves might not have entered, if the high priest alone could have done it.",
+     "refs": [
+      {
+       "text": "Num 4:15",
+       "ref": "NUM.4.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.3#p2-a771c041",
+     "text": "The Levites are said to have done this, 2Ch 5:4.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "2Ch 5:4",
+       "ref": "2CH.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.3#p3-17501f4c",
+     "text": "That is most true, because all the priests were Levites, though all the Levites were not priests.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.4",
+   "range": "1KI.8.4",
+   "kind": "passage",
+   "hash": "e4aa1a28",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.4#p1-fde10dac",
+     "text": "that made by Moses, which doubtless before this time had been translated from Gibeon to Zion, and now, together with other things, was put into the treasuries of the Lord’s house, to prevent all the superstitious use and profane abuse of it, and to oblige the people to come up to Jerusalem, as the only place where God would now be worshipped.",
+     "anchor": "The tabernacle of the congregation"
+    },
+    {
+     "id": "poole/1KI.8.4#p2-13279f12",
+     "text": "the priests carrying some, and the Levites others.",
+     "anchor": "The priests and Levites"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.5",
+   "range": "1KI.8.5",
+   "kind": "passage",
+   "hash": "7dcaa089",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.5#p1-7dcaa089",
+     "text": "either, first, In the way, David did upon the like occasion, 2Sa 6:13. Or, secondly, When the ark was come into the priests’ court, where the altar stood, whence it was speedily to be conveyed to that place where the people could never behold it more. Or rather, thirdly, When the ark was seated in its place; for although they might in the way or passage offer some sacrifices, as David did; yet that was not a proper season to offer so many sacrifices as could not be told nor numbered, as these are here said to be; which far better agrees with what is more particularly related below, 1Ki 8:62-64, which is here signified in the general by way of anticipation, as is frequently done in the Scripture in like cases.",
+     "anchor": "Sacrificing sheep and oxen",
+     "refs": [
+      {
+       "text": "2Sa 6:13",
+       "ref": "2SA.6.13"
+      },
+      {
+       "text": "1Ki 8:62-64",
+       "ref": "1KI.8.62-64"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.6",
+   "range": "1KI.8.6",
+   "kind": "passage",
+   "hash": "75819ad5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.6#p1-e1408541",
+     "text": "i.e. to that part of the house which is called the oracle, 1Ki 6:5,16,19,23; or, as it here follows,",
+     "anchor": "Into the oracle of the house",
+     "refs": [
+      {
+       "text": "1Ki 6:5",
+       "ref": "1KI.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.6#p2-d415e446",
+     "text": "to wit, of Solomon’s new-made cherubims, 1Ki 6:23,24,27; not of the Mosaical cherubims, which were far less, and unmovably fixed to the ark, Exo 37:7,8; and therefore, together with the ark, were put under the wings of these cherubims.",
+     "anchor": "the most holy place. Under the wings of the cherubims",
+     "refs": [
+      {
+       "text": "1Ki 6:23",
+       "ref": "1KI.6.23"
+      },
+      {
+       "text": "Exo 37:7",
+       "ref": "EXO.37.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.8",
+   "range": "1KI.8.8",
+   "kind": "passage",
+   "hash": "a0c4301d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.8#p1-03557ad1",
+     "text": "not wholly, which was expressly forbidden, Exo 25:15 Num 4:6; but in part.",
+     "anchor": "They drew out the staves",
+     "refs": [
+      {
+       "text": "Exo 25:15",
+       "ref": "EXO.25.15"
+      },
+      {
+       "text": "Num 4:6",
+       "ref": "NUM.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.8#p2-f554e0b8",
+     "text": "either, first, Properly so called; which place was indeed",
+     "anchor": "In the holy place"
+    },
+    {
+     "id": "poole/1KI.8.8#p3-2b0e2b92",
+     "text": "But how then could it be said that they were not seen without, to wit, in the holy place? For that they should be seen without, to wit, in the court, was so ridiculous a conceit, that it had been absurd to suppose it, or to say any thing to prevent it. Nor is it much better what others say, that these ends of the staves did discover themselves through the veil, which they thrust forward, though they did not pierce through it; for neither in that case had they been seen; and besides, there was a wall as well as a veil in that place.",
+     "anchor": "before the oracle"
+    },
+    {
+     "id": "poole/1KI.8.8#p4-d892be42",
+     "text": "Or rather, secondly, In the most holy place, which is oft called by way of eminency the holy place, as Exo 29:30 39:1 Lev 6:30 10:18 16:2,16,17,20. And the Hebrew words rendered before the oracle, may be as well rendered within the oracle, the phrase al pene being so used, Gen 1:2, the Spirit of God moved upon the face of the waters, i.e. in the waters, or in that confused heap of earth and water in which God was now working, that he might bring it into order and use; and Gen 1:20, where it is well rendered in the open firmament of heaven, i.e. of the air. And thus the whole is most true; they were seen out, to wit, without the ark, and the cherubims which covered all the other parts, but they were not seen without the oracle, to wit, in the holy place, strictly so called; for how could they be seen there, when there was both a wall and a thick veil between that place and the oracle?",
+     "refs": [
+      {
+       "text": "Exo 29:30",
+       "ref": "EXO.29.30"
+      },
+      {
+       "text": "Lev 6:30",
+       "ref": "LEV.6.30"
+      },
+      {
+       "text": "Gen 1:2",
+       "ref": "GEN.1.2"
+      },
+      {
+       "text": "Gen 1:20",
+       "ref": "GEN.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.8#p5-bed6a044",
+     "text": "And these staves were left in this posture, that the high priest might hereby be certainly guided to that very particular place where he was one day in a year to sprinkle blood, and to offer incense before the ark, which otherwise he might mistake in that dark place, where the ark was wholly covered with the wings of the great cherubims, which stood between him and the ark when he entered thither. Some conceive that the door of the oracle stood always open, (which yet seems very improbable,) and that they who were near the door might see the ends of the staves, though by reason of the darkness of the place they could see nothing else there."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.9",
+   "range": "1KI.8.9",
+   "kind": "passage",
+   "hash": "c1ad5f18",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.9#p1-c1ad5f18",
+     "text": "strictly and properly: for in a more large sense, as in is oft taken for by or near, as is confessed, and hath been proved before; so the pot of manna and Aaron’s rod were also in it, Heb 9:4, i.e. by it, to wit, in the most holy place, before the ark of the testimony, where God commanded Moses to put them, as it is expressed, Exo 16:33,34 Num 17:10, and not strictly in it. But of this more, God assisting, on Heb 9:4.",
+     "anchor": "Nothing in the ark",
+     "refs": [
+      {
+       "text": "Heb 9:4",
+       "ref": "HEB.9.4"
+      },
+      {
+       "text": "Exo 16:33",
+       "ref": "EXO.16.33"
+      },
+      {
+       "text": "Heb 9:4",
+       "ref": "HEB.9.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.10",
+   "range": "1KI.8.10",
+   "kind": "passage",
+   "hash": "a34e3356",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.10#p1-9f0f396e",
+     "text": "either, first, The most holy place, into which the priests had now entered to carry in the ark. Or rather, secondly, The holy place, where they might have stood to minister, if the cloud had not hindered them, as may be gathered from the next verse.",
+     "anchor": "Out of the holy place"
+    },
+    {
+     "id": "poole/1KI.8.10#p2-b29cdf36",
+     "text": "the usual token of God’s glorious presence. See Exo 16:10 24:15,16 Num 9:15. Filled the house of the Lord; partly in testimony of his gracious acceptance of this work, and their service; and partly to beget an awe and reverence in them, and in all others, when they approach to God.",
+     "anchor": "The cloud",
+     "refs": [
+      {
+       "text": "Exo 16:10",
+       "ref": "EXO.16.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.11",
+   "range": "1KI.8.11",
+   "kind": "passage",
+   "hash": "7e8c4db2",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.11#p1-7e8c4db2",
+     "text": "because the cloud was either so bright that it dazzled their eyes; or rather so dark, that it struck them with horror and amazement, as is implied in the next verse.",
+     "anchor": "Because of the cloud"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.12",
+   "range": "1KI.8.12",
+   "kind": "passage",
+   "hash": "791c3db5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.12#p1-e74a5e8f",
+     "text": "Perceiving both priests and people struck with horror and wonder at this darkness, he minds them that this was no sign of God’s dislike or disfavour, as some of them might possibly imagine; but a token of his approbation, and grace, and special presence among them."
+    },
+    {
+     "id": "poole/1KI.8.12#p2-1fdb24ea",
+     "text": "not in express words, but by plain consequence, because he hath declared, both by his words and actions, that he would manifest his presence with and dwelling among his people by a dark cloud, in which he would appear. See Exo 13:21,22 24:16 40:35 Num 9:15 Deu 4:11 5:22 Psa 18:12 97:2.",
+     "anchor": "The Lord said",
+     "refs": [
+      {
+       "text": "Exo 13:21",
+       "ref": "EXO.13.21"
+      },
+      {
+       "text": "Num 9:15",
+       "ref": "NUM.9.15"
+      },
+      {
+       "text": "Deu 4:11",
+       "ref": "DEU.4.11"
+      },
+      {
+       "text": "Psa 18:12",
+       "ref": "PSA.18.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.13",
+   "range": "1KI.8.13",
+   "kind": "passage",
+   "hash": "ab099479",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.13#p1-fc8cf1e5",
+     "text": "I perceive by this thick darkness that thou art coming among us, and therefore make haste and come, O thou blessed Guest, into the dwelling-place which I have built by thy command, and for thy service.",
+     "anchor": "I have surely built thee an house to dwell in"
+    },
+    {
+     "id": "poole/1KI.8.13#p2-d1dbb158",
+     "text": "not a tabernacle, which was made to be carried from place to place; but a durable, and, I hope, perpetual habitation.",
+     "anchor": "A settled place for thee to abide in for ever"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.14",
+   "range": "1KI.8.14",
+   "kind": "passage",
+   "hash": "84798cc0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.14#p1-e36d3815",
+     "text": "from the temple, towards which he was looking to observe that thick and extraordinary darkness, to the body of the congregation.",
+     "anchor": "The king turned his face about"
+    },
+    {
+     "id": "poole/1KI.8.14#p2-cbb3016b",
+     "text": "or, blessed (to wit, the Lord, which is easily understood from the following words; in which he only blesseth or praiseth God, but doth not bless the people at all) with (so the Hebrew eth is oft used, as hath been showed before) all the congregation. Although he might do both, first bless the congregation, which possibly he might do in that solemn and appointed form, Num 6; which therefore it was needless to repeat here; and then blessed God. And indeed he doth both here below, where these same words are used, 1Ki 8:55,56, &c. The congregation of Israel stood; partly in way of devotion to God, whom they adored; and partly out of respect to the king.",
+     "anchor": "Blessed all the congregation of Israel",
+     "refs": [
+      {
+       "text": "1Ki 8:55",
+       "ref": "1KI.8.55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.15",
+   "range": "1KI.8.15",
+   "kind": "passage",
+   "hash": "be40d060",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.15#p1-be40d060",
+     "text": "Praised be God, both for his grace in making such a promise, and for his goodness and truth in fulfilling it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.16",
+   "range": "1KI.8.16",
+   "kind": "passage",
+   "hash": "549cb814",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.16#p1-aee4c761",
+     "text": "until David’s time; for then he did choose Jerusalem.",
+     "anchor": "Since the day that I brought forth my people Israel out of Egypt"
+    },
+    {
+     "id": "poole/1KI.8.16#p2-a4196d1a",
+     "text": "i.e. I did not declare my choice of it; for so choosing is used for declaring or executing one’s choice, as Deu 12:1 2Ch 6:5 Zec 2:12, and things are oft said to be done when they are only manifested or declared to be such; in which sense God is said to be justified, Psa 51:4, and men to be guilty, Hos 5:15. Otherwise, to speak properly, whatsoever God chooseth, he chooseth from eternity.",
+     "anchor": "I chose no city",
+     "refs": [
+      {
+       "text": "Deu 12:1",
+       "ref": "DEU.12.1"
+      },
+      {
+       "text": "2Ch 6:5",
+       "ref": "2CH.6.5"
+      },
+      {
+       "text": "Zec 2:12",
+       "ref": "ZEC.2.12"
+      },
+      {
+       "text": "Psa 51:4",
+       "ref": "PSA.51.4"
+      },
+      {
+       "text": "Hos 5:15",
+       "ref": "HOS.5.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.16#p3-e06a3add",
+     "text": "that my presence, and grace, and worship, and glory might be there.",
+     "anchor": "That my name might be therein"
+    },
+    {
+     "id": "poole/1KI.8.16#p4-d67b2cb0",
+     "text": "and in and with him the tribe of Judah, of which he was, and Jerusalem, where he dwelt; which is here implied by the opposition of this to the former part of the verse.",
+     "anchor": "I chose David"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.17",
+   "range": "1KI.8.17",
+   "kind": "passage",
+   "hash": "036724bc",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.17#p1-036724bc",
+     "text": "in his desire and purpose, as this or the like phrase is used, 1Sa 10:7 14:7 2Sa 7:3.",
+     "anchor": "In the heart of David my father",
+     "refs": [
+      {
+       "text": "1Sa 10:7",
+       "ref": "1SA.10.7"
+      },
+      {
+       "text": "2Sa 7:3",
+       "ref": "2SA.7.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.18",
+   "range": "1KI.8.18",
+   "kind": "passage",
+   "hash": "0a094229",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.18#p1-0a094229",
+     "text": "Thy intention and affection was well-pleasing to me."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.21",
+   "range": "1KI.8.21",
+   "kind": "passage",
+   "hash": "642672dd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.21#p1-642672dd",
+     "text": "i.e. the tables of the covenant, by a metonymy, wherein the conditions of God’s covenant with Israel are written.",
+     "anchor": "The covenant of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.22",
+   "range": "1KI.8.22",
+   "kind": "passage",
+   "hash": "fb5017c0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.22#p1-9269672c",
+     "text": "upon a scaffold set up for him in the court of the people, 2Ch 6:13.",
+     "anchor": "Solomon stood",
+     "refs": [
+      {
+       "text": "2Ch 6:13",
+       "ref": "2CH.6.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.22#p2-32199255",
+     "text": "with his face towards the altar of burnt-offerings.",
+     "anchor": "Before the altar of the Lord"
+    },
+    {
+     "id": "poole/1KI.8.22#p3-a1c06741",
+     "text": "who stood round about the scaffold, in the same court with him.",
+     "anchor": "In the presence of all the congregation of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.24",
+   "range": "1KI.8.24",
+   "kind": "passage",
+   "hash": "40948957",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.24#p1-40948957",
+     "text": "that branch of thy promise concerning the building of this house by David’s son.",
+     "anchor": "That thou promisedst him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.25",
+   "range": "1KI.8.25",
+   "kind": "passage",
+   "hash": "4a525760",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.25#p1-4a525760",
+     "text": "make good the other branch of thy promise, and do not lose the glory of thy faithfulness, which now thou hast got.",
+     "anchor": "Keep with thy servant David my father that thou promisedst him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.27",
+   "range": "1KI.8.27",
+   "kind": "passage",
+   "hash": "9497288a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.27#p1-2a0c2cea",
+     "text": "Reflecting upon God’s performance of his promise concerning the building of the temple, he breaks forth into admiration, Is it possible that the great, and high, and lofty God should stoop so low, as to take up his dwelling here amongst men? O astonishing condescension!"
+    },
+    {
+     "id": "poole/1KI.8.27#p2-002c00f7",
+     "text": "all this vast space of the visible heaven.",
+     "anchor": "The heaven"
+    },
+    {
+     "id": "poole/1KI.8.27#p3-1b001fd0",
+     "text": "the third and highest, and therefore the largest heaven, called the heaven of heavens here, as also Deu 10:14 Psa 148:4, for its eminency and comprehensiveness.",
+     "anchor": "And heaven of heavens",
+     "refs": [
+      {
+       "text": "Deu 10:14",
+       "ref": "DEU.10.14"
+      },
+      {
+       "text": "Psa 148:4",
+       "ref": "PSA.148.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.27#p4-6d273237",
+     "text": "for thy essence teacheth far beyond them, being omnipresent.",
+     "anchor": "Cannot contain thee"
+    },
+    {
+     "id": "poole/1KI.8.27#p5-bccb041c",
+     "text": "this house therefore was not built as if it were proportionable to thy greatness, or could contain thee, but only that therein we might serve and glorify thee.",
+     "anchor": "How much less this house that I have builded?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.28",
+   "range": "1KI.8.28",
+   "kind": "passage",
+   "hash": "5a2ad29d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.28#p1-5a2ad29d",
+     "text": "Though thou art not comprehended within this place, yet show thyself to be graciously present here, by accepting and granting my present requests here tendered unto thee."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.29",
+   "range": "1KI.8.29",
+   "kind": "passage",
+   "hash": "6d053e4a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.29#p1-0bdf563b",
+     "text": "to behold, to wit, with an eye of favour and compassion. So it is a synecdochical expression: compare Psa 33:18 34:15 Zec 12:4.",
+     "anchor": "That thine eyes may be open",
+     "refs": [
+      {
+       "text": "Psa 33:18",
+       "ref": "PSA.33.18"
+      },
+      {
+       "text": "Zec 12:4",
+       "ref": "ZEC.12.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.29#p2-d3c57acf",
+     "text": "my presence, and glory, and grace. See Poole \"1Ki 8:16\".",
+     "anchor": "My name",
+     "refs": [
+      {
+       "text": "1Ki 8:16",
+       "ref": "1KI.8.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.29#p3-abc823da",
+     "text": "this temple, to which Solomon did now look, and, it may be, point; and towards which the godly Israelites directed their looks in their prayers. See Dan 6:10.",
+     "anchor": "Towards this place",
+     "refs": [
+      {
+       "text": "Dan 6:10",
+       "ref": "DAN.6.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.30",
+   "range": "1KI.8.30",
+   "kind": "passage",
+   "hash": "81454b4a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.30#p1-0e3ffcbe",
+     "text": "which he adds, that the people might not idolize the temple, nor presume upon it, as if God were now fast tied to them, as having no other dwelling-place; and to direct them in all their addresses to God in his temple, to lift up their eyes above it, even to heaven, where God’s most true and most glorious dwelling-place is.",
+     "anchor": "Thy dwelling-place"
+    },
+    {
+     "id": "poole/1KI.8.30#p2-daa298e3",
+     "text": "to wit, the sins of thy people praying, and even of their prayers; which, if not pardoned, will certainly hinder the success of all their prayers, and the course of all thy blessings upon them.",
+     "anchor": "And when thou hearest, forgive"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.31",
+   "range": "1KI.8.31",
+   "kind": "passage",
+   "hash": "ce1626ef",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.31#p1-5948f74e",
+     "text": "i.e. if he be accused of a trespass.",
+     "anchor": "If any man trespass"
+    },
+    {
+     "id": "poole/1KI.8.31#p2-ab01576f",
+     "text": "either by the judge, or by the party accusing him, or by the accused person himself; which was usual, when there were no witnesses. See Exo 22:8,11 Num 5:12,15, &c.",
+     "anchor": "An oath be laid upon him",
+     "refs": [
+      {
+       "text": "Exo 22:8",
+       "ref": "EXO.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.31#p3-fec82bc3",
+     "text": "for here God, who was appealed to as witness, was especially present. Hence the heathens used to swear at their altars.",
+     "anchor": "And the oath come before thine altar in this house"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.32",
+   "range": "1KI.8.32",
+   "kind": "passage",
+   "hash": "73befc8d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.32#p1-14ff47a6",
+     "text": "i.e. the just recompence of his wicked action and course.",
+     "anchor": "To bring his way"
+    },
+    {
+     "id": "poole/1KI.8.32#p2-56cd6697",
+     "text": "to vindicate him, and to manifest his integrity.",
+     "anchor": "Justifying the righteous, to give him according to his righteousness"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.33",
+   "range": "1KI.8.33",
+   "kind": "passage",
+   "hash": "bc61f16b",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.33#p1-bc61f16b",
+     "text": "give glory to thy name, by acknowledging their sins, and thy justice; and by accepting the punishment of their iniquity; and by trusting to thy power and goodness alone for their deliverance.",
+     "anchor": "And confess thy name"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.34",
+   "range": "1KI.8.34",
+   "kind": "passage",
+   "hash": "7dd578f4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.34#p1-ad12fa8e",
+     "text": "from the land into which they are supposed to be carried by their enemies, into Canaan.",
+     "anchor": "Bring them again"
+    },
+    {
+     "id": "poole/1KI.8.34#p2-ed3f50ca",
+     "text": "If they were banished into a strange land, how could they pray",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/1KI.8.34#p3-1b972ede",
+     "text": "as they are said to do, 1Ki 8:33?",
+     "anchor": "in this house",
+     "refs": [
+      {
+       "text": "1Ki 8:33",
+       "ref": "1KI.8.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.34#p4-f55c48a6",
+     "text": "1. That may be rendered to or towards this house, as it is expressed, 1Ki 8:29,30. The Hebrew preposition beth, in, being oft put for el, to, or towards.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Ki 8:29",
+       "ref": "1KI.8.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.34#p5-e0aedff1",
+     "text": "2. This may be understood of divers persons; and so the sense is this: When the people of Israel be defeated in battle, and many of their brethren be taken prisoners, and carried into captivity; if then their brethren remaining in the land, shall heartily pray for theft captive brethren, they shall be delivered."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.35",
+   "range": "1KI.8.35",
+   "kind": "passage",
+   "hash": "bad2b890",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.35#p1-5816ee12",
+     "text": "the lower heaven, in which the clouds are; as Deu 11:17 Psa 147:8.",
+     "anchor": "Heaven",
+     "refs": [
+      {
+       "text": "Deu 11:17",
+       "ref": "DEU.11.17"
+      },
+      {
+       "text": "Psa 147:8",
+       "ref": "PSA.147.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.35#p2-d5c1b380",
+     "text": "the heaven is compared to a great store-house in God’s keeping, out of which nothing can be had so long as it is close shut up.",
+     "anchor": "Is shut up"
+    },
+    {
+     "id": "poole/1KI.8.35#p3-d8493015",
+     "text": "do not reject their prayers, because they are forced from them by their afflictions, as thou mayest justly do.",
+     "anchor": "If they turn from their sin, when thou afflictest them"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.36",
+   "range": "1KI.8.36",
+   "kind": "passage",
+   "hash": "06fc9417",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.36#p1-c2deb8a8",
+     "text": "that their sin being pardoned, and thou being reconciled unto them, mayest vouchsafe to teach them. Or rather, as our translators render the very same words, 2Ch 6:27, when thou shalt teach, or hast taught them; not only by thy word, for that was done before; but by their afflictions, which is one of God’s schools; and especially, by thy Spirit, enlightening their minds, and inclining their hearts, that they may learn and profit both by the word and by their afflictions. And this is here fitly added, to show that he could not expect, and did not desire, from God the pardon of their sins, but upon God’s terms, to wit, upon their true repentance.",
+     "anchor": "That thou teach them",
+     "refs": [
+      {
+       "text": "2Ch 6:27",
+       "ref": "2CH.6.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.36#p2-db45fbfb",
+     "text": "i.e. the way or will of God; or the way of their duty, as the following words explain it, which is most rightly called the good way here, and 1Sa 12:23, because it is both just and holy, and therefore good in itself; and good, that is, both delightful and profitable to those that walk in it. The meaning is, When thou hast effectually taught them, and they have thoroughly learned how to please and serve thee acceptably, and to walk before thee in the way which thou hast prescribed them.",
+     "anchor": "The good way",
+     "refs": [
+      {
+       "text": "1Sa 12:23",
+       "ref": "1SA.12.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.36#p3-e4861465",
+     "text": "The order of Solomon’s prayer is very observable: first and chiefly he prays for their repentance and forgiveness, which is the chief blessing, and the only solid foundation of all other mercies; and then he prays for the temporal mercy; thereby teaching us what to mind and desire principally in our prayers; which also Christ hath taught us in his perfect pattern and form of prayer; wherein there is but one petition for outward, and all the rest are for spiritual blessings.",
+     "anchor": "Give rain"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.37",
+   "range": "1KI.8.37",
+   "kind": "passage",
+   "hash": "c990d3fa",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.37#p1-80cae5b4",
+     "text": "i.e. the plague of locusts, or caterpillars, infesting a land by their great numbers, and venomous or noxious qualities; of which see Exo 10:4,5 Deu 28:42 Psa 105:34,35.",
+     "anchor": "Caterpillar",
+     "refs": [
+      {
+       "text": "Exo 10:4",
+       "ref": "EXO.10.4"
+      },
+      {
+       "text": "Psa 105:34",
+       "ref": "PSA.105.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.37#p2-a124cec3",
+     "text": "that chiefly signifies an extraordinary judgment sent from God.",
+     "anchor": "Whatsoever plague"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.38",
+   "range": "1KI.8.38",
+   "kind": "passage",
+   "hash": "0bb7b6d3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.38#p1-13106e97",
+     "text": "i.e. either,",
+     "anchor": "The plague of his own heart"
+    },
+    {
+     "id": "poole/1KI.8.38#p2-034d9b35",
+     "text": "1. His sin, which may be called the plague of his heart, in opposition to the other plagues here mentioned, which afflict only the body, or outward man; so the sense is, Who by their afflictions are brought to a true and serious sense of their worse and inward plague of their sins, which are most fitly called the plague of the heart, because that is both the principal seat of sin, and the fountain from whence all actual sins flow, Mat 15:19. Or rather,",
+     "refs": [
+      {
+       "text": "Mat 15:19",
+       "ref": "MAT.15.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.38#p3-276fd2a2",
+     "text": "2. His affliction; for so this is explained in the parallel place, 2Ch 6:29, (which is the more considerable, because that book was written after this, to explain what was dark or doubtful, and to supply what was lacking in this,) when every one shall know his own sore, and his own grief; which is not unfitly called the plague of his heart, because it was that plague which his heart was most afflicted with, which pained him at the very heart, as the phrase is, Jer 4:19; compare Psa 55:4; which caused him most vexation or grief, which is a passion of the heart: and so the sense is, Who shall know, i.e. be duly and deeply sensible of his affliction, and the hand of God in it; and his sin as the cause of it; for words of knowledge in Scripture do very frequently note such a kind of knowledge as affects and changeth the heart, and reforms the whole course of a man’s life; for which cause, men of ungodly lives are frequently said in Scripture not to know God, or Christ, or his word, &c. And therefore no man knows his sore in a Scripture sense but he who bears the rod, who turneth unto him that smiteth him, and sincerely seeketh to the Lord for relief.",
+     "refs": [
+      {
+       "text": "2Ch 6:29",
+       "ref": "2CH.6.29"
+      },
+      {
+       "text": "Jer 4:19",
+       "ref": "JER.4.19"
+      },
+      {
+       "text": "Psa 55:4",
+       "ref": "PSA.55.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.39",
+   "range": "1KI.8.39",
+   "kind": "passage",
+   "hash": "5f4c0ff3",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.39#p1-dc4da6e2",
+     "text": "according to his repentance or impenitency. I pray with more hope and confidence, because I do not desire that thou wouldst deliver such as are insensible of thy judgments, and their sin; but only those who truly know the plague of their own heart, in manner before explained.",
+     "anchor": "According to his ways"
+    },
+    {
+     "id": "poole/1KI.8.39#p2-84b41386",
+     "text": "thou knowest who are truly penitent, and who are not; and therefore the granting of my request will be no dishonour to thy government, nor injury to thy holy nature.",
+     "anchor": "Whose heart thou knowest"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.40",
+   "range": "1KI.8.40",
+   "kind": "passage",
+   "hash": "f2403d9f",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.40#p1-f2403d9f",
+     "text": "that when thou hast first smitten them, and then so eminently delivered them, and that in answer to their prayer, they may hereby be taught to fear thee, and thy justice, and thy goodness.",
+     "anchor": "That they may fear thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.41",
+   "range": "1KI.8.41",
+   "kind": "passage",
+   "hash": "a765ac03",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.41#p1-2d068260",
+     "text": "This may note either,"
+    },
+    {
+     "id": "poole/1KI.8.41#p2-0baf2992",
+     "text": "1. The end of his coming, that he may worship and glorify thy name; or rather,"
+    },
+    {
+     "id": "poole/1KI.8.41#p3-3cb20842",
+     "text": "2. The motive or occasion of his coming, which was the fame of God’s greatness, and power, and kindness to his people; as the following words explain it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.43",
+   "range": "1KI.8.43",
+   "kind": "passage",
+   "hash": "2e9ff3c6",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.43#p1-5232bd71",
+     "text": "to wit, agreeable to thy will and word; for he would not have them heard, if they had prayed for any thing dishonourable to God, or destructive to his people. It is observable, that his prayer for the strangers is more large and comprehensive than for the Israelites, that thereby he might both show his public spiritedness, and encourage strangers to the worship of the true God.",
+     "anchor": "Do according to all that the stranger calleth to thee for"
+    },
+    {
+     "id": "poole/1KI.8.43#p2-0783afaf",
+     "text": "whereby we see how sincerely and heartily the ancient and godly Jews desired the conversion of the Gentiles; whereas the latter and degenerate Jews, in the days of Christ and of the apostles, did envy, oppose it, and fret at it.",
+     "anchor": "That all people may know thy fame, to fear thee, as do thy people Israel"
+    },
+    {
+     "id": "poole/1KI.8.43#p3-00eb7fb4",
+     "text": "i.e. is owned, not only by us, but by thyself, as thy house; the only place in the world to which thou wilt vouchsafe thy presence and protection, and wherein thou wilt be publicly and solemnly served.",
+     "anchor": "Is called by thy name"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.44",
+   "range": "1KI.8.44",
+   "kind": "passage",
+   "hash": "685278f4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.44#p1-f87f3b1b",
+     "text": "i.e. in a just cause, and by thy warrant or commission; whereby he implies that it was unlawful for them to undertake any war merely for their own glory or lust, or to enlarge their empire beyond its due bounds; and that they could not with safe conscience pray to God for his blessing upon such a war.",
+     "anchor": "Withersoever thou shalt send them"
+    },
+    {
+     "id": "poole/1KI.8.44#p2-131a6c6e",
+     "text": "whereby he instructs them that they should not trust either to the strength or justice of their arms, but only to God’s help and blessing, which they were to pray for.",
+     "anchor": "And shall pray unto the Lord"
+    },
+    {
+     "id": "poole/1KI.8.44#p3-a388c5a2",
+     "text": "to wit, for thy dwelling-place, and the seat of thy temple.",
+     "anchor": "The city which thou hast chosen"
+    },
+    {
+     "id": "poole/1KI.8.44#p4-d26203d8",
+     "text": "for to it they were to turn their faces in prayer; partly thereby to profess themselves to be the worshippers of the true God, in opposition to idols; and that they sought help from him, and from no other; and partly to strengthen faith in God’s promises and covenant, the tables whereof were contained in that house.",
+     "anchor": "Toward the house that I have built for thy name"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.45",
+   "range": "1KI.8.45",
+   "kind": "passage",
+   "hash": "0557f736",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.45#p1-0557f736",
+     "text": "Declare the justice of their cause, by giving them the victory."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.46",
+   "range": "1KI.8.46",
+   "kind": "passage",
+   "hash": "21ab0397",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.46#p1-21ab0397",
+     "text": "the universal corruption of man’s whole race and nature makes me presage that they will fall into sins; and withal, makes me to hope that thou wilt not be severe to deal with them as their sins deserve.",
+     "anchor": "There is no man that sinneth not"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.47",
+   "range": "1KI.8.47",
+   "kind": "passage",
+   "hash": "ae542e0d",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.47#p1-c0ea59ff",
+     "text": "Heb. bring back their hearts, to wit, their sin; expressed 1Ki 8:46, and implied in the following word,",
+     "anchor": "If they shall bethink themselves",
+     "refs": [
+      {
+       "text": "1Ki 8:46",
+       "ref": "1KI.8.46"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.47#p2-75daadb5",
+     "text": "sensibly, and with an honest heart,",
+     "anchor": "repent. Saying"
+    },
+    {
+     "id": "poole/1KI.8.47#p3-2292e964",
+     "text": "& c.",
+     "anchor": "We have sinned"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.48",
+   "range": "1KI.8.48",
+   "kind": "passage",
+   "hash": "79925c7a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.48#p1-79925c7a",
+     "text": "i.e. sincerely, universally, and stedfastly.",
+     "anchor": "With all their heart, and with all their soul"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.49",
+   "range": "1KI.8.49",
+   "kind": "passage",
+   "hash": "3a2a1473",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.49#p1-3a2a1473",
+     "text": "Heb. their right, against their invaders and oppressors. For they had forfeited all their rights to God only, but not to their enemies; whom though God used as scourges to chastise his people’s sins, yet they had no pretence of right to their land, nor any regard to it; but only minded the satisfaction of their own lusts and interests. See Isa 10:5,6 47:6 Zec 1:15.",
+     "refs": [
+      {
+       "text": "Isa 10:5",
+       "ref": "ISA.10.5"
+      },
+      {
+       "text": "Zec 1:15",
+       "ref": "ZEC.1.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.50",
+   "range": "1KI.8.50",
+   "kind": "passage",
+   "hash": "da784be4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.50#p1-da784be4",
+     "text": "i.e. May gently use them whilst they are there, and proclaim liberty to their captives to go to their own land."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.51",
+   "range": "1KI.8.51",
+   "kind": "passage",
+   "hash": "787b63a0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.51#p1-05b4517e",
+     "text": "for howsoever they may sin against thee, or suffer from men, yet still remember that they are thy peculiar people, and therefore do thou pity, and pardon, and save them.",
+     "anchor": "They be thy people"
+    },
+    {
+     "id": "poole/1KI.8.51#p2-85c65b8c",
+     "text": "so called, either from the metal melted in it; or rather, from the matter of which it consisted, an iron furnace being more hot and terrible than one of brick or stone. He understands hereby their cruel bondage and painful labours. See Poole \"Deu 4:20\".",
+     "anchor": "The furnace of iron",
+     "refs": [
+      {
+       "text": "Deu 4:20",
+       "ref": "DEU.4.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.53",
+   "range": "1KI.8.53",
+   "kind": "passage",
+   "hash": "98a0dda0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.53#p1-98a0dda0",
+     "text": "thou hast begun to build a work of great and glorious mercy to them; do not give occasion to thine enemies to think thou wast unable to finish it; or that thou art unstable in thy ways and counsels, or unkind to thine own children.",
+     "anchor": "Thou didst separate them to be thine inheritance"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.56",
+   "range": "1KI.8.56",
+   "kind": "passage",
+   "hash": "7426ecbb",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.56#p1-7426ecbb",
+     "text": "see the like Jos 21:45 23:14 2Ki 10:10.",
+     "anchor": "There hath not failed one word of all his good promise",
+     "refs": [
+      {
+       "text": "Jos 21:45",
+       "ref": "JOS.21.45"
+      },
+      {
+       "text": "2Ki 10:10",
+       "ref": "2KI.10.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.57",
+   "range": "1KI.8.57",
+   "kind": "passage",
+   "hash": "8638457c",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.57#p1-8638457c",
+     "text": "by the presence of his grace and mercy.",
+     "anchor": "The Lord our God be with us"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.58",
+   "range": "1KI.8.58",
+   "kind": "passage",
+   "hash": "8df1d6fa",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.58#p1-8df1d6fa",
+     "text": "that he may not only bless us with outward prosperity and glory, but especially with spiritual blessings; and that as he hath given us his word and statutes to teach and direct us, so he would by his Holy Spirit effectually incline and engage our hearts to keep and obey them.",
+     "anchor": "That he may incline our hearts unto him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.59",
+   "range": "1KI.8.59",
+   "kind": "passage",
+   "hash": "4e618ba9",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.59#p1-aeb6224f",
+     "text": "i.e. of me, as 1Ki 8:28-30, their king, and consequently of all my successors.",
+     "anchor": "Of his servant",
+     "refs": [
+      {
+       "text": "1Ki 8:28-30",
+       "ref": "1KI.8.28-30"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.59#p2-75843729",
+     "text": "according to mine or their various necessities and exigencies.",
+     "anchor": "And the cause of his people Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.60",
+   "range": "1KI.8.60",
+   "kind": "passage",
+   "hash": "5e959df8",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.60#p1-5e959df8",
+     "text": "Both by our virtuous and holy lives, to which thou inclinest us by thy grace; and by the eminent manifestations of thy power and goodness, in defending and delivering us from all the assaults and devices of our enemies."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.61",
+   "range": "1KI.8.61",
+   "kind": "passage",
+   "hash": "188aabca",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.61#p1-188aabca",
+     "text": "i.e. sincere and serious in your purposes of obedience; for sinless perfection he himself taught them was not to be expected here, Ecc 7:20.",
+     "anchor": "Perfect",
+     "refs": [
+      {
+       "text": "Ecc 7:20",
+       "ref": "ECC.7.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.63",
+   "range": "1KI.8.63",
+   "kind": "passage",
+   "hash": "fc1971b0",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.63#p1-63f8913f",
+     "text": "by the hands of the priests.",
+     "anchor": "Solomon offered a sacrifice"
+    },
+    {
+     "id": "poole/1KI.8.63#p2-bf4316f4",
+     "text": "not all in one day, but in the seven, or, it may be, in the fourteen days, mentioned 1Ki 8:65. So, i.e. by these sacrifices and holy exercises.",
+     "anchor": "A hundred and twenty thousand sheep",
+     "refs": [
+      {
+       "text": "1Ki 8:65",
+       "ref": "1KI.8.65"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.63#p3-6d7a015d",
+     "text": "i.e. began to set it apart for the work and service of God.",
+     "anchor": "Dedicated the house of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.64",
+   "range": "1KI.8.64",
+   "kind": "passage",
+   "hash": "e9dee3c2",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.64#p1-e9dee3c2",
+     "text": "to wit, of the priests’ court, in which the great altar was. This he consecrated as he did the great altar, to wit, by sacrifices; but with this difference, that he consecrated that for lasting and perpetual use, but this only for the present time and occasion, being warranted to do so both by the necessity of it for God’s service; and for the present solemn work, for which the brazen altar was not sufficient, as it here follows; and by the direction of God’s Spirit, wherewith Solomon was endowed, as being a prophet as well as a king. Here therefore he suddenly reared up divers altars, which after this solemnity were demolished.",
+     "anchor": "The middle of the court"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.65",
+   "range": "1KI.8.65",
+   "kind": "passage",
+   "hash": "9ecdd9ab",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.65#p1-30063803",
+     "text": "i.e. kept the solemnity. From the entering in of Hamath unto the river of Egypt; the usual and known bounds of the land, in the utmost length of it; of which see Num 34:8 Jos 13:5 Jud 3:3.",
+     "anchor": "Held a feast",
+     "refs": [
+      {
+       "text": "Num 34:8",
+       "ref": "NUM.34.8"
+      },
+      {
+       "text": "Jos 13:5",
+       "ref": "JOS.13.5"
+      },
+      {
+       "text": "Jud 3:3",
+       "ref": "JUD.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.65#p2-b00275cf",
+     "text": "i.e. before the temple, and as in God’s presence.",
+     "anchor": "Before the Lord"
+    },
+    {
+     "id": "poole/1KI.8.65#p3-89c9fe4e",
+     "text": "seven for the dedication of the temple or altar, and the other seven for the feast of tabernacles, as, nay be gathered from 2Ch 7:9. And it seems to be expressed in this manner, to intimate that these fourteen days of rejoicing were not all together, but that there was some interval between them, which indeed was necessary, because the day of atonement was on the tenth day of this month, Lev 23:27. And because these fourteen days ended on the twenty-second day, 2Ch 7:9, it may seem most probable that the feast of the dedication was kept before the tenth day, and the feast of tabernacles some days after it.",
+     "anchor": "Seven days and seven days",
+     "refs": [
+      {
+       "text": "2Ch 7:9",
+       "ref": "2CH.7.9"
+      },
+      {
+       "text": "Lev 23:27",
+       "ref": "LEV.23.27"
+      },
+      {
+       "text": "2Ch 7:9",
+       "ref": "2CH.7.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.8.66",
+   "range": "1KI.8.66",
+   "kind": "passage",
+   "hash": "6b86b267",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.8.66#p1-4502a48c",
+     "text": "Solomon having joined with the people in the solemn assembly, which was kept on the eighth day, in the close of that day and service he took his solemn farewell, and dismissed them with his blessing; and the next morning when the heads and elders who came to Solomon upon this special summons, above, 1Ki 8:3, and with them divers of the people came to take their leave of the king, he sent them away. And so this place agrees very well with 2Ch 7:9,10.",
+     "refs": [
+      {
+       "text": "1Ki 8:3",
+       "ref": "1KI.8.3"
+      },
+      {
+       "text": "2Ch 7:9",
+       "ref": "2CH.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.8.66#p2-d7aad168",
+     "text": "i.e. they prayed to God to bless him, according to their duty and custom. Or,",
+     "anchor": "They blessed the king"
+    },
+    {
+     "id": "poole/1KI.8.66#p3-9d21ccd7",
+     "text": "for his great care and pains in building of the temple, and setting up God’s worship among them.",
+     "anchor": "they praised him"
+    },
+    {
+     "id": "poole/1KI.8.66#p4-60bfb69d",
+     "text": "in giving him a sure house, and a wise and religious son, by whom he had now fulfilled the promise made to David about the building of the temple.",
+     "anchor": "The goodness that the Lord had done for David"
+    }
+   ]
+  }
+ ]
+}

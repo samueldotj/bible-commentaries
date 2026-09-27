@@ -1,0 +1,169 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 121,
+ "units": [
+  {
+   "id": "poole/PSA.121",
+   "range": "PSA.121",
+   "kind": "chapter",
+   "hash": "0c23daab",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.121#p2-30805923",
+     "text": "The matter of this Psalm sufficiently showeth that the psalmist was conflicting with great difficulties and oppositions, and looking. hither and thither for help, as men in such cases use to do, and then turning his eyes to God and his providence, and encouraging himself by God’s promises made to his people."
+    },
+    {
+     "id": "poole/PSA.121#p3-48b43066",
+     "text": "The psalmist showeth that the great safety of the godly is from the Lord, Psa 121:1-5, who keepeth them in their outgoings and incomings from all evil, Psa 121:6-8.",
+     "refs": [
+      {
+       "text": "Psa 121:1-5",
+       "ref": "PSA.121.1-5"
+      },
+      {
+       "text": "Psa 121:6-8",
+       "ref": "PSA.121.6-8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.1",
+   "range": "PSA.121.1",
+   "kind": "passage",
+   "hash": "c8a1169c",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.1#p1-2d56e8a0",
+     "text": "either to Zion and Moriah, which are called the holy mountains, Psa 87:1; or rather,",
+     "anchor": "Unto the hills",
+     "refs": [
+      {
+       "text": "Psa 87:1",
+       "ref": "PSA.87.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.121.1#p2-d883e6d0",
+     "text": "2. To the hills in general, whereof there were many in the land of Canaan, and upon which the forces, which he hoped would come to his aid, might be seen at a great distance."
+    },
+    {
+     "id": "poole/PSA.121.1#p3-d810028c",
+     "text": "or, may come; Heb. will come.",
+     "anchor": "Cometh"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.2",
+   "range": "PSA.121.2",
+   "kind": "passage",
+   "hash": "64753d44",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.2#p1-64753d44",
+     "text": "From God alone, and therefore to him alone will I turn mine eyes."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.3",
+   "range": "PSA.121.3",
+   "kind": "passage",
+   "hash": "1435d140",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.3#p1-3f6f468c",
+     "text": "He speaketh as it were from God to himself, but withal to the encouragement of his followers and of all good men."
+    },
+    {
+     "id": "poole/PSA.121.3#p2-9eddfe85",
+     "text": "to wit, so as fall into mischief.",
+     "anchor": "To be moved"
+    },
+    {
+     "id": "poole/PSA.121.3#p3-b6e456b5",
+     "text": "will not overlook nor neglect any thing which is necessary for thy preservation.",
+     "anchor": "Will not slumber"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.5",
+   "range": "PSA.121.5",
+   "kind": "passage",
+   "hash": "806c255a",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.5#p1-7f2cf4e2",
+     "text": "both to refresh thee and keep thee from the burning heat of the sun, as it is expressed in the next verse, and to protect thee by his power from all thine enemies; for which reason God is oft called a shadow in Scripture.",
+     "anchor": "Thy shade"
+    },
+    {
+     "id": "poole/PSA.121.5#p2-6c6ae5de",
+     "text": "partly to uphold thy right hand, which is the chief instrument of action; and partly to defend thee in that place where thine enemies oppose thee; of which on Psa 109:6. And compare Psa 16:8 109:31.",
+     "anchor": "Upon thy right hand",
+     "refs": [
+      {
+       "text": "Psa 109:6",
+       "ref": "PSA.109.6"
+      },
+      {
+       "text": "Psa 16:8",
+       "ref": "PSA.16.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.6",
+   "range": "PSA.121.6",
+   "kind": "passage",
+   "hash": "793110fb",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.6#p1-811e3e01",
+     "text": "with excessive heat,",
+     "anchor": "The sun shall not smite thee"
+    },
+    {
+     "id": "poole/PSA.121.6#p2-c1b07702",
+     "text": "with that cold and moisture which comes into the air by it and with it. Intemperate heats and colds are the two springs of many diseases. He alludes both to the conditions of soldiers or travellers, who are exposed to the open air by day and by night, and also to the cloudy pillar which defended the Israelites both by day and by night. The sense is, He shall protect thee from all evils both by day and night.",
+     "anchor": "nor the moon"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.121.8",
+   "range": "PSA.121.8",
+   "kind": "passage",
+   "hash": "e8261c87",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.121.8#p1-e8261c87",
+     "text": "shall guard and assist thee in all thy expeditions, and affairs, and actions, either at home or abroad. So this phrase is used Num 27:17 Deu 28:6.",
+     "anchor": "Shall preserve thy going out and thy coming in",
+     "refs": [
+      {
+       "text": "Num 27:17",
+       "ref": "NUM.27.17"
+      },
+      {
+       "text": "Deu 28:6",
+       "ref": "DEU.28.6"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

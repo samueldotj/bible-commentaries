@@ -1,0 +1,2209 @@
+{
+ "source": "poole",
+ "book": "JHN",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/JHN.1",
+   "range": "JHN.1",
+   "kind": "chapter",
+   "hash": "66bc565f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1#p1-8bfd7d83",
+     "text": "Joh 1:1-5 The Divinity of Christ.",
+     "refs": [
+      {
+       "text": "Joh 1:1-5",
+       "ref": "JHN.1.1-5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p2-4ccdcd91",
+     "text": "Joh 1:6-13 The mission of John, and end of Christ’s coming.",
+     "refs": [
+      {
+       "text": "Joh 1:6-13",
+       "ref": "JHN.1.6-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p3-15c38989",
+     "text": "Joh 1:14 The incarnation of the Word.",
+     "refs": [
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p4-5863fc04",
+     "text": "Joh 1:15-18 Christ’s superior dignity witnessed by John, and evinced by his gracious dispensation.",
+     "refs": [
+      {
+       "text": "Joh 1:15-18",
+       "ref": "JHN.1.15-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p5-a7e3f130",
+     "text": "Joh 1:19-28 John’s record of himself to the messengers of the Jews.",
+     "refs": [
+      {
+       "text": "Joh 1:19-28",
+       "ref": "JHN.1.19-28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p6-e5159a05",
+     "text": "Joh 1:29-34 His public testimony to the person of Christ.",
+     "refs": [
+      {
+       "text": "Joh 1:29-34",
+       "ref": "JHN.1.29-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p7-f614eeb2",
+     "text": "Joh 1:35-42 Two of his disciples, hearing it, follow Jesus: Simon is brought to Christ, and surnamed Cephas.",
+     "refs": [
+      {
+       "text": "Joh 1:35-42",
+       "ref": "JHN.1.35-42"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1#p8-50fdeb8c",
+     "text": "Joh 1:43-51 Philip is called, who bringeth Nathanael to Jesus.",
+     "refs": [
+      {
+       "text": "Joh 1:43-51",
+       "ref": "JHN.1.43-51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.1",
+   "range": "JHN.1.1",
+   "kind": "passage",
+   "hash": "576fa73b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.1#p1-289fcdf2",
+     "text": "in that beginning which Moses mentions, Gen 1:1, the beginning of all things, when the foundations of the world were laid, Pro 8:27,28; the beginning of time; for before that was no measure of time, all was eternity.",
+     "anchor": "In the beginning",
+     "refs": [
+      {
+       "text": "Gen 1:1",
+       "ref": "GEN.1.1"
+      },
+      {
+       "text": "Pro 8:27",
+       "ref": "PRO.8.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.1#p2-c4af7306",
+     "text": "that is, the eternal Son of God, the Lord Jesus Christ, of whom more is spoken afterward.",
+     "anchor": "Was the Word"
+    },
+    {
+     "id": "poole/JHN.1.1#p3-4bd7dee7",
+     "text": "Nor is Christ in this text alone called the Word, but 1Jn 1:1, the Word of life; so Rev 19:13: and there are some who think he is so called, Luk 1:2, comparing that text with 2Pe 1:16, as also Psa 33:6. Nor is it an improper term by which to express the Son of God; for it both expresses something of his ineffable generation, as the word is begotten in our thoughts, and is the express image of them; and also his office in the revelation of his Father’s will unto the sons of men, and revealing his Father to us, Mat 11:27: and there are some (if they be not too curious in their notion) who think by that phrase of David, 2Sa 7:21, For thy word’s sake, ( expounded for thy servant’s sake, 1Ch 17:19, which is the title of Christ, Isa 42:1), that Christ is meant.",
+     "refs": [
+      {
+       "text": "1Jn 1:1",
+       "ref": "1JN.1.1"
+      },
+      {
+       "text": "Rev 19:13",
+       "ref": "REV.19.13"
+      },
+      {
+       "text": "Luk 1:2",
+       "ref": "LUK.1.2"
+      },
+      {
+       "text": "2Pe 1:16",
+       "ref": "2PE.1.16"
+      },
+      {
+       "text": "Psa 33:6",
+       "ref": "PSA.33.6"
+      },
+      {
+       "text": "Mat 11:27",
+       "ref": "MAT.11.27"
+      },
+      {
+       "text": "2Sa 7:21",
+       "ref": "2SA.7.21"
+      },
+      {
+       "text": "1Ch 17:19",
+       "ref": "1CH.17.19"
+      },
+      {
+       "text": "Isa 42:1",
+       "ref": "ISA.42.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.1#p4-c3f96549",
+     "text": "Besides, it is observed, that this term was more acceptable both to the Jews and the heathens, than the term of Christ, or the Son of God, would have been; for there was nothing more abhorred by the Jews than the latter; and the heathen writers made (as is noted by divers) a great use of this term, to express the name and the power of God. Nor is any thing more ordinary with the Chaldee paraphrast than this expression: Isa 45:12, I have made the earth; Chald. I in my word have made the earth. So Isa 48:13, Mine hand hath laid the foundation of the earth; Chald.",
+     "refs": [
+      {
+       "text": "Isa 45:12",
+       "ref": "ISA.45.12"
+      },
+      {
+       "text": "Isa 48:13",
+       "ref": "ISA.48.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.1#p5-6c87c01f",
+     "text": "By my word I have laid the foundations of the earth: this is taken from Moses’s describing the creation by God’s word of command, Let there be light, and there was light; the manner of expressing it by the word command, is significative that all things were made by his eternal Word; for would any Jew deny, that God by his word created the world?"
+    },
+    {
+     "id": "poole/JHN.1.1#p6-dce674a5",
+     "text": "The evangelist therefore calleth Christ, to whom he was about to attribute the creation, the Word; not the word of God (so the Scriptures are called); to distinguish Christ in this notion from the revelation of the Divine will to the prophets, he is only called the Word, though he was the Son of God. Nor is it said, that in the beginning was the Word created, (as is said of the heavens and the earth, Gen 1:1), but was the Word: this proveth the eternal existence of the Second Person in the Trinity; for what was in the beginning did not then begin to be: the term the Word, without the addition of God, speaketh him a subsistence; and it being said, that in the beginning he was, speaks his eternal existence; for what had a being in the beginning of time must needs be eternal, nothing being when time began but what was eternal. To this purpose are those texts, Psa 90:2 Pro 8:22-31 Joh 17:5 Eph 1:4 2Th 2:13, which two texts compared show, In the beginning, here used, to be the same with before the foundation of the world: so 2Ti 1:9.",
+     "refs": [
+      {
+       "text": "Gen 1:1",
+       "ref": "GEN.1.1"
+      },
+      {
+       "text": "Psa 90:2",
+       "ref": "PSA.90.2"
+      },
+      {
+       "text": "Pro 8:22-31",
+       "ref": "PRO.8.22-31"
+      },
+      {
+       "text": "Joh 17:5",
+       "ref": "JHN.17.5"
+      },
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      },
+      {
+       "text": "2Th 2:13",
+       "ref": "2TH.2.13"
+      },
+      {
+       "text": "2Ti 1:9",
+       "ref": "2TI.1.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.1#p7-97ea86b7",
+     "text": "lest any should say, Where was this Word before the foundations of the earth were laid? The evangelist saith, with God, which agreeth with Pro 8:27,30. This both distinguishes Christ from all creatures, (none of which were with God in the beginning), and also showeth the vanity of Sabellius, and those we call quakers, who will not allow Christ to be a distinct subsistence, or person, from his Father: it also denotes the Son’s co-existence and his equality with his Father; and yet his filial relation; for God is not said to have been with the Word, but the Word was with God, which also speaks a perfect unity and consent between them.",
+     "anchor": "The Word was with God",
+     "refs": [
+      {
+       "text": "Pro 8:27",
+       "ref": "PRO.8.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.1#p8-627e5c21",
+     "text": "lest any should say, What but God can be eternal, or be said to have been and had an existence in the beginning of the world? The evangelist addeth, that the Word was God: that is, the person or subsistence spoken of and intended by him was the Divine Being, which is but one; though in it there be three distinct subsistences, all make but one and the same Divine Being. The first thing spoken here of Christ attributes to him eternity; the second speaks his relation to the Father; this speaks the oneness and sameness of his essence with that of the Father. The term God, which in the foregoing words is to be taken personally for God the Father, is here to be taken essentially, as it signifieth the Divine Being.",
+     "anchor": "And the Word was God"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.2",
+   "range": "JHN.1.2",
+   "kind": "passage",
+   "hash": "a8c95cfc",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.2#p1-a8c95cfc",
+     "text": "These words of the evangelist are a further confirmation and explication of what the evangelist had said before; asserting the eternity of the Son, and his relation to the Father, and oneness of essence with the Father. Whether the evangelist, forewarned by the Spirit of God, did add this repetition to forearm Christians against those errors which did afterward trouble the church, I cannot say; but certain it is, that these words do effectually confute the Eunomians, who distinguished between the Word which in the beginning was with God, and that Word by which all things were made; and the Arians, who make the Father to have existed before the Son; as also the Anomians, who would make the Father and the Son diverse both in nature and will. Some others make this verse a transition to Joh 1:4, and the sense to be, This same was not manifest to the world from the beginning of the world, but was with God until he came to be manifested in the flesh: thus, 1Jn 1:2, it is said, he was with the Father, and was manifested unto us. He was manifested in the flesh, 1Ti 3:16.",
+     "refs": [
+      {
+       "text": "Joh 1:4",
+       "ref": "JHN.1.4"
+      },
+      {
+       "text": "1Jn 1:2",
+       "ref": "1JN.1.2"
+      },
+      {
+       "text": "1Ti 3:16",
+       "ref": "1TI.3.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.3",
+   "range": "JHN.1.3",
+   "kind": "passage",
+   "hash": "9abedea4",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.3#p1-b8cd2b6a",
+     "text": "the Divine nature and eternal existence of the Lord Christ, is evident from his efficiency in the creation of the world: what the evangelist here calleth all things, the apostle to the Hebrews, Heb 1:2, calleth the worlds; and St. Paul, Col 1:16, calleth, all things that are in heaven and earth, visible and invisible; Moses calls, the heaven and the earth, Gen 1:1. These were all made by the Word; not as an instrumental cause, but as a principal efficient cause; for though it be true, that the preposition δια is sometimes used to signify an instrumental cause; yet it is as true, that it is often used to signify the principal efficient cause; as Joh 6:57 Act 3:16 Rom 5:5 11:36 Eph 4:6, and in many other texts: it here only denotes the order of the working of the holy Trinity.",
+     "anchor": "All things were made by him",
+     "refs": [
+      {
+       "text": "Heb 1:2",
+       "ref": "HEB.1.2"
+      },
+      {
+       "text": "Col 1:16",
+       "ref": "COL.1.16"
+      },
+      {
+       "text": "Gen 1:1",
+       "ref": "GEN.1.1"
+      },
+      {
+       "text": "Joh 6:57",
+       "ref": "JHN.6.57"
+      },
+      {
+       "text": "Act 3:16",
+       "ref": "ACT.3.16"
+      },
+      {
+       "text": "Rom 5:5",
+       "ref": "ROM.5.5"
+      },
+      {
+       "text": "Eph 4:6",
+       "ref": "EPH.4.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.3#p2-241e5488",
+     "text": "nothing that was made, neither the heavens nor the earth, neither things visible nor invisible, were made without him. There is nothing more ordinary in holy writ, than after the laying down a universal proposition, (where no synecdoche is used), to add also a universal negative for the confirmation of it: so Rom 3:12, There is none that doeth good; then is added, no, not one; Lam 2:2, and in many other texts. The term without him, doth not exclude the efficiency either of the First, or Third Person in the Trinity, in the creation of all things; the Father created the world by the Son, his Word; and the creation of the world is attributed to the Spirit, Gen 1:1 Job 33:4 Psa 33:6.",
+     "anchor": "Without him was not any thing made that was made",
+     "refs": [
+      {
+       "text": "Rom 3:12",
+       "ref": "ROM.3.12"
+      },
+      {
+       "text": "Lam 2:2",
+       "ref": "LAM.2.2"
+      },
+      {
+       "text": "Gen 1:1",
+       "ref": "GEN.1.1"
+      },
+      {
+       "text": "Job 33:4",
+       "ref": "JOB.33.4"
+      },
+      {
+       "text": "Psa 33:6",
+       "ref": "PSA.33.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.4",
+   "range": "JHN.1.4",
+   "kind": "passage",
+   "hash": "8f683da0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.4#p1-7402134f",
+     "text": "in this Word was life corporal, spiritual, eternal; it was in him as in the fountain. Some understand this of corporal life, both in the first being and preservation of it; it is certain that this is in Christ, for he upholdeth all things by the word of his power, Heb 1:3 Act 17:28; and thus it is another demonstration of the Deity of Christ. Others think that here is rather a transition from creation to redemption; you hath he quickened, Eph 2:1. Others understand it of eternal life, because our evangelist most generally taketh the term life, as a benefit flowing from Christ, in this sense, as Eph 3:16, and Eph 4:14, and in a multitude of other texts. I know no reason why we should not understand it of all life; all life being in Christ, as God equal with the Father; and spiritual and eternal life flowing also from him in a more peculiar consideration, as Mediator.",
+     "anchor": "In him was life",
+     "refs": [
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      },
+      {
+       "text": "Act 17:28",
+       "ref": "ACT.17.28"
+      },
+      {
+       "text": "Eph 2:1",
+       "ref": "EPH.2.1"
+      },
+      {
+       "text": "Eph 3:16",
+       "ref": "EPH.3.16"
+      },
+      {
+       "text": "Eph 4:14",
+       "ref": "EPH.4.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.4#p2-51dccc72",
+     "text": "but though as God he distributes life according to their degree to all his creatures, yet he is the peculiar light of men, enlightening their minds with light of which vegetative and sensitive creatures are not capable; so as by light is not here to be understood the emanations of any lucid bodies, as that of the sun or stars, for other creatures as well as men are capable of that; nor is it to be understood of the light of reason, though that be the candle of the Lord in the soul; but that light by which we discern the things of God; in which sense the apostle saith, Eph 5:8, Ye were darkness, but now ye are light in the Lord. And therefore he saith of men, exclusively to angels, who though lightsome, noble creatures, yet had not their nature assumed by Christ, Heb 2:16. Besides that it is said in the next verse, that this light shineth in darkness, that is, amongst many men who yet had reasonable souls, but the darkness comprehended it not. That cannot be, that men did not comprehend reason, but even rational men comprehended not this light of supernatural revelation.",
+     "anchor": "And the life was the light of men",
+     "refs": [
+      {
+       "text": "Eph 5:8",
+       "ref": "EPH.5.8"
+      },
+      {
+       "text": "Heb 2:16",
+       "ref": "HEB.2.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.4#p3-ca969524",
+     "text": "So John is said to have come to testify of that light; who did not come to testify of Christ, as the author of reason. Nor is there any text of Scripture in which the term light signifieth reason."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.5",
+   "range": "JHN.1.5",
+   "kind": "passage",
+   "hash": "7ffcddda",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.5#p1-ca4d2428",
+     "text": "he had said before, that life was in Christ, in him as in the fountain; and the life in him was the light of men, giving light to men. Now this light which was in him had its emanations (as light in the sun); and the darkness, that is, men of dark minds, (the abstract being put for the concrete),",
+     "anchor": "The light shineth in darkness"
+    },
+    {
+     "id": "poole/JHN.1.5#p2-3a4a3592",
+     "text": "(that is, received) it not. This was true concerning the Jews in former times, upon whom Christ the true Light had shined in many types and prophecies; it was also true concerning the Jews of that present age, to whom, through the favour of him who had undertaken the redemption of man, the means of grace were continued; through the blindness of their minds and hardness of their hearts, they wilfully rejected those means of illumination which God granted to them.",
+     "anchor": "comprehended"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.6",
+   "range": "JHN.1.6",
+   "kind": "passage",
+   "hash": "afb46854",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.6#p1-23553c9e",
+     "text": "not the Christ, not an angel, but a man; yet one, than whom (as our Saviour saith) there had not risen a greater amongst those that were born of women. He did not come of his own head, but was sent; for it was he of whom it was written, Mal 3:1, Behold, I will send my messenger before thy face, & c., Luk 7:27, he was not sent of men, but from God, foretold by the angel, as to his existence, name, work, and success, Luk 1:13-17.",
+     "anchor": "There was a man sent from God",
+     "refs": [
+      {
+       "text": "Mal 3:1",
+       "ref": "MAL.3.1"
+      },
+      {
+       "text": "Luk 7:27",
+       "ref": "LUK.7.27"
+      },
+      {
+       "text": "Luk 1:13-17",
+       "ref": "LUK.1.13-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.6#p2-93115794",
+     "text": "his name was John, named by the angel, Luk 1:13, before he was born; by his father and mother, Luk 1:60,63, when he was born. John signifieth grace; and doubtless the Baptist obtained that name, because he was to be the first and a famous preacher of the grace of the gospel which came to the world through Jesus Christ.",
+     "anchor": "Whose name was John",
+     "refs": [
+      {
+       "text": "Luk 1:13",
+       "ref": "LUK.1.13"
+      },
+      {
+       "text": "Luk 1:60",
+       "ref": "LUK.1.60"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.7",
+   "range": "JHN.1.7",
+   "kind": "passage",
+   "hash": "cf226ed8",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.7#p1-9e17c0a0",
+     "text": "John was called a messenger to denote his authority; a witness, to denote his work, which is the work of every true minister of the gospel. John was the first witness, and witnessed a thing wholly unknown (before him) to the generality of the world; for though the shepherds, and Simeon, and Anna, had given some testimony to Christ, when he was born, and brought into the temple to be offered to the Lord, yet that was thirty years since, and generally forgot; neither could they bear a testimony to him as an actual minister of the gospel.",
+     "anchor": "The same came for a witness"
+    },
+    {
+     "id": "poole/JHN.1.7#p2-42fe55b5",
+     "text": "The apostles were to be witnesses to Christ, Act 1:8; witnesses of his resurrection, Act 1:22 4:33 5:32 10:41 13:31. All the prophets bare witness to him, that whosoever believeth in his name should be saved, Act 10:43. So did John also; and John further pointed to him passing by, and witnessed that it was he of whom the prophets spake. So that the apostles, and so following ministers, were and are greater witnesses than John the Baptist. The prophets witnessed that he should come, John Baptist witnessed that he should come; the apostles witnessed that he was not only come, but had died, and was again risen from the dead.",
+     "refs": [
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      },
+      {
+       "text": "Act 1:22",
+       "ref": "ACT.1.22"
+      },
+      {
+       "text": "Act 10:43",
+       "ref": "ACT.10.43"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.7#p3-449419f5",
+     "text": "for John’s office was to give a testimony to Christ the true Light, mentioned before; so called, because he maketh manifest, Eph 5:13. He revealeth his Father, Mat 11:27. He is the brightness of his Father’s glory, Heb 1:3, who is light, 1Jn 1:5, and the world is by him enlightened. It was prophesied of his times, Isa 11:9, that the earth should be full of the knowledge of the Lord. That all men through him might believe; the end of John’s testimony was, that multitudes of all sorts might believe by him, or by it, as an instrumental cause of their faith. If we read it by him, it is most proper to understand the pronoun of John the Baptist; for we are not said to believe by Christ, but in him, in his name, & c.",
+     "anchor": "To bear witness of the Light",
+     "refs": [
+      {
+       "text": "Eph 5:13",
+       "ref": "EPH.5.13"
+      },
+      {
+       "text": "Mat 11:27",
+       "ref": "MAT.11.27"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      },
+      {
+       "text": "1Jn 1:5",
+       "ref": "1JN.1.5"
+      },
+      {
+       "text": "Isa 11:9",
+       "ref": "ISA.11.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.8",
+   "range": "JHN.1.8",
+   "kind": "passage",
+   "hash": "20ee325d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.8#p1-7957a906",
+     "text": "John the Baptist was a light, as all saints are light in the Lord, Eph 5:8; nay, in a peculiar sense our Saviour beareth him witness, that he was a burning and shining light; but he was not that Light before mentioned, Joh 1:5, that shineth in darkness; and again Joh 1:9 which lighteth every man that cometh into the world. John borrowed his light from that original Light; that Light was God, he was but a man sent from God. The men of the world are ordinarily in extremes, either wholly rejecting God’s ministers and witnesses, or else adoring them; as the world is concerned to take heed of the former, so the ministers of Christ are also highly concerned not to admit the latter. See Luk 7:33 Act 14:13,14; but both John here, and Paul there, were very cautious not to rob their Master of the honour due unto him alone.",
+     "anchor": "He was not that Light",
+     "refs": [
+      {
+       "text": "Eph 5:8",
+       "ref": "EPH.5.8"
+      },
+      {
+       "text": "Joh 1:5",
+       "ref": "JHN.1.5"
+      },
+      {
+       "text": "Joh 1:9",
+       "ref": "JHN.1.9"
+      },
+      {
+       "text": "Luk 7:33",
+       "ref": "LUK.7.33"
+      },
+      {
+       "text": "Act 14:13",
+       "ref": "ACT.14.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.8#p2-5afa4115",
+     "text": "John, as was said before, came only to bear witness of that Light, that he was come, and shined forth, and was the true Light, as it followeth.",
+     "anchor": "But was sent to bear witness of that Light"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.9",
+   "range": "JHN.1.9",
+   "kind": "passage",
+   "hash": "a60cfa2b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.9#p1-abde8c14",
+     "text": "true is sometimes opposed to what is false, Eph 4:25; sometimes to what is typical and figurative, Joh 1:17; sometimes to what is not original, and of itself: in opposition to all these Christ is the true Light; he who alone deserved the name of light, having light in himself, and from himself, 1Jn 2:8, and shining more gloriously than the prophets or apostles.",
+     "anchor": "That was the true Light",
+     "refs": [
+      {
+       "text": "Eph 4:25",
+       "ref": "EPH.4.25"
+      },
+      {
+       "text": "Joh 1:17",
+       "ref": "JHN.1.17"
+      },
+      {
+       "text": "1Jn 2:8",
+       "ref": "1JN.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.9#p2-e5a5b99a",
+     "text": "he lighteth not the Jews only, (as the prophets of old), but both the Jews and Gentiles. Some understand this of the light of reason; but besides that reason is no where in holy writ called light, neither did this illumination agree to Christ as Mediator.",
+     "anchor": "Which lighteth every man that cometh into the world"
+    },
+    {
+     "id": "poole/JHN.1.9#p3-c55249f4",
+     "text": "It is rather therefore to be understood of the light of gospel revelation, which Christ caused to be made to all the world, Mat 28:19 Mar 16:15. Those who interpret it of the more internal illumination by the Holy Spirit of God, by which Christ is not revealed to us only, but in us, say, that Christ hath done what lay in him (as a Minister of the gospel) so to enlighten all that came into the world; and that Christ is said to enlighten every man, because none is enlightened but by him, and that some of all sorts are by him enlightened; in one of which two latter senses the terms all and every man must be interpreted in a multitude of texts in the Gospel.",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Mar 16:15",
+       "ref": "MRK.16.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.9#p4-9e9e15c3",
+     "text": "The words in the Greek are so, as they may either be translated as we read them, or thus, who coming into the world, enlightened every man: a more universal spiritual light, or means to come to the knowledge of God, overspreading the world after Christ’s coming, than before. So Joh 7:46, I am come a light into the world. And it is by some observed, that the phrase cometh into the world, doth not barely signify a being born, but being sent into the world by the Father, being sanctified, as in Joh 10:36 17:18.",
+     "refs": [
+      {
+       "text": "Joh 7:46",
+       "ref": "JHN.7.46"
+      },
+      {
+       "text": "Joh 10:36",
+       "ref": "JHN.10.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.10",
+   "range": "JHN.1.10",
+   "kind": "passage",
+   "hash": "634f4d5d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.10#p1-0dc95285",
+     "text": "he was in the place called the world, and amongst the men of the world; for so the term world is often taken, Joh 16:28 2Pe 3:6. Christ, before he came in the flesh, was in it; filling both the heavens and the earth, and sustaining it by the word of his power, and manifesting his will to it, more immediately to Moses and to the prophets, and more mediately by Moses and by the prophets.",
+     "anchor": "He was in the world",
+     "refs": [
+      {
+       "text": "Joh 16:28",
+       "ref": "JHN.16.28"
+      },
+      {
+       "text": "2Pe 3:6",
+       "ref": "2PE.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.10#p2-64cc0336",
+     "text": "and the heavens and the earth, all things visible and invisible, (as was said before), were made by him.",
+     "anchor": "And the world was made by him"
+    },
+    {
+     "id": "poole/JHN.1.10#p3-72c53f97",
+     "text": "and the men of the world took no notice of him, did not acknowledge him, believe in him, nor were subject to him; so the word knew often signifies, (according to the Hebrew idiom), Joh 10:14,15,27; not a bare comprehension of an object in the understanding, but suitable affections: so Mat 7:23 1Jn 3:1. This is not to be understood of all individual persons in the world; for Abraham, Isaac, and Jacob, and David, and many particular persons, did in this sense know him; but the generality of the world did not. The heathens did not, (who are sometimes called the world, distinctively from the Jews, 1Jn 2:2 1Co 1:21), and most of the Jews did not, though some did.",
+     "anchor": "And the world knew him not",
+     "refs": [
+      {
+       "text": "Joh 10:14",
+       "ref": "JHN.10.14"
+      },
+      {
+       "text": "Mat 7:23",
+       "ref": "MAT.7.23"
+      },
+      {
+       "text": "1Jn 3:1",
+       "ref": "1JN.3.1"
+      },
+      {
+       "text": "1Jn 2:2",
+       "ref": "1JN.2.2"
+      },
+      {
+       "text": "1Co 1:21",
+       "ref": "1CO.1.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.11",
+   "range": "JHN.1.11",
+   "kind": "passage",
+   "hash": "20f5b680",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.11#p1-6f7f2f89",
+     "text": "Christ came into the world, which being made by him, was in the most proper sense his own; or, to the Israelites, which were as his own house, land, and possession, Psa 85:1 Joh 16:32. The Greek word is in the plural number, and used in the places before mentioned, as also Act 21:6; sometimes signifying men’s proper country, sometimes their proper house. But it is a further question, what coming is here spoken of: though it be generally (or by many at least) interpreted of Christ’s coming by his incarnation, yet that seemeth not to be the sense; partly, because that coming is spoken of, Act 21:14; and partly, because in that sense the Jews did receive him; nor was it in their power to hinder his manifestation in the flesh. The coming therefore here mentioned seemeth to be intended of his coming by his prophets, John the Baptist, and his own personal preaching of the gospel.",
+     "anchor": "He came unto his own",
+     "refs": [
+      {
+       "text": "Psa 85:1",
+       "ref": "PSA.85.1"
+      },
+      {
+       "text": "Joh 16:32",
+       "ref": "JHN.16.32"
+      },
+      {
+       "text": "Act 21:6",
+       "ref": "ACT.21.6"
+      },
+      {
+       "text": "Act 21:14",
+       "ref": "ACT.21.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.11#p2-1e5945e8",
+     "text": "whom in this way of coming they did not receive, believing neither the testimony given by his prophets, nor by the Baptist, nor by himself, Joh 5:43.",
+     "anchor": "And his own received him not",
+     "refs": [
+      {
+       "text": "Joh 5:43",
+       "ref": "JHN.5.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.12",
+   "range": "JHN.1.12",
+   "kind": "passage",
+   "hash": "b86d1eef",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.12#p1-b4878fb3",
+     "text": "though the generality of those amongst whom Christ came received him not in the manner before expressed, yet some did own him, believed in him and submitted to him; and to as many as thus received him, not into their houses only, but into their hearts,",
+     "anchor": "But as many as received him"
+    },
+    {
+     "id": "poole/JHN.1.12#p2-641bf983",
+     "text": "he gave a power, or a right, or privilege, not that they might if they would be, but to be actually, to become, or be, the sons of God by adoption; for believers are already the sons of God, Gal 3:26, though it doth not yet appear what they shall be in the adoption, mentioned Rom 8:23, which the apostle calls the redemption of our body, viz. in the resurrection; hence the children of God are called the children of the resurrection, Luk 20:36.",
+     "anchor": "to them gave he power to become the sons of God",
+     "refs": [
+      {
+       "text": "Gal 3:26",
+       "ref": "GAL.3.26"
+      },
+      {
+       "text": "Rom 8:23",
+       "ref": "ROM.8.23"
+      },
+      {
+       "text": "Luk 20:36",
+       "ref": "LUK.20.36"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.12#p3-99a18db2",
+     "text": "this is the privilege of all that believe in the name of Christ; by which term he opens the former term of receiving: to receive Christ, and to believe in his name, are the same thing. To believe in his name, is either to believe in him, Act 3:16 or in the revelation of himself in the promises of the gospel. The proposition of God’s word is the object of faith of assent: but the person of the Mediator is the object of that faith which receiveth Christ; and those alone have a right to be the sons of God, and to the privileges peculiar to sons, who believe in Christ as revealed in the promises of the word of God, and there exhibited to men.",
+     "anchor": "To them that believe on his name",
+     "refs": [
+      {
+       "text": "Act 3:16",
+       "ref": "ACT.3.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.13",
+   "range": "JHN.1.13",
+   "kind": "passage",
+   "hash": "079f298b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.13#p1-ae1bc0dc",
+     "text": "not of the blood of men and women; or, not of the blood of Abraham (which was the boast of the Jews, We have Abraham to our Father).",
+     "anchor": "Which were born, not of blood"
+    },
+    {
+     "id": "poole/JHN.1.13#p2-99544e54",
+     "text": "nor from the lusts of the flesh.",
+     "anchor": "Nor of the will of the flesh"
+    },
+    {
+     "id": "poole/JHN.1.13#p3-b4e936ff",
+     "text": "nor from a power in man’s will, or men’s free act in adopting other men’s children. To be born, signifieth to receive our principle of life: those who are the children of God hard not the principle of their life, as they are such, from the motions of nature, nor from the will of men.",
+     "anchor": "Nor of the will of man"
+    },
+    {
+     "id": "poole/JHN.1.13#p4-65be0f51",
+     "text": "whatever be the sense of the former words, these words plainly affirm God to be the principal efficient, and procreant cause, of all those who are the sons of God; for faith, by which we are the children of God, Gal 3:26, is the work of God, Joh 6:29, his gift, Php 1:29; and men are born again, not of corruptible seed, but of that which is incorruptible, 1Pe 1:23: they are sanctified and cleansed with the washing of water by the word, Eph 5:26; the washing of regeneration, and renewing of the Holy Ghost, Tit 3:5.",
+     "anchor": "But of God",
+     "refs": [
+      {
+       "text": "Gal 3:26",
+       "ref": "GAL.3.26"
+      },
+      {
+       "text": "Joh 6:29",
+       "ref": "JHN.6.29"
+      },
+      {
+       "text": "Php 1:29",
+       "ref": "PHP.1.29"
+      },
+      {
+       "text": "1Pe 1:23",
+       "ref": "1PE.1.23"
+      },
+      {
+       "text": "Eph 5:26",
+       "ref": "EPH.5.26"
+      },
+      {
+       "text": "Tit 3:5",
+       "ref": "TIT.3.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.14",
+   "range": "JHN.1.14",
+   "kind": "passage",
+   "hash": "3ea58161",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.14#p1-f5a36d8b",
+     "text": "the Son of God, called the Word, for the reasons before specified, was made truly man, as flesh often signifieth in holy writ, Gen 6:12 Psa 65:2 Isa 40:5,6; not a vile, despicable, mortal man. The evangelist rather saith he was made flesh, than he was made man, more plainly to distinguish the two natures in Christ; to assert the truth of his human nature; to let us know that Christ assumed human nature in common, not the particular nature of any; to commend the love of God, and to let us see, that his plaster was proportioned to our sore, it reached all flesh.",
+     "anchor": "The Word was made flesh",
+     "refs": [
+      {
+       "text": "Gen 6:12",
+       "ref": "GEN.6.12"
+      },
+      {
+       "text": "Psa 65:2",
+       "ref": "PSA.65.2"
+      },
+      {
+       "text": "Isa 40:5",
+       "ref": "ISA.40.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.14#p2-60687e76",
+     "text": "The evangelist saith not he was changed into flesh; but, by assuming, he was made flesh. And dwelt amongst us: and he tabernacled amongst us; amongst us men, or amongst men that were his disciples: the word signifieth properly, he made no long stay."
+    },
+    {
+     "id": "poole/JHN.1.14#p3-8ff2b282",
+     "text": "And we beheld his glory; and we beheld the signs and effects of his glory; many of which were seen, both at the time of his transfiguration, and at his passion, resurrection, and ascension; the glory of his grace, holiness, truth, miraculous operations, &c."
+    },
+    {
+     "id": "poole/JHN.1.14#p4-35a53a6c",
+     "text": "The glory as of the only begotten of the Father; which glory was the glory of the only begotten of the Father; for the particle as here doth not signify likeness, but truth, Neh 7:2 Job 24:14.",
+     "refs": [
+      {
+       "text": "Neh 7:2",
+       "ref": "NEH.7.2"
+      },
+      {
+       "text": "Job 24:14",
+       "ref": "JOB.24.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.14#p5-13a1a2f0",
+     "text": "Full of grace and truth, as he was God manifested in the flesh. Grace signifieth love and good will, out of which it was that he delivered us from the curse and rigour of the law (to which grace is opposed). He was also full of truth, both as truth is opposed to falsehood, and to the shadows and figures of the law; and Christ was full of truth as he was the antitype to all the ceremonies, and all the promises had and have their completion and reality in him: see Joh 14:17 Rom 15:8 2Co 1:20. Truth also may signify the sincerity and integrity of Christ’s life, as he was without guile.",
+     "refs": [
+      {
+       "text": "Joh 14:17",
+       "ref": "JHN.14.17"
+      },
+      {
+       "text": "Rom 15:8",
+       "ref": "ROM.15.8"
+      },
+      {
+       "text": "2Co 1:20",
+       "ref": "2CO.1.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.15",
+   "range": "JHN.1.15",
+   "kind": "passage",
+   "hash": "f58d6fb0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.15#p1-dee6ff94",
+     "text": "John was not he, but only a witness to him; and he continueth to bear witness (the verb is in the present tense); nor did he give an obscure or cold testimony, but an open, and plain, and fervent testimony, according to the prophecies, his testimony was the voice of one crying in the wilderness.",
+     "anchor": "John bare witness of him, and cried, saying"
+    },
+    {
+     "id": "poole/JHN.1.15#p2-cd5d234a",
+     "text": "he first testified that Christ was he of whom he had before spoken; possibly when he was preaching in the wilderness, and Christ came to him to be baptized of him, Mat 3:11,14.",
+     "anchor": "This was he of whom I spake",
+     "refs": [
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.15#p3-6dfb3b52",
+     "text": "he that cometh after me, in order of time, or in the ministerial office and employment, or, as if he were my disciple, Joh 8:12, is become, or is made, before me.",
+     "anchor": "He that cometh after me is preferred before me",
+     "refs": [
+      {
+       "text": "Joh 8:12",
+       "ref": "JHN.8.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.15#p4-95a7fe92",
+     "text": "both in the eternal destination, and in respect of his Divine nature; as also in dignity and eminency, considered as a prophet, i.e. one that revealeth my Father’s will. This John said before, though not in terms, yet in effect, when he said, Mat 3:11, He that cometh after me is mightier than I, whose shoes I am not worthy to bear, & c. So Mar 1:7 Luk 3:16. This is the first thing which is here mentioned, as John’s testimony concerning Christ, respecting the excellency of his person.",
+     "anchor": "For he was before me",
+     "refs": [
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "Mar 1:7",
+       "ref": "MRK.1.7"
+      },
+      {
+       "text": "Luk 3:16",
+       "ref": "LUK.3.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.16",
+   "range": "JHN.1.16",
+   "kind": "passage",
+   "hash": "2e813fe7",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.16#p1-15c9a215",
+     "text": "of that plenty of grace which Christ hath, (who hath not the Spirit given him by measure, Joh 3:34, as other saints have, Act 2:4,6,8), we who by nature are void of grace, whether taken for the favour of God, or gracious habits, have received, as the skirts of Aaron’s garment received the oil which was plentifully poured out on Aaron’s head.",
+     "anchor": "And of his fulness have all we received",
+     "refs": [
+      {
+       "text": "Joh 3:34",
+       "ref": "JHN.3.34"
+      },
+      {
+       "text": "Act 2:4",
+       "ref": "ACT.2.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.16#p2-03d2c401",
+     "text": "nor have we received drops, but grace upon grace; not only knowledge and instruction, but the love and favour of God, and spiritual habits, in proportion to the favour and grace which Christ hath (allowing for our short capacities); we have received grace freely and plentifully, all from Christ, and for his sake; which lets us see how much the grace receiving soul is bound to acknowledge and adore Christ, and may be confirmed in the receiving of further grace, and the hopes of eternal life; and it may mind all (according to that of the apostle, 2Co 6:1), to take heed that they receive not the grace of God in vain.",
+     "anchor": "And grace for grace",
+     "refs": [
+      {
+       "text": "2Co 6:1",
+       "ref": "2CO.6.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.17",
+   "range": "JHN.1.17",
+   "kind": "passage",
+   "hash": "866e5045",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.17#p1-15489937",
+     "text": "the law, moral and ceremonial, came not by Moses, but was given by Moses as God’s minister and servant; that law by which no man can be justified, Rom 3:28. In this was Moses’s honour, of whom you glory, Joh 5:45. God indeed made an eminent use of him, as his minister, by whom he revealed his will to you; both in matters of his worship, according to that dispensation; and in matters which concern you in your whole conversation; but yet there is an eminent difference between him and Jesus Christ. The law is no where called grace, neither doth it discover any thing but duty and wrath; it showeth no remission, in case that duty be not done, nor affordeth strength for the doing of it.",
+     "anchor": "For the law was given by Moses",
+     "refs": [
+      {
+       "text": "Rom 3:28",
+       "ref": "ROM.3.28"
+      },
+      {
+       "text": "Joh 5:45",
+       "ref": "JHN.5.45"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.17#p2-8e662cf5",
+     "text": "all that is from Christ; all the favour of God for the remission and pardon of sin, and for strength and assistance to the performance of duty, is (not given from God by Christ, as the law by Moses, but) from Christ as the fountain of grace; and not grace only, but truth, whether taken for solid and real mercy, or with respect to the law; the fulfilling of all the types and prophecies in it was by and in Christ.",
+     "anchor": "But grace and truth came by Jesus Christ"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.18",
+   "range": "JHN.1.18",
+   "kind": "passage",
+   "hash": "8c412192",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.18#p1-29f25a58",
+     "text": "no man hath at any time seen the essence of God with his eyes, Joh 4:24; nor with the eyes of his mind understood the whole counsel and will of God, Mat 11:27 Rom 11:34. Moses indeed saw the image and representation of God, and had a more familiar converse with God than others; upon which account he is said to have talked with God face to face; Num 12:7,8, God saith he would speak unto him mouth to mouth, even apparently; but he tells us how in the same verse, and the similitude of the Lord shall he behold; and God, who had spoken to the same sense, Exo 33:11, saith, Joh 1:20, Thou canst not see my face; for there shall no man see me, and live. Now to whom he did not discover his face, he certainly did not discover all his secret counsels.",
+     "anchor": "No man has seen God at any time",
+     "refs": [
+      {
+       "text": "Joh 4:24",
+       "ref": "JHN.4.24"
+      },
+      {
+       "text": "Mat 11:27",
+       "ref": "MAT.11.27"
+      },
+      {
+       "text": "Rom 11:34",
+       "ref": "ROM.11.34"
+      },
+      {
+       "text": "Num 12:7",
+       "ref": "NUM.12.7"
+      },
+      {
+       "text": "Exo 33:11",
+       "ref": "EXO.33.11"
+      },
+      {
+       "text": "Joh 1:20",
+       "ref": "JHN.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.18#p2-ffc81ddc",
+     "text": "but he who is the only begotten and beloved Son, hath such an intimate communion with him in his nature, and such a free communication of all his counsels, as it may be said, he is continually in his bosom.",
+     "anchor": "The only begotten Son, which is in the bosom of the Father"
+    },
+    {
+     "id": "poole/JHN.1.18#p3-3c15d141",
+     "text": "hath declared him, not only as a prophet declareth the mind and will of God, but as the heavens declare the glory of God, and the firmament showeth his handy work, Psa 19:1; being the brightness of his Father’s glory, and the express image of his person, Heb 1:3. So as the Father can only be seen in the Son; nor is so full a revelation of the Father’s will to be expected from any, as from the Son.",
+     "anchor": "He hath declared him",
+     "refs": [
+      {
+       "text": "Psa 19:1",
+       "ref": "PSA.19.1"
+      },
+      {
+       "text": "Heb 1:3",
+       "ref": "HEB.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.19",
+   "range": "JHN.1.19",
+   "kind": "passage",
+   "hash": "3244acff",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.19#p1-36dc53f5",
+     "text": "John’s former testimony was more private to the common people; this testimony was given to a public authority."
+    },
+    {
+     "id": "poole/JHN.1.19#p2-0801bcec",
+     "text": "(most probably the rulers of the Jews, who made up their sanhedrim, or great court, answering a parliament with us, for the cognizance of false prophets belonged to them)",
+     "anchor": "The Jews"
+    },
+    {
+     "id": "poole/JHN.1.19#p3-b9ae495b",
+     "text": "which were Pharisees, Joh 1:24, of the strictest sect of the Jews as to rites and ceremonies; these came from Jerusalem, where the sanhedrim constantly sat, and the chief priests were, (if the message were not from the sanhedrim itself), to ask John Baptist who he was; that is, by what authority he preached and baptized? What kind of prophet he was? For they could not but know his name and family, he descending from a priest amongst them: and this appeareth to be their sense from what followeth.",
+     "anchor": "sent priests and Levites",
+     "refs": [
+      {
+       "text": "Joh 1:24",
+       "ref": "JHN.1.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.20",
+   "range": "JHN.1.20",
+   "kind": "passage",
+   "hash": "9550cba9",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.20#p1-e61af577",
+     "text": "he being asked openly and plainly, professed,",
+     "anchor": "And he confessed"
+    },
+    {
+     "id": "poole/JHN.1.20#p2-6fa62f70",
+     "text": "and did not dissemble nor halt in his speech. These negatives are in Scripture often added to affirmatives, to exclude all exceptions, Job 5:17 Psa 40:10-12. But confessed: he did not tell them once so, but again and again, because many were musing about it, Luk 3:15.",
+     "anchor": "and denied not",
+     "refs": [
+      {
+       "text": "Job 5:17",
+       "ref": "JOB.5.17"
+      },
+      {
+       "text": "Psa 40:10-12",
+       "ref": "PSA.40.10-12"
+      },
+      {
+       "text": "Luk 3:15",
+       "ref": "LUK.3.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.20#p3-71a60acb",
+     "text": "I am not that great Messiah which God hath promised you, and in the expectation of whom you live, Luk 2:26,38 Lu 19:11 Joh 4:25. The diligence we shall constantly observe in the servants of God in holy writ, to avoid the arrogating of that honour to themselves which is due only to God and Christ; and this, together with John’s steadiness and plainness, doth very well become all professors, but the ministers of the gospel especially.",
+     "anchor": "I am not the Christ",
+     "refs": [
+      {
+       "text": "Luk 2:26",
+       "ref": "LUK.2.26"
+      },
+      {
+       "text": "Joh 4:25",
+       "ref": "JHN.4.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.21",
+   "range": "JHN.1.21",
+   "kind": "passage",
+   "hash": "c83cbd5d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.21#p1-ebbb081f",
+     "text": "John was at Bethabara when these messengers came to him, Joh 1:28. They asked him if he were",
+     "refs": [
+      {
+       "text": "Joh 1:28",
+       "ref": "JHN.1.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.21#p2-5182c306",
+     "text": "The Jews had not only an expectation of the Messias, but of Elias to come as a messenger before him, according to the prophecy, Mal 4:5; as appeareth, Mat 17:10 Mar 9:11; of which they had a gross conception here, that Elias should come out of heaven personally, or at least that his soul should come into another body, according to the Pythagorean opinion. Now the meaning of the prophecy was, that one should come like Elias; and this was fulfilled in John, Luk 1:17, as our Saviour tells us, Mat 17:12 Mar 9:13; but they asked the question according to that notion they had of Elias. To which John answereth, that he was not; neither that Elias that ascended in a fiery chariot to heaven; nor any body informed with Elias’s soul: and thus the words of our Saviour, Mat 17:12 Mar 9:12, are easily reconciled to this text. They go on, and ask him if he were",
+     "anchor": "@Elias",
+     "refs": [
+      {
+       "text": "Mal 4:5",
+       "ref": "MAL.4.5"
+      },
+      {
+       "text": "Mat 17:10",
+       "ref": "MAT.17.10"
+      },
+      {
+       "text": "Mar 9:11",
+       "ref": "MRK.9.11"
+      },
+      {
+       "text": "Luk 1:17",
+       "ref": "LUK.1.17"
+      },
+      {
+       "text": "Mat 17:12",
+       "ref": "MAT.17.12"
+      },
+      {
+       "text": "Mar 9:13",
+       "ref": "MRK.9.13"
+      },
+      {
+       "text": "Mat 17:12",
+       "ref": "MAT.17.12"
+      },
+      {
+       "text": "Mar 9:12",
+       "ref": "MRK.9.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.21#p3-a27ae819",
+     "text": "or a prophet. Some think that they meant the Prophet promised, Deu 18:18; but that was no other than Christ himself, which he had before denied himself to be; nor doth it appear from any text of Scripture that the Jews had any expectation of any other particular prophet; but it is plain from Luk 9:8, that they had a notion that it was possible one of the old prophets might rise again from the dead, for so they guessed there concerning Christ.",
+     "anchor": "that prophet",
+     "refs": [
+      {
+       "text": "Deu 18:18",
+       "ref": "DEU.18.18"
+      },
+      {
+       "text": "Luk 9:8",
+       "ref": "LUK.9.8"
+      },
+      {
+       "text": "Deu 18:18",
+       "ref": "DEU.18.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.21#p4-35f976e4",
+     "text": "But others think that the article in the Greek here is not emphatical, and they only asked him if he were a prophet; for the Jews had a general notion, that the spirit of prophecy had left them ever since the times of Zechariah and Malachi; which they hoped was returned in John the Baptist, and about this they question him if he were a prophet."
+    },
+    {
+     "id": "poole/JHN.1.21#p5-1b5f861f",
+     "text": "To which he answereth, No; neither that Prophet promised, Deu 18:18, nor yet any of the old prophets risen from the dead; nor yet one like the prophets of the Old Testament, who only prophesied of a Christ to come; but, as Christ calls him, Mat 11:9, more than a prophet, one who showed and declared to them a Christ already come; for the law and the prophets prophesied but until John; the law in its types foreshowing, the prophets in their sermons foretelling, a Messiah to come; John did more. His father indeed, Luk 1:76, called him the prophet of the Highest; but there prophet is to be understood not in a strict, but in a large sense, as the term prophecy is taken, Rom 12:6. And the term prophet often signifieth one that revealeth the will of God to men; in which large sense John was a prophet, and yet more than a prophet in the stricter notion of the term; and in that sense no prophet, that is, no mere prophet: so, Num 11:19, Moses tells the people they should not eat flesh one, or two, or five, or ten, or twenty days, because they should eat it a whole month together.",
+     "refs": [
+      {
+       "text": "Deu 18:18",
+       "ref": "DEU.18.18"
+      },
+      {
+       "text": "Deu 18:18",
+       "ref": "DEU.18.18"
+      },
+      {
+       "text": "Mat 11:9",
+       "ref": "MAT.11.9"
+      },
+      {
+       "text": "Luk 1:76",
+       "ref": "LUK.1.76"
+      },
+      {
+       "text": "Rom 12:6",
+       "ref": "ROM.12.6"
+      },
+      {
+       "text": "Num 11:19",
+       "ref": "NUM.11.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.22",
+   "range": "JHN.1.22",
+   "kind": "passage",
+   "hash": "e0e33f4c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.22#p1-e0e33f4c",
+     "text": "Hitherto John had given them only a negative answer, and told them who he was not; he was neither Christ, nor the Elias, nor that prophet they expected; neither any of the old prophets risen from the dead; nor any prophet at all in a strict sense (as were the prophets of the Old Testament): they press him to a direct, plain, positive answer, that they might give an answer to those that sent them, who did not send them to inquire what he was not, but what he was. And there were various talks and discourses of the people about him, which they were not willing to take up and run away with; but they desired to have it from himself."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.23",
+   "range": "JHN.1.23",
+   "kind": "passage",
+   "hash": "8ce81888",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.23#p1-8ce81888",
+     "text": "We had the same, See Poole on \"Mat 3:3\", See Poole on \"Mar 1:3\". Chemnitius thinks, that John chose rather to preach and fulfil his ministry in the wilderness, than in the temple; to make an illustrious difference between himself, who was but the Lord’s messenger, and whose office was but to prepare the Lord’s way, and his Lord himself, of whom it was prophesied, Mal 3:1, The Lord, whom ye seek, shall suddenly come to his holy temple; upon which account Haggai prophesied. Hag 2:9, that the glory of that latter house (built by Ezra, and Zerubbabel, and Nehemiah) should be greater than of the former.",
+     "refs": [
+      {
+       "text": "Mat 3:3",
+       "ref": "MAT.3.3"
+      },
+      {
+       "text": "Mar 1:3",
+       "ref": "MRK.1.3"
+      },
+      {
+       "text": "Mal 3:1",
+       "ref": "MAL.3.1"
+      },
+      {
+       "text": "Hag 2:9",
+       "ref": "HAG.2.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.24",
+   "range": "JHN.1.24",
+   "kind": "passage",
+   "hash": "b9e239ae",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.24#p1-b9e239ae",
+     "text": "Who these Pharisees were hath been before explained in our notes on Mat 3:7. They were of the strictest sect of the Jewish religion, Act 26:5. The greatest part of their councils was made up of those of this sect, as may be learned from Act 23:1-10. They were the men most zealous for and tenacious of the Jewish rites; and would allow nothing to be added to the Jewish worship to what they had received concerning it, either from the law of God, or the traditions of the elders.",
+     "refs": [
+      {
+       "text": "Mat 3:7",
+       "ref": "MAT.3.7"
+      },
+      {
+       "text": "Act 26:5",
+       "ref": "ACT.26.5"
+      },
+      {
+       "text": "Act 23:1-10",
+       "ref": "ACT.23.1-10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.25",
+   "range": "JHN.1.25",
+   "kind": "passage",
+   "hash": "ab707e4d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.25#p1-ab707e4d",
+     "text": "The Pharisees themselves would allow the Messiah, or Elias, or a prophet, to make any additions to or alterations in the worship of God, but none else: hence it is they ask, by what authority he baptized, if he were none of these? From whence we may learn, that although they might have some umbrage of that baptismal washing which was under the gospel, to commence into a sacrament, or federal sign, in the washing of their proselytes, or of Jewish children when they were circumcised; yet John’s action was looked upon as new, who baptized adult Jews: now the care of the sanhedrim was to keep the worship of God incorrupt, and the Pharisees amongst them had a particular zeal in the case, especially so far as the traditions of the elders were concerned."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.26",
+   "range": "JHN.1.26",
+   "kind": "passage",
+   "hash": "7eb601fb",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.26#p1-599bd8c9",
+     "text": "This was no strict answer to their question, which was not, how, but why he baptized? But proper replies are often called answers in Scripture, though not apposite to the question."
+    },
+    {
+     "id": "poole/JHN.1.26#p2-07909d0f",
+     "text": "I baptize you with mere water:",
+     "anchor": "I baptize with water"
+    },
+    {
+     "id": "poole/JHN.1.26#p3-04bd6eca",
+     "text": "but there hath stood one amongst you, εστηκεν, or (by a usual putting of one tense for another) there standeth one; Christ had been there with the crowd, Luk 3:15,21, and possibly was amongst them still when John spake these words; whom you know not, not so much as ore tenus, by face.",
+     "anchor": "but there standeth one among you, whom ye know not",
+     "refs": [
+      {
+       "text": "Luk 3:15",
+       "ref": "LUK.3.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.27",
+   "range": "JHN.1.27",
+   "kind": "passage",
+   "hash": "9e7e757b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.27#p1-3cb1719e",
+     "text": "John the Baptist had before told them, He that cometh after me is preferred before me, See Poole on \"Joh 1:15\". He now repeateth those words; and it is observable, that the three other evangelists all put this passage before the history of Christ’s coming to him to be baptized. So as it is probable that these messengers came to John as he was baptizing; and either immediately before or after Christ’s baptism, Christ being yet in the crowd, he repeateth to his hearers what he had a little before said of him, that he was to be preferred before him.",
+     "refs": [
+      {
+       "text": "Joh 1:15",
+       "ref": "JHN.1.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.27#p2-bc7fc1f6",
+     "text": "Whose shoe’s latchet I am not worthy to unloose; he here enlargeth upon it with a proverbial speech, which the other evangelists have, with a very little variation: Matthew saith, Whose shoe’s I am not worthy to bear; that is, to perform unto him the very meanest service or office. We have such forms of speech in use at this day amongst us; when we would express the great preeminence of some one above another, we say of that other, He is not worthy to tie his shoes; or, to carry his shoes after him. There is a vast difference between Christ and the most excellent of his ministers; which as to baptism lieth here; the ministerial baptism is but with water; Christ baptizeth with the Holy Ghost and with fire, Mat 3:11, or, with the Holy Ghost, as Mar 1:8.",
+     "refs": [
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "Mar 1:8",
+       "ref": "MRK.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.28",
+   "range": "JHN.1.28",
+   "kind": "passage",
+   "hash": "6a91bb1b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.28#p1-5360f92d",
+     "text": "The evangelist had before told us what was done, these words tell us where. Some ancient writers will have the place to have been Bethany; but they seem not to have so well considered Joh 11:18, where Bethany is said to have been but fifteen furlongs from Jerusalem, and consequently on this side Jordan; whereas the evangelist saith, that this place was περαν,",
+     "refs": [
+      {
+       "text": "Joh 11:18",
+       "ref": "JHN.11.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.28#p2-1554545c",
+     "text": "in the tribe of Reuben, in the country of Peraea, where John at this time was baptizing, and probably had been so for some time.",
+     "anchor": "beyond Jordan"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.29",
+   "range": "JHN.1.29",
+   "kind": "passage",
+   "hash": "728f9a14",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.29#p1-fc2ad057",
+     "text": "the most think, the day following that day when the messengers from Jerusalem had been examining the Baptist. Heinsius thinks it was the same day, and saith, the Hellenists usually so interpret εν επαυπιον, for μετα ταυτα, after these things; but the former sense is more generally embraced.",
+     "anchor": "The next day"
+    },
+    {
+     "id": "poole/JHN.1.29#p2-9447a192",
+     "text": "out of the wilderness, as some think, where he had been tempted by the devil; but then it must follow, that he was not amongst the crowd, Joh 1:2, standing in the midst of them, when the messengers were there; and it should appear by Joh 1:32,33, that this which is here recorded happened after Christ’s baptism by John (of which this evangelist saith nothing): it seemeth rather to be understood of another coming of Christ to John after he had been baptized, when John, seeing him, pointed as it were with his finger to him, (for the term",
+     "anchor": "John seeth Jesus coming to him",
+     "refs": [
+      {
+       "text": "Joh 1:2",
+       "ref": "JHN.1.2"
+      },
+      {
+       "text": "Joh 1:32",
+       "ref": "JHN.1.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.29#p3-472458fb",
+     "text": "seemeth to be here used demonstratively), showing them the person whom he would have them cast their eye upon; whom he calls,",
+     "anchor": "Behold"
+    },
+    {
+     "id": "poole/JHN.1.29#p4-b8b22256",
+     "text": "not only to denote his excellency, as we read of the night of the Lord, Exo 12:42, and the bread of God, Lev 21:21; which indeed Christ was, being without blemish, 1Pe 1:19; but with reference to the lambs used in the Jewish sacrifices, not only at the passover, Exo 12:5, but in the daily sacrifice, Exo 29:38 Lev 1:10, or the burnt offering; and in the peace offering, Lev 3:7, and in the sin offering, Lev 4:32. He calls Christ the Lamb of God, probably, because divers of the priests were there to hear, and (as appears, Joh 1:39) it was nigh the time of their daily sacrifice; that so he might remind them that Christ was the truth and Antitype to all their sacrifices.",
+     "anchor": "the Lamb of God",
+     "refs": [
+      {
+       "text": "Exo 12:42",
+       "ref": "EXO.12.42"
+      },
+      {
+       "text": "Lev 21:21",
+       "ref": "LEV.21.21"
+      },
+      {
+       "text": "1Pe 1:19",
+       "ref": "1PE.1.19"
+      },
+      {
+       "text": "Exo 12:5",
+       "ref": "EXO.12.5"
+      },
+      {
+       "text": "Exo 29:38",
+       "ref": "EXO.29.38"
+      },
+      {
+       "text": "Lev 1:10",
+       "ref": "LEV.1.10"
+      },
+      {
+       "text": "Lev 3:7",
+       "ref": "LEV.3.7"
+      },
+      {
+       "text": "Lev 4:32",
+       "ref": "LEV.4.32"
+      },
+      {
+       "text": "Joh 1:39",
+       "ref": "JHN.1.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.29#p5-6861e918",
+     "text": "ο αιρων, the word signifies both to take up, and to take away: which taketh away the sin of the world, as God, to whom it belongs to forgive sin; and this he did by taking it upon himself, (so it is translated, Mat 16:24), expiating it, which expiation is followed by a plenary remission, and taking it away, both the punishment of it, and the root, and body, and power of it; redeeming them as from the grave and hell, due to man for sin; so from a vain conversation, 1Pe 1:18; and not doing this for the Jews only, but for the Gentiles also, 1Jn 2:2, for many in the world, being he without whom there is no remission, Act 4:12. Nor doth his gracious act cease at any time, it is a work he is always doing, and which none but he can do: ministers may persuade, priests of old offered lambs and other beasts in sacrifice; but he alone taketh away sin. So that, as what he said to the messengers of the sanhedrim gave all the honour of any valuable effect of baptism to Christ; so, what he saith here gives him all the honour of any good effect of preaching, or any good effect of our ministry; it is he alone, who (when we have said or done what we can) taketh away the sin of the world.",
+     "anchor": "Which taketh away the sin of the world",
+     "refs": [
+      {
+       "text": "Mat 16:24",
+       "ref": "MAT.16.24"
+      },
+      {
+       "text": "1Pe 1:18",
+       "ref": "1PE.1.18"
+      },
+      {
+       "text": "1Jn 2:2",
+       "ref": "1JN.2.2"
+      },
+      {
+       "text": "Act 4:12",
+       "ref": "ACT.4.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.30",
+   "range": "JHN.1.30",
+   "kind": "passage",
+   "hash": "4477070e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.30#p1-8cb2d728",
+     "text": "And (saith he) this is he of whom I said, (as Joh 1:15), He cometh after me in order of time and ministry, but is more excellent than I am.",
+     "refs": [
+      {
+       "text": "Joh 1:15",
+       "ref": "JHN.1.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.30#p2-5f8d6fdb",
+     "text": "Joh 1:15\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 1:15",
+       "ref": "JHN.1.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.31",
+   "range": "JHN.1.31",
+   "kind": "passage",
+   "hash": "d9643e0a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.31#p1-469fce2a",
+     "text": "This verse is best expounded by Joh 1:33, where the same words are repeated, I knew him not; and it is added, but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, &c. Lest any should think that Christ and John had compacted together to give one another credit, or that there was some near relation between John and Christ, John saith, I knew him not; for Christ had spent his time at home, Luk 2:51, John had lived in desert places; the providence of God so ordering it, that John should not know Christ so much as by face, until that time came when Christ was to be made manifest to Israel.",
+     "refs": [
+      {
+       "text": "Joh 1:33",
+       "ref": "JHN.1.33"
+      },
+      {
+       "text": "Luk 2:51",
+       "ref": "LUK.2.51"
+      },
+      {
+       "text": "Joh 1:33",
+       "ref": "JHN.1.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.31#p2-271af644",
+     "text": "But that God might make his Son manifest unto Israel, when God by an extraordinary mission sent John to baptize with water, he gave him this token, That he upon whom he should see the Spirit descending and remaining on him, as Joh 1:33, that was the Messiah, the Lamb of God, that should take away the sin of the world; he who should baptize with the Holy Ghost.",
+     "refs": [
+      {
+       "text": "Joh 1:33",
+       "ref": "JHN.1.33"
+      },
+      {
+       "text": "Joh 1:33",
+       "ref": "JHN.1.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.31#p3-531fec12",
+     "text": "And therefore (saith John) am I come baptizing with water. I did not run without sending, nor introduce a new rite or sacrament without commission; but being thus sent of God, and that I might give Christ an opportunity of coming to me, that I might see the Spirit descending and remaining upon him. From whence we learn, that none but Christ can institute a sacrament. John baptized not, till he was sent to baptize with water."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.32",
+   "range": "JHN.1.32",
+   "kind": "passage",
+   "hash": "4091d213",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.32#p1-4091d213",
+     "text": "Saith John, According to the revelation which I had, when I received my extraordinary commission to baptize, so it fell out to me, I did see, when he was baptized, the heaven opening, and a representation of the Spirit of God (for no man can see God and live) descending. The form of the representation was like that of a dove. And it was not a mere transient sight, but it did for some time abide upon that person, in that sensible representation; by that token I knew that he was the Son of God."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.33",
+   "range": "JHN.1.33",
+   "kind": "passage",
+   "hash": "58b4e0a3",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.33#p1-a338ebde",
+     "text": "I was a stranger to him; I knew him in a sense, when I leaped in my mother’s womb, upon his mother’s coming to see my mother, Luk 1:41; but that (as impressions made upon infants use to do) wore off. I had some impression upon me at that time when he came towards me to be baptized, which made me say to him, {as Mat 3:14}",
+     "anchor": "And I knew him not",
+     "refs": [
+      {
+       "text": "Luk 1:41",
+       "ref": "LUK.1.41"
+      },
+      {
+       "text": "Mat 3:14",
+       "ref": "MAT.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.33#p2-55c4d475",
+     "text": "But yet I was not certain, though I knew he was in the crowd of people, that he was the person designed, and whose work it should be to baptize with the Holy Ghost, until the same God that had given me that sign fulfilled it to me.",
+     "anchor": "I have need to be baptized of thee, and comest thou to me?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.34",
+   "range": "JHN.1.34",
+   "kind": "passage",
+   "hash": "c5838044",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.34#p1-c5838044",
+     "text": "But when I saw that, I could not but believe, and also bear an open testimony to the world, that this man was not mere man, but the eternal Son of that God, who sent me to baptize with water; reserving still to himself the Divine power of blessing that holy sacrament, and conferring the Holy Ghost in regenerating habits, working like fire, in purging away the dross of souls, and like water, washing away the filth of sin, Mat 3:11 Joh 3:5.",
+     "refs": [
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "Joh 3:5",
+       "ref": "JHN.3.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.35",
+   "range": "JHN.1.35",
+   "kind": "passage",
+   "hash": "918adde4",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.35#p1-73419ce0",
+     "text": "that the messengers who came from Jerusalem had been with John,",
+     "verse": 35,
+     "anchor": "The next day after"
+    },
+    {
+     "id": "poole/JHN.1.35#p2-c73f07c7",
+     "text": "whether he was preaching or no it is not said; but John standing with them, saw Christ walking, whence, or whither, is not said; but as a good man is always taking opportunity to commend Christ to others, so John upon this occasion took advantage further to make Christ known to those two men, (who they were, we shall hear in the following verses), and repeats the words he had said before,",
+     "anchor": "John stood, and two of his disciples"
+    },
+    {
+     "id": "poole/JHN.1.35#p3-94c75d79",
+     "text": "(See Poole on \"Joh 1:27\"). Thus good and faithful ministers will continually be inviting their disciples to Christ, taking them off from further consideration of themselves, and, as ministers, to show them the way to Christ.",
+     "anchor": "Behold the Lamb of God!",
+     "refs": [
+      {
+       "text": "Joh 1:27",
+       "ref": "JHN.1.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.36",
+   "range": "JHN.1.36",
+   "kind": "passage",
+   "hash": "23da9f52",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.36#p1-23da9f52",
+     "text": "Joh 1:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 1:35",
+       "ref": "JHN.1.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.37",
+   "range": "JHN.1.37",
+   "kind": "passage",
+   "hash": "34e306d3",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.37#p1-020229da",
+     "text": "God blessed the verbal testimony that John had given so far, that they stood in no need of any miracle to confirm it, but upon their hearing John"
+    },
+    {
+     "id": "poole/JHN.1.37#p2-ba7f2595",
+     "text": "as yet, not as his apostles; for their call to that office was afterward (as we shall hear); nor yet, so as no more to depart from him: but there was created in them a further desire of knowledge of him and acquaintance with him.",
+     "anchor": "speak, they followed Jesus"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.38",
+   "range": "JHN.1.38",
+   "kind": "passage",
+   "hash": "657b64fb",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.38#p1-657b64fb",
+     "text": "Christ, as he walked, turning him, and seeing two men following him, inquires of their end, what they sought; to teach us, in all our religious motions and actions, to do the like; for the end will contribute much to specify the action, and to make it good or bad. They gave him that honourable title which was then in fashion, by and under which they were wont to speak to those upon whom they relied for instruction, whose doctrine they desired to know, and with whom they desired to converse, and to learn of him. They asked him where he abode, or where he lodged."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.39",
+   "range": "JHN.1.39",
+   "kind": "passage",
+   "hash": "761dabe3",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.39#p1-8089ee7d",
+     "text": "Our Lord discerning the end of their following him to be sincere and good, invites them to"
+    },
+    {
+     "id": "poole/JHN.1.39#p2-f3593cf4",
+     "text": "where his lodging was; for he elsewhere telleth us, that he had not a house wherein to hide his head.",
+     "anchor": "come and see"
+    },
+    {
+     "id": "poole/JHN.1.39#p3-bb4c552e",
+     "text": "where, or of what nature they were, we are not told, but we never read that he during his whole pilgrimage amongst us had any stately or splendid lodgings.",
+     "anchor": "They came and saw his lodgings"
+    },
+    {
+     "id": "poole/JHN.1.39#p4-00bdfb19",
+     "text": "The text saith that these two disciples"
+    },
+    {
+     "id": "poole/JHN.1.39#p5-60af6d60",
+     "text": "whether only the two or three remaining hours of the same day, (for it was now about four of the clock afternoon, which answers the tenth hour according to the Jewish account), or another whole day, being the sabbath day, (as some think), we are not told, nor can conclude; certain it is, they abode with him the remaining part of that day, from four of the clock till night.",
+     "anchor": "abode with him that day"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.40",
+   "range": "JHN.1.40",
+   "kind": "passage",
+   "hash": "d9e247fe",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.40#p1-d9e247fe",
+     "text": "Concerning the call of this Andrew to the apostleship, See Poole on \"Mat 4:18\". See Poole on \"Mat 4:19\". See Poole on \"Mar 1:16\". See Poole on \"Mar 1:17\". That was at another time, and in another manner: Christ here only invited them to come and see where he lodged.",
+     "refs": [
+      {
+       "text": "Mat 4:18",
+       "ref": "MAT.4.18"
+      },
+      {
+       "text": "Mat 4:19",
+       "ref": "MAT.4.19"
+      },
+      {
+       "text": "Mar 1:16",
+       "ref": "MRK.1.16"
+      },
+      {
+       "text": "Mar 1:17",
+       "ref": "MRK.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.41",
+   "range": "JHN.1.41",
+   "kind": "passage",
+   "hash": "02be5779",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.41#p1-02be5779",
+     "text": "It should seem that both the disciples (after their converse with Christ at the place where he lodged) went together to look for Peter, Andrew’s brother. Andrew first found him, and tells him (with great joy) that he and that other disciple had found the Messiah, prophesied of by Daniel, and in the expectation of whom the disciples and the Jews lived. The term Messiah in Hebrew is the same with Christ in Greek, and both signify the same with Anointed in English. The article in this place is emphatic, not merely prepositive, as in other places, but signifying, that Anointed; for other kings, and priests, and prophets were also anointed, and God’s people are called anointed; but he was anointed with the oil of gladness above his fellows, having the Spirit not given him by measure."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.42",
+   "range": "JHN.1.42",
+   "kind": "passage",
+   "hash": "9e720eea",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.42#p1-50352cf2",
+     "text": "Andrew having found his brother Simon, conducts him to Jesus. Andrew, and Simon, and Philip were citizens of Bethsaida, Joh 1:44, which was a city of Galilee; how near to the place where John baptized, or Christ lodged, we cannot say. Probably Simon was one of John’s disciples, and came to attend his ministry; so as the disciples only sought him in the crowd, and came with him to Christ. When Christ beheld him, he said,",
+     "refs": [
+      {
+       "text": "Joh 1:44",
+       "ref": "JHN.1.44"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.42#p2-d7712998",
+     "text": "he knew him, and called him by name, and told him his father’s name,",
+     "anchor": "Thou art Simon"
+    },
+    {
+     "id": "poole/JHN.1.42#p3-439f0851",
+     "text": "and giveth him a new name,",
+     "anchor": "Jonas"
+    },
+    {
+     "id": "poole/JHN.1.42#p4-f5334499",
+     "text": "which by interpretation doth not signify a head, (as the popish disputant at Berne urged, to prove him the head of the church, as if it had been a Greek word, and came from κεφαλη; or, as he pretended, ridiculously enough, from an old Greek word, κεφας), but a stone (as this text tells us); by which name we find him called, 1Co 1:12 3:22 9:5 15:5 Gal 2:9: in other places Peter, which signifieth a stone also, or a rock. Cephas is a Syriac word, Peter a Greek word: Christ gave him the name. Both Cephas and Peter are by interpretation, a stone. Beza thinks that our Saviour did not here give him that name, but foretell that he should be so called.",
+     "anchor": "Cephas",
+     "refs": [
+      {
+       "text": "1Co 1:12",
+       "ref": "1CO.1.12"
+      },
+      {
+       "text": "Gal 2:9",
+       "ref": "GAL.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.42#p5-7226c948",
+     "text": "Casaubon thinks that the name was here given to him, and with it a new spirit; that whereas before he was (according to his father’s name Jonas, which signifies a dove) fearful and timorous, from this time forward he was as a rock, steady, firm, and full of courage and constancy: but it is a greater question how this text is to be reconciled with Mat 4:18-20, where Andrew and Peter are both said to be espied by Christ, walking by the sea of Galilee; and Luk 5:10, where Simon is reported to be called after they had taken a great draught of fish; and with Mar 3:13, and Luk 6:13, where all the apostles are named as called at one and the same time. Doubtless the calls were different.",
+     "refs": [
+      {
+       "text": "Mat 4:18-20",
+       "ref": "MAT.4.18-20"
+      },
+      {
+       "text": "Luk 5:10",
+       "ref": "LUK.5.10"
+      },
+      {
+       "text": "Mar 3:13",
+       "ref": "MRK.3.13"
+      },
+      {
+       "text": "Luk 6:13",
+       "ref": "LUK.6.13"
+      },
+      {
+       "text": "Mat 4:18-20",
+       "ref": "MAT.4.18-20"
+      },
+      {
+       "text": "Luk 5:10",
+       "ref": "LUK.5.10"
+      },
+      {
+       "text": "Mar 3:13",
+       "ref": "MRK.3.13"
+      },
+      {
+       "text": "Luk 6:13",
+       "ref": "LUK.6.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.42#p6-0d79acf9",
+     "text": "This in John seems rather to be a prophecy than a call. Those texts, Mat 4:18-20, and Luk 5:10, seem to be their calls to a discipleship. The other texts, Mar 3:13 Luk 6:13, respect their election to the apostleship, and the mission of them.",
+     "refs": [
+      {
+       "text": "Mat 4:18-20",
+       "ref": "MAT.4.18-20"
+      },
+      {
+       "text": "Luk 5:10",
+       "ref": "LUK.5.10"
+      },
+      {
+       "text": "Mar 3:13",
+       "ref": "MRK.3.13"
+      },
+      {
+       "text": "Luk 6:13",
+       "ref": "LUK.6.13"
+      },
+      {
+       "text": "Mat 4:18-20",
+       "ref": "MAT.4.18-20"
+      },
+      {
+       "text": "Luk 5:10",
+       "ref": "LUK.5.10"
+      },
+      {
+       "text": "Mar 3:13",
+       "ref": "MRK.3.13"
+      },
+      {
+       "text": "Luk 6:13",
+       "ref": "LUK.6.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.43",
+   "range": "JHN.1.43",
+   "kind": "passage",
+   "hash": "966ea8ef",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.43#p1-966ea8ef",
+     "text": "All this while Christ seemeth to have been in Judea, which was the most famous province. The day after Peter had thus been with him, he had a mind to go into Galilee; out of that he designed to choose his disciples; and that being the country where he had been educated, he designed in a more special manner to honour it with the first fruit of his public ministry. There findeth Philip (the name signifieth, a lover of horses). He calleth him to be his disciple."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.44",
+   "range": "JHN.1.44",
+   "kind": "passage",
+   "hash": "bde7f03e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.44#p1-bde7f03e",
+     "text": "This Philip was a citizen of Bethsaida (the word signifies in the Hebrew, The house of fruits, or of huntsmen). Andrew and Peter (mentioned before) both of them lived there. It was one of those cities where Christ did most of his mighty works, Mat 11:20.",
+     "refs": [
+      {
+       "text": "Mat 11:20",
+       "ref": "MAT.11.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.45",
+   "range": "JHN.1.45",
+   "kind": "passage",
+   "hash": "99288457",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.45#p1-1b8bee50",
+     "text": "Philip having himself discovered Christ, is not willing to eat his morsels alone, but desires to communicate his discovery to others; he finds (whether casually, or upon search, is not said) one Nathanael, he was of Cana in Galilee, Joh 21:2. (The name is a Hebrew name, signifying, The gift of God; some think it the same with Nethaneel, 1Ch 15:24.) Having found him, he tells him with great joy, that they had found him of whom Moses had wrote in the law, the Shiloh, mentioned Gen 49:10, the Prophet, mentioned Deu 18:15, the Branch of the Lord, mentioned Isa 4:2, the Messiah, mentioned by Daniel, Dan 9:25,26, and all the other prophets, him whom they usually called Jesus of Nazareth, ( there he was conceived, there he was bred, Luk 2:4,51, though he was born in Bethlehem of Judah, Luk 2:4), and who was commonly thought to be the son of Joseph.",
+     "refs": [
+      {
+       "text": "Joh 21:2",
+       "ref": "JHN.21.2"
+      },
+      {
+       "text": "1Ch 15:24",
+       "ref": "1CH.15.24"
+      },
+      {
+       "text": "Gen 49:10",
+       "ref": "GEN.49.10"
+      },
+      {
+       "text": "Deu 18:15",
+       "ref": "DEU.18.15"
+      },
+      {
+       "text": "Isa 4:2",
+       "ref": "ISA.4.2"
+      },
+      {
+       "text": "Dan 9:25",
+       "ref": "DAN.9.25"
+      },
+      {
+       "text": "Luk 2:4",
+       "ref": "LUK.2.4"
+      },
+      {
+       "text": "Luk 2:4",
+       "ref": "LUK.2.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.45#p2-f7725035",
+     "text": "If Philip did only cum vulgo loqui, speak as was commonly said, though himself knew and believed other things, he is not to be blamed; but the most think Philip discovered here his own weakness, both in thinking Christ the son of Joseph, and to have been born at Nazareth. It is certain that the apostles themselves at first, yea, and till Christ’s resurrection from the dead, had a very imperfect notion of Christ as the true Messiah. Grace may consist with great weakness as to knowledge."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.46",
+   "range": "JHN.1.46",
+   "kind": "passage",
+   "hash": "6db5c86f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.46#p1-383fae5b",
+     "text": "The words of Philip begat a prejudice in Nathanael, as to what he said. It was prophesied, Mic 5:2, that the Messiah should come out of Bethlehem. So, Joh 7:41,42, some of the people said, Shall Christ come out of Galilee? Hath not the Scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was? Nazareth was not only a poor little place, (for so Bethlehem also was), but a place which the Scripture never mentioned as the place from whence the Messiah should arise; a place that God had not honoured with the production of a prophet. By",
+     "refs": [
+      {
+       "text": "Mic 5:2",
+       "ref": "MIC.5.2"
+      },
+      {
+       "text": "Joh 7:41",
+       "ref": "JHN.7.41"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.46#p2-d7982f31",
+     "text": "seems to be meant, the Messiah, or any prophet, or (more generally) any thing which is noble and excellent, and of any remark. So prone are we to think that the kingdom of God comes with observation, that we know not how to fancy how great things should be done by little means, and great persons should arise out of little, contemptible places. Whereas God chooseth the foolish things of the world to confound the wise; and the weak things to confound the mighty; and base things of the world, to confound the wise, 1Co 1:25-28.",
+     "anchor": "any good thing",
+     "refs": [
+      {
+       "text": "1Co 1:25-28",
+       "ref": "1CO.1.25-28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.46#p3-ebf9e2c2",
+     "text": "Philip, not knowing how to answer Nathanael’s objection, and to remove his prejudice, wishes him himself to go, and make up a judgment. Wise men ought to do this, and not to take up prejudices from reports and common vogue.",
+     "anchor": "Philip saith unto him, Come and see"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.47",
+   "range": "JHN.1.47",
+   "kind": "passage",
+   "hash": "56910dd0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.47#p1-b3dcccba",
+     "text": "They are not all Israel, which are of Israel, Rom 9:6. For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: but he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, Rom 2:28,29. Christ seeing Nathanael (though he was prejudiced by Philip’s mistake, or the common mistake of his nation) coming to see him, and seeing not only his body and bodily motion, but his heart also, and the motions of that, saith of him, Behold one who is not only born an Israelite, but is a true Israelite, like his father Jacob, a plain man, Gen 25:27;",
+     "refs": [
+      {
+       "text": "Rom 9:6",
+       "ref": "ROM.9.6"
+      },
+      {
+       "text": "Rom 2:28",
+       "ref": "ROM.2.28"
+      },
+      {
+       "text": "Gen 25:27",
+       "ref": "GEN.25.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.47#p2-8e6ec796",
+     "text": "in whom there is no deceit, no doubleness of heart. Such ought Christians to be, no crafty, deceitful, double minded men, but men of great sincerity and plainness of heart, laying aside all malice, and all guile, 1Pe 2:1, like little children, Mat 18:3.",
+     "anchor": "in whom is no guile",
+     "refs": [
+      {
+       "text": "1Pe 2:1",
+       "ref": "1PE.2.1"
+      },
+      {
+       "text": "Mat 18:3",
+       "ref": "MAT.18.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.48",
+   "range": "JHN.1.48",
+   "kind": "passage",
+   "hash": "fb0c9bf0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.48#p1-c717eab8",
+     "text": "Nathanael wonders how Christ should know him, having not been of his familiar acquaintance. Christ tells him he saw him under the fig tree, before ever Philip called him. That was a very hot country, wherein people sought shadowy places; hence we read of sitting under their own vines and fig trees, Mic 4:4 Zec 3:10; and it is likely that those being two luxuriant plants, that had large leaves, and ran out in long boughs, in hot weather they might under the covert of these plants not only sit as in an arbour to converse one with another, but also perform religious duties.",
+     "refs": [
+      {
+       "text": "Mic 4:4",
+       "ref": "MIC.4.4"
+      },
+      {
+       "text": "Zec 3:10",
+       "ref": "ZEC.3.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.48#p2-a17cc504",
+     "text": "Whether Christ saw him there eating and drinking, or conversing with friends, or reading, or praying, the Scripture saith not, and it is but vainly guessed; it is enough that by his telling this to him, he let him know that he saw him, though he was not in his view, and so was omnipresent and omniscient. Christ seeth us, where we are, and what we do, when we see not him; and he seeth our hearts, whether they be single or double, plain, or false and deceitful; which as in many cases it affords us much comfort, so it admonishes us to be at all times in the fear of the Lord."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.49",
+   "range": "JHN.1.49",
+   "kind": "passage",
+   "hash": "afa908ae",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.49#p1-80437d13",
+     "text": "The term Rabbi, which Nathanael here giveth to Christ, is of the same significance with Rabban, and Rabboni, Joh 20:16, Rabban, Rabhi, Rabbi, all which signify Master, and my Master; a name which in that age they usually gave their teachers, as a title of honour, Mat 23:7,8, titles that began about the time of our Saviour; for Buxtorf tells us, purer antiquity gave no such titles to their teachers or prophets, thinking it not possible to give those persons (extraordinarily sent of God) titles answerable to their dignity. They say, Hillel, about our Saviour’s time, was the first who was so called; Rabban was counted the highest, Rabbi the next, Rabbi the least. Rabban, they say, lasted about two hundred years, given to seven after Hillel. Nathanael calls him also",
+     "refs": [
+      {
+       "text": "Joh 20:16",
+       "ref": "JHN.20.16"
+      },
+      {
+       "text": "Mat 23:7",
+       "ref": "MAT.23.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.49#p2-04a60b82",
+     "text": "as Peter and the other disciples did, Mat 14:33, and Peter, Mat 16:16. But it appeareth, by many following passages, that they had but a faint persuasion of this, till he was declared so with power, by his resurrection from the dead, Rom 1:4. He acknowledgeth Christ also the King of Israel, that is, the true Messiah. This was the title of the Messiah, Mat 21:5 27:11.",
+     "anchor": "the Son of God",
+     "refs": [
+      {
+       "text": "Mat 14:33",
+       "ref": "MAT.14.33"
+      },
+      {
+       "text": "Mat 16:16",
+       "ref": "MAT.16.16"
+      },
+      {
+       "text": "Rom 1:4",
+       "ref": "ROM.1.4"
+      },
+      {
+       "text": "Mat 21:5",
+       "ref": "MAT.21.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.50",
+   "range": "JHN.1.50",
+   "kind": "passage",
+   "hash": "00c16ceb",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.50#p1-2c16fd1a",
+     "text": "Christ encourages the beginnings of faith in the souls of his people, and magnifies Nathanael’s faith from the revelation which he had, which was but imperfect; for Christ had said no more, than that he had seen him under the fig tree before Philip called him. He tells him that he should"
+    },
+    {
+     "id": "poole/JHN.1.50#p2-3bfc6a7e",
+     "text": "To him that hath, shall be given. What those greater things are, which our Lord here meaneth, he telleth him, in part at least, Joh 1:51.",
+     "anchor": "see greater things than these",
+     "refs": [
+      {
+       "text": "Joh 1:51",
+       "ref": "JHN.1.51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.1.51",
+   "range": "JHN.1.51",
+   "kind": "passage",
+   "hash": "30696e97",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.1.51#p1-c45e9432",
+     "text": "These things he ushers in with a Verily, verily, and declareth them spoken not to Nathanael alone, but unto you; viz. all you that are my disciples indeed, who are (like Nathanael) true Israelites, in whom there is no guile."
+    },
+    {
+     "id": "poole/JHN.1.51#p2-c52aa3e6",
+     "text": "For the terms, Amen, Amen, (by us translated, Verily, verily), some of the ancients accounted them an oath; but the most learned modern writers have seen no reason to agree with them. Surely (see a large discourse about these particles in our learned Fuller, his Miscellan. 1.1. cap. 2, to which nothing need be added) if Amen is never used in the Old Testament but as a term of prayer or wishing, in the New Testament it is used to assert or affirm a thing, or as a particle of wishing and prayer."
+    },
+    {
+     "id": "poole/JHN.1.51#p3-bbed28a4",
+     "text": "The word in the Hebrew properly signifies, truth, Isa 65:16; whence Christ (the truth) is called the Amen, Rev 3:14. As the prophets were wont to begin their discourses with The word of the Lord, and Thus saith the Lord, to assert the truth of what they were about to say; so Christ, to show that himself was God, and spake from himself, begins with Amen; and Amen, Amen, sometimes: it is observed that John constantly doubles the particle, and saith Amen, Amen, that is, Verily, verily; either (as interpreters say) for further confirmation of the thing, or to get the greater attention, or to assert as well the truth of the speaker as of the thing spoken. Now the thing spoken followeth as a thing promised, not to Nathanael only, but to all believers, that they should",
+     "refs": [
+      {
+       "text": "Isa 65:16",
+       "ref": "ISA.65.16"
+      },
+      {
+       "text": "Rev 3:14",
+       "ref": "REV.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.51#p4-82a06820",
+     "text": "Some think that hereby is meant the spiritual, metaphorical opening of heaven to believers by Christ.",
+     "anchor": "see the heavens opened, and the angels of God ascending and descending upon the Son of man"
+    },
+    {
+     "id": "poole/JHN.1.51#p5-6dbbc386",
+     "text": "But it seems more properly to signify such an opening of the heavens as we read of, Mat 3:16. Some understand it of the appearances of angels to Christ at his passion, and resurrection, and ascension; but it seems rather to refer to the day of judgment, when ten thousands of angels shall wait upon Christ, as the Judge of the quick and the dead, and minister unto him; which ministration, they say, is expressed by the terms of ascending and descending, with reference (doubtless) to Jacob’s vision, Gen 28:12: Jacob saw it sleeping, Nathanael and other believers shall see it with open eyes. Others interpret it more generally, viz. You shall see as many miracles as if you saw the heavens opened, and the angels ascending and descending.",
+     "refs": [
+      {
+       "text": "Mat 3:16",
+       "ref": "MAT.3.16"
+      },
+      {
+       "text": "Gen 28:12",
+       "ref": "GEN.28.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.1.51#p6-5b921838",
+     "text": "Others think it refers to some further appearances of the angels to Christ in their ministration to him than the Scripture records. Christ doth not say, You shall see angels ascending and descending upon me, but upon the Son of man; by which our learned Lightfoot saith, he did not only declare himself to be truly man, but the Second Adam, in whom what was lost in the first was to be restored. It is observed, that only Ezekiel in the Old Testament, and Christ in the New Testament, are thus called; and that Christ was never thus called but by himself."
+    },
+    {
+     "id": "poole/JHN.1.51#p7-d95c299e",
+     "text": "Ezekiel was doubtless so called to distinguish him from those spiritual beings with which he often conversed: Christ, to distinguish his human nature from his Divine nature, both which (in him) made up one person. Christ’s calling himself so was but a further indication of his making himself of no reputation, while he was in the form of a servant. Others think, that the Son of man in the gospel, used by Christ, signifies no more than I, and me; (it being usual in the Hebrew dialect for persons to speak of themselves in the third person); so, upon the Son of man, is, upon me, who am truly man. Chemnitius thinks, that as the term Messiah (by which the people commonly called Christ) was taken out of Daniel; so this term, by Christ applied to the same person, is taken out thence too, Dan 7:13, where it is said, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, & c.; and that Christ did ordinarily so call himself, to correspond with the prophecy of Daniel, to assert himself truly man, and to declare himself his Father’s servant, according to the prophecy, Isa 42:1.",
+     "refs": [
+      {
+       "text": "Dan 7:13",
+       "ref": "DAN.7.13"
+      },
+      {
+       "text": "Isa 42:1",
+       "ref": "ISA.42.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

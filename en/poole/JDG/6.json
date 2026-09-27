@@ -1,0 +1,714 @@
+{
+ "source": "poole",
+ "book": "JDG",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "poole/JDG.6",
+   "range": "JDG.6",
+   "kind": "chapter",
+   "hash": "c76c692d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6#p1-c76c692d",
+     "text": "The Midianites oppress Israel, Jud 6:1-6. A prophet raised rebukes them, Jud 6:7-10. An angel calls Gideon to Israel’s deliverance, Jud 6:11-16; confirms him by a miracle, Jud 6:17-21. He builds an altar; calls it Jehovah-shalom; and offereth there. By God’s command he breaks down the altar of BAAL: his name Jerub-baal, Jud 6:22-32. The Midianites gather together to fight; and Gideon prepares against them: God strengthens and confirms him by a miracle, Jud 6:33-40.",
+     "refs": [
+      {
+       "text": "Jud 6:1-6",
+       "ref": "JUD.6.1-6"
+      },
+      {
+       "text": "Jud 6:7-10",
+       "ref": "JUD.6.7-10"
+      },
+      {
+       "text": "Jud 6:11-16",
+       "ref": "JUD.6.11-16"
+      },
+      {
+       "text": "Jud 6:17-21",
+       "ref": "JUD.6.17-21"
+      },
+      {
+       "text": "Jud 6:22-32",
+       "ref": "JUD.6.22-32"
+      },
+      {
+       "text": "Jud 6:33-40",
+       "ref": "JUD.6.33-40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.1",
+   "range": "JDG.6.1",
+   "kind": "passage",
+   "hash": "775ca46a",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.1#p1-775ca46a",
+     "text": "For although the generality of the Midianites had been cut off by Moses about two hundred years ago, yet many of them doubtless fled into the neighbouring countries, whence afterwards they returned into their own land, and in that time might easily grow to be a very great number; especially when God furthered their increase, that they might be a fit scourge for his people Israel when they transgressed."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.2",
+   "range": "JDG.6.2",
+   "kind": "passage",
+   "hash": "99abf247",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.2#p1-99abf247",
+     "text": "In which they might secure their persons and provisions from the hands of the Midianites."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.3",
+   "range": "JDG.6.3",
+   "kind": "passage",
+   "hash": "7ec68607",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.3#p1-7ec68607",
+     "text": "i.e. the Arabians, who are commonly called the children of the east, as Gen 29:1 Jud 8:10,11 Job 1:3 Eze 25:4. Not all the Arabians, for in that were many and divers people; but in the eastern part of Arabia.",
+     "anchor": "The children of the east",
+     "refs": [
+      {
+       "text": "Gen 29:1",
+       "ref": "GEN.29.1"
+      },
+      {
+       "text": "Jud 8:10",
+       "ref": "JUD.8.10"
+      },
+      {
+       "text": "Eze 25:4",
+       "ref": "EZK.25.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.4",
+   "range": "JDG.6.4",
+   "kind": "passage",
+   "hash": "b95e79c8",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.4#p1-b95e79c8",
+     "text": "i.e. from the east, on which side they entered, to the west, where Gaza was near the sea; so they destroyed the whole land.",
+     "anchor": "Till thou come unto Gaza"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.5",
+   "range": "JDG.6.5",
+   "kind": "passage",
+   "hash": "32775525",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.5#p1-32775525",
+     "text": "i.e. so many that it was not easy to number them. It is an hyperbole.",
+     "anchor": "Without number"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.10",
+   "range": "JDG.6.10",
+   "kind": "passage",
+   "hash": "e49e5b8c",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.10#p1-e49e5b8c",
+     "text": "i.e. do not serve or worship them.",
+     "anchor": "Fear not"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.11",
+   "range": "JDG.6.11",
+   "kind": "passage",
+   "hash": "3164cdee",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.11#p1-6c9ecaac",
+     "text": "to wit, in Manasseh; for there was another Ophrah in Benjamin, Jos 18:23. The Abi-ezrite; of the posterity of Abi-ezer; of whom see Jos 17:2 1Ch 7:18. See Jud 8:27,32.",
+     "anchor": "In Ophrah",
+     "refs": [
+      {
+       "text": "Jos 18:23",
+       "ref": "JOS.18.23"
+      },
+      {
+       "text": "Jos 17:2",
+       "ref": "JOS.17.2"
+      },
+      {
+       "text": "1Ch 7:18",
+       "ref": "1CH.7.18"
+      },
+      {
+       "text": "Jud 8:27",
+       "ref": "JUD.8.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.11#p2-b63f5e53",
+     "text": "not with oxen, as the manner was, Deu 25:4; but with a staff, to prevent discovery.",
+     "anchor": "Threshed wheat",
+     "refs": [
+      {
+       "text": "Deu 25:4",
+       "ref": "DEU.25.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.11#p3-d9f64e6a",
+     "text": "in the place where the wine-press stood, not in the common floor.",
+     "anchor": "By the wine-press"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.12",
+   "range": "JDG.6.12",
+   "kind": "passage",
+   "hash": "78c7d11c",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.12#p1-6806c5f6",
+     "text": "i.e. Will assist thee against thine and mine enemies."
+    },
+    {
+     "id": "poole/JDG.6.12#p2-19ab4ae4",
+     "text": "to whom I have given strength and courage for this end.",
+     "anchor": "Thou mighty man of valour"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.14",
+   "range": "JDG.6.14",
+   "kind": "passage",
+   "hash": "ea3b96b8",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.14#p1-f2380718",
+     "text": "with a settled and pleasant countenance, as a testimony of his favour to him, and of his readiness to help him.",
+     "anchor": "The Lord looked upon him"
+    },
+    {
+     "id": "poole/JDG.6.14#p2-efb8f013",
+     "text": "or, go now, or at this time, in thy might; the strength which thou hast already received, and dost now further receive from me, is sufficient with my help.",
+     "anchor": "Go in this thy might"
+    },
+    {
+     "id": "poole/JDG.6.14#p3-91e76546",
+     "text": "I do hereby give thee command and commission for this work, and therefore am obliged in honour to assist thee in it.",
+     "anchor": "Have not I sent thee?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.15",
+   "range": "JDG.6.15",
+   "kind": "passage",
+   "hash": "8aed757c",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.15#p1-3078c1a4",
+     "text": "Heb. my thousand; for the tribes were distributed into several thousands, whereof each thousand had his peculiar governor.",
+     "anchor": "My family"
+    },
+    {
+     "id": "poole/JDG.6.15#p2-d8015d0f",
+     "text": "i.e. weak and contemptible.",
+     "anchor": "Poor"
+    },
+    {
+     "id": "poole/JDG.6.15#p3-612547e7",
+     "text": "either for age, or for wisdom, and fitness for so great a work.",
+     "anchor": "I am the least"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.16",
+   "range": "JDG.6.16",
+   "kind": "passage",
+   "hash": "babd51c4",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.16#p1-babd51c4",
+     "text": "As easily as if they were all but one man; or, thou shalt destroy them to a man, as he did, Jud 8."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.17",
+   "range": "JDG.6.17",
+   "kind": "passage",
+   "hash": "b89f5c3b",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.17#p1-024d1250",
+     "text": "That it is thou, to wit, an angel or messenger sent from God, that appears to me, and discourseth with me; and not a fancy or delusion; that thou art in truth what thou seemest and pretendest to be, Jud 7:12. Or,",
+     "refs": [
+      {
+       "text": "Jud 7:12",
+       "ref": "JUD.7.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.17#p2-c8532044",
+     "text": "i.e. that thou wilt by me smite the Midianites.",
+     "anchor": "a sign of that which thou talkest with me"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.18",
+   "range": "JDG.6.18",
+   "kind": "passage",
+   "hash": "f323fcec",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.18#p1-9ef010f7",
+     "text": "not a sacrifice, because neither was Gideon a priest, nor was this the place of sacrifice, nor was any altar here, nor was there any such sacrifice as here follows appointed by God; but a repast, or some food for the angel, which he thought to be a man, as appears by Jud 6:22. Compare Jud 13:15 Gen 18:5.",
+     "anchor": "My present",
+     "refs": [
+      {
+       "text": "Jud 6:22",
+       "ref": "JUD.6.22"
+      },
+      {
+       "text": "Jud 13:15",
+       "ref": "JUD.13.15"
+      },
+      {
+       "text": "Gen 18:5",
+       "ref": "GEN.18.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.18#p2-b38d7ea6",
+     "text": "that thou mayst eat and refresh thyself.",
+     "anchor": "Set it before thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.19",
+   "range": "JDG.6.19",
+   "kind": "passage",
+   "hash": "e1bd3c80",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.19#p1-e1bd3c80",
+     "text": "to wit, out of the choicest part of a whole ephah; as also he brought to him the best part of a kid dressed; for a whole ephah and a whole kid had been very superfluous, and improper to provide for and set before one man.",
+     "anchor": "Of an ephah of flour"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.21",
+   "range": "JDG.6.21",
+   "kind": "passage",
+   "hash": "03c2a641",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.21#p1-03c2a641",
+     "text": "By these things he showed himself to be no man that needed such provisions, but a true angel of God, or the Son of God; and by this instance of his omnipotency, gave the assurance that he both could and would consume the Midianites."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.22",
+   "range": "JDG.6.22",
+   "kind": "passage",
+   "hash": "a82b10e3",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.22#p1-815b8a61",
+     "text": "I am an undone man; I must die, and that speedily; for that he feared, Jud 6:23, according to the common opinion in that case; of which see Gen 16:13 32:30 Exo 33:20 Deu 5:25,26.",
+     "refs": [
+      {
+       "text": "Jud 6:23",
+       "ref": "JUD.6.23"
+      },
+      {
+       "text": "Gen 16:13",
+       "ref": "GEN.16.13"
+      },
+      {
+       "text": "Exo 33:20",
+       "ref": "EXO.33.20"
+      },
+      {
+       "text": "Deu 5:25",
+       "ref": "DEU.5.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.22#p2-61903f11",
+     "text": "or, for therefore, &c., i.e. therefore God hath showed me this sight as a presage of my death.",
+     "anchor": "For because"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.23",
+   "range": "JDG.6.23",
+   "kind": "passage",
+   "hash": "89b1ca90",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.23#p1-bbf8e02f",
+     "text": "The Lord spake by inward suggestion, rather than in a visible apparition."
+    },
+    {
+     "id": "poole/JDG.6.23#p2-da40b732",
+     "text": "thou shalt receive no hurt by this vision, as thou fearest; but only peace, i. e. all the blessings needful for thy own happiness, and for the present work; for this is a very comprehensive phrase among the Hebrews.",
+     "anchor": "Peace be unto thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.24",
+   "range": "JDG.6.24",
+   "kind": "passage",
+   "hash": "d671a2cf",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.24#p1-4e458ca4",
+     "text": "to wit, on the top of the rock, as is evident from Jud 6:20, and especially from Jud 6:26, where that which is here expressed only in general, and by anticipation, is more particularly described, according to the usage of the Scripture.",
+     "anchor": "There",
+     "refs": [
+      {
+       "text": "Jud 6:20",
+       "ref": "JUD.6.20"
+      },
+      {
+       "text": "Jud 6:26",
+       "ref": "JUD.6.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.24#p2-37d2526a",
+     "text": "i.e. the Lord’s peace; the sign or witness of God’s speaking peace to me, and to his people; or the place where he spake peace to me, when I expected nothing but destruction.",
+     "anchor": "Jehovah-shalom"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.25",
+   "range": "JDG.6.25",
+   "kind": "passage",
+   "hash": "af191403",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.25#p1-687313f3",
+     "text": "thus there was but one bullock, which was young, to wit, comparatively, but not simply, for it was seven years old; and of such this Hebrew word is used, Job 21:10; for these creatures are fruitful above seven years. Or thus,",
+     "anchor": "Even the second bullock",
+     "refs": [
+      {
+       "text": "Job 21:10",
+       "ref": "JOB.21.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.25#p2-1938f93c",
+     "text": "so there were two bullocks. But because there is but one of them mentioned both in the next verse, and in the execution of this command, Jud 6:28, it is probable it was but one; and the Hebrew particle vau, and, is put exegetically for even, or, to wit, as is very usual. And this he calls his father’s young bullock, both because his father was the owner of it, and because his father kept and fed it for a sacrifice to Baal. But because it is likely his father kept divers of these cattle of differing ages and statures for that use, either at his own or at the people’s charge, therefore he adds, by way of limitation, that he should not take the eldest and the greatest, but the second, to wit, in age, or stature, or goodliness, or in the order of sacrifice, that which was to have been sacrificed to Baal in the second place. And this he singled out because of its age; for being",
+     "anchor": "thy father’s young bullock, and the second bullock",
+     "refs": [
+      {
+       "text": "Jud 6:28",
+       "ref": "JUD.6.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.25#p3-8e700187",
+     "text": "it began with the Midianitish calamity, and being now to be sacrificed, did fitly signify, that the period of that misery was now come.",
+     "anchor": "seven years old"
+    },
+    {
+     "id": "poole/JDG.6.25#p4-5a916a6e",
+     "text": "which thy father built in his own ground, though for the common use of the whole city, Jud 6:28-30.",
+     "anchor": "That thy father hath",
+     "refs": [
+      {
+       "text": "Jud 6:28-30",
+       "ref": "JUD.6.28-30"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.25#p5-b27009f3",
+     "text": "planted by the altar for idolatrous or impure uses, as the manner of idolaters was. See Jud 3:7. This action might seem injurious to his father’s rights and authority; but God’s command was sufficient warrant, and Gideon was now called to be the supreme magistrate, whereby he was made his father’s superior, and was empowered, and authorized, and enjoined to root out all idolatry and superstition, and the instruments thereof.",
+     "anchor": "The grove that is by it",
+     "refs": [
+      {
+       "text": "Jud 3:7",
+       "ref": "JUD.3.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.26",
+   "range": "JDG.6.26",
+   "kind": "passage",
+   "hash": "3e87d4ba",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.26#p1-5455834c",
+     "text": "of which Jud 6:20,21. Heb. of this strong hold; for in that calamitous time the Israelites retreated to such rocks, and hid and fortified themselves in them.",
+     "anchor": "Upon the top of this rock",
+     "refs": [
+      {
+       "text": "Jud 6:20",
+       "ref": "JUD.6.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.26#p2-94ed2373",
+     "text": "i.e. in a plain and smooth part of the rock, where an altar may be conveniently built. Or,",
+     "anchor": "In the ordered place"
+    },
+    {
+     "id": "poole/JDG.6.26#p3-abc2a102",
+     "text": "i.e. in such manner as I have appointed; for God had given rules about the building of altars.",
+     "anchor": "in order"
+    },
+    {
+     "id": "poole/JDG.6.26#p4-b575ee63",
+     "text": "Gideon was no priest, nor was this the appointed place of sacrifice; but God can dispense with his own institutions, though we may not; and his call gave Gideon sufficient authority.",
+     "anchor": "Offer a burnt-sacrifice"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.27",
+   "range": "JDG.6.27",
+   "kind": "passage",
+   "hash": "bb6afd8d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.27#p1-0728d55d",
+     "text": "Doubtless he had acquainted the ten men with his design, and the assurance of success in it, whereby they were easily induced to assist him, if not sincerely, yet for the expectation of advantage to themselves by it."
+    },
+    {
+     "id": "poole/JDG.6.27#p2-91a1a6cb",
+     "text": "not so much lest he should suffer for it, for he knew very well the doing it by night with so many hands could not hinder the discovery, and consequently the punishment of it; but lest he should be prevented from doing it.",
+     "anchor": "Because he feared"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.28",
+   "range": "JDG.6.28",
+   "kind": "passage",
+   "hash": "946da6f5",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.28#p1-946da6f5",
+     "text": "Not upon Baal’s altar, for which it was designed; but upon an altar erected in contempt of Baal."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.29",
+   "range": "JDG.6.29",
+   "kind": "passage",
+   "hash": "e5883b41",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.29#p1-e5883b41",
+     "text": "Which they might easily conjecture, partly by his known aversion from the worship of Baal, and partly because no other person durst presume to do such a thing; but they might more certainly learn it from some of the persons employed in it, who through fear or favour might inform them."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.31",
+   "range": "JDG.6.31",
+   "kind": "passage",
+   "hash": "462d76cd",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.31#p1-de3025d2",
+     "text": "Why are you so zealous in pleading for that Baal, for the worship whereof you suffer such grievous calamities at this day, and from whom you have no help? It is plain that Joash had been a worshipper of Baal; either therefore he was now convinced by Gideon’s information and action, or he makes use of this pretence to preserve his son, being indeed indifferent in matters of religion; and therefore as he did worship Baal to comply with his neighbours, so now he deserts him to rescue his son.",
+     "anchor": "Will ye plead for Baal?"
+    },
+    {
+     "id": "poole/JDG.6.31#p2-b4a9a290",
+     "text": "he that shall further plead for such a god as this, deserves to die for his folly and impiety. It is not probable that this was all that he said for his son’s defence; or that he would neglect to mention the call his son had from God to it, the apparition of an angel, the promise of deliverance; but it is usual in Scripture to give only some short hints of those things which were more largely discoursed.",
+     "anchor": "He that will plead for him, let him be put to death"
+    },
+    {
+     "id": "poole/JDG.6.31#p3-ae0e3975",
+     "text": "i.e. instantly, without delay; for it was now morning time, as appears from Jud 6:28, &c.",
+     "anchor": "Whilst it is yet morning",
+     "refs": [
+      {
+       "text": "Jud 6:28",
+       "ref": "JUD.6.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.31#p4-9aa624be",
+     "text": "as the God of Israel hath often done when any indignity or injury hath been done to him. But Baal hath now showed that he is neither able to help you nor himself, and therefore is not worthy to be served any longer. This courageous and resolute answer was necessary to stop the torrent of the people’s fury; and it was drawn from him, partly by the sense of his son’s extreme danger, and partly by the confidence he had that God would plead his son’s cause, and use him for the rescue of his people.",
+     "anchor": "Let him plead for himself"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.32",
+   "range": "JDG.6.32",
+   "kind": "passage",
+   "hash": "09eda63b",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.32#p1-09eda63b",
+     "text": "i.e. Joash called Gideon so, Jud 7:1, in remembrance of this noble exploit, and to put a brand upon Baal.",
+     "anchor": "He called him",
+     "refs": [
+      {
+       "text": "Jud 7:1",
+       "ref": "JUD.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.33",
+   "range": "JDG.6.33",
+   "kind": "passage",
+   "hash": "31e46a9d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.33#p1-31e46a9d",
+     "text": "Not that Jezreel in Judah, of which Jos 15:56; but another in the borders of Manasseh and Issachar, Jos 17:16 19:18, which is not far distant from Ophrah, where Gideon dwelt, and now was.",
+     "refs": [
+      {
+       "text": "Jos 15:56",
+       "ref": "JOS.15.56"
+      },
+      {
+       "text": "Jos 17:16",
+       "ref": "JOS.17.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.34",
+   "range": "JDG.6.34",
+   "kind": "passage",
+   "hash": "4b5acba0",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.34#p1-3b433967",
+     "text": "inspiring him with extraordinary wisdom, and courage, and zeal, to vindicate God’s honour and his country’s liberty. Compare 1Ch 12:18 2Ch 24:20.",
+     "anchor": "Came upon Gideon",
+     "refs": [
+      {
+       "text": "1Ch 12:18",
+       "ref": "1CH.12.18"
+      },
+      {
+       "text": "2Ch 24:20",
+       "ref": "2CH.24.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.6.34#p2-b4104ddf",
+     "text": "i.e. the Abi-ezrites, his kindred, And their servants, and others; who finding no harm coming to him for the destroying of Baal, but rather a blessing from God, in giving him strength and courage for so great and dangerous an attempt, changed their minds, and followed him as the person by whose hands God would deliver them.",
+     "anchor": "Abi-ezer"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.35",
+   "range": "JDG.6.35",
+   "kind": "passage",
+   "hash": "efe10530",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.35#p1-625f6045",
+     "text": "on both sides of Jordan.",
+     "anchor": "Throughout all Manasseh"
+    },
+    {
+     "id": "poole/JDG.6.35#p2-b94a18d0",
+     "text": "because these tribes were nearest to him, and so could soonest join with him; and were nearest the enemy also, Jud 6:33, and therefore were most sensible of the calamity, and would in all reason be most forward to rescue themselves from it.",
+     "anchor": "Unto Asher, Zebulun, and Naphtali",
+     "refs": [
+      {
+       "text": "Jud 6:33",
+       "ref": "JUD.6.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.36",
+   "range": "JDG.6.36",
+   "kind": "passage",
+   "hash": "80474999",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.36#p1-80474999",
+     "text": "this in way of humble supplication, partly for the strengthening of his own faith, and partly for the greater encouragement of his soldiers in this great and strange attempt.",
+     "anchor": "Gideon said"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.37",
+   "range": "JDG.6.37",
+   "kind": "passage",
+   "hash": "919e14db",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.37#p1-919e14db",
+     "text": "i.e. upon all that spot of ground which adjoineth to and encompasseth the fleece.",
+     "anchor": "Upon all the earth beside"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.6.39",
+   "range": "JDG.6.39",
+   "kind": "passage",
+   "hash": "15f51c9f",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.6.39#p1-15f51c9f",
+     "text": "Which was more difficult and preternatural than the former instance, because if there be any moisture, such bodies as fleeces of wool are most likely to drink it up."
+    }
+   ]
+  }
+ ]
+}

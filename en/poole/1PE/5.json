@@ -1,0 +1,882 @@
+{
+ "source": "poole",
+ "book": "1PE",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/1PE.5",
+   "range": "1PE.5",
+   "kind": "chapter",
+   "hash": "1dc4b34f",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5#p1-df77d9b2",
+     "text": "1Pe 5:1-4 The elders are exhorted to feed the flock of Christ conscientiously, looking to the chief Shepherd for a reward.",
+     "refs": [
+      {
+       "text": "1Pe 5:1-4",
+       "ref": "1PE.5.1-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5#p2-059a8e92",
+     "text": "1Pe 5:5 The younger are required to submit to the elder, and all to practise humility toward each other,",
+     "refs": [
+      {
+       "text": "1Pe 5:5",
+       "ref": "1PE.5.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5#p3-b6a95b55",
+     "text": "1Pe 5:6,7 with resignation to God,",
+     "refs": [
+      {
+       "text": "1Pe 5:6",
+       "ref": "1PE.5.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5#p4-1553a016",
+     "text": "1Pe 5:8,9 to be sober, watchful, and stedfast in the faith, resisting the devil.",
+     "refs": [
+      {
+       "text": "1Pe 5:8",
+       "ref": "1PE.5.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5#p5-a05501c5",
+     "text": "1Pe 5:10-14 The Epistle is concluded with a prayer and benediction.",
+     "refs": [
+      {
+       "text": "1Pe 5:10-14",
+       "ref": "1PE.5.10-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.1",
+   "range": "1PE.5.1",
+   "kind": "passage",
+   "hash": "708e26d3",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.1#p1-30dd968d",
+     "text": "viz. those that were such, not so much by age as by office, as appears by his exhorting them to feed the flock, 1Pe 5:2; he means the ordinary ministers of the churches among the believing Jews.",
+     "anchor": "The elders which are among you I exhort",
+     "refs": [
+      {
+       "text": "1Pe 5:2",
+       "ref": "1PE.5.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.1#p2-cea4a543",
+     "text": "elder is a general name, comprehending under it even apostles themselves, who were elders, though every elder were not an apostle.",
+     "anchor": "Who am also an elder"
+    },
+    {
+     "id": "poole/1PE.5.1#p3-a12a4954",
+     "text": "either:",
+     "anchor": "And a witness"
+    },
+    {
+     "id": "poole/1PE.5.1#p4-a5999c88",
+     "text": "1. In his doctrine, in which he held forth Christ’s sufferings, whereof he had been an eye-witness, in which respect the apostles are often called witnesses, Luk 24:48 Act 1:8,22 2:32. Or:",
+     "refs": [
+      {
+       "text": "Luk 24:48",
+       "ref": "LUK.24.48"
+      },
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.1#p5-9cb73779",
+     "text": "2. In his example, in that he in suffering so much for Christ, did give an ample testimony to the reality of Christ’s sufferings, and that Christ had indeed suffered: or, both may well be comprehended."
+    },
+    {
+     "id": "poole/1PE.5.1#p6-ff0c40e4",
+     "text": "viz. at Christ’s last coming, 1Pe 1:5 4:13 Rom 8:17,18.",
+     "anchor": "The glory that shall be revealed",
+     "refs": [
+      {
+       "text": "1Pe 1:5",
+       "ref": "1PE.1.5"
+      },
+      {
+       "text": "Rom 8:17",
+       "ref": "ROM.8.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.2",
+   "range": "1PE.5.2",
+   "kind": "passage",
+   "hash": "c9ef8d49",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.2#p1-69fc3990",
+     "text": "teach and rule, Mat 2:6 Joh 21:15-17 Act 20:28.",
+     "anchor": "Feed",
+     "refs": [
+      {
+       "text": "Mat 2:6",
+       "ref": "MAT.2.6"
+      },
+      {
+       "text": "Joh 21:15-17",
+       "ref": "JHN.21.15-17"
+      },
+      {
+       "text": "Act 20:28",
+       "ref": "ACT.20.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.2#p2-23776c8d",
+     "text": "the church.",
+     "anchor": "The flock of God"
+    },
+    {
+     "id": "poole/1PE.5.2#p3-9c7be38f",
+     "text": "which is with you, or committed to your charge; intimating that the flock not being their own, they were to give an account of it to him that had set them over it.",
+     "anchor": "Which is among you"
+    },
+    {
+     "id": "poole/1PE.5.2#p4-2985a698",
+     "text": "or, being bishops, or acting as bishops over it, i.e. superintending, inspecting, and watching over it with all care, Act 20:28,29.",
+     "anchor": "Taking the oversight thereof",
+     "refs": [
+      {
+       "text": "Act 20:28",
+       "ref": "ACT.20.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.2#p5-398cb8d4",
+     "text": "not merely because ye must: what men do out of compulsion, they do more slightly and perfunctorily, as those that would not do it if they could help it: see the like expression, 2Co 9:7.",
+     "anchor": "Not by constraint",
+     "refs": [
+      {
+       "text": "2Co 9:7",
+       "ref": "2CO.9.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.2#p6-4ef6c9b3",
+     "text": "cheerfully and freely, as Exo 36:2 Psa 54:6: compare 1Co 9:17.",
+     "anchor": "But willingly",
+     "refs": [
+      {
+       "text": "Exo 36:2",
+       "ref": "EXO.36.2"
+      },
+      {
+       "text": "Psa 54:6",
+       "ref": "PSA.54.6"
+      },
+      {
+       "text": "1Co 9:17",
+       "ref": "1CO.9.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.2#p7-ad08e25e",
+     "text": "not out of covetousness, or a design of making a gain of the work; it being a shameful thing for a shepherd to feed the sheep out of love to the fleece: see Tit 1:7 1Ti 3:3,8.",
+     "anchor": "Not for filthy lucre",
+     "refs": [
+      {
+       "text": "Tit 1:7",
+       "ref": "TIT.1.7"
+      },
+      {
+       "text": "1Ti 3:3",
+       "ref": "1TI.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.2#p8-1e0e300b",
+     "text": "out of a good affection to the welfare of the flock, in opposition to the private gain before mentioned. He doth not do his work freely, and of a ready mind, who is either driven to it by necessity, or drawn by covetousness.",
+     "anchor": "But of a ready mind"
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.3",
+   "range": "1PE.5.3",
+   "kind": "passage",
+   "hash": "77fb7abc",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.3#p1-25685ef5",
+     "text": "not exercising any such lordship or dominion over the people, as temporal lords and magistrates exercise over their subjects, Mat 20:25,26, &c.; Luk 22:25: compare 2Co 1:24.",
+     "anchor": "Neither as being lords",
+     "refs": [
+      {
+       "text": "Mat 20:25",
+       "ref": "MAT.20.25"
+      },
+      {
+       "text": "Luk 22:25",
+       "ref": "LUK.22.25"
+      },
+      {
+       "text": "2Co 1:24",
+       "ref": "2CO.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.3#p2-d3057d3a",
+     "text": "the Lord’s clergy, the same as flock before; the Greek word is plural, and so it signifies the several churches or flocks which were under the charge of the several elders or pastors. The church of Israel is often called God’s inheritance, which as it were fell to him by lot, (as the Greek word signifies), and which was as dear to him as men’s inheritances are to them: see Deu 4:20 9:29 32:9 Psa 33:12 74:2 78:71. Accordingly now the Christian church, succeeding it, is called God’s inheritance, and the word clerus is no where in the New Testament peculiarly ascribed to ministers of the gospel. This title given here to the Lord’s people, implies a reason why the elders should not lord it over them, viz. because they are still the Lord’s inheritance, and not their own; God having not given them a kingdom but a care, and still retaining his right to his people.",
+     "anchor": "Over God’s heritage",
+     "refs": [
+      {
+       "text": "Deu 4:20",
+       "ref": "DEU.4.20"
+      },
+      {
+       "text": "Psa 33:12",
+       "ref": "PSA.33.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.3#p3-5e9ac6d5",
+     "text": "in holiness of life, practising before their eyes what you preach to their ears, Php 3:17 2Th 3:9 Tit 2:7.",
+     "anchor": "But being ensamples to the flock",
+     "refs": [
+      {
+       "text": "Php 3:17",
+       "ref": "PHP.3.17"
+      },
+      {
+       "text": "2Th 3:9",
+       "ref": "2TH.3.9"
+      },
+      {
+       "text": "Tit 2:7",
+       "ref": "TIT.2.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.4",
+   "range": "1PE.5.4",
+   "kind": "passage",
+   "hash": "6627878a",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.4#p1-98d8d2fe",
+     "text": "the Lord Jesus Christ, the only Prince of pastors, called the great Shepherd of the sheep, Heb 13:20, as here the chief Shepherd, not only for his supereminent dignity over all other pastors, but because of the power he hath over them, they being all subject to his authority, receiving their charge from him, and exercising their office in his name, and being accountable to him for their administrations.",
+     "anchor": "And when the chief Shepherd",
+     "refs": [
+      {
+       "text": "Heb 13:20",
+       "ref": "HEB.13.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.4#p2-74ebee0a",
+     "text": "see 1Pe 1:7,13 4:13.",
+     "anchor": "Shall appear",
+     "refs": [
+      {
+       "text": "1Pe 1:7",
+       "ref": "1PE.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.4#p3-d90ef8f6",
+     "text": "or, carry away, viz. from Christ, who, as the Judge, shall award it to you.",
+     "anchor": "Ye shall receive"
+    },
+    {
+     "id": "poole/1PE.5.4#p4-21c5724d",
+     "text": "either, a glorious crown; or, that glory which shall be as a crown to you. It is called a crown of righteousness, 2Ti 4:8; a crown of life, Jas 1:12.",
+     "anchor": "A crown of glory",
+     "refs": [
+      {
+       "text": "2Ti 4:8",
+       "ref": "2TI.4.8"
+      },
+      {
+       "text": "Jas 1:12",
+       "ref": "JAS.1.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.4#p5-77ecaee6",
+     "text": "in opposition to those crowns which were given to conquerors in war, and in public games, which were made of perishable flowers or herbs: see 1Pe 1:4 1Co 9:25.",
+     "anchor": "That fadeth not away",
+     "refs": [
+      {
+       "text": "1Pe 1:4",
+       "ref": "1PE.1.4"
+      },
+      {
+       "text": "1Co 9:25",
+       "ref": "1CO.9.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.5",
+   "range": "1PE.5.5",
+   "kind": "passage",
+   "hash": "721c1bbe",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.5#p1-a2bfb9cc",
+     "text": "either he means those that were inferior to the church officers, and then he here prescribes the people their duty, as he had done the ministers; or rather, those that were younger in years, and then he passeth from the more special to the general.",
+     "anchor": "Ye younger"
+    },
+    {
+     "id": "poole/1PE.5.5#p2-6566105f",
+     "text": "under subjection, he comprehends all those offices which the younger owe to the elder; as, to reverence them, take their advice, be guided by them, &c. Or, if younger be taken in the former sense, this precept falls in with that of the apostle, Heb 13:17.",
+     "anchor": "Submit yourselves",
+     "refs": [
+      {
+       "text": "Heb 13:17",
+       "ref": "HEB.13.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.5#p3-d8934ec1",
+     "text": "either elders by office, who were likewise usually elders in years, the younger sort being more rarely chosen to be officers; or rather, elder in age.",
+     "anchor": "To the elder"
+    },
+    {
+     "id": "poole/1PE.5.5#p4-3db558a8",
+     "text": "viz. in those mutual duties which they owe to each other, as husbands to wives, parents to children, &c. Those that are superior to others, yet are not so exempt from subjection as not to owe some duty: see Php 2:3.",
+     "anchor": "Yea, all of you be subject one to another",
+     "refs": [
+      {
+       "text": "Php 2:3",
+       "ref": "PHP.2.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.5#p5-ab4d5ff4",
+     "text": "or, wrapt up, or covered, with humility, as with a garment which is put on over other garments; q.d. Adorn yourselves with humility as with a beautiful garment or robe. The metaphor of putting on is frequent, where mention is made of any grace or virtue, Rom 13:12 Eph 4:24 Col 3:10,12.",
+     "anchor": "And be clothed with humility",
+     "refs": [
+      {
+       "text": "Rom 13:12",
+       "ref": "ROM.13.12"
+      },
+      {
+       "text": "Eph 4:24",
+       "ref": "EPH.4.24"
+      },
+      {
+       "text": "Col 3:10",
+       "ref": "COL.3.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.6",
+   "range": "1PE.5.6",
+   "kind": "passage",
+   "hash": "3e58cc5b",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.6#p1-c2c1038c",
+     "text": "by this he means God’s omnipotence, which sometimes is called a strong hand, Exo 3:19, a mighty hand, Exo 32:11 Deu 3:24, the right hand of power, Mat 26:64; by which he is able to beat down those that are proud and high, and to defend or exalt those that are humble and lowly.",
+     "anchor": "The mighty hand of God",
+     "refs": [
+      {
+       "text": "Exo 3:19",
+       "ref": "EXO.3.19"
+      },
+      {
+       "text": "Exo 32:11",
+       "ref": "EXO.32.11"
+      },
+      {
+       "text": "Deu 3:24",
+       "ref": "DEU.3.24"
+      },
+      {
+       "text": "Mat 26:64",
+       "ref": "MAT.26.64"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.6#p2-ba8e40c0",
+     "text": "Greek, in season, viz. that which God sees most fit and conducing to his own glory and your real welfare.",
+     "anchor": "In due time"
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.7",
+   "range": "1PE.5.7",
+   "kind": "passage",
+   "hash": "6e724f47",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.7#p1-1d62dd9e",
+     "text": "as a burden, all your care upon him; your care for all sorts of things, even which concern this life, that care which will otherwise cut and divide your hearts, (as the Greek word in Matthew imports), and be grievous and tormenting to you.",
+     "anchor": "Casting"
+    },
+    {
+     "id": "poole/1PE.5.7#p2-01b5a500",
+     "text": "God concerns himself in the affairs of his servants, and in whatsoever befalls them, and takes diligent care that no good thing be wanting to them, Psa 84:11 Php 4:6.",
+     "anchor": "For he careth for you",
+     "refs": [
+      {
+       "text": "Psa 84:11",
+       "ref": "PSA.84.11"
+      },
+      {
+       "text": "Php 4:6",
+       "ref": "PHP.4.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.8",
+   "range": "1PE.5.8",
+   "kind": "passage",
+   "hash": "8f8f6d91",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.8#p1-48695a74",
+     "text": "see 1Pe 1:13 4:7: q.d. Ye have to do with a mad enemy, a raging devil; ye had need yourselves be sober; not only in meats and drinks, &c., but as to the cares of this life, and whatsoever it is that is apt to intoxicate your minds, and expose you to him.",
+     "anchor": "Be sober",
+     "refs": [
+      {
+       "text": "1Pe 1:13",
+       "ref": "1PE.1.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.8#p2-b53b44a5",
+     "text": "spiritually watchful and circumspect, careful of your salvation, and aware of Satan’s snares and temptations, Mat 24:42 Mat 25:13 26:41 1Th 5:6.",
+     "anchor": "Be vigilant",
+     "refs": [
+      {
+       "text": "Mat 24:42",
+       "ref": "MAT.24.42"
+      },
+      {
+       "text": "Mat 25:13",
+       "ref": "MAT.25.13"
+      },
+      {
+       "text": "1Th 5:6",
+       "ref": "1TH.5.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.8#p3-5ac49990",
+     "text": "or, that adversary of yours; he that contends with you, is plaintiff against you, Mat 5:25 Luk 12:58. It answers to the Hebrew word Satan, Zec 3:1.",
+     "anchor": "Because your adversary",
+     "refs": [
+      {
+       "text": "Mat 5:25",
+       "ref": "MAT.5.25"
+      },
+      {
+       "text": "Luk 12:58",
+       "ref": "LUK.12.58"
+      },
+      {
+       "text": "Zec 3:1",
+       "ref": "ZEC.3.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.8#p4-cea7761e",
+     "text": "your accuser, he that maligns you, calumniates you, informs against you: he is so called, Mat 4:1 13:39, and elsewhere, because of his accusing God to men, Gen 3:4,5, and men to God, Job 1:7 2:2 Rev 12:10, as well as each to other, Joh 8:44.",
+     "anchor": "The devil",
+     "refs": [
+      {
+       "text": "Mat 4:1",
+       "ref": "MAT.4.1"
+      },
+      {
+       "text": "Gen 3:4",
+       "ref": "GEN.3.4"
+      },
+      {
+       "text": "Job 1:7",
+       "ref": "JOB.1.7"
+      },
+      {
+       "text": "Rev 12:10",
+       "ref": "REV.12.10"
+      },
+      {
+       "text": "Joh 8:44",
+       "ref": "JHN.8.44"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.8#p5-1f9a5eb6",
+     "text": "i.e. strong, fierce, cruel, especially when hungry, and seeking his prey and roaring after it.",
+     "anchor": "As a roaring lion"
+    },
+    {
+     "id": "poole/1PE.5.8#p6-b386e409",
+     "text": "is diligent and restless in his attempts, either by circumventing or assaulting you: see Job 1:7.",
+     "anchor": "Walketh about",
+     "refs": [
+      {
+       "text": "Job 1:7",
+       "ref": "JOB.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.8#p7-6c9071ae",
+     "text": "not lightly hurt, but swallow up and utterly destroy, by himself or his instruments.",
+     "anchor": "Seeking whom he may devour"
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.9",
+   "range": "1PE.5.9",
+   "kind": "passage",
+   "hash": "624538c2",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.9#p1-c35ea29e",
+     "text": "by not yielding to his temptations, Eph 4:27, and by employing your spiritual armour against him, Eph 6:11-13, &c.: see Jas 4:7.",
+     "anchor": "Whom resist",
+     "refs": [
+      {
+       "text": "Eph 4:27",
+       "ref": "EPH.4.27"
+      },
+      {
+       "text": "Eph 6:11-13",
+       "ref": "EPH.6.11-13"
+      },
+      {
+       "text": "Jas 4:7",
+       "ref": "JAS.4.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.9#p2-a12a4954",
+     "text": "either:",
+     "anchor": "Stedfast in the faith"
+    },
+    {
+     "id": "poole/1PE.5.9#p3-07c02991",
+     "text": "1. Hold your faith, persevering in it, which the devil would fain bereave you of, (as soldiers used in war to look to their shields, it being dishonourable to lose them), and without which ye will never be able to stand out against the devil: or:"
+    },
+    {
+     "id": "poole/1PE.5.9#p4-a1139f1f",
+     "text": "2. Stedfast or strong by faith; intimating, that faith is a Christian’s greatest strength, it being by faith that he engageth the power of God and grace of Christ on his side, whereby he comes to be victorious over all his enemies, 1Jn 5:4.",
+     "refs": [
+      {
+       "text": "1Jn 5:4",
+       "ref": "1JN.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.9#p5-a12a4954",
+     "text": "either:",
+     "anchor": "Knowing that the same afflictions"
+    },
+    {
+     "id": "poole/1PE.5.9#p6-c672acbb",
+     "text": "1. The devil’s temptations, which here he calls afflictions, because believers are passive in them, and count them the greatest afflictions; or rather:"
+    },
+    {
+     "id": "poole/1PE.5.9#p7-d10a34b1",
+     "text": "2. Persecutions, which though they come upon them immediately from the men of the world, yet it is by the instigation of the devil, the prince of the world, who hath a principal hand in them, and acts by men as his instruments: so that when men oppress them, they are to resist the devil, who thereby tempts them. They have a spiritual enemy to deal with even in temporal afflictions."
+    },
+    {
+     "id": "poole/1PE.5.9#p8-72fadbbc",
+     "text": "or, fulfilled, or perfected: either:",
+     "anchor": "Are accomplished in your brethren"
+    },
+    {
+     "id": "poole/1PE.5.9#p9-bae0770e",
+     "text": "1. Others of your brethren are filling up the measure of sufferings God hath allotted them, for the mortifying of the flesh, and conforming them to Christ their Head, as well as you are filling up yours, Col 1:24; or:",
+     "refs": [
+      {
+       "text": "Col 1:24",
+       "ref": "COL.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.9#p10-19adc10d",
+     "text": "2. He speaks of the community of their sufferings: q.d. What afflictions ye endure, others endure too, and therefore ye should not grudge to suffer, when ye have so good company in your sufferings."
+    },
+    {
+     "id": "poole/1PE.5.9#p11-a9dd5cd7",
+     "text": "either this notes the sufferings of the saints to be universal, so as to reach them all, wheresoever they are dispersed throughout the world; or, to be short, as being confined to the time only of their abode in the world.",
+     "anchor": "That are in the world"
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.10",
+   "range": "1PE.5.10",
+   "kind": "passage",
+   "hash": "a77ca009",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.10#p1-9d4cb61d",
+     "text": "i.e. the author and giver of all grace, from whom ye have received what you have, and expect what you want.",
+     "anchor": "But the God of all grace"
+    },
+    {
+     "id": "poole/1PE.5.10#p2-1b58f002",
+     "text": "that eternal glory whereof believers at the last day shall be made partakers, which is called God’s glory, because it is that which he hath promised to them, and will at last put them in possession of: see 1Pe 5:1 Rom 5:2; and because they shall after a sort partake of the Divine glory which they behold.",
+     "anchor": "Who hath called us unto his eternal glory",
+     "refs": [
+      {
+       "text": "1Pe 5:1",
+       "ref": "1PE.5.1"
+      },
+      {
+       "text": "Rom 5:2",
+       "ref": "ROM.5.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.10#p3-3266bcdf",
+     "text": "for Christ’s sake, as the meritorious cause of our effectual calling, and by him as the great Apostle of our profession, Heb 3:1. Or, by Christ Jesus may refer to glory, Christ being the cause of their glorification as well as calling.",
+     "anchor": "By Christ Jesus",
+     "refs": [
+      {
+       "text": "Heb 3:1",
+       "ref": "HEB.3.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.10#p4-c6b2cbc9",
+     "text": "this he adds for their encouragement, that whatsoever they suffered would be but short, as 1Pe 1:6 2Co 4:17.",
+     "anchor": "After that ye have suffered a while",
+     "refs": [
+      {
+       "text": "1Pe 1:6",
+       "ref": "1PE.1.6"
+      },
+      {
+       "text": "2Co 4:17",
+       "ref": "2CO.4.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.10#p5-a12a4954",
+     "text": "either:",
+     "anchor": "Make you perfect, stablish, strengthen, settle you"
+    },
+    {
+     "id": "poole/1PE.5.10#p6-8cc19adb",
+     "text": "1. Perfect that which is begun, Heb 13:20,21, stablish that which is right, 2Th 2:16, strengthen that which is weak, settle or found (by a firm union and conjunction unto Christ) that which is already built, Eph 3:17,18 Col 1:23: or:",
+     "refs": [
+      {
+       "text": "Heb 13:20",
+       "ref": "HEB.13.20"
+      },
+      {
+       "text": "2Th 2:16",
+       "ref": "2TH.2.16"
+      },
+      {
+       "text": "Eph 3:17",
+       "ref": "EPH.3.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.10#p7-02199fc1",
+     "text": "2. These four words may be but different expressions whereby the apostle sets forth the same thing, viz. God’s confirming and establishing those saints unto their final perseverance; and his using so much variety of expressions may imply, that it is a matter of very great difficulty to hold on our Christian course, without failing or coming short of the goal, and therefore we need singular assistance from God to enable us to it."
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.11",
+   "range": "1PE.5.11",
+   "kind": "passage",
+   "hash": "0bcc9682",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.11#p1-07911f96",
+     "text": "to God.",
+     "anchor": "To him"
+    },
+    {
+     "id": "poole/1PE.5.11#p2-a5908b20",
+     "text": "see 1Pe 4:11. The verb be in the text is not in the Greek, and so it may be read with a supply of a verb either of the imperative mood, and then it is a doxology, as we render it; or of the indicative, he hath glory and dominion; or, to him belongs glory and dominion, or glorious dominion or power; and then it tends to encourage these saints, in that he, whom the apostle prays to stablish and strengthen them, is of power sufficient to do it.",
+     "anchor": "Be glory and dominion",
+     "refs": [
+      {
+       "text": "1Pe 4:11",
+       "ref": "1PE.4.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.12",
+   "range": "1PE.5.12",
+   "kind": "passage",
+   "hash": "9d3a3529",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.12#p1-186e5a93",
+     "text": "either Silas, Act 15:1-41 16:1-40, whom Peter therefore here calls",
+     "anchor": "By Silvanus",
+     "refs": [
+      {
+       "text": "Act 15:1-41",
+       "ref": "ACT.15.1-41"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.12#p2-c6160644",
+     "text": "to them, that they might the more readily receive him, though a minister of the uncircumcision; or else this Silvanus was some other that had preached to them, and is therefore said to be a faithful brother to them: the former is more probable.",
+     "anchor": "a faithful brother"
+    },
+    {
+     "id": "poole/1PE.5.12#p3-313bf653",
+     "text": "this doth not signify any doubt, but rather a firm persuasion, of Silvanus’s faithfulness; q.d. I reckon him faithful, having hitherto found him so: or, it may relate to the briefness of the Epistle; q.d. I suppose it will seem brief to you, as being from one that loves you, and about matters that so much concern you.",
+     "anchor": "As I suppose"
+    },
+    {
+     "id": "poole/1PE.5.12#p4-dce0d890",
+     "text": "viz. to constancy in the faith, and diligence in duty.",
+     "anchor": "Exhorting"
+    },
+    {
+     "id": "poole/1PE.5.12#p5-2cfb7474",
+     "text": "bearing my testimony to the truth ye have received; this the apostle witnesseth, that being more fully convinced of it, they might more constantly adhere to it. See the like phrase, Neh 9:29,30 13:15.",
+     "anchor": "And testifying",
+     "refs": [
+      {
+       "text": "Neh 9:29",
+       "ref": "NEH.9.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.12#p6-a660a2eb",
+     "text": "the true doctrine of God, wherein he sets forth the grace of Christ: q.d. Ye are in the right way; the doctrine ye have embraced is indeed the truth of God.",
+     "anchor": "That this is the true grace of God wherein ye stand"
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.13",
+   "range": "1PE.5.13",
+   "kind": "passage",
+   "hash": "8b8d989b",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.13#p1-49de87a4",
+     "text": "Babylon in Chaldea, where it is most probable the apostle was at the writing of this Epistle; the Jews being very numerous in those parts, as having settled themselves there ever since the captivity, and Peter being an apostle of the circumcision, his work lay much thereabout. The papists would have Babylon here to be Rome, as Rev 17:1-18, and that",
+     "anchor": "The church that is at Babylon",
+     "refs": [
+      {
+       "text": "Rev 17:1-18",
+       "ref": "REV.17.1-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.13#p2-ca4a1da3",
+     "text": "Peter gives it that name rather than its own, because, being escaped out of prison at Jerusalem, Act 12:12,25, he would not have it known where he was. But how comes he, that had been so bold before, to be so timorous now? Did this become the head of the church, the vicar of Christ, and prince of the apostles? And is it probable he should live twenty-five years at Rome, (as they pretend he did), and yet not be known to be there? Wherever he was, he had Mark now with him, who is said to have died at Alexandria the eighth year of Nero, and Peter not till six years after.",
+     "refs": [
+      {
+       "text": "Act 12:12",
+       "ref": "ACT.12.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.13#p3-6f56ee40",
+     "text": "If Mark then did first constitute the church of Alexandria, and govern it (as they say he did) for many years, it will be hard to find him and Peter at Rome together. But if they will needs have Rome be meant by Babylon, let them enjoy their zeal, who rather than not find Peter’s chair, would go to hell to seek it; and are more concerned to have Rome be the seat of Peter than the church of Christ."
+    }
+   ]
+  },
+  {
+   "id": "poole/1PE.5.14",
+   "range": "1PE.5.14",
+   "kind": "passage",
+   "hash": "017f85ed",
+   "paragraphs": [
+    {
+     "id": "poole/1PE.5.14#p1-c924b278",
+     "text": "see Rom 16:16 1Co 16:20 2Co 13:12.",
+     "anchor": "Greet ye one another with a kiss of charity",
+     "refs": [
+      {
+       "text": "Rom 16:16",
+       "ref": "ROM.16.16"
+      },
+      {
+       "text": "1Co 16:20",
+       "ref": "1CO.16.20"
+      },
+      {
+       "text": "2Co 13:12",
+       "ref": "2CO.13.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1PE.5.14#p2-cafeb32c",
+     "text": "united to him by faith, and members of him.",
+     "anchor": "In Christ Jesus"
+    }
+   ]
+  }
+ ]
+}

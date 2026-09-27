@@ -1,0 +1,93 @@
+{
+ "source": "poole",
+ "book": "2CH",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/2CH.5",
+   "range": "2CH.5",
+   "kind": "chapter",
+   "hash": "fa1acb8c",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.5#p1-fa1acb8c",
+     "text": "The dedicated treasures, 2Ch 5:1. The solemn induction of the ark into the oracle, 2Ch 5:2-10. Glory and praise is sung to God, who appeareth in a cloud, which filled the house, 2Ch 5:11-14.",
+     "refs": [
+      {
+       "text": "2Ch 5:1",
+       "ref": "2CH.5.1"
+      },
+      {
+       "text": "2Ch 5:2-10",
+       "ref": "2CH.5.2-10"
+      },
+      {
+       "text": "2Ch 5:11-14",
+       "ref": "2CH.5.11-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.5.1",
+   "range": "2CH.5.1",
+   "kind": "passage",
+   "hash": "8f8c76ad",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.5.1#p1-8f8c76ad",
+     "text": "Or, even (as that particle is oft understood) the silver and the gold, the remainder of those vast sums mentioned 1Ch 22:14.",
+     "refs": [
+      {
+       "text": "1Ch 22:14",
+       "ref": "1CH.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.5.2",
+   "range": "2CH.5.2",
+   "kind": "passage",
+   "hash": "6264e112",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.5.2#p1-6264e112",
+     "text": "Of this and the following verses, See Poole \"1Ki 8:1\", &c.",
+     "refs": [
+      {
+       "text": "1Ki 8:1",
+       "ref": "1KI.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.5.9",
+   "range": "2CH.5.9",
+   "kind": "passage",
+   "hash": "d9c01231",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.5.9#p1-d9c01231",
+     "text": "When this history was first written: not when it was reviewed by Ezra, who made some additions to it; for after the return from Babylon neither staves nor ark were any more seen or heard of."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.5.11",
+   "range": "2CH.5.11",
+   "kind": "passage",
+   "hash": "29ba8569",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.5.11#p1-29ba8569",
+     "text": "According to David’s appointment, 1Ch 24 1Ch 25, which was only for the ordinary service; but in extraordinary solemnities, such as this eminently was they all came together."
+    }
+   ]
+  }
+ ]
+}

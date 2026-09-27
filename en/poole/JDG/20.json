@@ -1,0 +1,928 @@
+{
+ "source": "poole",
+ "book": "JDG",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/JDG.20",
+   "range": "JDG.20",
+   "kind": "chapter",
+   "hash": "59b28a9a",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20#p1-59b28a9a",
+     "text": "The Israelites assemble at Mizpeh: the Levite declares his wrong, Jud 20:1-7. Their decree, Jud 20:8-11, They require the delinquents of the Benjamites to do justice on them; they are denied, Jud 20:12-17. Whereupon, having consulted God, they march to fight against them; are twice foiled; and lose forty thousand men, Jud 20:18-25. Being humbled, and receiving clearer revelation from God, they, by a stratagem, destroy the whole tribe, six hundred men excepted, (who fled away,) and burnt their cities, Jud 20:26-48.",
+     "refs": [
+      {
+       "text": "Jud 20:1-7",
+       "ref": "JUD.20.1-7"
+      },
+      {
+       "text": "Jud 20:8-11",
+       "ref": "JUD.20.8-11"
+      },
+      {
+       "text": "Jud 20:12-17",
+       "ref": "JUD.20.12-17"
+      },
+      {
+       "text": "Jud 20:18-25",
+       "ref": "JUD.20.18-25"
+      },
+      {
+       "text": "Jud 20:26-48",
+       "ref": "JUD.20.26-48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.1",
+   "range": "JDG.20.1",
+   "kind": "passage",
+   "hash": "866ff7b9",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.1#p1-12ede4a4",
+     "text": "i.e. a great number, and especially the rulers of all the tribes, except Benjamin, Jud 20:3,12.",
+     "anchor": "All the children of Israel",
+     "refs": [
+      {
+       "text": "Jud 20:3",
+       "ref": "JUD.20.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.1#p2-e3a24ec9",
+     "text": "from their several habitations.",
+     "anchor": "Went out"
+    },
+    {
+     "id": "poole/JDG.20.1#p3-6f1cc02f",
+     "text": "i.e. with one consent.",
+     "anchor": "As one man"
+    },
+    {
+     "id": "poole/JDG.20.1#p4-224ed373",
+     "text": "Dan was the northern border of the land, near Lebanon; and Beer-sheba the southern border, Gen 21:33. Compare 1Ki 4:25.",
+     "anchor": "From Dan even to Beer-sheba",
+     "refs": [
+      {
+       "text": "Gen 21:33",
+       "ref": "GEN.21.33"
+      },
+      {
+       "text": "1Ki 4:25",
+       "ref": "1KI.4.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.1#p5-076cb77b",
+     "text": "beyond Jordan, where Reuben, Gad, and half Manasseh were.",
+     "anchor": "The land of Gilead"
+    },
+    {
+     "id": "poole/JDG.20.1#p6-6a00a208",
+     "text": "as to the Lord’s tribunal; for God was not only present in the place where the ark and tabernacle was, but also in the assemblies of the gods, or judges, Psa 82:1, and in all the places where God’s name is recorded, Exo 20:24, and where two or three are met together in his name, Mat 18:20, for his service, and to seek for counsel and mercy from him: compare Jud 11:11.",
+     "anchor": "Unto the Lord",
+     "refs": [
+      {
+       "text": "Psa 82:1",
+       "ref": "PSA.82.1"
+      },
+      {
+       "text": "Exo 20:24",
+       "ref": "EXO.20.24"
+      },
+      {
+       "text": "Mat 18:20",
+       "ref": "MAT.18.20"
+      },
+      {
+       "text": "Jud 11:11",
+       "ref": "JUD.11.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.1#p7-08fd32b9",
+     "text": "a place in the borders of Judah and Benjamin, and therefore ascribed to both of them, Jos 15:38 18:26. This they chose, as a place most fit and proper in many respects. First, As a place they used to meet in upon solemn occasions: see Jud 10:17 11:11 1Sa 7:5,16 10:17. Secondly, For its convenient situation for all the tribes within and without Jordan. Thirdly, As being near the place where the fact was done, that it might be more thoroughly examined; and not far from Shiloh, where the tabernacle was, whither they might go or send, if need were.",
+     "anchor": "In Mizpeh",
+     "refs": [
+      {
+       "text": "Jos 15:38",
+       "ref": "JOS.15.38"
+      },
+      {
+       "text": "Jud 10:17",
+       "ref": "JUD.10.17"
+      },
+      {
+       "text": "1Sa 7:5",
+       "ref": "1SA.7.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.2",
+   "range": "JDG.20.2",
+   "kind": "passage",
+   "hash": "4fb73159",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.2#p1-612d35dd",
+     "text": "Heb. the corners, i.e. the nobles and rulers, which are oft so called, because, like corner-stones, they both unite, and support, and adorn the whole building.",
+     "anchor": "The chief"
+    },
+    {
+     "id": "poole/JDG.20.2#p2-714efa8f",
+     "text": "or, and four hundred thousand. It is an ellipsis of the particle and, of which examples have been given before: for the chief of the people were not so many; but the common soldiers, and these were all footmen; whereas many of the rulers rode upon horses, or asses, Jud 5:10 10:4 12:14. The number is here set down, to show both their zeal and forwardness in punishing such a villany; and the strange blindness of the Benjamites that durst oppose so great and united body; and that the success of battles depends not upon great numbers, seeing this great host was twice defeated by the Benjamites, but wholly upon God’s blessing.",
+     "anchor": "Four hundred thousand",
+     "refs": [
+      {
+       "text": "Jud 5:10",
+       "ref": "JUD.5.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.2#p3-a0cee47e",
+     "text": "for horsemen they had few or none in their armies.",
+     "anchor": "Footmen"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.3",
+   "range": "JDG.20.3",
+   "kind": "passage",
+   "hash": "57f71726",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.3#p1-4103e75d",
+     "text": "like persons unconcerned and resolved, they neither went nor sent thither; partly, from their own pride, and stubbornness, and self-confidence; partly, because as they were loth to give up any of their brethren to justice, so they presumed the other tribes would never proceed to a war against them; and partly, from a Divine infatuation hardening that wicked tribe to their own destruction.",
+     "anchor": "The children of Benjamin heard"
+    },
+    {
+     "id": "poole/JDG.20.3#p2-eda53d9b",
+     "text": "the verb is of the plural number, because they speak to the Levite, and his servant, and his host, who doubtless were present upon this occasion.",
+     "anchor": "Tell us"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.4",
+   "range": "JDG.20.4",
+   "kind": "passage",
+   "hash": "c9d2d6dc",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.4#p1-c9d2d6dc",
+     "text": "to whose relation the other two gave them consent.",
+     "anchor": "The Levite"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.5",
+   "range": "JDG.20.5",
+   "kind": "passage",
+   "hash": "b3f79666",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.5#p1-b3f79666",
+     "text": "except I would either submit to their unnatural lust, which I was resolved to withstand even unto death; or deliver up my concubine to them, which I was forced to do.",
+     "anchor": "Thought to have slain me"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.6",
+   "range": "JDG.20.6",
+   "kind": "passage",
+   "hash": "40b803ed",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.6#p1-40b803ed",
+     "text": "i.e. A lewd folly; most ignominious and impudent wickedness."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.7",
+   "range": "JDG.20.7",
+   "kind": "passage",
+   "hash": "f145fb05",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.7#p1-f145fb05",
+     "text": "the sons of that holy man, who for one filthy action left all eternal brand upon one of his own sons; a people in covenant with the holy God, whose honour you are obliged to vindicate, and who hath expressly commanded you to punish all such notorious enormities.",
+     "anchor": "Children of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.8",
+   "range": "JDG.20.8",
+   "kind": "passage",
+   "hash": "bdd6c8b1",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.8#p1-bdd6c8b1",
+     "text": "i.e. his habitation, to wit, until we have revenged this injury.",
+     "anchor": "We will not any of us go to his tent"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.10",
+   "range": "JDG.20.10",
+   "kind": "passage",
+   "hash": "d3e2a248",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.10#p1-0110645c",
+     "text": "that we may punish them as such a wickedness deserves.",
+     "anchor": "That they may do according to all the folly that they have wrought"
+    },
+    {
+     "id": "poole/JDG.20.10#p2-8a900d1a",
+     "text": "this is added as an aggravation, that they should do that in Israel, or among God’s peculiar people, which was esteemed abominable even among the heathen.",
+     "anchor": "In Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.12",
+   "range": "JDG.20.12",
+   "kind": "passage",
+   "hash": "bfbda088",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.12#p1-bfbda088",
+     "text": "Heb. tribes; either the plural number for the singular; or rather tribe is put for family, as was noted before, as families are elsewhere put for tribes. They take a wise and a just course, in sending to all the parts and families of the tribe, to separate the innocent from the guilty, and to give them a fair opportunity of preventing their ruin, by doing nothing but what their duty, honour, and interest obliged them to, even by delivering up those vile malefactors, whom they could not keep without horrid guilt and shame, and bringing the curse of God upon themselves.",
+     "anchor": "The tribe"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.13",
+   "range": "JDG.20.13",
+   "kind": "passage",
+   "hash": "407c7848",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.13#p1-eaede2e4",
+     "text": "both the guilt and the punishment, wherein all Israel will be involved, if they do not punish it.",
+     "anchor": "Put away evil"
+    },
+    {
+     "id": "poole/JDG.20.13#p2-67c15686",
+     "text": "partly, from the pride of their hearts, which made them scorn to submit it, their brethren, or to suffer them to meddle in their territory; partly, from the conceit of their own valour and military skill; and partly, from God’s just judgment.",
+     "anchor": "The children of Benjamin would not hearken"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.15",
+   "range": "JDG.20.15",
+   "kind": "passage",
+   "hash": "5a1f4d12",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.15#p1-77e66c99",
+     "text": "This agrees not with the following numbers; for all that were slain of Benjamin were 25,100 men, Jud 20:35, and there were only 600 that survived, Jud 20:47, which make only 25,700.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "Jud 20:35",
+       "ref": "JUD.20.35"
+      },
+      {
+       "text": "Jud 20:47",
+       "ref": "JUD.20.47"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.15#p2-6075944f",
+     "text": "The other thousand men were either left in some of their cities, where they were slain, Jud 20:48, or were cut off in the two first battles, wherein it is reasonable to think they had an unbloody victory; and as for these 25,100 men, they were all slain in that day, i.e. the day of the third battle, as is affirmed, Jud 20:35.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Jud 20:48",
+       "ref": "JUD.20.48"
+      },
+      {
+       "text": "Jud 20:35",
+       "ref": "JUD.20.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.16",
+   "range": "JDG.20.16",
+   "kind": "passage",
+   "hash": "da2d1fea",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.16#p1-42cb5c5b",
+     "text": "Heb. shut up on their right hand, i.e. using their left hand instead of their right.",
+     "anchor": "Left-handed"
+    },
+    {
+     "id": "poole/JDG.20.16#p2-b7260f30",
+     "text": "an hyperbolical expression, signifying that they could do this with great exactness. There are many parallel instances in historians of persons that could throw stones or shoot arrows with great certainty, so as seldom or never to miss; of which see my Latin Synopsis. And this was very considerable, and one ground of the Benjamites’ confidence, because in those times they had no guns.",
+     "anchor": "Every one could sling stones at an hair breadth, and not miss"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.17",
+   "range": "JDG.20.17",
+   "kind": "passage",
+   "hash": "f3b5d811",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.17#p1-f3b5d811",
+     "text": "to wit, such as were here present, Jud 20:2, for otherwise it is most probable they had a far greater number of men, being 600,000 before their entrance into Canaan, Num 1:2.",
+     "anchor": "The men of Israel",
+     "refs": [
+      {
+       "text": "Jud 20:2",
+       "ref": "JUD.20.2"
+      },
+      {
+       "text": "Num 1:2",
+       "ref": "NUM.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.18",
+   "range": "JDG.20.18",
+   "kind": "passage",
+   "hash": "39ee7ada",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.18#p1-f44900f1",
+     "text": "i.e. some sent in the name of all.",
+     "anchor": "The children of Israel"
+    },
+    {
+     "id": "poole/JDG.20.18#p2-bbc6bed2",
+     "text": "to wit, to Shiloh, which was not far from Mizpeh, where they were.",
+     "anchor": "To the house of God"
+    },
+    {
+     "id": "poole/JDG.20.18#p3-d977e650",
+     "text": "this they ask to prevent emulations and contentions; but they do not ask whether they should go against them, or no, for that they knew they ought to do by the will of God already revealed. Nor yet do they seek to God for his help by prayer, and fasting, and sacrifice, as in all reason they ought to have done; but were confident of success, because of their great numbers, and righteous cause.",
+     "anchor": "Which of us shall go up first to the battle?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.21",
+   "range": "JDG.20.21",
+   "kind": "passage",
+   "hash": "e487d1d6",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.21#p1-57b0e732",
+     "text": "Why would God suffer them to have so great a loss in so good a cause?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/JDG.20.21#p2-dedc1017",
+     "text": "Because they had many and great sins reigning amongst themselves, and they should not have come to so great a work of God as this with polluted hands, but should have pulled the beam out of their own eye, before they attempted to take that out of their brother Benjamin’s eye; which because they did not, God doth it for them, making them by this loss more clearly to see their own sins, and their need of God’s help, without which their great numbers were insignificant; and bringing them through the fire, that they might be purged from their dross; it being probable that the great God, who governs every stroke in battles, did so order things, that their worst and rotten members should be cut off, which was a great blessing to the whole commonwealth.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.22",
+   "range": "JDG.20.22",
+   "kind": "passage",
+   "hash": "cd6ed6d4",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.22#p1-05bf24e2",
+     "text": "Heb. strengthened themselves; partly by supporting themselves with the conscience of the justice of their cause, and the hopes of success; and partly by putting themselves in better order for defending themselves, and annoying their enemies.",
+     "anchor": "Encouraged themselves"
+    },
+    {
+     "id": "poole/JDG.20.22#p2-4f7f890c",
+     "text": "hereby showing their freedom from that heathenish superstition, whereby they might have been apt to have rejected that as an unlucky place. Compare 1Ki 20:23,28.",
+     "anchor": "In the place where they put themselves in array the first day",
+     "refs": [
+      {
+       "text": "1Ki 20:23",
+       "ref": "1KI.20.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.23",
+   "range": "JDG.20.23",
+   "kind": "passage",
+   "hash": "03914d39",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.23#p1-5be62ac0",
+     "text": "not so much for their sins as for their defeat and loss, as appears by the sequel.",
+     "anchor": "Went up and wept"
+    },
+    {
+     "id": "poole/JDG.20.23#p2-df2619ce",
+     "text": "they impute their ill success not to their own sins, as they had great reason to do, but to their taking up arms against their brethren, the lawfulness whereof they now begin to doubt of. But still they persist in their former neglect of seeking God’s assistance in the way which he had appointed, as they themselves acknowledge presently, by doing those very things which now they sinfully neglected, Jud 20:26, and therefore are again justly punished.",
+     "anchor": "Against the children of Benjamin my brother",
+     "refs": [
+      {
+       "text": "Jud 20:26",
+       "ref": "JUD.20.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.23#p3-432cab91",
+     "text": "God answers to their question; but as they did not desire his assistance and success, so he doth not promise it.",
+     "anchor": "Go up against him"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.26",
+   "range": "JDG.20.26",
+   "kind": "passage",
+   "hash": "3551a2aa",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.26#p1-8f996a28",
+     "text": "and fasted; being now sensible of their former slightness, and now being truly humbled for their sins, which now they discover to be the true cause of their ill success.",
+     "anchor": "Sat there before the Lord"
+    },
+    {
+     "id": "poole/JDG.20.26#p2-0f6b04a4",
+     "text": "to make atonement to God for their own sins.",
+     "anchor": "Offered burnt-offerings"
+    },
+    {
+     "id": "poole/JDG.20.26#p3-cd7733e8",
+     "text": "partly to bless God for sparing so many of them, whereas he might justly have cut off all of them when their brethren were slain; and partly to implore his assistance for the future, and to give him thanks for the victory, which now they were confident he would give them.",
+     "anchor": "Peace-offerings"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.27",
+   "range": "JDG.20.27",
+   "kind": "passage",
+   "hash": "1c90a658",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.27#p1-b0e07cd0",
+     "text": "to wit, by Urim and Thummim, Num 27:21.",
+     "anchor": "Inquired of the Lord",
+     "refs": [
+      {
+       "text": "Num 27:21",
+       "ref": "NUM.27.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.27#p2-21b28f00",
+     "text": "in Shiloh, where they were now assembled.",
+     "anchor": "Was there"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.28",
+   "range": "JDG.20.28",
+   "kind": "passage",
+   "hash": "38e3360a",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.28#p1-af7fc058",
+     "text": "this is added to give us some light about the time of this history, and to show it was not done in the order in which it is here placed, after Samson’s death, but long before.",
+     "anchor": "Phinehas the son of Eleazar"
+    },
+    {
+     "id": "poole/JDG.20.28#p2-d41f8fc1",
+     "text": "i.e. ministered, as the word stand oft signifies, as Deu 10:8 18:7 Pro 22:29 Jer 52:12, compared with 2Ki 25:8, because standing is the usual posture of servants.",
+     "anchor": "Stood",
+     "refs": [
+      {
+       "text": "Deu 10:8",
+       "ref": "DEU.10.8"
+      },
+      {
+       "text": "Pro 22:29",
+       "ref": "PRO.22.29"
+      },
+      {
+       "text": "Jer 52:12",
+       "ref": "JER.52.12"
+      },
+      {
+       "text": "2Ki 25:8",
+       "ref": "2KI.25.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.28#p3-19bd4684",
+     "text": "i.e. before the ark; or, before his, i.e. the Lord’s face, or presence; which shows that he was the high priest, for none else might appear there.",
+     "anchor": "Before it"
+    },
+    {
+     "id": "poole/JDG.20.28#p4-3cf2bc52",
+     "text": "which, if thou requirest, we are willing to do, notwithstanding the provocation they have given us, and our own inclination to revenge.",
+     "anchor": "Or shall I cease?"
+    },
+    {
+     "id": "poole/JDG.20.28#p5-be99b19a",
+     "text": "now, when they had sought God after the due order, and truly humbled themselves for their sins, he gives them a full and satisfactory answer to their desires.",
+     "anchor": "Tomorrow I will deliver them into thine hand"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.29",
+   "range": "JDG.20.29",
+   "kind": "passage",
+   "hash": "b68784ac",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.29#p1-82849283",
+     "text": "Though they were assured of the success by a particular and absolute promise, yet they do not neglect the use of means; as well knowing that the certainty of God’s purposes or promises doth not excuse, but rather require man’s diligent use of all fit means for the accomplishment of them."
+    },
+    {
+     "id": "poole/JDG.20.29#p2-5e6f286e",
+     "text": "i.e. on several sides of it, as may be gathered from the following verses.",
+     "anchor": "Round about Gibeah"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.30",
+   "range": "JDG.20.30",
+   "kind": "passage",
+   "hash": "36cb2501",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.30#p1-bc5c8442",
+     "text": "i.e. a considerable part of them, who were ordered to give the first onset, and then to counterfeit flight, to draw the Benjamites forth of their strong hold. See Jud 20:32.",
+     "anchor": "The children of Israel",
+     "refs": [
+      {
+       "text": "Jud 20:32",
+       "ref": "JUD.20.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.30#p2-839965d7",
+     "text": "to wit, after the second battle; for the first day after it they spent in perplexing thoughts, and going up to the house of the Lord; the second, in fasting and prayer there; and this third, in the fight. Or this is so called with respect unto the two several foregoing days of battle, and so this was the third day of battle.",
+     "anchor": "On the third day"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.31",
+   "range": "JDG.20.31",
+   "kind": "passage",
+   "hash": "56b213aa",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.31#p1-5ba63364",
+     "text": "by the dissembled flight of the Israelites.",
+     "anchor": "Drawn away from the city"
+    },
+    {
+     "id": "poole/JDG.20.31#p2-795458f0",
+     "text": "with the same kind, though not with the same degree of success.",
+     "anchor": "As at other times"
+    },
+    {
+     "id": "poole/JDG.20.31#p3-2c5c5231",
+     "text": "so called, to difference it from this Gibeah, which was upon a hill; wherefore they are constantly said to ascend or go up against it, as Jud 20:23,30. See Jos 18:24,28.",
+     "anchor": "Gibeah in the field",
+     "refs": [
+      {
+       "text": "Jud 20:23",
+       "ref": "JUD.20.23"
+      },
+      {
+       "text": "Jos 18:24",
+       "ref": "JOS.18.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.33",
+   "range": "JDG.20.33",
+   "kind": "passage",
+   "hash": "c83e8a4b",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.33#p1-7b7cbc6b",
+     "text": "where they had disposed themselves, that they might fall upon the Benjamites, when they were drawn forth to a sufficient distance from their city, and when they were pursuing that party, mentioned Jud 20:30.",
+     "anchor": "Out of their place",
+     "refs": [
+      {
+       "text": "Jud 20:30",
+       "ref": "JUD.20.30"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.33#p2-f36ddf8c",
+     "text": "to execute what was agreed upon, even to take Gibeah, and burn it, as they actually did, Jud 20:37.",
+     "anchor": "Came forth out of their places",
+     "refs": [
+      {
+       "text": "Jud 20:37",
+       "ref": "JUD.20.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.34",
+   "range": "JDG.20.34",
+   "kind": "passage",
+   "hash": "4583ae21",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.34#p1-114095fa",
+     "text": "selected out of the main body, which was at Baal-tamar; and these were to march directly to Gibeah on the one side, whilst the liers in wait stormed it on the other side, and whilst the great body of the army laboured to intercept these Benjamites, who, having pursued the Israelites that pretended to flee, now endeavoured to retreat to Gibeah.",
+     "anchor": "Chosen men out of all Israel"
+    },
+    {
+     "id": "poole/JDG.20.34#p2-1cd55924",
+     "text": "they were so puffed up with their former successes, that they were insensible of their danger.",
+     "anchor": "They knew not that evil was near them"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.35",
+   "range": "JDG.20.35",
+   "kind": "passage",
+   "hash": "64a217ee",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.35#p1-64a217ee",
+     "text": "This is the total sum, whereof the particulars are related Jud 20:11,45; and for the odd hundred not there mentioned, they were killed in other places not there expressed.",
+     "refs": [
+      {
+       "text": "Jud 20:11",
+       "ref": "JUD.20.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.37",
+   "range": "JDG.20.37",
+   "kind": "passage",
+   "hash": "c40628c2",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.37#p1-c40628c2",
+     "text": "or, extended themselves, i.e. whereas before they lay close and contracted into a narrow compass, now they spread themselves, and marched in rank and file, as armies do. Or, marched or went, Heb. drew their feet. So this verb is oft, used, as Gen 37:28 Exo 12:21 Jud 4:6 Job 21:33.",
+     "anchor": "Drew themselves along",
+     "refs": [
+      {
+       "text": "Gen 37:28",
+       "ref": "GEN.37.28"
+      },
+      {
+       "text": "Exo 12:21",
+       "ref": "EXO.12.21"
+      },
+      {
+       "text": "Jud 4:6",
+       "ref": "JUD.4.6"
+      },
+      {
+       "text": "Job 21:33",
+       "ref": "JOB.21.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.41",
+   "range": "JDG.20.41",
+   "kind": "passage",
+   "hash": "4b19ac85",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.41#p1-4b19ac85",
+     "text": "because of their great disappointment, and the present danger wherewith they were surrounded on every side.",
+     "anchor": "The men of Benjamin were amazed"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.42",
+   "range": "JDG.20.42",
+   "kind": "passage",
+   "hash": "641b007d",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.42#p1-f95c59ca",
+     "text": "i.e. the men of battle or war; the abstract for the concrete, as poverty, 2Ki 24:14, pride, Psa 36:11, deceit, Pro 12:5, dreams, Jer 27:9, election, Rom 11:7, are put for persons that are poor, proud, deceitful, dreamers, elect. Them which came out of the cities they destroyed in the midst of them: so the sense may seem to be this, That the Israelites did not only kill the inhabitants of Gibeah, and all the Benjamites that came into the field against them, six hundred excepted; but in the midst of them, or together with them, they killed also the rest of the Benjamites, who, when they saw their army was wholly destroyed, made haste to flee out of their several cities or towns, that so they might escape the sword, which was coming towards them. But the words may be rendered thus: And them who were of the other cities, to wit, of Benjamin, i.e. who abode in their own cities and did not go up to Gibeah,",
+     "anchor": "The battle",
+     "refs": [
+      {
+       "text": "2Ki 24:14",
+       "ref": "2KI.24.14"
+      },
+      {
+       "text": "Psa 36:11",
+       "ref": "PSA.36.11"
+      },
+      {
+       "text": "Pro 12:5",
+       "ref": "PRO.12.5"
+      },
+      {
+       "text": "Jer 27:9",
+       "ref": "JER.27.9"
+      },
+      {
+       "text": "Rom 11:7",
+       "ref": "ROM.11.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.20.42#p2-1722b379",
+     "text": "i.e. in their several cities; or, in the midst of it, i.e. of every city; for so it is said, Jud 20:48, where it is said that they smote the men of every city. But this I submit to the learned.",
+     "anchor": "they destroyed in the midst of them",
+     "refs": [
+      {
+       "text": "Jud 20:48",
+       "ref": "JUD.20.48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.43",
+   "range": "JDG.20.43",
+   "kind": "passage",
+   "hash": "f19ec969",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.43#p1-f19ec969",
+     "text": "without great difficulty. Now that God gave them his presence and assistance, they easily did that which before they found too hard for them. Or, unto Menuchah; or, as far as Menuchah; a place so called. See 1Ch 2:52 Jer 51:59.",
+     "anchor": "With ease",
+     "refs": [
+      {
+       "text": "1Ch 2:52",
+       "ref": "1CH.2.52"
+      },
+      {
+       "text": "Jer 51:59",
+       "ref": "JER.51.59"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.44",
+   "range": "JDG.20.44",
+   "kind": "passage",
+   "hash": "92c946c7",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.44#p1-92c946c7",
+     "text": "to wit, in the field, or battle.",
+     "anchor": "There fell"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.45",
+   "range": "JDG.20.45",
+   "kind": "passage",
+   "hash": "ebbf9140",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.45#p1-ebbf9140",
+     "text": "i.e. they cut off the remainders in the pursuit, and spared none; a metaphor from those who gather grapes or corn so clearly and fitly, that they leave no relics for those who come after them.",
+     "anchor": "They gleaned"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.46",
+   "range": "JDG.20.46",
+   "kind": "passage",
+   "hash": "98c6d428",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.46#p1-98c6d428",
+     "text": "besides the odd hundred expressed Jud 20:35; but here only the great number is expressed, the less being omitted, as inconsiderable; which way of numbering is frequent in Scripture, as Jud 11:26 2Sa 5:5, and in other authors, and in vulgar use; as when they are called the seventy interpreters, who in truth and exactness were seventy-two. Here are also a thousand more omitted, because here he speaks only of them who fell in that third day of battle. See Poole \"Jud 20:15\".",
+     "anchor": "Twenty and five thousand",
+     "refs": [
+      {
+       "text": "Jud 20:35",
+       "ref": "JUD.20.35"
+      },
+      {
+       "text": "Jud 11:26",
+       "ref": "JUD.11.26"
+      },
+      {
+       "text": "2Sa 5:5",
+       "ref": "2SA.5.5"
+      },
+      {
+       "text": "Jud 20:15",
+       "ref": "JUD.20.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.47",
+   "range": "JDG.20.47",
+   "kind": "passage",
+   "hash": "5fab0bbf",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.47#p1-5fab0bbf",
+     "text": "In a cave within that rock, where they fortified themselves and fetched in provision as they had opportunity; which they could easily do, when the heat of the battle was over, and the Israelites were not solicitous to pursue them farther."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.20.48",
+   "range": "JDG.20.48",
+   "kind": "passage",
+   "hash": "62d84854",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.20.48#p1-623ee703",
+     "text": "Having destroyed those that came to Gibeah, and into the field, now they follow them home to their several habitations."
+    },
+    {
+     "id": "poole/JDG.20.48#p2-5886452d",
+     "text": "comprehensively taken, so as to include women and children. If this seem harsh and bloody, either it may be ascribed to military fury; or rather, it may be justified; partly, from that high guilt brought upon the whole tribe, in which it is no wonder if their infants suffered, which was not unusual in such cases, as Num 31:17 1Sa 15:3 Jos 7:15; partly, from that command of God in a parallel case, Deu 13:15; and partly, from that solemn oath by which they had anathematized or devoted to death all that came not up to Mizpeh, Jud 21:5, which none of the Benjamites did; for which cause also they destroyed all the men, women, and children of Jabesh-gilead, Jud 21:10.",
+     "anchor": "The men of every city",
+     "refs": [
+      {
+       "text": "Num 31:17",
+       "ref": "NUM.31.17"
+      },
+      {
+       "text": "1Sa 15:3",
+       "ref": "1SA.15.3"
+      },
+      {
+       "text": "Jos 7:15",
+       "ref": "JOS.7.15"
+      },
+      {
+       "text": "Deu 13:15",
+       "ref": "DEU.13.15"
+      },
+      {
+       "text": "Jud 21:5",
+       "ref": "JUD.21.5"
+      },
+      {
+       "text": "Jud 21:10",
+       "ref": "JUD.21.10"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

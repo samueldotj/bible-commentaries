@@ -1,0 +1,857 @@
+{
+ "source": "poole",
+ "book": "SNG",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "poole/SNG.2",
+   "range": "SNG.2",
+   "kind": "chapter",
+   "hash": "1a21f4f5",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2#p1-1a21f4f5",
+     "text": "The excellency of the majesty of Christ, Son 2:1, and of his church, Son 2:2. The benefits which the church receives from him, Son 2:3. Christ’s love to his church, Son 2:4. The church sick of love; her prayer for help, Son 2:5. His ears for her in this condition, Son 2:6. The hope and calling of the church, Son 2:10-13. Christ’s care of the church, Son 2:14,15. The profession of the church; her faith and hope, Son 2:16,17.",
+     "refs": [
+      {
+       "text": "Son 2:1",
+       "ref": "SNG.2.1"
+      },
+      {
+       "text": "Son 2:2",
+       "ref": "SNG.2.2"
+      },
+      {
+       "text": "Son 2:3",
+       "ref": "SNG.2.3"
+      },
+      {
+       "text": "Son 2:4",
+       "ref": "SNG.2.4"
+      },
+      {
+       "text": "Son 2:5",
+       "ref": "SNG.2.5"
+      },
+      {
+       "text": "Son 2:6",
+       "ref": "SNG.2.6"
+      },
+      {
+       "text": "Son 2:10-13",
+       "ref": "SNG.2.10-13"
+      },
+      {
+       "text": "Son 2:14",
+       "ref": "SNG.2.14"
+      },
+      {
+       "text": "Son 2:16",
+       "ref": "SNG.2.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.1",
+   "range": "SNG.2.1",
+   "kind": "passage",
+   "hash": "4615481d",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.1#p1-958bb980",
+     "text": "These are the words either,"
+    },
+    {
+     "id": "poole/SNG.2.1#p2-ba04188d",
+     "text": "1. Of the spouse, continuing her discourse. Or rather,"
+    },
+    {
+     "id": "poole/SNG.2.1#p3-41a422e0",
+     "text": "2. Of the bridegroom, drawing forth the church’s affections to him. He compares himself to the rose and lily, for fragrancy and beauty. Nor is it in the least degree indecent that Christ should thus commend himself, partly because his excellency is so transcendently great, that he is free from all suspicion of vanity and self-flattery; and partly because it is suitable to the style of such writings, and to the present design of recommending himself to the affection of his spouse. He mentions the rose of Sharon, which was a very fruitful place, as is evident from 1Ch 27:29 Isa 33:9 65:10, and famous for roses, as may seem probable from Isa 35:1,2. Or, as others translate it, the rose of the field, which may note that Christ is not only pleasant and beautiful, but free and communicative, offering himself to all that come to him. The",
+     "refs": [
+      {
+       "text": "1Ch 27:29",
+       "ref": "1CH.27.29"
+      },
+      {
+       "text": "Isa 33:9",
+       "ref": "ISA.33.9"
+      },
+      {
+       "text": "Isa 35:1",
+       "ref": "ISA.35.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.1#p4-89ce62ac",
+     "text": "is a beautiful and glorious creature, Mat 6:29, especially to one who beholds it through a magnifying glass. He saith,",
+     "anchor": "lily",
+     "refs": [
+      {
+       "text": "Mat 6:29",
+       "ref": "MAT.6.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.1#p5-09bcd8c0",
+     "text": "because they grew and flourished best in such low and waterish grounds.",
+     "anchor": "the lily of the valleys"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.2",
+   "range": "SNG.2.2",
+   "kind": "passage",
+   "hash": "e478f672",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.2#p1-561df140",
+     "text": "compared with thorns, which it unspeakably exceeds in glory and beauty;",
+     "anchor": "As the lily among thorns"
+    },
+    {
+     "id": "poole/SNG.2.2#p2-00934713",
+     "text": "so far, and much more, doth my church or people excel all other assemblies or people. The title of daughter is oft given to whole nations; whence we read of the daughter of Babylon, and of Egypt, and of Edom, &c., Isa 47:1 Jer 46:11 Lam 4:21. These are Christ’s words, to which the spouse makes the following reply. And it is observable here, that as Christ is here represented as a shepherd, and the spouse as a country virgin, so the similitudes here used are agreeable to that estate.",
+     "anchor": "so is my love among the daughters",
+     "refs": [
+      {
+       "text": "Isa 47:1",
+       "ref": "ISA.47.1"
+      },
+      {
+       "text": "Jer 46:11",
+       "ref": "JER.46.11"
+      },
+      {
+       "text": "Lam 4:21",
+       "ref": "LAM.4.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.3",
+   "range": "SNG.2.3",
+   "kind": "passage",
+   "hash": "d4f5ba70",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.3#p1-c2fafa38",
+     "text": "whose fruit is very pleasant and wholesome,",
+     "anchor": "As the apple tree"
+    },
+    {
+     "id": "poole/SNG.2.3#p2-a2e66c99",
+     "text": "which are either barren, or bear ungrateful and worthless fruit.",
+     "anchor": "among the trees of the wood"
+    },
+    {
+     "id": "poole/SNG.2.3#p3-562c9c2c",
+     "text": "being weary and heavy laden with manifold sins and troubles, inward and outward, I confidently reposed myself under his protection, (which is commonly signified by a shadow, as Isa 4:6 25:4, &c.,) and by him was defended from the scorching heat of God’s wrath and from the curse of his fiery law, and from the mischief or hurt of all sorts of distresses. His fruit; the benefits which I received by him, the clear, and full, and certain knowledge of God’s will, and the way of salvation, adoption, and remission of sins, faith and repentance, and all manner of grace, and assurance of glory. Thus he was to me both a sun and a shield, as is said, Psa 84:11.",
+     "anchor": "I sat down under his shadow",
+     "refs": [
+      {
+       "text": "Isa 4:6",
+       "ref": "ISA.4.6"
+      },
+      {
+       "text": "Psa 84:11",
+       "ref": "PSA.84.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.4",
+   "range": "SNG.2.4",
+   "kind": "passage",
+   "hash": "e5e8ed90",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.4#p1-8a19de56",
+     "text": "Heb. house of wine, or, by a common synecdoche, of feasting. By which he understands the places in which, or the means and instruments by which, believers receive the graces and blessings of Christ, to wit, the Holy Scriptures, ministers, and public assemblies, and all Christ’s institutions.",
+     "anchor": "Banqueting-house"
+    },
+    {
+     "id": "poole/SNG.2.4#p2-c1b8e523",
+     "text": "or, to or towards me; by the lifting up or displaying whereof I was invited and encouraged to come in to him, and to list myself under him, as soldiers are by the lifting up of a banner or ensign, of which see Isa 11:10 49:22.",
+     "anchor": "His banner over me",
+     "refs": [
+      {
+       "text": "Isa 11:10",
+       "ref": "ISA.11.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.4#p3-dd12d65f",
+     "text": "the love of Christ crucified, which, like a banner, is displayed in the gospel, whereby sinners are drawn and engaged to come to Christ: see Joh 3:14 12:32 2Co 5:14. The motto or device of Christ’s banner was not like those of other great generals, a lion, or leopard, or eagle, but love, by which alone Christ made all his conquests.",
+     "anchor": "Was love",
+     "refs": [
+      {
+       "text": "Joh 3:14",
+       "ref": "JHN.3.14"
+      },
+      {
+       "text": "2Co 5:14",
+       "ref": "2CO.5.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.5",
+   "range": "SNG.2.5",
+   "kind": "passage",
+   "hash": "10855065",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.5#p1-eaa49104",
+     "text": "or, support me; keep me from sinking or fainting. The spouse speaks this to her bridemaids, the daughters of Jerusalem, as it is expressed, Son 2:7, or to the servants or friends of the Bridegroom there waiting, and to the Bridegroom himself; as a person ready to faint cries to any or all that are near to him or her for help.",
+     "anchor": "Stay me",
+     "refs": [
+      {
+       "text": "Son 2:7",
+       "ref": "SNG.2.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.5#p2-cc93b16b",
+     "text": "with wine, which is a good cordial, Psa 104:15 Pro 31:6,7, and which was there present, Son 2:4. Flagons are here, and 1Ch 16:3, put for flagons of wine, as it is fully expressed, Hos 3:1, or for the wine contained in them, as the cup is put for wine, Luk 22:20, by a common metonymy.",
+     "anchor": "With flagons",
+     "refs": [
+      {
+       "text": "Psa 104:15",
+       "ref": "PSA.104.15"
+      },
+      {
+       "text": "Pro 31:6",
+       "ref": "PRO.31.6"
+      },
+      {
+       "text": "Son 2:4",
+       "ref": "SNG.2.4"
+      },
+      {
+       "text": "1Ch 16:3",
+       "ref": "1CH.16.3"
+      },
+      {
+       "text": "Hos 3:1",
+       "ref": "HOS.3.1"
+      },
+      {
+       "text": "Luk 22:20",
+       "ref": "LUK.22.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.5#p3-017a9804",
+     "text": "with odoriferous apples, such as pomegranates, or the like, the smell whereof was grateful and useful to persons ready to faint. By these metaphors understand the application of the promises, and the comfortable and quickening influences of the Spirit.",
+     "anchor": "Comfort me with apples"
+    },
+    {
+     "id": "poole/SNG.2.5#p4-a12a5354",
+     "text": "either,",
+     "anchor": "I am sick of love"
+    },
+    {
+     "id": "poole/SNG.2.5#p5-c885a704",
+     "text": "1. With transports of joy, which sometimes causes a fainting of the spirits, as Gen 45:26 1Ki 10:5. Or,",
+     "refs": [
+      {
+       "text": "Gen 45:26",
+       "ref": "GEN.45.26"
+      },
+      {
+       "text": "1Ki 10:5",
+       "ref": "1KI.10.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.5#p6-1de7aae3",
+     "text": "2. With grief for his departure from her, of which we read Son 3:1,2, or for fear of it. Or rather,",
+     "refs": [
+      {
+       "text": "Son 3:1",
+       "ref": "SNG.3.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.5#p7-f576030f",
+     "text": "3. With ardent desire of a stricter union, and clearer discoveries of his love, and perfect and uninterrupted communion with him in glory. That sickness is sometimes the effect of love hath been oft observed by physicians."
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.6",
+   "range": "SNG.2.6",
+   "kind": "passage",
+   "hash": "81dea128",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.6#p1-81dea128",
+     "text": "as a pillow for me to rest upon. No sooner did I cry out for help, but he was at hand to succour me, and did manifest his tender care and dear love to me.",
+     "anchor": "Is under my head"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.7",
+   "range": "SNG.2.7",
+   "kind": "passage",
+   "hash": "27fc2ac8",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.7#p1-f3ddcd92",
+     "text": "This verse is spoken either,"
+    },
+    {
+     "id": "poole/SNG.2.7#p2-de0ab6ed",
+     "text": "1. By the Bridegroom, who having reposed the sick church in his arms, chargeth them not to disturb her till she please, as the last clause in this case must be rendered. Or rather,"
+    },
+    {
+     "id": "poole/SNG.2.7#p3-2b4f09f5",
+     "text": "2. By the bride, as may be gathered,"
+    },
+    {
+     "id": "poole/SNG.2.7#p4-b06f457c",
+     "text": "1. From the connexion, because both the foregoing and following words are hers."
+    },
+    {
+     "id": "poole/SNG.2.7#p5-417dc359",
+     "text": "2. Because it was more decent for the bride than for the Bridegroom to give this charge to the bridemaids,"
+    },
+    {
+     "id": "poole/SNG.2.7#p6-440005e0",
+     "text": "and therefore in all places in this book where they are mentioned the person speaking to them is the bride, and not the Bridegroom, and particularly Son 3:5 8:4, where this verse is repeated, and is confessedly and evidently spoken by the spouse. Daughters of Jerusalem; my bridemaids, friends, and members, over whom I have authority.",
+     "anchor": "the daughters of Jerusalem",
+     "refs": [
+      {
+       "text": "Son 3:5",
+       "ref": "SNG.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.7#p7-a12a5354",
+     "text": "either,",
+     "anchor": "By the hinds"
+    },
+    {
+     "id": "poole/SNG.2.7#p8-e73963a2",
+     "text": "1. By the kindness you have to those pretty and amiable creatures, as"
+    },
+    {
+     "id": "poole/SNG.2.7#p9-090edd26",
+     "text": "you would not injure nor disturb them, nor drive them away, but please yourselves with the sight of them, as shepherds and country damsels commonly do. Or,"
+    },
+    {
+     "id": "poole/SNG.2.7#p10-0452b429",
+     "text": "2. By the example of those creatures, which are pleasant and loving in"
+    },
+    {
+     "id": "poole/SNG.2.7#p11-597911f6",
+     "text": "their carriage towards one another. Of the field; which have their usual abode in the fields. That ye stir not up, nor awake; that you do not disturb nor offend him by your miscarriages, but permit him and me to enjoy a quiet repose. Do nothing to grieve him, or molest me. My love; my dearly beloved, called love emphatically, to express her great passion for him. So love is used Son 7:6, and in other authors. Till he please, i.e. never, as this word until, in such like phrases, is commonly used, as Gen 28:15 2Sa 6:23 Isa 22:14. For neither can sin ever please him, nor can the church bear it that Christ should ever be offended, or that her sweet fellowship with him should be interrupted.",
+     "refs": [
+      {
+       "text": "Son 7:6",
+       "ref": "SNG.7.6"
+      },
+      {
+       "text": "Gen 28:15",
+       "ref": "GEN.28.15"
+      },
+      {
+       "text": "2Sa 6:23",
+       "ref": "2SA.6.23"
+      },
+      {
+       "text": "Isa 22:14",
+       "ref": "ISA.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.8",
+   "range": "SNG.2.8",
+   "kind": "passage",
+   "hash": "ac21a649",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.8#p1-0fb2fb7e",
+     "text": "methinks I hear his voice. The spouse being now refreshed and revived with Christ’s presence, awakes out of sleep, and breaks forth into this joyful exclamation. Christ’s voice is nothing else but the word of grace revealed outwardly in the gospel, or the evangelical passages of the Old Testament, and inwardly to the heart of the spouse by the Spirit of God.",
+     "anchor": "The voice of my Beloved!"
+    },
+    {
+     "id": "poole/SNG.2.8#p2-a12a5354",
+     "text": "either,",
+     "anchor": "Behold, he cometh"
+    },
+    {
+     "id": "poole/SNG.2.8#p3-24fe8024",
+     "text": "1. He is coming, or will shortly come, into the world; which Solomon and the rest of the Old Testament prophets and saints did earnestly desire and confidently expect. Or,"
+    },
+    {
+     "id": "poole/SNG.2.8#p4-5cd39ded",
+     "text": "2. He is coming to me for my support and comfort."
+    },
+    {
+     "id": "poole/SNG.2.8#p5-6c74c6cd",
+     "text": "he saith leaping and skipping, to note that Christ came readily and swiftly, with great desire and pleasure; and he adds,",
+     "anchor": "Leaping upon the mountains, skipping upon the hills"
+    },
+    {
+     "id": "poole/SNG.2.8#p6-2785e190",
+     "text": "either with respect to Mount Zion or Jerusalem, in and from which Christ first discovered himself; or to signify Christ’s fixed resolution to come, in spite of all discouragements and difficulties which stood in his way; or to show that his coming was manifest and visible to the eye of her faith. Or in this phrase he may have a respect to the roes and harts here following.",
+     "anchor": "upon the mountains and hills"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.9",
+   "range": "SNG.2.9",
+   "kind": "passage",
+   "hash": "20234ae0",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.9#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Like a roe or a young hart"
+    },
+    {
+     "id": "poole/SNG.2.9#p2-edf6c2f1",
+     "text": "1. In loveliness. Or rather,"
+    },
+    {
+     "id": "poole/SNG.2.9#p3-c1938e6c",
+     "text": "2. In swiftness, by comparing this verse with the former. The swiftness of roes is noted 2Sa 2:18 1Ch 12:8. He is coming to me with all speed, and will not tarry a moment beyond the appointed and proper season.",
+     "refs": [
+      {
+       "text": "2Sa 2:18",
+       "ref": "2SA.2.18"
+      },
+      {
+       "text": "1Ch 12:8",
+       "ref": "1CH.12.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.9#p4-7ca2cf3f",
+     "text": "and whilst he doth for wise and just reasons forbear to come, he is not far from us. Though he be not yet come into the door of our house, yet he stands behind the wall of our house, and is always at hand, to give me that succour and comfort which I do or may need or desire. Both this and the following phrases seem to note the obscure and imperfect manner and degree of Christ’s manifesting himself to his people, either,",
+     "anchor": "He standeth behind our wall"
+    },
+    {
+     "id": "poole/SNG.2.9#p5-18d1196b",
+     "text": "1. Under the law, in comparison of his discoveries in the gospel. Or,"
+    },
+    {
+     "id": "poole/SNG.2.9#p6-b9e97b96",
+     "text": "2. In this life, in comparison of what he will do in the future life."
+    },
+    {
+     "id": "poole/SNG.2.9#p7-63be85a2",
+     "text": "from his high and heavenly palace, towards me, to watch over me, and refresh me with the prospect of his favour.",
+     "anchor": "He looketh forth"
+    },
+    {
+     "id": "poole/SNG.2.9#p8-b0b6f322",
+     "text": "this phrase, and that,",
+     "anchor": "At the window"
+    },
+    {
+     "id": "poole/SNG.2.9#p9-3ee1a499",
+     "text": "intimate that the church doth indeed see Christ, but, as through a glass, darkly, as it is said even of gospel revelations, 1Co 13:12, and was much more true of legal administrations.",
+     "anchor": "through the lattice",
+     "refs": [
+      {
+       "text": "1Co 13:12",
+       "ref": "1CO.13.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.10",
+   "range": "SNG.2.10",
+   "kind": "passage",
+   "hash": "169fb445",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.10#p1-48fe0f26",
+     "text": "invited and called me outwardly by his word, and inwardly by his Spirit.",
+     "anchor": "My Beloved spake"
+    },
+    {
+     "id": "poole/SNG.2.10#p2-15fc79a5",
+     "text": "shake off sloth and security, and disentangle thyself more fully from all the snares of this world, and of thy own lusts, that thou mayst be more ready to come to me, and more fit for my embraces.",
+     "anchor": "Rise up"
+    },
+    {
+     "id": "poole/SNG.2.10#p3-cbaf334b",
+     "text": "unto me, and with me; follow me fully, serve me more perfectly, labour for a nearer union and more satisfying communion with me.",
+     "anchor": "Come away"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.11",
+   "range": "SNG.2.11",
+   "kind": "passage",
+   "hash": "003da6b2",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.11#p1-c6bff17a",
+     "text": "which made the ways in some sort unpassable, and so might seem to hinder or affright thee from coming to me. This",
+     "anchor": "The winter"
+    },
+    {
+     "id": "poole/SNG.2.11#p2-dcedb9a9",
+     "text": "and the following",
+     "anchor": "winter"
+    },
+    {
+     "id": "poole/SNG.2.11#p3-34dbe04e",
+     "text": "may be understood either,",
+     "anchor": "rain"
+    },
+    {
+     "id": "poole/SNG.2.11#p4-1e4d2786",
+     "text": "1. Of worldly tribulations, which he intimates to be past and gone, to wit, so far that they shall not destroy nor hurt the church, but, on the contrary, do her much good, both by multiplying her members, and increasing her graces; and promoting her eternal happiness. Or rather,"
+    },
+    {
+     "id": "poole/SNG.2.11#p5-1838986a",
+     "text": "2. Of spiritual troubles arising in the minds and consciences of sinners, from a deep sense of the guilt of sin, the justice and wrath of God, the sentence and curse of the law; all which made them afraid to come unto God, and desirous, if possible, to run away from him. But, saith Christ, I have removed this great impediment, God is ready to be reconciled, and therefore cast off all discouragements and excuses, and come unto me."
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.12",
+   "range": "SNG.2.12",
+   "kind": "passage",
+   "hash": "ef4607f7",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.12#p1-708ce4c8",
+     "text": "this and the following clauses are here alleged as evidences of the spring time, which in the mystical and principal sense seems to signify the day of grace, or the glad tidings of salvation proposed to sinners in the time of the law, by types, and shadows, and promises, but much more clearly and fully in the gospel, and all the discoveries and communications of God’s grace to mankind in holy ordinances, in the gifts, and graces, and comforts of the Holy Spirit, vouchsafed unto and appearing in believers, as buds and blossoms do in the spring time.",
+     "anchor": "The flowers appear on the earth"
+    },
+    {
+     "id": "poole/SNG.2.12#p2-62290c0c",
+     "text": "when birds sing most freely and sweetly, as they do in the spring. Or, as the ancient translator’s render it, of cutting or cropping, not trees, which agrees not with that season, but the flowers, last mentioned, for nosegays, or other uses.",
+     "anchor": "The time of the singing of birds"
+    },
+    {
+     "id": "poole/SNG.2.12#p3-5d57b240",
+     "text": "which changeth its place according to the season, as is observed. Jer 8:7, and by all other writers, who affirm that it disappears in winter, and appears in the spring, as some other birds also do; but this seems particularly to be mentioned, because it doth not only give notice of the spring, but also doth aptly represent the Spirit of God, which even the Chaldee paraphrast understands by this turtle, which appeared in the shape of a dove, and which worketh a dove-like meekness, and chastity, and faithfulness in believers.",
+     "anchor": "The turtle",
+     "refs": [
+      {
+       "text": "Jer 8:7",
+       "ref": "JER.8.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.12#p4-96131778",
+     "text": "in Immanuel’s land, as Canaan is called, Isa 8:8, in the church.",
+     "anchor": "In our land",
+     "refs": [
+      {
+       "text": "Isa 8:8",
+       "ref": "ISA.8.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.13",
+   "range": "SNG.2.13",
+   "kind": "passage",
+   "hash": "e6be6eee",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.13#p1-3107417b",
+     "text": "which it shooteth forth as soon as it doth leaves, in the spring time, Mat 24:32.",
+     "anchor": "Green figs",
+     "refs": [
+      {
+       "text": "Mat 24:32",
+       "ref": "MAT.24.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.13#p2-f351f83e",
+     "text": "which, though not strong, is pleasant and grateful, and given by it in the progress of the spring.",
+     "anchor": "A good smell"
+    },
+    {
+     "id": "poole/SNG.2.13#p3-47759e01",
+     "text": "these words are here repeated, to show both the church’s infirmity and indisposition, which needs so many calls and arguments to press so necessary and advantageous a duty; and Christ’s tender compassion to her weakness, and fervent desire of converse with her.",
+     "anchor": "Come away"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.14",
+   "range": "SNG.2.14",
+   "kind": "passage",
+   "hash": "f4e55d4e",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.14#p1-fce514b4",
+     "text": "so the church is called, partly for her dove-like temper and disposition, because she is chaste, and mild, and harmless, &c.; and partly for her dove-like condition, because she is weak, and exposed to persecution, and given to mourning, as doves are, Isa 38:14 59:11 Eze 7:16, and subject to many fears, and therefore forced to hide herself in rocks, as it follows, in the clefts of the rock; where she hid herself, either,",
+     "anchor": "My dove",
+     "refs": [
+      {
+       "text": "Isa 38:14",
+       "ref": "ISA.38.14"
+      },
+      {
+       "text": "Eze 7:16",
+       "ref": "EZK.7.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.14#p2-fbbb73b0",
+     "text": "1. For fear of her enemies, whom to avoid she puts herself into the protection of the Almighty. Or,"
+    },
+    {
+     "id": "poole/SNG.2.14#p3-485f1605",
+     "text": "2. Out of modesty, and a humble sense of her own deformities and, infirmities, which makes her endeavour to hide herself even from her Beloved, as ashamed to appear, in his presence, which is frequently the case of God’s people, especially after falls into sin. And this sense seems to be favoured by the following words, in which Christ relieveth her against such discouraging thoughts."
+    },
+    {
+     "id": "poole/SNG.2.14#p4-f3acfb21",
+     "text": "in the holes of craggy and broken rocks, which resemble stairs. So the same thing is here repeated in other words.",
+     "anchor": "In the secret places of the stairs"
+    },
+    {
+     "id": "poole/SNG.2.14#p5-c5611799",
+     "text": "be not afraid nor ashamed to appear before me; come boldly into my presence, and acquaint thyself with me.",
+     "anchor": "Let me see thy countenance"
+    },
+    {
+     "id": "poole/SNG.2.14#p6-8c6c69b6",
+     "text": "thy prayers and praises.",
+     "anchor": "Thy voice"
+    },
+    {
+     "id": "poole/SNG.2.14#p7-dca075e3",
+     "text": "thy person and services are accepted by me, and are amiable in my sight.",
+     "anchor": "Sweet is thy voice, and thy countenance is comely"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.15",
+   "range": "SNG.2.15",
+   "kind": "passage",
+   "hash": "50778b75",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.15#p1-8958c154",
+     "text": "The Bridegroom gives this charge to his bridemen or friends, whose office it is to attend upon him, and to observe his commands; by whom he understands those magistrates and ministers to whom, under Christ, the custody of the vineyards, to wit, the churches, principally belong. These he commands to take the"
+    },
+    {
+     "id": "poole/SNG.2.15#p2-be3061b2",
+     "text": "i.e. to restrain them from doing this mischief.",
+     "anchor": "foxes"
+    },
+    {
+     "id": "poole/SNG.2.15#p3-93ec5dd3",
+     "text": "Heb. for us, i.e. at our instance, and for our common good, as this spoiling of the vines was injurious and grievous to them both.",
+     "anchor": "Us"
+    },
+    {
+     "id": "poole/SNG.2.15#p4-3b9961a4",
+     "text": "the disturbers of the vineyard, or the church; seducers or false teachers, who are fitly compared to foxes here, and Eze 13:4, partly to distinguish them from great tyrants and persecutors, who are compared to wild boars, or other wild beasts, Psa 80:13, as to lions, 2Ti 4:17; and partly for their fox-like qualities and actions, because they are very crafty and deceitful, 2Co 11:13,14 Eph 4:14, and very mischievous also, Eze 34:2,3 2Ti 4:17 Tit 1:10,11 2Pe 2:2. He mentions foxes, because these abounded in that country, as is manifest from Jud 15:4 Psa 63:10 Lam 5:18, &c., but under them he comprehends all noxious creatures, upon the same reason.",
+     "anchor": "The foxes",
+     "refs": [
+      {
+       "text": "Eze 13:4",
+       "ref": "EZK.13.4"
+      },
+      {
+       "text": "Psa 80:13",
+       "ref": "PSA.80.13"
+      },
+      {
+       "text": "2Ti 4:17",
+       "ref": "2TI.4.17"
+      },
+      {
+       "text": "2Co 11:13",
+       "ref": "2CO.11.13"
+      },
+      {
+       "text": "Eze 34:2",
+       "ref": "EZK.34.2"
+      },
+      {
+       "text": "2Ti 4:17",
+       "ref": "2TI.4.17"
+      },
+      {
+       "text": "Tit 1:10",
+       "ref": "TIT.1.10"
+      },
+      {
+       "text": "2Pe 2:2",
+       "ref": "2PE.2.2"
+      },
+      {
+       "text": "Jud 15:4",
+       "ref": "JUD.15.4"
+      },
+      {
+       "text": "Psa 63:10",
+       "ref": "PSA.63.10"
+      },
+      {
+       "text": "Lam 5:18",
+       "ref": "LAM.5.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.15#p5-f4ed36cf",
+     "text": "this he adds, not as if the great foxes were excused or exempted, but for more abundant caution, to teach the church to prevent errors and heresies in the beginnings of them, before they spread and grow strong and incurable.",
+     "anchor": "The little foxes"
+    },
+    {
+     "id": "poole/SNG.2.15#p6-7fe31ec4",
+     "text": "which foxes do many ways, as those who write of them have observed, by gnawing and breaking the little branches and leaves, and the bark, by digging holes in the vineyards, and so spoiling the roots, by eating the grapes, and other ways.",
+     "anchor": "That spoil the vines"
+    },
+    {
+     "id": "poole/SNG.2.15#p7-0871f139",
+     "text": "which gives us hopes of a good vintage, and which are easily spoiled, if great care be not used to prevent it.",
+     "anchor": "Have tender grapes"
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.16",
+   "range": "SNG.2.16",
+   "kind": "passage",
+   "hash": "456cf0fd",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.16#p1-14d1cd1d",
+     "text": "these are the words of the bride, who having come to him upon his gracious invitation, now maketh her boast of him, and of that intimate union and communion which was between them.",
+     "anchor": "My Beloved is mine, and I am his"
+    },
+    {
+     "id": "poole/SNG.2.16#p2-a12a5354",
+     "text": "either,",
+     "anchor": "He feedeth among the lilies"
+    },
+    {
+     "id": "poole/SNG.2.16#p3-1f3f0ef6",
+     "text": "1. He feedeth his flock in sweet and lovely pastures, where there is not only herbage to feed them, but lilies to delight them. Or rather,"
+    },
+    {
+     "id": "poole/SNG.2.16#p4-863794fc",
+     "text": "2. He feedeth himself, i.e. he abideth and refresheth himself amongst his faithful people, which are compared to lilies, above, Son 2:2, and Hos 14:5, as Christ also is here, Son 2:1.",
+     "refs": [
+      {
+       "text": "Son 2:2",
+       "ref": "SNG.2.2"
+      },
+      {
+       "text": "Hos 14:5",
+       "ref": "HOS.14.5"
+      },
+      {
+       "text": "Son 2:1",
+       "ref": "SNG.2.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/SNG.2.17",
+   "range": "SNG.2.17",
+   "kind": "passage",
+   "hash": "6d2ee67d",
+   "paragraphs": [
+    {
+     "id": "poole/SNG.2.17#p1-3c942513",
+     "text": "until the morning of that great and blessed day of the general resurrection and judgment, when all the shadows, not only of ignorance, and sin, and calamity, but even of all ordinances and outward administrations, shall cease, and make way for the immediate enjoyment of my Beloved. And this clause may be joined either,",
+     "anchor": "Until the day break, and the shadows flee away"
+    },
+    {
+     "id": "poole/SNG.2.17#p2-2b05d338",
+     "text": "1. With the foregoing words; and so the sense is, Christ doth and will abide with his church as long as this life and world lasts; which agrees with Christ’s promises of being with his church to the end of the world, Mat 28:20. But neither that nor this place imply that Christ will then forsake his people, but only secures God’s people against that which was the chief, if not only, matter of their fear, to wit, lest Christ should leave them, and cast them off in this life, which, if he did not, they were assured that hereafter they should be",
+     "refs": [
+      {
+       "text": "Mat 28:20",
+       "ref": "MAT.28.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.17#p3-db6e2242",
+     "text": "1Th 4:17. For it is well known, and hath been oft observed already, that the word until doth not always exclude the time to come. Or,",
+     "anchor": "ever with the Lord",
+     "refs": [
+      {
+       "text": "1Th 4:17",
+       "ref": "1TH.4.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/SNG.2.17#p4-c382fb0c",
+     "text": "2. With the following words,"
+    },
+    {
+     "id": "poole/SNG.2.17#p5-2292e964",
+     "text": "& c.",
+     "anchor": "Turn thou, my Beloved, until the day break"
+    },
+    {
+     "id": "poole/SNG.2.17#p6-36621a65",
+     "text": "return to me. For although Christ had come to her, and she had gladly received and embraced him, yet he was gone again, as is here implied, and evidently appears from the next following verse; which sudden change is very agreeable both to the nature and method of such dramatical writings and amatorious transactions, and to the state of God’s people in this world, where they are subject to frequent changes and vicissitudes of Christ’s withdrawing from them, and returning to them again.",
+     "anchor": "Turn"
+    },
+    {
+     "id": "poole/SNG.2.17#p7-9a3b442f",
+     "text": "in swiftness; make haste to help me, for I am ready to faint.",
+     "anchor": "Like a roe or a young hart"
+    },
+    {
+     "id": "poole/SNG.2.17#p8-a3857456",
+     "text": "a place in the Land of Promise, possibly the same called Bithron, 2Sa 2:29, where it seems those creatures were in great abundance, or where they were commonly hunted, and so being pursued, they made all possible haste to escape.",
+     "anchor": "Bether",
+     "refs": [
+      {
+       "text": "2Sa 2:29",
+       "ref": "2SA.2.29"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "source": "poole",
+ "book": "JHN",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "poole/JHN.21",
+   "range": "JHN.21",
+   "kind": "chapter",
+   "hash": "3ce56750",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21#p1-08f9ddc1",
+     "text": "Joh 21:1-11 Christ appeareth to his disciples at the sea of Tiberias, and maketh himself known by a great draught of fishes.",
+     "refs": [
+      {
+       "text": "Joh 21:1-11",
+       "ref": "JHN.21.1-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21#p2-ab3da0fc",
+     "text": "Joh 21:12-14 He eateth before them. Joh 21:15-23 He thrice repeateth his charge to Peter to feed his flock; foretells the manner of his death; and rebuketh his curiosity concerning John.",
+     "refs": [
+      {
+       "text": "Joh 21:12-14",
+       "ref": "JHN.21.12-14"
+      },
+      {
+       "text": "Joh 21:15-23",
+       "ref": "JHN.21.15-23"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21#p3-1c8d5e75",
+     "text": "Joh 21:24,25 John asserts the truth of his testimony, and that Jesus did many acts besides, too numerous to be recorded.",
+     "refs": [
+      {
+       "text": "Joh 21:24",
+       "ref": "JHN.21.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.1",
+   "range": "JHN.21.1",
+   "kind": "passage",
+   "hash": "c2437d40",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.1#p1-c2437d40",
+     "text": "After three several appearances of Christ to his disciples, which hitherto were all of them in Jerusalem, Christ showed himself again to them in Galilee, whither he had ordered his disciples to go, promising there to meet them, Mat 26:32 Mar 16:7. Here the occasion and circumstances of this his third appearance are related by St. John.",
+     "refs": [
+      {
+       "text": "Mat 26:32",
+       "ref": "MAT.26.32"
+      },
+      {
+       "text": "Mar 16:7",
+       "ref": "MRK.16.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.2",
+   "range": "JHN.21.2",
+   "kind": "passage",
+   "hash": "efc1134c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.2#p1-efc1134c",
+     "text": "All the disciples were either there in several places, or going thither, according to Christ’s direction before mentioned: but either these seven were there before the rest; or else they lodged together, or near one another; so as these only are here mentioned as being together at this time, and so witnesses of this miracle which followeth."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.3",
+   "range": "JHN.21.3",
+   "kind": "passage",
+   "hash": "eeeeac2d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.3#p1-7f7d74e5",
+     "text": "Peter and divers others were fishermen, as we have formerly heard, and had boats which they so employed. Though they were called to the work of the ministry, yet, churches not yet being gathered and constituted able to maintain them, they did not judge it unlawful to employ themselves in honest vocations, which might bring in something of a livelihood; no more did Paul afterward. The others resolve to go with Peter. They went, but"
+    },
+    {
+     "id": "poole/JHN.21.3#p2-fbf0b513",
+     "text": "the providence of God so ordering it, that Christ’s Divine power might be seen in commanding fish into their nets.",
+     "anchor": "that night caught nothing"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.4",
+   "range": "JHN.21.4",
+   "kind": "passage",
+   "hash": "a4e46b38",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.4#p1-a4e46b38",
+     "text": "Probably their distance from him was the cause that they did not know him, though they had seen him once and again since his resurrection from the dead: others think, that by the providence of God their eyes were holden that they should not know him, as Luk 24:16.",
+     "refs": [
+      {
+       "text": "Luk 24:16",
+       "ref": "LUK.24.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.5",
+   "range": "JHN.21.5",
+   "kind": "passage",
+   "hash": "d1b55411",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.5#p1-d1b55411",
+     "text": "He asketh them if they had any thing to eat, not because he knew not, but in order to what he intended to do to make them more attentive to the miracle which he by and by intended to work."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.6",
+   "range": "JHN.21.6",
+   "kind": "passage",
+   "hash": "ca3efb2b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.6#p1-ca3efb2b",
+     "text": "Though they had before laboured in vain, yet their Master’s command encourages them to go to work again; then they take a multitude of fishes; a presage, say some, of that great success which the apostles should have in their fishing for men."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.7",
+   "range": "JHN.21.7",
+   "kind": "passage",
+   "hash": "0bbb48a9",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.7#p1-c45b8103",
+     "text": "There is a great dispute amongst critical writers what this"
+    },
+    {
+     "id": "poole/JHN.21.7#p2-02186817",
+     "text": "was; whether a loose coat, or the garment next his skin, or a fisherman’s slop. It is a point not worth the disputing: it was some garment that might modestly cover him when he came to Jesus, and yet not hinder him in his swimming.",
+     "anchor": "fisher’s coat"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.8",
+   "range": "JHN.21.8",
+   "kind": "passage",
+   "hash": "8a16caa4",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.8#p1-8a16caa4",
+     "text": "The other disciples came in a little fishing boat, dragging the net with fishes; probably, because it was too heavy to be lifted up into the boat."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.9",
+   "range": "JHN.21.9",
+   "kind": "passage",
+   "hash": "c315c809",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.9#p1-c315c809",
+     "text": "As to the question whence this fish came, there are three opinions: some think that our Saviour caught it out of the sea without a net, or by his power commanded it to come to his service; others think that the history is transposed, and this verse should in its true order come after the eleventh; but it is most probable that Christ by his Divine power created the fish, as well as the coals and the bread."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.10",
+   "range": "JHN.21.10",
+   "kind": "passage",
+   "hash": "a3208b2e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.10#p1-088e4568",
+     "text": "Ver. 10,11. In this one miracle there is a complication of miracles."
+    },
+    {
+     "id": "poole/JHN.21.10#p2-9ecb3f06",
+     "text": "1. That having fished all night and caught nothing, they should at Christ’s command throw out the net on the side of the ship next the shore, and so most unlikely to have plenty of fish, and catch so many."
+    },
+    {
+     "id": "poole/JHN.21.10#p3-028c8e5f",
+     "text": "2. That before their fish could be brought on shore, they should see a fish broiling on coals, and bread lying by."
+    },
+    {
+     "id": "poole/JHN.21.10#p4-1f3be883",
+     "text": "3. That notwithstanding the multitude of fish, the net should not be broken."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.11",
+   "range": "JHN.21.11",
+   "kind": "passage",
+   "hash": "3f5e5871",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.11#p1-3f5e5871",
+     "text": "Joh 21:10\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 21:10",
+       "ref": "JHN.21.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.12",
+   "range": "JHN.21.12",
+   "kind": "passage",
+   "hash": "c34f1a6d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.12#p1-3d40451b",
+     "text": "It was in the morning, and may as well be translated, Come and break your fasts, as"
+    },
+    {
+     "id": "poole/JHN.21.12#p2-840ac262",
+     "text": "They now knew it was the Lord, if not by his face and voice, yet by this miracle; therefore they durst not ask him, for fear of a sharp reproof, after he had by such a miraculous operation made himself known to them.",
+     "anchor": "Come and dine"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.13",
+   "range": "JHN.21.13",
+   "kind": "passage",
+   "hash": "a2490833",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.13#p1-a2490833",
+     "text": "Those who question whether our Saviour himself did eat, seem not to consider what is written Act 10:41, where it is expressly said, he did eat and drink with them after he rose from the dead; which he doubtless did, to show that he was truly risen from the dead, and his seeming body was not a phantasm, and mere apparition of a body, but the same true body which was crucified, though now more glorious, and not clothed with those infirmities which it had before his death; from whence it only followeth, that he did not eat to satisfy his hunger, but only to confirm the truth of his resurrection. He did before this eat with some of them, Luk 24:30.",
+     "refs": [
+      {
+       "text": "Act 10:41",
+       "ref": "ACT.10.41"
+      },
+      {
+       "text": "Luk 24:30",
+       "ref": "LUK.24.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.14",
+   "range": "JHN.21.14",
+   "kind": "passage",
+   "hash": "8bf3d88a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.14#p1-a1b0f7d2",
+     "text": "that is, the third day, for upon his resurrection day he showed himself,",
+     "anchor": "The third time"
+    },
+    {
+     "id": "poole/JHN.21.14#p2-19be90af",
+     "text": "1. To Mary Magdalene, Joh 20:14.",
+     "refs": [
+      {
+       "text": "Joh 20:14",
+       "ref": "JHN.20.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21.14#p3-6aab6141",
+     "text": "2. To the two disciples going to Emmaus, Luk 24:15,31.",
+     "refs": [
+      {
+       "text": "Luk 24:15",
+       "ref": "LUK.24.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21.14#p4-546cf26c",
+     "text": "3. To the women going to tell his disciples, Mat 28:9.",
+     "refs": [
+      {
+       "text": "Mat 28:9",
+       "ref": "MAT.28.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21.14#p5-cbd07ced",
+     "text": "4. In the evening to his disciples, met, Joh 20:19.",
+     "refs": [
+      {
+       "text": "Joh 20:19",
+       "ref": "JHN.20.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21.14#p6-204e8676",
+     "text": "All these are by John counted for one time, because they were upon one and the same day. That day seven night he appeared to them again, Joh 20:26. After this at the sea of Tiberias, mentioned in this chapter.",
+     "refs": [
+      {
+       "text": "Joh 20:26",
+       "ref": "JHN.20.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.15",
+   "range": "JHN.21.15",
+   "kind": "passage",
+   "hash": "2f9e4834",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.15#p1-739a7c66",
+     "text": "More than the rest of my disciples love me? For so Peter had professed, when he told our Saviour, Mat 26:33, Though all men should be offended because of thee, yet will I never be offended. Peter now having by his temptation learned more humility and modesty, doth not reply, Lord, thou knowest that I love thee more than these; he only avers the truth and sincerity, not the degree of his love. Christ replies,",
+     "anchor": "Lovest thou me more than these?",
+     "refs": [
+      {
+       "text": "Mat 26:33",
+       "ref": "MAT.26.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.21.15#p2-0b957f01",
+     "text": "by which he understands his people, his church; not the pastors of it, (as if Christ by this had made Peter the chief pastor over the rest of the apostles), but the community. The papists from this text argue for Peter’s primacy and authority over his fellow apostles, as well as over the members of the church. But Christ said not to Peter only, but to all the rest of the eleven, Mat 28:19 Mar 16:15, Go ye, preach the gospel to all nations; and it was to the rest as well as to Peter that he said, Joh 20:23, Whose soever sins ye remit, they are remitted. So as it is apparent, whether feeding only signifies instructing, or feeding by doctrine, or (as most judge) comprehends government, and signifies that universal charge which ministers have over the church, the same power which Peter had was also committed to the other disciples.",
+     "anchor": "Feed my lambs",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      },
+      {
+       "text": "Mar 16:15",
+       "ref": "MRK.16.15"
+      },
+      {
+       "text": "Joh 20:23",
+       "ref": "JHN.20.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.16",
+   "range": "JHN.21.16",
+   "kind": "passage",
+   "hash": "f2e3b1f5",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.16#p1-f2e3b1f5",
+     "text": "Ver. 16,17. Divines here raise a question, why our Saviour propounds this question thrice to Peter. The most of the ancients agree, that it was because Peter had thrice denied him. Some say, it was to show his great love to his church, which he could not commit to Peter but after three inquiries if he truly loved him, who was the Lord of it. Others refer it to the three ways by which good pastors ought to feed the church; prayer, preaching, and a holy life. Others think, that it hath reference to the three flocks that Peter was to feed; the Jews in Judea, the Gentiles, the dispersed amongst the Gentiles."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.17",
+   "range": "JHN.21.17",
+   "kind": "passage",
+   "hash": "3f656871",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.17#p1-3f656871",
+     "text": "Joh 21:16\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 21:16",
+       "ref": "JHN.21.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.18",
+   "range": "JHN.21.18",
+   "kind": "passage",
+   "hash": "3fb6b639",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.18#p1-3fb6b639",
+     "text": "Ver. 18,19. Joh 21:19 gives us the general scope of Joh 21:15, viz. that it was a prediction of that particular death by which Peter should die, which was (if we may believe what the ancients have generally reported, and we can have no other proof) by crucifying; in which kind of death the hands of the person crucified are stretched out and nailed to the cross. But which way he died we cannot certainly affirm. The evangelist assures us, that our Saviour spake these words with reference to that kind of death by which Peter as a martyr was to glorify God; nor is it any objection against his martyrdom, that our Saviour here saith, that he should be carried whither he would not; for he was not better than his Lord, whose spirit was willing, and flesh weak. Whether our Saviour by his command, Follow me, intended the imitation of him, his death, or the particular kind of his death, is uncertain; unless we will allow this text to be interpreted by Joh 13:36 2Pe 1:14.",
+     "refs": [
+      {
+       "text": "Joh 21:19",
+       "ref": "JHN.21.19"
+      },
+      {
+       "text": "Joh 21:15",
+       "ref": "JHN.21.15"
+      },
+      {
+       "text": "Joh 13:36",
+       "ref": "JHN.13.36"
+      },
+      {
+       "text": "2Pe 1:14",
+       "ref": "2PE.1.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.19",
+   "range": "JHN.21.19",
+   "kind": "passage",
+   "hash": "3f436871",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.19#p1-3f436871",
+     "text": "Joh 21:18\"",
+     "verse": 19,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 21:1",
+       "ref": "JHN.21.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.20",
+   "range": "JHN.21.20",
+   "kind": "passage",
+   "hash": "a04ad07b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.20#p1-a04ad07b",
+     "text": "That is, he saw John, whom we have often before heard so described."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.21",
+   "range": "JHN.21.21",
+   "kind": "passage",
+   "hash": "3aedb5b8",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.21#p1-3aedb5b8",
+     "text": "Do is not in the Greek, nor possibly is so properly added: the sense is, What shall become of this man? What shall be his fate? What shall he suffer?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.22",
+   "range": "JHN.21.22",
+   "kind": "passage",
+   "hash": "cd8350d5",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.22#p1-cd8350d5",
+     "text": "Our Lord only checks the curiosity of Peter, and minds him to attend things which himself was concerned in; telling him, he was not concerned what became of John, whether he should die, or abide upon the earth until Christ’s second coming: it was Peter’s concern, without regarding what others did, or what became of them, himself to execute his Master’s command, and follow his example."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.23",
+   "range": "JHN.21.23",
+   "kind": "passage",
+   "hash": "5ec38d46",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.23#p1-5ec38d46",
+     "text": "But the disciples, knowing the particular kindness our Saviour had for John, upon these words, not duly attended to, concluded John should abide upon the earth to the second coming of Christ."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.24",
+   "range": "JHN.21.24",
+   "kind": "passage",
+   "hash": "3577abe0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.24#p1-3577abe0",
+     "text": "John, who wrote this Gospel, was that disciple whom Jesus loved, who leaned on our Saviour’s breast at supper, and inquired who should betray Christ; of whom Peter spake, Joh 21:21, and who testifieth these things, both concerning Peter, and concerning himself, and the church: the ancient church knew his testimony was true.",
+     "refs": [
+      {
+       "text": "Joh 21:21",
+       "ref": "JHN.21.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.21.25",
+   "range": "JHN.21.25",
+   "kind": "passage",
+   "hash": "b4496662",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.21.25#p1-b4496662",
+     "text": "But none must imagine that all Christ’s sermons, or miracles, are recorded in this book, or in any of the other Gospels; the world would have been too much filled with books, if all spoke or done by our Saviour had been written. There is so much written as it pleased God we should know, or was necessary for us to know for the true ends of such revelation; to beget and increase faith in us, and to promote and direct holiness."
+    }
+   ]
+  }
+ ]
+}

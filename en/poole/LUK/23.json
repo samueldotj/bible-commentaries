@@ -1,0 +1,1376 @@
+{
+ "source": "poole",
+ "book": "LUK",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "poole/LUK.23",
+   "range": "LUK.23",
+   "kind": "chapter",
+   "hash": "577ef699",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23#p1-719dbe99",
+     "text": "Luk 23:1-7 Jesus is accused before Pilate, who sendeth him to Herod.",
+     "refs": [
+      {
+       "text": "Luk 23:1-7",
+       "ref": "LUK.23.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p2-8b9513ae",
+     "text": "Luk 23:8-11 Herod, disappointed in his expectations, mocketh him, and sendeth him back.",
+     "refs": [
+      {
+       "text": "Luk 23:8-11",
+       "ref": "LUK.23.8-11"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p3-eb8dc672",
+     "text": "Luk 23:12 Herod and Pilate are made friends.",
+     "refs": [
+      {
+       "text": "Luk 23:12",
+       "ref": "LUK.23.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p4-1a2e2122",
+     "text": "Luk 23:13-25 Pilate, willing to release Jesus, is prevailed on by the clamours of the people to release Barabbas, and give Jesus to be crucified.",
+     "refs": [
+      {
+       "text": "Luk 23:13-25",
+       "ref": "LUK.23.13-25"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p5-de1d5cd0",
+     "text": "Luk 23:26-31 Being led to the place of execution, Jesus biddeth the women who lamented hint to weep rather for themselves and their children.",
+     "refs": [
+      {
+       "text": "Luk 23:26-31",
+       "ref": "LUK.23.26-31"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p6-b98a25fd",
+     "text": "Luk 23:32,33 He is crucified between two malefactors,",
+     "refs": [
+      {
+       "text": "Luk 23:32",
+       "ref": "LUK.23.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p7-ef50819a",
+     "text": "Luk 23:34 prayeth for his enemies,",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p8-dd7a369d",
+     "text": "Luk 23:35-38 is scoffed at,",
+     "refs": [
+      {
+       "text": "Luk 23:35-38",
+       "ref": "LUK.23.35-38"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p9-478ab7af",
+     "text": "Luk 23:39-43 reviled by one of the malefactors, but confessed by the other, to whom he promises a place in paradise.",
+     "refs": [
+      {
+       "text": "Luk 23:39-43",
+       "ref": "LUK.23.39-43"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p10-6606c9ff",
+     "text": "Luk 23:44,45 The unusual darkness, and rending the veil of the temple,",
+     "refs": [
+      {
+       "text": "Luk 23:44",
+       "ref": "LUK.23.44"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p11-c43c1d00",
+     "text": "Luk 23:46 Christ crieth unto God, and expires.",
+     "refs": [
+      {
+       "text": "Luk 23:46",
+       "ref": "LUK.23.46"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p12-8e8e30c4",
+     "text": "Luk 23:47-49 The centurion’s confession of him.",
+     "refs": [
+      {
+       "text": "Luk 23:47-49",
+       "ref": "LUK.23.47-49"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p13-94288472",
+     "text": "Luk 23:50-54 Joseph of Arimathea begs his body and buries it.",
+     "refs": [
+      {
+       "text": "Luk 23:50-54",
+       "ref": "LUK.23.50-54"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23#p14-1137a65d",
+     "text": "Luk 23:55-56 The women prepare spices, against the end of the sabbath.",
+     "refs": [
+      {
+       "text": "Luk 23:55-56",
+       "ref": "LUK.23.55-56"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.1",
+   "range": "LUK.23.1",
+   "kind": "passage",
+   "hash": "d4141016",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.1#p1-3e3dbbb9",
+     "text": "Ver. 1-25. The history of our Saviour’s examination and trial before Pilate, the Roman governor of Judea, is recorded by all four evangelists, nor can it be distinctly and perfectly understood without the comparing together of what they all say, where our reader will find all such passages opened as occur in any of the evangelists about it, and stand in need of explication. The high priests, and the chief priests, and the elders had before determined our Saviour guilty of death, for blasphemy. They stoned Stephen in that case, Act 7:59, without carrying him before the Roman governor at all, that we read of in that history; how came it to pass that they did not so by our Saviour, but make a double work of it?",
+     "refs": [
+      {
+       "text": "Act 7:59",
+       "ref": "ACT.7.59"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.1#p2-bc9fb508",
+     "text": "1. Some think that that was rather done in a tumult, though he was carried before the council, Act 6:12, than in a regular judicial way; for conquerors in those times, though they sometimes allowed the conquered nations courts of judicature, wherein they judged in ordinary matters according to their own laws, and had, judges of their own nations, yet ordinarily reserved capital causes to the cognizance of governors constituted by them; and this seemeth confirmed by Joh 18:31, where when Pilate said, Take ye him, and judge him according to your law, we read that the Jews replied, It is not lawful for us to put any man to death.",
+     "refs": [
+      {
+       "text": "Act 6:12",
+       "ref": "ACT.6.12"
+      },
+      {
+       "text": "Joh 18:31",
+       "ref": "JHN.18.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.1#p3-ec0ebe81",
+     "text": "2. Others think that they had a power to put to death, but it was not lawful for them to put any to death upon the feast day: it was now the first day of unleavened bread. But the former seemeth more probable."
+    },
+    {
+     "id": "poole/LUK.23.1#p4-ca002c4c",
+     "text": "3. Or was it because they had sedition and treason to lay to his charge, which were crimes cognoscible only before the Roman governor? And possibly they were willing enough (knowing the reputation our Saviour had with the people) to lay the odium of his death upon Pilate, rather than take it upon themselves."
+    },
+    {
+     "id": "poole/LUK.23.1#p5-2e745447",
+     "text": "4. Whatever were the causes, it is most certain that it could be no otherwise, that all righteousness might be fulfilled."
+    },
+    {
+     "id": "poole/LUK.23.1#p6-51eddb9f",
+     "text": "Not a word of what our Saviour said could pass away. He had foretold, Mat 20:18,19 Mr 10:33,34 Lu 18:32,33, that he should not only be betrayed to the chief priests and scribes, and by them be condemned to death, but that he should be delivered to the Gentiles, to mock, and to scourge, and to crucify him; and indeed that way of putting to death by crucifying could only be done by the Gentiles, and that death he was to die. In the history of our Saviour’s examination before Pilate is observable...",
+     "refs": [
+      {
+       "text": "Mat 20:18",
+       "ref": "MAT.20.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.1#p7-f0210b6c",
+     "text": "1. How much more justice and equity our Saviour found from a heathen, than from the Jewish churchmen: the latter condemn him without any proof, after all attempts of subornation, and seek to destroy him right or wrong; Pilate useth all endeavours to deliver him and set him at liberty."
+    },
+    {
+     "id": "poole/LUK.23.1#p8-328e9697",
+     "text": "2. How desperate the hatred is that groweth upon the account of religion in the hearts of wicked men; they prefer a person guilty of the highest immoralities and debaucheries, viz. sedition and murder, before the most innocent person that ever lived, who differed only from them in some points of religion, and those chiefly relating to traditions and ceremonies; but indeed he interpreted the will of God more strictly than their lusts would suffer them to interpret it, and lived another kind of life than they lived. Strictness and holiness of doctrine and life is that which enrages the men of the world against the preachers and professors of the gospel."
+    },
+    {
+     "id": "poole/LUK.23.1#p9-7dd217be",
+     "text": "Mat 27:1\", and following verses to Mat 27:66, more fully.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:1",
+       "ref": "MAT.27.1"
+      },
+      {
+       "text": "Mat 27:66",
+       "ref": "MAT.27.66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.2",
+   "range": "LUK.23.2",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.2#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.3",
+   "range": "LUK.23.3",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.3#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.4",
+   "range": "LUK.23.4",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.4#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.5",
+   "range": "LUK.23.5",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.5#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.6",
+   "range": "LUK.23.6",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.6#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.7",
+   "range": "LUK.23.7",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.7#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.8",
+   "range": "LUK.23.8",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.8#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.9",
+   "range": "LUK.23.9",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.9#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.10",
+   "range": "LUK.23.10",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.10#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.11",
+   "range": "LUK.23.11",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.11#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.12",
+   "range": "LUK.23.12",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.12#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.13",
+   "range": "LUK.23.13",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.13#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.14",
+   "range": "LUK.23.14",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.14#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.15",
+   "range": "LUK.23.15",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.15#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.16",
+   "range": "LUK.23.16",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.16#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.17",
+   "range": "LUK.23.17",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.17#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.18",
+   "range": "LUK.23.18",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.18#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.19",
+   "range": "LUK.23.19",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.19#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.20",
+   "range": "LUK.23.20",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.20#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.21",
+   "range": "LUK.23.21",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.21#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.22",
+   "range": "LUK.23.22",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.22#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.23",
+   "range": "LUK.23.23",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.23#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.24",
+   "range": "LUK.23.24",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.24#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.25",
+   "range": "LUK.23.25",
+   "kind": "passage",
+   "hash": "92459acf",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.25#p1-92459acf",
+     "text": "Luk 23:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:1",
+       "ref": "LUK.23.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.26",
+   "range": "LUK.23.26",
+   "kind": "passage",
+   "hash": "75cac06c",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.26#p1-75cac06c",
+     "text": "Mat 27:32\", See Poole on \"Mar 15:21\".",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:32",
+       "ref": "MAT.27.32"
+      },
+      {
+       "text": "Mar 15:21",
+       "ref": "MRK.15.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.27",
+   "range": "LUK.23.27",
+   "kind": "passage",
+   "hash": "92b95859",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.27#p1-92b95859",
+     "text": "Ver. 27-31. What is in these verses is only found in this evangelist; but being part of what happened in the way, while our Saviour was leading to his cross, we have before opened what is here in Mat 27:32-34. They are another prophecy of the dreadful calamities which happened about forty years after this, at the destruction of Jerusalem.",
+     "refs": [
+      {
+       "text": "Mat 27:32-34",
+       "ref": "MAT.27.32-34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.28",
+   "range": "LUK.23.28",
+   "kind": "passage",
+   "hash": "c98c4cbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.28#p1-c98c4cbd",
+     "text": "Luk 23:27\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:27",
+       "ref": "LUK.23.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.29",
+   "range": "LUK.23.29",
+   "kind": "passage",
+   "hash": "c98c4cbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.29#p1-c98c4cbd",
+     "text": "Luk 23:27\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:27",
+       "ref": "LUK.23.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.30",
+   "range": "LUK.23.30",
+   "kind": "passage",
+   "hash": "c98c4cbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.30#p1-c98c4cbd",
+     "text": "Luk 23:27\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:27",
+       "ref": "LUK.23.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.31",
+   "range": "LUK.23.31",
+   "kind": "passage",
+   "hash": "c98c4cbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.31#p1-c98c4cbd",
+     "text": "Luk 23:27\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:27",
+       "ref": "LUK.23.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.32",
+   "range": "LUK.23.32",
+   "kind": "passage",
+   "hash": "e29d1c4c",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.32#p1-e29d1c4c",
+     "text": "Ver. 32,33. Mark saith here, The scripture was fulfilled, which saith, And he was numbered with the transgressors. We met with this before, both in Matthew and Mark. See Poole on \"Mat 27:33\", See Poole on \"Mat 27:38\". See Poole on \"Mar 15:27\", See Poole on \"Mar 15:28\".",
+     "refs": [
+      {
+       "text": "Mat 27:33",
+       "ref": "MAT.27.33"
+      },
+      {
+       "text": "Mat 27:38",
+       "ref": "MAT.27.38"
+      },
+      {
+       "text": "Mar 15:27",
+       "ref": "MRK.15.27"
+      },
+      {
+       "text": "Mar 15:28",
+       "ref": "MRK.15.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.33",
+   "range": "LUK.23.33",
+   "kind": "passage",
+   "hash": "d29f65bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.33#p1-d29f65bd",
+     "text": "Luk 23:32\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:32",
+       "ref": "LUK.23.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.34",
+   "range": "LUK.23.34",
+   "kind": "passage",
+   "hash": "02781d3a",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.34#p1-bbff38ac",
+     "text": "Mat 27:35\", and following verses to Mat 27:50. See Poole on \"Mar 14:24\", and following verses to Mar 14:37. This part also of the history of our Saviour’s passion is best understood by a comparing together what all the evangelists say, which we have before done in our notes on Matthew, so as we shall only observe some few things from it as here recited.",
+     "verse": 34,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:35",
+       "ref": "MAT.27.35"
+      },
+      {
+       "text": "Mat 27:50",
+       "ref": "MAT.27.50"
+      },
+      {
+       "text": "Mar 14:24",
+       "ref": "MRK.14.24"
+      },
+      {
+       "text": "Mar 14:37",
+       "ref": "MRK.14.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.34#p2-103b1a1f",
+     "text": "Luk 23:35. Matthew saith, Mat 27:41, the chief priests, scribes, and elders were there mocking. So saith Mark, Mar 15:31. How doth malice and hatred for religion’s sake, not only out show men’s reason, but also all their moral virtue! And make nothing accounted uncharitable, unjust, or indecent to them, into whom this devil hath once entered.",
+     "anchor": "And the people stood beholding. And the rulers also with them derided him",
+     "refs": [
+      {
+       "text": "Luk 23:35",
+       "ref": "LUK.23.35"
+      },
+      {
+       "text": "Mat 27:41",
+       "ref": "MAT.27.41"
+      },
+      {
+       "text": "Mar 15:31",
+       "ref": "MRK.15.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.34#p3-4935d2ae",
+     "text": "To say nothing of the injustice and indecencies obvious to every eye, which these men showed upon our Saviour’s examination and trial: it was now the first day of the feast of unleavened broad, the day following the passover night; or, as some think, the preparation both for the weekly sabbath and for the passover, though the most judicious interpreters be of the first opinion: one of them it was, be it which it would."
+    },
+    {
+     "id": "poole/LUK.23.34#p4-34919472",
+     "text": "If atheism and irreligion had not been at the height amongst this people, had it been possible that the high priest, and the chief of the priests, and the rulers of the Jews, should have spent this day, the whole time, from break of the day till noon, in accusing or condemning Christ; and then have spent the afternoon in mocking and deriding him on the cross as he was dying, breaking all laws of humanity and decency, as well as religion? Admitting Annas and Caiaphas were not there, yet some of the chief of the priests, the scribes, and the elders were certainly there; and betraying themselves there more rudely and indecently than the common people."
+    },
+    {
+     "id": "poole/LUK.23.34#p5-d5aad26d",
+     "text": "The people were there beholding him. These were there mocking and deriding a dying person. But as we say in philosophy, corruptio optimi est pessima; so we shall find it true, that men who are employed in sacred things, if the true fear of God be not in them, to make them the best, they are certainly the vilest and worst of men. We read of no rudenesses offered to our Saviour dying, but from the scribes, chief priests, rulers, and soldiers. These verses also afford us great proof of the immortality of the soul; otherwise the penitent thief could not that day have been with Christ in paradise, as Christ promised, Luk 23:43. Nor would Christ have committed his soul into his Father’s hand, if it had been to have expired with the body, and have vanished into air. For other things which concern this part of the history of our Saviour’s passion, See Poole on \"Mat 27:35\", and following verses to Mat 27:50.",
+     "refs": [
+      {
+       "text": "Luk 23:43",
+       "ref": "LUK.23.43"
+      },
+      {
+       "text": "Mat 27:35",
+       "ref": "MAT.27.35"
+      },
+      {
+       "text": "Mat 27:50",
+       "ref": "MAT.27.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.35",
+   "range": "LUK.23.35",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.35#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.36",
+   "range": "LUK.23.36",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.36#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.37",
+   "range": "LUK.23.37",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.37#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.38",
+   "range": "LUK.23.38",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.38#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.39",
+   "range": "LUK.23.39",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.39#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.40",
+   "range": "LUK.23.40",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.40#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.41",
+   "range": "LUK.23.41",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.41#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.42",
+   "range": "LUK.23.42",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.42#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.43",
+   "range": "LUK.23.43",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.43#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.44",
+   "range": "LUK.23.44",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.44#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.45",
+   "range": "LUK.23.45",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.45#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.46",
+   "range": "LUK.23.46",
+   "kind": "passage",
+   "hash": "d28abdbd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.46#p1-d28abdbd",
+     "text": "Luk 23:34\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:34",
+       "ref": "LUK.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.47",
+   "range": "LUK.23.47",
+   "kind": "passage",
+   "hash": "ce7f1e0e",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.47#p1-bea6d354",
+     "text": "Ver. 47-49. For a perfect knowledge of all those things which did happen after our Saviour’s nailing to the cross, till he died, and was taken down to be buried, all the evangelists must be consulted. We have made a collection of them in our notes on Mat 27:51-56, to which the reader is here referred.",
+     "refs": [
+      {
+       "text": "Mat 27:51-56",
+       "ref": "MAT.27.51-56"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.47#p2-acca0925",
+     "text": "Mat 27:51\", and following verses to Mat 27:56. This passage about the centurion is taken notice of both by Matthew and Mark; only they say he said, Truly this was the Son of God. Luke saith that he said, Certainly this was a righteous man. Possibly the sense is the same, and the centurion by the Son of God did not mean the Son of God by eternal generation, but one highly favoured of God, a righteous than, and very dear to God, and highly beloved of him; for it must be by a very extraordinary revelation and impression if he, had so early a faith in Christ as God blessed for ever. I think Mr. Calvin, on Mat 26:54, expounds it well, Non vulgarem esse hominem, sed divinitus excitatum statuit.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:51",
+       "ref": "MAT.27.51"
+      },
+      {
+       "text": "Mat 27:56",
+       "ref": "MAT.27.56"
+      },
+      {
+       "text": "Mat 26:54",
+       "ref": "MAT.26.54"
+      }
+     ]
+    },
+    {
+     "id": "poole/LUK.23.47#p3-ce059409",
+     "text": "The centurion determined that Christ was no ordinary person, but one stirred up by and sent of God. It is observable, that Christ had a testimony from all orders of men almost, except the scribes, and priests, and Pharisees. Pontius Pilate and Herod declared him innocent. Pilate’s wife acknowledgeth him a righteous person. The thief on the cross testifieth he had done nothing amiss. Judas the traitor confesseth he had betrayed innocent blood. The centurion owneth him to be no ordinary man, but a righteous man, the Son of God. The multitude always owned him: they see they are now run down; they smite their breasts, say nothing, but depart. Only those that were to have been the teachers of others are blinded and hardened to their ruin."
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.48",
+   "range": "LUK.23.48",
+   "kind": "passage",
+   "hash": "96e746bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.48#p1-96e746bd",
+     "text": "Luk 23:47\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:47",
+       "ref": "LUK.23.47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.49",
+   "range": "LUK.23.49",
+   "kind": "passage",
+   "hash": "96e746bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.49#p1-96e746bd",
+     "text": "Luk 23:47\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:47",
+       "ref": "LUK.23.47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.50",
+   "range": "LUK.23.50",
+   "kind": "passage",
+   "hash": "4a949b88",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.50#p1-4a949b88",
+     "text": "Mat 27:57\", and following verses to Mat 27:60.",
+     "verse": 50,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:57",
+       "ref": "MAT.27.57"
+      },
+      {
+       "text": "Mat 27:60",
+       "ref": "MAT.27.60"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.51",
+   "range": "LUK.23.51",
+   "kind": "passage",
+   "hash": "9e32f7bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.51#p1-9e32f7bd",
+     "text": "Luk 23:50\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:50",
+       "ref": "LUK.23.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.52",
+   "range": "LUK.23.52",
+   "kind": "passage",
+   "hash": "9e32f7bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.52#p1-9e32f7bd",
+     "text": "Luk 23:50\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:50",
+       "ref": "LUK.23.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.53",
+   "range": "LUK.23.53",
+   "kind": "passage",
+   "hash": "9e32f7bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.53#p1-9e32f7bd",
+     "text": "Luk 23:50\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:50",
+       "ref": "LUK.23.50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.54",
+   "range": "LUK.23.54",
+   "kind": "passage",
+   "hash": "75a314d4",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.54#p1-6315da31",
+     "text": "Greek, συββατον επεφωσκε, the sabbath shined. What preparation was here intended, whether to the weekly sabbath of the Jews, (that it was most certainly), or to the passover also, which some will have to have been this year put off to that day, because of the concurrence of the weekly and the annual feast, I shall not determine, though the most judicious interpreters skilled in the Hebrew writings, think the passover this year was kept in its season, the night before."
+    },
+    {
+     "id": "poole/LUK.23.54#p2-1367cb18",
+     "text": "that is, the seventh day, drew on. The Greek word signifies shined, the propriety of which term hath cost critics some pains to make out, for it rather began to be dark than lightsome, their sabbath beginning after the setting of the sun. Some think the word referred to the evening star, which began to shine. Others, that it referred to a lamp or candle, which they were wont to set up, they call it luminare discriminationis, the light of discrimination, which being set up in their several families, the sabbath was accounted to be begun. Others think it referred to the following day. But there need not much labour in the case, for by the same reason that it is said, the evening and the morning made the sabbath day, the sabbath might be said επιφωσκειν (that is, to begin) when it began to be dark, not taking the word in a proper, but in a metaphorical sense.",
+     "anchor": "And the sabbath"
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.55",
+   "range": "LUK.23.55",
+   "kind": "passage",
+   "hash": "72e861e6",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.55#p1-72e861e6",
+     "text": "Mat 27:61\". It is Beza’s observation upon these verses, that Christ, being opposed by the devil and all his instruments, being now dead, leaveth two or three poor women, as it were, in the front of the battle, intending within a very short time, without much ado, to triumph over all these terrible adversaries.",
+     "verse": 55,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 27:61",
+       "ref": "MAT.27.61"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/LUK.23.56",
+   "range": "LUK.23.56",
+   "kind": "passage",
+   "hash": "9e3ce5bd",
+   "paragraphs": [
+    {
+     "id": "poole/LUK.23.56#p1-9e3ce5bd",
+     "text": "Luk 23:55\"",
+     "verse": 23,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Luk 23:55",
+       "ref": "LUK.23.55"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

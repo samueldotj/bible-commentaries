@@ -1,0 +1,509 @@
+{
+ "source": "poole",
+ "book": "2CH",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "poole/2CH.20",
+   "range": "2CH.20",
+   "kind": "chapter",
+   "hash": "e92d09f0",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20#p1-e92d09f0",
+     "text": "Several armies come against Judah: Jehoshaphat in his fear proclaimeth a fast, 2Ch 20:1-4. His prayer, 2Ch 20:5-13. Jehaziel’s prophecy, 2Ch 20:14-17. The enemies are overthrown, 2Ch 20:20-25. The people return in triumph, blessing God, 2Ch 20:26-30. His reign: his navy miscarrieth, 2Ch 20:31-37.",
+     "refs": [
+      {
+       "text": "2Ch 20:1-4",
+       "ref": "2CH.20.1-4"
+      },
+      {
+       "text": "2Ch 20:5-13",
+       "ref": "2CH.20.5-13"
+      },
+      {
+       "text": "2Ch 20:14-17",
+       "ref": "2CH.20.14-17"
+      },
+      {
+       "text": "2Ch 20:20-25",
+       "ref": "2CH.20.20-25"
+      },
+      {
+       "text": "2Ch 20:26-30",
+       "ref": "2CH.20.26-30"
+      },
+      {
+       "text": "2Ch 20:31-37",
+       "ref": "2CH.20.31-37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.1",
+   "range": "2CH.20.1",
+   "kind": "passage",
+   "hash": "de9a4d9d",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.1#p1-de9a4d9d",
+     "text": "to wit, the people that dwelt in Mount Seir, who were now confederate with them, as appears from 2Ch 20:10,22,23. Or this is the name of a peculiar people, called either Mehumin, of whom you read 2Ch 26:7 (and so there is only a transposition of two letters in the Hebrew word, which is not unusual in that language); or Minoceans, as the LXX. interpreters render this word; or Ammonium, or Mehaammonim, as it is in the Hebrew, (the two first letters being not prefixes, as they are commonly made, but part of the word or proper name of that people,) who, as it may seem, now dwelt in Mount Seir, being either of the old stock of the Edomites, or another nation since come in their stead or mixed with them. Others render the place thus, for (as the Hebrew vau is oft taken) with them (i.e. with the Moabites) were the Ammonites, or children of Ammon; which may be distinctly noted, either to show the largeness of the confederacy, in which not only the Moabites were engaged, who dwelt near Jehoshaphat’s kingdom, but the Ammonites also, who lived at a greater distance from him; or to intimate that the Ammonites being possibly instigated by the Syrians, their next neighbours, were the first beginners and chief promoters of the war, and engaged both the Moabites and the inhabitants of Mount Seir in their quarrel.",
+     "anchor": "Other beside the Ammonites",
+     "refs": [
+      {
+       "text": "2Ch 20:10",
+       "ref": "2CH.20.10"
+      },
+      {
+       "text": "2Ch 26:7",
+       "ref": "2CH.26.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.2",
+   "range": "2CH.20.2",
+   "kind": "passage",
+   "hash": "5ff25814",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.2#p1-91ae1b59",
+     "text": "to wit, the Dead Sea, beyond which Mount Seir lay.",
+     "anchor": "From beyond the sea"
+    },
+    {
+     "id": "poole/2CH.20.2#p2-936a05a5",
+     "text": "or, and from Syria, largely so called, and so it includes the Moabites and Ammonites. And it may be thus expressed, to intimate that they came by the instigation of the Syrians, who thought by this means to revenge themselves on Jehoshaphat for joining with Ahab against them.",
+     "anchor": "On this side Syria"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.3",
+   "range": "2CH.20.3",
+   "kind": "passage",
+   "hash": "d163592a",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.3#p1-f31a2b01",
+     "text": "partly from human frailty, and partly from the remembrance of his own guilt, and the wrath of God denounced against him for it, 2Ch 19:2.",
+     "anchor": "Jehoshaphat feared",
+     "refs": [
+      {
+       "text": "2Ch 19:2",
+       "ref": "2CH.19.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CH.20.3#p2-31d0a6c2",
+     "text": "the phrase notes his settled resolution, seriousness, and earnestness in it, and the preparing and fixing his heart for it.",
+     "anchor": "Set himself to seek the Lord"
+    },
+    {
+     "id": "poole/2CH.20.3#p3-f6f3be6b",
+     "text": "partly in token of his humiliation and penitence for his sins, and partly to make himself and his people more fervent in their prayers.",
+     "anchor": "Proclaimed a fast"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.5",
+   "range": "2CH.20.5",
+   "kind": "passage",
+   "hash": "81472f37",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.5#p1-61497793",
+     "text": "largely so called, i.e. in one of the courts of the temple, even in the court of the people, and upon that brazen scaffold which Solomon had erected for such a purpose, 2Ch 6:13.",
+     "anchor": "In the house of the Lord",
+     "refs": [
+      {
+       "text": "2Ch 6:13",
+       "ref": "2CH.6.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CH.20.5#p2-7dd5bf94",
+     "text": "i.e. besides and before the priests’ court; for there were but two courts belonging to the temple, as is noted 2Ki 21:5 23:12. And Jehoshaphat stood in the one, which must be that of the people; and before the other, which therefore can be no other than that of the priests’, which is called the new court, because it had been lately renewed when the altar was renewed, 2Ch 15:8, as the command of love is called a new command, Joh 13:34 1Jn 2:8, because it was so solemnly renewed, and revived, and reinforced by Christ.",
+     "anchor": "Before the new court",
+     "refs": [
+      {
+       "text": "2Ki 21:5",
+       "ref": "2KI.21.5"
+      },
+      {
+       "text": "2Ch 15:8",
+       "ref": "2CH.15.8"
+      },
+      {
+       "text": "Joh 13:34",
+       "ref": "JHN.13.34"
+      },
+      {
+       "text": "1Jn 2:8",
+       "ref": "1JN.2.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.7",
+   "range": "2CH.20.7",
+   "kind": "passage",
+   "hash": "8ee588b7",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.7#p1-8ee588b7",
+     "text": "i.e. To whom thou hast engaged thyself by covenant to be his friend, and the friend of his seed for ever, and therefore we trust thou wilt not forsake us his posterity."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.9",
+   "range": "2CH.20.9",
+   "kind": "passage",
+   "hash": "eb41d8bf",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.9#p1-eb41d8bf",
+     "text": "or rather, the sword of judgment, or of vengeance, i.e. war, whereby thou judgest and punishest thy people for their sins. Compare Lev 26:25.",
+     "anchor": "The sword, judgment",
+     "refs": [
+      {
+       "text": "Lev 26:25",
+       "ref": "LEV.26.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.12",
+   "range": "2CH.20.12",
+   "kind": "passage",
+   "hash": "14d1ea54",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.12#p1-cc85a94e",
+     "text": "Thus he speaks, partly though he had great armies to be drawn together in due time upon great occasions, 2Ch 17:14, &c.; yet he seems to have been surprised by these men before his forces were in readiness to oppose them; and partly because he well knew, and piously and wisely considered, that no human forces, though numerous and valiant, were able to defend him without God’s assistance, which he feared by his sins he had forfeited, and then he had really been as weak as water.",
+     "refs": [
+      {
+       "text": "2Ch 17:14",
+       "ref": "2CH.17.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CH.20.12#p2-93bbc468",
+     "text": "looking to thee only for relief and succour.",
+     "anchor": "Our eyes are upon thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.13",
+   "range": "2CH.20.13",
+   "kind": "passage",
+   "hash": "94749ff1",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.13#p1-94749ff1",
+     "text": "Whom they used to present before the Lord in times of great distress, partly to stir up themselves to more fervent and faithful prayers, that their eye, being upon their harmless and tender children, might affect their heart with a greater sense of their misery; and partly to move God to compassion, not as if he were capable of passions or changes upon such a sight, but because God hath declared himself that he will be prevailed with by such methods as these."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.14",
+   "range": "2CH.20.14",
+   "kind": "passage",
+   "hash": "b043bd8c",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.14#p1-b043bd8c",
+     "text": "He was suddenly inspired by God with the following message."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.15",
+   "range": "2CH.20.15",
+   "kind": "passage",
+   "hash": "24b4f364",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.15#p1-24b4f364",
+     "text": "God will fight for you, and he alone will do the work; you need not strike a stroke."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.16",
+   "range": "2CH.20.16",
+   "kind": "passage",
+   "hash": "ca1ede9f",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.16#p1-ca1ede9f",
+     "text": "where he and his army now were; which stood upon high ground.",
+     "anchor": "Go ye down from Jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.18",
+   "range": "2CH.20.18",
+   "kind": "passage",
+   "hash": "1d534dd0",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.18#p1-1d534dd0",
+     "text": "in token of his reverence to God and his message, his belief of the promise, and his thankfulness for so great a favour.",
+     "anchor": "Bowed his head with his face to the ground"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.19",
+   "range": "2CH.20.19",
+   "kind": "passage",
+   "hash": "4f7be43e",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.19#p1-cec5fd2c",
+     "text": "by Jehoshaphat’s appointment.",
+     "anchor": "The Levites stood up"
+    },
+    {
+     "id": "poole/2CH.20.19#p2-8a645535",
+     "text": "i.e. with most loud voice, with heart and voice lifted up; whereby they showed their full assurance of the victory, as if it were already accomplished.",
+     "anchor": "With a loud voice on high"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.20",
+   "range": "2CH.20.20",
+   "kind": "passage",
+   "hash": "e6a1ec1e",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.20#p1-3e3e554a",
+     "text": "i.e. God’s promise delivered to us by this prophet, and consequently all other predictions of the prophets that either have been or shall be.",
+     "anchor": "Believe his prophets"
+    },
+    {
+     "id": "poole/2CH.20.20#p2-d342694a",
+     "text": "take heed, lest by your unbelief you frustrate God’s promise.",
+     "anchor": "So shall ye prosper"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.21",
+   "range": "2CH.20.21",
+   "kind": "passage",
+   "hash": "b5d51ea1",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.21#p1-75c02c4a",
+     "text": "With the people, i.e. with the elders or chief of the people; partly to take their advice about the expediency of the thing; and partly that they might excite and prepare themselves, and the people under them, to this great work of praising God."
+    },
+    {
+     "id": "poole/2CH.20.21#p2-cffcecb7",
+     "text": "to the honour and service of God.",
+     "anchor": "He appointed singers unto the Lord"
+    },
+    {
+     "id": "poole/2CH.20.21#p3-ce2a2fcb",
+     "text": "or, the glory, or magnificence, or majesty of holiness, i.e. (by a vulgar Hebraism,) the Holy Majesty; a periphrasis of God. Or, according to the beauty or magnificence of the sanctuary, i.e. in the same comely order and magnificent manner as they used to do it in the temple; where the following song was usually sung, as 2Ch 5:13 7:3,6.",
+     "anchor": "The beauty of holiness",
+     "refs": [
+      {
+       "text": "2Ch 5:13",
+       "ref": "2CH.5.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.22",
+   "range": "2CH.20.22",
+   "kind": "passage",
+   "hash": "b92df0d2",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.22#p1-85182c47",
+     "text": "so acceptable are the fervent prayers of God’s people to God, and so terrible to their enemies.",
+     "anchor": "When they began to sing and to praise"
+    },
+    {
+     "id": "poole/2CH.20.22#p2-cb02a6e1",
+     "text": "or, liers in wait; either,",
+     "anchor": "Ambushments"
+    },
+    {
+     "id": "poole/2CH.20.22#p3-8ae155c7",
+     "text": "1. The holy angels, who appeared in the shape of men, and possibly put on the appearances and visages of Moabites or Ammonites, and in that shape slew the rest, who supposing this slaughter to be done by a part of their own army, fell upon them, and so broke forth into mutual slaughters. Or,"
+    },
+    {
+     "id": "poole/2CH.20.22#p4-3bb9fff0",
+     "text": "2. God raised jealousies and animosities amongst themselves, which by degrees broke forth first into secret ambushments, which one party laid for another, and then into open hostilities and outrages to their utter destruction. So vain are all men’s attempts against God, who needs none to destroy his enemies but themselves, and their own mistakes and passions, which he can when he pleaseth arm against them."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.24",
+   "range": "2CH.20.24",
+   "kind": "passage",
+   "hash": "38df34be",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.24#p1-38df34be",
+     "text": "which stood upon the cliff of Ziz, mentioned above, 2Ch 20:16, or some other hill which looked toward the wilderness, where their enemies lay encamped, whose numbers, and order, and condition they could decry from thence.",
+     "anchor": "Toward the watch-tower",
+     "refs": [
+      {
+       "text": "2Ch 20:16",
+       "ref": "2CH.20.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.25",
+   "range": "2CH.20.25",
+   "kind": "passage",
+   "hash": "9042feb8",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.25#p1-9042feb8",
+     "text": "which they brought with them, partly, to corrupt any of Jehoshaphat’s officers as they saw occasion; partly, to procure necessaries for their vast army from time to time; and partly, because they came as to a triumph rather than to a fight, being secure and confident of the victory because of their great numbers, and especially because they thought to surprise Jehoshaphat ere he could make any considerable preparations against them; God also permitting them to be puffed up to their own destruction.",
+     "anchor": "Riches and precious jewels"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.26",
+   "range": "2CH.20.26",
+   "kind": "passage",
+   "hash": "ab98af95",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.26#p1-ab98af95",
+     "text": "Heb. of blessing; so called from their solemn blessings and praises given to God in it upon this occasion.",
+     "anchor": "The valley of Berachah"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.28",
+   "range": "2CH.20.28",
+   "kind": "passage",
+   "hash": "4216e6cf",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.28#p1-4216e6cf",
+     "text": "To renew their praises in the court of the temple, the proper and usual place for it."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.29",
+   "range": "2CH.20.29",
+   "kind": "passage",
+   "hash": "5ce7d80a",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.29#p1-5ce7d80a",
+     "text": "which were near, or which heard these things.",
+     "anchor": "On all the kingdoms of those countries"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.33",
+   "range": "2CH.20.33",
+   "kind": "passage",
+   "hash": "39869090",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.33#p1-39869090",
+     "text": "not fully nor universally; of which See Poole \"2Ch 17:6\". The fault was not in Jehoshaphat, but in the people, who, though they did worship the true God, yet would not be confined to the temple, but for their own conveniency, or from their affection to their ancient custom, chose to worship him in the high places; which Jehoshaphat was forced to connive at, lest those people, being debarred from that dearly-beloved practice, should fall into a neglect of God and his worship.",
+     "anchor": "The high places where not taken away",
+     "refs": [
+      {
+       "text": "2Ch 17:6",
+       "ref": "2CH.17.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.35",
+   "range": "2CH.20.35",
+   "kind": "passage",
+   "hash": "dd3f959d",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.35#p1-3029c66a",
+     "text": "This is mentioned as an aggravation of his sin, after so great a favour and obligation laid upon him by God, and after he had been so sharply reproved and threatened by a prophet for the same thing, 2Ch 19:2; yet he relapsed into the same sin; which proceeded partly from that near relation which was contracted between the two families, and partly from the sweetness and easiness of Jehoshaphat’s temper, which could not resist the solicitations of others in such things as might seem indifferent. For he did not join with him in a war, as he did with Ahab, but in a peaceable way only, in a matter of trade and commerce. And yet God sharply reproves and punisheth him for it, 2Ch 20:37, to show his great dislike and detestation of all friendly and familiar conversation of his servants and people with idolaters and professed enemies of God and of religion, as Ahaziah was, who is therefore thus stigmatized in the next words,",
+     "refs": [
+      {
+       "text": "2Ch 19:2",
+       "ref": "2CH.19.2"
+      },
+      {
+       "text": "2Ch 20:37",
+       "ref": "2CH.20.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CH.20.35#p2-b4cd2e93",
+     "text": "Who did very wickedly, or, who did industriously, and maliciously, and constantly work wickedness, as the Hebrew phrase implies, giving himself up to idolatry and all wickedness.",
+     "anchor": "who did very wickedly"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CH.20.36",
+   "range": "2CH.20.36",
+   "kind": "passage",
+   "hash": "82284f13",
+   "paragraphs": [
+    {
+     "id": "poole/2CH.20.36#p1-91f6fd88",
+     "text": "of which See Poole \"1Ki 10:22 22:48\".",
+     "anchor": "To make ships to go to Tarshish",
+     "refs": [
+      {
+       "text": "1Ki 10:22",
+       "ref": "1KI.10.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CH.20.36#p2-f861c1b6",
+     "text": "of which see on 1Ki 9:26.",
+     "anchor": "They made the ships in Ezion-gaber",
+     "refs": [
+      {
+       "text": "1Ki 9:26",
+       "ref": "1KI.9.26"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

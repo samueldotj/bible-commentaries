@@ -1,0 +1,323 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 101,
+ "units": [
+  {
+   "id": "poole/PSA.101",
+   "range": "PSA.101",
+   "kind": "chapter",
+   "hash": "38124ec2",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.101#p2-26b22e13",
+     "text": "This Psalm was composed by David between times of God’s promising the kingdom to him and his actual and plenary possession of it, as appears both from Psa 101:2, and from the contexture of the Psalm, wherein he speaks not of his present practice, but of his purpose for the future, and solemnly declares his resolution, and obligeth himself to these things when he shall be in a capacity to put them in execution.",
+     "refs": [
+      {
+       "text": "Psa 101:2",
+       "ref": "PSA.101.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.101#p3-60369448",
+     "text": "David maketh a vow to praise the Lord, Psa 101:1; to walk perfectly for an example, Psa 101:2 to destroy all the wicked, Psa 101:3-5; and to delight in the faithful of the land, Psa 101:6-8.",
+     "refs": [
+      {
+       "text": "Psa 101:1",
+       "ref": "PSA.101.1"
+      },
+      {
+       "text": "Psa 101:2",
+       "ref": "PSA.101.2"
+      },
+      {
+       "text": "Psa 101:3-5",
+       "ref": "PSA.101.3-5"
+      },
+      {
+       "text": "Psa 101:6-8",
+       "ref": "PSA.101.6-8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.1",
+   "range": "PSA.101.1",
+   "kind": "passage",
+   "hash": "3d51858e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.1#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Of mercy and judgment"
+    },
+    {
+     "id": "poole/PSA.101.1#p2-80d268d1",
+     "text": "1. Of God towards me: of God’s mercy towards me, and of his just judgments upon mine enemies. Or,"
+    },
+    {
+     "id": "poole/PSA.101.1#p3-9e633387",
+     "text": "2. Of mine towards my people; I will in my song declare my obligation and full purpose to execute mercy and judgment in my dominion; which are the two pillars of government; of which he speaks in the, following verses. Interpreters are much divided which to choose. Possibly both may be joined together, and the sense may be this, I will praise thee, O Lord, as for all other excellencies, so particularly for those two royal perfections of mercy and justice, or judgment, which thou hast so eminently discovered in the government of the world and of thy people Israel; and I will make it my care and business to imitate and follow thee, as in other things, so especially in those virtues which are so necessary for discharge of my trust and the good government of thy and my people."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.2",
+   "range": "PSA.101.2",
+   "kind": "passage",
+   "hash": "55598148",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.2#p1-163be921",
+     "text": "I will manage all my affairs with wisdom and integrity; which are two chief qualifications requisite for all men, Mat 10:16 and most necessary in princes.",
+     "anchor": "I will behave myself wisely in a perfect way",
+     "refs": [
+      {
+       "text": "Mat 10:16",
+       "ref": "MAT.10.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.101.2#p2-41c3f543",
+     "text": "O when wilt thou give me the kingdom which hast promised me, that so I may be capable of executing these good purposes, both for my own comfort, and for the benefit of thy people?",
+     "anchor": "O when wilt thou come unto me?"
+    },
+    {
+     "id": "poole/PSA.101.2#p3-ede1adcf",
+     "text": "Or without an interrogative, as this particle is used, Exo 20:24, when thou shalt come to me, to wit, in the performance of that promise to me. He speaks not exclusively, as if he would not walk wisely and righteously in the mean time, but emphatically, that he would continue to do so when he was advanced to the kingdom, and that he would not suffer himself to be corrupted by his royal power and dignity, as the princes of the world commonly were. Withal, he may intimate now he could not do as he desired, and that by the necessity of his affairs he was forced to make use of such men as he did not like, and to wink at those miscarriages which it was not now in his power to reform. God is oft said in Scripture to come to men when he fulfils a promise to them or confers a favour or blessing upon them, as Gen 10:3:10 Exo 20:24 Psa 80:2 Isa 35:4, &c.",
+     "refs": [
+      {
+       "text": "Exo 20:24",
+       "ref": "EXO.20.24"
+      },
+      {
+       "text": "Gen 10:3",
+       "ref": "GEN.10.3"
+      },
+      {
+       "text": "Exo 20:24",
+       "ref": "EXO.20.24"
+      },
+      {
+       "text": "Psa 80:2",
+       "ref": "PSA.80.2"
+      },
+      {
+       "text": "Isa 35:4",
+       "ref": "ISA.35.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.101.2#p4-cc6c82aa",
+     "text": "in my own court and family, as well as in my public administrations; knowing how great an influence the example of my private conversation will have upon my people, either to reform or corrupt them.",
+     "anchor": "Within my house"
+    },
+    {
+     "id": "poole/PSA.101.2#p5-56ae1ef9",
+     "text": "this clause adds weight to the former; I will not only walk in a perfect or right way, (which a man may do for politic reasons, or with evil design,) but I will do so with an upright and honest heart, which is most acceptable to God.",
+     "anchor": "With a perfect heart"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.3",
+   "range": "PSA.101.3",
+   "kind": "passage",
+   "hash": "485870f2",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.3#p1-f3374797",
+     "text": "to wit, to look upon it with deliberation and design, or with desire and delight, as this phrase here and elsewhere implies. If any ungodly or unjust thing shall be suggested to me, whatsoever specious pretences it may be covered with, as reason of state or worldly advantage, I will cast it out of my mind and thoughts, it, horrency; so far will I be from putting it in execution.",
+     "anchor": "Before mine eyes"
+    },
+    {
+     "id": "poole/PSA.101.3#p2-991a66b9",
+     "text": "from God, and from his laws.",
+     "anchor": "That turn aside"
+    },
+    {
+     "id": "poole/PSA.101.3#p3-0ac776a5",
+     "text": "to wit, such work, or the contagion of such examples. I will neither imitate nor endure such works, nor such workers.",
+     "anchor": "It shall cleave to me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.4",
+   "range": "PSA.101.4",
+   "kind": "passage",
+   "hash": "21406c03",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.4#p1-46953ecb",
+     "text": "a man of a corrupt mind and wicked life, such as other princes choose and prefer, as being suitable to themselves, and to their wicked designs.",
+     "anchor": "A froward heart"
+    },
+    {
+     "id": "poole/PSA.101.4#p2-38cfd770",
+     "text": "shall be turned out of my court, lest they should tempt me, or infect the rest of my family, or be injurious or scandalous to my people. I will not know, i.e. not own nor countenance.",
+     "anchor": "Shall depart from me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.5",
+   "range": "PSA.101.5",
+   "kind": "passage",
+   "hash": "6e4b5ec9",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.5#p1-bb410544",
+     "text": "such as by secret and false informations and accusations of others seek to gain my favour, and to advance themselves by the ruin of others; which are the common pests of courts and kingdoms.",
+     "anchor": "Whoso privily slandereth his neighbour"
+    },
+    {
+     "id": "poole/PSA.101.5#p2-b8872b2c",
+     "text": "these he mentions, because pride is the common plague of courts, and the fountain of many enormities in courtiers; it makes them imperious and insolent towards the poor oppressed subjects that resort to them for relief; it inclines them to those counsels and courses, not which are best for the public good, but which are most for their own honour and advantage; it makes them oppressive and injurious to others, that they may have wherewith to satisfy their own lusts.",
+     "anchor": "An high look and a proud heart"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.6",
+   "range": "PSA.101.6",
+   "kind": "passage",
+   "hash": "72a90324",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.6#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Mine eyes shall be upon the faithful"
+    },
+    {
+     "id": "poole/PSA.101.6#p2-d109a5cb",
+     "text": "1. To find them out. Or,"
+    },
+    {
+     "id": "poole/PSA.101.6#p3-0e42a095",
+     "text": "2. To favour or encourage them, as this phrase is oft used, as Psa 34:15 Jer 39:12 40:4. The faithful; men of truth, justice, and integrity, who will be faithful, first to God, and then to me and to my people.",
+     "refs": [
+      {
+       "text": "Psa 34:15",
+       "ref": "PSA.34.15"
+      },
+      {
+       "text": "Jer 39:12",
+       "ref": "JER.39.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.101.6#p4-46f66e8c",
+     "text": "or, to sit, or abide, or converse with me, in my house, and counsels, and public administrations.",
+     "anchor": "Dwell with me"
+    },
+    {
+     "id": "poole/PSA.101.6#p5-08973377",
+     "text": "in the way of God’s precepts, which are pure and perfect.",
+     "anchor": "In a perfect way"
+    },
+    {
+     "id": "poole/PSA.101.6#p6-15500afe",
+     "text": "in domestic and public employments.",
+     "anchor": "He shall serve me"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.7",
+   "range": "PSA.101.7",
+   "kind": "passage",
+   "hash": "d93c1b68",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.7#p1-91b58295",
+     "text": "he who shall use any frauds, or cheats, or subtle artifices to abuse or wrong any of my people; which David’s courtiers were more likely to endeavour, because he would not permit any open violence.",
+     "anchor": "He that worketh deceit"
+    },
+    {
+     "id": "poole/PSA.101.7#p2-018bf18f",
+     "text": "he that shall abuse me with lies, as courtiers usually do their princes, either to defend and excuse the guilty, or to betray the innocent.",
+     "anchor": "He that telleth lies"
+    },
+    {
+     "id": "poole/PSA.101.7#p3-558ccbc7",
+     "text": "I will certainly and immediately banish him from my presence.",
+     "anchor": "Shall not tarry in my sight"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.101.8",
+   "range": "PSA.101.8",
+   "kind": "passage",
+   "hash": "d7fa5cc8",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.101.8#p1-a6ad8a35",
+     "text": "speedily, and without delay, as soon as I arise in the morning, or as soon as I am seated in the throne, that so I may both prevent all that mischief which otherwise they might do, and hinder the infection of others by their evil example, and discourage and deter all my subjects from the like practices. Heb. in the mornings, i.e. every morning, as the same phrase is used also, Job 7:18 Psa 73:14 Isa 33:2. The morning was the time allotted for the exercise of judgment. See Jer 21:12.",
+     "anchor": "Early",
+     "refs": [
+      {
+       "text": "Job 7:18",
+       "ref": "JOB.7.18"
+      },
+      {
+       "text": "Psa 73:14",
+       "ref": "PSA.73.14"
+      },
+      {
+       "text": "Isa 33:2",
+       "ref": "ISA.33.2"
+      },
+      {
+       "text": "Jer 21:12",
+       "ref": "JER.21.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.101.8#p2-a12a5354",
+     "text": "either,",
+     "anchor": "From the city of the Lord"
+    },
+    {
+     "id": "poole/PSA.101.8#p3-d83ff665",
+     "text": "1. From Jerusalem, which, though now in the hands of the Jebusites, he looks upon by an eye of faith as if he had it in possession; which he designed for the chief and royal city of his kingdom, and for the seat of the ark and worship of God. And therefore this place above all others was to be purged and preserved from wickedness and wicked men. Or,"
+    },
+    {
+     "id": "poole/PSA.101.8#p4-d9724a9d",
+     "text": "2. From the whole nation or commonwealth of Israel; for David did intend and was obliged to reform, not only that one city, but his whole kingdom, which also may come under the name of a city, as being combined and united under one government; for which reason the name of city is given both to the whole church of Christ, Isa 26:1 Heb 12:22 Rev 20:9 and to the great anti-church, the kingdom of mystical Babylon, Rev 11:8,17:18.",
+     "refs": [
+      {
+       "text": "Isa 26:1",
+       "ref": "ISA.26.1"
+      },
+      {
+       "text": "Heb 12:22",
+       "ref": "HEB.12.22"
+      },
+      {
+       "text": "Rev 20:9",
+       "ref": "REV.20.9"
+      },
+      {
+       "text": "Rev 11:8",
+       "ref": "REV.11.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

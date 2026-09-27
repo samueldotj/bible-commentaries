@@ -1,0 +1,157 @@
+{
+ "source": "trapp",
+ "book": "PSA",
+ "chapter": 43,
+ "units": [
+  {
+   "id": "trapp/PSA.43.1",
+   "range": "PSA.43.1",
+   "kind": "passage",
+   "hash": "1465e926",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.43.1#p1-a380094e",
+     "text": "This psalm is, as it were, an epitome or an appendix to the former, and little differing in words or matter.",
+     "anchor": "Judge me, O God"
+    },
+    {
+     "id": "trapp/PSA.43.1#p2-a1edcc79",
+     "text": "See Psa 35:1.",
+     "anchor": "Plead my cause",
+     "refs": [
+      {
+       "text": "Psa 35:1",
+       "ref": "PSA.35.1"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.43.1#p3-d1277260",
+     "text": "Heb. a nation not mild or merciful; so he calleth Absalom’s complices, who sought and would have sucked his blood. Such are a people of God’s wrath and of his curse.",
+     "anchor": "Against an ungodly nation"
+    },
+    {
+     "id": "trapp/PSA.43.1#p4-a949941f",
+     "text": "From Absalom, or Ahithophel, or the whole faction.",
+     "anchor": "O deliver me, &c."
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.43.2",
+   "range": "PSA.43.2",
+   "kind": "passage",
+   "hash": "4f04cc05",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.43.2#p1-b8381900",
+     "text": "As being in covenant with me, both offensive and defensive. In the Lord Jehovah is a Rock of ages, or everlasting strength, Isa 26:4, for God of my strength, Psa 42:9, is my rock.",
+     "anchor": "For thou art the God of my strength",
+     "refs": [
+      {
+       "text": "Isa 26:4",
+       "ref": "ISA.26.4"
+      },
+      {
+       "text": "Psa 42:9",
+       "ref": "PSA.42.9"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.43.2#p2-a02ca4a7",
+     "text": "See Psa 42:9.",
+     "anchor": "Why go I mourning",
+     "refs": [
+      {
+       "text": "Psa 42:9",
+       "ref": "PSA.42.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.43.3",
+   "range": "PSA.43.3",
+   "kind": "passage",
+   "hash": "d4cd3645",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.43.3#p1-84570934",
+     "text": "i.e. Thy comforting grace, opposed to that, Psa 43:2, I go mourning, or in black.",
+     "anchor": "O send out thy light",
+     "refs": [
+      {
+       "text": "Psa 43:2",
+       "ref": "PSA.43.2"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.43.3#p2-52aaeb3f",
+     "text": "i.e. Thy faithfulness, opposed to the deceitful man, Psa 43:1. The Rabbis interpret light and truth by Christ and Elijah; the Arabic maketh it a prayer for the Jews’ conversion, Lux et veritas piorum comites.",
+     "anchor": "And thy truth",
+     "refs": [
+      {
+       "text": "Psa 43:1",
+       "ref": "PSA.43.1"
+      }
+     ]
+    },
+    {
+     "id": "trapp/PSA.43.3#p3-b805b3bc",
+     "text": "Zion, the place of holy assemblies for God’s service, Iterum commendatur hic dignitas ministerii publici: Vae igitur illis qui caducorum bolorum usum reditaunt sacri ministerii iactura, qui conciones sacras et sacramenta ultro negligunt, &c.",
+     "anchor": "Yet them bring me unto thy holy hill"
+    },
+    {
+     "id": "trapp/PSA.43.3#p4-2c58c0e1",
+     "text": "So called, either because it was set up at sundry times in sundry places, while it was transportative; or else because it was parted by veils into several rooms, Heb 9:2-3.",
+     "anchor": "And to thy tabernacles",
+     "refs": [
+      {
+       "text": "Heb 9:2-3",
+       "ref": "HEB.9.2-3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.43.4",
+   "range": "PSA.43.4",
+   "kind": "passage",
+   "hash": "1d98e016",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.43.4#p1-1d98e016",
+     "text": "Not without store of sacrifices. God’s service is now nothing so costly; and should, therefore, be more cheerfully performed. Heathens had their altars, &c., all save the Persians.",
+     "anchor": "Then will I go unto the altar of God"
+    }
+   ]
+  },
+  {
+   "id": "trapp/PSA.43.5",
+   "range": "PSA.43.5",
+   "kind": "passage",
+   "hash": "d4dd987b",
+   "paragraphs": [
+    {
+     "id": "trapp/PSA.43.5#p1-d4dd987b",
+     "text": "See Psa 42:5; Psa 42:11.",
+     "anchor": "Why art thou bowed down, &c.",
+     "refs": [
+      {
+       "text": "Psa 42:5",
+       "ref": "PSA.42.5"
+      },
+      {
+       "text": "Psa 42:11",
+       "ref": "PSA.42.11"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

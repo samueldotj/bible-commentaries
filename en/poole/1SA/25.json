@@ -1,0 +1,842 @@
+{
+ "source": "poole",
+ "book": "1SA",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "poole/1SA.25",
+   "range": "1SA.25",
+   "kind": "chapter",
+   "hash": "704cacf7",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25#p1-704cacf7",
+     "text": "Samuel dieth: David goeth to the wilderness of Paran, 1Sa 25:1. Nabal’s riches, 1Sa 25:2. His and his wife Abigail’s nature and condition, 1Sa 25:3. David requesteth of Nabal some relief for his camp: he entreateth David’s messengers scornfully. David is provoked, and mindeth to destroy him, 1Sa 25:4-13. Abigail understands it, 1Sa 25:14-17; taketh a present, 1Sa 25:18-22; and by her wisdom, 1Sa 25:23-31, pacifieth David, 1Sa 25:32-35. Nabal hearing of this, dieth, 1Sa 25:36-38. David taketh Abigail and Ahinoam to be his wives, 1Sa 25:39-43; Saul having given Michal to Phalti, 1Sa 25:44.",
+     "refs": [
+      {
+       "text": "1Sa 25:1",
+       "ref": "1SA.25.1"
+      },
+      {
+       "text": "1Sa 25:2",
+       "ref": "1SA.25.2"
+      },
+      {
+       "text": "1Sa 25:3",
+       "ref": "1SA.25.3"
+      },
+      {
+       "text": "1Sa 25:4-13",
+       "ref": "1SA.25.4-13"
+      },
+      {
+       "text": "1Sa 25:14-17",
+       "ref": "1SA.25.14-17"
+      },
+      {
+       "text": "1Sa 25:18-22",
+       "ref": "1SA.25.18-22"
+      },
+      {
+       "text": "1Sa 25:23-31",
+       "ref": "1SA.25.23-31"
+      },
+      {
+       "text": "1Sa 25:32-35",
+       "ref": "1SA.25.32-35"
+      },
+      {
+       "text": "1Sa 25:36-38",
+       "ref": "1SA.25.36-38"
+      },
+      {
+       "text": "1Sa 25:39-43",
+       "ref": "1SA.25.39-43"
+      },
+      {
+       "text": "1Sa 25:44",
+       "ref": "1SA.25.44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.1",
+   "range": "1SA.25.1",
+   "kind": "passage",
+   "hash": "f80eef19",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.1#p1-f80eef19",
+     "text": "Buried him in his house, according to the manner of those times. See Gen 23:9 50:5 Mat 27:60. The wilderness of Paran, in the southern borders of the land of Judah, that so when occasion served, he might retire out of Saul’s dominions.",
+     "refs": [
+      {
+       "text": "Gen 23:9",
+       "ref": "GEN.23.9"
+      },
+      {
+       "text": "Mat 27:60",
+       "ref": "MAT.27.60"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.2",
+   "range": "1SA.25.2",
+   "kind": "passage",
+   "hash": "b4be0538",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.2#p1-322e5248",
+     "text": "a place in or near to the wilderness of Paran. See 1Sa 23:24.",
+     "anchor": "Maon",
+     "refs": [
+      {
+       "text": "1Sa 23:24",
+       "ref": "1SA.23.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.2#p2-018b661e",
+     "text": "not that Carmel in Issachar, of which see 1Sa 15:12 1Ki 18:19; but another in the tribe of Judah, near unto Maon, as appears from Jos 15:55.",
+     "anchor": "Carmel",
+     "refs": [
+      {
+       "text": "1Sa 15:12",
+       "ref": "1SA.15.12"
+      },
+      {
+       "text": "1Ki 18:19",
+       "ref": "1KI.18.19"
+      },
+      {
+       "text": "Jos 15:55",
+       "ref": "JOS.15.55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.3",
+   "range": "1SA.25.3",
+   "kind": "passage",
+   "hash": "b8871a00",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.3#p1-b8871a00",
+     "text": "This is added to aggravate his crime, that he was a degenerate branch of that noble stock of Caleb, and consequently of the tribe of Judah, as David was."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.4",
+   "range": "1SA.25.4",
+   "kind": "passage",
+   "hash": "06a7f5a8",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.4#p1-06a7f5a8",
+     "text": "Which times were celebrated with feasting and jollity. See 2Sa 13:23,24.",
+     "refs": [
+      {
+       "text": "2Sa 13:23",
+       "ref": "2SA.13.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.6",
+   "range": "1SA.25.6",
+   "kind": "passage",
+   "hash": "c1f8279f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.6#p1-45e2de9a",
+     "text": "Heb. to him that liveth. Life is oft put for a prosperous and happy life, as in that prayer, Let the king live, 1Sa 10:24 1Ki 1:25, and in other passages of Scripture, and other authors; for an afflicted and calamitous life is unworthy of the name of life, and is esteemed a kind of death, and oft so called, as 2Co 1:10 11:23. By this expression David both congratulates Nabal’s felicity, and tacitly minds him of the penury and distress in which David and his men now were.",
+     "anchor": "To him that liveth in prosperity",
+     "refs": [
+      {
+       "text": "1Sa 10:24",
+       "ref": "1SA.10.24"
+      },
+      {
+       "text": "1Ki 1:25",
+       "ref": "1KI.1.25"
+      },
+      {
+       "text": "2Co 1:10",
+       "ref": "2CO.1.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.6#p2-6b72f5ac",
+     "text": "i.e. to all thy family.",
+     "anchor": "To thine house"
+    },
+    {
+     "id": "poole/1SA.25.6#p3-281b0d0c",
+     "text": "to all thy goods. So David’s prayer is very comprehensive, reaching to his soul, and body, and wife, and children, and servants, and all his estate.",
+     "anchor": "Unto all that thou hast"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.7",
+   "range": "1SA.25.7",
+   "kind": "passage",
+   "hash": "181ecf3a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.7#p1-181ecf3a",
+     "text": "Which, considering the licentiousness of soldiers, and the necessities which David and his men were oft exposed to, was no small favour and privilege, which Nabal was bound both ill justice, and gratitude, and prudence to requite."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.8",
+   "range": "1SA.25.8",
+   "kind": "passage",
+   "hash": "1dcd7751",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.8#p1-59dfa61e",
+     "text": "i.e. in a day of feasting and rejoicing; when men are most cheerful and liberal; when thou mayst relieve us out of thy abundance without damage to thyself; when thou art receiving the mercies of God, and therefore obliged to pity and relieve distressed and indigent persons, Deu 12:12 14:26,29 15:7.",
+     "anchor": "In a good day",
+     "refs": [
+      {
+       "text": "Deu 12:12",
+       "ref": "DEU.12.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.8#p2-889b96d8",
+     "text": "to us who have been and still are ready to serve and guard thee and thine. Or the word servants may be only used as a word of respect, frequently used in Scripture, where inferiors speak to superiors, especially when they be suppliants, and beg some favour.",
+     "anchor": "Unto thy servants"
+    },
+    {
+     "id": "poole/1SA.25.8#p3-b24983f0",
+     "text": "so he calls himself, to show that respect and affection which he bore to Nabal, as being elder and wealthier than himself, and of the same tribe with himself, and a branch of so worthy a family as Nabal’s was.",
+     "anchor": "To thy son"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.10",
+   "range": "1SA.25.10",
+   "kind": "passage",
+   "hash": "c93b8105",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.10#p1-b9211c10",
+     "text": "what relation or obligation have I to David?",
+     "anchor": "Who is David?"
+    },
+    {
+     "id": "poole/1SA.25.10#p2-1bf99a24",
+     "text": "hereby he taxeth both David, as one revolted from and risen up against Saul his lord and master; and his soldiers as runagates from their masters and creditors, &c. See 1Sa 22:2.",
+     "anchor": "There be many servants now a days that break away",
+     "refs": [
+      {
+       "text": "1Sa 22:2",
+       "ref": "1SA.22.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.11",
+   "range": "1SA.25.11",
+   "kind": "passage",
+   "hash": "5756446b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.11#p1-5756446b",
+     "text": "he speaketh thus, either because in those hot and dry parts water was scarce and precious; or water is here put for any kind of drink, as bread is oft taken for all sorts of meat.",
+     "anchor": "My water"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.13",
+   "range": "1SA.25.13",
+   "kind": "passage",
+   "hash": "57d278ab",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.13#p1-57d278ab",
+     "text": "having resolved and sworn to revenge himself of Nabal, as is expressed, 1Sa 25:21,22. By the stuff. See 1Sa 17:22 30:24.",
+     "anchor": "Gird ye on every man his sword",
+     "refs": [
+      {
+       "text": "1Sa 25:21",
+       "ref": "1SA.25.21"
+      },
+      {
+       "text": "1Sa 17:22",
+       "ref": "1SA.17.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.14",
+   "range": "1SA.25.14",
+   "kind": "passage",
+   "hash": "56d2a04a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.14#p1-56d2a04a",
+     "text": "One of the young men told Abigail; wisely considering the mischievous effects likely to follow so churlish a message."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.16",
+   "range": "1SA.25.16",
+   "kind": "passage",
+   "hash": "92e43d71",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.16#p1-92e43d71",
+     "text": "i.e. a defence against wild beasts, and robbers, and enemies.",
+     "anchor": "A wall"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.17",
+   "range": "1SA.25.17",
+   "kind": "passage",
+   "hash": "c6bba747",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.17#p1-e6dc7edc",
+     "text": "which it was easy to guess; either from some threatening expressions which David’s men used; or from the consideration of David’s great power, and that rage which so high a provocation was likely to produce in military persons.",
+     "anchor": "Evil is determined against our master"
+    },
+    {
+     "id": "poole/1SA.25.17#p2-aac3a78c",
+     "text": "to wit, without hazard to himself, and therefore I acquaint thee rather than him with this matter.",
+     "anchor": "A man cannot speak to him"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.18",
+   "range": "1SA.25.18",
+   "kind": "passage",
+   "hash": "88b9fd87",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.18#p1-88b9fd87",
+     "text": "which she did without his leave, and against his mind, because it was a case of apparent necessity, for the preservation of herself, and husband, and all the family from imminent ruin. And surely that real and urgent necessity which dispenseth with God’s positive commands, might well dispense with the husband’s right in this case.",
+     "anchor": "Abigail took two hundred loaves"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.19",
+   "range": "1SA.25.19",
+   "kind": "passage",
+   "hash": "4cb78c22",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.19#p1-4cb78c22",
+     "text": "for she knew she could quickly over take them.",
+     "anchor": "I come after you"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.20",
+   "range": "1SA.25.20",
+   "kind": "passage",
+   "hash": "8dd352d5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.20#p1-8dd352d5",
+     "text": "in the lower part and under the shadow of the hill, or of the trees that grew upon it; so that David did not see her till she met him. David and his men came down, to wit, from another opposite hill.",
+     "anchor": "By the covert of the hill"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.21",
+   "range": "1SA.25.21",
+   "kind": "passage",
+   "hash": "b2e97d35",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.21#p1-e4d69395",
+     "text": "David had said; either in his journey, or as soon as he heard that reproachful answer."
+    },
+    {
+     "id": "poole/1SA.25.21#p2-12f736b6",
+     "text": "whom he thought unworthy to be named, for his barbarous ingratitude and churlishness.",
+     "anchor": "This fellow"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.22",
+   "range": "1SA.25.22",
+   "kind": "passage",
+   "hash": "382c8048",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.22#p1-61cb09d4",
+     "text": "i. e. Unto David himself. But because it might seem ominous and unnatural to curse himself, therefore by a figure called euphemismus, instead of David, he mentions David’s enemies. See 1Sa 20:16. The words may be thus rendered:",
+     "anchor": "Unto the enemies of David",
+     "refs": [
+      {
+       "text": "1Sa 20:16",
+       "ref": "1SA.20.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.22#p2-4aa10610",
+     "text": "(the Hebrew lamed being very oft so used) the enemies of David, i.e. let God work for them, and give them as much prosperity and success as Nabal hath hitherto had. Or, let God utterly destroy their enemies; and especially myself, the chief of them, if I do not destroy this man.",
+     "anchor": "So and more also let God do for"
+    },
+    {
+     "id": "poole/1SA.25.22#p3-f771ddf4",
+     "text": "i.e. any of the males, for they only do so; and of them this phrase is manifestly understood, 1Ki 14:10 21:21 2Ki 9:8; and men not wholly barbarous have generally spared women in such cases.",
+     "anchor": "Any that pisseth against the wall",
+     "refs": [
+      {
+       "text": "1Ki 14:10",
+       "ref": "1KI.14.10"
+      },
+      {
+       "text": "2Ki 9:8",
+       "ref": "2KI.9.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.22#p4-da6acd1d",
+     "text": "Why then was Abigail so much concerned and afraid?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/1SA.25.22#p5-db945252",
+     "text": "Partly from humanity, and the horror of so general and dreadful a slaughter of her family and nearest relations; and partly because when the sword was once drawn, she knew not where it would rest, nor whether she should escape; for she knew nothing of this limitation of David’s threatening till she came to him.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.23",
+   "range": "1SA.25.23",
+   "kind": "passage",
+   "hash": "7864b9c6",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.23#p1-7864b9c6",
+     "text": "Not only in token of deep reverence, but as a most humble supplicant, as 2Ki 4:27.",
+     "refs": [
+      {
+       "text": "2Ki 4:27",
+       "ref": "2KI.4.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.24",
+   "range": "1SA.25.24",
+   "kind": "passage",
+   "hash": "248470fa",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.24#p1-248470fa",
+     "text": "impute Nabal’s sin to me, and, if thou pleasest, punish it in me, who here offer myself as a sacrifice to thy just indignation. This whole speech of Abigail is done with great artifice; and she doth here, by an absolute submitting to mercy, without any pretence of justification of what was done, (but rather with aggravation of it,) endeavour to work upon David’s generosity and good nature to pardon it; and, with great art, first would divert the punishment from her husband to herself, because she had then much more to say why David should spare her than why he should spare Nabal. And there was hardly any head of argument, whence the greatest orator might argue in this case, which she doth not manage to the best advantage, and most plausible insinuations for such an exigent.",
+     "anchor": "Upon me let this iniquity be"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.25",
+   "range": "1SA.25.25",
+   "kind": "passage",
+   "hash": "cbf4c85f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.25#p1-f68544f9",
+     "text": "Let not my lord regard this man; his person and words deserve thy contempt, but not thy regard."
+    },
+    {
+     "id": "poole/1SA.25.25#p2-61501901",
+     "text": "for such he hath showed himself to be by this wicked and abominable carriage towards thee.",
+     "anchor": "Man of Belial"
+    },
+    {
+     "id": "poole/1SA.25.25#p3-1bb6dc53",
+     "text": "his noted folly and stupidity is a more proper object for thy pity than anger. His sordid answer to thy servants did not proceed from any ill design, or deep malice, but from brutish sottishhess, and want of the understanding of a man in him. It may be thought a great crime, that she traduceth her husband in this manner; but this may be said for her, that she told them nothing but what they all knew concerning him, and that she only seemed to take away that which he never had indeed, to wit, his good name, that she might preserve that which he had, and which was more dear and important to him, even his life and soul.",
+     "anchor": "Folly is with him"
+    },
+    {
+     "id": "poole/1SA.25.25#p4-aaa32a1e",
+     "text": "though I freely submit myself to the punishment in my husband’s stead, yet I was innocent of the crime.",
+     "anchor": "Thine handmaid saw not the young men of my lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.26",
+   "range": "1SA.25.26",
+   "kind": "passage",
+   "hash": "2a85f471",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.26#p1-eb30f15d",
+     "text": "seeing God hath so ordered this business by his wise and wonderful providence, that I should accidentally and unexpectedly come to the knowledge of my husband’s vile and sordid carriage; and that I should come to meet thee, and find thee so gracious, as to give a favourable audience; and all this, that hereby he might withhold thee from the sin of blood-guiltiness.",
+     "anchor": "Seeing the Lord hath withholden thee from coming to shed blood"
+    },
+    {
+     "id": "poole/1SA.25.26#p2-5cccd68f",
+     "text": "let them be as contemptible and hateful as Nabal is and will be for this odious action; let them be as unable to do thee any hurt as he is; let them be forced to yield to thee, and implore thy pardon and favour, as Nabal now doth by my mouth; let the vengeance thou didst design upon Nabal and his family fall upon their heads, who by their constant and inveterate malice against thee, do more deserve it than this silly fool for this one miscarriage; and much more than all the rest of our family, who, as they are none of thine enemies, nor such as seek time evil, so they were no way guilty of this wicked action. And therefore spare these, and execute thy vengeance upon more proper objects.",
+     "anchor": "Be as Nabal"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.27",
+   "range": "1SA.25.27",
+   "kind": "passage",
+   "hash": "47a7de9f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.27#p1-2c0a4f51",
+     "text": "so a gift or present is called here, and Gen 33:11, and elsewhere; not only because the matter of it comes from God’s blessing, but also because it is given with a blessing, or with a good will.",
+     "anchor": "This blessing",
+     "refs": [
+      {
+       "text": "Gen 33:11",
+       "ref": "GEN.33.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.27#p2-095f05d4",
+     "text": "as being unworthy of thine acceptance or use.",
+     "anchor": "Let it even be given unto the young men"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.28",
+   "range": "1SA.25.28",
+   "kind": "passage",
+   "hash": "c314a8d1",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.28#p1-3a9ea213",
+     "text": "i.e. which I have taken upon myself, 1Sa 25:21, and which, if it be not pardoned, but punished, the punishment will reach to me.",
+     "anchor": "The trespass of thine handmaid",
+     "refs": [
+      {
+       "text": "1Sa 25:21",
+       "ref": "1SA.25.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.28#p2-f3650799",
+     "text": "i.e. will give the kingdom to thee, and to thy house for ever, as he hath promised thee. And therefore let God’s great kindness to thee make thee gentle and merciful to others; do not sully thy approaching glory with the stain of innocent blood; but consider that it is the glory of a king (which thou art by God’s appointment, and shall ere long actually be) to pass by offences, and that it will be thy loss to cut off such as will shortly be thy subjects.",
+     "anchor": "Will certainly make my lord a sure house"
+    },
+    {
+     "id": "poole/1SA.25.28#p3-95cdbd08",
+     "text": "i.e. for the Lord, and for the people of the Lord, against their enemies, especially the Philistines. And as that this is thy proper work, and therein thou mayst expect God’s blessing and help; so it is not thy work to draw thy sword in thy own private quarrel against any of the people of the Lord, and God will not bless thee in it.",
+     "anchor": "The battles of the Lord"
+    },
+    {
+     "id": "poole/1SA.25.28#p4-6c1036d8",
+     "text": "though thou hast been oft aspersed, and charged with many critics, by Saul and others; yet thy innocency hath been and is evident to all men: do not therefore now by this cruel act of vengeance justify thine enemies’ reproaches, nor blemish thy great and just reputation.",
+     "anchor": "Evil hath not been found in thee all thy days"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.29",
+   "range": "1SA.25.29",
+   "kind": "passage",
+   "hash": "0d1f1b1b",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.29#p1-03d6710b",
+     "text": "to wit, Saul, though no way injured nor justly provoked by thee.",
+     "anchor": "A man"
+    },
+    {
+     "id": "poole/1SA.25.29#p2-d9aa6640",
+     "text": "i. e. to take away thy life. In the bundle of life, or, in the bundle, i.e. in the society or congregation of",
+     "anchor": "To seek thy soul"
+    },
+    {
+     "id": "poole/1SA.25.29#p3-8f36fbdf",
+     "text": "out of which men are taken and cut off by death. The phrase is taken from the common usage of men, who bind those things in bundles which they are afraid to lose, because things that are solitary and unbound are soon lost. The meaning of the place is, God will preserve thy life; and therefore it becomes not thee unjustly and unnecessarily to take away the lives of any, especially the people of thy God and Saviour.",
+     "anchor": "the living"
+    },
+    {
+     "id": "poole/1SA.25.29#p4-ad9b61d2",
+     "text": "i.e. in the hand and custody of God, who, by his watchful providence, preserves this bundle, and all that are in it; and time in a particular and singular manner, as being thy God in a peculiar way and special covenant. God himself will hide and keep thee in the secret of his presence, Psa 31:20, where no hand of violence can reach thee. And therefore all the attempts of Saul or others against thee are vain and ridiculous. For who can destroy whom God will keep?",
+     "anchor": "With the Lord thy God",
+     "refs": [
+      {
+       "text": "Psa 31:20",
+       "ref": "PSA.31.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.29#p5-73753615",
+     "text": "as out of the middle of a sling; God himself will cut them off suddenly, violently, and irresistibly; and cast them far away, both from his presence, and from thy neighbourhood, and from all capacity of doing thee any hurt.",
+     "anchor": "Them shall he sling out"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.31",
+   "range": "1SA.25.31",
+   "kind": "passage",
+   "hash": "4fe64753",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.31#p1-26bc52e7",
+     "text": "thy mind and conscience will be free from all the torment which the guilt and shame of such an action would cause in thee. By which, she cunningly insinuates what a blemish this would be to his glory, what a disturbance to his peace and felicity, if he proceeded to execute his purpose; and withal implies how sweet and comfortable it would be to him to remember, that he had for conscience to God denied himself, and restrained his passions.",
+     "anchor": "Nor offence of heart unto my lord"
+    },
+    {
+     "id": "poole/1SA.25.31#p2-fcdfdd61",
+     "text": "which she signifies would be done if he should go on. For though Nabal had been guilty of abominable rudeness, uncharitableness, and ingratitude; yet he had done nothing worthy of death, by the laws of God or of man. And whatsoever he had done, the rest of his family were innocent.",
+     "anchor": "That thou hast shed blood causeless"
+    },
+    {
+     "id": "poole/1SA.25.31#p3-4a19c602",
+     "text": "which is directly contrary to God’s law, Lev 19:18 Deu 32:35, compared with Rom 12:19.",
+     "anchor": "That my lord hath avenged himself",
+     "refs": [
+      {
+       "text": "Lev 19:18",
+       "ref": "LEV.19.18"
+      },
+      {
+       "text": "Deu 32:35",
+       "ref": "DEU.32.35"
+      },
+      {
+       "text": "Rom 12:19",
+       "ref": "ROM.12.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.31#p4-5520609f",
+     "text": "when God shall make thee king, and I shall have occasion to apply myself to time for justice or relief, let me find grace in thy sight, and so let me do at this time. Or, and the Lord will bless my lord, and recompense thee for this mortification of thy passion, and thou wilt remember thine hand-maid, i.e. thou wilt remember my counsel with satisfaction to thyself; and thankfulness to me.",
+     "anchor": "When the Lord shall have dealt well with my lord, then remember thine handmaid"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.32",
+   "range": "1SA.25.32",
+   "kind": "passage",
+   "hash": "7cb5aa29",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.32#p1-7cb5aa29",
+     "text": "Which by his gracious and singular providence so disposed matters that thou shouldst, come to rule. He rightly begins at the fountain of this deliverance, which was God; and then proceeds to the instruments."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.33",
+   "range": "1SA.25.33",
+   "kind": "passage",
+   "hash": "a08812d5",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.33#p1-141e6a9d",
+     "text": "and blessed be thou, i.e. the Lord bless and recompense thee for this thy good advice.",
+     "anchor": "Blessed be thy advice"
+    },
+    {
+     "id": "poole/1SA.25.33#p2-30dad600",
+     "text": "which I had sworn to do. Hereby it plainly appears that oaths whereby men bind themselves to any sin are null and void; and as it was a sin to make them, so it is adding sin to sin to perform them.",
+     "anchor": "From coming to shed blood"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.34",
+   "range": "1SA.25.34",
+   "kind": "passage",
+   "hash": "c02f1c33",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.34#p1-c02f1c33",
+     "text": "not that he intended to kill her, but the males only; as was noted in 1Sa 25:22. But their destruction was a dreadful affliction and damage to her.",
+     "anchor": "Hath kept me back from hurting thee",
+     "refs": [
+      {
+       "text": "1Sa 25:22",
+       "ref": "1SA.25.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.35",
+   "range": "1SA.25.35",
+   "kind": "passage",
+   "hash": "2546692a",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.35#p1-2546692a",
+     "text": "i.e. Showed my acceptance of thy person, by my grant of thy request: see Gen 19:21.",
+     "refs": [
+      {
+       "text": "Gen 19:21",
+       "ref": "GEN.19.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.36",
+   "range": "1SA.25.36",
+   "kind": "passage",
+   "hash": "36ebf2eb",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.36#p1-53c54a31",
+     "text": "as the manner was upon those solemn occasions. Sordid covetousness and vain prodigality were met together in him.",
+     "anchor": "Like the feast of a king"
+    },
+    {
+     "id": "poole/1SA.25.36#p2-a78b2f9a",
+     "text": "he being then incapable of admonition, his reason and conscience being both asleep.",
+     "anchor": "She told him nothing"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.37",
+   "range": "1SA.25.37",
+   "kind": "passage",
+   "hash": "8a61f010",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.37#p1-8a61f010",
+     "text": "He was oppressed with grief, and fainted away through the fear and horror of so great a mischief, though it was past. As one who, having in the night galloped over a narrow plank, laid upon a broken bridge, over a deep river, when in the morning he came to review it, was struck dead with. the horror of the danger he was in."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.38",
+   "range": "1SA.25.38",
+   "kind": "passage",
+   "hash": "097850ac",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.38#p1-097850ac",
+     "text": "God either inflicted some other stroke or disease upon him, or increased his grief and fear to such a height as killed him."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.39",
+   "range": "1SA.25.39",
+   "kind": "passage",
+   "hash": "fa9e9086",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.39#p1-edfe073b",
+     "text": "How could David rejoice at the death of his enemy?"
+    },
+    {
+     "id": "poole/1SA.25.39#p2-f2e69e1f",
+     "text": "Although it may be said that he rejoiced not in Nabal’s death as such, but only in the declaration of God’s justice in punishing so great a wickedness; which was an honour to God, and a document, and therefore a benefit to mankind, and so a public good, and cause of joy; yet the matter is not weighty, if we confess that this was another instance of human infirmity in David, and that it is not proposed for our imitation, but for our caution. Yet it may be further said, that this was not purely an act of private revenge, because David was a public person, and anointed king; and therefore Nabal’s reproach cast upon David above, 1Sa 25:10,11, was a contempt of God, and of his ordinance and appointment; which was vindicated by this remarkable judgment.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Sa 25:10",
+       "ref": "1SA.25.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.39#p3-7360785b",
+     "text": "i.e. from the sin of bloodshed and self-revenge, 1Sa 25:33.",
+     "anchor": "Hath kept his servant from evil",
+     "refs": [
+      {
+       "text": "1Sa 25:33",
+       "ref": "1SA.25.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/1SA.25.39#p4-5a6afbea",
+     "text": "to wit, messengers; which he thought fitter than to go himself; partly because if he had met with a repulse, it had been less ignominious; and partly because he would leave her to her freedom and choice, and would not so much as seem to take her by violence. But this doubtless was not done immediately after Nabal’s death, but in some convenient space of time after it; though such circumstances be commonly omitted in the sacred history, which gives only the threads and most important passages of things.",
+     "anchor": "David sent"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.41",
+   "range": "1SA.25.41",
+   "kind": "passage",
+   "hash": "276a70da",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.41#p1-276a70da",
+     "text": "She showed this reverence, and spake thus to them, as representing David’s person."
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.42",
+   "range": "1SA.25.42",
+   "kind": "passage",
+   "hash": "8ced782f",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.42#p1-8ced782f",
+     "text": "not immediately, but some convenient time after they were gone. She considered not David’s present straits and penury, which site thought her plentiful estate might supply; nor his danger from Saul; but by a true and strong faith rested upon God’s promise made to David, not doubting but God would perform it.",
+     "anchor": "She went after the messengers"
+    }
+   ]
+  },
+  {
+   "id": "poole/1SA.25.44",
+   "range": "1SA.25.44",
+   "kind": "passage",
+   "hash": "612b91de",
+   "paragraphs": [
+    {
+     "id": "poole/1SA.25.44#p1-612b91de",
+     "text": "or for, as the Hebrew vau is ofttimes used. For this seems to be added as a reason why David took other wives, because Saul had given his former wife to another man, that he might as far as he could extinguish all relation and kindred to him, whom he hated; and withal, cut off his hopes and pretence to the crown upon that account.",
+     "anchor": "But"
+    }
+   ]
+  }
+ ]
+}

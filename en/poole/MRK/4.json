@@ -1,0 +1,1027 @@
+{
+ "source": "poole",
+ "book": "MRK",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "poole/MRK.4",
+   "range": "MRK.4",
+   "kind": "chapter",
+   "hash": "2868c044",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4#p1-60489710",
+     "text": "Mar 4:1-9 The parable of the sower.",
+     "refs": [
+      {
+       "text": "Mar 4:1-9",
+       "ref": "MRK.4.1-9"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p2-e357a377",
+     "text": "Mar 4:10-13 Why Christ taught in parables.",
+     "refs": [
+      {
+       "text": "Mar 4:10-13",
+       "ref": "MRK.4.10-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p3-87dbda99",
+     "text": "Mar 4:14-20 The exposition of the parable.",
+     "refs": [
+      {
+       "text": "Mar 4:14-20",
+       "ref": "MRK.4.14-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p4-174abd01",
+     "text": "Mar 4:21-25 The light of knowledge is given to be communicated to others.",
+     "refs": [
+      {
+       "text": "Mar 4:21-25",
+       "ref": "MRK.4.21-25"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p5-0c551aae",
+     "text": "Mar 4:26-29 The kingdom of God likened to the seed which groweth imperceptibly,",
+     "refs": [
+      {
+       "text": "Mar 4:26-29",
+       "ref": "MRK.4.26-29"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p6-119f1561",
+     "text": "Mar 4:30-34 and to a grain of mustard seed.",
+     "refs": [
+      {
+       "text": "Mar 4:30-34",
+       "ref": "MRK.4.30-34"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4#p7-7fa73f99",
+     "text": "Mar 4:35-41 Christ stilleth a tempest by his word.",
+     "refs": [
+      {
+       "text": "Mar 4:35-41",
+       "ref": "MRK.4.35-41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.1",
+   "range": "MRK.4.1",
+   "kind": "passage",
+   "hash": "38b3c683",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.1#p1-7ee2dbc2",
+     "text": "Ver. 1,2. We may observe that our Saviour often preached by the seaside, the reason of which was, doubtless, he had there the convenience by a boat or ship to quit himself of the inconvenience of the people’s pressing upon him: he was now in Galilee, which bordered upon the sea."
+    },
+    {
+     "id": "poole/MRK.4.1#p2-09f51dc3",
+     "text": "Some of those things which our Lord taught his people by earthly similitudes are afterwards expressed, but probably he taught them many more things than the evangelists have left us upon record.",
+     "anchor": "And he taught them many things by parables, and said unto them in his doctrine"
+    },
+    {
+     "id": "poole/MRK.4.1#p3-fb18a35e",
+     "text": "And said unto them in his doctrine: that may be understood in a double sense; either understanding by doctrine his way of teaching which he affected, and made much use of, viz. by similitudes; or else thus, that he intermixed with the doctrine which he taught them several parables, some of which here follow."
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.2",
+   "range": "MRK.4.2",
+   "kind": "passage",
+   "hash": "8de30724",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.2#p1-8de30724",
+     "text": "Mar 4:1\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:1",
+       "ref": "MRK.4.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.3",
+   "range": "MRK.4.3",
+   "kind": "passage",
+   "hash": "020ca352",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.3#p1-62952521",
+     "text": "Mat 13:1\", and following verses to Mat 13:23. The parable is recorded both by Matthew, Mark, and Luke, and is of excellent use:",
+     "verse": 3,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 13:1",
+       "ref": "MAT.13.1"
+      },
+      {
+       "text": "Mat 13:23",
+       "ref": "MAT.13.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.3#p2-32a04f42",
+     "text": "1. To show the excellency of the word of God, which is here (as in other places) called the word; it is the seed of God, the good seed: and the excellency of the ordinance of preaching, for that is the seed sown."
+    },
+    {
+     "id": "poole/MRK.4.3#p3-7f01db35",
+     "text": "2. To show us the different effect of the word preached from moral discourses and philosophical disputes, from which can be expected no fruit; but where the sower soweth the word, there is yet a very different effect. Some bring forth the fruit of faith and holiness, and the abiding fruit of it, though in different degrees. But many, yea the most of those that hear it, either bring forth no fruit, or no abiding fruit, which is indeed no true fruit. The causes of this are, some men’s perfunctory and careless hearing, never regarding to meditate on it, apply it to their own souls, or to hide it in their memories."
+    },
+    {
+     "id": "poole/MRK.4.3#p4-8fb2bc52",
+     "text": "Others not suffering it to sink into their hearts, and to take root in them, though it may at present a little affect them, and make them matter of discourse. Other men’s thoughts being taken up with business, and the care of this world, and their hearts filled with the love of the things of this life, which they cannot part with when trouble and persecution for the owning and profession of the gospel ariseth."
+    },
+    {
+     "id": "poole/MRK.4.3#p5-92690b2c",
+     "text": "3. It likewise teacheth us a sure note of unprofitable hearers of the word, as also of those whom the word is likely to profit, and have any good and saving effect upon. The former hear, but never regard whether they understand what they hear, yea or no. The others are not satisfied with hearing unless they understand; for those who went to him to know the parable, were not the twelve only, (who are often called his disciples emphatically), but those others that were about him, to whom it was"
+    },
+    {
+     "id": "poole/MRK.4.3#p6-8076d799",
+     "text": "given to know the mystery of the kingdom of God."
+    },
+    {
+     "id": "poole/MRK.4.3#p7-c2ebdf03",
+     "text": "4. The most of our Saviour’s hearers were doubtless members of the Jewish church, yet our Saviour, Mar 4:11, styles the most of them those that are without; which teacheth us that not only such as are out of the pale of the church, but those also who are out of the degree of election, those to whom it is not given to know the mysteries of the kingdom of God, are in Christ’s account without. For other things concerning this parable, they are fully spoken to in our notes;",
+     "refs": [
+      {
+       "text": "Mar 4:11",
+       "ref": "MRK.4.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.3#p8-6c6f8ca3",
+     "text": "Mat 13:1\", and following verses to Mat 13:23.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 13:1",
+       "ref": "MAT.13.1"
+      },
+      {
+       "text": "Mat 13:23",
+       "ref": "MAT.13.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.4",
+   "range": "MRK.4.4",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.4#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.5",
+   "range": "MRK.4.5",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.5#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.6",
+   "range": "MRK.4.6",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.6#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.7",
+   "range": "MRK.4.7",
+   "kind": "passage",
+   "hash": "8dcea724",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.7#p1-8dcea724",
+     "text": "Mar 4:7\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:7",
+       "ref": "MRK.4.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.8",
+   "range": "MRK.4.8",
+   "kind": "passage",
+   "hash": "8dcb8124",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.8#p1-8dcb8124",
+     "text": "Mar 4:8\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:8",
+       "ref": "MRK.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.9",
+   "range": "MRK.4.9",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.9#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.10",
+   "range": "MRK.4.10",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.10#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.11",
+   "range": "MRK.4.11",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.11#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.12",
+   "range": "MRK.4.12",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.12#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.13",
+   "range": "MRK.4.13",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.13#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.14",
+   "range": "MRK.4.14",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.14#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.15",
+   "range": "MRK.4.15",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.15#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.16",
+   "range": "MRK.4.16",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.16#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.17",
+   "range": "MRK.4.17",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.17#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "verse": 17,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.18",
+   "range": "MRK.4.18",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.18#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.19",
+   "range": "MRK.4.19",
+   "kind": "passage",
+   "hash": "8ddc7f24",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.19#p1-8ddc7f24",
+     "text": "Mar 4:3\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.20",
+   "range": "MRK.4.20",
+   "kind": "passage",
+   "hash": "65f2ae5e",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.20#p1-65f2ae5e",
+     "text": "See Poole on \"Mr 4:3\""
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.21",
+   "range": "MRK.4.21",
+   "kind": "passage",
+   "hash": "92b391c4",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.21#p1-92b391c4",
+     "text": "The import of this verse may be learned from Mat 5:15,16, where the words are, and applied by an exhortation to holiness, being an argument drawn from the end for which men receive gifts and grace from God, which is not only for their own advantage, though (like the husbandman) those that have it reap first of their own fruit, but for the good and advantage of others also. Some think that Christ here speaketh of himself, who is the Light of the world, and therefore opened this parable unto them. But the context in Matthew guiding us to the true sense of the words, I see no reason for us to busy ourselves in searching out another, especially when the connexion is so fair with the foregoing words, where he had been describing the good ground by bringing forth fruit, some thirty, some sixty, some a hundred fold. What therefore the sowing the seed in the good ground, mentioned in the parable, is, that is the lighting up of a candle in this verse; and the light showed by the lighted candle, not put under a vessel, or a bed, but in a candlestick, is the same thing with the fruit before mentioned.",
+     "refs": [
+      {
+       "text": "Mat 5:15",
+       "ref": "MAT.5.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.22",
+   "range": "MRK.4.22",
+   "kind": "passage",
+   "hash": "60e900d0",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.22#p1-ac7a4be6",
+     "text": "Ver. 22,23. Our Saviour, Mat 10:26, sending out his apostles, saith to them, Fear them not therefore, that is, not your enemies and persecutors: for there is nothing covered, that shall not be revealed; and hid, that shall not be known: the sense of which words we there said might be, though your innocency be now hid, yet it shall be made known, or though the gospel be now hid, and preached in a little corner, and kept secret, it shall be made manifest, and come abroad.",
+     "refs": [
+      {
+       "text": "Mat 10:26",
+       "ref": "MAT.10.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.22#p2-d0e92b20",
+     "text": "Both Mark and Luke have it immediately after the parable of the sower, where it doth not seem to have the same sense as here. But more general proverbial common sayings may be variously applied to things, to which the common sense and import of them will agree."
+    },
+    {
+     "id": "poole/MRK.4.22#p3-a7aaee3a",
+     "text": "Some here apply them thus, There is nothing in the prophecies concerning me which shall not be manifested; which agrees with the sense of those who interpret the former verse concerning Christ, as if he had been giving a reason why he opened the parables to those that asked him of it. But those who interpret it to the sense which it beareth plainly, Mat 5:15,16, make the sense thus; For though you may play the hypocrites, and under a profession of the gospel but hide the hypocrisy, lusts, and corruptions of your hearts, yet that mask will not hold always, there will come a day of judgment, which will manifest and discover all, and bring to light the hidden things of dishonesty.",
+     "refs": [
+      {
+       "text": "Mat 5:15",
+       "ref": "MAT.5.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.22#p4-0a3c0ed3",
+     "text": "What we have Mar 4:23 is but a usual conclusion which our Saviour hath often made of any grave and important discourses.",
+     "refs": [
+      {
+       "text": "Mar 4:23",
+       "ref": "MRK.4.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.23",
+   "range": "MRK.4.23",
+   "kind": "passage",
+   "hash": "0ca03d54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.23#p1-0ca03d54",
+     "text": "Mar 4:22\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:22",
+       "ref": "MRK.4.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.24",
+   "range": "MRK.4.24",
+   "kind": "passage",
+   "hash": "85a81ee8",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.24#p1-c319abd2",
+     "text": "Ver. 24,25. Whoso considereth the connection of these words,"
+    },
+    {
+     "id": "poole/MRK.4.24#p2-69561f25",
+     "text": "with the first words in the verse,",
+     "anchor": "with what measure ye mete, &c"
+    },
+    {
+     "id": "poole/MRK.4.24#p3-3e3e3ea9",
+     "text": "and compares the former with the parallel texts, Mat 7:2 Luk 6:38, will wonder what the force should be of the argument. For in both the parallel texts the latter words in this verse seem to be used as an argument to persuade them to justice and charity towards men, from the punishments of the violations of the law concerning them, by way of retaliation. Nor are there any sins so ordinarily as those of that kind so punished. But they can have no such force here, following those words, Take heed what ye hear. But, as I said before, there is nothing more usual than diverse applications of the same common saying, or proverbial expression. The saying is true, whether it be understood of men or of God, As we deal with God, so will God deal with us.",
+     "anchor": "Take heed what ye hear",
+     "refs": [
+      {
+       "text": "Mat 7:2",
+       "ref": "MAT.7.2"
+      },
+      {
+       "text": "Luk 6:38",
+       "ref": "LUK.6.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.24#p4-6f4d9145",
+     "text": "Take heed what ye hear. Luke saith, how ye hear. Take heed what ye hear; as much as, Take heed to what you hear, that you may receive the word not as seed by the way side, or in thorny or stony ground, but as in good ground. This seemeth rather to be the sense of our Saviour, than to give a caution by these words to men to examine what they hear, searching the Scriptures whether what they hear doth agree with them, though that also be the duty of all conscientious persons, as appeareth from Act 17:11 For saith our Saviour, God will deal with you as to his providence as you deal with him. If you allow the word of God but a little hearing, you shall reap from it heard little profit and advantage; this appeareth to be the sense from the following words.",
+     "refs": [
+      {
+       "text": "Act 17:11",
+       "ref": "ACT.17.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.24#p5-5e4aa7b0",
+     "text": "that is, unto you that hear, so as you attend, understand, believe, hearken, and obey, God will give further knowledge of Divine mysteries.",
+     "anchor": "And unto you that hear shall more be given"
+    },
+    {
+     "id": "poole/MRK.4.24#p6-52f0fbe1",
+     "text": "For he that hath, to him shall be given, &c.: another general proverbial expression; See Poole on \"Mat 13:12\", See Poole on \"Mat 25:29\".",
+     "refs": [
+      {
+       "text": "Mat 13:12",
+       "ref": "MAT.13.12"
+      },
+      {
+       "text": "Mat 25:29",
+       "ref": "MAT.25.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.25",
+   "range": "MRK.4.25",
+   "kind": "passage",
+   "hash": "0c99b554",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.25#p1-0c99b554",
+     "text": "Mar 4:24\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:24",
+       "ref": "MRK.4.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.26",
+   "range": "MRK.4.26",
+   "kind": "passage",
+   "hash": "7c6e36ee",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.26#p1-a8772c8d",
+     "text": "Ver. 26-29. Our evangelist alone taketh notice of this parable, nor hath it any particular explication annexed. If we expound it with relation to what went before, the scope of it seemeth to be, to let us know that God will have an account of men for their hearing of his word, and therefore men had need to take heed what they hear, as Mark saith, and how they hear, as Luke phrases it: thus Mar 4:29 expounds the former, with the help of our Saviour’s exposition of the parable of the tares, on which he had told us, Mat 13:39, The harvest is the end of the world; and the reapers are the angels. There is another notion of God’s harvest, Mat 9:37 Joh 4:35, where God’s harvest signifies a people inclined and prepared to hear and to receive the gospel. But withal this parable of our Saviour’s may be of further use to us.",
+     "refs": [
+      {
+       "text": "Mar 4:29",
+       "ref": "MRK.4.29"
+      },
+      {
+       "text": "Mat 13:39",
+       "ref": "MAT.13.39"
+      },
+      {
+       "text": "Mat 9:37",
+       "ref": "MAT.9.37"
+      },
+      {
+       "text": "Joh 4:35",
+       "ref": "JHN.4.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.26#p2-398659e1",
+     "text": "So is the kingdom of God, &c.; that is, Such is the providential dispensation of God, in gathering his church by the ministry of the word, as men’s casting of seed into the ground: when the husbandman hath cast his seed into the ground, he is no more solicitous about it, nor doth he expect to discern the motion of it; but having done what is his part, he sleepeth, and riseth again, leaving the issue to God’s providence."
+    },
+    {
+     "id": "poole/MRK.4.26#p3-e555ebac",
+     "text": "yet not without the influence of heaven, both in the shining of the sun and the falling of the dew and of the rain; neither doth its fruit appear presently in its full ripeness and perfection, but gradually is made perfect; first there appears the blade, the herb, then the ear, then the grain, which by degrees groweth to its full magnitude, and then hardeneth, and then the husbandman putteth in his sickle: so the ministers of the gospel ought faithfully to do their parts in sowing the seed of the gospel, then not to be too solicitous, but to leave the issue unto God. Where the seed falls upon good ground, the word will not be unfruitful: the minister of the gospel doth not presently discern the fruit of his labour, he at first, it may be, seeth nothing of it, but is ready to cry out, I have laboured in vain; but though the seed lie under the clods, and seems choked with the corruption of man’s heart, yet if the soul be one to whom it is given to know the mysteries of the kingdom of God, it shall spring out, the word will be found not to be lost; but first will spring the blade, then will appear the ear: the fruit of the word preached appears by degrees, sometimes at first only by creating good inclinations in the soul, and desires to learn the way of the Lord more perfectly, then in acts further tending to perfection, at last in confirmed habits of grace.",
+     "anchor": "The earth bringeth forth fruit of herself"
+    },
+    {
+     "id": "poole/MRK.4.26#p4-a734b2be",
+     "text": "It is not thus with all, in some the word brings forth nothing but the blade, a little outward profession, which dwindles away and dies; in some the profession holds longer, but they never come to confirmed habits of virtue and holiness. But there will come a harvest, when God will come with his sickle to reap the fruit of his seed sown; therefore men had need take heed what and how they hear. This I take to be the sense of this parable."
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.27",
+   "range": "MRK.4.27",
+   "kind": "passage",
+   "hash": "0c92a554",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.27#p1-0c92a554",
+     "text": "Mar 4:26\"",
+     "verse": 27,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:2",
+       "ref": "MRK.4.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.28",
+   "range": "MRK.4.28",
+   "kind": "passage",
+   "hash": "0c92a554",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.28#p1-0c92a554",
+     "text": "Mar 4:26\"",
+     "verse": 28,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:2",
+       "ref": "MRK.4.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.29",
+   "range": "MRK.4.29",
+   "kind": "passage",
+   "hash": "b6db78d9",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.29#p1-b6db78d9",
+     "text": "Ver. 29. See Poole on \"Mr 4:26\""
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.30",
+   "range": "MRK.4.30",
+   "kind": "passage",
+   "hash": "c47f1081",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.30#p1-c47f1081",
+     "text": "Ver. 30-32. We met with this parable in Mat 13:31,32, where the reader will find we have given the sense of it. It is a prophetical parable, foretelling the great success that the gospel, which at this time was restrained to a little corner of the world, and there met with small acceptance, should have after Christ’s resurrection from the dead; which prophecy we find was fulfilled in the apostles’ time, and hath been further fulfilling in all ages of the world since that time.",
+     "refs": [
+      {
+       "text": "Mat 13:31",
+       "ref": "MAT.13.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.31",
+   "range": "MRK.4.31",
+   "kind": "passage",
+   "hash": "05441254",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.31#p1-05441254",
+     "text": "Mar 4:30\"",
+     "verse": 31,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:30",
+       "ref": "MRK.4.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.32",
+   "range": "MRK.4.32",
+   "kind": "passage",
+   "hash": "05441254",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.32#p1-05441254",
+     "text": "Mar 4:30\"",
+     "verse": 32,
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:3",
+       "ref": "MRK.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.33",
+   "range": "MRK.4.33",
+   "kind": "passage",
+   "hash": "ac7c52d9",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.33#p1-98674914",
+     "text": "Ver. 33,34. From hence we may gather that all the parables by which our Saviour instructed his hearers are not recorded by the evangelists, though many be, and some mentioned by one, some by two of them, which are not recorded by the other."
+    },
+    {
+     "id": "poole/MRK.4.33#p2-fc3ff6b6",
+     "text": "Christ disdained not to accommodate his style and method of preaching to his hearers’ capacity, neither will any faithful minister of Christ do it: he preacheth in the best style, language, and method, that preacheth best to the capacity, understanding, and profit of his hearers. Other preachers do indeed but trifle with the greatest work under heaven, and please themselves with their own noises. That he did not speak without a parable unto them, was:",
+     "anchor": "As they were able to hear it"
+    },
+    {
+     "id": "poole/MRK.4.33#p3-add5d31c",
+     "text": "1. That he might speak with the best advantage for their understandings and their memories, and have the greater influence upon their affections; for similitudes have these three advantages."
+    },
+    {
+     "id": "poole/MRK.4.33#p4-790e2061",
+     "text": "2. That he might discern who came to hear him with a desire to learn, and be instructed by him, by their coming to him to inquire of his parables."
+    },
+    {
+     "id": "poole/MRK.4.33#p5-09b43f9b",
+     "text": "For although some of his parables were plain, and easy to be understood, yet others of them were dark sayings, because the doctrine taught by them was more mysterious; conscientious hearers would therefore come to have the parables expounded to them; these, were those disciples mentioned Mar 4:34, to whom be was wont to expound the parables in or by which he taught the multitude. For other common hearers, their contenting themselves with a mere hearing a sound of words, which they did not understand, was a sufficient indication that they made no conscience of their duty, but were such to whom it was not given to know the mysteries of the kingdom of God, but such upon whom the prophecy of the prophet Isaiah was to be fulfilled, Mar 6:9,10.",
+     "refs": [
+      {
+       "text": "Mar 4:34",
+       "ref": "MRK.4.34"
+      },
+      {
+       "text": "Mar 6:9",
+       "ref": "MRK.6.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.34",
+   "range": "MRK.4.34",
+   "kind": "passage",
+   "hash": "054e0454",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.34#p1-054e0454",
+     "text": "Mar 4:33\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:33",
+       "ref": "MRK.4.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.35",
+   "range": "MRK.4.35",
+   "kind": "passage",
+   "hash": "353e8861",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.35#p1-fd600845",
+     "text": "Ver. 35-41. This piece of history is related by Matthew and Luke as well as by our evangelist, and that with no considerable variations one from another; what in it wanteth explication, See Poole on \"Mat 8:23\", and following verses to Mat 8:27. Christ had been preaching, and being wearied and tired with the multitude still pressing upon him, gave order to cross the sea, and to go over to the other side; then (to show us he was truly man, and took upon him the infirmities of our nature) he composes himself to sleep on a pillow, in the hinder part of the ship. There happeneth a great storm of wind, not without Christ’s knowledge and ordering, that he might upon this occasion both try his people’s faith, and also show his Divine power in stilling the raging of the sea. As man he slept, but at the same time he was the true Watchman of Israel, who never slumbereth nor sleepeth.",
+     "refs": [
+      {
+       "text": "Mat 8:23",
+       "ref": "MAT.8.23"
+      },
+      {
+       "text": "Mat 8:27",
+       "ref": "MAT.8.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/MRK.4.35#p2-af198d29",
+     "text": "The storm increaseth till there was a great quantity of water come into the ship, and they were ready to perish. In the mount of the Lord it shall be seen, Gen 22:14. God often forbears from helping his people till the last hour. Then they awake him, he ariseth, rebukes the wind and the waves, useth no means, but by the word of his power commandeth the wind and waves to be still; and he also rebuketh his disciples for want of faith, who yet did not discern that he was not man only, but the Almighty God, as appears by their words, they said one to another, What manner of man is this?",
+     "refs": [
+      {
+       "text": "Gen 22:14",
+       "ref": "GEN.22.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.36",
+   "range": "MRK.4.36",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.36#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.37",
+   "range": "MRK.4.37",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.37#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.38",
+   "range": "MRK.4.38",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.38#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.39",
+   "range": "MRK.4.39",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.39#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.40",
+   "range": "MRK.4.40",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.40#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/MRK.4.41",
+   "range": "MRK.4.41",
+   "kind": "passage",
+   "hash": "0539dc54",
+   "paragraphs": [
+    {
+     "id": "poole/MRK.4.41#p1-0539dc54",
+     "text": "Mar 4:35\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mar 4:35",
+       "ref": "MRK.4.35"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

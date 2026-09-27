@@ -1,0 +1,736 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "poole/ACT.14",
+   "range": "ACT.14",
+   "kind": "chapter",
+   "hash": "4abc84e0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14#p1-dd0431d3",
+     "text": "Act 14:1-7 Paul and Barnabas are persecuted from Iconium by the malice of the unbelieving Jews.",
+     "refs": [
+      {
+       "text": "Act 14:1-7",
+       "ref": "ACT.14.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14#p2-83c6ba09",
+     "text": "Act 14:8-18 At Lidstra they heal an impotent man, and refuse divine honours with abhorrence.",
+     "refs": [
+      {
+       "text": "Act 14:8-18",
+       "ref": "ACT.14.8-18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14#p3-cb0f649d",
+     "text": "Act 14:19,20 Paul is stoned at the instigation of the Jews, but escapeth alive with Barnabas to Derbe.",
+     "refs": [
+      {
+       "text": "Act 14:19",
+       "ref": "ACT.14.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14#p4-899d71bd",
+     "text": "Act 14:21-28 Having passed through divers places, and confirmed the churches in faith and patience, they return to Antioch, and give an account of their ministry.",
+     "refs": [
+      {
+       "text": "Act 14:21-28",
+       "ref": "ACT.14.21-28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.1",
+   "range": "ACT.14.1",
+   "kind": "passage",
+   "hash": "ccd5da66",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.1#p1-4cd9c30d",
+     "text": "a city in Lycaonia.",
+     "anchor": "Iconium"
+    },
+    {
+     "id": "poole/ACT.14.1#p2-6bf6f44e",
+     "text": "Paul and Barnabas, as they were wont to do, showing as great constancy in performing of their duty, as their enemies did obstinacy in persecuting them for it.",
+     "anchor": "They went both together"
+    },
+    {
+     "id": "poole/ACT.14.1#p3-868aa3f8",
+     "text": "with such evidence and demonstration of the Spirit and of power. The Greeks: See Act 13:43.",
+     "anchor": "So spake",
+     "refs": [
+      {
+       "text": "Act 13:43",
+       "ref": "ACT.13.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.2",
+   "range": "ACT.14.2",
+   "kind": "passage",
+   "hash": "13be93fa",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.2#p1-4d89c301",
+     "text": "or disobedient, Jews, who did not believe the truths or obey the precepts of the gospel,",
+     "anchor": "The unbelieving"
+    },
+    {
+     "id": "poole/ACT.14.2#p2-433df7b7",
+     "text": "urging, persuading, and pressing of them, who of themselves (though as yet ignorant of Christ, and his word) would not have been so cruel.",
+     "anchor": "stirred up the Gentiles"
+    },
+    {
+     "id": "poole/ACT.14.2#p3-35d79a82",
+     "text": "the apostles themselves, and others that were converted by them, whose common father God through Christ was, and were accordingly endeared one to another.",
+     "anchor": "The brethren"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.3",
+   "range": "ACT.14.3",
+   "kind": "passage",
+   "hash": "d5b59615",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.3#p1-7c40ffd9",
+     "text": "to strengthen the new converts against the opposition they met with in the way of Christ, willingly partaking with them in their afflictions for Christ’s sake.",
+     "anchor": "Long time therefore abode they"
+    },
+    {
+     "id": "poole/ACT.14.3#p2-d8667647",
+     "text": "with great courage, and humble confidence, as knowing in whom they had believed.",
+     "anchor": "Speaking boldly"
+    },
+    {
+     "id": "poole/ACT.14.3#p3-29c1d383",
+     "text": "In the Lord;"
+    },
+    {
+     "id": "poole/ACT.14.3#p4-6cfdc588",
+     "text": "1. In the Lord’s cause, a business which he had sent them about. Secondly, And in the Lord’s strength, who enabled them in it. The word of his grace; the gospel: first, Wherein the grace of God is manifested."
+    },
+    {
+     "id": "poole/ACT.14.3#p5-6eb250d0",
+     "text": "2. Whereby it is offered."
+    },
+    {
+     "id": "poole/ACT.14.3#p6-2bf37438",
+     "text": "3. Wherewith, to such as receive, it is conveyed."
+    },
+    {
+     "id": "poole/ACT.14.3#p7-e8736b02",
+     "text": "4. And out of grace disputed and allowed to some, hidden and withdrawn from others."
+    },
+    {
+     "id": "poole/ACT.14.3#p8-f4596c0b",
+     "text": "God, by his miraculous confirming the doctrine of the apostles, showed that it was from him.",
+     "anchor": "Granted signs and wonders to be done by their hands"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.4",
+   "range": "ACT.14.4",
+   "kind": "passage",
+   "hash": "3a68ed2b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.4#p1-3e573214",
+     "text": "as it was about our Saviour and his doctrine, Joh 7:43.",
+     "anchor": "Was divided",
+     "refs": [
+      {
+       "text": "Joh 7:43",
+       "ref": "JHN.7.43"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.4#p2-8659e924",
+     "text": "Paul and Barnabas, who were called to be apostles, 1Co 9:5,6.",
+     "anchor": "The apostles",
+     "refs": [
+      {
+       "text": "1Co 9:5",
+       "ref": "1CO.9.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.5",
+   "range": "ACT.14.5",
+   "kind": "passage",
+   "hash": "67946181",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.5#p1-009fc4bd",
+     "text": "such as were called the chief men of the city, Act 13:50.",
+     "anchor": "Rulers",
+     "refs": [
+      {
+       "text": "Act 13:50",
+       "ref": "ACT.13.50"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.5#p2-25009ac1",
+     "text": "thus they that were called to the marriage of the king’s son, Mat 22:6, entreated the servants despitefully.",
+     "anchor": "To use them despitefully",
+     "refs": [
+      {
+       "text": "Mat 22:6",
+       "ref": "MAT.22.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.5#p3-45e88d97",
+     "text": "they would have used them as such who were not worthy to live, and then have taken away their lives from them, as they did by our Saviour; first they spat upon him, and then crucified him.",
+     "anchor": "And to stone them"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.6",
+   "range": "ACT.14.6",
+   "kind": "passage",
+   "hash": "5eee4fb6",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.6#p1-f3efe99a",
+     "text": "the apostles did not flee so much to save their lives, as to husband their time best for the glory of God in other places; and this they were commanded to do, Mat 10:23,",
+     "anchor": "And fled",
+     "refs": [
+      {
+       "text": "Mat 10:23",
+       "ref": "MAT.10.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.6#p2-f9a1bf70",
+     "text": "When they persecute you in this city, flee ye into another. Lystra and Derbe; these were cities further in the country of Lycaonia than Iconium was."
+    },
+    {
+     "id": "poole/ACT.14.6#p3-67c1c3ab",
+     "text": "a part of the Lesser Asia, nigh unto the mountain Taurus.",
+     "anchor": "Lycaonia"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.7",
+   "range": "ACT.14.7",
+   "kind": "passage",
+   "hash": "46ab4f77",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.7#p1-46ab4f77",
+     "text": "Thus was verified what St. Paul observed, Php 1:12, that all those things fell out unto the furtherance of the gospel, which spread the further for the scattering of the apostles and preachers of it; and thousands had not heard of Christ, if persecution had not driven the ministers of the gospel unto them: God working good out of evil, and causing the sun, when it leaves one part, to shine upon another.",
+     "refs": [
+      {
+       "text": "Php 1:12",
+       "ref": "PHP.1.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.8",
+   "range": "ACT.14.8",
+   "kind": "passage",
+   "hash": "f1650384",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.8#p1-8efe200c",
+     "text": "Such defects as are from nature, are incurable by art, and only to be helped immediately by the God of nature."
+    },
+    {
+     "id": "poole/ACT.14.8#p2-156f1b82",
+     "text": "this is observed and enlarged upon, to make the miracle the more appear to be the only work of God: Act 3:2.",
+     "anchor": "Who never had walked",
+     "refs": [
+      {
+       "text": "Act 3:2",
+       "ref": "ACT.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.9",
+   "range": "ACT.14.9",
+   "kind": "passage",
+   "hash": "aa8d5783",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.9#p1-aa8d5783",
+     "text": "This Paul might know by a prophetical Spirit; and that extraordinary gift of discerning of spirits might be in this case bestowed upon him. But withal, it is not unlikely but this lame man’s attention to the word, eyes, gesture, and countenance, might speak as much."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.10",
+   "range": "ACT.14.10",
+   "kind": "passage",
+   "hash": "63ff9b77",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.10#p1-63ff9b77",
+     "text": "As Act 3:6,8, to shew that he was perfectly recovered of this lameness; as all miraculous cures (being the work of God) were perfect.",
+     "refs": [
+      {
+       "text": "Act 3:6",
+       "ref": "ACT.3.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.11",
+   "range": "ACT.14.11",
+   "kind": "passage",
+   "hash": "6df2cf8a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.11#p1-85302258",
+     "text": "which was a dialect of the Greek tongue, that language being in the Lesser Asia ordinarily spoken.",
+     "anchor": "In the speech of Lycaonia"
+    },
+    {
+     "id": "poole/ACT.14.11#p2-ce01eb4a",
+     "text": "the heathens (especially their poets) did frequently believe such kind of apparitions; probably at first from the appearing of angels unto the patriarchs and others, which by tradition they might have heard of.",
+     "anchor": "The gods are come down to us in the likeness of men"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.12",
+   "range": "ACT.14.12",
+   "kind": "passage",
+   "hash": "bf499998",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.12#p1-97e57629",
+     "text": "whom the heathens took for their chief God.",
+     "anchor": "Jupiter"
+    },
+    {
+     "id": "poole/ACT.14.12#p2-c179cd2c",
+     "text": "was feigned to be the messenger of their gods, and therefore represented with wings; as also the interpreter of the gods, which caused their applying of his name to Paul.",
+     "anchor": "Mercury"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.13",
+   "range": "ACT.14.13",
+   "kind": "passage",
+   "hash": "045540d7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.13#p1-094a84ad",
+     "text": "the temple of Jupiter, whom they took for the patron of their city, was in the suburbs.",
+     "anchor": "Before their city"
+    },
+    {
+     "id": "poole/ACT.14.13#p2-3f277b2d",
+     "text": "these were usually in the form of crowns put upon the oxen which they intended to sacrifice; and, by this sign, showed that they were dedicated to Jupiter, whom the heathen blasphemously called, The king of kings, and placed him sitting in his chair, or throne, with a crown on his head.",
+     "anchor": "Garlands"
+    },
+    {
+     "id": "poole/ACT.14.13#p3-cd4d68d1",
+     "text": "the gates or doors of the house where the apostles lodged.",
+     "anchor": "Unto the gates"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.14",
+   "range": "ACT.14.14",
+   "kind": "passage",
+   "hash": "f86d3996",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.14#p1-cbebc968",
+     "text": "which was a sign of their greatest detestation of, and sorrow for, such abominations.",
+     "anchor": "They rent their clothes"
+    },
+    {
+     "id": "poole/ACT.14.14#p2-22aaca83",
+     "text": "expressing their greatest zeal for the glory of God, and earnestness to hinder the idolatry of this people.",
+     "anchor": "And ran in among the people, crying out"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.15",
+   "range": "ACT.14.15",
+   "kind": "passage",
+   "hash": "34fa211e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.15#p1-279cc9e1",
+     "text": "we stand in need of food and raiment, are liable to diseases and death, as well as you.",
+     "anchor": "We also are men of like passions with you"
+    },
+    {
+     "id": "poole/ACT.14.15#p2-6a9df35e",
+     "text": "so idols are frequently called, 1Ki 16:13,26 Jer 14:22, because they disappoint the hopes that are placed in them, and are empty of any good which is expected from them, and have nothing but what vain men (their makers) bestow upon them.",
+     "anchor": "Vanities",
+     "refs": [
+      {
+       "text": "1Ki 16:13",
+       "ref": "1KI.16.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.15#p3-f496acdb",
+     "text": "the true God is called the living God, Deu 5:26 Jos 3:10, in opposition to those false gods, who usually were only dead men, which out of love or fear were deified; as also in that he lives from himself, and gives life to every living creature.",
+     "anchor": "The living God",
+     "refs": [
+      {
+       "text": "Deu 5:26",
+       "ref": "DEU.5.26"
+      },
+      {
+       "text": "Jos 3:10",
+       "ref": "JOS.3.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.15#p4-6f764f20",
+     "text": "by this also the true God is distinguished from false gods, as Jer 10:11,12; and is a good argument against all idol worship; for Divine worship is a tribute we owe and pay to him that made us, Psa 100:3,4. It should be considered with what a respective compellation the apostles speak unto this heathen rabble, calling them, Sirs, or masters; a term surely then not unlawful to be given to our equals or betters.",
+     "anchor": "Which made heaven, &c",
+     "refs": [
+      {
+       "text": "Jer 10:11",
+       "ref": "JER.10.11"
+      },
+      {
+       "text": "Psa 100:3",
+       "ref": "PSA.100.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.16",
+   "range": "ACT.14.16",
+   "kind": "passage",
+   "hash": "cdeed6c8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.16#p1-3e2c2fd8",
+     "text": "There were two main objections which these heathen idolaters might make against the gospel, and the worship of the true God: and they are, first, from the antiquity, secondly, from the universality, of that false worship; both which the apostle here gives a critical answer unto, telling them, that the reason why so many, and for so long a time had followed idols, was from the just judgment of God upon them, as Psa 81:12 Rom 1:24,28.",
+     "refs": [
+      {
+       "text": "Psa 81:12",
+       "ref": "PSA.81.12"
+      },
+      {
+       "text": "Rom 1:24",
+       "ref": "ROM.1.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.16#p2-34e9919c",
+     "text": "ways of our choosing, and not of God’s commanding, are false ways.",
+     "anchor": "Their own ways"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.17",
+   "range": "ACT.14.17",
+   "kind": "passage",
+   "hash": "e3c6fde1",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.17#p1-e3c6fde1",
+     "text": "These words are to prevent that cavil, Why does God yet complain? and inform them, that though God had not given them, nor their ancestors, his laws written in tables of stone, as he had given to the Jews; yet they had the law written in their hearts, which they had not obeyed, though God’s manifold mercies, his works of creation and providence, had testified unto them, that he only was to be feared and worshipped. How many witnesses hath God against sinful man, when every creature and providence speaks his power, wisdom, goodness, &c., and call upon us to love and obey him? Every creature tells us that God made it, &c."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.18",
+   "range": "ACT.14.18",
+   "kind": "passage",
+   "hash": "bcb908df",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.18#p1-bcb908df",
+     "text": "So hard a matter it is to persuade any to leave off these sins they are accustomed unto, or to rectify such errors in religion which men are brought up in."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.19",
+   "range": "ACT.14.19",
+   "kind": "passage",
+   "hash": "950a2989",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.19#p1-ef04bbf9",
+     "text": "such as mention was made of, Act 13:50.",
+     "anchor": "Certain Jews",
+     "refs": [
+      {
+       "text": "Act 13:50",
+       "ref": "ACT.13.50"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.19#p2-5efb3ebe",
+     "text": "a strange and incredible fickleness; but that we know how the same multitude who cried Hosanna, did more suddenly alter their note, and cry against our Saviour, Crucify him, crucify him; so uncertain a thing is worldly honour.",
+     "anchor": "Persuaded the people"
+    },
+    {
+     "id": "poole/ACT.14.19#p3-a97d9fee",
+     "text": "the malice of Satan is every way great; if he cannot destroy the souls of these blessed apostles, by making of them to accept of Divine worship, he will do his utmost to kill their bodies.",
+     "anchor": "Stoned Paul"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.20",
+   "range": "ACT.14.20",
+   "kind": "passage",
+   "hash": "3d6473ed",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.20#p1-0ef91a17",
+     "text": "either in order to bury him, thinking him to be dead, as well as his persecutors did; or else to defend him, as much as possibly they could, from the rage of his enemies in that popular fury. Their spite was most against Paul, because he spake most, and preached unto them the way of life.",
+     "anchor": "Stood round about him"
+    },
+    {
+     "id": "poole/ACT.14.20#p2-b453337e",
+     "text": "being by the power of God suddenly restored to his strength again.",
+     "anchor": "He rose up"
+    },
+    {
+     "id": "poole/ACT.14.20#p3-091280ff",
+     "text": "a city near to Lycaonia, some say in it.",
+     "anchor": "Derbe"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.21",
+   "range": "ACT.14.21",
+   "kind": "passage",
+   "hash": "39491328",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.21#p1-39491328",
+     "text": "had made many disciples by teaching, and also by baptizing of them, Mat 28:19. For as by circumcision they were made Moses’s disciples, so by baptism they are made Christ’s disciples.",
+     "anchor": "Had taught many",
+     "refs": [
+      {
+       "text": "Mat 28:19",
+       "ref": "MAT.28.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.22",
+   "range": "ACT.14.22",
+   "kind": "passage",
+   "hash": "e546441a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.22#p1-e546441a",
+     "text": "It is not enough to sow the seed of the word, but it must be watered also, frequent endeavours must be used that it may be fruitful. Thus the apostles return to visit such as they had preached unto; the persecution they had endured, increasing their resolution for God, and their strength from him. Lest they should be offended at what they saw St. Paul had endured, or themselves might be called to endure, they preach unto them the doctrine of the cross, not hiding from them the miseries which in this world the profession of Christ and his truths might bring upon them. God hath indeed dealt all along thus with his people. The troubles which the Israelites met with in the wilderness, in their journey towards an earthly Canaan, did typify the calamities which God’s people will meet with in this world, as they journey towards the heavenly Canaan, or Jerusalem which is above."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.23",
+   "range": "ACT.14.23",
+   "kind": "passage",
+   "hash": "c192d2d1",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.23#p1-e8f2f234",
+     "text": "the word properly signifies a stretching out of the hand, such as was used when they gave their suffrages in the election of their magistrates, whereby was showed for whom they gave their voice; and afterwards it was commonly used for to constitute or appoint, or, as here, to ordain to any office or place; which might the rather be done by stretching out or laying on of the hands of the apostles, because by that means the Holy Ghost (or a power of working miracles) was frequently bestowed, Act 8:17,18, which in those times was necessary to authorize their doctrine to the infidel world.",
+     "anchor": "Ordained",
+     "refs": [
+      {
+       "text": "Act 8:17",
+       "ref": "ACT.8.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.23#p2-2dd1fe2d",
+     "text": "such as might instruct and govern the church.",
+     "anchor": "Elders"
+    },
+    {
+     "id": "poole/ACT.14.23#p3-0da578f7",
+     "text": "they commended the disciples as their jewels and chiefest treasure; as all sufferers are to commit their very souls to God, 1Pe 4:19.",
+     "anchor": "They commended them",
+     "refs": [
+      {
+       "text": "1Pe 4:19",
+       "ref": "1PE.4.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.23#p4-256c7de2",
+     "text": "to Christ, the best and faithful Keeper, that he should keep and further them in grace and goodness; to whose providence they wholly had committed themselves.",
+     "anchor": "To the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.24",
+   "range": "ACT.14.24",
+   "kind": "passage",
+   "hash": "8b3c8413",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.24#p1-8b3c8413",
+     "text": "Going the same way back which they had come, as appear by Act 13:13,14.",
+     "refs": [
+      {
+       "text": "Act 13:13",
+       "ref": "ACT.13.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.25",
+   "range": "ACT.14.25",
+   "kind": "passage",
+   "hash": "7fa0e8a7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.25#p1-d95afd73",
+     "text": "the gospel, the word of the Lord; or Christ, who is the word, and who is the sum of what the ministers of the gospel preach about.",
+     "anchor": "The word"
+    },
+    {
+     "id": "poole/ACT.14.25#p2-37a45fca",
+     "text": "mentioned Act 8:13; a city, or as some, a country, in Pamphylia, by the sea side. But the bounds of provinces were often altered by the Romans, and some made larger, and others lesser.",
+     "anchor": "Perga",
+     "refs": [
+      {
+       "text": "Act 8:13",
+       "ref": "ACT.8.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.26",
+   "range": "ACT.14.26",
+   "kind": "passage",
+   "hash": "8ec846db",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.26#p1-8ec846db",
+     "text": "that Antioch which was in Syria, as appears Act 13:1-3, to which this relates; and is a sufficient proof that they had not sought God in vain, and that there is no better preparation or provision towards any business, than faithful prayer unto God concerning it; doing our duty, and leaving the event unto his disposing.",
+     "anchor": "Antioch",
+     "refs": [
+      {
+       "text": "Act 13:1-3",
+       "ref": "ACT.13.1-3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.27",
+   "range": "ACT.14.27",
+   "kind": "passage",
+   "hash": "6688fb2c",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.27#p1-969c5b3b",
+     "text": "God being with them, and they being labourors with God, 1Co 3:9 2Co 6:1. They showed how much God had honoured them in making them his instruments in the conversion of so many souls.",
+     "anchor": "All that God had done with them",
+     "refs": [
+      {
+       "text": "1Co 3:9",
+       "ref": "1CO.3.9"
+      },
+      {
+       "text": "2Co 6:1",
+       "ref": "2CO.6.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.14.27#p2-70ead247",
+     "text": "he had given the Gentiles an opportunity of knowing and believing the gospel. The fleece alone had been wet before, and all the ground round about it dry; and now all the ground is wet, and that fleece was dry; to allude to Jud 6:37-40, by which this mystery was presignified, and can only be resolved by that of our Saviour, Mat 11:25,26: Even so, Father; for so it seemed good in thy sight.",
+     "anchor": "He had opened the door of faith unto the Gentiles",
+     "refs": [
+      {
+       "text": "Jud 6:37-40",
+       "ref": "JUD.6.37-40"
+      },
+      {
+       "text": "Mat 11:25",
+       "ref": "MAT.11.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.14.28",
+   "range": "ACT.14.28",
+   "kind": "passage",
+   "hash": "1d18eedb",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.14.28#p1-1d18eedb",
+     "text": "To confirm them, as Act 14:22; and also, as our Saviour withdrew himself from the multitudes, they chose there to refresh themselves a while, out of the heat of contention and persecution.",
+     "refs": [
+      {
+       "text": "Act 14:22",
+       "ref": "ACT.14.22"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

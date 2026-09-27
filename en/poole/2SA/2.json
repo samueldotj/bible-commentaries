@@ -1,0 +1,516 @@
+{
+ "source": "poole",
+ "book": "2SA",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "poole/2SA.2",
+   "range": "2SA.2",
+   "kind": "chapter",
+   "hash": "39f27cee",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2#p1-39f27cee",
+     "text": "David, by God’s direction, with his company goeth up to Hebron, where he is made king of Judah, 2Sa 2:1-4. He commendeth them of Jabesh-gilead for burying Saul, 2Sa 2:5-7. Abner maketh Ish-bosheth king of Israel, 2Sa 2:8-11. A mortal fight between twelve of Abner’s and twelve of Joab’s men, 2Sa 2:12-17. Asahel pursueth Abner, and is slain by him, 2Sa 2:18-24. At Abner’s motion Joab soundeth a retreat, 2Sa 2:25-31. Asahel’s burial, 2Sa 2:32.",
+     "refs": [
+      {
+       "text": "2Sa 2:1-4",
+       "ref": "2SA.2.1-4"
+      },
+      {
+       "text": "2Sa 2:5-7",
+       "ref": "2SA.2.5-7"
+      },
+      {
+       "text": "2Sa 2:8-11",
+       "ref": "2SA.2.8-11"
+      },
+      {
+       "text": "2Sa 2:12-17",
+       "ref": "2SA.2.12-17"
+      },
+      {
+       "text": "2Sa 2:18-24",
+       "ref": "2SA.2.18-24"
+      },
+      {
+       "text": "2Sa 2:25-31",
+       "ref": "2SA.2.25-31"
+      },
+      {
+       "text": "2Sa 2:32",
+       "ref": "2SA.2.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.1",
+   "range": "2SA.2.1",
+   "kind": "passage",
+   "hash": "6c9a89f5",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.1#p1-6c9a89f5",
+     "text": "by Urim, as 1Sa 23:6,9 30:7,8. Thus David begins at the right end, and lays his foundation in God’s counsel and assistance, which now he seeks. He asketh not whether he should take the kingdom, for that was appointed and known before; and he would not offend God, nor dishonour his ordinance, with frivolous and unnecessary inquiries; but only where he should enter upon it; whether in Judah, as he supposed, because of his relation to that tribe, and his interest in it; or whether in some other tribe; for he doth not limit God, but resolves exactly to follow his counsels. Unto Hebron; which was next to Jerusalem, (part whereof the Jebusites now possessed,) the chief city of that tribe, and a city of the priests, Jos 21:10, &c., and in the very centre or middle of that tribe, to which the whole tribe might speedily resort, when need required.",
+     "anchor": "David inquired of the Lord",
+     "refs": [
+      {
+       "text": "1Sa 23:6",
+       "ref": "1SA.23.6"
+      },
+      {
+       "text": "Jos 21:10",
+       "ref": "JOS.21.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.3",
+   "range": "2SA.2.3",
+   "kind": "passage",
+   "hash": "b8d744f8",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.3#p1-b8d744f8",
+     "text": "i.e. The cities or towns belonging and subject to Hebron, which was the metropolis, Jos 21:11,12; for in Hebron itself there was not space for them all, because it was filled with priests, and with David’s court.",
+     "refs": [
+      {
+       "text": "Jos 21:11",
+       "ref": "JOS.21.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.4",
+   "range": "2SA.2.4",
+   "kind": "passage",
+   "hash": "434d56d7",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.4#p1-434d56d7",
+     "text": "this they did upon just grounds, because not only the kingdom was promised to that tribe, Gen 49:10, but David was designed and anointed by God, whose will both they and all Israel were obliged to observe and obey. And they piously resolved not to neglect their duty, though they saw the other tribes would. Yet their prudent caution and modesty is observable, that they make him king of Judah only, and not of all Israel. And therefore there was need of a third anointing to the kingdom over all Israel, which he had 2Sa 5:3. But as for that first anointing, 1Sa 16:13, it was only a designation of the person who should be king, but not an actual inauguration of him to the kingdom.",
+     "anchor": "They anointed David king over the house of Judah",
+     "refs": [
+      {
+       "text": "Gen 49:10",
+       "ref": "GEN.49.10"
+      },
+      {
+       "text": "2Sa 5:3",
+       "ref": "2SA.5.3"
+      },
+      {
+       "text": "1Sa 16:13",
+       "ref": "1SA.16.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.5",
+   "range": "2SA.2.5",
+   "kind": "passage",
+   "hash": "0b727827",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.5#p1-0b727827",
+     "text": "this respect and affection to procure him burial. For as it is and ever was esteemed an act of inhumanity to deny burial to the dead; so it is an act of mercy and kindness to bury them.",
+     "anchor": "This kindness"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.6",
+   "range": "2SA.2.6",
+   "kind": "passage",
+   "hash": "8c3e85a5",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.6#p1-ce6839bc",
+     "text": "i. e. true and real kindness; not in words only, but also in actions, as you have now done to your king, the Lord’s anointed.",
+     "anchor": "Kindness and truth"
+    },
+    {
+     "id": "poole/2SA.2.6#p2-bc74234f",
+     "text": "so far am I from being offended with you for this kindness to my late enemy, that I will requite it.",
+     "anchor": "I also will require you this kindness"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.7",
+   "range": "2SA.2.7",
+   "kind": "passage",
+   "hash": "2b5455cf",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.7#p1-3fd98f96",
+     "text": "be not afraid lest the Philistines should punish you for this fact, but take good courage, I will defend yon.",
+     "anchor": "Be ye valiant"
+    },
+    {
+     "id": "poole/2SA.2.7#p2-08b05407",
+     "text": "or",
+     "anchor": "For your master Saul is dead"
+    },
+    {
+     "id": "poole/2SA.2.7#p3-a8127978",
+     "text": "and so your hearts may faint within you, as if you were now sheep without a shepherd.",
+     "anchor": "though your master Saul be dead"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.8",
+   "range": "2SA.2.8",
+   "kind": "passage",
+   "hash": "f9fd9f8b",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.8#p1-6cbdfe6b",
+     "text": "Partly out of envy and malice against David; and partly out of his own ambition and desire of rule, because he knew that Ish-bosheth would have only the name of king, whilst he had the power."
+    },
+    {
+     "id": "poole/2SA.2.8#p2-3810359a",
+     "text": "called also Esh-baal, 1Ch 8:33 9:39; it being usual with the Hebrews, instead of Baal, the name of false gods, to put Bosheth, which signifies shame, or confusion, or a shameful thing; as appeareth by comparing Jud 9:53, with 2Sa 11:21; and 2Sa 4:4, with 1Ch 8:31; and from Jer 3:21 Hos 9:10.",
+     "anchor": "Ish-bosheth",
+     "refs": [
+      {
+       "text": "1Ch 8:33",
+       "ref": "1CH.8.33"
+      },
+      {
+       "text": "Jud 9:53",
+       "ref": "JUD.9.53"
+      },
+      {
+       "text": "2Sa 11:21",
+       "ref": "2SA.11.21"
+      },
+      {
+       "text": "2Sa 4:4",
+       "ref": "2SA.4.4"
+      },
+      {
+       "text": "1Ch 8:31",
+       "ref": "1CH.8.31"
+      },
+      {
+       "text": "Jer 3:21",
+       "ref": "JER.3.21"
+      },
+      {
+       "text": "Hos 9:10",
+       "ref": "HOS.9.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/2SA.2.8#p3-cb2d4d40",
+     "text": "a place beyond Jordan, whither he carried him; partly to secure those brave and valiant men of Jabesh-gilead to himself; and principally because this place was most remote from David, and from the Philistines too; and therefore here he might recruit his forces with less disturbance than in other places.",
+     "anchor": "Mahanaim"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.9",
+   "range": "2SA.2.9",
+   "kind": "passage",
+   "hash": "447c1575",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.9#p1-fadfc6f2",
+     "text": "largely so taken for all the land of Israel beyond Jordan, as it is Jos 22:9 Jud 10:8.",
+     "anchor": "Gilead",
+     "refs": [
+      {
+       "text": "Jos 22:9",
+       "ref": "JOS.22.9"
+      },
+      {
+       "text": "Jud 10:8",
+       "ref": "JUD.10.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/2SA.2.9#p2-09e8fd25",
+     "text": "i.e. the tribe of Asher, as the Chaldee Paraphrast and others understand it.",
+     "anchor": "The Ashurites"
+    },
+    {
+     "id": "poole/2SA.2.9#p3-4f7c8d92",
+     "text": "a large and rich valley situate in the borders of the tribes of Zebulun, Issachar, and Naphtali, and so put synecedochically for them all.",
+     "anchor": "Jezreel"
+    },
+    {
+     "id": "poole/2SA.2.9#p4-7a52b5bc",
+     "text": "except Judah, as it follows.",
+     "anchor": "All Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.10",
+   "range": "2SA.2.10",
+   "kind": "passage",
+   "hash": "8dbc40bf",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.10#p1-8dbc40bf",
+     "text": "to wit, before the following war broke forth; compare 1Sa 13:1; for that he reigned longer, may appear both from the following verse and from 2Sa 3:1, and from the following history; though some think he reigned only two years, and that the rest of David’s seven years the Israelites by Abner’s instigation stuck to the house of Saul, but were in suspense whether they should confer the crown upon Mephibosheth the right heir, but a child; or upon Ish-bosheth, a grown man, whom with some difficulty, and after long debates amongst themselves, they preferred.",
+     "anchor": "Reigned two years",
+     "refs": [
+      {
+       "text": "1Sa 13:1",
+       "ref": "1SA.13.1"
+      },
+      {
+       "text": "2Sa 3:1",
+       "ref": "2SA.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.12",
+   "range": "2SA.2.12",
+   "kind": "passage",
+   "hash": "f458dca8",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.12#p1-da17273c",
+     "text": "i.e. his officers and commanders, and their army.",
+     "anchor": "The servants of Ish-bosheth"
+    },
+    {
+     "id": "poole/2SA.2.12#p2-849c05f9",
+     "text": "in the country of Benjamin, Jos 18:25, near Judah, to fight with David’s army, and to bring back the rest of the kingdom to Saul’s house.",
+     "anchor": "To Gibeon",
+     "refs": [
+      {
+       "text": "Jos 18:25",
+       "ref": "JOS.18.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.13",
+   "range": "2SA.2.13",
+   "kind": "passage",
+   "hash": "7c59927d",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.13#p1-5994adea",
+     "text": "to battle.",
+     "anchor": "Went out"
+    },
+    {
+     "id": "poole/2SA.2.13#p2-f4e23e30",
+     "text": "How could or durst this one tribe oppose all the rest?",
+     "anchor": "Quest"
+    },
+    {
+     "id": "poole/2SA.2.13#p3-8ac4b4b8",
+     "text": "First, This tribe was very numerous and valiant of themselves, and they had a king of extraordinary courage, and conduct, and success. Secondly, There were great numbers of the other tribes which favoured them, as appears from 1Ch 12. Thirdly, They had the encouragement of special promises of God, made both to their tribe and to David.",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/2SA.2.13#p4-f75f9b4e",
+     "text": "i. e. met the opposite army, and put themselves into a posture for battle.",
+     "anchor": "Met together"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.14",
+   "range": "2SA.2.14",
+   "kind": "passage",
+   "hash": "840e480c",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.14#p1-13783b78",
+     "text": "Abner trusting to his greater numbers, offers battle."
+    },
+    {
+     "id": "poole/2SA.2.14#p2-2218993d",
+     "text": "i.e. show their prowess and dexterity in managing their weapons, and fighting together. He speaks like a vain-glorious and cruel man, and a soldier of fortune, that esteemed it a sport to see men wounding and killing one another. So this he designed, partly for their mutual recreation, and trial of skill and valour; and partly that by this occasion they might be engaged in a battle.",
+     "anchor": "Play before us"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.15",
+   "range": "2SA.2.15",
+   "kind": "passage",
+   "hash": "a386683a",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.15#p1-a386683a",
+     "text": "Abner selected all his combatants out of Benjamin, both because that was a warlike and valiant tribe, and that he might give the more honour to his own tribe."
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.16",
+   "range": "2SA.2.16",
+   "kind": "passage",
+   "hash": "6737695b",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.16#p1-46e2324a",
+     "text": "by the hair of the head, which after their manner was of a considerable length, and therefore gave their enemy advantage; which every one of them endeavoured to get, and to improve against the other.",
+     "anchor": "By the head"
+    },
+    {
+     "id": "poole/2SA.2.16#p2-08b05407",
+     "text": "or",
+     "anchor": "Helkath-hazzurim"
+    },
+    {
+     "id": "poole/2SA.2.16#p3-569846b4",
+     "text": "i. e. of men who stood like rocks, unmovable, each one dying upon the spot where he fought.",
+     "anchor": "the field of rocks"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.21",
+   "range": "2SA.2.21",
+   "kind": "passage",
+   "hash": "aa847de4",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.21#p1-aa847de4",
+     "text": "if thou art ambitious to get a trophy or mark of thy valour, desist from me, who am an old and experienced captain, and go to some young and raw soldier; try thy skill upon him, and take away his arms from him.",
+     "anchor": "Take thee his armour"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.22",
+   "range": "2SA.2.22",
+   "kind": "passage",
+   "hash": "505b0d78",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.22#p1-505b0d78",
+     "text": "He was loth to enrage Joab too much against him, because his guilty conscience told him that his cause was bad, and herefore he presaged ill success, and that he might need such a friend as Joab to make his peace with David."
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.23",
+   "range": "2SA.2.23",
+   "kind": "passage",
+   "hash": "3664a85b",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.23#p1-17501a07",
+     "text": "was sharp-pointed, after the manner.",
+     "anchor": "The hinder end of the spear"
+    },
+    {
+     "id": "poole/2SA.2.23#p2-212eec42",
+     "text": "the seat of the liver and bowels, where wounds are mortal.",
+     "anchor": "Under the fifth rib"
+    },
+    {
+     "id": "poole/2SA.2.23#p3-505deda9",
+     "text": "upon the spot, not being able to go one step further.",
+     "anchor": "In the same place"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.25",
+   "range": "2SA.2.25",
+   "kind": "passage",
+   "hash": "d8e82506",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.25#p1-d8e82506",
+     "text": "Where, being upon the upper ground, they might better defend themselves."
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.26",
+   "range": "2SA.2.26",
+   "kind": "passage",
+   "hash": "664f67bd",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.26#p1-e2d8252a",
+     "text": "it will produce dreadful effects, and many bloody slaughters, if by a further prosecution thou makest them desperate; which is against all the rules of policy.",
+     "anchor": "It will be bitterness in the latter end"
+    },
+    {
+     "id": "poole/2SA.2.26#p2-6d48a6cb",
+     "text": "by nation and religion; whom therefore they should not pursue with so fierce a rage, as if they were pursuing the Philistines.",
+     "anchor": "Their brethren"
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.27",
+   "range": "2SA.2.27",
+   "kind": "passage",
+   "hash": "bc4be862",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.27#p1-bc4be862",
+     "text": "unless thou hadst made the motion that they might fight, 2Sa 2:14. It was thou, not I, that gave the first occasion of this fight. Withal, he intimates that Abner was the sole cause of this war; and that if he had not given commission and command, the war had never been undertaken, but all things had been ended by an amicable agreement; which might have been made that very morning, if he had so pleased.",
+     "anchor": "Unless thou hadst spoken",
+     "refs": [
+      {
+       "text": "2Sa 2:14",
+       "ref": "2SA.2.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.28",
+   "range": "2SA.2.28",
+   "kind": "passage",
+   "hash": "29a954f6",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.28#p1-29a954f6",
+     "text": "Either, first, at that time; or rather, secondly, in any pitched battle."
+    }
+   ]
+  },
+  {
+   "id": "poole/2SA.2.29",
+   "range": "2SA.2.29",
+   "kind": "passage",
+   "hash": "0cfd56b5",
+   "paragraphs": [
+    {
+     "id": "poole/2SA.2.29#p1-0cfd56b5",
+     "text": "otherwise called the mountains of Bether, Son 2:17, which were beyond Jordan; or some other country now not known by that name, which is the case of hundreds of places.",
+     "anchor": "Bithron",
+     "refs": [
+      {
+       "text": "Son 2:17",
+       "ref": "SNG.2.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

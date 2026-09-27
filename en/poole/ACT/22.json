@@ -1,0 +1,831 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "poole/ACT.22",
+   "range": "ACT.22",
+   "kind": "chapter",
+   "hash": "d6eb1ebf",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22#p1-2d7f2d8f",
+     "text": "Act 22:1-21 Paul declareth at large the manner of his conversion and call to the apostleship.",
+     "refs": [
+      {
+       "text": "Act 22:1-21",
+       "ref": "ACT.22.1-21"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22#p2-b8f63b09",
+     "text": "Act 22:22-24 At the very mentioning of the Gentiles the people exclaim furiously against him: whereupon the chief captain ordereth to examine him by scourging,",
+     "refs": [
+      {
+       "text": "Act 22:22-24",
+       "ref": "ACT.22.22-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22#p3-95e917d8",
+     "text": "Act 22:25-29 which he avoideth by pleading the privilege of a Roman citizen.",
+     "refs": [
+      {
+       "text": "Act 22:25-29",
+       "ref": "ACT.22.25-29"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22#p4-bba1e019",
+     "text": "Act 22:30 He is brought before the Jewish council.",
+     "refs": [
+      {
+       "text": "Act 22:30",
+       "ref": "ACT.22.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.1",
+   "range": "ACT.22.1",
+   "kind": "passage",
+   "hash": "8ae0052f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.1#p1-8ae0052f",
+     "text": "Although they were wicked men, and cruel persecutors, St. Paul giveth them their titles of respect, which by the places God had put them in, are due unto them: See Poole on \"Act 7:2\".",
+     "refs": [
+      {
+       "text": "Act 7:2",
+       "ref": "ACT.7.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.2",
+   "range": "ACT.22.2",
+   "kind": "passage",
+   "hash": "f6af4eed",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.2#p1-d881aa39",
+     "text": "the ordinary Hebrew; that which was taken for Hebrew, and spoken by the Hebrews after their return from the captivity, though mixed with the Syriac; as Act 21:40.",
+     "anchor": "The Hebrew tongue",
+     "refs": [
+      {
+       "text": "Act 21:40",
+       "ref": "ACT.21.40"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.2#p2-13357d1b",
+     "text": "it being more grateful unto them to hear Paul speak in their mother tongue, especially they having so great a prejudice against all other nations and languages.",
+     "anchor": "They kept the more silence"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.3",
+   "range": "ACT.22.3",
+   "kind": "passage",
+   "hash": "6ab9cb15",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.3#p1-71a92c45",
+     "text": "the apostle alludes unto the posture that the disciples of any rabbi, or teacher, in those times did use; the master sitting in some high or elevated place, did teach his scholars, who sat at his feet on the ground; and as they grew in knowledge, were advanced to sit nearer to their master: Deu 33:3. Abraham is thus said to be called to God’s foot, Isa 41:2; and Mary sat at our Saviour’s feet, Luk 10:39.",
+     "anchor": "At the feet",
+     "refs": [
+      {
+       "text": "Deu 33:3",
+       "ref": "DEU.33.3"
+      },
+      {
+       "text": "Isa 41:2",
+       "ref": "ISA.41.2"
+      },
+      {
+       "text": "Luk 10:39",
+       "ref": "LUK.10.39"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.3#p2-9f3ee5d4",
+     "text": "the same Gamaliel who made that moderating speech in the apostle’s behalf, Act 5:34.",
+     "anchor": "Of Gamaliel",
+     "refs": [
+      {
+       "text": "Act 5:34",
+       "ref": "ACT.5.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.3#p3-b2be4e25",
+     "text": "this perfect manner of the law is Pharisaism, in which the apostle was brought up, and before his conversion made a profession of, Php 3:5. Not that the apostle reckoned upon any perfection in this profession; but because, as Act 26:5, it was the most strait sect of their religion, observing a great deal of punctuality and accurateness, making what they called a hedge about the law.",
+     "anchor": "The perfect manner of the law",
+     "refs": [
+      {
+       "text": "Php 3:5",
+       "ref": "PHP.3.5"
+      },
+      {
+       "text": "Act 26:5",
+       "ref": "ACT.26.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.3#p4-a58e2b1c",
+     "text": "not observing only the law, which was given by God to their fathers by the hand of Moses; but the traditions of their fathers he was exceeding zealous in; as Gal 1:14.",
+     "anchor": "Of the fathers",
+     "refs": [
+      {
+       "text": "Gal 1:14",
+       "ref": "GAL.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.3#p5-f636d1f0",
+     "text": "or, as some copies read, zealous toward the law; both in the same sense. His zeal for the law was sincere, not out of by-ends, but out of his love to God, though it was not according to knowledge, Rom 10:2. It was truly according unto what he knew or believed, but it was not according to true knowledge.",
+     "anchor": "Zealous toward God",
+     "refs": [
+      {
+       "text": "Rom 10:2",
+       "ref": "ROM.10.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.4",
+   "range": "ACT.22.4",
+   "kind": "passage",
+   "hash": "ebc20f37",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.4#p1-7f5266d7",
+     "text": "the doctrine and practice of Christianity.",
+     "anchor": "This way"
+    },
+    {
+     "id": "poole/ACT.22.4#p2-95424973",
+     "text": "as much as in him lies, being one of the most furious persecutors, that hunted for the precious life, breathing out threatenings and slaughters with every breath, Act 9:1.",
+     "anchor": "Unto the death",
+     "refs": [
+      {
+       "text": "Act 9:1",
+       "ref": "ACT.9.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.5",
+   "range": "ACT.22.5",
+   "kind": "passage",
+   "hash": "b93eccce",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.5#p1-1fb8c444",
+     "text": "their sanhedrim or great council.",
+     "anchor": "The estate of the elders"
+    },
+    {
+     "id": "poole/ACT.22.5#p2-3fa5e3c4",
+     "text": "commission or orders.",
+     "anchor": "Letters"
+    },
+    {
+     "id": "poole/ACT.22.5#p3-f189adad",
+     "text": "the Jews of Damascus are called brethren, because they descended from the patriarchs as well as he. And still, as Act 22:1, he would overcome that stubborn people with civility, heaping up coals of fire on their heads, Rom 12:20, that they might be melted, and then formed after a more excellent manner.",
+     "anchor": "The brethren",
+     "refs": [
+      {
+       "text": "Act 22:1",
+       "ref": "ACT.22.1"
+      },
+      {
+       "text": "Rom 12:20",
+       "ref": "ROM.12.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.6",
+   "range": "ACT.22.6",
+   "kind": "passage",
+   "hash": "05f61b5f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.6#p1-05f61b5f",
+     "text": "As lightning it suddenly encompassed him. But see Act 9:3, and read on; where this history is set down by St. Luke. And here little more can be taken notice of, than some small variety in the expressions.",
+     "refs": [
+      {
+       "text": "Act 9:3",
+       "ref": "ACT.9.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.7",
+   "range": "ACT.22.7",
+   "kind": "passage",
+   "hash": "c135be07",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.7#p1-c135be07",
+     "text": "as men that call another earnestly repeat his name; as when the angel of the Lord called Abraham, Abraham, Gen 22:11.",
+     "anchor": "Saul, Saul",
+     "refs": [
+      {
+       "text": "Gen 22:11",
+       "ref": "GEN.22.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.8",
+   "range": "ACT.22.8",
+   "kind": "passage",
+   "hash": "4ed81b20",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.8#p1-4ed81b20",
+     "text": "that contemned (though not contemptible) name is owned by Christ from heaven, that they might not be ashamed when they were reproached by it on earth. Of the rest, See Poole on \"Act 9:5\".",
+     "anchor": "I am Jesus of Nazareth",
+     "refs": [
+      {
+       "text": "Act 9:5",
+       "ref": "ACT.9.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.9",
+   "range": "ACT.22.9",
+   "kind": "passage",
+   "hash": "eeac9726",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.9#p1-eeac9726",
+     "text": "Of this; See Poole on \"Act 9:7\". This may be added to what was formerly said, that the men who travelled with Paul may be said not to have heard the voice of him that spake, because they did not understand it, or obey it; they were not converted, as Paul was, by it; the Hebrew language putting hearing for obeying, as in many scriptures; and both St. Paul, who here spake, and Luke, who penned this history, understood exactly the proprieties of that tongue.",
+     "refs": [
+      {
+       "text": "Act 9:7",
+       "ref": "ACT.9.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.10",
+   "range": "ACT.22.10",
+   "kind": "passage",
+   "hash": "db5eb662",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.10#p1-f97c8215",
+     "text": "Act 9:6\". Such things as Ananias told him from Christ, were as if Christ himself had told him them; and by Ananias our Saviour satisfied St. Paul’s question,",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Act 9:6",
+       "ref": "ACT.9.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.10#p2-e6e8c0b5",
+     "text": "What shall I do, Lord?"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.11",
+   "range": "ACT.22.11",
+   "kind": "passage",
+   "hash": "9ab2bd37",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.11#p1-9ab2bd37",
+     "text": "the excellency of the object overpowering his sight. It was a strange work of God that enabled St. Stephen to see Christ, who is now so glorious, Act 7:55. And it will be according to God’s wonderful power, when at the resurrection we shall be enabled to look upon Christ in his greatest glory. Behold the goodness and severity of God upon Paul: severity upon him in striking of him with blindness in his body; but goodness indeed to him, in enlightening, converting, and saving of his soul.",
+     "anchor": "I could not see for the glory of that light",
+     "refs": [
+      {
+       "text": "Act 7:55",
+       "ref": "ACT.7.55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.12",
+   "range": "ACT.22.12",
+   "kind": "passage",
+   "hash": "66d8c134",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.12#p1-66d8c134",
+     "text": "this is added to distinguish him from a proselyte, and to let them know that he had received the gospel, not from a convert out of Gentilism, (who though they admitted, yet they had a greater jealousy over, and less kindness for), but from one like unto themselves in all things.",
+     "anchor": "According to the law"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.13",
+   "range": "ACT.22.13",
+   "kind": "passage",
+   "hash": "364363e7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.13#p1-7aaffd0c",
+     "text": "that in this posture he might more conveniently put his hands upon Paul; which we read that he now did, Act 9:17, and was ordinarily done upon the miraculous curing of any.",
+     "anchor": "Stood",
+     "refs": [
+      {
+       "text": "Act 9:17",
+       "ref": "ACT.9.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.13#p2-b542c48e",
+     "text": "or, as Act 9:18, immediately. The suddenness of the cures spake the power from whence they came: none but God saves and delivers after this manner.",
+     "anchor": "The same hour",
+     "refs": [
+      {
+       "text": "Act 9:18",
+       "ref": "ACT.9.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.14",
+   "range": "ACT.22.14",
+   "kind": "passage",
+   "hash": "bb146057",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.14#p1-81346099",
+     "text": "nothing could please the people better than το hear God so styled; for this they gloried in, above all things, that they and theirs had God to their Father, Joh 8:41. And nothing could better suit St. Paul’s purpose, who would not lie under that scandal of endeavouring an apostacy from the Jewish religion, (for the gospel which he preached was but the substance and perfection of the law), or that he served or worshipped any other God than the God of Abraham.",
+     "anchor": "The God of our fathers",
+     "refs": [
+      {
+       "text": "Joh 8:41",
+       "ref": "JHN.8.41"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.14#p2-6a5c303b",
+     "text": "he hath taken thee, as by the hand, and by his wonderful providence brought thee into that condition in which thou art.",
+     "anchor": "Hath chosen thee"
+    },
+    {
+     "id": "poole/ACT.22.14#p3-f61aba1e",
+     "text": "Christ is the Holy One, spotless and without blemish; God’s righteous servant, Isa 53:11. But this is here the rather spoken, that he might convince them of their sin in putting our Lord to death: for though he sweetened his speech to them in what he might, he would not flatter them to their destruction; like a skilful surgeon, he would not heal too fast. Now Paul saw Christ with the eye of his mind, it being enlightened to believe in him; and he saw him in his journey also with the eyes of his body. Some read, to, not τον δικαιον. And then Ananias tells St. Paul, that he was sent to show him that which was just and right in God’s sight; which he, being blinded by his zeal for the law, could not perceive.",
+     "anchor": "See that Just One",
+     "refs": [
+      {
+       "text": "Isa 53:11",
+       "ref": "ISA.53.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.15",
+   "range": "ACT.22.15",
+   "kind": "passage",
+   "hash": "c64cb9a4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.15#p1-e92e974c",
+     "text": "the apostles were in a more special manner Christ’s witnesses; as Luk 24:48 Joh 1:7 Act 1:8; God giving them extraordinary gifts, not for their own sakes chiefly, but to profit others withal; as the tree bears not fruit, nor the field yields its increase, for itself.",
+     "anchor": "His witness",
+     "refs": [
+      {
+       "text": "Luk 24:48",
+       "ref": "LUK.24.48"
+      },
+      {
+       "text": "Joh 1:7",
+       "ref": "JHN.1.7"
+      },
+      {
+       "text": "Act 1:8",
+       "ref": "ACT.1.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.15#p2-79166b0e",
+     "text": "not that St. Paul’s commission extended only to the publishing this wonder at his conversion: for he was intrusted with the gospel, and had that treasure in his earthen vessel: but this miracle is expressly mentioned, because it was unto him and others a great confirmation of the truths which he believed himself, and recommended to the faith of others. And therefore in the course of his ministry he mentions this frequently; as here in this place, and before king Agrippa, Act 26:16 1Co 9:1; as also 1Co 15:8.",
+     "anchor": "Of what thou hast seen and heard",
+     "refs": [
+      {
+       "text": "Act 26:16",
+       "ref": "ACT.26.16"
+      },
+      {
+       "text": "1Co 9:1",
+       "ref": "1CO.9.1"
+      },
+      {
+       "text": "1Co 15:8",
+       "ref": "1CO.15.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.16",
+   "range": "ACT.22.16",
+   "kind": "passage",
+   "hash": "1a9b5078",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.16#p1-1da50aa4",
+     "text": "as washing causeth the spots to disappear, and to be as if they had not been, Isa 1:18; so does pardoning mercy, or remission of sins, which accompanieth baptism, as in the due receiver, Mat 3:11 1Pe 3:21,22. Where true faith is, together with the profession of it by baptism, there is salvation promised, Mar 16:16. In the mean while it is not the water, (for that only signifies), but it is the blood of Christ, which is thereby signified, that cleanseth us from our sins, as 1Jn 1:7. Yet sacraments are not empty and deceitful signs; but God accompanieth his own ordinances with his power from on high, and makes them effectual for those great things for which he instituted and appointed them.",
+     "anchor": "Wash away thy sins",
+     "refs": [
+      {
+       "text": "Isa 1:18",
+       "ref": "ISA.1.18"
+      },
+      {
+       "text": "Mat 3:11",
+       "ref": "MAT.3.11"
+      },
+      {
+       "text": "1Pe 3:21",
+       "ref": "1PE.3.21"
+      },
+      {
+       "text": "Mar 16:16",
+       "ref": "MRK.16.16"
+      },
+      {
+       "text": "1Jn 1:7",
+       "ref": "1JN.1.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.16#p2-49d3309a",
+     "text": "Christ, to whom by baptism he was to be dedicated.",
+     "anchor": "Calling on the name of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.17",
+   "range": "ACT.22.17",
+   "kind": "passage",
+   "hash": "1640bb36",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.17#p1-2472ca71",
+     "text": "This was probably about three years after his conversion, as Gal 1:18, and was one of the visions and revelations he makes mention of, 2Co 12:1.",
+     "refs": [
+      {
+       "text": "Gal 1:18",
+       "ref": "GAL.1.18"
+      },
+      {
+       "text": "2Co 12:1",
+       "ref": "2CO.12.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.17#p2-2d806c53",
+     "text": "a rapture and ecstasy, as Act 10:10.",
+     "anchor": "A trance",
+     "refs": [
+      {
+       "text": "Act 10:10",
+       "ref": "ACT.10.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.18",
+   "range": "ACT.22.18",
+   "kind": "passage",
+   "hash": "287f58d7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.18#p1-d3934f92",
+     "text": "this St. Paul takes notice of, that it might appear unto the Jews that he did not out of choice, or because he bare a grudge against them, decline them, and preach to the Gentiles.",
+     "anchor": "Get thee quickly out of Jerusalem"
+    },
+    {
+     "id": "poole/ACT.22.18#p2-133873f2",
+     "text": "as if Christ had said, They who were appointed unto life, and were curable, are already cured; but the rest who are hardened, nothing remains for them but utter destruction.",
+     "anchor": "For they will not receive thy testimony concerning me"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.19",
+   "range": "ACT.22.19",
+   "kind": "passage",
+   "hash": "e43d93cc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.19#p1-e43d93cc",
+     "text": "This was Paul’s objection which he made against the will of God concerning his leaving Jerusalem, and the Jews in it; and shows how apt carnal reason is in the very best men to set up itself against the wisdom of God, and to argue for what we fancy best to be done, or left undone. The sum of his reasoning is this, That he was most likely to do more good amongst the Jews than amongst the Gentiles, whither God was sending of him, because the Jews knew how zealous he had been not only to observe the law himself, but to procure its observation by all others; and that it was no less than a miracle which changed his mind about it. He shows also by this his great love unto the Jews, whom he would have staid with, had it been at his choice, and did only remove from by God’s command."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.20",
+   "range": "ACT.22.20",
+   "kind": "passage",
+   "hash": "ed04d797",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.20#p1-a420c77c",
+     "text": "is a Greek word, that signifies a witness; and is here, and since by the ecclesiastical writers, appropriated unto such as suffer death for the testimony they give to the truths of God, or doctrine of the gospel.",
+     "anchor": "Martyr"
+    },
+    {
+     "id": "poole/ACT.22.20#p2-aaa2088f",
+     "text": "as Act 8:1.",
+     "anchor": "Consenting unto his death",
+     "refs": [
+      {
+       "text": "Act 8:1",
+       "ref": "ACT.8.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.20#p3-51744121",
+     "text": "that is, of the witnesses against Stephen, as Act 7:58. For the witnesses did slay him not only by the testimony which they gave against him, but they were to be the first who stoned him.",
+     "anchor": "Of them that slew him",
+     "refs": [
+      {
+       "text": "Act 7:58",
+       "ref": "ACT.7.58"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.20#p4-76dbde38",
+     "text": "or murdered him.",
+     "anchor": "Slew him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.21",
+   "range": "ACT.22.21",
+   "kind": "passage",
+   "hash": "c3434377",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.21#p1-5ed78b2a",
+     "text": "God repeats his command, and by that answers all Paul’s reasonings; whatsoever the event be, whether the Gentiles will hear, or whether they will forbear, he must go unto them. When the will of God is manifest we must do it, whatsoever success we are like to have."
+    },
+    {
+     "id": "poole/ACT.22.21#p2-d014bcd7",
+     "text": "this was verified; God sent Paul, and he went very far, as appears, Act 9:15 Rom 15:19 Gal 1:17 2:8.",
+     "anchor": "I will send thee far hence",
+     "refs": [
+      {
+       "text": "Act 9:15",
+       "ref": "ACT.9.15"
+      },
+      {
+       "text": "Rom 15:19",
+       "ref": "ROM.15.19"
+      },
+      {
+       "text": "Gal 1:17",
+       "ref": "GAL.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.22",
+   "range": "ACT.22.22",
+   "kind": "passage",
+   "hash": "ac2eb0ab",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.22#p1-8d76ea40",
+     "text": "They gave him audience unto this word; they had heard all the rest of St. Paul’s discourse without any gainsaying, either thinking it did not much concern them whether it were true or false, or else, being convinced of the truth of it, they were silent; but when the mercy of God unto any but themselves is mentioned, they are not able to bear with it. Though they themselves refused the offers of God’s mercy, yet they could not endure that it should be tendered unto others; especially that others should be preferred before them in the tendering of it."
+    },
+    {
+     "id": "poole/ACT.22.22#p2-fbe69ad5",
+     "text": "Away with such a fellow from the earth; that is: Kill him; encouraging one another to so barbarous a murder, or exciting their rulers unto it."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.23",
+   "range": "ACT.22.23",
+   "kind": "passage",
+   "hash": "ff7c31ce",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.23#p1-80b3966d",
+     "text": "they that stoned the blasphemer cast off their upper garments, that they might be the readier to do that execution, and carry the heavier stones; as Act 7:58. They might also cast or rend them off, in sign of grief and detestation of Paul’s (supposed) blasphemy.",
+     "anchor": "Cast off their clothes",
+     "refs": [
+      {
+       "text": "Act 7:58",
+       "ref": "ACT.7.58"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.23#p2-d745ffd7",
+     "text": "out of raging madness, having no stones at present in that place to throw at him; or stamping on the ground first with their feet, and taking thence the loosened earth, threw it up, to show that Paul had sinned against heaven, and provoked the God who dwells there; and that he was not worthy to tread on the earth, which, as well as they could, they took from him.",
+     "anchor": "Threw dust into the air"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.24",
+   "range": "ACT.22.24",
+   "kind": "passage",
+   "hash": "c5420569",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.24#p1-32a6d56c",
+     "text": "of whom, Act 21:31.",
+     "anchor": "The chief captain",
+     "refs": [
+      {
+       "text": "Act 21:31",
+       "ref": "ACT.21.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.24#p2-c0526124",
+     "text": "or fort, called Antonia, as in Act 21:34.",
+     "anchor": "The castle",
+     "refs": [
+      {
+       "text": "Act 21:34",
+       "ref": "ACT.21.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.22.24#p3-99fa1402",
+     "text": "or torturing, (being put to the question, as the French expression is, agreeable to the Greek word here used), which went no further than by scourging; which was for this purpose used upon the blessed body of our Saviour, Mat 27:26. The chief captain took it for granted that he was some notorious malefactor whom all cried out against injuriously, accounting vox populi to be vox Dei; and because in that confusion he could not know the certainty from his accusers, he would wrest a confession out of St. Paul, whom they accused.",
+     "anchor": "By scourging",
+     "refs": [
+      {
+       "text": "Mat 27:26",
+       "ref": "MAT.27.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.25",
+   "range": "ACT.22.25",
+   "kind": "passage",
+   "hash": "51b92889",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.25#p1-3fc225d4",
+     "text": "they who were to be scourged were bound to a post or column (amongst the Jews) of a cubit and a half high, inclining downwards upon it; and these thongs were such wherewith they bound Paul to this column or pillar; and with such also they intended to scourge him.",
+     "anchor": "They bound him with thongs"
+    },
+    {
+     "id": "poole/ACT.22.25#p2-43c92428",
+     "text": "that is, it is not lawful to scourge a Roman; much less, uncondemned: See Poole on \"Act 16:37\". This latter, the laws of no nation that was civilized did ever allow.",
+     "anchor": "Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
+     "refs": [
+      {
+       "text": "Act 16:37",
+       "ref": "ACT.16.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.26",
+   "range": "ACT.22.26",
+   "kind": "passage",
+   "hash": "88a813f4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.26#p1-88a813f4",
+     "text": "There were several centurions under one chief captain, or chiliarch, as there are several captains under one colonel; and this centurion might be deputed to examine Paul. The reason why they presently desisted from binding Paul, and informed the commander-in-chief of what he had alleged, might be, because as it was very penal to challenge this privilege falsely, so it was treason for any to deny it to such to whom it was due."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.27",
+   "range": "ACT.22.27",
+   "kind": "passage",
+   "hash": "25876977",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.27#p1-25876977",
+     "text": "It is very reasonable that a good man should make use of such lawful privileges as the place in which he lives doth afford, and in his condition may be allowed. And it is part of that wisdom our Saviour does recommend, if it does not destroy the innocence of the dove, Mat 10:16.",
+     "refs": [
+      {
+       "text": "Mat 10:16",
+       "ref": "MAT.10.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.28",
+   "range": "ACT.22.28",
+   "kind": "passage",
+   "hash": "79864627",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.28#p1-09dc48e7",
+     "text": "The historian relates, that the emperor Claudius sold this privilege to such foreigners as had not by any notable service merited to have it conferred upon them. At first it cost them very much to obtain it, as it did this chief captain; but afterwards it was more cheap and contemptible."
+    },
+    {
+     "id": "poole/ACT.22.28#p2-3687f4b5",
+     "text": "though Paul was born of Hebrew parents, yet he was born at Tarsus, to the natives of which town Augustus had given this privilege, for the assistance that the citizens afforded him in his wars with Brutus and Cassius; or, as some will have it, for favouring of Julius Caesar, this privilege was granted unto that place by him: and they, on the other side, to continue the sense of his favour, caused their town to be called Juliopolis, or the city of Julius.",
+     "anchor": "I was free born"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.29",
+   "range": "ACT.22.29",
+   "kind": "passage",
+   "hash": "1d244dc8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.29#p1-532ef53c",
+     "text": "who had bound him, and would have scourged him.",
+     "anchor": "They departed from him"
+    },
+    {
+     "id": "poole/ACT.22.29#p2-c00ede60",
+     "text": "the crime of breaking the privileges of the Roman citizens being accounted no less than treason, and a sin, as they called it, against the majesty of that people; as afterwards it was as great an offence against their emperors.",
+     "anchor": "The chief captain also was afraid"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.22.30",
+   "range": "ACT.22.30",
+   "kind": "passage",
+   "hash": "cef43f01",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.22.30#p1-73555f83",
+     "text": "that he might not continue, after knowledge, in that (accounted) crime of binding a Roman citizen; as also that Paul might speak with the greater liberty and freedom in his own defence.",
+     "anchor": "He loosed him from his bands"
+    },
+    {
+     "id": "poole/ACT.22.30#p2-f612d36a",
+     "text": "the chief of the four and twenty courses amongst the priests, according to their families, or such as in place and dignity did excel in the sanhedrim.",
+     "anchor": "The chief priests"
+    }
+   ]
+  }
+ ]
+}

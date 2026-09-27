@@ -1,0 +1,572 @@
+{
+ "source": "poole",
+ "book": "1KI",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "poole/1KI.21",
+   "range": "1KI.21",
+   "kind": "chapter",
+   "hash": "c0f7aede",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21#p1-c0f7aede",
+     "text": "Ahab coveteth to buy Naboth’s vineyard; which is denied him, and he is grieved, 1Ki 21:1-4. Jezebel writeth letters against Naboth; he is condemned of blasphemy, and stoned, 1Ki 21:5-14. Ahab possesseth the vineyard, 1Ki 21:15,16. Elijah denounceth judgment against Ahab and Jezebel, 1Ki 21:17-26. He repenting, God deferreth the judgment, 1Ki 21:27-29.",
+     "refs": [
+      {
+       "text": "1Ki 21:1-4",
+       "ref": "1KI.21.1-4"
+      },
+      {
+       "text": "1Ki 21:5-14",
+       "ref": "1KI.21.5-14"
+      },
+      {
+       "text": "1Ki 21:15",
+       "ref": "1KI.21.15"
+      },
+      {
+       "text": "1Ki 21:17-26",
+       "ref": "1KI.21.17-26"
+      },
+      {
+       "text": "1Ki 21:27-29",
+       "ref": "1KI.21.27-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.1",
+   "range": "1KI.21.1",
+   "kind": "passage",
+   "hash": "6d5a1229",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.1#p1-6d5a1229",
+     "text": "where one of Ahab’s palaces was, as the other was in Samaria.",
+     "anchor": "In Jezreel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.3",
+   "range": "1KI.21.3",
+   "kind": "passage",
+   "hash": "0e9bca72",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.3#p1-0e9bca72",
+     "text": "For God hath expressly, and for divers weighty reasons, forbidden the alienation of lands from the tribes and families to which they were allotted, Lev 25:15,23,25 Num 36:7 Eze 46:18. And although these might have been alienated till the jubilee, yet he durst not sell it to the king for that time; because he supposed that if once it came into the king’s hand, especially to be made a garden of pleasure, and affixed to his palace, neither he nor his posterity could ever recover it again; and so he should both offend God, and wrong his posterity; which being, as it seems, a pious man, he durst not do.",
+     "refs": [
+      {
+       "text": "Lev 25:15",
+       "ref": "LEV.25.15"
+      },
+      {
+       "text": "Eze 46:18",
+       "ref": "EZK.46.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.4",
+   "range": "1KI.21.4",
+   "kind": "passage",
+   "hash": "20253e9a",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.4#p1-823a62b2",
+     "text": "and company which either then were with him, or might come to him to the wall, as Hezekiah did under a like dejection of spirit, Isa 38:2.",
+     "anchor": "Turned away his face from the light",
+     "refs": [
+      {
+       "text": "Isa 38:2",
+       "ref": "ISA.38.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.4#p2-3bdbfebc",
+     "text": "refused to eat meat in his usual time.",
+     "anchor": "Would eat no bread"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.7",
+   "range": "1KI.21.7",
+   "kind": "passage",
+   "hash": "455d2b44",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.7#p1-455d2b44",
+     "text": "art thou fit to be king, that canst put up such affronts from thy subjects, and hast not the courage to use thy absolute power to dispose of them and theirs as seemeth good unto thee?",
+     "anchor": "Dost thou now govern the kingdom of Israel?"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.8",
+   "range": "1KI.21.8",
+   "kind": "passage",
+   "hash": "42e15ab4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.8#p1-f429ec63",
+     "text": "Whom she very well knew to be fit for her purpose."
+    },
+    {
+     "id": "poole/1KI.21.8#p2-26084719",
+     "text": "i.e. in Jezreel. So she seeks to destroy him with a pretence of justice, and with as little reflection upon Ahab as might be.",
+     "anchor": "In his city"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.9",
+   "range": "1KI.21.9",
+   "kind": "passage",
+   "hash": "5d72f8a4",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.9#p1-c8243d6e",
+     "text": "to remove all suspicion of hatred or evil design in Ahab, and to beget a good opinion of him amongst his people, as if his afflictions had done him good, and as if he were grown zealous for God’s honour, and careful of his people’s welfare, and therefore desirous to prevent the further displeasure of God against his city and kingdom; and in order thereunto, to inquire into all those sins which provoked God against them, and effectually to purge them out.",
+     "anchor": "Proclaim a fast"
+    },
+    {
+     "id": "poole/1KI.21.9#p2-0bfeda35",
+     "text": "in a scaffold, or some other high place, where malefactors were usually and fitly placed, that they might be seen, and their defence heard by all the people.",
+     "anchor": "Set Naboth on high"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.10",
+   "range": "1KI.21.10",
+   "kind": "passage",
+   "hash": "626c94da",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.10#p1-25c38dd8",
+     "text": "Heb. bless. Blessing is put for cursing and blaspheming, as Job 1:5 2:9, so also here, as is apparent, because his blessing God and the king had been no crime. It is a figure called euphemisms. God would have blasphemy so much abhorred, that it should not easily and unnecessarily be named by its proper name. Compare Psa 16:4.",
+     "anchor": "Thou didst blaspheme",
+     "refs": [
+      {
+       "text": "Job 1:5",
+       "ref": "JOB.1.5"
+      },
+      {
+       "text": "Psa 16:4",
+       "ref": "PSA.16.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.10#p2-362160d4",
+     "text": "to the place where malefactors were punished, which was out of the city, Lev 24:23 Jos 7:24 Mar 15:20 Heb 13:12, partly to show that they were unworthy of all human society, and abhorred by all the people; and partly because the place where they were killed was thereby ceremonially polluted.",
+     "anchor": "Carry him out",
+     "refs": [
+      {
+       "text": "Lev 24:23",
+       "ref": "LEV.24.23"
+      },
+      {
+       "text": "Jos 7:24",
+       "ref": "JOS.7.24"
+      },
+      {
+       "text": "Mar 15:20",
+       "ref": "MRK.15.20"
+      },
+      {
+       "text": "Heb 13:12",
+       "ref": "HEB.13.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.10#p3-1e6c5c27",
+     "text": "the proper punishment of blasphemers, Lev 24:15,16.",
+     "anchor": "Stone him",
+     "refs": [
+      {
+       "text": "Lev 24:15",
+       "ref": "LEV.24.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.10#p4-b34f2333",
+     "text": "as one that cursed his God, and his political father, his king. See Exo 21:17 12:28.",
+     "anchor": "That he may die",
+     "refs": [
+      {
+       "text": "Exo 21:17",
+       "ref": "EXO.21.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.11",
+   "range": "1KI.21.11",
+   "kind": "passage",
+   "hash": "5f220fb5",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.11#p1-5f220fb5",
+     "text": "which is not at all strange in them who had for a long time cast off the fear and sense of God, and prostituted their consciences and religion to please their king, and sold themselves to all manner of wickedness, and could not now make a safe and honourable retreat, and durst not disobey Jezebel’s command, by whom they knew the king was wholly governed, and who could easily have taken away their lives in the same manner, if they had refused to kill Naboth.",
+     "anchor": "The elders and the nobles did as Jezebel had sent unto them"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.13",
+   "range": "1KI.21.13",
+   "kind": "passage",
+   "hash": "b9bc2735",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.13#p1-b9bc2735",
+     "text": "And his sons with him, as may be thought from 2Ki 9:26, that so the king might have an undisturbed possession; for which they might pretend those examples, Num 16:32 Jos 7:24. But these were examples of extraordinary vengeance, and by special warrant from God; and the law of God was positively contrary to it, Deu 24:16.",
+     "refs": [
+      {
+       "text": "2Ki 9:26",
+       "ref": "2KI.9.26"
+      },
+      {
+       "text": "Num 16:32",
+       "ref": "NUM.16.32"
+      },
+      {
+       "text": "Jos 7:24",
+       "ref": "JOS.7.24"
+      },
+      {
+       "text": "Deu 24:16",
+       "ref": "DEU.24.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.14",
+   "range": "1KI.21.14",
+   "kind": "passage",
+   "hash": "efb6a978",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.14#p1-efb6a978",
+     "text": "by whom they knew the affairs of the kingdom were managed, and this design contrived.",
+     "anchor": "They sent to Jezebel"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.15",
+   "range": "1KI.21.15",
+   "kind": "passage",
+   "hash": "9801cbc2",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.15#p1-9801cbc2",
+     "text": "either, first, By right of confiscation, to repair the injury which he did to the king by blaspheming him. Or, secondly, By tyrannical usurpation. Or, thirdly, By right of inheritance; for some say that Ahab was his next kinsman, his sons being dead; which they judge more likely, because his land was next to the king’s.",
+     "anchor": "Take possession of the vineyard of Naboth"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.18",
+   "range": "1KI.21.18",
+   "kind": "passage",
+   "hash": "782910bd",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.18#p1-da2ebcb0",
+     "text": "either who now is there, and about to depart thence to Jezreel; or who commonly dwells there.",
+     "anchor": "Which is in Samaria"
+    },
+    {
+     "id": "poole/1KI.21.18#p2-b7025ca7",
+     "text": "or rather, he will be; by that time that thou comest thither thou shalt find him there.",
+     "anchor": "He is in the vineyard"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.19",
+   "range": "1KI.21.19",
+   "kind": "passage",
+   "hash": "d8a38651",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.19#p1-d03ef5e8",
+     "text": "Thou hast murdered an innocent and righteous man; and instead of repenting for it, thou hast added another piece of injustice and violence to it, and art going confidently and cheerfully to reap the fruit of thy wickedness. He ascribes Jezebel’s fact to Ahab, because Jezebel did it by his connivance, and consent, and authority, and for the satisfaction of his inordinate appetite.",
+     "anchor": "Hast thou killed, and also taken possession?"
+    },
+    {
+     "id": "poole/1KI.21.19#p2-8e948330",
+     "text": "How was this prophecy fulfilled, when Ahab’s blood was not licked in Jezreel, which was in the tribe of Issachar, but in the pool of Samaria, 1Ki 22:38, which was in the tribe of Ephraim?",
+     "anchor": "Quest",
+     "refs": [
+      {
+       "text": "1Ki 22:38",
+       "ref": "1KI.22.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.19#p3-0c559537",
+     "text": "First, This was done, though not in the same individual place, yet in the same general place, i.e. in the territory of Samaria, within which Jezreel was; and in a place of the same nature, a public and common place; for such was both the place of Naboth’s execution, and the pool of Samaria. Secondly, This was particularly accomplished in his son Joram, as is affirmed, 2Ki 9:25,26; whose blood is not improperly called Ahab’s blood, because children are said to be born of their parents’ blood. See Joh 1:13 Act 17:26.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "2Ki 9:25",
+       "ref": "2KI.9.25"
+      },
+      {
+       "text": "Joh 1:13",
+       "ref": "JHN.1.13"
+      },
+      {
+       "text": "Act 17:26",
+       "ref": "ACT.17.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.19#p4-20da31b1",
+     "text": "These words,",
+     "anchor": "Object"
+    },
+    {
+     "id": "poole/1KI.21.19#p5-9e90e4df",
+     "text": "show that it is meant of Ahab’s person.",
+     "anchor": "thy blood, even thine"
+    },
+    {
+     "id": "poole/1KI.21.19#p6-88e8c56c",
+     "text": "True, the threatening was so directed and designed at first; but afterwards, upon his humiliation, the punishment was transferred from him to his son, as is expressed, 1Ki 21:29.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "1Ki 21:29",
+       "ref": "1KI.21.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.19#p7-41714d92",
+     "text": "This is said to be fulfilled in Ahab’s person, 1Ki 22:38.",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "1Ki 22:38",
+       "ref": "1KI.22.38"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.19#p8-a555d032",
+     "text": "Either that may be referred to some other prediction or commination not elsewhere mentioned; or rather, it intimates that it was in part and in some sort fulfilled in him, though not so severely and opprobriously, nor with such characters of the curse, as it was in his son; whence he there mentions only the thing, without any regard unto the place here designed. But it may further be observed, that although upon Ahab’s humiliation the curse here threatened might seem to be wholly translated from his person to his posterity; yet upon Ahab’s return to sin, in the next chapter, he brings back the curse upon himself, and so it is no wonder if it be in some sort fulfilled in him also. Thirdly, The Hebrew word, rendered in",
+     "anchor": "Answ"
+    },
+    {
+     "id": "poole/1KI.21.19#p9-52d05ce3",
+     "text": "may be, and is by some learned men, otherwise rendered; either thus instead of this that; that being frequently said to be done in another’s place which was only done in his stead; or, like as; or, because that. So it doth not design the place, but the cause and reason of this judgment. And in this sense the same word is used Zec 2:1.",
+     "anchor": "the place where",
+     "refs": [
+      {
+       "text": "Zec 2:1",
+       "ref": "ZEC.2.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.20",
+   "range": "1KI.21.20",
+   "kind": "passage",
+   "hash": "ad13d511",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.20#p1-ce4913ac",
+     "text": "upon and after his delivery of the message last mentioned, which it was needless to repeat.",
+     "anchor": "Ahab said to Elijah"
+    },
+    {
+     "id": "poole/1KI.21.20#p2-a15c01d3",
+     "text": "Dost thou pursue me from place to place? Wilt thou never let me rest? Art thou come after me hither with thy unwelcome messages?",
+     "anchor": "Hast thou found me?"
+    },
+    {
+     "id": "poole/1KI.21.20#p3-53a5fe41",
+     "text": "that art always disturbing, threatening, and opposing me, and expressing not so much God’s mind as thy own hatred and enmity against me. Compare 1Ki 22:8.",
+     "anchor": "O mine enemy",
+     "refs": [
+      {
+       "text": "1Ki 22:8",
+       "ref": "1KI.22.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.20#p4-b94b0669",
+     "text": "the hand of God hath found and overtaken thee in the very act of thy sin.",
+     "anchor": "I have found thee"
+    },
+    {
+     "id": "poole/1KI.21.20#p5-23c8fede",
+     "text": "thou hast wilfully and wholly resigned up thyself to be the bond-slave of the devil, or Baal, and of wicked Jezebel, to do whatsoever they persuade thee to do; as a man that sells himself to another is totally in his master’s power, and must employ all his time and strength for his service. Compare 2Ki 17:7: See Poole \"Rom 7:14\".",
+     "anchor": "Thou hast sold thyself",
+     "refs": [
+      {
+       "text": "2Ki 17:7",
+       "ref": "2KI.17.7"
+      },
+      {
+       "text": "Rom 7:14",
+       "ref": "ROM.7.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.20#p6-96e12296",
+     "text": "i.e. impudently and contemptuously. Withal he minds him, that although his sin was in a great measure hid from the eyes of men by Jezebel’s cunning contrivance, yet it was evident and known to God, who would require it at his hands.",
+     "anchor": "In the sight"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.21",
+   "range": "1KI.21.21",
+   "kind": "passage",
+   "hash": "9a5a058f",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.21#p1-9a5a058f",
+     "text": "1Ki 14:10\"",
+     "anchor": "See Poole \"",
+     "refs": [
+      {
+       "text": "1Ki 14:10",
+       "ref": "1KI.14.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.23",
+   "range": "1KI.21.23",
+   "kind": "passage",
+   "hash": "a20696bc",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.23#p1-a20696bc",
+     "text": "Or, by the ditch, or fort; or, in the portion, as it is explained 2Ki 9:36; the Hebrew chel here being put for chelek, used there by an apocope of the last Hebrew letter, which is not unusual in the Hebrew tongue.",
+     "refs": [
+      {
+       "text": "2Ki 9:36",
+       "ref": "2KI.9.36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.25",
+   "range": "1KI.21.25",
+   "kind": "passage",
+   "hash": "3bd18ea8",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.25#p1-29b6b2a4",
+     "text": "none among all the kings of Israel which had been before him.",
+     "anchor": "There was none like unto Ahab"
+    },
+    {
+     "id": "poole/1KI.21.25#p2-f4fbbd3b",
+     "text": "this is added to show that temptations to sin are no excuse to the sinner.",
+     "anchor": "Whom Jezebel his wife stirred up"
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.26",
+   "range": "1KI.21.26",
+   "kind": "passage",
+   "hash": "c4ff509c",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.26#p1-c4ff509c",
+     "text": "i.e. the seven nations of Canaan, all called by this name, as Gen 15:16 48:22 Amo 2:9,10.",
+     "anchor": "The Amorites",
+     "refs": [
+      {
+       "text": "Gen 15:16",
+       "ref": "GEN.15.16"
+      },
+      {
+       "text": "Amo 2:9",
+       "ref": "AMO.2.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.27",
+   "range": "1KI.21.27",
+   "kind": "passage",
+   "hash": "2cc3c423",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.27#p1-2cc3c423",
+     "text": "i. e. Slowly and silently, after the manner of mourners, or those who are under a great consternation, and in deep consideration."
+    }
+   ]
+  },
+  {
+   "id": "poole/1KI.21.29",
+   "range": "1KI.21.29",
+   "kind": "passage",
+   "hash": "458c6c69",
+   "paragraphs": [
+    {
+     "id": "poole/1KI.21.29#p1-fcab0495",
+     "text": "i.e. in my presence, and upon my threatening. But this humiliation or repentance of Ahab’s was only external and superficial, arising from the terror of God’s judgments; and not sincere and serious, proceeding from the love of God, or a true sense of his sin, or a solemn purpose of amendment of his life, as appears, because all the particulars of his repentance here, 1Ki 21:27, are external and ritual only; nor is there the least intimation of any one sign or fruit of his true repentance, as that he restored Naboth’s land, or reproved his infamous wife; but in the very next chapter you find him returning to his former vomit, hating and threatening the Lord’s prophets, &c.",
+     "anchor": "Before me",
+     "refs": [
+      {
+       "text": "1Ki 21:27",
+       "ref": "1KI.21.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/1KI.21.29#p2-5d706628",
+     "text": "i.e. the judgment threatened, both that 1Ki 21:19, which was not inflicted upon Ahab with so much ignominy, and with that particular signature of God’s vengeance, that it was to be done in the same place, as it was upon his son Joram; and especially that 1Ki 21:21,22, which was wholly suspended until his son’s days.",
+     "anchor": "The evil",
+     "refs": [
+      {
+       "text": "1Ki 21:19",
+       "ref": "1KI.21.19"
+      },
+      {
+       "text": "1Ki 21:21",
+       "ref": "1KI.21.21"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

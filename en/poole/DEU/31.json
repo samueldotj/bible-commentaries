@@ -1,0 +1,411 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 31,
+ "units": [
+  {
+   "id": "poole/DEU.31",
+   "range": "DEU.31",
+   "kind": "chapter",
+   "hash": "d2cef6d5",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31#p1-d2cef6d5",
+     "text": "Moses declares to the people his approaching death, and encourageth them, and Joshua, Deu 31:1-8. He delivereth the law unto the priests to read it every seventh year to the people, Deu 31:9-13. God putteth Joshua into his office; foretelleth to Moses and him the future disobedience and misery of the people; enjoineth Moses a song to testify against the people, Deu 31:14-23. Moses chargeth the Levites to lay up the book of the law beside the ark of the covenant, Deu 31:24-27 assembleth all the people to hear his song, Deu 31:28-30.",
+     "refs": [
+      {
+       "text": "Deu 31:1-8",
+       "ref": "DEU.31.1-8"
+      },
+      {
+       "text": "Deu 31:9-13",
+       "ref": "DEU.31.9-13"
+      },
+      {
+       "text": "Deu 31:14-23",
+       "ref": "DEU.31.14-23"
+      },
+      {
+       "text": "Deu 31:24-27",
+       "ref": "DEU.31.24-27"
+      },
+      {
+       "text": "Deu 31:28-30",
+       "ref": "DEU.31.28-30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.1",
+   "range": "DEU.31.1",
+   "kind": "passage",
+   "hash": "747ed8bf",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.1#p1-747ed8bf",
+     "text": "i.e. proceeded or continued to speak, a usual Hebrew phrase. Or, went to the place where he had assembled the people, that he might speak to them.",
+     "anchor": "Went and spake"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.2",
+   "range": "DEU.31.2",
+   "kind": "passage",
+   "hash": "be633a64",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.2#p1-be633a64",
+     "text": "i.e. perform the office of a leader or governor, either because I now find a decay of my mind and body, which seems not well to agree with Deu 34:7, or because I foresee the time of my death approaches.",
+     "anchor": "Go out and come in",
+     "refs": [
+      {
+       "text": "Deu 34:7",
+       "ref": "DEU.34.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.4",
+   "range": "DEU.31.4",
+   "kind": "passage",
+   "hash": "8c37b1d3",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.4#p1-8c37b1d3",
+     "text": "Which he gave to you to possess."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.5",
+   "range": "DEU.31.5",
+   "kind": "passage",
+   "hash": "c59fa8e9",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.5#p1-c59fa8e9",
+     "text": "i.e. into your power. See Poole \"Deu 1:8\".",
+     "anchor": "Before your face",
+     "refs": [
+      {
+       "text": "Deu 1:8",
+       "ref": "DEU.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.9",
+   "range": "DEU.31.9",
+   "kind": "passage",
+   "hash": "a64b2bd8",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.9#p1-895baac8",
+     "text": "largely so called, the whole law or doctrine delivered unto Moses contained in these five books.",
+     "anchor": "This law"
+    },
+    {
+     "id": "poole/DEU.31.9#p2-8d797f44",
+     "text": "that they might keep it carefully and religiously, and bring it forth upon occasion, and read it, and instruct the people out of it.",
+     "anchor": "Delivered it unto the priests"
+    },
+    {
+     "id": "poole/DEU.31.9#p3-f602db0c",
+     "text": "to wit, sometimes in great solemnities, as Jos 3:13,17 6:12 1Ki 8:3; though the Levites also might bear it, as appears from Num 3 Num 4 Num 10 1Ch 15:2.",
+     "anchor": "Which bare the ark",
+     "refs": [
+      {
+       "text": "Jos 3:13",
+       "ref": "JOS.3.13"
+      },
+      {
+       "text": "1Ki 8:3",
+       "ref": "1KI.8.3"
+      },
+      {
+       "text": "1Ch 15:2",
+       "ref": "1CH.15.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.9#p4-918cffb9",
+     "text": "were assistants to the priests, and overseers to take care that the law should be kept, and read, and observed.",
+     "anchor": "The elders of Israel"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.10",
+   "range": "DEU.31.10",
+   "kind": "passage",
+   "hash": "2c60fd1d",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.10#p1-2c60fd1d",
+     "text": "when they were freed from debts and troubles, and cares of worldly matters, and thereby fitter to attend upon God and his service.",
+     "anchor": "The year of release"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.11",
+   "range": "DEU.31.11",
+   "kind": "passage",
+   "hash": "d6794e0a",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.11#p1-d6794e0a",
+     "text": "Thyself in part, for the Jews tell us that the king was in person to read some part of it; or, at least, thou shalt cause it to be read by the priests or Levites, for he could not read it himself in the hearing of all Israel, but this was to be done by several persons, and to the people met in several congregations. See Neh 8:1, &c.",
+     "refs": [
+      {
+       "text": "Neh 8:1",
+       "ref": "NEH.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.12",
+   "range": "DEU.31.12",
+   "kind": "passage",
+   "hash": "7049fd96",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.12#p1-3c4e0cad",
+     "text": "not into one place, where all could not hear, but into divers assemblies or synagogues.",
+     "anchor": "Gather the people together"
+    },
+    {
+     "id": "poole/DEU.31.12#p2-2cce18ed",
+     "text": "hereby are required to go to Jerusalem at this solemnity, as they were permitted to do in other solemnities, when the males only were enjoined to go, Exo 23:17.",
+     "anchor": "Women",
+     "refs": [
+      {
+       "text": "Exo 23:17",
+       "ref": "EXO.23.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.12#p3-03d587ef",
+     "text": "to wit, such of them as could understand, as appears from Neh 8:2,3.",
+     "anchor": "Children",
+     "refs": [
+      {
+       "text": "Neh 8:2",
+       "ref": "NEH.8.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.12#p4-876bf62f",
+     "text": "i.e. the proselytes, though others also were admitted.",
+     "anchor": "Thy stranger"
+    },
+    {
+     "id": "poole/DEU.31.12#p5-c00b718e",
+     "text": "that they may then certainly and constantly do so, though they had also other opportunities to do so, as upon the sabbath days, Act 15:21, and other solemn feasts, yea, even in their private houses.",
+     "anchor": "That they may learn",
+     "refs": [
+      {
+       "text": "Act 15:21",
+       "ref": "ACT.15.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.14",
+   "range": "DEU.31.14",
+   "kind": "passage",
+   "hash": "9da1050f",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.14#p1-9be84a61",
+     "text": "either properly so called, for though the priests only might ordinarily enter there, yet others might go in upon a call and command from God, which here they had; or in the court of the tabernacle, at the door of which God stood in the cloudy pillar, Deu 31:15, the court coming here under the name of the tabernacle, as elsewhere it comes under the name of the temple.",
+     "anchor": "In the tabernacle",
+     "refs": [
+      {
+       "text": "Deu 31:15",
+       "ref": "DEU.31.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.14#p2-d6167408",
+     "text": "immediately from myself, for his greater encouragement, and to gain him more authority with the people.",
+     "anchor": "That I may give him a charge"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.16",
+   "range": "DEU.31.16",
+   "kind": "passage",
+   "hash": "9518c5ec",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.16#p1-5e921de7",
+     "text": "The death of men, both good and bad, is oft called a"
+    },
+    {
+     "id": "poole/DEU.31.16#p2-488c6a57",
+     "text": "because they shall certainly awake out of it by resurrection. See Psa 76:5 Dan 12:2 1Th 4:13, &c.; 2Pe 3:4. This people will go a whoring: God certainly foresees all things to come, yea, even those which depend upon the wills of men, or contingencies of the things, as this unquestionably did.",
+     "anchor": "sleep",
+     "refs": [
+      {
+       "text": "Psa 76:5",
+       "ref": "PSA.76.5"
+      },
+      {
+       "text": "Dan 12:2",
+       "ref": "DAN.12.2"
+      },
+      {
+       "text": "1Th 4:13",
+       "ref": "1TH.4.13"
+      },
+      {
+       "text": "2Pe 3:4",
+       "ref": "2PE.3.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.16#p3-a176d891",
+     "text": "i.e. of the Canaanites, who now are possessors, but shortly will be turned out of their possessions, and become as strangers in their own land. This aggravates their folly, to worship such gods as could neither preserve their friends, nor annoy their enemies.",
+     "anchor": "Of the strangers of the land"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.17",
+   "range": "DEU.31.17",
+   "kind": "passage",
+   "hash": "1cde20bf",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.17#p1-1cde20bf",
+     "text": "i.e. withdraw my favour and help.",
+     "anchor": "Hide my face"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.19",
+   "range": "DEU.31.19",
+   "kind": "passage",
+   "hash": "351f8130",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.19#p1-c3a2883d",
+     "text": "which is contained Deu 32, and is put into a song that it may be better learned, and more fixed in their minds and memories.",
+     "anchor": "This song"
+    },
+    {
+     "id": "poole/DEU.31.19#p2-eb6d8941",
+     "text": "cause them to learn it, and sing it one to another, to oblige them to more circumspection and watchfulness.",
+     "anchor": "Put it in their mouths"
+    },
+    {
+     "id": "poole/DEU.31.19#p3-08200aa7",
+     "text": "of my kindness in giving them so many blessings, of my patience in bearing so long with them, of my clemency in giving them such fair and plain warnings, and my justice in punishing such an unthankful, perverse, and incorrigible people.",
+     "anchor": "A witness for me"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.21",
+   "range": "DEU.31.21",
+   "kind": "passage",
+   "hash": "4a006134",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.21#p1-10d2b2b8",
+     "text": "this seems not to be a precept that they should remember it, but a prediction, that God would give them sad occasion to remember it, by bringing upon them the dreadful calamities mentioned in it.",
+     "anchor": "It shall not be forgotten"
+    },
+    {
+     "id": "poole/DEU.31.21#p2-c20f7f8e",
+     "text": "either their inward inclinations to idolatry, which they do not check, as they ought, but rather entertain with delight; and some of them do not only cherish it in their hearts, but as far as they can and dare secretly practise it, as may be gathered from Amo 5:26 Act 7:43; or their secret purposes to allow themselves therein, when they are settled in their land, which were clearly known to God, though it may be not fully evident to themselves.",
+     "anchor": "Their imagination which they go about, even now",
+     "refs": [
+      {
+       "text": "Amo 5:26",
+       "ref": "AMO.5.26"
+      },
+      {
+       "text": "Act 7:43",
+       "ref": "ACT.7.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.23",
+   "range": "DEU.31.23",
+   "kind": "passage",
+   "hash": "a42fc3a6",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.23#p1-a42fc3a6",
+     "text": "This wickedness of theirs which I now foresee and foretell shall not hinder me from bringing them into Canaan."
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.25",
+   "range": "DEU.31.25",
+   "kind": "passage",
+   "hash": "cafbd778",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.25#p1-cafbd778",
+     "text": "i.e. the priests, Deu 31:9 who also were Levites.",
+     "anchor": "The Levites",
+     "refs": [
+      {
+       "text": "Deu 31:9",
+       "ref": "DEU.31.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.31.26",
+   "range": "DEU.31.26",
+   "kind": "passage",
+   "hash": "ca9a5453",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.31.26#p1-67e65b85",
+     "text": "i.e. in the outside, in a little chest fixed to it, for nothing but the tables of stone were contained in the ark, 1Ki 8:9. Here it was kept for greater security and reverence.",
+     "anchor": "In the side",
+     "refs": [
+      {
+       "text": "1Ki 8:9",
+       "ref": "1KI.8.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.31.26#p2-d8213419",
+     "text": "i.e. against thy people, to whom he turns his speech, that they might be more affected with it.",
+     "anchor": "A witness against thee"
+    }
+   ]
+  }
+ ]
+}

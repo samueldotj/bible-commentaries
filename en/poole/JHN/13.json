@@ -1,0 +1,917 @@
+{
+ "source": "poole",
+ "book": "JHN",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "poole/JHN.13",
+   "range": "JHN.13",
+   "kind": "chapter",
+   "hash": "58b27335",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13#p1-ee79321b",
+     "text": "Joh 13:1-17 Jesus washes his disciples feet; and exhorteth them to follow his example of humility and charity.",
+     "refs": [
+      {
+       "text": "Joh 13:1-17",
+       "ref": "JHN.13.1-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13#p2-6f52721b",
+     "text": "Joh 13:18-30 He foretells the treachery of Judas, and points him out to John by a token.",
+     "refs": [
+      {
+       "text": "Joh 13:18-30",
+       "ref": "JHN.13.18-30"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13#p3-da46be8a",
+     "text": "Joh 13:31-35 He speaketh of his glorification as near at hand, and commandeth his disciples to love one another.",
+     "refs": [
+      {
+       "text": "Joh 13:31-35",
+       "ref": "JHN.13.31-35"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13#p4-ec668565",
+     "text": "Joh 13:36-38 He forewarns Peter that he shall thrice deny him.",
+     "refs": [
+      {
+       "text": "Joh 13:36-38",
+       "ref": "JHN.13.36-38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.1",
+   "range": "JHN.13.1",
+   "kind": "passage",
+   "hash": "a4437e16",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.1#p1-4ace92cf",
+     "text": "That this was the fourth passover after that he entered upon his public ministry is out of doubt, and the last he ever celebrated. We have taken notice of this evangelist’s mention of the other three: but how long what follows was before the passover, which is here expressed by"
+    },
+    {
+     "id": "poole/JHN.13.1#p2-57ab7f1a",
+     "text": "is a great question: some will have it the day, others immediately before, as προ (the very same particle) is used. Luk 11:38, before dinner, and Luk 22:15, before I suffer. The resolution of it much depends upon another question as difficult, viz. What supper it is which is mentioned? Joh 13:2. Those who would be satisfied in these cases, may find a collection of what is said by most valuable interpreters in Mr. Pool’s Synopsis Criticorum, upon Mat 26:1-75. It is our happiness, that though some such knots occur in holy writ, yet they are about things in which our salvation is not concerned; so as without danger to our souls we may be ignorant of what is the truth about them. When Christ knew that the hour (which he had once or twice before said was not come) was now come, that he must die, rise again, and in a short time ascend to his Father; he having loved his disciples, not with a mutable, but with an unchangeable love; he resolves upon the washing of their feet, as a demonstration of that love.",
+     "anchor": "before the feast",
+     "refs": [
+      {
+       "text": "Luk 11:38",
+       "ref": "LUK.11.38"
+      },
+      {
+       "text": "Luk 22:15",
+       "ref": "LUK.22.15"
+      },
+      {
+       "text": "Joh 13:2",
+       "ref": "JHN.13.2"
+      },
+      {
+       "text": "Mat 26:1-75",
+       "ref": "MAT.26.1-75"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.2",
+   "range": "JHN.13.2",
+   "kind": "passage",
+   "hash": "79ae3598",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.2#p1-4837739a",
+     "text": "possibly it were better translated, while they were at supper, or in supper time, Greek, δειπνου γενομενου, but the great question is, What supper is here intended? Our most learned Lightfoot is very confident this was not the paschal supper.",
+     "anchor": "And supper being ended"
+    },
+    {
+     "id": "poole/JHN.13.2#p2-10feecde",
+     "text": "The most interpreters, ancient and modern, seem to be of another mind. Or it may be rather a common supper, which they ate before the passover: for whereas some think this supper was that in the house of Simon the leper, mentioned Mat 26:6, it seemeth no way probable, no circumstance inclining us to believe any such thing; and the evangelist having told us that it was after that supper that Christ rode into Jerusalem and again went from thence, and hid himself, Joh 12:36, and then reporting this as a thing subsequent to it in this chapter; it seemeth very clear to me, that it could not be the supper in the house of Simon the leper. Concerning the influence of the devil upon Judas, to put it into his heart to betray his Master, see Luk 22:3,4.",
+     "refs": [
+      {
+       "text": "Mat 26:6",
+       "ref": "MAT.26.6"
+      },
+      {
+       "text": "Joh 12:36",
+       "ref": "JHN.12.36"
+      },
+      {
+       "text": "Luk 22:3",
+       "ref": "LUK.22.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.3",
+   "range": "JHN.13.3",
+   "kind": "passage",
+   "hash": "758ac61f",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.3#p1-758ac61f",
+     "text": "Our translating the Greek participle ειδως, knowing, (which properly signifies having known), createth a difficulty, viz. How Christ’s knowledge of this, that the Father had given all things into his hand, should be assigned as a reason of, or motive to, his subsequent action of washing the feet of his disciples? The sense therefore must certainly be, though he knew; and so it doth not import a reason of his following action, but only signifieth Christ’s great humiliation and condescension. Though he well enough knew, that all power was given him in heaven and earth, as in Mat 28:18; that he was his disciples’ Lord, that he came from God, and was now going to God again; yet to show how much he loved his disciples, and to set them a pattern of humility, and teach them brotherly love, and that he came not in the estate wherein he yet was to be ministered unto, but to minister, Mat 20:28.",
+     "refs": [
+      {
+       "text": "Mat 28:18",
+       "ref": "MAT.28.18"
+      },
+      {
+       "text": "Mat 20:28",
+       "ref": "MAT.20.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.4",
+   "range": "JHN.13.4",
+   "kind": "passage",
+   "hash": "d5b864c2",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.4#p1-f3dcbbdd",
+     "text": "What supper? Is the question. We are told, that the Jews had two suppers upon the paschal night, which was the 14th day of the month Nisan. The first was the passover supper, which was a religious rite in obedience to the law. The second, a common supper (as on other nights); to which our Saviour added a third, which was the Lord’s supper. To me it seemeth rather that their common supper was first, then the passover supper; and that Christ arose from this common supper to do this act. Augustine understood it of the common supper; so doth Beza, Heinsius, Tarnovius, and others; which seemeth to me most probable, though others understand it of the passover supper.",
+     "anchor": "He riseth from supper"
+    },
+    {
+     "id": "poole/JHN.13.4#p2-2d6e0af6",
+     "text": "Whatever supper the evangelist meaneth, Christ rose up from it before it was done. Calvin, Pareus, Beza, Petargus, Tossanus, and divers others amongst the protestant interpreters; Tolet, Maldonate, and Jansenius, amongst the papists; do agree a common supper this night, besides the paschal supper, and the Lord’s supper: from which it is most probable that Christ, as is here said, rose up, and laid aside his garment; that is, his outward loose garment, (for such they used), which servants were wont to gird up when they waited at table, Luk 17:8: Christ laid one aside, and girdling up the other, takes a towel.",
+     "refs": [
+      {
+       "text": "Luk 17:8",
+       "ref": "LUK.17.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.5",
+   "range": "JHN.13.5",
+   "kind": "passage",
+   "hash": "40462c56",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.5#p1-40462c56",
+     "text": "Poureth water into a bason; begins first to wash his disciples feet, then to wipe them with the linen cloth he had taken. All this was done in the form of a servant; so they used to do, as to guests that came to dine or sup with their lords or masters."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.6",
+   "range": "JHN.13.6",
+   "kind": "passage",
+   "hash": "ebe77481",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.6#p1-ebe77481",
+     "text": "Christ in the performance of this ceremony cometh to Simon Peter; whether first, or last, it is not said; and therefore the papists argue ill from hence, to prove the primacy of Peter over the rest of the apostles. Peter looks upon it with a modest, but sinful and superstitions, indignation. Samuel of old determined, that obedience to God is better than sacrifice; it is then certainly better than a compliment. Peter in this case ought not to have contradicted his Master out of a compliment to him, but to have suffered him to go on in this act of ministration. There may be a voluntary humility, and pretended reverence to Christ, which is indeed but superstition, and can be no other, if contrary to any revelation of the Divine will."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.7",
+   "range": "JHN.13.7",
+   "kind": "passage",
+   "hash": "14ba8846",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.7#p1-14ba8846",
+     "text": "Our Lord, seeing Peter’s general design good, though he mistook as to this particular act, tells him, that at present he did not understand his counsel and design in this action, but it should be more intelligible unto him afterwards; as indeed he made it by his discourse upon this his act of humiliation, Joh 13:13-16.",
+     "refs": [
+      {
+       "text": "Joh 13:13-16",
+       "ref": "JHN.13.13-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.8",
+   "range": "JHN.13.8",
+   "kind": "passage",
+   "hash": "390dd7be",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.8#p1-d554ac75",
+     "text": "Peter rashly replies, Thou shalt never wash my feet. Here was a seeming reverence for his Master, but (like the Jewish zeal mentioned by Paul, Rom 10:2) not according to knowledge. Christ tells him, that except he washed him, he had no part with him; that is, he should never be saved. But will some say, Was not this too severe, for our Saviour to threaten Peter with an exclusion from a co-inheritance with him in heaven, for modestly refusing to suffer him to wash his feet?",
+     "refs": [
+      {
+       "text": "Rom 10:2",
+       "ref": "ROM.10.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.8#p2-b76e9dee",
+     "text": "Answer."
+    },
+    {
+     "id": "poole/JHN.13.8#p3-c818103a",
+     "text": "1. The least disobedience not repented of, is enough to exclude a soul from the kingdom of heaven."
+    },
+    {
+     "id": "poole/JHN.13.8#p4-79cca176",
+     "text": "2. But Christ seems to take an advantage here, from this ceremony of his washing their feet, to discourse to him the necessity of his washing his soul with his blood, from the filth of sin and corruption; and of this washing it undoubtedly is that Christ here speaketh, the necessity of which is very often inculcated in holy writ."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.9",
+   "range": "JHN.13.9",
+   "kind": "passage",
+   "hash": "d9640e0b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.9#p1-b5a20bde",
+     "text": "Peter now understandeth what washing it is which our Saviour last spake of, and wholly submits to the will of his Lord and Master; acknowledging himself to be wholly defiled, and to stand in need of a washing all over:"
+    },
+    {
+     "id": "poole/JHN.13.9#p2-82b05bc7",
+     "text": "saith he, not my feet only, but also my hands and my head; that is, my whole man.",
+     "anchor": "Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.10",
+   "range": "JHN.13.10",
+   "kind": "passage",
+   "hash": "5413210a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.10#p1-76246668",
+     "text": "Look as it is with persons that have been washing themselves in a bath, when they are washed, yet walking abroad barefoot, or with thin sandals or coverings for their feet, will be again subject to pollute and dirty their feet, so as they will have frequent need to wash them again; but they need not soon again wash their whole bodies: so it is as to souls that are washed with my blood; washed, and sanctified, justified in the name of the Lord Jesus, and by the Spirit of God, (as the apostle speaketh, 1Co 6:11), their state is not to be renewed; they need not be justified a second time; but they will have need to have their feet washed, in regard of their remainder of sin and lust that is in them, and will be so while they are in the world, and the temptations which every where he in the world, as snares for their feet; they will have need of a daily washing by repentance, and fresh applications of their souls to my blood, by the repeated exercises of faith, according to their renewed and repeated acts of sin.",
+     "refs": [
+      {
+       "text": "1Co 6:11",
+       "ref": "1CO.6.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.10#p2-a08b9758",
+     "text": "you, who are my apostles, are clean; you are washed, you are justified, I have forgiven your sins, accepted your persons.",
+     "anchor": "Ye are clean"
+    },
+    {
+     "id": "poole/JHN.13.10#p3-577461a8",
+     "text": "the most of you are so, but not all.",
+     "anchor": "But not all"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.11",
+   "range": "JHN.13.11",
+   "kind": "passage",
+   "hash": "90ba225b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.11#p1-90ba225b",
+     "text": "By these words the evangelist expounds only what our Saviour meant in the former verse, when he had told them they were not all clean; for though the disciples did not yet know that they had a traitor amongst them, Satan had before this put the design into the heart of Judas, Joh 13:2; and Christ, who knew all hearts, knew what was in the heart of Judas, and he soon after (as we shall hereafter in this chapter read) revealed it; yet at this time he had not revealed it to his disciples: now he begins to discover it, telling them, that though the most of them were clean, justified and sanctified, yet all of them were not so.",
+     "refs": [
+      {
+       "text": "Joh 13:2",
+       "ref": "JHN.13.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.12",
+   "range": "JHN.13.12",
+   "kind": "passage",
+   "hash": "54aaa933",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.12#p1-54aaa933",
+     "text": "After that our Saviour had finished this ceremony, and washed his disciples’ feet, (some question whether all or no, but I see no reason to doubt it), he returned again to the supper, which probably now was near finished, which certainly was the common supper which the Jews had besides the passover supper, and probably before it, though some think after it. He asketh them if they knew the meaning of this which he had done unto them; lest they should not fully understand it, he openeth it to them in the following discourse."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.13",
+   "range": "JHN.13.13",
+   "kind": "passage",
+   "hash": "713481bf",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.13#p1-4ee1e499",
+     "text": "The disciples in their ordinary discourses called Christ"
+    },
+    {
+     "id": "poole/JHN.13.13#p2-7d655108",
+     "text": "nor was it a name improper for him, for he was their Master to instruct them, their Lord to rule, guide, and govern them: now, saith our Saviour, disciples ought to obey their master, servants ought to obey their lord, and disciples also ought to imitate their master.",
+     "anchor": "Master and Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.14",
+   "range": "JHN.13.14",
+   "kind": "passage",
+   "hash": "b73d5ade",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.14#p1-1098d521",
+     "text": "I have by this my action taught you to love, and to be ready also to serve, one another, and not to think much to serve them even in the lowest and meanest offices by which you can do them good; for we must not think that these words lay a literal obligation upon Christians to wash the feet of others; washing the feet is mentioned but as species pro genere, a single act of service, put for all other acts by which we can be serviceable unto others: so it is also used, 1Sa 25:41 1Ti 5:10. Some of the ancients seem to have judged this washing of feet to have been instituted as a sacrament, (though in an improper sense), and from hence, though Bellarmine, Maldonate, and others deny it to be a sacrament as well as we, yet probably is the practice in use amongst the papists, to wash certain persons’ feet every Thursday before Easter; a theatrical ceremony, rather than any thing of solid and profitable use. Our Saviour certainly intends no more by",
+     "refs": [
+      {
+       "text": "1Sa 25:41",
+       "ref": "1SA.25.41"
+      },
+      {
+       "text": "1Ti 5:10",
+       "ref": "1TI.5.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.14#p2-7f7cd7aa",
+     "text": "than, ye ought to serve one another in all offices of love, and not to think yourselves too good, or too great, to do the meanest services to those who are my disciples: and this is that as to which he tells them he had set them an example that they should do as he had done, in other acts of the same kind, though not as to this specific act.",
+     "anchor": "ye ought to wash one another’s feet"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.15",
+   "range": "JHN.13.15",
+   "kind": "passage",
+   "hash": "06bbfd48",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.15#p1-06bbfd48",
+     "text": "Ver. 15,16. The apostles were to take up a very high station in the gospel church, and our hearts are very prone to swell in a high opinion of ourselves, for which the nature of man taketh advantage from every thing in which we either really do excel, or can conceit that we do excel, our neighbours. Our Lord therefore, though speaking to the apostles, (some of the best of men), yet knowing they were (like Elijah) men subject to like passions with other men, addeth this to arm them against, any temptation to pride: they owned themselves as servants to Christ who was their great Lord; they had seen what he had done; he therefore applies a proverbial expression to them, which he also made use of in other cases, as Mat 10:24 Joh 15:20; in both which places he maketh use of it to arm them against persecutions; here, to persuade them to humility, condescension, and brotherly love.",
+     "refs": [
+      {
+       "text": "Mat 10:24",
+       "ref": "MAT.10.24"
+      },
+      {
+       "text": "Joh 15:20",
+       "ref": "JHN.15.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.16",
+   "range": "JHN.13.16",
+   "kind": "passage",
+   "hash": "680065a6",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.16#p1-680065a6",
+     "text": "Joh 13:15\"",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 13:15",
+       "ref": "JHN.13.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.17",
+   "range": "JHN.13.17",
+   "kind": "passage",
+   "hash": "69cde6be",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.17#p1-69cde6be",
+     "text": "He tells them, that it is not the bare comprehension of these things in their notion that would do them any good, unless they brought their knowledge into practice; for to him that knoweth to do good, and doeth it not, it is sin, Jas 4:17. Faith without works is dead, and the knowledge of our Master’s will, if we do it not, doth but expose us to many stripes.",
+     "refs": [
+      {
+       "text": "Jas 4:17",
+       "ref": "JAS.4.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.18",
+   "range": "JHN.13.18",
+   "kind": "passage",
+   "hash": "6faf59ba",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.18#p1-2cf66fb0",
+     "text": "I am about to tell you what will make your ears tingle; but be of good comfort, what I shall now tell you doth not concern all of you, it concerneth but one man amongst you."
+    },
+    {
+     "id": "poole/JHN.13.18#p2-cab785d4",
+     "text": "to the work of the apostleship; so some interpret it, as Joh 6:70, Have not I chosen you twelve, and one of you is a devil? But the generality of the best interpreters understand the choosing here mentioned, of a choosing to eternal life, and perseverance in the way of God as a means in order to it, as Eph 1:4; and so understood, here is a greater argument in this text to prove the Godhead of Christ, as the Author of eternal election: Though one of you be a devil, a traitor, yet I have chosen the rest of you to eternal life: and this is no more than was prophesied of me, and fulfilled in David as a type of me: the Scripture must have its accomplishment; that Scripture is now fulfilled in me.",
+     "anchor": "I know whom I have chosen",
+     "refs": [
+      {
+       "text": "Joh 6:70",
+       "ref": "JHN.6.70"
+      },
+      {
+       "text": "Eph 1:4",
+       "ref": "EPH.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.19",
+   "range": "JHN.13.19",
+   "kind": "passage",
+   "hash": "e56b8139",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.19#p1-e56b8139",
+     "text": "What I now tell you should be so far from prejudicing your faith in me, that it ought rather to confirm and increase your faith in me as the true Messias; when (the thing coming to pass) you shall understand that I know the hearts, counsels, and secret thoughts of men: and when you shall see the Scriptures have their accomplishment, and those things which were long ago prophesied concerning the Messias have their just accomplishment, and fulfilling in me as the person intended in those ancient revelations."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.20",
+   "range": "JHN.13.20",
+   "kind": "passage",
+   "hash": "4a4c8fbe",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.20#p1-4a4c8fbe",
+     "text": "Mat 10:24\", the words of which place are but here repeated; either to commend to them brotherly love, and offices of love, which he had before recommended to them under the notion of washing one another’s feet; or else to comfort his disciples, who might think that this treacherous villany of Judas would make them odious to the whole world: No, saith our Saviour, you are my messengers, persons sent by me; I will provide for you, there shall be those who will receive you. And I declare to all the world to encourage them, that I shall take their receiving of you as kindly as if they received me, and it shall turn to the same account, and that is all one as if they had received my Father himself, for he sent me. Some think that by these words Christ aggravates the sin of Judas, as being committed against the Father as well as against Christ; and a most treacherous failure as to the duty of an apostle, or one dignified so much as to be sent out by Christ.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Mat 10:24",
+       "ref": "MAT.10.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.21",
+   "range": "JHN.13.21",
+   "kind": "passage",
+   "hash": "6467dac0",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.21#p1-6467dac0",
+     "text": "How, and in what sense, trouble of spirit could agree to Christ, was noted before, Joh 12:27: see the notes on that text. This seemeth to have been rather a trouble of grief, that one of his apostles, one whom he had chosen, should commit so great a villany, than arising from fear of death; for his next words are a further discovery of the person that should betray him: he had said before, that he should be betrayed, and that it should be by one that used to eat bread with him; but now he cometh closer, and tells them that it should be by one of them, that is, one of the twelve; this was a closer discovery than he had as yet made.",
+     "refs": [
+      {
+       "text": "Joh 12:27",
+       "ref": "JHN.12.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.22",
+   "range": "JHN.13.22",
+   "kind": "passage",
+   "hash": "5c53ac1a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.22#p1-5c53ac1a",
+     "text": "It seemeth they had no suspicion of Judas, but our Saviour telling them that it was one of them, they begin to look about one upon another, rather suspecting themselves than Judas. There may be a great deal of villany, and the greatest villany, in the hearts of professors, in whose conversation appeareth nothing that may give a just suspicion to others; and the true disciples of Christ will have so much candour anti brotherly love, that they will not rashly judge and censure their brethren."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.23",
+   "range": "JHN.13.23",
+   "kind": "passage",
+   "hash": "17fb638a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.23#p1-a94390c8",
+     "text": "This leaning on Jesus’ bosom, and the laying on Jesus’ breast, mentioned Joh 13:25, cannot be understood without the understanding of the usual posture the Jews used at their meals, and particularly at the paschal supper; of which we have spoken largely; See Poole on \"Mat 26:20\": see the annotations there.",
+     "refs": [
+      {
+       "text": "Joh 13:25",
+       "ref": "JHN.13.25"
+      },
+      {
+       "text": "Mat 26:20",
+       "ref": "MAT.26.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.23#p2-090df5dd",
+     "text": "Their posture seemeth to have been kneeling, and resting their bodies back upon their legs, with a leaning upon their left elbow; and this seemeth not to have been so close, but that he that so sat might use his other hand to take his meat; hence he who sat before any, sat with his back towards him, but leaning towards the bosom of the other, which is here called a leaning on (that is, towards) his bosom, and laying on his breast; for it cannot be understood of such a sitting, or leaning, as to touch the other’s breast or bosom, for that would have hindered him upon whom the person so leaned from any use of his right hand to take his meat or drink."
+    },
+    {
+     "id": "poole/JHN.13.23#p3-f7dadc66",
+     "text": "It is apparent from hence, first, that at this supper there was none but Christ and his disciples. Secondly, that they sat in this posture of leaning. These two things make it very probable, if not certain, that the supper here mentioned was either the paschal supper, or a common supper, which immediately went before, or followed after, the passover supper. For,"
+    },
+    {
+     "id": "poole/JHN.13.23#p4-248f764c",
+     "text": "1. We have no record of any other supper, at which were only Christ and the twelve disciples; and:"
+    },
+    {
+     "id": "poole/JHN.13.23#p5-c9634901",
+     "text": "2. If we may believe the Jewish writers, though their ordinary posture at their common meals was discumbency, that is a kneeling on their knees, with a resting their bodies backward upon their legs; yet this posture of leaning was constantly added only upon the passover night, as a further testimony of their liberty, that they were not now servants, as in the land of Egypt. The person who sat next to our Saviour, with his back next our Saviour’s bosom, was John, often in Scripture dignified with the title of the beloved disciple, and him whom Jesus loved, Joh 19:26 Joh 20:2 21:7,20.",
+     "refs": [
+      {
+       "text": "Joh 19:26",
+       "ref": "JHN.19.26"
+      },
+      {
+       "text": "Joh 20:2",
+       "ref": "JHN.20.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.24",
+   "range": "JHN.13.24",
+   "kind": "passage",
+   "hash": "d10faa33",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.24#p1-166aa4a1",
+     "text": "Peter, knowing the particular affection that Christ had for John, maketh a sign to him, to ask of Christ which of them he meant, when he said,"
+    },
+    {
+     "id": "poole/JHN.13.24#p2-a7a19625",
+     "text": "One of you shall betray me."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.25",
+   "range": "JHN.13.25",
+   "kind": "passage",
+   "hash": "fdb60ac5",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.25#p1-fdb60ac5",
+     "text": "John accordingly, doth propound the question to Christ."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.26",
+   "range": "JHN.13.26",
+   "kind": "passage",
+   "hash": "48e5ab0d",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.26#p1-c1f73be2",
+     "text": "we have the same, though not mentioned as spoken in particular to John, Mat 26:23 Luk 22:21; though neither of them mention Christ’s own dipping the sop, but Matthew saith, he dipped his hand with him in the dish; and Luke saith, his hand was with him on the table. Without question all the evangelists speak of the same time; for it is not reasonable to think that this discovery should be made, and Judas gone out, and that afterward he should return again to eat the passover. This maketh me very inclinable to think, that though the washing of the feet might be during the time of a common supper, preceding the passover, yet the supper they were now at was the passover supper: where,",
+     "anchor": "Jesus answered, He it is, to whom I shall give a sop, when I have dipped it",
+     "refs": [
+      {
+       "text": "Mat 26:23",
+       "ref": "MAT.26.23"
+      },
+      {
+       "text": "Luk 22:21",
+       "ref": "LUK.22.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.26#p2-bbf17833",
+     "text": "1. Were none but he and the twelve disciples."
+    },
+    {
+     "id": "poole/JHN.13.26#p3-094f300d",
+     "text": "2. It is plain they were in that leaning posture, not used at common meals, but on the passover nights (as Dr. Lightfoot tells us from their writings)."
+    },
+    {
+     "id": "poole/JHN.13.26#p4-26334c26",
+     "text": "3. The discourse passed at the table is the very same (though not in words, yet in sense) with that mentioned by Matthew and Luke, at the passover supper."
+    },
+    {
+     "id": "poole/JHN.13.26#p5-b619e426",
+     "text": "4. It is not reasonable to think that after such a discovery as Christ now made of the traitor, he should come again to be pointed at and exposed."
+    },
+    {
+     "id": "poole/JHN.13.26#p6-85bc0375",
+     "text": "Concerning the sop, what it was, hath been some question; and a learned writer of our own (but in this point I think much too critical) hath increased the difficulty, by affirming the word here used, ψωμιον, signifies a piece of bread, or the lower part or chippings of the bread; for which he quotes Hesychius, who indeed doth say so of ψωθιον, but not ψωμιον. The learned annotator thinks ψωθιον is a false print for ψωμιον, but it cannot be: for,"
+    },
+    {
+     "id": "poole/JHN.13.26#p7-4f4eaae8",
+     "text": "1. There are in Hesychius several words in alphabetical order, between ψωθιον, and this word."
+    },
+    {
+     "id": "poole/JHN.13.26#p8-10b72297",
+     "text": "2. Though ψωμιον be not in Hesychius, yet ψωμη is, and expounded by him τα μερη, parts; now all know that this ψωμιον, which is but a diminutive derived from ψωμος or ψωμη, can signify no more than a little part, let it be of what it will; for it is manifest out of Homer, that, joined with an adjective, it signifies a mouthful of man’s flesh, which came out of the Cyclops’ mouth."
+    },
+    {
+     "id": "poole/JHN.13.26#p9-be8d3482",
+     "text": "So as the sense of these words is, He it is to whom I shall give a little part or portion of meat, when I have dipped it. And having dipped it, he gave it to Judas the son of Simon: not the Judas who wrote the Epistle, and who is mentioned, Joh 14:22, but he that was the son of Simon, called from his place which he lived in, Kiroth, Iscariot: by which he did as perfectly describe the traitor as if he had named him.",
+     "refs": [
+      {
+       "text": "Joh 14:22",
+       "ref": "JHN.14.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.27",
+   "range": "JHN.13.27",
+   "kind": "passage",
+   "hash": "6e2d577c",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.27#p1-07d5e40e",
+     "text": "That the devil did ever so enter into Judas as to possess him, as we read of many who were possessed, and violently acted by the devil, is more than we read and, where in holy writ: the entrance into him, signifies Judas’s free and willing giving up of himself to the devil’s suggestions and conduct; and in this sense the devil also before this time was entered into Judas, Luk 22:3. But as holy men are said to be filled with the Spirit of God, who had before received the Spirit, because the Holy Spirit came after upon them with fuller and stronger impulses and motions; so though the devil had formerly been moving Judas to this vile act, and had had his consent to it, yet after he had taken this mouthful, the devil plied him with stronger motions, impulses, and suggestions: and now he had mastered his conscience, and hardened his heart, so as he was more prepared for the villany about which he had some thoughts before.",
+     "refs": [
+      {
+       "text": "Luk 22:3",
+       "ref": "LUK.22.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.27#p2-e8b2105d",
+     "text": "He had now, with an unbelieving and unthankful heart, been eating the passover, which was a type of Christ; and had so mastered his conscience, as to come and do this, with a vile heart, reeking before with treacherous and bloody designs against his Lord and Master. See what is the effect. His heart is more vile, more treacherous, and bloody; he is twice more the servant of the devil than he was before. The sop given him by Christ was but an accidental occasion of it; as the devil took more advantage from his now hardened and further emboldened heart, and he is twice more the child of the devil than he was before."
+    },
+    {
+     "id": "poole/JHN.13.27#p3-4cdda47c",
+     "text": "Christ, knowing this, doth not command, advise, or exhort him; but, in a detestation, bids him go and do what he was resolved to do, and which he knew would be quickly; letting him know both that he knew what was in his heart, and that he was now ready to receive the effects of his malice."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.28",
+   "range": "JHN.13.28",
+   "kind": "passage",
+   "hash": "a4603f5e",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.28#p1-010d430c",
+     "text": "Ver. 28,29. How innocent are honest hearts! Charity thinketh no evil, saith the apostle."
+    },
+    {
+     "id": "poole/JHN.13.28#p2-da88b099",
+     "text": "Although our Saviour had plainly enough deciphered him as the traitor, by telling John that he to whom he should give the sop was he, and then by giving it to Judas; yet whether they all did not hear what our Saviour said to John, or did not think of so sudden a tragedy, they do not suspect that the hour was at hand when Judas should perfect his intended villany: though they heard our Saviour bid him get him out, and do quickly what he had to do; yet Judas being he who carried that little stock of money which Christ had, Joh 12:6, they thought that that which our Saviour bid him do, as a work he had undertaken to do, was laying out some money, either to buy some things which were necessary for them, for the seven days of the feast of unleavened bread; either for food for them to eat, or for sacrifices for them to offer; or that it was our Saviour’s mind, that he should out of this little stock distribute something to the poor: they little thought that our Saviour’s words argued a giving him over to perfect the treacherous designs which he had conceived in his heart.",
+     "refs": [
+      {
+       "text": "Joh 12:6",
+       "ref": "JHN.12.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.29",
+   "range": "JHN.13.29",
+   "kind": "passage",
+   "hash": "bed07826",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.29#p1-bed07826",
+     "text": "Joh 13:28\"\\",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Joh 13:28",
+       "ref": "JHN.13.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.30",
+   "range": "JHN.13.30",
+   "kind": "passage",
+   "hash": "9df45620",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.30#p1-9767fe8c",
+     "text": "From hence appeareth:"
+    },
+    {
+     "id": "poole/JHN.13.30#p2-75fb97b3",
+     "text": "1. That it is impossible to prove that Judas was with our Saviour when he instituted and celebrated the supper; though if he were, it proveth nothing of a liberty for ignorant and scandalous persons to be there, (for Judas was not such a one), nor yet of a lawfulness for ministers of the gospel, knowing any to be such, to give the Lord’s supper to them. For although Christ knew Judas’s heart, yet he acted not according to his omniscience, but as the first and prime minister of the gospel, setting us an example, not to judge of secret things, but of things open only."
+    },
+    {
+     "id": "poole/JHN.13.30#p3-6a33eb84",
+     "text": "2. It also appeareth from hence, that it is not probable that this was any other supper than the passover supper; for if it were not, the passover supper must be after this, and this same supper preceding it. Our famous Dr. Lightfoot thinks it was a supper in Bethany, at two miles distance (or near so much) from Jerusalem. But then it must follow:"
+    },
+    {
+     "id": "poole/JHN.13.30#p4-3fff5f38",
+     "text": "a) That John speaks nothing of the paschal supper, or the Lord’s supper; and:"
+    },
+    {
+     "id": "poole/JHN.13.30#p5-b69b802c",
+     "text": "b) It doth by no means appear probable to me, that Judas, after such a discovery of him, should come again to eat the passover with Christ and his disciples."
+    },
+    {
+     "id": "poole/JHN.13.30#p6-78c71f29",
+     "text": "These things, together with what I noted before, that here is no mention made of more guests than the twelve; that the posture used (especially as to leaning) was peculiar to the paschal supper; that the discourse mentioned by this evangelist as had at this supper about the discovery of the traitor, is the same in substance (though not in terms) with what Matthew and Luke report, as passed at the passover: all these things confirm me, that it is the paschal supper that John speaketh of. Whether Judas was at the Lord’s supper, which we know followed the passover immediately, depends upon the sense of the particle ευθεως, which we translate immediately; but doth not signify necessarily such a present departure, but the action of the Lord’s supper might be first over; though in reason it seemeth to me more probable, because of those words,"
+    },
+    {
+     "id": "poole/JHN.13.30#p7-a775608d",
+     "text": "that it should be here interpreted strictly, and that shame and horror should not suffer him to stay so long, as till the action of the supper was over: though whether he were at the Lord’s supper (as I said before) signifieth nothing at all to the questions about mixed communion, either as to the part of the minister administering, or the people communicating.",
+     "anchor": "having received the sop, he immediately went out"
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.31",
+   "range": "JHN.13.31",
+   "kind": "passage",
+   "hash": "5d6c0f41",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.31#p1-5d6c0f41",
+     "text": "He speaketh of that which was presently to be, as if it were already done; the meaning is, Now the time cometh when the Son of man shall immediately be glorified, by finishing the work which God hath given him to do; by rising again from the dead, and declaring himself to be the Son of God with power; by ascending up into heaven, to be glorified with the same glory which he had with the Father before the world began: and God will appear to be glorified in him, by his finishing the work which God hath given him to do, manifesting his name to the sons of men; and by the many signs and wonders which God will yet further show at the time of his death and resurrection, and by the coming down of the Holy Ghost."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.32",
+   "range": "JHN.13.32",
+   "kind": "passage",
+   "hash": "af35c36a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.32#p1-af35c36a",
+     "text": "God was glorified in Christ by his death upon the cross in obedience to his Father’s will; (thus Peter, Joh 21:19, is said by his death to glorify God); and as he was declared to be the Son of God; and as by him the world was brought to the knowledge of God, as by his spiritual and heavenly doctrine, so by the miracles he wrought. From hence our Lord concludes, that God should glorify Christ in himself; so as the glory of the Father and the Son are the same, they are mutually glorified each in other: if the Son be glorified, the Father is also glorified; and if the Father be glorified, the Son is also glorified; the Father and the Son are mutually glorified each in other. And the Father (saith our Saviour) in a short time will further glorify him, by taking him up into heaven, and making the whole person of the Mediator glorious in heaven.",
+     "refs": [
+      {
+       "text": "Joh 21:19",
+       "ref": "JHN.21.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.33",
+   "range": "JHN.13.33",
+   "kind": "passage",
+   "hash": "3c02a96a",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.33#p1-29f27d94",
+     "text": "Our Saviour’s time of death being very nigh, (for it was the next day), he begins to speak of it to his disciples more freely and plainly, and to let them know that he, though now dying, bare a fatherly tender affection to them: he calls them little children. Parents have a natural affection to their children; a more tender affection to their children when little, because in their tender age they are more ignorant, and unable to provide for themselves. We find this compellation used by Christ’s apostles, Gal 4:19 1Jn 2:1,28. And he tells them, that he had but now a little time to be with them before his death, and not long after his resurrection; in which, too, his converse was not such with them as it hitherto had been.",
+     "refs": [
+      {
+       "text": "Gal 4:19",
+       "ref": "GAL.4.19"
+      },
+      {
+       "text": "1Jn 2:1",
+       "ref": "1JN.2.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JHN.13.33#p2-b6993944",
+     "text": "he told this to the Jews in Joh 7:31, and now he tells them the same, that they would miss him when he was gone, and should seek him; but even the disciples at present could not follow him to heaven, whither he was going. The unbelieving Jews should never follow him thither, but even those who were his disciples, who were born again, and whom he loved as little children are beloved by their parents, should not yet follow him; his work in the world was done, but they had yet a great deal of work in it to do.",
+     "anchor": "Whither I go, ye cannot come",
+     "refs": [
+      {
+       "text": "Joh 7:31",
+       "ref": "JHN.7.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.34",
+   "range": "JHN.13.34",
+   "kind": "passage",
+   "hash": "6d542794",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.34#p1-6d542794",
+     "text": "The commandment of loving one another is strictly no new commandment, we find it in the law of Moses, Lev 19:18; often pressed in the New Testament, Joh 15:17 Eph 5:2 1Jn 4:21 1Jn 2:7 saith, it is no new commandment,; see also 2Jn 1:6. It is therefore called a new commandment, either because of the excellency of it, as new seemeth to be taken, Psa 33:3 Isa 65:17 Mat 26:29; or because it is expounded in the gospel in a new manner, pressed more plainly and in new arguments, and urged by a new example of their Lord and Master.",
+     "refs": [
+      {
+       "text": "Lev 19:18",
+       "ref": "LEV.19.18"
+      },
+      {
+       "text": "Joh 15:17",
+       "ref": "JHN.15.17"
+      },
+      {
+       "text": "Eph 5:2",
+       "ref": "EPH.5.2"
+      },
+      {
+       "text": "1Jn 4:21",
+       "ref": "1JN.4.21"
+      },
+      {
+       "text": "1Jn 2:7",
+       "ref": "1JN.2.7"
+      },
+      {
+       "text": "2Jn 1:6",
+       "ref": "2JN.1.6"
+      },
+      {
+       "text": "Psa 33:3",
+       "ref": "PSA.33.3"
+      },
+      {
+       "text": "Isa 65:17",
+       "ref": "ISA.65.17"
+      },
+      {
+       "text": "Mat 26:29",
+       "ref": "MAT.26.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.35",
+   "range": "JHN.13.35",
+   "kind": "passage",
+   "hash": "7a531f7b",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.35#p1-7a531f7b",
+     "text": "A disciple hath his name, either from learning from his master, or from following his master and treading in his steps: take it in either sense, loving one another is a certain note of being Christ’s disciples; for as Christ continually pressed this by his precepts, so he set them his own example, by showing the greatest love to them he could show."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.36",
+   "range": "JHN.13.36",
+   "kind": "passage",
+   "hash": "e7b0e814",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.36#p1-e7b0e814",
+     "text": "Peter yet understood not his Lord and Master, and therefore asked him whither he went? Our Saviour spake of his ascension into heaven, after his suffering death upon the cross; whither he tells Peter he could not at present follow him, but afterwards should. Believers shall be ever with the Lord, but they must wait the Lord’s time, and first finish the work which he hath given them to do upon the earth."
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.37",
+   "range": "JHN.13.37",
+   "kind": "passage",
+   "hash": "80f73ffa",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.37#p1-06679166",
+     "text": "Still Peter doth not understand our Saviour, but fancies some earthly motion from the place where he was; but it should seem by what followeth, that he thought our Saviour spake of some motion which might be very dangerous to him; and therefore he adds, according to his usual courage and mettle, expressed on all occasions,"
+    },
+    {
+     "id": "poole/JHN.13.37#p2-ad725bea",
+     "text": "we had such a resolution of his, Mat 26:33,35.",
+     "anchor": "I will lay down my life for thy sake",
+     "refs": [
+      {
+       "text": "Mat 26:33",
+       "ref": "MAT.26.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JHN.13.38",
+   "range": "JHN.13.38",
+   "kind": "passage",
+   "hash": "80072904",
+   "paragraphs": [
+    {
+     "id": "poole/JHN.13.38#p1-80072904",
+     "text": "Mark saith, before the cock crow twice. So the other three evangelists must be expounded, who say no more than before the cock crow, not mentioning how often; but the history makes it good, that our Saviour meant twice, for it was not before the second crowing of the cock that Peter went out, and wept bitterly."
+    }
+   ]
+  }
+ ]
+}

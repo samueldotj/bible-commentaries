@@ -1,0 +1,1903 @@
+{
+ "source": "poole",
+ "book": "HEB",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "poole/HEB.12",
+   "range": "HEB.12",
+   "kind": "chapter",
+   "hash": "9724c40c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12#p1-6b017ebd",
+     "text": "Heb 12:1-4 An exhortation to patience and constancy enforced by the example of Christ.",
+     "refs": [
+      {
+       "text": "Heb 12:1-4",
+       "ref": "HEB.12.1-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12#p2-a66d088b",
+     "text": "Heb 12:5-13 The benefit of God’s chastisements.",
+     "refs": [
+      {
+       "text": "Heb 12:5-13",
+       "ref": "HEB.12.5-13"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12#p3-105e0120",
+     "text": "Heb 12:14-17 Exhortation to peace and holiness.",
+     "refs": [
+      {
+       "text": "Heb 12:14-17",
+       "ref": "HEB.12.14-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12#p4-acd1c1a5",
+     "text": "Heb 12:18-24 The dispensation of the law compared with the privileges of the gospel.",
+     "refs": [
+      {
+       "text": "Heb 12:18-24",
+       "ref": "HEB.12.18-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12#p5-378c4255",
+     "text": "Heb 12:25-29 The danger of refusing the word from heaven.",
+     "refs": [
+      {
+       "text": "Heb 12:25-29",
+       "ref": "HEB.12.25-29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.1",
+   "range": "HEB.12.1",
+   "kind": "passage",
+   "hash": "a1021427",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.1#p1-1154eef9",
+     "text": "The Spirit proceeds in this chapter in his exhortation or counsel unto duties worthy of the former doctrine of Christ, and suitable to the foregoing examples, enumerated Heb 11:1-40.",
+     "refs": [
+      {
+       "text": "Heb 11:1-40",
+       "ref": "HEB.11.1-40"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.1#p2-d3dbe2fa",
+     "text": "he introduceth it with an illative particle, τοιγαρουν seeing all those worthies finished their course through faith, and received not the promise since made good to us, therefore is there something to be inferred.",
+     "anchor": "Wherefore seeing"
+    },
+    {
+     "id": "poole/HEB.12.1#p3-b1aebcfa",
+     "text": "we, I Paul, and you Hebrews, having enjoyed the better things provided by God for us, we are so much the more obliged; as also having such a multitude of witnesses of so vast worth and dignity, as all the Old Testament believers were, distilling, like a cloud, abundant influences, from their example, in doing and suffering for God, through faith, on our souls, to make us persevering in the faith to the end, as they did; and so compassing us about, as we cannot want either direction or encouragement to it, whenever we look into their histories for it.",
+     "anchor": "We also are compassed about with so great a cloud of witnesses"
+    },
+    {
+     "id": "poole/HEB.12.1#p4-5de21d82",
+     "text": "like the Grecian and Roman racers, who laid aside their cumbersome garments, so as they might more easily and lightly run their race; in allusion to which, it is the concern of every Christian to lay aside, or put away, all his worldly cumbrances, which would clog him in his race, his corrupt self, the world, &c., Mat 16:24 Luk 21:34 1Ti 6:9-11 2Ti 2:4.",
+     "anchor": "Let us lay aside every weight",
+     "refs": [
+      {
+       "text": "Mat 16:24",
+       "ref": "MAT.16.24"
+      },
+      {
+       "text": "Luk 21:34",
+       "ref": "LUK.21.34"
+      },
+      {
+       "text": "1Ti 6:9-11",
+       "ref": "1TI.6.9-11"
+      },
+      {
+       "text": "2Ti 2:4",
+       "ref": "2TI.2.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.1#p5-c3c2d025",
+     "text": "the evil weight inward is the old man, the corrupt nature, which remaineth in every Christian, styled by Paul, the body of death, Rom 7:24; but especially each Christian’s own personal iniquity, which sticks and cleaves nearer to him than his garments, and which made David so careful about it, in Psa 18:23; that which is so compassing and clasping him about, that he is so far from running, he cannot move for it, 1Co 9:27 Col 3:5. This they are to mortify in them.",
+     "anchor": "And the sin which doth so easily beset us",
+     "refs": [
+      {
+       "text": "Rom 7:24",
+       "ref": "ROM.7.24"
+      },
+      {
+       "text": "Psa 18:23",
+       "ref": "PSA.18.23"
+      },
+      {
+       "text": "1Co 9:27",
+       "ref": "1CO.9.27"
+      },
+      {
+       "text": "Col 3:5",
+       "ref": "COL.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.1#p6-6dc78aa6",
+     "text": "how distant soever the goal is, which finisheth the race of a Christian’s life, yet the way passing to it, though it be troublesome and long, and being set to us by God himself, must be patiently, strenously, and constantly run, that they may obtain it, Psa 119:32,33 Lu 13:24 1Co 9:24-27 Gal 5:7 Php 3:13,14 2Ti 4:7. The cloud of witnesses have so run it before them for their direction and encouragement.",
+     "anchor": "And let us run with patience the race that is set before us",
+     "refs": [
+      {
+       "text": "Psa 119:32",
+       "ref": "PSA.119.32"
+      },
+      {
+       "text": "1Co 9:24-27",
+       "ref": "1CO.9.24-27"
+      },
+      {
+       "text": "Gal 5:7",
+       "ref": "GAL.5.7"
+      },
+      {
+       "text": "Php 3:13",
+       "ref": "PHP.3.13"
+      },
+      {
+       "text": "2Ti 4:7",
+       "ref": "2TI.4.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.2",
+   "range": "HEB.12.2",
+   "kind": "passage",
+   "hash": "1f9348c1",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.2#p1-24bdb48a",
+     "text": "as if all the former witnesses were not enough, he adds a more excellent one than them all, even our Lord Jesus Christ, who is not only a pattern to them in their race and running of it, but a help, and for which end they were looking to him: the word αφορωντες is only here used in all the New Testament, and signifieth a looking off from whatever would distract us from earnestly looking on the proposed object alone; and though a word of sense, yet here noteth an act of the mind. It is borrowed from racers, the similitude of whom the apostle further improves: they fixedly eye their guides or leaders, to help them on in their course; so must a Christian in his race look off from all things else, and singly and intently look on Jesus to help him through it; αρχηγον see Heb 2:10; here it denotes Jesus to be the great institutor of, and chief leader in, the Christian race, and perfecter of them in running it. The disposition, grace, ability, and success which they have for running, it is all from him; from the beginning of the work of faith unto the end of it, to the finishing of the course, he doth infuse, assist, strengthen, and accomplish the work of it to the last, Joh 6:29,30 Php 4:13 2Ti 4:7 1Jn 5:4,5.",
+     "anchor": "Looking unto Jesus the author and finisher of our faith",
+     "refs": [
+      {
+       "text": "Heb 2:10",
+       "ref": "HEB.2.10"
+      },
+      {
+       "text": "Joh 6:29",
+       "ref": "JHN.6.29"
+      },
+      {
+       "text": "2Ti 4:7",
+       "ref": "2TI.4.7"
+      },
+      {
+       "text": "1Jn 5:4",
+       "ref": "1JN.5.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.2#p2-8bc45b80",
+     "text": "who for that joyful and glorious state which was clearly represented and faithfully promised to him by his Father to succeed his sufferings, that he should immediately attain himself, and successively communicate to all who believe in him, Luk 24:26 Joh 17:1,5,24 1Pe 1:11. This did so cheer and strengthen him, that with unexpressible patience he cheerfully",
+     "anchor": "Who for the joy that was set before him",
+     "refs": [
+      {
+       "text": "Luk 24:26",
+       "ref": "LUK.24.26"
+      },
+      {
+       "text": "Joh 17:1",
+       "ref": "JHN.17.1"
+      },
+      {
+       "text": "1Pe 1:11",
+       "ref": "1PE.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.2#p3-0669610e",
+     "text": "with all the concomitants of it, the sorrows in his soul, the torturing pains in his body, of buffetings, smitings, piercings of thorns, tearing his flesh with scourges, boring of his hands and feet with nails, with all the evils that either the malice or rage of devils or men could inflict on him; he was neither weary of his burden, nor shrinking from nor fainting under it. With what invincible meekness and passive fortitude did he undergo all that was foretold of him! Isa 53:1-12.",
+     "anchor": "endured the cross",
+     "refs": [
+      {
+       "text": "Isa 53:1-12",
+       "ref": "ISA.53.1-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.2#p4-84b1ad52",
+     "text": "as the same time slighting and casting out of his thoughts all the disgrace poured on him by his enemies, both in his mind and action, contemning all the blasphemies, taunts, reproaches, and shameful carriages of sinners to him, suffering without any emotion all their indignities, even in the most shameful death itself, Php 2:6-8, though he were the most innocent as well as excellent person in all the world.",
+     "anchor": "Despising the shame",
+     "refs": [
+      {
+       "text": "Php 2:6-8",
+       "ref": "PHP.2.6-8"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.2#p5-aaf04419",
+     "text": "the issue of all which was, his exaltation by God for his abasement by man; he riseth from the dead, ascendeth to heaven, sets himself down as a triumphing conqueror over sin, the prince of the powers in the air, death, and hell, at the right hand of the throne of God; and thence discovers himself in his state and glory, as the great Ruler of the world, King of kings, and Lord of lords, Php 2:9,10, {see Heb 8:1} and the glorious rewarder of those who serve him, and suffer for him.",
+     "anchor": "And is set down at the right hand of the throne of God",
+     "refs": [
+      {
+       "text": "Php 2:9",
+       "ref": "PHP.2.9"
+      },
+      {
+       "text": "Heb 8:1",
+       "ref": "HEB.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.3",
+   "range": "HEB.12.3",
+   "kind": "passage",
+   "hash": "2687569c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.3#p1-f3d2951a",
+     "text": "the connection is rational, that they ought to regard this example, for that there were greater sufferings behind than any yet they had endured, which would enforce it, as Heb 12:4: αναλογισασθε signifieth the use of it proportionable consideration, thinking on or reasoning about this example within a man’s self, such as may make the considerer bear a proportion to the subject considered.",
+     "anchor": "For consider him",
+     "refs": [
+      {
+       "text": "Heb 12:4",
+       "ref": "HEB.12.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.3#p2-62be4c02",
+     "text": "this Jesus spoken of before, who most patiently submitted to, and perseveringly bore up under, such opposition and contradiction by the words and works of the most wicked and vilest men against himself, who was the most innocent and best of men, always going about doing good to them, so as their sin and his patience were without parallel: none was ever so scorned, taunted, reviled, blasphemed, spit on, and ignominiously treated like him; and never any so invincibly endured it, Rom 15:3.",
+     "anchor": "That endured such contradiction of sinners against himself",
+     "refs": [
+      {
+       "text": "Rom 15:3",
+       "ref": "ROM.15.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.3#p3-43009a76",
+     "text": "the reason of this consideration is, lest faintness, languishing, or deficiency of soul, that is, of vigour, strength, and activity of heart in grace, should befall them; and so they should lie down and cease to run the Christian race, which the devil designed to oblige them to, as he would Christ, by the multitude and soreness of the contradictions they should suffer from sinners in it, so greatly as would not end but by broaching their life-blood, as they did Christ’s, and these must expect from them.",
+     "anchor": "Lest ye be wearied and faint in your minds"
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.4",
+   "range": "HEB.12.4",
+   "kind": "passage",
+   "hash": "3fb26532",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.4#p1-3fb26532",
+     "text": "Ye have suffered ranch for Christ already, but there is more that he requires from you, and is yet behind, Heb 10:32-34; the condition he fixed with you as his disciples, in Luk 14:26, to lay down your life as well as your relations and goods for him. You may yet be called to testify to him, by suffering a violent and bloody death from his and your enemies, as other martyrs had done for him: consider him who hath suffered a worse death for you, to sweeten yours to you, that you do not faint, fail, or turn apostates from him and his truth; resisting with agonies whatsoever men or devils use to entice or force us to apostatize from Christ, since there will be neither arts nor powers wanting to it. Watch you, pray, and strive to the utmost against them, Luk 22:31,32 1Pe 5:9.",
+     "refs": [
+      {
+       "text": "Heb 10:32-34",
+       "ref": "HEB.10.32-34"
+      },
+      {
+       "text": "Luk 14:26",
+       "ref": "LUK.14.26"
+      },
+      {
+       "text": "Luk 22:31",
+       "ref": "LUK.22.31"
+      },
+      {
+       "text": "1Pe 5:9",
+       "ref": "1PE.5.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.5",
+   "range": "HEB.12.5",
+   "kind": "passage",
+   "hash": "bc26ef9c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.5#p1-59f80c02",
+     "text": "εκλελησθε, whether rendered interrogatively: have ye forgotten? Or positively: ye have forgotten; either way it carrieth a check upon their forgetfulness of what was of the greatest importance for them to remember in the time of persecutions, and implieth a direction of them to their duty, that they ought to remember the counsel or command given by God to them, how to interpret these persecutions for Christ and the gospel, and how to improve them; and so introduceth a further help to their rnnning of the race of God with patience.",
+     "anchor": "And ye have forgotten"
+    },
+    {
+     "id": "poole/HEB.12.5#p2-2eef9044",
+     "text": "παρακλησεως notes properly consolation, and is here a consolatory exhortation to the management of a duty which would be highly such to them, and a dehortation from an evil which would greatly prejudice them; when it is said to speak, it is a metonymy of the effect for the efficient; the Lord in the exhortation speaking this to them.",
+     "anchor": "The exhortation"
+    },
+    {
+     "id": "poole/HEB.12.5#p3-23eca24c",
+     "text": "these words were written by Solomon, from God unto his children in that time; and God speaks no less by him to these Hebrews, who were his children now, as to all others who are such, or should be such, children to him. And whereas it is spoken singularly:",
+     "anchor": "Which speaketh unto you as unto children"
+    },
+    {
+     "id": "poole/HEB.12.5#p4-acfa8691",
+     "text": "it is to every child of God in Christ Jesus, and so collectively includeth all of them.",
+     "anchor": "My son"
+    },
+    {
+     "id": "poole/HEB.12.5#p5-ee9388f9",
+     "text": "the dehortation is written in Pro 3:11, that not one of these children should care little for, or set light by, denying all regardlessness, senselessness of, and incorrigibleness under, such smart correction as a parent gives to a child, either by himself, or by any other to whose care it is committed; but this chastening is from the Lord, the most gracious and tender Father, who can do them no evil, and will profit and benefit them by it. As they come from their persecutors for the sake of Christ, they are injuries; but as ordered by God their Father, they are so many favours to them, preventing sin, preserving in duty, and preparing them for blessedness.",
+     "anchor": "Despise not thou the chastening of the Lord",
+     "refs": [
+      {
+       "text": "Pro 3:11",
+       "ref": "PRO.3.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.5#p6-50081f60",
+     "text": "nor to nauseate his rebukes, or to faint under them; neither to let our faith or hope in our Father fail, nor to sink in our love to him, his way, or truth, or religion; nor to be weary, and give over our course, because of persecutions, but continuing faithful to him to the end, Heb 12:14,15 Mt 10:22 Luk 22:28,29.",
+     "anchor": "Nor faint when thou art rebuked of him",
+     "refs": [
+      {
+       "text": "Heb 12:14",
+       "ref": "HEB.12.14"
+      },
+      {
+       "text": "Luk 22:28",
+       "ref": "LUK.22.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.6",
+   "range": "HEB.12.6",
+   "kind": "passage",
+   "hash": "c12d65ba",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.6#p1-c80cde5d",
+     "text": "for showeth this to be a suasory reason against fainting under God’s rebukes, and enforcing the foregoing duty: sheet whomsoever, son or daughter, every child, that God the Father choicely loveth, taketh into his bosom, tendereth as a parent doth a child, Eph 5:1, he nurtureth, instructs, corrects by his word and rod in its respective measure, for their spiritual profit and advantage, 1Co 11:32.",
+     "anchor": "For whom the Lord loveth he chasteneth",
+     "refs": [
+      {
+       "text": "Eph 5:1",
+       "ref": "EPH.5.1"
+      },
+      {
+       "text": "1Co 11:32",
+       "ref": "1CO.11.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.6#p2-80436145",
+     "text": "scourgeth noteth the highest degree of chastening, even with the sharpest and most smarting punishment, wherein God proceedeth with all and every son or child, not any excepted, whom he hath adopied and received into his bosom with complacency and delight, Heb 5:8: compare Pro 3:12 Mat 17:5 Rev 3:19, where, though the words do vary, yet the sense is one and the same; God correcting, as a Father, the son in whom he delighteth.",
+     "anchor": "And scourgeth every son whom he receiveth",
+     "refs": [
+      {
+       "text": "Heb 5:8",
+       "ref": "HEB.5.8"
+      },
+      {
+       "text": "Pro 3:12",
+       "ref": "PRO.3.12"
+      },
+      {
+       "text": "Mat 17:5",
+       "ref": "MAT.17.5"
+      },
+      {
+       "text": "Rev 3:19",
+       "ref": "REV.3.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.7",
+   "range": "HEB.12.7",
+   "kind": "passage",
+   "hash": "d8502dc6",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.7#p1-70156d3c",
+     "text": "his reason he illustrateth from the convertibility of sufferring affliction and chastening from God the Father, and being his child; If ye have a child-like sense of chastening, such afflictions and sufferings from him as the Father ordereth to you, so as quietly and patiently to bear them, and by faith expecting a saving issue from them; God the Father in love chastening you, beareth, carrieth, and offereth himself to you as a father to his son, full of grace and love, Lev 26:41 Job 13:15 Psa 89:30 Mic 7:9.",
+     "anchor": "If ye endure chastening, God dealeth with you as with sons",
+     "refs": [
+      {
+       "text": "Lev 26:41",
+       "ref": "LEV.26.41"
+      },
+      {
+       "text": "Job 13:15",
+       "ref": "JOB.13.15"
+      },
+      {
+       "text": "Psa 89:30",
+       "ref": "PSA.89.30"
+      },
+      {
+       "text": "Mic 7:9",
+       "ref": "MIC.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.7#p2-77141cd2",
+     "text": "No son or child of God can be instanced in, who was capable of chastening, but more or less have felt it; even God’s only and best beloved One, Heb 5:8, for our sakes felt it, Isa 53:5. The interrogation is a vehement assertion, and so to be resolved.",
+     "anchor": "For what son is he whom the father chasteneth not?",
+     "refs": [
+      {
+       "text": "Heb 5:8",
+       "ref": "HEB.5.8"
+      },
+      {
+       "text": "Isa 53:5",
+       "ref": "ISA.53.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.8",
+   "range": "HEB.12.8",
+   "kind": "passage",
+   "hash": "241ad66c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.8#p1-2d849ded",
+     "text": "But if God chasten you not, or if he do, and ye have not grace, or do not rightly endure it, are not managing yourselves well under it, nor are profited by it, when all and every one of his children are partakers of it, then are ye a false and spurious seed, and not God’s genuine offspring,"
+    },
+    {
+     "id": "poole/HEB.12.8#p2-ad360e0a",
+     "text": "in his account; and indeed so the most forlorn, wretched persons of all others, left under the power and dominion of sin, hurrying them on to their utter destruction, Joh 8:41. These visible church members have a bastardly disposition, hearts alienated from God and his law, and inclined to the will and works of the flesh, expressing it in their conversation, running into the excess of sin, having no chastening to restrain them, and are deserted by God for it, Isa 1:4-6 Hos 4:14,17.",
+     "anchor": "bastards",
+     "refs": [
+      {
+       "text": "Joh 8:41",
+       "ref": "JHN.8.41"
+      },
+      {
+       "text": "Isa 1:4-6",
+       "ref": "ISA.1.4-6"
+      },
+      {
+       "text": "Hos 4:14",
+       "ref": "HOS.4.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.9",
+   "range": "HEB.12.9",
+   "kind": "passage",
+   "hash": "137a4cef",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.9#p1-7238e538",
+     "text": "he enforceth the duty of not despising nor fainting under the Lord’s chastening, from the consideration of his being our Father, and better than any earthly one, and from his goodness in that relation, and therefore we ought to submit to it: We have had our natural parents, as we are children, and who were the subordinate cause of our being as to our bodies, Heb 7:5,10, and they were instructors and correctors of us, made use of the rod as well as the word for our nurture; they have whipped and chastised us, putting us to smart and pain, 2Sa 7:14 Pro 22:15.",
+     "anchor": "Furthermore we have had fathers of our flesh which corrected us",
+     "refs": [
+      {
+       "text": "Heb 7:5",
+       "ref": "HEB.7.5"
+      },
+      {
+       "text": "2Sa 7:14",
+       "ref": "2SA.7.14"
+      },
+      {
+       "text": "Pro 22:15",
+       "ref": "PRO.22.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.9#p2-d7ba674c",
+     "text": "ενετρεπομεθα, imports a turning of bowels and spirits within them towards their fathers, covered with shame and blushing for their faults, and afraid to look them, when offended, in the face; reverencing them chastening, and submitting to the penalty, so as to reform and turn from the faults for which they were corrected.",
+     "anchor": "And we gave them reverence"
+    },
+    {
+     "id": "poole/HEB.12.9#p3-1f242519",
+     "text": "The expostulation shows the vehemency of the argument more than a simple position. It is the highest reason, of all right we must and ought (being as much our privilege as duty) to deny ourselves, and be in in that subjection, the free and willing subordination of our spirits to God, as the rod calls for it, receiving the correction, reforming under it, and resigning our souls to him who is the Creator of them as to their natural and spiritual being, and the Sovereign, Guardian, Protector, and Disposer of them; men nor angels have any power over them, but this Father of them only, and his great work and concern is about them, Gen 2:7 Num 27:16 Ecc 12:7 Zec 12:1.",
+     "anchor": "Shall we not much rather be in subjection unto the Father of spirits?",
+     "refs": [
+      {
+       "text": "Gen 2:7",
+       "ref": "GEN.2.7"
+      },
+      {
+       "text": "Num 27:16",
+       "ref": "NUM.27.16"
+      },
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      },
+      {
+       "text": "Zec 12:1",
+       "ref": "ZEC.12.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.9#p4-908d4b18",
+     "text": "by his chastening of our spirits, our immortal souls, Joh 3:6 Rom 8:5,6, he is furnishing them with more spiritual life, whereby they are enabled to live and move wholly to God, from grace to glory. He makes them live more the life of God, which God in flesh lived on earth, Gal 2:20 Eph 4:18 Php 1:21 1Pe 4:6 1Jn 3:9. This chastening promotes this honourable life as an instrument and means in God’s hand, and advanceth it daily, till it is perfected in eternal life, Act 14:22 Rom 5:3-5 8:18 2Co 4:17,18 Jas 1:12 Jud 1:22.",
+     "anchor": "And live",
+     "refs": [
+      {
+       "text": "Joh 3:6",
+       "ref": "JHN.3.6"
+      },
+      {
+       "text": "Rom 8:5",
+       "ref": "ROM.8.5"
+      },
+      {
+       "text": "Gal 2:20",
+       "ref": "GAL.2.20"
+      },
+      {
+       "text": "Eph 4:18",
+       "ref": "EPH.4.18"
+      },
+      {
+       "text": "Php 1:21",
+       "ref": "PHP.1.21"
+      },
+      {
+       "text": "1Pe 4:6",
+       "ref": "1PE.4.6"
+      },
+      {
+       "text": "1Jn 3:9",
+       "ref": "1JN.3.9"
+      },
+      {
+       "text": "Act 14:22",
+       "ref": "ACT.14.22"
+      },
+      {
+       "text": "Rom 5:3-5",
+       "ref": "ROM.5.3-5"
+      },
+      {
+       "text": "2Co 4:17",
+       "ref": "2CO.4.17"
+      },
+      {
+       "text": "Jud 1:22",
+       "ref": "JUD.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.10",
+   "range": "HEB.12.10",
+   "kind": "passage",
+   "hash": "68c2bdbe",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.10#p1-c6949409",
+     "text": "as God hath his prerogative in paternity, so he hath the transcendency in the end of chastening his children; for our natural parents, fathers of our bodies, nurtured us by the word and rod for a little time, the days of childhood and youth, as they would and thought good, as they apprehended their power over them, arbitrarily, passionately, without reaching what is best for them by it; their own thoughts, whether good or bad, were the rule of their chastening, and such as their thoughts are, such is their end; how imperfect and defective must that be!",
+     "anchor": "For they verily for a few days chastened us after their own pleasure"
+    },
+    {
+     "id": "poole/HEB.12.10#p2-e56ec3e6",
+     "text": "but God, the Father of our spirits, corrects us επι το συμφερον, which strictly notes comportation, intimating, that in his chastening his children he brings in his help, puts as it were his shoulder to it, brings in his stock of grace, and so bears together with them unto their advantage and profit in spiritual life, and this during our whole lives. That which he bears home to them, and puts in them by his chastening, is his holiness; of which being made partakers, they thrive mightily as to their spiritual life, and increase in the Divine nature with all the increases of God, Eph 3:13,19 Col 2:19.",
+     "anchor": "But he for our profit, that we might be partakers of his holiness",
+     "refs": [
+      {
+       "text": "Eph 3:13",
+       "ref": "EPH.3.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.11",
+   "range": "HEB.12.11",
+   "kind": "passage",
+   "hash": "707bf078",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.11#p1-66059153",
+     "text": "a further argument to persuade Christians not to despise nor faint under the Lord’s chastenings, is the good issue of them, subjoined to fortify them against the suggestions of flesh and blood, as if they could not be from love, nor for good, because they are smarting and grievous; therefore the Spirit asserts the truth as to both: All these chastenings and rebukes that the Father of spirits inflicts on his children, not one excepted, are, for all the time they are so inflicted, sensed by his children to be as they are; they feel them to have no joy in them, but a great deal of grief, pain, and smart; they are not pleasing of themselves, and God would not have them to be so, but his to feel the smart of his rod, when he corrects them with it.",
+     "anchor": "Now no chastening for the present seemeth to be joyous, but grievous"
+    },
+    {
+     "id": "poole/HEB.12.11#p2-971d25fc",
+     "text": "yet have not his children any reason to despond or faint under them; for they are not always to continue, and there accrueth after them a benefit to them, that will make amends for them all the afterward following to eternity: this chastening rendereth and bringeth forth to all the corrected children, who labour to improve the smart, under God’s direction and blessing, a righteous compliance with the whole will of God, and a purging out of all sin, Isa 27:9; filling the soul full of joy and peace, and securing to the chastened a confluence of all that good that will abundantly reward them for their sufferings, setting them above them, and making them blessed, Isa 32:17 Rom 5:1-5 Jas 1:2-4.",
+     "anchor": "Nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby",
+     "refs": [
+      {
+       "text": "Isa 27:9",
+       "ref": "ISA.27.9"
+      },
+      {
+       "text": "Isa 32:17",
+       "ref": "ISA.32.17"
+      },
+      {
+       "text": "Rom 5:1-5",
+       "ref": "ROM.5.1-5"
+      },
+      {
+       "text": "Jas 1:2-4",
+       "ref": "JAS.1.2-4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.12",
+   "range": "HEB.12.12",
+   "kind": "passage",
+   "hash": "865ef95c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.12#p1-fa73cf57",
+     "text": "This introduceth the use of the doctrine of God’s chastening providences, stated before."
+    },
+    {
+     "id": "poole/HEB.12.12#p2-5a9ba641",
+     "text": "concludes the rationality and necessity of the duty subjoined, as consequent from the truth asserted before.",
+     "anchor": "Wherefore"
+    },
+    {
+     "id": "poole/HEB.12.12#p3-5e3cfb6b",
+     "text": "ανορθωσατε notes the making, or setting aright, that which was out of its proper place and posture, as disordered members into their right frame and composure, that there be not any let in our Christian race, nor fainting by our course in it.",
+     "anchor": "Lift up"
+    },
+    {
+     "id": "poole/HEB.12.12#p4-e056a8f7",
+     "text": "by hanging down hands, and palsied knees, are metaphorically represented the hearts, spirits, and souls of these children, such as droop, despond, and are ready to faint and die away under chastening, Isa 35:3-6. The sum of the counsel is, rightly to compose our thoughts, affections, and members, under trials from notorious enemies, and unbelieving brethren, so as to perfect our Christian course in the fear and strength of God, continuing stedfast in prayer, 1Ti 2:8, walking constantly in God’s ways, and obeying all his commandments, Psa 119:48,100, patiently bearing all God’s corrections, and bringing forth the peaceful fruit of them. This is the truth of the metaphor.",
+     "anchor": "The hands which hang down, and the feeble knees",
+     "refs": [
+      {
+       "text": "Isa 35:3-6",
+       "ref": "ISA.35.3-6"
+      },
+      {
+       "text": "1Ti 2:8",
+       "ref": "1TI.2.8"
+      },
+      {
+       "text": "Psa 119:48",
+       "ref": "PSA.119.48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.13",
+   "range": "HEB.12.13",
+   "kind": "passage",
+   "hash": "0a50dafc",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.13#p1-0a50dafc",
+     "text": "Make straight, smooth ways, such as have all stones of stumbling and rocks of offence removed, so as themselves may be set right in comfort, and duty, and walking; lest being lame or halting in their minds between Judaism and Christianity, because of the violent persecution of them by their infidel brethren, they should be turned aside out of God’s way, erring, and deviating from the truth of the gospel; but that they be restored to it, so as no sufferings upon that account, under God’s hand, might make them suppress the truth, or expose them to apostacy, or to walk as stumbling-blocks to others, and wounding their own souls, Act 15:1 Gal 2:11-15 6:12.",
+     "refs": [
+      {
+       "text": "Act 15:1",
+       "ref": "ACT.15.1"
+      },
+      {
+       "text": "Gal 2:11-15",
+       "ref": "GAL.2.11-15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.14",
+   "range": "HEB.12.14",
+   "kind": "passage",
+   "hash": "d7ff2c1d",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.14#p1-965a7914",
+     "text": "Here begins the second head of counsel in this chapter. That seeing the gospel church Officer, the great Reconciler of sinners to, and Sanctifier of them for, God, was fully revealed to them, it did now concern them to promote peace with men, and perfect holiness towards God: this is pursued to the end of the chapter."
+    },
+    {
+     "id": "poole/HEB.12.14#p2-31e792d3",
+     "text": "διωκετε imports such a fierce, unwearied, unsatisfied pursuit, as persecutors make after the innocent servants of Christ, till they have their purposes on them; and so sets out the real, earnest, violent, unwearied, constant pursuit and labour after peace, i.e. concord, unanimity, and comfortable consociation in all things, good and lawful, to all sorts of persons, in thought, word, and deed, as far as it is possible for us, Psa 34:14 1Co 10:32 1Co 13:4,5,7 1Pe 3:10,11.",
+     "anchor": "Follow peace with all men",
+     "refs": [
+      {
+       "text": "Psa 34:14",
+       "ref": "PSA.34.14"
+      },
+      {
+       "text": "1Co 10:32",
+       "ref": "1CO.10.32"
+      },
+      {
+       "text": "1Co 13:4",
+       "ref": "1CO.13.4"
+      },
+      {
+       "text": "1Pe 3:10",
+       "ref": "1PE.3.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.14#p3-c2efebd7",
+     "text": "αγιασμον is all that habit and frame of heart, which becometh souls to have towards God, enjoying all purity from spiritual uncleanness, and a conformity to the holiness peculiar to God, Eph 4:24. The result and quintessence of all the graces of the Spirit, is holiness, 1Pe 1:15,16 1Jn 3:2,3: labouring to the perfection of this within our kind, Psa 110:3 2Co 7:1.",
+     "anchor": "And holiness",
+     "refs": [
+      {
+       "text": "Eph 4:24",
+       "ref": "EPH.4.24"
+      },
+      {
+       "text": "1Pe 1:15",
+       "ref": "1PE.1.15"
+      },
+      {
+       "text": "1Jn 3:2",
+       "ref": "1JN.3.2"
+      },
+      {
+       "text": "Psa 110:3",
+       "ref": "PSA.110.3"
+      },
+      {
+       "text": "2Co 7:1",
+       "ref": "2CO.7.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.14#p4-6cbaed06",
+     "text": "a soul destitute of holiness is in no capacity, either of faith or sight, to",
+     "anchor": "Without which no man shall see the Lord"
+    },
+    {
+     "id": "poole/HEB.12.14#p5-66b77fd5",
+     "text": "they can have no union to, communion with, or fruition of, God in Christ, neither in grace nor glory; implying and assuring them, that with holiness they may see and enjoy him, Mat 5:8 1Co 6:9,10 1Co 12:13 Gal 5:21 1Jn 3:2,3.",
+     "anchor": "see the Lord",
+     "refs": [
+      {
+       "text": "Mat 5:8",
+       "ref": "MAT.5.8"
+      },
+      {
+       "text": "1Co 6:9",
+       "ref": "1CO.6.9"
+      },
+      {
+       "text": "1Co 12:13",
+       "ref": "1CO.12.13"
+      },
+      {
+       "text": "Gal 5:21",
+       "ref": "GAL.5.21"
+      },
+      {
+       "text": "1Jn 3:2",
+       "ref": "1JN.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.15",
+   "range": "HEB.12.15",
+   "kind": "passage",
+   "hash": "ac0f7558",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.15#p1-167134ae",
+     "text": "To further their pursuit of peace and holiness, he metaphorically proposeth a caution against what might stop them in it, which he properly specifieth and exemplifieth in Esau, Heb 12:15-17.",
+     "refs": [
+      {
+       "text": "Heb 12:15-17",
+       "ref": "HEB.12.15-17"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.15#p2-b7a68705",
+     "text": "επισκοπουντες notes a very strict and severe inspecting themselves; its primitive, σκοπειν, signifieth such a looking to a thing, as those who, in shooting, aim at the mark; and the preposition adds intention to the action, signifying a most earnest care in Christians over themselves, in them over others, and in ministers over them all.",
+     "anchor": "Looking diligently"
+    },
+    {
+     "id": "poole/HEB.12.15#p3-9d672eb4",
+     "text": "lest any person among them should fail of grace offered in the gospel to it, and never have it, Tit 2:11,12; or apostatize from the profession of it, by seduction or persecution, Heb 4:1 10:38 2Co 6:1: compare Gal 1:6 3:3.",
+     "anchor": "Lest any man fail of the grace of God",
+     "refs": [
+      {
+       "text": "Tit 2:11",
+       "ref": "TIT.2.11"
+      },
+      {
+       "text": "Heb 4:1",
+       "ref": "HEB.4.1"
+      },
+      {
+       "text": "2Co 6:1",
+       "ref": "2CO.6.1"
+      },
+      {
+       "text": "Gal 1:6",
+       "ref": "GAL.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.15#p4-623887f0",
+     "text": "a metaphor borrowed from plants, to which roots are proper, and which was used by Moses before, Deu 29:18: a root bearing a poisonful herb; intending by it such persons, whose nature, words, and works, are so bitter unto God, as gall and wormwood are to men; such as apostatized from God to idols. The apostle intending hereby the hindering the springing up and growing of errors, heresies, or immoralities, as profaneness, filthiness, &c., which are apt to infect churches, and, as they spread, to molest, trouble, and disturb them, and to keep them from pursuing holiness, Heb 3:8 Hos 12:14 Gal 1:7 Jas 3:14.",
+     "anchor": "Lest any root of bitterness springing up trouble you",
+     "refs": [
+      {
+       "text": "Deu 29:18",
+       "ref": "DEU.29.18"
+      },
+      {
+       "text": "Heb 3:8",
+       "ref": "HEB.3.8"
+      },
+      {
+       "text": "Hos 12:14",
+       "ref": "HOS.12.14"
+      },
+      {
+       "text": "Gal 1:7",
+       "ref": "GAL.1.7"
+      },
+      {
+       "text": "Jas 3:14",
+       "ref": "JAS.3.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.15#p5-2a408431",
+     "text": "lest by but one such poisonous root, a whole church of Christians may be infected and poisoned, their sin being as apt to spread and diffuse itself, as leaven, 1Co 5:6, to taint the whole lump, Gal 5:9: and how early, even in the apostles’ time, for want of obeying this caution, were the primitive churches corrupted, both in doctrine and morals, by loose, filthy heretics among them!",
+     "anchor": "And thereby many be defiled",
+     "refs": [
+      {
+       "text": "1Co 5:6",
+       "ref": "1CO.5.6"
+      },
+      {
+       "text": "Gal 5:9",
+       "ref": "GAL.5.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.16",
+   "range": "HEB.12.16",
+   "kind": "passage",
+   "hash": "64b54ae8",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.16#p1-72c48726",
+     "text": "This properly interprets the root of bitterness before, by two special fruits of it."
+    },
+    {
+     "id": "poole/HEB.12.16#p2-728dd766",
+     "text": "uncleanness, πορνος, is not to be taken so strictly, as only to note fornication, uncleanness committed by unmarried persons, but all sorts of pollution and filthiness, as it is used in the general decree, Act 15:29; such defilements as had crept in among them already, to which many were propense and inclined, whence warned of and charged against it by James, Peter, and Jude, in their Epistles.",
+     "anchor": "Lest there be any fornicator",
+     "refs": [
+      {
+       "text": "Act 15:29",
+       "ref": "ACT.15.29"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.16#p3-5530d9de",
+     "text": "βεβηλος imports one who had a bitter frame of spirit against the first table, one of an impure mind to God-ward, opposite to godliness, who neglects and spurns at holy things, rolling itself in its own pleasures, riches, honours, with a despising of God, his grace, and glory, 1Ti 1:9 4:7,16 2Ti 2:16.",
+     "anchor": "Or profane person",
+     "refs": [
+      {
+       "text": "1Ti 1:9",
+       "ref": "1TI.1.9"
+      },
+      {
+       "text": "2Ti 2:16",
+       "ref": "2TI.2.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.16#p4-b03ef410",
+     "text": "Esau, the best example to these Hebrews, he being Jacob’s brother, who was most notoriously profane, who irreligiously undervalued and despised the blessing of the birthright, to which was entailed by God the double portion, the priesthood and dominion over the family, the blessings of the covenant, and the being a type of Christ; he basely and impiously gave it away to his younger brother, slighting it, and freely and fully making it over to him, and all for one eating, the base gratifying of his sensual appetite but once, Gen 25:32,34. Like to whom were those, Php 3:18 2Pe 2:10-19 Jud 1:4-19. In these is his filthy, profane spirit improved.",
+     "anchor": "As Esau, who for one morsel of meat sold his birth-right",
+     "refs": [
+      {
+       "text": "Gen 25:32",
+       "ref": "GEN.25.32"
+      },
+      {
+       "text": "Php 3:18",
+       "ref": "PHP.3.18"
+      },
+      {
+       "text": "2Pe 2:10-19",
+       "ref": "2PE.2.10-19"
+      },
+      {
+       "text": "Jud 1:4-19",
+       "ref": "JUD.1.4-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.17",
+   "range": "HEB.12.17",
+   "kind": "passage",
+   "hash": "db9d0fd5",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.17#p1-b87d7270",
+     "text": "as Esau’s sin was, such was his penalty; for they knew, and were well acquainted with this in Moses’s history of him, that after he had despised his birthright, and sold it, being at man’s estate, Gen 27:1-46, and was desirous to inherit that blessing, he was rejected by his father, as well as by God, and could not obtain it, being unalterably settled on Jacob by both.",
+     "anchor": "For ye know how that afterward, when he would have inherited the blessing, he was rejected",
+     "refs": [
+      {
+       "text": "Gen 27:1-46",
+       "ref": "GEN.27.1-46"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.17#p2-3d047f48",
+     "text": "as to the giving it, with God, who gave it, and would not alter it, Rom 11:29; nor with his father, who did not repent of giving it to Jacob, but confirmed it, Gen 27:33,40 28:1,3,4.",
+     "anchor": "He found no place of repentance",
+     "refs": [
+      {
+       "text": "Rom 11:29",
+       "ref": "ROM.11.29"
+      },
+      {
+       "text": "Gen 27:33",
+       "ref": "GEN.27.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.17#p3-6378bb5c",
+     "text": "and this, although he sought the blessing from his father with cries and tears, Gen 27:34,38. How therefore should these Hebrews, knowing all this, root out such a root springing up in themselves, or others, that they might not be guilty of such sin; lest having despised God’s blessing for their own ease, honours, or profits in this world, when they may desire to seek with tears the blessing of the eternal inheritance from God, he should irreversibly reject them. See Mat 7:22,23.",
+     "anchor": "Though he sought it carefully with tears",
+     "refs": [
+      {
+       "text": "Gen 27:34",
+       "ref": "GEN.27.34"
+      },
+      {
+       "text": "Mat 7:22",
+       "ref": "MAT.7.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.18",
+   "range": "HEB.12.18",
+   "kind": "passage",
+   "hash": "6e1d475c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.18#p1-d33baecb",
+     "text": "showeth, Heb 12:18-24, the apostle enforcing on these Hebrews, and with them on all Christians, the pursuit of holiness and peace, by subjoining the great helps they have for it, beyond what the Old Testament church had, they being freed from the legal dispensation, which was less helpful to it, and admitted to that of the gospel, most promoting it. The first he layeth down, Heb 12:18-21; and the other, Heb 12:22-24. They are freed from the covenant dispensation at Mount Sinai.",
+     "anchor": "For",
+     "refs": [
+      {
+       "text": "Heb 12:18-24",
+       "ref": "HEB.12.18-24"
+      },
+      {
+       "text": "Heb 12:18-21",
+       "ref": "HEB.12.18-21"
+      },
+      {
+       "text": "Heb 12:22-24",
+       "ref": "HEB.12.22-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.18#p2-b5392ea9",
+     "text": "you have not been called, as to your body, to journey it to Sinai, or as to your faith to close with that covenant administration, to depend on, or have any expectation from it, as delivered by Moses at Mount Sinai in Arabia; a mountain visible, tactible, sensible, on earth, signifying the covenant dispensation from this mount to be low and earthy, occasioning earthy thoughts of God and carriage to him, sticking in an earthy altar sacrifice, and carnal and sensual religion; to the law written in stones, without minding the spirituality of it, or having it in their hearts; walking wisely in this wilderness state, yet, by the charge of God, not touchable by Israel at that time, though they came near to it in the third month after their coming out of Egypt, Exo 19:1,12,13,23.",
+     "anchor": "Ye are not come unto the mount that might be touched",
+     "refs": [
+      {
+       "text": "Exo 19:1",
+       "ref": "EXO.19.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.18#p3-643c4072",
+     "text": "to the fire, in the which the Lord descended on the mount, Exo 19:18; which burnt unto the midst of heaven, Deu 4:11 5:23,24, and would consume them that broke that law which he spake to them out of it, Deu 33:2.",
+     "anchor": "And that burned with fire",
+     "refs": [
+      {
+       "text": "Exo 19:18",
+       "ref": "EXO.19.18"
+      },
+      {
+       "text": "Deu 4:11",
+       "ref": "DEU.4.11"
+      },
+      {
+       "text": "Deu 33:2",
+       "ref": "DEU.33.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.18#p4-e041b317",
+     "text": "to the black, thick smoke that ascended as the smoke of a furnace, Exo 19:18; to darkness, occasioned by the thick clouds enveloping the mount, Deu 4:11 5:23; to tempest, the storm of thundering, and lightnings, and earthquake, the terrible attendants of this solemnity, Exo 19:16,18 20:18. All these shadowing forth the fiery and terrible storms of wrath and indignation, which should pursue the breakers of this covenant to the lowest hell; giving them, in this delivery of the law, a visible type of what should be the issue of their breaking it, Exo 19:22,24. These terrors of the Almighty did so fright them, that they ran from God, and set not themselves to the serious pursuit of holiness, Isa 33:14.",
+     "anchor": "Nor unto blackness, and darkness, and tempest",
+     "refs": [
+      {
+       "text": "Exo 19:18",
+       "ref": "EXO.19.18"
+      },
+      {
+       "text": "Deu 4:11",
+       "ref": "DEU.4.11"
+      },
+      {
+       "text": "Exo 19:16",
+       "ref": "EXO.19.16"
+      },
+      {
+       "text": "Exo 19:22",
+       "ref": "EXO.19.22"
+      },
+      {
+       "text": "Isa 33:14",
+       "ref": "ISA.33.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.19",
+   "range": "HEB.12.19",
+   "kind": "passage",
+   "hash": "9eb0a88e",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.19#p1-cf18af37",
+     "text": "which was most shrill and dreadful, it sounded long, and waxed louder and louder, giving a fearful alarm unto Israel to draw near to the Lord to hear his law to them, and covenant with them, and to see a type of their doom, if they transgressed it, in an obscure representation of the general judgment, Exo 19:16,19 20:18; compare 1Th 4:16 2Th 1:7-9.",
+     "anchor": "And the sound of a trumpet",
+     "refs": [
+      {
+       "text": "Exo 19:16",
+       "ref": "EXO.19.16"
+      },
+      {
+       "text": "1Th 4:16",
+       "ref": "1TH.4.16"
+      },
+      {
+       "text": "2Th 1:7-9",
+       "ref": "2TH.1.7-9"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.19#p2-dbe7efc1",
+     "text": "after which alarm, the Angel of the covenant uttered his voice out of the fire most majestically, distinctly, and loudly, and spake to Israel in their own language the ten words, or commandments, that they might hear and understand them, so as they sensed them to be dreadful for their sound and matter, Exo 20:1-20 Deu 4:10,12,13 5:1-27.",
+     "anchor": "And the voice of words",
+     "refs": [
+      {
+       "text": "Exo 20:1-20",
+       "ref": "EXO.20.1-20"
+      },
+      {
+       "text": "Deu 4:10",
+       "ref": "DEU.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.19#p3-68aebc19",
+     "text": "the people, being overwhelmed with the majesty and dreadfulness of that voice, deprecated any more such for matter or manner of manifestation to them, Exo 20:19 Deu 5:23-26 18:16. And therefore desired Moses to speak to them God’s law, and that God might speak no more.",
+     "anchor": "Which voice they that heard entreated that the word should not be spoken to them any more",
+     "refs": [
+      {
+       "text": "Exo 20:19",
+       "ref": "EXO.20.19"
+      },
+      {
+       "text": "Deu 5:23-26",
+       "ref": "DEU.5.23-26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.20",
+   "range": "HEB.12.20",
+   "kind": "passage",
+   "hash": "94adadf4",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.20#p1-94adadf4",
+     "text": "The reason of the foregoing deprecation, and which adds to the terribleness of this covenant dispensation; for the voice surpassed their strength and capacity, that they must die if they heard it any more, so dreadful was the sound and matter of it; for the commandment and threatening was: That if any man or beast did but so much as touch the mountain, they should die for it, Exo 19:12,13,21,23,24. Therefore was Moses so strictly charged to look to it, and to provide against it, showing the dreadfulness of that covenant dispensation, that if men did not keep their beasts from coming near, they should be stoned or darted to death; how much more themselves, if they should transgress the law, which, though it was designed to lead them unto Christ, yet was not generally so discerned or used by them! So that if the publication of it be so terrible, how much more the punishment for breaking it! Exo 20:20.",
+     "refs": [
+      {
+       "text": "Exo 19:12",
+       "ref": "EXO.19.12"
+      },
+      {
+       "text": "Exo 20:20",
+       "ref": "EXO.20.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.21",
+   "range": "HEB.12.21",
+   "kind": "passage",
+   "hash": "1ef7b2c6",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.21#p1-1ef7b2c6",
+     "text": "It must needs be a dreadful, fearful, horrid, and astonishing apparition, and exhibition of the great Lawgiver here, that such a person as Moses, so sanctified by him, so favoured with familiarity with him, so constituted mediator between the people and God in this work for their good and comfort, so called and ordered by God to manage it, yet should cry to God to succour him, while he did quake and tremble at it; and was comforted and strengthened by God’s voice to him again, Exo 19:19. Christians now have no call nor access to so terrible a dispensation of the covenant, but have immunity, exemption, and freedom from it, which was not so helpful to holiness as the gospel dispensation, to which now they have actual admission, having freed them from all the terrors and curses of the Mosaical one.",
+     "refs": [
+      {
+       "text": "Exo 19:19",
+       "ref": "EXO.19.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.22",
+   "range": "HEB.12.22",
+   "kind": "passage",
+   "hash": "4c390017",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.22#p1-cb6f9b00",
+     "text": "The Spirit now adds the privilege of Christians in the better state to which they have access by the gospel dispensation, Heb 12:22-24; Ye have left those hinderances and disadvantages instanced in before, but are come to these helps for yonr furtherance in holiness; ye have an access to all those most excellent, though invisible, things, by faith, and by it attain them, and are incorporated into them, as they follow.",
+     "refs": [
+      {
+       "text": "Heb 12:22-24",
+       "ref": "HEB.12.22-24"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.22#p2-daf9a05e",
+     "text": "this is not literally to be understood for the mount on which the city of David was built, for that was as visible and touchable as Mount Sinai, to which it is opposed; but that mount which is higher than the highest, as high as heaven itself, Heb 12:25 9:24 Joh 3:13; where is the most orderly government of God for holiness, Mic 4:7; whence all good gifts and gospel blessings are conveyed to the church, of which these believers were members, Isa 8:18 28:16 59:20 Rev 14:1.",
+     "anchor": "But ye are come unto mount Sion",
+     "refs": [
+      {
+       "text": "Heb 12:25",
+       "ref": "HEB.12.25"
+      },
+      {
+       "text": "Joh 3:13",
+       "ref": "JHN.3.13"
+      },
+      {
+       "text": "Mic 4:7",
+       "ref": "MIC.4.7"
+      },
+      {
+       "text": "Isa 8:18",
+       "ref": "ISA.8.18"
+      },
+      {
+       "text": "Rev 14:1",
+       "ref": "REV.14.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.22#p3-facb087d",
+     "text": "of which the living God is the Builder and Maker, and wherein he dwelleth, where nothing but life is, and whence Christ’s voice giveth life to dead souls, enabling them to live a life of holiness to God, as Psa 46:4,5 48:1,8 87:3 Isa 40:14 Joh 5:25. To distinguish this from any earthly city or corporation, it is said to be",
+     "anchor": "And unto the city of the living God",
+     "refs": [
+      {
+       "text": "Psa 46:4",
+       "ref": "PSA.46.4"
+      },
+      {
+       "text": "Isa 40:14",
+       "ref": "ISA.40.14"
+      },
+      {
+       "text": "Joh 5:25",
+       "ref": "JHN.5.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.22#p4-5090ab6a",
+     "text": "its original, nature, and end being all heavenly; a fruitful place, whence believers are made partakers of the most spiritual influences for holiness; where there is nothing carnal, terrible, deadly, barren, but all causal and productive of holiness issueth thence, Isa 42:1-25,65:17-19 66:10 Joh 17:24 Gal 4:26 Rev 3:12 21:2,10.",
+     "anchor": "the heavenly Jerusalem",
+     "refs": [
+      {
+       "text": "Isa 42:1-25",
+       "ref": "ISA.42.1-25"
+      },
+      {
+       "text": "Joh 17:24",
+       "ref": "JHN.17.24"
+      },
+      {
+       "text": "Gal 4:26",
+       "ref": "GAL.4.26"
+      },
+      {
+       "text": "Rev 3:12",
+       "ref": "REV.3.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.22#p5-c09128aa",
+     "text": "in which city are many excellent inhabitants with whom believers are incorporated, and to whom they have relation, as myriads of angels, who are ministering spirits under the gospel, as under the law, full of holiness, power, agility, and endowments, fit for their work and end; who, though for number are thousands and millions of them, Psa 68:17 103:20 104:4 Act 7:53 Gal 3:19 Rev 5:11, yet are all fulfilling their Lord’s pleasure in every place, as ordered by him. Their ministration of the law was terrible in flaming fire, but of the gospel, most sweet and gracious, Luk 2:13,14. At Sinai they ministered externally and sensibly, affecting senses; but from Sion they minister spiritually, to hearts, Mat 4:11 Luk 22:43 Psa 91:11, resisting evil spirits ministering wickedly. Their ministry little effectual under the law; but under the gospel, saving, Act 7:53 Heb 1:14 Rev 19:10. Their former ministration temporary and ceasing, but this everlasting, till they bring all their trust into Abraham’s bosom, Luk 16:22. They are promoting holiness by God’s sending things to us by them, and by their observing the goings and doings of Christians, whether holy or not, 1Co 11:10, and giving an account of the success of their ministry towards them, as to this end, Mat 18:10. And the neglect of this means to help our pursuing holiness, will God require, Heb 2:2.",
+     "anchor": "And to an innumerable company of angels",
+     "refs": [
+      {
+       "text": "Psa 68:17",
+       "ref": "PSA.68.17"
+      },
+      {
+       "text": "Act 7:53",
+       "ref": "ACT.7.53"
+      },
+      {
+       "text": "Gal 3:19",
+       "ref": "GAL.3.19"
+      },
+      {
+       "text": "Rev 5:11",
+       "ref": "REV.5.11"
+      },
+      {
+       "text": "Luk 2:13",
+       "ref": "LUK.2.13"
+      },
+      {
+       "text": "Mat 4:11",
+       "ref": "MAT.4.11"
+      },
+      {
+       "text": "Luk 22:43",
+       "ref": "LUK.22.43"
+      },
+      {
+       "text": "Psa 91:11",
+       "ref": "PSA.91.11"
+      },
+      {
+       "text": "Act 7:53",
+       "ref": "ACT.7.53"
+      },
+      {
+       "text": "Heb 1:14",
+       "ref": "HEB.1.14"
+      },
+      {
+       "text": "Rev 19:10",
+       "ref": "REV.19.10"
+      },
+      {
+       "text": "Luk 16:22",
+       "ref": "LUK.16.22"
+      },
+      {
+       "text": "1Co 11:10",
+       "ref": "1CO.11.10"
+      },
+      {
+       "text": "Mat 18:10",
+       "ref": "MAT.18.10"
+      },
+      {
+       "text": "Heb 2:2",
+       "ref": "HEB.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.23",
+   "range": "HEB.12.23",
+   "kind": "passage",
+   "hash": "57141d64",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.23#p1-7b8f24a6",
+     "text": "other inhabitants of this heavenly city and polity with whom believers are incorporated, are such, into whose communion they have admittance here below, viz. to the catholic assembly of Christ, his whole body, the fulness of him who filleth all in all; all assembly gathered out of all nations, Rev 5:9 7:9, throughout the world, extended to all times and ages, especially to that part of it which is on earth, sojourning here, fitting for heaven; the other part is triumphing in it. They are not called or incorporated only into a particular national assembly, a straitened society, as the Old Testament church was; the general assembly of saints are more helpful to holiness than a lesser, Psa 22:27,28 Ga 4:25-27.",
+     "anchor": "To the general assembly",
+     "refs": [
+      {
+       "text": "Rev 5:9",
+       "ref": "REV.5.9"
+      },
+      {
+       "text": "Psa 22:27",
+       "ref": "PSA.22.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.23#p2-2587bcef",
+     "text": "this",
+     "anchor": "And church of the firstborn"
+    },
+    {
+     "id": "poole/HEB.12.23#p3-711f9154",
+     "text": "is not a rout, but a",
+     "anchor": "general assembly"
+    },
+    {
+     "id": "poole/HEB.12.23#p4-e0d64458",
+     "text": "such as are called out of the world with a holy calling, subjecting themselves to Christ as their Head, and are, as quickened, so ordered and ruled by him: it is not a weak or an infant church, but strong and perfect, come unto maturity, in respect of the great discoveries of the mysteries of God made by Christ to them, Heb 5:12,13 6:1 Gal 4:1,3,4. This chosen, called, and well ordered society, were only of such persons who were the first-born of God, and partners of Christ’s sonship and primogeniture, being regenerated by him, and dignified with his birthright privileges, Rom 8:17,29. They are the might and excellency of Christ; whereas the church at Sinai, for the body of them, were but typically, literally, and externally so, Exo 4:22 Col 1:15,18, and did not universally enjoy, as those do, the strength and fulness of grace from God, Joh 1:16 Gal 3:26,29; are joint-heirs with Christ, Rom 8:17, and made by him kings and priests to God and his Father, 1Pe 2:5 Rev 1:6.",
+     "anchor": "church",
+     "refs": [
+      {
+       "text": "Heb 5:12",
+       "ref": "HEB.5.12"
+      },
+      {
+       "text": "Gal 4:1",
+       "ref": "GAL.4.1"
+      },
+      {
+       "text": "Rom 8:17",
+       "ref": "ROM.8.17"
+      },
+      {
+       "text": "Exo 4:22",
+       "ref": "EXO.4.22"
+      },
+      {
+       "text": "Col 1:15",
+       "ref": "COL.1.15"
+      },
+      {
+       "text": "Joh 1:16",
+       "ref": "JHN.1.16"
+      },
+      {
+       "text": "Gal 3:26",
+       "ref": "GAL.3.26"
+      },
+      {
+       "text": "Rom 8:17",
+       "ref": "ROM.8.17"
+      },
+      {
+       "text": "1Pe 2:5",
+       "ref": "1PE.2.5"
+      },
+      {
+       "text": "Rev 1:6",
+       "ref": "REV.1.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.23#p5-28cf0805",
+     "text": "they were not, as the church at Sinai, of an earthly enrolment, registered here to know their families and descent, whether right Jews and priests or no, whose genealogy was preserved to that end, Ezr 2:43, &c.; but had their register in heaven, were written in the Lamb’s book of life, to be of heavenly descent, born of God, partakers of the Divine nature, and who had a right and title by faith in Christ to the heavenly inheritance, and were free denizens of it, Luk 10:20, and have all heavenly privileges derived to them, Luk 20:12,19 21:27. How obliging, influencing, and promoting are these privileges of every Christian’s pursuit of holiness!",
+     "anchor": "Which are written in heaven",
+     "refs": [
+      {
+       "text": "Ezr 2:43",
+       "ref": "EZR.2.43"
+      },
+      {
+       "text": "Luk 10:20",
+       "ref": "LUK.10.20"
+      },
+      {
+       "text": "Luk 20:12",
+       "ref": "LUK.20.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.23#p6-fa61ee75",
+     "text": "they were as Christians privileged with an access, not as Israel had at Sinai, with fear, and terror, and trembling, so as to fly from the great Author, Lord, and Judge of the covenant, lest they died, as Exo 20:18; but with liberty and boldness of faith, in the strength of love and with firmness of hope, they come now in Sion, Isa 59:20 Heb 10:19, unto God in his being and sovereignty, who ruleth all, and who giveth to all according to their works, and in a most eminent manner ruleth them; who, as he is their Judge, hath not, as at Sinai, any bars to keep them from him, Exo 19:12 Eph 2:18, nor is terrifying and consuming, as then, Deu 5:24,25, but justifying them; full of grace and love to all approaching him in Christ, his throne is a throne of grace to them, he comforting and encouraging them to make home to him, Joh 5:22 Act 10:22 Rom 3:6. So as they have boldness in the day of judgment, and stand unshaken before their Judge, and are strengthened by him, Rom 8:1,33,34 1Jn 4:17. He rewards them gloriously, 2Ti 2:8, perfecting holiness in them beneath, and crowning them with glory above.",
+     "anchor": "And to God the Judge of all",
+     "refs": [
+      {
+       "text": "Exo 20:18",
+       "ref": "EXO.20.18"
+      },
+      {
+       "text": "Isa 59:20",
+       "ref": "ISA.59.20"
+      },
+      {
+       "text": "Heb 10:19",
+       "ref": "HEB.10.19"
+      },
+      {
+       "text": "Exo 19:12",
+       "ref": "EXO.19.12"
+      },
+      {
+       "text": "Eph 2:18",
+       "ref": "EPH.2.18"
+      },
+      {
+       "text": "Deu 5:24",
+       "ref": "DEU.5.24"
+      },
+      {
+       "text": "Joh 5:22",
+       "ref": "JHN.5.22"
+      },
+      {
+       "text": "Act 10:22",
+       "ref": "ACT.10.22"
+      },
+      {
+       "text": "Rom 3:6",
+       "ref": "ROM.3.6"
+      },
+      {
+       "text": "Rom 8:1",
+       "ref": "ROM.8.1"
+      },
+      {
+       "text": "1Jn 4:17",
+       "ref": "1JN.4.17"
+      },
+      {
+       "text": "2Ti 2:8",
+       "ref": "2TI.2.8"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.23#p7-0a19b418",
+     "text": "What a help is this to pursue holiness!"
+    },
+    {
+     "id": "poole/HEB.12.23#p8-af697ba2",
+     "text": "the perfect state to which the gospel covenant leadeth is promoting holiness, for they have an access to the same lot, and are come into the same way of being perfected in holiness, which the spirits of the righteous, separated from their bodies, enjoy in heaven; and have a right unto, and shall have the certain enjoyment of, the same privilege, which carrieth through all difficulties in the pursuit of it, expecting themselves by death to be put in possession with them of the same state, Rom 8:22,23 2Co 5:1,2,8; compare Php 3:12-14.",
+     "anchor": "And to the spirits of just men made perfect",
+     "refs": [
+      {
+       "text": "Rom 8:22",
+       "ref": "ROM.8.22"
+      },
+      {
+       "text": "2Co 5:1",
+       "ref": "2CO.5.1"
+      },
+      {
+       "text": "Php 3:12-14",
+       "ref": "PHP.3.12-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.24",
+   "range": "HEB.12.24",
+   "kind": "passage",
+   "hash": "db7e44ea",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.24#p1-63ea467a",
+     "text": "the Mediator of the Sion covenant is better than the mediator at Sinai, and more able to promote the holiness required by it. Believers have not now access unto, or dependence on, a Moses, a mere man, and a servant, declaring God’s will, only a sinner himself, trembling in his office, and weary of his clients, and whose ministry is vanishing, as his person dying; but unto God the Son himself incarnate, a Son-mediator, making sons, and bringing them nearer to God, satisfying the law for them, and writing it on their hearts; above all sin himself, though a sacrifice for it, who is able to save to the uttermost, for that he ever liveth to intercede for them, Heb 1:1-3 Heb 3:6 7:26 Rev 1:13. He is the Mediator, not of a literal, dark, terrible, charging and condemning, temporary and vanishing, covenant; but of the most spiritual, lightsome, gracious, justifying, sanctifying, and everlasting testamental dispensation of God, more effectually influencing souls to holiness than the old, Heb 8:10,11 2Co 3:6 5:19.",
+     "anchor": "And to Jesus the mediator of the new covenant",
+     "refs": [
+      {
+       "text": "Heb 1:1-3",
+       "ref": "HEB.1.1-3"
+      },
+      {
+       "text": "Heb 3:6",
+       "ref": "HEB.3.6"
+      },
+      {
+       "text": "Rev 1:13",
+       "ref": "REV.1.13"
+      },
+      {
+       "text": "Heb 8:10",
+       "ref": "HEB.8.10"
+      },
+      {
+       "text": "2Co 3:6",
+       "ref": "2CO.3.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.24#p2-b38896ee",
+     "text": "the sacrifice ratifying the Sion covenant is unexpressibly better than all the typical sacrifices confirming that at Sinai, it eminently purchasing and securing holiness to those interested in it. The blood of the immaculate Lamb of God, sprinkled on penitent, believing sinners, which hath purchased pardon for them, and, as follows, the Spirit, to sanctify them throughout, and perfect holiness in them, Heb 9:12 1Pe 1:18 1Jn 1:7,9; and so they are freed from access to the sprinkling of the blood of sacrificed beasts, which was only typical and weak to purge the conscience, calling sin to remembrance yearly and daily, which was now forbidden and rejected as of no worth, and which, like Abel’s, crieth for revenge and condemnation, Gen 4:10; since their blood now offered when Christ had split his, was accounted of God as the blood of innocents slain, as Isa 66:3. Others render the blood of Abel, for the blood of sprinkling of the sacrifice that Abel offered unto God, Gen 4:4, which was sprinkled upon him; and so prefer Christ’s sacrifice, not only to the Mosaical sacrifices, but to all that have been from the beginning of the world, which though accepted by God, yet not like Christ, of which they were the types. The sum of all these comparisons, is to show the greater helps, motives, and encouragements that Christians have to pursue and perfect holiness than all the Old Testament church had before them.",
+     "anchor": "And to the blood of sprinkling, that speaketh better things than that of Abel",
+     "refs": [
+      {
+       "text": "Heb 9:12",
+       "ref": "HEB.9.12"
+      },
+      {
+       "text": "1Pe 1:18",
+       "ref": "1PE.1.18"
+      },
+      {
+       "text": "1Jn 1:7",
+       "ref": "1JN.1.7"
+      },
+      {
+       "text": "Gen 4:10",
+       "ref": "GEN.4.10"
+      },
+      {
+       "text": "Isa 66:3",
+       "ref": "ISA.66.3"
+      },
+      {
+       "text": "Gen 4:4",
+       "ref": "GEN.4.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.25",
+   "range": "HEB.12.25",
+   "kind": "passage",
+   "hash": "ba7b609f",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.25#p1-a3aa9e30",
+     "text": "Here the Spirit closely applieth his former arguments for their pursuit of holiness, especially that of Christ’s speaking by his blood to them; by caution, Heb 12:25-27; by counsel, Heb 12:28,29.",
+     "refs": [
+      {
+       "text": "Heb 12:25-27",
+       "ref": "HEB.12.25-27"
+      },
+      {
+       "text": "Heb 12:28",
+       "ref": "HEB.12.28"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.25#p2-62ad9566",
+     "text": "he introduceth this caution with: Look ye, or take ye heed; a term expressing the things said to be great and weighty, intimating that fear, solicitude, and watchfulness about this great and important concernment of their souls, Luk 12:15; that they see to it there be no aversion in their spirits to, no undervaluing or despising of, no dislike or apostacy from, but a hearing, believing, and obeying Jesus speaking by his blood all the gospel covenant to us; convincing them of sin and guilt that needed his blood, calling them to repentance and faith in his blood and satisfaction, declaring his intercession with God for pardon, holiness, and glory by it, and so importunes them to follow holiness, which would evidence all this to them.",
+     "anchor": "See that ye refuse not him that speaketh",
+     "refs": [
+      {
+       "text": "Luk 12:15",
+       "ref": "LUK.12.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.25#p3-9d876811",
+     "text": "he enforceth his caution by a rational motive of the danger of their refusal, arguing from the less to the greater; that is, their ancestors escaped not the vengeance of God when they refused to hear, believe, and obey the legal covenant, which he spake on earth from Mount Sinai, and wrote on tables of stones, and delivered to Moses on the mount, and by him communicated it to them, Heb 2:2 10:28,30,31 Deu 33:1,4 Ac 7:51,53 1Co 10:1-10.",
+     "anchor": "For if they escaped not who refused him that spake on earth",
+     "refs": [
+      {
+       "text": "Heb 2:2",
+       "ref": "HEB.2.2"
+      },
+      {
+       "text": "1Co 10:1-10",
+       "ref": "1CO.10.1-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.25#p4-182430e2",
+     "text": "much more and greater sinners are all such who turn aside scornfully from Jesus, and receive not his voice and the revelation of God’s gospel covenant by it, who is God’s only begotten Son, and brought it down from the Father’s bosom in heaven, Heb 1:2 Joh 1:14,16-18 3:13, and ratified it with his own blood on earth: and as the sin is beyond compare greater, so will the punishment be, and the certainty of its infliction both for time and eternity, Mat 11:24 2Th 1:7-9 Heb 10:26-31; there remaining no more sacrifice for such sin and sinners.",
+     "anchor": "Much more shall not we escape, if we turn away from him that speaketh from heaven",
+     "refs": [
+      {
+       "text": "Heb 1:2",
+       "ref": "HEB.1.2"
+      },
+      {
+       "text": "Joh 1:14",
+       "ref": "JHN.1.14"
+      },
+      {
+       "text": "Mat 11:24",
+       "ref": "MAT.11.24"
+      },
+      {
+       "text": "2Th 1:7-9",
+       "ref": "2TH.1.7-9"
+      },
+      {
+       "text": "Heb 10:26-31",
+       "ref": "HEB.10.26-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.26",
+   "range": "HEB.12.26",
+   "kind": "passage",
+   "hash": "5960ca88",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.26#p1-a0006c7d",
+     "text": "the sin and punishment of gospel despisers and rejecters, is aggravated by the Person concerned in both. It is that Jesus, the great Angel of the covenant, speaking now by his blood, whose voice at the delivery of the law on Mount Sinai, and selling Israel in a church state under that covenant dispensation, Exo 20:1,19 Deu 4:12 5:2,4,22, did shake the mount, Exo 19:18 Psa 68:7,8 114:4,7; and not only the literal Sinai, but that low, earthly condition and state of Israel coming out of Egypt, and bearing its reproach as a common people of the earth, together with other nations, Jos 5:9. This he removed away, and brought them then into a church state with himself by covenant, which church state obtained the name or title of heaven, Mat 21:43, and is by the prophet styled the old heaven, Isa 65:17, which was to be shaken and removed also.",
+     "anchor": "Whose voice then shook the earth",
+     "refs": [
+      {
+       "text": "Exo 20:1",
+       "ref": "EXO.20.1"
+      },
+      {
+       "text": "Exo 19:18",
+       "ref": "EXO.19.18"
+      },
+      {
+       "text": "Psa 68:7",
+       "ref": "PSA.68.7"
+      },
+      {
+       "text": "Jos 5:9",
+       "ref": "JOS.5.9"
+      },
+      {
+       "text": "Mat 21:43",
+       "ref": "MAT.21.43"
+      },
+      {
+       "text": "Isa 65:17",
+       "ref": "ISA.65.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.26#p2-5042c3b1",
+     "text": "but now the same Jesus so shaking them had promised, and had at this time in part fulfilled what he spake, Hag 2:6,7, even after the prophets little while was expired, and Christ the desire of all nations was come; that yet",
+     "anchor": "But now he hath promised, saying, Yet once more I shake not the earth only, but also heaven",
+     "refs": [
+      {
+       "text": "Hag 2:6",
+       "ref": "HAG.2.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.26#p3-29f29ff0",
+     "text": "he would shake the Israelitish church state, pitched till the time of reformation; not the earthly one only, as he did at Mount Sinai, which yet Jesus literally did at his death and resurrection, Mat 27:51,54 28:2, and the heavens also by his star, Mat 2:2, light to the shepherds, Luk 2:9, his baptism, Mat 3:17, transfiguration, Mat 17:5; his prayer, Joh 12:28-30, his passion, Mat 27:51 Luk 23:44,45, effusion of the Holy Ghost, Act 2:2-4: but this is also a powerful, moral shaking, so as to change and remove that heavenly church frame pitched in the Jewish tabernacle; that he might pitch a tabernacle himself more heavenly and spiritual, whereof Jesus should be the Lord High Priest and Ruler, as well as Minister, Heb 3:1,2.",
+     "anchor": "once more",
+     "refs": [
+      {
+       "text": "Mat 27:51",
+       "ref": "MAT.27.51"
+      },
+      {
+       "text": "Mat 2:2",
+       "ref": "MAT.2.2"
+      },
+      {
+       "text": "Luk 2:9",
+       "ref": "LUK.2.9"
+      },
+      {
+       "text": "Mat 3:17",
+       "ref": "MAT.3.17"
+      },
+      {
+       "text": "Mat 17:5",
+       "ref": "MAT.17.5"
+      },
+      {
+       "text": "Joh 12:28-30",
+       "ref": "JHN.12.28-30"
+      },
+      {
+       "text": "Mat 27:51",
+       "ref": "MAT.27.51"
+      },
+      {
+       "text": "Luk 23:44",
+       "ref": "LUK.23.44"
+      },
+      {
+       "text": "Act 2:2-4",
+       "ref": "ACT.2.2-4"
+      },
+      {
+       "text": "Heb 3:1",
+       "ref": "HEB.3.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.27",
+   "range": "HEB.12.27",
+   "kind": "passage",
+   "hash": "46841ec5",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.27#p1-24e27be4",
+     "text": "The interpretation of the former matter in this verse, is introduced by reassuming:"
+    },
+    {
+     "id": "poole/HEB.12.27#p2-c4c0fbe3",
+     "text": "as if he said: I told you that God promised, Yet once more, &c.; what he meaneth by it I now declare to you: this shaking of God intends not a small alteration, but a total removal and abolition of the Israelitish heaven and earth, forementioned, an alteration of their church, religion, and administration, and a total abrogating of them, because they are hand work, Heb 9:24. Such as were at God’s direction made by men, as tabernacle, altar, and that typical service, not reaching the spiritual design of God, and but types of far better to succeed them; and which settled, did make the others to be finished, past, and never to return again.",
+     "anchor": "And this, Yet once more",
+     "refs": [
+      {
+       "text": "Heb 9:24",
+       "ref": "HEB.9.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.27#p3-7074007d",
+     "text": "these better things are the administration of Christ’s kingdom unshakeable, his church state which is heavenly, settled by his own evangelical laws and ordinances, which he hath so fixed by promise, as never to be removed till the whole church of Christ be completed with him in heaven, Hag 2:7 Mat 17:5 28:18-20.",
+     "anchor": "That those things which cannot be shaken may remain",
+     "refs": [
+      {
+       "text": "Hag 2:7",
+       "ref": "HAG.2.7"
+      },
+      {
+       "text": "Mat 17:5",
+       "ref": "MAT.17.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.28",
+   "range": "HEB.12.28",
+   "kind": "passage",
+   "hash": "aa377eb4",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.28#p1-d2986213",
+     "text": "in this verse the apostle follows his doctrine with counsel to several duties; such as concern the first table, and terminate on God, in this and the following verse; such as concern the second table, Heb 13:1, &c. In this verse he begins with the Christians’ privilege, and then directs their duty. These Hebrews having received by faith the privileges, and submitted themselves unto the laws and government, of the unmoveable kingdom of Christ, that gospel church state of which God is the author, Christ the King, his spiritual under officers ministers, penitent believing sinners the subject; the gospel laws by which the government is administered perfectly holy, just, and good; the privileges of it all grace here, and glory above; the descent of all from heaven: all which are to endure for ever unshaken, and against them the gates of hell shall not prevail, Zec 9:9 1Co 15:24-28 Eph 4:11-16 Col 1:13 2:3.",
+     "anchor": "Wherefore we receiving a kingdom which cannot be moved",
+     "refs": [
+      {
+       "text": "Heb 13:1",
+       "ref": "HEB.13.1"
+      },
+      {
+       "text": "Zec 9:9",
+       "ref": "ZEC.9.9"
+      },
+      {
+       "text": "1Co 15:24-28",
+       "ref": "1CO.15.24-28"
+      },
+      {
+       "text": "Eph 4:11-16",
+       "ref": "EPH.4.11-16"
+      },
+      {
+       "text": "Col 1:13",
+       "ref": "COL.1.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.28#p2-9b0ee945",
+     "text": "let us get and hold fast that gracious temper of soul, whereby they are made true, wise, believing, loving, humble, and obedient subjects to the laws of this kingdom, and manifest it by worshipping, and serving of, and walking with, God in this world, so as our persons and duties may be all well-pleasing to him in Christ, Eph 1:6, and constantly conformable to his holy will, Heb 11:4,5: and out of a sense of their own lowliness, with a self-abasing heart, and a reverential carriage, as Gen 18:27 Luk 18:13, approaching God in all his service with a holy jealousy over itself, that it do not offend him in what it is or doth, but rightly receiving law from him for all his service, and rightly returning all conformable thereunto to him again, Joh 12:49,50.",
+     "anchor": "Let us have grace, whereby we may serve God acceptably with reverence and godly fear",
+     "refs": [
+      {
+       "text": "Eph 1:6",
+       "ref": "EPH.1.6"
+      },
+      {
+       "text": "Heb 11:4",
+       "ref": "HEB.11.4"
+      },
+      {
+       "text": "Gen 18:27",
+       "ref": "GEN.18.27"
+      },
+      {
+       "text": "Luk 18:13",
+       "ref": "LUK.18.13"
+      },
+      {
+       "text": "Joh 12:49",
+       "ref": "JHN.12.49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/HEB.12.29",
+   "range": "HEB.12.29",
+   "kind": "passage",
+   "hash": "fbc0b13c",
+   "paragraphs": [
+    {
+     "id": "poole/HEB.12.29#p1-41e80777",
+     "text": "The motive enforcing this duty is no less terrible than that given to Israel under the law, obliging their obedience to that covenant dispensation, Deu 4:23,24:",
+     "refs": [
+      {
+       "text": "Deu 4:23",
+       "ref": "DEU.4.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/HEB.12.29#p2-ff7f8e50",
+     "text": "He that was so respecting the transgression of the legal, will much more be so as to this gospel covenant. God Almighty, the most gracious, and yet the most just Being, their own God by covenant obtestation; yet will be to them, if they break his covenant, and do not, through Christ, acceptably serve him with reverence and godly fear, as fire consuming them. His gospel law, in the contempt of it, will be as the fiery law at Sinai, adjudging such sinners unto fire unquenchable, Heb 10:27-31; compare Mat 3:12 25:41 2Th 1:7-9.",
+     "anchor": "The Lord thy God is a consuming fire, even a jealous God",
+     "refs": [
+      {
+       "text": "Heb 10:27-31",
+       "ref": "HEB.10.27-31"
+      },
+      {
+       "text": "Mat 3:12",
+       "ref": "MAT.3.12"
+      },
+      {
+       "text": "2Th 1:7-9",
+       "ref": "2TH.1.7-9"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

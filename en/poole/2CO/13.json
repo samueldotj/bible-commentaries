@@ -1,0 +1,469 @@
+{
+ "source": "poole",
+ "book": "2CO",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "poole/2CO.13",
+   "range": "2CO.13",
+   "kind": "chapter",
+   "hash": "a1a36a48",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13#p1-4b980708",
+     "text": "2Co 13:1-4 Paul threateneth to vindicate his authority at his coming by punishing severely unreclaimed offenders.",
+     "refs": [
+      {
+       "text": "2Co 13:1-4",
+       "ref": "2CO.13.1-4"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CO.13#p2-b13f3058",
+     "text": "2Co 13:5,6 He adviseth the Corinthians to try if they had as good proofs of their faith, as he trusted to have of his mission.",
+     "refs": [
+      {
+       "text": "2Co 13:5",
+       "ref": "2CO.13.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CO.13#p3-b18e60d7",
+     "text": "2Co 13:7-10 He wisheth that by a blameless conversation they might prevent him from using sharpness toward them, whatever became of his proofs.",
+     "refs": [
+      {
+       "text": "2Co 13:7-10",
+       "ref": "2CO.13.7-10"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CO.13#p4-2dc9e562",
+     "text": "2Co 13:11-14 He concludeth with an exhortation, salutation, and prayer.",
+     "refs": [
+      {
+       "text": "2Co 13:11-14",
+       "ref": "2CO.13.11-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.1",
+   "range": "2CO.13.1",
+   "kind": "passage",
+   "hash": "a7442c45",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.1#p1-1a35655b",
+     "text": "Chapter Introduction"
+    },
+    {
+     "id": "poole/2CO.13.1#p2-3763f619",
+     "text": "Not"
+    },
+    {
+     "id": "poole/2CO.13.1#p3-6f7c2637",
+     "text": "when he was upon his journey, (for he was not now travelling), but the third time that he had taken up thoughts of, and was preparing for, such a journey: which, it may be, he hinteth to them, that they might be the more afraid to continue in those sinful courses which he had blamed them for. In the mouth of two or three witnesses shall every word be established: he alludeth to the law of God, Deu 19:15, concerning witnesses in any case. God ordered, that the testimony of two or three persons should determine all questions in their law; and that should be taken for certain and established, which such a number of persons asserted. The apostle would from hence have them conclude, that he would certainly come, because this was the third time that he had resolved upon it, and was preparing for it.",
+     "anchor": "the third time",
+     "refs": [
+      {
+       "text": "Deu 19:15",
+       "ref": "DEU.19.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.2",
+   "range": "2CO.13.2",
+   "kind": "passage",
+   "hash": "26ab20c2",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.2#p1-3077baf6",
+     "text": "in my former Epistle, and now (though I be yet absent) I tell you beforehand, as though",
+     "anchor": "I told you"
+    },
+    {
+     "id": "poole/2CO.13.2#p2-97dad1af",
+     "text": "amongst you.",
+     "anchor": "I were present"
+    },
+    {
+     "id": "poole/2CO.13.2#p3-e4da5c7c",
+     "text": "I write this for the sake of those who have already sinned scandalously; and not for theirs only, but for the sake of others, who may have temptations so to offend.",
+     "anchor": "I write to them which heretofore have sinned, and to all other"
+    },
+    {
+     "id": "poole/2CO.13.2#p4-11d178f9",
+     "text": "that, if I do come, and find any such who walk in courses of sin, and are hardened in them, so as all that I have said will not bring them to remorse and reformation,",
+     "anchor": "That, if I come again, I will not spare"
+    },
+    {
+     "id": "poole/2CO.13.2#p5-90e61a02",
+     "text": "them, either as to sharp reprehensions, or as to ecclesiastical censures; according to the trust which Christ hath reposed in me. Some extend this further, to a power of inflicting bodily pains; but it is not clear that the apostles were intrusted with any such power ordinarily, though sometimes they did exert such a power; as appeareth, both from the instances of Ananias and Sapphira, Act 5:1-11, and that of Elymas, Act 13:8-11.",
+     "anchor": "I will not spare",
+     "refs": [
+      {
+       "text": "Act 5:1-11",
+       "ref": "ACT.5.1-11"
+      },
+      {
+       "text": "Act 13:8-11",
+       "ref": "ACT.13.8-11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.3",
+   "range": "2CO.13.3",
+   "kind": "passage",
+   "hash": "4ac401f2",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.3#p1-bf20e5f5",
+     "text": "Christ (saith the apostle) hath openly showed his power in my ministry, speaking to you; how else came your hearts to be turned from dumb idols to serve the living God? How came you to be furnished with those excellent gifts wherewith you abound? But, seeing all this is not judged a sufficient proof of Christ’s"
+    },
+    {
+     "id": "poole/2CO.13.3#p2-0e2c0098",
+     "text": "to you, but you are yet doubting whether I am an apostle or no, and calling for",
+     "anchor": "speaking in me"
+    },
+    {
+     "id": "poole/2CO.13.3#p3-d2492552",
+     "text": "I will, if I come, and find any that have lived scandalously, and are impenitent, show you another proof of that power and authority with which Christ hath trusted me. Which must be understood, either of his miraculous power to inflict some bodily afflictions upon them, or (which is more probable) of his power as an apostle to cut them off from the communion of gospel churches.",
+     "anchor": "a proof of Christ in me"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.4",
+   "range": "2CO.13.4",
+   "kind": "passage",
+   "hash": "3f6f7296",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.4#p1-4e509d55",
+     "text": "He had before said, that Christ in him was not weak, but mighty; here he showeth, that there was a time when Christ himself was weak, in a low and contemptible state, in which state he was crucified; this state of weakness subjected him to a death upon the cross: but,"
+    },
+    {
+     "id": "poole/2CO.13.4#p2-ea57750c",
+     "text": "he rose again from the dead, ascended up into heaven, where he liveth for ever to make intercession for us.",
+     "anchor": "by the power of God"
+    },
+    {
+     "id": "poole/2CO.13.4#p3-fab6b25a",
+     "text": "in conformity to Christ (he saith) he and the rest of the apostles were",
+     "anchor": "For we also are weak in him"
+    },
+    {
+     "id": "poole/2CO.13.4#p4-28557980",
+     "text": "in a low, abject, contemptible condition, exposed to reproaches, deaths, &c.",
+     "anchor": "weak"
+    },
+    {
+     "id": "poole/2CO.13.4#p5-58491593",
+     "text": "which some understand of life eternal, consequent to the resurrection of believers; but others better, of the life and vigour of the apostle’s ministry. Through the mighty power of God, flowing from a living Christ, who hath ascended up on high, and given gifts unto men, our ministry shall be a living, powerful, efficacious ministry toward you.",
+     "anchor": "But we shall live"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.5",
+   "range": "2CO.13.5",
+   "kind": "passage",
+   "hash": "13096bc4",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.5#p1-80aa5c6b",
+     "text": "it is most commonly seen, that those who are most busy to desire or inquire after a proof of Christ in others, are tardiest in making an inquiry after Christ’s being in themselves. The apostle therefore calleth the censorious part of this church, who desired a proof of Christ in him, to examine themselves.",
+     "anchor": "Examine yourselves"
+    },
+    {
+     "id": "poole/2CO.13.5#p2-dc378fac",
+     "text": "whether they had any true faith; such as works by love, and purifies the heart. For he knew that they were baptized, and Christians in outward profession; nor is he blaming them for any apostacy from the doctrine of faith, only for an ill life, which evidenceth their faith not to be the faith of God’s elect, a faith of the operation of God, & c.",
+     "anchor": "Whether ye be in the faith"
+    },
+    {
+     "id": "poole/2CO.13.5#p3-0ec0b33e",
+     "text": "he doubleth the exhortation upon them, possibly for this end, to let them know, that if they found themselves in the faith, they could not reasonably doubt whether he himself was in the faith, or not, whom God had made the instrument to convert them.",
+     "anchor": "Prove your own selves"
+    },
+    {
+     "id": "poole/2CO.13.5#p4-c9134c9d",
+     "text": "he commends to them the knowledge of themselves, as being a far more desirable piece of knowledge than the knowledge of other men; as to what they are, or what their state is towards God.",
+     "anchor": "Know ye not your own selves"
+    },
+    {
+     "id": "poole/2CO.13.5#p5-de20b8ce",
+     "text": "In the inquiry after this, he bids them to inquire, whether Christ was in them, yea or no? The name of Christ was named upon them in their baptism, Christ had been preached to them; this the apostle knew; but all this might be, and yet Christ not dwell in their hearts by faith. This is the great point the apostle directs them to examine and prove themselves about, whether Christ was in them by a lively faith? Apprehended and applied as their Saviour, ruling and governing them as their Lord and King? He lets them know the importance of this inquiry, telling them that Jesus Christ must be in them, if they were not reprobates. But (some might say) how could the apostle conclude this? Though at present Christ was not in them, and they as yet were no more than formal professors, yet might not God open their eyes, and work in them afterwards a more full and effectual change?",
+     "anchor": "How that Jesus Christ is in you, except ye be reprobates?"
+    },
+    {
+     "id": "poole/2CO.13.5#p6-b76e9dee",
+     "text": "Answer."
+    },
+    {
+     "id": "poole/2CO.13.5#p7-3db4a334",
+     "text": "1. The apostle might be allowed to know more than ordinary ministers can know. He had before said: If our gospel be hid, it is hid to them that are lost."
+    },
+    {
+     "id": "poole/2CO.13.5#p8-68b6d9a7",
+     "text": "2. When the gospel and the means of grace have been for some considerable time in a place, it is much to be feared, that those who have not in that time felt the saving power and effect of it upon their hearts, never shall. It is ordinarily observed, that where God blesseth the ministry of any to convert souls, their greatest harvest is in the first years of their ministry."
+    },
+    {
+     "id": "poole/2CO.13.5#p9-18ac4bd3",
+     "text": "3. Some think, that the word αδοκιμοι should not be translated reprobates, but rather, not approved by God. If Christ be not in the soul by faith, it cannot be approved of God, because without faith it is impossible to please God. But we generally translate the word by reprobate, rejected, castaway, 1Co 9:27 2Ti 3:8 Tit 1:16 Heb 6:8. It seemeth to signify persons given over by God to a stupidity of mind, &c. So as the apostle here useth a very close argument, to put them upon a search into their own hearts and states, to see if they could find Christ dwelling in them; for otherwise, (considering their long profession, and the revelation of Christ to them), it would be a ground of fear, that they were such as God had cast off for ever. However, as to their present state, they had no ground to conclude better, whatever mercy God might afterwards show them. Men’s sitting and continuing long under the means of grace, and an outward profession, without a saving knowledge of Christ, and true savour of the truth, and a reformation of their lives according to the rules and directions of the gospel, is not indeed an infallible sign that he who formed them will never show them any favour; but it is a very great presumption that it will be so with such. Which should therefore strongly engage them to be very often and very seriously proving themselves, as to this thing, whether they be in Christ, and whether they have a true, saving faith?",
+     "refs": [
+      {
+       "text": "1Co 9:27",
+       "ref": "1CO.9.27"
+      },
+      {
+       "text": "2Ti 3:8",
+       "ref": "2TI.3.8"
+      },
+      {
+       "text": "Tit 1:16",
+       "ref": "TIT.1.16"
+      },
+      {
+       "text": "Heb 6:8",
+       "ref": "HEB.6.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.6",
+   "range": "2CO.13.6",
+   "kind": "passage",
+   "hash": "57c44819",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.6#p1-2e6a4d85",
+     "text": "You make a doubt whether Christ be in us, and you would fain know how it may be evidenced that he is so. If Christ be not in us we must be reprobates."
+    },
+    {
+     "id": "poole/2CO.13.6#p2-fcce052d",
+     "text": "either in this life, by the evident signs of my apostleship, (which when I come I shall give you), and by the life and power of my ministry amongst you; or in another life, when the sheep shall stand at God’s right hand, and the goats at his left; that (whatsoever you think or say of us) we are none of those who are rejected and disapproved of God.",
+     "anchor": "But I trust that ye shall know"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.7",
+   "range": "2CO.13.7",
+   "kind": "passage",
+   "hash": "0a2972e4",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.7#p1-af701880",
+     "text": "I do not desire that when I come I may find objects for my severity, upon whom I may show a proof of Christ in me, by exercising that authority upon them with which Christ hath intrusted me: no, on the contrary, I heartily pray that ye may be holy and blameless, without spot or wrinkle.",
+     "anchor": "Now I pray to God that ye do no evil"
+    },
+    {
+     "id": "poole/2CO.13.7#p2-c9dec3a4",
+     "text": "neither do I desire this for my own sake, that I may be approved, but I singly desire it for your good.",
+     "anchor": "Not that we should appear approved"
+    },
+    {
+     "id": "poole/2CO.13.7#p3-cb5cc70d",
+     "text": "that you may do that which is good; and then do you, and let the world, think of me as a reprobate, or what they will.",
+     "anchor": "But that ye should do that which is honest, though we be as reprobates"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.8",
+   "range": "2CO.13.8",
+   "kind": "passage",
+   "hash": "293e3bfc",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.8#p1-1e32787e",
+     "text": "in this place notes integrity of life and conversation; truth in action, opposed to hypocrisy, or scandalous living. He had before prayed, that they might do no evil; which if they did not, they need not fear his coming with a rod; for though he had a power from Christ to punish, yet he had no power to punish such as did well; his power was to be used for them, not against them. As the law was not made for the righteous, and the civil magistrate is not ordained of God for the terror of those that do well, but only of those that do evil; so neither did Christ ever ordain ecclesiastical censures for the punishment of good and holy men. And indeed here is the just boundary of all civil and ecclesiastical power; no magistrate or minister, acting as Christ’s servants, can (lawfully, or as by any commission from him) do any thing",
+     "anchor": "Truth"
+    },
+    {
+     "id": "poole/2CO.13.8#p2-3fc53cbb",
+     "text": "or those that own, defend, and practise it; the power with which they are trusted is for edification, not destruction.",
+     "anchor": "against the truth"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.9",
+   "range": "2CO.13.9",
+   "kind": "passage",
+   "hash": "71b2509e",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.9#p1-e5b5f3aa",
+     "text": "Some by weak here understand a moral impotency; as the apostle had said, he could not do any thing against the truth, that is, rightly and justly he could not: and by"
+    },
+    {
+     "id": "poole/2CO.13.9#p2-0e2adec8",
+     "text": "here, a spiritual strength, a reformation, growth, and proficiency in grace. These make the sense to be this; I am so far from coming with a desire to show amongst you my apostolical power in punishing offenders, as that I should be glad to find you so strong in the exercise of grace, that I should find none to punish; that men be made weak (as to the putting forth that power) by your spiritual strength. I incline to a more general interpretation. The apostle by this purgeth himself from any thing of vain glory, or seeking himself; Though (saith he) I be weak, (as some amongst you report me), yet if you be truly strong, I shall heartily rejoice therein. For I wish nothing more than",
+     "anchor": "strong"
+    },
+    {
+     "id": "poole/2CO.13.9#p3-9871cd9f",
+     "text": "my reputation is nothing to me compared with that.",
+     "anchor": "your perfection"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.10",
+   "range": "2CO.13.10",
+   "kind": "passage",
+   "hash": "b67a3b8e",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.10#p1-b67a3b8e",
+     "text": "The apostle here lets them know with how much tenderness he dealt with them; and whereas they might have charged him with sharpness in his letters, he assures them, that he therefore had so wrote, that he might prevent sharper dealings with them when he should come to them, by their hearkening to the admonitions of his letter; for otherwise, he tells them, that after he came he must deal more sharply with them in the execution of that power with which Christ had intrusted him. Yet he further tells them, that that power was for their good, not for their harm; for their edification, not for their destruction: which is the same with what he had said, 2Co 10:8, and in the verse immediately preceding.",
+     "refs": [
+      {
+       "text": "2Co 10:8",
+       "ref": "2CO.10.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.11",
+   "range": "2CO.13.11",
+   "kind": "passage",
+   "hash": "acee5e83",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.11#p1-c3e9a584",
+     "text": "the apostle shutteth up his Epistle according to the ordinary form of conclusions of letters, wishing all happiness to them: but he addeth something as a Christian, and a minister of the gospel.",
+     "anchor": "Finally, brethren, farewell"
+    },
+    {
+     "id": "poole/2CO.13.11#p2-86f96c2d",
+     "text": "the word καταρτιζεσθε signifies to be compact, or united, as members of the same body, or parts of the same house; the perfection of a society lying much in the union of it. The perfection the apostle presseth here, seemeth to be the perfection of the body of the church, by the restoring of such as were separated from its communion, or had, through a spirit of contention, withdrawn themselves, rather than the perfection of the particular members of it, in the habits and exercises of grace. The Greek word seemeth that way to carry the sense; it properly signifies, the putting of members loosed from their joints into their proper place again, and such a perfection as followeth upon such an action, or any action proportionable to it.",
+     "anchor": "Be perfect"
+    },
+    {
+     "id": "poole/2CO.13.11#p3-d974765f",
+     "text": "the word imports exhorted, comforted, confirmed: be exhorted to yield obedience to my precepts, or counsels; be comforted in all the trials or afflictions you do meet with, or may further meet with, for your profession of the gospel; be confirmed in the truths and holy ways of God.",
+     "anchor": "Be of good comfort"
+    },
+    {
+     "id": "poole/2CO.13.11#p4-eddb9c30",
+     "text": "if possible, of one and the same judgment in the truths of God; however, as pursuing the same scope and end; be one in affection.",
+     "anchor": "Be of one mind"
+    },
+    {
+     "id": "poole/2CO.13.11#p5-41b1dab2",
+     "text": "free from those contentions and divisions, those debates, and strifes, and wraths, and envyings, which I have before told you of as faults among you. This is the way for to have the presence of God with you, for he is not the God of hatred and strife, but",
+     "anchor": "Live in peace"
+    },
+    {
+     "id": "poole/2CO.13.11#p6-bfb6bb31",
+     "text": "who hath commanded love and peace amongst those that are brethren, and will be present among them only who live in obedience to his royal law of love.",
+     "anchor": "the God of love and peace"
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.12",
+   "range": "2CO.13.12",
+   "kind": "passage",
+   "hash": "e350812d",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.12#p1-e350812d",
+     "text": "Rom 16:16\". See Poole on \"1Co 16:20\". It was an ancient custom and of common use, when friends met, for them (as a token of mutual love and friendship) to kiss each other: the Christians used it also at their ecclesiastical assemblings. It must not be looked upon as a precept, obliging all Christians to do the like; but only as directing those that then did use it, to use it innocently, chastely, sincerely, and holily.",
+     "anchor": "See Poole on \"",
+     "refs": [
+      {
+       "text": "Rom 16:16",
+       "ref": "ROM.16.16"
+      },
+      {
+       "text": "1Co 16:20",
+       "ref": "1CO.16.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.13",
+   "range": "2CO.13.13",
+   "kind": "passage",
+   "hash": "2dd380c4",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.13#p1-2dd380c4",
+     "text": "That is, all about me in these parts of Macedonia wish you all happiness, and by me send the remembrance of their love and respects to you."
+    }
+   ]
+  },
+  {
+   "id": "poole/2CO.13.14",
+   "range": "2CO.13.14",
+   "kind": "passage",
+   "hash": "4d303975",
+   "paragraphs": [
+    {
+     "id": "poole/2CO.13.14#p1-43e62531",
+     "text": "The free love of our Lord Jesus Christ, shown in the application of his redemption; that grace which floweth from him as the Fountain of grace, or cometh by him as the Mediator between God and man; the actual love of God; that good-will by which God the Father embraceth creatures in Christ, and for his sake; and all the gracious communications of the Holy Spirit of God, (by which he strengtheneth, quickeneth, or comforteth the souls of God’s people),"
+    },
+    {
+     "id": "poole/2CO.13.14#p2-0edad1ec",
+     "text": "Whether you value me or not, I heartily wish you well, and all the best things. In this text is an eminent proof of the Trinity, all the Persons being distinctly named in it (as in the commission about baptism). The apostle calleth the Father, God; the Son, Lord: he attributeth love to the Father; (moved by which he sent his only begotten Son into the world, Joh 3:16); grace to the Son, who loved us freely, and died for the fellowship or",
+     "anchor": "be with you all",
+     "refs": [
+      {
+       "text": "Joh 3:16",
+       "ref": "JHN.3.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/2CO.13.14#p3-4ef5378b",
+     "text": "by whom the Father and Son communicate their love and grace to the saints.",
+     "anchor": "communion of the Holy Ghost"
+    },
+    {
+     "id": "poole/2CO.13.14#p4-9b573c04",
+     "text": "is here used as a particle of wishing or desiring the thing before mentioned; it is the same with: Let it so be. Whether added by the apostle, or subjoined by the church of Corinth, upon the reading this Epistle among them, (as some think), is not material.",
+     "anchor": "Amen"
+    },
+    {
+     "id": "poole/2CO.13.14#p5-dbd00b52",
+     "text": "(epistle) to the Corinthians was written from Philippi, ( a city) of Macedonia, by Titus and Lucas.",
+     "anchor": "The second"
+    },
+    {
+     "id": "poole/2CO.13.14#p6-a8880d99",
+     "text": "If the subscriptions to the apostolical Epistles were parts of the text and holy writ, we have it here determined, who that other brother was, mentioned 2Co 8:22, sent along with Titus to carry this letter, and the benevolence of the churches of Macedonia. But it is observed, that even in this subscription there is a certain evidence, that the subscriptions of the Epistles are no part of canonical writ; for in some Greek copies it is said to be sent by Paul and Timothy; whereas Paul was the writer of it, not the messenger, and in Macedonia when it was sent; and Timothy is joined with him in the writing, 2Co 1:1.",
+     "refs": [
+      {
+       "text": "2Co 8:22",
+       "ref": "2CO.8.22"
+      },
+      {
+       "text": "2Co 1:1",
+       "ref": "2CO.1.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

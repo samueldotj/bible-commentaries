@@ -1,0 +1,69 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 117,
+ "units": [
+  {
+   "id": "poole/PSA.117",
+   "range": "PSA.117",
+   "kind": "chapter",
+   "hash": "eb6ccde6",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.117#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.117#p2-333c33ce",
+     "text": "This Psalm contains a prophecy of the calling of the Gentiles, as appears both from the matter of it, and from Rom 15:11, where it is quoted to that purpose.",
+     "refs": [
+      {
+       "text": "Rom 15:11",
+       "ref": "ROM.15.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.117#p3-d3b9234d",
+     "text": "An exhortation to all nations to praise God for his mercy and truth’s sake."
+    },
+    {
+     "id": "poole/PSA.117#p4-0f49c47d",
+     "text": "Acknowledge the true God, and serve him only, and cast away all your idols."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.117.2",
+   "range": "PSA.117.2",
+   "kind": "passage",
+   "hash": "cabfe367",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.117.2#p1-a12a5354",
+     "text": "either,",
+     "anchor": "Toward us"
+    },
+    {
+     "id": "poole/PSA.117.2#p2-ce380131",
+     "text": "1. Towards us Jews, to whom he hath given those peculiar privileges which he hath denied to all other nations. But this may seem an improper argument to move the Gentiles to praise God for his mercies to others from which they were excluded. Or,"
+    },
+    {
+     "id": "poole/PSA.117.2#p3-20f87d03",
+     "text": "2. Towards all of us, all the children of Abraham, whether carnal or spiritual, who were to be incorporated together, and made one body and one fold by and under the Messias, Joh 10:16 Eph 2:14, which mystery seems to be insinuated by this manner of expression.",
+     "refs": [
+      {
+       "text": "Joh 10:16",
+       "ref": "JHN.10.16"
+      },
+      {
+       "text": "Eph 2:14",
+       "ref": "EPH.2.14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "poole/ACT.25",
+   "range": "ACT.25",
+   "kind": "chapter",
+   "hash": "dac072bf",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25#p1-9ca82990",
+     "text": "Act 25:1-7 The Jews accuse Paul to Festus, first at Jerusalem, and afterwards at Caesarea.",
+     "refs": [
+      {
+       "text": "Act 25:1-7",
+       "ref": "ACT.25.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25#p2-07bb3248",
+     "text": "Act 25:8-12 He answereth for himself, and appealeth to Caesar; his appeal is admitted.",
+     "refs": [
+      {
+       "text": "Act 25:8-12",
+       "ref": "ACT.25.8-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25#p3-582432f0",
+     "text": "Act 25:13-22 Festus being visited by king Agrippa openeth the matter to him, who desireth to hear Paul.",
+     "refs": [
+      {
+       "text": "Act 25:13-22",
+       "ref": "ACT.25.13-22"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25#p4-445770d0",
+     "text": "Act 25:23-27 Paul is brought forth; Festus declareth he found nothing in him worthy of death.",
+     "refs": [
+      {
+       "text": "Act 25:23-27",
+       "ref": "ACT.25.23-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.1",
+   "range": "ACT.25.1",
+   "kind": "passage",
+   "hash": "24dc6207",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.1#p1-6dcaee1d",
+     "text": "so the Romans called any country which they had conquered with their arms, and unto which they sent a governor, which at this time was Festus, being now set over Judea in Felix’s room.",
+     "anchor": "Province"
+    },
+    {
+     "id": "poole/ACT.25.1#p2-a389c35f",
+     "text": "had been the place of residence for the Roman governors, by reason of its strength and situation, in Act 23:23.",
+     "anchor": "Caesarea",
+     "refs": [
+      {
+       "text": "Act 23:23",
+       "ref": "ACT.23.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.2",
+   "range": "ACT.25.2",
+   "kind": "passage",
+   "hash": "2495b9c5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.2#p1-33e7570c",
+     "text": "the same who are called the elders, in Act 24:1.",
+     "anchor": "The chief of the Jews",
+     "refs": [
+      {
+       "text": "Act 24:1",
+       "ref": "ACT.24.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25.2#p2-7bcebcd3",
+     "text": "continued their accusation and prosecution of Paul. So restless is the rage and enmity, the adversaries of truth have against the professors of it.",
+     "anchor": "Informed him against Paul"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.3",
+   "range": "ACT.25.3",
+   "kind": "passage",
+   "hash": "d17b14da",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.3#p1-e9286785",
+     "text": "though it seems to have been but justice, that they might be allowed to try Paul for such crimes as were within their cognizance; yet that they might the more easily obtain their desire, they beg it as a favour.",
+     "anchor": "Desired favour"
+    },
+    {
+     "id": "poole/ACT.25.3#p2-aa9972e3",
+     "text": "which did worse become magistrates and priests than any men, to act thus against the law of nature, and to be sure also against the law of the land, to hire ruffians to assassinate Paul.",
+     "anchor": "Laying wait in the way to kill him"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.4",
+   "range": "ACT.25.4",
+   "kind": "passage",
+   "hash": "8ab9fbe8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.4#p1-c006b885",
+     "text": "It is most probable that Festus had been informed by Felix of the Jews’ malice against Paul; for Felix having been accused by the Jews unto the emperor, might be supposed to have recriminated wheresoever he had any opportunity; and in all the time of his government they were not guilty of a worse fact than their design against Paul, it being sedition, and intended murder of one who had the privilege of a Roman citizen."
+    },
+    {
+     "id": "poole/ACT.25.4#p2-7880c086",
+     "text": "the governors kept their courts wheresoever they came.",
+     "anchor": "He himself would depart shortly thither"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.5",
+   "range": "ACT.25.5",
+   "kind": "passage",
+   "hash": "a2ce4afa",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.5#p1-90134308",
+     "text": "fit to prosecute Paul in your behalf; as Tertullus was, whom the Jews had carried with them formerly, Act 24:1.",
+     "anchor": "Which among you are able",
+     "refs": [
+      {
+       "text": "Act 24:1",
+       "ref": "ACT.24.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25.5#p2-fdb3c802",
+     "text": "because Jerusalem was in a mountainous part of the country, and much of it built upon a hill.",
+     "anchor": "Go down with me"
+    },
+    {
+     "id": "poole/ACT.25.5#p3-3633f908",
+     "text": "the word properly signifies a foolish thing; but it is also taken for a wicked thing; all sin being folly, and grace wisdom; as they are frequently called in Scripture, though the world hath another opinion of them, many abhorring to be accounted fools, and yet are not though they appear most wicked.",
+     "anchor": "Wickedness"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.6",
+   "range": "ACT.25.6",
+   "kind": "passage",
+   "hash": "62c5e281",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.6#p1-62c5e281",
+     "text": "the margin gives an account of a diverse reading, unto which might be added another, viz. eight or ten days; which reading many follow, and is according unto the usual expression of such a short space of time, which need not to be exactly set down. Thus though God hath provided so, as there is little or no variety in setting down those truths or doctrines in Scripture which concern faith and manners, or our believing and holy living; yet in circumstances which (though they pertain to complete the history or genealogies in Scripture) are not necessary to be so exactly known, God left them not so, designed to exercise us in this state, wherein we know but in part, \\ 1Co 13:9. Fundamental truths are not of such a depth but a lamb may wade or walk in them; but there are less material things of such a profundity, that an elephant may swim in them, and men of the highest understanding and deepest reach must cry out, ω Βαθος.",
+     "anchor": "More than ten days",
+     "refs": [
+      {
+       "text": "1Co 13:9",
+       "ref": "1CO.13.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.7",
+   "range": "ACT.25.7",
+   "kind": "passage",
+   "hash": "2d5ebf14",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.7#p1-e5a62f95",
+     "text": "the judge sat, and the prisoner brought.",
+     "anchor": "When he was come"
+    },
+    {
+     "id": "poole/ACT.25.7#p2-70c3711b",
+     "text": "his accusers, which were many, and came with a full cry against him,",
+     "anchor": "The Jews which came down from Jerusalem"
+    },
+    {
+     "id": "poole/ACT.25.7#p3-554ade81",
+     "text": "him, or about the judgment seat.",
+     "anchor": "stood round about"
+    },
+    {
+     "id": "poole/ACT.25.7#p4-d27f8e6d",
+     "text": "what these accusations were, appears in the next verse by Paul’s answer; but they could not demonstrate them, or make them evident; and if it were sufficient to accuse, no man could be innocent.",
+     "anchor": "Many and grievous complaints"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.8",
+   "range": "ACT.25.8",
+   "kind": "passage",
+   "hash": "59ce982d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.8#p1-39fae82a",
+     "text": "Paul answers unto the three crimes which he was charged with:"
+    },
+    {
+     "id": "poole/ACT.25.8#p2-16a7301d",
+     "text": "1. He had not offended against the law, having been always a religious observer of it: nor:"
+    },
+    {
+     "id": "poole/ACT.25.8#p3-3d6dee8d",
+     "text": "2. Against the temple, which he went into devoutly, and upon a religious account: nor:"
+    },
+    {
+     "id": "poole/ACT.25.8#p4-4b0592da",
+     "text": "3. Against Caesar; having never taught any rebellion, nor said or done any thing against his government."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.9",
+   "range": "ACT.25.9",
+   "kind": "passage",
+   "hash": "a930e6b4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.9#p1-84ea2add",
+     "text": "as his predecessor, Felix, before him, Act 24:27, to gain popular applause, and the good will of that nation; especially Felix having been displaced upon the complaint of the Jews against him.",
+     "anchor": "Willing to do the Jews a pleasure",
+     "refs": [
+      {
+       "text": "Act 24:27",
+       "ref": "ACT.24.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25.9#p2-483c4b10",
+     "text": "or spake to Paul; as Act 3:12.",
+     "anchor": "Answered",
+     "refs": [
+      {
+       "text": "Act 3:12",
+       "ref": "ACT.3.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25.9#p3-c99af7f6",
+     "text": "Festus apparently inclines to favour the Jews, though he does not command, but ask this of Paul; he being privileged as a Roman, could not against his will be forced to acknowledge the Jews for competent judges.",
+     "anchor": "Wilt thou go up to Jerusalem, &c"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.10",
+   "range": "ACT.25.10",
+   "kind": "passage",
+   "hash": "1c218f53",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.10#p1-363eced4",
+     "text": "Paul might justly suspect his judges, and the place where they would have him judged, and also his journey thither, knowing with what difficulty, and not without a great guard, he came from thence."
+    },
+    {
+     "id": "poole/ACT.25.10#p2-115b0e6d",
+     "text": "he was now before Caesar’s tribunal, whose vicegerent Festus was; and he only ought to judge a Roman citizen.",
+     "anchor": "I stand at Caesar’s judgment seat"
+    },
+    {
+     "id": "poole/ACT.25.10#p3-162af7c9",
+     "text": "Festus might know that Paul had done the Jews no wrong, from the relation Felix had made unto him, as also from such as were with Felix when Paul’s case was heard.",
+     "anchor": "As thou very well knowest"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.11",
+   "range": "ACT.25.11",
+   "kind": "passage",
+   "hash": "698aa4f4",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.11#p1-972a7acc",
+     "text": "if I have injured the Jews, and my fault be worthy of death, such as by law deserves death, I beg no favour.",
+     "anchor": "If I be an offender"
+    },
+    {
+     "id": "poole/ACT.25.11#p2-d0ffab38",
+     "text": "according to law, (which the Romans did punctually observe), before sentence was passed.",
+     "anchor": "No man may deliver me unto them"
+    },
+    {
+     "id": "poole/ACT.25.11#p3-b71f3f38",
+     "text": "it was lawful for any that had that privilege of the Roman citizens, to appeal; neither might they be tried against their wills in any province out of Rome. Now Paul might appeal unto Caesar:",
+     "anchor": "I appeal unto Caesar"
+    },
+    {
+     "id": "poole/ACT.25.11#p4-07925256",
+     "text": "1. To make Caesar more favourable unto himself, and to other Christians."
+    },
+    {
+     "id": "poole/ACT.25.11#p5-4b071c3b",
+     "text": "2. Because he thought it more safe for himself and for the church."
+    },
+    {
+     "id": "poole/ACT.25.11#p6-716509f8",
+     "text": "3. He was in part admonished to do it by Christ himself, who had told him that he must bear witness of him at Rome, Act 23:11.",
+     "refs": [
+      {
+       "text": "Act 23:11",
+       "ref": "ACT.23.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.12",
+   "range": "ACT.25.12",
+   "kind": "passage",
+   "hash": "71aac197",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.12#p1-a04e71bb",
+     "text": "either of the Jews, and those of the sanhedrim, that he might inform them of the law or custom of the Romans, and how that he could not but admit of St. Paul’s appeal; or with his own council; it being usual with the Roman presidents to do nothing of moment without the advice of their council, or assistants.",
+     "anchor": "Conferred with the council"
+    },
+    {
+     "id": "poole/ACT.25.12#p2-1c2857dc",
+     "text": "Or without an interrogation: Thou hast appealed unto Caesar; which Festus was glad of, that without danger on the one hand, or ill will on the other, he might get rid of that difficult business.",
+     "anchor": "Hast thou appealed unto Caesar?"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.13",
+   "range": "ACT.25.13",
+   "kind": "passage",
+   "hash": "829439f8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.13#p1-40b2301b",
+     "text": "This Agrippa is called by Josephus, the younger, and was the son of Herod Agrippa, or Agrippa the Great, who in this book of the Acts is called Herod, whose death is mentioned, Act 12:23. But this Agrippa was brother to Drusilla and Bernice, here spoken of, and lived in incest with her, whom Juvenal in his satire speaks of:",
+     "refs": [
+      {
+       "text": "Act 12:23",
+       "ref": "ACT.12.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.25.13#p2-809ae9ae",
+     "text": "Barbarus incestae dedit hunc Agrippa sorori."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.14",
+   "range": "ACT.25.14",
+   "kind": "passage",
+   "hash": "8404a7e0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.14#p1-8404a7e0",
+     "text": "either amongst common discourse, or matter of novelty, and for the strangeness of it, or for his advice about it. Howsoever, by this means the wickedness of the Jews was published, and the safety of St. Paul provided for, and God’s design of publishing the gospel at Rome itself furthered.",
+     "anchor": "Festus declared Paul’s cause unto the king"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.15",
+   "range": "ACT.25.15",
+   "kind": "passage",
+   "hash": "90431e61",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.15#p1-90431e61",
+     "text": "To wit, judgment of death upon Paul, that he might be sentenced according to the crimes they had laid against him; δικη being put for καταδικη. Neither do they at all mind that St. Paul’s case was not yet heard; they would rather have had him condemned unheard, as they had gotten our Saviour to be condemned, though the judge declared that he found no fault in him, Luk 23:4; which their unjust desire appears by Festus’s answer.",
+     "refs": [
+      {
+       "text": "Luk 23:4",
+       "ref": "LUK.23.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.16",
+   "range": "ACT.25.16",
+   "kind": "passage",
+   "hash": "76f08fe0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.16#p1-76f08fe0",
+     "text": "To condemn any man indicta causa, without sufficient cause alleged and proved, is not only against the laws of the Romans, but of the Jews, Deu 17:4; nay, against the law of nature and of all nations. Yet malice had so far blinded the enemies of St. Paul, that they go about such things as a heathen reproves, and the very light of nature condemns.",
+     "refs": [
+      {
+       "text": "Deu 17:4",
+       "ref": "DEU.17.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.17",
+   "range": "ACT.25.17",
+   "kind": "passage",
+   "hash": "6e3b2f35",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.17#p1-6e3b2f35",
+     "text": "Festus had gratified the Jews in what lawfully he might, not detaining them at charges from their habitations: and that not only commends Festus’s own justice, but Paul’s innocence; for if Paul had not appeared guiltless, he would have left him to the rage of the Jews, whom he desired to gratify what he could."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.18",
+   "range": "ACT.25.18",
+   "kind": "passage",
+   "hash": "51dc79f2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.18#p1-51dc79f2",
+     "text": "For Festus, knowing how Paul had been prosecuted by the Jews before Felix, and what charge they had been at, and what journeys they had made about him, could not think less than that he was a capital offender."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.19",
+   "range": "ACT.25.19",
+   "kind": "passage",
+   "hash": "0102cc18",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.19#p1-39ebd9d1",
+     "text": "so this heathen governor profanely calls the religion and worship of God’s own institution, and that in the presence of Agrippa and Bernice, who were both Jews, or, at least, brought up amongst them.",
+     "anchor": "Superstition"
+    },
+    {
+     "id": "poole/ACT.25.19#p2-379ea46c",
+     "text": "to have been raised again from the dead; acknowledging, with them, that he had been indeed dead.",
+     "anchor": "To be alive"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.20",
+   "range": "ACT.25.20",
+   "kind": "passage",
+   "hash": "eb00e48e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.20#p1-eb00e48e",
+     "text": "Festus pretends, that he knew not by what rule those cases were to be decided, nor before what judges; whether before himself or the Jewish sanhedrim. But this is only his pretension: the true cause why he would not acquit Paul, though he knew him to be innocent, we read, Act 25:9, viz. that he might do the Jews a pleasure. He asked Paul this question, Whether he would go to Jerusalem? But with a resolution to have sent him whether he would or not, had he not appealed; but then he durst not: for in certain cases none could hinder appeals, from any judge, to the people in the former times, or to their emperor in the latter times.",
+     "refs": [
+      {
+       "text": "Act 25:9",
+       "ref": "ACT.25.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.21",
+   "range": "ACT.25.21",
+   "kind": "passage",
+   "hash": "dd2b19c5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.21#p1-b8bad379",
+     "text": "Augustus: the emperor who now reigned, and to whom Paul appealed, was Nero, who was called Augustus; this title being at first appropriated to Octavius, who succeeded Julius Caesar; but out of honour unto him, or because of its signification, it became an appellative, and was given unto all the emperors successively: nay, the emperor of Germany to this day is called Semper Augustus."
+    },
+    {
+     "id": "poole/ACT.25.21#p2-99c0acc8",
+     "text": "as from Octavius the emperors of Rome had the name of Augustus, so from the first emperor, Julius, they have the name of Caesars. This word Caesar, which was the proper name of the first emperor, is, in acknowledgment of him, made an appellative to all his successors.",
+     "anchor": "Caesar"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.22",
+   "range": "ACT.25.22",
+   "kind": "passage",
+   "hash": "b2d90273",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.22#p1-b2d90273",
+     "text": "Agrippa being well acquainted with the Jewish religion, if not a Jew, could not but have heard of our Saviour, his doctrine, death, and resurrection; and yet makes this desire but out of curiosity; as Herod desired to hear John Baptist, Mar 6:20, and to see our Saviour, Luk 23:8.",
+     "refs": [
+      {
+       "text": "Mar 6:20",
+       "ref": "MRK.6.20"
+      },
+      {
+       "text": "Luk 23:8",
+       "ref": "LUK.23.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.23",
+   "range": "ACT.25.23",
+   "kind": "passage",
+   "hash": "a432dcb8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.23#p1-28fb1849",
+     "text": "the state, attire, and retinue used in this solemnity is much undervalued by the term the Holy Ghost here gives it (φαντασια); intimating, that all worldly glory is but in opinion and appearance merely, and that as a show it passeth away.",
+     "anchor": "With great pomp"
+    },
+    {
+     "id": "poole/ACT.25.23#p2-b62cf7df",
+     "text": "here is a great difference indeed between these great persons thus adorned and accompanied on the one side, and Paul, the prisoner, (δεσμιος, the chained, as he is called, Act 23:18), on the other side; yet holy Paul, with great reason, prefers his condition before theirs. He does not desire to partake with them in their ease and splendour, but with Christ in his disgrace and sufferings, Php 3:10.",
+     "anchor": "Paul was brought forth",
+     "refs": [
+      {
+       "text": "Act 23:18",
+       "ref": "ACT.23.18"
+      },
+      {
+       "text": "Php 3:10",
+       "ref": "PHP.3.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.24",
+   "range": "ACT.25.24",
+   "kind": "passage",
+   "hash": "5fbabe68",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.24#p1-5fbabe68",
+     "text": "Well might Paul be aghast, to be friendless in so great a multitude, and to be shown and pointed at as a monster, being made a spectacle unto the world, and to angels, and to men, as 1Co 4:9. But he found surely the benefit and efficacy of that promise, Mat 28:20, I am with you alway, even unto the end of the world.",
+     "refs": [
+      {
+       "text": "1Co 4:9",
+       "ref": "1CO.4.9"
+      },
+      {
+       "text": "Mat 28:20",
+       "ref": "MAT.28.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.25",
+   "range": "ACT.25.25",
+   "kind": "passage",
+   "hash": "aa351aee",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.25#p1-aa351aee",
+     "text": "The calumny of the Jews adds to the reputation of St. Paul: so many enemies, and so long in finding or making a fault that might reach his life, and yet to be disappointed! Paul and his religion are vindicated by the testimony of Lysias, the chief captain, Act 23:29, and of Felix, the governor, Act 24:25, and here by Festus, as afterwards by Agrippa too, Act 26:32. So mighty is truth and innocence, that they do prevail sooner or later.",
+     "refs": [
+      {
+       "text": "Act 23:29",
+       "ref": "ACT.23.29"
+      },
+      {
+       "text": "Act 24:25",
+       "ref": "ACT.24.25"
+      },
+      {
+       "text": "Act 26:32",
+       "ref": "ACT.26.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.26",
+   "range": "ACT.25.26",
+   "kind": "passage",
+   "hash": "1e75a777",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.26#p1-a210e1d2",
+     "text": "Nero, the present emperor, whose deputy Festus was in this province; though some of the former emperors refused this name, as savouring of too much arbitratiness, the latter did accept of it.",
+     "anchor": "My lord"
+    },
+    {
+     "id": "poole/ACT.25.26#p2-d7b7fb49",
+     "text": "Agrippa, being brought up in the knowledge of the Jewish law, though it was not his business to judge Paul’s case, yet he might instruct and inform the judge about it.",
+     "anchor": "Specially before thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.25.27",
+   "range": "ACT.25.27",
+   "kind": "passage",
+   "hash": "889887f2",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.25.27#p1-889887f2",
+     "text": "So great a clamour, so hot a pursuit, and yet after all this the judge (who would willingly have condemned Paul, and gratified the Jews) knows not wherefore all this stir had been: but the more must he have been self-condemned, that durst not absolve or free a prisoner who was detained only by the power and multitude of his adversaries."
+    }
+   ]
+  }
+ ]
+}

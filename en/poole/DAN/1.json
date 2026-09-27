@@ -1,0 +1,617 @@
+{
+ "source": "poole",
+ "book": "DAN",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/DAN.1",
+   "range": "DAN.1",
+   "kind": "chapter",
+   "hash": "f57bba2d",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1#p1-f57bba2d",
+     "text": "Jehoiakim’s captivity, Dan 1:1,2. By the king of Babylon’s order the master of the eunuchs taketh Daniel, Hananiah, Mishael, and Azariah, to instruct them, and changeth their names, Dan 1:3-7. They refusing to eat of the king’ s meat thrive upon pulse and water, Dan 1:8-16. Their proficiency in wisdom, Dan 1:17-21.",
+     "refs": [
+      {
+       "text": "Dan 1:1",
+       "ref": "DAN.1.1"
+      },
+      {
+       "text": "Dan 1:3-7",
+       "ref": "DAN.1.3-7"
+      },
+      {
+       "text": "Dan 1:8-16",
+       "ref": "DAN.1.8-16"
+      },
+      {
+       "text": "Dan 1:17-21",
+       "ref": "DAN.1.17-21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.1",
+   "range": "DAN.1.1",
+   "kind": "passage",
+   "hash": "be6a009b",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.1#p1-be6a009b",
+     "text": "Comparing this with 2Ki 24:1, and with 2Ch 36:6, the meaning is, after the Lord had taken away that good king Josiah for the sins of Judah and Manasseh, which were very great, by Pharaoh-necho king of Egypt, the people of the land took Jehoahaz the son of Josiah, and made him king; he reigned but three months, wherein he did so much evil in the sight of the Lord, that the said Pharaoh-necho put him in bands at Riblah, and afterwards carried him to Egypt, where he died, and made Eliakim his brother king in his stead, and turned his name to Jehoiakim; he became Nebuchadnezzar’s servant three years, for that king of Babylon had overthrown Pharaoh’s army at Carchemish by the river Euphrates. Jehoiakim rebelling against Nebuchadnezzar, made him come up from Babylon and take Jehoiakim, and bind him in fetters to carry him to Babylon; of whom, and his death and burial, you have a sad account, Jer 22:17-19.",
+     "refs": [
+      {
+       "text": "2Ki 24:1",
+       "ref": "2KI.24.1"
+      },
+      {
+       "text": "2Ch 36:6",
+       "ref": "2CH.36.6"
+      },
+      {
+       "text": "Jer 22:17-19",
+       "ref": "JER.22.17-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.2",
+   "range": "DAN.1.2",
+   "kind": "passage",
+   "hash": "83e4ff4a",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.2#p1-83e4ff4a",
+     "text": "In this expedition Nebuchadnezzar carried away some of the vessels of the temple, and some captives, among whom was Daniel and his friends. These vessels he carried into the house of his god; which god was Baal or Bel, and Nebo, Isa 46:1; which words they put into the names of their kings and favourites, of which more afterward. These vessels as spoils he put in the house of his god, for his honour, because he thought he had gotten his victory by the help of his idol god, 1Sa 31:9,10, as the Philistines did, Jud 16:23,24; whereas the text saith the Lord gave all into his hand, Dan 1:2. The executioners of God’s wrath upon God’s sinful people have other thoughts than God hath about that, Isa 10:5-16.",
+     "refs": [
+      {
+       "text": "Isa 46:1",
+       "ref": "ISA.46.1"
+      },
+      {
+       "text": "1Sa 31:9",
+       "ref": "1SA.31.9"
+      },
+      {
+       "text": "Jud 16:23",
+       "ref": "JUD.16.23"
+      },
+      {
+       "text": "Dan 1:2",
+       "ref": "DAN.1.2"
+      },
+      {
+       "text": "Isa 10:5-16",
+       "ref": "ISA.10.5-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.3",
+   "range": "DAN.1.3",
+   "kind": "passage",
+   "hash": "17c52d86",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.3#p1-e36984b1",
+     "text": "These here called eunuchs were chief among the king’s servants, and they are called"
+    },
+    {
+     "id": "poole/DAN.1.3#p2-01d73c83",
+     "text": "because many of them were such of old among all the princes of the East, and at this day, but they were not all such, Jer 52:25. The word translated",
+     "anchor": "eunuchs",
+     "refs": [
+      {
+       "text": "Jer 52:25",
+       "ref": "JER.52.25"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.3#p3-7555cc85",
+     "text": "signifies also",
+     "anchor": "eunuch"
+    },
+    {
+     "id": "poole/DAN.1.3#p4-58f22175",
+     "text": "such was",
+     "anchor": "chamberlain"
+    },
+    {
+     "id": "poole/DAN.1.3#p5-b8f4e5de",
+     "text": "Est 4:5; such were",
+     "anchor": "Hatach",
+     "refs": [
+      {
+       "text": "Est 4:5",
+       "ref": "EST.4.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.3#p6-e6f79719",
+     "text": "and",
+     "anchor": "Bigthana"
+    },
+    {
+     "id": "poole/DAN.1.3#p7-2726e71f",
+     "text": "Est 6:2, and",
+     "anchor": "Teresh",
+     "refs": [
+      {
+       "text": "Est 6:2",
+       "ref": "EST.6.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.3#p8-bde6f800",
+     "text": "Est 7:9, and",
+     "anchor": "Harbonah",
+     "refs": [
+      {
+       "text": "Est 7:9",
+       "ref": "EST.7.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.3#p9-068af462",
+     "text": "in the text, the master of the king’s eunuchs, who had set",
+     "anchor": "Ashpenaz"
+    },
+    {
+     "id": "poole/DAN.1.3#p10-76434ef8",
+     "text": "over Daniel and his companions, Dan 1:11.",
+     "anchor": "Melzar",
+     "refs": [
+      {
+       "text": "Dan 1:11",
+       "ref": "DAN.1.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.3#p11-c2e9ba85",
+     "text": "Here was fulfilled what the prophet Isaiah had foretold king Hezekiah, Isa 39:7. Some think Daniel and his companions were made eunuchs in a strict sense, which doth not appear to be probable; but rather to be bred up in the court for officers, and thereby to alienate their minds from the religion of their country, and from seeking the welfare and return of their people; but God had otherwise appointed by this education of them, as appears in many signal testimonies of the presence and power of God with them, for the conviction of idolaters that God was above all gods.",
+     "refs": [
+      {
+       "text": "Isa 39:7",
+       "ref": "ISA.39.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.4",
+   "range": "DAN.1.4",
+   "kind": "passage",
+   "hash": "d788f68d",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.4#p1-f1a26fd4",
+     "text": "If the princes are so curious in their choice, no marvel that God was cautious in his, Lev 21:17-21 22:20-25. The reason why they were so delicately trained up was, that they being in the flower of their age should be allured with the delights of the court, and should: thereby be brought to forget their fathers’ house and their religion; this hath been the artifice of the Turk in taking Christians’ children, and making them Mamelukes and Janizaries, that thereby they may become, as renegades, the greatest champions for Mahomet, and enemies to the Christians.",
+     "refs": [
+      {
+       "text": "Lev 21:17-21",
+       "ref": "LEV.21.17-21"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.4#p2-9e6593df",
+     "text": "this notes men fit by their parts to give advice in arduous matters, 2Ch 10:6: which shows that men only of promising abilities, and not incompetent, should be admitted to the presence of kings.",
+     "anchor": "To stand in the king’s palace",
+     "refs": [
+      {
+       "text": "2Ch 10:6",
+       "ref": "2CH.10.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.4#p3-13091b3a",
+     "text": "for this cause Moses was learned in all the wisdom of the Egyptians, Act 7:22; yet it must be supposed that neither Moses nor Daniel learned any thing that was ungodly, but only to search nature, and that which was only moral; wherein both the Chaldeans and Egyptians were skilled above any other nations of the heathens. And although their magi or wise men did at last degenerate into curious and vain arts, yet Daniel had no further design to know their wisdom than to choose the good of it, and to shun and reject that which was unlawful. The Chaldean tongue differed from the Hebrew in dialect and in pronunciation, which they learned in the right tone and accent, that they might be the more acceptable to the king and court, by their conformity in garb, language, and manners; for which they had the space of three years allotted them.",
+     "anchor": "The learning and the tongue of the Chaldeans",
+     "refs": [
+      {
+       "text": "Act 7:22",
+       "ref": "ACT.7.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.5",
+   "range": "DAN.1.5",
+   "kind": "passage",
+   "hash": "99888a23",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.5#p1-99888a23",
+     "text": "such as he had at his own table, wherein his bounty and humanity appeared towards them the more conspicuous, they being captives. By this preparation they were judged fit to stand before the king. Men of ingenuity and proficiency are fit to stand before kings, Pro 22:29.",
+     "anchor": "Of the king’s meat",
+     "refs": [
+      {
+       "text": "Pro 22:29",
+       "ref": "PRO.22.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.6",
+   "range": "DAN.1.6",
+   "kind": "passage",
+   "hash": "8debad2c",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.6#p1-8debad2c",
+     "text": "Doubtless most of them of the royal lineage of Judah, to which tribe God had a special respect, upon the account of David; and this tribe of Judah had the pre-eminence in many things."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.7",
+   "range": "DAN.1.7",
+   "kind": "passage",
+   "hash": "a2ba0669",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.7#p1-0d6d227b",
+     "text": "that is, other names: this was done by the subtle instigation of Satan, that they might renounce their names received in circumcision, by assuming names imposed relating to the idol gods, being a profanation and a further degree of their apostacy; for Daniel had",
+     "anchor": "Names"
+    },
+    {
+     "id": "poole/DAN.1.7#p2-7241b64c",
+     "text": "or Baltasar, from the great Babylonian idol Baal or Bel, &c. This was by the king’s command, and herein he put forth an act of his sovereignty. Thus Adam, Gen 2:19,20. Thus Pharaoh did, Gen 41:45; he gave",
+     "anchor": "the name of Belteshazzar",
+     "refs": [
+      {
+       "text": "Gen 2:19",
+       "ref": "GEN.2.19"
+      },
+      {
+       "text": "Gen 41:45",
+       "ref": "GEN.41.45"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.7#p3-8895a752",
+     "text": "And Pharaohnechoh changed the name of",
+     "anchor": "Joseph the name of Zaphnath-paaneah"
+    },
+    {
+     "id": "poole/DAN.1.7#p4-cf2b0aac",
+     "text": "2Ki 23:34. And the king of Babylon turned the name of",
+     "anchor": "Eliakim, Josiah’s son, to Jehoiakim",
+     "refs": [
+      {
+       "text": "2Ki 23:34",
+       "ref": "2KI.23.34"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.7#p5-a998f163",
+     "text": "2Ki 24:17. The Lord changed the name of",
+     "anchor": "Mattaniah to Zedekiah",
+     "refs": [
+      {
+       "text": "2Ki 24:17",
+       "ref": "2KI.24.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.7#p6-08b06007",
+     "text": "of",
+     "anchor": "Sarai to Sarah"
+    },
+    {
+     "id": "poole/DAN.1.7#p7-08b06007",
+     "text": "of",
+     "anchor": "Abram to Abraham"
+    },
+    {
+     "id": "poole/DAN.1.7#p8-c54b4eb3",
+     "text": "Thus the Lord changed",
+     "anchor": "Jacob to Israel"
+    },
+    {
+     "id": "poole/DAN.1.7#p9-d5242a64",
+     "text": "Mar 3:16.",
+     "anchor": "Simon’s name to Cephas or Peter",
+     "refs": [
+      {
+       "text": "Mar 3:16",
+       "ref": "MRK.3.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.8",
+   "range": "DAN.1.8",
+   "kind": "passage",
+   "hash": "4e5958cc",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.8#p1-3da34c5a",
+     "text": "Ver. 8. There may be several weighty reasons assigned why Daniel did this."
+    },
+    {
+     "id": "poole/DAN.1.8#p2-165a1533",
+     "text": "1. Because many of those meats provided for the king’s table were such as were forbidden by the Jews’ law, whereof Daniel made conscience,"
+    },
+    {
+     "id": "poole/DAN.1.8#p3-53492936",
+     "text": "2. Daniel knew these delicacies would too much gratify and pamper the flesh, and therefore he would prevent the defilements which too often do arise from delicious fare, Deu 32:14,15 Eze 16:49 Hos 13:6 Rom 13:13; so that those who fare deliciously would practise this.",
+     "refs": [
+      {
+       "text": "Deu 32:14",
+       "ref": "DEU.32.14"
+      },
+      {
+       "text": "Hos 13:6",
+       "ref": "HOS.13.6"
+      },
+      {
+       "text": "Rom 13:13",
+       "ref": "ROM.13.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.8#p4-e41897f5",
+     "text": "3. Daniel knew he should by this bait be taken with the hook which lay hid under it, and insensibly be drawn from the true to a false religion, by eating and drinking things consecrated to idols."
+    },
+    {
+     "id": "poole/DAN.1.8#p5-5b1f4642",
+     "text": "4. Daniel saw his people lie under God’s displeasure by their captivity, and therefore could not but be sensible how unsuitable a courtly life would be in him to the afflicted state of God’s people, Heb 11:24-26. Therefore Daniel was herein a rare pattern of avoiding all the occasions of evil, which he did with purpose of heart, Act 11:23; saith the text, he",
+     "refs": [
+      {
+       "text": "Heb 11:24-26",
+       "ref": "HEB.11.24-26"
+      },
+      {
+       "text": "Act 11:23",
+       "ref": "ACT.11.23"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.8#p6-24100a1a",
+     "text": "purposed in his heart to abstain."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.9",
+   "range": "DAN.1.9",
+   "kind": "passage",
+   "hash": "cfb19ad6",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.9#p1-a77b1044",
+     "text": "This is a special act of God’s favour to his afflicted people, to give them any favour in the eyes of them that do afflict them; Psa 106:46,",
+     "refs": [
+      {
+       "text": "Psa 106:46",
+       "ref": "PSA.106.46"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.9#p2-1309c3c3",
+     "text": "This is the effect of sincere holiness and innocence, Pro 16:7. This is the effect of prayer, 1Ki 8:50. This is the effect of the special presence of God, Gen 39:3,4,21.",
+     "anchor": "He made them to be pitied of those that carried them captive",
+     "refs": [
+      {
+       "text": "Pro 16:7",
+       "ref": "PRO.16.7"
+      },
+      {
+       "text": "1Ki 8:50",
+       "ref": "1KI.8.50"
+      },
+      {
+       "text": "Gen 39:3",
+       "ref": "GEN.39.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.10",
+   "range": "DAN.1.10",
+   "kind": "passage",
+   "hash": "521860c5",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.10#p1-521860c5",
+     "text": "He believed their countenances would betray them; and the king having appointed it, he dares not disobey, for his life lay at stake."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.13",
+   "range": "DAN.1.13",
+   "kind": "passage",
+   "hash": "7a2659fa",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.13#p1-7a2659fa",
+     "text": "By these words Daniel secures Melzar against fear and danger, only by ten days’ trial; which was a fair and reasonable proffer. Thus the servants of God must carefully do, when they have good offices done them by the servants of princes, as Elijah was careful of good Obadiah, 1Ki 18:11,12, to secure him from death.",
+     "refs": [
+      {
+       "text": "1Ki 18:11",
+       "ref": "1KI.18.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.15",
+   "range": "DAN.1.15",
+   "kind": "passage",
+   "hash": "b899e8d0",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.15#p1-68e9c1ff",
+     "text": "There be three things here to be observed."
+    },
+    {
+     "id": "poole/DAN.1.15#p2-c4118c3b",
+     "text": "1. The hand of God, in persuading Melzar to incline to Daniel’s request."
+    },
+    {
+     "id": "poole/DAN.1.15#p3-fb3f4525",
+     "text": "2. The goodness of God, to make good Daniel’s words."
+    },
+    {
+     "id": "poole/DAN.1.15#p4-6aa867e1",
+     "text": "3. That the blessing of God upon homely fare affords oftentimes more healthful nourishment and strength, than more costly fare to them that eat the fat and drink the sweet."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.16",
+   "range": "DAN.1.16",
+   "kind": "passage",
+   "hash": "edacdd89",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.16#p1-edacdd89",
+     "text": "Which he could not but take well, for hereby he gained the costly provision of four men for the space of three years to his own use and profit. Hence observe that courtiers are no losers by the favours they procure for God’s servants. They are most willing to serve God’s servants when they can therein also serve themselves by it."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.17",
+   "range": "DAN.1.17",
+   "kind": "passage",
+   "hash": "f2843faf",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.17#p1-ce43285b",
+     "text": "We must own"
+    },
+    {
+     "id": "poole/DAN.1.17#p2-c706c836",
+     "text": "to come from God, Jas 1:5. These are beams of light shining in us from the Father of lights, and a man can receive nothing of this unless it be given him from above, Joh 3:27.",
+     "anchor": "knowledge, and skill, and wisdom",
+     "refs": [
+      {
+       "text": "Jas 1:5",
+       "ref": "JAS.1.5"
+      },
+      {
+       "text": "Joh 3:27",
+       "ref": "JHN.3.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.17#p3-e23d257b",
+     "text": "But was not this magic, and was not this learning forbidden as abomination to the Lord, Deu 18:9-14?",
+     "anchor": "Object",
+     "refs": [
+      {
+       "text": "Deu 18:9-14",
+       "ref": "DEU.18.9-14"
+      }
+     ]
+    },
+    {
+     "id": "poole/DAN.1.17#p4-aa2e2ccd",
+     "text": "The Chaldeans used lawful arts and sciences, and unlawful; these four young men, Daniel and his companions, used only those that were lawful; rejecting all that wisdom which is sensual, carnal, and devilish, Jas 3:15. In all visions and dreams; not in idle, vain, and lying, but in such as were sent of God, and predictions of things to come, as Num 12:6, such as the prophets had. Such was that of Nebuchadnezzar.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Jas 3:15",
+       "ref": "JAS.3.15"
+      },
+      {
+       "text": "Num 12:6",
+       "ref": "NUM.12.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.18",
+   "range": "DAN.1.18",
+   "kind": "passage",
+   "hash": "58795935",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.18#p1-58795935",
+     "text": "At the three years’ end, according to the king’s command, which Melzar punctually observed, and brought them in before the king."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.19",
+   "range": "DAN.1.19",
+   "kind": "passage",
+   "hash": "716e5d22",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.19#p1-716e5d22",
+     "text": "i.e. to try their proficiency: this argues the king’s ability and judgment, how else could he discern their fitness and their excellency above others? He examined all candidates, he preferred those that outstripped others.",
+     "anchor": "Communed with them"
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.20",
+   "range": "DAN.1.20",
+   "kind": "passage",
+   "hash": "1d8fd0da",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.20#p1-1d8fd0da",
+     "text": "This is a further confirmation of the king’s noble endowments of mind, and of his great care whom he chose to be in offices of trust; namely, persons excellently qualified to serve him in the great affairs of the kingdom, not to serve his lusts by them for base jobs, for which men of no abilities or honour are usually chosen."
+    }
+   ]
+  },
+  {
+   "id": "poole/DAN.1.21",
+   "range": "DAN.1.21",
+   "kind": "passage",
+   "hash": "f100fee0",
+   "paragraphs": [
+    {
+     "id": "poole/DAN.1.21#p1-f100fee0",
+     "text": "i.e. In the court of Babylon until Cyrus, and then he was in the Persian court, and he lived in honour and high employment all that time, yea, after Cyrus began to reign; for, Dan 10:1, he had visions and revelations in the third year of Cyrus. He might live longer, for the word until doth not exclude things that follow after, Psa 110:1 112:8.",
+     "refs": [
+      {
+       "text": "Dan 10:1",
+       "ref": "DAN.10.1"
+      },
+      {
+       "text": "Psa 110:1",
+       "ref": "PSA.110.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

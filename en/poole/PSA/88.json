@@ -1,0 +1,365 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 88,
+ "units": [
+  {
+   "id": "poole/PSA.88",
+   "range": "PSA.88",
+   "kind": "chapter",
+   "hash": "f6c86cb1",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.88#p2-34644381",
+     "text": "This Psalm was composed upon a particular occasion, to wit, Heman’s deep distress and dejection of mind almost to despair. But though this was the occasion of it, it is of more general use, for the instruction and consolation of all good men when they come into such despondencies, and therefore was by the direction of God’s Spirit made public, and committed to the sons of Korah."
+    },
+    {
+     "id": "poole/PSA.88#p3-d90d7d5a",
+     "text": "Mahalath seems to be the name of the tune or instrument, as Psa 53."
+    },
+    {
+     "id": "poole/PSA.88#p4-a26056eb",
+     "text": "Leannoth may be either the latter part of the proper name of the tune or instrument; or an appellative name, and so divers take it, and render it, to sing, or to be sung, to wit, alternately or by turns."
+    },
+    {
+     "id": "poole/PSA.88#p5-7a99b415",
+     "text": "Heman; probably the same person who was famous in David’s time, both for his skill in music, and for general wisdom; of whom see 1Ki 4:31 1Ch 6:33.",
+     "refs": [
+      {
+       "text": "1Ki 4:31",
+       "ref": "1KI.4.31"
+      },
+      {
+       "text": "1Ch 6:33",
+       "ref": "1CH.6.33"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.88#p6-8790bd15",
+     "text": "The Ezrahite; as Ethan also is called, 1Ki 4:31.",
+     "refs": [
+      {
+       "text": "1Ki 4:31",
+       "ref": "1KI.4.31"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.88#p7-8051385b",
+     "text": "The psalmist declares his former practice of prayer to God Psa 88:1; beggeth present audience, Psa 88:2; acquainteth the Lord with his misery and frailty, Psa 88:3,4, which he suffereth by God’s wrath, and his friends forsaking him, Psa 88:5-8. His mourning and expostulation, Psa 88:9-18.",
+     "refs": [
+      {
+       "text": "Psa 88:1",
+       "ref": "PSA.88.1"
+      },
+      {
+       "text": "Psa 88:2",
+       "ref": "PSA.88.2"
+      },
+      {
+       "text": "Psa 88:3",
+       "ref": "PSA.88.3"
+      },
+      {
+       "text": "Psa 88:5-8",
+       "ref": "PSA.88.5-8"
+      },
+      {
+       "text": "Psa 88:9-18",
+       "ref": "PSA.88.9-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.1",
+   "range": "PSA.88.1",
+   "kind": "passage",
+   "hash": "d7c77c40",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.1#p1-d7c77c40",
+     "text": "Who hast so often saved me from former distresses, and, I hope, wilt do so at this time."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.3",
+   "range": "PSA.88.3",
+   "kind": "passage",
+   "hash": "36aa06c7",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.3#p1-36aa06c7",
+     "text": "properly so called; for that he was under great troubles of mind from a sense of God’s wrath and departure from him, is evident from Psa 88:14-16.",
+     "anchor": "My soul",
+     "refs": [
+      {
+       "text": "Psa 88:14-16",
+       "ref": "PSA.88.14-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.4",
+   "range": "PSA.88.4",
+   "kind": "passage",
+   "hash": "cb4f2a2f",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.4#p1-cb4f2a2f",
+     "text": "I am given up by my friends and acquaintance for a lost man."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.5",
+   "range": "PSA.88.5",
+   "kind": "passage",
+   "hash": "084d1288",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.5#p1-6f3dd55d",
+     "text": "well nigh discharged from the warfare of the present life, and entered es a member into the society of the dead; as Israelitish servants, when they were made flee, were thereby made denizens of the commonwealth of Israel. I expect no other freedom from my miseries but that which death gives, as Job 3:17,18.",
+     "anchor": "Free among the dead",
+     "refs": [
+      {
+       "text": "Job 3:17",
+       "ref": "JOB.3.17"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.88.5#p2-a5586bd4",
+     "text": "whom thou seemest wholly to neglect and to bury in oblivion; for he speaks of these matters not as they are in truth, for he knew very well that forgetfulness was not incident to God, and that God did remember all the dead, and would call them to an account, but only as to sense and appearance, and the opinion of the world, and the state and things of this life.",
+     "anchor": "Whom thou rememberest no more"
+    },
+    {
+     "id": "poole/PSA.88.5#p3-33fbb95b",
+     "text": "from the care and conduct of thy providence, which is to be understood as the former clause. Or, by thy hand. But our translation seems better to agree both with the foregoing branch, which it explains and improves, and with the order of the words; for it seems improper, after he had represented the persons as dead, and in their graves, to add that they",
+     "anchor": "From thy hand"
+    },
+    {
+     "id": "poole/PSA.88.5#p4-159e93ae",
+     "text": "to wit, by death.",
+     "anchor": "are cut off"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.6",
+   "range": "PSA.88.6",
+   "kind": "passage",
+   "hash": "7fb14502",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.6#p1-7fb14502",
+     "text": "Either, first, in the grave; the same thing being expressed in divers words; or, secondly, in hopeless and remediless calamities."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.7",
+   "range": "PSA.88.7",
+   "kind": "passage",
+   "hash": "1b2e5bec",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.7#p1-8c237077",
+     "text": "either, first, the sense of thy wrath; or rather, secondly, the effects of it; as the next clause explains this.",
+     "anchor": "Thy wrath"
+    },
+    {
+     "id": "poole/PSA.88.7#p2-4a5823fa",
+     "text": "with thy judgments, breaking in furiously upon me like the waves of the sea.",
+     "anchor": "With all thy waves"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.8",
+   "range": "PSA.88.8",
+   "kind": "passage",
+   "hash": "705ff68e",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.8#p1-bc5ad150",
+     "text": "I am so sad a spectacle of thy vengeance that my friends avoid and detest me, lest by conversing with me they should either be filled with terrors, which men naturally abhor, or be made partakers of my guilt or plagues."
+    },
+    {
+     "id": "poole/PSA.88.8#p2-ef3c6518",
+     "text": "either in the pit or deep, mentioned Psa 88:6, or in my own house or chamber, being afraid or ashamed to go abroad.",
+     "anchor": "I am shut up",
+     "refs": [
+      {
+       "text": "Psa 88:6",
+       "ref": "PSA.88.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.9",
+   "range": "PSA.88.9",
+   "kind": "passage",
+   "hash": "b6f27f62",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.9#p1-b6f27f62",
+     "text": "Understand, without effect; for thou dost not hear nor answer me."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.10",
+   "range": "PSA.88.10",
+   "kind": "passage",
+   "hash": "e283c148",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.10#p1-6019d47f",
+     "text": "to wit, in raising them to live again in this world? as it is in the next clause. I know that thou wilt not. And therefore now hear and help me, or it will be too late.",
+     "anchor": "Wilt thou show wonders to the dead"
+    },
+    {
+     "id": "poole/PSA.88.10#p2-4e724000",
+     "text": "to wit, amongst mortal men in this world.",
+     "anchor": "Praise thee"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.11",
+   "range": "PSA.88.11",
+   "kind": "passage",
+   "hash": "aa5698cd",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.11#p1-aa5698cd",
+     "text": "I am not without hopes that thou hast a true kindness for me, and wilt faithfully perform thy gracious promises made to me, and to all that love thee and call upon thee in truth. But then this must be done speedily, or I shall be utterly incapable of such a mercy."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.12",
+   "range": "PSA.88.12",
+   "kind": "passage",
+   "hash": "0556e87a",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.12#p1-6862009d",
+     "text": "in the grave, which is called the land of darkness, Job 10:21,22.",
+     "anchor": "In the dark",
+     "refs": [
+      {
+       "text": "Job 10:21",
+       "ref": "JOB.10.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/PSA.88.12#p2-5a84e054",
+     "text": "in the grave; so called, either, first, Actively, because there men forget and neglect all the concerns of this life, being indeed but dead carcasses without any sense or remembrance. Or rather, secondly, Passively, because there men are forgotten not only by men, as is noted, Job 24:20 Psa 31:12, but by God himself, as he complained, Psa 88:5.",
+     "anchor": "In the land of forgetfulness",
+     "refs": [
+      {
+       "text": "Job 24:20",
+       "ref": "JOB.24.20"
+      },
+      {
+       "text": "Psa 31:12",
+       "ref": "PSA.31.12"
+      },
+      {
+       "text": "Psa 88:5",
+       "ref": "PSA.88.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.13",
+   "range": "PSA.88.13",
+   "kind": "passage",
+   "hash": "f858b3e5",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.13#p1-f858b3e5",
+     "text": "i.e. Early, come to thee, before the ordinary time of morning prayer, or before the dawning of the day, or the rising of the sun. The sense is, Though I have hitherto got no answer to my prayers, yet I will not give over praying nor hoping for an answer."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.14",
+   "range": "PSA.88.14",
+   "kind": "passage",
+   "hash": "627d4333",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.14#p1-627d4333",
+     "text": "This proceeding seems not to agree with the benignity of thy nature, nor with the manner of thy dealing with thy people."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.15",
+   "range": "PSA.88.15",
+   "kind": "passage",
+   "hash": "b32d46d3",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.15#p1-bae79a1e",
+     "text": "my whole life hath been filled with a succession of deadly calamities. O Lord, take some pity upon me, and let me have a little breathing space before I die.",
+     "anchor": "From my youth up"
+    },
+    {
+     "id": "poole/PSA.88.15#p2-058097c0",
+     "text": "upon my mind and conscience, which do accompany and aggravate my outward miseries.",
+     "anchor": "I suffer thy terrors"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.17",
+   "range": "PSA.88.17",
+   "kind": "passage",
+   "hash": "acf3f5cd",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.17#p1-acf3f5cd",
+     "text": "As the waters of the sea encompass him which is in the midst and bottom of it."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.88.18",
+   "range": "PSA.88.18",
+   "kind": "passage",
+   "hash": "6bcb1eab",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.88.18#p1-6bcb1eab",
+     "text": "Psa 88:8\".",
+     "anchor": "See Poole \"",
+     "refs": [
+      {
+       "text": "Psa 88:8",
+       "ref": "PSA.88.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

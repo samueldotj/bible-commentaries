@@ -1,0 +1,1076 @@
+{
+ "source": "poole",
+ "book": "ACT",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "poole/ACT.19",
+   "range": "ACT.19",
+   "kind": "chapter",
+   "hash": "56bf3583",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19#p1-82968790",
+     "text": "Act 19:1-7 The Holy Ghost is conferred by Paul on twelve of John’s disciples.",
+     "refs": [
+      {
+       "text": "Act 19:1-7",
+       "ref": "ACT.19.1-7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19#p2-d6c0ec59",
+     "text": "Act 19:8-12 He preacheth at Ephesus, first in the synagogue, and afterwards in a private school for two years; God confirming the word by special miracles.",
+     "refs": [
+      {
+       "text": "Act 19:8-12",
+       "ref": "ACT.19.8-12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19#p3-91c963af",
+     "text": "Act 19:13-20 Certain Jewish exorcists, attempting to cast out a devil in the name of Jesus, are sent off naked and wounded: the gospel gains credit, and magical books are burned.",
+     "refs": [
+      {
+       "text": "Act 19:13-20",
+       "ref": "ACT.19.13-20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19#p4-2b9a78e1",
+     "text": "Act 19:21-41 Paul proposing to depart soon, Demetrius and the silversmiths raise an uproar against him, which is with some difficulty appeased.",
+     "refs": [
+      {
+       "text": "Act 19:21-41",
+       "ref": "ACT.19.21-41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.1",
+   "range": "ACT.19.1",
+   "kind": "passage",
+   "hash": "ce236175",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.1#p1-ce236175",
+     "text": "the north parts, in which were Pontus, Bithynia, Phrygia, and Galatia, Act 18:23.",
+     "anchor": "The upper coasts",
+     "refs": [
+      {
+       "text": "Act 18:23",
+       "ref": "ACT.18.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.2",
+   "range": "ACT.19.2",
+   "kind": "passage",
+   "hash": "c2d6d6b0",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.2#p1-6fdb3f2d",
+     "text": "The extraordinary gifts of the Holy Ghost, as prophesying, speaking with tongues, healing of the sick, &c., as appears by Act 18:6, and Joh 7:39; for it could not be, that they, who were instructed and baptized by John, should be ignorant of the essence or person of the Holy Ghost; for the Baptist had seen him descending upon our Saviour; as is remembered by all the evangelists which speak of his baptism, Mat 3:16 Mar 1:10 Luk 3:22; besides other scriptures which testified of him; and St. John had spoken of him unto all he baptized, that our Saviour would baptize them with the Holy Ghost and with fire, Joh 1:32,33.",
+     "anchor": "Have ye received the Holy Ghost?",
+     "refs": [
+      {
+       "text": "Act 18:6",
+       "ref": "ACT.18.6"
+      },
+      {
+       "text": "Joh 7:39",
+       "ref": "JHN.7.39"
+      },
+      {
+       "text": "Mat 3:16",
+       "ref": "MAT.3.16"
+      },
+      {
+       "text": "Mar 1:10",
+       "ref": "MRK.1.10"
+      },
+      {
+       "text": "Luk 3:22",
+       "ref": "LUK.3.22"
+      },
+      {
+       "text": "Joh 1:32",
+       "ref": "JHN.1.32"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.2#p2-3bda7f3c",
+     "text": "this answer must be understood, according to the question, of those gifts now mentioned; and which by the imposition of the hands of the apostles were given, especially at the ordination of such as were sent to preach the gospel, it being necessary for the planting of the church, those miraculous gifts assuring those unto whom they preached, that their doctrine was from heaven; as also to assure the apostles themselves of the success of their ministry, and the conversion of such they preached unto, as Act 10:44,47. And this acceptation of these words is paralleled, 1Sa 3:7, where it is said, that",
+     "anchor": "We have not so much as heard whether there be any Holy Ghost",
+     "refs": [
+      {
+       "text": "Act 10:44",
+       "ref": "ACT.10.44"
+      },
+      {
+       "text": "1Sa 3:7",
+       "ref": "1SA.3.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.2#p3-0776b42b",
+     "text": "the meaning is, that he knew not that God was wont so to speak unto any; otherwise, that holy man, as young as he was, both knew God, and served him.",
+     "anchor": "Samuel did not yet know the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.3",
+   "range": "ACT.19.3",
+   "kind": "passage",
+   "hash": "0cd7a22d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.3#p1-b8a38794",
+     "text": "What doctrine did you make profession of? And what religion did you seal unto at your baptism?",
+     "anchor": "Unto what then were ye baptized?"
+    },
+    {
+     "id": "poole/ACT.19.3#p2-b2b7f9ab",
+     "text": "the doctrine that John taught, and the religion that he professed and preached. Thus the Jews are said to be",
+     "anchor": "Unto John’s baptism"
+    },
+    {
+     "id": "poole/ACT.19.3#p3-b65f9b38",
+     "text": "1Co 10:2, being engaged to believe the doctrine and observe the law delivered by Moses. Now the Baptist, as Act 18:25, preached indeed Christ; but many things concerning him he could not preach, unless as of things to come; as his death, and resurrection: the Baptist being beheaded before our Saviour’s death, and the Holy Ghost was not poured out in that extraordinary manner until after our Saviour’s resurrection and ascension; which pouring out of the Spirit, these disciples at Ephesus, having been baptized by John in Judea, and afterwards returning home, might not have heard of.",
+     "anchor": "baptized unto Moses",
+     "refs": [
+      {
+       "text": "1Co 10:2",
+       "ref": "1CO.10.2"
+      },
+      {
+       "text": "Act 18:25",
+       "ref": "ACT.18.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.4",
+   "range": "ACT.19.4",
+   "kind": "passage",
+   "hash": "34851286",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.4#p1-6e7b5688",
+     "text": "at which the Baptist did exhort them to repentance, and they by it were obliged to repent; by which is manifest, that the baptism of John and of Christ (which he commanded) are one and the same. John’s baptism did respect Christ, and oblige the baptized to believe in him, as also to repent; and more, it was a seal unto them of the remission of their sins, as is expressly observed, Mar 1:4: so that the baptism of John, and the baptism of the apostles afterward, had the same sign and the same thing signified in them both (the inward and outward part, the heavenly and earthly part, were the same in both); as also they had both the same end; and therefore they were both the same. Add to this, that unless the Baptist’s and the apostles’ baptism were the same, Christ and his members (the church) are not baptized with the same baptism.",
+     "anchor": "The baptism of repentance",
+     "refs": [
+      {
+       "text": "Mar 1:4",
+       "ref": "MRK.1.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.4#p2-9f55727e",
+     "text": "It must be acknowledged that there are some circumstances in which they differ; John’s baptism respected Christ to come; that is, in the exercise of his ministry (which was not so fully exercised till after John’s death); but especially, those great things (his death, resurrection, and ascension, &c.) were to come after John’s time, which now are accomplished."
+    },
+    {
+     "id": "poole/ACT.19.4#p3-7e449985",
+     "text": "including the Father and the Holy Ghost, and mentioning Christ, to difference his baptisms from the several baptizings and washings then in use.",
+     "anchor": "On Christ Jesus"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.5",
+   "range": "ACT.19.5",
+   "kind": "passage",
+   "hash": "728013c3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.5#p1-c424411a",
+     "text": "The disciples, or those that John preached to, (for these Ephesians were not amongst those few that Paul baptized, 1Co 1:14), who when they heard what the Baptist said in the foregoing verse, they were baptized; as in the same terms it is said, Act 2:37,",
+     "refs": [
+      {
+       "text": "1Co 1:14",
+       "ref": "1CO.1.14"
+      },
+      {
+       "text": "Act 2:37",
+       "ref": "ACT.2.37"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.5#p2-a0a47f68",
+     "text": "what St. Peter had said, they were pricked in their heart, & c., and were baptized.",
+     "anchor": "when they heard"
+    },
+    {
+     "id": "poole/ACT.19.5#p3-5dbbd4ca",
+     "text": "As for Paul’s imposing his hands upon them that are said here to be baptized, it might very well be, that the twelve disciples, Act 19:7, might have been baptized by John, and now receive the Holy Ghost in those extraordinary gifts by the laying on of the hands of St. Paul: for to what end should these disciples, who were baptized with St. John’s baptism, be again baptized by Paul? It is true, they had further manifestations of the mystery of the gospel brought unto them; but if men should be baptized for every degree of knowledge or grace which they do acquire, how many baptisms had they need to have, who ought daily to grow in grace and in knowledge!",
+     "refs": [
+      {
+       "text": "Act 19:7",
+       "ref": "ACT.19.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.5#p4-5bceddfc",
+     "text": "It is evident, that the apostles themselves were only baptized with the baptism of John, for there were none else to baptize them. And baptism being an ordinance for our regeneration and new birth, as we can be born but once in the flesh, we can be but once also born in the Spirit; and no more may Christians be baptized twice, than the Jews could be twice circumcised."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.6",
+   "range": "ACT.19.6",
+   "kind": "passage",
+   "hash": "fdc1a1cc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.6#p1-b55788a8",
+     "text": "thereby ordaining and authorizing of them to preach the gospel.",
+     "anchor": "Laid his hands upon them"
+    },
+    {
+     "id": "poole/ACT.19.6#p2-b4ed9fff",
+     "text": "in those extraordinary gifts of tongues, &c., whereby they were fitted to preach the gospel unto any nation or people unto whom they should be sent.",
+     "anchor": "The Holy Ghost came on them"
+    },
+    {
+     "id": "poole/ACT.19.6#p3-8f216b77",
+     "text": "they prophesied, either in its proper sense, being enabled to foretell things that were to come; or in a larger and more improper sense, praising and magnifying of God, and declaring the hidden mysteries of the gospel; expounding the Scriptures, especially the prophecies concerning Christ, as 1Co 14:1.",
+     "anchor": "Prophesied",
+     "refs": [
+      {
+       "text": "1Co 14:1",
+       "ref": "1CO.14.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.7",
+   "range": "ACT.19.7",
+   "kind": "passage",
+   "hash": "d7862e8d",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.7#p1-d7862e8d",
+     "text": "Or exactly twelve; answering to the apostles, and that blessed number so often mentioned in Scripture."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.8",
+   "range": "ACT.19.8",
+   "kind": "passage",
+   "hash": "c41a9c17",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.8#p1-c566bf6f",
+     "text": "of the Jews at Ephesus. For in the greater cities the Jews had their synagogues, in which they had their prayers, read, and expounded the law; as also a school for teaching of their theology, in which they treated of hard questions, and more difficult matters; which might occasion the apostle’s frequenting that place.",
+     "anchor": "The synagogue"
+    },
+    {
+     "id": "poole/ACT.19.8#p2-bcd0135f",
+     "text": "the gospel; which is so called, Rom 14:17, because the kingdom of grace is by it set up in us here, and we are fitted by it for the kingdom of glory hereafter. But it might be also so called, because the Jews had dreamed of a political kingdom of the Messiah, and the Christians would own that Christ was indeed a King, but that his kingdom was a spiritual kingdom.",
+     "anchor": "The kingdom of God",
+     "refs": [
+      {
+       "text": "Rom 14:17",
+       "ref": "ROM.14.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.9",
+   "range": "ACT.19.9",
+   "kind": "passage",
+   "hash": "f620f01b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.9#p1-b79f8a32",
+     "text": "the sun hardeneth what it doth not soften, and causeth a stench from dunghills, as well as a sweet smell from the mountains of spices; and Christ is for the falling, as well as for the rising of many.",
+     "anchor": "Divers were hardened"
+    },
+    {
+     "id": "poole/ACT.19.9#p2-16361373",
+     "text": "so the doctrine of the gospel is called, by reason of its excellency above other ways. By way the Hebrews understand any course or means to an end. Hence we read of the way of peace, the way of salvation, the way of the Lord.",
+     "anchor": "That way"
+    },
+    {
+     "id": "poole/ACT.19.9#p3-70cc6bb1",
+     "text": "He departed from them; not frequenting any more the synagogue of the Jews, where they met only with contradiction of their doctrine, and blasphemy against their Saviour."
+    },
+    {
+     "id": "poole/ACT.19.9#p4-864918a2",
+     "text": "Tyrannus; some have taken this word appellatively, as denoting some great man, or ruler, who maintained a school, or place for instruction; but it is rather a proper name of some private teacher amongst them: for the Jews had not only public schools, where their consisteries did meet, but private schools, where their law was taught."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.10",
+   "range": "ACT.19.10",
+   "kind": "passage",
+   "hash": "3ad3e795",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.10#p1-fd85264b",
+     "text": "many of all sorts.",
+     "anchor": "All they"
+    },
+    {
+     "id": "poole/ACT.19.10#p2-3200bf2f",
+     "text": "Asia the Lesser, or Asia strictly so called, lying about Ephesus: the heathens came thither to worship their Diana; the Jews came thither about their affairs, either in their trades, or law suits.",
+     "anchor": "Asia"
+    },
+    {
+     "id": "poole/ACT.19.10#p3-12e6269c",
+     "text": "the gospel, which is the word concerning the Lord Jesus; or, the word which he appointed to be preached and published.",
+     "anchor": "The word of the Lord Jesus"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.11",
+   "range": "ACT.19.11",
+   "kind": "passage",
+   "hash": "6016a1b3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.11#p1-b583b52b",
+     "text": "not common or ordinary things, or such as might happen by chance.",
+     "anchor": "Special miracles"
+    },
+    {
+     "id": "poole/ACT.19.11#p2-9fc062fd",
+     "text": "as Act 5:12; by his means and ministry.",
+     "anchor": "By the hands of Paul",
+     "refs": [
+      {
+       "text": "Act 5:12",
+       "ref": "ACT.5.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.12",
+   "range": "ACT.19.12",
+   "kind": "passage",
+   "hash": "d7016f51",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.12#p1-d55a0d88",
+     "text": "our habit and attire being so different from what was used so long since, it cannot but occasion some variety in rendering these words; which some think to signify two things; and some, but one and the same part of their clothes or dress: the words are both originally, Latin; the former so called from its use to wipe away sweat; the other, from its being usually tied about such as wore it.",
+     "anchor": "Handkerchiefs or aprons"
+    },
+    {
+     "id": "poole/ACT.19.12#p2-7b4efb12",
+     "text": "God by such small and unlikely means wrought these miracles:",
+     "anchor": "The diseases departed from them"
+    },
+    {
+     "id": "poole/ACT.19.12#p3-bea33119",
+     "text": "1. That the power of Christ (whom Paul preached) might the more clearly appear. And:"
+    },
+    {
+     "id": "poole/ACT.19.12#p4-6a521537",
+     "text": "2. That such as were absent might have a high value for Christ and the gospel, though they had never seen Paul, or heard him preach. Such extraordinary works were also wrought by God to magnify the words preached by Peter, Act 5:15, as our Saviour had foretold and promised, Joh 14:12.",
+     "refs": [
+      {
+       "text": "Act 5:15",
+       "ref": "ACT.5.15"
+      },
+      {
+       "text": "Joh 14:12",
+       "ref": "JHN.14.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.13",
+   "range": "ACT.19.13",
+   "kind": "passage",
+   "hash": "8380e46b",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.13#p1-57c4a71e",
+     "text": "who wandered up and down, making it their trade and livelihood; as jugglers amongst us.",
+     "anchor": "Vagabond Jews"
+    },
+    {
+     "id": "poole/ACT.19.13#p2-f0eb82cd",
+     "text": "so called from their obtesting the evil spirits in the name of God. Of these Josephus tells strange stories, Antiq. lib. 8, and thinks that the way of their exorcising was derived unto them from Solomon, and that they used the name of the God of Abraham, Isaac, and Jacob; as also of Zebaoth, and Adonai, as Origen tells us. Some think, that though there is certainly no power in the words and syllables which they pronounced, yet that the true God, being rather willing to be known and owned by those names, than that any should call on the names of the false gods, did sometimes put forth his power in casting out of devils at such times, as Mat 12:27. Howsoever, there being no warrant in the word of God for any such practice, and no promise to act faith in prayer upon, were the words never so serious, and the name of God and his attributes never so much (seemingly) manifested, it is a most abominable impiety.",
+     "anchor": "Exorcists",
+     "refs": [
+      {
+       "text": "Mat 12:27",
+       "ref": "MAT.12.27"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.13#p3-bd507170",
+     "text": "instead of, or together with, those other names formerly mentioned.",
+     "anchor": "The name of the Lord Jesus"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.14",
+   "range": "ACT.19.14",
+   "kind": "passage",
+   "hash": "14a42c97",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.14#p1-14a42c97",
+     "text": "One of the chief of the twenty-four courses into which the priests were divided, 1Ch 24:4, or such as (according to the corruption of those times) had been high priests, and were laid aside, or were of the high priest’s family, and hoped to succeed him.",
+     "refs": [
+      {
+       "text": "1Ch 24:4",
+       "ref": "1CH.24.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.15",
+   "range": "ACT.19.15",
+   "kind": "passage",
+   "hash": "4cada5fc",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.15#p1-4cada5fc",
+     "text": "I acknowledge that Jesus hath power to command me to go hence; and I know that Paul, as his minister, hath authority over me; but what pretensions have ye to command me now? Though the devil is a liar, and the father of lies, yet none lie to their own disadvantage, but rather to their advantage, as they take it; and Satan may therefore be believed in what he here says, because it is to his disgrace, that, will he, nill he, he is under the command of God, though but signified to him by the least of his ministers or servants."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.16",
+   "range": "ACT.19.16",
+   "kind": "passage",
+   "hash": "1ccc8a77",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.16#p1-1ccc8a77",
+     "text": "by the power of the evil spirit, which by the permission of God did act in him, Mat 8:28 Mar 5:4 Luk 8:29. Satan retains still his natural power, though he hath wholly lost his moral or spiritual power unto any good: and that his violence proceeded no further, is to be ascribed only to the bounds which God had set him, which he, being in chains, could not exceed or go beyond; not for his want of malice, but power.",
+     "anchor": "Leaped on them, &c",
+     "refs": [
+      {
+       "text": "Mat 8:28",
+       "ref": "MAT.8.28"
+      },
+      {
+       "text": "Mar 5:4",
+       "ref": "MRK.5.4"
+      },
+      {
+       "text": "Luk 8:29",
+       "ref": "LUK.8.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.17",
+   "range": "ACT.19.17",
+   "kind": "passage",
+   "hash": "4d33d0d5",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.17#p1-5a534634",
+     "text": "they feared (after this example of God’s not holding them guiltless that had taken his name in vain) to profane the name of Christ, and much more to blaspheme or speak against it.",
+     "anchor": "Fear fell on them all"
+    },
+    {
+     "id": "poole/ACT.19.17#p2-0165763c",
+     "text": "his authority, which the unclean spirit could not resist; and his doctrine and ministers, whose defence God had undertaken.",
+     "anchor": "The name of the Lord Jesus was magnified"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.18",
+   "range": "ACT.19.18",
+   "kind": "passage",
+   "hash": "d0d4fd3f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.18#p1-4f6b04bb",
+     "text": "that believed the power which God alone had over Satan, and were convinced of their sin and danger in being led captive by him.",
+     "anchor": "Many that believed came"
+    },
+    {
+     "id": "poole/ACT.19.18#p2-e97b5a3c",
+     "text": "openly declared their evil deeds. They durst keep the devil’s counsel no longer, but expose and manifest it, that their sores being laid open, the balm of the gospel might more effectually be put into them. Thus with the mouth confession is made unto salvation, Rom 10:10.",
+     "anchor": "And confessed, and showed their deeds",
+     "refs": [
+      {
+       "text": "Rom 10:10",
+       "ref": "ROM.10.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.19",
+   "range": "ACT.19.19",
+   "kind": "passage",
+   "hash": "5efe51fe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.19#p1-9fd11f74",
+     "text": "Thus their good works justified their faith, without which it had been dead, Jas 2:24,26.",
+     "refs": [
+      {
+       "text": "Jas 2:24",
+       "ref": "JAS.2.24"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.19#p2-cf1dea68",
+     "text": "or rather idle and vain arts, as judicial astrology, calculating nativities, and all magical arts, which the Ephesians, of all others, were most addicted to and famous for; and may be here called",
+     "anchor": "Curious arts"
+    },
+    {
+     "id": "poole/ACT.19.19#p3-1dfbe3b5",
+     "text": "because they were so called by the Ephesians, who practised them; as also because these arts are about curiosities, not necessary for us to know. Otherwise they are diabolical arts, or rather devilish cheats.",
+     "anchor": "curious arts"
+    },
+    {
+     "id": "poole/ACT.19.19#p4-642f6edf",
+     "text": "these books were not sold, and the price of them brought unto the apostles, because it was looked upon as the price of a whore, which was an abomination, and might not be offered unto God, Deu 23:18.",
+     "anchor": "Brought their books together, and burned them",
+     "refs": [
+      {
+       "text": "Deu 23:18",
+       "ref": "DEU.23.18"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.19#p5-72ca9c56",
+     "text": "what this sum amounts to is not so certain, because it is not agreed what these pieces were. Some make them Roman or Grecian coin; and others understand by them shekels, which are the Jewish money, and would make this sum so much the greater. Take them for so many pence, a piece of money commonly so called, which weighed the eighth part of an ounce of silver, as Mat 18:28, they make six thousand two hundred and fifty ounces of silver, or so many crowns, and so much more as silver is worth more per ounce. Such indignation have rue converts against the sins they have been guilty of, that they will not retain any thing that might occasion their return unto them; were it a right eye, they would pull it out.",
+     "anchor": "Fifty thousand pieces of silver",
+     "refs": [
+      {
+       "text": "Mat 18:28",
+       "ref": "MAT.18.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.20",
+   "range": "ACT.19.20",
+   "kind": "passage",
+   "hash": "25fecf54",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.20#p1-25fecf54",
+     "text": "The increase which the seed of the word had made was very remarkable; or it is a great instance of the power of God’s word, when it makes men willing to part with their beloved and accustomed sins, and not to stand upon saving or gaining; as Isa 55:11.",
+     "refs": [
+      {
+       "text": "Isa 55:11",
+       "ref": "ISA.55.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.21",
+   "range": "ACT.19.21",
+   "kind": "passage",
+   "hash": "79924415",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.21#p1-79924415",
+     "text": "resolved with himself, or purposed in his heart, as Dan 1:8. Yet in this his determination he had the influence and guidance of the Holy Ghost, and that in a more than ordinary manner; as we may see by the continued series of this history, how he came to all these places here mentioned. Paul travelled through these countries, and went to these cities, because he hoped for a greater harvest, where he might scatter the seed so far abroad.",
+     "anchor": "Paul purposed in the spirit",
+     "refs": [
+      {
+       "text": "Dan 1:8",
+       "ref": "DAN.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.22",
+   "range": "ACT.19.22",
+   "kind": "passage",
+   "hash": "9bea6a5f",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.22#p1-e698d18a",
+     "text": "this great apostle had not any to minister unto him out of state, but out of necessity, being he could not himself attend to all the offices of the church. These were employed by Paul, not so much to procure any accommodation for himself by the way, as to further a collection for the poor brethren at Jerusalem, 2Co 9:3,4.",
+     "anchor": "Ministered unto him",
+     "refs": [
+      {
+       "text": "2Co 9:3",
+       "ref": "2CO.9.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.22#p2-ff4b774b",
+     "text": "there seems to have been two of this name mentioned in Scripture: the one, Rom 16:23, and the other, 2Ti 4:20: the latter is here spoken of.",
+     "anchor": "Erastus",
+     "refs": [
+      {
+       "text": "Rom 16:23",
+       "ref": "ROM.16.23"
+      },
+      {
+       "text": "2Ti 4:20",
+       "ref": "2TI.4.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.22#p3-5133b7f4",
+     "text": "in Ephesus, which was in Asia, where Paul now was.",
+     "anchor": "In Asia"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.23",
+   "range": "ACT.19.23",
+   "kind": "passage",
+   "hash": "21e566d8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.23#p1-c186ef69",
+     "text": "when all things seemed to have been quiet: so uncertain are the servants of Christ to have any quiet here.",
+     "anchor": "And the same time"
+    },
+    {
+     "id": "poole/ACT.19.23#p2-7fa1f0be",
+     "text": "the doctrine of the gospel, as Act 18:25.",
+     "anchor": "That way",
+     "refs": [
+      {
+       "text": "Act 18:25",
+       "ref": "ACT.18.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.24",
+   "range": "ACT.19.24",
+   "kind": "passage",
+   "hash": "eb483a79",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.24#p1-9bf59156",
+     "text": "These shrines were only, either;"
+    },
+    {
+     "id": "poole/ACT.19.24#p2-a0a64f7e",
+     "text": "1. Portraits of the temple of Diana, in which was graven, or by any other art represented, that famous structure, which was afterwards burnt by Erostratus: or:"
+    },
+    {
+     "id": "poole/ACT.19.24#p3-0610bcca",
+     "text": "2. they were medals in which their idol Diana was expressed according to her image, spoken of, Act 19:35. And they are called here, temples, or shrines, because they did resemble and represent that shrine or temple.",
+     "refs": [
+      {
+       "text": "Act 19:35",
+       "ref": "ACT.19.35"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.24#p4-746310b1",
+     "text": "And these the superstitious people carried home to their houses and friends; not only to evidence what a pilgrimage they had performed, but to incite the more their devotions towards this idol."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.25",
+   "range": "ACT.19.25",
+   "kind": "passage",
+   "hash": "7ee14d4e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.25#p1-7ee14d4e",
+     "text": "Gain, getting or keeping a livelihood, are great temptations, and, a little pretext of piety with them, keep up the superstition and false worship that abound in the world."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.26",
+   "range": "ACT.19.26",
+   "kind": "passage",
+   "hash": "1a9fc14e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.26#p1-1a9fc14e",
+     "text": "He tells them indeed what was St. Paul’s doctrine; but he conceals the reasons of his doctrine; for there can be nothing more evident to any considering man, than that there is but one God who made all things; as Psa 115:3,4 Jer 10:10.",
+     "refs": [
+      {
+       "text": "Psa 115:3",
+       "ref": "PSA.115.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.27",
+   "range": "ACT.19.27",
+   "kind": "passage",
+   "hash": "5438b4df",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.27#p1-55b0e67d",
+     "text": "not only that we shall have no more to do, and be without work; but that it will be a reproach unto us to have had such an employment.",
+     "anchor": "Not only this our craft is in danger to be set at nought"
+    },
+    {
+     "id": "poole/ACT.19.27#p2-1f743568",
+     "text": "this is made an aggravation to the loss of their all, that religion should suffer too. How much more ought it to concern those who have a sure foundation for what they do profess!",
+     "anchor": "But also that the temple of the great goddess Diana should be despised"
+    },
+    {
+     "id": "poole/ACT.19.27#p3-b747dd73",
+     "text": "this temple is said to have been burnt down the same day that Alexander was born, and that it was two hundred and twenty years in rebuilding, at the charge of all Asia.",
+     "anchor": "All Asia"
+    },
+    {
+     "id": "poole/ACT.19.27#p4-1d9eb18a",
+     "text": "though the Romans might worship any god (of those multitudes) which they allowed, yet they might leave their estates only to a very few amongst them; but Diana of the Ephesians was one of those few; as also one of those twelve whom they accounted dii or deae majorum gentium, gods and goddesses of the highest quality, or first rank.",
+     "anchor": "The world worshippeth"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.28",
+   "range": "ACT.19.28",
+   "kind": "passage",
+   "hash": "6b800cfd",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.28#p1-4362f748",
+     "text": "The argument from their profit wrought very much upon them, especially meeting with their prejudicate opinions, having pretended antiquity and universality to confirm them."
+    },
+    {
+     "id": "poole/ACT.19.28#p2-89de7b3c",
+     "text": "to show their abhorrence of what Paul had taught; and desiring her glory might be perpetual, whom Paul thought not worthy to be honoured at all.",
+     "anchor": "Saying, Great is Diana of the Ephesians"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.29",
+   "range": "ACT.19.29",
+   "kind": "passage",
+   "hash": "7cdf9dbd",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.29#p1-a96cd31f",
+     "text": "tumults and noise; all conditions of men, high and low, promiscuously being met in such uproars.",
+     "anchor": "Filled with confusion"
+    },
+    {
+     "id": "poole/ACT.19.29#p2-f1a3fae5",
+     "text": "one born at Derbe, but living at Thessalonica, as Act 20:4.",
+     "anchor": "Gaius",
+     "refs": [
+      {
+       "text": "Act 20:4",
+       "ref": "ACT.20.4"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.29#p3-68bd74a6",
+     "text": "of whom we read, Act 27:2 Col 4:10.",
+     "anchor": "Aristarchus",
+     "refs": [
+      {
+       "text": "Act 27:2",
+       "ref": "ACT.27.2"
+      },
+      {
+       "text": "Col 4:10",
+       "ref": "COL.4.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.29#p4-67c8f288",
+     "text": "a place or structure built for public uses; whence;",
+     "anchor": "The theatre"
+    },
+    {
+     "id": "poole/ACT.19.29#p5-6eead168",
+     "text": "1. Their sports or plays in any public solemnity were beheld."
+    },
+    {
+     "id": "poole/ACT.19.29#p6-f2873053",
+     "text": "2. Their speeches or orations in their common assemblies were heard."
+    },
+    {
+     "id": "poole/ACT.19.29#p7-497ad45c",
+     "text": "3. Where they punished also their malefactors; it being accommodated with several steps or seats higher than one another, and of vast extent for these purposes."
+    },
+    {
+     "id": "poole/ACT.19.29#p8-a8b3958b",
+     "text": "Hither, according to their custom, they resort, to hear if any one would speak upon this occasion to them; or rather, to get these Christians condemned and executed for their supposed sacrilege and blasphemy."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.30",
+   "range": "ACT.19.30",
+   "kind": "passage",
+   "hash": "4c911bff",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.30#p1-d0ab401f",
+     "text": "being desirous either to appease the tumult; or, if the worst came of it, to die for Christ’s sake.",
+     "anchor": "Paul would have entered in unto the people"
+    },
+    {
+     "id": "poole/ACT.19.30#p2-390087f8",
+     "text": "by their entreaties; to whom this good apostle’s life, from whom they had received the faith, was more dear than their own.",
+     "anchor": "The disciples suffered him not"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.31",
+   "range": "ACT.19.31",
+   "kind": "passage",
+   "hash": "70456228",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.31#p1-70456228",
+     "text": "such as had the oversight of the plays and shows in honour of their idol gods, and were usually their priests; and were of four countries; from whence they had their names of Asiarchs, Bithynarchs, Syriarchs, and Cappadociarchs. Whosoever these were, the providence of God is to be adored, who could out of his greatest enemies raise up deliverers for his servants.",
+     "anchor": "Certain of the chief of Asia"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.32",
+   "range": "ACT.19.32",
+   "kind": "passage",
+   "hash": "a3e694ab",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.32#p1-6c9d7782",
+     "text": "An excellent description of a popular tumult. Whether this"
+    },
+    {
+     "id": "poole/ACT.19.32#p2-1a9abc65",
+     "text": "was afterwards made legal by the magistrates resorting thither, (though it was not called by their authority), and is therefore called here, εκκλησια, is not so useful to inquire.",
+     "anchor": "assembly"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.33",
+   "range": "ACT.19.33",
+   "kind": "passage",
+   "hash": "32103350",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.33#p1-0794cadf",
+     "text": "where he could not be seen and heard, unto some more convenient place, from whence he might make a vindication or defence for them; and that most likely in behalf of the Jews, who were equally obnoxious to the rage of the people for being against their idolatry, as the Christians were. This",
+     "anchor": "They drew Alexander out of the multitude"
+    },
+    {
+     "id": "poole/ACT.19.33#p2-f63c00de",
+     "text": "is thought to have been that Alexander of whom we read, 1Ti 1:20 2Ti 4:14: though some think that this was another of that name.",
+     "anchor": "Alexander",
+     "refs": [
+      {
+       "text": "1Ti 1:20",
+       "ref": "1TI.1.20"
+      },
+      {
+       "text": "2Ti 4:14",
+       "ref": "2TI.4.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ACT.19.33#p3-c9b5461d",
+     "text": "to procure silence; as Act 12:17.",
+     "anchor": "Beckoned with the hand",
+     "refs": [
+      {
+       "text": "Act 12:17",
+       "ref": "ACT.12.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.34",
+   "range": "ACT.19.34",
+   "kind": "passage",
+   "hash": "2299208a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.34#p1-1299a8aa",
+     "text": "and by consequence an enemy to their idolatry; and, as they might imagine at least, a friend to St. Paul.",
+     "anchor": "A Jew"
+    },
+    {
+     "id": "poole/ACT.19.34#p2-fa92ad0c",
+     "text": "unanimity makes not the cause to be good, if it were bad at first.",
+     "anchor": "All with one voice"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.35",
+   "range": "ACT.19.35",
+   "kind": "passage",
+   "hash": "5a460c0e",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.35#p1-85379635",
+     "text": "or secretary, who registered their acts, and intervened in all their meetings.",
+     "anchor": "Town clerk"
+    },
+    {
+     "id": "poole/ACT.19.35#p2-f5fbaf2b",
+     "text": "each country and city had their peculiar gods, which they worshipped, and took for their patrons, as Ephesus did this goddess Diana. But the word here signifies a sacrist, or one that looks to the temple to keep it clean; especially that hath the charge of more solemn shows or sports in honour of any supposed deity: and these Ephesians took it to be their no small glory, that they were employed in such as belonged to Diana.",
+     "anchor": "Is a worshipper"
+    },
+    {
+     "id": "poole/ACT.19.35#p3-2309b2f3",
+     "text": "though the maker’s name (Canetias) is upon record, yet it having lasted whilst the temple was six or seven times repaired, at least, if not renewed, and none ever remembering when it first was brought in amongst them, the crafty priests persuaded the credulous people that it was fallen from heaven, thereby getting more honour unto it, and profit to themselves.",
+     "anchor": "The image which fell down from Jupiter"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.36",
+   "range": "ACT.19.36",
+   "kind": "passage",
+   "hash": "878a1d4a",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.36#p1-878a1d4a",
+     "text": "He did there cunningly than honestly endeavour to evade their clamour, and still their rage, by telling them (how fallaciously soever), that neither Paul, nor any other Christian or Jew, had any quarrel with their goddess or worship. For they indeed were against all images that were made with hands; but theirs was not such a one, it being fallen down from heaven. We must consider he was but a pagan; and his design was only to still the people; and populus vult decipi."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.37",
+   "range": "ACT.19.37",
+   "kind": "passage",
+   "hash": "de7e9834",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.37#p1-420b4d7b",
+     "text": "for they had not entered into their temple.",
+     "anchor": "Neither robbers of churches"
+    },
+    {
+     "id": "poole/ACT.19.37#p2-69b6e7bd",
+     "text": "Paul had barely preached this truth amongst them, not upbraiding them for their idolatry; as Michael, the archangel, brought no railing accusation against the devil, when he contended with him, Jud 1:9.",
+     "anchor": "Nor yet blasphemers of your goddess",
+     "refs": [
+      {
+       "text": "Jud 1:9",
+       "ref": "JUD.1.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.38",
+   "range": "ACT.19.38",
+   "kind": "passage",
+   "hash": "804dccf3",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.38#p1-9b7a83e2",
+     "text": "which is fittest to determine all questions and controversies; for men would be partial to their own cause, and every one challenge to be in the right.",
+     "anchor": "The law is open"
+    },
+    {
+     "id": "poole/ACT.19.38#p2-cef8af8e",
+     "text": "who, under the Roman emperors or consuls, had power to hear and determine of all matters.",
+     "anchor": "Deputies"
+    },
+    {
+     "id": "poole/ACT.19.38#p3-f8a847c4",
+     "text": "that so both parties may be heard.",
+     "anchor": "Let them implead one another"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.39",
+   "range": "ACT.19.39",
+   "kind": "passage",
+   "hash": "4b647bbe",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.39#p1-4b647bbe",
+     "text": "relating to the good government of the city, or maintaining the established religion, which ought not in such a confused manner to be treated of, but in an assembly called by lawful authority, which the Romans did usually call, at least, three times every month.",
+     "anchor": "Other matters"
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.40",
+   "range": "ACT.19.40",
+   "kind": "passage",
+   "hash": "5bbc43a7",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.40#p1-5bbc43a7",
+     "text": "He wisely minds them of their danger; for being under the power of the Romans, it was no less than the loss of their liberties to abet any faction or sedition; and to make a concourse or meeting tumultuously together, was capital, unless it were upon the sudden invasion of an enemy, or to but out some raging fire."
+    }
+   ]
+  },
+  {
+   "id": "poole/ACT.19.41",
+   "range": "ACT.19.41",
+   "kind": "passage",
+   "hash": "0fe463c8",
+   "paragraphs": [
+    {
+     "id": "poole/ACT.19.41#p1-0fe463c8",
+     "text": "The people were persuaded quietly to depart to their homes. Thus God one way or other, sometimes by friends, and sometimes by foes, kept his church and people from being ruined; and his hand is not shortened."
+    }
+   ]
+  }
+ ]
+}

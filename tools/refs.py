@@ -30,6 +30,36 @@ GENEVA = {
 }
 
 
+# Book abbreviations in e-Sword <ref> elements ("Joh 3:1-13", "Deu_32:6").
+ESWORD = dict(zip(
+    "Gen Exo Lev Num Deu Jos Jdg Rth 1Sa 2Sa 1Ki 2Ki 1Ch 2Ch Ezr Neh Est Job Psa Pro Ecc Son Isa Jer Lam Eze "
+    "Dan Hos Joe Amo Oba Jon Mic Nah Hab Zep Hag Zec Mal Mat Mar Luk Joh Act Rom 1Co 2Co Gal Eph Php Col "
+    "1Th 2Th 1Ti 2Ti Tit Phm Heb Jas 1Pe 2Pe 1Jn 2Jn 3Jn Jud Rev".split(),
+    CODES,
+))
+ESWORD_REF = re.compile(r"([1-3]?[A-Z][a-z]{1,2})[ _](\d+)(?::(\d+)(?:-(\d+)(?::(\d+))?)?)?")
+
+
+def esword_to_ids(text: str) -> list[str]:
+    """`Joh 3:1-13` -> [`JHN.3.1-13`]; `Act 12:1-13:3` -> [`ACT.12.1-13.3`]; `2Ki 15` -> [`2KI.15`].
+
+    The Apocrypha (Sir, Tob, 1Ma) have no site ids and give nothing."""
+    out = []
+    for m in ESWORD_REF.finditer(text):
+        code = ESWORD.get(m[1])
+        if not code:
+            continue
+        rid = f"{code}.{m[2]}"
+        if m[3]:
+            rid += f".{m[3]}"
+            if m[4] and m[5]:
+                rid += f"-{m[4]}.{m[5]}"
+            elif m[4]:
+                rid += f"-{m[4]}"
+        out.append(rid)
+    return out
+
+
 def osis_to_id(osis_ref: str) -> list[str]:
     """`Gen.1.14-Gen.1.19` -> `GEN.1.14-19`; several refs are separated by spaces."""
     out = []

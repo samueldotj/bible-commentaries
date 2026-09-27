@@ -1,0 +1,560 @@
+{
+ "source": "poole",
+ "book": "DEU",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "poole/DEU.3",
+   "range": "DEU.3",
+   "kind": "chapter",
+   "hash": "173ea735",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3#p1-173ea735",
+     "text": "Their march to Bashan, Deu 3:1. Og its king is put to flight; they possess his land, Deu 3:2-11; which is distributed to two tribes and half, Deu 3:12-17; who are commanded to assist their brethren to possess the land beyond Jordan, Deu 3:18-20. Moses encourages Joshua, Deu 3:21,22. His prayer to go into the promised land Deu 3:23-25. God grants not his request, Deu 3:26. He gives him a prospect of it, Deu 3:27; and bids him encourage Joshua, Deu 3:28.",
+     "refs": [
+      {
+       "text": "Deu 3:1",
+       "ref": "DEU.3.1"
+      },
+      {
+       "text": "Deu 3:2-11",
+       "ref": "DEU.3.2-11"
+      },
+      {
+       "text": "Deu 3:12-17",
+       "ref": "DEU.3.12-17"
+      },
+      {
+       "text": "Deu 3:18-20",
+       "ref": "DEU.3.18-20"
+      },
+      {
+       "text": "Deu 3:21",
+       "ref": "DEU.3.21"
+      },
+      {
+       "text": "Deu 3:23-25",
+       "ref": "DEU.3.23-25"
+      },
+      {
+       "text": "Deu 3:26",
+       "ref": "DEU.3.26"
+      },
+      {
+       "text": "Deu 3:27",
+       "ref": "DEU.3.27"
+      },
+      {
+       "text": "Deu 3:28",
+       "ref": "DEU.3.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.2",
+   "range": "DEU.3.2",
+   "kind": "passage",
+   "hash": "4a31117c",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.2#p1-4a31117c",
+     "text": "though he be of so frightful a look and stature, Deu 3:11.",
+     "anchor": "Fear him not",
+     "refs": [
+      {
+       "text": "Deu 3:11",
+       "ref": "DEU.3.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.4",
+   "range": "DEU.3.4",
+   "kind": "passage",
+   "hash": "ecf13575",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.4#p1-ecf13575",
+     "text": "a province within Bashan, or at least subject and belonging to Bashan, as appears from Deu 3:13 1Ki 4:13; called Argob possibly from the name of a man, its former lord and owner.",
+     "anchor": "Argob",
+     "refs": [
+      {
+       "text": "Deu 3:13",
+       "ref": "DEU.3.13"
+      },
+      {
+       "text": "1Ki 4:13",
+       "ref": "1KI.4.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.5",
+   "range": "DEU.3.5",
+   "kind": "passage",
+   "hash": "10be6c16",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.5#p1-10be6c16",
+     "text": "which may encourage you in your attempt upon Canaan, notwithstanding the fenced cities which the spies told you of, and you must expect to find.",
+     "anchor": "High walls, gates, and bars"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.8",
+   "range": "DEU.3.8",
+   "kind": "passage",
+   "hash": "e273a747",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.8#p1-e273a747",
+     "text": "so it was when Moses wrote this book, but afterward, when Israel passed over Jordan, it was called the land beyond Jordan.",
+     "anchor": "On this side Jordan"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.9",
+   "range": "DEU.3.9",
+   "kind": "passage",
+   "hash": "055198f3",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.9#p1-8ce9757e",
+     "text": "Elsewhere called Mount Gilead, and Libanus or Lebanon, and here"
+    },
+    {
+     "id": "poole/DEU.3.9#p2-22a0acea",
+     "text": "and Sirion, and, by abbreviation, Sion, Deu 4:48; which several names are given to this one mountain, partly by several people, and partly in regard of several tops and parts of it, whence",
+     "anchor": "Shenir",
+     "refs": [
+      {
+       "text": "Deu 4:48",
+       "ref": "DEU.4.48"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.9#p3-ff1544cc",
+     "text": "and Hermon are mentioned as distinct places, Son 4:8.",
+     "anchor": "Shenir",
+     "refs": [
+      {
+       "text": "Son 4:8",
+       "ref": "SNG.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.10",
+   "range": "DEU.3.10",
+   "kind": "passage",
+   "hash": "053f1936",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.10#p1-053f1936",
+     "text": "is sometimes taken largely for all the Israelites’ possessions beyond Jordan, and so it comprehends Bashan, but here more strictly for that part of it which lies in and near Mount Gilead, and so it is distinguished from Bashan and Argob.",
+     "anchor": "Gilead"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.11",
+   "range": "DEU.3.11",
+   "kind": "passage",
+   "hash": "7296a323",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.11#p1-231ef160",
+     "text": "The other giants of Bashan were destroyed before; and therefore when Og was killed, the Israelites’ work was done."
+    },
+    {
+     "id": "poole/DEU.3.11#p2-e4aba941",
+     "text": "where it might now be, either because the Ammonites in some former-battle with Og had taken it as a spoil; or because after Og’s death the Ammonites desired to have this monument of his greatness, and the Israelites permitted them to carry it away to their chief city.",
+     "anchor": "In Rabbath of the children of Ammon"
+    },
+    {
+     "id": "poole/DEU.3.11#p3-ce50330e",
+     "text": "to wit, of ordinary stature. So his bed was four yards and a half long, and two yards broad.",
+     "anchor": "After the cubit of a man"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.14",
+   "range": "DEU.3.14",
+   "kind": "passage",
+   "hash": "c95fff8e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.14#p1-c95fff8e",
+     "text": "Geshuri, or Geshurites, a people towards the north of Canaan, 2Sa 3:3 15:8. See also Jos 13:13. Maachathi; of whom see 2Sa 3:3 10:6. Unto this day: this must be put among those other passages which were not written by Moses, but added by those holy men who digested the books of Moses into this order, and inserted some very few passages to accommodate things to their own time and people.",
+     "refs": [
+      {
+       "text": "2Sa 3:3",
+       "ref": "2SA.3.3"
+      },
+      {
+       "text": "Jos 13:13",
+       "ref": "JOS.13.13"
+      },
+      {
+       "text": "2Sa 3:3",
+       "ref": "2SA.3.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.15",
+   "range": "DEU.3.15",
+   "kind": "passage",
+   "hash": "6afd39a9",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.15#p1-6afd39a9",
+     "text": "i.e. The half part of Gilead, as appears from Deu 3:12,13. See Poole \"Num 32:40\". Unto Machir, i.e. unto the children of Machir son of Manasseh, for Machir was now dead.",
+     "refs": [
+      {
+       "text": "Deu 3:12",
+       "ref": "DEU.3.12"
+      },
+      {
+       "text": "Num 32:40",
+       "ref": "NUM.32.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.16",
+   "range": "DEU.3.16",
+   "kind": "passage",
+   "hash": "b55e46e4",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.16#p1-40eeecb5",
+     "text": "Half the valley, or rather to the middle of the river; for the word rendered half signifies commonly middle; and the same Hebrew word signifying both a valley and a brook or river, it seems more reasonable to understand it of a river, as the same word is here rendered in the next foregoing clause of this verse, than of a valley, which was not mentioned before, especially seeing there is here an article added which seems to be emphatical, and to note that river, to wit, now mentioned. Add to this, that there was no such valley, much less any half valley, belonging both unto the Reubenites and Gadites."
+    },
+    {
+     "id": "poole/DEU.3.16#p2-81eef0b7",
+     "text": "But according to the other translation the sense is plain and agreeable to the truth, that their land extended from Gilead unto Aroer, and, to speak exactly, to the middle of that river; for as that river was the border between them and others, so one half of it belonged to them, as the other half did to others. And that this is no subtle device, as some may think it, but the truth of the thing, and the real meaning of the place, will appear by comparing this place with two others:"
+    },
+    {
+     "id": "poole/DEU.3.16#p3-8c4ed646",
+     "text": "1. With Jos 12:2, where the same thing is expressed in the same words in the Hebrew which are here, though our translators render the selfsame words there from the middle of the river, which here they render half of the valley; and where the bounds of Sihon’s kingdom, which was the same portion there mentioned as given to Reuben and Gad, are thus described, from Aroer, which is upon the bank of the river of Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon.",
+     "refs": [
+      {
+       "text": "Jos 12:2",
+       "ref": "JOS.12.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.16#p4-61e4d4f9",
+     "text": "2. With Deu 2:36, From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, or rather, as the Hebrew hath it, in the river, i.e. from Ar, which was the chief city of the Moabites, and therefore denied to the Israelites, as is here implied, and more fitly expressed, Deu 2:9, which city was seated in an island in the middle of the river.",
+     "refs": [
+      {
+       "text": "Deu 2:36",
+       "ref": "DEU.2.36"
+      },
+      {
+       "text": "Deu 2:9",
+       "ref": "DEU.2.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.16#p5-2d053781",
+     "text": "So that here we have a just and full reason why the border of this land given to Reuben and Gad is so nicely and critically described there, even to the middle of a river, which although in truth and strictness it be the bound of those lands which are divided by a river, yet is not usually expressed in the description of borders, either in Scripture or other authors, because here was an eminent city of the Moabites in the middle of this river, which by this curious and exact description is excepted from their possession, as God would have it to be. And the border even unto the river Jabbok: the meaning seems to be this, and the border, to wit, of their land, was, which verb substantive is commonly understood, or went forth, (as the phrase is, Jos 15:6,7, &c.,) from thence, to wit, from the river Arnon, even unto the river Jabbok, for so indeed their border did proceed.",
+     "refs": [
+      {
+       "text": "Jos 15:6",
+       "ref": "JOS.15.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.16#p6-ea87a827",
+     "text": "Which is the border of the children of Ammon. Object. This was the border between them and the Manassites, as is evident, and therefore not the border of the Ammonites."
+    },
+    {
+     "id": "poole/DEU.3.16#p7-3332eb1c",
+     "text": "It bordered upon the Manassites in one part, and upon the Ammonites in another part, to wit, in that part which is remoter from Jordan, and so both are true.",
+     "anchor": "Answ"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.17",
+   "range": "DEU.3.17",
+   "kind": "passage",
+   "hash": "0d4bdd74",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.17#p1-fa40fa70",
+     "text": "the low country towards Jordan.",
+     "anchor": "The plain"
+    },
+    {
+     "id": "poole/DEU.3.17#p2-7a7edb86",
+     "text": "of which see on Num 34:11 Jos 12:3.",
+     "anchor": "Chinnereth",
+     "refs": [
+      {
+       "text": "Num 34:11",
+       "ref": "NUM.34.11"
+      },
+      {
+       "text": "Jos 12:3",
+       "ref": "JOS.12.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.17#p3-7f3aa64d",
+     "text": "i.e. that salt sea, as it here follows, which before that dreadful conflagration was a goodly plain, called the plain of Jordan, Gen 13:10. Ashdoth-pisgah; the proper name of a city, of which Jos 13:20.",
+     "anchor": "The sea of the plain",
+     "refs": [
+      {
+       "text": "Gen 13:10",
+       "ref": "GEN.13.10"
+      },
+      {
+       "text": "Jos 13:20",
+       "ref": "JOS.13.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.18",
+   "range": "DEU.3.18",
+   "kind": "passage",
+   "hash": "bfbf32c0",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.18#p1-4dc3721c",
+     "text": "to wit, the Reubenites and Gadites, mentioned Deu 3:16, to whom he now turns his speech by an apostrophe.",
+     "anchor": "I commanded you",
+     "refs": [
+      {
+       "text": "Deu 3:16",
+       "ref": "DEU.3.16"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.18#p2-a152e832",
+     "text": "in such number as your brethren shall judge necessary. See Jos 1:14 4:13.",
+     "anchor": "Meet for the war",
+     "refs": [
+      {
+       "text": "Jos 1:14",
+       "ref": "JOS.1.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.20",
+   "range": "DEU.3.20",
+   "kind": "passage",
+   "hash": "8456c52e",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.20#p1-8456c52e",
+     "text": "a peaceable and fixed possession.",
+     "anchor": "Rest"
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.25",
+   "range": "DEU.3.25",
+   "kind": "passage",
+   "hash": "3716dd57",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.25#p1-ba7d6b0e",
+     "text": "For he supposed God’s threatening might be conditional and reversible, as many others were."
+    },
+    {
+     "id": "poole/DEU.3.25#p2-af302b22",
+     "text": "or, that blessed mountain, which the Jews not improbably understand of that mountain on which the temple was to be built.",
+     "anchor": "That goodly mountain"
+    },
+    {
+     "id": "poole/DEU.3.25#p3-90ee6e14",
+     "text": "For as Moses desired and determined to prepare an habitation for God, Exo 15:2, and knew very well that God would choose a certain place for his habitation, and to put his name there, Deu 12:5; so he also knew that it was the manner both of the true worshippers of God and of idolaters to worship their God in high places, and particularly that Abraham did worship God in the mount of Moriah, Gen 22:2, and therefore did either reasonably conjecture that God would choose some certain mountain for the place of his habitation, or possibly understood by revelation that in that very mount of Moriah, where Abraham performed that eminent and glorious act of worship, there also the children of Abraham should have their place of constant and settled worship.",
+     "refs": [
+      {
+       "text": "Exo 15:2",
+       "ref": "EXO.15.2"
+      },
+      {
+       "text": "Deu 12:5",
+       "ref": "DEU.12.5"
+      },
+      {
+       "text": "Gen 22:2",
+       "ref": "GEN.22.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.25#p4-a8b84c55",
+     "text": "This he seems to call that mountain, emphatically and eminently, that which was much in Moses’s thoughts, though not in his eye, and the blessed (as the Hebrew tob oft signifies) or the goodly mountain. Or, the mountain may be here put for the mountainous countries, as that word is oft used, as Gen 36:9 Num 13:29 23:7 Deu 1:7 Jos 10:6 11:16,21, &c. And it is known that a great part of the glory and beauty and profit of this country lay in its hills or mountains. See Deu 11:11 33:15. And",
+     "refs": [
+      {
+       "text": "Gen 36:9",
+       "ref": "GEN.36.9"
+      },
+      {
+       "text": "Num 13:29",
+       "ref": "NUM.13.29"
+      },
+      {
+       "text": "Deu 1:7",
+       "ref": "DEU.1.7"
+      },
+      {
+       "text": "Jos 10:6",
+       "ref": "JOS.10.6"
+      },
+      {
+       "text": "Deu 11:11",
+       "ref": "DEU.11.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/DEU.3.25#p5-31725efd",
+     "text": "may by an enallage of the number be put for those goodly mountains in Canaan, which were many. Thus also he proceeds gradually in this desire and description, and prays that he may see in general the good land that is beyond Jordan, and then particularly the goodly mountains of it, and especially that famous mount of Lebanon, which was so celebrated for its tall and large cedars, and other trees and excellent plants. See Psa 29:5 104:16 Isa 2:13 14:8.",
+     "anchor": "that goodly mountain",
+     "refs": [
+      {
+       "text": "Psa 29:5",
+       "ref": "PSA.29.5"
+      },
+      {
+       "text": "Isa 2:13",
+       "ref": "ISA.2.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.26",
+   "range": "DEU.3.26",
+   "kind": "passage",
+   "hash": "5252ec80",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.26#p1-5252ec80",
+     "text": "by occasion of your sins, which provoked me to unadvised words and carriages, Psa 106:32,33. See Num 20:12 Deu 31:2 34:4. Let it suffice thee that this is my pleasure and unalterable resolution. Compare 2Co 12:8,9.",
+     "anchor": "For your sakes",
+     "refs": [
+      {
+       "text": "Psa 106:32",
+       "ref": "PSA.106.32"
+      },
+      {
+       "text": "Num 20:12",
+       "ref": "NUM.20.12"
+      },
+      {
+       "text": "Deu 31:2",
+       "ref": "DEU.31.2"
+      },
+      {
+       "text": "2Co 12:8",
+       "ref": "2CO.12.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.27",
+   "range": "DEU.3.27",
+   "kind": "passage",
+   "hash": "b65ddafd",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.27#p1-b65ddafd",
+     "text": "of which see on Num 27:12. Lift up thine eyes towards the land of Canaan and its several quarters.",
+     "anchor": "Pisgah",
+     "refs": [
+      {
+       "text": "Num 27:12",
+       "ref": "NUM.27.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.28",
+   "range": "DEU.3.28",
+   "kind": "passage",
+   "hash": "91f280ad",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.28#p1-45994e3a",
+     "text": "give him commission and authority, and a command to execute his trust, and conduct the people.",
+     "anchor": "Charge Joshua"
+    },
+    {
+     "id": "poole/DEU.3.28#p2-7138aecb",
+     "text": "with exhortations and promises, and assurances of my presence and help, and of good success.",
+     "anchor": "Strengthen him"
+    },
+    {
+     "id": "poole/DEU.3.28#p3-e95918ea",
+     "text": "it was not Moses, but Joshua or Jesus, that was to give the people rest, Heb 4:8.",
+     "anchor": "He shall go over",
+     "refs": [
+      {
+       "text": "Heb 4:8",
+       "ref": "HEB.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/DEU.3.29",
+   "range": "DEU.3.29",
+   "kind": "passage",
+   "hash": "5a7c6750",
+   "paragraphs": [
+    {
+     "id": "poole/DEU.3.29#p1-5a7c6750",
+     "text": "The house or temple of Peor, or of Baal-Peor, of which see Num 25:3, whence this place or city had its name.",
+     "refs": [
+      {
+       "text": "Num 25:3",
+       "ref": "NUM.25.3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

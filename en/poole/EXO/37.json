@@ -1,0 +1,64 @@
+{
+ "source": "poole",
+ "book": "EXO",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "poole/EXO.37",
+   "range": "EXO.37",
+   "kind": "chapter",
+   "hash": "8367bb27",
+   "paragraphs": [
+    {
+     "id": "poole/EXO.37#p1-8367bb27",
+     "text": "Bezaleel makes the ark of shittim wood, Exo 37:1-5. The mercyseat with cherubims, Exo 37:6-9. The table with its vessels, Exo 37:11-16. The candlestick with its lamps and instruments, Exo 37:17-21. The altar of incense, Exo 37:25-28. The anointing oil, and sweet incense, Exo 37:29.",
+     "refs": [
+      {
+       "text": "Exo 37:1-5",
+       "ref": "EXO.37.1-5"
+      },
+      {
+       "text": "Exo 37:6-9",
+       "ref": "EXO.37.6-9"
+      },
+      {
+       "text": "Exo 37:11-16",
+       "ref": "EXO.37.11-16"
+      },
+      {
+       "text": "Exo 37:17-21",
+       "ref": "EXO.37.17-21"
+      },
+      {
+       "text": "Exo 37:25-28",
+       "ref": "EXO.37.25-28"
+      },
+      {
+       "text": "Exo 37:29",
+       "ref": "EXO.37.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/EXO.37.8",
+   "range": "EXO.37.8",
+   "kind": "passage",
+   "hash": "3ad9b0da",
+   "paragraphs": [
+    {
+     "id": "poole/EXO.37.8#p1-3ad9b0da",
+     "text": "or, made out of the end; for they were to be of the same piece with the mercy-seat, Exo 25:19.",
+     "anchor": "On the end",
+     "refs": [
+      {
+       "text": "Exo 25:19",
+       "ref": "EXO.25.19"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

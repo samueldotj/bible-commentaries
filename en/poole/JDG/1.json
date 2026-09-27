@@ -1,0 +1,705 @@
+{
+ "source": "poole",
+ "book": "JDG",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "poole/JDG.1",
+   "range": "JDG.1",
+   "kind": "chapter",
+   "hash": "2dfed840",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1#p1-2dfed840",
+     "text": "The tribe of Judah, by God’s command, begin to make war against the Canaanites, Jud 1:1-4. Adoni-bezek justly requited, Jud 1:5-7. They take Jerusalem, Jud 1:8; and Hebron. Anak’s sons slain, Jud 1:9,10. Othniel subdueth Debir, and so obtaineth Caleb’s daughter to wife, Jud 1:11-15. The Kenites dwell in Judah, Jud 1:16. Simeon subdueth Zephath, Jud 1:17; and Judah divers cities of the Philistines, Jud 1:18-20. The Jebusites dwell with Benjamin, Jud 1:21. They of the house of Joseph subdue Beth-el, Jud 1:22-26. Manasseh, Ephraim, Zebulun, Asher, Naphtali, Dan drive not out the Canaanites; for which they are vexed by them, and are left to dwell one among another, Jud 1:27-36.",
+     "refs": [
+      {
+       "text": "Jud 1:1-4",
+       "ref": "JUD.1.1-4"
+      },
+      {
+       "text": "Jud 1:5-7",
+       "ref": "JUD.1.5-7"
+      },
+      {
+       "text": "Jud 1:8",
+       "ref": "JUD.1.8"
+      },
+      {
+       "text": "Jud 1:9",
+       "ref": "JUD.1.9"
+      },
+      {
+       "text": "Jud 1:11-15",
+       "ref": "JUD.1.11-15"
+      },
+      {
+       "text": "Jud 1:16",
+       "ref": "JUD.1.16"
+      },
+      {
+       "text": "Jud 1:17",
+       "ref": "JUD.1.17"
+      },
+      {
+       "text": "Jud 1:18-20",
+       "ref": "JUD.1.18-20"
+      },
+      {
+       "text": "Jud 1:21",
+       "ref": "JUD.1.21"
+      },
+      {
+       "text": "Jud 1:22-26",
+       "ref": "JUD.1.22-26"
+      },
+      {
+       "text": "Jud 1:27-36",
+       "ref": "JUD.1.27-36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.1",
+   "range": "JDG.1.1",
+   "kind": "passage",
+   "hash": "c390a7f9",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.1#p1-ab9fcdc0",
+     "text": "not long after it, because Othniel, the first judge, lived in Joshua’s time.",
+     "anchor": "After the death of Joshua"
+    },
+    {
+     "id": "poole/JDG.1.1#p2-feeb28ed",
+     "text": "being assembled together at Shiloh, they inquired of the high priest by the Urim and Thummim. See Num 27:21 Jud 20:18 1Sa 23:9.",
+     "anchor": "The children of Israel asked the Lord",
+     "refs": [
+      {
+       "text": "Num 27:21",
+       "ref": "NUM.27.21"
+      },
+      {
+       "text": "Jud 20:18",
+       "ref": "JUD.20.18"
+      },
+      {
+       "text": "1Sa 23:9",
+       "ref": "1SA.23.9"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.1#p3-98f2ccfd",
+     "text": "Being sensible that the Canaanites are troublesome to them, and expected great advantage against them by their heedless condition, and finding their people to increase and multiply exceedingly, and consequently the necessity of enlarging their quarters, they renew the war. They do not inquire who shall be the captain-general to all the tribes; but (as appears by the answer) what tribe shall first undertake the expedition, that by their success the other tribes may be encouraged to make the like attempt upon the Canaanites in their several lots.",
+     "anchor": "Who shall go up for us against the Canaanites first?"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.2",
+   "range": "JDG.1.2",
+   "kind": "passage",
+   "hash": "0654bb17",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.2#p1-0654bb17",
+     "text": "Not a person so called, but the tribe of Judah, as is manifest from Jud 1:3,4,8,9, which is chosen for the first enterprise, because they were both most populous, and so most needing enlargement; and withal most valiant, and therefore most likely to succeed; for God chooseth fit means for the work which he designs; and because the Canaanites were numerous and strong in those parts, and therefore where in time to be suppressed, before they grew too strong for them.",
+     "refs": [
+      {
+       "text": "Jud 1:3",
+       "ref": "JUD.1.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.3",
+   "range": "JDG.1.3",
+   "kind": "passage",
+   "hash": "72505fa9",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.3#p1-1098c84b",
+     "text": "as nearest to him both by relation, being his brother by both parents, which few of them were; and by habitation, as appears from Jos 19:1,2.",
+     "anchor": "Unto Simeon his brother",
+     "refs": [
+      {
+       "text": "Jos 19:1",
+       "ref": "JOS.19.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.3#p2-e2d21efe",
+     "text": "specially so called because they are distinguished from the Perizzites, Jud 1:4.",
+     "anchor": "Against the Canaanites",
+     "refs": [
+      {
+       "text": "Jud 1:4",
+       "ref": "JUD.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.4",
+   "range": "JDG.1.4",
+   "kind": "passage",
+   "hash": "10eaaf04",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.4#p1-10eaaf04",
+     "text": "Not in the city, for that was not yet taken, Jud 1:5, but in the territory of it, or near to it; as in Hor is taken, Num 33:37; and in Jericho, Jos 5:13.",
+     "refs": [
+      {
+       "text": "Jud 1:5",
+       "ref": "JUD.1.5"
+      },
+      {
+       "text": "Num 33:37",
+       "ref": "NUM.33.37"
+      },
+      {
+       "text": "Jos 5:13",
+       "ref": "JOS.5.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.5",
+   "range": "JDG.1.5",
+   "kind": "passage",
+   "hash": "f0655618",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.5#p1-54420757",
+     "text": "the lord or king of Bezek, as his name signifies,",
+     "anchor": "Adoni-bezek"
+    },
+    {
+     "id": "poole/JDG.1.5#p2-e54b3c36",
+     "text": "whither he fled, when he had lost the field.",
+     "anchor": "in Bezek"
+    },
+    {
+     "id": "poole/JDG.1.5#p3-b92cdae4",
+     "text": "i.e. against the city wherein he had encamped himself, and the rest of his army.",
+     "anchor": "Against him"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.6",
+   "range": "JDG.1.6",
+   "kind": "passage",
+   "hash": "9eaf2c0c",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.6#p1-9eaf2c0c",
+     "text": "That he might be disenabled to fight with his hands, or to run away upon his feet. And this they did, either by the secret instinct and direction of God, or upon notice of his former tyranny and cruelty expressed upon others, in this manner, as it follows: either way it was a just requital."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.7",
+   "range": "JDG.1.7",
+   "kind": "passage",
+   "hash": "cca9b1a2",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.7#p1-fa1370f8",
+     "text": "which is not strange in those times and places; for these might be either, first, kings successively, and so there might be divers of those kings in one place, and so in others; or, secondly, contemporary kings. For it is well known that anciently each ruler of a city, or great town, was called a king, and had kingly power in that place; and many such kings we meet with in Canaan; and it is probable that some years before kings were more numerous there, till the greater devoured many of the less.",
+     "anchor": "Threescore and ten kings"
+    },
+    {
+     "id": "poole/JDG.1.7#p2-3df7c216",
+     "text": "that so their hands might be unable to manage weapons of war.",
+     "anchor": "Having their thumbs cut off"
+    },
+    {
+     "id": "poole/JDG.1.7#p3-73f72ddb",
+     "text": "an act of barbarous inhumanity thus to insult over the miserable, joined with abominable luxury.",
+     "anchor": "Gathered their meat under my table"
+    },
+    {
+     "id": "poole/JDG.1.7#p4-ed13cb79",
+     "text": "he acknowledgeth the providence and vindictive justice of God, which also Pharaoh did, and others too, without any true sense of piety.",
+     "anchor": "God hath requited me"
+    },
+    {
+     "id": "poole/JDG.1.7#p5-c4d358fb",
+     "text": "they carried him in triumph, as a monument of God’s righteous vengeance.",
+     "anchor": "They brought him"
+    },
+    {
+     "id": "poole/JDG.1.7#p6-4a3ddcda",
+     "text": "it being the metropolis of the nation.",
+     "anchor": "To Jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.8",
+   "range": "JDG.1.8",
+   "kind": "passage",
+   "hash": "c942245b",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.8#p1-cea4dc61",
+     "text": "To wit, in Joshua’s time; which though done before, may be here repeated, to show why they brought Adoni-bezek to Jerusalem, because that city was in their hands, having been taken before, as may be gathered from Jos 15:63. And the taking of this city may be ascribed",
+     "refs": [
+      {
+       "text": "Jos 15:63",
+       "ref": "JOS.15.63"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.8#p2-526497cc",
+     "text": "rather than to Joshua, because the city was not taken by Joshua and the whole body of the army in that time when so many kings were destroyed, Jos 10 Jos 12, (for there is mention made of the destroying of the king of Jerusalem, Jos 10:23 12:10; but not a word of the taking of Jerusalem, as there is of the taking of Makkedah, and Libnah, and other cities belonging to the kings there mentioned, Jos 10:28, &c.,) but by the children of Judah after they had received their lot, when at the desire and with the consent of the Benjamites, in whose lot Jerusalem fell, Jos 18:28, they assaulted and took it, and thereby, as it seems, acquired the right of copartnership with the Benjamites in the possession of that city. Though some think Jerusalem was twice taken; once in Joshua’s lifetime; and being afterwards recovered by the Canaanites, was now retaken by the children of Judah.",
+     "anchor": "to the children of Judah",
+     "refs": [
+      {
+       "text": "Jos 10:23",
+       "ref": "JOS.10.23"
+      },
+      {
+       "text": "Jos 10:28",
+       "ref": "JOS.10.28"
+      },
+      {
+       "text": "Jos 18:28",
+       "ref": "JOS.18.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.10",
+   "range": "JDG.1.10",
+   "kind": "passage",
+   "hash": "ce4cfef0",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.10#p1-ce4cfef0",
+     "text": "under the conduct of Caleb, as it is recorded, Jos 15:11, &c.; for that relation, and this here following, are doubtless one and the same expedition and war, as appears by all the circumstances; and it is mentioned either there by anticipation, or here by repetition. Of this and the following verses, see the notes there.",
+     "anchor": "Judah went",
+     "refs": [
+      {
+       "text": "Jos 15:11",
+       "ref": "JOS.15.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.16",
+   "range": "JDG.1.16",
+   "kind": "passage",
+   "hash": "d8c117af",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.16#p1-ef784994",
+     "text": "i.e. of Jethro, so called from the people from whom he descended, Num 24:21,22. And whatsoever he did, it is evident that his posterity came into Canaan with the Israelites, and were there seated with them. See Jud 4:11,17 5:24 1Sa 15:6 1Ch 2:55.",
+     "anchor": "Children of the Kenite",
+     "refs": [
+      {
+       "text": "Num 24:21",
+       "ref": "NUM.24.21"
+      },
+      {
+       "text": "Jud 4:11",
+       "ref": "JUD.4.11"
+      },
+      {
+       "text": "1Sa 15:6",
+       "ref": "1SA.15.6"
+      },
+      {
+       "text": "1Ch 2:55",
+       "ref": "1CH.2.55"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.16#p2-1501c41a",
+     "text": "i.e. from Jericho, so called Deu 34:3; not the city, which was utterly destroyed; but the territory belonging to it, where it seems they were seated as in a most pleasant, and fruitful, and safe place, according to the promise made by Moses to their father, Num 10:31,32, and whence they might remove, either to avoid the society or molestation of the neighbouring Canaanites; or out of love to the children of Judah, whom they went to; or to avoid temptations to luxury, and exercise themselves in self-denial and contempt of the present evil world, and the lusts thereof; as may be thought from Jer 35:6, &c.; or for some other cause unknown to us at this distance.",
+     "anchor": "Out of the city of palm trees",
+     "refs": [
+      {
+       "text": "Deu 34:3",
+       "ref": "DEU.34.3"
+      },
+      {
+       "text": "Num 10:31",
+       "ref": "NUM.10.31"
+      },
+      {
+       "text": "Jer 35:6",
+       "ref": "JER.35.6"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.16#p3-c77b7387",
+     "text": "in the southern part of the land of Canaan, where Arad was, Num 21:1.",
+     "anchor": "In the south of Arad",
+     "refs": [
+      {
+       "text": "Num 21:1",
+       "ref": "NUM.21.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.16#p4-bfead361",
+     "text": "i.e. some of them, for others of them dwelt in the contrary quarter, in the most northern part of the land.",
+     "anchor": "They went"
+    },
+    {
+     "id": "poole/JDG.1.16#p5-27dd319d",
+     "text": "Heb. that people, to wit, those children of Judah that lived there.",
+     "anchor": "Among the people"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.17",
+   "range": "JDG.1.17",
+   "kind": "passage",
+   "hash": "373bf304",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.17#p1-b0eb4477",
+     "text": "according to his promise, Jud 1:3, and the laws of justice and gratitude.",
+     "anchor": "Judah went with Simeon his brother",
+     "refs": [
+      {
+       "text": "Jud 1:3",
+       "ref": "JUD.1.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.17#p2-a12a5354",
+     "text": "either,",
+     "anchor": "Hormah"
+    },
+    {
+     "id": "poole/JDG.1.17#p3-4230df0e",
+     "text": "1. The same place so destroyed and called, Num 21:3, and so what was there vowed is here executed; or,",
+     "refs": [
+      {
+       "text": "Num 21:3",
+       "ref": "NUM.21.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.17#p4-40720833",
+     "text": "2. Some other place called by the same name upon the like occasion, which was frequent among the Hebrews. This seems more probable,"
+    },
+    {
+     "id": "poole/JDG.1.17#p5-5aaa32e9",
+     "text": "1. Because this was but one city, that divers cities, Num 21:2,3.",
+     "refs": [
+      {
+       "text": "Num 21:2",
+       "ref": "NUM.21.2"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.17#p6-dba1a27a",
+     "text": "2. Because that seems to have been done in Moses’s time, though interpreters generally think otherwise; of which see my notes there."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.18",
+   "range": "JDG.1.18",
+   "kind": "passage",
+   "hash": "b18c3d4b",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.18#p1-7e57e03c",
+     "text": "The principal cities of the Philistines."
+    },
+    {
+     "id": "poole/JDG.1.18#p2-b4f810e1",
+     "text": "How could this be, when among the people left to try Israel, are the five lords of the Philistines, Jud 3:3.",
+     "anchor": "Quest",
+     "refs": [
+      {
+       "text": "Jud 3:3",
+       "ref": "JUD.3.3"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.18#p3-c2751921",
+     "text": "It is only said that they took the cities, and probably contented themselves with making them tributary; but it is not said that they slew the people, as they ought to have done, and as it is said of the other cities here, Jud 1:5,8,17,25. And the people being thus spared, did by God’s just judgement recover their strength, and expel the Jews out of their cities, as we find afterwards. It is further observable, that Ekron here taken was one of Dan’s cities, Jos 19:43, and it was attempted and taken here by Judah and Simeon, partly out of love to their brother Dan, and partly to secure their new conquests, and other adjoining territories, from such potent neighbours.",
+     "anchor": "Answ",
+     "refs": [
+      {
+       "text": "Jud 1:5",
+       "ref": "JUD.1.5"
+      },
+      {
+       "text": "Jos 19:43",
+       "ref": "JOS.19.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.19",
+   "range": "JDG.1.19",
+   "kind": "passage",
+   "hash": "06ab9704",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.19#p1-06ab9704",
+     "text": "On account of their unbelief, whereby they doubted and distrusted God’s power to destroy those who had chariots of iron and so gave way to their own fear and sloth, whereby God was provoked to withdraw his helping hand from them, and so they were really made impotent, as they were unwilling. See Jos 17:16.",
+     "refs": [
+      {
+       "text": "Jos 17:16",
+       "ref": "JOS.17.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.20",
+   "range": "JDG.1.20",
+   "kind": "passage",
+   "hash": "2a51a6a6",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.20#p1-2a51a6a6",
+     "text": "Above mentioned Jud 1:20",
+     "refs": [
+      {
+       "text": "Jud 1:20",
+       "ref": "JUD.1.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.22",
+   "range": "JDG.1.22",
+   "kind": "passage",
+   "hash": "800f1baf",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.22#p1-800f1baf",
+     "text": "i.e. the tribe of Ephraim, as appears from their opposition to the tribe of Manasseh, Jud 1:27.",
+     "anchor": "The house of Joseph",
+     "refs": [
+      {
+       "text": "Jud 1:27",
+       "ref": "JUD.1.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.24",
+   "range": "JDG.1.24",
+   "kind": "passage",
+   "hash": "3528f218",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.24#p1-3528f218",
+     "text": "on which side it is weakest, that we may best invade and take it.",
+     "anchor": "The entrance into the city"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.25",
+   "range": "JDG.1.25",
+   "kind": "passage",
+   "hash": "e26d892a",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.25#p1-e26d892a",
+     "text": "Together with his estate, as the following verse manifests."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.26",
+   "range": "JDG.1.26",
+   "kind": "passage",
+   "hash": "88073588",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.26#p1-88073588",
+     "text": "where the Hittites seated themselves after they were driven out of Canaan, which seems to be northward from Canaan, and near unto it. See 1Ki 11:1 2Ch 1:17.",
+     "anchor": "The land of the Hittites",
+     "refs": [
+      {
+       "text": "1Ki 11:1",
+       "ref": "1KI.11.1"
+      },
+      {
+       "text": "2Ch 1:17",
+       "ref": "2CH.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.27",
+   "range": "JDG.1.27",
+   "kind": "passage",
+   "hash": "eb21d38e",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.27#p1-2ee110ac",
+     "text": "i.e. that half of this tribe which dwelt in Canaan.",
+     "anchor": "Manasseh"
+    },
+    {
+     "id": "poole/JDG.1.27#p2-47a313f5",
+     "text": "a place near Jordan, Jos 17:11.",
+     "anchor": "Beth-shean",
+     "refs": [
+      {
+       "text": "Jos 17:11",
+       "ref": "JOS.17.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.27#p3-9428b34c",
+     "text": "of which see Jos 12:21 17:11.",
+     "anchor": "Taanach",
+     "refs": [
+      {
+       "text": "Jos 12:21",
+       "ref": "JOS.12.21"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.27#p4-1d283a25",
+     "text": "a great city with large territories. See Jos 11:2 12:23 Jos 17:11.",
+     "anchor": "Dor",
+     "refs": [
+      {
+       "text": "Jos 11:2",
+       "ref": "JOS.11.2"
+      },
+      {
+       "text": "Jos 17:11",
+       "ref": "JOS.17.11"
+      }
+     ]
+    },
+    {
+     "id": "poole/JDG.1.27#p5-a8f5d703",
+     "text": "a royal city. See Jos 12:21 17:11.",
+     "anchor": "Megiddo",
+     "refs": [
+      {
+       "text": "Jos 12:21",
+       "ref": "JOS.12.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.29",
+   "range": "JDG.1.29",
+   "kind": "passage",
+   "hash": "b52ec3f6",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.29#p1-b52ec3f6",
+     "text": "Which they possessed till Solomon’s time."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.33",
+   "range": "JDG.1.33",
+   "kind": "passage",
+   "hash": "bc0a0748",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.33#p1-bc0a0748",
+     "text": "a place differing from that Beth-shemesh, Jos 15:10.",
+     "anchor": "Beth-shemesh",
+     "refs": [
+      {
+       "text": "Jos 15:10",
+       "ref": "JOS.15.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.34",
+   "range": "JDG.1.34",
+   "kind": "passage",
+   "hash": "a0be9923",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.34#p1-a0be9923",
+     "text": "Into the plain country; which was the occasion of that expedition for the getting of new quarters; of which we read Jos 19 Jud 18."
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.35",
+   "range": "JDG.1.35",
+   "kind": "passage",
+   "hash": "3139ea70",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.35#p1-3139ea70",
+     "text": "i.e. of the Ephraimites, who helped their brethren the Danites against the Amorites, and that with good success.",
+     "anchor": "Of the house of Joseph"
+    }
+   ]
+  },
+  {
+   "id": "poole/JDG.1.36",
+   "range": "JDG.1.36",
+   "kind": "passage",
+   "hash": "b4d7cda7",
+   "paragraphs": [
+    {
+     "id": "poole/JDG.1.36#p1-b4d7cda7",
+     "text": "was in the southern part of Canaan, Jos 15:2,3, from whence it went up towards the north. This is added to show the great power and large extent of this people.",
+     "anchor": "Akrabbim",
+     "refs": [
+      {
+       "text": "Jos 15:2",
+       "ref": "JOS.15.2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

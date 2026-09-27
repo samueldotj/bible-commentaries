@@ -1,0 +1,399 @@
+{
+ "source": "poole",
+ "book": "1CH",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "poole/1CH.28",
+   "range": "1CH.28",
+   "kind": "chapter",
+   "hash": "098a15f4",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28#p1-098a15f4",
+     "text": "David in a solemn assembly declareth God’s favour to him, and promise to his son Solomon; exhorteth them to fear God, and encourageth Solomon to build the temple, 1Ch 28:1-10; giveth him a pattern for the form, and gold and silver for the materials, 1Ch 28:11-21.",
+     "refs": [
+      {
+       "text": "1Ch 28:1-10",
+       "ref": "1CH.28.1-10"
+      },
+      {
+       "text": "1Ch 28:11-21",
+       "ref": "1CH.28.11-21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.1",
+   "range": "1CH.28.1",
+   "kind": "passage",
+   "hash": "1cb3a67a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.1#p1-1cb3a67a",
+     "text": "This assembly seems to be distinct from that 1Ch 23:2, and more general, as may be gathered from the persons said to be assembled here and there. Though others think them to be the same, and this to be a return to his former discourse.",
+     "refs": [
+      {
+       "text": "1Ch 23:2",
+       "ref": "1CH.23.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.2",
+   "range": "1CH.28.2",
+   "kind": "passage",
+   "hash": "8796688a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.2#p1-cc02c2bf",
+     "text": "partly out of reverence to God and his word, which was the matter of the following discourse; and partly out of respect to this great and honourable assembly.",
+     "anchor": "David stood up"
+    },
+    {
+     "id": "poole/1CH.28.2#p2-34a6a482",
+     "text": "so he calls the princes and chief rulers, both because they had a share with him, though under him in the government; and in compliance with the Divine command, that the king should not be lifted up above his brethren, Deu 17:20.",
+     "anchor": "My brethren",
+     "refs": [
+      {
+       "text": "Deu 17:20",
+       "ref": "DEU.17.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.2#p3-0e945429",
+     "text": "a place where it might be fixed, and no more removed from place to place, as it had been.",
+     "anchor": "An house of rest for the ark"
+    },
+    {
+     "id": "poole/1CH.28.2#p4-1c9230cf",
+     "text": "the word and is here put expositively for by the footstool, &c., he means the ark.",
+     "anchor": "And for the footstool"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.5",
+   "range": "1CH.28.5",
+   "kind": "passage",
+   "hash": "cafeacff",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.5#p1-cafeacff",
+     "text": "It is not my fancy or fond affection, but God’s express will, that Solomon should be preferred before his elder brethren; and therefore all of you are obliged to submit to him, and accept of him as your king by Divine appointment."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.7",
+   "range": "1CH.28.7",
+   "kind": "passage",
+   "hash": "030df6e0",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.7#p1-030df6e0",
+     "text": "As he hath begun and hitherto continued in some good measure to do."
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.8",
+   "range": "1CH.28.8",
+   "kind": "passage",
+   "hash": "b1772001",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.8#p1-a6bd0025",
+     "text": "i.e. I do here exhort and charge you every one, calling God who is here present, and this congregation, wherein all Israel are present by their representatives, for witness against you, if you do not follow my counsel.",
+     "anchor": "In the audience of our God"
+    },
+    {
+     "id": "poole/1CH.28.8#p2-c5dfec36",
+     "text": "keep those commands which you know, and seek for or search into what you are yet ignorant of, that you may distinctly understand the whole will of God, and all the parts of your duty, and seriously give up yourselves to the practice thereof.",
+     "anchor": "Keep and seek for all the commandments of the Lord"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.9",
+   "range": "1CH.28.9",
+   "kind": "passage",
+   "hash": "50bcd225",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.9#p1-d174dc79",
+     "text": "know him, so as to love him and serve him, as it follows; for words of knowledge in Scripture use commonly imply affection and practice: or acknowledge him as thy God, by loving and obeying him; for otherwise Solomon did already know God, having doubtless been very well instructed in the knowledge of God’s nature and law.",
+     "anchor": "Know thou the God"
+    },
+    {
+     "id": "poole/1CH.28.9#p2-1539cf06",
+     "text": "if thou dost only put on a profession of religion, to please me and secure thy hopes of the kingdom; or if thy obedience to God be insincere and with grudging; thou mayst indeed deceive me, but thou canst not deceive him, for he searcheth thy inward thoughts, and the motions of thy heart.",
+     "anchor": "The Lord searcheth all hearts, and understandeth all the imaginations of the thoughts"
+    },
+    {
+     "id": "poole/1CH.28.9#p3-97b97386",
+     "text": "if when I am dead and gone, and thou art perfectly at thy own dispose, thou shalt cast off that religion and fear of God of which thou now makest profession, and shalt continue to do so without true repentance for thine errors.",
+     "anchor": "If thou forsake him"
+    },
+    {
+     "id": "poole/1CH.28.9#p4-e6f201f7",
+     "text": "notwithstanding all his promises made to me and to my seed, and that great honour and favour which he hath showed to thee, with which possibly thou mayst flatter thyself.",
+     "anchor": "He will cast thee off for ever"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.10",
+   "range": "1CH.28.10",
+   "kind": "passage",
+   "hash": "f39ef96a",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.10#p1-5dfca3a6",
+     "text": "or, for a sanctuary, i. e. which is to be a sanctuary for him, to wit, for the ark to dwell in.",
+     "anchor": "For the sanctuary"
+    },
+    {
+     "id": "poole/1CH.28.10#p2-18b1585b",
+     "text": "take courage and resolution to break through all difficulties, troubles, discouragements, or oppositions which thou mayst possibly meet with.",
+     "anchor": "Be strong"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.11",
+   "range": "1CH.28.11",
+   "kind": "passage",
+   "hash": "e9b75791",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.11#p1-ae3c379b",
+     "text": "to wit, of the temple; which is necessarily to be understood.",
+     "anchor": "The pattern of the porch"
+    },
+    {
+     "id": "poole/1CH.28.11#p2-a12a5354",
+     "text": "either,",
+     "anchor": "The houses thereof"
+    },
+    {
+     "id": "poole/1CH.28.11#p3-ba62e626",
+     "text": "1. The houses of the porch, so called because they went through the porch into them. Or rather,"
+    },
+    {
+     "id": "poole/1CH.28.11#p4-713591a6",
+     "text": "2. The houses of the temple, manifestly understood in the next foregoing clause of this verse, to wit, the holy place, and the holy of holies; which may well pass for two houses, because they were separated by a partition; and because they were of differing dimensions, as appears by 1Ki 6:2,20, especially seeing the holy place is called the greater house, 2Ch 3:5, comparatively to the holy of holies, which was the lesser house, and so you have two houses.",
+     "refs": [
+      {
+       "text": "1Ki 6:2",
+       "ref": "1KI.6.2"
+      },
+      {
+       "text": "2Ch 3:5",
+       "ref": "2CH.3.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.11#p5-33720cdb",
+     "text": "by these he seems to understand all those rooms which were made against the wall of the house round about, as it is said, 1Ki 6:5, which are here called by divers names, according to the difference of their situation or use.",
+     "anchor": "The inner parlours thereof",
+     "refs": [
+      {
+       "text": "1Ki 6:5",
+       "ref": "1KI.6.5"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.11#p6-d1ce7ade",
+     "text": "i.e. in what particular part of the holy of holies it was to be placed.",
+     "anchor": "The place of the mercy-seat"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.12",
+   "range": "1CH.28.12",
+   "kind": "passage",
+   "hash": "14823780",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.12#p1-df1fd7c7",
+     "text": "for even the pattern of all; for this clause belongs both to the foregoing and the following particulars.",
+     "anchor": "And the pattern of all"
+    },
+    {
+     "id": "poole/1CH.28.12#p2-6733552a",
+     "text": "by the Spirit of God, as is evident from 1Ch 27:19. For seeing all the particulars of the tabernacle built by Moses were suggested to him by God’s Spirit, by which even the workmen were inspired, Exo 25:40 31:3, it is not credible that God would use less care and exactness in the building of this far more glorious and durable work.",
+     "anchor": "By the spirit",
+     "refs": [
+      {
+       "text": "1Ch 27:19",
+       "ref": "1CH.27.19"
+      },
+      {
+       "text": "Exo 25:40",
+       "ref": "EXO.25.40"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.12#p3-cb7febef",
+     "text": "& c.; all which were within the courts, or adjoining to them, as the other chambers, 1Ch 27:11, were adjoined to the house.",
+     "anchor": "Of all the chambers",
+     "refs": [
+      {
+       "text": "1Ch 27:11",
+       "ref": "1CH.27.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.15",
+   "range": "1CH.28.15",
+   "kind": "passage",
+   "hash": "9dad0d71",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.15#p1-9dad0d71",
+     "text": "Whether they were large and fixed in one place, whereof there were ten in the holy place, 1Ki 7:49, or such as were less and loose to be carried from place to place, as need required.",
+     "refs": [
+      {
+       "text": "1Ki 7:49",
+       "ref": "1KI.7.49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.16",
+   "range": "1CH.28.16",
+   "kind": "passage",
+   "hash": "706c73ad",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.16#p1-ae943f6a",
+     "text": "by this, and 2Ch 4:19, it appears that there were divers tables to be used either successively or together about the shew-bread; but one of them seems to have been of more eminency and use than the rest, and therefore it is most commonly called",
+     "anchor": "The tables of shew-bread",
+     "refs": [
+      {
+       "text": "2Ch 4:19",
+       "ref": "2CH.4.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.16#p2-d4af92d8",
+     "text": "in the singular number. But of this and the rest of the utensils here named, see the notes on Exodus.",
+     "anchor": "the table of the shew-bread"
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.18",
+   "range": "1CH.28.18",
+   "kind": "passage",
+   "hash": "be819f17",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.18#p1-555d8fbe",
+     "text": "i.e. of the cherubims, which Solomon was to make, of which see 1Ki 6:23, (for those which were fastened to the mercy-seat were made by Moses long before,) which he fitly compares to a chariot, because within them God is oft said to sit and to dwell, as 2Ki 19:5 Psa 80:1 99:1; and sometimes he is said to ride upon a cherub, Psa 18:10. And because a chariot is made to carry a person from place to place, this expression may be used to intimate that God was not so fixed to them by the building of his temple, but that he both could and would remove from them if they forsook him. And when they did so, God did make use of the chariot of his cherubims to convey himself away from them, as is noted, Eze 10:15, &c.",
+     "anchor": "Of the chariot of the cherubims",
+     "refs": [
+      {
+       "text": "1Ki 6:23",
+       "ref": "1KI.6.23"
+      },
+      {
+       "text": "2Ki 19:5",
+       "ref": "2KI.19.5"
+      },
+      {
+       "text": "Psa 80:1",
+       "ref": "PSA.80.1"
+      },
+      {
+       "text": "Psa 18:10",
+       "ref": "PSA.18.10"
+      },
+      {
+       "text": "Eze 10:15",
+       "ref": "EZK.10.15"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.18#p2-63b8a9bf",
+     "text": "not above it, for that was done by Moses’s cherubims, but before it, to keep it from the eyes of the high priest when he entered into the most holy place, 1Ki 6:23.",
+     "anchor": "Covered the ark",
+     "refs": [
+      {
+       "text": "1Ki 6:23",
+       "ref": "1KI.6.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.19",
+   "range": "1CH.28.19",
+   "kind": "passage",
+   "hash": "a846a3c1",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.19#p1-56bd8f73",
+     "text": "The meaning is either,"
+    },
+    {
+     "id": "poole/1CH.28.19#p2-9162bd86",
+     "text": "1. That God revealed this to Samuel, {see 1Ch 9:22} or Gad, or Nathan, or some other man of God, who put it into writing, and by them to David. Or,",
+     "refs": [
+      {
+       "text": "1Ch 9:22",
+       "ref": "1CH.9.22"
+      }
+     ]
+    },
+    {
+     "id": "poole/1CH.28.19#p3-9e4d7010",
+     "text": "2. That God did, as it were, by his own hand and finger, (wherewith he wrote the ten commandments, Exo 31:18) write these things upon the table of my mind, which now I deliver to thee.",
+     "refs": [
+      {
+       "text": "Exo 31:18",
+       "ref": "EXO.31.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/1CH.28.20",
+   "range": "1CH.28.20",
+   "kind": "passage",
+   "hash": "89475fe5",
+   "paragraphs": [
+    {
+     "id": "poole/1CH.28.20#p1-89475fe5",
+     "text": "See Poole \"1Ch 27:10\".",
+     "anchor": "Be strong and of good courage",
+     "refs": [
+      {
+       "text": "1Ch 27:10",
+       "ref": "1CH.27.10"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

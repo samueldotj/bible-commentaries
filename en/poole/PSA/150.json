@@ -1,0 +1,83 @@
+{
+ "source": "poole",
+ "book": "PSA",
+ "chapter": 150,
+ "units": [
+  {
+   "id": "poole/PSA.150",
+   "range": "PSA.150",
+   "kind": "chapter",
+   "hash": "727b73c0",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.150#p1-60859bda",
+     "text": "THE ARGUMENT",
+     "heading": true
+    },
+    {
+     "id": "poole/PSA.150#p2-45b21436",
+     "text": "This Psalm agrees much with the former, and is an invitation to all men to praise God, and especially to the Levites, or those of them who were appointed to this work, as may be gathered both from the place in which they are to praise him, which is, according to our translation, in his sanctuary, Psa 150:1, and from that great variety of instruments here mentioned, all which were frequently used in their temple service, and seldom elsewhere.",
+     "refs": [
+      {
+       "text": "Psa 150:1",
+       "ref": "PSA.150.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.150.1",
+   "range": "PSA.150.1",
+   "kind": "passage",
+   "hash": "3422823c",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.150.1#p1-0f5a49e9",
+     "text": "An exhortation to praise the holiness, power, and kindness of God, with all sorts of, musical instruments."
+    },
+    {
+     "id": "poole/PSA.150.1#p2-82119a49",
+     "text": "in his temple, where this work was to be performed constantly and solemnly. Or, who dwelleth in his sanctuary. So it describeth and limiteth the object of their praises. Or, for (as this particle is used in the next verse) his sanctuary, for this great favour of placing his sanctuary and dwelling-place amongst men.",
+     "anchor": "In his sanctuary"
+    },
+    {
+     "id": "poole/PSA.150.1#p3-79c9b1c2",
+     "text": "in his heavenly mansion, there let the blessed angels praise him. Or, who dwelleth in the firmament, or spreading forth of his power, to wit, in the heavens, which were stretched out by his great power, and in which are the most glorious testimonies of his infinite power. Or, for the firmament, &c.; for that glorious and astonishing piece of his workmanship.",
+     "anchor": "In the firmament of his power"
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.150.2",
+   "range": "PSA.150.2",
+   "kind": "passage",
+   "hash": "8d985f91",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.150.2#p1-8d985f91",
+     "text": "As his infinite majesty deserves to be praised."
+    }
+   ]
+  },
+  {
+   "id": "poole/PSA.150.6",
+   "range": "PSA.150.6",
+   "kind": "passage",
+   "hash": "7fcef101",
+   "paragraphs": [
+    {
+     "id": "poole/PSA.150.6#p1-7fcef101",
+     "text": "every living creature in heaven and in earth, Rev 5:13, according to their several capabilities, some objectively, others actively, as was noted before.",
+     "anchor": "Every thing that hath breath",
+     "refs": [
+      {
+       "text": "Rev 5:13",
+       "ref": "REV.5.13"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

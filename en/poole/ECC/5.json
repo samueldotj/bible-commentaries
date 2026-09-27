@@ -1,0 +1,808 @@
+{
+ "source": "poole",
+ "book": "ECC",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "poole/ECC.5",
+   "range": "ECC.5",
+   "kind": "chapter",
+   "hash": "c5a53414",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5#p1-c5a53414",
+     "text": "Vanities in divine matters, Ecc 5:1-7. In murmuring and repining, Ecc 5:8. In riches and covetousness. Ecc 5:9,10; for riches rob men of ease, Ecc 5:11,12, procure their death, Ecc 5:13, fly away, Ecc 5:14, cannot be carried with them into the grave, Ecc 5:15-17. A contented life best: this is the gift of God, Ecc 5:18-20.",
+     "refs": [
+      {
+       "text": "Ecc 5:1-7",
+       "ref": "ECC.5.1-7"
+      },
+      {
+       "text": "Ecc 5:8",
+       "ref": "ECC.5.8"
+      },
+      {
+       "text": "Ecc 5:9",
+       "ref": "ECC.5.9"
+      },
+      {
+       "text": "Ecc 5:11",
+       "ref": "ECC.5.11"
+      },
+      {
+       "text": "Ecc 5:13",
+       "ref": "ECC.5.13"
+      },
+      {
+       "text": "Ecc 5:14",
+       "ref": "ECC.5.14"
+      },
+      {
+       "text": "Ecc 5:15-17",
+       "ref": "ECC.5.15-17"
+      },
+      {
+       "text": "Ecc 5:18-20",
+       "ref": "ECC.5.18-20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.1",
+   "range": "ECC.5.1",
+   "kind": "passage",
+   "hash": "bcbb2dbd",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.1#p1-19c2d32b",
+     "text": "The seven first verses of this chapter are inserted partly as the only effectual remedy against all the foregoing vanities, and partly as a caution to take heed of bringing vanity into the service of God, or of worshipping God vainly and foolishly."
+    },
+    {
+     "id": "poole/ECC.5.1#p2-b1ba216f",
+     "text": "the feet of thy soul, which are the thoughts and affections, by which men go to God, and walk or converse with him. Make straight steps. See that your hearts be purged from sin, and prepared and furnished with all graces or necessary qualifications, as good intention, reverence, humility, &c. It is a metaphor from one that walketh in a very slippery path, in which there needs more than ordinary care to keep him from falling.",
+     "anchor": "Keep thy foot"
+    },
+    {
+     "id": "poole/ECC.5.1#p3-5c63e20a",
+     "text": "the place of God’s solemn and public worship, whether the temple or synagogue.",
+     "anchor": "The house of God"
+    },
+    {
+     "id": "poole/ECC.5.1#p4-464b3bc1",
+     "text": "Heb. more near, more forward and inclinable. Prefer this duty before the following.",
+     "anchor": "Be more ready"
+    },
+    {
+     "id": "poole/ECC.5.1#p5-958cd3ed",
+     "text": "to hearken to and obey God’s word, there read and preached by the priests or prophets; for hearing is very frequently put in Scripture for obeying.",
+     "anchor": "To hear"
+    },
+    {
+     "id": "poole/ECC.5.1#p6-cdae3b90",
+     "text": "such as foolish and wicked men use to offer, who vainly think to please God with the multitude and costliness of their sacrifices without true piety or obedience.",
+     "anchor": "The sacrifice of fools"
+    },
+    {
+     "id": "poole/ECC.5.1#p7-9f4bd4cb",
+     "text": "they are not sensible of the great sinfulness of such thoughts and practices, but, like fools, think they do God good service; which is implied, as is usual in such expressions.",
+     "anchor": "They consider not that they do evil"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.2",
+   "range": "ECC.5.2",
+   "kind": "passage",
+   "hash": "11241e60",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.2#p1-83b5fe3f",
+     "text": "speak not without good understanding and due consideration.",
+     "anchor": "Be not rash with thy mouth"
+    },
+    {
+     "id": "poole/ECC.5.2#p2-f00e11c3",
+     "text": "do not give way to every sudden motion of thine heart, nor suffer it to break out of thy lips till thou hast well weighed it.",
+     "anchor": "Let not thine heart be hasty"
+    },
+    {
+     "id": "poole/ECC.5.2#p3-a12a5354",
+     "text": "either,",
+     "anchor": "To utter any thing before God"
+    },
+    {
+     "id": "poole/ECC.5.2#p4-73fd9127",
+     "text": "1. In prayers directed to him. Or,"
+    },
+    {
+     "id": "poole/ECC.5.2#p5-b8d12b4a",
+     "text": "2. In solemn vows and promises made in God’s presence; which were very much in use in those times, and of which he speaks in the following verses, where he presseth us to pay our vows when we have made them, as here he seems to caution us in making them."
+    },
+    {
+     "id": "poole/ECC.5.2#p6-8ea89e60",
+     "text": "is a God of infinite majesty, not to be despised or abused; of infinite holiness, not to be polluted or offended; of infinite knowledge. observing all our words and carriages, not to be deceived.",
+     "anchor": "God is in heaven"
+    },
+    {
+     "id": "poole/ECC.5.2#p7-0e096cf9",
+     "text": "thou art a poor earth-worm, infinitely below him, and therefore shouldst stand in awe of him, and fear to offend him.",
+     "anchor": "Thou upon earth"
+    },
+    {
+     "id": "poole/ECC.5.2#p8-f0c50f37",
+     "text": "either",
+     "anchor": "Let thy words be few"
+    },
+    {
+     "id": "poole/ECC.5.2#p9-e1e3db2e",
+     "text": "1. In prayer. Use not vain repetitions nor multitude of words in prayer, as if they were necessary to inform God of thy state, or to prevail with God to grant thy requests, or as if thou shouldst certainly be heard upon that very account, as Christ also cautions us, Mat 6:7. For otherwise it is not unlawful, nay, sometimes it is a duty, to use long prayers, and consequently many words, and to repeat the same words in prayer, as is manifest from Neh 9:3 Dan 9:18,19 Mt 26:44 Luk 6:12, and many other places. Or,",
+     "refs": [
+      {
+       "text": "Mat 6:7",
+       "ref": "MAT.6.7"
+      },
+      {
+       "text": "Neh 9:3",
+       "ref": "NEH.9.3"
+      },
+      {
+       "text": "Dan 9:18",
+       "ref": "DAN.9.18"
+      },
+      {
+       "text": "Luk 6:12",
+       "ref": "LUK.6.12"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.2#p10-52bc68a4",
+     "text": "2. In vowing. Be not too prodigal in making more vows and promises than thou art either able or willing and resolved to perform, remembering that God looks down from heaven, and heareth all thy vows, and expects a punctual accomplishment of them. See Poole \"Ecc 5:3\".",
+     "refs": [
+      {
+       "text": "Ecc 5:3",
+       "ref": "ECC.5.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.3",
+   "range": "ECC.5.3",
+   "kind": "passage",
+   "hash": "382910d2",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.3#p1-19390e2e",
+     "text": "When men’s minds are distracted and oppressed with too much business in the day, they dream of it in the night."
+    },
+    {
+     "id": "poole/ECC.5.3#p2-b013d1dc",
+     "text": "it discovers the man to be a foolish, and rash, and inconsiderate man.",
+     "anchor": "A fool’s voice is known"
+    },
+    {
+     "id": "poole/ECC.5.3#p3-a12a5354",
+     "text": "either,",
+     "anchor": "By multitude of words"
+    },
+    {
+     "id": "poole/ECC.5.3#p4-2b57e8c2",
+     "text": "1. In prayer. Or,"
+    },
+    {
+     "id": "poole/ECC.5.3#p5-c282643d",
+     "text": "2. In vowing, i.e. by making many rash vows, of which he speaks in Ecc 5:4-6, and then returns to the mention of multitude of dreams and many words, Ecc 5:7, which verse may be a comment upon this, and which makes it probable that both that and this verse are to be understood of vows rather than of prayers.",
+     "refs": [
+      {
+       "text": "Ecc 5:4-6",
+       "ref": "ECC.5.4-6"
+      },
+      {
+       "text": "Ecc 5:7",
+       "ref": "ECC.5.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.4",
+   "range": "ECC.5.4",
+   "kind": "passage",
+   "hash": "a16694ad",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.4#p1-b568e696",
+     "text": "which is a solemn promise, whereby a man binds himself to do something which is in his power to do.",
+     "anchor": "A vow"
+    },
+    {
+     "id": "poole/ECC.5.4#p2-85cb2ba5",
+     "text": "perform it whilst the sense of thine obligation is fresh and strong upon thee, lest either thou seem to repent of thy promises, or lest delays end in denials and resolutions of non-performance. See Num 30:2 Deu 23:21 Psa 66:13,14 66:11.",
+     "anchor": "Defer not to pay it",
+     "refs": [
+      {
+       "text": "Num 30:2",
+       "ref": "NUM.30.2"
+      },
+      {
+       "text": "Deu 23:21",
+       "ref": "DEU.23.21"
+      },
+      {
+       "text": "Psa 66:13",
+       "ref": "PSA.66.13"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.4#p3-a105344e",
+     "text": "in hypocritical and perfidious persons, who, when they are in distress, make liberal vows, and when the danger is past, neglect and break them; whom he calls fools, partly because it is the highest folly to despise and provoke, to think to mock and deceive, the all-seeing and almighty God; and partly in opposition to the contrary opinion of such persons, who think they deal wisely and cunningly in serving themselves of God, by getting the advantage or deliverance which they desire by making such vows, and yet avoiding the inconvenience and charge of payment when once the work is done, whereas nothing is more impious or ridiculous than such an imagination.",
+     "anchor": "In fools"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.5",
+   "range": "ECC.5.5",
+   "kind": "passage",
+   "hash": "d9e4aaad",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.5#p1-d9e4aaad",
+     "text": "for this was no sin, because men are free to make such vows, or not to make them, as they think fit. See Num 30:3, &c.; Deu 23:22 Act 5:4. But having vowed we cannot forbear payment of them without sin.",
+     "anchor": "That thou shouldest not vow",
+     "refs": [
+      {
+       "text": "Num 30:3",
+       "ref": "NUM.30.3"
+      },
+      {
+       "text": "Deu 23:22",
+       "ref": "DEU.23.22"
+      },
+      {
+       "text": "Act 5:4",
+       "ref": "ACT.5.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.6",
+   "range": "ECC.5.6",
+   "kind": "passage",
+   "hash": "2ff1a678",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.6#p1-46c31a34",
+     "text": "by uttering any rash or foolish vow.",
+     "anchor": "Suffer not thy mouth"
+    },
+    {
+     "id": "poole/ECC.5.6#p2-8bac6556",
+     "text": "i. e. thyself, the word flesh being oft put for the whole man, as Gen 6:12 Isa 40:5 Rom 3:20, &c. And it seems to have some emphasis here, and to intimate either,",
+     "anchor": "Thy flesh",
+     "refs": [
+      {
+       "text": "Gen 6:12",
+       "ref": "GEN.6.12"
+      },
+      {
+       "text": "Isa 40:5",
+       "ref": "ISA.40.5"
+      },
+      {
+       "text": "Rom 3:20",
+       "ref": "ROM.3.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.6#p3-5d949f2a",
+     "text": "1. That such vows were made upon fleshly or carnal, and not upon spiritual and religious motives. Or rather,"
+    },
+    {
+     "id": "poole/ECC.5.6#p4-0afe164a",
+     "text": "2. That the flesh or corrupt nature of man, which is oft called flesh, was exceeding prone to set itself at ease and liberty from such bonds, and to neglect the chargeable duties of religion."
+    },
+    {
+     "id": "poole/ECC.5.6#p5-a12a5354",
+     "text": "either,",
+     "anchor": "The angel"
+    },
+    {
+     "id": "poole/ECC.5.6#p6-391ff470",
+     "text": "1. The blessed angels, the singular number being put for the plural, who are present in the public assemblies in which these vows were generally paid, Psa 66:13, where they observe both the matter and manner of men’s religious performances, as appears from 1Co 11:10, who as they rejoice in the conversion of a sinner, Luk 15:10, so are displeased with the sins of men, and especially such as are committed in or against the worship of God. Or,",
+     "refs": [
+      {
+       "text": "Psa 66:13",
+       "ref": "PSA.66.13"
+      },
+      {
+       "text": "1Co 11:10",
+       "ref": "1CO.11.10"
+      },
+      {
+       "text": "Luk 15:10",
+       "ref": "LUK.15.10"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.6#p7-f982458c",
+     "text": "2. Christ, who in the Old Testament is frequently called an angel, as hath been oft noted before, and the Angel of the covenant, Mal 3:1 because even then he acted as God’s messenger, appearing and speaking to the patriarchs and prophets in his Father’s name, as a prosignification of his future incarnation, and who is and was in a special manner present in all religious assemblies; and being omniscient and omnipresent, exactly knew and observed all the vows which men made, and whether they did perform or violate them. Or rather,",
+     "refs": [
+      {
+       "text": "Mal 3:1",
+       "ref": "MAL.3.1"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.6#p8-4d82b4b4",
+     "text": "3. The priest or minister of holy things, who was to require of the people the payment of their vows, to whom all sacrifices for sins of ignorance or errors about vows or other things were to be brought, Lev 5:4,5. For such persons are oft called angels, or, as this Hebrew word is commonly rendered, messengers, as Job 33:23 Mal 2:7 Rev 1:20. And this title seems to be given to the priest here, not without some emphasis, because the vow made to God was paid to the priest as one standing and acting in God’s name and stead, and it belonged to the priest, as God’s angel or ambassador, to discharge persons from their vows when there was just occasion so to do.",
+     "refs": [
+      {
+       "text": "Lev 5:4",
+       "ref": "LEV.5.4"
+      },
+      {
+       "text": "Job 33:23",
+       "ref": "JOB.33.23"
+      },
+      {
+       "text": "Mal 2:7",
+       "ref": "MAL.2.7"
+      },
+      {
+       "text": "Rev 1:20",
+       "ref": "REV.1.20"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.6#p9-740a49f7",
+     "text": "I did foolishly and unadvisedly in making such a vow, and therefore I hope God will excuse me, and instead of that which I had vowed, accept of a sacrifice for my ignorance, according to the law for sins of ignorance, Lev 4:2 5:15 Num 15:26.",
+     "anchor": "That it was an error",
+     "refs": [
+      {
+       "text": "Lev 4:2",
+       "ref": "LEV.4.2"
+      },
+      {
+       "text": "Num 15:26",
+       "ref": "NUM.15.26"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.6#p10-940e6d6f",
+     "text": "why wilt thou provoke God to anger, at thy voice? either,",
+     "anchor": "Wherefore should God be angry"
+    },
+    {
+     "id": "poole/ECC.5.6#p11-c3dc8181",
+     "text": "1. At the vows which thou hast hastily uttered with thy mouth, as he said above. Or rather,"
+    },
+    {
+     "id": "poole/ECC.5.6#p12-c2f8712f",
+     "text": "2. At these frivolous excuses, wherewith thou deludest thy own conscience, and vainly imaginest that thou canst deceive God himself."
+    },
+    {
+     "id": "poole/ECC.5.6#p13-9c7a1dc3",
+     "text": "blast all thy contrivances, and labours, and estate gotten by thy labours, and particularly that work or enterprise for the success whereof thou didst make these vows, which being, as thou thinkest, finished, thou refusest to pay thy vows; but know that God can quickly undo that which thou hast done, and plentifully repay thine indignities and injuries offered to him into thine own bosom.",
+     "anchor": "Destroy the work of thine hands"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.7",
+   "range": "ECC.5.7",
+   "kind": "passage",
+   "hash": "3a40c13b",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.7#p1-a131bf89",
+     "text": "There is a great deal of vanity and folly, as in"
+    },
+    {
+     "id": "poole/ECC.5.7#p2-000cd194",
+     "text": "which for the most part are vain and insignificant, so also in many words, i.e. in making many vows, whereby a man is exposed to many snares and temptations.",
+     "anchor": "multitude of dreams"
+    },
+    {
+     "id": "poole/ECC.5.7#p3-1199c2ca",
+     "text": "fear the offence and wrath of God, and therefore be sparing in making vows, and just in performing them; whereby he implies that this rashness in vowing, and slackness in performing vows, proceed from the want of a just reverence and dread of the Divine Majesty, who is immediately concerned in these matters.",
+     "anchor": "Fear thou God"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.8",
+   "range": "ECC.5.8",
+   "kind": "passage",
+   "hash": "f4403393",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.8#p1-57da20a1",
+     "text": "Here is an account of another vanity, and a sovereign antidote against it."
+    },
+    {
+     "id": "poole/ECC.5.8#p2-59bc9f9f",
+     "text": "as if it were inconsistent with God’s wisdom, and justice, and truth to suffer such disorders, or a just cause for any man to throw off that fear and service of God which I have now commended to thee.",
+     "anchor": "Marvel not"
+    },
+    {
+     "id": "poole/ECC.5.8#p3-f9cfd262",
+     "text": "the most high God, who is infinitely above the greatest of men, and therefore, if he saw meet, could crush them in an instant,",
+     "anchor": "He that is higher than the highest"
+    },
+    {
+     "id": "poole/ECC.5.8#p4-2da55a7e",
+     "text": "not like an idle spectator, but like a judge, who diligently observes and records all these miscarriages, and will so effectually punish them, that neither they shall have any cause of triumph in their former successes, nor good men to be grieved at the remembrance of them.",
+     "anchor": "regardeth"
+    },
+    {
+     "id": "poole/ECC.5.8#p5-a12a5354",
+     "text": "either,",
+     "anchor": "There be higher than they"
+    },
+    {
+     "id": "poole/ECC.5.8#p6-5cc30a2c",
+     "text": "1. The high and holy angels, who are employed by God in the government of kings and kingdoms, as we read in the Book of Daniel, and elsewhere, and for the defence of God’s people, Psa 34:7 91:11 Heb 1:14. Or,",
+     "refs": [
+      {
+       "text": "Psa 34:7",
+       "ref": "PSA.34.7"
+      },
+      {
+       "text": "Heb 1:14",
+       "ref": "HEB.1.14"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.8#p7-7ade3403",
+     "text": "2. God; and so it is an emphatical repetition of the same thing, which is frequent in Scripture; there is a higher than they. Or, as the words are by others fitly rendered, the Most High (for plural words are oft understood of God singularly) is above them, and therefore can control them, and will certainly call them to an account."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.9",
+   "range": "ECC.5.9",
+   "kind": "passage",
+   "hash": "cd659762",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.9#p1-e681313d",
+     "text": "the fruits procured from the earth by the skill and labour of the husbandman, is for all; are necessary and beneficial to all men whatsoever. The wise man, after some interruption, returns to his former subject, to discourse of the vanity of great riches, one argument or evidence whereof he seems to mention in this verse, to wit, that the poor labourer enjoyeth the fruits of the earth as well as the greatest monarch, and that the richest man in the world depends as much upon them as the poorest.",
+     "anchor": "The profit of the earth"
+    },
+    {
+     "id": "poole/ECC.5.9#p2-7aec0636",
+     "text": "is supported by the fruits of the field; or, as many others render it, serves or is a servant to the field, depends upon it, is obliged to see that his fields be tilled and dressed, that he may have subsistence for himself, and for his servants and subjects.",
+     "anchor": "Is served by the field"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.10",
+   "range": "ECC.5.10",
+   "kind": "passage",
+   "hash": "e986ecc4",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.10#p1-33d7ce53",
+     "text": "The greatest treasures of silver do not satisfy the covetous possessor of it; partly because his mind is insatiable, and his desires are increased by and with gains; partly because silver of itself cannot satisfy his natural desires and necessities as the fruits of the field can do, and the miserable wretch grudgeth to part with his silver, though it be to purchase things needful and convenient for him."
+    },
+    {
+     "id": "poole/ECC.5.10#p2-c5ee308f",
+     "text": "or, that loveth it (to wit, silver) in abundance; that desires and lays up great treasures.",
+     "anchor": "That loveth abundance"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.11",
+   "range": "ECC.5.11",
+   "kind": "passage",
+   "hash": "640d3caa",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.11#p1-569453a6",
+     "text": "they require and are more commonly attended with a numerous company of servants, and friends, and retinues to consume them; which is a great torment to a covetous man, of whom he here speaks.",
+     "anchor": "They are increased that eat them"
+    },
+    {
+     "id": "poole/ECC.5.11#p2-8540a2e9",
+     "text": "what benefit hath he above others, who feed upon his provisions, and enjoy the same comforts which he doth, without his fears, and cares, and troubles about them?",
+     "anchor": "What good is there to the owners thereof?"
+    },
+    {
+     "id": "poole/ECC.5.11#p3-a12a5354",
+     "text": "either,",
+     "anchor": "The beholding of them with their eyes"
+    },
+    {
+     "id": "poole/ECC.5.11#p4-a7bbbb87",
+     "text": "1. With a reflection upon his propriety.in them. Or,"
+    },
+    {
+     "id": "poole/ECC.5.11#p5-f23a08d5",
+     "text": "2. With unlimited freedom. He can go and look upon his bags or chests of silver as long and as oft as he pleaseth, whereas other men are seldom admitted to that prospect, and see only some few of the fruits or purchases of it."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.12",
+   "range": "ECC.5.12",
+   "kind": "passage",
+   "hash": "4c0eae59",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.12#p1-c2343d62",
+     "text": "because he is free from those cares and fears, wherewith the minds of rich men are oft distracted, and their sleep disturbed.",
+     "anchor": "Is sweet"
+    },
+    {
+     "id": "poole/ECC.5.12#p2-62b1a1b3",
+     "text": "then his weariness disposeth him to sleep, or much, in which case his healthful constitution and laborious course of life prevents those crudities and indigestions which ofttimes break the sleep of rich men.",
+     "anchor": "Whether he eat little"
+    },
+    {
+     "id": "poole/ECC.5.12#p3-aec7bcd3",
+     "text": "Heb. the fulness, either,",
+     "anchor": "The abundance"
+    },
+    {
+     "id": "poole/ECC.5.12#p4-d84354a2",
+     "text": "1. Of his diet, which commonly discomposeth their stomachs, and hinders their rest; or,"
+    },
+    {
+     "id": "poole/ECC.5.12#p5-2cf26d0a",
+     "text": "2. Of wealth, which is commonly attended with many perplexing cares, which disquiet men both by day and by night. The Hebrew word is used in Scripture both ways, and possibly it is thus generally expressed to include both significations."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.13",
+   "range": "ECC.5.13",
+   "kind": "passage",
+   "hash": "6aa68307",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.13#p1-6aa68307",
+     "text": "Because they frequently are the instruments and occasions both of their present and eternal destruction, as they feed their pride or luxury, or other hurtful lusts, which waste the body, and shorten the life, and damn the soul; and as they are great temptations to tyrants or thieves, yea, sometimes to relations, or servants, or others, to take away their lives, that they may get their riches."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.14",
+   "range": "ECC.5.14",
+   "kind": "passage",
+   "hash": "c7c192cb",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.14#p1-1adc9567",
+     "text": "or for, or or, or moreover; for this particle is so rendered by divers others, both here and in other places of Scripture.",
+     "anchor": "But"
+    },
+    {
+     "id": "poole/ECC.5.14#p2-ff82a5b3",
+     "text": "if they be kept, it is to the owner’s hurt; and if not, they are lost to his grief.",
+     "anchor": "Those riches perish"
+    },
+    {
+     "id": "poole/ECC.5.14#p3-14684965",
+     "text": "by some wicked practices, either his own, or of other men; or by some secret hand of God cursing all his enterprises.",
+     "anchor": "By evil travail"
+    },
+    {
+     "id": "poole/ECC.5.14#p4-a12a5354",
+     "text": "either,",
+     "anchor": "There is nothing in his hand"
+    },
+    {
+     "id": "poole/ECC.5.14#p5-ffd26856",
+     "text": "1. In the father’s power to leave to his son, for whose sake he underwent all those hard labours; which is a great aggravation of his grief and misery. Or,"
+    },
+    {
+     "id": "poole/ECC.5.14#p6-39de9e06",
+     "text": "2. In the son’s possession after his father’s death."
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.15",
+   "range": "ECC.5.15",
+   "kind": "passage",
+   "hash": "3362d4b6",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.15#p1-3362d4b6",
+     "text": "into the womb or belly of the earth, the common mother of all mankind. See Poole \"Job 1:21\", See Poole \"Ecc 12:7\". And return to go, is put for return and go; and going is here put for dying, as Job 16:22 Psa 39:13. This is another vanity: if his estate be neither lost, nor kept to his hurt, but enjoyed by him with safety and comfort all his days, yet when he dies he must leave it behind him, and cannot carry one handful of it with him into another world.",
+     "anchor": "Return to go",
+     "refs": [
+      {
+       "text": "Job 1:21",
+       "ref": "JOB.1.21"
+      },
+      {
+       "text": "Ecc 12:7",
+       "ref": "ECC.12.7"
+      },
+      {
+       "text": "Job 16:22",
+       "ref": "JOB.16.22"
+      },
+      {
+       "text": "Psa 39:13",
+       "ref": "PSA.39.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.16",
+   "range": "ECC.5.16",
+   "kind": "passage",
+   "hash": "040cf52a",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.16#p1-040cf52a",
+     "text": "which I have last mentioned and shall now repeat. For the wind; for riches, which are empty and unsatisfying, uncertain and transitory, fleeing away swiftly and strongly, Pro 23:5, which no man can hold or stay in its course, all which are the properties of the wind. Compare Pro 11:29 Hos 12:1.",
+     "anchor": "This also",
+     "refs": [
+      {
+       "text": "Pro 23:5",
+       "ref": "PRO.23.5"
+      },
+      {
+       "text": "Pro 11:29",
+       "ref": "PRO.11.29"
+      },
+      {
+       "text": "Hos 12:1",
+       "ref": "HOS.12.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.17",
+   "range": "ECC.5.17",
+   "kind": "passage",
+   "hash": "fa94f502",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.17#p1-3c2ecd82",
+     "text": "to wit, of his life,",
+     "anchor": "All his days"
+    },
+    {
+     "id": "poole/ECC.5.17#p2-78d21381",
+     "text": "he hath no comfort in his estate, but even when he eats, when other men relax their minds, and use freedom and cheerfulness, he doth it with anxiety and discontent, as grudging even at his own necessary expenses, and tormenting himself with cares about getting, and disposing, and keeping his estate.",
+     "anchor": "also he eateth in darkness"
+    },
+    {
+     "id": "poole/ECC.5.17#p3-2fb4de96",
+     "text": "when he falls sick, and presageth or feareth his death, he is filled with rage, because he is cut off before he hath accomplished his designs, and because he must leave that wealth and world in which all his hopes and happiness lie, and must go to give up a doleful account to his Judge of all his actions and acquisitions.",
+     "anchor": "He hath much sorrow and wrath with his sickness"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.18",
+   "range": "ECC.5.18",
+   "kind": "passage",
+   "hash": "ce3843b3",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.18#p1-b3398ac2",
+     "text": "i.e. learned by study and experience.",
+     "anchor": "That which I have seen"
+    },
+    {
+     "id": "poole/ECC.5.18#p2-a217ec8f",
+     "text": "good or comfortable to man’s self, and comely or amiable in the eyes of other men, as penuriousness is base and dishonourable.",
+     "anchor": "Good and comely"
+    },
+    {
+     "id": "poole/ECC.5.18#p3-ef6bbba9",
+     "text": "to wit, of worldly goods; for he hath another and a better portion in heaven. This liberty is given to him by God, and this is the best advantage, as to this life, which he can make of them.",
+     "anchor": "His portion"
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.19",
+   "range": "ECC.5.19",
+   "kind": "passage",
+   "hash": "7d7603de",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.19#p1-7d7603de",
+     "text": "Heb. hath given him the dominion; who is the lord and master of his estate, not a slave to it. Of this and the former verse, See Poole \"Ecc 2:24\"; See Poole \"Ecc 3:12\", See Poole \"Ecc 3:13\". To take his portion to his own use, to use what God hath given him.",
+     "anchor": "Hath given him power",
+     "refs": [
+      {
+       "text": "Ecc 2:24",
+       "ref": "ECC.2.24"
+      },
+      {
+       "text": "Ecc 3:12",
+       "ref": "ECC.3.12"
+      },
+      {
+       "text": "Ecc 3:13",
+       "ref": "ECC.3.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "poole/ECC.5.20",
+   "range": "ECC.5.20",
+   "kind": "passage",
+   "hash": "6cde7664",
+   "paragraphs": [
+    {
+     "id": "poole/ECC.5.20#p1-c51ae54b",
+     "text": "so as to disquiet or vex himself therewith.",
+     "anchor": "He shall not much remember"
+    },
+    {
+     "id": "poole/ECC.5.20#p2-a12a5354",
+     "text": "either,",
+     "anchor": "The days"
+    },
+    {
+     "id": "poole/ECC.5.20#p3-da8cf0df",
+     "text": "1. The troubles; days being here put for evil or sad days, by a usual synecdoche, as Job 18:20 Psa 137:7 Ob 12 Mic 7:4. Or,",
+     "refs": [
+      {
+       "text": "Job 18:20",
+       "ref": "JOB.18.20"
+      },
+      {
+       "text": "Psa 137:7",
+       "ref": "PSA.137.7"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.20#p4-746c97b3",
+     "text": "2. The time in general; which is irksome and tedious to men oppressed with discontent or misery, who usually reckon every hour or minute that passeth, and have their minds and thoughts constantly fixed upon the vanity and uncertainty of this life, upon the afflictions which they have already endured and may further expect; whereas to men of contented and cheerful minds the time is short and sweet, and passeth over them before they are aware of it, and they enjoy their present comforts without perplexing themselves about former or future events."
+    },
+    {
+     "id": "poole/ECC.5.20#p5-e42a8882",
+     "text": "answereth, either,",
+     "anchor": "Answereth him"
+    },
+    {
+     "id": "poole/ECC.5.20#p6-eee23c80",
+     "text": "1. His labours with success, as money is said to answer all things, Ecc 10:19, because it is equivalent to all, and able to purchase all things. Or,",
+     "refs": [
+      {
+       "text": "Ecc 10:19",
+       "ref": "ECC.10.19"
+      }
+     ]
+    },
+    {
+     "id": "poole/ECC.5.20#p7-24acdf02",
+     "text": "2. His desires. In the joy of his heart; in giving him that solid joy and comfort of his labours which his heart expected and desired."
+    }
+   ]
+  }
+ ]
+}
