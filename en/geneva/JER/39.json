@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 39,
+ "units": [
+  {
+   "id": "geneva/JER.39.2",
+   "range": "JER.39.2",
+   "kind": "passage",
+   "hash": "4b9a4efe",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.2#p1-4b9a4efe",
+     "text": "The gates and walls were broken down.",
+     "label": "a",
+     "anchor": "up"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.4",
+   "range": "JER.39.4",
+   "kind": "passage",
+   "hash": "de9abb24",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.4#p1-de9abb24",
+     "text": "Which was a postern door, read 2Ki 25:4.",
+     "label": "b",
+     "anchor": "gate between the two walls",
+     "refs": [
+      {
+       "text": "2Ki 25:4",
+       "ref": "2KI.25.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.5",
+   "range": "JER.39.5",
+   "kind": "passage",
+   "hash": "38ca9dea",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.5#p1-38ca9dea",
+     "text": "Which is called Antioch in Syria.",
+     "label": "c",
+     "anchor": "Riblah in the land of Hamath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.10",
+   "range": "JER.39.10",
+   "kind": "passage",
+   "hash": "04a809ba",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.10#p1-04a809ba",
+     "text": "For the rich and the mighty who put their trust in their shifts and means, were by God's just judgments most rigorously handled.",
+     "label": "d",
+     "anchor": "poor of the people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.12",
+   "range": "JER.39.12",
+   "kind": "passage",
+   "hash": "2f93150e",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.12#p1-2f93150e",
+     "text": "Thus God preserved his prophet by his means, whom he made the scourge to punish the king, and them that were his enemies.",
+     "label": "e",
+     "anchor": "even as he shall say to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.14",
+   "range": "JER.39.14",
+   "kind": "passage",
+   "hash": "5f5e974f",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.14#p1-5f5e974f",
+     "text": "Whom the king of Babel had now appointed governor over the rest of the Jews that he left behind.",
+     "label": "f",
+     "anchor": "Gedaliah the son of Ahikam the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.18",
+   "range": "JER.39.18",
+   "kind": "passage",
+   "hash": "82cf7850",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.18#p1-82cf7850",
+     "text": "Thus God recompensed his zeal and favour which he showed to his prophet in his troubles.",
+     "label": "g",
+     "anchor": "hast put thy trust in me"
+    }
+   ]
+  }
+ ]
+}

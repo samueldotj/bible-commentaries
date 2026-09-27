@@ -1,0 +1,147 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 60,
+ "units": [
+  {
+   "id": "geneva/PSA.60.1",
+   "range": "PSA.60.1",
+   "kind": "passage",
+   "hash": "4ee4606e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.1#p1-955d9615",
+     "text": "These were certain songs after the note of which this psalm was sung.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.60.1#p2-327f43bd",
+     "text": "Also called Sophene, which stands by Euphrates.",
+     "label": "b"
+    },
+    {
+     "id": "geneva/PSA.60.1#p3-c415cba6",
+     "text": "For when Saul was not able to resist the enemy, the people fled here and there: for they were not safe in their own homes.",
+     "label": "c",
+     "anchor": "scattered us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.2",
+   "range": "PSA.60.2",
+   "kind": "passage",
+   "hash": "d0c2e3bb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.2#p1-d0c2e3bb",
+     "text": "As split with an earthquake.",
+     "label": "d",
+     "anchor": "broken it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.3",
+   "range": "PSA.60.3",
+   "kind": "passage",
+   "hash": "1c38d590",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.3#p1-1c38d590",
+     "text": "You have handled your people sharply, in asking from them sense and judgment in that they aided Saul the wicked King, and punished him to whom God had given the just title of the realm.",
+     "label": "e",
+     "anchor": "shewed thy people hard things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.4",
+   "range": "PSA.60.4",
+   "kind": "passage",
+   "hash": "e3a03fd1",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.4#p1-e3a03fd1",
+     "text": "In making me king, you have performed your promise, which seemed to have lost the force.",
+     "label": "f",
+     "anchor": "a banner to them that fear"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.6",
+   "range": "PSA.60.6",
+   "kind": "passage",
+   "hash": "d8f8efb6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.6#p1-d8f8efb6",
+     "text": "It is as certain as if it were spoken by an oracle, that I will possess those places which Saul has left to his children.",
+     "label": "g",
+     "anchor": "holiness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.7",
+   "range": "PSA.60.7",
+   "kind": "passage",
+   "hash": "780e73c6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.7#p1-088e9791",
+     "text": "For it was strong and well peopled.",
+     "label": "h",
+     "anchor": "strength of mine head"
+    },
+    {
+     "id": "geneva/PSA.60.7#p2-ef4127fd",
+     "text": "David means that in this tribe his kingdom will be established, Ge 49:10.",
+     "label": "i",
+     "anchor": "Judah is my lawgiver",
+     "refs": [
+      {
+       "text": "Ge 49:10",
+       "ref": "GEN.49.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.8",
+   "range": "PSA.60.8",
+   "kind": "passage",
+   "hash": "cd90c72c",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.8#p1-bece65e0",
+     "text": "In most vile subjection.",
+     "label": "k",
+     "anchor": "washpot"
+    },
+    {
+     "id": "geneva/PSA.60.8#p2-13728862",
+     "text": "For you will lie and pretend you were glad.",
+     "label": "l",
+     "anchor": "Philistia"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.60.9",
+   "range": "PSA.60.9",
+   "kind": "passage",
+   "hash": "df605a26",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.60.9#p1-df605a26",
+     "text": "He was assured that God would give him the strong cities of his enemies, in which they thought themselves sure.",
+     "label": "m",
+     "anchor": "strong city"
+    }
+   ]
+  }
+ ]
+}

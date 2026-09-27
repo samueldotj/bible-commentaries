@@ -1,0 +1,165 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/1SA.10.1",
+   "range": "1SA.10.1",
+   "kind": "passage",
+   "hash": "45954dca",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.1#p1-45954dca",
+     "text": "In the Law this anointing signified the gifts of the Holy Spirit, which were necessary for those who would rule.",
+     "label": "a",
+     "anchor": "oil"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.2",
+   "range": "1SA.10.2",
+   "kind": "passage",
+   "hash": "738070f9",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.2#p1-738070f9",
+     "text": "Samuel confirms him by these signs, that God has appointed him king.",
+     "label": "b",
+     "anchor": "asses which thou wentest to seek"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.5",
+   "range": "1SA.10.5",
+   "kind": "passage",
+   "hash": "4621c8fd",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.5#p1-4621c8fd",
+     "text": "Which was a high place in the city Kirjath-jearim, where the ark was, 1Sa 7:2.",
+     "label": "c",
+     "anchor": "hill of God",
+     "refs": [
+      {
+       "text": "1Sa 7:2",
+       "ref": "1SA.7.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.9",
+   "range": "1SA.10.9",
+   "kind": "passage",
+   "hash": "88c1fa8c",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.9#p1-88c1fa8c",
+     "text": "He gave him such virtues as were fitting for a king.",
+     "label": "d",
+     "anchor": "heart"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.12",
+   "range": "1SA.10.12",
+   "kind": "passage",
+   "hash": "d0ef9a35",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.12#p1-47dcba02",
+     "text": "Meaning, that prophecy comes not by succession, but is given to whom it pleases God.",
+     "label": "e",
+     "anchor": "father"
+    },
+    {
+     "id": "geneva/1SA.10.12#p2-d2937f9a",
+     "text": "Noting by it him that from low degree comes suddenly to honour.",
+     "label": "f",
+     "anchor": "prophets"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.17",
+   "range": "1SA.10.17",
+   "kind": "passage",
+   "hash": "881bde89",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.17#p1-881bde89",
+     "text": "Both to declare to them their fault in asking a king, and also to show God's sentence in it.",
+     "label": "g",
+     "anchor": "called the people together unto the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.20",
+   "range": "1SA.10.20",
+   "kind": "passage",
+   "hash": "a8358b31",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.20#p1-a8358b31",
+     "text": "That is, by casting of lot.",
+     "label": "h",
+     "anchor": "taken"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.22",
+   "range": "1SA.10.22",
+   "kind": "passage",
+   "hash": "cb4431d4",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.22#p1-cb4431d4",
+     "text": "As though he were unworthy and unwilling.",
+     "label": "i",
+     "anchor": "hath hid himself among the stuff"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.25",
+   "range": "1SA.10.25",
+   "kind": "passage",
+   "hash": "ef0b9d57",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.25#p1-ef0b9d57",
+     "text": "As it is written in De 17:15.",
+     "label": "k",
+     "anchor": "the manner of the kingdom",
+     "refs": [
+      {
+       "text": "De 17:15",
+       "ref": "DEU.17.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.10.27",
+   "range": "1SA.10.27",
+   "kind": "passage",
+   "hash": "ec33753a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.10.27#p1-ec33753a",
+     "text": "Both to avoid disputing and also to win them by patience.",
+     "label": "l",
+     "anchor": "held his peace"
+    }
+   ]
+  }
+ ]
+}

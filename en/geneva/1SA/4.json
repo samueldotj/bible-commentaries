@@ -1,0 +1,159 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/1SA.4.3",
+   "range": "1SA.4.3",
+   "kind": "passage",
+   "hash": "3c284fca",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.3#p1-3c284fca",
+     "text": "For it seems that this war was undertaken by Samuel's commandment.",
+     "label": "a",
+     "anchor": "Wherefore hath the LORD smitten us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.4",
+   "range": "1SA.4.4",
+   "kind": "passage",
+   "hash": "7e3b8886",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.4#p1-7e3b8886",
+     "text": "For he used to appear to the Israelites between the cherubim over the ark of the covenant, Ex 25:17.",
+     "label": "b",
+     "anchor": "dwelleth between the cherubims",
+     "refs": [
+      {
+       "text": "Ex 25:17",
+       "ref": "EXO.25.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.7",
+   "range": "1SA.4.7",
+   "kind": "passage",
+   "hash": "664c2d85",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.7#p1-664c2d85",
+     "text": "Before we fought against men, and now God has come to fight against us.",
+     "label": "c",
+     "anchor": "Woe unto us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.8",
+   "range": "1SA.4.8",
+   "kind": "passage",
+   "hash": "bba0b618",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.8#p1-bba0b618",
+     "text": "For in the Red Sea in the wilderness the Egyptians were destroyed, which was the last of all his plagues.",
+     "label": "d",
+     "anchor": "wilderness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.10",
+   "range": "1SA.4.10",
+   "kind": "passage",
+   "hash": "5b0c4ed2",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.10#p1-5b0c4ed2",
+     "text": "David alluding to this place in Ps 78:63 says they were consumed with fire: meaning they were suddenly destroyed.",
+     "label": "e",
+     "anchor": "thirty thousand footmen",
+     "refs": [
+      {
+       "text": "Ps 78:63",
+       "ref": "PSA.78.63"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.12",
+   "range": "1SA.4.12",
+   "kind": "passage",
+   "hash": "58f1bb28",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.12#p1-58f1bb28",
+     "text": "In token of sorrow and mourning.",
+     "label": "f",
+     "anchor": "rent"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.13",
+   "range": "1SA.4.13",
+   "kind": "passage",
+   "hash": "874a6977",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.13#p1-874a6977",
+     "text": "Lest it should be taken by the enemy.",
+     "label": "g",
+     "anchor": "trembled for the ark of God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.17",
+   "range": "1SA.4.17",
+   "kind": "passage",
+   "hash": "c418a9f4",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.17#p1-c418a9f4",
+     "text": "According as God had said before.",
+     "label": "b",
+     "anchor": "are dead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.19",
+   "range": "1SA.4.19",
+   "kind": "passage",
+   "hash": "37eb98be",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.19#p1-37eb98be",
+     "text": "And positioned her body for her labour and delivery.",
+     "label": "i",
+     "anchor": "bowed herself and travailed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.4.22",
+   "range": "1SA.4.22",
+   "kind": "passage",
+   "hash": "d0ebe79d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.4.22#p1-d0ebe79d",
+     "text": "She uttered her great sorrow by repeating her words.",
+     "label": "k",
+     "anchor": "The glory is departed from Israel"
+    }
+   ]
+  }
+ ]
+}

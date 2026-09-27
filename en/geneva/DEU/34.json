@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 34,
+ "units": [
+  {
+   "id": "geneva/DEU.34.1",
+   "range": "DEU.34.1",
+   "kind": "passage",
+   "hash": "a84726bc",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.1#p1-a84726bc",
+     "text": "Which was a part of mount Abarim, Nu 27:12.",
+     "label": "a",
+     "anchor": "Nebo",
+     "refs": [
+      {
+       "text": "Nu 27:12",
+       "ref": "NUM.27.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.2",
+   "range": "DEU.34.2",
+   "kind": "passage",
+   "hash": "4bc36013",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.2#p1-4bc36013",
+     "text": "Called Mediterranean.",
+     "label": "b",
+     "anchor": "sea"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.6",
+   "range": "DEU.34.6",
+   "kind": "passage",
+   "hash": "1e1b97fb",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.6#p1-5c7bb228",
+     "text": "That is, the angel of the Lord, Jude 1:9.",
+     "label": "c",
+     "anchor": "he buried him in a valley",
+     "refs": [
+      {
+       "text": "Jude 1:9",
+       "ref": "JUD.1.9"
+      }
+     ]
+    },
+    {
+     "id": "geneva/DEU.34.6#p2-123a1c9a",
+     "text": "That the Jews might not have opportunity to commit idolatry by it.",
+     "label": "d",
+     "anchor": "this day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.9",
+   "range": "DEU.34.9",
+   "kind": "passage",
+   "hash": "826b8dda",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.9#p1-826b8dda",
+     "text": "By this the favour of God is demonstrated, in that he does not leave his Church destitute of a governor.",
+     "label": "e",
+     "anchor": "Joshua the son of Nun was"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.10",
+   "range": "DEU.34.10",
+   "kind": "passage",
+   "hash": "7452f076",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.10#p1-7452f076",
+     "text": "To whom the Lord revealed himself so plainly as in Ex 33:11.",
+     "label": "f",
+     "anchor": "face to face",
+     "refs": [
+      {
+       "text": "Ex 33:11",
+       "ref": "EXO.33.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.12",
+   "range": "DEU.34.12",
+   "kind": "passage",
+   "hash": "5c8660bd",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.12#p1-5c8660bd",
+     "text": "Meaning, the power of God working by Moses in the wilderness.",
+     "label": "g",
+     "anchor": "hand"
+    }
+   ]
+  }
+ ]
+}

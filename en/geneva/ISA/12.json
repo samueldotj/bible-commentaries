@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "geneva/ISA.12.1",
+   "range": "ISA.12.1",
+   "kind": "passage",
+   "hash": "08baa5b0",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.1#p1-08baa5b0",
+     "text": "He shows how the Church will praise God, when they are delivered from their captivity.",
+     "label": "a",
+     "anchor": "shalt say"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.2",
+   "range": "ISA.12.2",
+   "kind": "passage",
+   "hash": "a8f7eaec",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.2#p1-a8f7eaec",
+     "text": "Our salvation stands only in God, who gives us an assured confidence, constancy and opportunity to praise him for the same.",
+     "label": "b",
+     "anchor": "salvation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.3",
+   "range": "ISA.12.3",
+   "kind": "passage",
+   "hash": "66d8a732",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.3#p1-66d8a732",
+     "text": "The graces of God will be so abundant that you may receive them in as great plenty as waters out of a fountain that is full.",
+     "label": "c",
+     "anchor": "draw water out of the wells"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.6",
+   "range": "ISA.12.6",
+   "kind": "passage",
+   "hash": "432dc8dd",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.6#p1-432dc8dd",
+     "text": "You who are of the Church.",
+     "label": "d",
+     "anchor": "thou inhabitant of Zion"
+    }
+   ]
+  }
+ ]
+}

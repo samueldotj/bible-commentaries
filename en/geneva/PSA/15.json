@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/PSA.15.2",
+   "range": "PSA.15.2",
+   "kind": "passage",
+   "hash": "5ea34db1",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.2#p1-5ea34db1",
+     "text": "He shows that we cannot call on God unless we trust in him.",
+     "label": "a",
+     "anchor": "walketh uprightly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.15.4",
+   "range": "PSA.15.4",
+   "kind": "passage",
+   "hash": "5e69316a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.4#p1-5e69316a",
+     "text": "He who flatters not the ungodly in their wickedness.",
+     "label": "b",
+     "anchor": "In whose eyes a vile person"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.15.5",
+   "range": "PSA.15.5",
+   "kind": "passage",
+   "hash": "f24a5019",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.5#p1-abc2b845",
+     "text": "To the hinderance of his neighbour.",
+     "label": "c",
+     "anchor": "putteth not out his money to"
+    },
+    {
+     "id": "geneva/PSA.15.5#p2-663ea20a",
+     "text": "That is, will not be cast from the Church as a hypocrite.",
+     "label": "d",
+     "anchor": "shall never be moved"
+    }
+   ]
+  }
+ ]
+}

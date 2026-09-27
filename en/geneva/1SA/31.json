@@ -1,0 +1,89 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 31,
+ "units": [
+  {
+   "id": "geneva/1SA.31.4",
+   "range": "1SA.31.4",
+   "kind": "passage",
+   "hash": "94fb5458",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.4#p1-94fb5458",
+     "text": "So we see that his cruel life has a desperate end, as is commonly seen in those who persecute the children of God.",
+     "label": "a",
+     "anchor": "Draw thy sword"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.7",
+   "range": "1SA.31.7",
+   "kind": "passage",
+   "hash": "dded2036",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.7#p1-733d1f22",
+     "text": "Near to Gilboa.",
+     "label": "b",
+     "anchor": "valley"
+    },
+    {
+     "id": "geneva/1SA.31.7#p2-bb0a7cd3",
+     "text": "The tribes of Reuben and Gad, and half the tribe of Manasseh.",
+     "label": "c",
+     "anchor": "Jordan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.9",
+   "range": "1SA.31.9",
+   "kind": "passage",
+   "hash": "11392999",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.9#p1-11392999",
+     "text": "In token of victory and triumph.",
+     "label": "d",
+     "anchor": "publish it in the house of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.11",
+   "range": "1SA.31.11",
+   "kind": "passage",
+   "hash": "18039533",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.11#p1-18039533",
+     "text": "Whom he had delivered from their enemies, 1Sa 11:11.",
+     "label": "e",
+     "anchor": "Jabeshgilead heard of that which the",
+     "refs": [
+      {
+       "text": "1Sa 11:11",
+       "ref": "1SA.11.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.13",
+   "range": "1SA.31.13",
+   "kind": "passage",
+   "hash": "2e9c86f3",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.13#p1-2e9c86f3",
+     "text": "According to the custom of mourners.",
+     "label": "f",
+     "anchor": "fasted seven days"
+    }
+   ]
+  }
+ ]
+}

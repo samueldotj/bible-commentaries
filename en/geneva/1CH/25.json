@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/1CH.25.1",
+   "range": "1CH.25.1",
+   "kind": "passage",
+   "hash": "94f6cee0",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.1#p1-94f6cee0",
+     "text": "The singers were divided into 24 courses, so that every course or order contained twelve, and in all there were 288, as in 1Ch 25:7.",
+     "label": "a",
+     "anchor": "separated to the service of the",
+     "refs": [
+      {
+       "text": "1Ch 25:7",
+       "ref": "1CH.25.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.25.3",
+   "range": "1CH.25.3",
+   "kind": "passage",
+   "hash": "c746d26a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.3#p1-8d5020d8",
+     "text": "Of which one is not here numbered.",
+     "label": "b",
+     "anchor": "six"
+    },
+    {
+     "id": "geneva/1CH.25.3#p2-a8d1470b",
+     "text": "Meaning, psalms and songs to praise God.",
+     "label": "c",
+     "anchor": "prophesied with a harp"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.25.8",
+   "range": "1CH.25.8",
+   "kind": "passage",
+   "hash": "64deb587",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.8#p1-bcd3e8a0",
+     "text": "Who should be in every company and course.",
+     "label": "d",
+     "anchor": "ward against ward"
+    },
+    {
+     "id": "geneva/1CH.25.8#p2-19be12ef",
+     "text": "Without respect to age or cunning.",
+     "label": "e",
+     "anchor": "small as the great"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.25.9",
+   "range": "1CH.25.9",
+   "kind": "passage",
+   "hash": "dd0f733c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.9#p1-dd0f733c",
+     "text": "So that he served in the first turn and the rest every one as his turn followed in order.",
+     "label": "f",
+     "anchor": "Joseph"
+    }
+   ]
+  }
+ ]
+}

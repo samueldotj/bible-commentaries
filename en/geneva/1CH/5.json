@@ -1,0 +1,179 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/1CH.5.1",
+   "range": "1CH.5.1",
+   "kind": "passage",
+   "hash": "d24d3dd1",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.1#p1-d24d3dd1",
+     "text": "Because they were made two tribes, they had a double portion.",
+     "label": "a",
+     "anchor": "sons of Joseph the son of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.2",
+   "range": "1CH.5.2",
+   "kind": "passage",
+   "hash": "c9b5f150",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.2#p1-c9b5f150",
+     "text": "That is, he was the chiefest of all the tribes according to Jacob's prophecy, Ge 49:8, and because Christ would come from him.",
+     "label": "b",
+     "anchor": "the chief ruler",
+     "refs": [
+      {
+       "text": "Ge 49:8",
+       "ref": "GEN.49.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.6",
+   "range": "1CH.5.6",
+   "kind": "passage",
+   "hash": "7770d655",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.6#p1-7770d655",
+     "text": "That is, in the time of Uzziah king of Israel, 2Ki 15:23.",
+     "label": "c",
+     "anchor": "carried away captive",
+     "refs": [
+      {
+       "text": "2Ki 15:23",
+       "ref": "2KI.15.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.8",
+   "range": "1CH.5.8",
+   "kind": "passage",
+   "hash": "8067ae8b",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.8#p1-8067ae8b",
+     "text": "These places were beyond Jordan toward the east in the land given to the Reubenites.",
+     "label": "d",
+     "anchor": "Aroer"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.10",
+   "range": "1CH.5.10",
+   "kind": "passage",
+   "hash": "ed4b7401",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.10#p1-ed4b7401",
+     "text": "The Ishmaelites who came from Hagar Abraham's concubine.",
+     "label": "e",
+     "anchor": "Hagarites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.16",
+   "range": "1CH.5.16",
+   "kind": "passage",
+   "hash": "5f6e53ba",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.16#p1-5f6e53ba",
+     "text": "Both the whole country and one particular city were called Bashan.",
+     "label": "f",
+     "anchor": "Bashan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.19",
+   "range": "1CH.5.19",
+   "kind": "passage",
+   "hash": "3dc67d8f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.19#p1-3dc67d8f",
+     "text": "These twelve were the sons of Ishmael, Ge 25:15.",
+     "label": "g",
+     "anchor": "Jetur",
+     "refs": [
+      {
+       "text": "Ge 25:15",
+       "ref": "GEN.25.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.20",
+   "range": "1CH.5.20",
+   "kind": "passage",
+   "hash": "e8e9711d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.20#p1-e8e9711d",
+     "text": "That is, by the Lord who gave them the victory.",
+     "label": "h",
+     "anchor": "helped against them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.22",
+   "range": "1CH.5.22",
+   "kind": "passage",
+   "hash": "6b701b64",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.22#p1-6b701b64",
+     "text": "Meaning, the captivity of the ten tribes under Tiglath Pileser.",
+     "label": "i",
+     "anchor": "captivity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.23",
+   "range": "1CH.5.23",
+   "kind": "passage",
+   "hash": "e87c6e3d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.23#p1-e87c6e3d",
+     "text": "Otherwise called Baal-gad.",
+     "label": "k",
+     "anchor": "Baalhermon and Senir"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.26",
+   "range": "1CH.5.26",
+   "kind": "passage",
+   "hash": "05a007e6",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.26#p1-05a007e6",
+     "text": "Thus God stirred up the wicked and used them as instruments to execute his just judgment against sinners, although they were led by malice and ambition.",
+     "label": "l",
+     "anchor": "stirred up the spirit of Pul"
+    }
+   ]
+  }
+ ]
+}

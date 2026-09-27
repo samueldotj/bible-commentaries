@@ -1,0 +1,141 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "geneva/1CH.18.1",
+   "range": "1CH.18.1",
+   "kind": "passage",
+   "hash": "38a46f20",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.1#p1-38a46f20",
+     "text": "Which 2Sa 8:1 calls the bridle of bondage, because it was a strong town and kept the country around it in subjection.",
+     "label": "a",
+     "anchor": "Gath and her towns out of",
+     "refs": [
+      {
+       "text": "2Sa 8:1",
+       "ref": "2SA.8.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.6",
+   "range": "1CH.18.6",
+   "kind": "passage",
+   "hash": "3e21abd6",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.6#p1-3e21abd6",
+     "text": "That is in all things that he attempted.",
+     "label": "b",
+     "anchor": "preserved David whithersoever he went"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.8",
+   "range": "1CH.18.8",
+   "kind": "passage",
+   "hash": "37f900bb",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.8#p1-37f900bb",
+     "text": "Which in 2Sa 8:8 is called Betah and Berothai.",
+     "label": "c",
+     "anchor": "Tibhath",
+     "refs": [
+      {
+       "text": "2Sa 8:8",
+       "ref": "2SA.8.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.10",
+   "range": "1CH.18.10",
+   "kind": "passage",
+   "hash": "d8b470e9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.10#p1-d8b470e9",
+     "text": "Called also Joram 2Sa 8:10.",
+     "label": "d",
+     "anchor": "Hadoram his son to king David",
+     "refs": [
+      {
+       "text": "2Sa 8:10",
+       "ref": "2SA.8.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.11",
+   "range": "1CH.18.11",
+   "kind": "passage",
+   "hash": "be77e7a3",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.11#p1-be77e7a3",
+     "text": "Because the Edomites and the Syrians joined their power together, it is said, 2Sa 8:12 that the Amramites were spoiled.",
+     "label": "e",
+     "anchor": "Edom",
+     "refs": [
+      {
+       "text": "2Sa 8:12",
+       "ref": "2SA.8.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.12",
+   "range": "1CH.18.12",
+   "kind": "passage",
+   "hash": "0067dc8a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.12#p1-0067dc8a",
+     "text": "Which is understood that Joab slew 12,000 as is in Ps 60:1 and Abishai the rest.",
+     "label": "f",
+     "anchor": "eighteen thousand",
+     "refs": [
+      {
+       "text": "Ps 60:1",
+       "ref": "PSA.60.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.17",
+   "range": "1CH.18.17",
+   "kind": "passage",
+   "hash": "e3bb7529",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.17#p1-e3bb7529",
+     "text": "Read 2Sa 8:18.",
+     "label": "g",
+     "anchor": "Cherethites and the Pelethites",
+     "refs": [
+      {
+       "text": "2Sa 8:18",
+       "ref": "2SA.8.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

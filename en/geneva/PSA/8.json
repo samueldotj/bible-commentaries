@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/PSA.8.2",
+   "range": "PSA.8.2",
+   "kind": "passage",
+   "hash": "2460149e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.2#p1-2460149e",
+     "text": "Though the wicked would hide God's praises, yet the very babes are sufficient witnesses of the same.",
+     "label": "a",
+     "anchor": "of babes and sucklings hast thou"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.4",
+   "range": "PSA.8.4",
+   "kind": "passage",
+   "hash": "de3beff8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.4#p1-de3beff8",
+     "text": "It was sufficient for him to have set forth his glory by the heavens, though he had not come so low as to man who is but dust.",
+     "label": "b",
+     "anchor": "man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.5",
+   "range": "PSA.8.5",
+   "kind": "passage",
+   "hash": "81cf2a46",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.5#p1-81cf2a46",
+     "text": "Concerning his first creation.",
+     "label": "c",
+     "anchor": "angels"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.7",
+   "range": "PSA.8.7",
+   "kind": "passage",
+   "hash": "fcacf974",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.7#p1-fcacf974",
+     "text": "By the temporal gifts of man's creation, he is led to consider the benefits which he has by his regeneration through Christ.",
+     "label": "d",
+     "anchor": "sheep and oxen"
+    }
+   ]
+  }
+ ]
+}

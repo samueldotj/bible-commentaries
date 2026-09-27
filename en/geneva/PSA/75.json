@@ -1,0 +1,102 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 75,
+ "units": [
+  {
+   "id": "geneva/PSA.75.1",
+   "range": "PSA.75.1",
+   "kind": "passage",
+   "hash": "9b133058",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.1#p1-f2613de5",
+     "text": "Read Ps 57:1.",
+     "label": "a",
+     "refs": [
+      {
+       "text": "Ps 57:1",
+       "ref": "PSA.57.1"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.75.1#p2-ee7261f9",
+     "text": "He declares how the faithful will always have opportunity to praise God, as in their need they will feel his power at hand to help them.",
+     "label": "b",
+     "anchor": "thy wondrous works declare"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.75.2",
+   "range": "PSA.75.2",
+   "kind": "passage",
+   "hash": "64581b18",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.2#p1-64581b18",
+     "text": "When I see my time (says God) to help your miseries, I will come and set all things in good order.",
+     "label": "c",
+     "anchor": "When I shall receive the congregation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.75.3",
+   "range": "PSA.75.3",
+   "kind": "passage",
+   "hash": "99e76376",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.3#p1-99e76376",
+     "text": "Though all things are brought to ruin, yet I can restore and preserve them.",
+     "label": "d",
+     "anchor": "of it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.75.5",
+   "range": "PSA.75.5",
+   "kind": "passage",
+   "hash": "f3e41fd2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.5#p1-f3e41fd2",
+     "text": "The prophet warns the wicked that they would not set themselves against God's people, seeing that God at his time destroys them who rule wickedly.",
+     "label": "e",
+     "anchor": "horn on high"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.75.8",
+   "range": "PSA.75.8",
+   "kind": "passage",
+   "hash": "ac016861",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.8#p1-ac016861",
+     "text": "God's wrath is compared to a cup of strong and delicate wine, with which the wicked are made so drunk that by drinking till they come to the very dregs they are utterly destroyed.",
+     "label": "f",
+     "anchor": "cup"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.75.10",
+   "range": "PSA.75.10",
+   "kind": "passage",
+   "hash": "97122486",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.75.10#p1-97122486",
+     "text": "The godly will better prosper by their innocent simplicity, than the wicked will by all their craft and subtilty.",
+     "label": "g",
+     "anchor": "righteous shall be exalted"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "geneva/PSA.23.1",
+   "range": "PSA.23.1",
+   "kind": "passage",
+   "hash": "dc612187",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.1#p1-dc612187",
+     "text": "He has care over me and ministers all things to me.",
+     "label": "a",
+     "anchor": "I shall not want"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.3",
+   "range": "PSA.23.3",
+   "kind": "passage",
+   "hash": "a4528d63",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.3#p1-be45d1a5",
+     "text": "He comforts or refreshes me.",
+     "label": "b",
+     "anchor": "restoreth my soul"
+    },
+    {
+     "id": "geneva/PSA.23.3#p2-673b629a",
+     "text": "Plain or straight ways.",
+     "label": "c",
+     "anchor": "paths of righteousness for his name's"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.4",
+   "range": "PSA.23.4",
+   "kind": "passage",
+   "hash": "c0e95700",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.4#p1-c0e95700",
+     "text": "Though he was in danger of death, as the sheep that wanders in the dark valley without his shepherd.",
+     "label": "d",
+     "anchor": "shadow of death"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.5",
+   "range": "PSA.23.5",
+   "kind": "passage",
+   "hash": "dac46ea0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.5#p1-6e95e3c2",
+     "text": "Even though his enemies sought to destroy him, yet God delivers him, and deals most liberally with him in spite of them.",
+     "label": "e",
+     "anchor": "table before me in the presence"
+    },
+    {
+     "id": "geneva/PSA.23.5#p2-91aca612",
+     "text": "As was the manner of great feasts.",
+     "label": "f",
+     "anchor": "anointest my head with oil"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.6",
+   "range": "PSA.23.6",
+   "kind": "passage",
+   "hash": "5552ba63",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.6#p1-5552ba63",
+     "text": "He does not set his happiness in the pleasures of this world, but in the fear and service of God.",
+     "label": "g",
+     "anchor": "house of the LORD for ever"
+    }
+   ]
+  }
+ ]
+}

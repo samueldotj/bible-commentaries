@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/1CH.19.2",
+   "range": "1CH.19.2",
+   "kind": "passage",
+   "hash": "a5adac24",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.2#p1-a5adac24",
+     "text": "Because Nahash received David and his company, when Saul persecuted him he would now show pleasure to his son for the same.",
+     "label": "a",
+     "anchor": "father shewed kindness to me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.3",
+   "range": "1CH.19.3",
+   "kind": "passage",
+   "hash": "fbb64b94",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.3#p1-fbb64b94",
+     "text": "Thus the malicious always interpret the purpose of the godly in the worst sense.",
+     "label": "b",
+     "anchor": "spy out the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.4",
+   "range": "1CH.19.4",
+   "kind": "passage",
+   "hash": "a0c5f728",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.4#p1-f8b6000d",
+     "text": "They shaved off half of their beards, 2Sa 10:4.",
+     "label": "c",
+     "anchor": "shaved them",
+     "refs": [
+      {
+       "text": "2Sa 10:4",
+       "ref": "2SA.10.4"
+      }
+     ]
+    },
+    {
+     "id": "geneva/1CH.19.4#p2-bb970870",
+     "text": "To put them to shame and villany, while the ambassadors should have been honoured: and because the Jews used to wear side garments and beards, they thus disfigured them, to make them odious to others.",
+     "label": "d",
+     "anchor": "garments in the midst hard by"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.6",
+   "range": "1CH.19.6",
+   "kind": "passage",
+   "hash": "266c5743",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.6#p1-266c5743",
+     "text": "Which were five in all.",
+     "label": "e",
+     "anchor": "Zobah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.7",
+   "range": "1CH.19.7",
+   "kind": "passage",
+   "hash": "41e5837a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.7#p1-41e5837a",
+     "text": "Which was a city of the tribe of Reuben beyond Jordan.",
+     "label": "f",
+     "anchor": "Medeba"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.13",
+   "range": "1CH.19.13",
+   "kind": "passage",
+   "hash": "214f4562",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.13#p1-214f4562",
+     "text": "He declares that where the cause is evil, the courage cannot be valiant, and that in good causes men should be courageous, and commit the success to God.",
+     "label": "g",
+     "anchor": "people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.16",
+   "range": "1CH.19.16",
+   "kind": "passage",
+   "hash": "a2ae5356",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.16#p1-a2ae5356",
+     "text": "That is, Euphrates.",
+     "label": "h",
+     "anchor": "river"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.19.18",
+   "range": "1CH.19.18",
+   "kind": "passage",
+   "hash": "def2f86b",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.19.18#p1-def2f86b",
+     "text": "For this place, read 2Sa 10:18.",
+     "label": "i",
+     "anchor": "seven thousand men which fought in",
+     "refs": [
+      {
+       "text": "2Sa 10:18",
+       "ref": "2SA.10.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

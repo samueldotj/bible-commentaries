@@ -1,0 +1,481 @@
+{
+ "source": "geneva",
+ "book": "LUK",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "geneva/LUK.22.1",
+   "range": "LUK.22.1",
+   "kind": "passage",
+   "hash": "096c0c0a",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.1#p1-096c0c0a",
+     "text": "Christ is taken upon the day of the Passover rather by the providence of his Father, than by the will of men.",
+     "label": "1",
+     "anchor": "feast of unleavened bread drew nigh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.3",
+   "range": "LUK.22.3",
+   "kind": "passage",
+   "hash": "f2c407eb",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.3#p1-f2c407eb",
+     "text": "God by his wonderful providence causes him to be the minister of our salvation who was the author of our destruction.",
+     "label": "2",
+     "anchor": "Then entered Satan into Judas surnamed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.4",
+   "range": "LUK.22.4",
+   "kind": "passage",
+   "hash": "3f80cb69",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.4#p1-3f80cb69",
+     "text": "Those that had the charge of keeping the temple, who were not from among the priests and bishops, as is shown below in Lu 22:52.",
+     "label": "a",
+     "anchor": "captains",
+     "refs": [
+      {
+       "text": "Lu 22:52",
+       "ref": "LUK.22.52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.6",
+   "range": "LUK.22.6",
+   "kind": "passage",
+   "hash": "9484bba5",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.6#p1-9484bba5",
+     "text": "Without tumult, doing it without the knowledge of the people who used to follow him: and therefore they indeed waited patiently until they knew he was alone in the garden.",
+     "label": "b",
+     "anchor": "absence of the multitude"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.7",
+   "range": "LUK.22.7",
+   "kind": "passage",
+   "hash": "1a48d816",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.7#p1-7130e5b5",
+     "text": "Christ teaches his disciples by an obvious miracle that although he is going to be crucified, yet nothing is hidden from him, and therefore that he is going willingly to death.",
+     "label": "3",
+     "anchor": "Then came the day of unleavened"
+    },
+    {
+     "id": "geneva/LUK.22.7#p2-a2f7cad1",
+     "text": "By the order appointed by the law.",
+     "label": "c",
+     "anchor": "must be killed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.8",
+   "range": "LUK.22.8",
+   "kind": "passage",
+   "hash": "7cd721b0",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.8#p1-7cd721b0",
+     "text": "The lamb which was the symbol of the passover: And this is said using the figure of speech metonymy, which is often used when talking about the sacraments.",
+     "label": "d",
+     "anchor": "passover"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.14",
+   "range": "LUK.22.14",
+   "kind": "passage",
+   "hash": "1afbe206",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.14#p1-2757a740",
+     "text": "Christ, having ended the passover according to the order of the law, forewarns them that this will be his last banquet with them in terms of this earthly life.",
+     "label": "4",
+     "anchor": "And when the"
+    },
+    {
+     "id": "geneva/LUK.22.14#p2-68d25584",
+     "text": "The evening and twilight, at which time this supper was to be kept.",
+     "label": "e",
+     "anchor": "hour was come"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.15",
+   "range": "LUK.22.15",
+   "kind": "passage",
+   "hash": "50fe3046",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.15#p1-50fe3046",
+     "text": "I am put to death.",
+     "label": "f",
+     "anchor": "suffer"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.19",
+   "range": "LUK.22.19",
+   "kind": "passage",
+   "hash": "51c5508c",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.19#p1-51c5508c",
+     "text": "Christ establishes his new covenant and his communication with us by new symbols.",
+     "label": "5",
+     "anchor": "And he took bread"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.20",
+   "range": "LUK.22.20",
+   "kind": "passage",
+   "hash": "b435541d",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.20#p1-3b49bcff",
+     "text": "Here is a double use of metonymy: for first, the vessel is taken for that which is contained in the vessel, as the cup is spoken of for the wine which is within the cup. Second, the wine is called the covenant or testament, whereas in reality it is but the sign of the testament, or rather of the blood of Christ by which the testament was made: neither is it a vain sign, although it is not the same as the thing that it represents.",
+     "label": "g",
+     "anchor": "cup is"
+    },
+    {
+     "id": "geneva/LUK.22.20#p2-ca3b4685",
+     "text": "This word \"the\" shows the excellency of the testament, and corresponds to Jer 31:31 where the new testament is promised.",
+     "label": "h",
+     "anchor": "the new testament in my blood",
+     "refs": [
+      {
+       "text": "Jer 31:31",
+       "ref": "JER.31.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.21",
+   "range": "LUK.22.21",
+   "kind": "passage",
+   "hash": "53a43119",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.21#p1-88949cc8",
+     "text": "Christ shows again that he goes willingly to die, although he is not ignorant of Judas' treason.",
+     "label": "6",
+     "anchor": "But"
+    },
+    {
+     "id": "geneva/LUK.22.21#p2-9279a725",
+     "text": "That is, his practice; the Hebrews used to speak in this way, as in 2Sa 14:19: \"Is not the hand of Joab with thee in all this?\"",
+     "label": "i",
+     "anchor": "hand of him that betrayeth me",
+     "refs": [
+      {
+       "text": "2Sa 14:19",
+       "ref": "2SA.14.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.22",
+   "range": "LUK.22.22",
+   "kind": "passage",
+   "hash": "efce66f6",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.22#p1-efce66f6",
+     "text": "Although the decree of God's providence necessarily comes to pass, yet it does not excuse the fault of those who bring it to pass.",
+     "label": "7",
+     "anchor": "And truly the Son of man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.24",
+   "range": "LUK.22.24",
+   "kind": "passage",
+   "hash": "12d87da3",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.24#p1-12d87da3",
+     "text": "The pastors are not called to rule but to serve.",
+     "label": "8",
+     "anchor": "And there was also a strife"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.25",
+   "range": "LUK.22.25",
+   "kind": "passage",
+   "hash": "89229df8",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.25#p1-89229df8",
+     "text": "Have great titles, for so it was the custom to honour princes with some great titles.",
+     "label": "k",
+     "anchor": "benefactors"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.28",
+   "range": "LUK.22.28",
+   "kind": "passage",
+   "hash": "c51b1c57",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.28#p1-c51b1c57",
+     "text": "Those who are partakers of the affliction of Christ will also be partakers of his kingdom.",
+     "label": "9",
+     "anchor": "Ye are they which have continued"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.31",
+   "range": "LUK.22.31",
+   "kind": "passage",
+   "hash": "7fd48444",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.31#p1-a99432ea",
+     "text": "We must always think about the ambush that Satan lays for us.",
+     "label": "10",
+     "anchor": "And the Lord said"
+    },
+    {
+     "id": "geneva/LUK.22.31#p2-65dbacb8",
+     "text": "To toss you and scatter you, and also to cast you out.",
+     "label": "l",
+     "anchor": "sift you as wheat"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.32",
+   "range": "LUK.22.32",
+   "kind": "passage",
+   "hash": "aa56c71f",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.32#p1-aa56c71f",
+     "text": "It is through the prayers of Christ that the elect never utterly fall away from the faith: and because of this they should encourage one another on.",
+     "label": "11",
+     "anchor": "But I have prayed for thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.33",
+   "range": "LUK.22.33",
+   "kind": "passage",
+   "hash": "a785655e",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.33#p1-a785655e",
+     "text": "In setting before us the grievous example of Peter, Christ shows that faith differs much from a vain security.",
+     "label": "12",
+     "anchor": "And he said unto him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.36",
+   "range": "LUK.22.36",
+   "kind": "passage",
+   "hash": "f6632554",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.36#p1-f6632554",
+     "text": "He says all this using an allegory, as if he said, \"O my friends and fellow soldiers, you have lived until now in relative peace: but now there is at hand a most severe battle to be fought, and you must therefore lay all other things aside and think about dressing yourselves in armour.\" And what this armour is, is shown by his own example, when he prayed afterward in the garden and reproved Peter for striking with the sword.",
+     "label": "m",
+     "anchor": "Then said he unto them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.40",
+   "range": "LUK.22.40",
+   "kind": "passage",
+   "hash": "56e8323b",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.40#p1-56e8323b",
+     "text": "Christ has made death acceptable unto us by overcoming for our sake all the horrors of death, which had the curse of God accompanying them.",
+     "label": "13",
+     "anchor": "And when he was at the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.41",
+   "range": "LUK.22.41",
+   "kind": "passage",
+   "hash": "0451bdc5",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.41#p1-0451bdc5",
+     "text": "Prayers are a sure help against the most perilous assaults of our enemies.",
+     "label": "14",
+     "anchor": "And he was withdrawn from them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.44",
+   "range": "LUK.22.44",
+   "kind": "passage",
+   "hash": "2d9153c9",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.44#p1-08f5c110",
+     "text": "This agony shows that Christ struggled hard and was in great distress: for Christ struggled hard not only with the fears of death as other men do (for in this regard many martyrs might seem more constant then Christ), but also with the fearful judgment of his angry Father, which is the most fearful thing in the world: and this was because he took the burden of all our sins upon himself.",
+     "label": "n",
+     "anchor": "agony he prayed more earnestly"
+    },
+    {
+     "id": "geneva/LUK.22.44#p2-389a60ce",
+     "text": "These do not only show that Christ was true man, but also other things which the godly have to consider of, in which the secret of the redemption of all mankind is contained in the Son of God when he debased himself to the state of a servant: such things as these no man can sufficiently declare.",
+     "label": "o",
+     "anchor": "drops of blood falling down to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.45",
+   "range": "LUK.22.45",
+   "kind": "passage",
+   "hash": "19624973",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.45#p1-19624973",
+     "text": "Men are utterly sluggish, even in their greatest dangers.",
+     "label": "15",
+     "anchor": "And when he rose up from"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.47",
+   "range": "LUK.22.47",
+   "kind": "passage",
+   "hash": "032cd611",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.47#p1-032cd611",
+     "text": "Christ is willingly betrayed and taken so that by his obedience he might deliver us who were guilty of betraying God's glory.",
+     "label": "16",
+     "anchor": "And while he yet spake"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.49",
+   "range": "LUK.22.49",
+   "kind": "passage",
+   "hash": "550fdc86",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.49#p1-550fdc86",
+     "text": "That zeal which carries us out of the bounds of our God-given position does not please Christ.",
+     "label": "17",
+     "anchor": "When they which were about him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.52",
+   "range": "LUK.22.52",
+   "kind": "passage",
+   "hash": "640e80cb",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.52#p1-640e80cb",
+     "text": "Even the very fear of those who took Christ partly proves their evil conscience, and partly also that all these things were done by God's providence.",
+     "label": "18",
+     "anchor": "Then Jesus said unto the chief"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.53",
+   "range": "LUK.22.53",
+   "kind": "passage",
+   "hash": "0cda11e6",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.53#p1-0cda11e6",
+     "text": "The power that was given to darkness to oppress the light for a time.",
+     "label": "p",
+     "anchor": "power of darkness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.54",
+   "range": "LUK.22.54",
+   "kind": "passage",
+   "hash": "196ba086",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.54#p1-196ba086",
+     "text": "We have to behold in Peter an example both of the fragility of man's nature, and the singular goodness of God towards his elect.",
+     "label": "19",
+     "anchor": "And Peter followed afar off"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.63",
+   "range": "LUK.22.63",
+   "kind": "passage",
+   "hash": "3c568a38",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.63#p1-3c568a38",
+     "text": "Christ bore the shame that was due for our sins.",
+     "label": "20",
+     "anchor": "And the men that held Jesus"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LUK.22.66",
+   "range": "LUK.22.66",
+   "kind": "passage",
+   "hash": "73f595f7",
+   "paragraphs": [
+    {
+     "id": "geneva/LUK.22.66#p1-73f595f7",
+     "text": "Christ is wrongly condemned of blasphemy before the high priest's judgment seat in order that we might be acquitted before God from the blasphemy which we deserved.",
+     "label": "21",
+     "anchor": "And as soon as it was"
+    }
+   ]
+  }
+ ]
+}

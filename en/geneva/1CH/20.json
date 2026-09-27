@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/1CH.20.1",
+   "range": "1CH.20.1",
+   "kind": "passage",
+   "hash": "3005a0e4",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.1#p1-3005a0e4",
+     "text": "Which was the chief city of the Ammonites.",
+     "label": "a",
+     "anchor": "Rabbah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.2",
+   "range": "1CH.20.2",
+   "kind": "passage",
+   "hash": "25b5e23d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.2#p1-25b5e23d",
+     "text": "Which mounts about the value of seven thousand and seventy crowns, which is about 60 pound weight.",
+     "label": "b",
+     "anchor": "talent of gold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.5",
+   "range": "1CH.20.5",
+   "kind": "passage",
+   "hash": "603558de",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.5#p1-603558de",
+     "text": "Read 2Sa 21:19.",
+     "label": "c",
+     "anchor": "Lahmi the brother of Goliath the",
+     "refs": [
+      {
+       "text": "2Sa 21:19",
+       "ref": "2SA.21.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.6",
+   "range": "1CH.20.6",
+   "kind": "passage",
+   "hash": "284c1b12",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.6#p1-284c1b12",
+     "text": "Meaning that he had six apiece on hands and feet.",
+     "label": "d",
+     "anchor": "six on each hand"
+    }
+   ]
+  }
+ ]
+}

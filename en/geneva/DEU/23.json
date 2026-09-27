@@ -1,0 +1,192 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "geneva/DEU.23.1",
+   "range": "DEU.23.1",
+   "kind": "passage",
+   "hash": "6958b0ce",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.1#p1-6958b0ce",
+     "text": "Either to bear office, or to marry a wife.",
+     "label": "a",
+     "anchor": "shall not enter into the congregation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.2",
+   "range": "DEU.23.2",
+   "kind": "passage",
+   "hash": "feb81107",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.2#p1-feb81107",
+     "text": "This was to cause them to live chastely, that their posterity might not be rejected.",
+     "label": "b",
+     "anchor": "A bastard shall not enter into"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.4",
+   "range": "DEU.23.4",
+   "kind": "passage",
+   "hash": "e1f9a430",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.4#p1-e1f9a430",
+     "text": "By this he condemns all who do not aid the children of God in their calling.",
+     "label": "c",
+     "anchor": "met you not with bread and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.6",
+   "range": "DEU.23.6",
+   "kind": "passage",
+   "hash": "6d6ef573",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.6#p1-6d6ef573",
+     "text": "You shall have nothing to do with them.",
+     "label": "d",
+     "anchor": "shalt not seek their peace nor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.8",
+   "range": "DEU.23.8",
+   "kind": "passage",
+   "hash": "fd87a96a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.8#p1-fd87a96a",
+     "text": "If the fathers have renounced their idolatry, and received circumcision.",
+     "label": "e",
+     "anchor": "of them shall enter into the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.12",
+   "range": "DEU.23.12",
+   "kind": "passage",
+   "hash": "d9091fd0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.12#p1-d9091fd0",
+     "text": "For the necessities of nature.",
+     "label": "f"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.13",
+   "range": "DEU.23.13",
+   "kind": "passage",
+   "hash": "d210292b",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.13#p1-d210292b",
+     "text": "Meaning by this that his people should be pure both in body and soul.",
+     "label": "g",
+     "anchor": "cover that which cometh from thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.15",
+   "range": "DEU.23.15",
+   "kind": "passage",
+   "hash": "692c7cf5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.15#p1-692c7cf5",
+     "text": "This is meant of the heathen, who fled because of their masters' cruelty, and embrace the true religion.",
+     "label": "h",
+     "anchor": "deliver unto his master the servant"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.18",
+   "range": "DEU.23.18",
+   "kind": "passage",
+   "hash": "4bc59cba",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.18#p1-4bc59cba",
+     "text": "Forbidding that any income gained from evil things should be applied to the service of God, Mic 2:7.",
+     "label": "i",
+     "anchor": "hire of a whore",
+     "refs": [
+      {
+       "text": "Mic 2:7",
+       "ref": "MIC.2.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.20",
+   "range": "DEU.23.20",
+   "kind": "passage",
+   "hash": "f79da7fa",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.20#p1-5e2fe29a",
+     "text": "This was permitted for a time because of the hardness of their hearts.",
+     "label": "k",
+     "anchor": "stranger thou mayest lend upon usury"
+    },
+    {
+     "id": "geneva/DEU.23.20#p2-183b4189",
+     "text": "If you show charity to your brother, God will declare his love toward you.",
+     "label": "l",
+     "anchor": "bless thee in all that thou"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.23",
+   "range": "DEU.23.23",
+   "kind": "passage",
+   "hash": "336d2419",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.23#p1-336d2419",
+     "text": "If the vow is lawful and godly.",
+     "label": "m",
+     "anchor": "keep and perform"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.23.24",
+   "range": "DEU.23.24",
+   "kind": "passage",
+   "hash": "3fb423a8",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.23.24#p1-54dd1bfc",
+     "text": "Being hired for labour.",
+     "label": "n",
+     "anchor": "thy neighbour's vineyard"
+    },
+    {
+     "id": "geneva/DEU.23.24#p2-26fe8550",
+     "text": "To bring home to your house.",
+     "label": "o",
+     "anchor": "vessel"
+    }
+   ]
+  }
+ ]
+}

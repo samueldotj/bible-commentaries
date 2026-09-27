@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/2CH.3.1",
+   "range": "2CH.3.1",
+   "kind": "passage",
+   "hash": "80d29cdb",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.1#p1-80d29cdb",
+     "text": "Which is the mountain where Abraham was thought to have sacrificed his son, Ge 22:2.",
+     "label": "a",
+     "anchor": "Moriah",
+     "refs": [
+      {
+       "text": "Ge 22:2",
+       "ref": "GEN.22.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.3",
+   "range": "2CH.3.3",
+   "kind": "passage",
+   "hash": "8db24ff9",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.3#p1-8db24ff9",
+     "text": "According to the whole length of the temple,",
+     "label": "b",
+     "anchor": "measure was threescore cubits"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.4",
+   "range": "2CH.3.4",
+   "kind": "passage",
+   "hash": "bc8ef698",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.4#p1-d01582c9",
+     "text": "It contained as much as the breadth of the temple did, 1Ki 6:3.",
+     "label": "c",
+     "anchor": "breadth of the house",
+     "refs": [
+      {
+       "text": "1Ki 6:3",
+       "ref": "1KI.6.3"
+      }
+     ]
+    },
+    {
+     "id": "geneva/2CH.3.4#p2-f1697bb6",
+     "text": "From the foundation to the top: for in the book of the kings mention is made from the foundation to the first stage.",
+     "label": "d",
+     "anchor": "hundred and twenty"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.6",
+   "range": "2CH.3.6",
+   "kind": "passage",
+   "hash": "80538fd8",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.6#p1-80538fd8",
+     "text": "Some think it is Peru.",
+     "label": "e",
+     "anchor": "Parvaim"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.14",
+   "range": "2CH.3.14",
+   "kind": "passage",
+   "hash": "2294e867",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.14#p1-2294e867",
+     "text": "Which separated the temple from the most holy place.",
+     "label": "f",
+     "anchor": "vail of blue"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.15",
+   "range": "2CH.3.15",
+   "kind": "passage",
+   "hash": "23b0a6da",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.15#p1-23b0a6da",
+     "text": "Every one was eighteen cubits long, but the half cubit could not be seen, for it was hid in the roundness of the chapiter, and therefore he gives to every one only 17 and a half.",
+     "label": "g",
+     "anchor": "thirty and five cubits high"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.16",
+   "range": "2CH.3.16",
+   "kind": "passage",
+   "hash": "8079e9ac",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.16#p1-8079e9ac",
+     "text": "For every pillar a hundred, read 1Ki 7:20.",
+     "label": "h",
+     "anchor": "hundred pomegranates",
+     "refs": [
+      {
+       "text": "1Ki 7:20",
+       "ref": "1KI.7.20"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

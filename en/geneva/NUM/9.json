@@ -1,0 +1,157 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/NUM.9.3",
+   "range": "NUM.9.3",
+   "kind": "passage",
+   "hash": "ac76af3f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.3#p1-ac76af3f",
+     "text": "Even in all points as the Lord has instituted it.",
+     "label": "a",
+     "anchor": "all the rites of it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.6",
+   "range": "NUM.9.6",
+   "kind": "passage",
+   "hash": "e28484ae",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.6#p1-e28484ae",
+     "text": "By touching a corpse, or being at the burial.",
+     "label": "b",
+     "anchor": "by the dead body of a"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.7",
+   "range": "NUM.9.7",
+   "kind": "passage",
+   "hash": "0ceef8e1",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.7#p1-0ceef8e1",
+     "text": "Or, celebrate the Passover the fourteenth day of the first month.",
+     "label": "c",
+     "anchor": "offer an offering of the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.10",
+   "range": "NUM.9.10",
+   "kind": "passage",
+   "hash": "d9143d16",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.10#p1-d9143d16",
+     "text": "And cannot come where the tabernacle is, when others keep it.",
+     "label": "d",
+     "anchor": "he shall keep the passover unto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.11",
+   "range": "NUM.9.11",
+   "kind": "passage",
+   "hash": "ad7062bb",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.11#p1-ad7062bb",
+     "text": "So that the unclean and those who are not at home, have a month longer granted to them.",
+     "label": "e",
+     "anchor": "second month at even they shall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.13",
+   "range": "NUM.9.13",
+   "kind": "passage",
+   "hash": "6367db96",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.13#p1-6367db96",
+     "text": "When the Passover is celebrated.",
+     "label": "f",
+     "anchor": "journey"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.15",
+   "range": "NUM.9.15",
+   "kind": "passage",
+   "hash": "652fa648",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.15#p1-652fa648",
+     "text": "Like a pillar, read Ex 13:21,22.",
+     "label": "g",
+     "anchor": "appearance of fire",
+     "refs": [
+      {
+       "text": "Ex 13:21,22",
+       "ref": "EXO.13.21"
+      },
+      {
+       "text": "Ex 13:21,22",
+       "ref": "EXO.13.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.18",
+   "range": "NUM.9.18",
+   "kind": "passage",
+   "hash": "5e3811bd",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.18#p1-5e3811bd",
+     "text": "Who taught them what to do by the cloud.",
+     "label": "h",
+     "anchor": "LORD the children of Israel journeyed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.19",
+   "range": "NUM.9.19",
+   "kind": "passage",
+   "hash": "a1fb7381",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.19#p1-a1fb7381",
+     "text": "They waited when the Lord would signify either their departure, or their abode by the cloud.",
+     "label": "i",
+     "anchor": "charge of the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.9.23",
+   "range": "NUM.9.23",
+   "kind": "passage",
+   "hash": "a0891cdf",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.9.23#p1-a0891cdf",
+     "text": "Under the charge and government of Moses.",
+     "label": "k",
+     "anchor": "hand of Moses"
+    }
+   ]
+  }
+ ]
+}

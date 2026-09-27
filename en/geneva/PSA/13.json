@@ -1,0 +1,77 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/PSA.13.1",
+   "range": "PSA.13.1",
+   "kind": "passage",
+   "hash": "cea7cc4f",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.1#p1-cea7cc4f",
+     "text": "He declares that his afflictions lasted a long time, and that his faith did not waver.",
+     "label": "a",
+     "anchor": "for ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.2",
+   "range": "PSA.13.2",
+   "kind": "passage",
+   "hash": "7837fe82",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.2#p1-7837fe82",
+     "text": "Changing my purposes as the sick man does his place.",
+     "label": "b",
+     "anchor": "counsel in my soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.4",
+   "range": "PSA.13.4",
+   "kind": "passage",
+   "hash": "e3cce424",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.4#p1-e3cce424",
+     "text": "Which might turn to God's dishonour: if he did not defend his.",
+     "label": "c",
+     "anchor": "prevailed against him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.5",
+   "range": "PSA.13.5",
+   "kind": "passage",
+   "hash": "16ce8440",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.5#p1-16ce8440",
+     "text": "The mercy of God is the cause of our salvation.",
+     "label": "d",
+     "anchor": "mercy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.6",
+   "range": "PSA.13.6",
+   "kind": "passage",
+   "hash": "c1b41f72",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.6#p1-c1b41f72",
+     "text": "Both by the benefits past and by others to come.",
+     "label": "e",
+     "anchor": "dealt bountifully with me"
+    }
+   ]
+  }
+ ]
+}

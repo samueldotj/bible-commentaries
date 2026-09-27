@@ -1,0 +1,171 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/1CH.9.1",
+   "range": "1CH.9.1",
+   "kind": "passage",
+   "hash": "cea4181b",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.1#p1-cea4181b",
+     "text": "Until now he has described their genealogies before they went into captivity, and now he describes their history after their return.",
+     "label": "a",
+     "anchor": "carried away to Babylon for their"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.2",
+   "range": "1CH.9.2",
+   "kind": "passage",
+   "hash": "6bbda542",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.2#p1-6bbda542",
+     "text": "Meaning, the Gibeonites, who served in the temple, read Jos 9:23.",
+     "label": "b",
+     "anchor": "Nethinims",
+     "refs": [
+      {
+       "text": "Jos 9:23",
+       "ref": "JOS.9.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.11",
+   "range": "1CH.9.11",
+   "kind": "passage",
+   "hash": "c329b2f2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.11#p1-c329b2f2",
+     "text": "That is, he was the high priest.",
+     "label": "c",
+     "anchor": "ruler of the house of God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.13",
+   "range": "1CH.9.13",
+   "kind": "passage",
+   "hash": "7d0c3372",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.13#p1-7d0c3372",
+     "text": "To serve in the temple, every one according to his office.",
+     "label": "d",
+     "anchor": "work of the service of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.18",
+   "range": "1CH.9.18",
+   "kind": "passage",
+   "hash": "53b03cd7",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.18#p1-53b03cd7",
+     "text": "So called because the king came into the temple by it, and not the common people.",
+     "label": "e",
+     "anchor": "king's gate eastward"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.19",
+   "range": "1CH.9.19",
+   "kind": "passage",
+   "hash": "e336ce75",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.19#p1-e336ce75",
+     "text": "Their charge was that no one should enter those places, which were only appointed for the priests to minister in.",
+     "label": "f",
+     "anchor": "tabernacle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.25",
+   "range": "1CH.9.25",
+   "kind": "passage",
+   "hash": "4f61b575",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.25#p1-4f61b575",
+     "text": "They served weekly, as in Ex 29:30.",
+     "label": "g",
+     "anchor": "seven days from time to time",
+     "refs": [
+      {
+       "text": "Ex 29:30",
+       "ref": "EXO.29.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.29",
+   "range": "1CH.9.29",
+   "kind": "passage",
+   "hash": "7172c03f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.29#p1-7172c03f",
+     "text": "Of which the meat offering was made, Le 2:8.",
+     "label": "h",
+     "anchor": "flour",
+     "refs": [
+      {
+       "text": "Le 2:8",
+       "ref": "LEV.2.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.33",
+   "range": "1CH.9.33",
+   "kind": "passage",
+   "hash": "c7a7be44",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.33#p1-c7a7be44",
+     "text": "But were continually occupied in singing praises to God.",
+     "label": "i",
+     "anchor": "were free"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.9.42",
+   "range": "1CH.9.42",
+   "kind": "passage",
+   "hash": "de1691f7",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.9.42#p1-de1691f7",
+     "text": "Who was also called Jehoiada, 1Ch 8:36.",
+     "label": "k",
+     "anchor": "Jarah",
+     "refs": [
+      {
+       "text": "1Ch 8:36",
+       "ref": "1CH.8.36"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

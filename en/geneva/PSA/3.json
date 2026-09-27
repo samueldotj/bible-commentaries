@@ -1,0 +1,62 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/PSA.3.1",
+   "range": "PSA.3.1",
+   "kind": "passage",
+   "hash": "545e56b4",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.1#p1-545e56b4",
+     "text": "This was a token of his stable faith, that for all his troubles he turned to God.",
+     "label": "a",
+     "anchor": "increased that trouble me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.2",
+   "range": "PSA.3.2",
+   "kind": "passage",
+   "hash": "816b6ecb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.2#p1-816b6ecb",
+     "text": "Selah here signifies a lifting up of the voice, to cause us to consider the sentence as a thing of great importance.",
+     "label": "b",
+     "anchor": "Selah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.6",
+   "range": "PSA.3.6",
+   "kind": "passage",
+   "hash": "c6f6a9d8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.6#p1-c6f6a9d8",
+     "text": "When he considered the truth of God's promise, and tried the same, his faith increased marvellously.",
+     "label": "c"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.8",
+   "range": "PSA.3.8",
+   "kind": "passage",
+   "hash": "6f2d4def",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.8#p1-6f2d4def",
+     "text": "No matter how great or many the dangers may be, yet God always has ways to deliver his.",
+     "label": "d",
+     "anchor": "Salvation belongeth unto the LORD"
+    }
+   ]
+  }
+ ]
+}

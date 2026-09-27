@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 61,
+ "units": [
+  {
+   "id": "geneva/PSA.61.2",
+   "range": "PSA.61.2",
+   "kind": "passage",
+   "hash": "43538b09",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.2#p1-908f7314",
+     "text": "From the place where I was banished, being driven out of the city and temple by my son Absalom.",
+     "label": "a",
+     "anchor": "the end of the earth will"
+    },
+    {
+     "id": "geneva/PSA.61.2#p2-1f9e65ae",
+     "text": "To which without your help I cannot attain.",
+     "label": "b",
+     "anchor": "higher than I"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.5",
+   "range": "PSA.61.5",
+   "kind": "passage",
+   "hash": "3ce843c2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.5#p1-3ce843c2",
+     "text": "There is nothing that strengthens our faith more than the memory of God's help in times past.",
+     "label": "c",
+     "anchor": "hast heard my vows"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.6",
+   "range": "PSA.61.6",
+   "kind": "passage",
+   "hash": "42fe3af7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.6#p1-42fe3af7",
+     "text": "This chiefly refers to Christ, who lives eternally not only in himself but also in his members.",
+     "label": "d",
+     "anchor": "life"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.7",
+   "range": "PSA.61.7",
+   "kind": "passage",
+   "hash": "b07a767a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.7#p1-b07a767a",
+     "text": "For the stability of my kingdom stands in your mercy and truth.",
+     "label": "e",
+     "anchor": "mercy and truth"
+    }
+   ]
+  }
+ ]
+}

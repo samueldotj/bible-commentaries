@@ -1,0 +1,283 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/1SA.20.1",
+   "range": "1SA.20.1",
+   "kind": "passage",
+   "hash": "4bdd3797",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.1#p1-4bdd3797",
+     "text": "For Saul was detained, and prophesied a day and a night by God's providence, that David might have time to escape.",
+     "label": "a",
+     "anchor": "fled from Naioth in Ramah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.3",
+   "range": "1SA.20.3",
+   "kind": "passage",
+   "hash": "d601becf",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.3#p1-d601becf",
+     "text": "I am in great danger of death.",
+     "label": "b",
+     "anchor": "step between me and death"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.5",
+   "range": "1SA.20.5",
+   "kind": "passage",
+   "hash": "0ed97177",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.5#p1-0ed97177",
+     "text": "At what time there would be a solemn sacrifice, Nu 28:11, to which they added peace offerings and feasts.",
+     "label": "c",
+     "anchor": "new moon",
+     "refs": [
+      {
+       "text": "Nu 28:11",
+       "ref": "NUM.28.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.6",
+   "range": "1SA.20.6",
+   "kind": "passage",
+   "hash": "782effcb",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.6#p1-782effcb",
+     "text": "Read 1Sa 1:21.",
+     "label": "d",
+     "anchor": "yearly sacrifice there for all the",
+     "refs": [
+      {
+       "text": "1Sa 1:21",
+       "ref": "1SA.1.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.9",
+   "range": "1SA.20.9",
+   "kind": "passage",
+   "hash": "b5120113",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.9#p1-b5120113",
+     "text": "That he were fully determined.",
+     "label": "e",
+     "anchor": "determined by my father to come"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.10",
+   "range": "1SA.20.10",
+   "kind": "passage",
+   "hash": "8eebc43b",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.10#p1-8eebc43b",
+     "text": "If your father favours me.",
+     "label": "f",
+     "anchor": "shall tell me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.13",
+   "range": "1SA.20.13",
+   "kind": "passage",
+   "hash": "0df056bd",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.13#p1-0df056bd",
+     "text": "The Lord punish me most grievously.",
+     "label": "g",
+     "anchor": "do so and much more to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.14",
+   "range": "1SA.20.14",
+   "kind": "passage",
+   "hash": "f91ca7ec",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.14#p1-f91ca7ec",
+     "text": "I know that if you were given the kingdom now, you would not destroy me, but show yourself friendly to my posterity.",
+     "label": "h",
+     "anchor": "that I die not"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.22",
+   "range": "1SA.20.22",
+   "kind": "passage",
+   "hash": "aed4cbde",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.22#p1-aed4cbde",
+     "text": "The Lord is the author of your departure.",
+     "label": "i",
+     "anchor": "LORD hath sent thee away"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.26",
+   "range": "1SA.20.26",
+   "kind": "passage",
+   "hash": "b985ad3a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.26#p1-b985ad3a",
+     "text": "Yet he might have some business to let him.",
+     "label": "k",
+     "anchor": "clean"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.27",
+   "range": "1SA.20.27",
+   "kind": "passage",
+   "hash": "6d53c088",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.27#p1-6d53c088",
+     "text": "Thus he speaks contemptuously of David.",
+     "label": "l",
+     "anchor": "the son of Jesse to meat"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.29",
+   "range": "1SA.20.29",
+   "kind": "passage",
+   "hash": "05b2b085",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.29#p1-05b2b085",
+     "text": "Meaning, all his kinsfolk.",
+     "label": "n",
+     "anchor": "brethren"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.30",
+   "range": "1SA.20.30",
+   "kind": "passage",
+   "hash": "16a943f9",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.30#p1-16a943f9",
+     "text": "You are always contrary to me as your mother is.",
+     "label": "o",
+     "anchor": "son of the perverse rebellious woman"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.32",
+   "range": "1SA.20.32",
+   "kind": "passage",
+   "hash": "611c1f60",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.32#p1-611c1f60",
+     "text": "For it was too great tyranny to put one to death and not to give a reason why.",
+     "label": "p",
+     "anchor": "slain"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.35",
+   "range": "1SA.20.35",
+   "kind": "passage",
+   "hash": "8c50cfb4",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.35#p1-8c50cfb4",
+     "text": "For this was the third day, as it was agreed on in 1Sa 20:5.",
+     "label": "q",
+     "anchor": "at the time appointed with David",
+     "refs": [
+      {
+       "text": "1Sa 20:5",
+       "ref": "1SA.20.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.38",
+   "range": "1SA.20.38",
+   "kind": "passage",
+   "hash": "fdf9790f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.38#p1-fdf9790f",
+     "text": "By these words be admonished David what he should do.",
+     "label": "r",
+     "anchor": "Make speed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.41",
+   "range": "1SA.20.41",
+   "kind": "passage",
+   "hash": "c356fc8f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.41#p1-c356fc8f",
+     "text": "It seems that he shot on the north side of the stone, least the boy should have seen David.",
+     "label": "s",
+     "anchor": "south"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.20.42",
+   "range": "1SA.20.42",
+   "kind": "passage",
+   "hash": "7ecf0523",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.20.42#p1-7ecf0523",
+     "text": "Which oath he calls the covenant of the Lord in 1Sa 20:8.",
+     "label": "t",
+     "anchor": "sworn both of us in the",
+     "refs": [
+      {
+       "text": "1Sa 20:8",
+       "ref": "1SA.20.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

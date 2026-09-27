@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 41,
+ "units": [
+  {
+   "id": "geneva/JER.41.1",
+   "range": "JER.41.1",
+   "kind": "passage",
+   "hash": "d0a4fe96",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.1#p1-75739272",
+     "text": "The city was destroyed in the fourth month and in the seventh month, which contained part of September and part of October, the governor Gedaliah was slain.",
+     "label": "a",
+     "anchor": "seventh month"
+    },
+    {
+     "id": "geneva/JER.41.1#p2-96c7f432",
+     "text": "Meaning, Zedekiah.",
+     "label": "b",
+     "anchor": "king"
+    },
+    {
+     "id": "geneva/JER.41.1#p3-dcc26742",
+     "text": "They ate together as familiar friends.",
+     "label": "c",
+     "anchor": "ate bread together in Mizpah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.5",
+   "range": "JER.41.5",
+   "kind": "passage",
+   "hash": "512b314e",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.5#p1-512b314e",
+     "text": "For they thought that the temple had not been destroyed and therefore came up to the feast of tabernacles but hearing of the burning of it in the way, they showed these signs of sorrow.",
+     "label": "d",
+     "anchor": "offerings and incense in their hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.6",
+   "range": "JER.41.6",
+   "kind": "passage",
+   "hash": "cb1998a0",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.6#p1-cb1998a0",
+     "text": "For his death was kept secret, and he pretended that he lamented for the destruction of Jerusalem and the temple but later slew them when they seemed to favour Gedaliah.",
+     "label": "e",
+     "anchor": "to Gedaliah the son of Ahikam"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.9",
+   "range": "JER.41.9",
+   "kind": "passage",
+   "hash": "36cd02c7",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.9#p1-36cd02c7",
+     "text": "Asa fortified Mizpah for fear of the enemy, and dug ditches and trenches, 1Ki 15:22.",
+     "label": "f",
+     "anchor": "made for fear of Baasha king",
+     "refs": [
+      {
+       "text": "1Ki 15:22",
+       "ref": "1KI.15.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.11",
+   "range": "JER.41.11",
+   "kind": "passage",
+   "hash": "5fdaa99c",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.11#p1-5fdaa99c",
+     "text": "Who had been captains under Zedekiah.",
+     "label": "g",
+     "anchor": "captains of the forces that were"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.15",
+   "range": "JER.41.15",
+   "kind": "passage",
+   "hash": "1b16ac98",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.15#p1-1b16ac98",
+     "text": "For Baalis the king of the Ammonites was the cause of this murder.",
+     "label": "h",
+     "anchor": "Ammonites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.41.17",
+   "range": "JER.41.17",
+   "kind": "passage",
+   "hash": "0811a3fc",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.41.17#p1-0811a3fc",
+     "text": "Which place David of old had given to Chimham the son of Barzillai the Gileadite, 2Sa 19:38.",
+     "label": "i",
+     "anchor": "Chimham",
+     "refs": [
+      {
+       "text": "2Sa 19:38",
+       "ref": "2SA.19.38"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

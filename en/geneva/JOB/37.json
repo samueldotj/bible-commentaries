@@ -1,0 +1,271 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "geneva/JOB.37.1",
+   "range": "JOB.37.1",
+   "kind": "passage",
+   "hash": "64fff4f3",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.1#p1-64fff4f3",
+     "text": "At the marvelling of the thunder and lightnings: by which he declares that the faithful are lively touched with the majesty of God, when they behold his works.",
+     "label": "a",
+     "anchor": "trembleth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.2",
+   "range": "JOB.37.2",
+   "kind": "passage",
+   "hash": "2f691efa",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.2#p1-2f691efa",
+     "text": "That is the thunder, by which he speaks to men to waken their dullness, and to bring them to the consideration of his works.",
+     "label": "b",
+     "anchor": "noise of his voice"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.4",
+   "range": "JOB.37.4",
+   "kind": "passage",
+   "hash": "9f70a73c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.4#p1-9f70a73c",
+     "text": "Meaning, the rains and thunders.",
+     "label": "c",
+     "anchor": "them when his voice is heard"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.6",
+   "range": "JOB.37.6",
+   "kind": "passage",
+   "hash": "0fb25a2a",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.6#p1-0fb25a2a",
+     "text": "So that neither small rain nor great, snow nor anything else comes without God's appointment.",
+     "label": "d",
+     "anchor": "likewise to the small rain"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.7",
+   "range": "JOB.37.7",
+   "kind": "passage",
+   "hash": "b069efc2",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.7#p1-b069efc2",
+     "text": "By rains and thunders God causes men to keep themselves within their houses.",
+     "label": "e",
+     "anchor": "sealeth up the hand of every"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.9",
+   "range": "JOB.37.9",
+   "kind": "passage",
+   "hash": "4616929b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.9#p1-4616929b",
+     "text": "In Hebrew it is called the scattering wind, because it drives away the clouds and purges the air.",
+     "label": "f",
+     "anchor": "north"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.10",
+   "range": "JOB.37.10",
+   "kind": "passage",
+   "hash": "aa4c169f",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.10#p1-aa4c169f",
+     "text": "That is, frozen up and dried.",
+     "label": "g",
+     "anchor": "is straitened"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.11",
+   "range": "JOB.37.11",
+   "kind": "passage",
+   "hash": "8d0a3a77",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.11#p1-9dea6e90",
+     "text": "Gather the vapours and move to and fro to water the earth.",
+     "label": "h",
+     "anchor": "wearieth the thick cloud"
+    },
+    {
+     "id": "geneva/JOB.37.11#p2-71d1cfcd",
+     "text": "That is, the cloud that has lightning in it.",
+     "label": "i",
+     "anchor": "bright cloud"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.13",
+   "range": "JOB.37.13",
+   "kind": "passage",
+   "hash": "3e6ad9db",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.13#p1-3e6ad9db",
+     "text": "Rain, cold, heat, tempests and such like are sent from God, either to punish man, or to profit the earth, or to declare his favour toward man, as in Job 36:31.",
+     "label": "k",
+     "anchor": "correction",
+     "refs": [
+      {
+       "text": "Job 36:31",
+       "ref": "JOB.36.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.15",
+   "range": "JOB.37.15",
+   "kind": "passage",
+   "hash": "30681903",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.15#p1-30681903",
+     "text": "That is, the lightning to break forth in the clouds?",
+     "label": "l",
+     "anchor": "light of his cloud to shine"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.16",
+   "range": "JOB.37.16",
+   "kind": "passage",
+   "hash": "9da172f6",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.16#p1-9da172f6",
+     "text": "Which is sometimes changed into rain, or snow, hail or such like.",
+     "label": "m",
+     "anchor": "balancings of the clouds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.17",
+   "range": "JOB.37.17",
+   "kind": "passage",
+   "hash": "edf553f8",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.17#p1-edf553f8",
+     "text": "Why your clothes should keep you warm when the south wind blows rather than when any other wind blows?",
+     "label": "n",
+     "anchor": "warm"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.18",
+   "range": "JOB.37.18",
+   "kind": "passage",
+   "hash": "59758e0c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.18#p1-59758e0c",
+     "text": "For the clearness.",
+     "label": "o",
+     "anchor": "glass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.19",
+   "range": "JOB.37.19",
+   "kind": "passage",
+   "hash": "f3d4e600",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.19#p1-f3d4e600",
+     "text": "That is, our ignorance: signifying that Job was so presumptuous, that he would control the works of God.",
+     "label": "p",
+     "anchor": "darkness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.20",
+   "range": "JOB.37.20",
+   "kind": "passage",
+   "hash": "64f143ff",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.20#p1-64f143ff",
+     "text": "Has God need that any should tell him when man murmurs against him?",
+     "label": "q",
+     "anchor": "told him that I speak"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.21",
+   "range": "JOB.37.21",
+   "kind": "passage",
+   "hash": "ac550a43",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.21#p1-ac550a43",
+     "text": "The cloud stops the shining of the sun, that man cannot see it till the wind has chased away the cloud: and if man is not able to attain to the knowledge of these things, how much less God's judgments?",
+     "label": "s",
+     "anchor": "which is in the clouds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.22",
+   "range": "JOB.37.22",
+   "kind": "passage",
+   "hash": "00c23474",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.22#p1-00c23474",
+     "text": "In Hebrew, gold, meaning fair weather and clear as gold.",
+     "label": "t",
+     "anchor": "Fair weather cometh out of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.37.23",
+   "range": "JOB.37.23",
+   "kind": "passage",
+   "hash": "efa09cd5",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.37.23#p1-efa09cd5",
+     "text": "Meaning, without cause.",
+     "label": "u",
+     "anchor": "afflict"
+    }
+   ]
+  }
+ ]
+}

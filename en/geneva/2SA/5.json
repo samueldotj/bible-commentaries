@@ -1,0 +1,125 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/2SA.5.1",
+   "range": "2SA.5.1",
+   "kind": "passage",
+   "hash": "26d152d4",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.1#p1-26d152d4",
+     "text": "We are of your kindred and closely related to you.",
+     "label": "a",
+     "anchor": "bone and thy flesh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.3",
+   "range": "2SA.5.3",
+   "kind": "passage",
+   "hash": "08559499",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.3#p1-08559499",
+     "text": "That is, taking the Lord to witness: for the ark was still in Abinadab's house.",
+     "label": "b",
+     "anchor": "before the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.6",
+   "range": "2SA.5.6",
+   "kind": "passage",
+   "hash": "d404c032",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.6#p1-d404c032",
+     "text": "The children of God called idols blind and lame guides: therefore the Jebusites meant that they should prove that their gods were neither blind nor lame.",
+     "label": "c",
+     "anchor": "blind and the lame"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.8",
+   "range": "2SA.5.8",
+   "kind": "passage",
+   "hash": "0ec92077",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.8#p1-0ec92077",
+     "text": "The idols should no longer enter into that place.",
+     "label": "d",
+     "anchor": "come into the house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.9",
+   "range": "2SA.5.9",
+   "kind": "passage",
+   "hash": "058faab3",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.9#p1-058faab3",
+     "text": "He built from the town house round about to his own house 1Ch 11:8.",
+     "label": "e",
+     "anchor": "Millo and inward",
+     "refs": [
+      {
+       "text": "1Ch 11:8",
+       "ref": "1CH.11.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.19",
+   "range": "2SA.5.19",
+   "kind": "passage",
+   "hash": "85d5d18d",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.19#p1-85d5d18d",
+     "text": "By Abiathar the priest.",
+     "label": "f",
+     "anchor": "enquired of the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.22",
+   "range": "2SA.5.22",
+   "kind": "passage",
+   "hash": "62d29ddf",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.22#p1-62d29ddf",
+     "text": "Meaning the valley of giants, which David called Baalperazim, because of his victory.",
+     "label": "g",
+     "anchor": "Rephaim"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.5.25",
+   "range": "2SA.5.25",
+   "kind": "passage",
+   "hash": "70f0b915",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.5.25#p1-70f0b915",
+     "text": "Which was in the tribe of Benjamin, but the Philistines possessed it.",
+     "label": "h",
+     "anchor": "Gazer"
+    }
+   ]
+  }
+ ]
+}

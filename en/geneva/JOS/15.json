@@ -1,0 +1,219 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/JOS.15.2",
+   "range": "JOS.15.2",
+   "kind": "passage",
+   "hash": "ffba57b6",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.2#p1-ffba57b6",
+     "text": "The Hebrew word signifies tongue, by which it means either the arm of the sea that comes into the land, or a rock, or cape that goes into the sea.",
+     "label": "a",
+     "anchor": "bay that looketh southward"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.5",
+   "range": "JOS.15.5",
+   "kind": "passage",
+   "hash": "0f7533c9",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.5#p1-0f7533c9",
+     "text": "Meaning the mouth of the river where it runs into the Salt sea.",
+     "label": "b",
+     "anchor": "end of Jordan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.6",
+   "range": "JOS.15.6",
+   "kind": "passage",
+   "hash": "8784749c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.6#p1-8784749c",
+     "text": "Which was a mark to part their countries.",
+     "label": "c",
+     "anchor": "stone of Bohan the son of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.11",
+   "range": "JOS.15.11",
+   "kind": "passage",
+   "hash": "eb3ba898",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.11#p1-eb3ba898",
+     "text": "Meaning, toward Syria.",
+     "label": "d",
+     "anchor": "sea"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.14",
+   "range": "JOS.15.14",
+   "kind": "passage",
+   "hash": "7509a85f",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.14#p1-7509a85f",
+     "text": "This was done after the death of Joshua, Jud 1:10,20.",
+     "label": "e",
+     "anchor": "drove thence the three sons of",
+     "refs": [
+      {
+       "text": "Jud 1:10,20",
+       "ref": "JDG.1.10"
+      },
+      {
+       "text": "Jud 1:10,20",
+       "ref": "JDG.1.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.18",
+   "range": "JOS.15.18",
+   "kind": "passage",
+   "hash": "e86d5d53",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.18#p1-e86d5d53",
+     "text": "Because her husband tarried too long.",
+     "label": "f",
+     "anchor": "and she lighted off her ass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.19",
+   "range": "JOS.15.19",
+   "kind": "passage",
+   "hash": "3b34eae3",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.19#p1-3b34eae3",
+     "text": "Because her country was barren, she wanted a field that had springs from her father. Jud 1:14,15.",
+     "label": "g",
+     "anchor": "give me also springs of water",
+     "refs": [
+      {
+       "text": "Jud 1:14,15",
+       "ref": "JDG.1.14"
+      },
+      {
+       "text": "Jud 1:14,15",
+       "ref": "JDG.1.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.30",
+   "range": "JOS.15.30",
+   "kind": "passage",
+   "hash": "f51c5e35",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.30#p1-f51c5e35",
+     "text": "Which before was called Zephath, Jud 1:17.",
+     "label": "h",
+     "anchor": "Hormah",
+     "refs": [
+      {
+       "text": "Jud 1:17",
+       "ref": "JDG.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.47",
+   "range": "JOS.15.47",
+   "kind": "passage",
+   "hash": "fec6106c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.47#p1-fec6106c",
+     "text": "Meaning, the Nile Jos 13:3.",
+     "label": "i",
+     "anchor": "river of Egypt",
+     "refs": [
+      {
+       "text": "Jos 13:3",
+       "ref": "JOS.13.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.49",
+   "range": "JOS.15.49",
+   "kind": "passage",
+   "hash": "60dfd78f",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.49#p1-60dfd78f",
+     "text": "Which is also called Kirjath-sepher, Jos 15:15.",
+     "label": "k",
+     "anchor": "Kirjathsannah",
+     "refs": [
+      {
+       "text": "Jos 15:15",
+       "ref": "JOS.15.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.62",
+   "range": "JOS.15.62",
+   "kind": "passage",
+   "hash": "9d5fdf0b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.62#p1-9d5fdf0b",
+     "text": "Of this city the salt sea has it's name.",
+     "label": "l",
+     "anchor": "city of Salt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.15.63",
+   "range": "JOS.15.63",
+   "kind": "passage",
+   "hash": "ca74295e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.15.63#p1-ca74295e",
+     "text": "That is, utterly, though they slew the most part, and burnt their city, Jud 1:8.",
+     "label": "m",
+     "anchor": "out",
+     "refs": [
+      {
+       "text": "Jud 1:8",
+       "ref": "JDG.1.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

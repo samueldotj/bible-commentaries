@@ -1,0 +1,95 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/EZK.25.3",
+   "range": "EZK.25.3",
+   "kind": "passage",
+   "hash": "c1f42a25",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.25.3#p1-c1f42a25",
+     "text": "Because you rejoiced when the enemy destroyed my city and temple.",
+     "label": "a",
+     "anchor": "Aha"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.25.4",
+   "range": "EZK.25.4",
+   "kind": "passage",
+   "hash": "2bc09313",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.25.4#p1-ad1cde57",
+     "text": "That is, to the Babylonians.",
+     "label": "b",
+     "anchor": "men of the east for a"
+    },
+    {
+     "id": "geneva/EZK.25.4#p2-28726dcd",
+     "text": "They will chase you away, and take your gorgeous houses to dwell in.",
+     "label": "c",
+     "anchor": "palaces in thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.25.5",
+   "range": "EZK.25.5",
+   "kind": "passage",
+   "hash": "6563cff9",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.25.5#p1-6563cff9",
+     "text": "Called also Philadelphin, which was the chief city of the Ammonites and full of conveniences, 2Sa 12:27.",
+     "label": "d",
+     "anchor": "Rabbah a stable for camels",
+     "refs": [
+      {
+       "text": "2Sa 12:27",
+       "ref": "2SA.12.27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.25.9",
+   "range": "EZK.25.9",
+   "kind": "passage",
+   "hash": "7cb942d1",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.25.9#p1-7cb942d1",
+     "text": "So that no power or strength should be able to resist the Babylonians.",
+     "label": "e",
+     "anchor": "from his cities which are on"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.25.16",
+   "range": "EZK.25.16",
+   "kind": "passage",
+   "hash": "7ca6c7d6",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.25.16#p1-7ca6c7d6",
+     "text": "Which were certain garrisons of Philistines by which they often molested the Jews, of the Cherethims David also had a guard, 2Sa 8:18.",
+     "label": "f",
+     "anchor": "Cherethims",
+     "refs": [
+      {
+       "text": "2Sa 8:18",
+       "ref": "2SA.8.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 121,
+ "units": [
+  {
+   "id": "geneva/PSA.121.2",
+   "range": "PSA.121.2",
+   "kind": "passage",
+   "hash": "0ddbb36e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.2#p1-0ddbb36e",
+     "text": "He accuses man's ingratitude, which cannot depend on God's power.",
+     "label": "a",
+     "anchor": "heaven and earth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.3",
+   "range": "PSA.121.3",
+   "kind": "passage",
+   "hash": "7af3cd71",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.3#p1-7af3cd71",
+     "text": "He shows that God's providence not only watches over his Church in general, but also over every member of it.",
+     "label": "b",
+     "anchor": "slumber"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.6",
+   "range": "PSA.121.6",
+   "kind": "passage",
+   "hash": "1ae27c6e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.6#p1-1ae27c6e",
+     "text": "Neither heat nor cold, nor any inconvenience will be able to destroy God's Church, even though for a time they may molest it.",
+     "label": "c",
+     "anchor": "smite thee by day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.8",
+   "range": "PSA.121.8",
+   "kind": "passage",
+   "hash": "b32687d2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.8#p1-b32687d2",
+     "text": "Whatever you attempt will have good success.",
+     "label": "d",
+     "anchor": "going out and thy coming in"
+    }
+   ]
+  }
+ ]
+}

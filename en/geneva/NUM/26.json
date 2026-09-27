@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 26,
+ "units": [
+  {
+   "id": "geneva/NUM.26.1",
+   "range": "NUM.26.1",
+   "kind": "passage",
+   "hash": "0f27d793",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.1#p1-0f27d793",
+     "text": "Which came because of their whoredom and idolatry.",
+     "label": "a",
+     "anchor": "plague"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.3",
+   "range": "NUM.26.3",
+   "kind": "passage",
+   "hash": "9f5c9aed",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.3#p1-9f5c9aed",
+     "text": "Where the river is near to Jericho.",
+     "label": "b",
+     "anchor": "near Jericho"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.9",
+   "range": "NUM.26.9",
+   "kind": "passage",
+   "hash": "cd7c97ec",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.9#p1-cd7c97ec",
+     "text": "In that rebellion of which Korah was head.",
+     "label": "c",
+     "anchor": "company of Korah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.10",
+   "range": "NUM.26.10",
+   "kind": "passage",
+   "hash": "f0b0313e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.10#p1-f0b0313e",
+     "text": "That is, as an example that others should not complain and rebel against God's ministers.",
+     "label": "d",
+     "anchor": "became a sign"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.19",
+   "range": "NUM.26.19",
+   "kind": "passage",
+   "hash": "4ce6285c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.19#p1-4ce6285c",
+     "text": "Before Jacob went into Egypt, Ge 38:3,7,10,46:12.",
+     "label": "e",
+     "anchor": "Canaan",
+     "refs": [
+      {
+       "text": "Ge 38:3,7,10,46:12",
+       "ref": "GEN.38.3"
+      },
+      {
+       "text": "Ge 38:3,7,10,46:12",
+       "ref": "GEN.38.7"
+      },
+      {
+       "text": "Ge 38:3,7,10,46:12",
+       "ref": "GEN.38.10"
+      },
+      {
+       "text": "Ge 38:3,7,10,46:12",
+       "ref": "GEN.46.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.51",
+   "range": "NUM.26.51",
+   "kind": "passage",
+   "hash": "17014436",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.51#p1-17014436",
+     "text": "This is the third time that they are numbered.",
+     "label": "f",
+     "anchor": "numbered of the children of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.64",
+   "range": "NUM.26.64",
+   "kind": "passage",
+   "hash": "9b92cdb6",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.64#p1-9b92cdb6",
+     "text": "In which appears the great power of God, that so wonderfully increased his people.",
+     "label": "g",
+     "anchor": "whom Moses and Aaron the priest"
+    }
+   ]
+  }
+ ]
+}

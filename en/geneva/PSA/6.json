@@ -1,0 +1,91 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "geneva/PSA.6.1",
+   "range": "PSA.6.1",
+   "kind": "passage",
+   "hash": "78a2f45b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.1#p1-78a2f45b",
+     "text": "Though I deserve destruction, yet let your mercy pity my frailty.",
+     "label": "a",
+     "anchor": "rebuke me not in thine anger"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.2",
+   "range": "PSA.6.2",
+   "kind": "passage",
+   "hash": "1ad648af",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.2#p1-1ad648af",
+     "text": "For my whole strength is abated.",
+     "label": "b",
+     "anchor": "bones are vexed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.3",
+   "range": "PSA.6.3",
+   "kind": "passage",
+   "hash": "56920b88",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.3#p1-56920b88",
+     "text": "His conscience is also touched with the fear of God's judgment.",
+     "label": "c",
+     "anchor": "My soul is also sore vexed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.5",
+   "range": "PSA.6.5",
+   "kind": "passage",
+   "hash": "4c9ce0ef",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.5#p1-4c9ce0ef",
+     "text": "He laments that opportunity should be taken from him to praise God in the congregation.",
+     "label": "d",
+     "anchor": "death there is no remembrance of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.8",
+   "range": "PSA.6.8",
+   "kind": "passage",
+   "hash": "330f3e37",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.8#p1-330f3e37",
+     "text": "God sends comfort and boldness in affliction, that we may triumph over our enemies.",
+     "label": "e",
+     "anchor": "Depart from me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.10",
+   "range": "PSA.6.10",
+   "kind": "passage",
+   "hash": "eb5d3c28",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.10#p1-eb5d3c28",
+     "text": "When the wicked think the godly will perish, God delivers them suddenly, and destroys their enemies.",
+     "label": "f",
+     "anchor": "suddenly"
+    }
+   ]
+  }
+ ]
+}

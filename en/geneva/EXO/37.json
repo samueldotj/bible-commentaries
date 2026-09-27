@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "geneva/EXO.37.2",
+   "range": "EXO.37.2",
+   "kind": "passage",
+   "hash": "fa4af082",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.2#p1-fa4af082",
+     "text": "Like battlements.",
+     "label": "a",
+     "anchor": "crown of gold to it round"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.37.8",
+   "range": "EXO.37.8",
+   "kind": "passage",
+   "hash": "4ec15c4a",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.8#p1-4ec15c4a",
+     "text": "Of the same material that the mercyseat was.",
+     "label": "b",
+     "anchor": "of the mercy seat made he"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.37.24",
+   "range": "EXO.37.24",
+   "kind": "passage",
+   "hash": "c1238e32",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.24#p1-c1238e32",
+     "text": "See Ex 25:39.",
+     "label": "c",
+     "anchor": "talent of pure gold made he",
+     "refs": [
+      {
+       "text": "Ex 25:39",
+       "ref": "EXO.25.39"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

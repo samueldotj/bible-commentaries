@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/1CH.1.1",
+   "range": "1CH.1.1",
+   "kind": "passage",
+   "hash": "494afed2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.1#p1-494afed2",
+     "text": "Meaning, that Seth was Adam's son, and Enoch was Seth's son.",
+     "label": "a",
+     "anchor": "Sheth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.4",
+   "range": "1CH.1.4",
+   "kind": "passage",
+   "hash": "fa204c13",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.4#p1-fa204c13",
+     "text": "It would have been sufficient to have named Shem of whom came Abraham and David, but because the world was restored by these three, mention is also made of Ham and Japheth.",
+     "label": "b",
+     "anchor": "Shem"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.10",
+   "range": "1CH.1.10",
+   "kind": "passage",
+   "hash": "d472ecab",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.10#p1-d472ecab",
+     "text": "Who first lifted himself above others.",
+     "label": "c",
+     "anchor": "Nimrod"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.17",
+   "range": "1CH.1.17",
+   "kind": "passage",
+   "hash": "a355a392",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.17#p1-a355a392",
+     "text": "Of whom came the Syrians, and therefore they are called Amramites throughout all scripture.",
+     "label": "d",
+     "anchor": "Aram"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.18",
+   "range": "1CH.1.18",
+   "kind": "passage",
+   "hash": "8e36b8d5",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.18#p1-8e36b8d5",
+     "text": "Of him came the Hebrews who were later called Israelites of Israel, who was Jacob and Jews of Judah because of the excellency of that tribe.",
+     "label": "e",
+     "anchor": "Eber"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.24",
+   "range": "1CH.1.24",
+   "kind": "passage",
+   "hash": "eb953a68",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.24#p1-c33d94a3",
+     "text": "He repeats Shem again because he would come to the stock of Abraham.",
+     "label": "f",
+     "anchor": "Shem"
+    },
+    {
+     "id": "geneva/1CH.1.24#p2-d553c111",
+     "text": "Who came from Shem, and of him Shelah.",
+     "label": "g",
+     "anchor": "Arphaxad"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.32",
+   "range": "1CH.1.32",
+   "kind": "passage",
+   "hash": "bc10e78f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.32#p1-bc10e78f",
+     "text": "Read Ge 25:4.",
+     "label": "h",
+     "anchor": "concubine",
+     "refs": [
+      {
+       "text": "Ge 25:4",
+       "ref": "GEN.25.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.35",
+   "range": "1CH.1.35",
+   "kind": "passage",
+   "hash": "cc47e87c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.35#p1-cc47e87c",
+     "text": "These were born from three different mothers, read Ge 36:4.",
+     "label": "i",
+     "anchor": "Eliphaz",
+     "refs": [
+      {
+       "text": "Ge 36:4",
+       "ref": "GEN.36.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.36",
+   "range": "1CH.1.36",
+   "kind": "passage",
+   "hash": "0e4e3681",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.36#p1-0e4e3681",
+     "text": "Which was Eliphaz's concubine, read Ge 36:12.",
+     "label": "k",
+     "anchor": "Timna",
+     "refs": [
+      {
+       "text": "Ge 36:12",
+       "ref": "GEN.36.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.38",
+   "range": "1CH.1.38",
+   "kind": "passage",
+   "hash": "e3f04164",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.38#p1-e3f04164",
+     "text": "He is also called Seir the Horite, who inhabited mount Seir, Ge 36:20.",
+     "label": "l",
+     "anchor": "Seir",
+     "refs": [
+      {
+       "text": "Ge 36:20",
+       "ref": "GEN.36.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.43",
+   "range": "1CH.1.43",
+   "kind": "passage",
+   "hash": "565cd5cb",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.43#p1-565cd5cb",
+     "text": "He makes mention of the kings that came from Esau according to God's promise made to Abraham concerning him, that kings would come from him. These eight kings reigned one after another in Idumea to the time of David who conquered their country.",
+     "label": "m",
+     "anchor": "kings that reigned in the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.44",
+   "range": "1CH.1.44",
+   "kind": "passage",
+   "hash": "47b9ce93",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.44#p1-47b9ce93",
+     "text": "Which was the principal city of the Edomites.",
+     "label": "n",
+     "anchor": "Bozrah reigned in his stead"
+    }
+   ]
+  }
+ ]
+}

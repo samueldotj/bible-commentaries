@@ -1,0 +1,133 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 17,
+ "units": [
+  {
+   "id": "geneva/LEV.17.2",
+   "range": "LEV.17.2",
+   "kind": "passage",
+   "hash": "86044b60",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.2#p1-86044b60",
+     "text": "Lest they should practice the idolatry they had learned among the Egyptians.",
+     "label": "a",
+     "anchor": "commanded"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.3",
+   "range": "LEV.17.3",
+   "kind": "passage",
+   "hash": "483a9a35",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.3#p1-483a9a35",
+     "text": "To make a sacrifice of offering of it.",
+     "label": "b",
+     "anchor": "killeth an ox"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.4",
+   "range": "LEV.17.4",
+   "kind": "passage",
+   "hash": "b134011c",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.4#p1-b134011c",
+     "text": "I abhor it as much as if he had killed a man as in Is 66:3.",
+     "label": "c",
+     "anchor": "blood shall be imputed unto that",
+     "refs": [
+      {
+       "text": "Is 66:3",
+       "ref": "ISA.66.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.5",
+   "range": "LEV.17.5",
+   "kind": "passage",
+   "hash": "944ac554",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.5#p1-944ac554",
+     "text": "In that they were moved with foolish devotion to offer it.",
+     "label": "d",
+     "anchor": "open field"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.7",
+   "range": "LEV.17.7",
+   "kind": "passage",
+   "hash": "c494ad1e",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.7#p1-075b8b89",
+     "text": "Meaning, whatever is not the true God, 1Co 10:10, Ps 95:5.",
+     "label": "e",
+     "anchor": "devils",
+     "refs": [
+      {
+       "text": "1Co 10:10, Ps 95:5",
+       "ref": "1CO.10.10"
+      },
+      {
+       "text": "1Co 10:10, Ps 95:5",
+       "ref": "PSA.95.5"
+      }
+     ]
+    },
+    {
+     "id": "geneva/LEV.17.7#p2-17cb9a83",
+     "text": "For idolatry is spiritual whoredom, because faith toward God is broken.",
+     "label": "f",
+     "anchor": "whoring"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.10",
+   "range": "LEV.17.10",
+   "kind": "passage",
+   "hash": "e94481ff",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.10#p1-e94481ff",
+     "text": "I will declare my wrath by taking vengeance on him as in Le 20:3.",
+     "label": "g",
+     "anchor": "my face against that soul that",
+     "refs": [
+      {
+       "text": "Le 20:3",
+       "ref": "LEV.20.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.17.13",
+   "range": "LEV.17.13",
+   "kind": "passage",
+   "hash": "e60bcd9e",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.17.13#p1-e60bcd9e",
+     "text": "Which the law permits to be eaten, because it is clean.",
+     "label": "h",
+     "anchor": "eaten"
+    }
+   ]
+  }
+ ]
+}

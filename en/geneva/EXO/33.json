@@ -1,0 +1,203 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 33,
+ "units": [
+  {
+   "id": "geneva/EXO.33.1",
+   "range": "EXO.33.1",
+   "kind": "passage",
+   "hash": "f3190c87",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.1#p1-f3190c87",
+     "text": "The land of Canaan was surrounded by hills: so those who entered it, must go up by the hills.",
+     "label": "a",
+     "anchor": "go up hence"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.5",
+   "range": "EXO.33.5",
+   "kind": "passage",
+   "hash": "9f356010",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.5#p1-9f356010",
+     "text": "That I may either show mercy if you repent, or else punish your rebellion.",
+     "label": "b",
+     "anchor": "what to do unto thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.7",
+   "range": "EXO.33.7",
+   "kind": "passage",
+   "hash": "cc5bb6e7",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.7#p1-cc5bb6e7",
+     "text": "That is, the tabernacle of the congregation: so called because the people turned to it, when they needed to be instructed of the Lord's will.",
+     "label": "c",
+     "anchor": "Tabernacle of the congregation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.11",
+   "range": "EXO.33.11",
+   "kind": "passage",
+   "hash": "a10e0836",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.11#p1-a10e0836",
+     "text": "Most clearly and familiarly of all others, Nu 12:7,8; De 34:10",
+     "label": "d",
+     "anchor": "face to face",
+     "refs": [
+      {
+       "text": "Nu 12:7,8; De 34:10",
+       "ref": "NUM.12.7"
+      },
+      {
+       "text": "Nu 12:7,8; De 34:10",
+       "ref": "NUM.12.8"
+      },
+      {
+       "text": "Nu 12:7,8; De 34:10",
+       "ref": "DEU.34.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.12",
+   "range": "EXO.33.12",
+   "kind": "passage",
+   "hash": "51b3bba6",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.12#p1-51b3bba6",
+     "text": "I care for you and will preserve you in your calling.",
+     "label": "e",
+     "anchor": "name"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.14",
+   "range": "EXO.33.14",
+   "kind": "passage",
+   "hash": "be3ae871",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.14#p1-be3ae871",
+     "text": "Signifying that the Israelites would exceed all other people, through God's favour; Ex 33:16.",
+     "label": "f",
+     "anchor": "presence shall go with thee",
+     "refs": [
+      {
+       "text": "Ex 33:16",
+       "ref": "EXO.33.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.18",
+   "range": "EXO.33.18",
+   "kind": "passage",
+   "hash": "4c6fd810",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.18#p1-4c6fd810",
+     "text": "Your face, your substance, and your majesty.",
+     "label": "g",
+     "anchor": "glory"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.19",
+   "range": "EXO.33.19",
+   "kind": "passage",
+   "hash": "086d5eaf",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.19#p1-34427e4f",
+     "text": "My mercy and fatherly care.",
+     "label": "h",
+     "anchor": "goodness pass before thee"
+    },
+    {
+     "id": "geneva/EXO.33.19#p2-0c1d2af9",
+     "text": "See Ex 34:6,7.",
+     "label": "i",
+     "anchor": "proclaim the name of the LORD",
+     "refs": [
+      {
+       "text": "Ex 34:6,7",
+       "ref": "EXO.34.6"
+      },
+      {
+       "text": "Ex 34:6,7",
+       "ref": "EXO.34.7"
+      }
+     ]
+    },
+    {
+     "id": "geneva/EXO.33.19#p3-98cb2592",
+     "text": "For finding nothing in man that deserves mercy, he will freely give his.",
+     "label": "k",
+     "anchor": "mercy on whom I will shew"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.20",
+   "range": "EXO.33.20",
+   "kind": "passage",
+   "hash": "7b15c6fa",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.20#p1-7b15c6fa",
+     "text": "For Moses did not see his face in full majesty, but as man's weakness could bear.",
+     "label": "l",
+     "anchor": "live"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.21",
+   "range": "EXO.33.21",
+   "kind": "passage",
+   "hash": "2fe5989d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.21#p1-2fe5989d",
+     "text": "In mount Horeb.",
+     "label": "m",
+     "anchor": "me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.33.23",
+   "range": "EXO.33.23",
+   "kind": "passage",
+   "hash": "50b94d3e",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.33.23#p1-50b94d3e",
+     "text": "As much of my glory as in this mortal life you are able to see.",
+     "label": "n",
+     "anchor": "back parts"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/NUM.10.2",
+   "range": "NUM.10.2",
+   "kind": "passage",
+   "hash": "37f4c710",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.2#p1-37f4c710",
+     "text": "Or, of work beaten out with the hammer.",
+     "label": "a",
+     "anchor": "whole piece shalt thou make them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.5",
+   "range": "NUM.10.5",
+   "kind": "passage",
+   "hash": "a3124883",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.5#p1-a3124883",
+     "text": "That is, the host of Judah and they that are under his ensign.",
+     "label": "b",
+     "anchor": "east parts shall go forward"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.6",
+   "range": "NUM.10.6",
+   "kind": "passage",
+   "hash": "a965a25b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.6#p1-a965a25b",
+     "text": "Meaning, the heart of Reuben.",
+     "label": "c",
+     "anchor": "south side shall take their journey"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.8",
+   "range": "NUM.10.8",
+   "kind": "passage",
+   "hash": "5d9604e5",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.8#p1-5d9604e5",
+     "text": "So that only the priests must blow the trumpets, as long as the priesthood lasted.",
+     "label": "d",
+     "anchor": "blow with the trumpets"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.10",
+   "range": "NUM.10.10",
+   "kind": "passage",
+   "hash": "09311f97",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.10#p1-09311f97",
+     "text": "When you rejoice that God has removed any plague.",
+     "label": "e",
+     "anchor": "gladness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.13",
+   "range": "NUM.10.13",
+   "kind": "passage",
+   "hash": "d3be05e6",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.13#p1-d3be05e6",
+     "text": "From Sinai to Paran, Nu 33:1.",
+     "label": "f",
+     "anchor": "first took their journey according to",
+     "refs": [
+      {
+       "text": "Nu 33:1",
+       "ref": "NUM.33.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.17",
+   "range": "NUM.10.17",
+   "kind": "passage",
+   "hash": "85e4ab99",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.17#p1-85e4ab99",
+     "text": "With all the belongings of it.",
+     "label": "g",
+     "anchor": "the tabernacle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.21",
+   "range": "NUM.10.21",
+   "kind": "passage",
+   "hash": "34140104",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.21#p1-1fb9919b",
+     "text": "Upon their shoulders.",
+     "label": "h",
+     "anchor": "bearing the sanctuary"
+    },
+    {
+     "id": "geneva/NUM.10.21#p2-bf5c21d7",
+     "text": "The Merarites and Gershonites.",
+     "label": "i",
+     "anchor": "the other did set up the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.25",
+   "range": "NUM.10.25",
+   "kind": "passage",
+   "hash": "00bf6a2b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.25#p1-00bf6a2b",
+     "text": "Leaving none behind, nor any of the former that fainted in the way.",
+     "label": "k",
+     "anchor": "rereward of all the camps throughout"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.28",
+   "range": "NUM.10.28",
+   "kind": "passage",
+   "hash": "a5d610eb",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.28#p1-a5d610eb",
+     "text": "This was the order of their host when they travelled.",
+     "label": "l",
+     "anchor": "Thus were the journeyings of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.29",
+   "range": "NUM.10.29",
+   "kind": "passage",
+   "hash": "fe0cb5b3",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.29#p1-fe0cb5b3",
+     "text": "Some think that Reuel, Jethro, Hobab, and Keni were all one: Kimhi says that Reuel was Jethro's father: so Hobab was Moses father-in-law, see Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+     "label": "m",
+     "anchor": "Hobab",
+     "refs": [
+      {
+       "text": "Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+       "ref": "EXO.2.18"
+      },
+      {
+       "text": "Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+       "ref": "EXO.3.1"
+      },
+      {
+       "text": "Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+       "ref": "EXO.4.18"
+      },
+      {
+       "text": "Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+       "ref": "EXO.18.1"
+      },
+      {
+       "text": "Ex 2:18,3:1,4:18,18:1; Jud 4:11",
+       "ref": "JDG.4.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.33",
+   "range": "NUM.10.33",
+   "kind": "passage",
+   "hash": "2eddddc5",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.33#p1-2eddddc5",
+     "text": "Mount Sinai, or Horeb.",
+     "label": "n",
+     "anchor": "mount of the LORD three days'"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.35",
+   "range": "NUM.10.35",
+   "kind": "passage",
+   "hash": "d358db23",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.35#p1-d358db23",
+     "text": "Declare your might and power.",
+     "label": "o",
+     "anchor": "Rise up"
+    }
+   ]
+  }
+ ]
+}

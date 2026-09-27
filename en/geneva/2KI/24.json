@@ -1,0 +1,95 @@
+{
+ "source": "geneva",
+ "book": "2KI",
+ "chapter": 24,
+ "units": [
+  {
+   "id": "geneva/2KI.24.1",
+   "range": "2KI.24.1",
+   "kind": "passage",
+   "hash": "1a09de83",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.24.1#p1-1a09de83",
+     "text": "In the end of the third year of his reign and in the beginning of the fourth, Dan 1:1.",
+     "label": "a",
+     "anchor": "days Nebuchadnezzar king of Babylon came",
+     "refs": [
+      {
+       "text": "Dan 1:1",
+       "ref": "DAN.1.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.24.3",
+   "range": "2KI.24.3",
+   "kind": "passage",
+   "hash": "f4369509",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.24.3#p1-f4369509",
+     "text": "Though God used these wicked tyrants to execute his just judgments, they are not to be excused, for they proceeded from ambition and malice.",
+     "label": "b",
+     "anchor": "commandment of the LORD came this"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.24.6",
+   "range": "2KI.24.6",
+   "kind": "passage",
+   "hash": "30295877",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.24.6#p1-30295877",
+     "text": "Not that he was buried with his fathers, but he died in the way, as they let him prisoner toward Babylon, see Jer 22:19.",
+     "label": "c",
+     "anchor": "slept with his fathers",
+     "refs": [
+      {
+       "text": "Jer 22:19",
+       "ref": "JER.22.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.24.12",
+   "range": "2KI.24.12",
+   "kind": "passage",
+   "hash": "b97e3712",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.24.12#p1-2b81e506",
+     "text": "That is, yielded himself to him by the counsel of Jeremiah.",
+     "label": "d",
+     "anchor": "went out to the king of"
+    },
+    {
+     "id": "geneva/2KI.24.12#p2-ca120aa8",
+     "text": "In the reign of the king of Babylon.",
+     "label": "e",
+     "anchor": "of his reign"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.24.20",
+   "range": "2KI.24.20",
+   "kind": "passage",
+   "hash": "835cbb98",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.24.20#p1-835cbb98",
+     "text": "Out of Jerusalem and Judah into Babylon.",
+     "label": "f",
+     "anchor": "presence"
+    }
+   ]
+  }
+ ]
+}

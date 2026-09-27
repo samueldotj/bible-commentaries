@@ -1,0 +1,187 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "geneva/1SA.28.1",
+   "range": "1SA.28.1",
+   "kind": "passage",
+   "hash": "1115a846",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.1#p1-1115a846",
+     "text": "Though it was a great grief to David to fight against the people of God, yet such was his infirmity, he did not dare deny him.",
+     "label": "a",
+     "anchor": "Know thou assuredly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.3",
+   "range": "1SA.28.3",
+   "kind": "passage",
+   "hash": "d6c9f64d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.3#p1-d6c9f64d",
+     "text": "According to the commandment of God, Ex 22:18, De 18:10,11.",
+     "label": "b",
+     "anchor": "put away those that had familiar",
+     "refs": [
+      {
+       "text": "Ex 22:18, De 18:10,11",
+       "ref": "EXO.22.18"
+      },
+      {
+       "text": "Ex 22:18, De 18:10,11",
+       "ref": "DEU.18.10"
+      },
+      {
+       "text": "Ex 22:18, De 18:10,11",
+       "ref": "DEU.18.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.6",
+   "range": "1SA.28.6",
+   "kind": "passage",
+   "hash": "a5c02e6a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.6#p1-a5c02e6a",
+     "text": "Meaning, the high priest, Ex 28:30.",
+     "label": "c",
+     "anchor": "Urim",
+     "refs": [
+      {
+       "text": "Ex 28:30",
+       "ref": "EXO.28.30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.8",
+   "range": "1SA.28.8",
+   "kind": "passage",
+   "hash": "fafc5e5a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.8#p1-fafc5e5a",
+     "text": "He does not seek God in his misery, but is led by Satan to unlawful means, which in his conscience he condemns.",
+     "label": "d",
+     "anchor": "disguised himself"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.11",
+   "range": "1SA.28.11",
+   "kind": "passage",
+   "hash": "630a62cf",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.11#p1-630a62cf",
+     "text": "He speaks according to his gross ignorance not considering the state of the saints after this life, and how Satan has no power over them.",
+     "label": "e",
+     "anchor": "Samuel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.14",
+   "range": "1SA.28.14",
+   "kind": "passage",
+   "hash": "4baf4c4c",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.14#p1-4baf4c4c",
+     "text": "To his imagination, even though it was Satan, who to blind his eyes took on him the form of Samuel, as he can do of an angel of light.",
+     "label": "f",
+     "anchor": "Samuel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.17",
+   "range": "1SA.28.17",
+   "kind": "passage",
+   "hash": "92d7fc8d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.17#p1-92d7fc8d",
+     "text": "That is, to David.",
+     "label": "g",
+     "anchor": "him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.19",
+   "range": "1SA.28.19",
+   "kind": "passage",
+   "hash": "64c4d0c3",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.19#p1-64c4d0c3",
+     "text": "You will die, 1Sa 31:6.",
+     "label": "h",
+     "anchor": "and to morrow shalt thou and",
+     "refs": [
+      {
+       "text": "1Sa 31:6",
+       "ref": "1SA.31.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.20",
+   "range": "1SA.28.20",
+   "kind": "passage",
+   "hash": "eed912ee",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.20#p1-eed912ee",
+     "text": "The wicked when they hear God's judgments, tremble and despair, but cannot seek for mercy by repentance.",
+     "label": "i",
+     "anchor": "afraid"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.21",
+   "range": "1SA.28.21",
+   "kind": "passage",
+   "hash": "0d9b3732",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.21#p1-0d9b3732",
+     "text": "I have ventured my life.",
+     "label": "k",
+     "anchor": "have put my life in my"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.28.24",
+   "range": "1SA.28.24",
+   "kind": "passage",
+   "hash": "89c711f6",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.28.24#p1-89c711f6",
+     "text": "Because it required haste.",
+     "label": "l",
+     "anchor": "unleavened bread thereof"
+    }
+   ]
+  }
+ ]
+}

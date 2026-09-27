@@ -1,0 +1,181 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/ISA.25.1",
+   "range": "ISA.25.1",
+   "kind": "passage",
+   "hash": "c00468c3",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.1#p1-c00468c3",
+     "text": "Thus the prophet gives thanks to God because he will bring under subjection these nations by his corrections, and make them of his Church, who before were his enemies.",
+     "label": "a",
+     "anchor": "art my God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.2",
+   "range": "ISA.25.2",
+   "kind": "passage",
+   "hash": "00e1417a",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.2#p1-8cd8d843",
+     "text": "Not only of Jerusalem, but also of these other cities which have been your enemies.",
+     "label": "b",
+     "anchor": "city an heap"
+    },
+    {
+     "id": "geneva/ISA.25.2#p2-825a7602",
+     "text": "That is, a place where all vagabonds may live without danger and as it were at ease as in a palace.",
+     "label": "c",
+     "anchor": "of foreigners to be no city"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.3",
+   "range": "ISA.25.3",
+   "kind": "passage",
+   "hash": "48af29cf",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.3#p1-48af29cf",
+     "text": "The arrogant and proud who before would not know you will by your corrections fear and glorify you.",
+     "label": "d",
+     "anchor": "strong people glorify thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.4",
+   "range": "ISA.25.4",
+   "kind": "passage",
+   "hash": "b0dc2c14",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.4#p1-b0dc2c14",
+     "text": "The rage of the wicked is furious, till God breaks the force of it.",
+     "label": "e",
+     "anchor": "of the terrible ones is as"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.5",
+   "range": "ISA.25.5",
+   "kind": "passage",
+   "hash": "3ab852f5",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.5#p1-bb06d3f3",
+     "text": "Meaning, that as the heat is abated by the rain, so shall God bring down the rage of the wicked.",
+     "label": "f",
+     "anchor": "heat in a dry place"
+    },
+    {
+     "id": "geneva/ISA.25.5#p2-1a0ca375",
+     "text": "As a cloud shades from the heat of the sun, so God will assuage the rejoicing of the wicked against the godly.",
+     "label": "g",
+     "anchor": "even the heat with the shadow"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.6",
+   "range": "ISA.25.6",
+   "kind": "passage",
+   "hash": "43250134",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.6#p1-43250134",
+     "text": "That is, in Zion, by which he means his Church, which would under Christ be assembled of the Jews and the Gentiles, and is here described under the figure of a costly banquet, as in Mt 22:2.",
+     "label": "h",
+     "anchor": "mountain shall the LORD of hosts",
+     "refs": [
+      {
+       "text": "Mt 22:2",
+       "ref": "MAT.22.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.7",
+   "range": "ISA.25.7",
+   "kind": "passage",
+   "hash": "2ed29436",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.7#p1-2ed29436",
+     "text": "Meaning, that ignorance and blindness, by which we are kept back from Christ.",
+     "label": "i",
+     "anchor": "the face of the covering cast"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.8",
+   "range": "ISA.25.8",
+   "kind": "passage",
+   "hash": "2fc97aa7",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.8#p1-2fc97aa7",
+     "text": "He will take away all opportunity for sorrow and fill his with perfect joy, Rev 7:17,21:4.",
+     "label": "k",
+     "anchor": "wipe away tears from off all",
+     "refs": [
+      {
+       "text": "Rev 7:17,21:4",
+       "ref": "REV.7.17"
+      },
+      {
+       "text": "Rev 7:17,21:4",
+       "ref": "REV.21.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.25.10",
+   "range": "ISA.25.10",
+   "kind": "passage",
+   "hash": "c1d9fa9a",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.25.10#p1-527544f5",
+     "text": "By Moab are meant all the enemies of his Church.",
+     "label": "l",
+     "anchor": "Moab shall be trodden down under"
+    },
+    {
+     "id": "geneva/ISA.25.10#p2-d7d78db5",
+     "text": "There were two cities by this name: one in Judah, 1Ch 6:81 and another in the land of Moab, Jer 48:2 which seems to have been a plentiful place of corn, Isa 36:17.",
+     "label": "m",
+     "anchor": "dunghill",
+     "refs": [
+      {
+       "text": "1Ch 6:81",
+       "ref": "1CH.6.81"
+      },
+      {
+       "text": "Jer 48:2",
+       "ref": "JER.48.2"
+      },
+      {
+       "text": "Isa 36:17",
+       "ref": "ISA.36.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

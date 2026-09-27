@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 100,
+ "units": [
+  {
+   "id": "geneva/PSA.100.1",
+   "range": "PSA.100.1",
+   "kind": "passage",
+   "hash": "d948614c",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.1#p1-d948614c",
+     "text": "He prophecies that God's benefits in calling the Gentiles will be so great that they will have wonderful opportunity to praise his mercy and rejoice.",
+     "label": "a",
+     "anchor": "joyful noise unto the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.3",
+   "range": "PSA.100.3",
+   "kind": "passage",
+   "hash": "7b74f813",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.3#p1-7b74f813",
+     "text": "He chiefly means concerning spiritual regeneration, by which we are his sheep and people.",
+     "label": "b",
+     "anchor": "made us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.4",
+   "range": "PSA.100.4",
+   "kind": "passage",
+   "hash": "31b8ec9e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.4#p1-31b8ec9e",
+     "text": "He shows that God will not be worshipped, but by those means which he has appointed.",
+     "label": "c",
+     "anchor": "Enter into his gates with thanksgiving"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.5",
+   "range": "PSA.100.5",
+   "kind": "passage",
+   "hash": "82e0a4bd",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.5#p1-82e0a4bd",
+     "text": "He declares that we should never be weary in praising him, seeing his mercies toward us last forever.",
+     "label": "d",
+     "anchor": "everlasting"
+    }
+   ]
+  }
+ ]
+}

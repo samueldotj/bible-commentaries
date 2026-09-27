@@ -1,0 +1,125 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 47,
+ "units": [
+  {
+   "id": "geneva/JER.47.1",
+   "range": "JER.47.1",
+   "kind": "passage",
+   "hash": "96e8c37e",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.1#p1-96e8c37e",
+     "text": "Or Azzah, a city of the Philistines.",
+     "label": "a",
+     "anchor": "Gaza"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.47.2",
+   "range": "JER.47.2",
+   "kind": "passage",
+   "hash": "95dbc9f9",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.2#p1-95dbc9f9",
+     "text": "He means the army of the Chaldeans, Isa 8:7,8.",
+     "label": "b",
+     "anchor": "north",
+     "refs": [
+      {
+       "text": "Isa 8:7,8",
+       "ref": "ISA.8.7"
+      },
+      {
+       "text": "Isa 8:7,8",
+       "ref": "ISA.8.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.47.3",
+   "range": "JER.47.3",
+   "kind": "passage",
+   "hash": "d9a7b74f",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.3#p1-50cef715",
+     "text": "The great fear will take away their natural affection.",
+     "label": "c",
+     "anchor": "the fathers shall not look back"
+    },
+    {
+     "id": "geneva/JER.47.3#p2-fd0b9fbd",
+     "text": "Their heart will so fail them.",
+     "label": "d",
+     "anchor": "hands"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.47.4",
+   "range": "JER.47.4",
+   "kind": "passage",
+   "hash": "592b301b",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.4#p1-592b301b",
+     "text": "For the Caphtorims had destroyed in old time the Philistines, and dwelt in their land even to Gaza, De 2:23.",
+     "label": "e",
+     "anchor": "Caphtor",
+     "refs": [
+      {
+       "text": "De 2:23",
+       "ref": "DEU.2.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.47.5",
+   "range": "JER.47.5",
+   "kind": "passage",
+   "hash": "c7741b3c",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.5#p1-3cc0fcb5",
+     "text": "They who shaved their heads for sorrow and heaviness.",
+     "label": "f",
+     "anchor": "Baldness is come upon Gaza"
+    },
+    {
+     "id": "geneva/JER.47.5#p2-db449bd7",
+     "text": "As the heathen used in their mourning, which the Lord forbade his people to do, De 14:1.",
+     "label": "g",
+     "anchor": "thou cut thyself",
+     "refs": [
+      {
+       "text": "De 14:1",
+       "ref": "DEU.14.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.47.7",
+   "range": "JER.47.7",
+   "kind": "passage",
+   "hash": "0cf8d3a4",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.47.7#p1-0cf8d3a4",
+     "text": "Meaning, that it is not profitable that the wicked should by any means escape or hinder the Lord when he will take vengeance.",
+     "label": "h",
+     "anchor": "quiet"
+    }
+   ]
+  }
+ ]
+}

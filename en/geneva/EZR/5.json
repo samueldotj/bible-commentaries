@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EZR",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/EZR.5.2",
+   "range": "EZR.5.2",
+   "kind": "passage",
+   "hash": "e1534aff",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.2#p1-e1534aff",
+     "text": "Who encouraged them to go forward, and cursed them because they were more careful to build their own houses, than zealous to build the temple of God.",
+     "label": "a",
+     "anchor": "helping them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.4",
+   "range": "EZR.5.4",
+   "kind": "passage",
+   "hash": "9ef92c5e",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.4#p1-9ef92c5e",
+     "text": "That is, the enemies asked this, as in Ezr 5:10.",
+     "label": "b",
+     "anchor": "Then said we unto them after",
+     "refs": [
+      {
+       "text": "Ezr 5:10",
+       "ref": "EZR.5.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.5",
+   "range": "EZR.5.5",
+   "kind": "passage",
+   "hash": "74f79317",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.5#p1-74f79317",
+     "text": "His favour and the spirit of strength.",
+     "label": "c",
+     "anchor": "eye of their God was upon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.11",
+   "range": "EZR.5.11",
+   "kind": "passage",
+   "hash": "434f5db0",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.11#p1-434f5db0",
+     "text": "That is, Solomon.",
+     "label": "d",
+     "anchor": "great king of Israel builded and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.13",
+   "range": "EZR.5.13",
+   "kind": "passage",
+   "hash": "bb151dc8",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.13#p1-bb151dc8",
+     "text": "Read Ezr 1:1,2.",
+     "label": "e",
+     "anchor": "first year of Cyrus the king",
+     "refs": [
+      {
+       "text": "Ezr 1:1,2",
+       "ref": "EZR.1.1"
+      },
+      {
+       "text": "Ezr 1:1,2",
+       "ref": "EZR.1.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.14",
+   "range": "EZR.5.14",
+   "kind": "passage",
+   "hash": "c63e67b5",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.14#p1-c63e67b5",
+     "text": "Read Ezr 1:8.",
+     "label": "f",
+     "anchor": "Sheshbazzar",
+     "refs": [
+      {
+       "text": "Ezr 1:8",
+       "ref": "EZR.1.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.17",
+   "range": "EZR.5.17",
+   "kind": "passage",
+   "hash": "2c7b892d",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.17#p1-2c7b892d",
+     "text": "Meaning in the library or places where lay the register or record of times.",
+     "label": "g",
+     "anchor": "treasure house"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "geneva/1SA.22.1",
+   "range": "1SA.22.1",
+   "kind": "passage",
+   "hash": "33f749c8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.1#p1-33f749c8",
+     "text": "Which was in the tribe of Judah, near Bethlehem.",
+     "label": "a",
+     "anchor": "Adullam"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.3",
+   "range": "1SA.22.3",
+   "kind": "passage",
+   "hash": "12041390",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.3#p1-12041390",
+     "text": "For there was another so called in Judah.",
+     "label": "b",
+     "anchor": "Moab"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.4",
+   "range": "1SA.22.4",
+   "kind": "passage",
+   "hash": "88ce67f2",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.4#p1-e4869bd6",
+     "text": "For he feared the rage of Saul against his house.",
+     "label": "c",
+     "anchor": "brought them before the king of"
+    },
+    {
+     "id": "geneva/1SA.22.4#p2-9f810451",
+     "text": "That is, in Mizpeh, which was a stronghold.",
+     "label": "d",
+     "anchor": "the hold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.6",
+   "range": "1SA.22.6",
+   "kind": "passage",
+   "hash": "1cde12c2",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.6#p1-1cde12c2",
+     "text": "That a great brute came on him.",
+     "label": "e",
+     "anchor": "discovered"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.7",
+   "range": "1SA.22.7",
+   "kind": "passage",
+   "hash": "bbb7e67e",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.7#p1-bbb7e67e",
+     "text": "You that are of my tribe and lineage.",
+     "label": "f",
+     "anchor": "Benjamites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.8",
+   "range": "1SA.22.8",
+   "kind": "passage",
+   "hash": "3a1c83f8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.8#p1-3a1c83f8",
+     "text": "By this he would persuade them that this conspiracy was most horrible, where the son conspired against the father, and the servant against his master.",
+     "label": "g",
+     "anchor": "son hath stirred up my servant"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.11",
+   "range": "1SA.22.11",
+   "kind": "passage",
+   "hash": "0ee1ef17",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.11#p1-0ee1ef17",
+     "text": "Which were the remnant of the house of Eli, whose house God threatened to punish.",
+     "label": "h",
+     "anchor": "the priests that were in Nob"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.15",
+   "range": "1SA.22.15",
+   "kind": "passage",
+   "hash": "5d9521d1",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.15#p1-5d9521d1",
+     "text": "Have I not at other times also, when he had great affairs, consulted with the Lord for him?",
+     "label": "i",
+     "anchor": "Did I then begin to enquire"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.17",
+   "range": "1SA.22.17",
+   "kind": "passage",
+   "hash": "ec8b7ab2",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.17#p1-ec8b7ab2",
+     "text": "For they knew that they should not obey the wicked commandment of the king in slaying the innocent.",
+     "label": "k",
+     "anchor": "would not put forth their hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.20",
+   "range": "1SA.22.20",
+   "kind": "passage",
+   "hash": "9ec93616",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.20#p1-9ec93616",
+     "text": "This was God's providence, who according to his promise preserved some of the house of Eli, 1Sa 2:33.",
+     "label": "l",
+     "anchor": "escaped",
+     "refs": [
+      {
+       "text": "1Sa 2:33",
+       "ref": "1SA.2.33"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/PSA.20.1",
+   "range": "PSA.20.1",
+   "kind": "passage",
+   "hash": "49bcb912",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.1#p1-b1df3349",
+     "text": "By this kings are also admonished to call to God in their affairs.",
+     "label": "a",
+     "anchor": "LORD hear thee in the day"
+    },
+    {
+     "id": "geneva/PSA.20.1#p2-37f397aa",
+     "text": "The virtue, power and grace of God.",
+     "label": "b",
+     "anchor": "name of the God of Jacob"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.3",
+   "range": "PSA.20.3",
+   "kind": "passage",
+   "hash": "e4ce389b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.3#p1-e4ce389b",
+     "text": "In token that they are acceptable to him.",
+     "label": "c",
+     "anchor": "accept thy burnt sacrifice"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.5",
+   "range": "PSA.20.5",
+   "kind": "passage",
+   "hash": "42b1675a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.5#p1-42b1675a",
+     "text": "Granted to the king in whose wealth our happiness stands.",
+     "label": "d",
+     "anchor": "salvation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.6",
+   "range": "PSA.20.6",
+   "kind": "passage",
+   "hash": "24ea1b4d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.6#p1-01d5096d",
+     "text": "The Church feels that God had heard their petition.",
+     "label": "e",
+     "anchor": "know I that the LORD saveth"
+    },
+    {
+     "id": "geneva/PSA.20.6#p2-c6efd1a4",
+     "text": "As by the visible sanctuary God's familiarity appeared toward his people, so by the heavenly is meant his power and majesty.",
+     "label": "f",
+     "anchor": "holy heaven with the saving strength"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.8",
+   "range": "PSA.20.8",
+   "kind": "passage",
+   "hash": "e6f0da71",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.8#p1-e6f0da71",
+     "text": "The worldlings who do not put their trust in God alone.",
+     "label": "g",
+     "anchor": "They are brought down and fallen"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.9",
+   "range": "PSA.20.9",
+   "kind": "passage",
+   "hash": "88e5dea8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.9#p1-88e5dea8",
+     "text": "Let the king be able to deliver us by your strength, when we seek him for help.",
+     "label": "h",
+     "anchor": "let the king hear us when"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/NUM.13.2",
+   "range": "NUM.13.2",
+   "kind": "passage",
+   "hash": "931aaf19",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.2#p1-931aaf19",
+     "text": "After the people had required it of Moses, as it is in De 1:22 then the Lord told Moses to do it.",
+     "label": "b",
+     "anchor": "Send thou men",
+     "refs": [
+      {
+       "text": "De 1:22",
+       "ref": "DEU.1.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.16",
+   "range": "NUM.13.16",
+   "kind": "passage",
+   "hash": "6406900f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.16#p1-6406900f",
+     "text": "Which in number were twelve according to the twelve tribes.",
+     "label": "c",
+     "anchor": "men whom Moses sent to spy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.19",
+   "range": "NUM.13.19",
+   "kind": "passage",
+   "hash": "a0f0b26b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.19#p1-a0f0b26b",
+     "text": "Plentiful or barren.",
+     "label": "d",
+     "anchor": "good or bad"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.21",
+   "range": "NUM.13.21",
+   "kind": "passage",
+   "hash": "ba3186a4",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.21#p1-ba3186a4",
+     "text": "Which was in the wilderness of Paran.",
+     "label": "e",
+     "anchor": "Zin unto Rehob"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.22",
+   "range": "NUM.13.22",
+   "kind": "passage",
+   "hash": "e9253f52",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.22#p1-fd9a12b7",
+     "text": "Which were a type of giant.",
+     "label": "f",
+     "anchor": "Anak"
+    },
+    {
+     "id": "geneva/NUM.13.22#p2-e473d0b1",
+     "text": "Declaring the antiquity of it: also Abraham, Sarah, Isaac and Jacob were buried there.",
+     "label": "g",
+     "anchor": "Hebron was built seven years before"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.26",
+   "range": "NUM.13.26",
+   "kind": "passage",
+   "hash": "13d53232",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.26#p1-13d53232",
+     "text": "Called also Kadesh-barnea.",
+     "label": "h",
+     "anchor": "Paran"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.27",
+   "range": "NUM.13.27",
+   "kind": "passage",
+   "hash": "d4143be5",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.27#p1-d4143be5",
+     "text": "That is, Moses.",
+     "label": "i",
+     "anchor": "him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.28",
+   "range": "NUM.13.28",
+   "kind": "passage",
+   "hash": "ef566213",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.28#p1-ef566213",
+     "text": "Ahiman, Sheshai, and Talmai, whom Caleb slew afterward, Jos 11:21,22.",
+     "label": "k",
+     "anchor": "children of Anak there",
+     "refs": [
+      {
+       "text": "Jos 11:21,22",
+       "ref": "JOS.11.21"
+      },
+      {
+       "text": "Jos 11:21,22",
+       "ref": "JOS.11.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.32",
+   "range": "NUM.13.32",
+   "kind": "passage",
+   "hash": "40064e51",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.32#p1-40064e51",
+     "text": "The giants were so cruel, that they spoiled and killed one another and those that came to them.",
+     "label": "l",
+     "anchor": "eateth up the inhabitants thereof"
+    }
+   ]
+  }
+ ]
+}

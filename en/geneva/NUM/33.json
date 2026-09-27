@@ -1,0 +1,83 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 33,
+ "units": [
+  {
+   "id": "geneva/NUM.33.1",
+   "range": "NUM.33.1",
+   "kind": "passage",
+   "hash": "c02d9006",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.33.1#p1-c02d9006",
+     "text": "From which they departed, and where they came.",
+     "label": "a",
+     "anchor": "journeys of the children of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.33.4",
+   "range": "NUM.33.4",
+   "kind": "passage",
+   "hash": "95bd70e8",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.33.4#p1-95bd70e8",
+     "text": "Either meaning their idols, or their men of authority.",
+     "label": "b",
+     "anchor": "gods also the LORD executed judgments"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.33.7",
+   "range": "NUM.33.7",
+   "kind": "passage",
+   "hash": "923a52f1",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.33.7#p1-923a52f1",
+     "text": "At the commandment of the Lord in Ex 14:2.",
+     "label": "c",
+     "anchor": "Pihahiroth",
+     "refs": [
+      {
+       "text": "Ex 14:2",
+       "ref": "EXO.14.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.33.38",
+   "range": "NUM.33.38",
+   "kind": "passage",
+   "hash": "f3c2214e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.33.38#p1-f3c2214e",
+     "text": "Which the Hebrews call Ab, and contains part of July and part of August.",
+     "label": "d",
+     "anchor": "fifth month"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.33.52",
+   "range": "NUM.33.52",
+   "kind": "passage",
+   "hash": "32ae758a",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.33.52#p1-32ae758a",
+     "text": "Which were set up in their high places to worship.",
+     "label": "e",
+     "anchor": "pictures"
+    }
+   ]
+  }
+ ]
+}

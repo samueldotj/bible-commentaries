@@ -1,0 +1,143 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/NUM.7.3",
+   "range": "NUM.7.3",
+   "kind": "passage",
+   "hash": "45c23700",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.3#p1-45c23700",
+     "text": "Like horse litters, to keep the things that were carried in them from the weather.",
+     "label": "a",
+     "anchor": "covered wagons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.5",
+   "range": "NUM.7.5",
+   "kind": "passage",
+   "hash": "a01a67d7",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.5#p1-a01a67d7",
+     "text": "That is, to carry things.",
+     "label": "b",
+     "anchor": "service of the tabernacle of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.7",
+   "range": "NUM.7.7",
+   "kind": "passage",
+   "hash": "795ffd0a",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.7#p1-795ffd0a",
+     "text": "For their use to carry with.",
+     "label": "c",
+     "anchor": "according to their service"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.9",
+   "range": "NUM.7.9",
+   "kind": "passage",
+   "hash": "2221f57f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.9#p1-2221f57f",
+     "text": "The holy thing of the sanctuary must be carried on their shoulders and not drawn with oxen, Nu 4:15.",
+     "label": "d",
+     "anchor": "because the service of the sanctuary",
+     "refs": [
+      {
+       "text": "Nu 4:15",
+       "ref": "NUM.4.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.10",
+   "range": "NUM.7.10",
+   "kind": "passage",
+   "hash": "fecf583c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.10#p1-fecf583c",
+     "text": "That is, when the first sacrifice was offered on it by Aaron, in Le 9:1.",
+     "label": "e",
+     "anchor": "dedicating of the altar in the",
+     "refs": [
+      {
+       "text": "Le 9:1",
+       "ref": "LEV.9.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.84",
+   "range": "NUM.7.84",
+   "kind": "passage",
+   "hash": "a2bb56e9",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.84#p1-a2bb56e9",
+     "text": "This was the offering of the princes, when Aaron dedicated the altar.",
+     "label": "f",
+     "anchor": "dedication of the altar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.88",
+   "range": "NUM.7.88",
+   "kind": "passage",
+   "hash": "68dc4d2c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.88#p1-68dc4d2c",
+     "text": "By Aaron.",
+     "label": "g",
+     "anchor": "anointed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.7.89",
+   "range": "NUM.7.89",
+   "kind": "passage",
+   "hash": "2f779223",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.7.89#p1-70d05f4c",
+     "text": "That is, the sanctuary.",
+     "label": "h",
+     "anchor": "tabernacle of the congregation to speak"
+    },
+    {
+     "id": "geneva/NUM.7.89#p2-233aeba6",
+     "text": "According as he had promised in Ex 25:22.",
+     "label": "i",
+     "anchor": "between the two cherubims",
+     "refs": [
+      {
+       "text": "Ex 25:22",
+       "ref": "EXO.25.22"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

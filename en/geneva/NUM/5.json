@@ -1,0 +1,211 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/NUM.5.3",
+   "range": "NUM.5.3",
+   "kind": "passage",
+   "hash": "dd7d8474",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.3#p1-dd7d8474",
+     "text": "There were three types of tents: of the Lord, of the Levites, and of the Israelites.",
+     "label": "a",
+     "anchor": "midst whereof I dwell"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.6",
+   "range": "NUM.5.6",
+   "kind": "passage",
+   "hash": "35f55ffe",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.6#p1-35f55ffe",
+     "text": "Commit any fault willingly.",
+     "label": "b",
+     "anchor": "that men commit"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.8",
+   "range": "NUM.5.8",
+   "kind": "passage",
+   "hash": "5b014185",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.8#p1-5b014185",
+     "text": "If he is dead to whom the wrong is done and also has no relatives.",
+     "label": "c",
+     "anchor": "man have no kinsman to recompense"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.9",
+   "range": "NUM.5.9",
+   "kind": "passage",
+   "hash": "1ef004de",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.9#p1-1ef004de",
+     "text": "Or, things offered to the Lord, as first fruits, etc.",
+     "label": "d",
+     "anchor": "holy things of the children of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.12",
+   "range": "NUM.5.12",
+   "kind": "passage",
+   "hash": "61d580f4",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.12#p1-61d580f4",
+     "text": "By breaking the band of marriage, and playing the harlot.",
+     "label": "e",
+     "anchor": "go aside"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.15",
+   "range": "NUM.5.15",
+   "kind": "passage",
+   "hash": "cc64aaf2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.15#p1-334f2f3c",
+     "text": "Only in the sin offering, and so this offering of jealousy were neither oil nor incense offered.",
+     "label": "f",
+     "anchor": "oil upon it"
+    },
+    {
+     "id": "geneva/NUM.5.15#p2-e298ad1a",
+     "text": "Or, making the sin known, and not purging it.",
+     "label": "g",
+     "anchor": "remembrance"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.17",
+   "range": "NUM.5.17",
+   "kind": "passage",
+   "hash": "4d16108d",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.17#p1-4d16108d",
+     "text": "Which also is called the water of purification of sprinkling, read Nu 19:9.",
+     "label": "h",
+     "anchor": "holy water in an earthen vessel",
+     "refs": [
+      {
+       "text": "Nu 19:9",
+       "ref": "NUM.19.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.18",
+   "range": "NUM.5.18",
+   "kind": "passage",
+   "hash": "6790a9ed",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.18#p1-6790a9ed",
+     "text": "It was so called by the effect, because it declared the woman to be accursed, and turned to her destruction.",
+     "label": "i",
+     "anchor": "curse"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.21",
+   "range": "NUM.5.21",
+   "kind": "passage",
+   "hash": "6a1bd683",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.21#p1-6a1bd683",
+     "text": "Both because she had committed so heinous a fault, and forswore herself in denying the same.",
+     "label": "k",
+     "anchor": "curse and an oath among thy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.22",
+   "range": "NUM.5.22",
+   "kind": "passage",
+   "hash": "d6eb8fd8",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.22#p1-d6eb8fd8",
+     "text": "That is, may it be as you wished, as in Ps 41:13; De 27:15.",
+     "label": "l",
+     "anchor": "Amen",
+     "refs": [
+      {
+       "text": "Ps 41:13; De 27:15",
+       "ref": "PSA.41.13"
+      },
+      {
+       "text": "Ps 41:13; De 27:15",
+       "ref": "DEU.27.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.23",
+   "range": "NUM.5.23",
+   "kind": "passage",
+   "hash": "a5835301",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.23#p1-a5835301",
+     "text": "Shall wash the curses, which are written, into the water in the vessel.",
+     "label": "m",
+     "anchor": "blot them out with the bitter"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.26",
+   "range": "NUM.5.26",
+   "kind": "passage",
+   "hash": "7e437e3f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.26#p1-7e437e3f",
+     "text": "Where the incense was offered.",
+     "label": "n",
+     "anchor": "altar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.5.31",
+   "range": "NUM.5.31",
+   "kind": "passage",
+   "hash": "1c804ed0",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.5.31#p1-1c804ed0",
+     "text": "The man might accuse his wife on suspicion and not be reproved.",
+     "label": "o",
+     "anchor": "guiltless from iniquity"
+    }
+   ]
+  }
+ ]
+}

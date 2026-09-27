@@ -1,0 +1,35 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 40,
+ "units": [
+  {
+   "id": "geneva/EZK.40.1",
+   "range": "EZK.40.1",
+   "kind": "passage",
+   "hash": "b52128f4",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.40.1#p1-b52128f4",
+     "text": "The Jews counted the beginning of the year after two sorts: for their feasts they began to count in March and for their other affairs in September: so that this is to be understood of September.",
+     "label": "a",
+     "anchor": "beginning of the year"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.40.3",
+   "range": "EZK.40.3",
+   "kind": "passage",
+   "hash": "4a4eca1f",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.40.3#p1-4a4eca1f",
+     "text": "Which was an angel in the form of a man, that came to measure out this building.",
+     "label": "b",
+     "anchor": "man"
+    }
+   ]
+  }
+ ]
+}

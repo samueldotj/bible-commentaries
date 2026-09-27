@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/NEH.1.1",
+   "range": "NEH.1.1",
+   "kind": "passage",
+   "hash": "b3730581",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.1#p1-b3730581",
+     "text": "Which contains part of November and part of December, and was their ninth month.",
+     "label": "a",
+     "anchor": "Chisleu"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.2",
+   "range": "NEH.1.2",
+   "kind": "passage",
+   "hash": "7514135f",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.2#p1-7514135f",
+     "text": "A Jew as I was.",
+     "label": "b",
+     "anchor": "brethren"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.3",
+   "range": "NEH.1.3",
+   "kind": "passage",
+   "hash": "bca9b031",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.3#p1-bca9b031",
+     "text": "Meaning in Judea.",
+     "label": "c",
+     "anchor": "province are in great affliction and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.11",
+   "range": "NEH.1.11",
+   "kind": "passage",
+   "hash": "57e5d18b",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.11#p1-6e3206cf",
+     "text": "That is, to worship you.",
+     "label": "d",
+     "anchor": "fear thy name"
+    },
+    {
+     "id": "geneva/NEH.1.11#p2-3dd209ce",
+     "text": "That is, the king Artaxerxes.",
+     "label": "e",
+     "anchor": "this man"
+    }
+   ]
+  }
+ ]
+}

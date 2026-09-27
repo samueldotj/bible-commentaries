@@ -1,0 +1,77 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/JOS.20.3",
+   "range": "JOS.20.3",
+   "kind": "passage",
+   "hash": "392e67cc",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.3#p1-392e67cc",
+     "text": "At unawares and bearing him no grudge.",
+     "label": "a",
+     "anchor": "unawares and unwittingly may flee thither"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.5",
+   "range": "JOS.20.5",
+   "kind": "passage",
+   "hash": "562c6c55",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.5#p1-562c6c55",
+     "text": "That is, the nearest kinsman of him that is slain.",
+     "label": "b",
+     "anchor": "avenger of blood pursue after him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.6",
+   "range": "JOS.20.6",
+   "kind": "passage",
+   "hash": "9d73ef51",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.6#p1-9d73ef51",
+     "text": "Till his cause was proved.",
+     "label": "c",
+     "anchor": "judgment"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.8",
+   "range": "JOS.20.8",
+   "kind": "passage",
+   "hash": "7bfdf89e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.8#p1-7bfdf89e",
+     "text": "Out of the half tribe of Manasseh beyond the Jordan.",
+     "label": "d",
+     "anchor": "tribe of Manasseh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.9",
+   "range": "JOS.20.9",
+   "kind": "passage",
+   "hash": "f7fce0c7",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.9#p1-f7fce0c7",
+     "text": "Before the Judges.",
+     "label": "e",
+     "anchor": "congregation"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/NUM.15.2",
+   "range": "NUM.15.2",
+   "kind": "passage",
+   "hash": "bc754700",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.2#p1-bc754700",
+     "text": "Into the land of Canaan.",
+     "label": "a",
+     "anchor": "land of your habitations"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.4",
+   "range": "NUM.15.4",
+   "kind": "passage",
+   "hash": "90f4bb0a",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.4#p1-90f4bb0a",
+     "text": "Read Ex 29:40.",
+     "label": "b",
+     "anchor": "hin of oil",
+     "refs": [
+      {
+       "text": "Ex 29:40",
+       "ref": "EXO.29.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.7",
+   "range": "NUM.15.7",
+   "kind": "passage",
+   "hash": "6edd4dd9",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.7#p1-6edd4dd9",
+     "text": "The liquor was so called, because it was poured on the thing that was offered.",
+     "label": "c",
+     "anchor": "drink offering thou shalt offer the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.12",
+   "range": "NUM.15.12",
+   "kind": "passage",
+   "hash": "37aec9e9",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.12#p1-37aec9e9",
+     "text": "Every sacrifice of beasts must have their meat offering and drink offering according to this proportion.",
+     "label": "d",
+     "anchor": "that ye shall prepare"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.20",
+   "range": "NUM.15.20",
+   "kind": "passage",
+   "hash": "1ab7b306",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.20#p1-1ab7b306",
+     "text": "Which is made from the first corn you harvest.",
+     "label": "e",
+     "anchor": "dough for an heave offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.22",
+   "range": "NUM.15.22",
+   "kind": "passage",
+   "hash": "e4284fc0",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.22#p1-e4284fc0",
+     "text": "By oversight or ignorance, read Le 4:2,13.",
+     "label": "f",
+     "anchor": "have erred",
+     "refs": [
+      {
+       "text": "Le 4:2,13",
+       "ref": "LEV.4.2"
+      },
+      {
+       "text": "Le 4:2,13",
+       "ref": "LEV.4.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.31",
+   "range": "NUM.15.31",
+   "kind": "passage",
+   "hash": "33e5fac4",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.31#p1-33e5fac4",
+     "text": "He shall sustain the punishment of his sin.",
+     "label": "h",
+     "anchor": "iniquity shall be upon him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.39",
+   "range": "NUM.15.39",
+   "kind": "passage",
+   "hash": "9038b646",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.39#p1-9038b646",
+     "text": "By leaving God's commandments and following your own fantasies.",
+     "label": "i",
+     "anchor": "whoring"
+    }
+   ]
+  }
+ ]
+}

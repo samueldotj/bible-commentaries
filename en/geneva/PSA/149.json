@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 149,
+ "units": [
+  {
+   "id": "geneva/PSA.149.1",
+   "range": "PSA.149.1",
+   "kind": "passage",
+   "hash": "5f8cac68",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.1#p1-5f8cac68",
+     "text": "For his rare and manifold benefits bestowed on his Church.",
+     "label": "a",
+     "anchor": "a new song"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.149.2",
+   "range": "PSA.149.2",
+   "kind": "passage",
+   "hash": "aaa6e75a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.2#p1-63894fc3",
+     "text": "In that they were preferred before all other nations, it was a new creation, and therefore Ps 95:7 they were called the sheep of God's hands.",
+     "label": "b",
+     "anchor": "made him",
+     "refs": [
+      {
+       "text": "Ps 95:7",
+       "ref": "PSA.95.7"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.149.2#p2-1a1ca858",
+     "text": "For God as he is the creator of the soul and body, so will he that both two serve him, and that his people be continually subject to him, as to their most lawful king.",
+     "label": "c",
+     "anchor": "King"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.149.5",
+   "range": "PSA.149.5",
+   "kind": "passage",
+   "hash": "0a2c795a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.5#p1-0a2c795a",
+     "text": "He alludes to that continual rest and quietness which they should have if they would suffer God to rule them.",
+     "label": "d",
+     "anchor": "beds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.149.7",
+   "range": "PSA.149.7",
+   "kind": "passage",
+   "hash": "86520863",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.7#p1-86520863",
+     "text": "This is chiefly accomplished in the kingdom of Christ when God's people for just causes execute God's judgments against his enemies and it gives no liberty to any to avenge their private injuries.",
+     "label": "e",
+     "anchor": "To execute vengeance upon the heathen"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.149.8",
+   "range": "PSA.149.8",
+   "kind": "passage",
+   "hash": "fb371972",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.8#p1-fb371972",
+     "text": "Not only the people, but the kings who were their enemies should be destroyed.",
+     "label": "f",
+     "anchor": "their kings with chains"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.149.9",
+   "range": "PSA.149.9",
+   "kind": "passage",
+   "hash": "61e1c35d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.149.9#p1-61e1c35d",
+     "text": "By this God binds the hands and minds of all his to enterprise no farther than he appoints.",
+     "label": "g",
+     "anchor": "written"
+    }
+   ]
+  }
+ ]
+}

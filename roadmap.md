@@ -36,14 +36,18 @@ because it is small, and Henry because readers are most likely to want it.
 
 ## 2. Import the English
 
-- [ ] A converter from each module into `en/{id}/{BOOK}/{ch}.json`: verse
-  ranges, plain-text paragraphs, and headings kept.
+- [x] The English format (`en/README.md`): one file per chapter, units
+  keyed by verse range, plain-text paragraphs with ids and references.
+- [x] Geneva (`tools/import_geneva.py`): 14,583 units. Misplaced entries
+  are re-keyed by their KJV verse text.
+- [x] Henry (`tools/import_henry.py`): 5,484 units. Each section's range is
+  read from its KJV passage, and every verse is covered.
 - [ ] Clean-up rules for each source: Henry's italic verse quotes, Gill's
   transliterated Hebrew, Trapp's Latin, Calvin's own translation of each
   passage, and book and chapter introductions.
-- [ ] Checks: every range parses, stays inside the book's chapters and
-  verses, and no unit is empty.
-- [ ] Import Geneva and Henry.
+- [x] Checks: every range parses, stays inside the book's chapters and
+  verses, no unit or paragraph is empty, and no markup is left.
+- [ ] Import Calvin, Poole and Trapp.
 
 ## 3. Translation tool
 
@@ -108,13 +112,13 @@ run, and estimated for Gill.
 
 | Commentary | English words | Sonnet 5 | Opus 5 |
 |---|---|---|---|
-| Geneva | 0.41M (measured) | ~$40 | ~$90 |
-| Matthew Henry | 5.23M (measured) | ~$520 | ~$1,150 |
+| Geneva | 0.39M (imported) | ~$40 | ~$90 |
+| Matthew Henry | 6.47M (imported) | ~$650 | ~$1,420 |
 | Calvin | 6.34M (measured, CCEL) | ~$630 | ~$1,400 |
 | Poole | 3.53M (measured) | ~$350 | ~$780 |
 | Trapp | 4.24M (measured) | ~$420 | ~$930 |
 | Early Church Fathers | 13.42M (measured) | ~$1,340 | ~$2,950 |
-| **Total without Gill** | **33.2M** | **~$3,300** | **~$7,300** |
+| **Total without Gill** | **34.4M** | **~$3,430** | **~$7,570** |
 | Gill, set aside | ~7M (estimate) | ~$700 | ~$1,500 |
 
 Not in the figures above:

@@ -1,0 +1,165 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/SNG.8.1",
+   "range": "SNG.8.1",
+   "kind": "passage",
+   "hash": "81224509",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.1#p1-81224509",
+     "text": "The Church called of the Gentiles speaks thus to the Church of Jerusalem.",
+     "label": "a",
+     "anchor": "that thou wert as my brother"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.3",
+   "range": "SNG.8.3",
+   "kind": "passage",
+   "hash": "a1a4b6f0",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.3#p1-a1a4b6f0",
+     "text": "Read So 2:6.",
+     "label": "b",
+     "anchor": "His left hand should be under",
+     "refs": [
+      {
+       "text": "So 2:6",
+       "ref": "SNG.2.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.4",
+   "range": "SNG.8.4",
+   "kind": "passage",
+   "hash": "0f0fe4e7",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.4#p1-0f0fe4e7",
+     "text": "Read So 3:5.",
+     "label": "c",
+     "anchor": "I charge you",
+     "refs": [
+      {
+       "text": "So 3:5",
+       "ref": "SNG.3.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.6",
+   "range": "SNG.8.6",
+   "kind": "passage",
+   "hash": "f4375f10",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.6#p1-f4375f10",
+     "text": "The spouse desires Christ to be joined in perpetual love with him.",
+     "label": "d",
+     "anchor": "Set me as a seal upon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.8",
+   "range": "SNG.8.8",
+   "kind": "passage",
+   "hash": "575d2720",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.8#p1-575d2720",
+     "text": "The Jewish Church speaks this of the Church of the Gentiles.",
+     "label": "e",
+     "anchor": "We have a little sister"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.9",
+   "range": "SNG.8.9",
+   "kind": "passage",
+   "hash": "a54fdd29",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.9#p1-a54fdd29",
+     "text": "If she is sure and fast, she is fit for her husband to dwell in.",
+     "label": "f",
+     "anchor": "If she is a wall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.10",
+   "range": "SNG.8.10",
+   "kind": "passage",
+   "hash": "a8a77454",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.10#p1-a8a77454",
+     "text": "The Church promises fidelity and constancy.",
+     "label": "g",
+     "anchor": "I am a wall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.11",
+   "range": "SNG.8.11",
+   "kind": "passage",
+   "hash": "171ccb1e",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.11#p1-171ccb1e",
+     "text": "This is the vineyard of the Lord hired out, Mt 21:33.",
+     "label": "h",
+     "anchor": "Solomon had a vineyard at Baalhamon",
+     "refs": [
+      {
+       "text": "Mt 21:33",
+       "ref": "MAT.21.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.13",
+   "range": "SNG.8.13",
+   "kind": "passage",
+   "hash": "eec15b82",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.13#p1-eec15b82",
+     "text": "Christ dwells in his Church, whose voice the faithful hear.",
+     "label": "i",
+     "anchor": "gardens"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.8.14",
+   "range": "SNG.8.14",
+   "kind": "passage",
+   "hash": "4e87cf93",
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.8.14#p1-4e87cf93",
+     "text": "The Church desires Christ that if he depart from them, yet he would haste to help them in their troubles.",
+     "label": "k",
+     "anchor": "Make haste"
+    }
+   ]
+  }
+ ]
+}

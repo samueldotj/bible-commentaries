@@ -1,0 +1,34 @@
+{
+ "source": "geneva",
+ "book": "DAN",
+ "chapter": 0,
+ "units": [
+  {
+   "id": "geneva/DAN",
+   "range": "DAN",
+   "kind": "book",
+   "title": "The Argument",
+   "hash": "1646cf86",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN#p1-3019d63b",
+     "text": "The great providence of God, and his singular mercy towards his Church are set forth here most vividly, who never leaves his own destitute, but now in their greatest miseries and afflictions gives them Prophets, such as Ezekiel and Daniel, whom he adorned with special graces of his Holy Spirit. And Daniel above all others had most special revelations of such things as would come to the Church, even from the time that they were in captivity, to the last end of the world, and to the general resurrection, as of the four Monarchies and empires of all the world, that is, of the Babylonians, Persians, Grecians, and Romans."
+    },
+    {
+     "id": "geneva/DAN#p2-dd2fe1ab",
+     "text": "Also of the certain number of the times even until Christ, when all ceremonies and sacrifices would cease, because he would be the accomplishment of them: moreover he shows Christ's office and the reason of his death, which was by his sacrifice to take away sins, and to bring everlasting life. And as from the beginning God always exercised his people under the cross, so he teaches here, that after Christ is offered, he will still leave this exercise to his Church, until the dead rise again, and Christ gathers his own into his kingdom in the heavens. (a) Read 2Ki 24:1, Jer 25:1.",
+     "refs": [
+      {
+       "text": "2Ki 24:1, Jer 25:1",
+       "ref": "2KI.24.1"
+      },
+      {
+       "text": "2Ki 24:1, Jer 25:1",
+       "ref": "JER.25.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "geneva/PSA.2.1",
+   "range": "PSA.2.1",
+   "kind": "passage",
+   "hash": "6b08bde0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.1#p1-6b08bde0",
+     "text": "The conspiracy of the Gentiles, the murmuring of the Jews and power of kings cannot prevail against Christ.",
+     "label": "a",
+     "anchor": "heathen rage"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.3",
+   "range": "PSA.2.3",
+   "kind": "passage",
+   "hash": "624c3852",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.3#p1-624c3852",
+     "text": "Thus the wicked say that they will cast off the yoke of God and of his Christ.",
+     "label": "b",
+     "anchor": "Let us break their bands asunder"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.5",
+   "range": "PSA.2.5",
+   "kind": "passage",
+   "hash": "e0eed9a0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.5#p1-e0eed9a0",
+     "text": "God's plagues will declare that in resisting his Christ, they fought against him.",
+     "label": "c",
+     "anchor": "Then shall he speak unto them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.7",
+   "range": "PSA.2.7",
+   "kind": "passage",
+   "hash": "e614e0d5",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.7#p1-f2d97e76",
+     "text": "To show that my calling to the kingdom is from God.",
+     "label": "d",
+     "anchor": "decree"
+    },
+    {
+     "id": "geneva/PSA.2.7#p2-f88432a4",
+     "text": "That is to say, concerning man's knowledge, because it was the first time that David appeared to be elected by God. So it is applied to Christ in his first coming and manifestation to the world.",
+     "label": "e",
+     "anchor": "day have I begotten thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.8",
+   "range": "PSA.2.8",
+   "kind": "passage",
+   "hash": "88b21c89",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.8#p1-88b21c89",
+     "text": "Not only the Jews but the Gentiles also.",
+     "label": "f",
+     "anchor": "uttermost parts of the earth for"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.10",
+   "range": "PSA.2.10",
+   "kind": "passage",
+   "hash": "6e79013e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.10#p1-6e79013e",
+     "text": "He exhorts all rulers to repent in time.",
+     "label": "g",
+     "anchor": "Be wise now therefore"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.2.12",
+   "range": "PSA.2.12",
+   "kind": "passage",
+   "hash": "78e0c920",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.2.12#p1-2844a262",
+     "text": "In a sign of homage.",
+     "label": "h",
+     "anchor": "Kiss the Son"
+    },
+    {
+     "id": "geneva/PSA.2.12#p2-8240000d",
+     "text": "When the wicked will say, Peace and rest, then will destruction suddenly come, 1Th 5:3.",
+     "label": "i",
+     "anchor": "perish from the way",
+     "refs": [
+      {
+       "text": "1Th 5:3",
+       "ref": "1TH.5.3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

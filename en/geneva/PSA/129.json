@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 129,
+ "units": [
+  {
+   "id": "geneva/PSA.129.1",
+   "range": "PSA.129.1",
+   "kind": "passage",
+   "hash": "f0058fee",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.129.1#p1-f0058fee",
+     "text": "The Church now afflicted should remember how her condition has always been such from the beginning to be molested most grievously by the wicked, yet in time it has always been delivered.",
+     "label": "a",
+     "anchor": "Israel now say"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.129.4",
+   "range": "PSA.129.4",
+   "kind": "passage",
+   "hash": "326c4dce",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.129.4#p1-326c4dce",
+     "text": "Because God is righteous, he cannot but plague his adversary, and deliver his as oxen out of the plough.",
+     "label": "b",
+     "anchor": "righteous"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.129.6",
+   "range": "PSA.129.6",
+   "kind": "passage",
+   "hash": "ed846667",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.129.6#p1-ed846667",
+     "text": "The enemies who lift themselves high, and as it were approach the Sun, are consumed with the heat of God's wrath, because they are not grounded in godly humility.",
+     "label": "c",
+     "anchor": "Let them be as the grass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.129.8",
+   "range": "PSA.129.8",
+   "kind": "passage",
+   "hash": "9a1ab175",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.129.8#p1-9a1ab175",
+     "text": "That is, the wicked will perish, and none will pass for them.",
+     "label": "d",
+     "anchor": "Neither do they which go by"
+    }
+   ]
+  }
+ ]
+}

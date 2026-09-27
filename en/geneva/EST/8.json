@@ -1,0 +1,171 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/EST.8.1",
+   "range": "EST.8.1",
+   "kind": "passage",
+   "hash": "f91db56b",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.1#p1-41d73ad3",
+     "text": "That is, was received into the king's favour and presence.",
+     "label": "a",
+     "anchor": "came before the king"
+    },
+    {
+     "id": "geneva/EST.8.1#p2-aeb98c16",
+     "text": "That he was her uncle, and had brought her up.",
+     "label": "b",
+     "anchor": "unto her"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.3",
+   "range": "EST.8.3",
+   "kind": "passage",
+   "hash": "d254e64e",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.3#p1-d254e64e",
+     "text": "Meaning, that he should abolish the wicked decrees, which he had made for the destruction of the Jews.",
+     "label": "c",
+     "anchor": "mischief of Haman the Agagite"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.4",
+   "range": "EST.8.4",
+   "kind": "passage",
+   "hash": "dd8567d1",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.4#p1-dd8567d1",
+     "text": "Read Es 5:2.",
+     "label": "d",
+     "anchor": "sceptre toward Esther",
+     "refs": [
+      {
+       "text": "Es 5:2",
+       "ref": "EST.5.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.8",
+   "range": "EST.8.8",
+   "kind": "passage",
+   "hash": "701eef31",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.8#p1-701eef31",
+     "text": "This was the law of the Medes and Persians, as in Da 6:15 nonetheless the king revoked the former decree granted to Haman for Esther's sake.",
+     "label": "e",
+     "anchor": "no man reverse",
+     "refs": [
+      {
+       "text": "Da 6:15",
+       "ref": "DAN.6.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.9",
+   "range": "EST.8.9",
+   "kind": "passage",
+   "hash": "78553e36",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.9#p1-79e4a9d3",
+     "text": "Which contains part of May and part of June.",
+     "label": "f",
+     "anchor": "Sivan"
+    },
+    {
+     "id": "geneva/EST.8.9#p2-fe3c926d",
+     "text": "That is, in such letters and languages as was usual in every province.",
+     "label": "g",
+     "anchor": "writing thereof"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.11",
+   "range": "EST.8.11",
+   "kind": "passage",
+   "hash": "eca809fa",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.11#p1-eca809fa",
+     "text": "That is, to defend themselves against all who would assail them.",
+     "label": "h",
+     "anchor": "their life"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.12",
+   "range": "EST.8.12",
+   "kind": "passage",
+   "hash": "485178be",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.12#p1-485178be",
+     "text": "Which has part of February and part of March.",
+     "label": "i",
+     "anchor": "Adar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.13",
+   "range": "EST.8.13",
+   "kind": "passage",
+   "hash": "8036419a",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.13#p1-8036419a",
+     "text": "The king gave them permission to kill all who oppressed them.",
+     "label": "k",
+     "anchor": "avenge themselves on their enemies"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.16",
+   "range": "EST.8.16",
+   "kind": "passage",
+   "hash": "ad8319fd",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.16#p1-ad8319fd",
+     "text": "He showed by the words that follow, what this light was.",
+     "label": "l",
+     "anchor": "gladness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.8.17",
+   "range": "EST.8.17",
+   "kind": "passage",
+   "hash": "d6d85d4d",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.8.17#p1-d6d85d4d",
+     "text": "Conformed themselves to the Jew's religion.",
+     "label": "m",
+     "anchor": "became Jews"
+    }
+   ]
+  }
+ ]
+}

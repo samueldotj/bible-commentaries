@@ -1,0 +1,95 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/2SA.4.1",
+   "range": "2SA.4.1",
+   "kind": "passage",
+   "hash": "4e2ff7cf",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.1#p1-03fcc090",
+     "text": "That is, Ishbosheth.",
+     "label": "a",
+     "anchor": "son heard that Abner was dead"
+    },
+    {
+     "id": "geneva/2SA.4.1#p2-f694c6d2",
+     "text": "Meaning, that he was discouraged.",
+     "label": "b",
+     "anchor": "feeble"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.2",
+   "range": "2SA.4.2",
+   "kind": "passage",
+   "hash": "0ba2336b",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.2#p1-0ba2336b",
+     "text": "This city Beeroth was in the tribe of Benjamin, Jos 18:25.",
+     "label": "c",
+     "anchor": "Beeroth also was reckoned to Benjamin",
+     "refs": [
+      {
+       "text": "Jos 18:25",
+       "ref": "JOS.18.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.3",
+   "range": "2SA.4.3",
+   "kind": "passage",
+   "hash": "95740e99",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.3#p1-95740e99",
+     "text": "After the death of Saul, for fear of the Philistines.",
+     "label": "d",
+     "anchor": "Gittaim"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.6",
+   "range": "2SA.4.6",
+   "kind": "passage",
+   "hash": "9d7472b6",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.6#p1-2a6a6429",
+     "text": "They disguised themselves as merchants, who came to buy wheat.",
+     "label": "e",
+     "anchor": "would have fetched wheat"
+    },
+    {
+     "id": "geneva/2SA.4.6#p2-50f6be90",
+     "text": "There is nothing so vile and dangerous, which the wicked will not undertake in hope of money and favour.",
+     "label": "f",
+     "anchor": "smote him under the fifth rib"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.11",
+   "range": "2SA.4.11",
+   "kind": "passage",
+   "hash": "f96dc82c",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.11#p1-f96dc82c",
+     "text": "In that neither the example of him that slew Saul, nor duty to their master, nor the innocency of the person, nor reverence for the place, nor time moved them, they deserved most grievous punishment.",
+     "label": "g",
+     "anchor": "much more"
+    }
+   ]
+  }
+ ]
+}

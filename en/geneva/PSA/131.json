@@ -1,0 +1,41 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 131,
+ "units": [
+  {
+   "id": "geneva/PSA.131.1",
+   "range": "PSA.131.1",
+   "kind": "passage",
+   "hash": "4f1498fc",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.131.1#p1-34c532f0",
+     "text": "He sets forth his great humility as an example to all rulers and governors.",
+     "label": "a",
+     "anchor": "my heart is not haughty"
+    },
+    {
+     "id": "geneva/PSA.131.1#p2-40d12c3a",
+     "text": "Which pass the measure and limits of his calling.",
+     "label": "b",
+     "anchor": "matters"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.131.2",
+   "range": "PSA.131.2",
+   "kind": "passage",
+   "hash": "9cf2db2b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.131.2#p1-9cf2db2b",
+     "text": "He was void of ambition and wicked desires.",
+     "label": "c",
+     "anchor": "weaned child"
+    }
+   ]
+  }
+ ]
+}

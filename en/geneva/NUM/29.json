@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 29,
+ "units": [
+  {
+   "id": "geneva/NUM.29.1",
+   "range": "NUM.29.1",
+   "kind": "passage",
+   "hash": "3e1173de",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.1#p1-3e1173de",
+     "text": "Which contains part of September, and part of October.",
+     "label": "a",
+     "anchor": "seventh month"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.6",
+   "range": "NUM.29.6",
+   "kind": "passage",
+   "hash": "f8ba965c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.6#p1-b8074d5b",
+     "text": "Which must be offered in the beginning of every month.",
+     "label": "b",
+     "anchor": "month"
+    },
+    {
+     "id": "geneva/NUM.29.6#p2-b17845aa",
+     "text": "Which is for morning and evening.",
+     "label": "c",
+     "anchor": "burnt offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.7",
+   "range": "NUM.29.7",
+   "kind": "passage",
+   "hash": "fafb4670",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.7#p1-fafb4670",
+     "text": "Which is the feast of reconciliation.",
+     "label": "d",
+     "anchor": "convocation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.11",
+   "range": "NUM.29.11",
+   "kind": "passage",
+   "hash": "5288cb22",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.11#p1-5288cb22",
+     "text": "That is, offered every morning and evening.",
+     "label": "e",
+     "anchor": "burnt offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.12",
+   "range": "NUM.29.12",
+   "kind": "passage",
+   "hash": "62d2aac7",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.12#p1-62d2aac7",
+     "text": "Meaning, the feast of the tabernacles.",
+     "label": "f",
+     "anchor": "convocation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.21",
+   "range": "NUM.29.21",
+   "kind": "passage",
+   "hash": "819e30f1",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.21#p1-819e30f1",
+     "text": "According to the ceremonies appointed to it.",
+     "label": "g",
+     "anchor": "manner"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.39",
+   "range": "NUM.29.39",
+   "kind": "passage",
+   "hash": "1ea3faf0",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.39#p1-1ea3faf0",
+     "text": "Beside the sacrifices that you will vow or offer of your own minds.",
+     "label": "h",
+     "anchor": "vows"
+    }
+   ]
+  }
+ ]
+}

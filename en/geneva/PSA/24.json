@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 24,
+ "units": [
+  {
+   "id": "geneva/PSA.24.2",
+   "range": "PSA.24.2",
+   "kind": "passage",
+   "hash": "54fbaff6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.24.2#p1-54fbaff6",
+     "text": "He notes two things: the one, that the earth to man's judgment seems above the waters: and next, that God miraculously preserves the earth, that it is not drowned with the waters, which naturally are above it.",
+     "label": "a",
+     "anchor": "seas"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.24.6",
+   "range": "PSA.24.6",
+   "kind": "passage",
+   "hash": "01024e7e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.24.6#p1-01024e7e",
+     "text": "Though circumcision separates the carnal seed of Jacob, from the Gentiles, yet he who seeks God, is the true Jacob and an Israelite.",
+     "label": "b",
+     "anchor": "generation of them that seek him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.24.7",
+   "range": "PSA.24.7",
+   "kind": "passage",
+   "hash": "322774da",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.24.7#p1-322774da",
+     "text": "David desires the building up of the temple, in which the glory of God should appear and under the figure of this temple, he also prays for the spiritual temple, which is eternal because of the promise which was made to the temple, as it is written, Ps 132:14.",
+     "label": "c",
+     "anchor": "Lift up your heads",
+     "refs": [
+      {
+       "text": "Ps 132:14",
+       "ref": "PSA.132.14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

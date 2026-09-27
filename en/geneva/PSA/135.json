@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 135,
+ "units": [
+  {
+   "id": "geneva/PSA.135.2",
+   "range": "PSA.135.2",
+   "kind": "passage",
+   "hash": "efa5ff61",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.2#p1-17b99da4",
+     "text": "You Levites who are in his sanctuary.",
+     "label": "a",
+     "anchor": "stand in the house of the"
+    },
+    {
+     "id": "geneva/PSA.135.2#p2-16ec1d53",
+     "text": "Meaning, the people: for the people and Levites had their courts, which were separate places of the temple.",
+     "label": "b",
+     "anchor": "courts of the house of our"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.135.4",
+   "range": "PSA.135.4",
+   "kind": "passage",
+   "hash": "d7692797",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.4#p1-d7692797",
+     "text": "That is, has freely loved the posterity of Abraham.",
+     "label": "c",
+     "anchor": "chosen Jacob unto himself"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.135.6",
+   "range": "PSA.135.6",
+   "kind": "passage",
+   "hash": "0873a682",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.6#p1-0873a682",
+     "text": "He joined God's power with his will, to the intent that we should not separate them and by this he wills God's people to depend on his power which he confirms by examples.",
+     "label": "d",
+     "anchor": "did he in heaven"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.135.12",
+   "range": "PSA.135.12",
+   "kind": "passage",
+   "hash": "ad85c02b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.12#p1-ad85c02b",
+     "text": "He shows what fruit the godly conceive of God's power, by which they see how he destroys his enemies, and delivers his people.",
+     "label": "e",
+     "anchor": "gave their land for an heritage"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.135.14",
+   "range": "PSA.135.14",
+   "kind": "passage",
+   "hash": "3c3210f0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.14#p1-3c3210f0",
+     "text": "That is, govern and defend his people.",
+     "label": "f",
+     "anchor": "judge his people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.135.15",
+   "range": "PSA.135.15",
+   "kind": "passage",
+   "hash": "307962dd",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.135.15#p1-307962dd",
+     "text": "By showing the punishment God appoints for the heathen idolaters, he warns his people to beware of the same offences, seeing that idols have neither power nor life, and that their deliverance came not by idols, but by the mighty power of God, see Ps 115:4-14.",
+     "label": "g",
+     "anchor": "idols of the heathen are silver",
+     "refs": [
+      {
+       "text": "Ps 115:4-14",
+       "ref": "PSA.115.4-14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

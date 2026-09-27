@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 27,
+ "units": [
+  {
+   "id": "geneva/1CH.27.1",
+   "range": "1CH.27.1",
+   "kind": "passage",
+   "hash": "827b7a3b",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.1#p1-827b7a3b",
+     "text": "Who executed their charge and office, which is meant by coming in and going out.",
+     "label": "a",
+     "anchor": "which came in and went out"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.4",
+   "range": "1CH.27.4",
+   "kind": "passage",
+   "hash": "2e8737b2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.4#p1-2e8737b2",
+     "text": "That is, Dodais lieutenant.",
+     "label": "b",
+     "anchor": "ruler"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.16",
+   "range": "1CH.27.16",
+   "kind": "passage",
+   "hash": "ee69471f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.16#p1-ee69471f",
+     "text": "Meaning besides those twelve captains.",
+     "label": "c",
+     "anchor": "over the tribes of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.21",
+   "range": "1CH.27.21",
+   "kind": "passage",
+   "hash": "d676698a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.21#p1-d676698a",
+     "text": "Which is beyond Jordan in respect to Judah, also one captain was over the Reubenites and the Gadites.",
+     "label": "d",
+     "anchor": "half tribe of Manasseh in Gilead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.24",
+   "range": "1CH.27.24",
+   "kind": "passage",
+   "hash": "2bdb8527",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.24#p1-f82941de",
+     "text": "The commandment of the king was abominable to Joab, 1Ch 21:6.",
+     "label": "e",
+     "anchor": "because there fell wrath for it",
+     "refs": [
+      {
+       "text": "1Ch 21:6",
+       "ref": "1CH.21.6"
+      }
+     ]
+    },
+    {
+     "id": "geneva/1CH.27.24#p2-b3f32c22",
+     "text": "The Hebrews make both these books of Chronicles but one, and at this verse make the middle of the book concerning the number of verses.",
+     "label": "f",
+     "anchor": "chronicles of king David"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.32",
+   "range": "1CH.27.32",
+   "kind": "passage",
+   "hash": "e874d6b3",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.32#p1-619b9de9",
+     "text": "That is, a man learned in the word of God.",
+     "label": "g",
+     "anchor": "scribe"
+    },
+    {
+     "id": "geneva/1CH.27.32#p2-81cee4d7",
+     "text": "To be their schoolmasters and teachers.",
+     "label": "h",
+     "anchor": "sons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.34",
+   "range": "1CH.27.34",
+   "kind": "passage",
+   "hash": "9c410b0a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.34#p1-9c410b0a",
+     "text": "After Ahithophel hanged himself, 2Sa 17:23, Jehoiada was made counsellor.",
+     "label": "i",
+     "anchor": "after Ahithophel was Jehoiada the son",
+     "refs": [
+      {
+       "text": "2Sa 17:23",
+       "ref": "2SA.17.23"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

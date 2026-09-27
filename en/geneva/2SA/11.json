@@ -1,0 +1,163 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/2SA.11.1",
+   "range": "2SA.11.1",
+   "kind": "passage",
+   "hash": "6e0316b7",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.1#p1-6e0316b7",
+     "text": "The year following about the spring time.",
+     "label": "a",
+     "anchor": "expired"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.2",
+   "range": "2SA.11.2",
+   "kind": "passage",
+   "hash": "80f46e37",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.2#p1-80f46e37",
+     "text": "Upon which he used to rest in the afternoon, as was read of Ishbosheth in 2Sa 4:7.",
+     "label": "b",
+     "anchor": "bed",
+     "refs": [
+      {
+       "text": "2Sa 4:7",
+       "ref": "2SA.4.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.3",
+   "range": "2SA.11.3",
+   "kind": "passage",
+   "hash": "7a1f7521",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.3#p1-7a1f7521",
+     "text": "Who was not an born an Israelite, but converted to the true religion.",
+     "label": "c",
+     "anchor": "Hittite"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.5",
+   "range": "2SA.11.5",
+   "kind": "passage",
+   "hash": "fedcd3a3",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.5#p1-fedcd3a3",
+     "text": "Fearing lest she be stoned according to the law.",
+     "label": "d",
+     "anchor": "told David"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.8",
+   "range": "2SA.11.8",
+   "kind": "passage",
+   "hash": "cd53a9b4",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.8#p1-cd53a9b4",
+     "text": "David thought that if Uriah lay with his wife, his sin might be covered.",
+     "label": "e",
+     "anchor": "Go down to thy house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.11",
+   "range": "2SA.11.11",
+   "kind": "passage",
+   "hash": "48756cef",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.11#p1-48756cef",
+     "text": "By this God would touch David's conscience, for seeing the fidelity and religion of his servant, he would declare himself forgetful of God, and injurious to his servant.",
+     "label": "f",
+     "anchor": "The ark"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.13",
+   "range": "2SA.11.13",
+   "kind": "passage",
+   "hash": "730a9287",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.13#p1-730a9287",
+     "text": "He made him drink more liberally than he was wont to do, thinking by this he would have slept with his wife.",
+     "label": "g",
+     "anchor": "drunk"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.15",
+   "range": "2SA.11.15",
+   "kind": "passage",
+   "hash": "03130932",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.15#p1-03130932",
+     "text": "Except God continually uphold us with his mighty Spirit, the most perfect fall headlong into all vice and abomination.",
+     "label": "h",
+     "anchor": "Set ye Uriah in the forefront"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.21",
+   "range": "2SA.11.21",
+   "kind": "passage",
+   "hash": "bc1db918",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.21#p1-bc1db918",
+     "text": "Meaning Gideon, Jud 9:52,53.",
+     "label": "i",
+     "anchor": "Jerubbesheth",
+     "refs": [
+      {
+       "text": "Jud 9:52,53",
+       "ref": "JDG.9.52"
+      },
+      {
+       "text": "Jud 9:52,53",
+       "ref": "JDG.9.53"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.11.25",
+   "range": "2SA.11.25",
+   "kind": "passage",
+   "hash": "3ae19e82",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.11.25#p1-3ae19e82",
+     "text": "He conceals the truth from the messenger, so that neither his cruel commandment, nor Joab's wicked obedience would be discovered.",
+     "label": "k",
+     "anchor": "Thus shalt thou say unto Joab"
+    }
+   ]
+  }
+ ]
+}

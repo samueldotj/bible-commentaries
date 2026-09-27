@@ -1,0 +1,117 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/EST.5.1",
+   "range": "EST.5.1",
+   "kind": "passage",
+   "hash": "cdb1c40b",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.1#p1-cdb1c40b",
+     "text": "That is, after the Jews had begun to fast.",
+     "label": "a",
+     "anchor": "day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.2",
+   "range": "EST.5.2",
+   "kind": "passage",
+   "hash": "23aab4f6",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.2#p1-23aab4f6",
+     "text": "Which was a sign that her coming was agreeable to him, Es 4:11.",
+     "label": "b",
+     "anchor": "held out to Esther the golden",
+     "refs": [
+      {
+       "text": "Es 4:11",
+       "ref": "EST.4.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.3",
+   "range": "EST.5.3",
+   "kind": "passage",
+   "hash": "ec9555a4",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.3#p1-ec9555a4",
+     "text": "Meaning by this that whatever she asked would be granted as in Mr 6:23.",
+     "label": "c",
+     "anchor": "given thee to the half of",
+     "refs": [
+      {
+       "text": "Mr 6:23",
+       "ref": "MRK.6.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.6",
+   "range": "EST.5.6",
+   "kind": "passage",
+   "hash": "0f140cdd",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.6#p1-0f140cdd",
+     "text": "Because they used to drink excessively in their banquets they called the banquet by that which was most in use or esteemed.",
+     "label": "d",
+     "anchor": "wine"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.8",
+   "range": "EST.5.8",
+   "kind": "passage",
+   "hash": "99b753cb",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.8#p1-99b753cb",
+     "text": "I will declare what I demand.",
+     "label": "e",
+     "anchor": "said"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.11",
+   "range": "EST.5.11",
+   "kind": "passage",
+   "hash": "d746c06a",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.11#p1-d746c06a",
+     "text": "Thus the wicked when they are promoted instead of acknowledging their charge and humbling themselves, wax ambitious, disdainful and cruel.",
+     "label": "f",
+     "anchor": "promoted him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.14",
+   "range": "EST.5.14",
+   "kind": "passage",
+   "hash": "fb295811",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.14#p1-fb295811",
+     "text": "Meaning, the highest that could be found.",
+     "label": "g",
+     "anchor": "cubits high"
+    }
+   ]
+  }
+ ]
+}

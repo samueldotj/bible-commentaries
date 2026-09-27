@@ -1,0 +1,139 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/1SA.11.1",
+   "range": "1SA.11.1",
+   "kind": "passage",
+   "hash": "f98f2310",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.1#p1-f98f2310",
+     "text": "After that Saul was chosen king: for fear of whom they asked a king, as in 1Sa 12:12.",
+     "label": "a",
+     "anchor": "came up",
+     "refs": [
+      {
+       "text": "1Sa 12:12",
+       "ref": "1SA.12.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.2",
+   "range": "1SA.11.2",
+   "kind": "passage",
+   "hash": "1ef3e6fa",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.2#p1-1ef3e6fa",
+     "text": "This declares that the closer the tyrants are to their destruction, the more cruel they are.",
+     "label": "b",
+     "anchor": "right eyes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.6",
+   "range": "1SA.11.6",
+   "kind": "passage",
+   "hash": "724d6db0",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.6#p1-724d6db0",
+     "text": "God gave him the spirit of strength and courage to go against this tyrant.",
+     "label": "c",
+     "anchor": "came upon Saul when he heard"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.7",
+   "range": "1SA.11.7",
+   "kind": "passage",
+   "hash": "e9947aa5",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.7#p1-e9947aa5",
+     "text": "He adds Samuel because Saul was not yet approved by all.",
+     "label": "d",
+     "anchor": "Samuel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.9",
+   "range": "1SA.11.9",
+   "kind": "passage",
+   "hash": "e895dc30",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.9#p1-e895dc30",
+     "text": "Meaning, Saul and Samuel.",
+     "label": "e",
+     "anchor": "they said unto the messengers that"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.10",
+   "range": "1SA.11.10",
+   "kind": "passage",
+   "hash": "ac178fd3",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.10#p1-ac178fd3",
+     "text": "That is, to the Ammonites, concealing that they had hope of aid.",
+     "label": "f",
+     "anchor": "you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.12",
+   "range": "1SA.11.12",
+   "kind": "passage",
+   "hash": "8ef405d8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.12#p1-8ef405d8",
+     "text": "By this victory the Lord won the hearts of the people to Saul.",
+     "label": "g",
+     "anchor": "Who is he that said"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.13",
+   "range": "1SA.11.13",
+   "kind": "passage",
+   "hash": "b514cc6f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.13#p1-b514cc6f",
+     "text": "By showing mercy he thought to overcome their malice.",
+     "label": "h",
+     "anchor": "put to death this day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.11.15",
+   "range": "1SA.11.15",
+   "kind": "passage",
+   "hash": "6e680081",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.11.15#p1-6e680081",
+     "text": "In sign of thanksgiving for the victory.",
+     "label": "i",
+     "anchor": "peace offerings before the LORD"
+    }
+   ]
+  }
+ ]
+}

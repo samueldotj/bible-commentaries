@@ -1,0 +1,35 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 123,
+ "units": [
+  {
+   "id": "geneva/PSA.123.2",
+   "range": "PSA.123.2",
+   "kind": "passage",
+   "hash": "977e6221",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.123.2#p1-977e6221",
+     "text": "He compares the condition of the godly, to servants who are destitute of all help, assuring that when all other help fails, God is always at hand and like himself.",
+     "label": "a",
+     "anchor": "servants look unto the hand of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.123.3",
+   "range": "PSA.123.3",
+   "kind": "passage",
+   "hash": "4a3e7ca2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.123.3#p1-4a3e7ca2",
+     "text": "He declares that when the faithful are so full that they cannot endure the oppression and scorning of the wicked any more, there is always help above, if with hungry desires they call for it.",
+     "label": "b",
+     "anchor": "exceedingly filled with contempt"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "source": "geneva",
+ "book": "EPH",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/EPH.4.1",
+   "range": "EPH.4.1",
+   "kind": "passage",
+   "hash": "5d03f33d",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.1#p1-dfe1f12c",
+     "text": "Another part of the epistle, containing precepts of the Christian life, the sum of which is this, that every man behave himself as it is fitting for so excellent a grace of God.",
+     "label": "1",
+     "anchor": "the prisoner of the Lord"
+    },
+    {
+     "id": "geneva/EPH.4.1#p2-1c7985ed",
+     "text": "By this is meant the general calling of the faithful, which is this, to be holy as our God is holy.",
+     "label": "a",
+     "anchor": "vocation wherewith ye are called"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.2",
+   "range": "EPH.4.2",
+   "kind": "passage",
+   "hash": "6130b7d0",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.2#p1-9759f76f",
+     "text": "Secondly, he commends the meekness of the mind, which is demonstrated by bearing with one another.",
+     "label": "2",
+     "anchor": "With all lowliness and meekness"
+    },
+    {
+     "id": "geneva/EPH.4.2#p2-4fe92165",
+     "text": "See Mt 18:25-27.",
+     "label": "b",
+     "anchor": "longsuffering",
+     "refs": [
+      {
+       "text": "Mt 18:25-27",
+       "ref": "MAT.18.25-27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.3",
+   "range": "EPH.4.3",
+   "kind": "passage",
+   "hash": "f6be7ab9",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.3#p1-f6be7ab9",
+     "text": "Thirdly he requires perfect agreement, but yet such that is joined with the band of the Holy Spirit.",
+     "label": "3",
+     "anchor": "Endeavouring to keep the unity of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.4",
+   "range": "EPH.4.4",
+   "kind": "passage",
+   "hash": "26cad2d0",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.4#p1-26cad2d0",
+     "text": "An argument of great weight for an earnest displaying of brotherly love and charity with one another, because we are made one body as it were of one God and Father, by one Spirit, worshipping one Lord with one faith, and consecrated to him with one baptism, and having hope of one self same glory, unto which we are called. Therefore, whoever breaks charity, breaks all of these things apart.",
+     "label": "4",
+     "anchor": "There is one body"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.6",
+   "range": "EPH.4.6",
+   "kind": "passage",
+   "hash": "b9d0ac60",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.6#p1-b1bfa8af",
+     "text": "Who alone has the chief authority over the Church.",
+     "label": "c",
+     "anchor": "above all"
+    },
+    {
+     "id": "geneva/EPH.4.6#p2-32fccde8",
+     "text": "Who alone pours forth his providence, through all the members of the Church.",
+     "label": "d",
+     "anchor": "through all"
+    },
+    {
+     "id": "geneva/EPH.4.6#p3-35fb1a17",
+     "text": "Who alone is joined together with us in Christ.",
+     "label": "e",
+     "anchor": "in you all"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.7",
+   "range": "EPH.4.7",
+   "kind": "passage",
+   "hash": "9b88b5da",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.7#p1-b591f3d4",
+     "text": "He teaches us that we indeed are all one body, and that all good gifts proceed from Christ alone, who reigns in heaven having mightily conquered all his enemies, from where he heaps all gifts upon his Church. But yet nonetheless these gifts are differently and variously divided according to his will and pleasure, and therefore every man ought to be content with that measure that God has given him, and to bestow it to the common profit of the whole body.",
+     "label": "5",
+     "anchor": "But unto every one of us"
+    },
+    {
+     "id": "geneva/EPH.4.7#p2-81d3eda0",
+     "text": "Which Christ has given.",
+     "label": "f",
+     "anchor": "gift of Christ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.8",
+   "range": "EPH.4.8",
+   "kind": "passage",
+   "hash": "b8bde97e",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.8#p1-b8bde97e",
+     "text": "A multitude of captives.",
+     "label": "g",
+     "anchor": "captivity captive"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.9",
+   "range": "EPH.4.9",
+   "kind": "passage",
+   "hash": "add8dca0",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.9#p1-add8dca0",
+     "text": "Down to the earth, which is the lowest part of the world.",
+     "label": "h",
+     "anchor": "lower parts of the earth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.10",
+   "range": "EPH.4.10",
+   "kind": "passage",
+   "hash": "629d6fcd",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.10#p1-3e003eff",
+     "text": "Fill with his gifts.",
+     "label": "i",
+     "anchor": "fill"
+    },
+    {
+     "id": "geneva/EPH.4.10#p2-f28b8cdc",
+     "text": "The Church.",
+     "label": "k",
+     "anchor": "all things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.11",
+   "range": "EPH.4.11",
+   "kind": "passage",
+   "hash": "4c888c7e",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.11#p1-5396ea43",
+     "text": "First of all he lists the ecclesiastical functions, which are partly extraordinary and for a season, such as apostles, prophets, and evangelists, and partly ordinary and perpetual, such as pastors and teachers.",
+     "label": "6",
+     "anchor": "And he gave some"
+    },
+    {
+     "id": "geneva/EPH.4.11#p2-e096af26",
+     "text": "The apostles were those twelve to whom Paul was afterward added, whose office was to plant churches throughout all the world.",
+     "label": "l",
+     "anchor": "apostles"
+    },
+    {
+     "id": "geneva/EPH.4.11#p3-5e972add",
+     "text": "The prophet's office was one of the chiefest, who were men of marvellous wisdom, and some of them could foretell things to come.",
+     "label": "m",
+     "anchor": "prophets"
+    },
+    {
+     "id": "geneva/EPH.4.11#p4-323d13db",
+     "text": "The apostles used these as companions in the execution of their office, being not able to go to all places by themselves.",
+     "label": "n",
+     "anchor": "evangelists"
+    },
+    {
+     "id": "geneva/EPH.4.11#p5-0ce375c0",
+     "text": "Pastors are those who govern the Church, and teachers are those who govern the schools.",
+     "label": "o",
+     "anchor": "pastors and teachers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.12",
+   "range": "EPH.4.12",
+   "kind": "passage",
+   "hash": "4f45d145",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.12#p1-0661d92d",
+     "text": "He shows the aim of ecclesiastical functions, that is, that by the ministry of men all the saints may so grow up together, that they may make one mystical body of Christ.",
+     "label": "7",
+     "anchor": "For the perfecting of the saints"
+    },
+    {
+     "id": "geneva/EPH.4.12#p2-f28b8cdc",
+     "text": "The Church.",
+     "label": "p",
+     "anchor": "body of Christ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.13",
+   "range": "EPH.4.13",
+   "kind": "passage",
+   "hash": "daaae0f1",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.13#p1-2050d4e0",
+     "text": "The use of this ministry is perpetual so long as we are in this world, that is, until that time that having put off the flesh, and thoroughly and perfectly agreeing between ourselves, we will be joined with Christ our head. And this thing is done by the knowledge of the Son of God increasing in us, and he himself by little and little growing up in us until we come to be a perfect man, which will be in the world to come, when God will be all in all.",
+     "label": "8",
+     "anchor": "Till we all come in the"
+    },
+    {
+     "id": "geneva/EPH.4.13#p2-2e8f92f4",
+     "text": "In that most near joining which is knit and fastened together by faith.",
+     "label": "q",
+     "anchor": "unity of the faith"
+    },
+    {
+     "id": "geneva/EPH.4.13#p3-8741be7c",
+     "text": "Christ is said to grow up to full age, not in himself, but in us.",
+     "label": "r",
+     "anchor": "stature of the fulness of Christ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.14",
+   "range": "EPH.4.14",
+   "kind": "passage",
+   "hash": "50e9b64d",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.14#p1-badb0296",
+     "text": "Between our childhood (that is to say, a very weak state, when we are still wavering) and our perfect age, which we will have at length in another world, there is a mean, that is, our youth, and steady going forward to perfection.",
+     "label": "9",
+     "anchor": "That we henceforth be no more"
+    },
+    {
+     "id": "geneva/EPH.4.14#p2-86751de4",
+     "text": "He compares those who do not rest themselves upon the word of God, to little boats which are tossed here and there with the doctrines of men as it were with contrary winds, and in addition forewarns them that it comes to pass not only by the unsteadiness of man's brain, but also by the craftiness of certain ones, who make as it were an art of it.",
+     "label": "10",
+     "anchor": "tossed to and fro"
+    },
+    {
+     "id": "geneva/EPH.4.14#p3-54caefa8",
+     "text": "With those uncertain events which toss men to and fro.",
+     "label": "s",
+     "anchor": "sleight of men"
+    },
+    {
+     "id": "geneva/EPH.4.14#p4-3bd01413",
+     "text": "By the deceit of those men who are very well practised in deceiving others.",
+     "label": "t",
+     "anchor": "cunning craftiness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.15",
+   "range": "EPH.4.15",
+   "kind": "passage",
+   "hash": "f042d61d",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.15#p1-f042d61d",
+     "text": "By earnest affection of the truth and love, we grow up into Christ: for he (being effectual by the ministry of his word, which as the vital Spirit makes alive the whole body in such a way that it nourishes all the limbs of it according to the measure and proportion of each one) quickens and cherishes his Church, which consists of various functions, as of various members, and preserves the need of every one. And from this it follows that neither this body can live without Christ, neither can any man grow up spiritually, who separates himself from the other members.",
+     "label": "11",
+     "anchor": "But speaking the truth in love"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.16",
+   "range": "EPH.4.16",
+   "kind": "passage",
+   "hash": "64de97ad",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.16#p1-c3d5c7ba",
+     "text": "Of Christ, who with regard to the soul, empowers all the members.",
+     "label": "u",
+     "anchor": "effectual working in the measure of"
+    },
+    {
+     "id": "geneva/EPH.4.16#p2-78b03fe4",
+     "text": "Such increase as is fit for the body to have.",
+     "label": "x",
+     "anchor": "increase of the body unto the"
+    },
+    {
+     "id": "geneva/EPH.4.16#p3-a58cfe71",
+     "text": "Charity is the knitting of the limbs together.",
+     "label": "y",
+     "anchor": "love"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.17",
+   "range": "EPH.4.17",
+   "kind": "passage",
+   "hash": "38b9fc55",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.17#p1-d66345db",
+     "text": "He descends to the fruits of Christian doctrine, and reasons first upon the principles of conduct and actions, setting down a most grave comparison between the children of God, and those who are not regenerated. For in these men all the powers of the mind are corrupted, and their mind is given to vanity, and their senses are darkened with most gross mistiness, and their affections are so accustomed by little and little to wickedness, that at length they run headlong into all uncleanness, being utterly destitute of all judgment.",
+     "label": "12",
+     "anchor": "This I say therefore"
+    },
+    {
+     "id": "geneva/EPH.4.17#p2-114de382",
+     "text": "If the noblest parts of the soul are corrupted, what is man but solely corruption?",
+     "label": "z",
+     "anchor": "vanity of their mind"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.18",
+   "range": "EPH.4.18",
+   "kind": "passage",
+   "hash": "967d37d6",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.18#p1-967d37d6",
+     "text": "By which God lives in them.",
+     "label": "a",
+     "anchor": "life of God through the ignorance"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.19",
+   "range": "EPH.4.19",
+   "kind": "passage",
+   "hash": "1a21e0d9",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.19#p1-eb6c27a9",
+     "text": "Void of all judgment.",
+     "label": "b",
+     "anchor": "past feeling have given themselves over"
+    },
+    {
+     "id": "geneva/EPH.4.19#p2-27770f1b",
+     "text": "They strove to surpass one another, as though there were some gain to be gotten by it.",
+     "label": "c",
+     "anchor": "greediness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.20",
+   "range": "EPH.4.20",
+   "kind": "passage",
+   "hash": "9d260955",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.20#p1-9d260955",
+     "text": "Here follows the contrary part concerning men who are regenerated by the true and living knowledge of Christ, who have other principles by which they act that are very different, that is, holy and honest desires, and a mind completely changed by the power of the Holy Spirit, from which proceeds also like effects, as a just and holy life indeed.",
+     "label": "13",
+     "anchor": "But ye have not so learned"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.21",
+   "range": "EPH.4.21",
+   "kind": "passage",
+   "hash": "fb0c6d94",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.21#p1-fb0c6d94",
+     "text": "As they have learned who acknowledge Christ indeed, and in good earnest.",
+     "label": "d",
+     "anchor": "as the truth is in Jesus"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.22",
+   "range": "EPH.4.22",
+   "kind": "passage",
+   "hash": "747ceaa8",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.22#p1-747ceaa8",
+     "text": "Yourselves.",
+     "label": "e",
+     "anchor": "the old man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.23",
+   "range": "EPH.4.23",
+   "kind": "passage",
+   "hash": "c73744ed",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.23#p1-c73744ed",
+     "text": "Where there ought to have been the greatest force of reason, there is the greatest corruption of all, which gradually weakens all things.",
+     "label": "f",
+     "anchor": "spirit of your mind"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.24",
+   "range": "EPH.4.24",
+   "kind": "passage",
+   "hash": "55c72dd9",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.24#p1-0cf7fc17",
+     "text": "After the image of God.",
+     "label": "g",
+     "anchor": "after God is created"
+    },
+    {
+     "id": "geneva/EPH.4.24#p2-9e8acd43",
+     "text": "The effect and end of the new creation.",
+     "label": "h",
+     "anchor": "in righteousness and"
+    },
+    {
+     "id": "geneva/EPH.4.24#p3-13d87a05",
+     "text": "Not fake nor counterfeit.",
+     "label": "i",
+     "anchor": "true holiness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.25",
+   "range": "EPH.4.25",
+   "kind": "passage",
+   "hash": "ad4cdfc4",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.25#p1-ad4cdfc4",
+     "text": "He commends separately certain special Christian virtues, and first of all he requires truth (that is to say, sincere manners), condemning all deceit and hypocrisy, because we are born one for another.",
+     "label": "14",
+     "anchor": "Wherefore putting away lying"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.26",
+   "range": "EPH.4.26",
+   "kind": "passage",
+   "hash": "460355c4",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.26#p1-2357aaf2",
+     "text": "He teaches us how to bridle our anger in such a way that, even though our anger is fierce, yet it does not break out, and that it is without delay quenched before we sleep. And this is so that Satan may not take occasion to give us evil counsel through the wicked counsellor, and destroy us.",
+     "label": "15",
+     "anchor": "Be"
+    },
+    {
+     "id": "geneva/EPH.4.26#p2-635804e3",
+     "text": "If it so happens that you are angry, yet do not sin, that is, bridle your anger, and do not wickedly do that which you have wickedly conceived.",
+     "label": "k",
+     "anchor": "ye angry"
+    },
+    {
+     "id": "geneva/EPH.4.26#p3-43918bf1",
+     "text": "Let not the night come upon you in your anger, that is, make atonement quickly, for all matters.",
+     "label": "l",
+     "anchor": "upon your wrath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.28",
+   "range": "EPH.4.28",
+   "kind": "passage",
+   "hash": "32523423",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.28#p1-21fcd5b3",
+     "text": "He descends from the heart to the hands, condemning theft: and because the men who give themselves to this wickedness often pretend to be poor, he shows that labour is a good remedy against poverty, which God blesses in such a way that those who labour always have some surplus to help others. And therefore it is far from being the case that they are forced to steal other men's goods.",
+     "label": "16",
+     "anchor": "Let him that stole steal no"
+    },
+    {
+     "id": "geneva/EPH.4.28#p2-22810d9d",
+     "text": "By labouring in things that are holy, and profitable to his neighbour.",
+     "label": "m",
+     "anchor": "good"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.29",
+   "range": "EPH.4.29",
+   "kind": "passage",
+   "hash": "f67ac049",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.29#p1-6504077f",
+     "text": "He bridles the tongue as well, teaching us to so temper our talk, that our hearer's minds are not destroyed, and are rather instructed.",
+     "label": "17",
+     "anchor": "Let no"
+    },
+    {
+     "id": "geneva/EPH.4.29#p2-d240a80e",
+     "text": "Literally, \"rotten\".",
+     "label": "n",
+     "anchor": "corrupt communication proceed out of your"
+    },
+    {
+     "id": "geneva/EPH.4.29#p3-f72c49a1",
+     "text": "By grace he means that by which men most profit with regard to going forward in godliness and love.",
+     "label": "o",
+     "anchor": "grace unto the hearers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.30",
+   "range": "EPH.4.30",
+   "kind": "passage",
+   "hash": "81f6455b",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.30#p1-81f6455b",
+     "text": "A general precept against all excess of affections which dwell in that part of the mind, which they call \"angry\", and he sets against them the contrary means. And he uses a most strong preface, how we ought to take heed that we grieve not the Holy Spirit of God through our immoderateness and excessiveness, who dwells in us to the end of moderating all our affections.",
+     "label": "18",
+     "anchor": "And grieve not the holy Spirit"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EPH.4.32",
+   "range": "EPH.4.32",
+   "kind": "passage",
+   "hash": "a5eed64a",
+   "paragraphs": [
+    {
+     "id": "geneva/EPH.4.32#p1-a5eed64a",
+     "text": "An argument taken from the example of Christ, most grave and strong, both for the pardoning of those injuries which have been done to us by our greatest enemies, and much more for having consideration of the miserable, and using moderation and gentle behaviour towards all men.",
+     "label": "19",
+     "anchor": "even as God for Christ's sake"
+    }
+   ]
+  }
+ ]
+}

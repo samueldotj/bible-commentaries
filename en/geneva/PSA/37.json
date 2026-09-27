@@ -1,0 +1,334 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "geneva/PSA.37.1",
+   "range": "PSA.37.1",
+   "kind": "passage",
+   "hash": "44b7a8a3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.1#p1-44b7a8a3",
+     "text": "He admonishes us neither to vex ourselves for the prosperous estate of the wicked, or to desire to be like them to make our estate better.",
+     "label": "a",
+     "anchor": "thyself because of evildoers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.2",
+   "range": "PSA.37.2",
+   "kind": "passage",
+   "hash": "2a98d748",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.2#p1-2a98d748",
+     "text": "For God's judgment cuts down their state in a moment.",
+     "label": "b",
+     "anchor": "cut down like the grass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.3",
+   "range": "PSA.37.3",
+   "kind": "passage",
+   "hash": "e3a1cde5",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.3#p1-e3a1cde5",
+     "text": "To trust in God and do according to his will are sure signs that his providence will never fail us.",
+     "label": "c",
+     "anchor": "Trust in the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.5",
+   "range": "PSA.37.5",
+   "kind": "passage",
+   "hash": "2db60051",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.5#p1-2db60051",
+     "text": "Do not be led by your own wisdom, but obey God and he will finish his work in you.",
+     "label": "d",
+     "anchor": "Commit thy way unto the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.6",
+   "range": "PSA.37.6",
+   "kind": "passage",
+   "hash": "a06242f8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.6#p1-a06242f8",
+     "text": "As the hope of daylight causes us not to be offended with the darkness of the night so ought we patiently to trust that God will clear our cause and restore us to our right.",
+     "label": "e",
+     "anchor": "judgment as the noonday"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.7",
+   "range": "PSA.37.7",
+   "kind": "passage",
+   "hash": "424c107d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.7#p1-424c107d",
+     "text": "When God allows the wicked to prosper, it seems to the flesh that he favours their doings, Job 21:7.",
+     "label": "f",
+     "anchor": "who prospereth in his way",
+     "refs": [
+      {
+       "text": "Job 21:7",
+       "ref": "JOB.21.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.8",
+   "range": "PSA.37.8",
+   "kind": "passage",
+   "hash": "b6c64c24",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.8#p1-b6c64c24",
+     "text": "Meaning, unless he moderates his affection, he will be led to do as they do.",
+     "label": "g",
+     "anchor": "fret not thyself in any wise"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.10",
+   "range": "PSA.37.10",
+   "kind": "passage",
+   "hash": "5a2a387d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.10#p1-5a2a387d",
+     "text": "He corrects the impatience of our nature, which cannot abide till the fulness of God's time is come.",
+     "label": "y"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.12",
+   "range": "PSA.37.12",
+   "kind": "passage",
+   "hash": "246695f6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.12#p1-246695f6",
+     "text": "The godly are assured that the power and craft of the wicked will not prevail against them, but fall on their own necks and therefore should patiently abide God's time, and in the meanwhile bewail their sins, and offer up their tears as a sacrifice of their obedience.",
+     "label": "i",
+     "anchor": "The wicked plotteth against the just"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.16",
+   "range": "PSA.37.16",
+   "kind": "passage",
+   "hash": "36c0b104",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.16#p1-36c0b104",
+     "text": "For they are daily fed as with manna from heaven and have sufficient, while the wicked never have enough, but always hunger.",
+     "label": "k",
+     "anchor": "A little that a righteous man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.18",
+   "range": "PSA.37.18",
+   "kind": "passage",
+   "hash": "ec5bc5cd",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.18#p1-ec5bc5cd",
+     "text": "God knows what dangers hang over his, and by what means to deliver them.",
+     "label": "l",
+     "anchor": "knoweth the days of the upright"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.19",
+   "range": "PSA.37.19",
+   "kind": "passage",
+   "hash": "17a6159d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.19#p1-17a6159d",
+     "text": "For God will give them contented minds, and that which will be necessary.",
+     "label": "m",
+     "anchor": "be satisfied"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.20",
+   "range": "PSA.37.20",
+   "kind": "passage",
+   "hash": "5cba1736",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.20#p1-5cba1736",
+     "text": "They will vanish away suddenly for they are fed for the day of slaughter.",
+     "label": "n",
+     "anchor": "fat of lambs"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.21",
+   "range": "PSA.37.21",
+   "kind": "passage",
+   "hash": "4e00af3d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.21#p1-4e00af3d",
+     "text": "God so furnishes him with high blessings, that he is able to help others.",
+     "label": "o",
+     "anchor": "giveth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.23",
+   "range": "PSA.37.23",
+   "kind": "passage",
+   "hash": "1b8daaf9",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.23#p1-1b8daaf9",
+     "text": "God prospers the faithful because they walk in his ways with an upright conscience.",
+     "label": "p",
+     "anchor": "The steps of a good man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.24",
+   "range": "PSA.37.24",
+   "kind": "passage",
+   "hash": "e5796c4f",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.24#p1-e5796c4f",
+     "text": "When God exercises his faith with various temptations.",
+     "label": "q",
+     "anchor": "fall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.25",
+   "range": "PSA.37.25",
+   "kind": "passage",
+   "hash": "001ed4a8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.25#p1-001ed4a8",
+     "text": "Though the just man die, yet God's blessings are extended to his posterity and though God suffer some just man to lack temporal benefits, yet he recompenses him with spiritual treasures.",
+     "label": "r",
+     "anchor": "seed begging bread"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.29",
+   "range": "PSA.37.29",
+   "kind": "passage",
+   "hash": "2fe831e7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.29#p1-2fe831e7",
+     "text": "They will continually be preserved under God's wings, and have at least inward rest.",
+     "label": "s",
+     "anchor": "for ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.30",
+   "range": "PSA.37.30",
+   "kind": "passage",
+   "hash": "e69d30d6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.30#p1-e69d30d6",
+     "text": "These three points are required from the faithful, that their talk is godly, that God's law is in their heart, and that their life is upright.",
+     "label": "t",
+     "anchor": "mouth of the righteous speaketh wisdom"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.33",
+   "range": "PSA.37.33",
+   "kind": "passage",
+   "hash": "ea836302",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.33#p1-ea836302",
+     "text": "For though it is sometimes so expedient both for God's glory and their salvation, yet he will approve their cause and avenge their wrong.",
+     "label": "u",
+     "anchor": "judged"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.36",
+   "range": "PSA.37.36",
+   "kind": "passage",
+   "hash": "f32ce1a4",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.36#p1-f32ce1a4",
+     "text": "So that the prosperity of the wicked is but as a cloud, which vanishes away in a moment.",
+     "label": "x",
+     "anchor": "passed away"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.37",
+   "range": "PSA.37.37",
+   "kind": "passage",
+   "hash": "15341732",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.37#p1-15341732",
+     "text": "He exhorts the faithful to mark diligently the examples both of God's mercies, and also of his judgments.",
+     "label": "y",
+     "anchor": "Mark the perfect man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.37.39",
+   "range": "PSA.37.39",
+   "kind": "passage",
+   "hash": "b3367a2a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.37.39#p1-b3367a2a",
+     "text": "He shows that the patient hope of the godly is never in vain, but in the end has good success, though for a time God proves them by various temptations.",
+     "label": "z",
+     "anchor": "salvation of the righteous is of"
+    }
+   ]
+  }
+ ]
+}

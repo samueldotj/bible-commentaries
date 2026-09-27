@@ -1,0 +1,133 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/2CH.19.2",
+   "range": "2CH.19.2",
+   "kind": "passage",
+   "hash": "d35acd62",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.2#p1-d35acd62",
+     "text": "He declares that the wrath of God is over everyone who supports the wicked and does not show in their actions that they are enemies to everyone that hates the Lord.",
+     "label": "a",
+     "anchor": "Shouldest thou help the ungodly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.4",
+   "range": "2CH.19.4",
+   "kind": "passage",
+   "hash": "e710805e",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.4#p1-e710805e",
+     "text": "He visited all his country and brought his people from idolatry to the knowledge of the true God.",
+     "label": "b",
+     "anchor": "through the people from Beersheba to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.6",
+   "range": "2CH.19.6",
+   "kind": "passage",
+   "hash": "29830810",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.6#p1-29830810",
+     "text": "Both to preserve you if you do justly or to punish you, if you do the contrary.",
+     "label": "c",
+     "anchor": "with you in the judgment"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.7",
+   "range": "2CH.19.7",
+   "kind": "passage",
+   "hash": "9dd051d9",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.7#p1-9dd051d9",
+     "text": "He will declare by the sharpness of the punishment that he hates all iniquity.",
+     "label": "d",
+     "anchor": "iniquity with the LORD our God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.8",
+   "range": "2CH.19.8",
+   "kind": "passage",
+   "hash": "a03dc7d4",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.8#p1-a03dc7d4",
+     "text": "The priests and Levites who should judge matters according to the word of the Lord.",
+     "label": "e",
+     "anchor": "returned to Jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.10",
+   "range": "2CH.19.10",
+   "kind": "passage",
+   "hash": "7142b5a8",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.10#p1-86549ff9",
+     "text": "That is, to decide whether or not the murder was done on purpose, Nu 35:11,De 4:41.",
+     "label": "f",
+     "anchor": "blood and blood",
+     "refs": [
+      {
+       "text": "Nu 35:11,De 4:41",
+       "ref": "NUM.35.11"
+      },
+      {
+       "text": "Nu 35:11,De 4:41",
+       "ref": "DEU.4.41"
+      }
+     ]
+    },
+    {
+     "id": "geneva/2CH.19.10#p2-ac0d0516",
+     "text": "Meaning, that God would punish them most sharply if they would not execute justice correctly.",
+     "label": "g",
+     "anchor": "wrath come upon you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.19.11",
+   "range": "2CH.19.11",
+   "kind": "passage",
+   "hash": "ed1e126a",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.19.11#p1-4722be7f",
+     "text": "Shall be chief overseer of the public affairs of the realm.",
+     "label": "h",
+     "anchor": "king's matters"
+    },
+    {
+     "id": "geneva/2CH.19.11#p2-57e3f38d",
+     "text": "They will have the handling of inferior causes.",
+     "label": "i",
+     "anchor": "before you"
+    },
+    {
+     "id": "geneva/2CH.19.11#p3-c0e445a0",
+     "text": "God will assist them that do justice.",
+     "label": "k",
+     "anchor": "good"
+    }
+   ]
+  }
+ ]
+}

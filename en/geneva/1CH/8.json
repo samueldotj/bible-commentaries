@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/1CH.8.1",
+   "range": "1CH.8.1",
+   "kind": "passage",
+   "hash": "478f37a2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.1#p1-478f37a2",
+     "text": "He continues in the description of the tribe of Benjamin, because his purpose is to set forth the genealogy of Saul.",
+     "label": "a",
+     "anchor": "begat Bela his firstborn"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.6",
+   "range": "1CH.8.6",
+   "kind": "passage",
+   "hash": "6912e8fb",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.6#p1-6912e8fb",
+     "text": "Meaning, the inhabitants of the city of Geba.",
+     "label": "b",
+     "anchor": "they removed them to Manahath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.7",
+   "range": "1CH.8.7",
+   "kind": "passage",
+   "hash": "f944ea33",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.7#p1-f944ea33",
+     "text": "That is, Ehud.",
+     "label": "c",
+     "anchor": "begat Uzza"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.8",
+   "range": "1CH.8.8",
+   "kind": "passage",
+   "hash": "b6240378",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.8#p1-b6240378",
+     "text": "After he had put away his two wives.",
+     "label": "d",
+     "anchor": "away"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.28",
+   "range": "1CH.8.28",
+   "kind": "passage",
+   "hash": "b184c435",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.28#p1-b184c435",
+     "text": "The chief of the tribe of Benjamin, who dwelt in Jerusalem.",
+     "label": "e",
+     "anchor": "fathers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.33",
+   "range": "1CH.8.33",
+   "kind": "passage",
+   "hash": "afe0eb16",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.33#p1-ba9e7d04",
+     "text": "Who in 1Sa 9:2 is called Abiel.",
+     "label": "f",
+     "anchor": "Ner begat Kish",
+     "refs": [
+      {
+       "text": "1Sa 9:2",
+       "ref": "1SA.9.2"
+      }
+     ]
+    },
+    {
+     "id": "geneva/1CH.8.33#p2-d4fe7910",
+     "text": "He is likewise called Mephibosheth, 2Sa 9:6.",
+     "label": "g",
+     "anchor": "Eshbaal",
+     "refs": [
+      {
+       "text": "2Sa 9:6",
+       "ref": "2SA.9.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.34",
+   "range": "1CH.8.34",
+   "kind": "passage",
+   "hash": "8eac9d1c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.34#p1-8eac9d1c",
+     "text": "He is also called Mephibosheth, 2Sa 9:6.",
+     "label": "h",
+     "anchor": "Meribbaal",
+     "refs": [
+      {
+       "text": "2Sa 9:6",
+       "ref": "2SA.9.6"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

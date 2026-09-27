@@ -1,0 +1,35 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/EZK.15.2",
+   "range": "EZK.15.2",
+   "kind": "passage",
+   "hash": "096ed709",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.15.2#p1-096ed709",
+     "text": "Which brings forth no fruit, no more than the other trees of the forest do: meaning that if Jerusalem, which bore the name of his Church, did not bring forth fruit it would be utterly destroyed.",
+     "label": "a",
+     "anchor": "trees of the forest"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.15.7",
+   "range": "EZK.15.7",
+   "kind": "passage",
+   "hash": "446afa5f",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.15.7#p1-446afa5f",
+     "text": "Though they escape one danger, yet another will take them.",
+     "label": "b",
+     "anchor": "fire"
+    }
+   ]
+  }
+ ]
+}

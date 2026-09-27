@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "geneva/JOS.18.1",
+   "range": "JOS.18.1",
+   "kind": "passage",
+   "hash": "9e1416bb",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.1#p1-9e1416bb",
+     "text": "For they had now removed it from Gilgal, and set it up in Shiloh.",
+     "label": "a",
+     "anchor": "tabernacle of the congregation there"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.2",
+   "range": "JOS.18.2",
+   "kind": "passage",
+   "hash": "40e678f7",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.2#p1-40e678f7",
+     "text": "As Eleazar, Joshua, and the heads of the tribes had done to Judah, Ephraim, and half of Manasseh.",
+     "label": "b",
+     "anchor": "which had not yet received their"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.4",
+   "range": "JOS.18.4",
+   "kind": "passage",
+   "hash": "0b039875",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.4#p1-0b039875",
+     "text": "That is, into seven portions, one to every tribe.",
+     "label": "c",
+     "anchor": "the inheritance of them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.5",
+   "range": "JOS.18.5",
+   "kind": "passage",
+   "hash": "722c61e5",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.5#p1-722c61e5",
+     "text": "For these had their inheritance already appointed.",
+     "label": "d",
+     "anchor": "abide in their coasts on the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.6",
+   "range": "JOS.18.6",
+   "kind": "passage",
+   "hash": "18901c1b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.6#p1-18901c1b",
+     "text": "Before the ark of the Lord.",
+     "label": "e",
+     "anchor": "LORD our God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.7",
+   "range": "JOS.18.7",
+   "kind": "passage",
+   "hash": "b65b7e8b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.7#p1-b65b7e8b",
+     "text": "That is, the sacrifices and offerings, Jos 13:14.",
+     "label": "f",
+     "anchor": "priesthood of the LORD is their",
+     "refs": [
+      {
+       "text": "Jos 13:14",
+       "ref": "JOS.13.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.8",
+   "range": "JOS.18.8",
+   "kind": "passage",
+   "hash": "86a8ec07",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.8#p1-86a8ec07",
+     "text": "By writing the names of every country and city.",
+     "label": "g",
+     "anchor": "describe the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.10",
+   "range": "JOS.18.10",
+   "kind": "passage",
+   "hash": "b2b17b67",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.10#p1-b2b17b67",
+     "text": "That everyone should be content with God's appointment.",
+     "label": "h",
+     "anchor": "cast lots for them in Shiloh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.11",
+   "range": "JOS.18.11",
+   "kind": "passage",
+   "hash": "ff0d3d17",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.11#p1-ff0d3d17",
+     "text": "Their inheritance bordered on Judah and Joseph.",
+     "label": "i",
+     "anchor": "between the children of Judah and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.13",
+   "range": "JOS.18.13",
+   "kind": "passage",
+   "hash": "7c722aab",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.13#p1-7c722aab",
+     "text": "Which was in the tribe of Ephraim: another Bethel was in the tribe of Benjamin.",
+     "label": "k",
+     "anchor": "Bethel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.17",
+   "range": "JOS.18.17",
+   "kind": "passage",
+   "hash": "669937ed",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.17#p1-669937ed",
+     "text": "Which is in the tribe of Ephraim.",
+     "label": "l",
+     "anchor": "Enshemesh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.19",
+   "range": "JOS.18.19",
+   "kind": "passage",
+   "hash": "6f1c25f4",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.19#p1-6f1c25f4",
+     "text": "To the very straight, where the river runs into the Salt sea.",
+     "label": "m",
+     "anchor": "end of Jordan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.18.28",
+   "range": "JOS.18.28",
+   "kind": "passage",
+   "hash": "07828511",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.18.28#p1-07828511",
+     "text": "Which was not completely in the tribe of Benjamin, but part of it was also in the tribe of Judah.",
+     "label": "n",
+     "anchor": "Jerusalem"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "geneva/2SA.14.1",
+   "range": "2SA.14.1",
+   "kind": "passage",
+   "hash": "b2012053",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.1#p1-b2012053",
+     "text": "That the king favoured him.",
+     "label": "a",
+     "anchor": "heart was toward Absalom"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.2",
+   "range": "2SA.14.2",
+   "kind": "passage",
+   "hash": "6a6780ad",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.2#p1-6a6780ad",
+     "text": "In token of mourning: for they used anointing to seem cheerful.",
+     "label": "b",
+     "anchor": "anoint not thyself with oil"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.6",
+   "range": "2SA.14.6",
+   "kind": "passage",
+   "hash": "6e462810",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.6#p1-6e462810",
+     "text": "Under this parable she describes the death of Amnon by Absalom.",
+     "label": "c",
+     "anchor": "sons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.7",
+   "range": "2SA.14.7",
+   "kind": "passage",
+   "hash": "767115eb",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.7#p1-767115eb",
+     "text": "Because he has slain his brother he ought to be slain according to the law, Ge 9:6, Ex 21:12.",
+     "label": "d",
+     "anchor": "life of his brother whom he",
+     "refs": [
+      {
+       "text": "Ge 9:6, Ex 21:12",
+       "ref": "GEN.9.6"
+      },
+      {
+       "text": "Ge 9:6, Ex 21:12",
+       "ref": "EXO.21.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.9",
+   "range": "2SA.14.9",
+   "kind": "passage",
+   "hash": "2aadf3bf",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.9#p1-2aadf3bf",
+     "text": "Concerning the breach of the Law which punishes blood, let me bear the blame.",
+     "label": "e",
+     "anchor": "iniquity be on me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.11",
+   "range": "2SA.14.11",
+   "kind": "passage",
+   "hash": "4213d426",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.11#p1-4213d426",
+     "text": "Swear that they will not revenge the blood, which are many in number.",
+     "label": "f",
+     "anchor": "remember the LORD thy God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.13",
+   "range": "2SA.14.13",
+   "kind": "passage",
+   "hash": "03864503",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.13#p1-03864503",
+     "text": "Why do you give contrary sentence to your son Absalom?",
+     "label": "g",
+     "anchor": "thought such a thing against the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.14",
+   "range": "2SA.14.14",
+   "kind": "passage",
+   "hash": "286c23c6",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.14#p1-286c23c6",
+     "text": "God has often provided ways (as sanctuaries) to save them, whom man judges worthy of death.",
+     "label": "h",
+     "anchor": "means"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.15",
+   "range": "2SA.14.15",
+   "kind": "passage",
+   "hash": "c918a7a5",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.15#p1-c918a7a5",
+     "text": "For I thought they would kill my son.",
+     "label": "i",
+     "anchor": "have made me afraid"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.17",
+   "range": "2SA.14.17",
+   "kind": "passage",
+   "hash": "5db82cd5",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.17#p1-5db82cd5",
+     "text": "Is of great wisdom to discern right from wrong.",
+     "label": "k",
+     "anchor": "angel of God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.19",
+   "range": "2SA.14.19",
+   "kind": "passage",
+   "hash": "dfd9e3e3",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.19#p1-dfd9e3e3",
+     "text": "Have you not done this by the counsel of Joab.",
+     "label": "l",
+     "anchor": "the hand of Joab with thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.20",
+   "range": "2SA.14.20",
+   "kind": "passage",
+   "hash": "84a8a4fc",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.20#p1-84a8a4fc",
+     "text": "By speaking further in a parable than plainly.",
+     "label": "m",
+     "anchor": "form of speech hath thy servant"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.21",
+   "range": "2SA.14.21",
+   "kind": "passage",
+   "hash": "9a0d6d51",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.21#p1-9a0d6d51",
+     "text": "I have granted your request.",
+     "label": "n",
+     "anchor": "done this thing"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.24",
+   "range": "2SA.14.24",
+   "kind": "passage",
+   "hash": "886a9bc6",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.24#p1-886a9bc6",
+     "text": "Covering by this his affection, and showing some part of justice to please the people.",
+     "label": "o",
+     "anchor": "turn to his own house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.26",
+   "range": "2SA.14.26",
+   "kind": "passage",
+   "hash": "1a9329e7",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.26#p1-1a9329e7",
+     "text": "Which weighed 6 pounds 4 ounces after half an ounce the shekel.",
+     "label": "p",
+     "anchor": "shekels after the king's weight"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.30",
+   "range": "2SA.14.30",
+   "kind": "passage",
+   "hash": "098b27db",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.30#p1-098b27db",
+     "text": "The wicked are impatient in their affections, and spare no unlawful means to accomplish them.",
+     "label": "q",
+     "anchor": "on fire"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.32",
+   "range": "2SA.14.32",
+   "kind": "passage",
+   "hash": "31f48466",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.32#p1-31f48466",
+     "text": "If I have offended by revenging my sister's dishonour: thus the wicked justify themselves in their evil.",
+     "label": "r",
+     "anchor": "if there be any iniquity in"
+    }
+   ]
+  }
+ ]
+}

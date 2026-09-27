@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/2SA.9.1",
+   "range": "2SA.9.1",
+   "kind": "passage",
+   "hash": "c2aec8f0",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.1#p1-c2aec8f0",
+     "text": "Because of my oath and promise made to Jonathan, 1Sa 20:15.",
+     "label": "a",
+     "anchor": "Jonathan's sake",
+     "refs": [
+      {
+       "text": "1Sa 20:15",
+       "ref": "1SA.20.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.3",
+   "range": "2SA.9.3",
+   "kind": "passage",
+   "hash": "3e030258",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.3#p1-3e030258",
+     "text": "Such mercy as shall be acceptable to God.",
+     "label": "b",
+     "anchor": "kindness of God unto him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.5",
+   "range": "2SA.9.5",
+   "kind": "passage",
+   "hash": "c7c1ee8e",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.5#p1-c7c1ee8e",
+     "text": "Who was also called Eliam the father of Bathsheba, David's wife.",
+     "label": "c",
+     "anchor": "Ammiel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.8",
+   "range": "2SA.9.8",
+   "kind": "passage",
+   "hash": "7a4f5c07",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.8#p1-7a4f5c07",
+     "text": "Meaning, a despised person.",
+     "label": "d",
+     "anchor": "a dead dog as I am"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.10",
+   "range": "2SA.9.10",
+   "kind": "passage",
+   "hash": "b14101b7",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.10#p1-b14101b7",
+     "text": "Be ye provident overseers and governors of his lands, that they may be profitable.",
+     "label": "e",
+     "anchor": "thy sons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.11",
+   "range": "2SA.9.11",
+   "kind": "passage",
+   "hash": "d52aa7ff",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.11#p1-d52aa7ff",
+     "text": "That Mephibosheth may have all things at commandment, as becomes a king's son.",
+     "label": "f",
+     "anchor": "As for Mephibosheth"
+    }
+   ]
+  }
+ ]
+}

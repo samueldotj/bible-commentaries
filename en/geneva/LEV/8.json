@@ -1,0 +1,117 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/LEV.8.9",
+   "range": "LEV.8.9",
+   "kind": "passage",
+   "hash": "fe5095ff",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.9#p1-fe5095ff",
+     "text": "So called, because this superscription, \"holiness to the Lord\" was graven in it.",
+     "label": "a",
+     "anchor": "holy crown"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.10",
+   "range": "LEV.8.10",
+   "kind": "passage",
+   "hash": "e6b41d8c",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.10#p1-e6b41d8c",
+     "text": "That is, the holiest of holies, the sanctuary and the court.",
+     "label": "b",
+     "anchor": "tabernacle and all that was therein"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.15",
+   "range": "LEV.8.15",
+   "kind": "passage",
+   "hash": "c7417b62",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.15#p1-c1a24f84",
+     "text": "Of the burnt offering.",
+     "label": "c",
+     "anchor": "altar round about with his finger"
+    },
+    {
+     "id": "geneva/LEV.8.15#p2-35dba28d",
+     "text": "To offer for the sins of the people.",
+     "label": "d",
+     "anchor": "it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.17",
+   "range": "LEV.8.17",
+   "kind": "passage",
+   "hash": "260e7bad",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.17#p1-260e7bad",
+     "text": "In other burnt offerings, which are not of consecration, or offering for himself, the priest has the skin, Le 7:8.",
+     "label": "e",
+     "anchor": "hide",
+     "refs": [
+      {
+       "text": "Le 7:8",
+       "ref": "LEV.7.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.23",
+   "range": "LEV.8.23",
+   "kind": "passage",
+   "hash": "27ddb595",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.23#p1-27ddb595",
+     "text": "Moses did this because the priests were not yet established in their office.",
+     "label": "f",
+     "anchor": "slew it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.31",
+   "range": "LEV.8.31",
+   "kind": "passage",
+   "hash": "7d1fe591",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.31#p1-7d1fe591",
+     "text": "At the door of the court.",
+     "label": "g",
+     "anchor": "tabernacle of the congregation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.36",
+   "range": "LEV.8.36",
+   "kind": "passage",
+   "hash": "8cda4386",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.36#p1-8cda4386",
+     "text": "By commission given to Moses.",
+     "label": "h",
+     "anchor": "hand of Moses"
+    }
+   ]
+  }
+ ]
+}

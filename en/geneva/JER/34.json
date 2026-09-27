@@ -1,0 +1,147 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 34,
+ "units": [
+  {
+   "id": "geneva/JER.34.1",
+   "range": "JER.34.1",
+   "kind": "passage",
+   "hash": "e294c76d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.1#p1-e294c76d",
+     "text": "Who commonly by Jeremiah was called Nebuchadrezzar and by others Nebuchadnezzar.",
+     "label": "a",
+     "anchor": "Nebuchadnezzar king of Babylon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.5",
+   "range": "JER.34.5",
+   "kind": "passage",
+   "hash": "1eb1b5d6",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.5#p1-4de12ece",
+     "text": "Not of any violent death.",
+     "label": "b",
+     "anchor": "peace"
+    },
+    {
+     "id": "geneva/JER.34.5#p2-c6c007d1",
+     "text": "The Jews will lament for you their lord and king.",
+     "label": "c",
+     "anchor": "lord"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.8",
+   "range": "JER.34.8",
+   "kind": "passage",
+   "hash": "b7ed9523",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.8#p1-b7ed9523",
+     "text": "When the enemy was at hand and they saw themselves in danger, they would seem holy, and so began some kind of reformation: but soon after they uttered their hypocrisy.",
+     "label": "d",
+     "anchor": "to proclaim liberty to them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.9",
+   "range": "JER.34.9",
+   "kind": "passage",
+   "hash": "7463c85d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.9#p1-7463c85d",
+     "text": "According to the law, Ex 21:2, De 15:12.",
+     "label": "e",
+     "anchor": "servant",
+     "refs": [
+      {
+       "text": "Ex 21:2, De 15:12",
+       "ref": "EXO.21.2"
+      },
+      {
+       "text": "Ex 21:2, De 15:12",
+       "ref": "DEU.15.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.15",
+   "range": "JER.34.15",
+   "kind": "passage",
+   "hash": "b3c50707",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.15#p1-b3c50707",
+     "text": "Meaning in the temple to declare that it was a most solemn and straight covenant made in the name of the Lord.",
+     "label": "f",
+     "anchor": "the house which is called by"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.17",
+   "range": "JER.34.17",
+   "kind": "passage",
+   "hash": "c4c7783f",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.17#p1-c4c7783f",
+     "text": "That is, I give the sword liberty to destroy you.",
+     "label": "g",
+     "anchor": "the sword"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.18",
+   "range": "JER.34.18",
+   "kind": "passage",
+   "hash": "785f3f1a",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.18#p1-785f3f1a",
+     "text": "Concerning the manner of solemn covenant which the ancients used by passing between the two parts of a beast, to signify that the transgressor of the same covenant should be so divided in pieces, read Ge 15:10.",
+     "label": "h",
+     "anchor": "cut the calf in two",
+     "refs": [
+      {
+       "text": "Ge 15:10",
+       "ref": "GEN.15.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.34.21",
+   "range": "JER.34.21",
+   "kind": "passage",
+   "hash": "d204fe3a",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.34.21#p1-d204fe3a",
+     "text": "To fight against the Egyptians, as in Jer 37:11.",
+     "label": "i",
+     "anchor": "are gone up from you",
+     "refs": [
+      {
+       "text": "Jer 37:11",
+       "ref": "JER.37.11"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

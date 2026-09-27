@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/EST.4.2",
+   "range": "EST.4.2",
+   "kind": "passage",
+   "hash": "6f888ce8",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.4.2#p1-6f888ce8",
+     "text": "Because he would inform Esther of this cruel proclamation.",
+     "label": "a",
+     "anchor": "gate"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.4.14",
+   "range": "EST.4.14",
+   "kind": "passage",
+   "hash": "5a4b5888",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.4.14#p1-85c6e0ab",
+     "text": "Thus Mordecai spoke in the confidence of that faith which all God's children should have; which is that God will deliver them, though all worldly means fail.",
+     "label": "b",
+     "anchor": "arise to the Jews from another"
+    },
+    {
+     "id": "geneva/EST.4.14#p2-523e6036",
+     "text": "To deliver God's Church out of these present dangers.",
+     "label": "c",
+     "anchor": "such a time as this"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.4.16",
+   "range": "EST.4.16",
+   "kind": "passage",
+   "hash": "418b92b9",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.4.16#p1-418b92b9",
+     "text": "I will put my life in danger and refer the success to God, seeing it is for his glory and the deliverance of his Church.",
+     "label": "d",
+     "anchor": "I perish"
+    }
+   ]
+  }
+ ]
+}

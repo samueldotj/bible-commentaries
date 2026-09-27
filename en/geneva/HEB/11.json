@@ -1,0 +1,457 @@
+{
+ "source": "geneva",
+ "book": "HEB",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/HEB.11.1",
+   "range": "HEB.11.1",
+   "kind": "passage",
+   "hash": "62b74c33",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.1#p1-62b74c33",
+     "text": "An excellent description of faith by the effects, because it represents things which are but yet in hope, and sets as it were before our eyes things that are invisible.",
+     "label": "1",
+     "anchor": "faith is the substance of things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.2",
+   "range": "HEB.11.2",
+   "kind": "passage",
+   "hash": "2bd5b3e0",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.2#p1-ebee029e",
+     "text": "He shows that the fathers ought to be accounted of by this virtue.",
+     "label": "2",
+     "anchor": "For by it the"
+    },
+    {
+     "id": "geneva/HEB.11.2#p2-6ab08450",
+     "text": "That is, those fathers from whom we came: and whose authority and example ought to move us very much.",
+     "label": "a",
+     "anchor": "elders obtained a good report"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.3",
+   "range": "HEB.11.3",
+   "kind": "passage",
+   "hash": "5beb879e",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.3#p1-c7f694f4",
+     "text": "He shows the property of faith, by setting before us most cautious examples of those who from the beginning of the world excelled in the Church.",
+     "label": "3",
+     "anchor": "Through faith we understand that the"
+    },
+    {
+     "id": "geneva/HEB.11.3#p2-d861144c",
+     "text": "So that the world which we see, was not made from any matter that appeared or was before, but from nothing.",
+     "label": "b",
+     "anchor": "seen were not made of things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.4",
+   "range": "HEB.11.4",
+   "kind": "passage",
+   "hash": "5b45b53d",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.4#p1-5b45b53d",
+     "text": "Abel.",
+     "label": "4",
+     "anchor": "By faith Abel offered unto God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.5",
+   "range": "HEB.11.5",
+   "kind": "passage",
+   "hash": "4ff170c6",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.5#p1-fa2fd251",
+     "text": "Enoch.",
+     "label": "5",
+     "anchor": "By faith Enoch was translated that"
+    },
+    {
+     "id": "geneva/HEB.11.5#p2-523639e0",
+     "text": "That he should not die.",
+     "label": "c",
+     "anchor": "see death"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.6",
+   "range": "HEB.11.6",
+   "kind": "passage",
+   "hash": "0c1283c5",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.6#p1-0c1283c5",
+     "text": "This reward is not referred to our merits, but to the free promise, as Paul teaches in Abraham the father of all the faithful, Ro 4:4.",
+     "label": "d",
+     "anchor": "rewarder of them that diligently seek",
+     "refs": [
+      {
+       "text": "Ro 4:4",
+       "ref": "ROM.4.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.7",
+   "range": "HEB.11.7",
+   "kind": "passage",
+   "hash": "701c0dd8",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.7#p1-701c0dd8",
+     "text": "Noah.",
+     "label": "6",
+     "anchor": "By faith Noah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.8",
+   "range": "HEB.11.8",
+   "kind": "passage",
+   "hash": "50285d5b",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.8#p1-50285d5b",
+     "text": "Abraham and Sarah.",
+     "label": "7",
+     "anchor": "By faith Abraham"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.10",
+   "range": "HEB.11.10",
+   "kind": "passage",
+   "hash": "cb56afde",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.10#p1-cb56afde",
+     "text": "This foundation is contrasted with their tabernacle.",
+     "label": "e",
+     "anchor": "foundations"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.12",
+   "range": "HEB.11.12",
+   "kind": "passage",
+   "hash": "d22cac92",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.12#p1-d22cac92",
+     "text": "As unlikely to bear children, as if he had been dead.",
+     "label": "f",
+     "anchor": "dead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.13",
+   "range": "HEB.11.13",
+   "kind": "passage",
+   "hash": "6ea92d77",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.13#p1-af5cd6bd",
+     "text": "In faith, which they had while they lived, and followed, them even to their grave.",
+     "label": "g",
+     "anchor": "faith"
+    },
+    {
+     "id": "geneva/HEB.11.13#p2-cd1379eb",
+     "text": "This is the figure metonymy, for the things promised.",
+     "label": "h",
+     "anchor": "promises"
+    },
+    {
+     "id": "geneva/HEB.11.13#p3-3ccf0906",
+     "text": "For the patriarchs were given to profess their religion by building an altar and calling on the name of the Lord when they received the promises.",
+     "label": "i",
+     "anchor": "embraced them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.17",
+   "range": "HEB.11.17",
+   "kind": "passage",
+   "hash": "b883d255",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.17#p1-4f409713",
+     "text": "Tried by the Lord.",
+     "label": "k",
+     "anchor": "tried"
+    },
+    {
+     "id": "geneva/HEB.11.17#p2-e7ea952d",
+     "text": "Although the promises of life were made in that only begotten son Isaac, yet he appointed him to die; and so against hope he believed in hope.",
+     "label": "l",
+     "anchor": "promises offered up his only begotten"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.19",
+   "range": "HEB.11.19",
+   "kind": "passage",
+   "hash": "e1a84a77",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.19#p1-c8bb6da9",
+     "text": "From which death.",
+     "label": "m",
+     "anchor": "whence also he received him in"
+    },
+    {
+     "id": "geneva/HEB.11.19#p2-4e3c3d6a",
+     "text": "For there was not the true and very death of Isaac, but as it were the death, by means of which he seemed also to have risen again.",
+     "label": "n",
+     "anchor": "a figure"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.20",
+   "range": "HEB.11.20",
+   "kind": "passage",
+   "hash": "369a6733",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.20#p1-369a6733",
+     "text": "Isaac.",
+     "label": "8",
+     "anchor": "By faith Isaac blessed Jacob and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.21",
+   "range": "HEB.11.21",
+   "kind": "passage",
+   "hash": "46e9669a",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.21#p1-46e9669a",
+     "text": "Jacob.",
+     "label": "9",
+     "anchor": "By faith Jacob"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.22",
+   "range": "HEB.11.22",
+   "kind": "passage",
+   "hash": "a6a9cb56",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.22#p1-a6a9cb56",
+     "text": "Joseph.",
+     "label": "10",
+     "anchor": "By faith Joseph"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.23",
+   "range": "HEB.11.23",
+   "kind": "passage",
+   "hash": "288059ed",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.23#p1-288059ed",
+     "text": "Moses.",
+     "label": "11",
+     "anchor": "By faith Moses"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.25",
+   "range": "HEB.11.25",
+   "kind": "passage",
+   "hash": "a9991f91",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.25#p1-a9991f91",
+     "text": "Such pleasures as he could not enjoy, unless he provoked God's wrath against him.",
+     "label": "p",
+     "anchor": "pleasures of sin for a season"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.29",
+   "range": "HEB.11.29",
+   "kind": "passage",
+   "hash": "55d5aef3",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.29#p1-55d5aef3",
+     "text": "The Red Sea.",
+     "label": "12",
+     "anchor": "By faith they passed through the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.30",
+   "range": "HEB.11.30",
+   "kind": "passage",
+   "hash": "6e2773ad",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.30#p1-6e2773ad",
+     "text": "Jericho.",
+     "label": "13",
+     "anchor": "By faith the walls of Jericho"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.31",
+   "range": "HEB.11.31",
+   "kind": "passage",
+   "hash": "aeb75b1c",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.31#p1-27d71938",
+     "text": "Rahab.",
+     "label": "14",
+     "anchor": "By faith the"
+    },
+    {
+     "id": "geneva/HEB.11.31#p2-2108acf4",
+     "text": "A notable example of God's goodness.",
+     "label": "q",
+     "anchor": "harlot Rahab perished not with them"
+    },
+    {
+     "id": "geneva/HEB.11.31#p3-55ebfda7",
+     "text": "Courteously and friendly, so that not only did she not hurt them, but also kept them safe.",
+     "label": "r",
+     "anchor": "spies with peace"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.32",
+   "range": "HEB.11.32",
+   "kind": "passage",
+   "hash": "50ad0611",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.32#p1-50ad0611",
+     "text": "Gideon, Barak and other judges and prophets.",
+     "label": "15",
+     "anchor": "And what shall I more say"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.33",
+   "range": "HEB.11.33",
+   "kind": "passage",
+   "hash": "7fab5999",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.33#p1-7fab5999",
+     "text": "The fruit of the promises.",
+     "label": "s",
+     "anchor": "promises"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.35",
+   "range": "HEB.11.35",
+   "kind": "passage",
+   "hash": "9b45e766",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.35#p1-3ff60478",
+     "text": "He seems to mean the story of that woman of Sarepta, whose son Elijah raised again from the dead, and the Shunammite, whose son Elisha restored to his mother.",
+     "label": "t",
+     "anchor": "Women received their dead raised to"
+    },
+    {
+     "id": "geneva/HEB.11.35#p2-c82235bb",
+     "text": "He means that perfection which Antiochus wrought.",
+     "label": "u",
+     "anchor": "tortured"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.37",
+   "range": "HEB.11.37",
+   "kind": "passage",
+   "hash": "b4d4ff82",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.37#p1-b4d4ff82",
+     "text": "In vile and rough clothing, so were the saints brought to extreme poverty, and constrained to live like beasts in the wilderness.",
+     "label": "x",
+     "anchor": "sheepskins and goatskins"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.39",
+   "range": "HEB.11.39",
+   "kind": "passage",
+   "hash": "3333979a",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.39#p1-1b5e6bbb",
+     "text": "An amplification taken from the circumstance of the time: their faith is so much the more to be marvelled at, by how much the promises of things to come were more dark, yet at length were indeed exhibited to us, so that their faith and ours is as one, as is also their consecration and ours.",
+     "label": "16",
+     "anchor": "And these all"
+    },
+    {
+     "id": "geneva/HEB.11.39#p2-0b7f55ec",
+     "text": "But saw Christ afar off.",
+     "label": "y",
+     "anchor": "not the promise"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.40",
+   "range": "HEB.11.40",
+   "kind": "passage",
+   "hash": "b5892592",
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.40#p1-b5892592",
+     "text": "For their salvation depended on Christ, who was exhibited in our days.",
+     "label": "z",
+     "anchor": "without us should not be made"
+    }
+   ]
+  }
+ ]
+}

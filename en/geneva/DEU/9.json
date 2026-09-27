@@ -1,0 +1,223 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/DEU.9.1",
+   "range": "DEU.9.1",
+   "kind": "passage",
+   "hash": "1f4ab754",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.1#p1-1f4ab754",
+     "text": "Meaning shortly.",
+     "label": "a",
+     "anchor": "this day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.2",
+   "range": "DEU.9.2",
+   "kind": "passage",
+   "hash": "d2d9409c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.2#p1-d2d9409c",
+     "text": "By the report of the spies. Nu 13:26.",
+     "label": "b",
+     "anchor": "heard say",
+     "refs": [
+      {
+       "text": "Nu 13:26",
+       "ref": "NUM.13.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.3",
+   "range": "DEU.9.3",
+   "kind": "passage",
+   "hash": "957452c0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.3#p1-957452c0",
+     "text": "To guide you and govern you.",
+     "label": "c",
+     "anchor": "goeth over before thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.4",
+   "range": "DEU.9.4",
+   "kind": "passage",
+   "hash": "92c3d289",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.4#p1-92c3d289",
+     "text": "Man by himself deserves nothing but God's anger, and if God spares anyone it comes from his great mercy.",
+     "label": "d",
+     "anchor": "righteousness the LORD hath brought me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.6",
+   "range": "DEU.9.6",
+   "kind": "passage",
+   "hash": "b8d477d2",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.6#p1-b8d477d2",
+     "text": "Like stubborn oxen who will not endure their masters yoke.",
+     "label": "e",
+     "anchor": "stiffnecked people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.7",
+   "range": "DEU.9.7",
+   "kind": "passage",
+   "hash": "060c2fd6",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.7#p1-060c2fd6",
+     "text": "He proves by the length of time, that their rebellion was great and intolerable.",
+     "label": "f",
+     "anchor": "from the day that thou didst"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.10",
+   "range": "DEU.9.10",
+   "kind": "passage",
+   "hash": "46a66d93",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.10#p1-46a66d93",
+     "text": "That is, miraculously, and not by the hand of men.",
+     "label": "g",
+     "anchor": "finger of God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.12",
+   "range": "DEU.9.12",
+   "kind": "passage",
+   "hash": "3555ebcb",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.12#p1-3555ebcb",
+     "text": "As soon as man declines from the obedience of God, his ways are corrupt.",
+     "label": "h",
+     "anchor": "corrupted themselves"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.14",
+   "range": "DEU.9.14",
+   "kind": "passage",
+   "hash": "b42a8f6a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.14#p1-b42a8f6a",
+     "text": "Demonstrating that the prayers of the faithful are a bar to restrain God's anger so that he does not consume all.",
+     "label": "i",
+     "anchor": "Let me alone"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.16",
+   "range": "DEU.9.16",
+   "kind": "passage",
+   "hash": "e6fa545d",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.16#p1-e6fa545d",
+     "text": "That is, from the Law: in which he declares what the cause of our punishment is.",
+     "label": "k",
+     "anchor": "way which the LORD had commanded"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.20",
+   "range": "DEU.9.20",
+   "kind": "passage",
+   "hash": "ed7b9cd3",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.20#p1-ed7b9cd3",
+     "text": "By which he shows the danger they are in who have authority and do not resist wickedness.",
+     "label": "l",
+     "anchor": "destroyed him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.21",
+   "range": "DEU.9.21",
+   "kind": "passage",
+   "hash": "c48ec294",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.21#p1-c48ec294",
+     "text": "Horeb, or Sinai.",
+     "label": "m",
+     "anchor": "mount"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.23",
+   "range": "DEU.9.23",
+   "kind": "passage",
+   "hash": "cd60790c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.23#p1-cd60790c",
+     "text": "At the return of the spies.",
+     "label": "n",
+     "anchor": "rebelled against the commandment of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.25",
+   "range": "DEU.9.25",
+   "kind": "passage",
+   "hash": "6c3c7741",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.25#p1-6c3c7741",
+     "text": "By which is signified that God requires earnest continuance in prayer.",
+     "label": "o",
+     "anchor": "forty days and forty nights"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.27",
+   "range": "DEU.9.27",
+   "kind": "passage",
+   "hash": "4636d698",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.27#p1-4636d698",
+     "text": "The godly in their prayers ground on God's promise, and confess their sins.",
+     "label": "p",
+     "anchor": "Remember thy servants"
+    }
+   ]
+  }
+ ]
+}

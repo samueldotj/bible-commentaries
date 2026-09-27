@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "geneva/EST.6.3",
+   "range": "EST.6.3",
+   "kind": "passage",
+   "hash": "50932572",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.3#p1-50932572",
+     "text": "For he thought it unworthy of his estate to receive a benefit and not reward it.",
+     "label": "a",
+     "anchor": "for this"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.4",
+   "range": "EST.6.4",
+   "kind": "passage",
+   "hash": "10a20c3f",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.4#p1-10a20c3f",
+     "text": "Thus while the wicked imagine the destruction of others, they themselves fall into the same pit.",
+     "label": "b",
+     "anchor": "hang Mordecai on the gallows that"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.8",
+   "range": "EST.6.8",
+   "kind": "passage",
+   "hash": "b305828c",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.8#p1-b305828c",
+     "text": "Meaning by this that the king should make him next to himself as Joseph was known to be next to Pharaoh in Ge 41:43.",
+     "label": "c",
+     "anchor": "horse that the king rideth upon",
+     "refs": [
+      {
+       "text": "Ge 41:43",
+       "ref": "GEN.41.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.13",
+   "range": "EST.6.13",
+   "kind": "passage",
+   "hash": "09aeccfe",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.13#p1-09aeccfe",
+     "text": "Thus God sometimes puts in the mouth of the very wicked to speak that thing which he has decreed shall come to pass.",
+     "label": "d",
+     "anchor": "but shalt surely fall before him"
+    }
+   ]
+  }
+ ]
+}

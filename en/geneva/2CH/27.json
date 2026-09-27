@@ -1,0 +1,61 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 27,
+ "units": [
+  {
+   "id": "geneva/2CH.27.2",
+   "range": "2CH.27.2",
+   "kind": "passage",
+   "hash": "aa27c0ac",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.27.2#p1-d4169379",
+     "text": "That is, to offer incense against the word of God, which is spoken of in the commendation of Jotham.",
+     "label": "a",
+     "anchor": "temple of the LORD"
+    },
+    {
+     "id": "geneva/2CH.27.2#p2-ede81633",
+     "text": "They were not completely purged from idolatry.",
+     "label": "b",
+     "anchor": "corruptly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.27.3",
+   "range": "2CH.27.3",
+   "kind": "passage",
+   "hash": "d4315c95",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.27.3#p1-d4315c95",
+     "text": "Which was 60 cubits high and was for the height called Ophel: it was at the east gate and mention is made of it in 2Ch 3:4.",
+     "label": "c",
+     "anchor": "gate of the house of the",
+     "refs": [
+      {
+       "text": "2Ch 3:4",
+       "ref": "2CH.3.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.27.6",
+   "range": "2CH.27.6",
+   "kind": "passage",
+   "hash": "1c5d8123",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.27.6#p1-1c5d8123",
+     "text": "He shows that all prosperity comes from God, who never fails when we put our trust in him.",
+     "label": "d",
+     "anchor": "because he prepared his ways before"
+    }
+   ]
+  }
+ ]
+}

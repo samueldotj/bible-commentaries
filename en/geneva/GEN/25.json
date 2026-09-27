@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/GEN.25.1",
+   "range": "GEN.25.1",
+   "kind": "passage",
+   "hash": "aa0195ee",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.1#p1-aa0195ee",
+     "text": "While Sarah was yet alive.",
+     "label": "a",
+     "anchor": "took a wife"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.6",
+   "range": "GEN.25.6",
+   "kind": "passage",
+   "hash": "b39e5631",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.6#p1-041298ca",
+     "text": "For by virtue of God's word he not only had Isaac, but begat many more.",
+     "label": "b",
+     "anchor": "sons of the"
+    },
+    {
+     "id": "geneva/GEN.25.6#p2-1f64865d",
+     "text": "See Ge 22:24.",
+     "label": "c",
+     "anchor": "concubines",
+     "refs": [
+      {
+       "text": "Ge 22:24",
+       "ref": "GEN.22.24"
+      }
+     ]
+    },
+    {
+     "id": "geneva/GEN.25.6#p3-7fc1bb2b",
+     "text": "To avoid the disputing that otherwise might have come because of the heritage.",
+     "label": "d",
+     "anchor": "gave gifts"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.17",
+   "range": "GEN.25.17",
+   "kind": "passage",
+   "hash": "444757f4",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.17#p1-444757f4",
+     "text": "Who dwelt among the Arabians, and were separate from the blessed seed.",
+     "label": "f",
+     "anchor": "people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.18",
+   "range": "GEN.25.18",
+   "kind": "passage",
+   "hash": "d319ee9e",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.18#p1-d319ee9e",
+     "text": "He means that his lot fell to dwell among his brethren as the angel promised.",
+     "label": "g",
+     "anchor": "in the presence of all his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.22",
+   "range": "GEN.25.22",
+   "kind": "passage",
+   "hash": "3178a704",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.22#p1-c99eb1b2",
+     "text": "That is, with child, seeing one shall destroy another.",
+     "label": "h",
+     "anchor": "thus"
+    },
+    {
+     "id": "geneva/GEN.25.22#p2-2afa6a52",
+     "text": "For that is the only refuge in all our miseries.",
+     "label": "i",
+     "anchor": "to enquire of the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.32",
+   "range": "GEN.25.32",
+   "kind": "passage",
+   "hash": "539326d2",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.32#p1-539326d2",
+     "text": "The reprobate do not value God's benefits unless they feel them presently, and therefore they prefer present pleasures.",
+     "label": "k",
+     "anchor": "profit shall this birthright do to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.25.33",
+   "range": "GEN.25.33",
+   "kind": "passage",
+   "hash": "5a7cbd5b",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.25.33#p1-5a7cbd5b",
+     "text": "Thus the wicked prefer their worldly conveniences over God's spiritual graces: but the children of God do the opposite.",
+     "label": "l",
+     "anchor": "sold his birthright unto Jacob"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 43,
+ "units": [
+  {
+   "id": "geneva/EZK.43.3",
+   "range": "EZK.43.3",
+   "kind": "passage",
+   "hash": "d9626f76",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.3#p1-d9626f76",
+     "text": "When I prophesied the destruction of the city of the Chaldeans.",
+     "label": "a",
+     "anchor": "when I came to destroy the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.43.4",
+   "range": "EZK.43.4",
+   "kind": "passage",
+   "hash": "eb625e7a",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.4#p1-eb625e7a",
+     "text": "Which was departed before, Eze 10:4,12:22.",
+     "label": "b",
+     "anchor": "glory of the LORD came into",
+     "refs": [
+      {
+       "text": "Eze 10:4,12:22",
+       "ref": "EZK.10.4"
+      },
+      {
+       "text": "Eze 10:4,12:22",
+       "ref": "EZK.12.22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.43.7",
+   "range": "EZK.43.7",
+   "kind": "passage",
+   "hash": "ebdbc80c",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.7#p1-481aa097",
+     "text": "By their idolatries.",
+     "label": "c",
+     "anchor": "defile"
+    },
+    {
+     "id": "geneva/EZK.43.7#p2-10287a19",
+     "text": "He alludes to Amon and Manasseh, who were buried in their gardens near the Temple and there had erected monuments to their idols.",
+     "label": "d",
+     "anchor": "their kings in their high places"
+    }
+   ]
+  }
+ ]
+}

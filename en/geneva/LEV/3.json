@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/LEV.3.1",
+   "range": "LEV.3.1",
+   "kind": "passage",
+   "hash": "4cfd284b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.1#p1-4cfd284b",
+     "text": "A sacrifice of thanksgiving offered for peace and prosperity, either generally or particularly.",
+     "label": "a",
+     "anchor": "peace offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.3.3",
+   "range": "LEV.3.3",
+   "kind": "passage",
+   "hash": "4cb451d8",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.3#p1-4cb451d8",
+     "text": "One part was burnt, another was to the priests, and the third to him that offered.",
+     "label": "b",
+     "anchor": "offer of the sacrifice of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.3.6",
+   "range": "LEV.3.6",
+   "kind": "passage",
+   "hash": "4c415ffc",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.6#p1-4c415ffc",
+     "text": "In the peace offering either male or female could be offered, but in the burnt offering only the male: so here no birds can be offered, but in the burnt offering they might: there all was consumed with fire, and in the peace offering divided.",
+     "label": "c",
+     "anchor": "male or female"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.3.9",
+   "range": "LEV.3.9",
+   "kind": "passage",
+   "hash": "01c53cbf",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.9#p1-01c53cbf",
+     "text": "The burnt offering was completely consumed, and of the offering made by fire only the inner parts were burnt: the shoulder and breast, with the two jaws and the stomach were the priests, and the rest his that offered.",
+     "label": "d",
+     "anchor": "an offering made by fire unto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.3.13",
+   "range": "LEV.3.13",
+   "kind": "passage",
+   "hash": "26f7f204",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.13#p1-26f7f204",
+     "text": "Meaning, at the north side of the altar, Le 1:1.",
+     "label": "e",
+     "anchor": "the tabernacle of the congregation",
+     "refs": [
+      {
+       "text": "Le 1:1",
+       "ref": "LEV.1.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.3.17",
+   "range": "LEV.3.17",
+   "kind": "passage",
+   "hash": "fe1122d9",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.3.17#p1-fe1122d9",
+     "text": "Eating fat was a symbol of carnality, and eating blood signified cruelty.",
+     "label": "f",
+     "anchor": "fat nor blood"
+    }
+   ]
+  }
+ ]
+}

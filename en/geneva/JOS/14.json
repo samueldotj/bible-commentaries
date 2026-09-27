@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "geneva/JOS.14.3",
+   "range": "JOS.14.3",
+   "kind": "passage",
+   "hash": "6fed5902",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.3#p1-6fed5902",
+     "text": "As Reuben and Gad and half the tribe of Manasseh, Nu 32:33.",
+     "label": "a",
+     "anchor": "two tribes and an half tribe",
+     "refs": [
+      {
+       "text": "Nu 32:33",
+       "ref": "NUM.32.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.4",
+   "range": "JOS.14.4",
+   "kind": "passage",
+   "hash": "c1c050e7",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.4#p1-c1c050e7",
+     "text": "So though Levi lacked, yet were there still twelve tribes by this means.",
+     "label": "b",
+     "anchor": "two tribes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.6",
+   "range": "JOS.14.6",
+   "kind": "passage",
+   "hash": "41d66719",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.6#p1-41d66719",
+     "text": "Which was that only those two should enter into the land, Nu 14:24.",
+     "label": "c",
+     "anchor": "thee in Kadeshbarnea",
+     "refs": [
+      {
+       "text": "Nu 14:24",
+       "ref": "NUM.14.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.8",
+   "range": "JOS.14.8",
+   "kind": "passage",
+   "hash": "8e62d165",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.8#p1-8e62d165",
+     "text": "Which were the ten other spies.",
+     "label": "d",
+     "anchor": "brethren that went up with me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.12",
+   "range": "JOS.14.12",
+   "kind": "passage",
+   "hash": "d76f17dc",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.12#p1-d76f17dc",
+     "text": "This he spoke out of modesty, and not from doubting.",
+     "label": "e",
+     "anchor": "if so be the LORD will"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.15",
+   "range": "JOS.14.15",
+   "kind": "passage",
+   "hash": "6be571a4",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.15#p1-6be571a4",
+     "text": "Either for his power or person.",
+     "label": "f",
+     "anchor": "great man among the Anakims"
+    }
+   ]
+  }
+ ]
+}

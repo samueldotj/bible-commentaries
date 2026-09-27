@@ -1,0 +1,157 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/EXO.13.3",
+   "range": "EXO.13.3",
+   "kind": "passage",
+   "hash": "6a6f928c",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.3#p1-2a48361b",
+     "text": "Where they were in most cruel slavery.",
+     "label": "a",
+     "anchor": "bondage"
+    },
+    {
+     "id": "geneva/EXO.13.3#p2-7d97b491",
+     "text": "To signify that they did not have time to leaven their bread.",
+     "label": "b",
+     "anchor": "eaten"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.4",
+   "range": "EXO.13.4",
+   "kind": "passage",
+   "hash": "13412353",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.4#p1-13412353",
+     "text": "Containing part of March and part of April, when corn began to ripen in that country.",
+     "label": "c",
+     "anchor": "Abib"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.6",
+   "range": "EXO.13.6",
+   "kind": "passage",
+   "hash": "511b235d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.6#p1-511b235d",
+     "text": "Both the seventh and the first day were holy, as in Ex 12:16.",
+     "label": "d",
+     "anchor": "seventh day shall be a feast",
+     "refs": [
+      {
+       "text": "Ex 12:16",
+       "ref": "EXO.12.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.8",
+   "range": "EXO.13.8",
+   "kind": "passage",
+   "hash": "6300cad2",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.8#p1-6300cad2",
+     "text": "When you celebrate the feast of unleavened bread.",
+     "label": "e",
+     "anchor": "in that day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.9",
+   "range": "EXO.13.9",
+   "kind": "passage",
+   "hash": "d89e3508",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.9#p1-d89e3508",
+     "text": "You will constantly remember it, as you would of a thing that is in your hand, or before your eyes.",
+     "label": "f",
+     "anchor": "upon thine hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.13",
+   "range": "EXO.13.13",
+   "kind": "passage",
+   "hash": "b886a944",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.13#p1-c1b5bfbe",
+     "text": "This is also understood about the horse and other beasts which were not offered in sacrifice.",
+     "label": "g",
+     "anchor": "ass thou shalt redeem with a"
+    },
+    {
+     "id": "geneva/EXO.13.13#p2-acd60e0b",
+     "text": "By offering a clean beast in sacrifice; Le 12:6.",
+     "label": "h",
+     "anchor": "redeem",
+     "refs": [
+      {
+       "text": "Le 12:6",
+       "ref": "LEV.12.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.17",
+   "range": "EXO.13.17",
+   "kind": "passage",
+   "hash": "ca21e387",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.17#p1-ca21e387",
+     "text": "Which the Philistines would have made against them by blocking their passage.",
+     "label": "i",
+     "anchor": "see war"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.18",
+   "range": "EXO.13.18",
+   "kind": "passage",
+   "hash": "93f6e2ab",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.18#p1-93f6e2ab",
+     "text": "That is, not secretly but openly and as the word signifies, set in order by five and five.",
+     "label": "k",
+     "anchor": "harnessed out of the land of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.13.21",
+   "range": "EXO.13.21",
+   "kind": "passage",
+   "hash": "c7ceab38",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.13.21#p1-c7ceab38",
+     "text": "To defend them from the heat of the sun.",
+     "label": "l",
+     "anchor": "cloud"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/2CH.11.1",
+   "range": "2CH.11.1",
+   "kind": "passage",
+   "hash": "9027ea34",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.1#p1-b97379c7",
+     "text": "That is, the half tribe of Benjamin for the other half went after Jeroboam.",
+     "label": "a",
+     "anchor": "Benjamin an hundred and fourscore thousand"
+    },
+    {
+     "id": "geneva/2CH.11.1#p2-cc189f5d",
+     "text": "Meaning the ten tribes who rebelled.",
+     "label": "b",
+     "anchor": "Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.5",
+   "range": "2CH.11.5",
+   "kind": "passage",
+   "hash": "c8b5b7e1",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.5#p1-c8b5b7e1",
+     "text": "Or, repaired them and made them strong to be more able to resist Jeroboam.",
+     "label": "c",
+     "anchor": "built cities for defence in Judah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.15",
+   "range": "2CH.11.15",
+   "kind": "passage",
+   "hash": "ead454b4",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.15#p1-ead454b4",
+     "text": "Meaning idols, Isa 44:15.",
+     "label": "d",
+     "anchor": "devils",
+     "refs": [
+      {
+       "text": "Isa 44:15",
+       "ref": "ISA.44.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.16",
+   "range": "2CH.11.16",
+   "kind": "passage",
+   "hash": "5b74223d",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.16#p1-5b74223d",
+     "text": "Who were zealous of true religion and feared God.",
+     "label": "e",
+     "anchor": "hearts to seek the LORD God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.17",
+   "range": "2CH.11.17",
+   "kind": "passage",
+   "hash": "cc85354c",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.17#p1-cc85354c",
+     "text": "As long as they feared God, and set forth his word, they prospered.",
+     "label": "f",
+     "anchor": "walked in the way of David"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.22",
+   "range": "2CH.11.22",
+   "kind": "passage",
+   "hash": "37ac549d",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.22#p1-37ac549d",
+     "text": "Called also Abijam, who reigned three years, 1Ki 15:2.",
+     "label": "g",
+     "anchor": "Abijah the son of Maachah the",
+     "refs": [
+      {
+       "text": "1Ki 15:2",
+       "ref": "1KI.15.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.23",
+   "range": "2CH.11.23",
+   "kind": "passage",
+   "hash": "b4751b82",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.23#p1-b4751b82",
+     "text": "He gave himself to have many wives.",
+     "label": "h",
+     "anchor": "desired many wives"
+    }
+   ]
+  }
+ ]
+}

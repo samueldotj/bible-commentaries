@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 30,
+ "units": [
+  {
+   "id": "geneva/EZK.30.5",
+   "range": "EZK.30.5",
+   "kind": "passage",
+   "hash": "78ccf0fd",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.5#p1-78ccf0fd",
+     "text": "By Phut and Lud are meant Africa and Libya.",
+     "label": "a",
+     "anchor": "Cush"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.6",
+   "range": "EZK.30.6",
+   "kind": "passage",
+   "hash": "9d7049db",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.6#p1-9d7049db",
+     "text": "Which was a strong city of Egypt, Eze 29:10.",
+     "label": "b",
+     "anchor": "Syene shall they fall in it",
+     "refs": [
+      {
+       "text": "Eze 29:10",
+       "ref": "EZK.29.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.18",
+   "range": "EZK.30.18",
+   "kind": "passage",
+   "hash": "c2b9b173",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.18#p1-3e67e709",
+     "text": "Meaning that there will be great sorrow and affliction.",
+     "label": "c",
+     "anchor": "shall be darkened"
+    },
+    {
+     "id": "geneva/EZK.30.18#p2-bca0cb23",
+     "text": "That is, the strength and force.",
+     "label": "d",
+     "anchor": "yokes of Egypt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.20",
+   "range": "EZK.30.20",
+   "kind": "passage",
+   "hash": "4b474d07",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.20#p1-4b474d07",
+     "text": "Of the captivity of Jeconiah, or of Zedekiah's reign.",
+     "label": "e",
+     "anchor": "eleventh year"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.21",
+   "range": "EZK.30.21",
+   "kind": "passage",
+   "hash": "8b8df1f6",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.21#p1-8b8df1f6",
+     "text": "For Nebuchadnezzar destroyed Pharaoh Nebo at Carchemish, Jer 46:26.",
+     "label": "f",
+     "anchor": "I have broken the arm of",
+     "refs": [
+      {
+       "text": "Jer 46:26",
+       "ref": "JER.46.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.22",
+   "range": "EZK.30.22",
+   "kind": "passage",
+   "hash": "60a6d227",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.22#p1-60a6d227",
+     "text": "His force and power.",
+     "label": "g",
+     "anchor": "his arms"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.30.25",
+   "range": "EZK.30.25",
+   "kind": "passage",
+   "hash": "3de2ff1a",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.30.25#p1-3de2ff1a",
+     "text": "By which we see that tyrants have no power of themselves, neither can do any more harm than God appoints and when he wills they must cease.",
+     "label": "h",
+     "anchor": "when I shall put my sword"
+    }
+   ]
+  }
+ ]
+}

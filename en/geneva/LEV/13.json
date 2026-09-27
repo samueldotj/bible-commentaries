@@ -1,0 +1,259 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/LEV.13.2",
+   "range": "LEV.13.2",
+   "kind": "passage",
+   "hash": "0d8332bb",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.2#p1-0d8332bb",
+     "text": "That it may be suspected to be leprosy.",
+     "label": "a",
+     "anchor": "like the plague of leprosy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.3",
+   "range": "LEV.13.3",
+   "kind": "passage",
+   "hash": "d5caaee7",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.3#p1-d5caaee7",
+     "text": "That is, shrunken in, and be lower than the rest of the skin.",
+     "label": "b",
+     "anchor": "deeper than the skin of his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.6",
+   "range": "LEV.13.6",
+   "kind": "passage",
+   "hash": "9e538a8b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.6#p1-9e538a8b",
+     "text": "As having the skin drawn together, or blackish.",
+     "label": "c",
+     "anchor": "dark"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.8",
+   "range": "LEV.13.8",
+   "kind": "passage",
+   "hash": "aac5f1d7",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.8#p1-aac5f1d7",
+     "text": "Concerning his bodily disease: for his disease was not imputed to him for sin before God even though it were the punishment of sin.",
+     "label": "d",
+     "anchor": "unclean"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.13",
+   "range": "LEV.13.13",
+   "kind": "passage",
+   "hash": "cfe7b9ee",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.13#p1-cfe7b9ee",
+     "text": "For it is not that contagious leprosy that infects, but a form of scales which does not leave the skin raw as leprosy does.",
+     "label": "e",
+     "anchor": "clean that hath the plague"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.15",
+   "range": "LEV.13.15",
+   "kind": "passage",
+   "hash": "99f72dca",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.15#p1-99f72dca",
+     "text": "That is, declares that the flesh is not found, but is in danger of being leprous.",
+     "label": "f",
+     "anchor": "unclean"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.20",
+   "range": "LEV.13.20",
+   "kind": "passage",
+   "hash": "3f0acb75",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.20#p1-3f0acb75",
+     "text": "No one was exempted, but if the priest pronounced him unclean, he was put out from among the people: as appears by the example of Mary the prophetess, Nu 12:14 and by king Uzziah, 2Ch 26:20.",
+     "label": "g",
+     "anchor": "unclean",
+     "refs": [
+      {
+       "text": "Nu 12:14",
+       "ref": "NUM.12.14"
+      },
+      {
+       "text": "2Ch 26:20",
+       "ref": "2CH.26.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.24",
+   "range": "LEV.13.24",
+   "kind": "passage",
+   "hash": "8d18aa3a",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.24#p1-8d18aa3a",
+     "text": "If he has a white spot in the place where the burning was and was later healed.",
+     "label": "h",
+     "anchor": "white bright spot"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.30",
+   "range": "LEV.13.30",
+   "kind": "passage",
+   "hash": "5c35bb29",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.30#p1-5c35bb29",
+     "text": "Which was not wont to be there, or else smaller than in any other part of the body.",
+     "label": "i",
+     "anchor": "hair"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.36",
+   "range": "LEV.13.36",
+   "kind": "passage",
+   "hash": "dea6555d",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.36#p1-dea6555d",
+     "text": "He shall not care whether the yellow hair is there or not.",
+     "label": "k",
+     "anchor": "seek for yellow hair"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.41",
+   "range": "LEV.13.41",
+   "kind": "passage",
+   "hash": "771e07fd",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.41#p1-771e07fd",
+     "text": "By sickness or any other inconvenience.",
+     "label": "l",
+     "anchor": "hair fallen off from the part"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.45",
+   "range": "LEV.13.45",
+   "kind": "passage",
+   "hash": "97ce7a0f",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.45#p1-2ab4b223",
+     "text": "In sign of sorrow and lamentation.",
+     "label": "m",
+     "anchor": "rent"
+    },
+    {
+     "id": "geneva/LEV.13.45#p2-244abee8",
+     "text": "Either in token of mourning, or for fear of infecting others.",
+     "label": "n",
+     "anchor": "lip"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.49",
+   "range": "LEV.13.49",
+   "kind": "passage",
+   "hash": "cba9bb8a",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.49#p1-cba9bb8a",
+     "text": "Whether it be garment, vessel, or instrument.",
+     "label": "o",
+     "anchor": "skin"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.53",
+   "range": "LEV.13.53",
+   "kind": "passage",
+   "hash": "2c1fe5de",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.53#p1-2c1fe5de",
+     "text": "But abide still in one place, as in Le 13:37.",
+     "label": "p",
+     "anchor": "spread in the garment",
+     "refs": [
+      {
+       "text": "Le 13:37",
+       "ref": "LEV.13.37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.55",
+   "range": "LEV.13.55",
+   "kind": "passage",
+   "hash": "2d62020e",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.55#p1-ad63e603",
+     "text": "But remain as it did before.",
+     "label": "q",
+     "anchor": "colour"
+    },
+    {
+     "id": "geneva/LEV.13.55#p2-e69048b6",
+     "text": "Or, whether it be in any bare place before, or behind.",
+     "label": "r",
+     "anchor": "whether it be bare within or"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.13.58",
+   "range": "LEV.13.58",
+   "kind": "passage",
+   "hash": "87540dc0",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.13.58#p1-87540dc0",
+     "text": "So that he might be sure that the leprosy was departed, and that all opportunity for infection might be taken away.",
+     "label": "s",
+     "anchor": "the second time"
+    }
+   ]
+  }
+ ]
+}

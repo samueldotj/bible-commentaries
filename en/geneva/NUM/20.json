@@ -1,0 +1,157 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/NUM.20.1",
+   "range": "NUM.20.1",
+   "kind": "passage",
+   "hash": "652f42b7",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.1#p1-ddf5964c",
+     "text": "This was forty years after their departure from Egypt.",
+     "label": "a",
+     "anchor": "month"
+    },
+    {
+     "id": "geneva/NUM.20.1#p2-bc88d56e",
+     "text": "Moses and Aaron's sister.",
+     "label": "b",
+     "anchor": "Miriam died there"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.2",
+   "range": "NUM.20.2",
+   "kind": "passage",
+   "hash": "daffb097",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.2#p1-daffb097",
+     "text": "Another rebellion was in Rephidim Ex 17:1-16, and this was in Kadesh.",
+     "label": "c",
+     "anchor": "gathered themselves together against Moses and",
+     "refs": [
+      {
+       "text": "Ex 17:1-16",
+       "ref": "EXO.17.1-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.8",
+   "range": "NUM.20.8",
+   "kind": "passage",
+   "hash": "c461d966",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.8#p1-c461d966",
+     "text": "With which you did miracles in Egypt and divided the sea.",
+     "label": "d",
+     "anchor": "rod"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.10",
+   "range": "NUM.20.10",
+   "kind": "passage",
+   "hash": "0e2b0f37",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.10#p1-0e2b0f37",
+     "text": "The punishment which followed declared that Moses and Aaron did not believe the Lord's promise as it appeared in Nu 20:12.",
+     "label": "e",
+     "anchor": "must we fetch you water out",
+     "refs": [
+      {
+       "text": "Nu 20:12",
+       "ref": "NUM.20.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.12",
+   "range": "NUM.20.12",
+   "kind": "passage",
+   "hash": "18b4c88d",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.12#p1-18b4c88d",
+     "text": "That the children of Israel should believe and acknowledge my power and so honour me.",
+     "label": "f",
+     "anchor": "sanctify me in the eyes of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.13",
+   "range": "NUM.20.13",
+   "kind": "passage",
+   "hash": "547bc904",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.13#p1-547bc904",
+     "text": "By showing himself almighty and maintaining his glory.",
+     "label": "h",
+     "anchor": "was sanctified in them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.14",
+   "range": "NUM.20.14",
+   "kind": "passage",
+   "hash": "3be642fc",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.14#p1-3be642fc",
+     "text": "Because Jacob or Israel was Esau's brother, who was called Edom.",
+     "label": "i",
+     "anchor": "Edom"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.21",
+   "range": "NUM.20.21",
+   "kind": "passage",
+   "hash": "59e2f985",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.21#p1-59e2f985",
+     "text": "To pass by another way.",
+     "label": "k",
+     "anchor": "turned away from him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.24",
+   "range": "NUM.20.24",
+   "kind": "passage",
+   "hash": "bc03678f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.24#p1-bc03678f",
+     "text": "Read Ge 25:8.",
+     "label": "l",
+     "anchor": "gathered unto his people",
+     "refs": [
+      {
+       "text": "Ge 25:8",
+       "ref": "GEN.25.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

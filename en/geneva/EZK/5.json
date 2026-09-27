@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/EZK.5.1",
+   "range": "EZK.5.1",
+   "kind": "passage",
+   "hash": "2b55a28e",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.1#p1-2b55a28e",
+     "text": "To shave your head and your beard.",
+     "label": "a",
+     "anchor": "to pass upon thy head and"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.2",
+   "range": "EZK.5.2",
+   "kind": "passage",
+   "hash": "923ccdaa",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.2#p1-923ccdaa",
+     "text": "That is, of that city which he had portrayed on the brick, Eze 4:1. By the fire and pestilence he means the famine, with which one part perished during the siege of Nebuchadnezzar. By the sword, those that were slain when Zedekiah fled and those that were carried away captive and by the scattering into the wind, those that fled into Egypt, and into other parts after the city was taken.",
+     "label": "b",
+     "anchor": "city",
+     "refs": [
+      {
+       "text": "Eze 4:1",
+       "ref": "EZK.4.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.3",
+   "range": "EZK.5.3",
+   "kind": "passage",
+   "hash": "aa710f9b",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.3#p1-aa710f9b",
+     "text": "Meaning, that a very few would be left, which the Lord would preserve among all these storms, but not without troubles and trial.",
+     "label": "c",
+     "anchor": "skirts"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.4",
+   "range": "EZK.5.4",
+   "kind": "passage",
+   "hash": "07f3c18a",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.4#p1-07f3c18a",
+     "text": "Out of the fire which you kindled will come a fire which will signify the destruction of Israel.",
+     "label": "d",
+     "anchor": "from which a fire shall come"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.6",
+   "range": "EZK.5.6",
+   "kind": "passage",
+   "hash": "32b4075d",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.6#p1-32b4075d",
+     "text": "My word and law into idolatry and superstitions.",
+     "label": "e",
+     "anchor": "judgments into wickedness more than the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.7",
+   "range": "EZK.5.7",
+   "kind": "passage",
+   "hash": "c9d2f8e8",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.7#p1-c9d2f8e8",
+     "text": "Because your idols are in greater number, and your superstitions more than among the professed idolaters, read Isa 65:11 or he condemns their ingratitude in respect to his benefits.",
+     "label": "f",
+     "anchor": "multiplied more than the nations that",
+     "refs": [
+      {
+       "text": "Isa 65:11",
+       "ref": "ISA.65.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.13",
+   "range": "EZK.5.13",
+   "kind": "passage",
+   "hash": "34d990a3",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.13#p1-34d990a3",
+     "text": "That is, I will not be pacified till I am avenged, Isa 1:24.",
+     "label": "g",
+     "anchor": "comforted",
+     "refs": [
+      {
+       "text": "Isa 1:24",
+       "ref": "ISA.1.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.5.16",
+   "range": "EZK.5.16",
+   "kind": "passage",
+   "hash": "4a382017",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.5.16#p1-4a382017",
+     "text": "Which were the grasshoppers, mildew and whatever were opportunities for famine.",
+     "label": "h",
+     "anchor": "arrows of famine"
+    }
+   ]
+  }
+ ]
+}

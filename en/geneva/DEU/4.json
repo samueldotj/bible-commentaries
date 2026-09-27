@@ -1,0 +1,393 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/DEU.4.1",
+   "range": "DEU.4.1",
+   "kind": "passage",
+   "hash": "ef8e73d6",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.1#p1-ef8e73d6",
+     "text": "For this doctrine stands not in bare knowledge, but in practice of life.",
+     "label": "a",
+     "anchor": "do them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.2",
+   "range": "DEU.4.2",
+   "kind": "passage",
+   "hash": "0dae7456",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.2#p1-a2448631",
+     "text": "Think not to be more wise than I am.",
+     "label": "b",
+     "anchor": "not add unto the word which"
+    },
+    {
+     "id": "geneva/DEU.4.2#p2-d81d6640",
+     "text": "God will not be served by halves, but will have full obedience.",
+     "label": "c",
+     "anchor": "diminish ought from it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.3",
+   "range": "DEU.4.3",
+   "kind": "passage",
+   "hash": "c5a68396",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.3#p1-c5a68396",
+     "text": "God's judgments executed on other idolaters ought to serve for our instruction, read Nu 25:3,4.",
+     "label": "d",
+     "anchor": "eyes have seen what the LORD",
+     "refs": [
+      {
+       "text": "Nu 25:3,4",
+       "ref": "NUM.25.3"
+      },
+      {
+       "text": "Nu 25:3,4",
+       "ref": "NUM.25.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.4",
+   "range": "DEU.4.4",
+   "kind": "passage",
+   "hash": "c3204f92",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.4#p1-c3204f92",
+     "text": "And were not idolaters.",
+     "label": "e",
+     "anchor": "cleave unto the LORD your God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.6",
+   "range": "DEU.4.6",
+   "kind": "passage",
+   "hash": "ae8c92b8",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.6#p1-ae8c92b8",
+     "text": "Because all men naturally desire wisdom, he shows how to attain it.",
+     "label": "f",
+     "anchor": "wisdom and your understanding in the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.7",
+   "range": "DEU.4.7",
+   "kind": "passage",
+   "hash": "e5a3a532",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.7#p1-e5a3a532",
+     "text": "Helping us, and delivering us out of all dangers, as in 2Sa 7:23.",
+     "label": "g",
+     "anchor": "nigh unto them",
+     "refs": [
+      {
+       "text": "2Sa 7:23",
+       "ref": "2SA.7.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.9",
+   "range": "DEU.4.9",
+   "kind": "passage",
+   "hash": "474c2ad1",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.9#p1-474c2ad1",
+     "text": "He adds all these words, to show that we can never be careful enough to keep the law of God and to teach it to our posterity.",
+     "label": "h",
+     "anchor": "keep thy soul diligently"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.11",
+   "range": "DEU.4.11",
+   "kind": "passage",
+   "hash": "b5ad73d0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.11#p1-b5ad73d0",
+     "text": "The law was given with fearful miracles, to declare both that God was the author of it, and also that no flesh was able to abide the rigour of the same.",
+     "label": "i",
+     "anchor": "burned with fire unto the midst"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.13",
+   "range": "DEU.4.13",
+   "kind": "passage",
+   "hash": "403e2b5a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.13#p1-403e2b5a",
+     "text": "God joins this condition to his covenant.",
+     "label": "k",
+     "anchor": "perform"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.15",
+   "range": "DEU.4.15",
+   "kind": "passage",
+   "hash": "f8e52fb1",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.15#p1-f8e52fb1",
+     "text": "Signifying, that destruction is prepared for all who make any image to represent God.",
+     "label": "l",
+     "anchor": "manner of similitude on the day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.19",
+   "range": "DEU.4.19",
+   "kind": "passage",
+   "hash": "dcadd7b5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.19#p1-dcadd7b5",
+     "text": "He has appointed them to serve man.",
+     "label": "m",
+     "anchor": "divided unto all nations under the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.20",
+   "range": "DEU.4.20",
+   "kind": "passage",
+   "hash": "6049c13d",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.20#p1-6049c13d",
+     "text": "He has delivered you out of most miserable slavery and freely chosen you for his.",
+     "label": "n",
+     "anchor": "iron furnace"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.22",
+   "range": "DEU.4.22",
+   "kind": "passage",
+   "hash": "e240d775",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.22#p1-e240d775",
+     "text": "Moses good affection appears in that while he himself is deprived of such an excellent treasure, he does not envy those who must enjoy it.",
+     "label": "o",
+     "anchor": "ye shall go over"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.24",
+   "range": "DEU.4.24",
+   "kind": "passage",
+   "hash": "2af0e725",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.24#p1-2af0e725",
+     "text": "To those that come not to him with love and reverence, but rebel against him.",
+     "label": "p",
+     "anchor": "consuming fire"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.25",
+   "range": "DEU.4.25",
+   "kind": "passage",
+   "hash": "0affb64a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.25#p1-0affb64a",
+     "text": "Meaning by this all superstition and corruption of the true service of God.",
+     "label": "q",
+     "anchor": "corrupt yourselves"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.26",
+   "range": "DEU.4.26",
+   "kind": "passage",
+   "hash": "a2be6191",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.26#p1-a2be6191",
+     "text": "Though men would abuse you, yet the insensible creatures will be witnesses of your disobedience.",
+     "label": "r",
+     "anchor": "call heaven and earth to witness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.27",
+   "range": "DEU.4.27",
+   "kind": "passage",
+   "hash": "2a21d9ea",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.27#p1-2a21d9ea",
+     "text": "So that his curse will make his former blessings ineffectual.",
+     "label": "s",
+     "anchor": "scatter you among the nations"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.29",
+   "range": "DEU.4.29",
+   "kind": "passage",
+   "hash": "a1f5c986",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.29#p1-a1f5c986",
+     "text": "Not with outward show or ceremony, but with a true confession of your faults.",
+     "label": "t",
+     "anchor": "heart and with all thy soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.31",
+   "range": "DEU.4.31",
+   "kind": "passage",
+   "hash": "af0a6b56",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.31#p1-af0a6b56",
+     "text": "To certify to them even more the assurance of their salvation.",
+     "label": "u",
+     "anchor": "sware unto them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.32",
+   "range": "DEU.4.32",
+   "kind": "passage",
+   "hash": "8ba8e2ed",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.32#p1-8ba8e2ed",
+     "text": "Man's negligence is partially the cause for his ignorance of God.",
+     "label": "x",
+     "anchor": "ask from the one side of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.34",
+   "range": "DEU.4.34",
+   "kind": "passage",
+   "hash": "8f6dc7fa",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.34#p1-8f6dc7fa",
+     "text": "By so manifest proofs that none could doubt of it.",
+     "label": "y",
+     "anchor": "temptations"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.35",
+   "range": "DEU.4.35",
+   "kind": "passage",
+   "hash": "f79ad305",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.35#p1-f79ad305",
+     "text": "He shows the reason why God did these miracles.",
+     "label": "z",
+     "anchor": "know that the LORD he is"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.37",
+   "range": "DEU.4.37",
+   "kind": "passage",
+   "hash": "2e85e536",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.37#p1-2e85e536",
+     "text": "Freely, and not because they deserved it.",
+     "label": "a",
+     "anchor": "he loved thy fathers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.40",
+   "range": "DEU.4.40",
+   "kind": "passage",
+   "hash": "bd8ae600",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.40#p1-bd8ae600",
+     "text": "God promises reward not for our merits, but to encourage us, and to assure us that our labour will not be lost.",
+     "label": "b",
+     "anchor": "go well with thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.45",
+   "range": "DEU.4.45",
+   "kind": "passage",
+   "hash": "b45a4f6f",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.45#p1-b45a4f6f",
+     "text": "The articles and points of the covenant.",
+     "label": "c",
+     "anchor": "testimonies"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.49",
+   "range": "DEU.4.49",
+   "kind": "passage",
+   "hash": "79297e9c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.49#p1-79297e9c",
+     "text": "That is, the salt sea.",
+     "label": "d",
+     "anchor": "the sea of the plain"
+    }
+   ]
+  }
+ ]
+}

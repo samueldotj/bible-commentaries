@@ -1,0 +1,177 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "geneva/LEV.6.2",
+   "range": "LEV.6.2",
+   "kind": "passage",
+   "hash": "d6616c1d",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.2#p1-6f71074c",
+     "text": "To give, and occupy for the use of him that gave it.",
+     "label": "a",
+     "anchor": "fellowship"
+    },
+    {
+     "id": "geneva/LEV.6.2#p2-dc63fd85",
+     "text": "By any deceit, or unlawful means.",
+     "label": "b",
+     "anchor": "violence"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.3",
+   "range": "LEV.6.3",
+   "kind": "passage",
+   "hash": "033cb14b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.3#p1-033cb14b",
+     "text": "In which he cannot but sin: or, in which a man accustoms to sin by perjury or such like thing.",
+     "label": "c",
+     "anchor": "sinning therein"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.9",
+   "range": "LEV.6.9",
+   "kind": "passage",
+   "hash": "29264036",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.9#p1-29264036",
+     "text": "That is, the ceremony which ought to be observed in it.",
+     "label": "d",
+     "anchor": "law of the burnt offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.10",
+   "range": "LEV.6.10",
+   "kind": "passage",
+   "hash": "27d5f9e6",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.10#p1-104f70b2",
+     "text": "Upon his secret parts, Ex 28:42.",
+     "label": "e",
+     "anchor": "his flesh",
+     "refs": [
+      {
+       "text": "Ex 28:42",
+       "ref": "EXO.28.42"
+      }
+     ]
+    },
+    {
+     "id": "geneva/LEV.6.10#p2-97d56481",
+     "text": "In the ash pans appointed for that use.",
+     "label": "f",
+     "anchor": "altar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.17",
+   "range": "LEV.6.17",
+   "kind": "passage",
+   "hash": "a14bd5e9",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.17#p1-a14bd5e9",
+     "text": "Or, kneaded with leaven and baked.",
+     "label": "g",
+     "anchor": "baken with leaven"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.20",
+   "range": "LEV.6.20",
+   "kind": "passage",
+   "hash": "d9aa4f00",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.20#p1-d9aa4f00",
+     "text": "So oft as the high priest shall be elected and anointed.",
+     "label": "h",
+     "anchor": "perpetual"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.22",
+   "range": "LEV.6.22",
+   "kind": "passage",
+   "hash": "de90ee5b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.22#p1-de90ee5b",
+     "text": "His son that shall succeed him.",
+     "label": "i",
+     "anchor": "anointed in his stead shall offer"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.27",
+   "range": "LEV.6.27",
+   "kind": "passage",
+   "hash": "fe4dfca9",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.27#p1-fe4dfca9",
+     "text": "Meaning, the garment of the priest.",
+     "label": "k",
+     "anchor": "garment"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.28",
+   "range": "LEV.6.28",
+   "kind": "passage",
+   "hash": "81b3de19",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.28#p1-81b3de19",
+     "text": "Which was in the laver, Ex 30:28.",
+     "label": "l",
+     "anchor": "water",
+     "refs": [
+      {
+       "text": "Ex 30:28",
+       "ref": "EXO.30.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.6.30",
+   "range": "LEV.6.30",
+   "kind": "passage",
+   "hash": "74b496cb",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.6.30#p1-74b496cb",
+     "text": "Out of the camp Le 4:12.",
+     "label": "m",
+     "anchor": "fire",
+     "refs": [
+      {
+       "text": "Le 4:12",
+       "ref": "LEV.4.12"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

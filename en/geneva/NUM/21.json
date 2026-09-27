@@ -1,0 +1,191 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "geneva/NUM.21.1",
+   "range": "NUM.21.1",
+   "kind": "passage",
+   "hash": "c08a2096",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.1#p1-c08a2096",
+     "text": "By that way which their spies, that searched the dangers found to he most safe.",
+     "label": "a",
+     "anchor": "way of the spies"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.4",
+   "range": "NUM.21.4",
+   "kind": "passage",
+   "hash": "7f14b02e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.4#p1-7f14b02e",
+     "text": "For they were forbidden to destroy it, De 2:5.",
+     "label": "b",
+     "anchor": "compass the land of Edom",
+     "refs": [
+      {
+       "text": "De 2:5",
+       "ref": "DEU.2.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.5",
+   "range": "NUM.21.5",
+   "kind": "passage",
+   "hash": "0dbb7396",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.5#p1-0dbb7396",
+     "text": "Meaning manna, which they thought did not nourish.",
+     "label": "c",
+     "anchor": "bread"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.6",
+   "range": "NUM.21.6",
+   "kind": "passage",
+   "hash": "2b6bac16",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.6#p1-2b6bac16",
+     "text": "For they that were bitten by them were so inflamed by the poison of them, that they died.",
+     "label": "d",
+     "anchor": "fiery serpents among the people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.14",
+   "range": "NUM.21.14",
+   "kind": "passage",
+   "hash": "669f3ef5",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.14#p1-669f3ef5",
+     "text": "Which seems to be the book of the Judges, or as some think, a book which is lost.",
+     "label": "e",
+     "anchor": "book of the wars of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.17",
+   "range": "NUM.21.17",
+   "kind": "passage",
+   "hash": "04cf3100",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.17#p1-04cf3100",
+     "text": "You that receive the convenience of it, give praise for it.",
+     "label": "f",
+     "anchor": "sing ye unto it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.18",
+   "range": "NUM.21.18",
+   "kind": "passage",
+   "hash": "69eec912",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.18#p1-69eec912",
+     "text": "Only Moses and Aaron, the heads of the people, struck the rock with the rod or staff, which gave water as a well that was deep digged.",
+     "label": "g",
+     "anchor": "lawgiver"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.24",
+   "range": "NUM.21.24",
+   "kind": "passage",
+   "hash": "0c8240b8",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.24#p1-ce430cdc",
+     "text": "The river.",
+     "label": "h",
+     "anchor": "Jabbok"
+    },
+    {
+     "id": "geneva/NUM.21.24#p2-14767804",
+     "text": "For the people were tall and strong like giants; De 2:20.",
+     "label": "i",
+     "anchor": "strong",
+     "refs": [
+      {
+       "text": "De 2:20",
+       "ref": "DEU.2.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.26",
+   "range": "NUM.21.26",
+   "kind": "passage",
+   "hash": "7baf513a",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.26#p1-7baf513a",
+     "text": "For if it had been the Moabites, the Israelites might not have possessed it, De 2:9.",
+     "label": "k",
+     "anchor": "Heshbon was the city of Sihon",
+     "refs": [
+      {
+       "text": "De 2:9",
+       "ref": "DEU.2.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.28",
+   "range": "NUM.21.28",
+   "kind": "passage",
+   "hash": "f4e1d94b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.28#p1-f4e1d94b",
+     "text": "Meaning, wane.",
+     "label": "l",
+     "anchor": "fire gone out of Heshbon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.21.29",
+   "range": "NUM.21.29",
+   "kind": "passage",
+   "hash": "7cc72751",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.21.29#p1-7cc72751",
+     "text": "Chemosh was the idol of the Moabites, 1Ki 11:33 who was not able to defend his worshippers, who took the idol for their father.",
+     "label": "m",
+     "anchor": "Chemosh",
+     "refs": [
+      {
+       "text": "1Ki 11:33",
+       "ref": "1KI.11.33"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

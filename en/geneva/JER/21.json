@@ -1,0 +1,139 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "geneva/JER.21.2",
+   "range": "JER.21.2",
+   "kind": "passage",
+   "hash": "f6c4b162",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.2#p1-f6c4b162",
+     "text": "Not that the king was touched with repentance of his sins and so sought God, as did Hezekiah when he sent for Isaiah, 2Ki 19:1, Isa 37:2 but because the prophet might pray to God to take this present plague away, as Pharaoh sought Moses Ex 9:28.",
+     "label": "a",
+     "anchor": "Enquire",
+     "refs": [
+      {
+       "text": "2Ki 19:1, Isa 37:2",
+       "ref": "2KI.19.1"
+      },
+      {
+       "text": "2Ki 19:1, Isa 37:2",
+       "ref": "ISA.37.2"
+      },
+      {
+       "text": "Ex 9:28",
+       "ref": "EXO.9.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.4",
+   "range": "JER.21.4",
+   "kind": "passage",
+   "hash": "bb424719",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.4#p1-bb424719",
+     "text": "That is, from your enemies to destroy yourselves.",
+     "label": "b",
+     "anchor": "turn back the weapons of war"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.8",
+   "range": "JER.21.8",
+   "kind": "passage",
+   "hash": "e6b83d1f",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.8#p1-bb70afe3",
+     "text": "By yielding yourselves to Nebuchadnezzar.",
+     "label": "c",
+     "anchor": "way of life"
+    },
+    {
+     "id": "geneva/JER.21.8#p2-7b64834d",
+     "text": "By resisting him.",
+     "label": "d",
+     "anchor": "death"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.9",
+   "range": "JER.21.9",
+   "kind": "passage",
+   "hash": "bc3bd71a",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.9#p1-bc3bd71a",
+     "text": "As a thing recovered from extreme danger, Jer 37:2,39:18,45:5.",
+     "label": "e",
+     "anchor": "prize",
+     "refs": [
+      {
+       "text": "Jer 37:2,39:18,45:5",
+       "ref": "JER.37.2"
+      },
+      {
+       "text": "Jer 37:2,39:18,45:5",
+       "ref": "JER.39.18"
+      },
+      {
+       "text": "Jer 37:2,39:18,45:5",
+       "ref": "JER.45.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.12",
+   "range": "JER.21.12",
+   "kind": "passage",
+   "hash": "5108491c",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.12#p1-5108491c",
+     "text": "Be diligent to do justice.",
+     "label": "f",
+     "anchor": "in the morning"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.13",
+   "range": "JER.21.13",
+   "kind": "passage",
+   "hash": "8985cb7d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.13#p1-8985cb7d",
+     "text": "Meaning, Jerusalem which was built part on the hill and part in the valley and was compassed about with mountains.",
+     "label": "g",
+     "anchor": "O inhabitant of the valley"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.14",
+   "range": "JER.21.14",
+   "kind": "passage",
+   "hash": "3f965c5d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.14#p1-3f965c5d",
+     "text": "That is, in the houses of it, which stood as thick as trees in the forest.",
+     "label": "h",
+     "anchor": "in its forest"
+    }
+   ]
+  }
+ ]
+}

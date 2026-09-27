@@ -1,0 +1,143 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/JOS.1.1",
+   "range": "JOS.1.1",
+   "kind": "passage",
+   "hash": "6563813c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.1#p1-6563813c",
+     "text": "The beginning of this book depends on the last chapter of Deuteronomy which was written by Joshua as a preparation to his history.",
+     "label": "a",
+     "anchor": "death of Moses the servant of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.4",
+   "range": "JOS.1.4",
+   "kind": "passage",
+   "hash": "72b240c0",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.4#p1-bdf7aae2",
+     "text": "Of Zin, called Kadesh and Paran.",
+     "label": "b",
+     "anchor": "wilderness and this Lebanon even unto"
+    },
+    {
+     "id": "geneva/JOS.1.4#p2-6426f642",
+     "text": "Meaning, the whole land of Canaan.",
+     "label": "c",
+     "anchor": "Hittites"
+    },
+    {
+     "id": "geneva/JOS.1.4#p3-4bc36013",
+     "text": "Called Mediterranean.",
+     "label": "d",
+     "anchor": "sea toward the going down of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.7",
+   "range": "JOS.1.7",
+   "kind": "passage",
+   "hash": "08883bc4",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.7#p1-08883bc4",
+     "text": "He shows where true prosperity consists, even to obey the word of God.",
+     "label": "e",
+     "anchor": "prosper whithersoever thou goest"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.8",
+   "range": "JOS.1.8",
+   "kind": "passage",
+   "hash": "24ed8d2c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.8#p1-24ed8d2c",
+     "text": "Showing that it is not possible to govern well, without the continual study of God's word.",
+     "label": "f",
+     "anchor": "night"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.11",
+   "range": "JOS.1.11",
+   "kind": "passage",
+   "hash": "21d538a2",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.11#p1-21d538a2",
+     "text": "Meaning, from the day that this was proclaimed, Jos 3:2.",
+     "label": "g",
+     "anchor": "within three days ye shall pass",
+     "refs": [
+      {
+       "text": "Jos 3:2",
+       "ref": "JOS.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.13",
+   "range": "JOS.1.13",
+   "kind": "passage",
+   "hash": "dc21ed8d",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.13#p1-dc21ed8d",
+     "text": "Which belonged to Sihon the king of the Amorites, and Og king of Bashan.",
+     "label": "h",
+     "anchor": "land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.15",
+   "range": "JOS.1.15",
+   "kind": "passage",
+   "hash": "a7fc9079",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.15#p1-a7fc9079",
+     "text": "By your request, but yet by God's secret appointment, De 33:21.",
+     "label": "i",
+     "anchor": "gave you on this side Jordan",
+     "refs": [
+      {
+       "text": "De 33:21",
+       "ref": "DEU.33.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.1.17",
+   "range": "JOS.1.17",
+   "kind": "passage",
+   "hash": "847cf682",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.1.17#p1-847cf682",
+     "text": "They not only promise to obey him as long as God is with him: but to help punish all who rebel against him.",
+     "label": "k",
+     "anchor": "so will we hearken unto thee"
+    }
+   ]
+  }
+ ]
+}

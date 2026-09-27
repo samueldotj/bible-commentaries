@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/1SA.8.1",
+   "range": "1SA.8.1",
+   "kind": "passage",
+   "hash": "2aadf87a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.1#p1-2aadf87a",
+     "text": "Because he was not able to bear the charge.",
+     "label": "a",
+     "anchor": "made his sons judges over Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.2",
+   "range": "1SA.8.2",
+   "kind": "passage",
+   "hash": "354acfcd",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.2#p1-354acfcd",
+     "text": "Who was also called Vashni, 1Ch 6:28.",
+     "label": "b",
+     "anchor": "Joel",
+     "refs": [
+      {
+       "text": "1Ch 6:28",
+       "ref": "1CH.6.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.4",
+   "range": "1SA.8.4",
+   "kind": "passage",
+   "hash": "4d1c4227",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.4#p1-4d1c4227",
+     "text": "For there his house was, 1Sa 7:17.",
+     "label": "c",
+     "anchor": "Ramah",
+     "refs": [
+      {
+       "text": "1Sa 7:17",
+       "ref": "1SA.7.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.6",
+   "range": "1SA.8.6",
+   "kind": "passage",
+   "hash": "0ee105c8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.6#p1-0ee105c8",
+     "text": "Because they were not content with the order that God had appointed, but would be governed as the Gentiles were.",
+     "label": "d",
+     "anchor": "displeased Samuel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.9",
+   "range": "1SA.8.9",
+   "kind": "passage",
+   "hash": "4a4034fc",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.9#p1-4a4034fc",
+     "text": "To prove if they will forsake their wicked purpose.",
+     "label": "e",
+     "anchor": "protest solemnly unto them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.11",
+   "range": "1SA.8.11",
+   "kind": "passage",
+   "hash": "c0300ff8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.11#p1-c0300ff8",
+     "text": "Not that kings have this authority by their office, but that such as reign in God's wrath would usurp this over their brethren, contrary to the law, De 17:20.",
+     "label": "f",
+     "anchor": "manner of the king that shall",
+     "refs": [
+      {
+       "text": "De 17:20",
+       "ref": "DEU.17.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.18",
+   "range": "1SA.8.18",
+   "kind": "passage",
+   "hash": "00544c32",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.18#p1-00544c32",
+     "text": "Because you do not repent for your sins, but because you long for your afflictions, into which you cast yourselves willingly.",
+     "label": "g",
+     "anchor": "hear you in that day"
+    }
+   ]
+  }
+ ]
+}

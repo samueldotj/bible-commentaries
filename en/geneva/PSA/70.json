@@ -1,0 +1,68 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 70,
+ "units": [
+  {
+   "id": "geneva/PSA.70.1",
+   "range": "PSA.70.1",
+   "kind": "passage",
+   "hash": "f709ad7b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.70.1#p1-7fa725a3",
+     "text": "Which might put him in remembrance of his deliverance.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.70.1#p2-5763d812",
+     "text": "He teaches us to be earnest in prayer even though God seems to delay: for at his time he will hear us.",
+     "label": "b",
+     "anchor": "haste"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.70.2",
+   "range": "PSA.70.2",
+   "kind": "passage",
+   "hash": "ffc6aaba",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.70.2#p1-ffc6aaba",
+     "text": "He was assured that the more they raged, the nearer they were to destruction, and he the nearer to his deliverance.",
+     "label": "c",
+     "anchor": "confounded that seek after my soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.70.3",
+   "range": "PSA.70.3",
+   "kind": "passage",
+   "hash": "02914816",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.70.3#p1-02914816",
+     "text": "By this we are taught not to mock at others in their misery, lest the same fall on our own necks.",
+     "label": "d",
+     "anchor": "shame that say"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.70.5",
+   "range": "PSA.70.5",
+   "kind": "passage",
+   "hash": "c88faa82",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.70.5#p1-c88faa82",
+     "text": "Because he had felt God's help before, he grounds on experience, and boldly seeks him for help.",
+     "label": "e",
+     "anchor": "poor and needy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 63,
+ "units": [
+  {
+   "id": "geneva/PSA.63.1",
+   "range": "PSA.63.1",
+   "kind": "passage",
+   "hash": "1911dc89",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.1#p1-095c82b3",
+     "text": "That is, of Ziph 1Sa 23:14.",
+     "label": "a",
+     "refs": [
+      {
+       "text": "1Sa 23:14",
+       "ref": "1SA.23.14"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.63.1#p2-3fd73592",
+     "text": "Though he was both hungry and in great distress, yet he made God above all meat and drink.",
+     "label": "b",
+     "anchor": "thirsteth for thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.2",
+   "range": "PSA.63.2",
+   "kind": "passage",
+   "hash": "b0fdba83",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.2#p1-b0fdba83",
+     "text": "In this misery I exercise myself in the contemplation of your power and glory, as if I were in the sanctuary.",
+     "label": "c",
+     "anchor": "I have seen thee in the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.5",
+   "range": "PSA.63.5",
+   "kind": "passage",
+   "hash": "fe60d2a2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.5#p1-fe60d2a2",
+     "text": "The remembrance of your favour is more sweet to me than all the pleasures and dainties of the world.",
+     "label": "d",
+     "anchor": "marrow and fatness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.8",
+   "range": "PSA.63.8",
+   "kind": "passage",
+   "hash": "6132e1a2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.8#p1-6132e1a2",
+     "text": "He assures himself by the Spirit of God to have the gift of constancy.",
+     "label": "e",
+     "anchor": "followeth hard after thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.10",
+   "range": "PSA.63.10",
+   "kind": "passage",
+   "hash": "73935317",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.10#p1-73935317",
+     "text": "He prophecies of the destruction of Saul and they who take his part, whose bodies will not be buried but be devoured with wild beasts.",
+     "label": "f",
+     "anchor": "They shall fall by the sword"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.11",
+   "range": "PSA.63.11",
+   "kind": "passage",
+   "hash": "c6f09ba7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.11#p1-c6f09ba7",
+     "text": "All who swear by God correctly or profess him will rejoice in this worthy king.",
+     "label": "g",
+     "anchor": "sweareth by him shall glory"
+    }
+   ]
+  }
+ ]
+}

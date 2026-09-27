@@ -1,0 +1,41 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "geneva/JOS.12.1",
+   "range": "JOS.12.1",
+   "kind": "passage",
+   "hash": "578f8751",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.12.1#p1-578f8751",
+     "text": "From Gilgal where Joshua camped.",
+     "label": "a",
+     "anchor": "other side Jordan toward the rising"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.12.7",
+   "range": "JOS.12.7",
+   "kind": "passage",
+   "hash": "643430cd",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.12.7#p1-643430cd",
+     "text": "Read Jos 11:17.",
+     "label": "b",
+     "anchor": "Halak",
+     "refs": [
+      {
+       "text": "Jos 11:17",
+       "ref": "JOS.11.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/1SA.13.1",
+   "range": "1SA.13.1",
+   "kind": "passage",
+   "hash": "3fb8afab",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.1#p1-316535c3",
+     "text": "While these things were done.",
+     "label": "a",
+     "anchor": "one year"
+    },
+    {
+     "id": "geneva/1SA.13.1#p2-18b317ae",
+     "text": "Before he took upon himself the state of a king.",
+     "label": "b",
+     "anchor": "two years over Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.3",
+   "range": "1SA.13.3",
+   "kind": "passage",
+   "hash": "2463d2e1",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.3#p1-93fa2293",
+     "text": "Of Kirjath-jearim, where the ark was, 1Sa 10:5.",
+     "label": "c",
+     "anchor": "Geba",
+     "refs": [
+      {
+       "text": "1Sa 10:5",
+       "ref": "1SA.10.5"
+      }
+     ]
+    },
+    {
+     "id": "geneva/1SA.13.3#p2-887e3c37",
+     "text": "That everyone should prepare themselves to fight.",
+     "label": "d",
+     "anchor": "trumpet throughout all the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.5",
+   "range": "1SA.13.5",
+   "kind": "passage",
+   "hash": "8f8d8a35",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.5#p1-8f8d8a35",
+     "text": "Which was also called Beth-el, in the tribe of Benjamin.",
+     "label": "e",
+     "anchor": "Bethaven"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.7",
+   "range": "1SA.13.7",
+   "kind": "passage",
+   "hash": "80b16fd5",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.7#p1-80b16fd5",
+     "text": "Where the two tribes and the half remained.",
+     "label": "f",
+     "anchor": "Gad and Gilead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.8",
+   "range": "1SA.13.8",
+   "kind": "passage",
+   "hash": "14efe3d8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.8#p1-14efe3d8",
+     "text": "Thinking that the absence of the prophet was a sign, that they would lose the victory.",
+     "label": "g",
+     "anchor": "scattered from him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.11",
+   "range": "1SA.13.11",
+   "kind": "passage",
+   "hash": "4223fb2c",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.11#p1-4223fb2c",
+     "text": "Though these causes seem sufficient in man's judgment: yet because they had not the word of God, they turned to his destruction.",
+     "label": "h",
+     "anchor": "scattered from me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.13",
+   "range": "1SA.13.13",
+   "kind": "passage",
+   "hash": "cfbbde3d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.13#p1-cfbbde3d",
+     "text": "Who willed you to obey him, and rest on the words spoken by his prophet.",
+     "label": "i",
+     "anchor": "God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.14",
+   "range": "1SA.13.14",
+   "kind": "passage",
+   "hash": "4152bc06",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.14#p1-4152bc06",
+     "text": "That is, David.",
+     "label": "k",
+     "anchor": "man after his own heart"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.15",
+   "range": "1SA.13.15",
+   "kind": "passage",
+   "hash": "48db8ad6",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.15#p1-48db8ad6",
+     "text": "And went to his city Ramah.",
+     "label": "l",
+     "anchor": "Gibeah of Benjamin"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.18",
+   "range": "1SA.13.18",
+   "kind": "passage",
+   "hash": "418cbf09",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.18#p1-418cbf09",
+     "text": "So that to man's judgment these three armies would have overrun the whole country.",
+     "label": "m",
+     "anchor": "another company turned to the way"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.22",
+   "range": "1SA.13.22",
+   "kind": "passage",
+   "hash": "c152aad1",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.22#p1-c152aad1",
+     "text": "To declare that the victory only came from God, and not by their force.",
+     "label": "n",
+     "anchor": "sword nor spear found in the"
+    }
+   ]
+  }
+ ]
+}

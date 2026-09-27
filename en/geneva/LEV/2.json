@@ -1,0 +1,117 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "geneva/LEV.2.1",
+   "range": "LEV.2.1",
+   "kind": "passage",
+   "hash": "808650a0",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.1#p1-808650a0",
+     "text": "Because the burnt offering could not be without the meat offering.",
+     "label": "a",
+     "anchor": "meat offering unto the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.2",
+   "range": "LEV.2.2",
+   "kind": "passage",
+   "hash": "2cb54880",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.2#p1-afd6c68a",
+     "text": "The priest.",
+     "label": "b",
+     "anchor": "he shall take thereout his handful"
+    },
+    {
+     "id": "geneva/LEV.2.2#p2-c60d1987",
+     "text": "To signify that God remembers him that offers.",
+     "label": "c",
+     "anchor": "memorial of it upon the altar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.3",
+   "range": "LEV.2.3",
+   "kind": "passage",
+   "hash": "b3506701",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.3#p1-b3506701",
+     "text": "Therefore no one could eat of it but the priest.",
+     "label": "d",
+     "anchor": "most holy of the offerings of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.5",
+   "range": "LEV.2.5",
+   "kind": "passage",
+   "hash": "8f57d76c",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.5#p1-8f57d76c",
+     "text": "Which is a gift offered to God to pacify him.",
+     "label": "e",
+     "anchor": "meat offering baken in a pan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.12",
+   "range": "LEV.2.12",
+   "kind": "passage",
+   "hash": "4ca4b46c",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.12#p1-05725796",
+     "text": "That is, fruits which were sweet as honey, ye may offer.",
+     "label": "f",
+     "anchor": "them unto the LORD"
+    },
+    {
+     "id": "geneva/LEV.2.12#p2-282df8bf",
+     "text": "But reserved for the priests.",
+     "label": "g",
+     "anchor": "on the altar for a sweet"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.13",
+   "range": "LEV.2.13",
+   "kind": "passage",
+   "hash": "0f582458",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.13#p1-0f582458",
+     "text": "Which they were bound (as by covenant) to use all sacrifices, Nu 18:19; 2Ch 13:5; Eze 43:24 or it means a sure and pure covenant.",
+     "label": "h",
+     "anchor": "covenant of thy God to be",
+     "refs": [
+      {
+       "text": "Nu 18:19; 2Ch 13:5; Eze 43:24",
+       "ref": "NUM.18.19"
+      },
+      {
+       "text": "Nu 18:19; 2Ch 13:5; Eze 43:24",
+       "ref": "2CH.13.5"
+      },
+      {
+       "text": "Nu 18:19; 2Ch 13:5; Eze 43:24",
+       "ref": "EZK.43.24"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

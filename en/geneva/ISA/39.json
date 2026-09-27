@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 39,
+ "units": [
+  {
+   "id": "geneva/ISA.39.1",
+   "range": "ISA.39.1",
+   "kind": "passage",
+   "hash": "fab811e2",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.1#p1-fab811e2",
+     "text": "This was the first king of Babylon, who overcame the Assyrians in the tenth year of his reign.",
+     "label": "a",
+     "anchor": "Merodachbaladan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.2",
+   "range": "ISA.39.2",
+   "kind": "passage",
+   "hash": "e2e6ff3e",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.2#p1-e2e6ff3e",
+     "text": "Read 2Ki 20:13, 2Ch 32:25,31.",
+     "label": "c",
+     "anchor": "glad of them",
+     "refs": [
+      {
+       "text": "2Ki 20:13, 2Ch 32:25,31",
+       "ref": "2KI.20.13"
+      },
+      {
+       "text": "2Ki 20:13, 2Ch 32:25,31",
+       "ref": "2CH.32.25"
+      },
+      {
+       "text": "2Ki 20:13, 2Ch 32:25,31",
+       "ref": "2CH.32.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.4",
+   "range": "ISA.39.4",
+   "kind": "passage",
+   "hash": "8567086a",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.4#p1-8567086a",
+     "text": "He asks him of the particulars, to make him understand the craft of the wicked, which he before being overcome with their flattery and blinded with ambition, could not see.",
+     "label": "d",
+     "anchor": "they seen in thy house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.6",
+   "range": "ISA.39.6",
+   "kind": "passage",
+   "hash": "422fb03e",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.6#p1-422fb03e",
+     "text": "By the grievousness of the punishment is declared how greatly God detested ambition and vain glory.",
+     "label": "e",
+     "anchor": "carried to Babylon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.7",
+   "range": "ISA.39.7",
+   "kind": "passage",
+   "hash": "d384816d",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.7#p1-d384816d",
+     "text": "That is, officers and servants.",
+     "label": "f",
+     "anchor": "eunuchs in the palace of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.8",
+   "range": "ISA.39.8",
+   "kind": "passage",
+   "hash": "ffdbdac3",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.8#p1-ffdbdac3",
+     "text": "Read 2Ki 20:19.",
+     "label": "g",
+     "anchor": "Then said Hezekiah to Isaiah",
+     "refs": [
+      {
+       "text": "2Ki 20:19",
+       "ref": "2KI.20.19"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 98,
+ "units": [
+  {
+   "id": "geneva/PSA.98.1",
+   "range": "PSA.98.1",
+   "kind": "passage",
+   "hash": "1fe46f5f",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.1#p1-568b92ea",
+     "text": "That is, some song newly made in token of their wonderful deliverance by Christ.",
+     "label": "a",
+     "anchor": "unto the LORD a new song"
+    },
+    {
+     "id": "geneva/PSA.98.1#p2-65dae2b6",
+     "text": "He preserves his Church miraculously.",
+     "label": "b",
+     "anchor": "arm"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.2",
+   "range": "PSA.98.2",
+   "kind": "passage",
+   "hash": "5154e028",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.2#p1-5154e028",
+     "text": "For the deliverance of his Church.",
+     "label": "c",
+     "anchor": "salvation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.3",
+   "range": "PSA.98.3",
+   "kind": "passage",
+   "hash": "0eecfac1",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.3#p1-0eecfac1",
+     "text": "God was moved by no other means to gather his Church from the Jews and Gentiles, but because he would perform his promise.",
+     "label": "d",
+     "anchor": "remembered his mercy and his truth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.6",
+   "range": "PSA.98.6",
+   "kind": "passage",
+   "hash": "2fae9ac5",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.6#p1-2fae9ac5",
+     "text": "By this repetition and earnest exhortation to give praise with instruments, and also of the dumb creatures, he signifies that the world is never able to praise God sufficiently for their deliverance.",
+     "label": "e",
+     "anchor": "trumpets and sound of cornet make"
+    }
+   ]
+  }
+ ]
+}

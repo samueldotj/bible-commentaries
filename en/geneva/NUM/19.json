@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/NUM.19.2",
+   "range": "NUM.19.2",
+   "kind": "passage",
+   "hash": "82053826",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.2#p1-82053826",
+     "text": "According to this law and ceremony you shall sacrifice the red cow.",
+     "label": "a",
+     "anchor": "This is the ordinance of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.3",
+   "range": "NUM.19.3",
+   "kind": "passage",
+   "hash": "0ba1c633",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.3#p1-0ba1c633",
+     "text": "Another priest.",
+     "label": "b",
+     "anchor": "one shall slay her before his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.7",
+   "range": "NUM.19.7",
+   "kind": "passage",
+   "hash": "db050073",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.7#p1-db050073",
+     "text": "Meaning, Eleazar.",
+     "label": "c",
+     "anchor": "priest shall wash his clothes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.8",
+   "range": "NUM.19.8",
+   "kind": "passage",
+   "hash": "49ec1fd2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.8#p1-49ec1fd2",
+     "text": "The inferior priest who killed her, and burned her.",
+     "label": "d",
+     "anchor": "burneth her shall wash his clothes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.9",
+   "range": "NUM.19.9",
+   "kind": "passage",
+   "hash": "b24111c2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.9#p1-b24111c2",
+     "text": "Or, the water of separation because they that were separate due to their uncleanness, were sprinkled with it and made clean, Nu 8:7. It is also called holy water, because it was ordained for a holy use, Nu 1:17.",
+     "label": "e",
+     "anchor": "water of separation",
+     "refs": [
+      {
+       "text": "Nu 8:7",
+       "ref": "NUM.8.7"
+      },
+      {
+       "text": "Nu 1:17",
+       "ref": "NUM.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.12",
+   "range": "NUM.19.12",
+   "kind": "passage",
+   "hash": "1cb305d1",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.12#p1-1cb305d1",
+     "text": "With the sprinkling of water.",
+     "label": "f",
+     "anchor": "with it on the third day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.13",
+   "range": "NUM.19.13",
+   "kind": "passage",
+   "hash": "020c0f3f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.13#p1-020c0f3f",
+     "text": "So that he should not be esteemed to be of the holy people, but as a polluted and excommunicated person.",
+     "label": "g",
+     "anchor": "cut off from Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.17",
+   "range": "NUM.19.17",
+   "kind": "passage",
+   "hash": "12b6ee32",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.17#p1-31966357",
+     "text": "Of the red cow burnt for sin.",
+     "label": "h",
+     "anchor": "sin"
+    },
+    {
+     "id": "geneva/NUM.19.17#p2-26ef2922",
+     "text": "Water of the fountain or river.",
+     "label": "i",
+     "anchor": "running water shall be put thereto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.18",
+   "range": "NUM.19.18",
+   "kind": "passage",
+   "hash": "b3a90b6a",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.18#p1-b3a90b6a",
+     "text": "One of the priests who is clean.",
+     "label": "k",
+     "anchor": "clean person shall take hyssop"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.19",
+   "range": "NUM.19.19",
+   "kind": "passage",
+   "hash": "04997229",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.19#p1-04997229",
+     "text": "Because he had been among them that were unclean: or else had touched the water as in Nu 19:21.",
+     "label": "l",
+     "anchor": "wash his clothes",
+     "refs": [
+      {
+       "text": "Nu 19:21",
+       "ref": "NUM.19.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.19.22",
+   "range": "NUM.19.22",
+   "kind": "passage",
+   "hash": "5c228e00",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.19.22#p1-5c228e00",
+     "text": "That is, unclean.",
+     "label": "m",
+     "anchor": "it shall be unclean until even"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/GEN.13.1",
+   "range": "GEN.13.1",
+   "kind": "passage",
+   "hash": "7aa93bc0",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.1#p1-7aa93bc0",
+     "text": "His great riches gotten in Egypt, did not hinder him in following his vocation.",
+     "label": "a",
+     "anchor": "Abram went up out of Egypt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.3",
+   "range": "GEN.13.3",
+   "kind": "passage",
+   "hash": "aad7d938",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.3#p1-aad7d938",
+     "text": "He calls the place by the name which was later given to it, Ge 23:19.",
+     "label": "b",
+     "anchor": "Bethel",
+     "refs": [
+      {
+       "text": "Ge 23:19",
+       "ref": "GEN.23.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.6",
+   "range": "GEN.13.6",
+   "kind": "passage",
+   "hash": "f73a2329",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.6#p1-f73a2329",
+     "text": "This inconvenience came by their riches, which break friendships and the bounds of nature.",
+     "label": "c",
+     "anchor": "bear them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.7",
+   "range": "GEN.13.7",
+   "kind": "passage",
+   "hash": "68d9afb2",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.7#p1-68d9afb2",
+     "text": "Who seeing their contention, might blaspheme God and destroy them.",
+     "label": "d",
+     "anchor": "Canaanite and the Perizzite dwelled then"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.8",
+   "range": "GEN.13.8",
+   "kind": "passage",
+   "hash": "786c30b0",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.8#p1-786c30b0",
+     "text": "He cuts off the opportunity for contention: therefore the evil ceases.",
+     "label": "e",
+     "anchor": "strife"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.9",
+   "range": "GEN.13.9",
+   "kind": "passage",
+   "hash": "f6253c1b",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.9#p1-f6253c1b",
+     "text": "Abram resigns his own right to buy peace.",
+     "label": "f",
+     "anchor": "take the left hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.10",
+   "range": "GEN.13.10",
+   "kind": "passage",
+   "hash": "7dee8549",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.10#p1-7dee8549",
+     "text": "Which was in Eden, Ge 2:10.",
+     "label": "g",
+     "anchor": "garden of the LORD",
+     "refs": [
+      {
+       "text": "Ge 2:10",
+       "ref": "GEN.2.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.11",
+   "range": "GEN.13.11",
+   "kind": "passage",
+   "hash": "13cc66a4",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.11#p1-13cc66a4",
+     "text": "This was done by God's providence, that only Abram and his seed might dwell in the land of Canaan.",
+     "label": "h",
+     "anchor": "one from the other"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.13",
+   "range": "GEN.13.13",
+   "kind": "passage",
+   "hash": "f2eb686d",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.13#p1-f2eb686d",
+     "text": "Lot thinking to get paradise, found hell.",
+     "label": "i",
+     "anchor": "sinners before the LORD exceedingly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.14",
+   "range": "GEN.13.14",
+   "kind": "passage",
+   "hash": "36935d60",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.14#p1-36935d60",
+     "text": "The Lord comforted him, lest he should have taken thought for the departure of his nephew.",
+     "label": "k",
+     "anchor": "Abram"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.15",
+   "range": "GEN.13.15",
+   "kind": "passage",
+   "hash": "2f8d12ba",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.15#p1-2f8d12ba",
+     "text": "Meaning a long time, and till the coming of Christ as in Ex 12:14,21:6, De 15:17 and spiritually this refers to the true children of Abram born according to the promise, and not according to the flesh, which are heirs of the true land of Canaan.",
+     "label": "l",
+     "anchor": "ever",
+     "refs": [
+      {
+       "text": "Ex 12:14,21:6, De 15:17",
+       "ref": "EXO.12.14"
+      },
+      {
+       "text": "Ex 12:14,21:6, De 15:17",
+       "ref": "EXO.21.6"
+      },
+      {
+       "text": "Ex 12:14,21:6, De 15:17",
+       "ref": "DEU.15.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

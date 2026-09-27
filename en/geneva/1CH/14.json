@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "geneva/1CH.14.2",
+   "range": "1CH.14.2",
+   "kind": "passage",
+   "hash": "b4d0f22c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.2#p1-b4d0f22c",
+     "text": "Because of God's promise made to the people of Israel.",
+     "label": "a",
+     "anchor": "people Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.14.5",
+   "range": "1CH.14.5",
+   "kind": "passage",
+   "hash": "f7ee2086",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.5#p1-f7ee2086",
+     "text": "Elpalet and Nogah are not mentioned in 2Sa 5:14, so there are only eleven and here thirteen.",
+     "label": "b",
+     "anchor": "Elpalet",
+     "refs": [
+      {
+       "text": "2Sa 5:14",
+       "ref": "2SA.5.14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.14.11",
+   "range": "1CH.14.11",
+   "kind": "passage",
+   "hash": "3971e8c1",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.11#p1-3971e8c1",
+     "text": "That is, the valley of divisions, because the enemies were dispersed there like waters.",
+     "label": "c",
+     "anchor": "Baalperazim"
+    }
+   ]
+  }
+ ]
+}

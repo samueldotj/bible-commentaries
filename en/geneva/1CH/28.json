@@ -1,0 +1,167 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "geneva/1CH.28.2",
+   "range": "1CH.28.2",
+   "kind": "passage",
+   "hash": "e9302497",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.2#p1-e9302497",
+     "text": "Where the ark would stay and no longer move to and fro.",
+     "label": "a",
+     "anchor": "rest for the ark of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.4",
+   "range": "1CH.28.4",
+   "kind": "passage",
+   "hash": "4244beb2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.4#p1-4244beb2",
+     "text": "According to the prophecy of Jacob, Ge 49:8.",
+     "label": "b",
+     "anchor": "Judah",
+     "refs": [
+      {
+       "text": "Ge 49:8",
+       "ref": "GEN.49.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.7",
+   "range": "1CH.28.7",
+   "kind": "passage",
+   "hash": "8b4ae9e8",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.7#p1-8b4ae9e8",
+     "text": "If he continues to keep my law as he does now and doesn't depart from it.",
+     "label": "c",
+     "anchor": "this day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.8",
+   "range": "1CH.28.8",
+   "kind": "passage",
+   "hash": "5cb24241",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.8#p1-1b926cbf",
+     "text": "That is, of Canaan.",
+     "label": "d",
+     "anchor": "good land"
+    },
+    {
+     "id": "geneva/1CH.28.8#p2-f94dbe3d",
+     "text": "He declares that nothing can separate them from the conveniences of this land, both for themselves and their posterity except for their sins and iniquity.",
+     "label": "e",
+     "anchor": "for ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.10",
+   "range": "1CH.28.10",
+   "kind": "passage",
+   "hash": "b0352737",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.10#p1-893ddd2a",
+     "text": "Meaning, for his ark.",
+     "label": "f",
+     "anchor": "an house for the sanctuary"
+    },
+    {
+     "id": "geneva/1CH.28.10#p2-42c9f671",
+     "text": "Put it in execution.",
+     "label": "g",
+     "anchor": "do it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.15",
+   "range": "1CH.28.15",
+   "kind": "passage",
+   "hash": "0049128b",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.15#p1-0049128b",
+     "text": "That is, the ten candlesticks, 1Ki 7:49.",
+     "label": "h",
+     "anchor": "candlesticks of gold",
+     "refs": [
+      {
+       "text": "1Ki 7:49",
+       "ref": "1KI.7.49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.18",
+   "range": "1CH.28.18",
+   "kind": "passage",
+   "hash": "0b87c875",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.18#p1-0b87c875",
+     "text": "Meaning, of the mercy seat that covered the ark, which was called the chariot, because the Lord declared himself there.",
+     "label": "i",
+     "anchor": "the chariot of the cherubims"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.19",
+   "range": "1CH.28.19",
+   "kind": "passage",
+   "hash": "e5c73fa7",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.19#p1-e5c73fa7",
+     "text": "For all this was left in writing in the book of the Law, Ex 25:40, which the king was bound to put in execution, De 17:19.",
+     "label": "k",
+     "anchor": "by his hand upon me",
+     "refs": [
+      {
+       "text": "Ex 25:40",
+       "ref": "EXO.25.40"
+      },
+      {
+       "text": "De 17:19",
+       "ref": "DEU.17.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.28.21",
+   "range": "1CH.28.21",
+   "kind": "passage",
+   "hash": "67bf091a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.28.21#p1-67bf091a",
+     "text": "That is, everyone will be ready to help you with those gifts that God has given him.",
+     "label": "l",
+     "anchor": "every willing skilful man"
+    }
+   ]
+  }
+ ]
+}

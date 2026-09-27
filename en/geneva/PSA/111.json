@@ -1,0 +1,99 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 111,
+ "units": [
+  {
+   "id": "geneva/PSA.111.1",
+   "range": "PSA.111.1",
+   "kind": "passage",
+   "hash": "3d6c749d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.111.1#p1-3d6c749d",
+     "text": "The prophet declares that he will praise God both privately and openly, and that from the heart, as he who consecrates himself wholly and only to God.",
+     "label": "a",
+     "anchor": "Praise ye the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.111.2",
+   "range": "PSA.111.2",
+   "kind": "passage",
+   "hash": "69e185a3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.111.2#p1-69e185a3",
+     "text": "He shows that God's works are a sufficient reason for us to praise him, but chiefly his benefits toward his Church.",
+     "label": "b",
+     "anchor": "great"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.111.5",
+   "range": "PSA.111.5",
+   "kind": "passage",
+   "hash": "589c7da6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.111.5#p1-589c7da6",
+     "text": "God has given to his people all that was necessary for them and will do so even for his covenant's sake, and in this sense the Hebrew word is taken in Pr 30:8,31:15.",
+     "label": "c",
+     "anchor": "meat unto them that fear him",
+     "refs": [
+      {
+       "text": "Pr 30:8,31:15",
+       "ref": "PRO.30.8"
+      },
+      {
+       "text": "Pr 30:8,31:15",
+       "ref": "PRO.31.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.111.7",
+   "range": "PSA.111.7",
+   "kind": "passage",
+   "hash": "78da63e6",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.111.7#p1-78da63e6",
+     "text": "As God proposed to take care of his Church so in effect does he declare himself just and true in the government of the same.",
+     "label": "d",
+     "anchor": "works of his hands are verity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.111.10",
+   "range": "PSA.111.10",
+   "kind": "passage",
+   "hash": "b2310a36",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.111.10#p1-ccf06d68",
+     "text": "They only are wise who fear God and none have understanding but they who obey the word.",
+     "label": "e",
+     "anchor": "The fear of the LORD is"
+    },
+    {
+     "id": "geneva/PSA.111.10#p2-b5a826a8",
+     "text": "That is, his commandment as in Ps 111:7.",
+     "label": "f",
+     "anchor": "do his commandments",
+     "refs": [
+      {
+       "text": "Ps 111:7",
+       "ref": "PSA.111.7"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

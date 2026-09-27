@@ -1,0 +1,187 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/1CH.7.1",
+   "range": "1CH.7.1",
+   "kind": "passage",
+   "hash": "71c51e17",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.1#p1-71c51e17",
+     "text": "Who also is called Job, Ge 46:13.",
+     "label": "a",
+     "anchor": "Jashub",
+     "refs": [
+      {
+       "text": "Ge 46:13",
+       "ref": "GEN.46.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.2",
+   "range": "1CH.7.2",
+   "kind": "passage",
+   "hash": "ab23af16",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.2#p1-ab23af16",
+     "text": "That is, their number was found to be this big when David counted the people, 2Sa 24:1.",
+     "label": "b",
+     "anchor": "whose number was in the days",
+     "refs": [
+      {
+       "text": "2Sa 24:1",
+       "ref": "2SA.24.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.3",
+   "range": "1CH.7.3",
+   "kind": "passage",
+   "hash": "7f33433f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.3#p1-7f33433f",
+     "text": "Meaning, the four sons and the father.",
+     "label": "c",
+     "anchor": "five"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.6",
+   "range": "1CH.7.6",
+   "kind": "passage",
+   "hash": "a5846ae2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.6#p1-fe9ac064",
+     "text": "Also called Ashbel, Ge 46:21, Nu 26:38.",
+     "label": "d",
+     "anchor": "Jediael",
+     "refs": [
+      {
+       "text": "Ge 46:21, Nu 26:38",
+       "ref": "GEN.46.21"
+      },
+      {
+       "text": "Ge 46:21, Nu 26:38",
+       "ref": "NUM.26.38"
+      }
+     ]
+    },
+    {
+     "id": "geneva/1CH.7.6#p2-7877e548",
+     "text": "Who were the chief: or else there were seven in all as it appears in Ge 46:21.",
+     "label": "e",
+     "anchor": "three",
+     "refs": [
+      {
+       "text": "Ge 46:21",
+       "ref": "GEN.46.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.12",
+   "range": "1CH.7.12",
+   "kind": "passage",
+   "hash": "948ab804",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.12#p1-948ab804",
+     "text": "Meaning that he was not the son of Benjamin, but of Dan Ge 46:23.",
+     "label": "f",
+     "anchor": "Aher",
+     "refs": [
+      {
+       "text": "Ge 46:23",
+       "ref": "GEN.46.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.13",
+   "range": "1CH.7.13",
+   "kind": "passage",
+   "hash": "367632d9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.13#p1-367632d9",
+     "text": "These came from Dan and Naphtali, who were the sons of Bilhah, Ge 46:23,24,25.",
+     "label": "g",
+     "anchor": "the sons of Bilhah",
+     "refs": [
+      {
+       "text": "Ge 46:23,24,25",
+       "ref": "GEN.46.23"
+      },
+      {
+       "text": "Ge 46:23,24,25",
+       "ref": "GEN.46.24"
+      },
+      {
+       "text": "Ge 46:23,24,25",
+       "ref": "GEN.46.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.18",
+   "range": "1CH.7.18",
+   "kind": "passage",
+   "hash": "119d08eb",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.18#p1-119d08eb",
+     "text": "Meaning, the sister of Gilead.",
+     "label": "h",
+     "anchor": "his sister Hammoleketh bare Ishod"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.21",
+   "range": "1CH.7.21",
+   "kind": "passage",
+   "hash": "60b0940f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.21#p1-60b0940f",
+     "text": "Which was one of the five principal cities of the Philistines and who slew the Ephraimites.",
+     "label": "i",
+     "anchor": "Gath that were born in that"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.7.25",
+   "range": "1CH.7.25",
+   "kind": "passage",
+   "hash": "06319fa4",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.7.25#p1-06319fa4",
+     "text": "That is, of Ephraim.",
+     "label": "k",
+     "anchor": "son"
+    }
+   ]
+  }
+ ]
+}

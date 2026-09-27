@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 93,
+ "units": [
+  {
+   "id": "geneva/PSA.93.1",
+   "range": "PSA.93.1",
+   "kind": "passage",
+   "hash": "1799a74a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.1#p1-1799a74a",
+     "text": "As God by his power and wisdom has made and governed the world, so must the same be our defence against all enemies and dangers.",
+     "label": "a",
+     "anchor": "reigneth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.2",
+   "range": "PSA.93.2",
+   "kind": "passage",
+   "hash": "c3af5f5c",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.2#p1-c3af5f5c",
+     "text": "In which you sit and govern the world.",
+     "label": "b",
+     "anchor": "throne is established of old"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.3",
+   "range": "PSA.93.3",
+   "kind": "passage",
+   "hash": "87c14c59",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.3#p1-87c14c59",
+     "text": "God's power appears in ruling the furious waters.",
+     "label": "c",
+     "anchor": "The floods have lifted up"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.5",
+   "range": "PSA.93.5",
+   "kind": "passage",
+   "hash": "77e9d426",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.5#p1-77e9d426",
+     "text": "Besides God's power and wisdom in creating and governing his great mercy also appears in that he has given his people his word and covenant.",
+     "label": "d",
+     "anchor": "testimonies are very sure"
+    }
+   ]
+  }
+ ]
+}

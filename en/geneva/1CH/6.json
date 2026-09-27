@@ -1,0 +1,321 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "geneva/1CH.6.8",
+   "range": "1CH.6.8",
+   "kind": "passage",
+   "hash": "c92b7bc5",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.8#p1-c92b7bc5",
+     "text": "Who was high priest after Abiathar was deposed, according to the prophecy of Eli the priest, 1Sa 2:31,35.",
+     "label": "a",
+     "anchor": "Zadok",
+     "refs": [
+      {
+       "text": "1Sa 2:31,35",
+       "ref": "1SA.2.31"
+      },
+      {
+       "text": "1Sa 2:31,35",
+       "ref": "1SA.2.35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.10",
+   "range": "1CH.6.10",
+   "kind": "passage",
+   "hash": "9860dc4d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.10#p1-9860dc4d",
+     "text": "And valiantly resisted king Uzziah, who would have usurped the priest's office 2Ch 26:17,18.",
+     "label": "b",
+     "anchor": "priest's office in the temple that",
+     "refs": [
+      {
+       "text": "2Ch 26:17,18",
+       "ref": "2CH.26.17"
+      },
+      {
+       "text": "2Ch 26:17,18",
+       "ref": "2CH.26.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.15",
+   "range": "1CH.6.15",
+   "kind": "passage",
+   "hash": "63cf9c88",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.15#p1-63cf9c88",
+     "text": "That is, he was led into captivity with his father Seraiah the high priest, 2Ki 25:18.",
+     "label": "c",
+     "anchor": "Jehozadak went into captivity",
+     "refs": [
+      {
+       "text": "2Ki 25:18",
+       "ref": "2KI.25.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.22",
+   "range": "1CH.6.22",
+   "kind": "passage",
+   "hash": "7d531d54",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.22#p1-7d531d54",
+     "text": "Who seems to be called Izhar, Ex 6:21.",
+     "label": "d",
+     "anchor": "Amminadab his son",
+     "refs": [
+      {
+       "text": "Ex 6:21",
+       "ref": "EXO.6.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.28",
+   "range": "1CH.6.28",
+   "kind": "passage",
+   "hash": "6c415cbb",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.28#p1-6c415cbb",
+     "text": "Who is also called Joel, 1Sa 8:2, 1Ch 6:33.",
+     "label": "e",
+     "anchor": "Vashni",
+     "refs": [
+      {
+       "text": "1Sa 8:2, 1Ch 6:33",
+       "ref": "1SA.8.2"
+      },
+      {
+       "text": "1Sa 8:2, 1Ch 6:33",
+       "ref": "1CH.6.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.31",
+   "range": "1CH.6.31",
+   "kind": "passage",
+   "hash": "e28990f2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.31#p1-e28990f2",
+     "text": "After it was brought to the place where the temple would be built and was no longer carried to and fro.",
+     "label": "f",
+     "anchor": "rest"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.39",
+   "range": "1CH.6.39",
+   "kind": "passage",
+   "hash": "c3690086",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.39#p1-c3690086",
+     "text": "Meaning, the son of Heman, 1Ch 6:33.",
+     "label": "h",
+     "anchor": "Asaph",
+     "refs": [
+      {
+       "text": "1Ch 6:33",
+       "ref": "1CH.6.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.48",
+   "range": "1CH.6.48",
+   "kind": "passage",
+   "hash": "524cf3aa",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.48#p1-a3047885",
+     "text": "The Levites are called the singers brothers because they came from the same stock.",
+     "label": "i",
+     "anchor": "brethren also the Levites were"
+    },
+    {
+     "id": "geneva/1CH.6.48#p2-534942f4",
+     "text": "Read Nu 4:4.",
+     "label": "k",
+     "anchor": "appointed unto all manner of service",
+     "refs": [
+      {
+       "text": "Nu 4:4",
+       "ref": "NUM.4.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.54",
+   "range": "1CH.6.54",
+   "kind": "passage",
+   "hash": "a694d51d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.54#p1-7a9009fd",
+     "text": "Or, cities which were given to the Levites.",
+     "label": "l",
+     "anchor": "dwelling places throughout their castles in"
+    },
+    {
+     "id": "geneva/1CH.6.54#p2-5b1b7b81",
+     "text": "They were first appointed, and prepared for.",
+     "label": "m",
+     "anchor": "lot"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.55",
+   "range": "1CH.6.55",
+   "kind": "passage",
+   "hash": "cc32aa6f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.55#p1-cc32aa6f",
+     "text": "Which was also called Kirjatharba, Ge 23:2, Jos 21:11.",
+     "label": "n",
+     "anchor": "Hebron in the land of Judah",
+     "refs": [
+      {
+       "text": "Ge 23:2, Jos 21:11",
+       "ref": "GEN.23.2"
+      },
+      {
+       "text": "Ge 23:2, Jos 21:11",
+       "ref": "JOS.21.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.57",
+   "range": "1CH.6.57",
+   "kind": "passage",
+   "hash": "308bf7d2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.57#p1-308bf7d2",
+     "text": "That he that had killed a man might flee to it for help till his case was tried, De 19:2.",
+     "label": "o",
+     "anchor": "refuge",
+     "refs": [
+      {
+       "text": "De 19:2",
+       "ref": "DEU.19.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.58",
+   "range": "1CH.6.58",
+   "kind": "passage",
+   "hash": "bb7c8f01",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.58#p1-bb7c8f01",
+     "text": "Which Joshua called Holon, Jos 15:51,21:15.",
+     "label": "p",
+     "anchor": "Hilen with her suburbs",
+     "refs": [
+      {
+       "text": "Jos 15:51,21:15",
+       "ref": "JOS.15.51"
+      },
+      {
+       "text": "Jos 15:51,21:15",
+       "ref": "JOS.21.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.60",
+   "range": "1CH.6.60",
+   "kind": "passage",
+   "hash": "5b78074d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.60#p1-5b78074d",
+     "text": "Or, Almon Jos 21:18.",
+     "label": "q",
+     "anchor": "Alemeth with her suburbs",
+     "refs": [
+      {
+       "text": "Jos 21:18",
+       "ref": "JOS.21.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.61",
+   "range": "1CH.6.61",
+   "kind": "passage",
+   "hash": "0a336e7c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.61#p1-0a336e7c",
+     "text": "That is, they gave a portion to the Kohathites, who were the remnant of the tribe of Levi, out of the half tribe of Manasseh and out of Ephraim, 1Ch 6:66.",
+     "label": "r",
+     "anchor": "Kohath",
+     "refs": [
+      {
+       "text": "1Ch 6:66",
+       "ref": "1CH.6.66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.6.71",
+   "range": "1CH.6.71",
+   "kind": "passage",
+   "hash": "c16527c9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.6.71#p1-c16527c9",
+     "text": "Who in the first verse is also called Gershon.",
+     "label": "s",
+     "anchor": "Gershom were given out of the"
+    }
+   ]
+  }
+ ]
+}

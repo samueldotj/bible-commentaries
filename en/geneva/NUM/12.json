@@ -1,0 +1,145 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "geneva/NUM.12.1",
+   "range": "NUM.12.1",
+   "kind": "passage",
+   "hash": "007f3101",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.1#p1-007f3101",
+     "text": "Zipporah, Moses' wife, was a Midianite, and because Midian bordered on Ethiopia, it is sometimes referred to in the scriptures by this name.",
+     "label": "a",
+     "anchor": "an Ethiopian woman"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.3",
+   "range": "NUM.12.3",
+   "kind": "passage",
+   "hash": "c72d508c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.3#p1-c72d508c",
+     "text": "And so endured their grudging, although he knew of them.",
+     "label": "b",
+     "anchor": "meek"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.6",
+   "range": "NUM.12.6",
+   "kind": "passage",
+   "hash": "83bd26fb",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.6#p1-83bd26fb",
+     "text": "These were the two ordinary means.",
+     "label": "c",
+     "anchor": "vision"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.7",
+   "range": "NUM.12.7",
+   "kind": "passage",
+   "hash": "4bc707a6",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.7#p1-4bc707a6",
+     "text": "In all Israel which was his Church.",
+     "label": "d",
+     "anchor": "in all mine house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.8",
+   "range": "NUM.12.8",
+   "kind": "passage",
+   "hash": "0d4d9401",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.8#p1-0d4d9401",
+     "text": "As far as any man was able to comprehend, which he calls his back parts, Ex 33:23.",
+     "label": "e",
+     "anchor": "behold",
+     "refs": [
+      {
+       "text": "Ex 33:23",
+       "ref": "EXO.33.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.10",
+   "range": "NUM.12.10",
+   "kind": "passage",
+   "hash": "e072151e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.10#p1-e072151e",
+     "text": "From the door of the tabernacle.",
+     "label": "f",
+     "anchor": "tabernacle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.12",
+   "range": "NUM.12.12",
+   "kind": "passage",
+   "hash": "f7414be7",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.12#p1-f7414be7",
+     "text": "As a child that is stillborn, as if it is only the skin.",
+     "label": "g",
+     "anchor": "dead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.14",
+   "range": "NUM.12.14",
+   "kind": "passage",
+   "hash": "d33065bc",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.14#p1-d33065bc",
+     "text": "In his displeasure.",
+     "label": "h",
+     "anchor": "spit in her face"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.12.16",
+   "range": "NUM.12.16",
+   "kind": "passage",
+   "hash": "02055133",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.12.16#p1-02055133",
+     "text": "That is, in Rithmah, which was in Paran, Nu 33:18.",
+     "label": "a",
+     "anchor": "Paran",
+     "refs": [
+      {
+       "text": "Nu 33:18",
+       "ref": "NUM.33.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

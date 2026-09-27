@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 24,
+ "units": [
+  {
+   "id": "geneva/1CH.24.2",
+   "range": "1CH.24.2",
+   "kind": "passage",
+   "hash": "a3db79c5",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.2#p1-a3db79c5",
+     "text": "While their father yet lived.",
+     "label": "a",
+     "anchor": "before their father"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.7",
+   "range": "1CH.24.7",
+   "kind": "passage",
+   "hash": "c96de228",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.7#p1-c96de228",
+     "text": "This lot was ordained to take away all occasion of envy or grudging of one against another.",
+     "label": "b",
+     "anchor": "lot came forth to Jehoiarib"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.10",
+   "range": "1CH.24.10",
+   "kind": "passage",
+   "hash": "7db36177",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.10#p1-7db36177",
+     "text": "Zachariah the father of John the Baptist was of this course or lot of Abia, Lu 1:5.",
+     "label": "c",
+     "anchor": "Abijah",
+     "refs": [
+      {
+       "text": "Lu 1:5",
+       "ref": "LUK.1.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.19",
+   "range": "1CH.24.19",
+   "kind": "passage",
+   "hash": "7aee1d36",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.19#p1-7aee1d36",
+     "text": "By the dignity that God gave to Aaron.",
+     "label": "d",
+     "anchor": "Aaron their father"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.30",
+   "range": "1CH.24.30",
+   "kind": "passage",
+   "hash": "ca17b579",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.30#p1-ca17b579",
+     "text": "Who was the second son of Merari.",
+     "label": "e",
+     "anchor": "Mushi"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.31",
+   "range": "1CH.24.31",
+   "kind": "passage",
+   "hash": "7532f7b8",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.31#p1-7532f7b8",
+     "text": "That is, every one had that honour which fell to him by lot.",
+     "label": "f",
+     "anchor": "lots over against their brethren the"
+    }
+   ]
+  }
+ ]
+}

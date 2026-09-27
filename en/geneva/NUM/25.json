@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/NUM.25.1",
+   "range": "NUM.25.1",
+   "kind": "passage",
+   "hash": "2f11dc0b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.1#p1-2f11dc0b",
+     "text": "With the women.",
+     "label": "a",
+     "anchor": "daughters of Moab"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.3",
+   "range": "NUM.25.3",
+   "kind": "passage",
+   "hash": "35f744bb",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.3#p1-35f744bb",
+     "text": "Worshipped the idol of the Moabites, which was in the hill Peor.",
+     "label": "b",
+     "anchor": "joined himself unto Baalpeor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.4",
+   "range": "NUM.25.4",
+   "kind": "passage",
+   "hash": "3465d2b2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.4#p1-3465d2b2",
+     "text": "Openly in the sight of all.",
+     "label": "c",
+     "anchor": "against the sun"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.5",
+   "range": "NUM.25.5",
+   "kind": "passage",
+   "hash": "1bd45a2e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.5#p1-1bd45a2e",
+     "text": "Let him execute those that are under his charge.",
+     "label": "d",
+     "anchor": "men that were joined unto Baalpeor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.6",
+   "range": "NUM.25.6",
+   "kind": "passage",
+   "hash": "f2f6ba1d",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.6#p1-f2f6ba1d",
+     "text": "Repenting that they had offended God.",
+     "label": "e",
+     "anchor": "who were weeping before the door"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.11",
+   "range": "NUM.25.11",
+   "kind": "passage",
+   "hash": "73a52c51",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.11#p1-73a52c51",
+     "text": "He was zealous to maintain my glory.",
+     "label": "f",
+     "anchor": "was zealous for my sake among"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.13",
+   "range": "NUM.25.13",
+   "kind": "passage",
+   "hash": "2c8d0e29",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.13#p1-2c8d0e29",
+     "text": "He has pacified God's wrath.",
+     "label": "g",
+     "anchor": "atonement for the children of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.18",
+   "range": "NUM.25.18",
+   "kind": "passage",
+   "hash": "786b6620",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.18#p1-786b6620",
+     "text": "Causing you to commit both corporal and spiritual fornication by Balaam's counsel, Nu 31:16, Re 2:14.",
+     "label": "h",
+     "anchor": "wiles",
+     "refs": [
+      {
+       "text": "Nu 31:16, Re 2:14",
+       "ref": "NUM.31.16"
+      },
+      {
+       "text": "Nu 31:16, Re 2:14",
+       "ref": "REV.2.14"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

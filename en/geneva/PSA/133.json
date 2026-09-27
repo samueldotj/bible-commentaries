@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 133,
+ "units": [
+  {
+   "id": "geneva/PSA.133.1",
+   "range": "PSA.133.1",
+   "kind": "passage",
+   "hash": "6d634d90",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.133.1#p1-6d634d90",
+     "text": "Because the greatest part was against David, though some favoured him, yet when he was established king at length, they joined all together like brothers: and therefore he shows by these similarities the convenience of brotherly love.",
+     "label": "a",
+     "anchor": "together in unity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.133.2",
+   "range": "PSA.133.2",
+   "kind": "passage",
+   "hash": "76ab6650",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.133.2#p1-76ab6650",
+     "text": "The ointment was a figure of the graces which come from Christ the head of his Church.",
+     "label": "b",
+     "anchor": "ointment upon the head"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.133.3",
+   "range": "PSA.133.3",
+   "kind": "passage",
+   "hash": "3f463b29",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.133.3#p1-5450050b",
+     "text": "By Hermon and Zion he means the plentiful country about Jerusalem.",
+     "label": "c",
+     "anchor": "Hermon"
+    },
+    {
+     "id": "geneva/PSA.133.3#p2-af23f958",
+     "text": "Where there is such concord.",
+     "label": "d",
+     "anchor": "there the LORD commanded the blessing"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 45,
+ "units": [
+  {
+   "id": "geneva/EZK.45.1",
+   "range": "EZK.45.1",
+   "kind": "passage",
+   "hash": "d6328632",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.1#p1-d6328632",
+     "text": "Of all the land of Israel the Lord only requires this portion for the temple and for the priests for the city and for the prince.",
+     "label": "a",
+     "anchor": "holy portion of the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.9",
+   "range": "EZK.45.9",
+   "kind": "passage",
+   "hash": "5a1a8707",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.9#p1-5a1a8707",
+     "text": "The prophet shows that the heads must be first reformed before any good order can be established among the people.",
+     "label": "b",
+     "anchor": "suffice you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.10",
+   "range": "EZK.45.10",
+   "kind": "passage",
+   "hash": "fa751325",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.10#p1-fa751325",
+     "text": "Ephah and Bath are the same quantity save that an Ephah is a dry measure and a Bath liquid, Le 5:11, 1Ki 5:11.",
+     "label": "c",
+     "anchor": "ephah",
+     "refs": [
+      {
+       "text": "Le 5:11, 1Ki 5:11",
+       "ref": "LEV.5.11"
+      },
+      {
+       "text": "Le 5:11, 1Ki 5:11",
+       "ref": "1KI.5.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.12",
+   "range": "EZK.45.12",
+   "kind": "passage",
+   "hash": "bfcca835",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.12#p1-bfcca835",
+     "text": "That is, sixty shekels make a weight called Mina, for he joins these three parts to a Mina.",
+     "label": "d",
+     "anchor": "five and twenty shekels"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.18",
+   "range": "EZK.45.18",
+   "kind": "passage",
+   "hash": "1ae20b0f",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.18#p1-1ae20b0f",
+     "text": "Which was Nisan containing part of March and part of April.",
+     "label": "e",
+     "anchor": "month"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.24",
+   "range": "EZK.45.24",
+   "kind": "passage",
+   "hash": "90f4bb0a",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.24#p1-90f4bb0a",
+     "text": "Read Ex 29:40.",
+     "label": "f",
+     "anchor": "hin of oil for an ephah",
+     "refs": [
+      {
+       "text": "Ex 29:40",
+       "ref": "EXO.29.40"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

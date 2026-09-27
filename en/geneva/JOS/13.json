@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/JOS.13.1",
+   "range": "JOS.13.1",
+   "kind": "passage",
+   "hash": "0727393a",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.1#p1-249a3fc7",
+     "text": "Being almost a hundred and ten years old.",
+     "label": "a",
+     "anchor": "stricken in years"
+    },
+    {
+     "id": "geneva/JOS.13.1#p2-34dd7fa4",
+     "text": "After the enemies are overcome.",
+     "label": "b",
+     "anchor": "possessed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.6",
+   "range": "JOS.13.6",
+   "kind": "passage",
+   "hash": "43467cb8",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.6#p1-43467cb8",
+     "text": "Read Jos 11:8.",
+     "label": "c",
+     "anchor": "Misrephothmaim",
+     "refs": [
+      {
+       "text": "Jos 11:8",
+       "ref": "JOS.11.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.13",
+   "range": "JOS.13.13",
+   "kind": "passage",
+   "hash": "980e40dd",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.13#p1-980e40dd",
+     "text": "Because they had not destroyed all as God had commanded they that remainder were snares and pricks to hurt them, Nu 33:35; Jos 23:13; Jud 2:3.",
+     "label": "d",
+     "anchor": "expelled not the Geshurites",
+     "refs": [
+      {
+       "text": "Nu 33:35; Jos 23:13; Jud 2:3",
+       "ref": "NUM.33.35"
+      },
+      {
+       "text": "Nu 33:35; Jos 23:13; Jud 2:3",
+       "ref": "JOS.23.13"
+      },
+      {
+       "text": "Nu 33:35; Jos 23:13; Jud 2:3",
+       "ref": "JDG.2.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.14",
+   "range": "JOS.13.14",
+   "kind": "passage",
+   "hash": "fc3af9b7",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.14#p1-fc3af9b7",
+     "text": "Levi will live by the sacrifices, Nu 18:21.",
+     "label": "e",
+     "anchor": "their inheritance",
+     "refs": [
+      {
+       "text": "Nu 18:21",
+       "ref": "NUM.18.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.22",
+   "range": "JOS.13.22",
+   "kind": "passage",
+   "hash": "7f9e7c3d",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.22#p1-7f9e7c3d",
+     "text": "So that both they who obeyed wicked counsel and the wicked counsellor perished by the just judgment of God.",
+     "label": "f",
+     "anchor": "Balaam also the son of Beor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.27",
+   "range": "JOS.13.27",
+   "kind": "passage",
+   "hash": "b1f3ce64",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.27#p1-b1f3ce64",
+     "text": "That is, in the land of Moab.",
+     "label": "g",
+     "anchor": "other side Jordan eastward"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.31",
+   "range": "JOS.13.31",
+   "kind": "passage",
+   "hash": "6b877294",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.31#p1-6b877294",
+     "text": "Meaning, his nephews and posterity.",
+     "label": "h",
+     "anchor": "children of Machir the son of"
+    }
+   ]
+  }
+ ]
+}

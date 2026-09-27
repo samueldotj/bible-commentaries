@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "geneva/NUM.28.2",
+   "range": "NUM.28.2",
+   "kind": "passage",
+   "hash": "790b8866",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.2#p1-790b8866",
+     "text": "By bread he means all manner of sacrifice.",
+     "label": "a",
+     "anchor": "my bread for my sacrifices made"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.8",
+   "range": "NUM.28.8",
+   "kind": "passage",
+   "hash": "b4b28127",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.8#p1-b4b28127",
+     "text": "The meat offering and drink offering of the evening sacrifice.",
+     "label": "b",
+     "anchor": "a sacrifice made by fire"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.9",
+   "range": "NUM.28.9",
+   "kind": "passage",
+   "hash": "c9d379bb",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.9#p1-c9d379bb",
+     "text": "Of the measure ephah.",
+     "label": "c",
+     "anchor": "tenth deals of flour for a"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.10",
+   "range": "NUM.28.10",
+   "kind": "passage",
+   "hash": "1de5b7e1",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.10#p1-1de5b7e1",
+     "text": "Which was offered every day at morning and evening.",
+     "label": "d",
+     "anchor": "continual burnt offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.14",
+   "range": "NUM.28.14",
+   "kind": "passage",
+   "hash": "6014ce81",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.14#p1-6014ce81",
+     "text": "That is, the wine that will be poured on the sacrifice.",
+     "label": "e",
+     "anchor": "drink offerings shall be half an"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.18",
+   "range": "NUM.28.18",
+   "kind": "passage",
+   "hash": "74dc6960",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.18#p1-74dc6960",
+     "text": "Or, solemn assembly.",
+     "label": "f",
+     "anchor": "convocation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.26",
+   "range": "NUM.28.26",
+   "kind": "passage",
+   "hash": "35dc21c5",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.26#p1-35dc21c5",
+     "text": "In counting seven weeks from the Passover to Whit Sunday, as in Le 23:15.",
+     "label": "g",
+     "anchor": "weeks be out",
+     "refs": [
+      {
+       "text": "Le 23:15",
+       "ref": "LEV.23.15"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

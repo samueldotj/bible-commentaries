@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 138,
+ "units": [
+  {
+   "id": "geneva/PSA.138.1",
+   "range": "PSA.138.1",
+   "kind": "passage",
+   "hash": "544e55b4",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.1#p1-544e55b4",
+     "text": "Even in the presence of angels and of them who have authority among men.",
+     "label": "a",
+     "anchor": "gods will I sing praise unto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.2",
+   "range": "PSA.138.2",
+   "kind": "passage",
+   "hash": "af21f023",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.2#p1-af21f023",
+     "text": "Both the temple and ceremonial service at Christ's coming were abolished: so that now God will be worshipped only in spirit and truth, Joh 4:23.",
+     "label": "b",
+     "anchor": "temple",
+     "refs": [
+      {
+       "text": "Joh 4:23",
+       "ref": "JHN.4.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.3",
+   "range": "PSA.138.3",
+   "kind": "passage",
+   "hash": "d1d459a7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.3#p1-d1d459a7",
+     "text": "You have strengthened me against my outward and inward enemies.",
+     "label": "c",
+     "anchor": "strengthenedst me with strength in my"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.4",
+   "range": "PSA.138.4",
+   "kind": "passage",
+   "hash": "dd7ba006",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.4#p1-dd7ba006",
+     "text": "All the world will confess that you have wonderfully preserved me, and performed your promise.",
+     "label": "d",
+     "anchor": "kings of the earth shall praise"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.6",
+   "range": "PSA.138.6",
+   "kind": "passage",
+   "hash": "139d1488",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.6#p1-139d1488",
+     "text": "Distance of place cannot hinder God to show mercy to his, and so judge the wicked though they think that he is far off.",
+     "label": "e",
+     "anchor": "afar off"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.8",
+   "range": "PSA.138.8",
+   "kind": "passage",
+   "hash": "9a496042",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.8#p1-9a496042",
+     "text": "Though my enemies rage, yet the Lord, who has begun his work in me, will continue his grace to the end.",
+     "label": "f",
+     "anchor": "perfect that which concerneth me"
+    }
+   ]
+  }
+ ]
+}

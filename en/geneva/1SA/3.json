@@ -1,0 +1,159 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/1SA.3.1",
+   "range": "1SA.3.1",
+   "kind": "passage",
+   "hash": "4c2c54d7",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.1#p1-d357720e",
+     "text": "The Chaldee text reads \"while Eli lived\".",
+     "label": "a",
+     "anchor": "before Eli"
+    },
+    {
+     "id": "geneva/1SA.3.1#p2-ee9c9ad2",
+     "text": "Because there were very few prophets to declare it.",
+     "label": "b",
+     "anchor": "precious in those days"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.2",
+   "range": "1SA.3.2",
+   "kind": "passage",
+   "hash": "332fdcb0",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.2#p1-332fdcb0",
+     "text": "In the court next to the tabernacle.",
+     "label": "c",
+     "anchor": "place"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.3",
+   "range": "1SA.3.3",
+   "kind": "passage",
+   "hash": "2787105e",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.3#p1-2787105e",
+     "text": "That is, the lamps which burnt in the night.",
+     "label": "d",
+     "anchor": "lamp of God went out in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.4",
+   "range": "1SA.3.4",
+   "kind": "passage",
+   "hash": "605cc2aa",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.4#p1-605cc2aa",
+     "text": "Josephus writes that Samuel was 12 years old when the Lord appeared to him.",
+     "label": "e",
+     "anchor": "called Samuel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.7",
+   "range": "1SA.3.7",
+   "kind": "passage",
+   "hash": "cbd1c0ae",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.7#p1-cbd1c0ae",
+     "text": "By vision.",
+     "label": "f",
+     "anchor": "the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.8",
+   "range": "1SA.3.8",
+   "kind": "passage",
+   "hash": "bd18bc96",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.8#p1-bd18bc96",
+     "text": "Such was the corruption of those times that the chief priest had become dull and negligent to understand the Lord's appearing.",
+     "label": "g",
+     "anchor": "perceived that the LORD had called"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.11",
+   "range": "1SA.3.11",
+   "kind": "passage",
+   "hash": "4775b9a9",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.11#p1-4775b9a9",
+     "text": "God declares that sudden fear will come on men when they hear that the ark is taken, and see Eli's house destroyed.",
+     "label": "h",
+     "anchor": "tingle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.14",
+   "range": "1SA.3.14",
+   "kind": "passage",
+   "hash": "71acded0",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.14#p1-71acded0",
+     "text": "Meaning that his posterity would never enjoy the chief priests office.",
+     "label": "i",
+     "anchor": "ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.17",
+   "range": "1SA.3.17",
+   "kind": "passage",
+   "hash": "387a8d7e",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.17#p1-387a8d7e",
+     "text": "God punish you after this and that sort, unless you tell me the truth, Ru 1:17.",
+     "label": "k",
+     "anchor": "do so to thee",
+     "refs": [
+      {
+       "text": "Ru 1:17",
+       "ref": "RUT.1.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.3.19",
+   "range": "1SA.3.19",
+   "kind": "passage",
+   "hash": "d08889dd",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.3.19#p1-d08889dd",
+     "text": "The Lord accomplished whatever he had said.",
+     "label": "l",
+     "anchor": "fall to the ground"
+    }
+   ]
+  }
+ ]
+}

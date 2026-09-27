@@ -1,0 +1,49 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 125,
+ "units": [
+  {
+   "id": "geneva/PSA.125.1",
+   "range": "PSA.125.1",
+   "kind": "passage",
+   "hash": "19020a65",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.125.1#p1-19020a65",
+     "text": "Though the world is subject to mutations, yet the people of God will stand sure and be defended by God's providence.",
+     "label": "a",
+     "anchor": "be removed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.125.3",
+   "range": "PSA.125.3",
+   "kind": "passage",
+   "hash": "1eede772",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.125.3#p1-1eede772",
+     "text": "Though God permits his to be under the cross lest they embrace wickedness, yet this cross will not so rest on them, that it should drive them from hope.",
+     "label": "b",
+     "anchor": "rod of the wicked shall not"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.125.5",
+   "range": "PSA.125.5",
+   "kind": "passage",
+   "hash": "efb880fa",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.125.5#p1-efb880fa",
+     "text": "He desires God to purge his Church from hypocrites and such as have no zeal for the truth.",
+     "label": "c",
+     "anchor": "As for such as turn aside"
+    }
+   ]
+  }
+ ]
+}

@@ -38,6 +38,9 @@ on what terms, before any of its text is committed. See
 - `tools/esword.py` reads e-Sword 11 commentary modules (`.cmti`).
 - `tools/ccel.py` reads CCEL ThML commentaries (Calvin).
 - `tools/survey.py` writes `sources/survey.md`.
+- `tools/import_geneva.py` and `tools/import_henry.py` write `en/geneva/`
+  and `en/henry/` (see [en/README.md](en/README.md)). They need the site
+  repository next to this one for the KJV text (`tools/kjv.py`).
 
 ## Layout
 

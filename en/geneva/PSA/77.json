@@ -1,0 +1,169 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 77,
+ "units": [
+  {
+   "id": "geneva/PSA.77.1",
+   "range": "PSA.77.1",
+   "kind": "passage",
+   "hash": "dc085f2e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.1#p1-dc085f2e",
+     "text": "The prophet teaches us by his example to flee to God for help in our necessities.",
+     "label": "a",
+     "anchor": "voice"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.3",
+   "range": "PSA.77.3",
+   "kind": "passage",
+   "hash": "4d59c4a8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.3#p1-4d59c4a8",
+     "text": "He shows that we must patiently abide though God does not deliver us from our troubles at the first cry.",
+     "label": "b",
+     "anchor": "troubled"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.4",
+   "range": "PSA.77.4",
+   "kind": "passage",
+   "hash": "b590132d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.4#p1-b590132d",
+     "text": "Meaning that his sorrows were as watchmen that kept his eyes from sleeping.",
+     "label": "c",
+     "anchor": "waking"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.6",
+   "range": "PSA.77.6",
+   "kind": "passage",
+   "hash": "2089b265",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.6#p1-edee0fe5",
+     "text": "Of thanksgiving, which I was accustomed to sing in my prosperity.",
+     "label": "d",
+     "anchor": "song in the night"
+    },
+    {
+     "id": "geneva/PSA.77.6#p2-a5c99e97",
+     "text": "Both the reasons why I was chastened, and when my sorrows would end.",
+     "label": "e",
+     "anchor": "diligent search"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.8",
+   "range": "PSA.77.8",
+   "kind": "passage",
+   "hash": "074794f3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.8#p1-074794f3",
+     "text": "As if he would say, It is impossible: by which he exhorts himself to patience.",
+     "label": "f",
+     "anchor": "mercy clean gone for ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.10",
+   "range": "PSA.77.10",
+   "kind": "passage",
+   "hash": "6c42d3e7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.10#p1-6c42d3e7",
+     "text": "Though I first doubted of my life, yet considering that God had his years, that is, change of times, and was accustomed also to lift up them whom he had beaten, I took heart again.",
+     "label": "g",
+     "anchor": "infirmity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.13",
+   "range": "PSA.77.13",
+   "kind": "passage",
+   "hash": "7dd9dedd",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.13#p1-ef18a48e",
+     "text": "That is in heaven, to which we must ascend by faith, if we will know the ways of God.",
+     "label": "h",
+     "anchor": "in the sanctuary"
+    },
+    {
+     "id": "geneva/PSA.77.13#p2-57cc8ae6",
+     "text": "He condemns all who worship anything save the only true God, whose glory appears through the world.",
+     "label": "i",
+     "anchor": "God as our God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.16",
+   "range": "PSA.77.16",
+   "kind": "passage",
+   "hash": "bf3b8919",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.16#p1-bf3b8919",
+     "text": "He declares how the power of God was declared when he delivered the Israelites through the Red Sea.",
+     "label": "k",
+     "anchor": "waters saw thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.17",
+   "range": "PSA.77.17",
+   "kind": "passage",
+   "hash": "b87f8ad9",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.17#p1-b87f8ad9",
+     "text": "That is, thundered and lightninged.",
+     "label": "l",
+     "anchor": "sound"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.77.19",
+   "range": "PSA.77.19",
+   "kind": "passage",
+   "hash": "be767919",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.77.19#p1-be767919",
+     "text": "For when you had brought over your people, the water returned to her course, and the enemies who thought to have followed them, could not pass through, Ex 14:28,29.",
+     "label": "m",
+     "anchor": "known",
+     "refs": [
+      {
+       "text": "Ex 14:28,29",
+       "ref": "EXO.14.28"
+      },
+      {
+       "text": "Ex 14:28,29",
+       "ref": "EXO.14.29"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

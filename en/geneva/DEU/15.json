@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/DEU.15.2",
+   "range": "DEU.15.2",
+   "kind": "passage",
+   "hash": "4207ff6d",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.2#p1-4207ff6d",
+     "text": "He shall only release his debtors, who are not able to pay for that year.",
+     "label": "a",
+     "anchor": "creditor that lendeth ought unto his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.4",
+   "range": "DEU.15.4",
+   "kind": "passage",
+   "hash": "f8af5722",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.4#p1-f8af5722",
+     "text": "For if your debtor is rich, he may be forced to pay.",
+     "label": "b",
+     "anchor": "Save when there shall be no"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.11",
+   "range": "DEU.15.11",
+   "kind": "passage",
+   "hash": "c3639ce9",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.11#p1-ea9af885",
+     "text": "To try your charity, Mt 26:11.",
+     "label": "c",
+     "anchor": "For the poor shall never cease",
+     "refs": [
+      {
+       "text": "Mt 26:11",
+       "ref": "MAT.26.11"
+      }
+     ]
+    },
+    {
+     "id": "geneva/DEU.15.11#p2-e71300fe",
+     "text": "You shall be liberal.",
+     "label": "d",
+     "anchor": "open thine hand wide unto thy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.14",
+   "range": "DEU.15.14",
+   "kind": "passage",
+   "hash": "04d7ce00",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.14#p1-04d7ce00",
+     "text": "In token that you acknowledge the benefit which God has given you by his labours.",
+     "label": "e",
+     "anchor": "furnish him liberally out of thy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.17",
+   "range": "DEU.15.17",
+   "kind": "passage",
+   "hash": "bc9ccec1",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.17#p1-bc9ccec1",
+     "text": "To the year of Jubile, Le 25:40.",
+     "label": "f",
+     "anchor": "for ever",
+     "refs": [
+      {
+       "text": "Le 25:40",
+       "ref": "LEV.25.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.18",
+   "range": "DEU.15.18",
+   "kind": "passage",
+   "hash": "403af0e2",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.18#p1-403af0e2",
+     "text": "For the hired servant served but three years, and he six.",
+     "label": "g",
+     "anchor": "hired servant to thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.19",
+   "range": "DEU.15.19",
+   "kind": "passage",
+   "hash": "b15fef88",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.19#p1-b15fef88",
+     "text": "For they are the Lords.",
+     "label": "h",
+     "anchor": "thou shalt do no work with"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.15.22",
+   "range": "DEU.15.22",
+   "kind": "passage",
+   "hash": "b559b243",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.15.22#p1-b559b243",
+     "text": "You will eat them, as well as the roe buck and other wild beasts.",
+     "label": "i",
+     "anchor": "as the roebuck"
+    }
+   ]
+  }
+ ]
+}

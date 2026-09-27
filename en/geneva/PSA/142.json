@@ -1,0 +1,55 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 142,
+ "units": [
+  {
+   "id": "geneva/PSA.142.1",
+   "range": "PSA.142.1",
+   "kind": "passage",
+   "hash": "42695184",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.142.1#p1-42695184",
+     "text": "David's patience and constant prayer to God condemns their wicked rage, who in their troubles either despair and murmur against God, or else seek other than God, to have relief in their miseries.",
+     "label": "a",
+     "anchor": "make my supplication"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.142.5",
+   "range": "PSA.142.5",
+   "kind": "passage",
+   "hash": "db8db1d4",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.142.5#p1-db8db1d4",
+     "text": "Though all means failed him, yet he knew that God would never forsake him.",
+     "label": "b",
+     "anchor": "refuge and my portion in the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.142.7",
+   "range": "PSA.142.7",
+   "kind": "passage",
+   "hash": "1ac1efb3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.142.7#p1-ecc9788b",
+     "text": "For he was on all sides beset with his enemies as though he had been in a severe prison.",
+     "label": "c",
+     "anchor": "prison"
+    },
+    {
+     "id": "geneva/PSA.142.7#p2-6066a1a1",
+     "text": "Either to rejoice at my wonderful deliverer, or to set a crown on my head.",
+     "label": "d",
+     "anchor": "compass me about"
+    }
+   ]
+  }
+ ]
+}

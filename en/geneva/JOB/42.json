@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 42,
+ "units": [
+  {
+   "id": "geneva/JOB.42.2",
+   "range": "JOB.42.2",
+   "kind": "passage",
+   "hash": "4f2f8568",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.2#p1-4f2f8568",
+     "text": "No thought so secret but you see it, nor anything that you think but that you can bring it to pass.",
+     "label": "a",
+     "anchor": "thought can be withholden from thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.3",
+   "range": "JOB.42.3",
+   "kind": "passage",
+   "hash": "476bfcb7",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.3#p1-ac9c5f3e",
+     "text": "Is there any but I? for this God laid to his charge, Job 38:2.",
+     "label": "b",
+     "anchor": "knowledge",
+     "refs": [
+      {
+       "text": "Job 38:2",
+       "ref": "JOB.38.2"
+      }
+     ]
+    },
+    {
+     "id": "geneva/JOB.42.3#p2-b685e330",
+     "text": "I confess in this my ignorance, and that I spoke of what I did not know.",
+     "label": "c",
+     "anchor": "which I knew not"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.4",
+   "range": "JOB.42.4",
+   "kind": "passage",
+   "hash": "c10187c1",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.4#p1-c10187c1",
+     "text": "He shows that he will be God's scholar to learn of him.",
+     "label": "d",
+     "anchor": "and declare thou unto me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.5",
+   "range": "JOB.42.5",
+   "kind": "passage",
+   "hash": "0f506b55",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.5#p1-0f506b55",
+     "text": "I knew you only before by hearsay, but now you have caused me to feel what you are to me, that I may resign myself over to you.",
+     "label": "e",
+     "anchor": "heard of thee by the hearing"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.7",
+   "range": "JOB.42.7",
+   "kind": "passage",
+   "hash": "4d09c705",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.7#p1-a4e12fca",
+     "text": "You took in hand an evil cause, in that you condemned him by his outward afflictions, and not comforted him with my mercies.",
+     "label": "f",
+     "anchor": "right"
+    },
+    {
+     "id": "geneva/JOB.42.7#p2-a0838821",
+     "text": "Who had a good cause, but handled it evil.",
+     "label": "g",
+     "anchor": "Job hath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.8",
+   "range": "JOB.42.8",
+   "kind": "passage",
+   "hash": "dca62188",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.8#p1-dca62188",
+     "text": "When you have reconciled yourselves to him for the faults that you have committed against him, he will pray for you, and I will hear him.",
+     "label": "h",
+     "anchor": "pray for you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.10",
+   "range": "JOB.42.10",
+   "kind": "passage",
+   "hash": "e600e13c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.10#p1-e600e13c",
+     "text": "He delivered him out of the affliction he was in.",
+     "label": "i",
+     "anchor": "captivity of Job"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.11",
+   "range": "JOB.42.11",
+   "kind": "passage",
+   "hash": "3e38cc16",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.11#p1-3e38cc16",
+     "text": "That is, all his kindred, read Job 19:13.",
+     "label": "k",
+     "anchor": "brethren",
+     "refs": [
+      {
+       "text": "Job 19:13",
+       "ref": "JOB.19.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.12",
+   "range": "JOB.42.12",
+   "kind": "passage",
+   "hash": "fa4fc900",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.12#p1-fa4fc900",
+     "text": "God made him twice as rich in cattle as he was before, and gave him as many children as he had taken from him.",
+     "label": "l",
+     "anchor": "fourteen thousand sheep"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.42.14",
+   "range": "JOB.42.14",
+   "kind": "passage",
+   "hash": "4bb46d89",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.42.14#p1-0e1a1c6a",
+     "text": "That is, of long life, or beautiful as the day.",
+     "label": "m",
+     "anchor": "Jemima"
+    },
+    {
+     "id": "geneva/JOB.42.14#p2-224809cf",
+     "text": "As pleasant as cassia or sweet spice.",
+     "label": "n",
+     "anchor": "Kezia"
+    },
+    {
+     "id": "geneva/JOB.42.14#p3-79046285",
+     "text": "That is, the horn of beauty.",
+     "label": "o",
+     "anchor": "Kerenhappuch"
+    }
+   ]
+  }
+ ]
+}

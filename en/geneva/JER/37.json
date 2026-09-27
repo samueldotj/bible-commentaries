@@ -1,0 +1,131 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 37,
+ "units": [
+  {
+   "id": "geneva/JER.37.1",
+   "range": "JER.37.1",
+   "kind": "passage",
+   "hash": "cad13949",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.1#p1-ac233249",
+     "text": "Who was called Jehoiachin, or Jeconiah.",
+     "label": "a",
+     "anchor": "Coniah the son of Jehoiakim"
+    },
+    {
+     "id": "geneva/JER.37.1#p2-95650220",
+     "text": "And called him Zedekiah, while before his name was Mattaniah, 2Ki 24:17.",
+     "label": "b",
+     "anchor": "made king in the land of",
+     "refs": [
+      {
+       "text": "2Ki 24:17",
+       "ref": "2KI.24.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.3",
+   "range": "JER.37.3",
+   "kind": "passage",
+   "hash": "9bdbd85d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.3#p1-9bdbd85d",
+     "text": "Because he was afraid of the Chaldeans who came against him.",
+     "label": "c",
+     "anchor": "sent Jehucal the son of Shelemiah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.4",
+   "range": "JER.37.4",
+   "kind": "passage",
+   "hash": "f1796765",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.4#p1-f1796765",
+     "text": "That is, was out of prison and free.",
+     "label": "d",
+     "anchor": "in and went out among the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.5",
+   "range": "JER.37.5",
+   "kind": "passage",
+   "hash": "c5c4bc78",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.5#p1-c5c4bc78",
+     "text": "To help the Jews.",
+     "label": "e",
+     "anchor": "come from Egypt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.12",
+   "range": "JER.37.12",
+   "kind": "passage",
+   "hash": "df4140c1",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.12#p1-df4140c1",
+     "text": "As some think, to go to Anathoth his own town.",
+     "label": "f",
+     "anchor": "land of Benjamin"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.13",
+   "range": "JER.37.13",
+   "kind": "passage",
+   "hash": "64d17943",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.13#p1-64d17943",
+     "text": "By which men went into the country of Benjamin.",
+     "label": "g",
+     "anchor": "gate of Benjamin"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.15",
+   "range": "JER.37.15",
+   "kind": "passage",
+   "hash": "101d8979",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.15#p1-101d8979",
+     "text": "Because it was a vile and straight prison.",
+     "label": "h",
+     "anchor": "prison"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.21",
+   "range": "JER.37.21",
+   "kind": "passage",
+   "hash": "3aff57b0",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.21#p1-3aff57b0",
+     "text": "That is, so long as there was any bread in the city: thus God provides for his, that he will cause their enemies to preserve them to that end to which he has appointed them.",
+     "label": "i",
+     "anchor": "bread in the city should be"
+    }
+   ]
+  }
+ ]
+}

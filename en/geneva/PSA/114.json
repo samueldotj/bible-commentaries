@@ -1,0 +1,83 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 114,
+ "units": [
+  {
+   "id": "geneva/PSA.114.1",
+   "range": "PSA.114.1",
+   "kind": "passage",
+   "hash": "403d0206",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.1#p1-403d0206",
+     "text": "Or, barbarous.",
+     "label": "a",
+     "anchor": "strange language"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.2",
+   "range": "PSA.114.2",
+   "kind": "passage",
+   "hash": "05f1ad32",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.2#p1-05f1ad32",
+     "text": "The whole people were witnesses to his holy majesty in adopting them, and of his mighty power in delivering them.",
+     "label": "b",
+     "anchor": "sanctuary"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.4",
+   "range": "PSA.114.4",
+   "kind": "passage",
+   "hash": "00e3b25d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.4#p1-00e3b25d",
+     "text": "Seeing that these dead creatures felt God's power and after a sort saw it, much more his people ought to consider it, and glorify him for the same.",
+     "label": "c",
+     "anchor": "mountains skipped like rams"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.7",
+   "range": "PSA.114.7",
+   "kind": "passage",
+   "hash": "157f91ce",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.7#p1-157f91ce",
+     "text": "Ought then his people to be insensible when they see his power and majesty?",
+     "label": "d",
+     "anchor": "earth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.8",
+   "range": "PSA.114.8",
+   "kind": "passage",
+   "hash": "1f0c36b2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.8#p1-1f0c36b2",
+     "text": "That is, miraculously caused water to come out of the rock in great abundance, Ex 17:6.",
+     "label": "e",
+     "anchor": "turned the rock into a standing",
+     "refs": [
+      {
+       "text": "Ex 17:6",
+       "ref": "EXO.17.6"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

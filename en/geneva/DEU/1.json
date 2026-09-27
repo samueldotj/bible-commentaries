@@ -1,0 +1,351 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/DEU.1.1",
+   "range": "DEU.1.1",
+   "kind": "passage",
+   "hash": "50c5a277",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.1#p1-6957289e",
+     "text": "In the country of Moab.",
+     "label": "a",
+     "anchor": "this side Jordan in the wilderness"
+    },
+    {
+     "id": "geneva/DEU.1.1#p2-19dcde19",
+     "text": "So that the wilderness was between the sea and the plain of Moab.",
+     "label": "b",
+     "anchor": "over against the Red sea"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.2",
+   "range": "DEU.1.2",
+   "kind": "passage",
+   "hash": "f557b6cd",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.2#p1-f557b6cd",
+     "text": "In Horeb, or Sinai, forty years before the law was given: but because all that were then of age and judgment were now dead, Moses repeats the same to the youth who either then were not born, or had not judgment.",
+     "label": "c",
+     "anchor": "Horeb by the way of mount"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.4",
+   "range": "DEU.1.4",
+   "kind": "passage",
+   "hash": "38a1b63c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.4#p1-38a1b63c",
+     "text": "By these examples of God's favour, their minds are prepared to receive the law.",
+     "label": "d",
+     "anchor": "Sihon the king of the Amorites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.5",
+   "range": "DEU.1.5",
+   "kind": "passage",
+   "hash": "b93fd708",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.5#p1-b93fd708",
+     "text": "The second time.",
+     "label": "e",
+     "anchor": "began Moses to declare this law"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.6",
+   "range": "DEU.1.6",
+   "kind": "passage",
+   "hash": "7da96621",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.6#p1-7da96621",
+     "text": "In the second year and second month, Nu 10:11.",
+     "label": "f",
+     "anchor": "Horeb",
+     "refs": [
+      {
+       "text": "Nu 10:11",
+       "ref": "NUM.10.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.9",
+   "range": "DEU.1.9",
+   "kind": "passage",
+   "hash": "522a9e38",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.9#p1-522a9e38",
+     "text": "By the counsel of Jethro my father-in-law, Ex 18:19.",
+     "label": "g",
+     "anchor": "unto you at that time",
+     "refs": [
+      {
+       "text": "Ex 18:19",
+       "ref": "EXO.18.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.10",
+   "range": "DEU.1.10",
+   "kind": "passage",
+   "hash": "709af8c2",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.10#p1-709af8c2",
+     "text": "Not so much by the course of nature, as miraculously.",
+     "label": "h",
+     "anchor": "multiplied you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.12",
+   "range": "DEU.1.12",
+   "kind": "passage",
+   "hash": "6ac851c9",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.12#p1-6ac851c9",
+     "text": "Signifying how great a burden it is, to govern the people.",
+     "label": "i",
+     "anchor": "bear your cumbrance"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.13",
+   "range": "DEU.1.13",
+   "kind": "passage",
+   "hash": "06b2d635",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.13#p1-06b2d635",
+     "text": "Whose godliness and uprightness is known.",
+     "label": "k",
+     "anchor": "known among your tribes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.15",
+   "range": "DEU.1.15",
+   "kind": "passage",
+   "hash": "c924c0b2",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.15#p1-c924c0b2",
+     "text": "Declaring what sort of men ought to have a public charge, read Ex 18:21.",
+     "label": "l",
+     "anchor": "wise men",
+     "refs": [
+      {
+       "text": "Ex 18:21",
+       "ref": "EXO.18.21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.17",
+   "range": "DEU.1.17",
+   "kind": "passage",
+   "hash": "64f65f96",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.17#p1-64f65f96",
+     "text": "You are his Lieutenants.",
+     "label": "m",
+     "anchor": "God's"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.20",
+   "range": "DEU.1.20",
+   "kind": "passage",
+   "hash": "1162c7f0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.20#p1-1162c7f0",
+     "text": "So that the fault was in themselves, that they did not sooner possess the inheritance promised.",
+     "label": "n",
+     "anchor": "I said unto you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.22",
+   "range": "DEU.1.22",
+   "kind": "passage",
+   "hash": "ff516d89",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.22#p1-ff516d89",
+     "text": "Read Nu 13:3.",
+     "label": "o",
+     "anchor": "And ye came near unto me",
+     "refs": [
+      {
+       "text": "Nu 13:3",
+       "ref": "NUM.13.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.25",
+   "range": "DEU.1.25",
+   "kind": "passage",
+   "hash": "3d741664",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.25#p1-3d741664",
+     "text": "That is, Caleb, and Joshua; Moses prefers the better part to the greater, that is, two to ten.",
+     "label": "p",
+     "anchor": "said"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.27",
+   "range": "DEU.1.27",
+   "kind": "passage",
+   "hash": "dc6f5847",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.27#p1-dc6f5847",
+     "text": "Such was the Jews unthankfulness, that they counted God's special love, hatred.",
+     "label": "q",
+     "anchor": "hated us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.28",
+   "range": "DEU.1.28",
+   "kind": "passage",
+   "hash": "33bf1733",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.28#p1-33bf1733",
+     "text": "The other ten, not Caleb and Joshua.",
+     "label": "r",
+     "anchor": "brethren have discouraged our heart"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.30",
+   "range": "DEU.1.30",
+   "kind": "passage",
+   "hash": "6c151f43",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.30#p1-6c151f43",
+     "text": "Declaring that to renounce our own force, and constantly to follow our calling, and depend on the Lord, is true boldness, and agreeable to God.",
+     "label": "s",
+     "anchor": "which goeth before you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.38",
+   "range": "DEU.1.38",
+   "kind": "passage",
+   "hash": "49466f29",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.38#p1-49466f29",
+     "text": "Who minister to you.",
+     "label": "t",
+     "anchor": "before thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.39",
+   "range": "DEU.1.39",
+   "kind": "passage",
+   "hash": "77b106c0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.39#p1-77b106c0",
+     "text": "Who were under twenty years of age, Nu 14:31.",
+     "label": "u",
+     "anchor": "little ones",
+     "refs": [
+      {
+       "text": "Nu 14:31",
+       "ref": "NUM.14.31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.41",
+   "range": "DEU.1.41",
+   "kind": "passage",
+   "hash": "e288eb06",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.41#p1-e288eb06",
+     "text": "This declares man's nature, who will do that which God forbids, and will not do that which he commands.",
+     "label": "x",
+     "anchor": "we will go up and fight"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.42",
+   "range": "DEU.1.42",
+   "kind": "passage",
+   "hash": "92137a13",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.42#p1-92137a13",
+     "text": "Signifying that man has no strength, but when God is at hand to help him.",
+     "label": "y",
+     "anchor": "not among you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.45",
+   "range": "DEU.1.45",
+   "kind": "passage",
+   "hash": "bf128972",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.45#p1-bf128972",
+     "text": "Because you rather showed your hypocrisy, than true repentance; rather lamenting the loss of your brethren, than repenting for your sins.",
+     "label": "z",
+     "anchor": "hearken to your voice"
+    }
+   ]
+  }
+ ]
+}

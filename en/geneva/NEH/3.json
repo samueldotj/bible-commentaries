@@ -1,0 +1,125 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/NEH.3.1",
+   "range": "NEH.3.1",
+   "kind": "passage",
+   "hash": "4f759b94",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.1#p1-4f759b94",
+     "text": "In Hebrew they sanctified it, that is, they finished it, and so dedicated it to the Lord by prayer, in desiring him to maintain it.",
+     "label": "a",
+     "anchor": "sanctified it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.5",
+   "range": "NEH.3.5",
+   "kind": "passage",
+   "hash": "b466b6b0",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.5#p1-b466b6b0",
+     "text": "The rich and mighty would not obey those who were appointed officers in this work, neither would they help them.",
+     "label": "b",
+     "anchor": "put not their necks to the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.7",
+   "range": "NEH.3.7",
+   "kind": "passage",
+   "hash": "78207d58",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.7#p1-78207d58",
+     "text": "To the place where the Duke was wont to sit in judgment, who governed the country in their absence.",
+     "label": "c",
+     "anchor": "throne of the governor on this"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.19",
+   "range": "NEH.3.19",
+   "kind": "passage",
+   "hash": "0a7f0a90",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.19#p1-0a7f0a90",
+     "text": "Where the weapons and armour of the city lay.",
+     "label": "d",
+     "anchor": "turning of the wall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.22",
+   "range": "NEH.3.22",
+   "kind": "passage",
+   "hash": "428b5f37",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.22#p1-428b5f37",
+     "text": "Who dwelt in the plain country by Jordan and Jericho.",
+     "label": "e",
+     "anchor": "the plain"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.26",
+   "range": "NEH.3.26",
+   "kind": "passage",
+   "hash": "ad52f81e",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.26#p1-ad52f81e",
+     "text": "Read Ezr 2:43.",
+     "label": "f",
+     "anchor": "Nethinims dwelt in Ophel",
+     "refs": [
+      {
+       "text": "Ezr 2:43",
+       "ref": "EZR.2.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.30",
+   "range": "NEH.3.30",
+   "kind": "passage",
+   "hash": "35f64ac5",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.30#p1-35f64ac5",
+     "text": "Meaning the sixth of his sons.",
+     "label": "g",
+     "anchor": "sixth son of Zalaph"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.3.31",
+   "range": "NEH.3.31",
+   "kind": "passage",
+   "hash": "19360320",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.3.31#p1-19360320",
+     "text": "Which was the place of judgment or execution.",
+     "label": "h",
+     "anchor": "Miphkad"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "geneva/EZK.12.2",
+   "range": "EZK.12.2",
+   "kind": "passage",
+   "hash": "14202e23",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.2#p1-14202e23",
+     "text": "That is, they receive not the fruit of that which they see and hear.",
+     "label": "a",
+     "anchor": "not"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.6",
+   "range": "EZK.12.6",
+   "kind": "passage",
+   "hash": "b1565cc7",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.6#p1-b1565cc7",
+     "text": "That as you do, so shall they do, and therefore in you they will see their own plague and punishment.",
+     "label": "b",
+     "anchor": "sign to the house of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.9",
+   "range": "EZK.12.9",
+   "kind": "passage",
+   "hash": "3ebbb065",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.9#p1-3ebbb065",
+     "text": "Do they not deride your doings?",
+     "label": "c",
+     "anchor": "doest thou"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.13",
+   "range": "EZK.12.13",
+   "kind": "passage",
+   "hash": "f41df2b9",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.13#p1-f41df2b9",
+     "text": "When the king will think to escape by fleeing, I will take him into my net, as in Eze 32:3.",
+     "label": "d",
+     "anchor": "him",
+     "refs": [
+      {
+       "text": "Eze 32:3",
+       "ref": "EZK.32.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.16",
+   "range": "EZK.12.16",
+   "kind": "passage",
+   "hash": "85b9cb31",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.16#p1-85b9cb31",
+     "text": "Who would bear his Name, and would be his Church.",
+     "label": "e",
+     "anchor": "few men of them from the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.22",
+   "range": "EZK.12.22",
+   "kind": "passage",
+   "hash": "1755f8da",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.22#p1-1755f8da",
+     "text": "Because they did not immediately see the prophecies accomplished, they contemned them as though they would never be fulfilled.",
+     "label": "f",
+     "anchor": "are prolonged"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.27",
+   "range": "EZK.12.27",
+   "kind": "passage",
+   "hash": "75de9889",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.27#p1-75de9889",
+     "text": "That is, it will not come to pass in our days, and therefore we care not for it: thus the wicked ever abuse God's patience and benignity.",
+     "label": "g",
+     "anchor": "many days to come"
+    }
+   ]
+  }
+ ]
+}

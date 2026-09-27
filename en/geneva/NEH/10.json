@@ -1,0 +1,155 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/NEH.10.8",
+   "range": "NEH.10.8",
+   "kind": "passage",
+   "hash": "dd6f75f5",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.8#p1-dd6f75f5",
+     "text": "Who subscribed to keep the promise.",
+     "label": "a",
+     "anchor": "the priests"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.28",
+   "range": "NEH.10.28",
+   "kind": "passage",
+   "hash": "c8a8181e",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.28#p1-ad52f81e",
+     "text": "Read Ezr 2:43.",
+     "label": "b",
+     "anchor": "Nethinims",
+     "refs": [
+      {
+       "text": "Ezr 2:43",
+       "ref": "EZR.2.43"
+      }
+     ]
+    },
+    {
+     "id": "geneva/NEH.10.28#p2-0cfec0e4",
+     "text": "Who being idolaters forsook their wickedness and gave themselves to serve God.",
+     "label": "c",
+     "anchor": "separated themselves from the people of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.29",
+   "range": "NEH.10.29",
+   "kind": "passage",
+   "hash": "7ec96ac0",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.29#p1-cdaebfa2",
+     "text": "They made the oath in the name of the whole multitude.",
+     "label": "d",
+     "anchor": "clave to their brethren"
+    },
+    {
+     "id": "geneva/NEH.10.29#p2-c342263f",
+     "text": "To which they gave themselves if they broke the law, De 28:15.",
+     "label": "e",
+     "anchor": "curse",
+     "refs": [
+      {
+       "text": "De 28:15",
+       "ref": "DEU.28.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.31",
+   "range": "NEH.10.31",
+   "kind": "passage",
+   "hash": "8a6fb0b1",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.31#p1-8a6fb0b1",
+     "text": "Which nonetheless they broke soon after, Ne 13:15.",
+     "label": "f",
+     "anchor": "that we would not buy it",
+     "refs": [
+      {
+       "text": "Ne 13:15",
+       "ref": "NEH.13.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.33",
+   "range": "NEH.10.33",
+   "kind": "passage",
+   "hash": "08f72cf5",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.33#p1-08f72cf5",
+     "text": "This states why they gave this third part of the shekel which was beyond the half shekel that they were required to pay, Ex 30:13.",
+     "label": "g",
+     "anchor": "shewbread",
+     "refs": [
+      {
+       "text": "Ex 30:13",
+       "ref": "EXO.30.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.36",
+   "range": "NEH.10.36",
+   "kind": "passage",
+   "hash": "c41d6302",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.36#p1-c41d6302",
+     "text": "This rehearsal shows that there was no part or ceremony in the Law, to which they did not bind themselves by covenant.",
+     "label": "h",
+     "anchor": "written in the law"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.37",
+   "range": "NEH.10.37",
+   "kind": "passage",
+   "hash": "4791fcab",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.37#p1-4791fcab",
+     "text": "Wherever we laboured or worked, there the tithes were due to the Lord both by the law, and according to the oath and covenant that we made.",
+     "label": "i",
+     "anchor": "tillage"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.10.39",
+   "range": "NEH.10.39",
+   "kind": "passage",
+   "hash": "afdb7f31",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.10.39#p1-afdb7f31",
+     "text": "We will not leave it destitute of that which is needed for it.",
+     "label": "k",
+     "anchor": "we will not forsake the house"
+    }
+   ]
+  }
+ ]
+}

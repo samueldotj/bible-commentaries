@@ -1,0 +1,109 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/1CH.3.1",
+   "range": "1CH.3.1",
+   "kind": "passage",
+   "hash": "8d90992c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.1#p1-92a95b13",
+     "text": "He returns to the genealogy of David, to show that Christ came from his stock.",
+     "label": "a",
+     "anchor": "David"
+    },
+    {
+     "id": "geneva/1CH.3.1#p2-761acf9e",
+     "text": "Who in 2Sa 3:3 is called Chileab, born of her that was Nabal's wife the Carmelite.",
+     "label": "b",
+     "anchor": "Daniel",
+     "refs": [
+      {
+       "text": "2Sa 3:3",
+       "ref": "2SA.3.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.3.5",
+   "range": "1CH.3.5",
+   "kind": "passage",
+   "hash": "ecc1d59a",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.5#p1-ecc1d59a",
+     "text": "Called also Bathsheba the daughter of Eliam: for they gave them various names.",
+     "label": "c",
+     "anchor": "Bathshua the daughter of Ammiel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.3.6",
+   "range": "1CH.3.6",
+   "kind": "passage",
+   "hash": "c4452af9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.6#p1-c4452af9",
+     "text": "Elishama, or Elishua, 2Sa 5:15 and Eliphelet died, and David named those sons who were born next by the same names; in the book of kings his living children are mentioned and here both they that were alive and dead.",
+     "label": "d",
+     "anchor": "Elishama",
+     "refs": [
+      {
+       "text": "2Sa 5:15",
+       "ref": "2SA.5.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.3.15",
+   "range": "1CH.3.15",
+   "kind": "passage",
+   "hash": "10d05260",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.15#p1-10d05260",
+     "text": "So called because he was preferred for the royal dignity before his brother Jehoiakim who was the elder.",
+     "label": "e",
+     "anchor": "firstborn Johanan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.3.19",
+   "range": "1CH.3.19",
+   "kind": "passage",
+   "hash": "288ff589",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.19#p1-288ff589",
+     "text": "Matthew says that Zerubbabel was the son of Shealtiel, meaning that he was his nephew according to the Hebrew speech: for he was Pedaiah's son.",
+     "label": "f",
+     "anchor": "Zerubbabel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.3.22",
+   "range": "1CH.3.22",
+   "kind": "passage",
+   "hash": "b2e83b80",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.3.22#p1-b2e83b80",
+     "text": "So that Shemaiah was Shechaniah's natural son, and the other five his nephews and in all there were six.",
+     "label": "g",
+     "anchor": "six"
+    }
+   ]
+  }
+ ]
+}

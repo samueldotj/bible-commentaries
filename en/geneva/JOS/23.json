@@ -1,0 +1,109 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "geneva/JOS.23.3",
+   "range": "JOS.23.3",
+   "kind": "passage",
+   "hash": "612d7aa0",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.3#p1-612d7aa0",
+     "text": "Your eyes bearing witness.",
+     "label": "a",
+     "anchor": "because of you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.5",
+   "range": "JOS.23.5",
+   "kind": "passage",
+   "hash": "3b0cf0b3",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.5#p1-3b0cf0b3",
+     "text": "Which yet remain and are not overcome, as in Jos 13:2.",
+     "label": "b",
+     "anchor": "them from before you",
+     "refs": [
+      {
+       "text": "Jos 13:2",
+       "ref": "JOS.13.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.7",
+   "range": "JOS.23.7",
+   "kind": "passage",
+   "hash": "0560eae6",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.7#p1-fa9999f2",
+     "text": "And not yet subdued.",
+     "label": "c",
+     "anchor": "remain among you"
+    },
+    {
+     "id": "geneva/JOS.23.7#p2-edc64fa9",
+     "text": "Let not the judges admit an oath which any shall swear by their idols.",
+     "label": "d",
+     "anchor": "nor cause to swear by them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.13",
+   "range": "JOS.23.13",
+   "kind": "passage",
+   "hash": "bdfa30fe",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.13#p1-bdfa30fe",
+     "text": "Meaning, they will be a continual grief to you, and so the cause of your destruction.",
+     "label": "e",
+     "anchor": "eyes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.14",
+   "range": "JOS.23.14",
+   "kind": "passage",
+   "hash": "430c8eae",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.14#p1-ff259737",
+     "text": "I die according to the course of nature.",
+     "label": "f",
+     "anchor": "going the way of all the"
+    },
+    {
+     "id": "geneva/JOS.23.14#p2-6df903c7",
+     "text": "Most certainly.",
+     "label": "g",
+     "anchor": "hearts and in all your souls"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.16",
+   "range": "JOS.23.16",
+   "kind": "passage",
+   "hash": "fc9c9cba",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.16#p1-fc9c9cba",
+     "text": "He shows that no evil can come to man, except he offend God by disobedience.",
+     "label": "h",
+     "anchor": "transgressed the covenant of the LORD"
+    }
+   ]
+  }
+ ]
+}

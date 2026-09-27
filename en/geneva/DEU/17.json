@@ -1,0 +1,193 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 17,
+ "units": [
+  {
+   "id": "geneva/DEU.17.1",
+   "range": "DEU.17.1",
+   "kind": "passage",
+   "hash": "24b7c21a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.1#p1-24b7c21a",
+     "text": "You shall not serve God for selfish means as the hypocrites do.",
+     "label": "a",
+     "anchor": "blemish"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.2",
+   "range": "DEU.17.2",
+   "kind": "passage",
+   "hash": "2f6b6dec",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.2#p1-2f6b6dec",
+     "text": "Showing that the crime cannot be excused by the frailty of the person.",
+     "label": "b",
+     "anchor": "woman"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.3",
+   "range": "DEU.17.3",
+   "kind": "passage",
+   "hash": "7543ca8a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.3#p1-7543ca8a",
+     "text": "By which he condemns all religion and serving of God which God has not commanded.",
+     "label": "c",
+     "anchor": "commanded"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.7",
+   "range": "DEU.17.7",
+   "kind": "passage",
+   "hash": "73b98d80",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.7#p1-3a8fa6ad",
+     "text": "By which they declared that they testify the truth.",
+     "label": "d",
+     "anchor": "witnesses shall be first upon him"
+    },
+    {
+     "id": "geneva/DEU.17.7#p2-4c32202b",
+     "text": "To signify a common consent to maintain God's honour and true religion.",
+     "label": "e",
+     "anchor": "people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.9",
+   "range": "DEU.17.9",
+   "kind": "passage",
+   "hash": "f11a9d10",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.9#p1-f11a9d10",
+     "text": "Who will sentence as the priests counsel him by the Law of God.",
+     "label": "f",
+     "anchor": "judge that shall be in those"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.11",
+   "range": "DEU.17.11",
+   "kind": "passage",
+   "hash": "ec509bae",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.11#p1-ec509bae",
+     "text": "You shall obey their sentence that the controversy may have an end.",
+     "label": "g",
+     "anchor": "thou shalt do"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.12",
+   "range": "DEU.17.12",
+   "kind": "passage",
+   "hash": "7ba1536e",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.12#p1-7ba1536e",
+     "text": "So long as he is the true minister of God, and pronounces according to his word.",
+     "label": "h",
+     "anchor": "minister there before the LORD thy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.15",
+   "range": "DEU.17.15",
+   "kind": "passage",
+   "hash": "4b6614b8",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.15#p1-4b6614b8",
+     "text": "Who is not from your nation, lest he change true religion into idolatry, and bring you to slavery.",
+     "label": "i",
+     "anchor": "stranger over thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.16",
+   "range": "DEU.17.16",
+   "kind": "passage",
+   "hash": "4598aa38",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.16#p1-4598aa38",
+     "text": "To avenge their injuries and to take their best horses from them; 1Ki 10:28.",
+     "label": "k",
+     "anchor": "Egypt",
+     "refs": [
+      {
+       "text": "1Ki 10:28",
+       "ref": "1KI.10.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.17",
+   "range": "DEU.17.17",
+   "kind": "passage",
+   "hash": "90fe18d5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.17#p1-90fe18d5",
+     "text": "From the Law of God.",
+     "label": "l",
+     "anchor": "turn not away"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.18",
+   "range": "DEU.17.18",
+   "kind": "passage",
+   "hash": "203bb038",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.18#p1-688ba8c5",
+     "text": "Meaning, Deuteronomy.",
+     "label": "m",
+     "anchor": "law in a book out of"
+    },
+    {
+     "id": "geneva/DEU.17.18#p2-3914e6b6",
+     "text": "He shall cause it to be written by them, or he shall write it by their example.",
+     "label": "n",
+     "anchor": "priests the Levites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.17.20",
+   "range": "DEU.17.20",
+   "kind": "passage",
+   "hash": "7a46a3cd",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.17.20#p1-7a46a3cd",
+     "text": "By which is meant that kings should love their subjects as nature causes one brother to love another.",
+     "label": "o",
+     "anchor": "brethren"
+    }
+   ]
+  }
+ ]
+}

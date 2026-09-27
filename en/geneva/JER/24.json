@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 24,
+ "units": [
+  {
+   "id": "geneva/JER.24.1",
+   "range": "JER.24.1",
+   "kind": "passage",
+   "hash": "d261b1c5",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.24.1#p1-d261b1c5",
+     "text": "The good figs signified them that were gone into captivity and so saved their life, as in Jer 21:8, and the bad figs them that remained, who were yet subject to the sword, famine and pestilence.",
+     "label": "a",
+     "anchor": "baskets of figs were set before",
+     "refs": [
+      {
+       "text": "Jer 21:8",
+       "ref": "JER.21.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.24.5",
+   "range": "JER.24.5",
+   "kind": "passage",
+   "hash": "15b27a10",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.24.5#p1-15b27a10",
+     "text": "By which he approves the yielding of Jeconiah and his company because they obeyed the prophet, who exhorted them to it.",
+     "label": "b",
+     "anchor": "place into the land of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.24.7",
+   "range": "JER.24.7",
+   "kind": "passage",
+   "hash": "1126da17",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.24.7#p1-1126da17",
+     "text": "Which declares that man of himself can know nothing till God gives the heart and understanding.",
+     "label": "c",
+     "anchor": "an heart to know me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.24.8",
+   "range": "JER.24.8",
+   "kind": "passage",
+   "hash": "1b50aa1d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.24.8#p1-1b50aa1d",
+     "text": "Who fled there for comfort.",
+     "label": "d",
+     "anchor": "in the land of Egypt"
+    }
+   ]
+  }
+ ]
+}

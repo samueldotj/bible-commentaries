@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 16,
+ "units": [
+  {
+   "id": "geneva/GEN.16.1",
+   "range": "GEN.16.1",
+   "kind": "passage",
+   "hash": "8fc1ce15",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.1#p1-8fc1ce15",
+     "text": "It seems that she had respect for God's promise, which could not be accomplished without issue.",
+     "label": "a",
+     "anchor": "Sarai Abram's wife bare him no"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.2",
+   "range": "GEN.16.2",
+   "kind": "passage",
+   "hash": "50716090",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.2#p1-50716090",
+     "text": "She fails by limiting God's power to the common order of nature, as though God could not give her children in her old age.",
+     "label": "b",
+     "anchor": "restrained me from bearing"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.4",
+   "range": "GEN.16.4",
+   "kind": "passage",
+   "hash": "1d1d8fd6",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.4#p1-1d1d8fd6",
+     "text": "This punishment declares what they gain if they attempt any thing against the word of God.",
+     "label": "c",
+     "anchor": "despised in her eyes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.7",
+   "range": "GEN.16.7",
+   "kind": "passage",
+   "hash": "7586d329",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.7#p1-7586d329",
+     "text": "Which was Christ, as appears in Ge 16:13,18:17.",
+     "label": "d",
+     "anchor": "angel of the LORD found her",
+     "refs": [
+      {
+       "text": "Ge 16:13,18:17",
+       "ref": "GEN.16.13"
+      },
+      {
+       "text": "Ge 16:13,18:17",
+       "ref": "GEN.18.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.9",
+   "range": "GEN.16.9",
+   "kind": "passage",
+   "hash": "2123e5aa",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.9#p1-2123e5aa",
+     "text": "God rejects no estate of people in their misery, but sends them comfort.",
+     "label": "e",
+     "anchor": "Return to thy mistress"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.12",
+   "range": "GEN.16.12",
+   "kind": "passage",
+   "hash": "f725d2bc",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.12#p1-f725d2bc",
+     "text": "That is, the Ishmaelites will be a separate people by themselves and not part of another people.",
+     "label": "f",
+     "anchor": "he shall dwell in the presence"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.13",
+   "range": "GEN.16.13",
+   "kind": "passage",
+   "hash": "5f4ae4a6",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.13#p1-5f4ae4a6",
+     "text": "She rebukes her own dullness and acknowledges God's graces, who was present with her everywhere.",
+     "label": "g",
+     "anchor": "Have I also here looked after"
+    }
+   ]
+  }
+ ]
+}

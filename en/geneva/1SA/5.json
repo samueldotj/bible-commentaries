@@ -1,0 +1,77 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/1SA.5.1",
+   "range": "1SA.5.1",
+   "kind": "passage",
+   "hash": "45ebf94f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.1#p1-45ebf94f",
+     "text": "Which was one of the five principal cities of the Philistines.",
+     "label": "a",
+     "anchor": "Ashdod"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.2",
+   "range": "1SA.5.2",
+   "kind": "passage",
+   "hash": "42ac9b3d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.2#p1-42ac9b3d",
+     "text": "Which was their chief idol, and as some write, from the navel downward was like a fish, and upward like a man.",
+     "label": "b",
+     "anchor": "Dagon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.5",
+   "range": "1SA.5.5",
+   "kind": "passage",
+   "hash": "67d6a829",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.5#p1-67d6a829",
+     "text": "Thus instead of acknowledging the true God by this miracle, they fall into greater superstition.",
+     "label": "c",
+     "anchor": "tread on the threshold of Dagon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.8",
+   "range": "1SA.5.8",
+   "kind": "passage",
+   "hash": "67848ecf",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.8#p1-67848ecf",
+     "text": "Though they had felt God's power and were afraid of it, yet they tried him even further, which God turned to their destruction and his glory.",
+     "label": "d",
+     "anchor": "What shall we do with the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.11",
+   "range": "1SA.5.11",
+   "kind": "passage",
+   "hash": "c756f53f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.11#p1-c756f53f",
+     "text": "The wicked when they feel the hand of God, grudge and reject him, where the godly humble themselves, and cry for mercy.",
+     "label": "e",
+     "anchor": "away the ark of the God"
+    }
+   ]
+  }
+ ]
+}

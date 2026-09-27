@@ -1,0 +1,197 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 49,
+ "units": [
+  {
+   "id": "geneva/PSA.49.1",
+   "range": "PSA.49.1",
+   "kind": "passage",
+   "hash": "1d7f4e00",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.1#p1-1d7f4e00",
+     "text": "He will intreat how God governs the world by his providence which cannot be perceived by the judgment of the flesh.",
+     "label": "a",
+     "anchor": "this"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.5",
+   "range": "PSA.49.5",
+   "kind": "passage",
+   "hash": "16eb5e5b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.5#p1-16eb5e5b",
+     "text": "Though wickedness reigns and enemies rage, seeing God will execute his judgments against the wicked at a suitable time.",
+     "label": "b",
+     "anchor": "fear in the days of evil"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.6",
+   "range": "PSA.49.6",
+   "kind": "passage",
+   "hash": "8f1e2343",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.6#p1-8f1e2343",
+     "text": "To trust in riches is madness, seeing they can neither restore life, nor prolong it.",
+     "label": "c",
+     "anchor": "wealth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.8",
+   "range": "PSA.49.8",
+   "kind": "passage",
+   "hash": "3248d697",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.8#p1-00a82ce9",
+     "text": "That is, so rare or not to be found, as prophecy was precious in the days of Eli, 1Sa 3:1.",
+     "label": "d",
+     "anchor": "precious",
+     "refs": [
+      {
+       "text": "1Sa 3:1",
+       "ref": "1SA.3.1"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.49.8#p2-7f9212ad",
+     "text": "Meaning it is impossible to live for ever: also that life and death are only in God's hands.",
+     "label": "e",
+     "anchor": "and it ceaseth for ever"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.10",
+   "range": "PSA.49.10",
+   "kind": "passage",
+   "hash": "c6c5d94b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.10#p1-c0c43430",
+     "text": "In that that death makes no difference between the persons.",
+     "label": "f",
+     "anchor": "die"
+    },
+    {
+     "id": "geneva/PSA.49.10#p2-394f4fe3",
+     "text": "That is, not to their children, but to strangers. Yet the wicked profit not by these examples, but still dream of immortality on earth.",
+     "label": "g",
+     "anchor": "others"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.12",
+   "range": "PSA.49.12",
+   "kind": "passage",
+   "hash": "24c59b19",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.12#p1-24c59b19",
+     "text": "Concerning the death of the body.",
+     "label": "h",
+     "anchor": "beasts that perish"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.13",
+   "range": "PSA.49.13",
+   "kind": "passage",
+   "hash": "0a0e97cd",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.13#p1-0a0e97cd",
+     "text": "They speak and do the same thing that their fathers did.",
+     "label": "i",
+     "anchor": "approve their sayings"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.14",
+   "range": "PSA.49.14",
+   "kind": "passage",
+   "hash": "9e35050e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.14#p1-174f719c",
+     "text": "As sheep are gathered into the fold, so shall they be brought to the grave.",
+     "label": "k",
+     "anchor": "Like sheep they are laid in"
+    },
+    {
+     "id": "geneva/PSA.49.14#p2-9ccd4fee",
+     "text": "Because they have no part of life everlasting.",
+     "label": "l",
+     "anchor": "death shall feed on them"
+    },
+    {
+     "id": "geneva/PSA.49.14#p3-cd66578a",
+     "text": "Christ's coming is as the morning, when the elect will reign with Christ their head over the wicked.",
+     "label": "m",
+     "anchor": "morning"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.18",
+   "range": "PSA.49.18",
+   "kind": "passage",
+   "hash": "c6f25478",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.18#p1-c6f25478",
+     "text": "The flatterers praise them who live in delight and pleasures.",
+     "label": "n",
+     "anchor": "men will praise thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.19",
+   "range": "PSA.49.19",
+   "kind": "passage",
+   "hash": "3ac2f440",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.19#p1-4245db9e",
+     "text": "And not pass the term appointed for life.",
+     "label": "o",
+     "anchor": "He shall go to the generation"
+    },
+    {
+     "id": "geneva/PSA.49.19#p2-09cab952",
+     "text": "Both they and their fathers will live here but a while and at length die forever.",
+     "label": "p",
+     "anchor": "they shall never see light"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.49.20",
+   "range": "PSA.49.20",
+   "kind": "passage",
+   "hash": "ae5ae4a2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.49.20#p1-ae5ae4a2",
+     "text": "He condemns man's ingratitude, who having received excellent gifts from God, abuses them like a beast to his own condemnation.",
+     "label": "q",
+     "anchor": "understandeth not"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "RUT",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/RUT.3.1",
+   "range": "RUT.3.1",
+   "kind": "passage",
+   "hash": "6ef70e86",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.1#p1-6ef70e86",
+     "text": "Meaning that she would provide her with a husband, with whom she might live peacefully.",
+     "label": "a",
+     "anchor": "rest for thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.3",
+   "range": "RUT.3.3",
+   "kind": "passage",
+   "hash": "85d90923",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.3#p1-85d90923",
+     "text": "Boaz, nor yet any other.",
+     "label": "b",
+     "anchor": "man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.7",
+   "range": "RUT.3.7",
+   "kind": "passage",
+   "hash": "166c1d82",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.7#p1-166c1d82",
+     "text": "That is, he had refreshed himself among his servants.",
+     "label": "c",
+     "anchor": "heart was merry"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.10",
+   "range": "RUT.3.10",
+   "kind": "passage",
+   "hash": "b244a8e6",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.10#p1-b244a8e6",
+     "text": "You showed yourself repeatedly to be more virtuous.",
+     "label": "d",
+     "anchor": "shewed more kindness in the latter"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.13",
+   "range": "RUT.3.13",
+   "kind": "passage",
+   "hash": "ee17a605",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.13#p1-ee17a605",
+     "text": "If he will take you to as his wife because of his relation by marriage, according to God's law, De 25:5.",
+     "label": "e",
+     "anchor": "will perform unto thee the part",
+     "refs": [
+      {
+       "text": "De 25:5",
+       "ref": "DEU.25.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.16",
+   "range": "RUT.3.16",
+   "kind": "passage",
+   "hash": "8910cf03",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.16#p1-8910cf03",
+     "text": "Believing by her returning home that he had not taken her as his wife, she was astonished.",
+     "label": "f",
+     "anchor": "Who art thou"
+    }
+   ]
+  }
+ ]
+}

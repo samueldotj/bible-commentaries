@@ -1,0 +1,125 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/NUM.1.1",
+   "range": "NUM.1.1",
+   "kind": "passage",
+   "hash": "27a51867",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.1#p1-66046597",
+     "text": "In the place in the wilderness that was near mount Sinai.",
+     "label": "a",
+     "anchor": "Sinai"
+    },
+    {
+     "id": "geneva/NUM.1.1#p2-d2b568af",
+     "text": "Which is part of April and part of May.",
+     "label": "b",
+     "anchor": "second month"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.4",
+   "range": "NUM.1.4",
+   "kind": "passage",
+   "hash": "75bd0869",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.4#p1-75bd0869",
+     "text": "That is, the chiefest man of every tribe.",
+     "label": "c",
+     "anchor": "man of every tribe"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.5",
+   "range": "NUM.1.5",
+   "kind": "passage",
+   "hash": "39783539",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.5#p1-39783539",
+     "text": "And afflict you when you number the people.",
+     "label": "d",
+     "anchor": "stand with you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.16",
+   "range": "NUM.1.16",
+   "kind": "passage",
+   "hash": "e37c94ac",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.16#p1-e37c94ac",
+     "text": "Or captains, and governors.",
+     "label": "e",
+     "anchor": "princes of the tribes of their"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.18",
+   "range": "NUM.1.18",
+   "kind": "passage",
+   "hash": "6ba687f8",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.18#p1-6ba687f8",
+     "text": "In showing every man his tribe and his ancestors.",
+     "label": "f",
+     "anchor": "their pedigrees after their families"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.47",
+   "range": "NUM.1.47",
+   "kind": "passage",
+   "hash": "445568e0",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.47#p1-445568e0",
+     "text": "Which were warriors, but were appointed to the use of the Tabernacle.",
+     "label": "g",
+     "anchor": "them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.51",
+   "range": "NUM.1.51",
+   "kind": "passage",
+   "hash": "dddd763e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.51#p1-dddd763e",
+     "text": "Whoever is not of the tribe of Levi.",
+     "label": "h",
+     "anchor": "stranger that cometh nigh shall be"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.53",
+   "range": "NUM.1.53",
+   "kind": "passage",
+   "hash": "2d25ef18",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.53#p1-2d25ef18",
+     "text": "By not having due regard to the tabernacle of the Lord.",
+     "label": "i",
+     "anchor": "upon the congregation of the children"
+    }
+   ]
+  }
+ ]
+}

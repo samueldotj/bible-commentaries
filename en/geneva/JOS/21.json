@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 21,
+ "units": [
+  {
+   "id": "geneva/JOS.21.2",
+   "range": "JOS.21.2",
+   "kind": "passage",
+   "hash": "94200c46",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.2#p1-94200c46",
+     "text": "By Moses, by whose ministry God showed his power.",
+     "label": "a",
+     "anchor": "by the hand of Moses to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.4",
+   "range": "JOS.21.4",
+   "kind": "passage",
+   "hash": "01545086",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.4#p1-846520d7",
+     "text": "He means those that were priests: for some were but Levites.",
+     "label": "b",
+     "anchor": "Kohathites"
+    },
+    {
+     "id": "geneva/JOS.21.4#p2-3f836be4",
+     "text": "Every tribe gave more or fewer cities according to the size of their inheritance, Nu 35:8.",
+     "label": "c",
+     "anchor": "thirteen cities",
+     "refs": [
+      {
+       "text": "Nu 35:8",
+       "ref": "NUM.35.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.10",
+   "range": "JOS.21.10",
+   "kind": "passage",
+   "hash": "5fc88019",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.10#p1-5fc88019",
+     "text": "For Aaron came from Kohath, and therefore the priests office remained in that family.",
+     "label": "d",
+     "anchor": "Aaron"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.13",
+   "range": "JOS.21.13",
+   "kind": "passage",
+   "hash": "71499785",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.13#p1-71499785",
+     "text": "That is, the priest of the family of the Kohathites, of whom Aaron was chief.",
+     "label": "e",
+     "anchor": "children of Aaron the priest Hebron"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.17",
+   "range": "JOS.21.17",
+   "kind": "passage",
+   "hash": "0b4c5454",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.17#p1-0b4c5454",
+     "text": "The suburbs were a thousand cubits from the wall of the cities round about, Nu 35:4.",
+     "label": "f",
+     "anchor": "suburbs",
+     "refs": [
+      {
+       "text": "Nu 35:4",
+       "ref": "NUM.35.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.20",
+   "range": "JOS.21.20",
+   "kind": "passage",
+   "hash": "3473c623",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.20#p1-3473c623",
+     "text": "That were not priests.",
+     "label": "g",
+     "anchor": "the Levites which remained of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.21",
+   "range": "JOS.21.21",
+   "kind": "passage",
+   "hash": "92cf544e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.21#p1-92cf544e",
+     "text": "Hebron and Shechem were the two cities of refuge under the Kohathites.",
+     "label": "h",
+     "anchor": "Shechem with her suburbs in mount"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.25",
+   "range": "JOS.21.25",
+   "kind": "passage",
+   "hash": "132bfdba",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.25#p1-132bfdba",
+     "text": "Who dwelt in Canaan.",
+     "label": "i",
+     "anchor": "half tribe of Manasseh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.27",
+   "range": "JOS.21.27",
+   "kind": "passage",
+   "hash": "19ecb906",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.27#p1-19ecb906",
+     "text": "Golan and Kedesh were the cities of refuge under the Gershonites.",
+     "label": "k",
+     "anchor": "Golan in Bashan with her suburbs"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.34",
+   "range": "JOS.21.34",
+   "kind": "passage",
+   "hash": "b6619952",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.34#p1-b6619952",
+     "text": "They are here called the rest, because they are last numbered, and Merari was the younger brother, Ge 46:11.",
+     "label": "l",
+     "anchor": "rest of the Levites",
+     "refs": [
+      {
+       "text": "Ge 46:11",
+       "ref": "GEN.46.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.36",
+   "range": "JOS.21.36",
+   "kind": "passage",
+   "hash": "3d3b2049",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.36#p1-3d3b2049",
+     "text": "Bezer and Ramoch were the cities of refuge under the Merarites and beyond Jordan, Jos 20:8.",
+     "label": "m",
+     "anchor": "Bezer with her suburbs",
+     "refs": [
+      {
+       "text": "Jos 20:8",
+       "ref": "JOS.20.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.41",
+   "range": "JOS.21.41",
+   "kind": "passage",
+   "hash": "e9185570",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.41#p1-e9185570",
+     "text": "Thus according to Jacob's prophecy they were scattered throughout the country, which God used so that his people might be instructed in the true religion by them.",
+     "label": "n",
+     "anchor": "within the possession of the children"
+    }
+   ]
+  }
+ ]
+}

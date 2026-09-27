@@ -1,0 +1,157 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/NEH.7.3",
+   "range": "NEH.7.3",
+   "kind": "passage",
+   "hash": "a133ee1c",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.3#p1-a133ee1c",
+     "text": "That is, they who are mentioned, Ne 7:2.",
+     "label": "a",
+     "anchor": "they stand by",
+     "refs": [
+      {
+       "text": "Ne 7:2",
+       "ref": "NEH.7.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.6",
+   "range": "NEH.7.6",
+   "kind": "passage",
+   "hash": "eafd997f",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.6#p1-eafd997f",
+     "text": "That is, the inhabitants of Judah.",
+     "label": "b",
+     "anchor": "children of the province"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.7",
+   "range": "NEH.7.7",
+   "kind": "passage",
+   "hash": "645cb9e9",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.7#p1-645cb9e9",
+     "text": "Azariah in Ezra is called Seraiah, and Raamiah Reelaiah Ezr 2:2.",
+     "label": "c",
+     "anchor": "Azariah",
+     "refs": [
+      {
+       "text": "Ezr 2:2",
+       "ref": "EZR.2.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.25",
+   "range": "NEH.7.25",
+   "kind": "passage",
+   "hash": "544ce839",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.25#p1-544ce839",
+     "text": "That is, the inhabitants of Gibeon.",
+     "label": "d",
+     "anchor": "children of Gibeon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.33",
+   "range": "NEH.7.33",
+   "kind": "passage",
+   "hash": "9889df85",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.33#p1-9889df85",
+     "text": "For there were two cities with this name.",
+     "label": "e",
+     "anchor": "of the other Nebo"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.46",
+   "range": "NEH.7.46",
+   "kind": "passage",
+   "hash": "ad52f81e",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.46#p1-ad52f81e",
+     "text": "Read Ezr 2:43.",
+     "label": "f",
+     "anchor": "Nethinims",
+     "refs": [
+      {
+       "text": "Ezr 2:43",
+       "ref": "EZR.2.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.65",
+   "range": "NEH.7.65",
+   "kind": "passage",
+   "hash": "82e76199",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.65#p1-82e76199",
+     "text": "Meaning, Nehemiah: for Tirshatha in the Chaldee tongue means a butler.",
+     "label": "g",
+     "anchor": "the Tirshatha said unto them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.70",
+   "range": "NEH.7.70",
+   "kind": "passage",
+   "hash": "9b48861e",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.70#p1-9b48861e",
+     "text": "Read Ezr 2:69.",
+     "label": "h",
+     "anchor": "drams of gold",
+     "refs": [
+      {
+       "text": "Ezr 2:69",
+       "ref": "EZR.2.69"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.7.73",
+   "range": "NEH.7.73",
+   "kind": "passage",
+   "hash": "e727b4ef",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.7.73#p1-e727b4ef",
+     "text": "Which contained part of September and part of October.",
+     "label": "i",
+     "anchor": "seventh month came"
+    }
+   ]
+  }
+ ]
+}

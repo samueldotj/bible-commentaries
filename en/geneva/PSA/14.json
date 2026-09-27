@@ -1,0 +1,89 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 14,
+ "units": [
+  {
+   "id": "geneva/PSA.14.1",
+   "range": "PSA.14.1",
+   "kind": "passage",
+   "hash": "43d24a4b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.1#p1-aea9c798",
+     "text": "He shows that the cause of all wickedness if forgetting God.",
+     "label": "a",
+     "anchor": "There is no God"
+    },
+    {
+     "id": "geneva/PSA.14.1#p2-77d230c9",
+     "text": "There is nothing but disorder and wickedness among them.",
+     "label": "b",
+     "anchor": "corrupt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.3",
+   "range": "PSA.14.3",
+   "kind": "passage",
+   "hash": "b226c7b0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.3#p1-b226c7b0",
+     "text": "David here makes comparisons between the faithful and the reprobate, but Paul speaks the same of all men naturally, Ro 3:10.",
+     "label": "c",
+     "anchor": "all gone aside",
+     "refs": [
+      {
+       "text": "Ro 3:10",
+       "ref": "ROM.3.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.5",
+   "range": "PSA.14.5",
+   "kind": "passage",
+   "hash": "cc40ea0b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.5#p1-cc40ea0b",
+     "text": "Where they think themselves most sure.",
+     "label": "d",
+     "anchor": "There were they in great fear"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.6",
+   "range": "PSA.14.6",
+   "kind": "passage",
+   "hash": "a6a16ea7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.6#p1-a6a16ea7",
+     "text": "You mock them who put their trust in God.",
+     "label": "e",
+     "anchor": "shamed the counsel of the poor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.7",
+   "range": "PSA.14.7",
+   "kind": "passage",
+   "hash": "8eb27c65",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.7#p1-8eb27c65",
+     "text": "He prays for the whole Church whom he is assured God will deliver: for no one else but he can do it.",
+     "label": "f",
+     "anchor": "Israel were come out of Zion"
+    }
+   ]
+  }
+ ]
+}

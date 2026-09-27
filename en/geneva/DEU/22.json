@@ -1,0 +1,167 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "geneva/DEU.22.1",
+   "range": "DEU.22.1",
+   "kind": "passage",
+   "hash": "6d53b119",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.1#p1-6d53b119",
+     "text": "As though your did not see it.",
+     "label": "a",
+     "anchor": "hide thyself from them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.2",
+   "range": "DEU.22.2",
+   "kind": "passage",
+   "hash": "25850999",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.2#p1-25850999",
+     "text": "Showing that brotherly affection must be shown, not only to those who dwell near to us, but also to those who are far off.",
+     "label": "b",
+     "anchor": "nigh unto thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.3",
+   "range": "DEU.22.3",
+   "kind": "passage",
+   "hash": "cf58bd79",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.3#p1-cf58bd79",
+     "text": "You are bound to do much more for your neighbour.",
+     "label": "c",
+     "anchor": "ass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.5",
+   "range": "DEU.22.5",
+   "kind": "passage",
+   "hash": "ce3414ef",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.5#p1-ce3414ef",
+     "text": "For that alters the order of nature, and shows that you despise God.",
+     "label": "d",
+     "anchor": "woman shall not wear that which"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.6",
+   "range": "DEU.22.6",
+   "kind": "passage",
+   "hash": "f761d480",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.6#p1-f761d480",
+     "text": "If God detests cruelty done to little birds, how much more to man, made according to his image?",
+     "label": "e",
+     "anchor": "thou shalt not take the dam"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.9",
+   "range": "DEU.22.9",
+   "kind": "passage",
+   "hash": "439106c7",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.9#p1-439106c7",
+     "text": "The tenor of this law is to walk in simplicity and not to be curious about new fads.",
+     "label": "f",
+     "anchor": "sow thy vineyard with divers seeds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.14",
+   "range": "DEU.22.14",
+   "kind": "passage",
+   "hash": "23ba37bc",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.14#p1-23ba37bc",
+     "text": "That is, be an occasion that she is slandered.",
+     "label": "g",
+     "anchor": "occasions of speech against her"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.17",
+   "range": "DEU.22.17",
+   "kind": "passage",
+   "hash": "f854a643",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.17#p1-f854a643",
+     "text": "Meaning, the sheet, in which the signs of her virginity were.",
+     "label": "h",
+     "anchor": "cloth before the elders of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.19",
+   "range": "DEU.22.19",
+   "kind": "passage",
+   "hash": "a8a847c5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.19#p1-a8a847c5",
+     "text": "For the fault of the child becomes the shame of the parents: therefore he was recompensed when she was faultless.",
+     "label": "i",
+     "anchor": "of the damsel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.26",
+   "range": "DEU.22.26",
+   "kind": "passage",
+   "hash": "52d464a0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.26#p1-52d464a0",
+     "text": "Meaning, that the innocent cannot be punished.",
+     "label": "k",
+     "anchor": "is this matter"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.22.30",
+   "range": "DEU.22.30",
+   "kind": "passage",
+   "hash": "93f583e5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.22.30#p1-93f583e5",
+     "text": "He shall not lie with his stepmother, meaning by this all other variations forbidden in Le 18:1-30.",
+     "label": "l",
+     "anchor": "take his father's wife",
+     "refs": [
+      {
+       "text": "Le 18:1-30",
+       "ref": "LEV.18.1-30"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "source": "geneva",
+ "book": "EZR",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/EZR.9.1",
+   "range": "EZR.9.1",
+   "kind": "passage",
+   "hash": "6e5ce843",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.1#p1-6e5ce843",
+     "text": "From the time they came home under Zerubbabel until the coming of Ezra, they had degenerated contrary to the law of God, and married where it was not lawful, De 7:3.",
+     "label": "a",
+     "anchor": "separated themselves from the people of",
+     "refs": [
+      {
+       "text": "De 7:3",
+       "ref": "DEU.7.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.2",
+   "range": "EZR.9.2",
+   "kind": "passage",
+   "hash": "27faa54f",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.2#p1-27faa54f",
+     "text": "That is, the governors are the chief beginners of it.",
+     "label": "b",
+     "anchor": "princes and rulers hath been chief"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.3",
+   "range": "EZR.9.3",
+   "kind": "passage",
+   "hash": "aeed4f01",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.3#p1-aeed4f01",
+     "text": "As one doubting whether God would continue his benefits toward us, or else destroy what he had begun.",
+     "label": "c",
+     "anchor": "astonied"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.6",
+   "range": "EZR.9.6",
+   "kind": "passage",
+   "hash": "0a8874d8",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.6#p1-d88b6e63",
+     "text": "That is, we are drowned in sin.",
+     "label": "d",
+     "anchor": "over our head"
+    },
+    {
+     "id": "geneva/EZR.9.6#p2-38b3f521",
+     "text": "They so exceed that they cannot grow greater.",
+     "label": "e",
+     "anchor": "heavens"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.8",
+   "range": "EZR.9.8",
+   "kind": "passage",
+   "hash": "01a18349",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.8#p1-01a18349",
+     "text": "In giving us a resting place it is a comparison taken from them that still remain in a place who strike nails to hang things on, Isa 22:23.",
+     "label": "f",
+     "anchor": "nail in his holy place",
+     "refs": [
+      {
+       "text": "Isa 22:23",
+       "ref": "ISA.22.23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.13",
+   "range": "EZR.9.13",
+   "kind": "passage",
+   "hash": "5ef2d5f7",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.13#p1-5ef2d5f7",
+     "text": "Has not utterly cast us down and destroyed us for our sins, De 28:13.",
+     "label": "g",
+     "anchor": "iniquities deserve",
+     "refs": [
+      {
+       "text": "De 28:13",
+       "ref": "DEU.28.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.9.15",
+   "range": "EZR.9.15",
+   "kind": "passage",
+   "hash": "d1214854",
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.9.15#p1-d1214854",
+     "text": "He shows that God is just in punishing his people, and yet merciful in preserving a residue in whom he shows favour.",
+     "label": "h",
+     "anchor": "remain yet escaped"
+    }
+   ]
+  }
+ ]
+}

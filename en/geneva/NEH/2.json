@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "geneva/NEH.2.1",
+   "range": "NEH.2.1",
+   "kind": "passage",
+   "hash": "c9ada749",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.1#p1-2ffdaacf",
+     "text": "Which was the first month of the year, and contains part of March and part of April.",
+     "label": "a",
+     "anchor": "Nisan"
+    },
+    {
+     "id": "geneva/NEH.2.1#p2-496a331c",
+     "text": "Who is also called Darius, Ezr 7:1 and was the son of Hystaspis.",
+     "label": "b",
+     "anchor": "Artaxerxes the king",
+     "refs": [
+      {
+       "text": "Ezr 7:1",
+       "ref": "EZR.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.4",
+   "range": "NEH.2.4",
+   "kind": "passage",
+   "hash": "9a572072",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.4#p1-9a572072",
+     "text": "I desired God in my heart to prosper my enterprise.",
+     "label": "e",
+     "anchor": "to the God of heaven"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.8",
+   "range": "NEH.2.8",
+   "kind": "passage",
+   "hash": "8dafe338",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.8#p1-8dafe338",
+     "text": "As God moved me to ask, and as he gave me success in it.",
+     "label": "d",
+     "anchor": "the good hand of my God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.10",
+   "range": "NEH.2.10",
+   "kind": "passage",
+   "hash": "598129b0",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.10#p1-598129b0",
+     "text": "These were great enemies to the Jews, and laboured always both by force and subtilty to overcome them and Tobiah, because his wife was a Jewess, knew of their affairs and so brought them great trouble.",
+     "label": "e",
+     "anchor": "Sanballat the Horonite"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.17",
+   "range": "NEH.2.17",
+   "kind": "passage",
+   "hash": "c9b4b6c1",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.17#p1-c9b4b6c1",
+     "text": "That is, contemned by other nations as though God had forsaken us.",
+     "label": "f",
+     "anchor": "a reproach"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.18",
+   "range": "NEH.2.18",
+   "kind": "passage",
+   "hash": "7c22a641",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.18#p1-7c22a641",
+     "text": "They were encouraged and gave themselves to do well, and to travel in this worthy enterprise.",
+     "label": "g",
+     "anchor": "strengthened their hands for this good"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.19",
+   "range": "NEH.2.19",
+   "kind": "passage",
+   "hash": "5db4af7b",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.19#p1-0af8fb12",
+     "text": "These were three chief governors under the king of Persia beyond the Euphrates.",
+     "label": "h",
+     "anchor": "Geshem the Arabian"
+    },
+    {
+     "id": "geneva/NEH.2.19#p2-b8fd8abf",
+     "text": "Thus the wicked when they will burden the children of God, always lay treason to their charge both because it makes them most odious to the world, and also stirs the hatred of princes against them.",
+     "label": "i",
+     "anchor": "rebel against the king"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.2.20",
+   "range": "NEH.2.20",
+   "kind": "passage",
+   "hash": "28a0d69f",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.2.20#p1-28a0d69f",
+     "text": "Neither are you of the number of the children of God (to whom he has appointed this city only) neither did any of your predecessors ever fear God.",
+     "label": "k",
+     "anchor": "memorial"
+    }
+   ]
+  }
+ ]
+}

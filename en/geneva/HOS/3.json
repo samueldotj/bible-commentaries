@@ -1,0 +1,101 @@
+{
+ "source": "geneva",
+ "book": "HOS",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/HOS.3.1",
+   "range": "HOS.3.1",
+   "kind": "passage",
+   "hash": "21dfb4de",
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.3.1#p1-7cc888f3",
+     "text": "In this the Prophet represents the person of God, who loved his Church before he called her, and did not withdraw his love when she gave herself to idols.",
+     "label": "a",
+     "anchor": "Go yet"
+    },
+    {
+     "id": "geneva/HOS.3.1#p2-ab79df75",
+     "text": "That is, gave themselves wholly to pleasure, and could not stop, as those that are given to drunkenness.",
+     "label": "b",
+     "anchor": "love flagons of wine"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.3.2",
+   "range": "HOS.3.2",
+   "kind": "passage",
+   "hash": "ccf69deb",
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.3.2#p1-ccf69deb",
+     "text": "Yet I loved her and paid a small portion for her, lest she would have perceived the greatness of my love, and abused me, and not been under duty: for fifteen pieces of silver was but half the price of a slave; Ex 21:32.",
+     "label": "c",
+     "anchor": "I bought her to me for",
+     "refs": [
+      {
+       "text": "Ex 21:32",
+       "ref": "EXO.21.32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.3.3",
+   "range": "HOS.3.3",
+   "kind": "passage",
+   "hash": "f673c0ec",
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.3.3#p1-f673c0ec",
+     "text": "I will try you a long time as in your widowhood, whether you will be mine or not.",
+     "label": "d",
+     "anchor": "me many days"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.3.4",
+   "range": "HOS.3.4",
+   "kind": "passage",
+   "hash": "ca956bf3",
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.3.4#p1-1573c216",
+     "text": "Meaning not only all the time of their captivity, but also until Christ.",
+     "label": "e",
+     "anchor": "abide many days without a king"
+    },
+    {
+     "id": "geneva/HOS.3.4#p2-2d5a8621",
+     "text": "That is, they would neither have administration nor religion, and their idols also in which they put their confidence, would be destroyed.",
+     "label": "f",
+     "anchor": "prince"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.3.5",
+   "range": "HOS.3.5",
+   "kind": "passage",
+   "hash": "b5f0cf01",
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.3.5#p1-b5f0cf01",
+     "text": "This is meant of Christ's kingdom, which was promised to David to be eternal; Ps 72:17.",
+     "label": "g",
+     "anchor": "David their king",
+     "refs": [
+      {
+       "text": "Ps 72:17",
+       "ref": "PSA.72.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

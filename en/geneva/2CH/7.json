@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/2CH.7.1",
+   "range": "2CH.7.1",
+   "kind": "passage",
+   "hash": "ea1f887b",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.1#p1-ea1f887b",
+     "text": "By this God declared that he was pleased with Solomon's prayer.",
+     "label": "a",
+     "anchor": "fire came down from heaven"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.8",
+   "range": "2CH.7.8",
+   "kind": "passage",
+   "hash": "cd57ae2e",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.8#p1-cd57ae2e",
+     "text": "The feast of the tabernacles which was kept in the seventh month.",
+     "label": "b",
+     "anchor": "the feast seven days"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.9",
+   "range": "2CH.7.9",
+   "kind": "passage",
+   "hash": "a4aadc9f",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.9#p1-a4aadc9f",
+     "text": "They assembled to hear the word of God, after they had remained seven days in the booths or tabernacles.",
+     "label": "c",
+     "anchor": "made a solemn assembly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.10",
+   "range": "2CH.7.10",
+   "kind": "passage",
+   "hash": "d2c9c538",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.10#p1-d2c9c538",
+     "text": "They had permission to depart on the 22nd day, 1Ki 8:66 but they did not leave till the next day.",
+     "label": "d",
+     "anchor": "three and twentieth day of the",
+     "refs": [
+      {
+       "text": "1Ki 8:66",
+       "ref": "1KI.8.66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.14",
+   "range": "2CH.7.14",
+   "kind": "passage",
+   "hash": "8703ae19",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.14#p1-8703ae19",
+     "text": "I will cause the pestilence to cease and destroy the beasts that hurt the fruit of the earth, and send rain in due season.",
+     "label": "e",
+     "anchor": "heal their land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.20",
+   "range": "2CH.7.20",
+   "kind": "passage",
+   "hash": "f8233190",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.20#p1-f8233190",
+     "text": "Declaring that God had more concern for their salvation than for the advancement of his own glory: and where men abuse those things which God has appointed to set forth his praise, he withdraws his graces.",
+     "label": "f",
+     "anchor": "sanctified for my name"
+    }
+   ]
+  }
+ ]
+}

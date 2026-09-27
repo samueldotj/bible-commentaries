@@ -1,0 +1,164 @@
+{
+ "source": "geneva",
+ "book": "MAT",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/MAT.1.1",
+   "range": "MAT.1.1",
+   "kind": "passage",
+   "hash": "3c92f4bc",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.1#p1-0627181b",
+     "text": "Jesus Christ came of Abraham of the tribe of Judah, and of the family of David as God promised.",
+     "label": "1"
+    },
+    {
+     "id": "geneva/MAT.1.1#p2-23e125e8",
+     "text": "Rehearsal: as the Hebrews used to speak; see Ge 5:1, the book of the generations.",
+     "label": "a",
+     "anchor": "book of the",
+     "refs": [
+      {
+       "text": "Ge 5:1",
+       "ref": "GEN.5.1"
+      }
+     ]
+    },
+    {
+     "id": "geneva/MAT.1.1#p3-9555ab5c",
+     "text": "Of the ancestors from whom Christ came.",
+     "label": "b",
+     "anchor": "generation of Jesus Christ"
+    },
+    {
+     "id": "geneva/MAT.1.1#p4-6f3f6b29",
+     "text": "Christ is also the son of Abraham.",
+     "label": "c",
+     "anchor": "son of Abraham"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.11",
+   "range": "MAT.1.11",
+   "kind": "passage",
+   "hash": "7353a881",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.11#p1-7353a881",
+     "text": "That is, the captivity fell in the days of Jakim and Jechonias: for Jechonias was born before the carrying away into captivity.",
+     "label": "d",
+     "anchor": "Jechonias and his brethren"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.17",
+   "range": "MAT.1.17",
+   "kind": "passage",
+   "hash": "0b0ea746",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.17#p1-0b0ea746",
+     "text": "All those who were considered to be in the lineage of David's family, as they begat one another orderly in turn.",
+     "label": "e",
+     "anchor": "the generations"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.18",
+   "range": "MAT.1.18",
+   "kind": "passage",
+   "hash": "1e13fbca",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.18#p1-1e13fbca",
+     "text": "Christ is the true Emmanuel, and therefore, Jesus (that is, Saviour) is conceived in the virgin by the Holy Spirit, as foretold by the prophets.",
+     "label": "2"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.20",
+   "range": "MAT.1.20",
+   "kind": "passage",
+   "hash": "9928f764",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.20#p1-8e08abd1",
+     "text": "Receive her from her parents and kinsfolks hands.",
+     "label": "f",
+     "anchor": "take to thee Mary"
+    },
+    {
+     "id": "geneva/MAT.1.20#p2-b7b3a58e",
+     "text": "Who was promised, and made sure to you to be your wife.",
+     "label": "g",
+     "anchor": "wife"
+    },
+    {
+     "id": "geneva/MAT.1.20#p3-bd5f07da",
+     "text": "Of the mother's substance by the Holy Spirit.",
+     "label": "h",
+     "anchor": "begotten in her is of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.21",
+   "range": "MAT.1.21",
+   "kind": "passage",
+   "hash": "1713216d",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.21#p1-d267f73e",
+     "text": "Christ is born of the same virgin who never knew a man: and is named Jesus by God himself through the angel.",
+     "label": "3"
+    },
+    {
+     "id": "geneva/MAT.1.21#p2-b4bfa041",
+     "text": "Save, and this shows us the meaning of the name Jesus.",
+     "label": "i",
+     "anchor": "his people from their sins"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.23",
+   "range": "MAT.1.23",
+   "kind": "passage",
+   "hash": "9779466b",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.23#p1-9779466b",
+     "text": "There is an article added in the Hebrew and Greek text, to point out the woman and set her forth plainly: as we would say, the virgin, or a certain virgin.",
+     "label": "k",
+     "anchor": "virgin shall be with child"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.1.25",
+   "range": "MAT.1.25",
+   "kind": "passage",
+   "hash": "23c764d6",
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.1.25#p1-23c764d6",
+     "text": "The word \"till\", in the Hebrew language, gives us to understand that a thing will not come to pass in time to come: as Michal had no children \"till\" her death day, 2Sa 6:23. And in the last chapter of this evangelist: Behold, I am with you \"till\" the end of the world.",
+     "label": "l",
+     "anchor": "till she had brought forth her",
+     "refs": [
+      {
+       "text": "2Sa 6:23",
+       "ref": "2SA.6.23"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

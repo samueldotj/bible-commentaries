@@ -1,0 +1,145 @@
+{
+ "source": "geneva",
+ "book": "RUT",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/RUT.4.1",
+   "range": "RUT.4.1",
+   "kind": "passage",
+   "hash": "46921e6e",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.1#p1-92c00eb5",
+     "text": "Which was the place of judgment.",
+     "label": "a",
+     "anchor": "gate"
+    },
+    {
+     "id": "geneva/RUT.4.1#p2-8b3c17b6",
+     "text": "The Hebrews here use two words which have no proper meaning, but serve to denote a certain person, as we would say, \"Ho, so-and-so\".",
+     "label": "b",
+     "anchor": "Ho"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.4",
+   "range": "RUT.4.4",
+   "kind": "passage",
+   "hash": "69bbafe6",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.4#p1-69bbafe6",
+     "text": "For you are the next of kin.",
+     "label": "c",
+     "anchor": "beside thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.5",
+   "range": "RUT.4.5",
+   "kind": "passage",
+   "hash": "b1c663b1",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.5#p1-b1c663b1",
+     "text": "That his inheritance might bear his name that is dead.",
+     "label": "d",
+     "anchor": "inheritance"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.7",
+   "range": "RUT.4.7",
+   "kind": "passage",
+   "hash": "9770906e",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.7#p1-9770906e",
+     "text": "That he had resigned his right, De 25:9.",
+     "label": "e",
+     "anchor": "testimony in Israel",
+     "refs": [
+      {
+       "text": "De 25:9",
+       "ref": "DEU.25.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.10",
+   "range": "RUT.4.10",
+   "kind": "passage",
+   "hash": "5da6e9bc",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.10#p1-5da6e9bc",
+     "text": "Or, of the city where he remained.",
+     "label": "f",
+     "anchor": "place"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.11",
+   "range": "RUT.4.11",
+   "kind": "passage",
+   "hash": "db6f710e",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.11#p1-db6f710e",
+     "text": "Ephratah and Bethlehem are both one.",
+     "label": "g",
+     "anchor": "Ephratah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.14",
+   "range": "RUT.4.14",
+   "kind": "passage",
+   "hash": "174eccb7",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.14#p1-174eccb7",
+     "text": "He shall leave continual posterity.",
+     "label": "h",
+     "anchor": "his name may be famous in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.15",
+   "range": "RUT.4.15",
+   "kind": "passage",
+   "hash": "028baae3",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.15#p1-028baae3",
+     "text": "Meaning, many sons.",
+     "label": "i",
+     "anchor": "seven sons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.18",
+   "range": "RUT.4.18",
+   "kind": "passage",
+   "hash": "6d971d2e",
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.18#p1-6d971d2e",
+     "text": "This genealogy is brought in to prove that David by succession came from the house of Judah.",
+     "label": "k",
+     "anchor": "Pharez"
+    }
+   ]
+  }
+ ]
+}

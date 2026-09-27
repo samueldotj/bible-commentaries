@@ -1,0 +1,143 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/1CH.11.1",
+   "range": "1CH.11.1",
+   "kind": "passage",
+   "hash": "5bb66b7d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.1#p1-5bb66b7d",
+     "text": "This was after the death of Ishbosheth Saul's son, when David had reigned over Judah seven years and six months in Hebron, 2Sa 5:5.",
+     "label": "a",
+     "anchor": "gathered themselves to David unto Hebron",
+     "refs": [
+      {
+       "text": "2Sa 5:5",
+       "ref": "2SA.5.5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.11",
+   "range": "1CH.11.11",
+   "kind": "passage",
+   "hash": "ddf8e598",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.11#p1-ddf8e598",
+     "text": "Meaning, the most excellent and best esteemed for his valiantry: some read, the chief of the princes.",
+     "label": "b",
+     "anchor": "chief of the captains"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.14",
+   "range": "1CH.11.14",
+   "kind": "passage",
+   "hash": "73630505",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.14#p1-73630505",
+     "text": "This act refers to Shammah, 2Sa 23:11, who it seems was the chiefest of these.",
+     "label": "c",
+     "anchor": "and delivered it",
+     "refs": [
+      {
+       "text": "2Sa 23:11",
+       "ref": "2SA.23.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.15",
+   "range": "1CH.11.15",
+   "kind": "passage",
+   "hash": "cfad5df9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.15#p1-cfad5df9",
+     "text": "That is, Eleazar and his two companions.",
+     "label": "d",
+     "anchor": "thirty captains went down to the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.19",
+   "range": "1CH.11.19",
+   "kind": "passage",
+   "hash": "327ed59d",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.19#p1-327ed59d",
+     "text": "That is, this water, for which they risked their lives.",
+     "label": "e",
+     "anchor": "blood of these men that have"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.25",
+   "range": "1CH.11.25",
+   "kind": "passage",
+   "hash": "3c2e8510",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.25#p1-3c2e8510",
+     "text": "Meaning, those three who brought the water to David.",
+     "label": "f",
+     "anchor": "first three"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.27",
+   "range": "1CH.11.27",
+   "kind": "passage",
+   "hash": "82e1c626",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.27#p1-82e1c626",
+     "text": "Called also Shammah, 2Sa 23:25.",
+     "label": "g",
+     "anchor": "Shammoth the Harorite",
+     "refs": [
+      {
+       "text": "2Sa 23:25",
+       "ref": "2SA.23.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.11.29",
+   "range": "1CH.11.29",
+   "kind": "passage",
+   "hash": "c6ed3baa",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.11.29#p1-c6ed3baa",
+     "text": "He is also called Mebunnai, 2Sa 23:27.",
+     "label": "h",
+     "anchor": "Sibbecai the Hushathite",
+     "refs": [
+      {
+       "text": "2Sa 23:27",
+       "ref": "2SA.23.27"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

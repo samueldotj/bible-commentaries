@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/DEU.19.3",
+   "range": "DEU.19.3",
+   "kind": "passage",
+   "hash": "8591159c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.3#p1-a5168bb4",
+     "text": "Make an open and ready way.",
+     "label": "a",
+     "anchor": "prepare thee a way"
+    },
+    {
+     "id": "geneva/DEU.19.3#p2-8e5530dc",
+     "text": "Who killed against his will, and bore no hatred in his heart.",
+     "label": "b",
+     "anchor": "slayer may flee thither"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.5",
+   "range": "DEU.19.5",
+   "kind": "passage",
+   "hash": "4c0a736b",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.5#p1-4c0a736b",
+     "text": "That murder not be committed on murder.",
+     "label": "c",
+     "anchor": "shall flee unto one of those"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.8",
+   "range": "DEU.19.8",
+   "kind": "passage",
+   "hash": "8a49e134",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.8#p1-8a49e134",
+     "text": "When you go over Jordan to possess the whole land of Canaan.",
+     "label": "d",
+     "anchor": "enlarge thy coast"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.10",
+   "range": "DEU.19.10",
+   "kind": "passage",
+   "hash": "0c2feb81",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.10#p1-0c2feb81",
+     "text": "Lest you be punished for innocent blood.",
+     "label": "e",
+     "anchor": "so blood be upon thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.12",
+   "range": "DEU.19.12",
+   "kind": "passage",
+   "hash": "d9035225",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.12#p1-d9035225",
+     "text": "The magistrates.",
+     "label": "f",
+     "anchor": "elders of his city shall send"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.13",
+   "range": "DEU.19.13",
+   "kind": "passage",
+   "hash": "1ee59606",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.13#p1-1ee59606",
+     "text": "Then whoever pardons murder, goes against the word of God.",
+     "label": "g",
+     "anchor": "eye shall not pity him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.17",
+   "range": "DEU.19.17",
+   "kind": "passage",
+   "hash": "d0ac0ee5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.17#p1-d0ac0ee5",
+     "text": "God's presence where his true ministers are assembled.",
+     "label": "h",
+     "anchor": "LORD"
+    }
+   ]
+  }
+ ]
+}

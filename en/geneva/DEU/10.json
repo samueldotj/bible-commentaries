@@ -1,0 +1,157 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/DEU.10.3",
+   "range": "DEU.10.3",
+   "kind": "passage",
+   "hash": "31cdfd54",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.3#p1-31cdfd54",
+     "text": "Which is a wood of long endurance.",
+     "label": "a",
+     "anchor": "shittim wood"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.4",
+   "range": "DEU.10.4",
+   "kind": "passage",
+   "hash": "aeec1083",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.4#p1-aeec1083",
+     "text": "When you were assembled to receive the Law.",
+     "label": "b",
+     "anchor": "assembly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.6",
+   "range": "DEU.10.6",
+   "kind": "passage",
+   "hash": "9c49dc71",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.6#p1-9c49dc71",
+     "text": "This mountain was also called Hor, Nu 20:28.",
+     "label": "c",
+     "anchor": "Mosera",
+     "refs": [
+      {
+       "text": "Nu 20:28",
+       "ref": "NUM.20.28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.8",
+   "range": "DEU.10.8",
+   "kind": "passage",
+   "hash": "f9180761",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.8#p1-f9180761",
+     "text": "That is, to offer sacrifice, and to declare the Law to the people.",
+     "label": "d",
+     "anchor": "minister unto him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.9",
+   "range": "DEU.10.9",
+   "kind": "passage",
+   "hash": "d00955b4",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.9#p1-d00955b4",
+     "text": "So God turned the curse of Jacob to a blessing Ge 49:7.",
+     "label": "e",
+     "anchor": "inheritance with his brethren",
+     "refs": [
+      {
+       "text": "Ge 49:7",
+       "ref": "GEN.49.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.12",
+   "range": "DEU.10.12",
+   "kind": "passage",
+   "hash": "a33a8cf4",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.12#p1-a33a8cf4",
+     "text": "For all our sins and transgressions God requires nothing but to turn to him and obey him.",
+     "label": "f",
+     "anchor": "require of thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.15",
+   "range": "DEU.10.15",
+   "kind": "passage",
+   "hash": "f8d0c07d",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.15#p1-f8d0c07d",
+     "text": "Although he was Lord of heaven and earth, he chose no one but you.",
+     "label": "g",
+     "anchor": "Only the LORD had a delight"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.16",
+   "range": "DEU.10.16",
+   "kind": "passage",
+   "hash": "86947ef9",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.16#p1-86947ef9",
+     "text": "Cut off all your evil affections, Jer 4:4.",
+     "label": "h",
+     "anchor": "Circumcise therefore the foreskin of your",
+     "refs": [
+      {
+       "text": "Jer 4:4",
+       "ref": "JER.4.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.20",
+   "range": "DEU.10.20",
+   "kind": "passage",
+   "hash": "9bbe25a5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.20#p1-9bbe25a5",
+     "text": "Read De 6:13.",
+     "label": "i",
+     "anchor": "swear by his name",
+     "refs": [
+      {
+       "text": "De 6:13",
+       "ref": "DEU.6.13"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

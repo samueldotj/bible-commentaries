@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 128,
+ "units": [
+  {
+   "id": "geneva/PSA.128.1",
+   "range": "PSA.128.1",
+   "kind": "passage",
+   "hash": "322990a5",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.128.1#p1-322990a5",
+     "text": "God approves not our life, unless it is reformed according to his word.",
+     "label": "a",
+     "anchor": "ways"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.128.2",
+   "range": "PSA.128.2",
+   "kind": "passage",
+   "hash": "fa0c0e6d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.128.2#p1-fa0c0e6d",
+     "text": "The world esteems them happy who live in wealth and idleness but the Holy Spirit approves them best who live of the mean profit of their labours.",
+     "label": "b",
+     "anchor": "hands"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.128.3",
+   "range": "PSA.128.3",
+   "kind": "passage",
+   "hash": "471bb138",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.128.3#p1-471bb138",
+     "text": "Because God's favour appears in no outward thing more than in the increase of children, he promises to enrich the faithful with this gift.",
+     "label": "c",
+     "anchor": "children like olive plants round about"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.128.5",
+   "range": "PSA.128.5",
+   "kind": "passage",
+   "hash": "7a9f1beb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.128.5#p1-950a2568",
+     "text": "Because of the spiritual blessing which God has made to his Church, these temporal things will be granted.",
+     "label": "d",
+     "anchor": "bless thee out of Zion"
+    },
+    {
+     "id": "geneva/PSA.128.5#p2-a665974d",
+     "text": "For unless God blessed his Church publicly, this private blessing was nothing.",
+     "label": "e",
+     "anchor": "Jerusalem all the days of thy"
+    }
+   ]
+  }
+ ]
+}

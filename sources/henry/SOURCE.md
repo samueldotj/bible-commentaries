@@ -32,3 +32,25 @@ Because this module comes from CrossWire, we do not need e-Sword's copy of Henry
 - Henry's outline numbering (I., 1., (1.)) is part of the text and must be kept.
 - References are written in Henry's style ("Mal. ii. 7") and linked by `osisRef`. The Tamil should
   cite them from the `osisRef`, not from the Roman numerals.
+
+## Import (`tools/import_henry.py`)
+
+- 5,484 units, 60,189 paragraphs, 6,465,790 words:
+  - 61 book introductions (with the volume prefaces);
+  - 1,170 chapter introductions;
+  - 4,253 sections.
+- The survey counted 5.23M words, but only the text inside paragraph markers. The import keeps all of
+  Henry's text.
+- **Where SWORD puts the text.** Text is often not under its own verse key:
+  - a "preverse" block may hold the volume preface, the book's introduction, the first chapter's
+    introduction, or a whole earlier section (Joshua 18:1 sits before 18:2);
+  - an entry often begins with the end of the previous section's comment (the comment on Genesis
+    19:15–23 is at the start of the 19:24 entry).
+
+  So the importer reads each book as one stream. Each section's range comes from the verse numbers
+  in its KJV passage, which is then dropped.
+- Every verse of the Bible is in a section. Two verses are in two sections, as Henry divided them:
+  Jeremiah 46:12 and Jude 15.
+- The 32 footnotes are kept as paragraphs.
+- Henry's outline numbering (I., 1., (1.)) stays in the text.
+- 73,000 references keep Henry's wording ("Mal. ii. 7") with their verse id.

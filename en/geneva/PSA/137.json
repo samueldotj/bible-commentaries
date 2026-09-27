@@ -1,0 +1,131 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 137,
+ "units": [
+  {
+   "id": "geneva/PSA.137.1",
+   "range": "PSA.137.1",
+   "kind": "passage",
+   "hash": "03f239bb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.1#p1-03f239bb",
+     "text": "That is, we abode a long time, and even though the country was pleasant, yet it could not stay our tears, nor turn us from the true service of our God.",
+     "label": "a",
+     "anchor": "sat down"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.2",
+   "range": "PSA.137.2",
+   "kind": "passage",
+   "hash": "ad124970",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.2#p1-ad124970",
+     "text": "That is, of that country.",
+     "label": "b",
+     "anchor": "thereof"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.3",
+   "range": "PSA.137.3",
+   "kind": "passage",
+   "hash": "7ee6899a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.3#p1-7ee6899a",
+     "text": "The Babylonians speak thus in mocking us, as though by our silence we should signify that we hoped no more in God.",
+     "label": "c",
+     "anchor": "required of us a song"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.5",
+   "range": "PSA.137.5",
+   "kind": "passage",
+   "hash": "cdad18c3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.5#p1-cdad18c3",
+     "text": "Even the faithful are touched by their particular griefs, yet the common sorrow of the Church is most grievous to them, and is such as they cannot but remember and lament.",
+     "label": "d",
+     "anchor": "If I forget thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.6",
+   "range": "PSA.137.6",
+   "kind": "passage",
+   "hash": "4d6a3949",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.6#p1-4d6a3949",
+     "text": "The decay of God's religion in their country was so grievous that no joy could make them glad, unless it was restored.",
+     "label": "e",
+     "anchor": "chief joy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.7",
+   "range": "PSA.137.7",
+   "kind": "passage",
+   "hash": "046d7d01",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.7#p1-233eb347",
+     "text": "As was prophesied in Eze 25:13,Jer 49:7,Ob 1:10, showing that the Edomites who came from Esau, conspired with the Babylonians against their brethren and kinsfolk.",
+     "label": "f",
+     "anchor": "Edom in the",
+     "refs": [
+      {
+       "text": "Eze 25:13,Jer 49:7,Ob 1:10",
+       "ref": "EZK.25.13"
+      },
+      {
+       "text": "Eze 25:13,Jer 49:7,Ob 1:10",
+       "ref": "JER.49.7"
+      },
+      {
+       "text": "Eze 25:13,Jer 49:7,Ob 1:10",
+       "ref": "OBA.1.10"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.137.7#p2-144834e6",
+     "text": "When you visited Jerusalem.",
+     "label": "g",
+     "anchor": "day of Jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.137.9",
+   "range": "PSA.137.9",
+   "kind": "passage",
+   "hash": "78d68e2d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.137.9#p1-78d68e2d",
+     "text": "He alludes to Isaiah's prophecy in Isa 13:16 promising good success to Cyrus and Darius, whom ambition moved to fight against Babylon, but God used them as his rods to punish his enemies.",
+     "label": "h",
+     "anchor": "Happy shall he be",
+     "refs": [
+      {
+       "text": "Isa 13:16",
+       "ref": "ISA.13.16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

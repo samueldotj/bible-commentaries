@@ -1,0 +1,21 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/1CH.10.10",
+   "range": "1CH.10.10",
+   "kind": "passage",
+   "hash": "28005f83",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.10.10#p1-28005f83",
+     "text": "Which was the idol of the Philistines, and from the belly downward had the form of a fish, and upward of a man.",
+     "label": "a",
+     "anchor": "Dagon"
+    }
+   ]
+  }
+ ]
+}

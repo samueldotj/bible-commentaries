@@ -1,0 +1,147 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "geneva/JER.28.1",
+   "range": "JER.28.1",
+   "kind": "passage",
+   "hash": "0f27e19d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.1#p1-588c68db",
+     "text": "When Jeremiah began to bear these bonds and yokes.",
+     "label": "a",
+     "anchor": "reign of Zedekiah king of Judah"
+    },
+    {
+     "id": "geneva/JER.28.1#p2-d6dfa435",
+     "text": "After the land had rested, as in Le 25:2.",
+     "label": "b",
+     "anchor": "fourth year",
+     "refs": [
+      {
+       "text": "Le 25:2",
+       "ref": "LEV.25.2"
+      }
+     ]
+    },
+    {
+     "id": "geneva/JER.28.1#p3-e8104606",
+     "text": "This was a city in Benjamin belonging to the sons of Aaron, Jos 21:17.",
+     "label": "c",
+     "anchor": "Gibeon",
+     "refs": [
+      {
+       "text": "Jos 21:17",
+       "ref": "JOS.21.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.5",
+   "range": "JER.28.5",
+   "kind": "passage",
+   "hash": "6a82822a",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.5#p1-6a82822a",
+     "text": "He was so esteemed though he was a false prophet.",
+     "label": "d",
+     "anchor": "prophet Hananiah in the presence of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.6",
+   "range": "JER.28.6",
+   "kind": "passage",
+   "hash": "9216822e",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.6#p1-9216822e",
+     "text": "That is, I would wish the same for God's honour and wealth of my people but he has appointed the contrary.",
+     "label": "e",
+     "anchor": "LORD do so"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.8",
+   "range": "JER.28.8",
+   "kind": "passage",
+   "hash": "7429eae3",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.8#p1-7429eae3",
+     "text": "Meaning, that the prophets that denounced war or peace were tried either true or false by the success of their prophecies, even though God makes to come to pass sometimes that which the false prophet speaks to try the faith of his, De 13:3.",
+     "label": "f",
+     "anchor": "prophesied both against many countries",
+     "refs": [
+      {
+       "text": "De 13:3",
+       "ref": "DEU.13.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.10",
+   "range": "JER.28.10",
+   "kind": "passage",
+   "hash": "4dc03da1",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.10#p1-4dc03da1",
+     "text": "This declares the impudency of the wicked hirelings who have no zeal to the truth but are led with ambition to get the favour of men and therefore cannot abide any that might discredit them but burst forth into rages and contrary to their own conscience, pass not what lies they report or how wickedly they do so that they may maintain their estimation.",
+     "label": "g",
+     "anchor": "broke it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.14",
+   "range": "JER.28.14",
+   "kind": "passage",
+   "hash": "d08b0c9e",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.14#p1-e7e6ce6b",
+     "text": "That is, a hard and cruel servitude.",
+     "label": "h",
+     "anchor": "yoke of iron upon the neck"
+    },
+    {
+     "id": "geneva/JER.28.14#p2-8c0b36ec",
+     "text": "Signifying that all would be his as in Da 2:38.",
+     "label": "i",
+     "anchor": "beasts of the field also",
+     "refs": [
+      {
+       "text": "Da 2:38",
+       "ref": "DAN.2.38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.28.17",
+   "range": "JER.28.17",
+   "kind": "passage",
+   "hash": "199cfb79",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.28.17#p1-199cfb79",
+     "text": "Seeing this thing was evident in the eyes of the people and yet they returned not to the Lord, it is manifest that miracles cannot move us, neither the word itself, unless God touch the heart.",
+     "label": "k",
+     "anchor": "died the same year in the"
+    }
+   ]
+  }
+ ]
+}

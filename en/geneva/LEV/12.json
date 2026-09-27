@@ -1,0 +1,75 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "geneva/LEV.12.2",
+   "range": "LEV.12.2",
+   "kind": "passage",
+   "hash": "93c68443",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.2#p1-93c68443",
+     "text": "So that her husband for that time could not have relations with her.",
+     "label": "a",
+     "anchor": "seven days"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.4",
+   "range": "LEV.12.4",
+   "kind": "passage",
+   "hash": "cbcfb9c9",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.4#p1-8d18e6da",
+     "text": "Besides the first seven days.",
+     "label": "b",
+     "anchor": "and thirty days"
+    },
+    {
+     "id": "geneva/LEV.12.4#p2-9c511efd",
+     "text": "As sacrifice, or such like.",
+     "label": "c",
+     "anchor": "hallowed thing"
+    },
+    {
+     "id": "geneva/LEV.12.4#p3-7488ec53",
+     "text": "That is, into the court gate till after forty days.",
+     "label": "d",
+     "anchor": "sanctuary"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.5",
+   "range": "LEV.12.5",
+   "kind": "passage",
+   "hash": "78a36fa2",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.5#p1-78a36fa2",
+     "text": "Twice as long as if she gave birth to a boy.",
+     "label": "e",
+     "anchor": "weeks"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.6",
+   "range": "LEV.12.6",
+   "kind": "passage",
+   "hash": "4c16d851",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.6#p1-4c16d851",
+     "text": "Where the burnt offerings were wont to be offered.",
+     "label": "f",
+     "anchor": "tabernacle of the congregation"
+    }
+   ]
+  }
+ ]
+}

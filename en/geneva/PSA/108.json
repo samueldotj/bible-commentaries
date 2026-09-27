@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 108,
+ "units": [
+  {
+   "id": "geneva/PSA.108.1",
+   "range": "PSA.108.1",
+   "kind": "passage",
+   "hash": "26828b1d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.1#p1-26828b1d",
+     "text": "This earnest affection declares that he is free from hypocrisy and that sluggishness does not stop him.",
+     "label": "a",
+     "anchor": "fixed"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.108.3",
+   "range": "PSA.108.3",
+   "kind": "passage",
+   "hash": "c7615dc1",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.3#p1-c7615dc1",
+     "text": "He prophecies of the calling of the Gentiles: for unless they were called, they could not hear the goodness of God.",
+     "label": "b",
+     "anchor": "people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.108.5",
+   "range": "PSA.108.5",
+   "kind": "passage",
+   "hash": "ce00cd46",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.5#p1-ce00cd46",
+     "text": "Let all the world see your judgments in that you are God over all, and so confess that you are glorious.",
+     "label": "c",
+     "anchor": "Be thou exalted"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.108.6",
+   "range": "PSA.108.6",
+   "kind": "passage",
+   "hash": "57f7e22d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.6#p1-57f7e22d",
+     "text": "When God by his benefits makes us partakers of his mercies, he admonishes us to be earnest in prayer, to desire him to continue and finish his graces.",
+     "label": "d",
+     "anchor": "save with thy right hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.108.7",
+   "range": "PSA.108.7",
+   "kind": "passage",
+   "hash": "958b433e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.7#p1-958b433e",
+     "text": "As he has spoken to Samuel concerning me, so will he show himself constant and holy in his promise, so that these nations following will be subject to me.",
+     "label": "e",
+     "anchor": "holiness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.108.11",
+   "range": "PSA.108.11",
+   "kind": "passage",
+   "hash": "5586cf7b",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.108.11#p1-5586cf7b",
+     "text": "From the sixth verse of this psalm to the last, read also Ps 60:5.",
+     "label": "f",
+     "anchor": "Wilt not thou",
+     "refs": [
+      {
+       "text": "Ps 60:5",
+       "ref": "PSA.60.5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

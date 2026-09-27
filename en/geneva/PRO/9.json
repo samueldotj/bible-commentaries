@@ -1,0 +1,163 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "geneva/PRO.9.1",
+   "range": "PRO.9.1",
+   "kind": "passage",
+   "hash": "cfb93821",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.1#p1-b06bbb62",
+     "text": "Christ has prepared him a Church.",
+     "label": "a",
+     "anchor": "house"
+    },
+    {
+     "id": "geneva/PRO.9.1#p2-65660d0e",
+     "text": "That is, many chief supports and principal parts of his Church, as were the patriarchs, prophets, apostles, pastors and teachers.",
+     "label": "b",
+     "anchor": "seven pillars"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.2",
+   "range": "PRO.9.2",
+   "kind": "passage",
+   "hash": "a758aec6",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.2#p1-a758aec6",
+     "text": "He compares wisdom with great princes who keep open house for all who come.",
+     "label": "c",
+     "anchor": "furnished her table"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.3",
+   "range": "PRO.9.3",
+   "kind": "passage",
+   "hash": "51cfddf8",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.3#p1-51cfddf8",
+     "text": "Meaning, true preachers, who are not infected with man's wisdom.",
+     "label": "d",
+     "anchor": "maidens"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.4",
+   "range": "PRO.9.4",
+   "kind": "passage",
+   "hash": "e103e96a",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.4#p1-e103e96a",
+     "text": "He who knows his own ignorance, and is void of malice.",
+     "label": "e",
+     "anchor": "simple"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.5",
+   "range": "PRO.9.5",
+   "kind": "passage",
+   "hash": "b15ce7ba",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.5#p1-b15ce7ba",
+     "text": "By meat and drink is meant the word of God, and the ministration of the sacraments, by which God nourishes his servants in his house which is the Church.",
+     "label": "f",
+     "anchor": "bread"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.7",
+   "range": "PRO.9.7",
+   "kind": "passage",
+   "hash": "93c725d4",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.7#p1-93c725d4",
+     "text": "For the wicked will contemn him and labour to defame him.",
+     "label": "g",
+     "anchor": "blot"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.8",
+   "range": "PRO.9.8",
+   "kind": "passage",
+   "hash": "5c9c579c",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.8#p1-5c9c579c",
+     "text": "Meaning them who are incorrigible, which Christ calls dogs and swine: or he speaks this in comparison, not that the wicked should not be rebuked, but he shows their malice, and the small hope of the profit.",
+     "label": "h",
+     "anchor": "scorner"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.10",
+   "range": "PRO.9.10",
+   "kind": "passage",
+   "hash": "79956bc6",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.10#p1-79956bc6",
+     "text": "He shows what true understanding is, to know the will of God in his word which is meant by holy things.",
+     "label": "i",
+     "anchor": "understanding"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.12",
+   "range": "PRO.9.12",
+   "kind": "passage",
+   "hash": "1f21c0bc",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.12#p1-1f21c0bc",
+     "text": "You will have the chief profit and convenience of it.",
+     "label": "k",
+     "anchor": "thyself"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.9.13",
+   "range": "PRO.9.13",
+   "kind": "passage",
+   "hash": "58ac7edc",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.9.13#p1-58ac7edc",
+     "text": "By the foolish woman, some understand the wicked preachers, who counterfeit the word of God: as appears in Pr 9:16 which were the words of the true preachers as in Pr 9:4 but their doctrine is as stolen waters: meaning that they are men's traditions, which are more pleasant to the flesh than the word of God, and therefore they themselves boast of it.",
+     "label": "l",
+     "anchor": "foolish woman is clamorous",
+     "refs": [
+      {
+       "text": "Pr 9:16",
+       "ref": "PRO.9.16"
+      },
+      {
+       "text": "Pr 9:4",
+       "ref": "PRO.9.4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

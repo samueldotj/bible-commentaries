@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/LEV.5.1",
+   "range": "LEV.5.1",
+   "kind": "passage",
+   "hash": "e1143981",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.1#p1-e1143981",
+     "text": "By which it is commanded to bear witness to the truth, and disclose the iniquity of the ungodly.",
+     "label": "a",
+     "anchor": "known of it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.4",
+   "range": "LEV.5.4",
+   "kind": "passage",
+   "hash": "6d643431",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.4#p1-6d643431",
+     "text": "Or, vow rashly without just examination of the circumstances, and not knowing what shall be the issue of the same.",
+     "label": "b",
+     "anchor": "swear"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.5",
+   "range": "LEV.5.5",
+   "kind": "passage",
+   "hash": "da9b8bf2",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.5#p1-da9b8bf2",
+     "text": "Which have been mentioned before in this chapter.",
+     "label": "c",
+     "anchor": "things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.10",
+   "range": "LEV.5.10",
+   "kind": "passage",
+   "hash": "57df6a30",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.10#p1-57df6a30",
+     "text": "Or, declare him to be purged of that sin.",
+     "label": "d",
+     "anchor": "make an atonement for him for"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.11",
+   "range": "LEV.5.11",
+   "kind": "passage",
+   "hash": "f651a1ca",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.11#p1-2df7c9ab",
+     "text": "Which was about a half gallon.",
+     "label": "e",
+     "anchor": "ephah of fine flour for a"
+    },
+    {
+     "id": "geneva/LEV.5.11#p2-2f806131",
+     "text": "As in the meat offering, Le 2:1.",
+     "label": "f",
+     "anchor": "oil upon it",
+     "refs": [
+      {
+       "text": "Le 2:1",
+       "ref": "LEV.2.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.15",
+   "range": "LEV.5.15",
+   "kind": "passage",
+   "hash": "c1112792",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.15#p1-be110f90",
+     "text": "Concerning the first fruits or tithes, due to the priests and Levites.",
+     "label": "g",
+     "anchor": "in the holy things of the"
+    },
+    {
+     "id": "geneva/LEV.5.15#p2-2cc5e1aa",
+     "text": "By the estimation of the priest, Le 27:12.",
+     "label": "h",
+     "anchor": "with thy estimation by shekels of",
+     "refs": [
+      {
+       "text": "Le 27:12",
+       "ref": "LEV.27.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.17",
+   "range": "LEV.5.17",
+   "kind": "passage",
+   "hash": "0cbf66b5",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.17#p1-0cbf66b5",
+     "text": "That is, remembers after that he has sinned when his conscience accuses him.",
+     "label": "i",
+     "anchor": "bear his iniquity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.5.18",
+   "range": "LEV.5.18",
+   "kind": "passage",
+   "hash": "ff8f33ec",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.5.18#p1-ff8f33ec",
+     "text": "Else if his sin against God come of malice, he must die; Nu 15:30.",
+     "label": "k",
+     "anchor": "ignorance wherein he erred and wist",
+     "refs": [
+      {
+       "text": "Nu 15:30",
+       "ref": "NUM.15.30"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

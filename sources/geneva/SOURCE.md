@@ -30,3 +30,23 @@ SHA-256 `188d4806f837444e16dc7fb53341bb654d89f67e740a32e31c864ddbf1175e7f`
 
 - Who modernised the spelling, and whether this can be confirmed as the 1599 edition.
 - Where to get notes for Judges, Jonah and Philemon.
+
+## Import (`tools/import_geneva.py`)
+
+- 14,583 units and 18,395 notes, 394,322 words:
+  - 14,548 verses with notes;
+  - 35 book Arguments.
+- **Misplaced entries.** 148 entries hold the previous chapter's last verse in the slot of the next
+  chapter's first verse. For example, the `GEN.15.1` slot holds Genesis 14:24 and its notes. They are
+  re-keyed by comparing their verse text with the KJV in the site repository: 138 exactly and 10 by
+  close wording. In every case the notes were already present at the right verse. **So any notes the
+  edition has on those 148 first verses (Genesis 15:1, for example) are missing from the module.** To
+  check against a printed or scanned 1599 edition.
+- 58 entries have KJV text that differs from the site's KJV (modernised: "sixty" for "threescore"). They keep
+  their key.
+- Each note is split on its label, `(a)` or `{a}` in a few entries. Its `anchor` is taken from where the
+  marker stands in the verse. 93 labels have no marker in the verse, so those notes have no anchor.
+- Left as they are:
+  - 8 notes without a label: cross-references like `See Geneva "Isa 13:1"`, two source typos
+    (`(q You that...`), and Junius's chronology at Revelation 1:1;
+  - one note of 3,157 characters.

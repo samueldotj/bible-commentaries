@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/2CH.5.2",
+   "range": "2CH.5.2",
+   "kind": "passage",
+   "hash": "e438611c",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.5.2#p1-e438611c",
+     "text": "Read 2Sa 6:12.",
+     "label": "a",
+     "anchor": "city of David",
+     "refs": [
+      {
+       "text": "2Sa 6:12",
+       "ref": "2SA.6.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.5.3",
+   "range": "2CH.5.3",
+   "kind": "passage",
+   "hash": "8be5e035",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.5.3#p1-540fe28f",
+     "text": "When the things were dedicated and brought into the temple.",
+     "label": "b",
+     "anchor": "feast which was in the seventh"
+    },
+    {
+     "id": "geneva/2CH.5.3#p2-2a41dae2",
+     "text": "Called in Hebrew Ethanim, containing part of September and part of October, 1Ki 8:2, which moves the Jews called the first month, because they say that the world was created in that month, and after they came from Egypt, they began at March: but because this opinion is uncertain, we always make March the first as the best writers do.",
+     "label": "c",
+     "anchor": "month",
+     "refs": [
+      {
+       "text": "1Ki 8:2",
+       "ref": "1KI.8.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.5.10",
+   "range": "2CH.5.10",
+   "kind": "passage",
+   "hash": "5dfa1962",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.5.10#p1-5dfa1962",
+     "text": "For Aaron's rod and manna were taken from there before it was brought to this place.",
+     "label": "d",
+     "anchor": "the two tables which Moses put"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.5.11",
+   "range": "2CH.5.11",
+   "kind": "passage",
+   "hash": "0d5ca77f",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.5.11#p1-0d5ca77f",
+     "text": "Were prepared to serve the Lord.",
+     "label": "e",
+     "anchor": "sanctified"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.5.13",
+   "range": "2CH.5.13",
+   "kind": "passage",
+   "hash": "55ac5a54",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.5.13#p1-56e535b8",
+     "text": "They all played the same tune.",
+     "label": "f",
+     "anchor": "as one"
+    },
+    {
+     "id": "geneva/2CH.5.13#p2-49e6bd2b",
+     "text": "This was the effect of their songs, Ps 118:1,136:1.",
+     "label": "g",
+     "anchor": "For he is good",
+     "refs": [
+      {
+       "text": "Ps 118:1,136:1",
+       "ref": "PSA.118.1"
+      },
+      {
+       "text": "Ps 118:1,136:1",
+       "ref": "PSA.136.1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

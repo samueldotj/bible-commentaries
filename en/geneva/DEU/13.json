@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/DEU.13.1",
+   "range": "DEU.13.1",
+   "kind": "passage",
+   "hash": "a6d419ef",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.1#p1-a6d419ef",
+     "text": "Who says that he has things revealed to him in dreams.",
+     "label": "a",
+     "anchor": "dreams"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.2",
+   "range": "DEU.13.2",
+   "kind": "passage",
+   "hash": "bcff5a02",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.2#p1-bcff5a02",
+     "text": "He shows that to which the false prophets tend.",
+     "label": "b",
+     "anchor": "Let us go after other gods"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.3",
+   "range": "DEU.13.3",
+   "kind": "passage",
+   "hash": "ce670ad2",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.3#p1-ce670ad2",
+     "text": "God ordains all these things that his may be known.",
+     "label": "c",
+     "anchor": "proveth you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.5",
+   "range": "DEU.13.5",
+   "kind": "passage",
+   "hash": "7c18e0fa",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.5#p1-7c18e0fa",
+     "text": "Being convicted by testimonies, and condemned by the judge.",
+     "label": "d",
+     "anchor": "put to death"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.6",
+   "range": "DEU.13.6",
+   "kind": "passage",
+   "hash": "efa447ab",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.6#p1-8e2b8e45",
+     "text": "All natural affection must give place to God's honour.",
+     "label": "e",
+     "anchor": "thy brother"
+    },
+    {
+     "id": "geneva/DEU.13.6#p2-7dabd807",
+     "text": "Whom you love as your life.",
+     "label": "f",
+     "anchor": "soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.9",
+   "range": "DEU.13.9",
+   "kind": "passage",
+   "hash": "da7bdc62",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.9#p1-da7bdc62",
+     "text": "As the witness is charged.",
+     "label": "g",
+     "anchor": "thine hand shall be first upon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.14",
+   "range": "DEU.13.14",
+   "kind": "passage",
+   "hash": "faac0328",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.14#p1-faac0328",
+     "text": "Which are appointed to see faults punished.",
+     "label": "h",
+     "anchor": "thou enquire"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.16",
+   "range": "DEU.13.16",
+   "kind": "passage",
+   "hash": "a31dbb4f",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.16#p1-a31dbb4f",
+     "text": "Signifying that no idolatry is so detestable, nor more grievously to be punished, than of those who once professed God.",
+     "label": "i",
+     "anchor": "thou shalt gather all the spoil"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.17",
+   "range": "DEU.13.17",
+   "kind": "passage",
+   "hash": "f8314cf6",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.17#p1-f8314cf6",
+     "text": "Of the spoil of that idolatrous and cursed city, read De 7:26, Jos 7:11.",
+     "label": "k",
+     "anchor": "cursed thing to thine hand",
+     "refs": [
+      {
+       "text": "De 7:26, Jos 7:11",
+       "ref": "DEU.7.26"
+      },
+      {
+       "text": "De 7:26, Jos 7:11",
+       "ref": "JOS.7.11"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

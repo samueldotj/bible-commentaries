@@ -1,0 +1,94 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 120,
+ "units": [
+  {
+   "id": "geneva/PSA.120.1",
+   "range": "PSA.120.1",
+   "kind": "passage",
+   "hash": "a1b1e9e8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.1#p1-b0c1ca29",
+     "text": "That is, of lifting up the tune and rising in singing.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.120.1#p2-fd8f5631",
+     "text": "Even though the children of God should rejoice when they suffer for righteousness sake, yet it is a great grief to the flesh to hear evil for well doing.",
+     "label": "b",
+     "anchor": "distress I cried unto the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.3",
+   "range": "PSA.120.3",
+   "kind": "passage",
+   "hash": "fc353e65",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.3#p1-fc353e65",
+     "text": "He assured himself that God would turn their craft to their own destruction.",
+     "label": "c",
+     "anchor": "false tongue"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.4",
+   "range": "PSA.120.4",
+   "kind": "passage",
+   "hash": "e7fc9754",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.4#p1-e7fc9754",
+     "text": "He shows that there is nothing so sharp to pierce, nor so hot to set on fire, as a slanderous tongue.",
+     "label": "d",
+     "anchor": "Sharp arrows of the mighty"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.5",
+   "range": "PSA.120.5",
+   "kind": "passage",
+   "hash": "95f44c33",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.5#p1-6f9f2c9f",
+     "text": "These were people of Arabia, who came from Japheth, Ge 10:2.",
+     "label": "e",
+     "anchor": "Mesech",
+     "refs": [
+      {
+       "text": "Ge 10:2",
+       "ref": "GEN.10.2"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.120.5#p2-de6e70db",
+     "text": "That is, of the Ishmaelites.",
+     "label": "f",
+     "anchor": "Kedar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.7",
+   "range": "PSA.120.7",
+   "kind": "passage",
+   "hash": "31cb0a0f",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.7#p1-31cb0a0f",
+     "text": "He declares what he means by Meshech and Kedar, that is, the Israelites who had degenerated from their godly fathers, and hated and contended against the faithful.",
+     "label": "g",
+     "anchor": "peace"
+    }
+   ]
+  }
+ ]
+}

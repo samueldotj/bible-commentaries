@@ -1,0 +1,134 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 32,
+ "units": [
+  {
+   "id": "geneva/PSA.32.1",
+   "range": "PSA.32.1",
+   "kind": "passage",
+   "hash": "c16d865a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.1#p1-c761166a",
+     "text": "Concerning the free remission of sins, which is the chief point of our faith.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.32.1#p2-4b892842",
+     "text": "To be justified by faith, is to have our sins freely remitted, and to be declared just, Ro 4:6.",
+     "label": "b",
+     "anchor": "forgiven",
+     "refs": [
+      {
+       "text": "Ro 4:6",
+       "ref": "ROM.4.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.3",
+   "range": "PSA.32.3",
+   "kind": "passage",
+   "hash": "ffcaf579",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.3#p1-d52481bc",
+     "text": "Between hope and despair.",
+     "label": "c",
+     "anchor": "silence"
+    },
+    {
+     "id": "geneva/PSA.32.3#p2-07fa6714",
+     "text": "Was not eased by silence nor crying, signifying that before the sinner is reconciled to God, he feels a perpetual torment.",
+     "label": "d",
+     "anchor": "roaring all the day long"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.5",
+   "range": "PSA.32.5",
+   "kind": "passage",
+   "hash": "50a204a2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.5#p1-50a204a2",
+     "text": "He shows that as God's mercy is the only cause of forgiveness of sins, so the means of it are repentance and confession which proceed from faith.",
+     "label": "e",
+     "anchor": "acknowledged my sin unto thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.6",
+   "range": "PSA.32.6",
+   "kind": "passage",
+   "hash": "bbb9b997",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.6#p1-3d14751b",
+     "text": "When necessity causes him to seek you for help, Isa 55:6.",
+     "label": "f",
+     "anchor": "time when thou mayest be found",
+     "refs": [
+      {
+       "text": "Isa 55:6",
+       "ref": "ISA.55.6"
+      }
+     ]
+    },
+    {
+     "id": "geneva/PSA.32.6#p2-1fbc4fb6",
+     "text": "That is, the waters and great dangers.",
+     "label": "g",
+     "anchor": "they shall not come nigh unto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.8",
+   "range": "PSA.32.8",
+   "kind": "passage",
+   "hash": "dd305c97",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.8#p1-dd305c97",
+     "text": "David promises to make the rest of God's children partakers of the benefits which he felt, and that he will diligently look and take care to direct them in the way of salvation.",
+     "label": "h",
+     "anchor": "instruct thee and teach thee in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.9",
+   "range": "PSA.32.9",
+   "kind": "passage",
+   "hash": "f29e7fb9",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.9#p1-f29e7fb9",
+     "text": "If men can rule brute beasts, do they think that God will not bridle and tame their rage?",
+     "label": "i",
+     "anchor": "mouth must be held in with"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.32.11",
+   "range": "PSA.32.11",
+   "kind": "passage",
+   "hash": "1cb6f8be",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.32.11#p1-1cb6f8be",
+     "text": "He shows that peace and joy of conscience in the Holy Spirit is the fruit of faith.",
+     "label": "k",
+     "anchor": "rejoice"
+    }
+   ]
+  }
+ ]
+}

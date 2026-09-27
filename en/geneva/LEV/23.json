@@ -1,0 +1,259 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "geneva/LEV.23.4",
+   "range": "LEV.23.4",
+   "kind": "passage",
+   "hash": "92a9aadb",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.4#p1-92a9aadb",
+     "text": "For the sabbath was kept every week, and these others were kept only once every year.",
+     "label": "a",
+     "anchor": "seasons"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.7",
+   "range": "LEV.23.7",
+   "kind": "passage",
+   "hash": "102dd2e6",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.7#p1-102dd2e6",
+     "text": "Or, bodily labour, save about that which one must eat, Ex 12:16.",
+     "label": "b",
+     "anchor": "servile work therein",
+     "refs": [
+      {
+       "text": "Ex 12:16",
+       "ref": "EXO.12.16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.8",
+   "range": "LEV.23.8",
+   "kind": "passage",
+   "hash": "480cb241",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.8#p1-480cb241",
+     "text": "The first day of the feast and the seventh were kept holy: in the rest they might work, except any feasts that were together, as were the feast of unleavened bread and the feast of sheaves which were on the fifteenth and sixteenth days.",
+     "label": "c",
+     "anchor": "seventh day is an holy convocation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.11",
+   "range": "LEV.23.11",
+   "kind": "passage",
+   "hash": "436bab7b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.11#p1-436bab7b",
+     "text": "That is, the second sabbath of the Passover.",
+     "label": "d",
+     "anchor": "sabbath the priest shall wave it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.13",
+   "range": "LEV.23.13",
+   "kind": "passage",
+   "hash": "be820db7",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.13#p1-a72d330e",
+     "text": "Which is, the fifth part of an Ephah, or two Omers: read Ex 16:16.",
+     "label": "e",
+     "anchor": "tenth deals of fine flour mingled",
+     "refs": [
+      {
+       "text": "Ex 16:16",
+       "ref": "EXO.16.16"
+      }
+     ]
+    },
+    {
+     "id": "geneva/LEV.23.13#p2-90f4bb0a",
+     "text": "Read Ex 29:40.",
+     "label": "f",
+     "anchor": "of an hin",
+     "refs": [
+      {
+       "text": "Ex 29:40",
+       "ref": "EXO.29.40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.15",
+   "range": "LEV.23.15",
+   "kind": "passage",
+   "hash": "51704e5b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.15#p1-51704e5b",
+     "text": "That is, the seventh day after the first sabbath of the Passover.",
+     "label": "g",
+     "anchor": "sabbath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.17",
+   "range": "LEV.23.17",
+   "kind": "passage",
+   "hash": "191dc535",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.17#p1-191dc535",
+     "text": "Because the priest should eat them, as in Le 7:13, and they should not be offered to the Lord on the altar.",
+     "label": "h",
+     "anchor": "leaven",
+     "refs": [
+      {
+       "text": "Le 7:13",
+       "ref": "LEV.7.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.20",
+   "range": "LEV.23.20",
+   "kind": "passage",
+   "hash": "7ccfa64d",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.20#p1-7ccfa64d",
+     "text": "That is, offered to the Lord, and the rest should be for the priest.",
+     "label": "i",
+     "anchor": "priest"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.24",
+   "range": "LEV.23.24",
+   "kind": "passage",
+   "hash": "3f22e896",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.24#p1-598cecfc",
+     "text": "That is, about the end of September.",
+     "label": "k",
+     "anchor": "seventh month"
+    },
+    {
+     "id": "geneva/LEV.23.24#p2-2d251173",
+     "text": "Or, a holy day to the Lord.",
+     "label": "l",
+     "anchor": "have a sabbath"
+    },
+    {
+     "id": "geneva/LEV.23.24#p3-e7e3ebee",
+     "text": "Which blowing was to remind them of the many feasts that were in that month, and of the Jubile.",
+     "label": "m",
+     "anchor": "blowing of trumpets"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.27",
+   "range": "LEV.23.27",
+   "kind": "passage",
+   "hash": "b90935e2",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.27#p1-b90935e2",
+     "text": "By fasting and prayer.",
+     "label": "n",
+     "anchor": "afflict your souls"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.32",
+   "range": "LEV.23.32",
+   "kind": "passage",
+   "hash": "0557aac6",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.32#p1-0557aac6",
+     "text": "Which contains a night and a day: yet they took it as their natural day.",
+     "label": "o",
+     "anchor": "even unto even"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.36",
+   "range": "LEV.23.36",
+   "kind": "passage",
+   "hash": "da4ebafb",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.36#p1-da4ebafb",
+     "text": "Or, a day in which the people refrain from all work.",
+     "label": "p",
+     "anchor": "solemn assembly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.37",
+   "range": "LEV.23.37",
+   "kind": "passage",
+   "hash": "558f2e90",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.37#p1-558f2e90",
+     "text": "Or, peace offering.",
+     "label": "q",
+     "anchor": "sacrifice"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.39",
+   "range": "LEV.23.39",
+   "kind": "passage",
+   "hash": "2673b9dc",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.39#p1-2673b9dc",
+     "text": "Or, a solemn feast.",
+     "label": "r",
+     "anchor": "sabbath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.23.43",
+   "range": "LEV.23.43",
+   "kind": "passage",
+   "hash": "0d4c37ed",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.23.43#p1-0d4c37ed",
+     "text": "In the wilderness, in that they would not believe Joshua and Caleb, when they returned from spying the land of Canaan.",
+     "label": "s",
+     "anchor": "booths"
+    }
+   ]
+  }
+ ]
+}

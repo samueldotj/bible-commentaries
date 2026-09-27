@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 127,
+ "units": [
+  {
+   "id": "geneva/PSA.127.1",
+   "range": "PSA.127.1",
+   "kind": "passage",
+   "hash": "a476bea3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.127.1#p1-ca868185",
+     "text": "That is, govern and dispose all things pertaining to the family.",
+     "label": "a",
+     "anchor": "build the house"
+    },
+    {
+     "id": "geneva/PSA.127.1#p2-2e9b7da3",
+     "text": "The public estate of the commonwealth.",
+     "label": "b",
+     "anchor": "city"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.127.2",
+   "range": "PSA.127.2",
+   "kind": "passage",
+   "hash": "074036c2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.127.2#p1-85ef4fcd",
+     "text": "Who watch and ward and are also magistrates and rulers of the city.",
+     "label": "c",
+     "anchor": "you to rise up early"
+    },
+    {
+     "id": "geneva/PSA.127.2#p2-fac7ae18",
+     "text": "Either that which is gained by hard labour, or eaten with grief of mind.",
+     "label": "d",
+     "anchor": "of sorrows"
+    },
+    {
+     "id": "geneva/PSA.127.2#p3-0b31ed04",
+     "text": "Not exempting them from labour, but making their labours comfortable and as it were a rest.",
+     "label": "e",
+     "anchor": "sleep"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.127.4",
+   "range": "PSA.127.4",
+   "kind": "passage",
+   "hash": "eabb4e5d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.127.4#p1-eabb4e5d",
+     "text": "That is, endued with strength and virtues from God: for these are signs of God's blessings, and not the number.",
+     "label": "f",
+     "anchor": "children of the youth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.127.5",
+   "range": "PSA.127.5",
+   "kind": "passage",
+   "hash": "201c9de8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.127.5#p1-201c9de8",
+     "text": "Such children will be able to stop their adversaries mouths, when their godly life is maliciously accused before judges.",
+     "label": "g",
+     "anchor": "shall not be ashamed"
+    }
+   ]
+  }
+ ]
+}

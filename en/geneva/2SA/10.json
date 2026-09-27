@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 10,
+ "units": [
+  {
+   "id": "geneva/2SA.10.2",
+   "range": "2SA.10.2",
+   "kind": "passage",
+   "hash": "296c7b71",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.2#p1-296c7b71",
+     "text": "The children of God are not unmindful of a benefit received.",
+     "label": "a",
+     "anchor": "shewed kindness unto me"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.3",
+   "range": "2SA.10.3",
+   "kind": "passage",
+   "hash": "ab866f0b",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.3#p1-ab866f0b",
+     "text": "Their arrogant malice would not allow them to see the simplicity of David's heart: therefore their counsel turned to the destruction of their country.",
+     "label": "b",
+     "anchor": "to search the city"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.6",
+   "range": "2SA.10.6",
+   "kind": "passage",
+   "hash": "76ab66d0",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.6#p1-76ab66d0",
+     "text": "That they deserved David's displeasure, for the harm done to his ambassadors.",
+     "label": "c",
+     "anchor": "stank before David"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.8",
+   "range": "2SA.10.8",
+   "kind": "passage",
+   "hash": "64968c14",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.8#p1-64968c14",
+     "text": "These were various parts of the country of Syria, by which it appears that the Syrians served where they might have entertainment, as now the Sweitzers do.",
+     "label": "d",
+     "anchor": "Zoba"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.12",
+   "range": "2SA.10.12",
+   "kind": "passage",
+   "hash": "d5111904",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.12#p1-d5111904",
+     "text": "Here it is declared why war should be undertaken: for the defence of true religion and God's people.",
+     "label": "e",
+     "anchor": "our people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.17",
+   "range": "2SA.10.17",
+   "kind": "passage",
+   "hash": "a617b268",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.17#p1-a617b268",
+     "text": "Meaning, the greatest part.",
+     "label": "f",
+     "anchor": "all Israel together"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.18",
+   "range": "2SA.10.18",
+   "kind": "passage",
+   "hash": "7066f06d",
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.18#p1-7066f06d",
+     "text": "Who were the chief and most principal: for in all he destroyed 7000, as in 1Ch 19:18, or the soldiers who were in 700 chariots.",
+     "label": "g",
+     "anchor": "seven hundred chariots of the Syrians",
+     "refs": [
+      {
+       "text": "1Ch 19:18",
+       "ref": "1CH.19.18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 130,
+ "units": [
+  {
+   "id": "geneva/PSA.130.1",
+   "range": "PSA.130.1",
+   "kind": "passage",
+   "hash": "3bdd28e0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.1#p1-3bdd28e0",
+     "text": "Being in great distress and sorrow.",
+     "label": "a",
+     "anchor": "depths have I cried unto thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.3",
+   "range": "PSA.130.3",
+   "kind": "passage",
+   "hash": "5cff6ec3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.3#p1-5cff6ec3",
+     "text": "He declares that we cannot be just before God but by forgiveness of sins.",
+     "label": "b",
+     "anchor": "who shall stand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.4",
+   "range": "PSA.130.4",
+   "kind": "passage",
+   "hash": "9fd4fe53",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.4#p1-9fd4fe53",
+     "text": "Because by nature you are merciful therefore the faithful revere you.",
+     "label": "c",
+     "anchor": "mayest be feared"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.7",
+   "range": "PSA.130.7",
+   "kind": "passage",
+   "hash": "7d246820",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.7#p1-7d246820",
+     "text": "He shows to whom the mercy of God belongs, that is, Israel, to the Church and not the reprobate.",
+     "label": "d",
+     "anchor": "mercy"
+    }
+   ]
+  }
+ ]
+}

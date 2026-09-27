@@ -1,0 +1,95 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 38,
+ "units": [
+  {
+   "id": "geneva/EXO.38.4",
+   "range": "EXO.38.4",
+   "kind": "passage",
+   "hash": "97a242db",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.4#p1-97a242db",
+     "text": "So that the gridiron or grate was half as high as the altar and stood within it.",
+     "label": "a",
+     "anchor": "midst of it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.8",
+   "range": "EXO.38.8",
+   "kind": "passage",
+   "hash": "32d40223",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.8#p1-32d40223",
+     "text": "R. Kimbi says that the women brought their looking glasses, which were of brass or fine metal, and offered them freely for the use of the tabernacle: which was a bright thing and of great majesty.",
+     "label": "b",
+     "anchor": "lookingglasses of the women assembling"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.21",
+   "range": "EXO.38.21",
+   "kind": "passage",
+   "hash": "41b75b0d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.21#p1-41b75b0d",
+     "text": "That the Levites might be in charge of it, and minister in the same, as did Eleazar and Ithamar, Nu 3:4.",
+     "label": "c",
+     "anchor": "Levites",
+     "refs": [
+      {
+       "text": "Nu 3:4",
+       "ref": "NUM.3.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.23",
+   "range": "EXO.38.23",
+   "kind": "passage",
+   "hash": "378ea35d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.23#p1-378ea35d",
+     "text": "Or, a graver, or carpenter, Ex 36:4.",
+     "label": "d",
+     "anchor": "cunning workman",
+     "refs": [
+      {
+       "text": "Ex 36:4",
+       "ref": "EXO.36.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.29",
+   "range": "EXO.38.29",
+   "kind": "passage",
+   "hash": "0fae37e2",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.29#p1-0fae37e2",
+     "text": "Read the weight of a talent, Ex 25:39.",
+     "label": "e",
+     "anchor": "talents",
+     "refs": [
+      {
+       "text": "Ex 25:39",
+       "ref": "EXO.25.39"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

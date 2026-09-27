@@ -1,0 +1,360 @@
+{
+ "source": "geneva",
+ "book": "ROM",
+ "chapter": 2,
+ "units": [
+  {
+   "id": "geneva/ROM.2.1",
+   "range": "ROM.2.1",
+   "kind": "passage",
+   "hash": "333af937",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.1#p1-333af937",
+     "text": "He convicts those who would seem to be exempt from the rest of men (because they reprehend other men's faults), and says that they are least of all to be excused, for if they were searched well and carefully (as God surely does) they themselves would be found guilty in those things which they reprehend and punish in others: so that in condemning others, they pronounce sentence against themselves.",
+     "label": "1",
+     "anchor": "thou art inexcusable"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.2",
+   "range": "ROM.2.2",
+   "kind": "passage",
+   "hash": "b7ed397f",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.2#p1-f637df40",
+     "text": "Paul alleges no places of scripture, for he reasons generally against all men: but he brings reasons such that every man is persuaded by them in his mind, so that the devil himself is not able to completely pluck them out.",
+     "label": "a",
+     "anchor": "are sure that the judgment of"
+    },
+    {
+     "id": "geneva/ROM.2.2#p2-ea7a2e07",
+     "text": "Considering and judging things correctly, and not by any outward show.",
+     "label": "b",
+     "anchor": "truth against them which commit such"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.4",
+   "range": "ROM.2.4",
+   "kind": "passage",
+   "hash": "40fc8f8d",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.4#p1-40fc8f8d",
+     "text": "A vehement and grievous crying out against those that please themselves because they see more than others do, and yet are in no way better than others are.",
+     "label": "2",
+     "anchor": "Or despisest thou the riches of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.5",
+   "range": "ROM.2.5",
+   "kind": "passage",
+   "hash": "9e7e2200",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.5#p1-9e7e2200",
+     "text": "While you are giving yourself to pleasures, thinking to increase your goods, you will find God's wrath.",
+     "label": "c",
+     "anchor": "treasurest up unto thyself wrath against"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.6",
+   "range": "ROM.2.6",
+   "kind": "passage",
+   "hash": "944e7215",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.6#p1-944e7215",
+     "text": "The foundation of the former disputation, that both the Jews and Gentiles together have need of righteousness.",
+     "label": "3",
+     "anchor": "Who will render to every man"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.7",
+   "range": "ROM.2.7",
+   "kind": "passage",
+   "hash": "fc162e09",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.7#p1-fc162e09",
+     "text": "Glory which follows good works, which he does not lay out before us as though there were any that could attain to salvation by his own strength, but, he lays this condition of salvation before us, which no man can perform, to bring men to Christ, who alone justifies the believers, as he himself concludes; see Ro 2:21-22.",
+     "label": "d",
+     "anchor": "glory and honour and immortality",
+     "refs": [
+      {
+       "text": "Ro 2:21-22",
+       "ref": "ROM.2.21-22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.8",
+   "range": "ROM.2.8",
+   "kind": "passage",
+   "hash": "6fb45c57",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.8#p1-a0531236",
+     "text": "By \"truth\" he means the knowledge which we naturally have.",
+     "label": "e",
+     "anchor": "truth"
+    },
+    {
+     "id": "geneva/ROM.2.8#p2-aa2ac11f",
+     "text": "God's indignation against sinners, which will quickly be kindled.",
+     "label": "f",
+     "anchor": "indignation and wrath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.11",
+   "range": "ROM.2.11",
+   "kind": "passage",
+   "hash": "713a8267",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.11#p1-713a8267",
+     "text": "God does not judge men either by their blood or by their country, either to receive them or to cast them away.",
+     "label": "g",
+     "anchor": "respect of persons with God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.12",
+   "range": "ROM.2.12",
+   "kind": "passage",
+   "hash": "a3a39138",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.12#p1-a3a39138",
+     "text": "He applies that general accusation against mankind particularly both to the Gentiles and to the Jews.",
+     "label": "4",
+     "anchor": "For as many as have sinned"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.13",
+   "range": "ROM.2.13",
+   "kind": "passage",
+   "hash": "e937c038",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.13#p1-4faf4e3c",
+     "text": "He prevents an objection which might be made by the Jews whom the law does not excuse, but condemn, because it is not the hearing of the law that justifies, but rather the keeping of it.",
+     "label": "5"
+    },
+    {
+     "id": "geneva/ROM.2.13#p2-e77fdc77",
+     "text": "Will be pronounced just before God's judgment seat: which is true indeed if any one could be found that had fulfilled the law: but seeing that Abraham was not justified by the law, but by faith, it follows that no man can be justified by works.",
+     "label": "h",
+     "anchor": "justified"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.14",
+   "range": "ROM.2.14",
+   "kind": "passage",
+   "hash": "49a0ccbd",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.14#p1-606584e7",
+     "text": "He prevents an objection which might be made by the Gentiles, who even though they do not have the law of Moses, yet they have no reason why they may excuse their wickedness, in that they have something written in their hearts instead of a law, as men do who forbid and punish some things as wicked, and command and commend other things as good.",
+     "label": "6",
+     "anchor": "For when the Gentiles"
+    },
+    {
+     "id": "geneva/ROM.2.14#p2-27933577",
+     "text": "Not that they are without any law, but rather the law of the Jews.",
+     "label": "i",
+     "anchor": "not the law"
+    },
+    {
+     "id": "geneva/ROM.2.14#p3-4670cf68",
+     "text": "Command honest things, and forbid dishonest.",
+     "label": "k",
+     "anchor": "nature the things contained in the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.15",
+   "range": "ROM.2.15",
+   "kind": "passage",
+   "hash": "7c465e66",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.15#p1-7c465e66",
+     "text": "This knowledge is a natural knowledge.",
+     "label": "l",
+     "anchor": "written in their hearts"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.16",
+   "range": "ROM.2.16",
+   "kind": "passage",
+   "hash": "f43a0192",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.16#p1-07b5c6d7",
+     "text": "God defers many judgments, which he will nonetheless execute at their convenient time by Jesus Christ, with a most candid examination, not only of words and deeds, but of thoughts also, be they ever so hidden or secret.",
+     "label": "7",
+     "anchor": "In the day when God shall"
+    },
+    {
+     "id": "geneva/ROM.2.16#p2-a3277a38",
+     "text": "As my doctrine witnesses, which I am appointed to preach.",
+     "label": "m",
+     "anchor": "my gospel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.17",
+   "range": "ROM.2.17",
+   "kind": "passage",
+   "hash": "2469cfb3",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.17#p1-2469cfb3",
+     "text": "He proves by the testimony of David, and the other prophets, that God bestows greatest benefits upon the Jews, in giving them also the law, but that they are the most unthankful and unkind of all men.",
+     "label": "8",
+     "anchor": "Behold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.18",
+   "range": "ROM.2.18",
+   "kind": "passage",
+   "hash": "d2229bf0",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.18#p1-d2229bf0",
+     "text": "Can test and discern what things swerve from God's will.",
+     "label": "n",
+     "anchor": "approvest the things that are more"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.20",
+   "range": "ROM.2.20",
+   "kind": "passage",
+   "hash": "a14a83e7",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.20#p1-12c80fca",
+     "text": "The way to teach and to form others in the knowledge of the truth.",
+     "label": "o",
+     "anchor": "form of knowledge and of the"
+    },
+    {
+     "id": "geneva/ROM.2.20#p2-c2206ca2",
+     "text": "As though he said that the Jews under a pretence of an outward serving of God, attributed all to themselves, when in reality they did nothing less than observe the Law.",
+     "label": "p",
+     "anchor": "law"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.25",
+   "range": "ROM.2.25",
+   "kind": "passage",
+   "hash": "d800a6cb",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.25#p1-d800a6cb",
+     "text": "He precisely prevents their objection, who set a holiness in circumcision, and the outward observation of the law: so that he shows that the outward circumcision, if it is separated from the inward, does not justify, and also condemns those who are indeed circumcised, of whom it is required that they fulfil that which circumcision signifies, that is to say, cleanness of the heart and the whole life according to the commandment of the law, so that if there is a man uncircumcised according to the flesh, who is circumcised in heart, he is far better and to be more regarded than any Jew that is circumcised according to the flesh only.",
+     "label": "9",
+     "anchor": "For circumcision verily profiteth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.26",
+   "range": "ROM.2.26",
+   "kind": "passage",
+   "hash": "706f6268",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.26#p1-7eb2f4d2",
+     "text": "This is the figure of speech metonymy, and means \"uncircumcised\".",
+     "label": "q",
+     "anchor": "uncircumcision keep the righteousness of the"
+    },
+    {
+     "id": "geneva/ROM.2.26#p2-d4365f2a",
+     "text": "The state and condition of the uncircumcised.",
+     "label": "r",
+     "anchor": "uncircumcision be counted for circumcision"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.27",
+   "range": "ROM.2.27",
+   "kind": "passage",
+   "hash": "584b29ed",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.27#p1-d3bbb561",
+     "text": "He who is uncircumcised by nature and race.",
+     "label": "s",
+     "anchor": "uncircumcision which is by nature"
+    },
+    {
+     "id": "geneva/ROM.2.27#p2-0874833c",
+     "text": "Paul often contrasts the letter against the Spirit: but in this place, the circumcision which is according to the letter is the cutting off of the foreskin, but the circumcision of the Spirit is the circumcision of the heart, that is to say, the spiritual result of the ceremony is true holiness and righteousness, by which the people of God are known from profane and heathen men.",
+     "label": "t",
+     "anchor": "letter and circumcision dost transgress the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.28",
+   "range": "ROM.2.28",
+   "kind": "passage",
+   "hash": "b8838d43",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.28#p1-b8838d43",
+     "text": "By the outward ceremony only.",
+     "label": "u",
+     "anchor": "outwardly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ROM.2.29",
+   "range": "ROM.2.29",
+   "kind": "passage",
+   "hash": "da6b524e",
+   "paragraphs": [
+    {
+     "id": "geneva/ROM.2.29#p1-da6b524e",
+     "text": "Whose power is inward, and in the heart.",
+     "label": "x",
+     "anchor": "spirit"
+    }
+   ]
+  }
+ ]
+}

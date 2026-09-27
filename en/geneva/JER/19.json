@@ -1,0 +1,121 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/JER.19.3",
+   "range": "JER.19.3",
+   "kind": "passage",
+   "hash": "b66e09c8",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.19.3#p1-35a5537a",
+     "text": "By kings here and in other places are meant counsellors and governors of the people; who he calls the ancients, Jer 19:1.",
+     "label": "a",
+     "anchor": "kings of Judah",
+     "refs": [
+      {
+       "text": "Jer 19:1",
+       "ref": "JER.19.1"
+      }
+     ]
+    },
+    {
+     "id": "geneva/JER.19.3#p2-e08d9468",
+     "text": "Read of this phrase in 1Sa 3:11.",
+     "label": "b",
+     "anchor": "tingle",
+     "refs": [
+      {
+       "text": "1Sa 3:11",
+       "ref": "1SA.3.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.19.5",
+   "range": "JER.19.5",
+   "kind": "passage",
+   "hash": "abc3b308",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.19.5#p1-abc3b308",
+     "text": "By which is declared that whatever is not commanded by God's word concerning is service is against his word.",
+     "label": "c",
+     "anchor": "commanded not"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.19.6",
+   "range": "JER.19.6",
+   "kind": "passage",
+   "hash": "63be6051",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.19.6#p1-63be6051",
+     "text": "Read Jer 7:31, 2Ki 23:10, Isa 30:33.",
+     "label": "d",
+     "anchor": "Tophet",
+     "refs": [
+      {
+       "text": "Jer 7:31, 2Ki 23:10, Isa 30:33",
+       "ref": "JER.7.31"
+      },
+      {
+       "text": "Jer 7:31, 2Ki 23:10, Isa 30:33",
+       "ref": "2KI.23.10"
+      },
+      {
+       "text": "Jer 7:31, 2Ki 23:10, Isa 30:33",
+       "ref": "ISA.30.33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.19.11",
+   "range": "JER.19.11",
+   "kind": "passage",
+   "hash": "fd48512f",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.19.11#p1-fd48512f",
+     "text": "This visible sign was to confirm them concerning the assurance of this plague, which the Lord threatened by his prophet.",
+     "label": "e",
+     "anchor": "potter's vessel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.19.13",
+   "range": "JER.19.13",
+   "kind": "passage",
+   "hash": "b062d9c8",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.19.13#p1-54f39a2a",
+     "text": "He notes the great rage of the idolaters who left no place free from their abominations, in that they polluted their own houses with it, as we see yet among the papists.",
+     "label": "f",
+     "anchor": "houses upon whose"
+    },
+    {
+     "id": "geneva/JER.19.13#p2-dc5eca00",
+     "text": "Read De 22:8.",
+     "label": "g",
+     "anchor": "roofs they have burned incense to",
+     "refs": [
+      {
+       "text": "De 22:8",
+       "ref": "DEU.22.8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

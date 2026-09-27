@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 29,
+ "units": [
+  {
+   "id": "geneva/1SA.29.2",
+   "range": "1SA.29.2",
+   "kind": "passage",
+   "hash": "d7aa6223",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.2#p1-d7aa6223",
+     "text": "According to their bands, or ensigns.",
+     "label": "a",
+     "anchor": "hundreds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.3",
+   "range": "1SA.29.3",
+   "kind": "passage",
+   "hash": "ca45df3e",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.3#p1-ca45df3e",
+     "text": "Meaning, a long time, that is, four months and certain days, 1Sa 27:7.",
+     "label": "b",
+     "anchor": "or these years",
+     "refs": [
+      {
+       "text": "1Sa 27:7",
+       "ref": "1SA.27.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.4",
+   "range": "1SA.29.4",
+   "kind": "passage",
+   "hash": "09a41439",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.4#p1-09a41439",
+     "text": "Would not Saul receive him to favour, if he would betray us?",
+     "label": "c",
+     "anchor": "heads of these men"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.6",
+   "range": "1SA.29.6",
+   "kind": "passage",
+   "hash": "114a95e9",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.6#p1-114a95e9",
+     "text": "That is, was conversant with me.",
+     "label": "d",
+     "anchor": "going out and thy coming in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.8",
+   "range": "1SA.29.8",
+   "kind": "passage",
+   "hash": "324d6144",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.8#p1-324d6144",
+     "text": "This deception cannot be excused, for it grieved him to go against the people of God.",
+     "label": "e",
+     "anchor": "not go fight against the enemies"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.10",
+   "range": "1SA.29.10",
+   "kind": "passage",
+   "hash": "21881db8",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.10#p1-21881db8",
+     "text": "With them that fled to thee from Saul.",
+     "label": "f",
+     "anchor": "master's servants that are come with"
+    }
+   ]
+  }
+ ]
+}

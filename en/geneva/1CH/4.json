@@ -1,0 +1,187 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/1CH.4.1",
+   "range": "1CH.4.1",
+   "kind": "passage",
+   "hash": "677e093e",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.1#p1-677e093e",
+     "text": "Meaning, they came from Judah, as nephews and kinsmen: for only Pharez was his natural son.",
+     "label": "a",
+     "anchor": "sons of Judah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.4",
+   "range": "1CH.4.4",
+   "kind": "passage",
+   "hash": "db59bc9f",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.4#p1-db59bc9f",
+     "text": "The first born of his mother, and not the eldest of his father.",
+     "label": "b",
+     "anchor": "firstborn of Ephratah"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.9",
+   "range": "1CH.4.9",
+   "kind": "passage",
+   "hash": "20788a88",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.9#p1-20788a88",
+     "text": "Otherwise called Othniel, Jud 1:13.",
+     "label": "c",
+     "anchor": "Jabez",
+     "refs": [
+      {
+       "text": "Jud 1:13",
+       "ref": "JDG.1.13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.10",
+   "range": "1CH.4.10",
+   "kind": "passage",
+   "hash": "c02308ba",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.10#p1-c02308ba",
+     "text": "It is to be understood that then he would accomplish his vow which he made.",
+     "label": "d",
+     "anchor": "that thine hand might be with"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.14",
+   "range": "1CH.4.14",
+   "kind": "passage",
+   "hash": "80b7ec12",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.14#p1-80b7ec12",
+     "text": "The Lord of the valley where the artificers worked.",
+     "label": "e",
+     "anchor": "father of the valley of Charashim"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.15",
+   "range": "1CH.4.15",
+   "kind": "passage",
+   "hash": "5d19dfc2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.15#p1-5d19dfc2",
+     "text": "Called also Esrom.",
+     "label": "f",
+     "anchor": "Jephunneh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.23",
+   "range": "1CH.4.23",
+   "kind": "passage",
+   "hash": "83f2716c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.23#p1-83f2716c",
+     "text": "They were David's gardeners and served him in his works.",
+     "label": "g",
+     "anchor": "there they dwelt with the king"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.24",
+   "range": "1CH.4.24",
+   "kind": "passage",
+   "hash": "6f5bb927",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.24#p1-6f5bb927",
+     "text": "His son Obed is omitted here.",
+     "label": "h",
+     "anchor": "Shaul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.28",
+   "range": "1CH.4.28",
+   "kind": "passage",
+   "hash": "a846a115",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.28#p1-a846a115",
+     "text": "These cities belonged to Judah, Jos 19:2, and were given to the tribe of Simeon.",
+     "label": "i",
+     "anchor": "Beersheba",
+     "refs": [
+      {
+       "text": "Jos 19:2",
+       "ref": "JOS.19.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.31",
+   "range": "1CH.4.31",
+   "kind": "passage",
+   "hash": "98d46182",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.31#p1-98d46182",
+     "text": "Then David restored them to the tribe of Judah.",
+     "label": "k",
+     "anchor": "David"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.39",
+   "range": "1CH.4.39",
+   "kind": "passage",
+   "hash": "d82cdf9e",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.39#p1-d82cdf9e",
+     "text": "For the tribe of Simeon was so great in number, that in the time of Hezekiah they sought new dwellings to Gedor, which is in the tribe of Dan.",
+     "label": "l",
+     "anchor": "went to the entrance of Gedor"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.43",
+   "range": "1CH.4.43",
+   "kind": "passage",
+   "hash": "ef7343a3",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.43#p1-ef7343a3",
+     "text": "And were not slain by Saul and David.",
+     "label": "m",
+     "anchor": "escaped"
+    }
+   ]
+  }
+ ]
+}

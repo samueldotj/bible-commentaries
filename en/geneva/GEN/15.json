@@ -1,0 +1,83 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/GEN.15.2",
+   "range": "GEN.15.2",
+   "kind": "passage",
+   "hash": "f35a0362",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.15.2#p1-f35a0362",
+     "text": "His fear was not only lest he should not have children, but lest the promise of the blessed seed should not be accomplished in him.",
+     "label": "a",
+     "anchor": "Lord GOD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.15.8",
+   "range": "GEN.15.8",
+   "kind": "passage",
+   "hash": "471a164a",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.15.8#p1-471a164a",
+     "text": "This is a particular motion of God's Spirit, which is not lawful for all to follow, in asking signs: but was permitted for some by a peculiar motion, as to Gideon and Ezekiel.",
+     "label": "b",
+     "anchor": "whereby shall I know that I"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.15.10",
+   "range": "GEN.15.10",
+   "kind": "passage",
+   "hash": "d72d9c33",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.15.10#p1-d72d9c33",
+     "text": "This was the old custom in making covenants, Jer 39:18, to which God added these conditions, that Abram's posterity would be as torn in pieces, but after they would be rejoined: also that it would be assaulted, but yet delivered.",
+     "label": "c",
+     "anchor": "divided them in the midst",
+     "refs": [
+      {
+       "text": "Jer 39:18",
+       "ref": "JER.39.18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.15.13",
+   "range": "GEN.15.13",
+   "kind": "passage",
+   "hash": "7768eff4",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.15.13#p1-7768eff4",
+     "text": "Counting from the birth of Isaac to their departure of Egypt: Which declares that God will allow his to be afflicted in this world.",
+     "label": "d",
+     "anchor": "four hundred years"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.15.16",
+   "range": "GEN.15.16",
+   "kind": "passage",
+   "hash": "010645d6",
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.15.16#p1-010645d6",
+     "text": "Though God tolerates the wicked for a time, yet his vengeance falls on them when the measure of their wickedness is full.",
+     "label": "e",
+     "anchor": "iniquity of the Amorites is not"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 46,
+ "units": [
+  {
+   "id": "geneva/EZK.46.5",
+   "range": "EZK.46.5",
+   "kind": "passage",
+   "hash": "8657686d",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.5#p1-8657686d",
+     "text": "That is, as much as he will.",
+     "label": "a",
+     "anchor": "as he shall be able to"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.7",
+   "range": "EZK.46.7",
+   "kind": "passage",
+   "hash": "d8396392",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.7#p1-d8396392",
+     "text": "Meaning, as he will think good.",
+     "label": "b",
+     "anchor": "according as his hand shall be"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.17",
+   "range": "EZK.46.17",
+   "kind": "passage",
+   "hash": "c3265a23",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.17#p1-c3265a23",
+     "text": "Which was at the Jubile, Le 25:9.",
+     "label": "c",
+     "anchor": "year of liberty",
+     "refs": [
+      {
+       "text": "Le 25:9",
+       "ref": "LEV.25.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.18",
+   "range": "EZK.46.18",
+   "kind": "passage",
+   "hash": "ea418084",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.18#p1-ea418084",
+     "text": "But be content with that portion that God has assigned him, as in Eze 45:8.",
+     "label": "d",
+     "anchor": "take of the people's inheritance by",
+     "refs": [
+      {
+       "text": "Eze 45:8",
+       "ref": "EZK.45.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.20",
+   "range": "EZK.46.20",
+   "kind": "passage",
+   "hash": "4154101c",
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.20#p1-4154101c",
+     "text": "That the people should not have to do with those things which belong to the Lord, and think it lawful for them to eat them.",
+     "label": "e",
+     "anchor": "to sanctify the people"
+    }
+   ]
+  }
+ ]
+}

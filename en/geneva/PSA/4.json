@@ -1,0 +1,128 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/PSA.4.1",
+   "range": "PSA.4.1",
+   "kind": "passage",
+   "hash": "e3de35cb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.1#p1-6d4ecfe2",
+     "text": "Among those who were appointed to sing the psalms and to play on instruments, one was appointed chief to set the tune, and to begin: who had the charge because he was most excellent and he began this psalm on the instrument called Neginoth or in a tune so called.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.4.1#p2-9f6d58dd",
+     "text": "You who are the defender of my just cause.",
+     "label": "b",
+     "anchor": "O God of my righteousness"
+    },
+    {
+     "id": "geneva/PSA.4.1#p3-6bac4e13",
+     "text": "Both of mind and body.",
+     "label": "c",
+     "anchor": "distress"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.2",
+   "range": "PSA.4.2",
+   "kind": "passage",
+   "hash": "051cfdb7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.2#p1-b86a65b7",
+     "text": "You who think yourselves noble in this world.",
+     "label": "d",
+     "anchor": "sons of men"
+    },
+    {
+     "id": "geneva/PSA.4.2#p2-ae9b68c5",
+     "text": "Though your enterprises please you, yet God will bring them to nothing.",
+     "label": "e",
+     "anchor": "love vanity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.3",
+   "range": "PSA.4.3",
+   "kind": "passage",
+   "hash": "4539915a",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.3#p1-4539915a",
+     "text": "A king who walks in his vocation.",
+     "label": "f",
+     "anchor": "godly for himself"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.4",
+   "range": "PSA.4.4",
+   "kind": "passage",
+   "hash": "19366895",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.4#p1-b2b1bbb2",
+     "text": "For fear of God's judgment.",
+     "label": "g",
+     "anchor": "Stand in awe"
+    },
+    {
+     "id": "geneva/PSA.4.4#p2-a07c4a61",
+     "text": "Cease your rage.",
+     "label": "h",
+     "anchor": "still"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.5",
+   "range": "PSA.4.5",
+   "kind": "passage",
+   "hash": "54bc22bc",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.5#p1-54bc22bc",
+     "text": "Serve God purely, and not with outward ceremonies.",
+     "label": "i",
+     "anchor": "Offer the sacrifices of righteousness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.6",
+   "range": "PSA.4.6",
+   "kind": "passage",
+   "hash": "be6d53d1",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.6#p1-be6d53d1",
+     "text": "The multitude seeks worldly wealth, but David sets his happiness in God's favour.",
+     "label": "k",
+     "anchor": "good"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.8",
+   "range": "PSA.4.8",
+   "kind": "passage",
+   "hash": "8abea4b0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.8#p1-8abea4b0",
+     "text": "This word in Hebrew may be referred to God, as it is here translated, or to David, signifying that he should dwell as joyfully alone, as if he had many about him, because the Lord is with him.",
+     "label": "l",
+     "anchor": "only makest me dwell in safety"
+    }
+   ]
+  }
+ ]
+}

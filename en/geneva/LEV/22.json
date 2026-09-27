@@ -1,0 +1,145 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 22,
+ "units": [
+  {
+   "id": "geneva/LEV.22.2",
+   "range": "LEV.22.2",
+   "kind": "passage",
+   "hash": "f0446193",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.2#p1-f0446193",
+     "text": "Meaning, that the priests abstain from eating, as long as they are polluted.",
+     "label": "a",
+     "anchor": "separate themselves from the holy things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.3",
+   "range": "LEV.22.3",
+   "kind": "passage",
+   "hash": "d55c5e58",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.3#p1-d55c5e58",
+     "text": "To eat of it.",
+     "label": "b",
+     "anchor": "goeth unto the holy things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.4",
+   "range": "LEV.22.4",
+   "kind": "passage",
+   "hash": "2de8dd92",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.4#p1-2de8dd92",
+     "text": "By touching any dead thing, or being at burial of the dead.",
+     "label": "c",
+     "anchor": "unclean by the dead"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.10",
+   "range": "LEV.22.10",
+   "kind": "passage",
+   "hash": "2be1154f",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.10#p1-7c1df46e",
+     "text": "Which is not of the tribe of Levi.",
+     "label": "d",
+     "anchor": "stranger eat of the holy thing"
+    },
+    {
+     "id": "geneva/LEV.22.10#p2-b42ee160",
+     "text": "Some read, the servant who had his ear bored, and would not go free, Ex 21:6.",
+     "label": "e",
+     "anchor": "sojourner of the priest",
+     "refs": [
+      {
+       "text": "Ex 21:6",
+       "ref": "EXO.21.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.12",
+   "range": "LEV.22.12",
+   "kind": "passage",
+   "hash": "0ec256b8",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.12#p1-0ec256b8",
+     "text": "Who is not of the priests kindred.",
+     "label": "f",
+     "anchor": "stranger"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.14",
+   "range": "LEV.22.14",
+   "kind": "passage",
+   "hash": "596827b8",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.14#p1-596827b8",
+     "text": "He shall give that and a fifth part over.",
+     "label": "g",
+     "anchor": "fifth part thereof unto it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.16",
+   "range": "LEV.22.16",
+   "kind": "passage",
+   "hash": "dc600d55",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.16#p1-dc600d55",
+     "text": "For if they did not offer sacrifice for their error, the people by their example might commit the same offence.",
+     "label": "h",
+     "anchor": "trespass"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.25",
+   "range": "LEV.22.25",
+   "kind": "passage",
+   "hash": "949feba1",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.25#p1-949feba1",
+     "text": "You shall not receive any imperfect thing from a stranger, to make it the Lord's offering: which he calls the bread of the Lord.",
+     "label": "i",
+     "anchor": "from a stranger's hand shall ye"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.22.32",
+   "range": "LEV.22.32",
+   "kind": "passage",
+   "hash": "5e7b166c",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.22.32#p1-5e7b166c",
+     "text": "For whoever does otherwise than God commands pollutes his Name.",
+     "label": "k",
+     "anchor": "profane my holy name"
+    }
+   ]
+  }
+ ]
+}

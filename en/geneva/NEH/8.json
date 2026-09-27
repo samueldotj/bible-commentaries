@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 8,
+ "units": [
+  {
+   "id": "geneva/NEH.8.1",
+   "range": "NEH.8.1",
+   "kind": "passage",
+   "hash": "240b9f85",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.1#p1-240b9f85",
+     "text": "Read Ezr 7:6.",
+     "label": "a",
+     "anchor": "scribe to bring the book of",
+     "refs": [
+      {
+       "text": "Ezr 7:6",
+       "ref": "EZR.7.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.2",
+   "range": "NEH.8.2",
+   "kind": "passage",
+   "hash": "6497b170",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.2#p1-6497b170",
+     "text": "Who had age and discretion to understand.",
+     "label": "b",
+     "anchor": "that could hear with understanding"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.3",
+   "range": "NEH.8.3",
+   "kind": "passage",
+   "hash": "1c63e0a2",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.3#p1-1c63e0a2",
+     "text": "This declares the great zeal that the people had to hear the word of God.",
+     "label": "c",
+     "anchor": "midday"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.5",
+   "range": "NEH.8.5",
+   "kind": "passage",
+   "hash": "fb7ff202",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.5#p1-fb7ff202",
+     "text": "So that his voice might be heard the better.",
+     "label": "d",
+     "anchor": "above all the people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.9",
+   "range": "NEH.8.9",
+   "kind": "passage",
+   "hash": "98485968",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.9#p1-98485968",
+     "text": "In considering their offences against the Law, therefore the Levites do not reprove them for mourning, but assure them of God's mercies if they are repentant.",
+     "label": "e",
+     "anchor": "wept"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.10",
+   "range": "NEH.8.10",
+   "kind": "passage",
+   "hash": "de034e9d",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.10#p1-97aee3f7",
+     "text": "That is, remember the poor.",
+     "label": "f",
+     "anchor": "prepared"
+    },
+    {
+     "id": "geneva/NEH.8.10#p2-5b0f0ece",
+     "text": "Rejoice in the Lord, and he will give you strength.",
+     "label": "g",
+     "anchor": "joy of the LORD is your"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.16",
+   "range": "NEH.8.16",
+   "kind": "passage",
+   "hash": "60f1f07d",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.16#p1-60f1f07d",
+     "text": "For their houses were made with flat roofs, read De 22:8.",
+     "label": "h",
+     "anchor": "roof of his house",
+     "refs": [
+      {
+       "text": "De 22:8",
+       "ref": "DEU.22.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.8.17",
+   "range": "NEH.8.17",
+   "kind": "passage",
+   "hash": "21ddf795",
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.8.17#p1-21ddf795",
+     "text": "Which was almost a thousand years.",
+     "label": "i",
+     "anchor": "days of Jeshua the son of"
+    }
+   ]
+  }
+ ]
+}

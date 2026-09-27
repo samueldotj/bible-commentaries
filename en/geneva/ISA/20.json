@@ -1,0 +1,87 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/ISA.20.1",
+   "range": "ISA.20.1",
+   "kind": "passage",
+   "hash": "2c6192ff",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.1#p1-a57e796e",
+     "text": "Who was captain of Sennacherib, 2Ki 18:17.",
+     "label": "a",
+     "anchor": "Tartan came to",
+     "refs": [
+      {
+       "text": "2Ki 18:17",
+       "ref": "2KI.18.17"
+      }
+     ]
+    },
+    {
+     "id": "geneva/ISA.20.1#p2-834d0c47",
+     "text": "A city of the Philistines.",
+     "label": "b",
+     "anchor": "Ashdod"
+    },
+    {
+     "id": "geneva/ISA.20.1#p3-6d8f732d",
+     "text": "The Hebrews write that Sennacherib was so called.",
+     "label": "c",
+     "anchor": "Sargon the king of Assyria sent"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.2",
+   "range": "ISA.20.2",
+   "kind": "passage",
+   "hash": "616f2a7b",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.2#p1-616f2a7b",
+     "text": "Which signifies that the prophet lamented the misery that he saw prepared before the three years that he went naked and barefooted.",
+     "label": "d",
+     "anchor": "sackcloth from off thy loins"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.5",
+   "range": "ISA.20.5",
+   "kind": "passage",
+   "hash": "ed102277",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.5#p1-55eab979",
+     "text": "In whose aid they trusted.",
+     "label": "e",
+     "anchor": "Cush their expectation"
+    },
+    {
+     "id": "geneva/ISA.20.5#p2-ba50355c",
+     "text": "Of whom they boasted and gloried.",
+     "label": "f",
+     "anchor": "glory"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.6",
+   "range": "ISA.20.6",
+   "kind": "passage",
+   "hash": "78e149fa",
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.6#p1-78e149fa",
+     "text": "Meaning Judea which was encompassed by their enemies as an isle with waters.",
+     "label": "g",
+     "anchor": "isle shall say in that day"
+    }
+   ]
+  }
+ ]
+}

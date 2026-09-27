@@ -1,0 +1,74 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 53,
+ "units": [
+  {
+   "id": "geneva/PSA.53.1",
+   "range": "PSA.53.1",
+   "kind": "passage",
+   "hash": "a67d4988",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.53.1#p1-60b55f32",
+     "text": "Which was an instrument or king of note.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.53.1#p2-36d9e931",
+     "text": "Whereas no regard is had for honesty or dishonesty, for virtue nor for vice, there the prophet pronounces that the people have no God.",
+     "label": "b",
+     "anchor": "no God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.53.2",
+   "range": "PSA.53.2",
+   "kind": "passage",
+   "hash": "924ef15d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.53.2#p1-924ef15d",
+     "text": "By which he condemns all knowledge and understanding that tends not to seek God.",
+     "label": "c",
+     "anchor": "seek God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.53.4",
+   "range": "PSA.53.4",
+   "kind": "passage",
+   "hash": "a514ba2e",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.53.4#p1-a514ba2e",
+     "text": "David pronounces God's vengeance against cruel governors who having charge to defend and preserve God's people, cruelly devour them.",
+     "label": "d",
+     "anchor": "workers of iniquity no knowledge"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.53.5",
+   "range": "PSA.53.5",
+   "kind": "passage",
+   "hash": "c4133617",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.53.5#p1-b0edce0f",
+     "text": "When they thought there was no opportunity to fear, the sudden vengeance of God lighted on them.",
+     "label": "e",
+     "anchor": "fear was"
+    },
+    {
+     "id": "geneva/PSA.53.5#p2-6c10c12f",
+     "text": "No matter how great the enemies power is, or fearful the danger, yet God delivers his in due time.",
+     "label": "f",
+     "anchor": "bones of him that encampeth against"
+    }
+   ]
+  }
+ ]
+}

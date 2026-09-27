@@ -1,0 +1,117 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/JOS.3.1",
+   "range": "JOS.3.1",
+   "kind": "passage",
+   "hash": "4af48696",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.1#p1-4af48696",
+     "text": "Which according to the Hebrews was in March, about 40 days after Moses' death.",
+     "label": "a",
+     "anchor": "Jordan"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.2",
+   "range": "JOS.3.2",
+   "kind": "passage",
+   "hash": "50cc84f2",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.2#p1-50cc84f2",
+     "text": "Which was given to prepare food Jos 1:11.",
+     "label": "b",
+     "anchor": "three days",
+     "refs": [
+      {
+       "text": "Jos 1:11",
+       "ref": "JOS.1.11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.8",
+   "range": "JOS.3.8",
+   "kind": "passage",
+   "hash": "475c458c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.8#p1-475c458c",
+     "text": "Even in the channel where the stream had run, Jos 3:17",
+     "label": "c",
+     "anchor": "in Jordan",
+     "refs": [
+      {
+       "text": "Jos 3:17",
+       "ref": "JOS.3.17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.10",
+   "range": "JOS.3.10",
+   "kind": "passage",
+   "hash": "f65e7faf",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.10#p1-f65e7faf",
+     "text": "By this miracle in dividing the water.",
+     "label": "d",
+     "anchor": "Hereby ye shall know that the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.12",
+   "range": "JOS.3.12",
+   "kind": "passage",
+   "hash": "37e165d5",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.12#p1-37e165d5",
+     "text": "Who would set up twelve stones in remembrance of the benefit.",
+     "label": "e",
+     "anchor": "twelve men out of the tribes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.15",
+   "range": "JOS.3.15",
+   "kind": "passage",
+   "hash": "307e12d6",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.15#p1-307e12d6",
+     "text": "Because the river was accustomed at this time to be full, the miracle is so much greater.",
+     "label": "f",
+     "anchor": "banks all the time of harvest"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.17",
+   "range": "JOS.3.17",
+   "kind": "passage",
+   "hash": "632c4325",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.17#p1-632c4325",
+     "text": "Either tarrying till the people were past, or as some read, sure, as though they had been on dry land.",
+     "label": "g",
+     "anchor": "firm on dry ground in the"
+    }
+   ]
+  }
+ ]
+}

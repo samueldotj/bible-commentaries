@@ -1,0 +1,153 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 30,
+ "units": [
+  {
+   "id": "geneva/NUM.30.1",
+   "range": "NUM.30.1",
+   "kind": "passage",
+   "hash": "80c2134d",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.1#p1-80c2134d",
+     "text": "Because they might declare them to the Israelites.",
+     "label": "a",
+     "anchor": "concerning the children of Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.4",
+   "range": "NUM.30.4",
+   "kind": "passage",
+   "hash": "3eb4fd6b",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.4#p1-3eb4fd6b",
+     "text": "For in so doing he approves her.",
+     "label": "b",
+     "anchor": "peace at her"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.5",
+   "range": "NUM.30.5",
+   "kind": "passage",
+   "hash": "c52473fd",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.5#p1-c52473fd",
+     "text": "By not approving or consenting to her vow.",
+     "label": "c",
+     "anchor": "father disallow her in the day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.6",
+   "range": "NUM.30.6",
+   "kind": "passage",
+   "hash": "598aaef2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.6#p1-598aaef2",
+     "text": "Either by oath, or solemn promise.",
+     "label": "d",
+     "anchor": "uttered ought out of her lips"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.8",
+   "range": "NUM.30.8",
+   "kind": "passage",
+   "hash": "5c3502a9",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.8#p1-5c3502a9",
+     "text": "For she is in subjection to her husband, and can perform nothing without his consent.",
+     "label": "e",
+     "anchor": "soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.9",
+   "range": "NUM.30.9",
+   "kind": "passage",
+   "hash": "687cb14f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.9#p1-687cb14f",
+     "text": "For they are not under the authority of the man.",
+     "label": "f",
+     "anchor": "against her"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.10",
+   "range": "NUM.30.10",
+   "kind": "passage",
+   "hash": "75ce6c89",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.10#p1-75ce6c89",
+     "text": "Her husband being alive.",
+     "label": "h",
+     "anchor": "house"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.13",
+   "range": "NUM.30.13",
+   "kind": "passage",
+   "hash": "47435d89",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.13#p1-47435d89",
+     "text": "To mortify herself by abstinence or other bodily exercise.",
+     "label": "h",
+     "anchor": "afflict the soul"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.14",
+   "range": "NUM.30.14",
+   "kind": "passage",
+   "hash": "43a3c0c9",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.14#p1-43a3c0c9",
+     "text": "And warn her not the same day that he hears it, as in Nu 30:8.",
+     "label": "i",
+     "anchor": "day to day",
+     "refs": [
+      {
+       "text": "Nu 30:8",
+       "ref": "NUM.30.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.15",
+   "range": "NUM.30.15",
+   "kind": "passage",
+   "hash": "13bf6b00",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.15#p1-13bf6b00",
+     "text": "Not the same day he heard them, but some day after, the sin will be imputed to him and not to her.",
+     "label": "k",
+     "anchor": "make them void after that he"
+    }
+   ]
+  }
+ ]
+}

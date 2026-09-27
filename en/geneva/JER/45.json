@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 45,
+ "units": [
+  {
+   "id": "geneva/JER.45.1",
+   "range": "JER.45.1",
+   "kind": "passage",
+   "hash": "44108666",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.1#p1-473ccaa9",
+     "text": "Who was Jeremiah's disciple, and wrote his prophecies under him.",
+     "label": "a",
+     "anchor": "Baruch the son of Neriah"
+    },
+    {
+     "id": "geneva/JER.45.1#p2-da246e4c",
+     "text": "Of which read Jer 36:9,10.",
+     "label": "b",
+     "anchor": "words in a book from the",
+     "refs": [
+      {
+       "text": "Jer 36:9,10",
+       "ref": "JER.36.9"
+      },
+      {
+       "text": "Jer 36:9,10",
+       "ref": "JER.36.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.3",
+   "range": "JER.45.3",
+   "kind": "passage",
+   "hash": "da1d4b64",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.3#p1-da1d4b64",
+     "text": "Baruch moved with an inconsiderate zeal for Jeremiah's imprisonment, but chiefly for the destruction of the people and the temple makes this lamentation, as in Ps 6:6.",
+     "label": "c",
+     "anchor": "fainted in my sighing",
+     "refs": [
+      {
+       "text": "Ps 6:6",
+       "ref": "PSA.6.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.4",
+   "range": "JER.45.4",
+   "kind": "passage",
+   "hash": "2614173d",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.4#p1-2614173d",
+     "text": "Meaning that God could destroy this people, because he had planted them.",
+     "label": "d",
+     "anchor": "break down"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.5",
+   "range": "JER.45.5",
+   "kind": "passage",
+   "hash": "b7605a41",
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.5#p1-17fa9bbc",
+     "text": "\"Do you think to have honour and credit?\" in which he shows his infirmity.",
+     "label": "e",
+     "anchor": "thou great things for thyself"
+    },
+    {
+     "id": "geneva/JER.45.5#p2-e408191d",
+     "text": "Read Jer 21:9.",
+     "label": "f",
+     "anchor": "a prize in all places where",
+     "refs": [
+      {
+       "text": "Jer 21:9",
+       "ref": "JER.21.9"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

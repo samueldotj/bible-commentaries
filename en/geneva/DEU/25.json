@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 25,
+ "units": [
+  {
+   "id": "geneva/DEU.25.1",
+   "range": "DEU.25.1",
+   "kind": "passage",
+   "hash": "003e5d26",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.1#p1-003e5d26",
+     "text": "Whether there is a plaintiff or not, the magistrates should try our faults, and punish according to the crime.",
+     "label": "a",
+     "anchor": "that the judges may judge them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.25.2",
+   "range": "DEU.25.2",
+   "kind": "passage",
+   "hash": "e56dd33c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.2#p1-e56dd33c",
+     "text": "When the crime does not deserve death.",
+     "label": "b",
+     "anchor": "and to be beaten before his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.25.3",
+   "range": "DEU.25.3",
+   "kind": "passage",
+   "hash": "7e59daae",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.3#p1-7e59daae",
+     "text": "The superstition Jews later removed one, 2Co 11:24.",
+     "label": "c",
+     "anchor": "Forty stripes he may give him",
+     "refs": [
+      {
+       "text": "2Co 11:24",
+       "ref": "2CO.11.24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.25.5",
+   "range": "DEU.25.5",
+   "kind": "passage",
+   "hash": "8c728108",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.5#p1-8c728108",
+     "text": "Because the Hebrew word does not signify the natural brother, and the word that signifies a brother, is taken also for a kinsman: it seems that it does not mean that the natural brother should marry his brothers wife, but some other kindred that was in the degree that might marry.",
+     "label": "d",
+     "anchor": "husband's brother shall go in unto"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.25.11",
+   "range": "DEU.25.11",
+   "kind": "passage",
+   "hash": "35599a8f",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.11#p1-35599a8f",
+     "text": "This law imputes that godly shamefacedness is preferred: for it is a horrible thing to see a woman past shame.",
+     "label": "e",
+     "anchor": "When men strive together one with"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.25.19",
+   "range": "DEU.25.19",
+   "kind": "passage",
+   "hash": "5afa163a",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.25.19#p1-5afa163a",
+     "text": "This was partly accomplished by Saul, about 450 years later.",
+     "label": "f",
+     "anchor": "remembrance of Amalek from under heaven"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/EST.7.4",
+   "range": "EST.7.4",
+   "kind": "passage",
+   "hash": "1ade53be",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.7.4#p1-1ade53be",
+     "text": "Haman could not profit the king by his malice as much he would hinder him by the loss of the Jews and the tribute which he had from them.",
+     "label": "b",
+     "anchor": "countervail the king's damage"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.7.7",
+   "range": "EST.7.7",
+   "kind": "passage",
+   "hash": "70a57534",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.7.7#p1-70a57534",
+     "text": "His conscience accused him that as he had conspired the death of innocents, so the vengeance of God would fall on him for the same.",
+     "label": "c",
+     "anchor": "evil determined against him by the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.7.8",
+   "range": "EST.7.8",
+   "kind": "passage",
+   "hash": "c3413ee1",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.7.8#p1-9cf8315a",
+     "text": "He fell down at the couch on which she sat and made request for his life.",
+     "label": "d",
+     "anchor": "fallen upon the bed whereon Esther"
+    },
+    {
+     "id": "geneva/EST.7.8#p2-fb2da342",
+     "text": "This was the manner of the Persians, when one was out of favour with the king.",
+     "label": "e",
+     "anchor": "covered Haman's face"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.7.9",
+   "range": "EST.7.9",
+   "kind": "passage",
+   "hash": "f343c042",
+   "paragraphs": [
+    {
+     "id": "geneva/EST.7.9#p1-f343c042",
+     "text": "Who discovered the conspiracy against the king, Es 2:21,22.",
+     "label": "f",
+     "anchor": "good for the king",
+     "refs": [
+      {
+       "text": "Es 2:21,22",
+       "ref": "EST.2.21"
+      },
+      {
+       "text": "Es 2:21,22",
+       "ref": "EST.2.22"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

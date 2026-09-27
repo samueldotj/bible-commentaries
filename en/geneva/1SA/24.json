@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 24,
+ "units": [
+  {
+   "id": "geneva/1SA.24.1",
+   "range": "1SA.24.1",
+   "kind": "passage",
+   "hash": "baf38c68",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.1#p1-baf38c68",
+     "text": "A city of Judah, Jos 15:62.",
+     "label": "b",
+     "anchor": "Engedi",
+     "refs": [
+      {
+       "text": "Jos 15:62",
+       "ref": "JOS.15.62"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.4",
+   "range": "1SA.24.4",
+   "kind": "passage",
+   "hash": "e31aa4cd",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.4#p1-e31aa4cd",
+     "text": "Here we see how ready we are to hasten God's promise, if the occasion serve never so little.",
+     "label": "c",
+     "anchor": "Behold the day of which the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.5",
+   "range": "1SA.24.5",
+   "kind": "passage",
+   "hash": "43035970",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.5#p1-43035970",
+     "text": "For seeing it was his own private cause, he repented that he had touched his enemy.",
+     "label": "d",
+     "anchor": "smote him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.9",
+   "range": "1SA.24.9",
+   "kind": "passage",
+   "hash": "162c773a",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.9#p1-162c773a",
+     "text": "Contrary to the report of those who said David was Saul's enemy, he proves himself to be his friend.",
+     "label": "e",
+     "anchor": "Wherefore hearest thou men's words"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.16",
+   "range": "1SA.24.16",
+   "kind": "passage",
+   "hash": "5e91e951",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.16#p1-5e91e951",
+     "text": "Though he was a cruel enemy to David, yet by his great gentleness his conscience compelled him to yield.",
+     "label": "f",
+     "anchor": "Is this thy voice"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.20",
+   "range": "1SA.24.20",
+   "kind": "passage",
+   "hash": "17850cb9",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.20#p1-17850cb9",
+     "text": "Though this tyrant saw and confessed the favour of God toward David, yet he did not cease to persecute him against his own conscience.",
+     "label": "g",
+     "anchor": "know well that thou shalt surely"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 23,
+ "units": [
+  {
+   "id": "geneva/1CH.23.13",
+   "range": "1CH.23.13",
+   "kind": "passage",
+   "hash": "e8edb0e9",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.13#p1-e8edb0e9",
+     "text": "That is, to serve in the most holy place, and to consecrate the holy things.",
+     "label": "a",
+     "anchor": "sanctify the most holy things"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.23.14",
+   "range": "1CH.23.14",
+   "kind": "passage",
+   "hash": "1279908c",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.14#p1-1279908c",
+     "text": "They were but of the order of the Levites and not of the priests as Aaron's sons.",
+     "label": "b",
+     "anchor": "tribe of Levi"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.23.17",
+   "range": "1CH.23.17",
+   "kind": "passage",
+   "hash": "c7624ed4",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.17#p1-c7624ed4",
+     "text": "The scripture calls him chief or first born even though he is alone and there is no one born after him, Mt 1:25.",
+     "label": "c",
+     "anchor": "chief",
+     "refs": [
+      {
+       "text": "Mt 1:25",
+       "ref": "MAT.1.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.23.22",
+   "range": "1CH.23.22",
+   "kind": "passage",
+   "hash": "c9ee86dd",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.22#p1-c9ee86dd",
+     "text": "Meaning their cousins.",
+     "label": "d",
+     "anchor": "brethren the sons of Kish took"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.23.24",
+   "range": "1CH.23.24",
+   "kind": "passage",
+   "hash": "bc03a820",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.24#p1-bc03a820",
+     "text": "David chose the Levites twice, first at the age of thirty as in 1Ch 23:3 and again afterward at twenty as the office required: at the beginning they had no charge in the temple before they were twenty-five years old, and had none after fifty, Nu 4:3.",
+     "label": "e",
+     "anchor": "twenty years and upward",
+     "refs": [
+      {
+       "text": "1Ch 23:3",
+       "ref": "1CH.23.3"
+      },
+      {
+       "text": "Nu 4:3",
+       "ref": "NUM.4.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.23.28",
+   "range": "1CH.23.28",
+   "kind": "passage",
+   "hash": "d33f3de4",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.23.28#p1-d33f3de4",
+     "text": "In washing and cleansing all the holy vessels.",
+     "label": "f",
+     "anchor": "purifying of all holy things"
+    }
+   ]
+  }
+ ]
+}

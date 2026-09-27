@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 17,
+ "units": [
+  {
+   "id": "geneva/PRO.17.1",
+   "range": "PRO.17.1",
+   "kind": "passage",
+   "hash": "07e39dc4",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.1#p1-07e39dc4",
+     "text": "For where there were many sacrifices, there were many portions given to the people, with which they feasted.",
+     "label": "a",
+     "anchor": "sacrifices with strife"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.2",
+   "range": "PRO.17.2",
+   "kind": "passage",
+   "hash": "b0c61ba5",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.2#p1-b0c61ba5",
+     "text": "That is, will be made governor over the children.",
+     "label": "b",
+     "anchor": "inheritance among the brethren"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.8",
+   "range": "PRO.17.8",
+   "kind": "passage",
+   "hash": "a0936e2f",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.8#p1-a0936e2f",
+     "text": "The reward has great force to gain the hearts of men.",
+     "label": "c",
+     "anchor": "turneth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.9",
+   "range": "PRO.17.9",
+   "kind": "passage",
+   "hash": "3ef62261",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.9#p1-3ef62261",
+     "text": "He that admonishes the prince of his fault makes him his enemy.",
+     "label": "d",
+     "anchor": "friends"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.11",
+   "range": "PRO.17.11",
+   "kind": "passage",
+   "hash": "b13bea12",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.11#p1-b13bea12",
+     "text": "By the messenger is meant such means as God uses to punish the rebels.",
+     "label": "e",
+     "anchor": "messenger shall be sent against him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.12",
+   "range": "PRO.17.12",
+   "kind": "passage",
+   "hash": "b99a842d",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.12#p1-b99a842d",
+     "text": "By which he means the wicked in his rage, who has no fear of God.",
+     "label": "f",
+     "anchor": "a fool in his folly"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.16",
+   "range": "PRO.17.16",
+   "kind": "passage",
+   "hash": "8bd66f08",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.16#p1-8bd66f08",
+     "text": "What good does it do the wicked to be rich, seeing he does not set his mind to wisdom?",
+     "label": "g",
+     "anchor": "price in the hand of a"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.17",
+   "range": "PRO.17.17",
+   "kind": "passage",
+   "hash": "de632df5",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.17#p1-de632df5",
+     "text": "So that he is more than a friend, even a brother that helps in time of adversity.",
+     "label": "h",
+     "anchor": "brother is born for adversity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.18",
+   "range": "PRO.17.18",
+   "kind": "passage",
+   "hash": "2f6dbd29",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.18#p1-2f6dbd29",
+     "text": "Read Pr 6:1.",
+     "label": "i",
+     "anchor": "striketh hands",
+     "refs": [
+      {
+       "text": "Pr 6:1",
+       "ref": "PRO.6.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.19",
+   "range": "PRO.17.19",
+   "kind": "passage",
+   "hash": "22e40ed4",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.19#p1-22e40ed4",
+     "text": "Lifts up himself above his degree.",
+     "label": "k",
+     "anchor": "gate seeketh destruction"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.23",
+   "range": "PRO.17.23",
+   "kind": "passage",
+   "hash": "e9e2e2b5",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.23#p1-e9e2e2b5",
+     "text": "That is, secretly and out of the bosom of the rich.",
+     "label": "l",
+     "anchor": "bosom to pervert the ways of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.24",
+   "range": "PRO.17.24",
+   "kind": "passage",
+   "hash": "648a1b04",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.24#p1-648a1b04",
+     "text": "That is, wander to and fro, and seek not after wisdom.",
+     "label": "m",
+     "anchor": "ends of the earth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.17.26",
+   "range": "PRO.17.26",
+   "kind": "passage",
+   "hash": "1306d0f8",
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.17.26#p1-1306d0f8",
+     "text": "For their well doing.",
+     "label": "n",
+     "anchor": "for equity"
+    }
+   ]
+  }
+ ]
+}

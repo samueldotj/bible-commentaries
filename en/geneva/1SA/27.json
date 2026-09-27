@@ -1,0 +1,83 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 27,
+ "units": [
+  {
+   "id": "geneva/1SA.27.1",
+   "range": "1SA.27.1",
+   "kind": "passage",
+   "hash": "07bbd5a0",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.1#p1-07bbd5a0",
+     "text": "David distrusts God's protection and therefore flees to the idolaters, who were enemies to God's people.",
+     "label": "a",
+     "anchor": "perish one day by the hand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.3",
+   "range": "1SA.27.3",
+   "kind": "passage",
+   "hash": "364243fc",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.3#p1-364243fc",
+     "text": "Thus God by his providence changes the enemies hearts, and makes them favour his in their need.",
+     "label": "b",
+     "anchor": "dwelt with Achish at Gath"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.5",
+   "range": "1SA.27.5",
+   "kind": "passage",
+   "hash": "30af3dcb",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.5#p1-30af3dcb",
+     "text": "Let your officers appoint me a place.",
+     "label": "c",
+     "anchor": "let them give me a place"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.8",
+   "range": "1SA.27.8",
+   "kind": "passage",
+   "hash": "05438040",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.8#p1-05438040",
+     "text": "These were the wicked Canaanites, whom God had appointed to be destroyed.",
+     "label": "d",
+     "anchor": "Geshurites"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.10",
+   "range": "1SA.27.10",
+   "kind": "passage",
+   "hash": "ccb27eb2",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.10#p1-ccb27eb2",
+     "text": "A family of the tribe of Judah, 1Ch 2:9.",
+     "label": "e",
+     "anchor": "Jerahmeelites",
+     "refs": [
+      {
+       "text": "1Ch 2:9",
+       "ref": "1CH.2.9"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

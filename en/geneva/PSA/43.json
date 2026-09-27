@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 43,
+ "units": [
+  {
+   "id": "geneva/PSA.43.1",
+   "range": "PSA.43.1",
+   "kind": "passage",
+   "hash": "2949bec7",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.1#p1-2cd55b5f",
+     "text": "He desires God to undertake his cause against the enemies but chiefly that he would restore him to the tabernacle.",
+     "label": "a",
+     "anchor": "me"
+    },
+    {
+     "id": "geneva/PSA.43.1#p2-fa4aaca5",
+     "text": "That is, the cruel company of my enemies.",
+     "label": "b",
+     "anchor": "nation"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.3",
+   "range": "PSA.43.3",
+   "kind": "passage",
+   "hash": "cc0f82b2",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.3#p1-cc0f82b2",
+     "text": "That is, your favour which appears by the performance of your promises.",
+     "label": "c",
+     "anchor": "light and thy truth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.4",
+   "range": "PSA.43.4",
+   "kind": "passage",
+   "hash": "7f18d2bb",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.4#p1-7f18d2bb",
+     "text": "He promises to offer a solemn sacrifice of thanksgiving in token of his great deliverance.",
+     "label": "d",
+     "anchor": "will I go unto the altar"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.5",
+   "range": "PSA.43.5",
+   "kind": "passage",
+   "hash": "03d599e0",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.5#p1-03d599e0",
+     "text": "By which he admonishes the faithful not to relent but constantly to wait on the Lord, though their troubles are long and great.",
+     "label": "e",
+     "anchor": "hope in God"
+    }
+   ]
+  }
+ ]
+}

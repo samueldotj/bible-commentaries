@@ -1,0 +1,789 @@
+{
+ "source": "geneva",
+ "book": "DAN",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/DAN.11.1",
+   "range": "DAN.11.1",
+   "kind": "passage",
+   "hash": "f3aaaf9b",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.1#p1-f3aaaf9b",
+     "text": "The angel assures Daniel that God has given him power to perform these things, seeing that he appointed him to assist Darius when he overcame the Chaldeans.",
+     "label": "a",
+     "anchor": "stood to confirm and to strengthen"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.2",
+   "range": "DAN.11.2",
+   "kind": "passage",
+   "hash": "90cd5211",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.2#p1-c59256b1",
+     "text": "Of which Cambyses that now reigned was the first, the second Smerdes, the third Darius the son of Hystaspis, and the fourth Xerxes, who all were enemies to the people of God, and stood against them.",
+     "label": "b",
+     "anchor": "three kings in Persia"
+    },
+    {
+     "id": "geneva/DAN.11.2#p2-1bf7bf87",
+     "text": "For he raised up all the east countries to fight against the Grecians, and even though he had in his army 900,000 men, yet in four battles he was defeated, and fled away with shame.",
+     "label": "c",
+     "anchor": "all against the realm of Grecia"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.3",
+   "range": "DAN.11.3",
+   "kind": "passage",
+   "hash": "c50b9ce2",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.3#p1-c50b9ce2",
+     "text": "That is, Alexander the Great.",
+     "label": "d",
+     "anchor": "mighty king shall stand up"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.4",
+   "range": "DAN.11.4",
+   "kind": "passage",
+   "hash": "72d5b44c",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.4#p1-795779c0",
+     "text": "For when his estate was most flourishing, he overcame himself with drink, and so fell into a disease: or as some write, was poisoned by Cassander.",
+     "label": "e",
+     "anchor": "his kingdom shall be broken"
+    },
+    {
+     "id": "geneva/DAN.11.4#p2-96896ab0",
+     "text": "For his twelve chief princes first divided his kingdom among themselves.",
+     "label": "f",
+     "anchor": "and shall be divided toward the"
+    },
+    {
+     "id": "geneva/DAN.11.4#p3-34be6f82",
+     "text": "After this his monarchy was divided into four: for Seleucus had Syria, Antigonus had Asia minor, Cassander had the kingdom of Macedonia, and Ptolemeus had Egypt.",
+     "label": "g",
+     "anchor": "four winds of heaven"
+    },
+    {
+     "id": "geneva/DAN.11.4#p4-6f964f8f",
+     "text": "Thus God avenged Alexander's ambition and cruelty, in causing his posterity to be murdered, partly by their father's chief friends, and partly by one another.",
+     "label": "h",
+     "anchor": "posterity"
+    },
+    {
+     "id": "geneva/DAN.11.4#p5-20ff1fc6",
+     "text": "None of these four will be able to be compared to the power of Alexander.",
+     "label": "i",
+     "anchor": "his dominion which he ruled"
+    },
+    {
+     "id": "geneva/DAN.11.4#p6-b3f87009",
+     "text": "That is, his posterity having no part of it.",
+     "label": "k",
+     "anchor": "those"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.5",
+   "range": "DAN.11.5",
+   "kind": "passage",
+   "hash": "14aa9d7c",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.5#p1-4a745836",
+     "text": "That is, Ptolemeus king of Egypt.",
+     "label": "l",
+     "anchor": "king of the south shall be"
+    },
+    {
+     "id": "geneva/DAN.11.5#p2-cd166ab5",
+     "text": "That is, Antiochus the son of Seleucus, and one of Alexander's princes will be more mighty: for he would have both Asia and Syria.",
+     "label": "m",
+     "anchor": "his princes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.6",
+   "range": "DAN.11.6",
+   "kind": "passage",
+   "hash": "641c5b07",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.6#p1-c3e523eb",
+     "text": "That is, Bernice the daughter of Ptolemais Philadelphus will be given in marriage to Antiochus Theos, thinking by this affinity that Syria and Egypt would have a continual peace together.",
+     "label": "n",
+     "anchor": "daughter of the south shall come"
+    },
+    {
+     "id": "geneva/DAN.11.6#p2-7d18fc95",
+     "text": "That power and strength will not continue: for soon after her husband's death, Bernice and her young son were slain by her stepson Seleicus Calinieus the son of Laodice, the lawful wife of Antiochus, but put away for this woman's sake.",
+     "label": "o",
+     "anchor": "arm"
+    },
+    {
+     "id": "geneva/DAN.11.6#p3-b1444aed",
+     "text": "Neither Ptolemais nor Antiochus.",
+     "label": "p",
+     "anchor": "he stand"
+    },
+    {
+     "id": "geneva/DAN.11.6#p4-b5774b85",
+     "text": "Some read \"seed\", meaning the child begotten by Bernice.",
+     "label": "q",
+     "anchor": "arm"
+    },
+    {
+     "id": "geneva/DAN.11.6#p5-6d37986d",
+     "text": "Some read, \"she that begat her\", and by this understand her nurse, who brought her up: so that all those who were part of this marriage were destroyed.",
+     "label": "r",
+     "anchor": "that begat her"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.7",
+   "range": "DAN.11.7",
+   "kind": "passage",
+   "hash": "1631b8cb",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.7#p1-697e3af7",
+     "text": "Meaning that Ptolemais Evergetes after the death of his father Philadelphus would succeed in the kingdom, being of the same stock that Bernice was.",
+     "label": "s",
+     "anchor": "roots shall one stand up in"
+    },
+    {
+     "id": "geneva/DAN.11.7#p2-259c9092",
+     "text": "To revenge the sister's death against Antiochus Calinicus King of Syria.",
+     "label": "t",
+     "anchor": "which shall come with an army"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.8",
+   "range": "DAN.11.8",
+   "kind": "passage",
+   "hash": "e7d1dd58",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.8#p1-e7d1dd58",
+     "text": "For this Ptolemais reigned forty-six years.",
+     "label": "u",
+     "anchor": "more years than the king of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.10",
+   "range": "DAN.11.10",
+   "kind": "passage",
+   "hash": "4dc43c00",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.10#p1-3ad3eda2",
+     "text": "Meaning Seleucus and Antiochus the great, the sons of Calinicus, will make war against Ptolemais Philopater, the son of Philadelphus.",
+     "label": "x",
+     "anchor": "sons shall be stirred up"
+    },
+    {
+     "id": "geneva/DAN.11.10#p2-8212c766",
+     "text": "For his older brother Seleucus died, or was slain while the armies were preparing for war.",
+     "label": "y",
+     "anchor": "shall certainly come"
+    },
+    {
+     "id": "geneva/DAN.11.10#p3-a9488fbe",
+     "text": "That is, Philopater, when he will see Antiochus take great dominions from him in Syria, and also ready to invade Egypt.",
+     "label": "z",
+     "anchor": "return"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.11",
+   "range": "DAN.11.11",
+   "kind": "passage",
+   "hash": "45458fe9",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.11#p1-45458fe9",
+     "text": "For Antioch had 6,000 horsemen, and 60,000 footmen.",
+     "label": "a",
+     "anchor": "multitude"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.13",
+   "range": "DAN.11.13",
+   "kind": "passage",
+   "hash": "fd53a24f",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.13#p1-fd53a24f",
+     "text": "After the death of Ptolemais Philopater, who left Ptolemais Epiphanes as his heir.",
+     "label": "b",
+     "anchor": "shall return"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.14",
+   "range": "DAN.11.14",
+   "kind": "passage",
+   "hash": "eaa04f47",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.14#p1-f80e7bfa",
+     "text": "For not only Antaiochus came against him, but also Philip King of Macedonia, and these two brought great power with them.",
+     "label": "c",
+     "anchor": "many stand up against the king"
+    },
+    {
+     "id": "geneva/DAN.11.14#p2-6f5a8737",
+     "text": "For under Onies, who falsely alleged that place of Isa 19:19, certain of the Jews retired with him into Egypt to fulfil this prophecy: also the angel shows that all these troubles which are in the Church, are by the providence and counsel of God.",
+     "label": "d",
+     "anchor": "people shall exalt themselves to establish",
+     "refs": [
+      {
+       "text": "Isa 19:19",
+       "ref": "ISA.19.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.15",
+   "range": "DAN.11.15",
+   "kind": "passage",
+   "hash": "3d0372a6",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.15#p1-3d0372a6",
+     "text": "The Egyptians were not able to resist Stopas, Antiochus' captain.",
+     "label": "e",
+     "anchor": "not withstand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.16",
+   "range": "DAN.11.16",
+   "kind": "passage",
+   "hash": "020d5801",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.16#p1-020d5801",
+     "text": "He shows that he will not only afflict the Egyptians, but also the Jews, and will enter into their country, of which he admonished them before, that they may know that all these things came by God's providence.",
+     "label": "f",
+     "anchor": "glorious land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.17",
+   "range": "DAN.11.17",
+   "kind": "passage",
+   "hash": "f9309245",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.17#p1-a86fe56c",
+     "text": "This was the second battle that Antiochus fought against Ptolemais Epiphanes.",
+     "label": "g",
+     "anchor": "set his face to enter with"
+    },
+    {
+     "id": "geneva/DAN.11.17#p2-12799291",
+     "text": "That is, a beautiful woman who was Cleopatra, Antiochus' daughter.",
+     "label": "h",
+     "anchor": "daughter of women"
+    },
+    {
+     "id": "geneva/DAN.11.17#p3-53ac636f",
+     "text": "For he did not regard the life of his daughter in respect of the kingdom of Egypt.",
+     "label": "i",
+     "anchor": "her"
+    },
+    {
+     "id": "geneva/DAN.11.17#p4-0bcd2146",
+     "text": "She will not agree to his wicked counsel, but will love her husband, as her duty requires, and not seek his destruction.",
+     "label": "k",
+     "anchor": "she shall not stand on his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.18",
+   "range": "DAN.11.18",
+   "kind": "passage",
+   "hash": "90b7893c",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.18#p1-3fd71c05",
+     "text": "That is, towards Asia, Greece, and those isles which are in the Mediterranean Sea: for the Jews called all countries which were divided by the sea \"isles\".",
+     "label": "l",
+     "anchor": "isles"
+    },
+    {
+     "id": "geneva/DAN.11.18#p2-7f37ce63",
+     "text": "For whereas Antiochus was accustomed to condemn the Romans, and put their ambassadors to shame in all places, Attilius the consul, or Lucius Scipio put him to flight, and caused his shame to turn on his own head.",
+     "label": "m",
+     "anchor": "shall cause the reproach offered by"
+    },
+    {
+     "id": "geneva/DAN.11.18#p3-10af4133",
+     "text": "By his wicked life, and obedience to foolish counsel.",
+     "label": "n",
+     "anchor": "him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.19",
+   "range": "DAN.11.19",
+   "kind": "passage",
+   "hash": "a0e83b80",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.19#p1-82f4aaf3",
+     "text": "For fear of the Romans he will flee to his strongholds.",
+     "label": "o",
+     "anchor": "his own land"
+    },
+    {
+     "id": "geneva/DAN.11.19#p2-33334d3d",
+     "text": "For when as under the pretence of poverty he would have robbed the temple of Jupiter Dodomeus, the countrymen slew him.",
+     "label": "p",
+     "anchor": "found"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.20",
+   "range": "DAN.11.20",
+   "kind": "passage",
+   "hash": "b686c72d",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.20#p1-8d033931",
+     "text": "That is, Seleuchus will succeed his father Antiochus.",
+     "label": "q",
+     "anchor": "Then shall stand up in his"
+    },
+    {
+     "id": "geneva/DAN.11.20#p2-31f28d48",
+     "text": "Not by foreign enemies, or battle, but by treason.",
+     "label": "r",
+     "anchor": "anger"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.21",
+   "range": "DAN.11.21",
+   "kind": "passage",
+   "hash": "c94c260a",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.21#p1-c94c260a",
+     "text": "Who was Antiochus Epiphanes, who as is thought was the occasion of Seleucus his brother's death, and was of a vile, cruel, and flattering nature, and defrauded his brother's son of the kingdom, and usurped the kingdom without the consent of the people.",
+     "label": "s",
+     "anchor": "vile person"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.22",
+   "range": "DAN.11.22",
+   "kind": "passage",
+   "hash": "3e6f7fa3",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.22#p1-a22d7b16",
+     "text": "He shows that great foreign powers will come to help the young son of Seleucus against his uncle Antiochus, and yet will be overthrown.",
+     "label": "t",
+     "anchor": "arms of a flood shall they"
+    },
+    {
+     "id": "geneva/DAN.11.22#p2-e4e1fc4a",
+     "text": "Meaning Ptolemais Philopater's son, who was this child's cousin, and is here called the prince of the covenant, because he was the chief, and all others followed his conduct.",
+     "label": "u",
+     "anchor": "covenant"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.23",
+   "range": "DAN.11.23",
+   "kind": "passage",
+   "hash": "23137f81",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.23#p1-7d589e5e",
+     "text": "For after the battle, Philometor and his uncle Antiochus made a league.",
+     "label": "x",
+     "anchor": "the league made with him he"
+    },
+    {
+     "id": "geneva/DAN.11.23#p2-4e5b3ae4",
+     "text": "For he came upon him by surprise, and when he did not suspect his uncle Antiochus at all.",
+     "label": "y",
+     "anchor": "small people"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.24",
+   "range": "DAN.11.24",
+   "kind": "passage",
+   "hash": "dd2f2c9c",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.24#p1-8c599944",
+     "text": "Meaning, in Egypt.",
+     "label": "z",
+     "anchor": "have not done"
+    },
+    {
+     "id": "geneva/DAN.11.24#p2-aba234a7",
+     "text": "He will content himself with the small strongholds for a time, but will always labour by craft to attain to the chiefest.",
+     "label": "a",
+     "anchor": "time"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.25",
+   "range": "DAN.11.25",
+   "kind": "passage",
+   "hash": "1cd421c0",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.25#p1-1cd421c0",
+     "text": "He will be overcome with treason.",
+     "label": "b",
+     "anchor": "stand"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.26",
+   "range": "DAN.11.26",
+   "kind": "passage",
+   "hash": "1ea3c653",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.26#p1-cecdb6ff",
+     "text": "Signifying his princes and the chief men about him.",
+     "label": "c",
+     "anchor": "his meat shall destroy him"
+    },
+    {
+     "id": "geneva/DAN.11.26#p2-89a4bd0a",
+     "text": "Declaring that his soldiers will break out and venture their life to stay and to be slain for the safeguard of their prince.",
+     "label": "d",
+     "anchor": "shall overflow"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.27",
+   "range": "DAN.11.27",
+   "kind": "passage",
+   "hash": "6cfa690e",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.27#p1-e029f492",
+     "text": "The uncle and the nephew will make truce, and banquet together, yet in their hearts they will imagine mischief against one another.",
+     "label": "e",
+     "anchor": "mischief"
+    },
+    {
+     "id": "geneva/DAN.11.27#p2-e175a855",
+     "text": "Signifying that it depends not on the counsel of men to bring things to pass, but on the providence of God, who rules the kings by a secret bridle, so that they cannot do what they themselves wish.",
+     "label": "f",
+     "anchor": "yet the end shall be at"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.28",
+   "range": "DAN.11.28",
+   "kind": "passage",
+   "hash": "8a57ff36",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.28#p1-8a57ff36",
+     "text": "Which he will take from the Jews in spoiling Jerusalem and the temple, and this is told them before to exhort them to be patient, knowing that all things are done by God's providence.",
+     "label": "g",
+     "anchor": "riches"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.30",
+   "range": "DAN.11.30",
+   "kind": "passage",
+   "hash": "1974416b",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.30#p1-8038b3f7",
+     "text": "That is, the Roman power will come against him: for P. Popilius the ambassador appointed him to depart in the Romans' name, which he obeyed, although with grief, and to avenge his rage he came against the people of God the second time.",
+     "label": "h",
+     "anchor": "of Chittim shall come against him"
+    },
+    {
+     "id": "geneva/DAN.11.30#p2-877d7901",
+     "text": "With the Jews who will forsake the covenant of the Lord: for first he was called against the Jews by Jason the high priest, and this second time by Menelaus.",
+     "label": "i",
+     "anchor": "and have intelligence with them that"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.31",
+   "range": "DAN.11.31",
+   "kind": "passage",
+   "hash": "e6581738",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.31#p1-eb6139c7",
+     "text": "A great faction of the wicked Jews will join with Antiochus.",
+     "label": "k",
+     "anchor": "shall stand on his part"
+    },
+    {
+     "id": "geneva/DAN.11.31#p2-1aff2300",
+     "text": "So called because the power of God was not at all diminished, even though this tyrant set up in the temple the image of Jupiter Olympius, and so began to corrupt the pure service of God.",
+     "label": "l",
+     "anchor": "of strength"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.32",
+   "range": "DAN.11.32",
+   "kind": "passage",
+   "hash": "3d48f99c",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.32#p1-3d48f99c",
+     "text": "Meaning those who had the name of Jews, but indeed were not Jews at all, for they sold their souls, and betrayed their brethren for gain.",
+     "label": "m",
+     "anchor": "against the covenant shall he corrupt"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.33",
+   "range": "DAN.11.33",
+   "kind": "passage",
+   "hash": "6d2d7768",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.33#p1-16a1b7e9",
+     "text": "Those that remain constant among the people will teach others by their example, and edify many in the true religion.",
+     "label": "n",
+     "anchor": "people shall instruct many"
+    },
+    {
+     "id": "geneva/DAN.11.33#p2-060aff6e",
+     "text": "By which he exhorts the godly to constancy, even though they should perish a thousand times, and even though their miseries endure ever so long.",
+     "label": "o",
+     "anchor": "yet they shall fall by the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.34",
+   "range": "DAN.11.34",
+   "kind": "passage",
+   "hash": "a6b84994",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.34#p1-49237822",
+     "text": "As God will not leave his Church destitute, yet he will not deliver it all at once, but help in such a way that they may still seem to fight under the cross, as he did in the time of the Maccabees, of which he here prophesies.",
+     "label": "p",
+     "anchor": "little help"
+    },
+    {
+     "id": "geneva/DAN.11.34#p2-8868c825",
+     "text": "That is, there will even be among this small number many hypocrites.",
+     "label": "q",
+     "anchor": "with flatteries"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.35",
+   "range": "DAN.11.35",
+   "kind": "passage",
+   "hash": "7d50bed6",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.35#p1-7d50bed6",
+     "text": "That is, of those that fear God and will lose their life for the defence of true religion. Signifying also that the Church must continually be tried and purged, and ought to look for one persecution after another: for God has appointed the time, and therefore we must obey.",
+     "label": "r",
+     "anchor": "of understanding shall fall"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.36",
+   "range": "DAN.11.36",
+   "kind": "passage",
+   "hash": "d6b82133",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.36#p1-117e8dfd",
+     "text": "Because the angels purpose is to show the whole course of the persecutions of the Jews until the coming of Christ, he now speaks of the monarchy of the Romans, which he notes by the name of a king, who were without religion and condemned the true God.",
+     "label": "s",
+     "anchor": "king shall do according to his"
+    },
+    {
+     "id": "geneva/DAN.11.36#p2-a41b261e",
+     "text": "So long the tyrants will prevail as God has appointed to punish his people: but he shows that it is but for a time.",
+     "label": "t",
+     "anchor": "be accomplished"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.37",
+   "range": "DAN.11.37",
+   "kind": "passage",
+   "hash": "9f63ed03",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.37#p1-c81ff6a0",
+     "text": "The Romans will observe no certain form of religion as other nations, but will change their gods at their pleasures, indeed, they will condemn them and prefer themselves to their gods.",
+     "label": "u",
+     "anchor": "God of his fathers"
+    },
+    {
+     "id": "geneva/DAN.11.37#p2-9899572e",
+     "text": "Signifying that they would be without all humanity: for the love of women is taken for singular or great love, as 2Sa 1:26.",
+     "label": "x",
+     "anchor": "of women",
+     "refs": [
+      {
+       "text": "2Sa 1:26",
+       "ref": "2SA.1.26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.38",
+   "range": "DAN.11.38",
+   "kind": "passage",
+   "hash": "209f72e8",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.38#p1-e60fe919",
+     "text": "That is, the god of power and riches: they will esteem their own power above all their gods and worship it.",
+     "label": "y",
+     "anchor": "God of forces"
+    },
+    {
+     "id": "geneva/DAN.11.38#p2-e31eaa95",
+     "text": "Under pretence of worshipping the gods, they will enrich their city with the most precious jewels of all the world, because by this all men would hold them in admiration for their power and riches.",
+     "label": "z",
+     "anchor": "gold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.39",
+   "range": "DAN.11.39",
+   "kind": "passage",
+   "hash": "556d1203",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.39#p1-556d1203",
+     "text": "Even though in their hearts they had no religion, yet they did acknowledge the gods, and worshipped them in their temples, lest they should have been despised as atheists. But this was to increase their fame and riches, and when they gained any country, they made others the rulers of it in such a way that the profit always came to the Romans.",
+     "label": "a",
+     "anchor": "the most strong holds with a"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.40",
+   "range": "DAN.11.40",
+   "kind": "passage",
+   "hash": "816f57b2",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.40#p1-816f57b2",
+     "text": "That is, both the Egyptians and the Syrians will at length fight against the Romans, but they will be overcome.",
+     "label": "b",
+     "anchor": "south push at him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.41",
+   "range": "DAN.11.41",
+   "kind": "passage",
+   "hash": "0c8fe382",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.41#p1-0c8fe382",
+     "text": "The angel forewarns the Jews that when they should see the Romans invade them, and that the wicked would escape their hands, that then they should think that all this was done by God's providence, seeing that he warned them of it so long before, and therefore he would still preserve them.",
+     "label": "c",
+     "anchor": "glorious land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.44",
+   "range": "DAN.11.44",
+   "kind": "passage",
+   "hash": "4a2b6ea1",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.44#p1-5f268387",
+     "text": "Hearing that Crassus was slain, and Antonius defeated.",
+     "label": "d",
+     "anchor": "trouble him"
+    },
+    {
+     "id": "geneva/DAN.11.44#p2-030f320e",
+     "text": "For Augustus overcame the Parthians, and recovered that which Antonius had lost.",
+     "label": "e",
+     "anchor": "with great fury to destroy"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DAN.11.45",
+   "range": "DAN.11.45",
+   "kind": "passage",
+   "hash": "cc8f3370",
+   "paragraphs": [
+    {
+     "id": "geneva/DAN.11.45#p1-cc8f3370",
+     "text": "The Romans after this reigned quietly throughout all countries, and from sea to sea, and in Judea: but at length because of their cruelty God will destroy them.",
+     "label": "f",
+     "anchor": "of his palace between the seas"
+    }
+   ]
+  }
+ ]
+}

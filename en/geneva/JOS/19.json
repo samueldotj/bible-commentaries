@@ -1,0 +1,167 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 19,
+ "units": [
+  {
+   "id": "geneva/JOS.19.1",
+   "range": "JOS.19.1",
+   "kind": "passage",
+   "hash": "e6c663dc",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.1#p1-e6c663dc",
+     "text": "According to Jacob's prophecy that he would be scattered among the other tribes.",
+     "label": "a",
+     "anchor": "within the inheritance of the children"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.9",
+   "range": "JOS.19.9",
+   "kind": "passage",
+   "hash": "fa4c936b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.9#p1-fa4c936b",
+     "text": "But this large portion was given them by God's providence to declare their increase in time to come.",
+     "label": "b",
+     "anchor": "much for them"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.11",
+   "range": "JOS.19.11",
+   "kind": "passage",
+   "hash": "4603c451",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.11#p1-4603c451",
+     "text": "Or, westward, toward the great sea.",
+     "label": "c",
+     "anchor": "toward the sea"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.15",
+   "range": "JOS.19.15",
+   "kind": "passage",
+   "hash": "b0b501ae",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.15#p1-b0b501ae",
+     "text": "There was another Bethlehem in the tribe of Judah.",
+     "label": "d",
+     "anchor": "Bethlehem"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.21",
+   "range": "JOS.19.21",
+   "kind": "passage",
+   "hash": "89b6897f",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.21#p1-89b6897f",
+     "text": "There was another city of this name in the tribe of Judah: for in various tribes certain cities had the same name, and were distinguished by the tribe only.",
+     "label": "e",
+     "anchor": "Engannim"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.27",
+   "range": "JOS.19.27",
+   "kind": "passage",
+   "hash": "0a5bb95c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.27#p1-0a5bb95c",
+     "text": "Joins to the tribe of Zebulun, which lay more to the east.",
+     "label": "f",
+     "anchor": "Zebulun"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.29",
+   "range": "JOS.19.29",
+   "kind": "passage",
+   "hash": "3b52fc1b",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.29#p1-3b52fc1b",
+     "text": "Which was Zoar, a strong city at the sea.",
+     "label": "g",
+     "anchor": "Tyre"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.33",
+   "range": "JOS.19.33",
+   "kind": "passage",
+   "hash": "caf5492c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.33#p1-caf5492c",
+     "text": "These cities were in the country of Zaanannim.",
+     "label": "h",
+     "anchor": "Heleph"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.35",
+   "range": "JOS.19.35",
+   "kind": "passage",
+   "hash": "3d16ee28",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.35#p1-3d16ee28",
+     "text": "Of which the lake of Gennesaret had its name.",
+     "label": "i",
+     "anchor": "Chinnereth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.46",
+   "range": "JOS.19.46",
+   "kind": "passage",
+   "hash": "8faa5544",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.46#p1-8faa5544",
+     "text": "Called Joppa.",
+     "label": "k",
+     "anchor": "Japho"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.47",
+   "range": "JOS.19.47",
+   "kind": "passage",
+   "hash": "8d0c7b1c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.47#p1-8d0c7b1c",
+     "text": "According as Jacob had prophesied in Ge 49:17.",
+     "label": "l",
+     "anchor": "fight against Leshem",
+     "refs": [
+      {
+       "text": "Ge 49:17",
+       "ref": "GEN.49.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/DEU.11.2",
+   "range": "DEU.11.2",
+   "kind": "passage",
+   "hash": "fb4e6299",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.2#p1-fb4e6299",
+     "text": "You who have seen God's graces with your eyes should be moved, rather than your children who have only heard of them.",
+     "label": "a",
+     "anchor": "know ye this day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.5",
+   "range": "DEU.11.5",
+   "kind": "passage",
+   "hash": "21f4f83c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.5#p1-21f4f83c",
+     "text": "As well concerning his benefits, as his corrections.",
+     "label": "b",
+     "anchor": "what he did unto you in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.8",
+   "range": "DEU.11.8",
+   "kind": "passage",
+   "hash": "0a7ea255",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.8#p1-0a7ea255",
+     "text": "Because you have felt both his chastisement and his benefits.",
+     "label": "c",
+     "anchor": "all the commandments which I command"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.10",
+   "range": "DEU.11.10",
+   "kind": "passage",
+   "hash": "5cb370e4",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.10#p1-5cb370e4",
+     "text": "By making gutters for the water to come out of the Nile river to water the land.",
+     "label": "d",
+     "anchor": "foot"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.14",
+   "range": "DEU.11.14",
+   "kind": "passage",
+   "hash": "92b32dfa",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.14#p1-92b32dfa",
+     "text": "In the seed time, and toward harvest.",
+     "label": "e",
+     "anchor": "the first rain and the latter"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.16",
+   "range": "DEU.11.16",
+   "kind": "passage",
+   "hash": "c413e428",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.16#p1-c413e428",
+     "text": "By devising foolish devotions according to your own fantasies.",
+     "label": "f",
+     "anchor": "deceived"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.21",
+   "range": "DEU.11.21",
+   "kind": "passage",
+   "hash": "1caa4736",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.21#p1-1caa4736",
+     "text": "As long as the heavens and earth endure, 2Pe 3:10,12.",
+     "label": "g",
+     "anchor": "the days of heaven upon the",
+     "refs": [
+      {
+       "text": "2Pe 3:10,12",
+       "ref": "2PE.3.10"
+      },
+      {
+       "text": "2Pe 3:10,12",
+       "ref": "2PE.3.12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.24",
+   "range": "DEU.11.24",
+   "kind": "passage",
+   "hash": "d57c855c",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.24#p1-9e544a49",
+     "text": "This was accomplished in David and Solomon's time.",
+     "label": "h",
+     "anchor": "your feet shall tread shall be"
+    },
+    {
+     "id": "geneva/DEU.11.24#p2-4599f160",
+     "text": "The Mediterranean.",
+     "label": "i",
+     "anchor": "sea shall your coast be"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.28",
+   "range": "DEU.11.28",
+   "kind": "passage",
+   "hash": "59080c55",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.28#p1-59080c55",
+     "text": "He reproves the malice of men who leave that which is certain to follow that which is uncertain.",
+     "label": "k",
+     "anchor": "known"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.30",
+   "range": "DEU.11.30",
+   "kind": "passage",
+   "hash": "32c2f74d",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.30#p1-32c2f74d",
+     "text": "Meaning, in Samaria.",
+     "label": "l",
+     "anchor": "where the sun goeth down"
+    }
+   ]
+  }
+ ]
+}

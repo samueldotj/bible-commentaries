@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/PSA.11.1",
+   "range": "PSA.11.1",
+   "kind": "passage",
+   "hash": "4ce76c53",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.1#p1-4ce76c53",
+     "text": "This is the wicked counsel of his enemies to him and his companions to drive him from the hope of God's promise.",
+     "label": "a",
+     "anchor": "Flee as a bird to your"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.3",
+   "range": "PSA.11.3",
+   "kind": "passage",
+   "hash": "1fe39ad3",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.3#p1-5433778e",
+     "text": "All hope of help is taken away.",
+     "label": "b",
+     "anchor": "foundations be destroyed"
+    },
+    {
+     "id": "geneva/PSA.11.3#p2-9af1ba03",
+     "text": "Yet am I innocent and my cause good.",
+     "label": "c",
+     "anchor": "righteous do"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.4",
+   "range": "PSA.11.4",
+   "kind": "passage",
+   "hash": "fcc77d2c",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.4#p1-fcc77d2c",
+     "text": "Though all things in earth are out of order, yet God will execute judgment from heaven.",
+     "label": "d",
+     "anchor": "behold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.6",
+   "range": "PSA.11.6",
+   "kind": "passage",
+   "hash": "cbc317fe",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.6#p1-8fe7e74b",
+     "text": "As in the destruction of Sodom and Gomorrah.",
+     "label": "e",
+     "anchor": "fire and brimstone"
+    },
+    {
+     "id": "geneva/PSA.11.6#p2-de17b64a",
+     "text": "Which they will drink even to the dregs, Eze 23:34.",
+     "label": "f",
+     "anchor": "portion of their cup",
+     "refs": [
+      {
+       "text": "Eze 23:34",
+       "ref": "EZK.23.34"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

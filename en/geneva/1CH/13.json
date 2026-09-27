@@ -1,0 +1,123 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 13,
+ "units": [
+  {
+   "id": "geneva/1CH.13.3",
+   "range": "1CH.13.3",
+   "kind": "passage",
+   "hash": "790152a0",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.3#p1-790152a0",
+     "text": "His first concern was to restore religion, which had in Saul's day been corrupted and neglected.",
+     "label": "a",
+     "anchor": "ark of our God to us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.5",
+   "range": "1CH.13.5",
+   "kind": "passage",
+   "hash": "d496d6be",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.5#p1-d496d6be",
+     "text": "That is, from Gibea, where the inhabitants of Kirjathjearim had placed it in the house of Abinadab, 2Sa 6:3.",
+     "label": "b",
+     "anchor": "Kirjathjearim",
+     "refs": [
+      {
+       "text": "2Sa 6:3",
+       "ref": "2SA.6.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.7",
+   "range": "1CH.13.7",
+   "kind": "passage",
+   "hash": "e97a4000",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.7#p1-e97a4000",
+     "text": "The sons of Abinadab.",
+     "label": "c",
+     "anchor": "drave the cart"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.8",
+   "range": "1CH.13.8",
+   "kind": "passage",
+   "hash": "1eb01362",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.8#p1-1eb01362",
+     "text": "That is, before the Ark, where God showed himself: so that the sign is taken for the thing signified, which is common to all sacraments both in the old and new testaments.",
+     "label": "d",
+     "anchor": "God with all their might"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.9",
+   "range": "1CH.13.9",
+   "kind": "passage",
+   "hash": "0dc700e2",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.9#p1-0dc700e2",
+     "text": "Called also Nachon, 2Sa 6:6.",
+     "label": "e",
+     "anchor": "Chidon",
+     "refs": [
+      {
+       "text": "2Sa 6:6",
+       "ref": "2SA.6.6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.10",
+   "range": "1CH.13.10",
+   "kind": "passage",
+   "hash": "ddf79634",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.10#p1-ddf79634",
+     "text": "Before the Ark for usurping that which did not belong to his calling: for this charge was given to the priests, Nu 4:15, so that here all good intentions are condemned, unless they are commanded by the word of God.",
+     "label": "f",
+     "anchor": "before God",
+     "refs": [
+      {
+       "text": "Nu 4:15",
+       "ref": "NUM.4.15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.13.13",
+   "range": "1CH.13.13",
+   "kind": "passage",
+   "hash": "fba99503",
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.13.13#p1-fba99503",
+     "text": "Who was a Levite, and called Gittite, because he dwelt at Gath.",
+     "label": "g",
+     "anchor": "Obededom the Gittite"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 5,
+ "units": [
+  {
+   "id": "geneva/EXO.5.1",
+   "range": "EXO.5.1",
+   "kind": "passage",
+   "hash": "7e8fe94d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.1#p1-b7a74b19",
+     "text": "Faith overcomes fear, and makes men bold in their calling.",
+     "label": "a",
+     "anchor": "Pharaoh"
+    },
+    {
+     "id": "geneva/EXO.5.1#p2-4b9644e0",
+     "text": "And offer sacrifice.",
+     "label": "b",
+     "anchor": "hold a feast unto me in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.5",
+   "range": "EXO.5.5",
+   "kind": "passage",
+   "hash": "57b0acfc",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.5#p1-57b0acfc",
+     "text": "As though you would rebel.",
+     "label": "c",
+     "anchor": "make them rest from their burdens"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.6",
+   "range": "EXO.5.6",
+   "kind": "passage",
+   "hash": "7918fa0e",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.6#p1-7918fa0e",
+     "text": "Who were of the Israelites, and had charge to see them do their work.",
+     "label": "d",
+     "anchor": "officers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.9",
+   "range": "EXO.5.9",
+   "kind": "passage",
+   "hash": "75807d40",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.9#p1-f7f7d369",
+     "text": "The more cruelly the tyranny rages, the nearer is God's help.",
+     "label": "e",
+     "anchor": "Let there more work be laid"
+    },
+    {
+     "id": "geneva/EXO.5.9#p2-ec050f19",
+     "text": "Of Moses and Aaron.",
+     "label": "f",
+     "anchor": "vain words"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.21",
+   "range": "EXO.5.21",
+   "kind": "passage",
+   "hash": "338e3bd0",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.21#p1-338e3bd0",
+     "text": "It is a grievous things for the servants of God to be accused of evil, especially by their brethren, when they do what their duty requires.",
+     "label": "g",
+     "anchor": "put a sword in their hand"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 15,
+ "units": [
+  {
+   "id": "geneva/JOB.15.2",
+   "range": "JOB.15.2",
+   "kind": "passage",
+   "hash": "9ea497e9",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.2#p1-03c5e5f5",
+     "text": "That is, vain words, and without consolation?",
+     "label": "a",
+     "anchor": "vain knowledge"
+    },
+    {
+     "id": "geneva/JOB.15.2#p2-57576ead",
+     "text": "Meaning, with matters that are of no importance, which are forgotten as soon as they are uttered, as the East wind dries up moisture as soon as it falls.",
+     "label": "b",
+     "anchor": "with the east wind"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.4",
+   "range": "JOB.15.4",
+   "kind": "passage",
+   "hash": "c679f1ab",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.4#p1-c679f1ab",
+     "text": "He charges Job as though his talk caused men to cast off the fear of God and prayer.",
+     "label": "c",
+     "anchor": "fear"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.5",
+   "range": "JOB.15.5",
+   "kind": "passage",
+   "hash": "e905ad04",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.5#p1-e905ad04",
+     "text": "You speak as the mockers and contemners of God do.",
+     "label": "d",
+     "anchor": "tongue of the crafty"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.7",
+   "range": "JOB.15.7",
+   "kind": "passage",
+   "hash": "438dd01e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.7#p1-438dd01e",
+     "text": "That is, the most ancient and so by reason the most wise?",
+     "label": "e",
+     "anchor": "first man that was born"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.8",
+   "range": "JOB.15.8",
+   "kind": "passage",
+   "hash": "d6aae822",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.8#p1-d6aae822",
+     "text": "Are you only wise?",
+     "label": "f",
+     "anchor": "to thyself"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.11",
+   "range": "JOB.15.11",
+   "kind": "passage",
+   "hash": "7a6d5415",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.11#p1-7a6d5415",
+     "text": "He accuses Job's pride and ingratitude, that will not be comforted by God, but by their counsel.",
+     "label": "g",
+     "anchor": "small with thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.12",
+   "range": "JOB.15.12",
+   "kind": "passage",
+   "hash": "efabaa90",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.12#p1-efabaa90",
+     "text": "Why do you stand in your own conceit?",
+     "label": "h",
+     "anchor": "carry thee away"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.14",
+   "range": "JOB.15.14",
+   "kind": "passage",
+   "hash": "93b1198a",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.14#p1-93b1198a",
+     "text": "His purpose is to prove that Job, as an unjust man and a hypocrite, is punished for his sins, as he did before, Job 4:8.",
+     "label": "i",
+     "anchor": "be righteous",
+     "refs": [
+      {
+       "text": "Job 4:8",
+       "ref": "JOB.4.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.16",
+   "range": "JOB.15.16",
+   "kind": "passage",
+   "hash": "cbd3a18a",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.16#p1-cbd3a18a",
+     "text": "Who has a desire to sin, as he who is thirsty to drink.",
+     "label": "k",
+     "anchor": "drinketh iniquity like water"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.19",
+   "range": "JOB.15.19",
+   "kind": "passage",
+   "hash": "755bb2a1",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.19#p1-755bb2a1",
+     "text": "Who by their wisdom so governed, that no stranger invaded them, and so the land seemed to be given to them alone.",
+     "label": "l",
+     "anchor": "given"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.20",
+   "range": "JOB.15.20",
+   "kind": "passage",
+   "hash": "78482b08",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.20#p1-78482b08",
+     "text": "The cruel man is always in danger of death, and is never quiet in conscience.",
+     "label": "m",
+     "anchor": "of years is hidden to the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.22",
+   "range": "JOB.15.22",
+   "kind": "passage",
+   "hash": "60e0c211",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.22#p1-60e0c211",
+     "text": "Out of that misery to which he once fell.",
+     "label": "n",
+     "anchor": "darkness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.23",
+   "range": "JOB.15.23",
+   "kind": "passage",
+   "hash": "975042a1",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.23#p1-975042a1",
+     "text": "God not only impoverishes the wicked often, but even in their prosperity he punishes them with a greediness to gain even more: which is as a beggary.",
+     "label": "o",
+     "anchor": "abroad for bread"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.24",
+   "range": "JOB.15.24",
+   "kind": "passage",
+   "hash": "4926d8d8",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.24#p1-4926d8d8",
+     "text": "He shows the weapons God uses against the wicked, who lift up themselves against him, that is, terror of conscience and outward afflictions.",
+     "label": "p",
+     "anchor": "anguish shall make him afraid"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.27",
+   "range": "JOB.15.27",
+   "kind": "passage",
+   "hash": "cbf3b446",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.27#p1-cbf3b446",
+     "text": "That is, he was so puffed up with prosperity and abundance for all things, that he forgave God: noting that Job in his happiness did not have the true fear of God.",
+     "label": "q",
+     "anchor": "his fatness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.28",
+   "range": "JOB.15.28",
+   "kind": "passage",
+   "hash": "3a52dcff",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.28#p1-3a52dcff",
+     "text": "Though he build and repair ruinous places to gain fame, yet God will bring all to nothing, and turn his great prosperity into extreme misery.",
+     "label": "r",
+     "anchor": "in desolate cities"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.29",
+   "range": "JOB.15.29",
+   "kind": "passage",
+   "hash": "4b750a89",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.29#p1-4b750a89",
+     "text": "Meaning, that his sumptuous buildings would never come to perfection.",
+     "label": "s",
+     "anchor": "perfection thereof upon the earth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.31",
+   "range": "JOB.15.31",
+   "kind": "passage",
+   "hash": "396ad48e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.31#p1-396ad48e",
+     "text": "He stands in his own conceit, that he will give no place to good counsel, therefore his own pride will bring him to destruction.",
+     "label": "t",
+     "anchor": "deceived trust in vanity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.33",
+   "range": "JOB.15.33",
+   "kind": "passage",
+   "hash": "27cdc01c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.33#p1-27cdc01c",
+     "text": "As one who gathers grapes before they are ripe.",
+     "label": "u",
+     "anchor": "grape as the vine"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.34",
+   "range": "JOB.15.34",
+   "kind": "passage",
+   "hash": "2c214138",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.34#p1-2c214138",
+     "text": "Who were built or maintained by bribery.",
+     "label": "x",
+     "anchor": "bribery"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.35",
+   "range": "JOB.15.35",
+   "kind": "passage",
+   "hash": "68e6e771",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.35#p1-68e6e771",
+     "text": "Therefore all their vain devises will turn to their own destruction.",
+     "label": "y",
+     "anchor": "conceive mischief"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/LEV.7.1",
+   "range": "LEV.7.1",
+   "kind": "passage",
+   "hash": "625704d8",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.1#p1-625704d8",
+     "text": "Which is for the smaller sins, and such as are committed by ignorance.",
+     "label": "a",
+     "anchor": "trespass offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.2",
+   "range": "LEV.7.2",
+   "kind": "passage",
+   "hash": "ac53570b",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.2#p1-ac53570b",
+     "text": "At the court gate.",
+     "label": "b",
+     "anchor": "where they kill the burnt offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.3",
+   "range": "LEV.7.3",
+   "kind": "passage",
+   "hash": "58f22460",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.3#p1-58f22460",
+     "text": "the high priest.",
+     "label": "c",
+     "anchor": "he shall offer of it all"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.7",
+   "range": "LEV.7.7",
+   "kind": "passage",
+   "hash": "f848902d",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.7#p1-c7a44d2f",
+     "text": "The same ceremonies, even though this word trespass signifies less then sin.",
+     "label": "d",
+     "anchor": "law for them"
+    },
+    {
+     "id": "geneva/LEV.7.7#p2-4fde7309",
+     "text": "Meaning, the rest which is left and not burnt.",
+     "label": "e",
+     "anchor": "therewith shall have it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.10",
+   "range": "LEV.7.10",
+   "kind": "passage",
+   "hash": "a7f39504",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.10#p1-a7f39504",
+     "text": "Because it had no oil or liquor.",
+     "label": "f",
+     "anchor": "dry"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.12",
+   "range": "LEV.7.12",
+   "kind": "passage",
+   "hash": "514d9999",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.12#p1-514d9999",
+     "text": "Peace offerings contain a confession and thanksgiving for a benefit received, and also a vow, and free offering to receive a benefit.",
+     "label": "g",
+     "anchor": "thanksgiving"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.16",
+   "range": "LEV.7.16",
+   "kind": "passage",
+   "hash": "8d2eaf3a",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.16#p1-8d2eaf3a",
+     "text": "If he makes a vow to offer: or else the flesh of the peace offerings must be eaten the same day.",
+     "label": "h",
+     "anchor": "vow"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.18",
+   "range": "LEV.7.18",
+   "kind": "passage",
+   "hash": "5bd590d7",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.18#p1-5bd590d7",
+     "text": "The sin for which he offered shall remain.",
+     "label": "i",
+     "anchor": "bear his iniquity"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.19",
+   "range": "LEV.7.19",
+   "kind": "passage",
+   "hash": "6d08e2e1",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.19#p1-78fb7c1f",
+     "text": "After it is sacrificed.",
+     "label": "k",
+     "anchor": "thing shall not be eaten"
+    },
+    {
+     "id": "geneva/LEV.7.19#p2-9b83ae85",
+     "text": "Of the peace offering that is clean.",
+     "label": "l",
+     "anchor": "as for the flesh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.30",
+   "range": "LEV.7.30",
+   "kind": "passage",
+   "hash": "53f833be",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.30#p1-53f833be",
+     "text": "And should not send it by another.",
+     "label": "m",
+     "anchor": "hands shall bring the offerings of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.35",
+   "range": "LEV.7.35",
+   "kind": "passage",
+   "hash": "a966f590",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.35#p1-a966f590",
+     "text": "that is, his privilege, reward and portion.",
+     "label": "n",
+     "anchor": "anointing of Aaron"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.37",
+   "range": "LEV.7.37",
+   "kind": "passage",
+   "hash": "61933a76",
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.37#p1-61933a76",
+     "text": "Which sacrifice was offered when the priests were consecrated, Ex 29:22.",
+     "label": "o",
+     "anchor": "consecrations",
+     "refs": [
+      {
+       "text": "Ex 29:22",
+       "ref": "EXO.29.22"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

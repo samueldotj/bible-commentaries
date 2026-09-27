@@ -1,0 +1,124 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 46,
+ "units": [
+  {
+   "id": "geneva/PSA.46.1",
+   "range": "PSA.46.1",
+   "kind": "passage",
+   "hash": "32698b54",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.1#p1-31b8c032",
+     "text": "Which was either a musical instrument or a solemn tune, to which this psalm was sung.",
+     "label": "a"
+    },
+    {
+     "id": "geneva/PSA.46.1#p2-44f98927",
+     "text": "In all manner of troubles God shows his speedy mercy and power in defending his.",
+     "label": "b",
+     "anchor": "trouble"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.2",
+   "range": "PSA.46.2",
+   "kind": "passage",
+   "hash": "1bc39952",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.2#p1-1bc39952",
+     "text": "That is, we will not be overcome with fear.",
+     "label": "c",
+     "anchor": "fear"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.3",
+   "range": "PSA.46.3",
+   "kind": "passage",
+   "hash": "e219d945",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.3#p1-e219d945",
+     "text": "Though the afflictions rage, yet the rivers of God's mercies bring sufficient comfort to his.",
+     "label": "d",
+     "anchor": "roar and be troubled"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.4",
+   "range": "PSA.46.4",
+   "kind": "passage",
+   "hash": "fb9fddbf",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.4#p1-fb9fddbf",
+     "text": "The river of Shiloh, which passed through Jerusalem: meaning, though the defence seems small, yet if God has appointed it, it is sufficient.",
+     "label": "e",
+     "anchor": "river"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.5",
+   "range": "PSA.46.5",
+   "kind": "passage",
+   "hash": "5b6c4164",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.5#p1-5b6c4164",
+     "text": "Always when need requires.",
+     "label": "f",
+     "anchor": "right early"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.7",
+   "range": "PSA.46.7",
+   "kind": "passage",
+   "hash": "ff42e9d8",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.7#p1-ff42e9d8",
+     "text": "They are assured that God can and will defend his Church from all dangers and enemies.",
+     "label": "g",
+     "anchor": "with us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.8",
+   "range": "PSA.46.8",
+   "kind": "passage",
+   "hash": "fa4a3b80",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.8#p1-fa4a3b80",
+     "text": "That is, how often he has destroyed his enemies, and delivered his people.",
+     "label": "h",
+     "anchor": "what desolations he hath made in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.10",
+   "range": "PSA.46.10",
+   "kind": "passage",
+   "hash": "de543ddf",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.10#p1-de543ddf",
+     "text": "He warns them who persecute the Church to cease their cruelty: for also they will feel that God is too strong for them against whom they fight.",
+     "label": "i",
+     "anchor": "still"
+    }
+   ]
+  }
+ ]
+}

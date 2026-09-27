@@ -1,0 +1,171 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 18,
+ "units": [
+  {
+   "id": "geneva/JOB.18.2",
+   "range": "JOB.18.2",
+   "kind": "passage",
+   "hash": "7b313710",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.2#p1-52dc4787",
+     "text": "Who count yourselves just as Job 12:4.",
+     "label": "a",
+     "anchor": "ye make an end of words",
+     "refs": [
+      {
+       "text": "Job 12:4",
+       "ref": "JOB.12.4"
+      }
+     ]
+    },
+    {
+     "id": "geneva/JOB.18.2#p2-7d1f9969",
+     "text": "Whom you take to be only beasts, as in Job 12:7.",
+     "label": "b",
+     "anchor": "mark",
+     "refs": [
+      {
+       "text": "Job 12:7",
+       "ref": "JOB.12.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.4",
+   "range": "JOB.18.4",
+   "kind": "passage",
+   "hash": "3af1d528",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.4#p1-d9ce2e24",
+     "text": "That is, like a madman.",
+     "label": "c",
+     "anchor": "He teareth himself in his anger"
+    },
+    {
+     "id": "geneva/JOB.18.4#p2-6b94743c",
+     "text": "Shall God change the order of nature for your sake, by dealing with you otherwise than he does with all man?",
+     "label": "d",
+     "anchor": "earth be forsaken for thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.5",
+   "range": "JOB.18.5",
+   "kind": "passage",
+   "hash": "c26f38c3",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.5#p1-c26f38c3",
+     "text": "When the wicked is in his prosperity, then God changes his state: and this is his ordinary working for their sins.",
+     "label": "e",
+     "anchor": "put out"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.8",
+   "range": "JOB.18.8",
+   "kind": "passage",
+   "hash": "a6ec3f81",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.8#p1-a6ec3f81",
+     "text": "Meaning, that the wicked are in continual danger.",
+     "label": "f",
+     "anchor": "walketh upon a snare"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.12",
+   "range": "JOB.18.12",
+   "kind": "passage",
+   "hash": "1c90aabf",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.12#p1-1c90aabf",
+     "text": "That which should nourish him will be consumed by famine.",
+     "label": "g",
+     "anchor": "hungerbitten"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.13",
+   "range": "JOB.18.13",
+   "kind": "passage",
+   "hash": "585673c3",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.13#p1-585673c3",
+     "text": "That is, some strong and violent death will consume his strength: or as the Hebrew word signifies his members or parts.",
+     "label": "h",
+     "anchor": "firstborn of death shall devour his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.14",
+   "range": "JOB.18.14",
+   "kind": "passage",
+   "hash": "b49994c9",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.14#p1-b49994c9",
+     "text": "That is, with great fear.",
+     "label": "i",
+     "anchor": "king of terrors"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.15",
+   "range": "JOB.18.15",
+   "kind": "passage",
+   "hash": "5de2c65c",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.15#p1-5de2c65c",
+     "text": "Though all the world would favour him, yet God would destroy him and his.",
+     "label": "l",
+     "anchor": "brimstone shall be scattered upon his"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.18",
+   "range": "JOB.18.18",
+   "kind": "passage",
+   "hash": "321847b4",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.18#p1-321847b4",
+     "text": "He will fall from prosperity to adversity.",
+     "label": "m",
+     "anchor": "light into darkness"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.18.20",
+   "range": "JOB.18.20",
+   "kind": "passage",
+   "hash": "efc3408e",
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.18.20#p1-efc3408e",
+     "text": "When they will see what came to him.",
+     "label": "n",
+     "anchor": "day"
+    }
+   ]
+  }
+ ]
+}

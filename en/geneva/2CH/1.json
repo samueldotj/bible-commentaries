@@ -1,0 +1,167 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 1,
+ "units": [
+  {
+   "id": "geneva/2CH.1.2",
+   "range": "2CH.1.2",
+   "kind": "passage",
+   "hash": "b36b2be3",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.2#p1-b36b2be3",
+     "text": "That is, he proclaimed a solemn sacrifice and commanded that all should attend.",
+     "label": "a",
+     "anchor": "spake unto all Israel"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.3",
+   "range": "2CH.1.3",
+   "kind": "passage",
+   "hash": "375f0c9b",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.3#p1-7e603179",
+     "text": "Read 1Ki 3:4.",
+     "label": "b",
+     "anchor": "Gibeon",
+     "refs": [
+      {
+       "text": "1Ki 3:4",
+       "ref": "1KI.3.4"
+      }
+     ]
+    },
+    {
+     "id": "geneva/2CH.1.3#p2-849c390c",
+     "text": "So called, because by it God showed signs of his presence to the congregation.",
+     "label": "c",
+     "anchor": "of the congregation of God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.5",
+   "range": "2CH.1.5",
+   "kind": "passage",
+   "hash": "31ee5241",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.5#p1-31ee5241",
+     "text": "Which was for the burnt offerings, Ex 27:1.",
+     "label": "d",
+     "anchor": "brasen altar",
+     "refs": [
+      {
+       "text": "Ex 27:1",
+       "ref": "EXO.27.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.9",
+   "range": "2CH.1.9",
+   "kind": "passage",
+   "hash": "dde6e039",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.9#p1-dde6e039",
+     "text": "Perform your promise made to my father concerning me.",
+     "label": "e",
+     "anchor": "established"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.10",
+   "range": "2CH.1.10",
+   "kind": "passage",
+   "hash": "e6967738",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.10#p1-e6967738",
+     "text": "That I may govern this people, 1Ch 27:1, 1Ki 3:7.",
+     "label": "f",
+     "anchor": "go out and come in before",
+     "refs": [
+      {
+       "text": "1Ch 27:1, 1Ki 3:7",
+       "ref": "1CH.27.1"
+      },
+      {
+       "text": "1Ch 27:1, 1Ki 3:7",
+       "ref": "1KI.3.7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.11",
+   "range": "2CH.1.11",
+   "kind": "passage",
+   "hash": "3eed7473",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.11#p1-3eed7473",
+     "text": "That is, to be avenged on your enemies.",
+     "label": "g",
+     "anchor": "life of thine enemies"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.14",
+   "range": "2CH.1.14",
+   "kind": "passage",
+   "hash": "c7f36fdb",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.14#p1-c7f36fdb",
+     "text": "Which were cities appointed to keep and maintain the chariots.",
+     "label": "h",
+     "anchor": "chariot cities"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.15",
+   "range": "2CH.1.15",
+   "kind": "passage",
+   "hash": "42b067c1",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.15#p1-42b067c1",
+     "text": "He caused so great plenty that it was valued no more than stones.",
+     "label": "i",
+     "anchor": "stones"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.1.16",
+   "range": "2CH.1.16",
+   "kind": "passage",
+   "hash": "3eb2f4d9",
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.1.16#p1-3eb2f4d9",
+     "text": "Read 1Ki 20:28.",
+     "label": "k",
+     "anchor": "the king's merchants received the linen",
+     "refs": [
+      {
+       "text": "1Ki 20:28",
+       "ref": "1KI.20.28"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

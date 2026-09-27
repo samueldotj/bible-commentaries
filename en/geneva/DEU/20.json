@@ -1,0 +1,117 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 20,
+ "units": [
+  {
+   "id": "geneva/DEU.20.1",
+   "range": "DEU.20.1",
+   "kind": "passage",
+   "hash": "43cb9235",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.1#p1-43cb9235",
+     "text": "Meaning, upon just occasion: for God does not permit his people to fight every time it seems good to them.",
+     "label": "a",
+     "anchor": "thou goest out to battle against"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.4",
+   "range": "DEU.20.4",
+   "kind": "passage",
+   "hash": "17f62eed",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.4#p1-17f62eed",
+     "text": "Is present to defend you with his grace and power.",
+     "label": "b",
+     "anchor": "goeth with you"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.5",
+   "range": "DEU.20.5",
+   "kind": "passage",
+   "hash": "db6a81a4",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.5#p1-db6a81a4",
+     "text": "For when they first entered to dwell in a house, they gave thanks to God, acknowledging that they had that benefit by his grace.",
+     "label": "c",
+     "anchor": "dedicated it"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.6",
+   "range": "DEU.20.6",
+   "kind": "passage",
+   "hash": "000ca9e5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.6#p1-000ca9e5",
+     "text": "The Hebrew word signifies to make common or profane, Le 19:25",
+     "label": "d",
+     "anchor": "eaten of it",
+     "refs": [
+      {
+       "text": "Le 19:25",
+       "ref": "LEV.19.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.11",
+   "range": "DEU.20.11",
+   "kind": "passage",
+   "hash": "7dff54f4",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.11#p1-7dff54f4",
+     "text": "If it accept peace.",
+     "label": "e",
+     "anchor": "peace"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.15",
+   "range": "DEU.20.15",
+   "kind": "passage",
+   "hash": "779be48e",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.15#p1-779be48e",
+     "text": "For God had appointed the Canaanites to be destroyed, and made the Israelites the executers of his will, De 7:1.",
+     "label": "f",
+     "anchor": "nations",
+     "refs": [
+      {
+       "text": "De 7:1",
+       "ref": "DEU.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.19",
+   "range": "DEU.20.19",
+   "kind": "passage",
+   "hash": "9e3154e0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.19#p1-9e3154e0",
+     "text": "Some read: For man shall be instead of the tree of the field, to come out in the siege against you.",
+     "label": "g",
+     "anchor": "tree of the field is man's"
+    }
+   ]
+  }
+ ]
+}

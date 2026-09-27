@@ -1,0 +1,97 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 28,
+ "units": [
+  {
+   "id": "geneva/PSA.28.2",
+   "range": "PSA.28.2",
+   "kind": "passage",
+   "hash": "2dc4e4dc",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.2#p1-2dc4e4dc",
+     "text": "He counts himself as a dead man, till God shows his favour toward him, and grants him his petition.",
+     "label": "b",
+     "anchor": "holy oracle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.3",
+   "range": "PSA.28.3",
+   "kind": "passage",
+   "hash": "7e886555",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.3#p1-7e886555",
+     "text": "Destroy not the good with the bad.",
+     "label": "c",
+     "anchor": "Draw me not away with the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.4",
+   "range": "PSA.28.4",
+   "kind": "passage",
+   "hash": "0363628d",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.4#p1-0363628d",
+     "text": "He thus prayed in respect to God's glory and not for his own cause, being assured that God would punish the persecutors of his Church.",
+     "label": "d",
+     "anchor": "Give them according to their deeds"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.5",
+   "range": "PSA.28.5",
+   "kind": "passage",
+   "hash": "b7985f88",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.5#p1-b7985f88",
+     "text": "Let them be utterly destroyed as in Mal 1:4.",
+     "label": "e",
+     "anchor": "destroy them",
+     "refs": [
+      {
+       "text": "Mal 1:4",
+       "ref": "MAL.1.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.6",
+   "range": "PSA.28.6",
+   "kind": "passage",
+   "hash": "fd570868",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.6#p1-fd570868",
+     "text": "Because he felt the assurance of God's help in his heart, his mouth was opened to sing his praises.",
+     "label": "f",
+     "anchor": "Blessed be the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.8",
+   "range": "PSA.28.8",
+   "kind": "passage",
+   "hash": "06e4fa61",
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.8#p1-06e4fa61",
+     "text": "Meaning his soldiers who were means by which God declared his power.",
+     "label": "g",
+     "anchor": "their strength"
+    }
+   ]
+  }
+ ]
+}

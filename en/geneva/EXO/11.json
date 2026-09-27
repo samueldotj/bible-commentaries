@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 11,
+ "units": [
+  {
+   "id": "geneva/EXO.11.1",
+   "range": "EXO.11.1",
+   "kind": "passage",
+   "hash": "9ec404e2",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.1#p1-9ec404e2",
+     "text": "Without any condition, but with haste and violence.",
+     "label": "a",
+     "anchor": "surely thrust you out hence altogether"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.5",
+   "range": "EXO.11.5",
+   "kind": "passage",
+   "hash": "ee6a5549",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.5#p1-ee6a5549",
+     "text": "From the highest to the lowest.",
+     "label": "b",
+     "anchor": "the mill"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.8",
+   "range": "EXO.11.8",
+   "kind": "passage",
+   "hash": "3e7b8e6a",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.8#p1-3e7b8e6a",
+     "text": "That is, under the power and government.",
+     "label": "c",
+     "anchor": "follow thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.9",
+   "range": "EXO.11.9",
+   "kind": "passage",
+   "hash": "a227e34d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.9#p1-a227e34d",
+     "text": "God hardens the hearts of the reprobate, that his glory by this might be set forth even more, Ro 9:17.",
+     "label": "d",
+     "anchor": "that my wonders may be multiplied",
+     "refs": [
+      {
+       "text": "Ro 9:17",
+       "ref": "ROM.9.17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

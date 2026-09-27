@@ -1,0 +1,111 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 7,
+ "units": [
+  {
+   "id": "geneva/EXO.7.1",
+   "range": "EXO.7.1",
+   "kind": "passage",
+   "hash": "b2470e8c",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.1#p1-b2470e8c",
+     "text": "I have given you power and authority to speak in my name and to execute my judgments on him.",
+     "label": "a",
+     "anchor": "god to Pharaoh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.4",
+   "range": "EXO.7.4",
+   "kind": "passage",
+   "hash": "0d307c39",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.4#p1-0d307c39",
+     "text": "To strengthen Moses' faith, God promises again to punish most severely the oppression of his Church.",
+     "label": "b",
+     "anchor": "judgments"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.7",
+   "range": "EXO.7.7",
+   "kind": "passage",
+   "hash": "ca09038a",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.7#p1-ca09038a",
+     "text": "Moses lived in affliction and banishment forty years before he commanded his office to deliver God's people.",
+     "label": "c",
+     "anchor": "fourscore years old"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.11",
+   "range": "EXO.7.11",
+   "kind": "passage",
+   "hash": "2dd4caa0",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.11#p1-2dd4caa0",
+     "text": "It seems that these were Jannes and Jambres; 2Ti 3:8 so the wicked maliciously resist the truth of God.",
+     "label": "d",
+     "anchor": "sorcerers",
+     "refs": [
+      {
+       "text": "2Ti 3:8",
+       "ref": "2TI.3.8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.15",
+   "range": "EXO.7.15",
+   "kind": "passage",
+   "hash": "a6986475",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.15#p1-a6986475",
+     "text": "That is, the Nile river.",
+     "label": "e",
+     "anchor": "the river's brink against he come"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.21",
+   "range": "EXO.7.21",
+   "kind": "passage",
+   "hash": "beea51a1",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.21#p1-beea51a1",
+     "text": "To show that it was a true miracle, God plagued them in that which was most needed for the preservation of life.",
+     "label": "f",
+     "anchor": "fish that was in the river"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.22",
+   "range": "EXO.7.22",
+   "kind": "passage",
+   "hash": "f5330930",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.22#p1-f5330930",
+     "text": "In outward appearance, after the seven days were ended.",
+     "label": "g",
+     "anchor": "so with their enchantments"
+    }
+   ]
+  }
+ ]
+}

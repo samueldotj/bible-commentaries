@@ -1,0 +1,124 @@
+{
+ "source": "geneva",
+ "book": "COL",
+ "chapter": 4,
+ "units": [
+  {
+   "id": "geneva/COL.4.2",
+   "range": "COL.4.2",
+   "kind": "passage",
+   "hash": "e4cb875d",
+   "paragraphs": [
+    {
+     "id": "geneva/COL.4.2#p1-baa8be01",
+     "text": "He adds certain general exhortations, and at length ends his epistle with various familiar and godly salutations.",
+     "label": "1"
+    },
+    {
+     "id": "geneva/COL.4.2#p2-1c95d6d6",
+     "text": "Prayers must be continual and earnest.",
+     "label": "2",
+     "anchor": "Continue in prayer"
+    }
+   ]
+  },
+  {
+   "id": "geneva/COL.4.3",
+   "range": "COL.4.3",
+   "kind": "passage",
+   "hash": "5f35f77c",
+   "paragraphs": [
+    {
+     "id": "geneva/COL.4.3#p1-60339e09",
+     "text": "Those who minister the word, must especially be entrusted to the prayers of the Church.",
+     "label": "3",
+     "anchor": "Withal praying also for us"
+    },
+    {
+     "id": "geneva/COL.4.3#p2-9ff68886",
+     "text": "An open and free mouth to preach the Gospel.",
+     "label": "a",
+     "anchor": "door of utterance"
+    }
+   ]
+  },
+  {
+   "id": "geneva/COL.4.5",
+   "range": "COL.4.5",
+   "kind": "passage",
+   "hash": "7b6ac3e2",
+   "paragraphs": [
+    {
+     "id": "geneva/COL.4.5#p1-e3ad80ff",
+     "text": "In all parts of our life, we ought to have good consideration even of those who are outside of the Church.",
+     "label": "4",
+     "anchor": "Walk"
+    },
+    {
+     "id": "geneva/COL.4.5#p2-5bf59ad4",
+     "text": "Advisedly and cautiously.",
+     "label": "b",
+     "anchor": "in wisdom toward them that are"
+    },
+    {
+     "id": "geneva/COL.4.5#p3-2e2813dd",
+     "text": "Seek occasion to win them, even though you lose something of your own by it.",
+     "label": "c",
+     "anchor": "time"
+    }
+   ]
+  },
+  {
+   "id": "geneva/COL.4.6",
+   "range": "COL.4.6",
+   "kind": "passage",
+   "hash": "cbee2ed4",
+   "paragraphs": [
+    {
+     "id": "geneva/COL.4.6#p1-d83504e5",
+     "text": "Our speech and talk must be applied to the profit of the hearers.",
+     "label": "5",
+     "anchor": "Let your speech be alway with"
+    },
+    {
+     "id": "geneva/COL.4.6#p2-b6602c58",
+     "text": "Fit for the profit of your neighbour.",
+     "label": "d",
+     "anchor": "grace"
+    },
+    {
+     "id": "geneva/COL.4.6#p3-f65fa15b",
+     "text": "Against this is set filthy communication, as in Eph 4:29.",
+     "label": "e",
+     "anchor": "salt",
+     "refs": [
+      {
+       "text": "Eph 4:29",
+       "ref": "EPH.4.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/COL.4.11",
+   "range": "COL.4.11",
+   "kind": "passage",
+   "hash": "43b08d91",
+   "paragraphs": [
+    {
+     "id": "geneva/COL.4.11#p1-e97a3a05",
+     "text": "Hence, Peter was not at that time in Rome.",
+     "label": "f",
+     "anchor": "only are my fellowworkers unto the"
+    },
+    {
+     "id": "geneva/COL.4.11#p2-8c8216ac",
+     "text": "In the Gospel.",
+     "label": "g",
+     "anchor": "kingdom of God"
+    }
+   ]
+  }
+ ]
+}

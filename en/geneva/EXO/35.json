@@ -1,0 +1,125 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 35,
+ "units": [
+  {
+   "id": "geneva/EXO.35.2",
+   "range": "EXO.35.2",
+   "kind": "passage",
+   "hash": "9237cde7",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.2#p1-9237cde7",
+     "text": "In which you shall rest from all bodily work.",
+     "label": "a",
+     "anchor": "day"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.10",
+   "range": "EXO.35.10",
+   "kind": "passage",
+   "hash": "4b4c49e9",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.10#p1-4b4c49e9",
+     "text": "See Ex 28:3.",
+     "label": "b",
+     "anchor": "hearted among you shall come",
+     "refs": [
+      {
+       "text": "Ex 28:3",
+       "ref": "EXO.28.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.12",
+   "range": "EXO.35.12",
+   "kind": "passage",
+   "hash": "82694d31",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.12#p1-82694d31",
+     "text": "Which hung before the mercyseat so it could not be seen.",
+     "label": "c",
+     "anchor": "covering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.19",
+   "range": "EXO.35.19",
+   "kind": "passage",
+   "hash": "cd4b7aa9",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.19#p1-cd4b7aa9",
+     "text": "Such as belong to the service of the tabernacle.",
+     "label": "d",
+     "anchor": "cloths of service"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.25",
+   "range": "EXO.35.25",
+   "kind": "passage",
+   "hash": "bc2daf41",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.25#p1-bc2daf41",
+     "text": "Who were witty and expert.",
+     "label": "e",
+     "anchor": "wise hearted did spin with their"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.26",
+   "range": "EXO.35.26",
+   "kind": "passage",
+   "hash": "d4efb858",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.26#p1-d4efb858",
+     "text": "That is, who were good spinners.",
+     "label": "f",
+     "anchor": "whose heart stirred them up in"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.29",
+   "range": "EXO.35.29",
+   "kind": "passage",
+   "hash": "5c2ba9b2",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.29#p1-5c2ba9b2",
+     "text": "Using Moses as a minister of it.",
+     "label": "g",
+     "anchor": "by the hand of Moses"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.35.35",
+   "range": "EXO.35.35",
+   "kind": "passage",
+   "hash": "e1dd6ee1",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.35.35#p1-e1dd6ee1",
+     "text": "Belonging to graving or carving, or such like.",
+     "label": "h",
+     "anchor": "of work"
+    }
+   ]
+  }
+ ]
+}

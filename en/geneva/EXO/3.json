@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 3,
+ "units": [
+  {
+   "id": "geneva/EXO.3.1",
+   "range": "EXO.3.1",
+   "kind": "passage",
+   "hash": "bc050e1b",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.1#p1-89b5d76b",
+     "text": "It was so called after the law was given.",
+     "label": "a",
+     "anchor": "mountain of God"
+    },
+    {
+     "id": "geneva/EXO.3.1#p2-31caeab9",
+     "text": "Called also Sinai.",
+     "label": "b",
+     "anchor": "Horeb"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.2",
+   "range": "EXO.3.2",
+   "kind": "passage",
+   "hash": "431f176d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.2#p1-431f176d",
+     "text": "This shows that the Church is not consumed by the fires of affliction, because God is in the midst of it.",
+     "label": "c",
+     "anchor": "bush"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.4",
+   "range": "EXO.3.4",
+   "kind": "passage",
+   "hash": "7570d861",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.4#p1-7570d861",
+     "text": "Whom he calls the angel in Ex 3:2.",
+     "label": "d",
+     "anchor": "LORD saw that he turned aside",
+     "refs": [
+      {
+       "text": "Ex 3:2",
+       "ref": "EXO.3.2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.5",
+   "range": "EXO.3.5",
+   "kind": "passage",
+   "hash": "8ca0721e",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.5#p1-21993197",
+     "text": "Resign yourself to me; Ru 4:7, Jos 5:15.",
+     "label": "e",
+     "anchor": "put off thy shoes from off",
+     "refs": [
+      {
+       "text": "Ru 4:7, Jos 5:15",
+       "ref": "RUT.4.7"
+      },
+      {
+       "text": "Ru 4:7, Jos 5:15",
+       "ref": "JOS.5.15"
+      }
+     ]
+    },
+    {
+     "id": "geneva/EXO.3.5#p2-8f829009",
+     "text": "Because of my presence.",
+     "label": "f",
+     "anchor": "holy ground"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.6",
+   "range": "EXO.3.6",
+   "kind": "passage",
+   "hash": "f881f450",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.6#p1-f881f450",
+     "text": "For sin causes man to fear God's justice.",
+     "label": "g",
+     "anchor": "afraid to look upon God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.7",
+   "range": "EXO.3.7",
+   "kind": "passage",
+   "hash": "24e99d74",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.7#p1-24e99d74",
+     "text": "Whose cruelty was intolerable.",
+     "label": "h",
+     "anchor": "taskmasters"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.8",
+   "range": "EXO.3.8",
+   "kind": "passage",
+   "hash": "5af79381",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.8#p1-5af79381",
+     "text": "Most plentiful of all things.",
+     "label": "i",
+     "anchor": "flowing with milk and honey"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.9",
+   "range": "EXO.3.9",
+   "kind": "passage",
+   "hash": "f7ebe0ac",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.9#p1-f7ebe0ac",
+     "text": "He heard before, but now he would avenge it.",
+     "label": "k",
+     "anchor": "Now therefore"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.11",
+   "range": "EXO.3.11",
+   "kind": "passage",
+   "hash": "0f0b438e",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.11#p1-0f0b438e",
+     "text": "He does not fully disobey God, but acknowledges his own weakness.",
+     "label": "l",
+     "anchor": "I"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.12",
+   "range": "EXO.3.12",
+   "kind": "passage",
+   "hash": "08ce1446",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.12#p1-08ce1446",
+     "text": "Neither fear your own weakness, or Pharaoh's tyranny.",
+     "label": "m",
+     "anchor": "Certainly I will be with thee"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.14",
+   "range": "EXO.3.14",
+   "kind": "passage",
+   "hash": "803e081a",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.14#p1-803e081a",
+     "text": "The God who has always been, am, and shall be: the God almighty, by whom all things have their being, and the God of mercy, mindful of my promise.",
+     "label": "n",
+     "anchor": "AM THAT I AM"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.18",
+   "range": "EXO.3.18",
+   "kind": "passage",
+   "hash": "f283dc2a",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.18#p1-f283dc2a",
+     "text": "Because Egypt was full of idolatry, God would appoint them a place where they could serve him purely.",
+     "label": "o",
+     "anchor": "sacrifice to the LORD our God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.3.22",
+   "range": "EXO.3.22",
+   "kind": "passage",
+   "hash": "ed2a2dfb",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.3.22#p1-ed2a2dfb",
+     "text": "This example may not be followed generally: though at God's commandment they did it justly, receiving some recompence for their labours.",
+     "label": "p",
+     "anchor": "But every woman shall borrow of"
+    }
+   ]
+  }
+ ]
+}

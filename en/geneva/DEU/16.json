@@ -1,0 +1,169 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 16,
+ "units": [
+  {
+   "id": "geneva/DEU.16.1",
+   "range": "DEU.16.1",
+   "kind": "passage",
+   "hash": "f25cb6c0",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.1#p1-f25cb6c0",
+     "text": "Read Ex 13:4.",
+     "label": "a",
+     "anchor": "Abib",
+     "refs": [
+      {
+       "text": "Ex 13:4",
+       "ref": "EXO.13.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.2",
+   "range": "DEU.16.2",
+   "kind": "passage",
+   "hash": "1026a2f8",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.2#p1-1026a2f8",
+     "text": "You shall eat the Easter lamb.",
+     "label": "b",
+     "anchor": "sacrifice the passover unto the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.3",
+   "range": "DEU.16.3",
+   "kind": "passage",
+   "hash": "183bc607",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.3#p1-183bc607",
+     "text": "Which signified the affliction which you had in Egypt.",
+     "label": "c",
+     "anchor": "affliction"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.5",
+   "range": "DEU.16.5",
+   "kind": "passage",
+   "hash": "1e3e6c56",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.5#p1-1e3e6c56",
+     "text": "This was chiefly accomplished, when the temple was built.",
+     "label": "d",
+     "anchor": "not sacrifice the passover within any"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.6",
+   "range": "DEU.16.6",
+   "kind": "passage",
+   "hash": "138e18c3",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.6#p1-138e18c3",
+     "text": "Which was instituted to remind them of their deliverance our of Egypt and to encourage them in the hope of Jesus Christ, of whom this lamb was a figure.",
+     "label": "e",
+     "anchor": "passover at even"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.9",
+   "range": "DEU.16.9",
+   "kind": "passage",
+   "hash": "da065e67",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.9#p1-da065e67",
+     "text": "Beginning the next morning after the Passover, Le 23:15, Ex 13:4.",
+     "label": "f",
+     "anchor": "number unto thee",
+     "refs": [
+      {
+       "text": "Le 23:15, Ex 13:4",
+       "ref": "LEV.23.15"
+      },
+      {
+       "text": "Le 23:15, Ex 13:4",
+       "ref": "EXO.13.4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.13",
+   "range": "DEU.16.13",
+   "kind": "passage",
+   "hash": "0296cdc5",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.13#p1-0296cdc5",
+     "text": "That is, the 15th day of the seventh month, Le 23:34.",
+     "label": "g",
+     "anchor": "observe the feast of tabernacles seven",
+     "refs": [
+      {
+       "text": "Le 23:34",
+       "ref": "LEV.23.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.17",
+   "range": "DEU.16.17",
+   "kind": "passage",
+   "hash": "977b1064",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.17#p1-977b1064",
+     "text": "According to the ability that God has given him.",
+     "label": "h",
+     "anchor": "able"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.18",
+   "range": "DEU.16.18",
+   "kind": "passage",
+   "hash": "627a1de1",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.18#p1-627a1de1",
+     "text": "He gave temporary authority to the people to choose magistrates for themselves.",
+     "label": "i",
+     "anchor": "Judges and officers shalt thou make"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.20",
+   "range": "DEU.16.20",
+   "kind": "passage",
+   "hash": "d59b4f4b",
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.20#p1-d59b4f4b",
+     "text": "The magistrate must constantly follow the tenor of the law, and in noting decline from justice.",
+     "label": "k",
+     "anchor": "is altogether just shalt thou follow"
+    }
+   ]
+  }
+ ]
+}

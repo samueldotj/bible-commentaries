@@ -1,0 +1,309 @@
+{
+ "source": "geneva",
+ "book": "2KI",
+ "chapter": 17,
+ "units": [
+  {
+   "id": "geneva/2KI.17.2",
+   "range": "2KI.17.2",
+   "kind": "passage",
+   "hash": "111b8246",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.2#p1-111b8246",
+     "text": "Though he invented no new idolatry or impiety as others did, yet he sought help from the Egyptians, whom God had forbidden.",
+     "label": "a",
+     "anchor": "but not as the kings of"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.4",
+   "range": "2KI.17.4",
+   "kind": "passage",
+   "hash": "0cabadcc",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.4#p1-0cabadcc",
+     "text": "For he had paid tribute for eight years.",
+     "label": "b",
+     "anchor": "as he had done year by"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.6",
+   "range": "2KI.17.6",
+   "kind": "passage",
+   "hash": "157d0e64",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.6#p1-157d0e64",
+     "text": "For at this time the Medes and Persians were subject to the Assyrians.",
+     "label": "c",
+     "anchor": "Medes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.7",
+   "range": "2KI.17.7",
+   "kind": "passage",
+   "hash": "8a577887",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.7#p1-8a577887",
+     "text": "He sets forth at length the cause of this great plague and perpetual captivity, to admonish all people, and nations to cleave to the Lord God, and worship only him for fear of similar judgment.",
+     "label": "d",
+     "anchor": "sinned against the LORD their God"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.9",
+   "range": "2KI.17.9",
+   "kind": "passage",
+   "hash": "c0c1d71f",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.9#p1-c0c1d71f",
+     "text": "Meaning, throughout all their borders.",
+     "label": "e",
+     "anchor": "of the watchmen to the fenced"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.14",
+   "range": "2KI.17.14",
+   "kind": "passage",
+   "hash": "da85bc4c",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.14#p1-da85bc4c",
+     "text": "So that to allege the authority of our fathers or great antiquity, except we can prove that they were godly, is but to declare that we are the children of the wicked.",
+     "label": "f",
+     "anchor": "fathers"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.16",
+   "range": "2KI.17.16",
+   "kind": "passage",
+   "hash": "8bb4742c",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.16#p1-8bb4742c",
+     "text": "That is, the sun, moon and stars, De 4:19.",
+     "label": "g",
+     "anchor": "host of heaven",
+     "refs": [
+      {
+       "text": "De 4:19",
+       "ref": "DEU.4.19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.17",
+   "range": "2KI.17.17",
+   "kind": "passage",
+   "hash": "c69a7471",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.17#p1-ccc42619",
+     "text": "Read 2Ki 16:3.",
+     "label": "h",
+     "anchor": "pass through the fire",
+     "refs": [
+      {
+       "text": "2Ki 16:3",
+       "ref": "2KI.16.3"
+      }
+     ]
+    },
+    {
+     "id": "geneva/2KI.17.17#p2-a196cad9",
+     "text": "Read of this phrase in 1Ki 21:20,25.",
+     "label": "i",
+     "anchor": "sold themselves to do evil in",
+     "refs": [
+      {
+       "text": "1Ki 21:20,25",
+       "ref": "1KI.21.20"
+      },
+      {
+       "text": "1Ki 21:20,25",
+       "ref": "1KI.21.25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.18",
+   "range": "2KI.17.18",
+   "kind": "passage",
+   "hash": "f8ad4135",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.18#p1-f8ad4135",
+     "text": "No whole tribe was left but Judah, and they of Benjamin and Levi who remained were counted with Judah.",
+     "label": "k",
+     "anchor": "only"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.20",
+   "range": "2KI.17.20",
+   "kind": "passage",
+   "hash": "2b85ab6e",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.20#p1-2b85ab6e",
+     "text": "Out of the land where he showed the greatest tokens of his presence and favour.",
+     "label": "l",
+     "anchor": "sight"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.21",
+   "range": "2KI.17.21",
+   "kind": "passage",
+   "hash": "7076f84e",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.21#p1-7076f84e",
+     "text": "That is, God cut off the ten tribes, 1Ki 12:16,20.",
+     "label": "m",
+     "anchor": "For he rent Israel from the",
+     "refs": [
+      {
+       "text": "1Ki 12:16,20",
+       "ref": "1KI.12.16"
+      },
+      {
+       "text": "1Ki 12:16,20",
+       "ref": "1KI.12.20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.24",
+   "range": "2KI.17.24",
+   "kind": "passage",
+   "hash": "8d317866",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.24#p1-8d317866",
+     "text": "Of these people came the Samaritans, of which mention is so often made in the gospel, and with whom the Jews would have nothing to do, Joh 4:9.",
+     "label": "n",
+     "anchor": "Cuthah",
+     "refs": [
+      {
+       "text": "Joh 4:9",
+       "ref": "JHN.4.9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.25",
+   "range": "2KI.17.25",
+   "kind": "passage",
+   "hash": "2c3856f4",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.25#p1-2c3856f4",
+     "text": "That is, they served him not: therefore, lest they should blaspheme him, as though there were no God, because he chastised the Israelites, he shows his mighty power among them by this strange punishment.",
+     "label": "o",
+     "anchor": "feared not the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.27",
+   "range": "2KI.17.27",
+   "kind": "passage",
+   "hash": "157972c4",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.27#p1-157972c4",
+     "text": "That is, how to worship him: thus the wicked rather than losing their conveniences will change to all religions.",
+     "label": "p",
+     "anchor": "of the land"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.30",
+   "range": "2KI.17.30",
+   "kind": "passage",
+   "hash": "bb428122",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.30#p1-bb428122",
+     "text": "Meaning that every country served the idol that was most esteemed in the place to which they came.",
+     "label": "q",
+     "anchor": "Succothbenoth"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.33",
+   "range": "2KI.17.33",
+   "kind": "passage",
+   "hash": "246b7a37",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.33#p1-246b7a37",
+     "text": "That is, they had a certain knowledge of God, and feared him because of the punishment, but they continued to be idolaters as do the papists who worship both God and idols: but this is not to fear God, as appears in 2Ki 17:34.",
+     "label": "r",
+     "anchor": "feared the LORD",
+     "refs": [
+      {
+       "text": "2Ki 17:34",
+       "ref": "2KI.17.34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.34",
+   "range": "2KI.17.34",
+   "kind": "passage",
+   "hash": "da94dda9",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.34#p1-da94dda9",
+     "text": "He means by this the Israelites to whom God had given his commandments.",
+     "label": "s",
+     "anchor": "their statutes"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.17.41",
+   "range": "2KI.17.41",
+   "kind": "passage",
+   "hash": "e0049cf6",
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.17.41#p1-e0049cf6",
+     "text": "That is, these strangers who were sent into Samaria by the Assyrians.",
+     "label": "t",
+     "anchor": "nations feared the LORD"
+    }
+   ]
+  }
+ ]
+}

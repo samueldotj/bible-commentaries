@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 40,
+ "units": [
+  {
+   "id": "geneva/EXO.40.2",
+   "range": "EXO.40.2",
+   "kind": "passage",
+   "hash": "46a2d991",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.2#p1-46a2d991",
+     "text": "After that Moses had been 40 days and 40 nights in the mountain, that is, from the beginning of August to the tenth of September, he came down, and caused this work to be done: which when finished, was set up in Abib, half March and half April.",
+     "label": "a",
+     "anchor": "first day of the first month"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.5",
+   "range": "EXO.40.5",
+   "kind": "passage",
+   "hash": "597a84c7",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.5#p1-35f41af1",
+     "text": "That is, the altar of perfume, or to burn incense on.",
+     "label": "b",
+     "anchor": "of gold for the incense before"
+    },
+    {
+     "id": "geneva/EXO.40.5#p2-28dde38d",
+     "text": "This hanging or veil was between the sanctuary and the court.",
+     "label": "c",
+     "anchor": "hanging of the door to the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.15",
+   "range": "EXO.40.15",
+   "kind": "passage",
+   "hash": "1b854b35",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.15#p1-1b854b35",
+     "text": "Till both the priesthood and the ceremonies should end, which is at Christ's coming.",
+     "label": "d",
+     "anchor": "shall surely be an everlasting priesthood"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.17",
+   "range": "EXO.40.17",
+   "kind": "passage",
+   "hash": "adeb5640",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.17#p1-adeb5640",
+     "text": "After they came out of Egypt, Nu 7:1.",
+     "label": "e",
+     "anchor": "the second year",
+     "refs": [
+      {
+       "text": "Nu 7:1",
+       "ref": "NUM.7.1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.20",
+   "range": "EXO.40.20",
+   "kind": "passage",
+   "hash": "cfd2cc4d",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.20#p1-cfd2cc4d",
+     "text": "That is, the tables of the law; Ex 31:18,34:29.",
+     "label": "f",
+     "anchor": "testimony into the ark",
+     "refs": [
+      {
+       "text": "Ex 31:18,34:29",
+       "ref": "EXO.31.18"
+      },
+      {
+       "text": "Ex 31:18,34:29",
+       "ref": "EXO.34.29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.28",
+   "range": "EXO.40.28",
+   "kind": "passage",
+   "hash": "7725a2dd",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.28#p1-7725a2dd",
+     "text": "Between the sanctuary and the court.",
+     "label": "g",
+     "anchor": "door of the tabernacle"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.40.38",
+   "range": "EXO.40.38",
+   "kind": "passage",
+   "hash": "4ac93221",
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.40.38#p1-4ac93221",
+     "text": "Thus the presence of God preserved and guided them night and day, till they came to the land promised.",
+     "label": "h",
+     "anchor": "the cloud of the LORD was"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 6,
+ "units": [
+  {
+   "id": "geneva/1SA.6.1",
+   "range": "1SA.6.1",
+   "kind": "passage",
+   "hash": "eb0cb81b",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.1#p1-eb0cb81b",
+     "text": "They thought by continuance of time the plague would have ceased, and so would have kept the ark still.",
+     "label": "a",
+     "anchor": "seven months"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.3",
+   "range": "1SA.6.3",
+   "kind": "passage",
+   "hash": "570e24c3",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.3#p1-570e24c3",
+     "text": "The idolaters confess there is a true God, who punishes sin justly.",
+     "label": "b",
+     "anchor": "a trespass offering"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.5",
+   "range": "1SA.6.5",
+   "kind": "passage",
+   "hash": "9d93953d",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.5#p1-9d93953d",
+     "text": "This is God's judgment on the idolaters, that knowing the true God, they do not worship him correctly.",
+     "label": "c",
+     "anchor": "gods"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.8",
+   "range": "1SA.6.8",
+   "kind": "passage",
+   "hash": "80a8bec5",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.8#p1-80a8bec5",
+     "text": "Meaning, the golden emerods and the golden mice.",
+     "label": "d",
+     "anchor": "jewels of gold"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.9",
+   "range": "1SA.6.9",
+   "kind": "passage",
+   "hash": "be795bfc",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.9#p1-1c3d110b",
+     "text": "The God of Israel.",
+     "label": "e",
+     "anchor": "he hath done us this great"
+    },
+    {
+     "id": "geneva/1SA.6.9#p2-0fb80ea6",
+     "text": "The wicked attribute almost all things to fortune and chance, whereas indeed there is nothing done without God's providence and decree.",
+     "label": "f",
+     "anchor": "chance that happened to us"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.12",
+   "range": "1SA.6.12",
+   "kind": "passage",
+   "hash": "e54d59e4",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.12#p1-e54d59e4",
+     "text": "For the trial of the matter.",
+     "label": "g",
+     "anchor": "them unto the border of Bethshemesh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.14",
+   "range": "1SA.6.14",
+   "kind": "passage",
+   "hash": "677d15db",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.14#p1-677d15db",
+     "text": "That is, the men of Bethshemesh, who were Israelites.",
+     "label": "h",
+     "anchor": "they clave the wood of the"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.17",
+   "range": "1SA.6.17",
+   "kind": "passage",
+   "hash": "b6d05a32",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.17#p1-b6d05a32",
+     "text": "These were the five principal cities of the Philistines, which were not all conquered to the time of David.",
+     "label": "i",
+     "anchor": "Ashdod one"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.6.19",
+   "range": "1SA.6.19",
+   "kind": "passage",
+   "hash": "5e42c23f",
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.6.19#p1-5e42c23f",
+     "text": "For it was not lawful for anyone either to touch or to see it, only to Aaron and his sons Nu 4:15,20.",
+     "label": "k",
+     "anchor": "had looked into the ark of",
+     "refs": [
+      {
+       "text": "Nu 4:15,20",
+       "ref": "NUM.4.15"
+      },
+      {
+       "text": "Nu 4:15,20",
+       "ref": "NUM.4.20"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

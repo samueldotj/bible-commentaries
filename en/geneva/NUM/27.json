@@ -1,0 +1,139 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 27,
+ "units": [
+  {
+   "id": "geneva/NUM.27.3",
+   "range": "NUM.27.3",
+   "kind": "passage",
+   "hash": "494c813d",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.3#p1-494c813d",
+     "text": "According as all men die, for as much as they are sinners.",
+     "label": "a",
+     "anchor": "sin"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.5",
+   "range": "NUM.27.5",
+   "kind": "passage",
+   "hash": "a99beb0f",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.5#p1-a99beb0f",
+     "text": "That is, their matter to be judged, to know what he should determine, as he did all hard matters.",
+     "label": "b",
+     "anchor": "cause before the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.11",
+   "range": "NUM.27.11",
+   "kind": "passage",
+   "hash": "207f1c39",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.11#p1-207f1c39",
+     "text": "Meaning, an ordinance to judge by.",
+     "label": "c",
+     "anchor": "judgment"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.16",
+   "range": "NUM.27.16",
+   "kind": "passage",
+   "hash": "44c4ad5e",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.16#p1-44c4ad5e",
+     "text": "Who as he has created, so he governs the hearts of all men.",
+     "label": "d",
+     "anchor": "spirits of all flesh"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.17",
+   "range": "NUM.27.17",
+   "kind": "passage",
+   "hash": "d3753a3c",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.17#p1-d3753a3c",
+     "text": "That is, govern them and do his duty, as in 2Ch 1:10.",
+     "label": "e",
+     "anchor": "go out before them",
+     "refs": [
+      {
+       "text": "2Ch 1:10",
+       "ref": "2CH.1.10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.18",
+   "range": "NUM.27.18",
+   "kind": "passage",
+   "hash": "5c16e5a3",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.18#p1-5c16e5a3",
+     "text": "And so appoint him governor.",
+     "label": "f",
+     "anchor": "lay thine hand upon him"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.20",
+   "range": "NUM.27.20",
+   "kind": "passage",
+   "hash": "7520ccb2",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.20#p1-7520ccb2",
+     "text": "Commend him to the people as suitable for the office and appointed by God.",
+     "label": "g",
+     "anchor": "put some of thine honour upon"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.21",
+   "range": "NUM.27.21",
+   "kind": "passage",
+   "hash": "12ad7ec7",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.21#p1-12ad7ec7",
+     "text": "According to his office: signifying that the civil magistrate could execute nothing but that which he knew to be the will of God.",
+     "label": "h",
+     "anchor": "judgment of Urim before the LORD"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.27.23",
+   "range": "NUM.27.23",
+   "kind": "passage",
+   "hash": "512de253",
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.27.23#p1-512de253",
+     "text": "How he should govern himself in his office.",
+     "label": "i",
+     "anchor": "charge"
+    }
+   ]
+  }
+ ]
+}
