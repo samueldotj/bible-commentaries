@@ -58,17 +58,21 @@ because it is small, and Henry because readers are most likely to want it.
 
 In `tools/translate` of the site repository:
 
-- [ ] A commentary input type next to dictionary articles, reading from this
-  repository.
-- [ ] A commentary prompt:
-  - send the IRV text of the verses commented on;
-  - use IRV wording where the commentator quotes the verse, but translate
-    his point where it rests on the English wording;
-  - keep Calvin's own translation of each passage as his;
-  - translate archaic English into modern Tamil;
-  - do not soften or update the theology.
-- [ ] Checks: allow Latin, Greek and Hebrew quotations, and tune the length
-  ratio.
+- [x] `translate commentary status | show | run`, reading `en/` here and
+  writing drafts to `ta/{source}/{BOOK}/{chapter}.json` (`ta-ecf/` for the
+  Early Church Fathers). Design: `docs/feature_commentary_translation.md` in
+  the site repository.
+- [x] A commentary prompt:
+  - the IRV text of the verses explained and of other verses cited;
+  - IRV wording where the commentator quotes the verse, but his point kept
+    where it rests on his own Bible's wording;
+  - anchors given as the IRV's words for the phrase;
+  - references as Tamil book name and chapter:verse, from the import's ids;
+  - archaic English in present-day formal Tamil; the theology not softened;
+  - Latin, Greek and Hebrew kept, with a Tamil rendering in brackets.
+- [x] Checks: anchors, references, footnote markers, `[Hebrew]`; Latin is
+  not flagged as untranslated English; no length check on footnotes.
+- [ ] A first run against the API (a few units), before the pilot.
 
 ## 4. Pilot
 
