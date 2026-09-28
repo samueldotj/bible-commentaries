@@ -66,7 +66,7 @@ have only chapter arguments and translation tables. For example, it has 115,220 
 - 14,628 paragraphs open with a verse number and the words explained ("**2.** *He came to Jesus by
   night.*"). These are kept as `verse` and `anchor`.
 - 15,490 footnote paragraphs by the Calvin Translation Society editors, marked `{55}` in the text.
-  Whether they are translated is still open.
+  They are translated (owner, 2026-09-27).
 - Left out:
   - translation tables (0.29M words inside comments; more in the section openings);
   - dedications, translators' prefaces, title pages, indexes, and the Daniel dissertations.

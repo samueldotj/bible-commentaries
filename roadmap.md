@@ -29,9 +29,9 @@ because it is small, and Henry because readers are most likely to want it.
 - [ ] Poole and Trapp: check BibleSupport's terms of use.
 - [x] Early Church Fathers: the owner provided the SermonIndex module; read
   with `tools/esword.py` and counted.
-- [ ] Early Church Fathers: check the date of the English translation of each
-  source work, and keep only those in the public domain (see
-  `sources/ecf/SOURCE.md`).
+- [x] Early Church Fathers: SermonIndex's compilation is free to copy, share
+  and distribute for personal and ministry purposes (owner, 2026-09-27). Used
+  under those terms; its Tamil drafts go in their own folder, `ta-ecf/`.
 - [ ] Gill: set aside for now.
 
 ## 2. Import the English
@@ -52,7 +52,7 @@ because it is small, and Henry because readers are most likely to want it.
 - [x] Poole (`tools/import_poole.py`): 27,136 units, with chapter outlines,
   lemmas, and Greek put back.
 - [x] Trapp (`tools/import_trapp.py`): 27,595 units, re-keyed by verse text.
-- [ ] Early Church Fathers, after the copyright check.
+- [ ] Early Church Fathers.
 
 ## 3. Translation tool
 
@@ -104,8 +104,7 @@ In `tools/translate` of the site repository:
 
 - [ ] Stage 2: Calvin.
 - [ ] Stage 3: Poole and Trapp.
-- [ ] Stage 4: the Early Church Fathers, limited to the source works whose
-  translation is in the public domain.
+- [ ] Stage 4: the Early Church Fathers.
 - [ ] Gill, if it is taken up again.
 
 ## Estimated cost
@@ -127,9 +126,9 @@ run, and estimated for Gill.
 | Gill, set aside | ~7M (estimate) | ~$700 | ~$1,500 |
 
 Not in the figures above:
-- Calvin: 0.78M words of footnotes by his English editors, and 1.51M words
-  outside any comment (prefaces, arguments, translation tables, indexes).
-  The Psalm arguments at least should be translated.
+- Calvin: the translation tables and front matter left out of the import.
+  (His editors' footnotes are in the Calvin figure; the owner decided on
+  2026-09-27 that they are translated.)
 - The Early Church Fathers: 0.58M words of author and source lines, which
   need translating only once per author and per work.
 
@@ -137,11 +136,9 @@ Not in the figures above:
 
 - The licence of the Tamil drafts. The dictionary's drafts of public-domain
   sources are CC BY.
-- Which Early Church Fathers source works have a public-domain English
-  translation, and whether SermonIndex made its own translations of the
-  rest.
 - How to present the Early Church Fathers to the site's Reformed readers.
 - Who modernised the spelling of the Geneva notes in the SWORD module. The
   lettered and numbered notes match the 1599 edition.
-- Whether Calvin's editors' footnotes and his Latin translation tables are
-  translated, shown in English, or left out.
+- Calvin's translation tables: left out of the import for now.
+- Latin, Greek and Hebrew quotations (Trapp's and Calvin's footnotes): kept
+  as written with a Tamil rendering in brackets, to be confirmed in the pilot.

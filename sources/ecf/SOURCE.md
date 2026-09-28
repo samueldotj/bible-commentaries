@@ -12,7 +12,17 @@ https://www.sermonindex.net/commentary/ecf/". It describes the module as verse-k
 "Augustine, John Chrysostom, Bede, Jerome, Origen, and over 250 others spanning from the 1st to the 10th
 centuries".
 
-## Must be checked before use: the English translations
+## Terms (decided 2026-09-27)
+
+The owner confirms the terms of the compilation: the Early Church Fathers Commentary compiled by
+SermonIndex "is free to copy, share, and distribute for personal and ministry purposes". tamilscripture.com
+is a ministry site, so the module is used under these terms. They are narrower than the public domain, so:
+
+- the site should credit SermonIndex.net and state these terms beside the English and the Tamil;
+- the Tamil drafts of this source cannot be offered under a broader licence than these terms (the
+  drafts of the other commentaries are CC BY), so they are kept in their own folder, `ta-ecf/`.
+
+## Background: the English translations
 
 The fathers' own texts are ancient. What matters is the date of each **English translation**.
 
