@@ -51,6 +51,7 @@ class Para:
     anchor: str | None = None
     verse: int | None = None
     footnote: bool = False
+    extra: dict = field(default_factory=dict)  # source-specific fields, on every piece (ECF: author, work, quote)
 
 
 @dataclass
@@ -159,6 +160,7 @@ def unit_json(source: str, u: Unit) -> dict:
                 d["verse"] = p.verse
             if p.anchor and i == 0:
                 d["anchor"] = p.anchor
+            d.update(p.extra)
             r = refs_in(piece, p.refs) if len(pieces) > 1 else p.refs
             if r:
                 d["refs"] = r

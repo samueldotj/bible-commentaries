@@ -1,0 +1,790 @@
+{
+ "source": "ecf",
+ "book": "ECC",
+ "chapter": 12,
+ "units": [
+  {
+   "id": "ecf/ECC.12.1",
+   "range": "ECC.12.1",
+   "kind": "passage",
+   "hash": "8e7f3af6",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.1#p1-757a102a",
+     "text": "\"The wheel of our life\": The ceaseless advance of our earthly life by which we are continuously moved from the day of our birth right up to death as if by the always turning wheel of a carriage. [Thus] Solomon, when he said well, \"Remember your Creator in the days of your youth before the time of affliction comes,\" a little further on added, \"And the wheel above the cistern is broken, and the dust returns to the earth it came from.\"",
+     "author": "Bede",
+     "quote": 1,
+     "work": "Commentary on the Catholic Epistles, James 3:6"
+    },
+    {
+     "id": "ecf/ECC.12.1#p2-21a3d952",
+     "text": "Ecclesiastes knew of the Lord's coming at the end of the world when he said, \"Rejoice, O young man, while you are young.\" Subsequently [he said], \"Ward off grief from your heart, and put away trouble from your presence.",
+     "author": "Cyril of Jerusalem",
+     "quote": 2,
+     "work": "Catechetical Lecture 15:20"
+    },
+    {
+     "id": "ecf/ECC.12.1#p3-4adb4868",
+     "text": "Remember your Creator, before the evil days come, before the sun is darkened, and the light, and the moon, and the stars; and they who look through the windows go blind\" (this signifies the power of sight). [Remember] \"before the silver cord is snapped\" (he means the cluster of the stars, silvery in appearance). [Remember before] \"the golden fillet shrinks back\" (here is indicated the sun with its golden aspect, for the fillet-like flower is a well-known plant, with ray-like shoots of foliage circling it), \"and they shall rise up at the voice of the sparrow, and they shall see from the height, and terrors shall be in the way.\" What shall they see? \"Then they will see the Son of man coming upon clouds of heaven,\" and they will mourn, tribe by tribe.",
+     "author": "Cyril of Jerusalem",
+     "quote": 2,
+     "work": "Catechetical Lecture 15:20"
+    },
+    {
+     "id": "ecf/ECC.12.1#p4-e4ed22f3",
+     "text": "What happens when the Lord comes? \"The almond tree will bloom, and the locust will grow sluggish, and the caper berry will be scattered abroad.\" According to the interpreters the blooming of the almond tree signifies the passing of winter; our bodies, after the winter, then, are to flourish with a heavenly bloom.",
+     "author": "Cyril of Jerusalem",
+     "quote": 2,
+     "work": "Catechetical Lecture 15:20"
+    },
+    {
+     "id": "ecf/ECC.12.1#p5-5a4a4f68",
+     "text": "When the punishing evil comes, the years arrive in which you have no pleasure. Nobody has pleasure in being punished. When the years of promise arrive, the good have pleasure in them. They have pleasure in enjoying the promises, since they have acted exactly in accordance with the promises. In a similar way, those who are prone to amusement and only recognize what can be experienced with the senses have not pleasure in the time of hunger, but only in the time of excess. The righteous have pleasure even in the times of retribution.",
+     "author": "Didymus the Blind",
+     "quote": 3,
+     "work": "COMMENTARY ON Ecclesiastes 340:9"
+    },
+    {
+     "id": "ecf/ECC.12.1#p6-6c94f612",
+     "text": "Moreover, it is fight that you should fear God while you are yet young, before you give yourself over to evil things, and before the great and terrible day of God comes, when the sun shall no longer shine, neither the moon, nor the rest of the stars, but when in that storm and commotion of all things, the powers above shall be moved, that is, the angels who guard the world; so that the mighty men shall fail, and the women shall cease their labours, and shall flee into the dark places of their dwellings, and shall have all the doors shut. And a woman shall be restrained from grinding by fear, and shall speak with the weakest voice, like the tiniest bird; and all the impure women shall sink into the earth; and cities and their blood-stained governments shall wait for the vengeance that comes from above, while the most bitter and bloody of all times hangs over them like a blossoming almond, and continuous punishments impend like a multitude of flying locusts, and the transgressors are cast out of the way like a black and despicable caper-plant.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p7-8ab690f9",
+     "text": "And the good man shall depart with rejoicing to his own everlasting habitation; but the vile shall fill all their places with wailing, and neither silver laid up in store, nor proved gold, shall be of use any more. For a mighty stroke shall fall upon all things, even to the pitcher that stands by the well, and the wheel of the vessel which may chance to have been left in the hollow, when the course of time comes to its end and the ablution-bearing period of a life that is like water has passed away. And for men who lie on earth there is but one salvation, that their souls acknowledge and wing their way to Him by whom they have been made. I say, then, again what I have said already, that man's estate is altogether vain, and that nothing can exceed the utter vanity which attaches to the objects of man's inventions.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p8-5c866da9",
+     "text": "And superfluous is my labour in preaching discreetly, inasmuch as I am attempting to instruct a people here, so indisposed to receive either teaching or healing. And truly the noble man is needed for the understanding of the words of wisdom. Moreover, I, though already aged, and having passed a long life, laboured to find out those things which are well-pleasing to God, by means of the mysteries of the truth.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p9-3dd116fb",
+     "text": "And I know that the mind is no less quickened and stimulated by the precepts of the wise, than the body is wont to be when the goad is applied, or a nail is fastened in it. And some will render again those wise lessons which they have received from one good pastor and teacher, as if all with one mouth and in mutual concord set forth in larger detail the truths committed to them. But in many words there is no profit. Neither do I counsel you, my friend, to write down vain things about what is fitting, from which there in nothing to be gained but weary labour. But, in fine, I shall require to use some such conclusion as this: O men, behold, I charge you now expressly and shortly, that you fear God, who is at once the Lord and the Overseer of all, and that you keep also His commandments; and that you believe that all shall be judged severally in the future, and that every man shall receive the just recompense for his deeds, whether they be good or whether they be evil.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p10-70d3fe76",
+     "text": "\"Remember now your Creator in the days of\nyour youth, while the evil days come not, nor the years draw nigh, when you\nshall say, I have no pleasure in them; \"In this chapter there were many explanations\nof all things and almost as many opinions as men themselves. It would take too long however to recount all\nthe opinions of everyone and their arguments in which they want to prove their\nopinions, the matter would require a volume to itself. But it is enough for wise men to have shown\nwhat they feel, and like in a small picture, to have depicted the thirst of the\nearth, the waste of the whole earth, and the belt of the ocean, and to have\nshown them in such a small collection.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p11-b22ac9ce",
+     "text": "The Hebrews believe the imperative here refers to Israel, to whom it is\ntaught that she should enjoy her riches, and before the time of bondage comes\nshould change youth to old-age.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p12-7aebfe7b",
+     "text": "She should enjoy whatever is pleasant or fun,\njust as it seems to the heart so it seems to the eyes; at that time while she\nstill has them to hand. She knows\nhowever that she will be judged in all things that she has done. And just as from bad thoughts she flees from\ndesires, knowing that foolishness is joined to youth, and will remember always\nher Creator, and before the days of Babylonian and Roman captivity come, in\nwhich she will no longer be free. And\nall of this passage from the point which says, \"before the sun, moon, and\nstars become dark\" [Eccl. 12, 2.],\nuntil the place where the Scripture reminds us, \"and dust will be swirled\non earth just as it used to be and the soul returned to God who gave it\" [Eccl. 12, 7.],\nthey explain their condition.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p13-a9a84d77",
+     "text": "And since\nas I have said above these things are tiresome and favourable, they should be\ntouched by us but briefly and superficially.\nTherefore enjoy your youth O Israel, and do this or that, that has\nalready been mentioned before your time of bondage comes; and your glory will\nleave you and pride, and judges, and your holy men who want to be interpreted\nas the sun, moon, and stars, and are taken away. Before Nebuchadnezzar comes, or Titus,\nVespasian's son, before the call of the prophets and their prophecies are\nfulfilled.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p14-42ee1f45",
+     "text": "In that day when the angels\nthat protect the temple leave, and the strongest men in your army are thrown in\nconfusion, and the speeches of the judges will be slow to come, and the\nprophets, who are accustomed to receiving the light of their visions from\nheaven, they all will become dark. When\nthe doors of the temple are closed Jerusalem will be made humble and the\nChaldeans will come as if by the song of a bird, called thus in the words of\nJeremiah, and the singing girls with the lute in the temple choir will become\nsilent [Cfr Ier. 9.]. At that time, when they will come to\nJerusalem, the enemies too will fear the greatness of God, and in the way of\ndoubt, they will fear the death of Sennacherib.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p15-40d376fc",
+     "text": "For they also believe the saying, \"and from up high they will fear\nand tremble in the road\" [Cfr Is. 37.]. In those days \"the almond tree will\nflourish\", that stick and staff which Jeremiah saw in his prophecy in the\nbeginning, \"and the grasshopper will be a burden\" [Cfr Ier. 1, 11.]. Nebuchadnezzar with his army, \"and\ndesire shall fail \", the friendship between Israel and God. But what desire wants for itself, although we\nhave begun to speak about them individually will be explained more fully.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p16-284c4b56",
+     "text": "But all this will happen to Israel, because\nman will go out into the house of his eternity, and having returned from the\nprotection of God to the heavens, going to his tabernacle, the weeping and\ncrying will wander in the street and will be hemmed in by the enemy's\nsiege.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p17-bb13cfdc",
+     "text": "Be happy therefore Israel in your\nyouth, before the silver cord is broken, (this is until your glory is with\nyou), before the golden ribbon breaks off, (that is before the arc of the\ntabernacle is taken away); before the pitcher is worn away to the fountain, and\nthe wheel is turned around over the pool.\nThat is until you read the most sacred teachings, for the spirit of a\nholy man is grace, and before you return to Babylon, from whence you left the\nloins of Abraham, and you will begin to be worn away in Mesopotamia, which once\nbreathed life into you, and all is returned to He who gave it. The Jews have always taught these things and\nhave understood this chapter to pertain to themselves.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p18-6a4fc4eb",
+     "text": "But I prefer to return to the previous argument,\nand try to explain each thing individually: \"rejoice O youth, in your\nadolescence, and let your heart be good in the days of your youth, and walk in\nthe way of your heart and in the sight of your eyes; and know above all these\nthings, since God will lead you into judgement\". He has said that the light of this world is\nthe sweetest and that man ought to rejoice in the days of his life, and grasp\ndesire with all enthusiasm.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p19-d5dd7823",
+     "text": "For the\neternal night of death will fall when it's not permitted to enjoy ones amassed\nwealth and like a shadow, all things that we possess, will die. Now therefore he encourages man and says,\n\"O youth, before old-age and death fall upon you, enjoy your youth, and\nwhatever you feel is good, and seems joyful to see, take it and enjoy as it\nplease you the things of this world.\"\nAgain so that he does not think these things say to provoke men to\nindulgence, and thus fall into the doctrines of Epicurus, he takes this\nsuspicion, saying, \"and know, since above all these God will lead you to\njudgement\".",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p20-a2939bbc",
+     "text": "Thus, he says, take\nadvantage of the things of the world, so that you know you will be judged in\nthe end. \"And force anger from your\nheart and take wickedness from your flesh, since youth and foolishness are\nvanity\". In anger he sees all the\nproblems of the spirit. In the\nwickedness of the flesh he sees every desire of the body. In this way therefore, he says, enjoy the\ngoodness of this world, lest you leave pleasure or flesh. Leave off your former vices, which you did in\nyour youth of vanity and foolishness, since youth is joined to\nfoolishness.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.1#p21-8001a632",
+     "text": "\"And remember in the\nday of your youth Him, who created you, before the days of wickedness come and\nthe years approach, in which you will say, 'I have no will'\". Always remember your Creator and walk the\nroute of your youth, so that you remember your end is death, before your time\ncomes, in which sad things will happen.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.2",
+   "range": "ECC.12.2",
+   "kind": "passage",
+   "hash": "6c98f1e3",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.2#p1-a759de51",
+     "text": "\"While the sun, or the light, or the moon, or\nthe stars, be not darkened, nor the clouds return after the rain. \"If we take this from the creation of the world, this\nchapter agrees with the words of the Lord, in which He says, \"there will\nbe trouble and difficulty as there has not been since the beginning of\ncreation, but this will not happen. For\nthe sun will grow dark and the moon will not shed light, and the stars will\nfall from the sky, and the virtues of heaven will be moved\" [Matth. 24, 21.19.]. Those things are the guardians of the house,\nas we understand the 'house' to be this world, and the strong men, deceived by\nwickedness and varied strengths must be dispersed.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.2#p2-b423325f",
+     "text": "But if a particular consummation of any one\nperson is kept to the end of his life, then the sun, the moon, and stars,\nclouds and rain will cease to be for him, who has died. Differently: enjoy youth, O Christian people,\nand enjoy the goodness which has been given to you by God, and know that God\nwill judge you for all these. Do not\nthink that, since the earlier branches have been broken, you will be placed in\nthe root of a good olive tree, and therefore you will be without worry.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.2#p3-7d347a7c",
+     "text": "But remove anger from your heart and desires\nfrom your body, and when you have left all other vices remember your Creator\nbefore the day of wickedness comes, the day of madness, in which punishments\nhave been made for sinners. This is so\nthat when you sin the sun of righteousness will set for you at midday, and the\nlight of knowledge will die, and the brightness of the moon, (that is of the\nChurch) will be taken away, and the stars will die, about which is written,\n\"in which you shine like the lights in the world having reason of\nlife\" [Phil. 2, 15.]. And elsewhere: \"star differs from star\nin glory. Before the clouds return after\nthe rain\" [I Cor. 15, 41.],\nlest the prophets, who have watered the hearts of believers by the rain of\ntheir speech, after they have seen you to be unworthy of their rain, return to\ntheir seat, clearly to Him from whom they were sent.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.3",
+   "range": "ECC.12.3",
+   "kind": "passage",
+   "hash": "f1030b04",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.3#p1-03de8cd1",
+     "text": "\" In the day when the keepers of the house shall tremble, and the\nstrong men shall bow themselves; \"The keepers of the house can be interpreted as either\nthe sun and the moon, and the remaining choir of stars, or the angels who keep\nwatch over this world. The men of great\nstrength though, or the brave, as Symmachus has interpreted it, are those who\ndie, or as Aquila has translated it, those who err, and are felt to be demons,\nfor they are called those chosen by the powerful devil. The Lord overpowered him, and joining him,\naccording to the parable of the Gospel [Luc. 11, 14-26.],\ndestroys his house.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.3#p2-18435447",
+     "text": "Differently: the\nkeepers of the house, who relate all things, which are written to the body of\nman, think that it means ribs, because the intestines are hemmed in by them,\nand all of the fleshy parts of the stomach are protected in this way. They think that the strong men are to be\ninterpreted as legs; the sun and moon and stars therefore pertain to the eyes,\nnose and ears, and receive all the sensations of the head. But they do not interpret this to such an\nextent, because they are forced deeper by necessity, not by demons, or the sun,\nmoon, or stars, but to understand what follows according to the limbs of man. \"And\nthe grinders cease because they are few, and those that look out of the windows\nbe darkened.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.3#p3-e31edfa7",
+     "text": "\"In the beginning of\nthe world when the charity of most was cold and the spirits of teachers were\nfew, who were able to offer the food of heaven to believers, and they were\ncarried to the heaves; then those who in part see the light of knowledge in\nthis world began to be darkened. For it\nis said to Moses: \"sit yourself in this hole in the rock, and you will see\nme pass\" [Ex. 33, 22.]. Oh how much more one spirit saw the truth\nthrough that opening and those dark caves!",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.3#p4-687b4fd8",
+     "text": "Differently: there are two grinders, from whom one is taken, the other\nis left, the Gospel is not silent in this matter [Cfr. Matth. 24, 41.]. And when they are few, and have ceased, it is\nnecessary that every light of knowledge is removed from our eyes. Differently: they think the grinders have\nceased because they are few, and that it is talking about teeth. And when at last old-age comes even teeth are\nworn away, or they fall out, which usually grind down food to be sent to the\nstomach. But seeing it grow dark in the\ncaves, they think it means eyes because sight darkens with old-age, and sight\nis made difficult.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.4",
+   "range": "ECC.12.4",
+   "kind": "passage",
+   "hash": "1c098eaf",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.4#p1-c30a5c2e",
+     "text": "\"Bird\" can here mean the Savior in his human nature.…But also the message of truth itself can be called \"bird\" for this time. It can be compared for this time with a bird that comes from on high, from where truth came to the listeners. Since, however, now even the perfect listeners are lifted up and strive for what is above the earth, the \"bird on the roof\" calls to them. Standing above the cosmos it has announced the perfect, the encounter with truth \"from face to face.\"",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 352:12"
+    },
+    {
+     "id": "ecf/ECC.12.4#p2-9a3990d8",
+     "text": "\"The daughters of song\" are false teachers, the daughters only of the voice but not of the spirit, not of wisdom, not of knowledge, not of light.",
+     "author": "Didymus the Blind",
+     "quote": 2,
+     "work": "COMMENTARY ON Ecclesiastes 353:26"
+    },
+    {
+     "id": "ecf/ECC.12.4#p3-6917b7d9",
+     "text": "Because of their unmanliness and their feminization in the treatment of the perishable they are called daughters.They will be brought low. Like darkness ends when light appears, they will be unveiled as nothing when the \"call of the bird,\" that is, of the \"market\" or the Savior or the divine teacher, the \"rising\" [human being], is here. It turns out that the teaching [of the daughters of song] is valid only for this present life and that—to say briefly what has been treated extensively by people elsewhere—human wisdom, which promises a program of nice speeches and good rhetoric, lasts only as long as the voice. Since, however, this voice will vanish, because no air is moving any more when they rise above the sphere of the air, they will be brought low. The \"daughters of song\" will be seen as nothing, since the wise teachers are not called daughters or daughters of song, but \"sons of light,\" and \"sons of wisdom.\"",
+     "author": "Didymus the Blind",
+     "quote": 2,
+     "work": "COMMENTARY ON Ecclesiastes 353:26"
+    },
+    {
+     "id": "ecf/ECC.12.4#p4-a64f5870",
+     "text": "\"And the doors shall be shut in the streets,\nwhen the sound of the grinding is low, and he shall rise up at the voice of the\nbird, and all the daughters of music shall be brought low. \"When the voice of the grinder is weak and the teaching\nof a tutor has stopped, then in turn all things will stop. Even the doors are closed in the streets, as\naccording to the unwieldy virgins of the Gospel [Cfr. Matth. 25, 1-12.],\nand each one regards her doors as closed to her in the street, so that she can\nnot buy oil. Or even, while the virgins\nare wandering in the streets, husbands close each room when they have entered\ninto it. For if the road is thin and\nnarrow, which leads to life and that which leads to death is wide and open,\njustly, the charity of most being cold, the door of teachings is closed in the\nstreets. [Cfr. Matth. 7, 13.] But let us use the following verse, in which\nhe says, \"and he rises to the sound of a bird\", (or of a sparrow), if\nwe seem to be a sinner to the voice of the bishop or elder so to show that we\nare in repentance.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.4#p5-edc97b85",
+     "text": "But this could also\nbe different again, if we do not follow the context of this chapter, it can be\ntaken to mean the real resurrection, when the death will rise up to the voice\nof the arch-angel. And it is not\nsurprising, if we compare the trumpet of an angel to a sparrow, when all night\nis compared to Christ, if it is clement.\nAnd also this is not too surprising, if my memory serves me right, when\nI have never read of a sparrow in a bad light.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.4#p6-3e259dab",
+     "text": "In the tenth Psalm a righteous man says, \"I trust in God, just as\nyou say to my spirit: fly to the mountain like a sparrow.\" [Ps. 10, 1.] And in another place: \"I woke and I was\nmade as a sparrow alone on a roof\" [Ps. 101, 8.]. Nor is it seen in a bad light in another\nplace: \"and even the sparrow found a home for himself\" [Ps. 83, 4.]. Differently: they want to see this as the\nclosed doors in the street, as the weak steps of an old man, because he always\nsits and cannot walk. The weakness of\nthe voice of the grinder is interpreted as in his jaws, because he cannot chew\nfood, and scarcely reduced in spirit, his voice is heard only quietly.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.4#p7-e464c24d",
+     "text": "More precisely he shows him to rise to the\nsound of a bird, because now with cold blood and dry organs by which sleep is\nnourished, he wakes to a soft sound, and in the middle of the night, when the\ncock crows, he rises quickly; but he is not able to move his limbs from his\nbed. And he becomes silent too, or as it\nis better put in the Hebrew, the daughters of song become deaf, (meaning ears),\nbecause it is harder for old-men to hear noises and there is less distinction\nbetween voices, or enjoy songs. Also\ncompare what Berzellai says to David, when he does not want to go to Jordan. [Cfr. II reg. 19, 32-39.]",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.5",
+   "range": "ECC.12.5",
+   "kind": "passage",
+   "hash": "17cd2f89",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.5#p1-7877774d",
+     "text": "Those who have dealt with the world of plants say the following about the almond: Among all the plants it grows leaves in springtime and sheds them not before all the other trees have gotten bare; it is very durable.This is why it is said about the \"priestly rod\" that it was of almond wood. It did not last a short time; from Moses until the coming of the Savior it was a visible sign.…\nThis is what we think: Even if there are plants from other teachings, they bloom later, that is, after the true teaching, and cease before it; they vanish when it appears.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 356:10"
+    },
+    {
+     "id": "ecf/ECC.12.5#p2-3e9a74ae",
+     "text": "This rod, therefore, has extinguished the other rods, those of the false apostles, and of the false prophets.…\nThe sentence \"the almond blooms\" can be understood in a moral sense. The almond has two layers around the edible kernel: something hard that has to be cracked and something bitter, that is, the outer shell. The outer shell can be seen as the body, since it is bitter, tending to the sensual. The hard part, however, is the soul, since it is strong and big. The edible in the kernel is the spirit. When the sentence of the apostle comes to fruition—\"May the God of peace sanctify you, perfect your spirit, your soul, and your body\"—then the almond blooms.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 356:10"
+    },
+    {
+     "id": "ecf/ECC.12.5#p3-74885c3b",
+     "text": "In its blooming it envelops all the three.\nThe human being blooms, when it progresses in virtue, when it transforms its body so that it imitates the body of Christ.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 356:10"
+    },
+    {
+     "id": "ecf/ECC.12.5#p4-dae67acd",
+     "text": "Cities and their bloodstained leaders will wait for punishment from above. A most bitter and bloody time will arise like a blossoming almond tree, continuous punishments will be imposed like a swarm of flying locusts, and lawbreakers will be thrown out of the way like a black and contemptible caper plant. The good person will enter into his eternal home with rejoicing, but the bad people will fill all their homes with mourning.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "PARAPHRASE OF Ecclesiastes 12:5"
+    },
+    {
+     "id": "ecf/ECC.12.5#p5-530dbf89",
+     "text": "\"Also when they shall be afraid of that which is high, and fears shall\nbe in the way. \"That is, they will not be able to enter on\ndifficult tasks and with tired knees and frightened footsteps, will not be able\nto go out in the open, and will fear the offence of steps.\"\nAnd the almond tree shall flourish, and the grasshopper shall be a\nburden, and desire shall fail: because man goes to his long home, and the\nmourners go about the streets. \"The\nspeech now explains the limbs of a man of the Church through a metaphor. And when old-age comes his hair will grow\nwhite, his feet will swell, his lust will grow cold and he will be destroyed by\ndeath.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.5#p6-946108b9",
+     "text": "Then he will be returned to the\nearth, and then in the house of his eternity you will remember his tomb and his\nashes with reverence, and a crowd will walk before the mourners at his\nfuneral. But the flower of the almond-tree,\nwhich we have in place of grey hairs, some interpret as the sacred thorn,\nbecause, while the flesh of the buttocks decreases, the thorn grows and\nflowers. More precisely, in that verse\nwhich says, \"the grasshopper will be a burden\", you must note that\nwhere we have in our manuscripts 'grasshopper', the Hebrew has \"aagab\", which is rather ambiguous for\nus. For it can be translated as 'heel'\nor as 'grasshopper'.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.5#p7-14472e46",
+     "text": "Just as for example\nin the beginning of Jeremiah, the word \"soced\"\nif the accent is changed can mean 'a nut' or 'wakefulness'. And this is said to him: \"what do you\nsee, Jeremiah?\" and he replies, \"a nut\". [Ier. 1, 11.] And the Lord says to him, \"you have seen\nwell, for I will wake over my work so that I might complete it.\" [Ier. 1, 12.] Or that explanation: it also has the\netymology of the word 'nut', because God is about to keep awake. And what the people has deserved it will be\ngiven, is what the text seems to say.\nThus now he shows the ambiguity of the word through its etymology,\nshowing that the legs of old men swell up and that gout weighs upon the organs.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.5#p8-b39d9670",
+     "text": "This does not happen to all men, but to most,\nand this is \"synecdoche\" where a part\nis called by the name of the whole.\nIndeed where we read 'desire' the Hebrew has \"abiona. \"This in itself has\nmany meanings, and is interpreted as 'love', 'lust', 'longing', or\n'desire'. And it has the meaning, as I\nhave said above, that the lust of an old man grows cold, and the organs of\nintercourse sag. But this is said\nbecause these words are ambiguous, for although they mean 'almond-tree', and\n'grasshopper', and 'desire' in his language, they also mean other derived words\nin our language, and are derived from the forms which pertain to old-age.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.5#p9-8ed98de5",
+     "text": "You must note too, that where the Septuagint\nhas the word 'almond-tree' the word itself is \"soced\", which is found in the beginning of Jeremiah. But there it is meant 'nut' but here it means\n'almond-tree'. Symmachus has\ninterpreted this passage in a greatly different way, (though I am unsure of what\nhe means): for he says, 'and they will see even above these things from on\nhigh, and they will wander, and waking he will fall asleep, and the strength of\nhis spirit will be dispersed.' For man\nwill go to the house of his eternity, and the weeping will wander in the\nstreet.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.5#p10-5d02e59d",
+     "text": "Laodicenus [Apollinaris Laodic.]\nfollowed the interpretation of Symmachus, which the Hebrews do not like, nor\nthe Christians; for while he is far from the Hebrews' view, he rejects too the\ninterpretations of the Septuagint.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.6",
+   "range": "ECC.12.6",
+   "kind": "passage",
+   "hash": "b3d5e05c",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.6#p1-da7925ca",
+     "text": "By \"gold\" in Scripture one has to understand the spirit; but if one understands by \"silver\" the spoken word, we have to understand here by \"gold\" the thought and by bowl the sphere of reason, since it is the bowl and storage place for gold. When Scripture describes the spoken word and the written word as silver, this means a weaving of the words that fit to each other and a linking of the meaning of the different words among each other.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 360:14"
+    },
+    {
+     "id": "ecf/ECC.12.6#p2-3700ebdc",
+     "text": "Some are able to drink from the fountain without the pitcher. Rebecca, which means steadfastness in the good, stepped down to the fountain and scooped the water with the pitcher in order to give the thirsty servant [of Abraham] to drink; but she herself drank from the fountain without the pitcher.…The imperfect knowledge and the imperfect prophecy are the pitcher filled from the fountain. When the imperfect will pass away, the pitcher is broken. Its content, however, is not lost.… When one does not need to drink from the pitcher anymore because the Savior has given to drink and prepared in the person who drinks a spring of living water, then the pitcher is not needed for the person who has the fountain of living water inside.",
+     "author": "Didymus the Blind",
+     "quote": 2,
+     "work": "COMMENTARY ON Ecclesiastes 361:9"
+    },
+    {
+     "id": "ecf/ECC.12.6#p3-bbe884fe",
+     "text": "One can understand the \"cistern\" accordingly: Inasmuch as it is possible to scoop water from a fountain with a pitcher, it is also possible to pull up water from a cistern with a water wheel. When there is no need any more to pull up water in this way, then the \"[water] wheel will break at the cistern.\"",
+     "author": "Didymus the Blind",
+     "quote": 3,
+     "work": "COMMENTARY ON Ecclesiastes 362:13"
+    },
+    {
+     "id": "ecf/ECC.12.6#p4-e0da522e",
+     "text": "Neither stored silver nor tested gold will be of any further use. A mighty blow will strike everything, right down to a water pot standing next to a well, and to a carriage wheel which happens to have been left in the ditch, its time of revolving ceased, and to the life that, by water, has passed through the age of washing.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "PARAPHRASE OF Ecclesiastes 12:6"
+    },
+    {
+     "id": "ecf/ECC.12.6#p5-4f24b0e6",
+     "text": "\"Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.\" He returns to former matter and after a\nrather large exaggeration, -which he interposes in this place, in which he\nsays, \"and remember your Creator, in the day of your youth; before the\ndays of wickedness come, and before the sun, moon grow dark\" and so on,\n\"in the day in which the keepers of the house are renewed\". - now he\nfinishes the point he had begun in a similar way, saying, \"before the\nsilver cord is broken\", and this or that happens. But he shows the silver cord to be this white\nband, and the space that divides us from heaven.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.6#p6-c6542b9b",
+     "text": "It also means the gold band, which returns to\nthe place whence it came down. more\nprecisely the two that follow, the wearing of the jug on the fountain, and the\nbreaking of the wheel by the pond, are metaphorical images of death. For death is just like the jug, which is worn\ndown, stops to fill, and the wheel by which water is carried from a well or\npond, if it has been broken. Thus the\ninterpretation of the Septuagint has it that the usage of water is twisted in\nthis rope; thus when the silver cord is broken, and the river of the spirit\nflows back to the fountain, the man will die.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.7",
+   "range": "ECC.12.7",
+   "kind": "passage",
+   "hash": "acbc1510",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.7#p1-3ce5469b",
+     "text": "Near the end of the book called Ecclesiastes there is a passage about the dissolution of man, brought about by that death through which the soul is separated from the body, where the Scripture says, \"And let the dust return into its earth, as it was, and the spirit return to God who gave it.\" This authoritative statement is unquestionably true and leads no one into error.",
+     "author": "Augustine of Hippo",
+     "quote": 1,
+     "work": "LETTER 143"
+    },
+    {
+     "id": "ecf/ECC.12.7#p2-5772638e",
+     "text": "But if anyone wished to interpret it so as to try to defend the view that there was a posterity of souls and that all the subsequent ones come from that one which God gave to the first man, this passage seems to support him. [This is so] because flesh is there spoken of as dust—obviously, dust and spirit mean nothing else in this passage than flesh and soul—and in that way it declares that the soul returns to God, as if it might be a sort of branch, cut from that soul which God gave to the first man, just as the flesh is returned to the earth, since it is an offshoot of that flesh that in the first man was fashioned of the earth. Thus, he might contend from this that we ought to believe something that is not known about the soul, but is perfectly well known about the body. There is no doubt about the propagation of the flesh, but there is about the soul.",
+     "author": "Augustine of Hippo",
+     "quote": 1,
+     "work": "LETTER 143"
+    },
+    {
+     "id": "ecf/ECC.12.7#p3-e4a241f0",
+     "text": "We ask that the will of God may be done both in heaven and in earth, each of which things pertains to the fulfillment of our safety and salvation. For since we possess the body from the earth and the spirit from heaven, we ourselves are earth and heaven; and in both—that is, both in body and spirit—we pray that God's will may be done.",
+     "author": "Cyprian",
+     "quote": 2,
+     "work": "Treatise IV. On the Lord's Prayer 4:16"
+    },
+    {
+     "id": "ecf/ECC.12.7#p4-207cc20c",
+     "text": "Evagrius said, 'While you sit in your cell, recall your attention, and remember the day of your death and you will see that your body is decaying. Think about the loss, feel the pain. Shrink from the vanity of the world outside. Be retiring, and be careful to keep your vow of quiet, and you will not weaken. Remember the souls in hell. Meditate on their condition, the bitter silence and the moaning, the fear and the strife, the waiting and the pain without relief, the tears that cannot cease to flow. Remember too the day of resurrection, imagine God's terrible and awful judgement.",
+     "author": "Desert Fathers",
+     "quote": 3,
+     "work": "The Desert Fathers, Sayings of the Early Christian Monks"
+    },
+    {
+     "id": "ecf/ECC.12.7#p5-cf5a0bbc",
+     "text": "Bring into your sight the confusion of sinners before God and His Christ, before angels and archangels and powers, and all the human race, punishment, everlasting fire, the worm that never dies, the darkness of Tartarus – and above them all the sound of the gnashing of teeth, dread and torments. Bring before your eyes the good laid up for the righteous, their confidence before God the Father and Christ His Son, before angels and archangels and the powers, and all the people in the kingdom of heaven and its gifts, joy and peace. Remember all this. Weep and lament for the judgement of sinners, keep alert to the grief they suffer; be afraid that you are hurrying towards the same condemnation.",
+     "author": "Desert Fathers",
+     "quote": 3,
+     "work": "The Desert Fathers, Sayings of the Early Christian Monks"
+    },
+    {
+     "id": "ecf/ECC.12.7#p6-3ad15429",
+     "text": "Rejoice and exult at the good laid up for the righteous. Aim at enjoying the one, and being far from the other. Do not forget this, whether you are in your cell or outside it. Keep these memories in your mind and so cast out of it the sordid thoughts that harm you.'",
+     "author": "Desert Fathers",
+     "quote": 3,
+     "work": "The Desert Fathers, Sayings of the Early Christian Monks"
+    },
+    {
+     "id": "ecf/ECC.12.7#p7-499e10f9",
+     "text": "For people lying on earth there is one salvation, if their souls acknowledge and fly up to the One by whom they were brought into being.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 4,
+     "work": "PARAPHRASE OF Ecclesiastes 12:7"
+    },
+    {
+     "id": "ecf/ECC.12.7#p8-ae046eed",
+     "text": "\"Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.\" He goes on more clearly: \"the dust will return to the earth, whence\nit was taken, and the spirit is returned to God, who gave it\". From which there is enough to smile at in\nthose who think that spirits are produced with bodies, not from God, but are\nmade from the parent's body. For when\nthe flesh is returned to the earth, and the spirit goes back to God, who gave\nit; it is obvious that God is the parent of all spirits, not man.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.7#p9-9a3ff68d",
+     "text": "\"Before the dust returns to the earth as it was, and the spirit returns unto God who gave it.\" What could be said more clearly than that the matter of the flesh, which he styled dust because it springs from the seed of man and seems to be sown by his acts, must again return to the earth because it was taken from the earth? At the same time he points out that the spirit which is not begotten by intercourse between the sexes, but belongs to God alone in a special way, returns to its creator. This too is clearly implied in that breathing by God, through which Adam in the first instance received his life.",
+     "author": "John Cassian",
+     "quote": 6,
+     "work": "CONFERENCE 8:25"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.8",
+   "range": "ECC.12.8",
+   "kind": "passage",
+   "hash": "4faf498d",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.8#p1-a253a6ac",
+     "text": "\"Vanity of vanities says Ecclesiastes; all is vanity.\" Then after the description of man's death, he\ngoes back to the beginning of his book, saying, \"vanity of vanities, says\nEcclesiastes, all is vanity\" [Eccl. 1,2.]. For all toil of mortal men, which is argued\nall through the books, is pertinent here, so that dust returns to the earth,\nand the spirit returns to the place, whence it was taken, it is a great vanity\nin this world to toil and obtain nothing for the future from it.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.8#p2-a12767d1",
+     "text": "Such is \"vanity of vanities,\" your splendid buildings, your vast and overflowing riches, the herds of slaves that bustle along the public square, your pomp and vainglory, your high thoughts, and your ostentation. For all these are vain; they came not from the hand of God, but are of our own creating. But why then are they vain? Because they have no useful end. Riches are vain when they are spent upon luxury; but they cease to be vain when they are \"dispersed and given to the needy.\" But when thou hast spent them upon luxury, let us look at the end of them, what it is;—grossness of body, flatulence, pantings, fullness of belly, heaviness of head, softness of flesh, feverishness, enervation; for as a man who shall draw into a leaking vessel labors in vain, so also does the one who lives in luxury and self-indulgence draw into a leaking vessel.",
+     "author": "John Chrysostom",
+     "quote": 2,
+     "work": "HOMILIES ON Ephesians 12"
+    },
+    {
+     "id": "ecf/ECC.12.8#p3-97157b1b",
+     "text": "Hear what Solomon says, who knew the present world by actual experience. \"I builded me houses, I planted me vineyards, I made me gardens, and orchards and pools of water. I gathered me also silver and gold. I gat myself men-singers, and women-singers, and flocks, and herds.\" There was no one who lived in greater luxury, or higher glory. There was no one so wise or so powerful, no one who saw all things so succeeding to his heart's desire. What then? He had no enjoyment from all these things. What after all does he say of it himself? \"Vanity of vanities, all is vanity.\" Vanity not simply but superlatively.",
+     "author": "John Chrysostom",
+     "quote": 3,
+     "work": "HOMILIES ON 1 TIMOTHY 15"
+    },
+    {
+     "id": "ecf/ECC.12.8#p4-4c3e2fa1",
+     "text": "Let us believe him, and lay hold on that in which there is no vanity, in which there is truth; and what is based upon a solid rock, where there is no old age, nor decline, but all things bloom and flourish, without decay, or waxing old, or approaching dissolution. Let us, I beseech you, love God with genuine affection, not from fear of hell, but from desire of the kingdom. For what is comparable to seeing Christ? Surely nothing! What to the enjoyment of those good things? Surely nothing! Well may there be nothing; for \"eye hath not seen, nor ear heard, neither have entered into the heart of man the things which God hath prepared for them that love Him.\"",
+     "author": "John Chrysostom",
+     "quote": 3,
+     "work": "HOMILIES ON 1 TIMOTHY 15"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.9",
+   "range": "ECC.12.9",
+   "kind": "passage",
+   "hash": "4288018d",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.9#p1-fc65aaa6",
+     "text": "\"And moreover, because the preacher was wise,\nhe still taught the people knowledge; yea, he gave good heed, and sought out,\nand set in order many proverbs. The\npreacher sought to find out acceptable words: and that which was written was\nupright, even words of truth. \"The wisdom in which Solomon judges all kinds\nof men he now professes at the end, because he was not happy with the use of\nthe old law, but therefore immersed himself in trying to solve difficult\nproblems of his own accord, and in teaching people; he composed parables and\nproverbs, which say one thing superficially and yet have a deeper meaning.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.9#p2-f41436de",
+     "text": "For proverbs often have different meaning to\nthat which is written, and this is the method used in teaching in the Gospels,\nsince the Lord spoke to the people in parables and in proverbs [Cfr. Matth, 13; 15.],\nbut He explained them to the apostles in secret. From this we clearly get the Book of\nProverbs, and we shouldn't think that they are but simple stories with\nteachings, but rather as gold still in the earth, as a seed within a nut, or as\na fruit is found inside the hairy covering of its peel. Thus we must search for another meaning in\nthem which pertains to God. Before this\nthough he mentions that he desired to know the workings of the world and the\nwisdom and mind of God. He wanted to\nknow why one thing or another should happen, as David after the death of the\nbody and spirit hoped he would see the path to heaven, saying, \"I will see\nthe heavens, the work of your fingers\" [Ps. 8, 4.]. But now Solomon strives to find this wisdom,\nso that he may know and understand with his human mind, though confined by the\nwalls of the body, the truth only known by God.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.11",
+   "range": "ECC.12.11",
+   "kind": "passage",
+   "hash": "0530e9b9",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.11#p1-88b1ca2b",
+     "text": "Let your discourses then be flowing, let them be clear and lucid; pour the sweetness of your moral arguments into the ears of the people, and sooth them with the charm of your words, that so they may willingly follow your guidance. But if there be any contumacy or transgression in the people or individuals, let your sermons be of such a character as shall move your audience, and prick the evil conscience, for the words of the wise are as goads. The Lord Jesus too pricked Saul, when he was a persecutor. And think how salutary the goad was which from a persecutor made him an Apostle, by simply saying, It is hard for thee to kick against the pricks.",
+     "author": "Ambrose of Milan",
+     "quote": 1,
+     "work": "Letter II, To Constantius"
+    },
+    {
+     "id": "ecf/ECC.12.11#p2-5393fe8d",
+     "text": "Holy preachers are also accustomed to reprove their hearers with sharp words, and to rage with strict severity against their sins: as it is written, The words of the wise are as goads, and as nails fastened deep. But their words are rightly called nails, since they do not know how to handle gently the sins of offenders, but how to pierce them through. Were not the words of John nails, when he said, O generation of vipers, who hath shewed you to flee from the wrath to come? Were not the words of Stephen nails, when he said, Ye have always resisted the Holy Ghost? Were not the words of Paul, when he said, O senseless Galatians, who hath bewitched you? and again when saying to the Corinthians, For whereas there is among you envying and strife, are ye not carnal, and walk according to man?",
+     "author": "Gregory the Dialogist",
+     "quote": 2,
+     "work": "Morals on the Book of Job, Book 24"
+    },
+    {
+     "id": "ecf/ECC.12.11#p3-b253b31c",
+     "text": "\"The words of the wise are as goads, and as\nnails fastened by the masters of assemblies, which are given from one\nshepherd. \"The teacher should not be seen to break from\nthe law of God and afterwards to justify teaching by himself, more hastily than\nMoses not so much of his own will, as first by the anger of God, took teachings\ntherefrom with enthusiasm. He says that\nhis words are the words of the wise, which like a goad correct the wicked and\nthey move the slow steps of mortals with a sharp sting, thus they are hard like\nnails which hold things up securely and high; and they are not offered with one\nman's authority, but with the advice and agreement of all teachers.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.11#p4-6bf2dfc6",
+     "text": "Let not mankind's wisdom be despised, for he\nsays it is given from one shepherd. That\nis, many are allowed to teach, but there is only one originator of the\nteachings, who is God. He turns the\npassage against those who think there is one God of the Old Law, and one God of\nthe Gospels, since one shepherd taught the advice of the wise. But the wise are just as much prophets as the\napostles themselves. At the same time it\nshould be remembered that the words of the wise are said to sting, not to\nflatter or encourage debauchery by a lack of discipline. But as I have said above it is to give the\nwound and slow pain of repentance to those who have come into wickedness. For if his speech does not sting but it like\npleasure for the listeners then that is not the speech of a wise man. For the words of the wise are like the goad,\nsince after all they cause the conversion of the wicked, are firm, given on the\nadvice of saints, given by the one shepherd, and are founded on a strong\nroot. I think I have heard it said in\nPaul that Saul was thrown into the way of wickedness by this goad: \"it is\nhard for you to kick against the pricks.\" [Act. 9, 5.]",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.11#p5-80b7b24c",
+     "text": "All the Scriptures are \"words of the wise like goads, and as nails firmly fixed which were given by agreement from one shepherd,\" and there is nothing superfluous in them. But the Word is the one Shepherd of things rational which may have an appearance of discord to those who have not ears to hear but are truly at perfect concord.",
+     "author": "Origen of Alexandria",
+     "quote": 4,
+     "work": "COMMENTARY ON Matthew 2"
+    },
+    {
+     "id": "ecf/ECC.12.11#p6-a3ad811e",
+     "text": "And likewise it is a pleasant thing to endeavor to understand and exhibit the fact of the concord of the two covenants—of the one before the bodily advent of the Savior and of the new covenant. For among those things in which the two covenants are at concord so that there is no discord between them would be found prayers, to the effect that about anything whatever they shall ask it shall be done to them from the Father in heaven. And if also you desire the third that unites the two, do not hesitate to say that it is the Holy Spirit. For \"the words of the wise,\" whether they be those before the advent, or at the time of the advent, or after it, \"are as goads, and as nails firmly fixed, which were given by agreement from one shepherd.\"",
+     "author": "Origen of Alexandria",
+     "quote": 5,
+     "work": "COMMENTARY ON Matthew 14:4"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.12",
+   "range": "ECC.12.12",
+   "kind": "passage",
+   "hash": "ab1f14e8",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.12#p1-f0b59c8b",
+     "text": "\"And further, by these, my son, be\nadmonished: of making many books there is no end; and much study is a weariness\nof the flesh. \"If you remove the words which are given by\nthe one shepherd, related by the advice and agreement of the wise, do nothing\nand nothing will be reproved you; follow in the footsteps of the multitude and\ndo not diverge from their command.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.12#p2-3ef68017",
+     "text": "Then\ntoo for him who seeks to know many things there is a great number of books that\nwill lead him to wickedness and make the reader toil in vain. But he also teaches that you must have\nenthusiasm and follow meanings more than the words themselves, the opposite\nthat philosophers and teachers of this world teach, who try to assert the\nfalsities of their doctrines with flamboyant and unnecessary language. On the other hand divine scripture is\nrestricted by the small quantity of what is written, and however much it is\nenlarged by people's opinions it is restricted by the text itself.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.12#p3-19d707a9",
+     "text": "This is because the Lord has made speech\nconcise and brief all over the world, and His word is the same when it is\nspoken in our mouth and our heart. [Cfr. Deut. 30, 14; Rom. 10, 8.] Differently: read often, then consider what\nyou have read daily, there is usually more toil of the mind that that of the\nbody. For just as whatever you do with\nyour hand and body is filled with the toil of the hand and the body, so that\nwhich pertains to reading is more the toil of the mind. It seems to me from this that the above points\nfrom the several books must be considered differently to the way in which many\nbelieve them to be. It is the custom of\nthe Scriptures that, no matter how many books there are, if they all follow the\nsame matter are have few differences, then we can say that they are one\nbook. In this way the Gospel and the\n\"immaculate law of the Lord, converting spirits\" [Ps. 18, 8.]\nare called one, although there are several books in the Gospel and there are\nmany laws. In this way too there is one\nvolume of Isaiah, and all of the divine Scripture has one title; Ezekiel [Cfr. Ez. 3, 1-3.]\nand John [Cfr. Apoc. 10, 9.]\nare also many books in one book. The Saviour too prophesied in the holy words,\nsaying, \"in the title of the Book is written about me\" [Ps. 39, 9.]. According to this meaning therefore I think\nit is a teaching that there should not be too many books.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.12#p4-0d323767",
+     "text": "For whatever you say, if it is told to him\nwho was with God in the beginning, the word then is God [Cfr. Ioh. 1, 2.],\nas one volume, and the many books are the one law, which is called the\nGospel. But if you argue that they are\nvaried and differ too much to be in the same volume, and look at them with too\nmuch curiosity, even within each book you will see that there are many\nbooks. They say about this: \"you\nmay not escape the sin of saying too much\" [Prov. 10, 19.]. Therefore there is no end to such books, for\nall is good and the ending locks in truth, but wickedness and lying have no\nend. And the more they are sought, the\nmore they come about.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.12#p5-2510182d",
+     "text": "Study and\nconsideration of this is toil of the body.\nI say of the body here and not of the spirit. But the spirit even has toil according to\nwhat the apostle says: \"the more I worked for all these, not I, but the\ngrace of God which was with me\" [I Cor. 15, 10.],\nand the Saviour says, \"I worked shouting\" [Ps. 68, 4.].",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.12#p6-77ea15e5",
+     "text": "I, for my part, am inclined to shrink from toil and to avoid that danger which threatens from God those who give themselves to writing on divinity; thus I would take shelter in Scripture in refraining from making many books. For Solomon says in Ecclesiastes, \"My son, beware of making many books; there is no end of it, and much study is a weariness of the flesh.\" For we, except that text have some hidden meaning which we do not yet perceive, have directly transgressed the injunction; we have not guarded ourselves against making many books.",
+     "author": "Origen of Alexandria",
+     "quote": 2,
+     "work": "COMMENTARY ON THE GOSPEL OF John 5, PREFACE"
+    },
+    {
+     "id": "ecf/ECC.12.12#p7-4c4648a6",
+     "text": "First of all, we set forth the command from Ecclesiastes: \"My son, beware of making many books.\" I juxtapose for comparison with this the saying from the Proverbs of the same Solomon, who says, \"In a multitude of words you will not escape sins, but you will be wise if you restrain your lips.\" And I inquire, therefore, if speaking many words, regardless of what they are, is being loquacious, even if the many words are holy and pertain to salvation? For if this is the way things are, and if he who expounds many beneficial things is loquacious, Solomon himself has not escaped the sin.",
+     "author": "Origen of Alexandria",
+     "quote": 3,
+     "work": "COMMENTARY ON THE GOSPEL OF John 5:4"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.13",
+   "range": "ECC.12.13",
+   "kind": "passage",
+   "hash": "823d0484",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.13#p1-e9f7443e",
+     "text": "What could be briefer, truer, better for the soul to know? For this is all a person is—a keeper of God's commandments. Not being such, he is, so to say, nothing at all, because instead of being constantly reshaped to the image of the truth, he remains bogged down in the likeness of shadow.",
+     "author": "Augustine of Hippo",
+     "quote": 1,
+     "work": "City of God 20.3"
+    },
+    {
+     "id": "ecf/ECC.12.13#p2-2dda1957",
+     "text": "Of those who are proud and at the same time treacherous it is said, \"The foxes have dens and the birds of the air have nests.\" And of all people in general it is said, \"And man, when he was held in esteem\" (that is, made in the image of God), \"did not understand; he was like foolish cattle.\" Solomon, however, shows humanity as it truly is, that is, uncorrupted, when he says, \"Fear God and keep his commandments, for this is all there is to man.\"",
+     "author": "Bede",
+     "quote": 2,
+     "work": "Commentary on Acts 10:12"
+    },
+    {
+     "id": "ecf/ECC.12.13#p3-0736cd06",
+     "text": "They have been appointed to this, that is, to this made human beings by nature, that they may believe God and obey his will, as Solomon attests when he says, \"Fear God and obey his commandments, for this is [the duty of] every human being.\" That is, every human being has been naturally made for this purpose, that he may fear God and obey his commandments.",
+     "author": "Bede",
+     "quote": 3,
+     "work": "Commentary on the Catholic Epistles, 1 Peter 2:8"
+    },
+    {
+     "id": "ecf/ECC.12.13#p4-d36f5298",
+     "text": "Solomon's book in which these words appear is called Ecclesiastes. Translated, this name means \"Preacher.\" Now, in preaching one expresses sentiments that tend to quiet a noisy crowd. And when there are many people holding opinions of various kinds, they are brought into harmony by the reasoning of the speaker. This book, then, is called \"the Preacher\" because in it Solomon makes the feelings of the disorganized people his own in order to search into and give expression to the thoughts that come to their untutored minds perhaps by the way of temptation. For the sentiments he expresses in his search are as varied as the individuals he impersonates.",
+     "author": "Gregory the Dialogist",
+     "quote": 4,
+     "work": "Dialogues, Book 4, Chapter 4"
+    },
+    {
+     "id": "ecf/ECC.12.13#p5-5bb2230a",
+     "text": "But, like a true preacher, he stretches out his arms at the end of his address and calms the troubled sprits of the assembled people, calling them back to one way of thinking. This we see him do at the close of the book, where he says, \"Let us all hear together the conclusion of the discourse. Fear God and keep his commandments: for this is the whole duty of man.\"",
+     "author": "Gregory the Dialogist",
+     "quote": 4,
+     "work": "Dialogues, Book 4, Chapter 4"
+    },
+    {
+     "id": "ecf/ECC.12.13#p6-6406f729",
+     "text": "\"Let us hear the conclusion of the whole\nmatter: Fear God, and keep his commandments: for this is the whole duty of\nman. For God shall bring every work into\njudgement, with every secret thing, whether it be good, or whether it be\nevil. \"The Hebrews say that although it used to be among other\nwritings of Solomon in the past, they have not persisted in memory; and this\nbook seems as if it ought to have been omitted, because it asserts that all\nGod's creations are vain and that he thinks everything is done for nothing, and\nhe prefers food and drink and transient pleasures to all things; thus he takes\nhis authority from this one title, so it is now included in the number of\ndivine books, because he argues well and lists many things like \"anakephaiosei, \"and he said that his\nspeeches are the easiest to hear, and to understand; let us therefore fear God\nand carry out his commandments.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p7-5459d734",
+     "text": "For man\nis born for this purpose and, understanding his Creator, he reveres Him in fear\nand respect, and in the work of his commandments. And when the time of judgement comes whatever\nwe have done will stand before the judge and for a long time we will await our\njudgement which could go one way or the other, and we will receive our just\nrewards, whether they be good or bad.\nBut where we read, \"with every secret thing\", Symmachus and the\nSeptuagint have interpreted, \"from all contempt\", or even \"from\nall unknown\", which even brought by reluctant words, not by will, but by\nignorance, we will be returned to reason in the day of our judgement.",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p8-61378d52",
+     "text": "Differently: since fear is more appropriate\nto slaves, and perfect love involves no fear, and fear in the divine Scripture\nis used to denote those embarking on and those completing education [Cfr. I. Ioh. 4, 18.]. Now I think he talks about the fear inherent\nin virtues, according to the passage, which says, \"nothing is lacking from\nthose who fear Him\" [Ps. 33, 10.]. Or even, since until now he is a man and has\nnot yet taken the name of God, he has this reason of his wealth, so that he\nfears God while he is still alive. Since\nevery single deed is judged, that is, God leads all men into judgement about\nall things, either good or bad, which are done and said differently than by\nHim. For indeed, \"woe to those who\nsay wicked is good, and good is wicked\" [Is. 5, 20.].",
+     "author": "Jerome",
+     "quote": 5,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p9-a7486b57",
+     "text": "\"Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. For God shall bring every work into judgement, with every secret thing, whether it be good, or whether it be evil.\" Let us therefore fear God and carry out his commandments. For man is born for this purpose and, understanding his Creator, he reveres Him in fear and respect, and in the work of his commandments.",
+     "author": "Jerome",
+     "quote": 6,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p10-42ec4dd8",
+     "text": "And when the time of judgement comes whatever we have done will stand before the judge and for a long time we will await our judgement which could go one way or the other, and we will receive our just rewards, whether they be good or bad. But where we read, \"with every secret thing\", Symmachus and the Septuagint have interpreted, \"from all contempt\", or even \"from all unknown\", which even brought by reluctant words, not by will, but by ignorance, we will be returned to reason in the day of our judgement.",
+     "author": "Jerome",
+     "quote": 6,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p11-b20d9b39",
+     "text": "Differently: since fear is more appropriate to slaves, and perfect love involves no fear, and fear in the divine Scripture is used to denote those embarking on and those completing education. Now I think he talks about the fear inherent in virtues, according to the passage, which says, \"nothing is lacking from those who fear Him\". Or even, since until now he is a man and has not yet taken the name of God, he has this reason of his wealth, so that he fears God while he is still alive.",
+     "author": "Jerome",
+     "quote": 6,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p12-7b4e378f",
+     "text": "Since every single deed is judged, that is, God leads all men into judgement about all things, either good or bad, which are done and said differently than by Him. For indeed, \"woe to those who say wicked is good, and good is wicked\".",
+     "author": "Jerome",
+     "quote": 6,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.12.13#p13-67ba545e",
+     "text": "If fear of God comes from knowledge but knowledge is going to pass away, as Paul says, then we shall be completely destroyed when there is no knowledge. All that we are will be gone, and we shall be in a state no better but much worse than irrational beings. For in knowledge we have the advantage over them, whereas in all other things pertaining to the body they surpass us by far.",
+     "author": "John Chrysostom",
+     "quote": 7,
+     "work": "AGAINST THE ANOMOEANS, HOMILY 1:9"
+    },
+    {
+     "id": "ecf/ECC.12.13#p14-ba41e398",
+     "text": "\"Fear,\" said he, \"the Lord, and keep His commandments. For if you keep the commandments of God, you will be powerful in every action, and every one of your actions will be incomparable. For, fearing the Lord, you will do all things well. This is the fear which you ought to have, that you may be saved. But fear not the devil; for, fearing the Lord, you will have dominion over the devil, for there is no power in him.... For fears are of two kinds: for if you do not wish to do that which is evil, fear the Lord, and you will not do it; but, again, if you wish to do that which is good, fear the Lord, and you will do it. Wherefore the fear of the Lord is strong, and great, and glorious.",
+     "author": "Shepherd of Hermas",
+     "quote": 8,
+     "work": "Shepherd of Hermas, Commandment 7"
+    },
+    {
+     "id": "ecf/ECC.12.13#p15-96e6c3ff",
+     "text": "Fear, then, the Lord, and you will live to Him, and as many as fear Him and keep His commandments will live to God.\"... \"All creation fears the Lord, but all creation does not keep His commandments. They only who fear the Lord and keep His commandments have life with God; but as to those who keep not His commandments, there is no life in them.\"",
+     "author": "Shepherd of Hermas",
+     "quote": 8,
+     "work": "Shepherd of Hermas, Commandment 7"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.12.14",
+   "range": "ECC.12.14",
+   "kind": "passage",
+   "hash": "5daf16ee",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.12.14#p1-4bde1310",
+     "text": "Nor is a resurrection declared only for the martyrs, but for all persons, righteous and unrighteous, godly and ungodly, that everyone may receive according to his desert. For God, says the Scripture, \"will bring every work into judgment, with every secret thing, whether it be good or whether it be evil.\".",
+     "author": "Apostolic Constitutions",
+     "quote": 1,
+     "work": "CONSTITUTIONS OF THE HOLY APOSTLES"
+    },
+    {
+     "id": "ecf/ECC.12.14#p2-0ba259ff",
+     "text": "Consider how grave an error it is to call God's Word a work. Solomon says in one place in Ecclesiastes that \"God shall bring every work into judgment, with every secret thing, whether it be good or whether it be evil.\" If then the Word is a work, do you mean that he as well as others will be brought into judgment? And what room is there for judgment, when the Judge is on trial? Who will give to the just their blessing, who to the unworthy their punishment, the Lord, as you must suppose, standing on trial with the rest? By what law shall he, the Lawgiver, himself be judged?",
+     "author": "Athanasius of Alexandria",
+     "quote": 2,
+     "work": "Discourses Against the Arians 2.14.6"
+    },
+    {
+     "id": "ecf/ECC.12.14#p3-34705279",
+     "text": "Nor is a resurrection declared only for the martyrs, but for all persons, righteous and unrighteous, godly and ungodly, that everyone may receive according to his desert. For God, says the Scripture, \"will bring every work into judgment, with every secret thing, whether it be good or whether it be evil.\"",
+     "author": "Nilus of Sinai",
+     "quote": 3,
+     "work": "CONSTITUTIONS OF THE HOLY APOSTLES 5:1.7"
+    }
+   ]
+  }
+ ]
+}

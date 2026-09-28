@@ -1,0 +1,604 @@
+{
+ "source": "ecf",
+ "book": "ECC",
+ "chapter": 9,
+ "units": [
+  {
+   "id": "ecf/ECC.9.1",
+   "range": "ECC.9.1",
+   "kind": "passage",
+   "hash": "50b3b0a5",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.1#p1-53f7cb21",
+     "text": "One acquaints the heart with what one has decided to investigate. The heart in turn longs to know more about these things, which is why it is said, \"I turned my heart to know.\" Those \"spheres\" are the matters [of inquiry]. The one who directs the heart by meditating on these spheres causes the heart to know them. However, one should note that those spheres that encircle human beings and those that the heart knows are not the same, because we may look into a lot of things, yet only know a very few of them.",
+     "author": "Evagrius Ponticus",
+     "quote": 1,
+     "work": "SCHOLIA ON Ecclesiastes 68:9.1"
+    },
+    {
+     "id": "ecf/ECC.9.1#p2-c4c69218",
+     "text": "Now I thought at that time that all men were judged worthy of the same things.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p3-566517e7",
+     "text": "And if any wise man practised righteousness, and withdrew himself from unrighteousness, and as being sagacious avoided hatred with all (which, indeed, is a thing well pleasing to God), this man seemed to me to labour in vain. For there seemed to be one end for the righteous and for the impious, for the good and for the evil, for the pure and for the impure, for him that worshipped God, and for him that worshipped not. For as the unrighteous man and the good, the man who swears a false oath, and the man who avoids swearing altogether, were suspected by me to be driving toward the same end, a certain sinister opinion stole secretly into my mind, that all men come to their end in a similar way. But now I know that these are the reflections of fools, and errors and deceits.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p4-9f0a46a8",
+     "text": "And they assert largely, that he who is dead has perished utterly, and that the living is to be preferred to the dead, even though he may lie in darkness, and pass his life-journey after the fashion of a dog, which is better at least than a dead lion. For the living know this at any rate, that they are to die; but the dead know not anything, and there is no reward proposed to them after they have completed their necessary course. Also hatred and love with the dead have their end; for their envy has perished, and their life also is extinguished. And he has a portion in nothing who has once gone hence.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p5-8e7fed1f",
+     "text": "Error harping still on such a string, gives also such counsel as this: What do you mean, O man, that you do not enjoy yourself delicately, and gorge yourself with all manner of pleasant food, and fill yourself to the full with wine? Do you not perceive that these things are given us from God for our unrestrained enjoyment? Put on newly washed attire, and anoint your head with myrrh, and see this woman and that, and pass your vain life vainly. For nothing else remains for you but this, neither here nor after death.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p6-03f02ab6",
+     "text": "But avail you yourself of all that chances; for neither shall any one take account of you for these things, nor are the things that are done by men known at all outside the circle of men. And Hades, whatever that may he, whereunto we are said to depart, has neither wisdom nor understanding. These are the things which men of vanity speak. But I know assuredly, that neither shall they who seem the swiftest accomplish that great race; nor shall those who are esteemed mighty and terrible in the judgment of men, overcome in that terrible battle. Neither, again, is prudence proved by abundance of bread, nor is understanding wont to consort with riches.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p7-b6460b39",
+     "text": "Nor do I congratulate those who think that all shall find the same things befall them. But certainly those who indulge such thoughts seem to me to be asleep, and to fail to consider that, caught suddenly like fishes and birds, they will be consumed with woes, and meet speedily their proper retribution. Also I estimate wisdom at so high a price, that I should deem a small and poorly-peopled city, even though besieged also by a mighty king with his forces, to be indeed great and powerful, if it had but one wise man, however poor, among its citizens. For such a man would be able to deliver his city both from enemies and from entrenchments.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p8-0feb1539",
+     "text": "And other men, it may be, do not recognise that wise man, poor as he is; but for my part I greatly prefer the power that resides in wisdom, to this might of the mere multitude of the people. Here, however, wisdom, as it dwells with poverty, is held in dishonour. But hereafter it shall be heard speaking with more authoritative voice than princes and despots who seek after things evil. For wisdom is also stronger than iron; while the folly of one individual works danger for many, even though he be an object of contempt to many.",
+     "author": "Gregory of Neocaesarea",
+     "quote": 2,
+     "work": "A Metaphrase of the Book of Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p9-78f7953e",
+     "text": "\"For all\nthis I noted and I sought to ascertain all this: that the righteous and the\nwise together with their actions are in the Hand of God; whether love or hate\nman does not know; all preceded them. \"Symmachus also interprets this more clearly,\nsaying: I kept all these things in my heart so that I could expound all things,\nsince the righteous and the wise, along with their works are in the hand of\nGod. And besides neither friendship, nor\nhatred is known to man; yet all things are not certainin their presence, because\nthey happen similar to all, both to the righteous and to the wicked alike.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p10-d3e7288c",
+     "text": "More precisely the meaning is this: I\ndedicated my heart even to this and wanted to know whom it is that God loves,\nand whom He hates. And I found too that\neven the work of the righteous is in the hand of God, but though, whether they\nare loved by God or not, now they know it cannot be and they remain undecided\nas to whether they should keep on doing what they are doing until it is\napproved, or pray. In the future\ntherefore they will know and all will be on their faces, that is 'will precede\nthem' when they leave this life.\nKnowledge of that matter then will come to them, since then is the\njudgement, but now the struggle.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.1#p11-0a701bfb",
+     "text": "And\nwhosoever remains confused as to whether they should keep on through the love\nof God, as Job, or through hate, as several sinners, will not be able to know\nfor certain.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.2",
+   "range": "ECC.9.2",
+   "kind": "passage",
+   "hash": "64d88f0b",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.2#p1-ee70b551",
+     "text": "Except that our belief in Christ raises us up to heaven and promises eternity to our souls, the physical conditions of life are the same for us as for the brutes.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "LETTER 108.27"
+    },
+    {
+     "id": "ecf/ECC.9.2#p2-3d08cc0b",
+     "text": "\"All\nthings come alike to all; the same fate awaits the righteous and the wicked,\nthe good and the clean and the unclean, the one who brings a sacrifice and the\none who does not. As is the good man so\nis the sinner, as is the one who swears, so is the one who fears an oath. \"These things which in themselves are neither good nor\nbad but are called 'in-between' by the wise, (since equally things happen to\nboth the righteous and the wicked), they perturb each single man, especially as\nto why they should happen thus, and therefore do not think they are being\njudged, while there will be a distinction between all things in the future when\nthey have been done, yet now all things are confused. But he says: \"there is one outcome for\nthe just and the unjust\", he means either the outcome of hardships or of\ndeath, and therefore they do not know the kingdom of God nor His hate. Those who bring sacrifice and those who do\nnot, and others in contrast who are not listed here must be seen in a spiritual\nunderstanding, according to that verse which says, \"sacrifice to God with\na troubled spirit\" [Ps. 50, 19.].",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.3",
+   "range": "ECC.9.3",
+   "kind": "passage",
+   "hash": "a260e430",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.3#p1-a0643bec",
+     "text": "\"This is\nan evil about all things that are done under the sun: that the same fate awaits\nall Therefore the heart of man is full of evil; and madness is in their heart\nwhile they live; and after that, they go to the dead. \"Symmachus interprets this in his usual\nclearer way, saying, \"but even the heart of mankind is filled with\nwickedness and impudence like their heart in life\". But all of them succumb to death, for who is\nable to continually live forever? The\nScripture has the same meaning regarding this.\nI said a little earlier, that when both good and bad things happen\nequally to everyone, there is no difference between good and bad, for we are\ntaken from this life by indiscriminate death.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.3#p2-83ac8589",
+     "text": "Nonetheless we are filled with wrongdoings and impudence and wickedness,\nand after all these trials in life we are suddenly taken by death and\nafterwards we cannot consort with the living.\nOr indeed it could mean this: since the same difficulties afflict both\nthe just and the unjust, men are therefore provoked to commit sins. Then after he has tried all things, which are\ndone in vain, while he is unknowing, he descends to the world of the dead. \"For\nhe who is attached to all living has hope, a live dog is better than a dead\nlion.\"",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.4",
+   "range": "ECC.9.4",
+   "kind": "passage",
+   "hash": "74c56117",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.4#p1-74c56117",
+     "text": "Do not, I pray thee, in such a question trust to humility only or to gravity, which are often deceived. Better by far is a living dog in this problem than a dead lion. For a living saint may correct what had not been corrected by another who came before him.",
+     "author": "Gregory the Dialogist",
+     "quote": 1,
+     "via": "Note: letter is FROM Columbanus TO Gregory",
+     "work": "Register of Epistles, Book 9"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.5",
+   "range": "ECC.9.5",
+   "kind": "passage",
+   "hash": "18cfadf6",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.5#p1-26808092",
+     "text": "\"For the living know that they will die, but the dead know nothing at\nall; there is no more reward for them, their memory is forgotten.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.5#p2-705fb462",
+     "text": "Their love, their hate, their jealousy have\nalready perished- nor will they ever again have a share in whatever is done\nbeneath the sun. \"Since he has said above that the heart of\nman is filled with wickedness and impudence, and after all things, his life\ncomes to an end in death, then now he completes this by saying that he has\ndiscovered that while men live, they are able to become righteous, but after\ndeath are given no opportunity to do good work.\nFor the sinner who lives can be better than the dead and righteous man,\nif he wishes to convert to his virtues.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.5#p3-299a49ae",
+     "text": "Or indeed as for him, who threw himself into wickedness, power, and\nimpudence, then died: any poorest beggar is better than him. Why? Because\nthe living can carry out good work in the fear of death, but the dead can do\nnothing to add to that which they took away from their life when they\ndied. And all things are forgotten, just\nas it is written in the Psalm: \"I have been given to forget, though dead\nfrom my heart\" [Ps. 30,13.]. But even their enjoyment, hatred and\njealousy, and all that they were able to hold in their time, comes to an end\nwith their death; nor can they do anything now in their righteousness or sin,\nor add to their virtues, or to their vices.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.5#p4-8f0e9c1b",
+     "text": "Certain men though can argue against this explanation, asserting that we\ncan even grow after death, and equally decrease, and quoting that verse which\nsays, \"and they will not share yet in all that is done under the\nsun\", and they understand it in this way, so that they say that they have\nno communion in this world, and under this sun that we can see. But they say that they do have it in another\nworld, about which the Saviour says,\n\"I am not of this world\" [Ioh. 8, 23.],\nand under the sun of justice, but I have not excluded this theory, which\ncontends that after we leave this earth, we are able to offend reasoning\ncreatures, and deserve what we get. My\nHebrew tutor thought differently of the verse, which says, \"a living dog\nis better than a dead lion\". He explained\nit in this way according to the beliefs of his people: an unlearned man is more\nuseful, he who still lives and can teach, than a trained teacher who is now\ndead. Because of the text he understands\nit to mean any one dog is better than many teachers, and the lion is Moses, or\nany other prophet.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.5#p5-f42b8b5a",
+     "text": "But because I don't\nlike this explanation I prefer a better one; and Chananaea to whom it is said:\n\"your faith saves you\" [Matth. 9, 23.],\nwe say he is a dog according to the Gospel.\nBut a dead lion, for the people of circumcision is just the same as for\nBalaam, the prophet, who says, \"behold the people shall rise up as a great\nlion, and shall lift up himself as a young lion\" [Num. 23,24.]. Therefore we are a living dog amongst the\nother nations; but the Jewish people which has been left by God, is a dead\nlion. And that living dog is seen as\nbetter in God's eyes than a dead lion.\nFor we who are living know the Father, the Son, and the Holy Spirit.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.5#p6-bf6689c3",
+     "text": "The dead though can know nothing, or await\nany recompense and profit, since their memory is complete. They don't remember what they ought to know,\nand God does not remember them.\nEnjoyment too, for which they often loved God, will die, and hatred as\nwell, about which they say boldly, \"surely I hate those who hate You, O\nLord, and am I not grieved with those that rise up against You?\" [Ps. 138, 21.]. And there does not exist their jealousy,\nsimilar to the Phinees, and the knees of Matathia trembled. [Cfr. I Mach. 2, 24-6.54.] But it is very clear that a part of them is\nnot in that world, for they are not able to say, \"my part is the\nLord\". [Ps. 72, 26.]",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.7",
+   "range": "ECC.9.7",
+   "kind": "passage",
+   "hash": "9c1eaa7e",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.7#p1-23556e46",
+     "text": "For this reason Solomon also, in Ecclesiastes, covertly alluding to this grace, says, \"Come hither, eat your bread with joy,\" that is, the mystical bread. \"Come hither,\" he calls, a saving, beatific call. \"And drink your wine with a merry heart,\" that is, the mystical wine. \"And let oil be poured out upon your head\": you see how he hints also of the mystical chrism. \"And at all times let your garments be white, because the Lord approves what you do.\" It is now that the Lord approves what you do, for before you came to the grace your doings were \"vanity of vanities.\"",
+     "author": "Cyril of Jerusalem",
+     "quote": 1,
+     "work": "MYSTAGOGICAL LECTURES 4:8"
+    },
+    {
+     "id": "ecf/ECC.9.7#p2-9d3c6089",
+     "text": "\"Go, eat\nyour bread with joy and drink your wine with a glad heart, for God has already\napproved your deeds. Let your garments\nalways be white, and your head never lack oil.\n\"Regarding the\npassage until that verse where he says: 'like fish caught in a fatal net, like\nbirds seized in a snare, so are men caught in the moment of disaster when it\nfalls upon them suddenly'. [Eccl. 9, 12.] Before I discuss them individually, it will\nbe useful to link them together, so that it can be seen how all pertain to the\nsame meaning.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p3-17dfbf30",
+     "text": "Because in a preceding\nchapter he had said that after men have died they are cut off from the heart of\nthe living, and no one loves or hates them, as according to the poet, who says,\n\"there is no struggle from the dead, who lack breath\" [Verg. Aen.\nXI. 104]. And because they can do no more under the\nsun, now he introduces the idea of human madness and habit, whereby men of this\nworld encourage themselves in turn to enjoy good things; and \"prosopopoiian\", using this in the manner\nof rhetoricians and poets, saying: \"O man, since there is nothing for you\nafter death, and death herself hears not my complaint, and while you live this\nbrief life, take pleasure in enjoyment, hold feasts, suppress your worries with\nwine, and understand, since they are all given by God to be used by you. Wear white clothes, and let your head smell\nof ointments, and whichever woman pleases you, enjoy her embrace, thus lead\nthis empty and vain life in empty and vain pleasure.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p4-7a234c72",
+     "text": "For you will not have anything more than\nthis, which you enjoy. Whatever you\nlike, grasp quickly, lest it disappears.\nYou shouldn't fear the vain things mentioned, for the reason for each\nindividual work, either good or bad, will be given to you in the world of the\ndead. And there is no wisdom in death,\nno sense of this life after passing away.\nHe also says that Epicurus, Aristippus, and the philosophers of Cyrene [i.e.Eratosthenes],\nand other of the philosophical flock hold this belief. But I prefer my own ideas, and I do not find,\nas some people think incorrectly, that everything happens by chance, and good\nand bad fate plays on human lives.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p5-bb8106af",
+     "text": "I\nrather believe that everything happens by the order of God. For the fast runner should not think of his\nrunning when he runs, nor a strong man have faith in his strength, or a wise\nman think amassing great riches and wealth is prudent; the learned and\nwell-spoken should not be able to find himself amongst a flattering crowd\nbecause of his eloquence and learning, but by attributing all things to be done\nby God. And unless he has ruled all\nthings in his own judgement, and built his own home, then they worked in vain,\nwho built it. Except if he built a city,\nthose, who watch over it, will stay awake in vain. For it is not as they think it is, that there\nis one outcome and uncertainty in this life, since they do not think so, who\nare suddenly taken away by death and taken to their judgement.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p6-a603b598",
+     "text": "And just as fish are caught by a spear or in\nnets, and birds are ensnared in a noose whilst they fly through the air\nunknowing, in the same way men are led away to eternal prayer on account of\ntheir merits, when sudden death comes and judges against them, who thought all\nthings in life happened by uncertainty.\nThis is similar to that meaning by which we wanted to understand all\nthings in brief. Now he speaks not as if\nfrom another person's mouth, but for himself, each phrase must be looked at on\nits own: \"Go, eat your bread with joy and drink your wine with a glad\nheart, for God has already approved your deeds\".",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p7-8228dddf",
+     "text": "Since you learned that all things end with\ndeath, and that repentance is not in the world of the dead, and that there is\nno recourse to virtues, while you are in that situation, then hasten, struggle,\nrepent, while you still have the time.\nFor God acknowledges repentance freely.\nAnother meaning could be, that simply understanding is of use, according\nto that verse, which says, \"whether therefore you eat, or drink, or\nwhatever you do, do all to the glory of God.\" [I Cor. 10, 31.]\" \"And\nin another place: drink wine with warning\" ['Quotation of uncertain origin.']. For he who uses up more than his means does\nnot have true happiness and a good heart.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p8-b933e4eb",
+     "text": "But it is better to think this: the works of this man pleased God,\nnonetheless he had need of bread and wine, because he has been spurned from the\nvineyard of Sorek. Therefore this\nteaching has been given to us, as he says, \"if you desire wisdom, then\nkeep the commandments and the Lord shall give it to you\" [Eccli. 1, 33.]. Let us then keep the commandments and we will\nbe able to find bread and wine for the spirit.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p9-2623be6a",
+     "text": "But he who does not keep the commandments prides himself in the\nabundance of his bread and wine, and Isaiah says to him, \"do not even say,\nI know it, you do not know, or recognise, and your ears have not heard from the\nbeginning, for I knew that you would deal very treacherously\" [Is. 48, 7.8.]. More precisely as it is said in the\ninterpretation given in the Septuagint: Come, eat your bread in happiness, this\nis the word of Ecclesiastes, who even speaks in the Gospel: \"If any man\nthirst, let him come unto me, and drink.\" [Ioh. 7, 37.]\nAnd in Proverbs: \"Come, eat of my bread, and drink of the wine. Let your clothes be white forever and may\nyour hair be oiled [Prov. 9, 5.]. He therefore says, have a clean body and be\nmerciful.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p10-2cca44b4",
+     "text": "Or in this way: 'let there not\nbe a time in which you do not have white clothes, beware lest you by accident\nput on clothes that are not clean'. A\nknown sinner was once described to have enjoyed dirty clothes. But you should put on the light, not the\nmalediction, which was also written about Judah: \"let a curse be worn like\nclothes\" [Ps. 109, 18.]. Wear by your skin mercy, kindness, humility,\nmildness and patience. And when you have\nbeen stripped, as an old man, of your work, take on new work, which is renewed\neach day. He also says, \"and let your\nhair not lack oil\", you must remember that this is the nature of ointment,\nthat it reflects light and reduces the work of tiredness.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.7#p11-99e970ab",
+     "text": "It is spiritual ointment, the ointment of\nexultation, about which is written: \"therefore God, your God, has anointed\nyou with the oil of gladness above your friends\" [Ps. 45, 7.]. This oil must gladden our face. This oil must be put on the head of a faster,\nfor sinners cannot have it, about whom it is said, \"they have not been\nclosed, neither bound up, neither mollified with ointment\" [Is. 1, 6.]. But they have a different ointment, which the\nrighteous man abhors, saying, \"the oil of a sinner will not stain my\nhead\" [Ps. 140, 5.]. Heretics have this oil and wish to pour it\nover the heads of their beguilers.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.8",
+   "range": "ECC.9.8",
+   "kind": "passage",
+   "hash": "38a252f8",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.8#p1-35c08f3e",
+     "text": "Tropology (that is, a moral manner of speech) has regard to the establishment and correction of manners, pronounced in words that are either plain or figurative; in plain words, as when John admonishes, saying, \"My little children, let us love not in word or speech but in deed and in truth,\" or in figurative words, as when Solomon said: \"Let your garments be always white and let not oil be lacking on your head,\" which is to say openly, \"At all times let your works be pure and let not charity be lacking from your heart.\"",
+     "author": "Bede",
+     "quote": 1,
+     "work": "On the Tabernacle 1"
+    },
+    {
+     "id": "ecf/ECC.9.8#p2-719a0514",
+     "text": "\"You love righteousness and hate wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions.\" See, even the companions are anointed. But he himself was anointed before them, since he has not been anointed because of them, but they because of him. After all, they are called \"Christ's companions,\" not Christ their companion.",
+     "author": "Didymus the Blind",
+     "quote": 2,
+     "work": "COMMENTARY ON Ecclesiastes 273:13"
+    },
+    {
+     "id": "ecf/ECC.9.8#p3-1d658aaf",
+     "text": "Because they can do no more under the sun, now he introduces the idea of human madness and habit, whereby men of this world encourage themselves in turn to enjoy good things; and prosopopoiian, using this in the manner of rhetoricians and poets, saying: \"O man, since there is nothing for you after death, and death herself hears not my complaint, and while you live this brief life, take pleasure in enjoyment, hold feasts, suppress your worries with wine, and understand, since they are all given by God to be used by you. Wear white clothes, and let your head smell of ointments, and whichever woman pleases you, enjoy her embrace, thus lead this empty and vain life in empty and vain pleasure.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "COMMENTARY ON Ecclesiastes 9:8"
+    },
+    {
+     "id": "ecf/ECC.9.8#p4-88bf9daa",
+     "text": "For you will not have anything more than this, which you enjoy. Whatever you like, grasp quickly, lest it disappears. You shouldn't fear the vain things mentioned, for the reason for each individual work, either good or bad, will be given to you in the world of the dead. And there is no wisdom in death, no sense of this life after passing away.\"",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "COMMENTARY ON Ecclesiastes 9:8"
+    },
+    {
+     "id": "ecf/ECC.9.8#p5-2988bd3d",
+     "text": "The Holy Spirit actually teaches us not to put things off from day to day but to do to our soul all the good that is possible. [This we do] to adorn it with every virtue worthy of heaven, so as to clothe it with brilliant vestments according to this agreeable voice: \"Let your clothes be brilliant at all times; let your head not lack in oil.\"",
+     "author": "Oresiesis-Heru-sa Ast",
+     "quote": 4,
+     "work": "INSTRUCTIONS 4:1"
+    },
+    {
+     "id": "ecf/ECC.9.8#p6-44b6a2c8",
+     "text": "No one, therefore, can hear the Word of God unless he has first been sanctified, that is, unless he is \"holy in body and spirit,\" unless he has washed his garments. For a little later he shall go in to the wedding dinner, he shall eat from the flesh of the lamb, he shall drink the cup of salvation. Let no one go in to this dinner with dirty garments. Wisdom also has commanded this elsewhere, saying, \"Let your garments be clean at all times.\" For your garments were washed once when you came to the grace of baptism; you were purified in body; you were cleansed from all filth of flesh and spirit.",
+     "author": "Origen of Alexandria",
+     "quote": 5,
+     "work": "HOMILIES ON Exodus 11:7"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.9",
+   "range": "ECC.9.9",
+   "kind": "passage",
+   "hash": "97f87d9c",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.9#p1-34201a25",
+     "text": "The time of the days has an end and a definite number. The psalmist as well says, \"Lord, let me know my end, and what is the measure of my days; let me know how fleeting my life is.\" …The days of life which are given under the sun are days of vanity. Even if our lives which we live now are good and filled with illumination, they will be replaced with greater joys, about which God says: \"I will satisfy him through the length of the days.\"",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 277:7"
+    },
+    {
+     "id": "ecf/ECC.9.9#p2-da84daa0",
+     "text": "\"Enjoy\nlife with the wife you love through all the fleeting days of your life that He\nhas granted you under the sun, all of your futile existence; for that is your\ncompensation in life and in your toil which you exert under the sun. \"Follow wisdom and knowledge of the Scriptures, while\nyou are joined in matrimony to your wife, as it is said in Proverbs: \"love\nher and she will serve you: embrace her and she will embrace you too\" [Prov. 4, 8.]. But the day of vanity, the day of this world\nmeans nothing.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.9#p3-d05c86bf",
+     "text": "The apostle mentions this\ntoo, and he says, \"live life with the woman that you love\", but this\nis said in ambiguity, either live or contemplate life both you yourself and\nyour wife with you, for you will not be able to live life alone without such a\nwife, or consider each one and live life, and consider the woman in the days of\nyour vanity. And he words this\ncarefully, so that we seek the true life with our wife and wisdom in the days\nof our vanity. For this is our lot and\nthe fruit of our toil, if we, retired, are able to find this true life.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.10",
+   "range": "ECC.9.10",
+   "kind": "passage",
+   "hash": "eab9511b",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.10#p1-958fb38e",
+     "text": "May your action be according to your ability! \"Do with your might!\" Act, according to the might you have received.… That might consists in the gifts of grace from the Holy Spirit. The one who has might and still does not increase his spiritual capacity does not use his might. The one, however, who forcefully does more than is right, not out of real desire, but out of ambition or for another reason, commits a sin.…The beginner acts like a novice, the one who has made progress like one who is on his way, the one who has reached perfection like one who is perfect. Thus, one has to act in accordance with one's ability. If you are not weak, do not act in a way that would diminish your ability to assert your will. On the other hand, do not attempt something which you cannot do!",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 278:16"
+    },
+    {
+     "id": "ecf/ECC.9.10#p2-4d804f45",
+     "text": "Since therefore the hours flee with their moments, act, dearest brothers, so that they may be retained in the reward of good work. Hear what the wise Solomon says: \"Whatever your hand is able to do, work at it earnestly, for there will be neither work, nor knowledge, nor reason, nor wisdom in the underworld, to which you are hastening.\" Since therefore we do not know the time of coming death, and after death we cannot work, it remains that before death we seize the time that has been granted. For thus, yes thus, death itself when it comes will be conquered, if before it comes it is always feared.",
+     "author": "Gregory the Dialogist",
+     "quote": 2,
+     "work": "Forty Gospel Homilies, Homily 13"
+    },
+    {
+     "id": "ecf/ECC.9.10#p3-cad2546e",
+     "text": "\"Whatever\nyou are able to do with your strength, do it.\nFor there is neither doing, nor reckoning, nor knowledge, nor wisdom in\nthe grave where you are going. \"Do whatever you are presently able to do,\nand toil at it, because when you go down to the world of the dead there will be\nno place for repentance.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.10#p4-9825ca82",
+     "text": "Similar to this\nis what is taught by the Saviour: \"work hard, while there is still day\nleft; for night will come, when none is able to work\" [Ioh. 9, 4.],\nbut he says this: \"to the grave where you are going\", remember too\nthat you believe Samuel was also in the grave, and before the advent of Christ,\nall men were retained by the law of the dead, however holy they were. More precisely, the holy were retained after\nthe resurrection of the Lord in vain in the grave, and the apostle notes this,\nremarking, \"it is better to die and be with Christ\" [Phil. 1, 23.]. But he is with Christ, so that he might not\nbe held back in the grave.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.10#p5-3d0e3c20",
+     "text": "Remember, my brethren, that there is no confession in the grave; nor can penance be granted when the time for repentance is past. Hurry while you are still alive.",
+     "author": "Pacian of Barcelona",
+     "quote": 4,
+     "work": "ON PENITENTS 12:1"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.11",
+   "range": "ECC.9.11",
+   "kind": "passage",
+   "hash": "1a0985ad",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.11#p1-cc9ca002",
+     "text": "Those who believe that human things are guided by providence do not ascribe anything accomplished by humans to their own effort. \"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord guards the city, the guard keeps watch in vain.\" He does not say that no one should build or no one guard the city but that one should remember: if the Lord does not grant success to the effort, both the effort and those who strive for it will be without success. It is up to us to start, but it is up to God to grant success. We start to build the house; God helps and perfects the construction.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 282:1"
+    },
+    {
+     "id": "ecf/ECC.9.11#p2-ae9c7b9c",
+     "text": "We guard our own city and are watchful of that decision to guard it, but God preserves it, undestroyed and undefeated by the aggressors. This is also expressed in Proverbs: \"Keep your heart with all vigilance.\" But even if you yourself keep your heart with all vigilance, say nevertheless to God: \"You, Lord, will guard and preserve us.\" This thought is also affirmed by Paul, when he says, \"So it depends not on human will or exertion, but on God who shows mercy.\" He does not prohibit running towards the goals of our endeavor and to desire them. But he does prohibit belief that they are reached through one's own effort.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 282:1"
+    },
+    {
+     "id": "ecf/ECC.9.11#p3-357c3074",
+     "text": "Many who have had this expectation have been found without success in their efforts.Question: How should we understand \"the swift?\"\nAnswer: You can understand it clearly in the visible world: Some who are runners run fast, but in spite of that they still do not always escape their pursuers. And the slow are often not caught because the pursuers sometimes stumble. Therefore it is up to God, not to the swift, to finish the race.… The strong do not necessarily finish a war victoriously.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 282:1"
+    },
+    {
+     "id": "ecf/ECC.9.11#p4-b8210e8e",
+     "text": "Goliath was strong, and the war nevertheless did not end well for him. He was struck down like someone unarmed, like one who is not a general or someone inexperienced in war. For David the war ended successfully, although he did not trust in many armed forces. Rather, he defeated this mighty giant \"in the name of the Lord.\" Goliath, on the other hand, who was so proud of himself, had no success in war.",
+     "author": "Didymus the Blind",
+     "quote": 1,
+     "work": "COMMENTARY ON Ecclesiastes 282:1"
+    },
+    {
+     "id": "ecf/ECC.9.11#p5-1b7884b2",
+     "text": "\"Once\nmore I saw under the sun that the race is not won by the swift; nor the battle\nby the strong, nor does bread come to the wise, riches to the intelligent, nor\nfavour to the learned; but time and death will happen to them all. \"He who is bound by manacles and by heavy lead chains is\noppressed: \"for wickedness sits upon a talent of lead\" [Zach. 5, 7.], and in the Psalm it says, \"they\nweigh on me like a heavy burden\" [Ps. 37, 5.]. It is not talking about that race, about\nwhich is said, \"I took up the race, and I kept my faith\" [II. Tim. 4, 7.]. But that man is swift and his spirit is not\nweighed down, nonetheless even he is not able to arrive at the goal without God\nhelping him. But when there has been a\nwar against adverse leaders, about whom it is written, \"make war\nsacred\" [Ier. 6, 4.],\neven a strong man will not be able to win with his own strength.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.11#p6-975e300b",
+     "text": "This is also true of the sons of man and the\nwise who cannot have living bread for the spirit, except through encouraging\nwisdom: \"Come, eat my bread\" [Prov. 9, 5.]. And since there are riches, about which the\napostle says, \"riches come through good deeds\" [I Tim. 6, 18.],\nand in another place, \"you have been made rich in every utterance and\nknowledge\" [I Cor. 1, 5.];\nit must be understood that a wise man cannot amass these riches, unless he\nreceives them from God, who possesses them.\nIn another place these riches are mentioned too: \"redemption of the\nspirit for man is his own riches\" [Prov. 15, 8.]. However learned a man is, he will not be able\nto find grace too, unless accompanied by wisdom and given by God. Paul also knows this: \"I worked more\nthan all men,\" he says, \"yet not I but the grace of God which was\nwith me\". Then again he says, \"His grace in me was not in\nvain\". And right to the end man\ndoes not know when the time will come, when the unknown fate and end of all\nthings will come. This reading is\naccording to \"anagoge\".",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.11#p7-4b619173",
+     "text": "But in order to explain this more easily, I\nshould mention that the epistle to the Romans agrees with this\nverse: \"So then it is not of him that wants, nor of him that runs,\nbut of God that shows mercy.\" [Rom. 9, 16.] He also says this: \"there is no bread\nfor the wise\", this example is proved every day for many people, who\nalthough they are very wise, still do not have the necessary sustenance for\nlife. And: \"there is no grace for\nthe knowledgeable\". For you may see\nin the Church that the ignorant and unskilled prosper.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.11#p8-4c5cef00",
+     "text": "And this is both because they have nourished\ntheir boldness, and followed the fluency of their tongue, while they do not\nthink about what they say, they think that they are wise and learned, and as if\nthey have the greatest favour of the populous, which delights and is brought\ntogether more by more polished words. On\nthe other hand a learned man lies in obscurity and suffers persecution; and not\nonly does he not have grace in the people's eyes, but also fades away through\npoverty and hunger. But these things\nhappen because all things occur by uncertainty, and there is no retribution of\nmerit in this world, but in the future.",
+     "author": "Jerome",
+     "quote": 2,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.12",
+   "range": "ECC.9.12",
+   "kind": "passage",
+   "hash": "3f8da28e",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.12#p1-0d18a2d4",
+     "text": "Now as these things are written in the Scriptures, the case is clear, that the saints know that a certain time is measured to every person, but that no one knows the end of that time is plainly intimated by the words of David, \"Declare unto me the shortness of my days.\" What he did not know, that he desired to be informed of. Accordingly the rich man also, while he thought that he had yet a long time to live, heard the words, \"You fool, this night your soul shall be required of you: then whose shall those things be which you have provided?\" And the Preacher speaks confidently in the Holy Spirit, and says, \"Man also knows not his time.\" Wherefore the patriarch Isaac said to his son Esau, \"Behold, I am old, and I know not the day of my death.\" Our Lord, therefore, although as God and the Word of the Father, both knew the time measured out by him to all and was conscious of the time for suffering, which he himself had appointed also to his own body. Yet since he was made man for our sakes, he hid himself when he was sought after before that time came, as we do; when he was persecuted, he fled; and avoiding the designs of his enemies he passed by, and \"so went through the midst of them.\" But when he had brought on that time which he himself had appointed, at which he desired to suffer in the body for all men, he announces it to the Father, saying, \"Father, the hour is come; glorify thy Son.\" And then he no longer hid himself from those who sought him but stood willing to be taken by them; for the Scripture says, he said to them that came unto him, \"Whom do you seek?\" And when they answered, \"Jesus of Nazareth,\" he said unto them, \"I am he whom you seek.\"",
+     "author": "Athanasius of Alexandria",
+     "quote": 1,
+     "work": "DEFENSE OF HIS FLIGHT 15"
+    },
+    {
+     "id": "ecf/ECC.9.12#p2-7ee1348c",
+     "text": "Many can know chronological time. Everybody, for example, knows that noon is the time for healthy people to eat lunch. The time, however, which is determined by physicians, is not known to everyone but only to the physician. And since there is only one physician for the soul, to whom we say, \"O Lord, be gracious to me; heal me, for I have sinned against you,\" only this physician knows our time. But the individual does not know his time. The inhabitants of Tyre, for example, who would have been ready to repent if the supernatural miracles had occurred among them—they did not know the time.",
+     "author": "Didymus the Blind",
+     "quote": 2,
+     "work": "COMMENTARY ON Ecclesiastes 286:1"
+    },
+    {
+     "id": "ecf/ECC.9.12#p3-8196080f",
+     "text": "\" For man does not even know his\ntime, like fish caught in a fatal net, like birds seized in a snare, so are men\ncaught in the moment of disaster when it falls upon them suddenly. \"I have already said above, that while men are yet\nunknowing, either disaster or death befalls them. More precisely we should look at this as\nallegory, that the realm of the sky is similar to a net cast into the sea; and\non the other hand heretics have nets, in which they capture fish, leading to\ntheir death. Their net though is affable\nlanguage, flattering speeches, feigned or forced fasting, poor clothes, and an\nimitation of virtues.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.12#p4-f9ce3ef0",
+     "text": "And if they begin\nto argue about the divine and raise their face to the heavens to seek the\nheights of God, then they cast a noose into the heavenly abodes. So just as fish and birds are seized of a\nsudden by such a net, and by such a noose, so wickedness is increased many\ntimes and the kindness of many fails; and the signs and portents are seen in\nsuch a way as to entice even the chosen of God if possible. See too those men of the Church, who are\ncalled the children of men, and are of modest faith, and who can be overcome\nquickly. Note too, that the term \"sons of men\" is used throughout the whole\nbook, and the Hebrew has \"sons of man\",\nthis is 'the sons of Adam'. And almost\nall scripture is filled with this idiom that sees the sons of Adam as the sons\nof all men.",
+     "author": "Jerome",
+     "quote": 3,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.13",
+   "range": "ECC.9.13",
+   "kind": "passage",
+   "hash": "c9a036d2",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.13#p1-ce36fa89",
+     "text": "\"This,\ntoo, I have observed about wisdom under the sun, and it affected me profoundly:\nthere was a small town with only a few inhabitants; and a mighty king came upon\nit and surrounded it, and built great siege works over it. Present in the city was a poor wise man who\nby his wisdom saved the town. Yet no one\nremembered that poor man. \"While some people say that all things are\nuncertain, and that the righteous have no more than the wicked, I see even the\ngreatest wisdom in this verse, because it happens repeatedly that there is a\nsmall township with only a few inhabitants, and it is surrounded by an army of\na very powerful enemy, and the people inside is killed by the siege and by\nhunger.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.13#p2-be7284b7",
+     "text": "And suddenly and unexpectedly a\npoor man is found, who has more wisdom than all the rich men, than all those\npowerful and pompous men who are in danger, and who fear the siege. And he thinks, seeks and finds an answer as\nto how the town might be saved from the oppressors. But O ungrateful oblivion of men, after they\nwere freed from bondage and released from captivity, and the freedom was given\nback to the fatherland, no one remembers that wise old man, no one gives thanks\nfor their salvation, but all show honour to the rich, who were able to do\nnothing to help when in time of danger.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.13#p3-db9b6a61",
+     "text": "My Hebrew tutor interpreted this passage differently: the small town, he\nsays, is man, who even amongst learned men is called less clean. And the few men in the town, are the members\nby which the man shields and covers himself.\nBut when a great king comes against it, that is the devil, and he\nsearches for a place by which he might break through, and in the town is found\na poor and wise man, that is the calm thought of that man on the inside, and\nthat is what saves the town, which is surrounded and besieged by the enemy.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.13#p4-15775540",
+     "text": "And the man has been saved from danger, or\npersecution, or disaster, or any other kind of adverse sin. But that man on the outside, who is the enemy\nof the wise and poor man on the inside, he does not remember the poor man, nor\ndoes he remember his promises, but yet enjoys his freedom. Differently: the small town and the few\ninhabitants in it is the Church in comparison to the whole world. And the great king the devil often comes against\nit, not because he is great, but because he thought to be great, and he surrounds\nthe Church with a siege or persecution, or with another kind of disaster.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.13#p5-d872df51",
+     "text": "He finds in it a poor man who is wise, that\nis our Lord Jesus Christ, who was made poor for us and is wisdom itself. And that poor man frees the town with his\nwisdom. How many times do we see a\nreclining lion in a trap with rich men, this is with the politicians and\nleaders of our time, who come against the Church, but fail at the wisdom of\nthat poor man? And when this poor man\nhas won and the town is restored to peace, scarcely anyone remembers him,\nscarcely any of his requests are heard, but giving in to all indulgence and\npleasure, the inhabitants seek riches that are not necessary.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.16",
+   "range": "ECC.9.16",
+   "kind": "passage",
+   "hash": "189e574f",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.16#p1-56422a27",
+     "text": "\"So I\nsaid: wisdom is better than might, although a poor man's wisdom is despised and\nhis words go unheeded. \"Although no one remembers a poor wise man,\nand everyone is happy, and admires power and riches; I however admire this\ndespised wisdom according to all of the interpretations given above, and the\nwords which none thinks worthy to be heard.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    },
+    {
+     "id": "ecf/ECC.9.16#p2-0f8968a6",
+     "text": "If riches and poverty are from the Lord, how can either poverty or riches be an evil? Why then were these things said? They were said under the Old Covenant, where there was much account made of wealth, where there was great contempt of poverty, where the one was a curse and the other a blessing. But now it is no longer so.",
+     "author": "John Chrysostom",
+     "quote": 2,
+     "work": "ON THE EPISTLE TO THE Hebrews 18:4"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.17",
+   "range": "ECC.9.17",
+   "kind": "passage",
+   "hash": "f6865519",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.17#p1-f6865519",
+     "text": "\"The\ngentle words of the wise are heard above the shouts of a king over fools. \"Whosoever you see in the Church declaiming and arousing\napplause by whatever refinery or charm, he who shakes off his laughter and\nincites the crowd to feigned happiness, know that this is a sign of\nfoolishness, equally of him who speaks, and of those who listen to him. For the words of the wise are heard in peace\nand respectful silence. He who is\nfoolish and is powerful speaks to fools and cannot hear himself because of\neither the noise of his own voice or that of the applauding crowd.",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  },
+  {
+   "id": "ecf/ECC.9.18",
+   "range": "ECC.9.18",
+   "kind": "passage",
+   "hash": "e098baa8",
+   "paragraphs": [
+    {
+     "id": "ecf/ECC.9.18#p1-e098baa8",
+     "text": "\"And\nwisdom is better than weapons, but a single rogue can ruin a great deal of\ngood. \"Now he also takes wisdom\nin preference to strength and says that it is worth more in battle than\nweapons. But if there is one fool,\nhowever small and worthless, he will repeatedly destroy riches and great wealth\nby his stupidity. But because the Hebrew\ncan also be read as: 'and he who sins once, will lose much goodness', much\nrighteousness will be lost in return and virtues will follow in turn, and he\nwho has one, has all [Cfr. Cic de Offic. II, 35.];\nand he who sins at one time, leaves himself open to all vices [Cfr. Iac. 2, 10.].",
+     "author": "Jerome",
+     "quote": 1,
+     "work": "Commentary on Ecclesiastes"
+    }
+   ]
+  }
+ ]
+}
