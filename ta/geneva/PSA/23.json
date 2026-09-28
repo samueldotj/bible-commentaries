@@ -1,0 +1,25 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 23,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.23.1",
+   "source_hash": "dc612187",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.1#p1-dc612187",
+     "text": "அவர் என்மேல் கரிசனை உள்ளவராயிருந்து எனக்கு எல்லாவற்றையும் அளித்து ஊழியம் செய்கிறார்.",
+     "anchor": "நான் தாழ்ச்சி அடையமாட்டேன்"
+    }
+   ]
+  }
+ ]
+}
