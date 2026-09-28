@@ -1,0 +1,86 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 45,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JER.45.1",
+   "source_hash": "44108666",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.1#p1-473ccaa9",
+     "text": "இவன் எரேமியாவின் சீடனாக இருந்து, அவனுடைய தீர்க்கதரிசனங்களை அவனுக்குக் கீழ்ப்பட்டு எழுதினவன்.",
+     "anchor": "நேரியாவின் மகனாகிய பாருக்"
+    },
+    {
+     "id": "geneva/JER.45.1#p2-da246e4c",
+     "text": "இதைப்பற்றி எரேமியா 36:9,10-ல் வாசிக்கவும்.",
+     "anchor": "இந்த வசனங்களை ... ஒரு புத்தகத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.3",
+   "source_hash": "da1d4b64",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.3#p1-da1d4b64",
+     "text": "பாருக், எரேமியா சிறையில் அடைக்கப்பட்டதைப்பற்றியும், ஆனாலும் முதன்மையாக மக்கள் மற்றும் ஆலயத்தின் அழிவைப்பற்றியும், சிந்தனையற்ற வைராக்கியத்தால் தூண்டப்பட்டு, சங்கீதம் 6:6-ல் உள்ளது போல இந்தப் புலம்பலைச் சொல்கிறான்.",
+     "anchor": "என் தவிப்பினால் இளைத்தேன்்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.4",
+   "source_hash": "2614173d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.4#p1-2614173d",
+     "text": "தேவன் தாம் நாட்டின இந்த மக்களை அழிக்கக்கூடுமென்பதைக் குறிக்கிறது.",
+     "anchor": "பிடுங்குகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.45.5",
+   "source_hash": "b7605a41",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.45.5#p1-17fa9bbc",
+     "text": "\"நீ கனத்தையும் பெருமதிப்பையும் பெறலாம் என்று நினைக்கிறாயோ?\" என்பதில் அவன் தன் பலவீனத்தை வெளிப்படுத்துகிறான்.",
+     "anchor": "பெரிய காரியங்களைத் தேடுகிறாயோ"
+    },
+    {
+     "id": "geneva/JER.45.5#p2-e408191d",
+     "text": "எரேமியா 21:9 வாசிக்கவும்.",
+     "anchor": "உன் உயிரை உனக்குக் கிடைக்கும் கொள்ளைப்பொருளாக"
+    }
+   ]
+  }
+ ]
+}

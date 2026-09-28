@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.8.1",
+   "source_hash": "0574c0bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.1#p1-0574c0bb",
+     "text": "வேத வசனத்தைக் கேட்டால் மாத்திரம் போதாது, நமது வாழ்க்கையின் மாதிரியினால் அதை வெளிப்படுத்த வேண்டும் என்பதைக் காண்பிக்கிறது.",
+     "anchor": "செய்யக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.2",
+   "source_hash": "f2174f9b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.2#p1-f2174f9b",
+     "text": "இது உபத்திரவங்களில், பொறுமையினாலோ, அல்லது தேவனுடைய கண்டிப்புக்கு எதிராக முறுமுறுப்பதினாலோ வெளிப்படும்.",
+     "anchor": "சோதித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.3",
+   "source_hash": "1d72531c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.3#p1-1d72531c",
+     "text": "மனிதன் உணவினால் மாத்திரம் பிழைப்பதில்லை, மாறாக அதற்குப் பராமரிக்கும் பெலனைக் கொடுக்கிற தேவனுடைய வல்லமையினாலேயே பிழைக்கிறான்.",
+     "anchor": "உணவினால் மாத்திரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.4",
+   "source_hash": "c283658b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.4#p1-c283658b",
+     "text": "வெறும் பாதத்துடன் நடக்கிறவர்களுடையது போல.",
+     "anchor": "வீங்கவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.5",
+   "source_hash": "4a723190",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.5#p1-4a723190",
+     "text": "அதனால் அவர் அனுப்பும் சிட்சைகள் நமக்குப் பிதாவைப்போன்ற அன்பினுடைய அடையாளங்களாக இருக்கின்றன.",
+     "anchor": "சிட்சிக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.9",
+   "source_hash": "191920e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.9#p1-191920e8",
+     "text": "உலோகச் சுரங்கங்கள் இருக்கும் இடம்.",
+     "anchor": "அதின் கற்கள் இரும்பாயிருக்கிறதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.10",
+   "source_hash": "97f2e57d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.10#p1-97f2e57d",
+     "text": "தேவனுடைய நன்மைகளைப் பெற்றுக்கொண்டு நன்றியுள்ளவனாக இராமல் இருப்பது, அவைகளில் தேவனை அற்பமாக எண்ணுவதாகும்.",
+     "anchor": "அவரை ஸ்தோத்திரிப்பாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.14",
+   "source_hash": "c66d2726",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.14#p1-c66d2726",
+     "text": "தேவனுடைய உபகாரங்களை உன் சொந்த ஞானத்திற்கும் பிரயாசத்திற்கும், அல்லது நல்லதலைவிதிக்கும் ஏற்படுத்துவதினால்.",
+     "anchor": "பெருமைகொள்ளாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.18",
+   "source_hash": "f7377d26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.18#p1-f7377d26",
+     "text": "இவ்வுலக ஜீவனுக்கு உரியவை தேவனுடைய இரக்கத்தினால் மாத்திரம் உண்டாகுமானால், ஆவிக்குரிய வரங்களும் நித்தியஜீவனும் எவ்வளவு அதிகமாய் அவரால் உண்டாகும்.",
+     "anchor": "ஐசுவரியத்தைச் சம்பாதிக்கிறதற்கான பெலனை உனக்குக் கொடுக்கிறவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.8.19",
+   "source_hash": "6a35cf98",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.8.19#p1-6a35cf98",
+     "text": "அல்லது உபாகமம் 4:26-ல் இருப்பதுபோல, பரலோகத்தையும் பூமியையும் சாட்சியாக வைக்கிறேன்.",
+     "anchor": "இன்று உங்களுக்குச் சாட்சியாக அறிவிக்கிறேன்"
+    }
+   ]
+  }
+ ]
+}

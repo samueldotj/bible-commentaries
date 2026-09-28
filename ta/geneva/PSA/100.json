@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 100,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.100.1",
+   "source_hash": "d948614c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.1#p1-d948614c",
+     "text": "யூதரல்லாதவர்களை அழைப்பதில் தேவன் அளிக்கும் நன்மைகள் மிகுதியாக இருக்கும் என்பதையும், அதனால் அவருடைய இரக்கத்தைத் துதிக்கவும் மகிழவும் அவர்களுக்கு அதிசயமான வாய்ப்பு உண்டாகும் என்பதையும் இவன் தீர்க்கதரிசனமாகக் கூறுகிறான்.",
+     "anchor": "யெகோவாவைக் கெம்பீரமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.3",
+   "source_hash": "7b74f813",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.3#p1-7b74f813",
+     "text": "அவர் முதன்மையாக ஆவிக்குரிய மறுபிறப்பைக் குறித்துச் சொல்லுகிறார், அதினாலே நாம் அவருடைய ஆடுகளும் மக்களுமாக இருக்கிறோம்.",
+     "anchor": "நம்மை உண்டாக்கினார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.4",
+   "source_hash": "31b8ec9e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.4#p1-31b8ec9e",
+     "text": "தேவன் தமக்குக் குறித்திருக்கிற வழிமுறைகளைக் கொண்டேயன்றி வேறு விதத்தில் தொழுதுகொள்ளப்படமாட்டார் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "வாசல்களில் துதியோடும்... நுழைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.100.5",
+   "source_hash": "82e0a4bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.100.5#p1-82e0a4bd",
+     "text": "அவரைத் துதிப்பதில் நாம் ஒருபோதும் சோர்ந்துபோகக் கூடாது என்பதை அவர் அறிவிக்கிறார், ஏனெனில் நம்மேலுள்ள அவருடைய கிருபைகள் என்றென்றைக்கும் நிலைத்திருக்கின்றன.",
+     "anchor": "என்றென்றைக்கும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 52,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.52.1",
+   "source_hash": "151f7014",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.1#p1-151f7014",
+     "text": "தோவேக்கே, சவுல் என்னும் கொடுங்கோலனைக் குறிக்கிறதாகச் சிலர் எண்ணுகிறார்கள், அவனுக்கு தேவனுடைய பரிசுத்தவான்களைக் கொலைசெய்யும் அதிகாரம் இருந்தது.",
+     "anchor": "பலவானே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.52.2",
+   "source_hash": "61c815ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.2#p1-61c815ac",
+     "text": "கபடான புகழ்ச்சியினாலும் பொய்களினாலும் குற்றமில்லாதவர்களைக் குற்றஞ்சாட்டவும் அழிக்கவும் உன்னுடைய பொறாமை உன்னை உந்துகிறது.",
+     "anchor": "கேடுகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.52.5",
+   "source_hash": "3b3fe844",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.5#p1-9782d7a4",
+     "text": "தேவன் சிலகாலம் பொறுமையாயிருந்தாலும், முடிவில் உன் பொய்மைக்குத் தண்டனை கொடுப்பார்.",
+     "anchor": "என்றென்றைக்கும் இல்லாதபடி அழித்துப்போடுவார்"
+    },
+    {
+     "id": "geneva/PSA.52.5#p2-b441c36e",
+     "text": "நீ எவ்வளவு உறுதியாக நிலைத்திருக்கிறவனாகத் தோன்றினாலும் சரி.",
+     "anchor": "உன் குடியிருப்பிலிருந்து பிடுங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.52.6",
+   "source_hash": "eb918b6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.6#p1-5fd3b257",
+     "text": "தேவனுடைய நியாயத்தீர்ப்புகளை நிராகரிக்கப்பட்டவர்களின் கண்கள் மூடப்பட்டிருக்கின்றன.",
+     "anchor": "நீதிமான்கள் அதைக்கண்டு"
+    },
+    {
+     "id": "geneva/PSA.52.6#p2-8b3b50e2",
+     "text": "மகிழ்ச்சியான பயபக்தியுடன், அவர் துன்மார்க்கருக்கு விரோதமாக அவர்களின் பட்சம் வகிக்கிறார் என்பதைக் கண்டு.",
+     "anchor": "பயந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.52.8",
+   "source_hash": "f4c0fd3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.8#p1-f4c0fd3d",
+     "text": "தேவனுடைய ஊழியர்களுக்குள் ஒரு இடத்தைப் பெற்றிருப்பதில் அவன் மகிழ்ச்சியடைகிறான், அதனால் அவன் தேவபக்தியின் அறிவில் வளரக்கூடும்.",
+     "anchor": "தேவனுடைய ஆலயத்தில் பச்சையான ஒலிவமரத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.52.9",
+   "source_hash": "9d226402",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.52.9#p1-9d226402",
+     "text": "தமது பழிவாங்குதலை நிறைவேற்றினீர்.",
+     "anchor": "இதை"
+    }
+   ]
+  }
+ ]
+}

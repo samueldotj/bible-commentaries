@@ -1,0 +1,193 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NEH.5.1",
+   "source_hash": "0a51c3f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.1#p1-0a51c3f4",
+     "text": "தங்களை ஒடுக்கின செல்வந்தர்களுக்கு எதிராக.",
+     "anchor": "தங்களுடைய சகோதரர்கள்மேல் குற்றம் சாட்டுகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.2",
+   "source_hash": "f2e06e6f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.2#p1-f2e06e6f",
+     "text": "இது மக்களுடைய முறையீடாகும், அவர்கள் எந்த அளவு கடும் நெருக்கடிக்கு உள்ளாகியிருந்தார்கள் என்பதைக் காண்பிக்கிறது.",
+     "anchor": "தானியத்தைக் கடனாக வாங்கினோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.4",
+   "source_hash": "7c6e7eb7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.4#p1-7c6e7eb7",
+     "text": "பெர்சியா ராஜாவிற்கு வரி செலுத்த, அது ஒவ்வொரு வருடமும் நம்மிடமிருந்து வசூலிக்கப்பட்டது.",
+     "anchor": "வரியை செலுத்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.5",
+   "source_hash": "9a241346",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.5#p1-9e6547c8",
+     "text": "சுபாவத்தின்படி பணக்காரர் ஏழைகளைவிட மேலானவர்கள் அல்ல.",
+     "anchor": "சகோதரர்கள் உடலும்"
+    },
+    {
+     "id": "geneva/NEH.5.5#p2-894efc85",
+     "text": "நாங்கள் அவர்களை மீட்கும் திறன் இல்லாதவர்கள்; வறுமையினால் நிர்பந்திக்கப்பட்டு அவர்களை மற்றவர்களுக்கு விற்கவேண்டியிருக்கிறது.",
+     "anchor": "அவர்களை மீட்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.7",
+   "source_hash": "9f1c9676",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.7#p1-3460fb00",
+     "text": "நீங்கள் அவர்கள்மேல் வட்டி சுமத்தி, எல்லாவற்றையும் உங்கள் கைகளுக்குள் கொண்டுவரத் தேடுகிறீர்கள்.",
+     "anchor": "வட்டி சுமத்துகிறீர்கள்"
+    },
+    {
+     "id": "geneva/NEH.5.7#p2-0bc408b7",
+     "text": "அவர்கள் தங்களால் அநேகர் ஒடுக்கப்பட்டதைக் கண்டு மனதுருக வேண்டும் என்பதற்காகவும், மற்றவர்களுடைய நியாயத்தீர்ப்பையும் கேட்க வேண்டும் என்பதற்காகவும் இப்படிச் செய்யப்பட்டது; அவர்கள் தங்கள் சகோதரர்களுடன் நடந்துகொண்ட விதத்திற்குச் சாட்சியாயிருக்க வேண்டியவர்களாக இருந்தார்கள்.",
+     "anchor": "அவர்களுக்கு விரோதமாக ஒரு பெரிய சபை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.8",
+   "source_hash": "b7a10a9b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.8#p1-b7a10a9b",
+     "text": "தேவன் ஒருமுறை அவர்களை அந்நியமக்களின் அடிமைத்தனத்திலிருந்து விடுவித்திருக்க, நாம் அவர்களை நமக்கு அடிமைகளாக்கலாமா?",
+     "anchor": "நமக்கு விலைப்பட்டுப்போகலாமா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.9",
+   "source_hash": "d61b3205",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.9#p1-3ebf0342",
+     "text": "அதாவது, நெகேமியா.",
+     "anchor": "நான்"
+    },
+    {
+     "id": "geneva/NEH.5.9#p2-e2e0fd25",
+     "text": "இதனால் தேவனுடைய நாமத்தை நிந்திக்கும்படி நேரிடுவான், ஏனெனில் நம்முடைய செய்கைகள் அவர்களுடையதைவிட நல்லதல்ல என்று காணப்படும்.",
+     "anchor": "நம்முடைய எதிரிகளாகிய யூதரல்லாதவர்கள் அவமதிக்கிறதினாலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.11",
+   "source_hash": "1d22d31e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.11#p1-1d22d31e",
+     "text": "கடன் கொடுத்ததற்காக நீங்கள் அவர்களிடத்தில் வாங்குகிறது.",
+     "anchor": "தண்டனையாக வாங்கிவருகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.14",
+   "source_hash": "09dfa0c6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.14#p1-09dfa0c6",
+     "text": "எனக்கு முன்பு இருந்த ஆளுநர்கள் வாங்கிய பங்கையும் உணவையும் நான் வாங்கவில்லை; இதில் அவர் தன் சொந்த வசதியைவிட மக்களின் நலனையே அதிகமாக நாடினார் என்று வெளிப்படுத்துகிறார்.",
+     "anchor": "ஆளுநர்கள் உணவுக்காக வாங்குகிற பணத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.5.18",
+   "source_hash": "73e543e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.5.18#p1-73e543e2",
+     "text": "மற்ற நேரங்களில் அவர்களுக்கு அளவோடு கொடுக்கப்பட்டதே, ஆனால் இந்த நேரத்தில் அது மிகவும் தாராளமாக கொடுக்கப்பட்டது.",
+     "anchor": "பலவித திராட்சைரசமும்"
+    }
+   ]
+  }
+ ]
+}

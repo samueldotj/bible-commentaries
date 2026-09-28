@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.8.1",
+   "source_hash": "478f37a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.1#p1-478f37a2",
+     "text": "சவுலின் வம்சவரலாற்றை விவரிப்பதே தன் நோக்கமாக இருப்பதால், பென்யமீன் கோத்திரத்தின் விவரிப்பைத் தொடர்கிறார்.",
+     "anchor": "தன்னுடைய மூத்த மகனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.6",
+   "source_hash": "6912e8fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.6#p1-6912e8fb",
+     "text": "அதாவது, கேபா பட்டணத்தின் குடிகள்.",
+     "anchor": "இவர்களை மனாகாத்திற்கு அழைத்துக்கொண்டுபோனவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.7",
+   "source_hash": "f944ea33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.7#p1-f944ea33",
+     "text": "அதாவது, ஏகூத்.",
+     "anchor": "ஊசாவையும்... பெற்றான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.8",
+   "source_hash": "b6240378",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.8#p1-b6240378",
+     "text": "தன்னுடைய இரண்டு மனைவிகளையும் அனுப்பிவிட்டபின்பு.",
+     "anchor": "அனுப்பிவிட்டபின்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.28",
+   "source_hash": "b184c435",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.28#p1-b184c435",
+     "text": "பென்யமீன் கோத்திரத்தின் தலைவர்கள், இவர்கள் எருசலேமில் குடியிருந்தார்கள்.",
+     "anchor": "பிதாக்களிலே தலைவர்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.33",
+   "source_hash": "afe0eb16",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.33#p1-ba9e7d04",
+     "text": "இவன் 1 சாமுவேல் 9:2-ல் அபீயேல் என்று அழைக்கப்படுகிறான்.",
+     "anchor": "நேர் கீசைப் பெற்றான்"
+    },
+    {
+     "id": "geneva/1CH.8.33#p2-d4fe7910",
+     "text": "இவனும் 2 சாமுவேல் 9:6-ல் மேவிபோசேத் என்று அழைக்கப்படுகிறான்.",
+     "anchor": "எஸ்பாலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.8.34",
+   "source_hash": "8eac9d1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.8.34#p1-8eac9d1c",
+     "text": "இவன் மேவிபோசேத் என்றும் அழைக்கப்படுகிறான், 2 சாமுவேல் 9:6.",
+     "anchor": "மெரிபால்"
+    }
+   ]
+  }
+ ]
+}

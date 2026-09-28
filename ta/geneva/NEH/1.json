@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NEH.1.1",
+   "source_hash": "b3730581",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.1#p1-b3730581",
+     "text": "இது நவம்பர் மாதத்தின் ஒரு பகுதியையும், டிசம்பர் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது, அது அவர்களுடைய ஒன்பதாம் மாதமாக இருந்தது.",
+     "anchor": "கிஸ்லேயு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.2",
+   "source_hash": "7514135f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.2#p1-7514135f",
+     "text": "நான் இருந்தது போலவே ஒரு யூதன்.",
+     "anchor": "சகோதரர்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.3",
+   "source_hash": "bca9b031",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.3#p1-bca9b031",
+     "text": "யூதேயாவில் என்று அர்த்தம்.",
+     "anchor": "தேசத்திலே கொடிய தீங்கையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.1.11",
+   "source_hash": "57e5d18b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.1.11#p1-6e3206cf",
+     "text": "அதாவது, உம்மைத் தொழுதுகொள்வதற்கு.",
+     "anchor": "உமது நாமத்திற்குப் பயப்படவேண்டும்"
+    },
+    {
+     "id": "geneva/NEH.1.11#p2-3dd209ce",
+     "text": "அதாவது, அர்தசஷ்டா ராஜா.",
+     "anchor": "இந்த மனிதனுக்கு"
+    }
+   ]
+  }
+ ]
+}

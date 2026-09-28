@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.3.1",
+   "source_hash": "b3d0ac92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.1#p1-b3d0ac92",
+     "text": "ஆகவே கர்த்தருடைய கற்பனையின்படியே, அவனுக்கு எதிராகப் போர்செய்வதற்கு நியாயமான காரணம் அவர்களுக்கு இருந்தது.",
+     "anchor": "நம்மை எதிர்த்துப் போர்செய்யும்படிப் புறப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.5",
+   "source_hash": "554e4a2f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.5#p1-554e4a2f",
+     "text": "கிராமங்களும் சிறு பட்டணங்களும் போல.",
+     "anchor": "மதில் இல்லாத பட்டணங்களும் அநேகம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.6",
+   "source_hash": "b76f9597",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.6#p1-b76f9597",
+     "text": "இது தேவனுடைய நியமிப்பாக இருந்தபடியால், இதைக் கொடூரமானது என்று தீர்க்கக்கூடாது.",
+     "anchor": "பெண்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.11",
+   "source_hash": "a038ff8a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.11#p1-a038ff8a",
+     "text": "இந்த இராட்சதன் எவ்வளவு பயங்கரமானவனாக இருந்தானோ, அவ்வளவு அதிகமான காரணம் அவர்களுக்கு அந்த வெற்றிக்காக தேவனை மகிமைப்படுத்துவதற்கு இருந்தது.",
+     "anchor": "இரும்பினால் செய்யப்பட்ட அவனுடைய கட்டில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.14",
+   "source_hash": "868f4354",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.14#p1-868f4354",
+     "text": "அதாவது, அவர் இந்த வரலாற்றை எழுதின காலத்தில்.",
+     "anchor": "இந்நாள்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.16",
+   "source_hash": "c709a3f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.16#p1-c709a3f7",
+     "text": "இது அம்மோனியர்களை எமோரியர்களிலிருந்து பிரிக்கிறது.",
+     "anchor": "யாப்போக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.18",
+   "source_hash": "efe9745a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.18#p1-efe9745a",
+     "text": "அதாவது, ரூபனியர், காத்தியர், மனாசேயின் பாதிக் கோத்திரத்தார், எண்ணாகமம் 32:32-ல் உள்ளபடி.",
+     "anchor": "அக்காலத்திலே நான் உங்களை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.21",
+   "source_hash": "51cbdd3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.21#p1-51cbdd3d",
+     "text": "ஆகையால் அந்த வெற்றிகள் உங்களுடைய சொந்த ஞானத்தினாலோ, பலத்தினாலோ, திரள் கூட்டத்தினாலோ வரவில்லை.",
+     "anchor": "தேவனாகிய யெகோவா... செய்தவைகளையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.24",
+   "source_hash": "f52a1afa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.24#p1-f52a1afa",
+     "text": "விக்கிரகங்களுக்குரிய வல்லமையல்லாமல் தேவனுக்கு மாத்திரம் உரிய வல்லமையை அவைகளுக்கு அளிக்கிறவர்களின் பொதுவான மற்றும் சீர்கெட்ட பேச்சின்படி இவர் பேசுகிறார்.",
+     "anchor": "உம்முடைய செயல்களுக்கும்... ஒப்பாகச் செய்யத்தக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.25",
+   "source_hash": "9b4022ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.25#p1-9b4022ac",
+     "text": "இவர் சீயோனைக் குறிக்கிறார், அங்கே ஆலயம் கட்டப்பட்டு, தேவன் மகிமைப்படுத்தப்படுவார்.",
+     "anchor": "மலையையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.3.27",
+   "source_hash": "787e23e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.3.27#p1-787e23e2",
+     "text": "முன்பு அவன் தீர்க்கதரிசனத்தின் ஆவியினால் நல்ல மலையாகிய சீயோனைக் கண்டதுபோல, இங்கே அவன் கண்கள் இயற்கையின் ஒழுங்குக்கு மேலாக உயர்த்தப்பட்டு, கானானின் செழிப்பான நாடு முழுவதையும் காணும்படி செய்யப்பட்டது.",
+     "anchor": "உன் கண்களை மேற்கிலும்... ஏறெடுத்து"
+    }
+   ]
+  }
+ ]
+}

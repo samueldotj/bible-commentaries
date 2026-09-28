@@ -1,0 +1,455 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.4.1",
+   "source_hash": "ef8e73d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.1#p1-ef8e73d6",
+     "text": "ஏனெனில் இந்த உபதேசம் வெறும் அறிவில் நிற்காமல், வாழ்க்கையின் நடைமுறையில் நிற்கிறது.",
+     "anchor": "கைக்கொள்வதற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.2",
+   "source_hash": "0dae7456",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.2#p1-a2448631",
+     "text": "நான் இருப்பதைவிட நீங்கள் அதிக ஞானமுள்ளவர்கள் என்று நினைக்க வேண்டாம்.",
+     "anchor": "கூட்டவும் வேண்டாம்"
+    },
+    {
+     "id": "geneva/DEU.4.2#p2-d81d6640",
+     "text": "தேவன் பாதி கீழ்ப்படிதலினால் திருப்தியடையமாட்டார், முழு கீழ்ப்படிதலையே கேட்பார்.",
+     "anchor": "ஒன்றும் குறைக்கவும் வேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.3",
+   "source_hash": "c5a68396",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.3#p1-c5a68396",
+     "text": "மற்ற விக்கிரக ஆராதனை செய்தவர்கள்மேல் தேவன் செய்த நியாயத்தீர்ப்புகள் நமக்குப் போதனையாக இருக்கவேண்டும், எண்ணாகமம் 25:3,4-ஐ வாசிக்கவும்.",
+     "anchor": "உங்கள் கண்கள் கண்டிருக்கிறது யெகோவா செய்ததை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.4",
+   "source_hash": "c3204f92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.4#p1-c3204f92",
+     "text": "விக்கிரக ஆராதனை செய்யாதவர்களாக இருந்தீர்கள்.",
+     "anchor": "தேவனாகிய யெகோவாவைப் பற்றிக்கொண்ட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.6",
+   "source_hash": "ae8c92b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.6#p1-ae8c92b8",
+     "text": "எல்லா மனிதரும் இயல்பாகவே ஞானத்தை விரும்புவதால், அதைப் பெறுவது எப்படி என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "உங்களுக்கு ஞானமும் விவேகமுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.7",
+   "source_hash": "e5a3a532",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.7#p1-e5a3a532",
+     "text": "நமக்கு உதவிசெய்து, சகல ஆபத்துகளிலிருந்தும் நம்மை விடுவித்து, 2 சாமுவேல் 7:23-ல் இருக்கிறதுபோல.",
+     "anchor": "நமக்குச் சமீபமாயிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.9",
+   "source_hash": "474c2ad1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.9#p1-474c2ad1",
+     "text": "தேவனுடைய நியாயப்பிரமாணத்தைக் காத்துக்கொள்வதற்கும், அதை நமது சந்ததிக்குப் போதிப்பதற்கும் நாம் எவ்வளவு கருத்துடன் இருந்தாலும் போதுமானதாகாது என்பதைக் காண்பிக்கும்படி இந்த எல்லா வார்த்தைகளையும் அவர் சேர்க்கிறார்.",
+     "anchor": "உன் ஆத்துமாவைக் கருத்துடன் காத்துக்கொள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.11",
+   "source_hash": "b5ad73d0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.11#p1-b5ad73d0",
+     "text": "நியாயப்பிரமாணம் பயங்கரமான அற்புதங்களுடன் கொடுக்கப்பட்டது, தேவனே அதை உண்டாக்கினவர் என்பதையும், எந்த சரீரமும் அதன் கண்டிப்பைச் சகிக்க இயலாது என்பதையும் விளக்குவதற்காக.",
+     "anchor": "வானளாவிய அக்கினி எரிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.13",
+   "source_hash": "403e2b5a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.13#p1-403e2b5a",
+     "text": "தேவன் தம்முடைய உடன்படிக்கையுடன் இந்த நிபந்தனையை இணைக்கிறார்.",
+     "anchor": "கைக்கொள்ளவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.15",
+   "source_hash": "f8e52fb1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.15#p1-f8e52fb1",
+     "text": "தேவனைப் பிரதிநிதித்துவப்படுத்த ஏதேனும் ஒரு உருவத்தை உருவாக்குகிற யாவருக்கும் அழிவு ஆயத்தமாக்கப்பட்டிருக்கிறது என்பதைக் குறிக்கிறது.",
+     "anchor": "ஒரு உருவத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.19",
+   "source_hash": "dcadd7b5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.19#p1-dcadd7b5",
+     "text": "அவைகளை மனிதனுக்கு ஊழியம் செய்யும்படி ஏற்படுத்தியிருக்கிறார்.",
+     "anchor": "வானத்தின் கீழெங்கும் இருக்கிற எல்லா மக்களுக்கும் ஏற்படுத்தின"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.20",
+   "source_hash": "6049c13d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.20#p1-6049c13d",
+     "text": "அவர் உங்களை மிக மோசமான அடிமைத்தனத்திலிருந்து விடுவித்து, தம்முடையவர்களாக இருக்கும்படி இலவசமாகத் தெரிந்துகொண்டார்.",
+     "anchor": "இரும்பை உருக்கும் உலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.22",
+   "source_hash": "e240d775",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.22#p1-e240d775",
+     "text": "மோசே தானே அத்தகைய சிறந்த பொக்கிஷத்தை இழந்திருந்தும், அதை அனுபவிக்கவிருந்தவர்களைப் பொறாமைப்படாமலிருந்ததில் அவருடைய நல்ல மனநிலை வெளிப்படுகிறது.",
+     "anchor": "நீங்களோ கடந்துபோய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.24",
+   "source_hash": "2af0e725",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.24#p1-2af0e725",
+     "text": "அன்போடும் பயபக்தியோடும் அவரிடம் வராமல், அவருக்கு விரோதமாகக் கலகம் செய்கிறவர்களுக்கு.",
+     "anchor": "சுட்டெரிக்கிற அக்கினி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.25",
+   "source_hash": "0affb64a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.25#p1-0affb64a",
+     "text": "தேவனுடைய உண்மையான ஆராதனையிலிருந்து விலகிய எல்லா மூடநம்பிக்கையையும் சீர்கேட்டையும் இதைக்கொண்டு குறிக்கிறார்.",
+     "anchor": "உங்களைக் கெடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.26",
+   "source_hash": "a2be6191",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.26#p1-a2be6191",
+     "text": "மனிதர்கள் உங்களைத் தவறாக நடத்தினாலும், உணர்வற்ற சிருஷ்டிகளே உங்கள் கீழ்ப்படியாமையின்மேல் சாட்சியாக நிற்கும்.",
+     "anchor": "வானத்தையும் பூமியையும் சாட்சியாக வைக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.27",
+   "source_hash": "2a21d9ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.27#p1-2a21d9ea",
+     "text": "இதனால் அவருடைய சாபம், அவர் முன்பு அளித்த ஆசீர்வாதங்களை பயனற்றதாக்கிவிடும்.",
+     "anchor": "சிதறடிப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.29",
+   "source_hash": "a1f5c986",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.29#p1-a1f5c986",
+     "text": "வெளிக்காட்டும் தோற்றத்தினாலோ சடங்காசாரத்தினாலோ அல்ல, உன் குற்றங்களை உண்மையாய் அறிக்கையிடுதலினால்.",
+     "anchor": "முழு இருதயத்தோடும் உன் முழு ஆத்துமாவோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.31",
+   "source_hash": "af0a6b56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.31#p1-af0a6b56",
+     "text": "தங்கள் இரட்சிப்பின் நிச்சயத்தை இன்னும் அதிகமாக அவர்களுக்கு உறுதிப்படுத்துவதற்காக.",
+     "anchor": "வாக்களித்துக் கொடுத்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.32",
+   "source_hash": "8ba8e2ed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.32#p1-8ba8e2ed",
+     "text": "தேவனை மனிதன் அறியாதிருக்கிறதற்கு அவனுடைய கவனயீனமே ஓரளவு காரணமாகும்.",
+     "anchor": "வானத்தின் ஒருமுனை துவங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.34",
+   "source_hash": "8f6dc7fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.34#p1-8f6dc7fa",
+     "text": "யாரும் அதைக் குறித்து சந்தேகப்படமுடியாதபடி இவ்வளவு தெளிவான ஆதாரங்களினால்.",
+     "anchor": "சோதனைகளினாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.35",
+   "source_hash": "f79ad305",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.35#p1-f79ad305",
+     "text": "தேவன் இந்த அற்புதங்களைச் செய்ததற்குக் காரணத்தை அவர் காண்பிக்கிறார்.",
+     "anchor": "யெகோவாவே தேவன், அவரையல்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.37",
+   "source_hash": "2e85e536",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.37#p1-2e85e536",
+     "text": "இலவசமாக, அவர்கள் அதற்குத் தகுதியுள்ளவர்களாக இருந்ததால் அல்ல.",
+     "anchor": "அவர் உன் முற்பிதாக்களிடத்தில் அன்பு செலுத்தியதால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.40",
+   "source_hash": "bd8ae600",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.40#p1-bd8ae600",
+     "text": "தேவன் நமது தகுதிகளுக்காக பலனை வாக்குத்தத்தம் செய்யவில்லை, மாறாக நம்மை உற்சாகப்படுத்தவும், நமது பிரயாசம் வீணாகாது என்று உறுதிப்படுத்தவும் இதைச் செய்கிறார்.",
+     "anchor": "நன்றாயிருக்கவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.45",
+   "source_hash": "b45a4f6f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.45#p1-b45a4f6f",
+     "text": "உடன்படிக்கையின் விதிகளும் அம்சங்களும்.",
+     "anchor": "சாட்சிகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.4.49",
+   "source_hash": "79297e9c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.4.49#p1-79297e9c",
+     "text": "அதாவது, உப்புக்கடல்.",
+     "anchor": "சமனான வெளியின் கடல்"
+    }
+   ]
+  }
+ ]
+}

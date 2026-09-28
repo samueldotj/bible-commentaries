@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 19,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.19.1",
+   "source_hash": "e6c663dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.1#p1-e6c663dc",
+     "text": "சிமியோன் மற்ற கோத்திரங்களுக்குள் சிதறடிக்கப்படுவான் என்று யாக்கோபு சொன்ன தீர்க்கதரிசனத்தின்படி.",
+     "anchor": "யூதா கோத்திரத்தார்களுடைய பங்குகளின் நடுவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.9",
+   "source_hash": "fa4c936b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.9#p1-fa4c936b",
+     "text": "ஆனாலும் இந்த பெரிய பங்கு அவர்களுக்குத் தேவனுடைய பராமரிப்பினாலே கொடுக்கப்பட்டது, அது வரப்போகும் காலத்தில் அவர்களுடைய வர்த்தனையைத் தெரிவிக்கும்படியே ஆகும்.",
+     "anchor": "மிகுதியாக இருந்தபடியால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.11",
+   "source_hash": "4603c451",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.11#p1-4603c451",
+     "text": "அல்லது, மேற்குப் புறமாக, பெருங்கடலின் திசையாக.",
+     "anchor": "மேற்கே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.15",
+   "source_hash": "b0b501ae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.15#p1-b0b501ae",
+     "text": "யூதா கோத்திரத்திலும் மற்றொரு பெத்லெகேம் இருந்தது.",
+     "anchor": "பெத்லகேம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.21",
+   "source_hash": "89b6897f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.21#p1-89b6897f",
+     "text": "இதே பெயருடைய வேறொரு பட்டணம் யூதாவின் கோத்திரத்திலும் இருந்தது: ஏனெனில் பல்வேறு கோத்திரங்களில் சில பட்டணங்களுக்கு ஒரே பெயர் இருந்தது, அவை கோத்திரத்தினால் மாத்திரமே வேறுபடுத்தப்பட்டன.",
+     "anchor": "என்கன்னீம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.27",
+   "source_hash": "0a5bb95c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.27#p1-0a5bb95c",
+     "text": "கிழக்கு நோக்கியிருந்த செபுலோன் கோத்திரத்தோடு இணைகிறது.",
+     "anchor": "செபுலோனுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.29",
+   "source_hash": "3b52fc1b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.29#p1-3b52fc1b",
+     "text": "இது சோவார் என்னும், கடலருகிலுள்ள பாதுகாப்பான பட்டணமாகும்.",
+     "anchor": "தீரு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.33",
+   "source_hash": "caf5492c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.33#p1-caf5492c",
+     "text": "இந்தப் பட்டணங்கள் சானானிம் நாட்டில் இருந்தன.",
+     "anchor": "ஏலேப்பிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.35",
+   "source_hash": "3d16ee28",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.35#p1-3d16ee28",
+     "text": "இதிலிருந்தே கெனேசரேத்து கடல் அதன் பெயரைப் பெற்றது.",
+     "anchor": "கின்னரேத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.46",
+   "source_hash": "8faa5544",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.46#p1-8faa5544",
+     "text": "யோப்பா என்று அழைக்கப்பட்டது.",
+     "anchor": "யோப்பாவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.19.47",
+   "source_hash": "8d0c7b1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.19.47#p1-8d0c7b1c",
+     "text": "ஆதியாகமம் 49:17-ல் யாக்கோபு தீர்க்கதரிசனம் சொன்னதின்படியே.",
+     "anchor": "லேசேமின்மேல் யுத்தம்செய்து"
+    }
+   ]
+  }
+ ]
+}

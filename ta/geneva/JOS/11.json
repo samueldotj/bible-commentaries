@@ -1,0 +1,212 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.11.1",
+   "source_hash": "6a67fe57",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.1#p1-6a67fe57",
+     "text": "தேவனுடைய வல்லமை எவ்வளவு அதிகமாக வெளிப்படுகிறதோ, அவ்வளவு அதிகமாக துன்மார்க்கர் அதற்கு விரோதமாகக் கொந்தளிக்கிறார்கள்.",
+     "anchor": "மாதோனின் ராஜாவாகிய யோபாபிடமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.2",
+   "source_hash": "e54598a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.2#p1-e54598a5",
+     "text": "இதை சுவிசேஷகர் கெனேசரேத்து ஏரி என்றும், திபேரியா ஏரி என்றும் அழைக்கிறார்கள்.",
+     "anchor": "கின்னரேத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.3",
+   "source_hash": "82c724bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.3#p1-82c724bd",
+     "text": "இது சீயோன் மலை, உபாகமம் 4:48-ல் இருப்பது போல.",
+     "anchor": "எர்மோன் மலையின் அடியிலே மிஸ்பா தேசத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.6",
+   "source_hash": "4e7e1096",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.6#p1-4e7e1096",
+     "text": "அவை போர்ப் பயன்பாட்டிற்கு உதவாதிருக்கவும், இஸ்ரவேலர்கள் அவற்றின்மேல் நம்பிக்கை வைக்காதிருக்கவும்.",
+     "anchor": "குதிரைகளின் குதிகால் நரம்புகளை அறுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.8",
+   "source_hash": "3a184c92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.8#p1-3a184c92",
+     "text": "இது சூடான தண்ணீர்களைக் குறிக்கிறது, அல்லது சிலரின் கருத்துப்படி, உப்புக் குழிகளைக் குறிக்கிறது.",
+     "anchor": "மிஸ்ரபோத்மாயீம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.11",
+   "source_hash": "4a886ae7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.11#p1-4a886ae7",
+     "text": "ஆண்களும், பெண்களும், பிள்ளைகளும்.",
+     "anchor": "அதில் இருந்த உயிரினங்களையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.13",
+   "source_hash": "8e56de2f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.13#p1-8e56de2f",
+     "text": "இவை இருப்பிடத்தால் பலமுள்ளவைகளாயிருந்தன, யுத்தத்தால் சேதப்படுத்தப்படாமல் இருந்தன.",
+     "anchor": "மேட்டின்மேல் இருந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.14",
+   "source_hash": "ed8f5cb5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.14#p1-ed8f5cb5",
+     "text": "எல்லா மனிதர்களையும்.",
+     "anchor": "எல்லா மனிதர்களையும்... வெட்டிப்போட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.16",
+   "source_hash": "1dd0cfc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.16#p1-1dd0cfc0",
+     "text": "அதாவது, சமாரியா.",
+     "anchor": "இஸ்ரவேலின் மலைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.17",
+   "source_hash": "73318fca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.17#p1-73318fca",
+     "text": "அது வெறுமையாகவும் மரங்களில்லாமலும் இருந்தபடியால் இப்படி அழைக்கப்பட்டது.",
+     "anchor": "மொட்டையான மலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.20",
+   "source_hash": "1aebdbc6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.20#p1-1aebdbc6",
+     "text": "அதாவது, அவர்களை அவர்களுக்கே ஒப்புக்கொடுத்தது; ஆகையால் அவர்கள் தேவனுக்கு விரோதமாகக் கலகம்செய்து தங்கள் அழிவையே தேடாமல் இருக்க முடியாதிருந்தது.",
+     "anchor": "இருதயம் கடினமானதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.11.22",
+   "source_hash": "81321c94",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.11.22#p1-81321c94",
+     "text": "இதிலிருந்துதான் கோலியாத் வந்தான், 1 சாமுவேல் 17:4.",
+     "anchor": "காத்திலும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.5.1",
+   "source_hash": "45ebf94f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.1#p1-45ebf94f",
+     "text": "இது பெலிஸ்தரின் ஐந்து பிரதான பட்டணங்களில் ஒன்றாக இருந்தது.",
+     "anchor": "அஸ்தோத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.2",
+   "source_hash": "42ac9b3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.2#p1-42ac9b3d",
+     "text": "இது அவர்களுடைய முதன்மையான விக்கிரகமாக இருந்தது, சிலர் எழுதுவதுபோல, தொப்புளுக்குக் கீழே மீன் வடிவமாகவும், மேலே மனித வடிவமாகவும் இருந்தது.",
+     "anchor": "தாகோனின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.5",
+   "source_hash": "67d6a829",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.5#p1-67d6a829",
+     "text": "இவ்வாறாக இந்த அற்புதத்தினால் மெய்யான தேவனை அறிந்துகொள்வதற்குப் பதிலாக, அவர்கள் பெருந்தீங்கான மூடநம்பிக்கையில் விழுகிறார்கள்.",
+     "anchor": "வாசற்படியை மிதிக்கிறதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.8",
+   "source_hash": "67848ecf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.8#p1-67848ecf",
+     "text": "அவர்கள் தேவனுடைய வல்லமையை உணர்ந்து அதற்குப் பயந்திருந்தும், மேலும் அவரைச் சோதித்தார்கள்; அதை தேவன் அவர்களுடைய அழிவுக்கும் தமது மகிமைக்கும் ஆகும்படி திருப்பினார்.",
+     "anchor": "நாம் என்ன செய்யவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.5.11",
+   "source_hash": "c756f53f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.5.11#p1-c756f53f",
+     "text": "துன்மார்க்கர் தேவனுடைய கையை உணரும்போது, முறுமுறுத்து அவரை புறக்கணிக்கிறார்கள்; ஆனால் தேவபக்தியுள்ளவர்களோ தங்களைத் தாழ்த்தி, இரக்கத்திற்காக கூப்பிடுகிறார்கள்.",
+     "anchor": "அவருடைய பெட்டியை அதின் இடத்திற்குத் திரும்ப அனுப்பிவிடுங்கள்"
+    }
+   ]
+  }
+ ]
+}

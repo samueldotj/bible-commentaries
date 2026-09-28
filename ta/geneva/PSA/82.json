@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 82,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.82.1",
+   "source_hash": "d560913a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.1#p1-d560913a",
+     "text": "அதிபதிகளும் நியாயாதிபதிகளும் தங்கள் கடமையைச் செய்யாவிட்டால், அவர்களுக்கு மேலான அதிகாரமுள்ள தேவன் அவர்கள்மேல் நீதி விசாரிப்பார் என்று தீர்க்கதரிசி காண்பிக்கிறார்.",
+     "anchor": "தேவசபையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.82.2",
+   "source_hash": "2c4f6d76",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.2#p1-2c4f6d76",
+     "text": "திருடர்களும் கொலைக்காரர்களும் நியாயத்தீர்ப்பிலும் தயவு பெறுகின்றனர், அதே சமயம் தேவபக்தியுள்ளவனுடைய வழக்கு கேட்கப்படாமலிருக்கிறது.",
+     "anchor": "துன்மார்க்கர்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.82.4",
+   "source_hash": "ba5e3fdc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.4#p1-ba5e3fdc",
+     "text": "அவர்கள் உதவிக்காக அழும்போது மட்டுமல்ல, அவர்களுடைய காரியம் துணையையும் ஆதரவையும் தேவைப்படும்போதும்.",
+     "anchor": "எளியவனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.82.5",
+   "source_hash": "733673f9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.5#p1-733673f9",
+     "text": "அதாவது, அவர்களுடைய கொடுங்கோன்மையினாலும் கவலையற்ற அசதியினாலும் எல்லாம் ஒழுங்கு தவறிப் போயிருக்கின்றன.",
+     "anchor": "தேசத்தின் அஸ்திபாரங்களெல்லாம் அசைகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.82.7",
+   "source_hash": "42fbfd19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.7#p1-42fbfd19",
+     "text": "எந்த கனப்பட்ட பட்டமும் உங்களை விலக்காது, நீங்களும் தேவனுடைய நியாயத்தீர்ப்புகளுக்கு உட்பட்டு, மற்ற மனிதரைப்போலவே கணக்கு ஒப்புவிக்க வேண்டியிருப்பீர்கள்.",
+     "anchor": "நீங்கள் மனிதர்களைப்போலச் செத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.82.8",
+   "source_hash": "0b348733",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.82.8#p1-0b348733",
+     "text": "ஆகையால் எந்த கொடுங்கோலனும் உம்முடைய உரிமையையும் அதிகாரத்தையும் உம்மிடத்திலிருந்து பறித்துக்கொள்ள முடியாது.",
+     "anchor": "எல்லா தேசங்களையும்"
+    }
+   ]
+  }
+ ]
+}

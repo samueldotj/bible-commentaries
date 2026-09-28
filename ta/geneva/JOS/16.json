@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.16.1",
+   "source_hash": "55992a82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.16.1#p1-55992a82",
+     "text": "அதாவது, எப்பிராயீமுக்கும் அவனுடைய பிள்ளைகளுக்கும் விழுந்த சீட்டு; ஏனெனில் மனாசேயின் பங்கு பின்பு வருகிறது.",
+     "anchor": "யோசேப்பின் கோத்திரத்தார்களுக்கு விழுந்த சீட்டினால் கிடைத்த பங்குவீதமாவது: எரிகோவின் அருகே இருக்கிற யோர்தானிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.16.3",
+   "source_hash": "25c2806e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.16.3#p1-25c2806e",
+     "text": "அவர்களுடைய சுதந்தரத்தினுடையது.",
+     "anchor": "மத்திய தரைக் கடல் வரைக்கும் போய் முடியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.16.4",
+   "source_hash": "22234fe5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.16.4#p1-22234fe5",
+     "text": "தனித்தனியாக, முதலில் எப்பிராயீம், பின்பு மனாசே.",
+     "anchor": "சுதந்தரித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.16.7",
+   "source_hash": "be871242",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.16.7#p1-be871242",
+     "text": "எல்லைகள் அவ்வளவு தூரம் வரையில் நீண்டிருந்தன.",
+     "anchor": "யோர்தானுக்குச் செல்லும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.16.9",
+   "source_hash": "ee7de6f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.16.9#p1-ee7de6f7",
+     "text": "எப்பிராயீம் கோத்திரம் மனாசேயின் கோத்திரத்தைவிட மிகவும் பெரிதாக இருந்தபடியால், அவனுக்கு அதிக பட்டணங்கள் இருந்தன.",
+     "anchor": "எப்பிராயீம் கோத்திரத்தார்களுக்குப் பிரத்தியேகமாகக் கொடுக்கப்பட்ட பட்டணங்களும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.2.3",
+   "source_hash": "01ddfce6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.3#p1-01ddfce6",
+     "text": "யூதா யாக்கோபின் மூத்த மகன் அல்லனாயினும், தாவீதின் வம்ச வரலாற்றிற்கு வரவேண்டும் என்பதற்காக, அவனிலிருந்தே கிறிஸ்து வந்தார் என்பதால், முதலில் அவனிடத்திலேயே தொடங்குகிறார்.",
+     "anchor": "யூதாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.6",
+   "source_hash": "d0bcaefb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.6#p1-d0bcaefb",
+     "text": "இவர்களைப் பற்றி 1 இராஜாக்கள் 4:31-ல் வாசிக்கவும்.",
+     "anchor": "ஏத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.9",
+   "source_hash": "fddad57a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.9#p1-fddad57a",
+     "text": "இவனை மத்தேயு ஆராம் என்று அழைக்கிறார், மத்தேயு 1:3.",
+     "anchor": "ராம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.10",
+   "source_hash": "43533286",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.10#p1-43533286",
+     "text": "அதாவது, குடும்பத்தின் தலைவன்.",
+     "anchor": "யூதா சந்ததியின் பிரபு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.18",
+   "source_hash": "874cb019",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.18#p1-874cb019",
+     "text": "இவன் 1 நாளாகமம் 2:9-ல் எஸ்ரோனின் மகன் கெலுபா என்று அழைக்கப்பட்டவன்.",
+     "anchor": "எஸ்ரோனின் மகன் காலேப்... பெற்ற மகன்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.21",
+   "source_hash": "8de4449d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.21#p1-8de4449d",
+     "text": "இவன் கீலேயாத் மலையின் அதிபதியாக இருந்தான், எண்ணாகமம் 32:40.",
+     "anchor": "கிலெயாத்தினுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.23",
+   "source_hash": "9687a0a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.23#p1-9687a0a4",
+     "text": "அதாவது, கெசூரியரும் சீரியரும் யாவீரின் பிள்ளைகளிடமிருந்து அந்த ஊர்களை எடுத்துக்கொண்டார்கள்.",
+     "anchor": "எடுத்துக்கொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.24",
+   "source_hash": "5d8b6f4a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.24#p1-5ce0eae3",
+     "text": "இது கணவன் மனைவி இருவரின் பெயரால் அழைக்கப்பட்ட ஒரு பட்டணம், இதற்குப் பெத்லெகேம் எப்ராத்தா என்றும் பெயர்.",
+     "anchor": "காலேபினுடைய ஊரான எப்ராத்தாவில்"
+    },
+    {
+     "id": "geneva/1CH.2.24#p2-063ba3f9",
+     "text": "தலைவனும் அதிபதியும் என்று பொருள்.",
+     "anchor": "தெக்கோவாவின் தகப்பனாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.31",
+   "source_hash": "b2739cc4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.31#p1-b2739cc4",
+     "text": "இவன் தன் தகப்பன் உயிரோடிருக்கும்போதே மரித்துப்போனான்; ஆகையால் 1 நாளாகமம் 2:34-ல் சேசானுக்கு மகன்கள் இல்லை என்று சொல்லப்பட்டிருக்கிறது.",
+     "anchor": "அக்லாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.42",
+   "source_hash": "6964265f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.42#p1-6964265f",
+     "text": "அதாவது, சீப்பூராரின் தலைமை அதிபதி அல்லது அதிபதி; ஏனெனில் அதிபதியானவன் தன் ஜனத்தின்மேல் தகப்பனுக்குரிய கரிசனையும் பட்சமும் கொண்டிருக்க வேண்டும்.",
+     "anchor": "சீப்பின் தகப்பனாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.46",
+   "source_hash": "fcea0cf3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.46#p1-fcea0cf3",
+     "text": "மனைவிக்கும் மறுமனையாட்டிக்கும் இருந்த வித்தியாசம் என்னவென்றால், மனைவி திருமண முறைமையின்படி எடுக்கப்பட்டவளாய் இருந்தாள், அவளுடைய பிள்ளைகள் சொத்தை சுதந்தரித்தார்கள்; மறுமனையாட்டிக்கோ திருமண முறைமை இல்லை, அவளுடைய பிள்ளைகள் சுதந்தரிக்கவும் இல்லை, அவர்களுக்கு பொருள் அல்லது பணத்தில் ஒரு பங்கு மட்டும் கொடுக்கப்பட்டது.",
+     "anchor": "மறுமனையாட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.54",
+   "source_hash": "47500efc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.54#p1-47500efc",
+     "text": "யோவாபின் குடும்பத்தில் தலைமையும் முதன்மையும் உடையவர்.",
+     "anchor": "பெத்யோவாப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.2.55",
+   "source_hash": "3a90255a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.2.55#p1-f28c1582",
+     "text": "நியாயப்பிரமாணத்திலே கல்வியும் திறமையும் உள்ளவர்கள்.",
+     "anchor": "யாபேசில் குடியிருந்த வேத வல்லுனர்களுடைய"
+    },
+    {
+     "id": "geneva/1CH.2.55#p2-e4eae4bb",
+     "text": "எண்ணாகமம் 10:29, நியாயாதிபதிகள் 1:16 ஐ வாசிக்கவும்.",
+     "anchor": "அம்மாத்தின் சந்ததியார்களான கேனியர்கள்"
+    }
+   ]
+  }
+ ]
+}

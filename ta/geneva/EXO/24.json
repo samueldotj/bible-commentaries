@@ -1,0 +1,159 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.24.1",
+   "source_hash": "0246a4c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.1#p1-0246a4c8",
+     "text": "20-ஆம் அதிகாரம் தொடங்கி இதுவரை நியாயப்பிரமாணத்தைக் கொடுப்பதற்காக அவரை மலைமேல் அழைத்தபோது.",
+     "anchor": "மோசேயை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.3",
+   "source_hash": "5e9fcdc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.3#p1-5e9fcdc0",
+     "text": "அவன் சீனாய் மலையில் இந்த நியாயப்பிரமாணங்களைப் பெற்றிருந்தபோது.",
+     "anchor": "மோசே வந்து, யெகோவாவுடைய வார்த்தைகள் யாவையும் நீதி சட்டங்கள் யாவையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.5",
+   "source_hash": "571d9619",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.5#p1-571d9619",
+     "text": "ஏனெனில் அப்பொழுதுவரை ஆசாரிய ஊழியம் லேவியர்களுக்குக் கொடுக்கப்படவில்லை.",
+     "anchor": "இஸ்ரவேலின் வாலிபர்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.8",
+   "source_hash": "3173671a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.8#p1-3173671a",
+     "text": "இது, மீறப்பட்ட உடன்படிக்கையானது இரத்தம் சிந்தாமல் திருப்தியாக்கப்பட முடியாது என்பதைக் குறிக்கிறது.",
+     "anchor": "உடன்படிக்கையின் இரத்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.10",
+   "source_hash": "dd076de7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.10#p1-dd076de7",
+     "text": "தங்களுடைய பலவீனங்களுக்குள் அவருடைய மகிமையைக் காணக்கூடிய அளவு பூரணமாக.",
+     "anchor": "தேவனைத் தரிசித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.11",
+   "source_hash": "afd19bc3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.11#p1-20a3f951",
+     "text": "அவர் அவர்களைப் பயமுறுத்தவுமில்லை, தண்டிக்கவுமில்லை.",
+     "anchor": "தம்முடைய கையை நீட்டவில்லை"
+    },
+    {
+     "id": "geneva/EXO.24.11#p2-3c3daa75",
+     "text": "அதாவது, மகிழ்ச்சியடைந்தார்கள்.",
+     "anchor": "சாப்பிட்டுக் குடித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.12",
+   "source_hash": "a5723ca5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.12#p1-b93fd708",
+     "text": "இரண்டாம் முறை.",
+     "anchor": "மோசேயை நோக்கி"
+    },
+    {
+     "id": "geneva/EXO.24.12#p2-447dd33c",
+     "text": "தேவன் தமது ஆவியினால் தமது நியாயப்பிரமாணத்தை அதில் எழுதாவிட்டால், நம்முடைய இருதயங்களின் கடினத்தைக் குறிக்கிறது, எரேமியா 31:33, எசேக்கியேல் 11:19, 2 கொரிந்தியர் 3:3, எபிரெயர் 8:10,10:16",
+     "anchor": "கற்பலகைகளையும்"
+    },
+    {
+     "id": "geneva/EXO.24.12#p3-6655ea1b",
+     "text": "அதாவது, மக்கள்.",
+     "anchor": "அவர்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.24.17",
+   "source_hash": "05dede2f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.24.17#p1-05dede2f",
+     "text": "கர்த்தர் சரீரத்திற்குரிய மனிதர்களுக்கு சுட்டெரிக்கிற அக்கினியைப்போல் தோன்றுகிறார்: ஆனால் தமது ஆவியானவராலே தம்மிடத்தில் ஈர்க்கப்பட்டவர்களுக்கோ, அவர் இன்பமான இந்திரநீலக்கல்லைப்போல் இருக்கிறார்.",
+     "anchor": "சுட்டெரிக்கிற அக்கினியைப்போல் இருந்தது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 23,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.23.1",
+   "source_hash": "be403599",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.1#p1-be403599",
+     "text": "மட்டுள்ளவனாக சாப்பிடு.",
+     "anchor": "உனக்கு முன்பாக இருக்கிறதை நன்றாகக் கவனித்துப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.2",
+   "source_hash": "165c4e4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.2#p1-165c4e4e",
+     "text": "பலவந்தமாகவும் கடுமையாகவும் இருப்பது போல உன் பசியை அடக்கிக்கொள்.",
+     "anchor": "தொண்டையிலே கத்தியை வை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.3",
+   "source_hash": "26647092",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.3#p1-26647092",
+     "text": "ஏனெனில், செல்வந்தர்கள் தங்களுக்குக் கீழானவர்களைத் தங்கள் பந்தியில் அழைக்கும்போது, அது பெரும்பாலும் அவர்கள்மேல் அன்புவைத்து அல்ல, தங்கள் இரகசிய நோக்கங்களுக்காகவே ஆகும்.",
+     "anchor": "அவைகள் வஞ்சக உணவாக இருக்கலாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.4",
+   "source_hash": "fe7779a7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.4#p1-fe7779a7",
+     "text": "செல்வந்தனாக முயற்சிசெய்வதற்காக தேவன் உனக்குக் கொடுத்த வரங்களைச் செலவழிக்காதே.",
+     "anchor": "சுயபுத்தியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.6",
+   "source_hash": "c37504d0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.6#p1-c37504d0",
+     "text": "அதாவது, பொருளாசைக்காரன்; இதற்கு நேர்மாறாக நல்ல கண் என்பது நீதிமொழிகள் 22:9-ல் இருப்பதுபோல தாராளகுணமுள்ளவனைக் குறிக்கிறது.",
+     "anchor": "பொறாமைக்காரனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.8",
+   "source_hash": "e0b26f9b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.8#p1-e0b26f9b",
+     "text": "அவன் உனக்கு ஏதேனும் தீங்கு செய்யும்வரை நிற்கமாட்டான், அவனுடைய தந்திரமான சொற்கள் ஒரு பயனுக்கும் ஆகாது.",
+     "anchor": "சாப்பிட்ட உணவை வாந்தியெடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.14",
+   "source_hash": "d5dbdb26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.14#p1-d5dbdb26",
+     "text": "அதாவது, அழிவிலிருந்து.",
+     "anchor": "பாதாளத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.18",
+   "source_hash": "3ecf1cec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.18#p1-3ecf1cec",
+     "text": "துன்மார்க்கருடைய செழிப்பு நிலைத்திருக்காது.",
+     "anchor": "உன்னுடைய நம்பிக்கை வீண்போகாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.19",
+   "source_hash": "33584748",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.19#p1-33584748",
+     "text": "தேவனுடைய கற்பனைகளின்படியெல்லாம் நடப்பதிலே.",
+     "anchor": "நல்வழியிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.23",
+   "source_hash": "09673ee2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.23#p1-09673ee2",
+     "text": "சத்தியத்தின் நிமித்தமாக எந்த செலவையும் தவிர்க்காதே, மேலும் எந்த ஆதாயத்திற்காகவும் அதைவிட்டு விலகாதே.",
+     "anchor": "சத்தியத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.26",
+   "source_hash": "b930329f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.26#p1-b930329f",
+     "text": "உன்னை முழுவதுமாக ஞானத்திற்கு ஒப்புக்கொடு.",
+     "anchor": "உன்னுடைய இருதயத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.28",
+   "source_hash": "6e7c35a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.28#p1-6e7c35a3",
+     "text": "அவள் அநேகரை வழிகெடுத்து, அவர்களைத் தேவனுக்கு விரோதமாகப் பாவம் செய்யப்பண்ணுகிறாள்.",
+     "anchor": "மனிதர்களுக்குள்ளே பாவிகளைப் பெருகச்செய்கிறாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.30",
+   "source_hash": "5bdc162b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.30#p1-5bdc162b",
+     "text": "தங்களுடைய கலையினால் சாராயத்தை பலமும் இன்பமும் அதிகமாக்குகிறவர்கள்.",
+     "anchor": "கலப்புள்ள சாராயத்தை நாடுகிறவர்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.33",
+   "source_hash": "6095ba5a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.33#p1-6095ba5a",
+     "text": "அதாவது, குடிவெறி உன்னைத் விபசாரத்திற்குக் கொண்டுசெல்லும்.",
+     "anchor": "உன் கண்கள் ஒழுங்கீனமான பெண்களை நோக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.34",
+   "source_hash": "e96a2ba0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.34#p1-e96a2ba0",
+     "text": "நீ இப்படிப்பட்ட பெரிய ஆபத்திலிருப்பாய்.",
+     "anchor": "நடுக்கடலிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.23.35",
+   "source_hash": "52e64367",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.23.35#p1-52e64367",
+     "text": "வெறியானது அவர்களை மிருகங்களைவிட உணர்வற்றவர்களாக்கினாலும், அவர்களால் தன்னைத் தடுத்துக்கொள்ள முடிவதில்லை.",
+     "anchor": "அதைப் பின்னும் தொடர்ந்து தேட"
+    }
+   ]
+  }
+ ]
+}

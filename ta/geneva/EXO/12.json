@@ -1,0 +1,324 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.12.2",
+   "source_hash": "ca4962e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.2#p1-aa6eff59",
+     "text": "நிசான் என்று அழைக்கப்படும் மாதம், மார்ச் மாதத்தின் ஒரு பகுதியையும் ஏப்ரல் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "மாதம் உங்களுக்கு துவக்கமாதம்"
+    },
+    {
+     "id": "geneva/EXO.12.2#p2-bbe6f9af",
+     "text": "பண்டிகைகளைக் கைக்கொள்வதைப் பொறுத்தமட்டில் இதுவே கணிப்பு; மற்ற அரசு நடைமுறைகளைப் பொறுத்தமட்டில் அவர்கள் செப்டம்பர் மாதத்திலிருந்து கணக்கிட்டார்கள்.",
+     "anchor": "வருடத்தின் முதலாம் மாதமாக இருப்பதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.3",
+   "source_hash": "af4c0d90",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.3#p1-af4c0d90",
+     "text": "வீட்டுத்தலைவர்கள் தங்கள் குடும்பங்கள் பெரியதோ சிறியதோ என்பதற்கேற்ப.",
+     "anchor": "வீட்டுத்தலைவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.4",
+   "source_hash": "7f59f45d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.4#p1-7f59f45d",
+     "text": "ஆட்டுக்குட்டியைச் சாப்பிடத்தக்கவர்கள் எத்தனைபேர் தேவையோ அத்தனைபேரை அவன் சேர்த்துக்கொள்ளவேண்டும்.",
+     "anchor": "அவனவன் சாப்பிடத்தக்கதாக எண்ணிக்கைபார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.6",
+   "source_hash": "bd48fa1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.6#p1-bd48fa1c",
+     "text": "ஒவ்வொருவனும் தன் வீட்டிற்கு.",
+     "anchor": "இஸ்ரவேல் சபையின் ஒவ்வொரு கூட்டத்தார்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.9",
+   "source_hash": "bb0a9199",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.9#p1-bb0a9199",
+     "text": "அதாவது, சாப்பிடத்தக்க அனைத்தும்.",
+     "anchor": "தலையையும் அதின் தொடைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.11",
+   "source_hash": "6f4ae32a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.11#p1-6f4ae32a",
+     "text": "ஆட்டுக்குட்டியானது பஸ்காவே அல்ல, ஆனால் அதைக் குறிக்கிறது; நியமங்கள் அவை குறிக்கும் காரியமே அல்ல, அவை அதைக் குறிக்குமே.",
+     "anchor": "அது யெகோவாவுடைய பஸ்கா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.14",
+   "source_hash": "f0508f22",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.14#p1-27d812bb",
+     "text": "உங்களுடைய விடுதலைக்காக நீங்கள் பெற்ற உபகாரங்களைப் பற்றியது.",
+     "anchor": "நினைவுகூருதலான"
+    },
+    {
+     "id": "geneva/EXO.12.14#p2-463bdce7",
+     "text": "அதாவது, கிறிஸ்து வரும்வரை; ஏனெனில் அப்பொழுது சடங்குகள் முடிவுக்கு வரும்.",
+     "anchor": "நிரந்தர"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.18",
+   "source_hash": "8df82801",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.18#p1-8df82801",
+     "text": "ஏனெனில், பூர்வகாலத்தில் இவ்விதமாக நாட்களை எண்ணினார்கள், சூரியன் மறையும் நேரத்தில் ஒரு நாள் தொடங்கி, மறுநாள் அதே நேரம்வரைக்கும் அதைக் கணக்கிட்டார்கள்.",
+     "anchor": "சாயங்காலம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.23",
+   "source_hash": "baf035c4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.23#p1-baf035c4",
+     "text": "தேவனால் அனுப்பப்பட்ட தூதனானவர் தலைப்பிள்ளைகளைக் கொலைசெய்வார்.",
+     "anchor": "அழிக்கிறவனை உங்களுடைய வீடுகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.25",
+   "source_hash": "2e8f90f5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.25#p1-2e8f90f5",
+     "text": "கானான் தேசம்.",
+     "anchor": "யெகோவா உங்களுக்குத் தாம் சொன்னபடி கொடுக்கப்போகிற தேசத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.27",
+   "source_hash": "6f339375",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.27#p1-6f339375",
+     "text": "அவர்கள் அத்தகைய பெரிய நன்மைக்காக தேவனுக்கு ஸ்தோத்திரம் செய்தார்கள்.",
+     "anchor": "தலைவணங்கிப் பணிந்துகொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.30",
+   "source_hash": "e0e1d2a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.30#p1-e0e1d2a6",
+     "text": "முதற்பேறானவன், மனிதனாயிருந்தாலும் மிருகமாயிருந்தாலும், வாழ்ந்த வீடுகளில்.",
+     "anchor": "சாவு இல்லாத ஒரு வீடும் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.32",
+   "source_hash": "a940dd3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.32#p1-a940dd3c",
+     "text": "எனக்காக ஜெபம்பண்ணுங்கள்.",
+     "anchor": "என்னையும் ஆசீர்வதியுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.37",
+   "source_hash": "21afdd19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.37#p1-21afdd19",
+     "text": "இது கோசேனிலிருந்த ஒரு பட்டணமாக இருந்தது; ஆதியாகமம் 47:11.",
+     "anchor": "ராமசேசைவிட்டுக் சுக்கோத்திற்குப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.38",
+   "source_hash": "3bab4541",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.38#p1-3bab4541",
+     "text": "இவர்கள் அந்நியர்களாயிருந்தனர், இஸ்ரவேலரிடத்தில் பிறந்தவர்கள் அல்ல.",
+     "anchor": "பல இஸ்ரவேலர்கள் அல்லாத மக்கள் அநேகர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.41",
+   "source_hash": "6d741f7f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.41#p1-6d741f7f",
+     "text": "ஆபிரகாம் கல்தேயரின் ஊர் என்னும் ஊரிலிருந்து புறப்பட்டது முதல் இஸ்ரவேல் மக்கள் எகிப்திலிருந்து புறப்பட்ட வரைக்கும் 430 வருடங்கள் ஆகும்.",
+     "anchor": "நானூற்றுமுப்பது வருடங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.43",
+   "source_hash": "461cf597",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.43#p1-461cf597",
+     "text": "அவன் விருத்தசேதனம்பண்ணிக்கொள்ளுகிறவனாகவும், உங்கள் மார்க்கத்தை மாத்திரமே அறிக்கை செய்கிறவனாகவும் இருந்தால்தான்.",
+     "anchor": "அந்நியனில் ஒருவனும் அதை சாப்பிடவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.12.49",
+   "source_hash": "9bd73203",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.12.49#p1-9bd73203",
+     "text": "தேவனுடைய வீட்டாராயிருக்கிறவர்கள் அனைவரும் ஒரே விசுவாசத்திலும் ஒரே தேவவணக்கத்திலும் இணைந்திருக்க வேண்டும்.",
+     "anchor": "ஒரே பிரமாணம்"
+    }
+   ]
+  }
+ ]
+}

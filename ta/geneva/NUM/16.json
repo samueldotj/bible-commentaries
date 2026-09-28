@@ -1,0 +1,295 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.16.3",
+   "source_hash": "8133ead2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.3#p1-056cdc56",
+     "text": "அல்லது, உங்களுக்குப் போதுமாயிருக்கட்டும்; அதாவது, இவ்வளவு நாள் இவர்களைத் துன்மார்க்கமாக நடத்தியது போதும் என்று அர்த்தம்.",
+     "anchor": "நீங்கள் மிஞ்சிப்போகிறீர்கள்"
+    },
+    {
+     "id": "geneva/NUM.16.3#p2-7f47147b",
+     "text": "எல்லோரும் சமமாகப் பரிசுத்தமானவர்கள்; ஆகையால் ஒருவனும் மற்றவர்களுக்கு மேலாக உயர்த்தப்படக்கூடாது என்பதே; இப்படியே துன்மார்க்கர் தேவனுடைய நியமத்திற்கு விரோதமாக வாதாடுகிறார்கள்.",
+     "anchor": "சபையார் எல்லோரும் பரிசுத்தமானவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.5",
+   "source_hash": "c1e04eb0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.5#p1-c1e04eb0",
+     "text": "ஆசாரியனாகி பலியிடும்படிக்கு.",
+     "anchor": "தம்மிடத்தில் சேரக் கட்டளையிடுவார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.7",
+   "source_hash": "db0ec655",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.7#p1-db0ec655",
+     "text": "தன்மேல் அவர்கள் அநியாயமாகச் சுமத்திய குற்றத்தையே, அவர் நியாயமாக அவர்கள்மேல் சுமத்துகிறார்.",
+     "anchor": "நீங்களே மிஞ்சிப்போகிறீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.10",
+   "source_hash": "e0899e3a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.10#p1-e0899e3a",
+     "text": "முந்தின வசனத்தில் சொல்லியிருக்கிறபடி சபையில் ஊழியம் செய்யும்படி.",
+     "anchor": "அவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.13",
+   "source_hash": "05de9926",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.13#p1-05de9926",
+     "text": "இவ்வாறு அவர்கள் இழிவாகப் பேசி, கானானைக் காட்டிலும் எகிப்தையே சிறந்ததாகக் கருதினார்கள்.",
+     "anchor": "நல்ல விளைச்சல் உள்ள செழிப்பான தேசத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.14",
+   "source_hash": "db8fdb4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.14#p1-db8fdb4e",
+     "text": "தேசத்தை உளவு பார்த்தவர்கள் தாங்கள் கண்டதைக் காணவில்லை என்று விசுவாசிக்கும்படி நீ அவர்களை வற்புறுத்தப்பார்க்கிறாயோ?",
+     "anchor": "கண்களைப் பிடுங்கப்பார்க்கிறாயோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.16",
+   "source_hash": "c6dc9659",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.16#p1-c6dc9659",
+     "text": "ஆசரிப்புக்கூடாரத்தின் வாசலிலே.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.19",
+   "source_hash": "59f94f6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.19#p1-59f94f6d",
+     "text": "அவர்களுடைய கட்சியில் இருந்த அனைவரும்.",
+     "anchor": "அவர்களுக்கு விரோதமாகக் கோராகு சபையையெல்லாம் ஆசரிப்புக்கூடாரத்தின் வாசலுக்கு முன்பாகக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.26",
+   "source_hash": "dd81819a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.26#p1-dd81819a",
+     "text": "இவ்வளவு பாவங்களைச் செய்தவர்களோடு.",
+     "anchor": "எல்லா பாவங்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.28",
+   "source_hash": "192fbacb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.28#p1-192fbacb",
+     "text": "நான் அவைகளை என்னுடைய சொந்த மனதிலிருந்து உருவாக்கவில்லை.",
+     "anchor": "மனதின்படியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.30",
+   "source_hash": "c9a9686f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.30#p1-526d670c",
+     "text": "அல்லது, ஒரு அபூர்வமான காட்சியைக் காண்பிப்பதால்.",
+     "anchor": "புதிய காரியத்தை"
+    },
+    {
+     "id": "geneva/NUM.16.30#p2-e278102b",
+     "text": "அல்லது, பூமியின் ஆழமான இருண்ட இடங்கள்.",
+     "anchor": "பாதாளத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.38",
+   "source_hash": "f62ead18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.38#p1-48d31dc3",
+     "text": "தங்களுடைய மரணத்திற்குத் தாங்களே காரணமானவர்கள்.",
+     "anchor": "தங்களுடைய ஆத்துமாக்களுக்கே கேடு உண்டாக்கின"
+    },
+    {
+     "id": "geneva/NUM.16.38#p2-5c1be014",
+     "text": "கலகக்காரர்களுக்கு விரோதமான தேவனுடைய நியாயத்தீர்ப்புகளைப் பற்றியது.",
+     "anchor": "இஸ்ரவேல் மக்களுக்கு ஒரு அடையாளமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.40",
+   "source_hash": "d247db9d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.40#p1-d247db9d",
+     "text": "தன் அழைப்புக்கு மேலாகத் துணிந்தவன்.",
+     "anchor": "கோராகைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.46",
+   "source_hash": "63cb90d3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.46#p1-63cb90d3",
+     "text": "ஏனெனில் சர்வாங்க தகனகாணிக்கைப் பலிபீடத்தின் அக்கினியைத் தவிர வேறு எந்த அக்கினியையும் எடுப்பது நியாயப்படி இல்லை, லேவியராகமம் 10:1.",
+     "anchor": "பலிபீடத்திலிருக்கிற அக்கினியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.47",
+   "source_hash": "0ffb068e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.47#p1-0ffb068e",
+     "text": "தேவன் மக்களை தண்டிக்கத் தொடங்கியிருந்தார்.",
+     "anchor": "மக்களுக்குள்ளே வாதை துவங்கியிருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.16.48",
+   "source_hash": "a22e7e32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.16.48#p1-a22e7e32",
+     "text": "தேவன் தமது கையை பின்வாங்கி அவர்களைத் தண்டிப்பதை நிறுத்தினார்.",
+     "anchor": "வாதை நிறுத்தப்பட்டது"
+    }
+   ]
+  }
+ ]
+}

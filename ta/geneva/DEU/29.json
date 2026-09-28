@@ -1,0 +1,200 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.29.1",
+   "source_hash": "293bc714",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.1#p1-8845119b",
+     "text": "அதாவது, அதன் விதிமுறைகள், அல்லது நிபந்தனைகள்.",
+     "anchor": "உடன்படிக்கையை"
+    },
+    {
+     "id": "geneva/DEU.29.1#p2-addd5fde",
+     "text": "நியாயப்பிரமாணம் முதன்முதலாகக் கொடுக்கப்பட்டபோது, அது நாற்பது வருடங்களுக்கு முன்பாகும்.",
+     "anchor": "ஓரேபிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.3",
+   "source_hash": "b97c3c8b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.3#p1-b97c3c8b",
+     "text": "என்னுடைய வல்லமையின் நிரூபணங்கள்.",
+     "anchor": "பெரிய சோதனைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.4",
+   "source_hash": "e9c2bc5b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.4#p1-e9c2bc5b",
+     "text": "தேவனுடைய மறைபொருள்களை உணர்வது மேலிருந்து கொடுக்கப்படாவிட்டால் மனுஷனுடைய சக்திக்கு உட்பட்டதல்ல என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "உணரத்தக்க இருதயத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.6",
+   "source_hash": "d78fb4e7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.6#p1-d78fb4e7",
+     "text": "மனிதனுடைய கைவேலையினால் செய்யப்பட்டது; ஆனால் மன்னா, அது தூதனுடைய அப்பம் எனப்படுகிறது.",
+     "anchor": "அப்பம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.10",
+   "source_hash": "f70938f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.10#p1-f70938f6",
+     "text": "உங்கள் இருதயங்களை அறிந்திருக்கிறவர், ஆகையால் அவரிடத்தில் மறைக்கலாம் என்று எண்ணக்கூடாது.",
+     "anchor": "தேவனாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.12",
+   "source_hash": "8edafd08",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.12#p1-8edafd08",
+     "text": "தங்களுக்குள் உறுதியான உடன்படிக்கை செய்யும்போது, ஒரு மிருகத்தை இரண்டாகப் பிரித்து, பிரிக்கப்பட்ட பாகங்களின் நடுவே கடந்து செல்லும் பழக்கத்தைக் குறிக்கிறது, ஆதி. 15:10.",
+     "anchor": "யெகோவாவுடைய உடன்படிக்கையில் பிரவேசிக்கும்படிக்கு.circle,label:g,refs:[{\"text\":\"Ge 15:10\",\"ref\":\"GEN.15.10\"}]"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.15",
+   "source_hash": "55ee0cc4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.15#p1-55ee0cc4",
+     "text": "அதாவது, அவர்களுடைய சந்ததியினர்.",
+     "anchor": "நம்முடன் இல்லாதவர்களுடனும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.18",
+   "source_hash": "495f99e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.18#p1-495f99e8",
+     "text": "பாவம் இப்படியாக இருக்கும்படி, அதின் கசப்பான கனி உங்களைத் தொண்டையடைத்து அழிக்கத்தக்கதாக இருக்கும்.",
+     "anchor": "விஷத்தையும் கசப்பையும் முளைப்பிக்கிற எந்தவொரு வேர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.19",
+   "source_hash": "3c45d59b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.19#p1-3c45d59b",
+     "text": "தாகமாயிருக்கிறவன் அதிகமாகக் குடிக்க விரும்புவதைப்போல, தன் இச்சைகளின்படி நடக்கிறவனும் எல்லா வழிகளிலும் தேடியும் திருப்தியடையமாட்டான்.",
+     "anchor": "தாகத்தினாலே வெறிக்கக் குடித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.22",
+   "source_hash": "38238905",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.22#p1-38238905",
+     "text": "தேவனுக்கு விரோதமாகக் கலகம் செய்பவர்களின்மேல் வரும் தேவனுடைய வாதைகள் மிகக் கடுமையானவையாக இருப்பதால், எல்லாத் தலைமுறைகளும் அதைக் கண்டு பிரமிக்கும்.",
+     "anchor": "உங்களுக்குப்பின் வரும் தலைமுறையான உங்கள் பிள்ளைகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.29.29",
+   "source_hash": "3085fa64",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.29.29#p1-3085fa64",
+     "text": "தேவனுக்கு மாத்திரம் தெரிந்த காரியங்களைத் தேடுகிறவர்களின் மேலான ஆர்வத்தையும், தேவன் நியாயப்பிரமாணத்தில் தங்களுக்கு வெளிப்படுத்தினவற்றைக் கவனியாதவர்களின் அசட்டையையும் மோசே இதினாலே நிரூபிக்கிறார்.",
+     "anchor": "மறைவானவைகள் நம்முடைய தேவனாகிய யெகோவாவுக்கே உரியவைகள்"
+    }
+   ]
+  }
+ ]
+}

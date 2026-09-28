@@ -1,0 +1,235 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.1.2",
+   "source_hash": "25fac23a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.2#p1-25fac23a",
+     "text": "இது சபையின், அல்லது தான் நேசிக்கிற கிறிஸ்துவின்மேலுள்ள ஆசையால் அனலடைந்த உண்மையுள்ள ஆத்துமாவின் வாயிலிருந்து பேசப்படுகிறது.",
+     "anchor": "நீர் உமது வாயின் முத்தங்களால் என்னை முத்தமிடுவீராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.3",
+   "source_hash": "62a1808e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.3#p1-dff2a149",
+     "text": "உம்முடைய பெரிய உபகாரங்களின் உணர்வு.",
+     "anchor": "நறுமணமுள்ள தைலங்கள் இன்பமான வாசனையுள்ளவைகள்"
+    },
+    {
+     "id": "geneva/SNG.1.3#p2-4ff36577",
+     "text": "இருதயத்திலும் நடக்கையிலும் சுத்தமானவர்கள்.",
+     "anchor": "இளம்பெண்கள் உம்மை நேசிக்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.4",
+   "source_hash": "93ce1fee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.4#p1-18330fa4",
+     "text": "கிறிஸ்துவினால் இழுக்கப்படாவிட்டால் தம்மிடம் வரமுடியாது என்பதை உண்மையுள்ளவர்கள் அறிக்கையிடுகிறார்கள்.",
+     "anchor": "என்னை இழுத்துக்கொள்ளும்"
+    },
+    {
+     "id": "geneva/SNG.1.4#p2-5762eed9",
+     "text": "உலகத்திற்குத் தெரியாத அந்தரங்க சந்தோஷத்தைக் குறிக்கிறது.",
+     "anchor": "அறைகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.5",
+   "source_hash": "0d4cf5e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.5#p1-74ee5c80",
+     "text": "சபை தன் மாசுகளையும் பாவத்தையும் அறிக்கை செய்கிறாள், ஆனாலும் கிறிஸ்துவின் கிருபையில் நம்பிக்கை வைத்திருக்கிறாள்.",
+     "anchor": "கறுப்பாக இருந்தாலும்"
+    },
+    {
+     "id": "geneva/SNG.1.5#p2-d6efbfe5",
+     "text": "கேதார் இஸ்மவேலின் மகன், அவனிடத்திலிருந்து கூடாரங்களில் குடியிருந்த அரபியர்கள் வந்தார்கள்.",
+     "anchor": "கேதாரின்"
+    },
+    {
+     "id": "geneva/SNG.1.5#p3-9f56ff9f",
+     "text": "அவைகள் உட்புறத்தில் விலையுயர்ந்த கற்களும் ரத்தினங்களும் அழகுசெய்யப்பட்டிருந்தன.",
+     "anchor": "சாலொமோனின் திரைகளைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.6",
+   "source_hash": "cdb7eef1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.6#p1-67c1a2d7",
+     "text": "சபையை வெளித்தோற்றத்தைக் கொண்டு எண்ணாதிருங்கள்.",
+     "anchor": "கறுப்பாக"
+    },
+    {
+     "id": "geneva/SNG.1.6#p2-02e5a702",
+     "text": "பாவத்தினாலும் உபத்திரவங்களினாலும் இயல்பின் சீர்கேடு.",
+     "anchor": "வெயில் என்மேல் பட்டது"
+    },
+    {
+     "id": "geneva/SNG.1.6#p3-d321abea",
+     "text": "என்னை அதிகமாக நேசிக்கவேண்டிய என் சொந்த சகோதரர்கள்.",
+     "anchor": "என் சகோதரர்கள் என்மேல் கோபமாயிருந்து"
+    },
+    {
+     "id": "geneva/SNG.1.6#p4-a5da4c3a",
+     "text": "அவள் தன் சொந்த அசதியை அறிக்கைசெய்கிறாள்.",
+     "anchor": "காக்கவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.7",
+   "source_hash": "58d14bd8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.7#p1-22583dca",
+     "text": "தன் குற்றத்தை உணர்ந்த மணவாட்டி ஆறுதலுக்காக தன் கணவனிடத்தில் மட்டும் ஓடிச் செல்கிறாள்.",
+     "anchor": "என் ஆத்தும நேசரே"
+    },
+    {
+     "id": "geneva/SNG.1.7#p2-d3a63cfc",
+     "text": "நீர் மேய்ப்பர்களின் பதவிக்கு அழைத்தவர்கள், அவர்களோ உமது உபதேசத்திற்குப் பதிலாக தங்கள் சொந்தக் கனவுகளை முன்வைக்கிறார்கள்.",
+     "anchor": "உமது தோழர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.8",
+   "source_hash": "20486dae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.8#p1-20486dae",
+     "text": "கிறிஸ்து தம்முடைய சபையுடன் பேசி, அறியாதவர்கள் கற்றுக்கொள்ளும்படி மேய்ப்பர்களிடத்தில் போகவேண்டும் என்று கட்டளையிடுகிறார்.",
+     "anchor": "நீ அறியவில்லையென்றால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.9",
+   "source_hash": "08dec01b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.9#p1-08dec01b",
+     "text": "உன் ஆவிக்குரிய அழகும் மேன்மையும் இவ்வுலகத்தின் எந்தப் பொக்கிஷத்தோடும் ஒப்பிடத்தகாதவை.",
+     "anchor": "இரதங்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.12",
+   "source_hash": "edba1ba1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.12#p1-edba1ba1",
+     "text": "கிறிஸ்துவின் நேசராகிய தன்னுடன் இருக்கும்படி தான் ஏற்றுக்கொள்ளப்பட்டதைக் குறித்துச் சபை மகிழ்ச்சியடைகிறாள்.",
+     "anchor": "ராஜா தமது பந்தியிலிருக்கும்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.13",
+   "source_hash": "4a183b57",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.13#p1-4a183b57",
+     "text": "அவர் எனக்கு மிகவும் பிரியமானவராயிருப்பார்.",
+     "anchor": "மார்பகங்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.1.16",
+   "source_hash": "6941eb15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.1.16#p1-6941eb15",
+     "text": "அதாவது, உண்மையுள்ளவர்களின் இருதயம், அதில் கிறிஸ்து தம்முடைய ஆவியானவராலே வாசம் செய்கிறார்.",
+     "anchor": "படுக்கை பசுமையானது"
+    }
+   ]
+  }
+ ]
+}

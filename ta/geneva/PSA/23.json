@@ -20,6 +20,84 @@
      "anchor": "நான் தாழ்ச்சி அடையமாட்டேன்"
     }
    ]
+  },
+  {
+   "id": "geneva/PSA.23.3",
+   "source_hash": "a4528d63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.3#p1-be45d1a5",
+     "text": "அவர் என்னைத் தேற்றி புத்துணர்ச்சி அளிக்கிறார்.",
+     "anchor": "என் ஆத்துமாவைத் தேற்றி"
+    },
+    {
+     "id": "geneva/PSA.23.3#p2-673b629a",
+     "text": "செம்மையான அல்லது நேரான வழிகள்.",
+     "anchor": "நீதியின் பாதைகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.4",
+   "source_hash": "c0e95700",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.4#p1-c0e95700",
+     "text": "இடையனில்லாமல் இருளான பள்ளத்தாக்கில் அலைந்து திரியும் ஆடு போல, அவன் மரண ஆபத்திலிருந்தான்.",
+     "anchor": "மரண இருள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.5",
+   "source_hash": "dac46ea0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.5#p1-6e95e3c2",
+     "text": "அவருடைய எதிரிகள் அவரை அழிக்கத் தேடினாலும், தேவன் அவரை விடுவித்து, அவர்களுக்கு எதிராகவே அவருக்கு மிகவும் தாராளமாக நடந்துகொள்ளுகிறார்.",
+     "anchor": "என்னுடைய எதிரிகளுக்கு முன்பாக நீர் எனக்கு ஒரு பந்தியை ஆயத்தப்படுத்தி"
+    },
+    {
+     "id": "geneva/PSA.23.5#p2-91aca612",
+     "text": "பெரிய பண்டிகைகளின் முறைமையாக இருந்தது.",
+     "anchor": "என்னுடைய தலையை எண்ணெயால் அபிஷேகம்செய்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.23.6",
+   "source_hash": "5552ba63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.23.6#p1-5552ba63",
+     "text": "அவன் தன் சந்தோஷத்தை இந்த உலகத்தின் சுகபோகங்களில் அல்ல, தேவனுக்குப் பயந்து அவரைச் சேவிப்பதிலே வைக்கிறான்.",
+     "anchor": "யெகோவாவுடைய வீட்டிலே நீடித்த நாட்களாக நிலைத்திருப்பேன்"
+    }
+   ]
   }
  ]
 }

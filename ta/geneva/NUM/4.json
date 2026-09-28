@@ -1,0 +1,353 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.4.3",
+   "source_hash": "8d5dff49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.3#p1-8d5dff49",
+     "text": "லேவியர்கள் மூன்று தடவைகளில் கணக்கெடுக்கப்பட்டார்கள்: முதலாவது ஒரு மாத வயதிலே, அவர்கள் கர்த்தருக்குப் பரிசுத்தப்படுத்தப்பட்டபோது; இரண்டாவது இருபத்தைந்து வயதிலே, ஆசரிப்புக்கூடாரத்தில் ஊழியம் செய்யும்படி நியமிக்கப்பட்டபோது; மூன்றாவது முப்பது வயதிலே, ஆசரிப்புக்கூடாரத்தின் பாரங்களைச் சுமக்கும்படி.",
+     "anchor": "முப்பது வயது முதல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.5",
+   "source_hash": "35e854f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.5#p1-35e854f1",
+     "text": "இது பரிசுத்த ஸ்தலத்தை மகா பரிசுத்த ஸ்தலத்திலிருந்து பிரித்தது.",
+     "anchor": "மறைவின் திரைச்சீலையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.6",
+   "source_hash": "89b984a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.6#p1-89b984a5",
+     "text": "அதாவது, அதைச் சுமப்பதற்காக அவைகளைத் தங்கள் தோள்களின்மேல் வைத்தார்கள்: ஏனெனில் பெட்டியின் தண்டுகள் ஒருபோதும் நீக்கப்படக்கூடாதவை.",
+     "anchor": "அதின் தண்டுகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.7",
+   "source_hash": "d9b3ae2a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.7#p1-d9b3ae2a",
+     "text": "அதாவது, அப்பத்தை மூடுவதற்காக என்று அர்த்தம்.",
+     "anchor": "மூடுகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.10",
+   "source_hash": "94fb9a51",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.10#p1-94fb9a51",
+     "text": "எபிரெய வார்த்தை இரண்டு கழிகள் அல்லது கம்புகளால் செய்யப்பட்ட ஒரு கருவியைக் குறிக்கிறது.",
+     "anchor": "தண்டிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.11",
+   "source_hash": "e34aaabe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.11#p1-e34aaabe",
+     "text": "இது தூபங்காட்டுவதற்கானது; யாத்திராகமம் 30:1-ஐ வாசிக்கவும்.",
+     "anchor": "பொற்பீடத்தின்மேல் இளநீலத் துப்பட்டியை விரித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.13",
+   "source_hash": "c1a24f84",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.13#p1-c1a24f84",
+     "text": "சர்வாங்க தகன காணிக்கையினுடையது.",
+     "anchor": "பலிபீடத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.15",
+   "source_hash": "90ceaf48",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.15#p1-b0c96984",
+     "text": "அதாவது, பெட்டி முதலிய பரிசுத்த ஸ்தலத்தின் பொருட்களை மூடிக் கட்டுவதில்.",
+     "anchor": "பரிசுத்த ஸ்தலத்தையும்"
+    },
+    {
+     "id": "geneva/NUM.4.15#p2-48fda4bd",
+     "text": "அது மூடப்படுவதற்கு முன்பு.",
+     "anchor": "பரிசுத்தமானதைத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.16",
+   "source_hash": "3c77ba89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.16#p1-3c77ba89",
+     "text": "இது காலையிலும் மாலையிலும் செலுத்தப்பட்டது.",
+     "anchor": "தினந்தோறும் இடும் போஜனபலியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.18",
+   "source_hash": "5661d84b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.18#p1-5661d84b",
+     "text": "நீங்கள் அசதியினால் பரிசுத்தமான பொருள்கள் நன்றாக மூடப்படாமல் விடுவதினால், அவைகளைத் தொடுவதால் அவர்கள் அழிந்துபோகும்படி செய்யாதிருங்கள்.",
+     "anchor": "அழிந்துபோகாதபடி பாருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.19",
+   "source_hash": "4cce8490",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.19#p1-4cce8490",
+     "text": "ஒவ்வொருவனும் செய்யவேண்டிய பணி இன்னதென்று காண்பிக்கிறது.",
+     "anchor": "நீங்கள் அவர்களுக்காகச் செய்யவேண்டியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.23",
+   "source_hash": "71de8064",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.23#p1-71de8064",
+     "text": "ஆசரிப்புக்கூடாரத்தில் ஊழியம் செய்பவர்களின் சபையில் ஏற்றுக்கொள்ளப்பட்டவர்கள்.",
+     "anchor": "தொகை ஏற்றுவாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.25",
+   "source_hash": "36e610f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.25#p1-36e610f2",
+     "text": "இது பரிசுத்த ஸ்தலத்திற்கும் பிராகாரத்திற்கும் நடுவே தொங்கியது.",
+     "anchor": "ஆசரிப்புக்கூடாரத்தின் வாசல் மறைவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.26",
+   "source_hash": "a35a6fc6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.26#p1-a35a6fc6",
+     "text": "அது சபையின் ஆசரிப்புக்கூடாரத்தையும் தகன காணிக்கைக்குரிய பலிபீடத்தையும் சுற்றிலும் வளைத்திருந்தது.",
+     "anchor": "வாசஸ்தலத்தின் அருகிலும் பலிபீடத்தண்டையிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.28",
+   "source_hash": "fba59686",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.28#p1-fba59686",
+     "text": "விசாரணையும் மேற்பார்வையும் செய்கிற பொறுப்பின்கீழ்.",
+     "anchor": "விசாரணை, ஆசாரியனாகிய ஆரோனின் மகன் இத்தாமாருடைய கைக்குள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.32",
+   "source_hash": "ccdf80fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.32#p1-ccdf80fe",
+     "text": "நீங்கள் அவர்களுடைய பொறுப்பில் ஒப்புவிக்கும் எல்லாப் பொருள்களையும் பேர்பேராகக் கணக்கெடுக்கவேண்டும்.",
+     "anchor": "பேர்பேராக எண்ணவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.37",
+   "source_hash": "054b5121",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.37#p1-054b5121",
+     "text": "தேவன் மோசேயை இதற்கான ஊழியக்காரனாகவும் அதைச் செய்முறையில் நடத்துகிறவனாகவும் நியமித்தார்.",
+     "anchor": "மோசேயினாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.41",
+   "source_hash": "6a8c40d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.41#p1-6a8c40d9",
+     "text": "அதாவது, அதில் வேலைசெய்யத் தகுந்த வயதுள்ளவர்கள், அதாவது 30 முதல் 50 வயதுவரையுள்ளவர்கள்.",
+     "anchor": "ஆசரிப்புக் கூடாரத்தில் வேலைசெய்ய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.47",
+   "source_hash": "f88fc247",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.47#p1-f88fc247",
+     "text": "ஆசரிப்புக்கூடாரத்தில் ஏதாவது பொறுப்பு வகித்த லேவியர் அனைவரும்.",
+     "anchor": "ஊழியத்தின் பணிவிடையைச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.4.49",
+   "source_hash": "6fdd7884",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.4.49#p1-6fdd7884",
+     "text": "இவ்விதமாக, கர்த்தர் தனக்குக் கட்டளையிட்டதிலிருந்து மோசே ஒன்றையும் கூட்டவும் இல்லை, குறைக்கவும் இல்லை.",
+     "anchor": "மோசேயினால்"
+    }
+   ]
+  }
+ ]
+}

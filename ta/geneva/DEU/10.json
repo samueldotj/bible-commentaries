@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.10.3",
+   "source_hash": "31cdfd54",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.3#p1-31cdfd54",
+     "text": "இது நீடித்து நிலைத்திருக்கும் ஒரு மரவகை.",
+     "anchor": "சீத்திம் மரத்தினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.4",
+   "source_hash": "aeec1083",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.4#p1-aeec1083",
+     "text": "நீங்கள் நியாயப்பிரமாணத்தைப் பெற்றுக்கொள்ளும்படி கூடிவந்த காலம்.",
+     "anchor": "சபைகூடிவந்த நாளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.6",
+   "source_hash": "9c49dc71",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.6#p1-9c49dc71",
+     "text": "இந்த மலை ஓர் என்றும் அழைக்கப்பட்டது, எண்ணாகமம் 20:28.",
+     "anchor": "மோசெரா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.8",
+   "source_hash": "f9180761",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.8#p1-f9180761",
+     "text": "அதாவது, பலியிட்டு, மக்களுக்கு நியாயப்பிரமாணத்தை அறிவிப்பதற்கு.",
+     "anchor": "அவருக்கு ஆராதனை செய்வதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.9",
+   "source_hash": "d00955b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.9#p1-d00955b4",
+     "text": "இவ்விதமாகத் தேவன் யாக்கோபின் சாபத்தை ஆசீர்வாதமாக மாற்றினார் ஆதி.49:7.",
+     "anchor": "அவன் சகோதரர்களுடன் பங்கும் சொத்தும் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.12",
+   "source_hash": "a33a8cf4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.12#p1-a33a8cf4",
+     "text": "நம்முடைய எல்லாப் பாவங்களுக்கும் மீறுதல்களுக்கும் தேவன் நம்மிடத்தில் கேட்பதெல்லாம், நாம் அவரிடத்திற்குத் திரும்பி அவருக்குக் கீழ்ப்படிவதே.",
+     "anchor": "உன்னிடத்தில் கேட்பது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.15",
+   "source_hash": "f8d0c07d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.15#p1-f8d0c07d",
+     "text": "அவர் பரலோகத்திற்கும் பூமிக்கும் ஆண்டவராக இருந்தபோதிலும், அவர் உங்களைத் தவிர வேறொருவரையும் தெரிந்துகொள்ளவில்லை.",
+     "anchor": "யெகோவா...அவர்களிடத்தில் பிரியம் வைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.16",
+   "source_hash": "86947ef9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.16#p1-86947ef9",
+     "text": "உங்களுடைய பொல்லாத ஆசைகளையெல்லாம் அறுத்துப்போடுங்கள், எரேமியா 4:4.",
+     "anchor": "உங்கள் இருதயத்தை சுத்தம் செய்யுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.10.20",
+   "source_hash": "9bbe25a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.10.20#p1-9bbe25a5",
+     "text": "உபாகமம் 6:13-ஐ பார்க்கவும்.",
+     "anchor": "அவருடைய நாமத்தைக்கொண்டு ஆணையிடுவாயாக"
+    }
+   ]
+  }
+ ]
+}

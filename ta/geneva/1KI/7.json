@@ -1,0 +1,358 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.7.1",
+   "source_hash": "16eaed33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.1#p1-16eaed33",
+     "text": "அவன் ஆலயத்தைக் கட்டி முடித்தபின்பு.",
+     "anchor": "கட்டிமுடிக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.2",
+   "source_hash": "dffc0a46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.2#p1-dffc0a46",
+     "text": "அந்த இடத்தின் அழகும், அதைக் கட்டுவதற்குப் பயன்படுத்தப்பட்ட கேதுரு மரங்களின் மிகுதியும் நிமித்தமாக, அது லீபனோன் மலைக்கு ஒப்பிடப்பட்டது.",
+     "anchor": "லீபனோன் வனம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.4",
+   "source_hash": "8fdfdaae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.4#p1-8fdfdaae",
+     "text": "ஒரு பக்கத்திலும் மற்ற பக்கத்திலும் அதே எண்ணிக்கையும் அதே அளவும் இருந்தது, ஒவ்வொரு முடிவிலும் மூன்று வரிசைகள் ஒன்றின் மேல் ஒன்றாக இருந்தது.",
+     "anchor": "மூன்று வரிசையிலும் ஜன்னல்கள், ஒன்றுக்கொன்று எதிராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.6",
+   "source_hash": "01e0c410",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.6#p1-01e0c410",
+     "text": "மாளிகையின் தூண்களுக்கு முன்பாக.",
+     "anchor": "மாளிகையின் தூண்களுக்கும் உத்திரங்களுக்கும் எதிராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.7",
+   "source_hash": "9ab23a95",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.7#p1-9ab23a95",
+     "text": "தான் இருந்த எருசலேமிலுள்ள அவனுடைய வீட்டிற்காக.",
+     "anchor": "தான் இருந்து நியாயம் தீர்ப்பதற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.9",
+   "source_hash": "b1328253",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.9#p1-b1328253",
+     "text": "இவை உத்திரங்கள் தங்கியிருப்பதற்கான ஆதாரங்களும் தாங்குதலுமாக இருந்தன.",
+     "anchor": "மேல் கூரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.11",
+   "source_hash": "a79eb453",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.11#p1-a79eb453",
+     "text": "அஸ்திபாரத்திலிருந்து மேலாக.",
+     "anchor": "அதின்மேல் உயரமாக இருக்கும் அளவின்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.12",
+   "source_hash": "3d9ed420",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.12#p1-3d9ed420",
+     "text": "கர்த்தருடைய ஆலயம் கட்டப்பட்டதுபோலவே இதும் கட்டப்பட்டது, ஆயினும் சாலொமோனின் மாளிகையின் பெரிய முற்றம் மூடப்படாமல் இருந்தது.",
+     "anchor": "உட்பிராகாரத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.14",
+   "source_hash": "55d404a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.14#p1-55d404a2",
+     "text": "இவ்விதமாக தேவன் தம்முடைய மகிமையை வெளிப்படுத்த விரும்புகிறபோது, அவர் மனிதரை எழுப்பி, அதைச் செய்துமுடிப்பதற்கு அவர்களுக்கு உன்னதமான வரங்களைக் கொடுக்கிறார், யாத்திராகமம் 31:2,3.",
+     "anchor": "யுக்தியும், புத்தியும், அறிவும் உள்ளவனாக இருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.19",
+   "source_hash": "d2f881ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.19#p1-d2f881ef",
+     "text": "விலையுள்ள மண்டபங்களில் பொதுவாகச் செய்யப்பட்டிருந்தது போலவே இதுவும் இருந்தது.",
+     "anchor": "லீலிபுஷ்பங்களின் வேலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.21",
+   "source_hash": "30d82e80",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.21#p1-388c2949",
+     "text": "இது ஆலயத்திற்கும் மகா பரிசுத்த ஸ்தலத்திற்கும் இடையிலுள்ள உள்முற்றத்தில் இருந்தது.",
+     "anchor": "தேவாலய வாசல் மண்டபத்தில்"
+    },
+    {
+     "id": "geneva/1KI.7.21#p2-09e7889d",
+     "text": "அதாவது, அவர் நிலைநிறுத்துவார் என்று பொருள்படும்; அதாவது இந்த ஆலயத்தைக் குறித்த அவருடைய வாக்குத்தத்தம்.",
+     "anchor": "யாகீன்"
+    },
+    {
+     "id": "geneva/1KI.7.21#p3-3edea520",
+     "text": "அதாவது, பெலனில் என்று பொருள்படும்; அதன் வல்லமை நிலைத்திருக்கும் என்பதைக் குறிக்கிறது.",
+     "anchor": "போவாஸ்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.23",
+   "source_hash": "87c4c471",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.23#p1-87c4c471",
+     "text": "அந்த பாத்திரத்தின் அளவின் பெருமையினிமித்தம் அப்படி அழைக்கப்பட்டது.",
+     "anchor": "கடல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.26",
+   "source_hash": "3dc17127",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.26#p1-3dc17127",
+     "text": "பாத்தும் மரக்காலும் ஒரே அளவைக் குறிப்பதாகத் தோன்றுகிறது, எசேக்கியேல் 45:11; ஒரு பாத் ஏறக்குறைய 5 கலன்கள் அளவுள்ளது.",
+     "anchor": "குடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.31",
+   "source_hash": "3c72d763",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.31#p1-3c72d763",
+     "text": "பெரிய ஆதாரத்தின் அல்லது சட்டத்தின் வாய் தலைப்பிற்குள், அதாவது தொட்டியைத் தூக்கிக்கொண்டிருந்த தூணின் தலைப்பிற்குள் நுழைந்திருந்தது.",
+     "anchor": "அதின் வாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.35",
+   "source_hash": "4907af0d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.35#p1-4907af0d",
+     "text": "இது தூண், தலைப்பு அல்லது சிறிய பாதம் என்று அழைக்கப்பட்டது, அதில் கொப்பரை நின்றது.",
+     "anchor": "3/4 அடி உயரமான வட்டவடிவ கட்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.38",
+   "source_hash": "8a9248f3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.38#p1-8a9248f3",
+     "text": "பலிகளுக்குப் பயன்படும் தண்ணீரை வைத்திருப்பதற்காக.",
+     "anchor": "10 வெண்கலக் கொப்பரைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.39",
+   "source_hash": "d6a779d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.39#p1-d6a779d1",
+     "text": "அதாவது, ஆலயத்தின் அல்லது பரிசுத்த ஸ்தலத்தின்.",
+     "anchor": "கிழக்கில் ஆலயத்தின் வலதுபுறத்திலே தெற்குநோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.45",
+   "source_hash": "9b2e8493",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.45#p1-9b2e8493",
+     "text": "தீருவின் ராஜாவாகிய ஈராமும் இந்தப் பெயரால் அழைக்கப்பட்டான்.",
+     "anchor": "ராஜாவாகிய சாலொமோனுக்கு ஈராம் செய்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.48",
+   "source_hash": "6556d5f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.48#p1-6556d5f6",
+     "text": "இது கர்த்தர் மோசேயிடம் யாத்திராகமத்தில் கட்டளையாகக் கொடுத்த முறையின்படியே செய்யப்பட்டது.",
+     "anchor": "பொன் பலிபீடத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.7.50",
+   "source_hash": "a723a6d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.7.50#p1-a723a6d5",
+     "text": "சிலர் இதை ஒரு விதமான இசைக்கருவியாகக் கருதுகின்றனர்.",
+     "anchor": "வெட்டுக்கத்திகளையும்"
+    }
+   ]
+  }
+ ]
+}

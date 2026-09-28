@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 23,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.23.3",
+   "source_hash": "612d7aa0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.3#p1-612d7aa0",
+     "text": "உங்களுடைய கண்களே சாட்சி பகருகின்றன.",
+     "anchor": "நீங்கள் பார்த்தீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.5",
+   "source_hash": "3b0cf0b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.5#p1-3b0cf0b3",
+     "text": "இன்னும் மீதியாக இருந்து ஜெயிக்கப்படாதவர்கள், யோசுவா 13:2-ல் இருப்பதுபோல.",
+     "anchor": "அவர்களை உங்களுக்கு முன்பாகத் துரத்தி, உங்களுடைய பார்வையிலிருந்து அகற்றிப்போடுவார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.7",
+   "source_hash": "0560eae6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.7#p1-fa9999f2",
+     "text": "இன்னும் அடக்கப்படாதவை.",
+     "anchor": "மீதியாக இருக்கிற"
+    },
+    {
+     "id": "geneva/JOS.23.7#p2-edc64fa9",
+     "text": "யாராவது தங்கள் விக்கிரகங்களைக்கொண்டு செய்யும் சத்தியத்தை நியாயாதிபதிகள் ஏற்றுக்கொள்ளக்கூடாது.",
+     "anchor": "அவைகளைக்கொண்டு சத்தியம்செய்யாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.13",
+   "source_hash": "bdfa30fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.13#p1-bdfa30fe",
+     "text": "அர்த்தம், அவைகள் உங்களுக்கு நிலையான வேதனையாக இருந்து, அதனால் உங்களுடைய அழிவுக்குக் காரணமாக இருக்கும்.",
+     "anchor": "கண்களுக்கு முட்களாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.14",
+   "source_hash": "430c8eae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.14#p1-ff259737",
+     "text": "நான் இயற்கையின் போக்கின்படி மரிக்கிறேன்.",
+     "anchor": "போகிற வழியிலே போகிறேன்"
+    },
+    {
+     "id": "geneva/JOS.23.14#p2-6df903c7",
+     "text": "மிகவும் நிச்சயமாக.",
+     "anchor": "முழு இருதயத்தாலும், முழு ஆத்துமாவாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.23.16",
+   "source_hash": "fc9c9cba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.23.16#p1-fc9c9cba",
+     "text": "மனிதன் தேவனுக்கு விரோதமாக மீறுதலினால் குற்றம் செய்யாவிட்டால், அவனுக்கு எந்த தீமையும் வராது என்பதை அவன் இதனால் காண்பிக்கிறான்.",
+     "anchor": "யெகோவாவுடைய உடன்படிக்கையை மீறினதினால்"
+    }
+   ]
+  }
+ ]
+}

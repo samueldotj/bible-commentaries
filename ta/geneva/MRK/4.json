@@ -1,0 +1,278 @@
+{
+ "source": "geneva",
+ "book": "MRK",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/MRK.4.1",
+   "source_hash": "29cc96e7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.1#p1-0c44a203",
+     "text": "திபேரியாவின் கடற்கரை.",
+     "anchor": "கடலோரத்திலே"
+    },
+    {
+     "id": "geneva/MRK.4.1#p2-387b0075",
+     "text": "கடலிலே தள்ளிவிடப்பட்டிருந்த ஒரு படகு.",
+     "anchor": "கடலிலே நின்ற ஒரு படகில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.3",
+   "source_hash": "fcd239e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.3#p1-fcd239e6",
+     "text": "நற்செய்தியின் ஒரே உபதேசம் எங்கும் விதைக்கப்படுகிறது, ஆனாலும் அது எங்கும் ஒரே பலனைத் தராது; இது மனிதனுடைய குற்றத்தினாலேயே ஏற்படுகிறது, ஆயினும் தேவனுடைய நீதியான நியாயத்தீர்ப்பினாலும் ஏற்படுகிறது.",
+     "anchor": "கேளுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.10",
+   "source_hash": "9863183a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.10#p1-c424424f",
+     "text": "மூல வார்த்தையின்படி, \"தனிமையாக\".",
+     "anchor": "தனிமையாக இருக்கிறபோது"
+    },
+    {
+     "id": "geneva/MRK.4.10#p2-1f53377e",
+     "text": "அவரைப் பின்தொடர்ந்து அவருடன் இருந்தவர்கள்.",
+     "anchor": "அவருக்கு நெருக்கமாக இருந்தவர்களும்... கேட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.11",
+   "source_hash": "be4960e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.11#p1-be4960e4",
+     "text": "அதாவது, அந்நியர்கள், நமக்குச் சொந்தமில்லாதவர்கள்.",
+     "anchor": "வெளியே இருக்கிறவர்களுக்கோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.19",
+   "source_hash": "7d01c90d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.19#p1-7d01c90d",
+     "text": "இந்த வாழ்க்கைக்குச் சொந்தமானவை.",
+     "anchor": "இப்பிரபஞ்சத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.21",
+   "source_hash": "08d3e7d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.21#p1-08d3e7d6",
+     "text": "நற்செய்தியாகிய வெளிச்சம் உலகத்தினால் புறக்கணிக்கப்பட்டாலும், அது ஏற்றப்படவேண்டியதே; வேறொரு காரணமும் இல்லையென்றாலும், உலகத்தின் துன்மார்க்கம் வெளிப்படும்படியாகவே அது ஏற்றப்படவேண்டும்.",
+     "anchor": "பின்னும் அவர் அவர்களைப் பார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.24",
+   "source_hash": "4f79ed7b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.24#p1-4f79ed7b",
+     "text": "தேவன் நமக்குக் கொடுத்திருக்கிற இவ்விதமான வரங்களை நம் சகோதரரோடு நாம் எவ்வளவு தாராளமாகப் பகிர்ந்துகொள்கிறோமோ, அவ்வளவு அதிகமாகத் தேவன் நம்மிடத்தில் தாராள குணமுள்ளவராக இருப்பார்.",
+     "anchor": "பின்னும் அவர் அவர்களைப் பார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.26",
+   "source_hash": "5c90c88a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.26#p1-5c90c88a",
+     "text": "கர்த்தர் மனிதர்களுக்கு அறியப்படாத விதத்தில் விதைத்து அறுவடை செய்கிறார்.",
+     "anchor": "பின்னும் அவர் அவர்களைப் பார்த்து:"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.27",
+   "source_hash": "57053d13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.27#p1-ec68f761",
+     "text": "அதாவது, விதைப்பதை முடித்தபின், இரவும் பகலும் விதை முளைக்கும் என்பதில் ஐயப்படாமல் காத்திருக்க வேண்டும், அது இரவும் பகலும் வளர்கிறது.",
+     "anchor": "தூங்கி"
+    },
+    {
+     "id": "geneva/MRK.4.27#p2-3d7bd0d3",
+     "text": "ஊழியக்காரருடைய கடமை என்னவென்றால், மிகுந்த ஜாக்கிரதையுடன் நிலத்தில் பாடுபடுவதும், அதன் பலனை தேவனுக்கே ஒப்புவிப்பதும் ஆகும்: ஏனெனில் விதை முளைத்து இலையாகி கத்தரியாகும் வல்லமையான செயல் மறைபொருளாக இருக்கிறது, அது வெறுமனே கிடைக்கும் பலனினால் மட்டுமே அறியப்படுகிறது.",
+     "anchor": "அவனுக்குத் தெரியாமலேயே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.28",
+   "source_hash": "5ceca6dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.28#p1-5ceca6dc",
+     "text": "தானாகவே இயங்கும் ஒரு குறிப்பிட்ட வல்லமையினால்.",
+     "anchor": "தானாகக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.30",
+   "source_hash": "5cddd298",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.30#p1-5cddd298",
+     "text": "தேவன் மனிதர் ஒருபோதும் செய்யாத ஒரு முறையைக் கடைப்பிடிக்கிறார், அதாவது சிறியதிலிருந்து ஆரம்பித்து மிகப் பெரியதில் முடிவடையும் முறையை.",
+     "anchor": "பின்னும் அவர் அவர்களைப் பார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.33",
+   "source_hash": "671e6a11",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.33#p1-671e6a11",
+     "text": "கேட்பவர்களின் திறனுக்கேற்ப.",
+     "anchor": "கேட்டுப் புரிந்துகொள்வதற்கு ஏற்றபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.34",
+   "source_hash": "276efac9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.34#p1-276efac9",
+     "text": "மொழிப்படி, \"தளர்த்தினார்\", அதாவது, கடினமான புதிர்களை அவர்களுக்கு விளக்கிச் சொன்னார் என்று சொல்லலாம்.",
+     "anchor": "அவர்களுக்கு எல்லாவற்றையும் விளக்கிச்சொன்னார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.37",
+   "source_hash": "c299a191",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.37#p1-c299a191",
+     "text": "கிறிஸ்துவுடன் கடலில் பயணம் செய்கிறவர்கள், ஆபத்தில் இருக்கும்போது அவர் எவ்வளவு ஆழமாகத் தூங்குகிறவராகத் தோன்றினாலும், தக்க நேரத்தில் அவரால் எழுப்பப்பட்டு, அவராலே காக்கப்படுகிறார்கள்.",
+     "anchor": "பலத்த சுழல்காற்று உண்டாகி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.4.40",
+   "source_hash": "f9cc394a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.4.40#p1-f9cc394a",
+     "text": "உங்களுக்கு விசுவாசம் இல்லாமற்போனது எப்படி நடந்தது?",
+     "anchor": "ஏன் இப்படிப் பயப்பட்டீர்கள்"
+    }
+   ]
+  }
+ ]
+}

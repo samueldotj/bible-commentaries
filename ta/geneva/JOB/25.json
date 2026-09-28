@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 25,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.25.2",
+   "source_hash": "ffded4dd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.25.2#p1-ffded4dd",
+     "text": "தேவன் நீதிமான்களைச் சோதித்து துன்பப்படுத்தினாலும், சீக்கிரமே அவர்களுக்குச் செழிப்பை அனுப்புகிறார் என்பதை நிரூபிப்பதே அவனுடைய நோக்கம்; யோபுவுக்கு அப்படிச் செய்யாமல் இருந்ததால், அவன் யோபு துன்மார்க்கன் என்று முடிவு செய்கிறான்.",
+     "anchor": "அதிகாரமும் பயங்கரமும் அவரிடத்தில் இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.25.3",
+   "source_hash": "c2ac193d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.25.3#p1-c2ac193d",
+     "text": "அவருடைய சமுகத்திலிருந்து யார் மறைந்து கொள்ளக்கூடும்?",
+     "anchor": "யார்மேல் உதிக்காமலிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.25.4",
+   "source_hash": "7120246f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.25.4#p1-7120246f",
+     "text": "அதாவது, தேவனைப் பொருத்தமட்டில் நீதியுள்ளவனாயிருப்பது?",
+     "anchor": "தேவனுக்கு முன்பாக நீதிமானாயிருப்பது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.25.5",
+   "source_hash": "dc6117fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.25.5#p1-dc6117fa",
+     "text": "தேவன் தமது வல்லமையை வெளிப்படுத்தும்போது, சந்திரனும் நட்சத்திரங்களும் அவைகளுக்கு அளிக்கப்பட்ட பிரகாசத்தைக் கொண்டிருக்க முடியாது; அப்படியிருக்க, மனிதன் தேவனிடத்திலிருந்தேயன்றி வேறெதிலிருந்தும் ஒரு மேன்மையையும் பெற்றிருக்க முடியாது.",
+     "anchor": "நட்சத்திரங்களும் அவர் பார்வைக்குச் சுத்தமானவைகள் அல்ல"
+    }
+   ]
+  }
+ ]
+}

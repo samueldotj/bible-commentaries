@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EST.6.3",
+   "source_hash": "50932572",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.3#p1-50932572",
+     "text": "ஏனெனில் ஒரு உபகாரத்தைப் பெற்றுக்கொண்டு அதற்குப் பலனளிக்காமல் இருப்பது தன் பட்டத்திற்குத் தகுதியற்றதென்று அவன் நினைத்தான்.",
+     "anchor": "இதற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.4",
+   "source_hash": "10a20c3f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.4#p1-10a20c3f",
+     "text": "இவ்விதமாக, துன்மார்க்கர் மற்றவர்களுடைய அழிவை நினைத்து ஏற்பாடு செய்யும்போது, அவர்களே அந்தக் குழியிலே தாமே விழுகிறார்கள்.",
+     "anchor": "தூக்குமரத்திலே மொர்தெகாயைத் தூக்கிப்போடவேண்டுமென்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.8",
+   "source_hash": "b305828c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.8#p1-b305828c",
+     "text": "இதன் மூலம், யோசேப்பு ஆதியாகமம் 41:43-ல் பார்வோனுக்கு அடுத்தவனாக அறியப்பட்டது போல, ராஜா அவனை தனக்கு அடுத்தவனாக்க வேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "ராஜா ஏறுகிற குதிரையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.6.13",
+   "source_hash": "09aeccfe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.6.13#p1-09aeccfe",
+     "text": "இவ்வாறு தேவன் சிலசமயங்களில், தான் நிச்சயித்திருக்கிற காரியம் நடக்கும்படி, மகா துன்மார்க்கருடைய வாயிலும் அதைச் சொல்லும்படி வைக்கிறார்.",
+     "anchor": "நீர் அவனை மேற்கொள்ளாமல் அவனுக்கு முன்பாகத் தாழ்ந்துபோவது நிச்சயம்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.6.2",
+   "source_hash": "680a249d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.2#p1-680a249d",
+     "text": "அன்பின் விதிப்படி ஒருவருக்காக ஒருவர் பொறுப்பாளியாக இருக்கக்கூடாது என்று அவர் தடை செய்யவில்லை, ஆனால் யாருக்காகவும் எவ்வாறு பொறுப்பாளியாக இருக்கிறோம் என்பதைக் கவனிக்க வேண்டும் என்று சொல்கிறார், கடன் கொடுத்தவன் ஏமாற்றப்படாதபடிக்கு.",
+     "anchor": "வாயின் வார்த்தைகளால் பிடிபட்டாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.6",
+   "source_hash": "ede58a63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.6#p1-ede58a63",
+     "text": "தேவனுடைய வசனத்தினால் உனக்குப் புத்தி வராவிட்டால், அற்பமான எறும்பினிடத்திலிருந்து நீ உனக்காகவே பிரயாசப்பட்டு, மற்றவர்களுக்குப் பாரமாயிராமல் இருக்கக் கற்றுக்கொள்.",
+     "anchor": "எறும்பினிடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.10",
+   "source_hash": "7356a023",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.10#p1-7356a023",
+     "text": "அவன் சோம்பேறிகளின் இயல்பை விவரிக்கிறான், அவர்கள் நீண்ட நேரம் தூங்கினாலும் ஒருபோதும் திருப்தியடையாமல், மேலும் அதிக தூக்கத்திற்கான வாய்ப்பை எப்போதும் தேடிக்கொண்டே இருக்கிறார்கள்.",
+     "anchor": "கைமுடக்கிக்கொண்டு தூங்கட்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.11",
+   "source_hash": "6e84122c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.11#p1-0330af12",
+     "text": "அதாவது, திடீரென்று, நீ எதிர்பாராதபோது.",
+     "anchor": "வழிப்போக்கனைப் போலவும்"
+    },
+    {
+     "id": "geneva/PRO.6.11#p2-8d026d97",
+     "text": "அது நீ எதிர்க்கமுடியாத விதத்தில் வரும்.",
+     "anchor": "ஆயுதம் அணிந்தவனைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.12",
+   "source_hash": "ad9fbdcd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.12#p1-ad9fbdcd",
+     "text": "சோம்பேறிகளும் அசதியுள்ளவர்களும் எத்தகைய கேட்டிற்கு வந்து சேருகிறார்கள் என்பதை, அவர்களை வீணான மனிதர் என்றும், பேலியாளின் மனுஷர் என்றும், அவதூறு பேசுகிறவர் என்றும் அழைப்பதன் மூலம் காண்பிக்கிறார்.",
+     "anchor": "வீணான மனிதனாகிய ஒரு துன்மார்க்கன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.13",
+   "source_hash": "64ea4b56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.13#p1-64ea4b56",
+     "text": "இவ்வாறு அவனுடைய சைகைகள் அனைத்தும் துன்மார்க்கத்தை நோக்கியே இருக்கின்றன,",
+     "anchor": "தன்னுடைய விரல்களால் போதனை செய்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.18",
+   "source_hash": "438adf47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.18#p1-438adf47",
+     "text": "அதாவது, மனிதனை அப்படி இழுத்துச் செல்லும் வெறிகொண்ட ஆசைகள், அவன் தான் என்ன செய்கிறானென்று அறியாதபடி செய்கின்றன.",
+     "anchor": "தீங்கு செய்வதற்கு விரைந்து ஓடும் கால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.21",
+   "source_hash": "5340e1ec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.21#p1-5340e1ec",
+     "text": "நீதி. 3:3.",
+     "anchor": "இருதயத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.23",
+   "source_hash": "304904cf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.23#p1-649cdcd0",
+     "text": "கற்பனை என்பதன் மூலம் அவர் தேவனுடைய வசனத்தைக் குறிக்கிறார்; போதகம் என்பதன் மூலம் அதே வசனத்தின் பிரசங்கத்தையும் அறிவிப்பையும் குறிக்கிறார், அது சபைக்கு ஒப்புவிக்கப்பட்டிருக்கிறது.",
+     "anchor": "கட்டளையே விளக்கு"
+    },
+    {
+     "id": "geneva/PRO.6.23#p2-a80ad651",
+     "text": "வசனம் பிரசங்கம் செய்யப்படும்போது வருகிற தண்டனைகள் நம்மை வாழ்வுக்கு நடத்துகின்றன.",
+     "anchor": "போதகதண்டனையே வாழ்வின் வழி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.25",
+   "source_hash": "3eacc95b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.25#p1-3eacc95b",
+     "text": "அவளுடைய காமவிகார பார்வைகளினாலும் அசைவுகளினாலும்.",
+     "anchor": "கண்ணின் இமைகளினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.27",
+   "source_hash": "fea47b26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.27#p1-fea47b26",
+     "text": "பொருள் என்னவென்றால், அவள் உன்னை இரவல் கேட்கும் நிலைக்குக் கொண்டுவரும் வரை ஒருபோதும் ஓயமாட்டாள், அதன்பின் உன் அழிவைத் தேடுவாள்.",
+     "anchor": "எவனாவது நெருப்பை வைத்துக்கொள்ளமுடியுமா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.30",
+   "source_hash": "3ae45877",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.30#p1-3263e6b9",
+     "text": "அவன் திருட்டைக் கண்டிக்கவில்லை, இது விபசாரத்தைப் போல அருவருப்பானதாக இல்லை என்பதைக் காண்பிக்கிறது; ஏனெனில் திருட்டைத் திருப்பிச் செலுத்தலாம், ஆனால் விபசாரம் நிலைத்ததாகவும், தேவனுடைய நியாயப்பிரமாணத்தின்படி மரணத்திற்குரியதாகவும் இருக்கிறது.",
+     "anchor": "அவனை இகழமாட்டார்கள்"
+    },
+    {
+     "id": "geneva/PRO.6.30#p2-d1adca6f",
+     "text": "அதாவது, அவசியத்தினிமித்தம்.",
+     "anchor": "தன்னுடைய பசியை ஆற்ற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.33",
+   "source_hash": "9b2199a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.33#p1-9b2199a6",
+     "text": "அதாவது, நியாயப்பிரமாணத்தினால் நியமிக்கப்பட்ட மரணம்.",
+     "anchor": "வாதையையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.6.34",
+   "source_hash": "017ec681",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.6.34#p1-017ec681",
+     "text": "தன் மனைவியைக் கெடுத்தவனுடைய மரணத்தை மனுஷன் இயற்கையாகவே தேடுகிறான் என்பதைக் காண்பிக்கிறார்; ஆகவே தேவனுடைய நியாயப்பிரமாணமும் இயற்கையின் பிரமாணமும் விபசாரத்திற்கு எந்த மீட்கும் பொருளையும் ஏற்றுக்கொள்ளாது என்று முடிவு செய்கிறார்.",
+     "anchor": "தப்பவிடமாட்டான்"
+    }
+   ]
+  }
+ ]
+}

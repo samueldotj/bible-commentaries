@@ -1,0 +1,297 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.14.1",
+   "source_hash": "b2012053",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.1#p1-b2012053",
+     "text": "ராஜா அவனிடத்தில் தயவு காண்பித்தான் என்று.",
+     "anchor": "இருதயம் அப்சலோமின் மேல் இன்னும் நினைவாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.2",
+   "source_hash": "6a6780ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.2#p1-6a6780ad",
+     "text": "துக்கம் கொண்டாடுகிறதைக் காண்பிக்கும்படி; ஏனெனில் மகிழ்ச்சியுள்ளவர்களாகத் தோன்றும்படி அவர்கள் அபிஷேகம் செய்துகொள்வது வழக்கமாயிருந்தது.",
+     "anchor": "எண்ணெய் பூசாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.6",
+   "source_hash": "6e462810",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.6#p1-6e462810",
+     "text": "இந்த உவமையின் மூலமாக அவள் அப்சலோமினால் அம்னோனுக்கு நடந்த மரணத்தை விவரிக்கிறாள்.",
+     "anchor": "மகன்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.7",
+   "source_hash": "767115eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.7#p1-767115eb",
+     "text": "அவன் தன்னுடைய சகோதரனைக் கொன்றுபோட்டதால், நியாயப்பிரமாணத்தின்படி அவன் கொல்லப்பட வேண்டும், ஆதியாகமம் 9:6, யாத்திராகமம் 21:12.",
+     "anchor": "அவன் கொன்ற அவனுடைய சகோதரனுடைய உயிருக்காக்கு, refs\":[{\"text\":\"Ge 9:6, Ex 21:12\",\"ref\":\"GEN.9.6\"},{\"text\":\"Ge 9:6, Ex 21:12\",\"ref\":\"EXO.21.12\"}]}]}"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.9",
+   "source_hash": "2aadf3bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.9#p1-2aadf3bf",
+     "text": "இரத்தப்பழிக்குத் தண்டனை கொடுக்கும் நியாயப்பிரமாணத்தின் மீறுதலைக் குறித்து, அந்தக் குற்றத்தை நான் ஏற்றுக்கொள்ளட்டும்.",
+     "anchor": "அந்தப் பழி என்மேலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.11",
+   "source_hash": "4213d426",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.11#p1-4213d426",
+     "text": "இரத்தப்பழி வாங்க மாட்டோம் என்று ஆணையிடும்படி, அநேகராயிருக்கிற அவர்களுக்குச் சொல்லும்.",
+     "anchor": "தேவனாகிய யெகோவாவை நினைப்பாராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.13",
+   "source_hash": "03864503",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.13#p1-03864503",
+     "text": "உம்முடைய மகனாகிய அப்சலோமுக்கு விரோதமான தீர்ப்பை நீர் ஏன் கொடுக்கிறீர்?",
+     "anchor": "தேவனுடைய மக்களுக்கு எதிராக இப்படிப்பட்ட நினைவை நீர் கொண்டிருக்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.14",
+   "source_hash": "286c23c6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.14#p1-286c23c6",
+     "text": "மனிதர் மரணத்திற்குரியவன் என்று தீர்க்கிறவனையும் இரட்சிக்கும்படி தேவன் அடிக்கடி வழிகளை (அடைக்கலங்களைப் போல) ஏற்படுத்தியிருக்கிறார்.",
+     "anchor": "நினைவுகளை நினைக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.15",
+   "source_hash": "c918a7a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.15#p1-c918a7a5",
+     "text": "என் மகனைக் கொலைசெய்வார்கள் என்று நான் நினைத்தபடியால்.",
+     "anchor": "எனக்குப் பயமுண்டாக்கியதால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.17",
+   "source_hash": "5db82cd5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.17#p1-5db82cd5",
+     "text": "நன்மை தீமையை வேறுபடுத்தி அறியும் மிகுந்த ஞானமுள்ளவர்.",
+     "anchor": "தேவனுடைய தூதனைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.19",
+   "source_hash": "dfd9e3e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.19#p1-dfd9e3e3",
+     "text": "நீ இதைச் செய்தது யோவாபின் ஆலோசனையினால் அல்லவா.",
+     "anchor": "யோவாப் உனக்கு உதவியாக இருக்கவில்லையா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.20",
+   "source_hash": "84a8a4fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.20#p1-84a8a4fc",
+     "text": "வெளிப்படையாகச் சொல்வதைவிட உவமையாக மேலும் பேசுவதினால்.",
+     "anchor": "இந்தக் காரியத்தை விளக்கிப் பேசுவதற்கு உமது அடியானாகிய யோவாப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.21",
+   "source_hash": "9a0d6d51",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.21#p1-9a0d6d51",
+     "text": "நான் உன் வேண்டுகோளை அங்கீகரித்திருக்கிறேன்.",
+     "anchor": "இந்தக் காரியத்தைச் செய்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.24",
+   "source_hash": "886a9bc6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.24#p1-886a9bc6",
+     "text": "இதன்மூலம் தன்னுடைய பாசத்தை மறைத்து, மக்களைப் பிரியப்படுத்துவதற்காக நியாயத்தின் ஒரு பங்கைக் காண்பித்தான்.",
+     "anchor": "தன்னுடைய வீட்டுக்குத் திரும்பிப்போனான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.26",
+   "source_hash": "1a9329e7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.26#p1-1a9329e7",
+     "text": "ஒரு சேக்கல் அரை அவுன்ஸ் என்ற கணக்கின்படி, இது 6 பவுண்டு 4 அவுன்ஸ் எடையாக இருந்தது.",
+     "anchor": "ராஜாவுடைய அளவின்படி இருநூறு சேக்கல் எடையாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.30",
+   "source_hash": "098b27db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.30#p1-098b27db",
+     "text": "துன்மார்க்கர் தங்களுடைய ஆசைகளில் பொறுமையற்றவர்களாக இருக்கிறார்கள்; அவற்றை நிறைவேற்றுவதற்கு முறையற்ற வழிகளையும் தவிர்க்காமல் பயன்படுத்துகிறார்கள்.",
+     "anchor": "தீயைக்கொளுத்திப் போடுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.14.32",
+   "source_hash": "31f48466",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.14.32#p1-31f48466",
+     "text": "என் சகோதரியின் அவமானத்தைப் பழிவாங்கினதினால் நான் குற்றம் செய்திருந்தால் என்பதாம்; இவ்விதமாக துன்மார்க்கர் தங்கள் தீவினையிலும் தங்களை நீதிமான்களாக்கிக் கொள்கின்றனர்.",
+     "anchor": "என்மேல் குற்றம் இருந்தால்"
+    }
+   ]
+  }
+ ]
+}

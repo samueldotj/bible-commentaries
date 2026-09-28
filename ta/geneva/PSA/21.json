@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.21.1",
+   "source_hash": "ee9357d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.1#p1-ee9357d5",
+     "text": "தம்முடைய எதிரிகளை மேற்கொள்ளும்போது, இவ்விதமாகத் தம்முடைய அழைப்பைப்பற்றி நிச்சயமாய் இருப்பார்.",
+     "anchor": "வல்லமையிலே... மகிழ்ச்சியாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.3",
+   "source_hash": "a9d54885",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.3#p1-a9d54885",
+     "text": "அவன் ஜெபம் செய்யுமுன்னே தேவரீர் தமது தாராளமான தயவை அவனுக்குத் தெரிவித்தீர்.",
+     "anchor": "உத்தம ஆசீர்வாதங்களோடு நீர் அவருக்கு எதிர்கொண்டுவந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.4",
+   "source_hash": "394ba917",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.4#p1-394ba917",
+     "text": "தாவீது தமக்கு ஆயுளைப் பெற்றுக்கொண்டது மட்டுமல்லாமல், தம்முடைய சந்ததியார் என்றென்றைக்கும் ஆளுவார்கள் என்னும் நிச்சயத்தையும் பெற்றுக்கொண்டார்.",
+     "anchor": "அவர் உம்மிடத்தில் ஆயுளைக்கேட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.6",
+   "source_hash": "d02ecd49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.6#p1-d02ecd49",
+     "text": "நீர் அவனை மற்றவர்களுக்கு ஆசீர்வாதங்களாக்கினீர், உம்முடைய கிருபையின் நீடித்த மாதிரியாகவும் ஆக்கினீர்.",
+     "anchor": "நீடித்த ஆசீர்வாதங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.8",
+   "source_hash": "0c506e24",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.8#p1-0c506e24",
+     "text": "இங்கே அவர் கிறிஸ்துவின் ராஜ்யத்திற்கு எதிரான அதன் பகைவர்கள்மேல் அதற்குள்ள வல்லமையை விவரிக்கிறார்.",
+     "anchor": "உமது கை உமது எதிரிகள் எல்லோரையும் எட்டிப்பிடிக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.9",
+   "source_hash": "ce7a00c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.9#p1-ce7a00c8",
+     "text": "தேவன் விரோதியை அழிக்கும்வரை சிலுவையைப் பொறுமையாய்ச் சுமக்கக் கடவோம் என்பதை இது நமக்குப் போதிக்கிறது.",
+     "anchor": "கோபத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.11",
+   "source_hash": "52fc2900",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.11#p1-52fc2900",
+     "text": "தேவனுடைய வல்லமையைத் தங்கள் துன்மார்க்க எண்ணங்களுக்கு பணியச் செய்யும்படி அவர்கள் தங்கள் வலைகளை வீசினார்கள் என்று சொல்லலாம்.",
+     "anchor": "உமக்கு விரோதமாக தீங்கு நினைத்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.12",
+   "source_hash": "21677787",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.12#p1-21677787",
+     "text": "இலக்கு எய்வதற்குரிய குறியாக.",
+     "anchor": "திரும்பி ஓடச்செய்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.21.13",
+   "source_hash": "8a190c9d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.21.13#p1-8a190c9d",
+     "text": "உம்முடைய சத்துருக்களுக்கு எதிராக உம்முடைய சபையைக் காத்துக்கொள்ளும், அப்பொழுது உம்முடைய நாமத்தைத் துதிக்க எங்களுக்கு நிறைவான வாய்ப்பு உண்டாகும்.",
+     "anchor": "எழுந்தருளும்"
+    }
+   ]
+  }
+ ]
+}

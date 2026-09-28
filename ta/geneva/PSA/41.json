@@ -1,0 +1,154 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 41,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.41.1",
+   "source_hash": "ac5de86a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.1#p1-ac5de86a",
+     "text": "தேவன் யாரைச் சந்திக்கிறாரோ அவனைக் குற்றவாளியாகக் குற்றஞ்சாட்டாமல், தேவன் நம்மேல் தமது கரத்தை வைப்பதற்குப் பலவேறு காரணங்கள் உண்டு என்றும், பின்னும் அவர் நம்மை மீட்டெடுப்பார் என்றும் அறிந்திருத்தல்.",
+     "anchor": "பெலவீனமானவன்மேல் கவலையுள்ளவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.3",
+   "source_hash": "61ca6451",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.3#p1-23e6dd02",
+     "text": "மனதுக்கு உண்டான துக்கத்தினாலும் வியாகுலத்தினாலும் அவன் தன் படுக்கையிலே தானே தன்னைக் கிடத்திக்கொள்ளும்போது.",
+     "anchor": "படுக்கையின்மேல் வியாதியாகக் கிடக்கிற"
+    },
+    {
+     "id": "geneva/PSA.41.3#p2-518dba7c",
+     "text": "நீர் அவனை அவனுடைய வியாதியின் படுக்கையிலே தாங்கி, ஆறுதலை அனுப்பினீர்.",
+     "anchor": "அவனுடைய வியாதியிலே அவனுடைய படுக்கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.5",
+   "source_hash": "d818efd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.5#p1-d818efd0",
+     "text": "அதாவது, அவர்கள் என்னைச் சபிக்கிறார்கள், என்னுடைய இழிவான மரணத்தினாலன்றி அவர்களுடைய கொடிய பகைவைகை அடங்காது.",
+     "anchor": "எனக்கு விரோதமாகச் சொல்லுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.6",
+   "source_hash": "d904abf3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.6#p1-d904abf3",
+     "text": "என்னைத் தேற்றுவது போல் நடித்துக்கொண்டு, அவன் தன் இருதயத்தில் என் மரணத்தைத் திட்டமிட்டு, அதைப் பெருமையாகப் பேசுகிறான்.",
+     "anchor": "வஞ்சனையாகப் பேசுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.8",
+   "source_hash": "d7a1af14",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.8#p1-d7a1af14",
+     "text": "தேவன் அவனுடைய கடுமையான தண்டனைகளினால் அவனுக்குச் சாவுக்கேதுவான பகைவராகிவிட்டார் என்று பகைவர்கள் நினைத்தார்கள்.",
+     "anchor": "தீராத வியாதி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.9",
+   "source_hash": "8bd89b38",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.9#p1-8bd89b38",
+     "text": "தாவீது இந்தக் துரோகத்தை உணர்ந்திருந்தார், அது கிறிஸ்துவில் முதன்மையாக நிறைவேறியது (யோவான் 13:18); அப்படியே அவருடைய அங்கத்தினரும் இதையே தொடர்ந்து அனுபவிப்பார்கள்.",
+     "anchor": "என்மேல் தன்னுடைய குதிகாலைத் தூக்கினான்.jsonl-note-label-g label:g refs:[{\"text\":\"Joh 13:18\",\"ref\":\"JHN.13.18\"}]"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.12",
+   "source_hash": "b77f55bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.12#p1-e3c1abc2",
+     "text": "பொருள்: வாழ்வின் சுபிட்சத்திலோ, அல்லது சகல சோதனைக்கும் விரோதமான தேவன்மேலுள்ள உண்மையான பயத்திலோ.",
+     "anchor": "என்னுடைய உத்தமத்திலே"
+    },
+    {
+     "id": "geneva/PSA.41.12#p2-e099be55",
+     "text": "உம்முடைய பிதாவின் பராமரிப்பினுடைய தெளிவான அடையாளங்களை எனக்குக் காண்பித்தல்.",
+     "anchor": "சமுகத்தில் என்றென்றைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.41.13",
+   "source_hash": "07425265",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.41.13#p1-07425265",
+     "text": "இந்தத் திரும்பச் சொல்லுதலினால் அவர் உண்மையுள்ளவர்களைத் தேவனைத் துதிக்கும்படி எழுப்புகிறார்.",
+     "anchor": "ஆமென், ஆமென்"
+    }
+   ]
+  }
+ ]
+}

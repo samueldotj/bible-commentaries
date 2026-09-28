@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.10.1",
+   "source_hash": "b82c3e97",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.1#p1-b82c3e97",
+     "text": "இவைகளையே அவர் ஏசேக்கியேல் 1:5-இல் நான்கு உயிரினங்கள் என்று சொன்னார்.",
+     "anchor": "கேருபீன்களுடைய தலைக்குமேல் இருந்த மண்டலத்தில்... அது அவைகளுக்குமேல் காணப்பட்டது.\"}]}திருந்திய பதில்: {"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.2",
+   "source_hash": "9aca9721",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.2#p1-9aca9721",
+     "text": "இது நகரம் எரிக்கப்படும் என்பதைக் குறிக்கிறது.",
+     "anchor": "நகரத்தின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.4",
+   "source_hash": "1e2b3fe4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.4#p1-1e2b3fe4",
+     "text": "தேவனுடைய மகிமை ஆலயத்தைவிட்டு நீங்கும் என்பதைக் குறிக்கிறது.",
+     "anchor": "கேருபீனின் மேலிருந்து எழும்பி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.5",
+   "source_hash": "116ca7f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.5#p1-116ca7f1",
+     "text": "எசேக்கியேல் 1:24 பார்க்க.",
+     "anchor": "கேருபீன்களுடைய இறக்கைகளின் இரைச்சல்... உண்டாகும் சத்தம்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.9",
+   "source_hash": "2b0324f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.9#p1-2b0324f1",
+     "text": "எசேக்கியேல் 1:16-ஐ வாசிக்கவும்.",
+     "anchor": "படிகப்பச்சை நிறம்போலிருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.11",
+   "source_hash": "0db07d57",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.11#p1-0db07d57",
+     "text": "தேவனுடைய நியாயத்தீர்ப்புகளை நிறைவேற்றி முடிக்கும்வரை.",
+     "anchor": "திரும்பினதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.17",
+   "source_hash": "07678e63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.17#p1-07678e63",
+     "text": "கேருபீன்களுக்கும் சக்கரங்களுக்கும் இடையே ஒரே இணக்கம் இருந்தது.",
+     "anchor": "உயிருள்ள ஆவி இவைகளில் இருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.10.20",
+   "source_hash": "44a6638b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.10.20#p1-44a6638b",
+     "text": "அதாவது, நான்கு உயிரினங்களின் அல்லது கேருபீன்களின் முழு உருவம்.",
+     "anchor": "கீழே இருக்கக்கண்ட அந்த உயிரினம்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.14.1",
+   "source_hash": "43d24a4b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.1#p1-aea9c798",
+     "text": "எல்லா துன்மார்க்கத்திற்கும் காரணம் தேவனை மறந்துவிடுவதே என்பதை இவன் காண்பிக்கிறான்.",
+     "anchor": "தேவன் இல்லை"
+    },
+    {
+     "id": "geneva/PSA.14.1#p2-77d230c9",
+     "text": "அவர்களுக்குள் ஒழுங்கீனமும் துன்மார்க்கமும் மட்டுமே இருக்கிறது.",
+     "anchor": "தங்களைக்கெடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.3",
+   "source_hash": "b226c7b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.3#p1-b226c7b0",
+     "text": "தாவீது இங்கே உண்மையுள்ளவர்களையும் நிராகரிக்கப்பட்டவர்களையும் ஒப்பிட்டுக் கூறுகிறார்; ஆனால் பவுல் இதையே எல்லா மனிதரைக் குறித்தும் இயல்பாகவே கூறுகிறார், ரோமர் 3:10.",
+     "anchor": "எல்லோரும் வழிவிலகி்,ஒன்றாகக் கெட்டுப்போனார்கள்.,c,ரோமர் 3:10.,label,refs"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.5",
+   "source_hash": "cc40ea0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.5#p1-cc40ea0b",
+     "text": "தாங்கள் மிகவும் நிச்சயமாக இருக்கிறோம் என்று நினைத்த இடத்தில்.",
+     "anchor": "அங்கே அவர்கள் மிகவும் பயந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.6",
+   "source_hash": "a6a16ea7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.6#p1-a6a16ea7",
+     "text": "தேவன்மேல் நம்பிக்கை வைக்கிறவர்களை நீங்கள் கேலிசெய்கிறீர்கள்.",
+     "anchor": "ஆலோசனையை அலட்சியம்செய்தீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.14.7",
+   "source_hash": "8eb27c65",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.14.7#p1-8eb27c65",
+     "text": "அவன் தேவன் நிச்சயமாக விடுவிப்பார் என்று தான் உறுதியாக அறிந்திருக்கும் சபை அனைத்திற்காகவும் ஜெபம்பண்ணுகிறான்; ஏனெனில் அவரைத் தவிர வேறொருவரும் இதைச் செய்யக்கூடாது.",
+     "anchor": "சீயோனிலிருந்து இஸ்ரவேலுக்கு இரட்சிப்பு வருவதாக"
+    }
+   ]
+  }
+ ]
+}

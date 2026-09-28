@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 37,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JER.37.1",
+   "source_hash": "cad13949",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.1#p1-ac233249",
+     "text": "இவன் யோயாக்கீன் அல்லது யெகொனியா என்று அழைக்கப்பட்டான்.",
+     "anchor": "யோயாக்கீமுடைய மகனாகிய கோனியா"
+    },
+    {
+     "id": "geneva/JER.37.1#p2-95650220",
+     "text": "அவனுக்கு சிதேக்கியா என்று பெயரிட்டான், அதற்கு முன்பு அவனுடைய பெயர் மத்தனியா என்றிருந்தது, 2 இராஜாக்கள் 24:17.",
+     "anchor": "தேசத்தில் ராஜாவாக நியமித்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.3",
+   "source_hash": "9bdbd85d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.3#p1-9bdbd85d",
+     "text": "தன்மேல் வந்த கல்தேயரைக் குறித்து அவன் பயந்திருந்ததால்.",
+     "anchor": "செலேமியாவின் மகனாகிய யூகாலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.4",
+   "source_hash": "f1796765",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.4#p1-f1796765",
+     "text": "அதாவது, சிறையிலிருந்து விடுவிக்கப்பட்டு சுயாதீனமாக இருந்தான்.",
+     "anchor": "மக்களின் நடுவே போக்கும் வரத்துமாக இருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.5",
+   "source_hash": "c5c4bc78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.5#p1-c5c4bc78",
+     "text": "யூதர்களுக்கு உதவி செய்வதற்காக.",
+     "anchor": "எகிப்திலிருந்து புறப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.12",
+   "source_hash": "df4140c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.12#p1-df4140c1",
+     "text": "சிலர் நினைப்பது போல், தன் சொந்த ஊரான ஆனதோத்திற்குப் போகும்படி.",
+     "anchor": "பென்யமீன் தேசத்திற்குப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.13",
+   "source_hash": "64d17943",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.13#p1-64d17943",
+     "text": "இந்த வாசல் வழியாக மனிதர்கள் பென்யமீன் தேசத்திற்குச் சென்றார்கள்.",
+     "anchor": "பென்யமீன் வாசலில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.15",
+   "source_hash": "101d8979",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.15#p1-101d8979",
+     "text": "ஏனெனில் அது ஒரு அசுத்தமான, நெருக்கமான காவற்கூடமாக இருந்தபடியால்.",
+     "anchor": "காவற்கூடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.37.21",
+   "source_hash": "3aff57b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.37.21#p1-3aff57b0",
+     "text": "அதாவது, நகரத்தில் அப்பம் இருக்குமளவும்: தேவன் தம்முடையவர்களுக்கு இவ்வண்ணமே ஏற்பாடு செய்கிறார், அவர் தம்முடையவர்களை எந்த நோக்கத்திற்காக நியமித்திருக்கிறாரோ, அதற்காக அவர்களுடைய பகைவர்களைக்கொண்டே அவர்களைப் பாதுகாக்கச் செய்வார்.",
+     "anchor": "நகரத்தில் அப்பம் இருக்குவரை"
+    }
+   ]
+  }
+ ]
+}

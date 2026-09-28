@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.2.1",
+   "source_hash": "9070359d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.1#p1-9070359d",
+     "text": "அதாவது, அவைகளை உன்னுடைய இருதயத்தில் வைத்துக்கொள்.",
+     "anchor": "உன்னுடைய இருதயத்தைப் புத்திக்கு அமையச்செய்வதற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.2",
+   "source_hash": "2d8c6dae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.2#p1-2d8c6dae",
+     "text": "நீ தேவனுடைய உண்மையான அறிவை வஞ்சனையில்லாமல் உன்னைத்தானே அர்ப்பணித்தால்.",
+     "anchor": "உன்னிடத்தில் பத்திரப்படுத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.3",
+   "source_hash": "cafc5a5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.3#p1-cafc5a5e",
+     "text": "தேவனுடைய அறிவை கருத்தோடும் ஜாக்கிரதையோடும் தேட வேண்டும் என்று பொருள்படும்.",
+     "anchor": "புத்தியைச் சத்தமிட்டு அழைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.4",
+   "source_hash": "e8c0fd08",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.4#p1-e8c0fd08",
+     "text": "இதற்காக எந்த வருத்தத்தையும் தவிர்க்கக்கூடாது என்பதைக் காண்பிக்கிறது.",
+     "anchor": "புதையல்களைத் தேடுகிறதுபோல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.5",
+   "source_hash": "8afa1a05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.5#p1-8afa1a05",
+     "text": "தேவனை அறிந்து அவருக்குப் பயப்படுதலே மெய்யான ஞானம் என்று அவர் சொல்லுகிறார்.",
+     "anchor": "தேவனை அறியும் அறிவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.11",
+   "source_hash": "8822d90b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.11#p1-8822d90b",
+     "text": "தேவனுடைய வசனம் உன்னை நடத்தி, நீ உன்னை எப்படி நடத்திக்கொள்ள வேண்டும் என்று உனக்குக் கற்பிக்கும்.",
+     "anchor": "நல்யோசனை உன்னைக் காப்பாற்றும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.13",
+   "source_hash": "fadaaf30",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.13#p1-fadaaf30",
+     "text": "அதாவது, ஒரே வெளிச்சமாகிய தேவனுடைய வசனத்தை விட்டு, இருளாகிய தங்கள் சொந்த கற்பனைகளைப் பின்பற்றுகிறார்கள்.",
+     "anchor": "நீதிநெறிகளைவிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.14",
+   "source_hash": "3ec83358",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.14#p1-3ec83358",
+     "text": "தங்களைப்போலவே தீமைக்குக் கொடுக்கப்பட்டவர்கள் யாரையாகிலும் அவர்கள் காணும்போது.",
+     "anchor": "துன்மார்க்கர்களுடைய மாறுபாடுகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.16",
+   "source_hash": "a28153ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.16#p1-a28153ee",
+     "text": "அதாவது, தேவனுடைய வசனமாகிய ஞானம் நம்மை எல்லாத் தீமைகளிலிருந்தும் காப்பாற்றும்: மனுஷன் மிகவும் நாட்டமுள்ளதாயிருக்கும் விபசாரம் என்னும் இந்தத் தீமையை அவர் குறிப்பாகக் குறிப்பிடுகிறார்.",
+     "anchor": "பெண்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.17",
+   "source_hash": "78c8b687",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.17#p1-78c8b687",
+     "text": "அதாவது, அவளுடைய கணவன், அவளை நடத்தும் தலையும் வழிகாட்டியுமாக இருக்கிறவன், அவனை அவள் விட்டுவிடாமல், அவனுடைய அதிகாரத்திற்குக் கீழ்ப்பட்டிருக்க வேண்டும்.",
+     "anchor": "தன் இளவயதின் வழிகாட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.18",
+   "source_hash": "988bfa1a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.18#p1-80255ff4",
+     "text": "அவளுடைய பரிச்சயத்தார் அவளுடைய ஆவிகளையும் அவளிடம் வந்துபோகிறவர்களையும் குறிக்கிறது.",
+     "anchor": "வீடு மரணத்திற்கும்... சாய்கிறது"
+    },
+    {
+     "id": "geneva/PRO.2.18#p2-62d9c10f",
+     "text": "சரீரத்திலும் ஆத்துமாவிலும் மரித்தவர்களைக் குறிக்கிறது.",
+     "anchor": "மரித்தவர்களிடத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.2.21",
+   "source_hash": "3784a104",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.2.21#p1-3784a104",
+     "text": "துன்மார்க்கர் அவைகளை இல்லாதவர்களாக இருக்கும்போது, இவர்களோ தேவனுடைய தற்கால மற்றும் ஆவிக்குரிய வாக்குத்தத்தங்களை அநுபவிப்பார்கள்.",
+     "anchor": "பூமியிலே"
+    }
+   ]
+  }
+ ]
+}

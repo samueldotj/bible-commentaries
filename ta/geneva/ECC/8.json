@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "ECC",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ECC.8.1",
+   "source_hash": "e9c2621a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.1#p1-0e64638b",
+     "text": "அதாவது, தனக்குத் தயவையும் வாழ்வையும் பெற்றுக்கொள்வான்.",
+     "anchor": "பிரகாசிக்கச்செய்யும்"
+    },
+    {
+     "id": "geneva/ECC.8.1#p2-c9457995",
+     "text": "முன்பு அவன் பெருமையும் இறுமாப்புமாக இருந்தவனாக இருந்தான்; இப்பொழுது அவன் தாழ்மையும் சாந்தகுணமும் உள்ளவனாக மாறுவான்.",
+     "anchor": "முகத்தின் கோபம் மாறும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.2",
+   "source_hash": "51b97baa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.2#p1-51b97baa",
+     "text": "அதாவது, நீ ராஜாவிற்குக் கீழ்ப்படிந்து, அந்தக் காரணத்திற்காக நீ செய்த ஆணையைக் கைக்கொள் என்பதாம்.",
+     "anchor": "கட்டளையைக் கைக்கொண்டு நட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.3",
+   "source_hash": "3f89247b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.3#p1-3f89247b",
+     "text": "உன் அரசனுடைய கீழ்ப்படிதலிலிருந்து லேசாக உன்னைத் திரும்பிக்கொள்ளாதே.",
+     "anchor": "விலக அவசரப்படாதே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.5",
+   "source_hash": "4b61fe12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.5#p1-4b61fe12",
+     "text": "அதாவது, கீழ்ப்படிதலுக்கு ஏற்ற காலம் எது, எவ்வளவு தூரம் கீழ்ப்படிய வேண்டும் என்பதே.",
+     "anchor": "காலத்தையும் நியாயத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.6",
+   "source_hash": "341c64a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.6#p1-341c64a3",
+     "text": "மனிதன் தன்னிலேதானே பரிதாபகரமானவன், ஆகையால் அதை அதிகரிக்கும்படியான எதையும் செய்யாமல், எல்லாவற்றையும் ஞானத்தினாலும் ஆலோசனையினாலும் செய்யவேண்டும்.",
+     "anchor": "மனிதனுக்கு நேரிடும் கலக்கம் மிகுதி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.8",
+   "source_hash": "52c01af6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.8#p1-52c01af6",
+     "text": "மனிதனுக்குத் தன் ஆவியை இரட்சிக்கும் அதிகாரம் இல்லை; ஆகையால் அவசரமாகத் தன்னை ஆபத்தில் தள்ளிவிடலாகாது.",
+     "anchor": "தன் ஆவியை விடாமல் இருக்கிறதற்கு ஆவியின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.9",
+   "source_hash": "70bf32bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.9#p1-70bf32bc",
+     "text": "கொடுங்கோலரும் துன்மார்க்க அதிகாரிகளும் அடிக்கடி அனுபவிப்பது போல.",
+     "anchor": "கேடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.10",
+   "source_hash": "c1757e40",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.10#p1-4d77f0e7",
+     "text": "அதாவது, அவர்களைப் போலவே துன்மார்க்கராயிருந்த மற்றவர்கள்.",
+     "anchor": "போக்குவரவு செய்த"
+    },
+    {
+     "id": "geneva/ECC.8.10#p2-3cc194d3",
+     "text": "தேவனுக்குப் பயந்து, அவர் நியமித்தபடி அவரைத் தொழுதுகொண்டவர்கள்.",
+     "anchor": "பரிசுத்த இடத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.11",
+   "source_hash": "837b80ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.11#p1-837b80ad",
+     "text": "நியாயம் தாமதப்படும் இடத்தில், பாவம் ஆளுகை செய்யும்.",
+     "anchor": "சீக்கிரமாக நடவாதபடியால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.14",
+   "source_hash": "d0c487a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.14#p1-d0c487a4",
+     "text": "7:17-இல் இருப்பதுபோல, துன்மார்க்கராக இருந்தாற்போல் தண்டிக்கப்படுகிறவர்கள்",
+     "anchor": "துன்மார்க்கர்களின் செய்கைக்கு வருவதுபோல, நீதிமான்களுக்கும் வரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.8.15",
+   "source_hash": "f2cc5818",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.8.15#p1-f2cc5818",
+     "text": "பிரசங்கி 3:22-ஐ காண்க",
+     "anchor": "சாப்பிடுவதும்"
+    }
+   ]
+  }
+ ]
+}

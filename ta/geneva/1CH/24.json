@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.24.2",
+   "source_hash": "a3db79c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.2#p1-a3db79c5",
+     "text": "தங்களுடைய தகப்பன் இன்னும் உயிரோடிருந்தபோதே.",
+     "anchor": "தங்களுடைய தகப்பனுக்கு முன்னே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.7",
+   "source_hash": "c96de228",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.7#p1-c96de228",
+     "text": "ஒருவருக்கொருவருக்கு எதிராக பொறாமையோ முறுமுறுப்போ ஏற்படுவதற்கான வாய்ப்பையெல்லாம் நீக்குவதற்காக இந்தச் சீட்டு நியமிக்கப்பட்டது.",
+     "anchor": "முதலாவது சீட்டு யோயாரீபிற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.10",
+   "source_hash": "7db36177",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.10#p1-7db36177",
+     "text": "யோவான் ஸ்நானகனுடைய தகப்பனாகிய சகரியா இந்த அபியாவின் முறைமையாகிய பங்கைச் சேர்ந்தவனாக இருந்தான், லூக்கா 1:5.",
+     "anchor": "அபியாவிற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.19",
+   "source_hash": "7aee1d36",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.19#p1-7aee1d36",
+     "text": "தேவன் ஆரோனுக்குக் கொடுத்த கண்ணியத்தினிமித்தம்.",
+     "anchor": "தங்கள் தகப்பனாகிய ஆரோன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.30",
+   "source_hash": "ca17b579",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.30#p1-ca17b579",
+     "text": "இவன் மெராரியின் இரண்டாம் மகன்.",
+     "anchor": "மூசியின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.24.31",
+   "source_hash": "7532f7b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.24.31#p1-7532f7b8",
+     "text": "அதாவது, ஒவ்வொருவனுக்கும் சீட்டினால் வந்த கனத்தையே அவன் பெற்றான்.",
+     "anchor": "சரிசமமாக சீட்டு போட்டுக்கொண்டார்கள்"
+    }
+   ]
+  }
+ ]
+}

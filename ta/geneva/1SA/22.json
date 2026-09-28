@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 22,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.22.1",
+   "source_hash": "33f749c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.1#p1-33f749c8",
+     "text": "அது பெத்லெகேமுக்குச் அருகில் யூதா கோத்திரத்தில் இருந்தது.",
+     "anchor": "அதுல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.3",
+   "source_hash": "12041390",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.3#p1-12041390",
+     "text": "ஏனெனில் யூதாவிலும் இப்படியொரு பெயருடைய இடம் இருந்தது.",
+     "anchor": "மோவாபியர்களைச் சேர்ந்த மிஸ்பேக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.4",
+   "source_hash": "88ce67f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.4#p1-e4869bd6",
+     "text": "அவன் தன் குடும்பத்தின்மேல் சவுலுக்கு இருந்த கோபத்தினிமித்தம் பயந்தான்.",
+     "anchor": "அவர்களை மோவாபின் ராஜாவிடத்தில் அழைத்துக்கொண்டு போய்"
+    },
+    {
+     "id": "geneva/1SA.22.4#p2-9f810451",
+     "text": "அதாவது, கோட்டையாயிருந்த மிஸ்பாவில்.",
+     "anchor": "கோட்டையில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.6",
+   "source_hash": "1cde12c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.6#p1-1cde12c2",
+     "text": "ஒரு பெரிய பொய்யான செய்தி அவனுக்கு வந்தது.",
+     "anchor": "காணப்பட்ட செய்தியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.7",
+   "source_hash": "bbb7e67e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.7#p1-bbb7e67e",
+     "text": "என் கோத்திரத்தாரும் என் பரம்பரையைச் சேர்ந்தவர்களுமாக இருக்கிற நீங்கள்.",
+     "anchor": "பென்யமீன் மக்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.8",
+   "source_hash": "3a1c83f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.8#p1-3a1c83f8",
+     "text": "இதன் மூலம் இந்த சதி மிகவும் பயங்கரமானது என்று அவர்களை நம்பச்செய்ய அவன் விரும்பினான்; அதில் மகன் தன் தகப்பனுக்கு விரோதமாகவும், வேலைக்காரன் தன் எஜமானுக்கு விரோதமாகவும் சதி செய்திருந்தான்.",
+     "anchor": "என்னுடைய மகன் என்னுடைய வேலைக்காரனை எனக்கு விரோதமாக தூண்டிவிட்டானே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.11",
+   "source_hash": "0ee1ef17",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.11#p1-0ee1ef17",
+     "text": "இவர்கள் ஏலியின் வம்சத்தில் மீதியாக இருந்தவர்கள், தேவன் தண்டிப்பேன் என்று அவனுடைய வீட்டாரை மிரட்டியிருந்தார்.",
+     "anchor": "நோபிலிருக்கிற அவன் தகப்பன் வீட்டார்களாகிய எல்லா ஆசாரியர்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.15",
+   "source_hash": "5d9521d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.15#p1-5d9521d1",
+     "text": "மற்ற நேரங்களிலும், அவனுக்குப் பெரிய காரியங்கள் இருந்தபோது, நான் அவனுக்காக கர்த்தரிடத்தில் ஆலோசனை கேட்டதில்லையோ?",
+     "anchor": "வேண்டுதல் செய்யத் தொடங்கினேனோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.17",
+   "source_hash": "ec8b7ab2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.17#p1-ec8b7ab2",
+     "text": "ஏனெனில், அப்பாவிகளைக் கொல்லும்படியான ராஜாவின் துன்மார்க்கமான கற்பனைக்குக் கீழ்ப்படியக்கூடாது என்று அவர்கள் அறிந்திருந்தார்கள்.",
+     "anchor": "தங்கள் கைகளை நீட்ட சம்மதிக்கவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.22.20",
+   "source_hash": "9ec93616",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.22.20#p1-9ec93616",
+     "text": "இது தேவனுடைய பராமரிப்பாயிருந்தது; அவர் தமது வாக்குத்தத்தத்தின்படியே ஏலியின் வம்சத்தில் சிலரைக் காப்பாற்றினார், 1 சாமுவேல் 2:33.",
+     "anchor": "தப்பி"
+    }
+   ]
+  }
+ ]
+}

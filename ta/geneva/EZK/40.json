@@ -1,0 +1,42 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 40,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.40.1",
+   "source_hash": "b52128f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.40.1#p1-b52128f4",
+     "text": "யூதர்கள் வருடத்தின் ஆரம்பத்தை இரண்டு விதமாகக் கணக்கிட்டார்கள்: தங்கள் பண்டிகைகளுக்காக மார்ச் மாதத்திலிருந்து கணக்கிடத் தொடங்கினார்கள், மற்ற காரியங்களுக்காக செப்டம்பர் மாதத்திலிருந்து கணக்கிட்டார்கள்: எனவே இது செப்டம்பரைக் குறிக்கிறதாக விளங்கிக்கொள்ளப்பட வேண்டும்.",
+     "anchor": "வருடத்தின் ஆரம்பத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.40.3",
+   "source_hash": "4a4eca1f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.40.3#p1-4a4eca1f",
+     "text": "இவர் இந்தக் கட்டிடத்தை அளந்துபார்க்கும்படி வந்த மனித ரூபமெடுத்த தூதனாவார்.",
+     "anchor": "மனிதன்"
+    }
+   ]
+  }
+ ]
+}

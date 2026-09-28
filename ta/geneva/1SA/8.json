@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.8.1",
+   "source_hash": "2aadf87a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.1#p1-2aadf87a",
+     "text": "தான் அந்தப் பொறுப்பைச் சுமக்க முடியாதவனாக இருந்தபடியால்.",
+     "anchor": "தன் மகன்களை இஸ்ரவேலின்மேல் நியாயாதிபதிகளாக வைத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.2",
+   "source_hash": "354acfcd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.2#p1-354acfcd",
+     "text": "இவன் வஷ்னி என்றும் அழைக்கப்பட்டான், 1 நாளாகமம் 6:28.",
+     "anchor": "யோவேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.4",
+   "source_hash": "4d1c4227",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.4#p1-4d1c4227",
+     "text": "ஏனெனில் அவனுடைய வீடு அங்கே இருந்தது, 1 சாமுவேல் 7:17.",
+     "anchor": "ராமா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.6",
+   "source_hash": "0ee105c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.6#p1-0ee105c8",
+     "text": "தேவன் நியமித்திருந்த நிலைமையில் அவர்கள் திருப்தியடையாமல், யூதரல்லாத மக்கள் ஆளப்பட்டதைப்போல ஆளப்பட விரும்பியதினால்.",
+     "anchor": "தவறானதாக தோன்றினது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.9",
+   "source_hash": "4a4034fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.9#p1-4a4034fc",
+     "text": "அவர்கள் தங்கள் துன்மார்க்கமான நோக்கத்தைவிட்டு விலகுவார்களோ என்று சோதிக்கும்படி.",
+     "anchor": "வலியுறுத்தி தெரியப்படுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.11",
+   "source_hash": "c0300ff8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.11#p1-c0300ff8",
+     "text": "ராஜாக்கள் தங்கள் அதிகார பதவியினால் இந்த அதிகாரத்தைப் பெற்றார்கள் என்பதற்காக அல்ல, மாறாக தேவனுடைய கடுங்கோபத்தில் ஆளுகின்றவர்கள் தங்கள் சகோதரர்கள்மேல் இதை நியாயப்பிரமாணத்திற்கு விரோதமாக, உபாகமம் 17:20-ல் உள்ளபடி, தங்களுக்குத்தானே எடுத்துக்கொள்வார்கள் என்பதற்காகவே.",
+     "anchor": "உங்களை ஆளும் ராஜாவின் காரியம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.8.18",
+   "source_hash": "00544c32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.8.18#p1-00544c32",
+     "text": "நீங்கள் உங்கள் பாவங்களைக் குறித்து மனந்திரும்பாமல், நீங்களே விருப்பத்தோடு உங்களைத் தள்ளியிடும் உங்கள் துன்பங்களுக்காக ஏங்குகிறபடியால்.",
+     "anchor": "செவிகொடுக்கமாட்டார்"
+    }
+   ]
+  }
+ ]
+}

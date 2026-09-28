@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 50,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.50.2",
+   "source_hash": "2f3161a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.2#p1-2f3161a0",
+     "text": "இறந்தவர்களைப் பதப்படுத்தி அடக்கம் செய்தவர்களைக் குறித்தே அவன் இவ்வாறு சொல்கிறான்.",
+     "anchor": "தன் தகப்பனுடைய உடலைப் பதப்படுத்தும்படி...வைத்தியர்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.3",
+   "source_hash": "952f969b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.3#p1-952f969b",
+     "text": "அவர்கள் உண்மையுள்ளவர்களை விட துக்கம் அனுசரிப்பதில் அளவுக்கு மிஞ்சினவர்களாக இருந்தார்கள்.",
+     "anchor": "70 நாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.6",
+   "source_hash": "fda6d302",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.6#p1-fda6d302",
+     "text": "அவிசுவாசிகள்கூட உறுதிமொழிகள் நிறைவேற்றப்பட வேண்டும் என்று விரும்புவார்கள்.",
+     "anchor": "உறுதிமொழி வாங்கிக்கொண்டபடியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.15",
+   "source_hash": "24babb87",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.15#p1-24babb87",
+     "text": "தீயமனச்சாட்சி ஒருபோதும் முழுமையாக அமைதி பெறாது.",
+     "anchor": "ஒரு வேளை யோசேப்பு நம்மைப் பகைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.17",
+   "source_hash": "56a7858c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.17#p1-56a7858c",
+     "text": "அதாவது, ஒரே தேவனை உடையவர்கள் மிகவும் உறுதியான அன்பினால் இணைக்கப்பட்டிருக்க வேண்டும் என்பதாம்.",
+     "anchor": "உம்முடைய தகப்பனாருடைய தேவனுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.19",
+   "source_hash": "6318d175",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.19#p1-6318d175",
+     "text": "நல்ல முடிவினால் அதை மன்னித்தது போல் தோன்றுகிறது; ஆகையால் அது என்னால் பழிவாங்கப்படலாகாது.",
+     "anchor": "தேவனா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.22",
+   "source_hash": "0236f951",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.22#p1-0236f951",
+     "text": "இவன் எகிப்திலே ஏறக்குறைய எண்பது வருடங்கள் ஆண்டவனாக இருந்தபோதிலும், விசுவாசத்திலும் தேவனுடைய சபையோடு இணைந்திருந்தான்.",
+     "anchor": "110 வருடங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.50.25",
+   "source_hash": "dd9ca926",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.50.25#p1-dd9ca926",
+     "text": "அவன் தீர்க்கதரிசன ஆவியினால் இதைச் சொல்லி, தேவனுடைய வாக்குத்தத்தத்தின்மேல் தங்கள் விடுதலைக்காக முழு நம்பிக்கை வைக்கும்படி தன் சகோதரர்களைத் தூண்டுகிறான்.",
+     "anchor": "தேவன் உங்களைச் சந்திக்கும்போது"
+    }
+   ]
+  }
+ ]
+}

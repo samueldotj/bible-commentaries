@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 138,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.138.1",
+   "source_hash": "544e55b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.1#p1-544e55b4",
+     "text": "தூதர்களுடைய முன்பாகவும், மனிதர்களுக்குள் அதிகாரம் உள்ளவர்களின் முன்பாகவும்.",
+     "anchor": "தெய்வங்களுக்கு முன்பாக உம்மைப் புகழ்ந்து பாடுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.2",
+   "source_hash": "af21f023",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.2#p1-af21f023",
+     "text": "கிறிஸ்துவின் வருகையின்போது ஆலயமும் சடங்கு முறையான ஆராதனையும் ஒழிக்கப்பட்டன; ஆகவே இப்பொழுது தேவன் ஆவியிலும் சத்தியத்திலும் மட்டுமே தொழுதுகொள்ளப்படுவார், யோவான் 4:23.",
+     "anchor": "பரிசுத்த ஆலயத்திற்கு நேராக நான் பணிந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.3",
+   "source_hash": "d1d459a7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.3#p1-d1d459a7",
+     "text": "என் வெளிப்புற மற்றும் உட்பகைவர்களுக்கு எதிராக நீர் என்னைத் தைரியப்படுத்தினீர்.",
+     "anchor": "என் ஆத்துமாவிலே பெலன்தந்து என்னைத் தைரியப்படுத்தினீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.4",
+   "source_hash": "dd7ba006",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.4#p1-dd7ba006",
+     "text": "நீர் என்னை ஆச்சரியமாகக் காப்பாற்றி, உமது வாக்குத்தத்தத்தை நிறைவேற்றியதை உலகமெல்லாம் அறிக்கையிடும்.",
+     "anchor": "பூமியின் ராஜாக்களெல்லோரும்... உம்மைத் துதிப்பார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.6",
+   "source_hash": "139d1488",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.6#p1-139d1488",
+     "text": "இடத்தினுடைய தூரம் தேவன் தம்முடையவர்களுக்கு இரக்கம் காண்பிப்பதைத் தடுக்கமுடியாது; அவ்வாறே அவர் துன்மார்க்கரை நியாயந்தீர்க்கிறார், அவர்கள் அவர் தூரத்தில் இருக்கிறார் என்று நினைத்தாலும்.",
+     "anchor": "தூரத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.138.8",
+   "source_hash": "9a496042",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.138.8#p1-9a496042",
+     "text": "என் பகைவர் கடுங்கோபங்கொண்டாலும், என்னில் தமது செயலைத் தொடங்கின கர்த்தர், தமது கிருபையை முடிவுபரியந்தம் தொடர்ந்து செய்வார்.",
+     "anchor": "எனக்காக யாவையும் செய்து முடிப்பார்"
+    }
+   ]
+  }
+ ]
+}

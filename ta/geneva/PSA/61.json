@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 61,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.61.2",
+   "source_hash": "43538b09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.2#p1-908f7314",
+     "text": "என் மகனாகிய அப்சலோமினால் நகரத்திலும் ஆலயத்திலுமிருந்து துரத்தப்பட்டு, நான் நாடுகடத்தப்பட்டிருந்த இடத்திலிருந்து.",
+     "anchor": "பூமியின் கடைசியிலிருந்து உம்மை நோக்கிக் கூப்பிடுவேன்"
+    },
+    {
+     "id": "geneva/PSA.61.2#p2-1f9e65ae",
+     "text": "உம்முடைய உதவியில்லாமல் நான் அடைய முடியாத உயரம்.",
+     "anchor": "எனக்கு எட்டாத உயரமான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.5",
+   "source_hash": "3ce843c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.5#p1-3ce843c2",
+     "text": "தேவனுடைய முற்காலத்தின் உதவியை நினைவுகூருவதைவிட நம்முடைய விசுவாசத்தைப் பலப்படுத்துவது வேறொன்றுமில்லை.",
+     "anchor": "நீர் என்னுடைய பொருத்தனைகளைக் கேட்டீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.6",
+   "source_hash": "42fe3af7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.6#p1-42fe3af7",
+     "text": "இது முதன்மையாகக் கிறிஸ்துவைக் குறிக்கிறது, அவர் தம்மில் மட்டுமல்ல, தம் அங்கத்தினரிலும் நித்தியமாக வாழ்கிறார்.",
+     "anchor": "ஆயுசு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.61.7",
+   "source_hash": "b07a767a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.61.7#p1-b07a767a",
+     "text": "ஏனெனில் என் ராஜ்யத்தின் நிலைப்பு உம்முடைய இரக்கத்திலும் உண்மையிலும் நிற்கிறது.",
+     "anchor": "இரக்கமும் உண்மையும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 26,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.26.1",
+   "source_hash": "a47cc7ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.1#p1-a47cc7ac",
+     "text": "இந்த ஆசாப் புகழ்பெற்ற இசைக்காரனாக இருந்த ஆசாப் அல்ல, மாறாக அதே பெயருடைய வேறொருவன், அவன் 1 நாளாகமம் 6:23,37; 9:19-ல் அபியாசாப் என்றும், அன்றி யாசாப் என்றும் அழைக்கப்படுகிறான்.",
+     "anchor": "ஆசாபின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.5",
+   "source_hash": "de735bef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.5#p1-de735bef",
+     "text": "அவனுக்கு அநேக பிள்ளைகளைக் கொடுத்ததினால்.",
+     "anchor": "ஆசீர்வதித்திருந்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.6",
+   "source_hash": "b8b17a40",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.6#p1-b8b17a40",
+     "text": "அல்லது, தங்களுடைய தகப்பன் குடும்பத்தாரைப் போன்றவர்களாக, அதாவது, தகுதியும் பராக்கிரமமும் உள்ளவர்களாக இருந்தார்கள் என்பது பொருள்.",
+     "anchor": "தங்களுடைய தகப்பன் குடும்பத்தார்களை ஆண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.8",
+   "source_hash": "2ea88838",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.8#p1-2ea88838",
+     "text": "வாசல் காக்கிற ஊழியத்திற்கு ஏற்றவர்கள்.",
+     "anchor": "ஊழியத்திற்குப் பலத்த பெலசாலிகளான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.12",
+   "source_hash": "bd58b9ca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.12#p1-bd58b9ca",
+     "text": "தங்கள் முறைப்படி, ஒருவருக்கு இணையாக மற்றவரும்.",
+     "anchor": "ஒத்த முறையாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.14",
+   "source_hash": "0e1d1d22",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.14#p1-0e1d1d22",
+     "text": "அந்த வாசலைக் காக்கத்தக்க திறமையும் தகுதியும் உள்ளவன்.",
+     "anchor": "விவேகமுள்ள ஆலோசனைக்காரனாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.15",
+   "source_hash": "8ff82fce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.15#p1-8ff82fce",
+     "text": "இது ஆலயத்தைக் குறித்த காரியங்களை ஆலோசனை செய்வதற்காக அவர்கள் கூடிவரும் ஒரு வீடாக இருந்தது, ஒரு கூட்டமன்ற வீடு போல.",
+     "anchor": "அசுப்பீம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.16",
+   "source_hash": "4f1366c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.16#p1-4f1366c3",
+     "text": "நகரத்தின் அழுக்குகளை எறிவதற்கு அவர்கள் பயன்படுத்திய இடம்.",
+     "anchor": "சல்லேகேத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.17",
+   "source_hash": "dcae4166",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.17#p1-dcae4166",
+     "text": "அதாவது ஒரு நாளில் இரண்டுபேரும், மறுநாளில் இரண்டுபேரும் என்று பொருள்.",
+     "anchor": "இரண்டிரண்டுபேர்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.18",
+   "source_hash": "bf7a89f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.18#p1-bf7a89f2",
+     "text": "இது ஆலயத்தின் பணிப்பொருட்களை வைத்திருந்த வீடாக இருந்தது.",
+     "anchor": "வெளிப்புறமான வாசல் அருகில் மேற்கே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.23",
+   "source_hash": "6d33b76f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.23#p1-6d33b76f",
+     "text": "இவர்களும் பொக்கிஷங்களை விசாரிக்கும் பொறுப்பில் இருந்தார்கள்.",
+     "anchor": "அம்ராமியர்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.26",
+   "source_hash": "5950b5ed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.26#p1-5950b5ed",
+     "text": "கர்த்தர் கட்டளையிட்டபடி, எண்ணாகமம் 31:28.",
+     "anchor": "கொள்ளைகளில் எடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.29",
+   "source_hash": "bb798ee9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.29#p1-bb798ee9",
+     "text": "நகரத்திற்கு வெளியே இருந்த காரியங்களைக் குறிக்கிறது.",
+     "anchor": "இஸ்ரவேலின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.30",
+   "source_hash": "5e9256e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.30#p1-5e9256e0",
+     "text": "அதாவது, ராஜாவின் வீட்டிற்காக.",
+     "anchor": "ராஜாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.26.32",
+   "source_hash": "3e4cbd3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.26.32#p1-3e4cbd3c",
+     "text": "ஆவிக்குரிய காரியங்களிலும் லௌகிக காரியங்களிலும்.",
+     "anchor": "தேவனுடைய"
+    }
+   ]
+  }
+ ]
+}

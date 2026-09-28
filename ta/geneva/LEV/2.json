@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.2.1",
+   "source_hash": "808650a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.1#p1-808650a0",
+     "text": "ஏனெனில் சர்வாங்க தகனபலிக் காணிக்கை உணவுபலிக் காணிக்கை இல்லாமல் செலுத்தப்படக்கூடாது.",
+     "anchor": "உணவுபலியாகிய காணிக்கையைக் யெகோவாவுக்குச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.2",
+   "source_hash": "2cb54880",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.2#p1-afd6c68a",
+     "text": "ஆசாரியன்.",
+     "anchor": "ஒரு கைப்பிடி நிறைய... எடுத்து"
+    },
+    {
+     "id": "geneva/LEV.2.2#p2-c60d1987",
+     "text": "தேவன் தமக்குப் படைத்தவனை நினைவுகூருகிறார் என்பதைக் குறிக்கும்படி.",
+     "anchor": "நன்றியின் அடையாளமாக... பலிபீடத்தின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.3",
+   "source_hash": "b3506701",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.3#p1-b3506701",
+     "text": "எனவே ஆசாரியனைத் தவிர வேறு ஒருவரும் அதைச் சாப்பிடக்கூடாது.",
+     "anchor": "யெகோவாவுக்குச் செலுத்தும் தகனபலிகளில் இது மகா பரிசுத்தமானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.5",
+   "source_hash": "8f57d76c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.5#p1-8f57d76c",
+     "text": "இது தேவனை சாந்தப்படுத்துவதற்காக அவருக்குச் செலுத்தப்படும் காணிக்கை.",
+     "anchor": "அடுப்பில் தட்டையான பாத்திரத்தில் சமைக்கப்பட்ட உணவுபலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.12",
+   "source_hash": "4ca4b46c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.12#p1-05725796",
+     "text": "அதாவது, தேனைப்போல் இனிமையான பழங்களை நீங்கள் காணிக்கையாகக் கொண்டுவரலாம்.",
+     "anchor": "அவைகளைக் யெகோவாவுக்குச்"
+    },
+    {
+     "id": "geneva/LEV.2.12#p2-282df8bf",
+     "text": "ஆனால் அவை ஆசாரியர்களுக்கென வைக்கப்பட வேண்டும்.",
+     "anchor": "பலிபீடத்தின்மேல் அவைகளை நறுமண வாசனையாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.2.13",
+   "source_hash": "0f582458",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.2.13#p1-0f582458",
+     "text": "எல்லாப் பலிகளிலும் இதை (உடன்படிக்கையாக) பயன்படுத்தக் கடமைப்பட்டிருந்தார்கள், எண்ணாகமம் 18:19; 2 நாளாகமம் 13:5; எசேக்கியேல் 43:24; அல்லது இது ஒரு உறுதியான, சுத்தமான உடன்படிக்கையைக் குறிக்கிறது.",
+     "anchor": "உன் தேவனுடைய உடன்படிக்கையின் உப்பை"
+    }
+   ]
+  }
+ ]
+}

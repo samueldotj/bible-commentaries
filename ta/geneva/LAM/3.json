@@ -1,0 +1,399 @@
+{
+ "source": "geneva",
+ "book": "LAM",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LAM.3.1",
+   "source_hash": "fdbd3484",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.1#p1-fdbd3484",
+     "text": "தீர்க்கதரிசி எருசலேமின் அழிவை அறிவித்தபோது, பொய்த் தீர்க்கதரிசிகளாலும் மாயக்காரராலும் தான் அனுபவித்த தண்டனைகளையும் சிறுமைகளையும் பற்றி முறையிடுகிறான், எரேமியா 20:1,2-ல் இருப்பதுபோல.",
+     "anchor": "கோபத்தின் பிரம்பினால் ஏற்பட்ட சிறுமையை​க் கண்ட மனிதன்.a. Continue reading: label 'a' not needed.\n\nWait, remove that.\n\nஎரேமியா 20:1,2-ல் இருப்பதுபோல.\n\nOops let me redo anchor properly.\n\ncorrect anchor: கோபத்தின் பிரம்பினால் ஏற்பட்ட சிறுமையை​க் கண்ட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.5",
+   "source_hash": "00d27cf2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.5#p1-00d27cf2",
+     "text": "தேவனுடைய கடுமையான நியாயத்தீர்ப்பை உணர்ந்தவனாகவும், அதைக் கடுமையாகப் பயந்தவனாகவும் இருந்ததால் இவ்வாறு சொல்கிறான்; ஆகவே அவற்றை இவ்வளவு விதவிதமான வார்த்தைகளால் விவரிக்கிறான்.",
+     "anchor": "மதிலைக்கட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.8",
+   "source_hash": "c44b6177",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.8#p1-c44b6177",
+     "text": "தேவபக்தியுள்ளவர்கள் தங்கள் ஜெபத்தின் பலனைக் காணாதிருக்கும்போது அது அவர்களுக்கு ஒரு பெரிய சோதனையாய் இருந்து, தங்கள் ஜெபம் கேட்கப்படவில்லை என்று அவர்கள் நினைக்கும்படி செய்கிறது; இதை தேவன், அவர்கள் அதிக ஊக்கத்துடனும் அடிக்கடியும் ஜெபம்பண்ணும்படி பயன்படுத்துகிறார்.",
+     "anchor": "என் ஜெபத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.9",
+   "source_hash": "49d456e5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.9#p1-49d456e5",
+     "text": "என்னைச் சிறைப்பட்டவனாக அடைத்து வைக்கிறார்.",
+     "anchor": "வெட்டின கற்களின் சுவரால் என் வழிகளை அடைத்துப்போட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.10",
+   "source_hash": "57905e33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.10#p1-57905e33",
+     "text": "அவர் என்மேல் இரக்கமில்லாதவராயிருக்கிறார்.",
+     "anchor": "பதுங்கியிருக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.15",
+   "source_hash": "bbacdcb2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.15#p1-bbacdcb2",
+     "text": "பெரும் வேதனையினாலும் துக்கத்தினாலும் அவர் என் உணர்வை இழக்கச்செய்தார்.",
+     "anchor": "எட்டியினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.18",
+   "source_hash": "521f6f6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.18#p1-521f6f6d",
+     "text": "இவ்வாறு அவன் நம்பிக்கைக்கும் நிராசைக்கும் இடையே வேதனையுடன் அலைக்கழிக்கப்பட்டான், தேவபக்தியுள்ளவர்கள் அடிக்கடி இருப்பது போலவே; ஆனாலும் முடிவில் ஆவியானது வெற்றி பெறுகிறது.",
+     "anchor": "யெகோவாவுக்குக் காத்திருந்த நம்பிக்கையும் அழிந்துபோனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.20",
+   "source_hash": "27a8bcf2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.20#p1-27a8bcf2",
+     "text": "தேவன் தம்முடையவர்களை இவ்விதமாக பயிற்றுவிப்பது, அதனால் அவர்கள் தங்களைத் தாங்களே அறிந்து, அவருடைய கிருபைகளை உணரும்படியேயாம் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "எனக்குள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.22",
+   "source_hash": "e70a66b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.22#p1-e70a66b6",
+     "text": "மனுஷனுடைய துன்மார்க்கத்தைக் கருதிப்பார்க்கும்போது, யாராவது உயிரோடு தப்பியிருக்கிறது ஒரு ஆச்சரியமே: ஆனாலும் தேவன் தமது சொந்த இரக்கங்களினிமித்தமும் தமது வாக்குத்தத்தத்தினிமித்தமும் தமது சபையை, அவர்கள் எண்ணிக்கையில் எவ்வளவு சிறியவர்களாயிருந்தாலும், என்றும் நிலைத்திருக்கச் செய்வார், ஏசாயா 1:9.",
+     "anchor": "நாம் அழிந்துபோகாமலிருக்கிறது இரக்கங்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.23",
+   "source_hash": "539d359b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.23#p1-539d359b",
+     "text": "நாம் தினந்தினம் உமது உபகாரங்களை உணருகிறோம்.",
+     "anchor": "காலைதோறும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.24",
+   "source_hash": "63081c5b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.24#p1-63081c5b",
+     "text": "தேவபக்தியுள்ளவர்கள் தங்கள் முழு நம்பிக்கையையும் தேவன்மேல் வைக்கிறார்கள்; ஆகையால் வேறொரு சுதந்தரத்தை நோக்காமல் இருக்கிறார்கள், சங்கீதம் 16:5-ல் இருப்பது போல.",
+     "anchor": "பங்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.27",
+   "source_hash": "208c1590",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.27#p1-208c1590",
+     "text": "நாம் சிலுவையின்கீழ் பயிற்சி பெறத் தொடங்குவதற்கு ஒருபோதும் அதிக சீக்கிரமாக இருக்கமுடியாது என்பதையும், துன்பங்கள் பெரிதாகும்போது, நமது பொறுமையும் அனுபவத்தினால் அதிகமாக பலமடையும் என்பதையும் அவர் காண்பிக்கிறார்.",
+     "anchor": "இளவயதில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.28",
+   "source_hash": "d54b0d28",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.28#p1-d54b0d28",
+     "text": "அவன் தேவனுக்கு விரோதமாக முறுமுறுக்காமல், பொறுமையாயிருக்கிறான்.",
+     "anchor": "மௌனமாயிருப்பானாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.29",
+   "source_hash": "96448ae5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.29#p1-96448ae5",
+     "text": "முகங்குப்புற தரையில் விழுகிறவர்கள் செய்வதுபோல் தன்னைத் தாழ்த்தி, இவ்விதமாகப் பொறுமையோடு ஆறுதலுக்காக எதிர்பார்த்திருக்கிறான்.",
+     "anchor": "தன் வாய் மண்ணில்படும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.33",
+   "source_hash": "eb0060e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.33#p1-eb0060e9",
+     "text": "அவர் அதில் பிரியம் கொள்ளுகிறதில்லை, ஆனாலும் நம்முடைய திருத்தத்திற்காக அவசியத்தினிமித்தம் அதைச் செய்கிறார், துன்மார்க்கர் ஏழைகளை ஒடுக்குவதற்கு அவர் அனுமதிக்கும்போது.",
+     "anchor": "மனப்பூர்வமாக மனுமக்களைச் சிறுமையாக்கி வருத்தப்படுத்துகிறதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.36",
+   "source_hash": "5294fb09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.36#p1-5294fb09",
+     "text": "அவர் அதில் பிரியமாயிருக்கிறதில்லை.",
+     "anchor": "காணாதிருப்பாரோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.37",
+   "source_hash": "9bcced66",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.37#p1-9bcced66",
+     "text": "தேவனுடைய பராமரிப்பினாலேயன்றி ஒன்றும் நடைபெறுவதில்லை என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "கட்டளையிடாமல் இருக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.38",
+   "source_hash": "e8274cec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.38#p1-e8274cec",
+     "text": "அதாவது, ஆபத்தும் செழிப்பும், ஆமோஸ் 3:6.",
+     "anchor": "தீமையும் நன்மையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.39",
+   "source_hash": "0d9a12f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.39#p1-0d9a12f2",
+     "text": "தேவன் அவனை உபத்திரவப்படுத்தும்போது.",
+     "anchor": "முறையிடுவானேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.41",
+   "source_hash": "598380fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.41#p1-598380fe",
+     "text": "அதாவது, இருதயத்தையும் கைகளையும் சேர்த்தே ஏறெடுக்க வேண்டும்: அப்படியில்லாவிட்டால் கைகளை ஏறெடுப்பது வெறும் மாயமாய் இருக்கும்.",
+     "anchor": "நம்முடைய கைகளோடுங்கூட நம்முடைய இருதயத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.51",
+   "source_hash": "1380a48d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.51#p1-1380a48d",
+     "text": "என் அனைத்து மக்களினிமித்தமும் கடுமையான அழுகையால் நான் மேற்கொள்ளப்பட்டிருக்கிறேன்.",
+     "anchor": "என் ஆத்துமாவுக்கு வேதனையுண்டாக்குகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.53",
+   "source_hash": "b6430e4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.53#p1-b6430e4f",
+     "text": "அவன் சேற்றுள்ள படுகுழியில் இருந்தது எப்படியென்று எரேமியா 37:16-ல் வாசிக்கவும்.",
+     "anchor": "படுகுழியிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.3.58",
+   "source_hash": "026f0968",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.3.58#p1-026f0968",
+     "text": "அதாவது, அவனுடைய உயிர் ஆபத்தில் இருந்ததற்குக் காரணம்.",
+     "anchor": "ஆத்துமாவின்"
+    }
+   ]
+  }
+ ]
+}

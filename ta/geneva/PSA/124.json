@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 124,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.124.1",
+   "source_hash": "c8b7a984",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.124.1#p1-c8b7a984",
+     "text": "தேவன் தேவைவேளையில் உதவிசெய்ய தயாராயிருந்தார் என்றும், இந்த வழியைத் தவிர வேறு எந்த வழியிலும் இரட்சிக்கப்படுவதற்கு வழியில்லை என்றும் அவர் காண்பிக்கிறார்.",
+     "anchor": "நமது பக்கத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.124.3",
+   "source_hash": "36282b0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.124.3#p1-36282b0b",
+     "text": "நாம் எதிர்த்து நிற்க முடியாதவர்களாக இருந்தோம்.",
+     "anchor": "உயிரோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.124.4",
+   "source_hash": "4d891a12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.124.4#p1-4d891a12",
+     "text": "சபை இருந்த பெரிய ஆபத்தை விளக்கவும், அதிலிருந்து தேவன் அற்புதமாக அவர்களை விடுவித்ததைக் காண்பிக்கவும் அவர் ஏற்ற உவமைகளைப் பயன்படுத்துகிறார்.",
+     "anchor": "தண்ணீர்கள் நம்மேல் பாய்ந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.124.7",
+   "source_hash": "0ad13bb2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.124.7#p1-0ad13bb2",
+     "text": "ஏனெனில் துன்மார்க்கர் உண்மையுள்ளவர்களுக்கு விரோதமாக கடுங்கோபத்துடன் கிளர்ந்தெழுவது மட்டுமல்ல, அவர்களை அழிக்கத் தந்திரமாகச் சூழ்ச்சிசெய்தார்கள்.",
+     "anchor": "வேடருடைய கண்ணிக்குத்"
+    }
+   ]
+  }
+ ]
+}

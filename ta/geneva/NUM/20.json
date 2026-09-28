@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.20.1",
+   "source_hash": "652f42b7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.1#p1-ddf5964c",
+     "text": "இது அவர்கள் எகிப்திலிருந்து புறப்பட்டு நாற்பது வருடங்களுக்குப் பின்பு நடந்தது.",
+     "anchor": "முதலாம் மாதத்தில்"
+    },
+    {
+     "id": "geneva/NUM.20.1#p2-bc88d56e",
+     "text": "மோசேயின் மற்றும் ஆரோனின் சகோதரி.",
+     "anchor": "மிரியாம் மரணமடைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.2",
+   "source_hash": "daffb097",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.2#p1-daffb097",
+     "text": "மற்றொரு கலகம் ரெவிதீமிலே நடந்தது யாத்திராகமம் 17:1-16; இதுவோ காதேசிலே நடந்தது.",
+     "anchor": "மோசேக்கும் ஆரோனுக்கும் விரோதமாகக் கூட்டம்கூடினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.8",
+   "source_hash": "c461d966",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.8#p1-c461d966",
+     "text": "அதைக்கொண்டு நீ எகிப்திலிருந்து அற்புதங்களைச் செய்து கடலைப் பிரித்தாய்.",
+     "anchor": "கோலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.10",
+   "source_hash": "0e2b0f37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.10#p1-0e2b0f37",
+     "text": "பின்வந்த தண்டனை, மோசேயும் ஆரோனும் எண்ணாகமம் 20:12-ல் காணப்படுகிறபடி கர்த்தருடைய வாக்குத்தத்தத்தை விசுவாசிக்கவில்லை என்பதை வெளிப்படுத்தியது.",
+     "anchor": "நாங்கள் தண்ணீர் புறப்படச்செய்வோமோ {e}"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.12",
+   "source_hash": "18b4c88d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.12#p1-18b4c88d",
+     "text": "இஸ்ரவேல் மக்கள் என் வல்லமையை விசுவாசித்து அறிக்கையிட்டு, அதன்மூலம் என்னை மகிமைப்படுத்த வேண்டும்.",
+     "anchor": "கண்களுக்கு முன்பாக என்னைப் பரிசுத்தம்செய்யும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.13",
+   "source_hash": "547bc904",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.13#p1-547bc904",
+     "text": "தமது சர்வவல்லமையைக் காண்பித்து, தமது மகிமையைக் காத்துக்கொண்டதினால்.",
+     "anchor": "அவருடைய பரிசுத்தம் விளங்கினதினாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.14",
+   "source_hash": "3be642fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.14#p1-3be642fc",
+     "text": "யாக்கோபு அல்லது இஸ்ரவேல் ஏதோம் என்று அழைக்கப்பட்ட ஏசாவின் சகோதரனாக இருந்தபடியால்.",
+     "anchor": "ஏதோமின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.21",
+   "source_hash": "59e2f985",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.21#p1-59e2f985",
+     "text": "வேறொரு வழியாகக் கடந்துசெல்ல வேண்டியதற்காக.",
+     "anchor": "விலகிப் போனார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.20.24",
+   "source_hash": "bc03678f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.20.24#p1-bc03678f",
+     "text": "ஆதியாகமம் 25:8-ஐ பார்க்கவும்.",
+     "anchor": "தன் இனத்தாருடன் சேர்க்கப்படுவான்.mockedscript(fictionalize)Ah, correction needed."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,437 @@
+{
+ "source": "geneva",
+ "book": "MRK",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/MRK.1.2",
+   "source_hash": "3a286ce9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.2#p1-7063c6f7",
+     "text": "தீர்க்கதரிசிகளால் முன்னறிவிக்கப்பட்டபடியே யோவான் கிறிஸ்துவிற்கு முன்பாகச் செல்கிறான்.",
+     "anchor": "எழுதியிருக்கிறபடி"
+    },
+    {
+     "id": "geneva/MRK.1.2#p2-04396eaf",
+     "text": "இது மாற்றுப் பெயர் அணி (metonymy) என்னும் சொல்லணி வகையாகும், இதனால் மல்கியா மற்றும் ஏசாயா தீர்க்கதரிசிகளின் புத்தகங்கள் குறிக்கப்படுகின்றன.",
+     "anchor": "தீர்க்கதரிசிகள்"
+    },
+    {
+     "id": "geneva/MRK.1.2#p3-f2635182",
+     "text": "தீர்க்கதரிசி வரப்போகும் ஒரு காரியத்தைக் குறித்துப் பேசும்போது நிகழ்காலத்தைப் பயன்படுத்துகிறார், ஏனெனில் தான் அதைப் பார்த்தே இருப்பதைப்போல உறுதியாக அறிந்திருக்கிறார்.",
+     "anchor": "நான் என் தூதுவனை அனுப்புகிறேன்"
+    },
+    {
+     "id": "geneva/MRK.1.2#p4-a62abbd0",
+     "text": "இது ராஜாக்களின் வழக்கத்திலிருந்து எடுக்கப்பட்ட உருவகம், அவர்களுக்கு முன்பாகச் செல்லும் வழிநடத்திகளை வைத்திருந்த வழக்கத்தைக் குறிக்கிறது.",
+     "anchor": "உமக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.4",
+   "source_hash": "9c0b3228",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.4#p1-43474ca1",
+     "text": "யோவானுடைய உபதேசத்தின், அல்லது அதிலும் கிறிஸ்துவினுடைய உபதேசத்தின் சாராம்சம், பாவமன்னிப்பும் வாழ்க்கையின் திருத்தமுமே.",
+     "anchor": "யோவான் வனாந்திரத்தில் ஞானஸ்நானம் கொடுத்து"
+    },
+    {
+     "id": "geneva/MRK.1.4#p2-d34f73d3",
+     "text": "யூதர்கள் பலவித கழுவுதல்களைப் பயன்படுத்தி வந்தார்கள்: ஆனால் இங்கே ஒரு விசேஷித்த வித கழுவுதலைக் குறிக்கிறது, அது தன்னுள்ளே உண்மையான ஞானஸ்நானத்தையும், வாழ்க்கையின் திருத்தத்தையும், பாவங்களின் மன்னிப்பையும் அடக்கியுள்ளது.",
+     "anchor": "பாவமன்னிப்புக்கென்று மனந்திரும்புதலுக்கான ஞானஸ்நானத்தைப்பற்றி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.7",
+   "source_hash": "41c2d0fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.7#p1-6da7e7c8",
+     "text": "யோவானும் எல்லா ஊழியக்காரரும் தங்கள் கண்களைக் கர்த்தராகிய கிறிஸ்துவின்மேல் நிலைப்படுத்துகிறார்கள்.",
+     "anchor": "பிரசங்கம் செய்து"
+    },
+    {
+     "id": "geneva/MRK.1.7#p2-2cb82675",
+     "text": "இங்கே சுவிசேஷகன் மிக இழிவான வேலையாளுடைய நிலையை விவரிக்கிறான்.",
+     "anchor": "குனிந்து அவிழ்ப்பதற்குக்கூட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.8",
+   "source_hash": "2fde6949",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.8#p1-2fde6949",
+     "text": "ஞானஸ்நானத்தின் வல்லமை முழுவதும் கிறிஸ்துவினின்று வருகிறது என்பதைக் காண்பிக்கிறான்; அவரே உள்மனிதனுக்கு ஞானஸ்நானம் கொடுக்கிறவர்.",
+     "anchor": "தண்ணீரினால் உங்களுக்கு ஞானஸ்நானம் கொடுக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.9",
+   "source_hash": "a66c65be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.9#p1-a66c65be",
+     "text": "கிறிஸ்து தம்மில் நமது ஞானஸ்நானத்தைப் பரிசுத்தமாக்குகிறார்.",
+     "anchor": "அந்த நாட்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.10",
+   "source_hash": "01a861cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.10#p1-6e731e83",
+     "text": "கிறிஸ்து சபையின் தலையாக பரலோகத்தில் இருந்து அழைக்கப்பட்டது.",
+     "anchor": "உடனே"
+    },
+    {
+     "id": "geneva/MRK.1.10#p2-ad00cc0c",
+     "text": "கிறிஸ்துவுடன் தண்ணீரில் இறங்கின யோவான்.",
+     "anchor": "தண்ணீரில் இருந்து கரையேறின"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.11",
+   "source_hash": "5921d584",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.11#p1-5921d584",
+     "text": "பார்க்க Geneva \"மத் 3:17\"",
+     "anchor": "பிரியமாக இருக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.12",
+   "source_hash": "e6a3bcfa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.12#p1-28802c42",
+     "text": "கிறிஸ்து சோதிக்கப்பட்டும் மேற்கொள்கிறார்.",
+     "anchor": "உடனே ஆவியானவர்"
+    },
+    {
+     "id": "geneva/MRK.1.12#p2-1a68499b",
+     "text": "\"ஏவினார்\" என்பது இங்கே கடுமையான, பலவந்தமான ஒன்றைக் குறிக்கவில்லை; மாறாக, இதுவரை ஒரு தனிமனிதனாக வாழ்ந்து வந்த கிறிஸ்துவை தேவ வல்லமை புதிய நபராகக் கோலமிட்டு, அருகில் இருந்த போராட்டத்திற்கும், அவரது ஊழியத்திற்கும் அவரை ஆயத்தப்படுத்துகிறது.",
+     "anchor": "அவரை வனாந்திரத்திற்குப் போகும்படி ஏவினார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.14",
+   "source_hash": "a750bb9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.14#p1-a750bb9f",
+     "text": "யோவான் சிறைக்காவலில் வைக்கப்பட்ட பின்பு கிறிஸ்து தம்மைத்தான் இன்னும் அதிகமாக வெளிப்படுத்துகிறார்.",
+     "anchor": "யோவான் சிறைக்காவலில் வைக்கப்பட்டபின்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.16",
+   "source_hash": "d8852f6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.16#p1-d8852f6d",
+     "text": "சீமோனும் அந்திரேயாவும் அழைக்கப்பட்டது.",
+     "anchor": "அவர் கலிலேயா கடலின் ஓரமாக நடந்துபோகும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.19",
+   "source_hash": "db06ecc7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.19#p1-db06ecc7",
+     "text": "யாக்கோபும் யோவானும் அழைக்கப்பட்டது.",
+     "anchor": "சற்றுதூரம் சென்றபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.21",
+   "source_hash": "827ffa02",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.21#p1-827ffa02",
+     "text": "நாசரேத்து பட்டணத்திலிருந்து.",
+     "anchor": "கப்பர்நகூமுக்குப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.23",
+   "source_hash": "e1303290",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.23#p1-e77f921d",
+     "text": "சாத்தானை உலகத்திலிருந்து துரத்திவிடும் ஒரே உபதேசத்தை அவர் பிரசங்கம் செய்கிறார், அதை அவர் ஒரு அற்புதத்தினாலும் உறுதிப்படுத்துகிறார்.",
+     "anchor": "அவர்களுடைய ஜெப ஆலயத்திலே"
+    },
+    {
+     "id": "geneva/MRK.1.23#p2-cbc57577",
+     "text": "மொழிப்படி, \"அசுத்த ஆவியில் இருந்த ஒரு மனிதன்\", அதாவது, ஒரு கெட்ட ஆவியினால் பிடிக்கப்பட்டவன் என்று பொருள்.",
+     "anchor": "அசுத்தஆவி பிடித்திருந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.24",
+   "source_hash": "cf691d7c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.24#p1-6bcde1d5",
+     "text": "அவர் பெத்லகேமிலே பிறந்தார்; ஆனால் மக்களின் தவறான எண்ணத்தால் அவர் நசரேயன் என்று அழைக்கப்பட்டார், ஏனெனில் அவர் நாசரேத்திலே வளர்க்கப்பட்டார்.",
+     "anchor": "நசரேயனாகிய இயேசுவே"
+    },
+    {
+     "id": "geneva/MRK.1.24#p2-c2fad23c",
+     "text": "அவன் பிரதான ஆசாரியன் அணிந்திருந்த பொற்தகட்டில் எழுதப்பட்டிருந்த பெயரைக் குறிக்கிறான்; யாத். 28:36",
+     "anchor": "தேவனுடைய பரிசுத்தர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.26",
+   "source_hash": "cf6d4cf7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.26#p1-cf6d4cf7",
+     "text": "கீழே காண்க, மாற்கு 9:20.",
+     "anchor": "அலைக்கழித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.27",
+   "source_hash": "4e6c5926",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.27#p1-6f31fa7c",
+     "text": "ஆச்சரியப்பட்ட மனிதர்கள் என்பது போல.",
+     "anchor": "தங்களுக்குள்ளே ஒருவரோடொருவர்"
+    },
+    {
+     "id": "geneva/MRK.1.27#p2-04504e31",
+     "text": "தமது சொந்த அதிகாரத்தினால், அல்லது ஒரு கர்த்தரைப்போல.",
+     "anchor": "இவர் அதிகாரத்தோடு அசுத்தஆவிகளுக்குக் கட்டளைக் கொடுக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.28",
+   "source_hash": "6c090e2b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.28#p1-6c090e2b",
+     "text": "கலிலேயாவில் மாத்திரமல்ல, அதைச் சுற்றியிருந்த நாடுகளிலும்.",
+     "anchor": "கலிலேயா நாடு முழுவதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.29",
+   "source_hash": "9ef4299a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.29#p1-9ef4299a",
+     "text": "பலவித வியாதிகளைச் சுகமாக்குகிறதினால், அவர் உண்மையான ஜீவனை உலகத்திற்குக் கொண்டுவந்தார் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "உடனே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.34",
+   "source_hash": "695e8a53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.34#p1-695e8a53",
+     "text": "ஏனெனில் பிசாசுகள் நற்செய்தியைப் பிரசங்கம் செய்வது தகுதியல்ல; அப்போஸ்தலருடைய நடபடிகள் 16:18",
+     "anchor": "அவைகள் பேசுகிறதற்கு அவர் அனுமதிக்கவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.38",
+   "source_hash": "b11242ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.38#p1-b11242ee",
+     "text": "பட்டணங்களைப் போன்று இருந்த கிராமங்கள்.",
+     "anchor": "அடுத்த ஊர்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.40",
+   "source_hash": "086a75b1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.40#p1-086a75b1",
+     "text": "குஷ்டரோகியைச் சுகமாக்குகிறதினால், உலகத்தின் பாவங்களைத் தம்முடைய தொடுதலினால் நீக்குகிறதற்காகவே தாம் வந்தார் என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "குஷ்டரோகி ஒருவன் அவரிடம் வந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MRK.1.44",
+   "source_hash": "faee1355",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MRK.1.44#p1-48cb623d",
+     "text": "தமக்குள் ஸ்வயநலமான ஆசை எதுவும் இல்லை என்றும், தமது பிதாவின் மகிமையிலும், ஏழை பாவிகள்மேலுள்ள அன்பினாலுமே தாம் இப்படிச் செய்தார் என்றும் அவர் காண்பிக்கிறார்.",
+     "anchor": "உறுதியாகச் சொல்லி"
+    },
+    {
+     "id": "geneva/MRK.1.44#p2-0d43efa1",
+     "text": "ஆரோனின் சந்ததியார் அனைவருக்கும் குஷ்டரோகியைத் தீர்மானிக்கும் அதிகாரம் இருந்தது.",
+     "anchor": "ஆசாரியனுக்கு"
+    }
+   ]
+  }
+ ]
+}

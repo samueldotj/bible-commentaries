@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 121,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.121.2",
+   "source_hash": "0ddbb36e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.2#p1-0ddbb36e",
+     "text": "மனுஷனுடைய நன்றிகெட்ட தன்மையைக் குறிக்கிறார், அது தேவனுடைய வல்லமையின்மேல் நம்பிக்கை வைக்காதிருக்கிறது.",
+     "anchor": "வானத்தையும் பூமியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.3",
+   "source_hash": "7af3cd71",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.3#p1-7af3cd71",
+     "text": "தேவனுடைய பராமரிப்பு தமது சபையின் மேல் பொதுவாக மாத்திரமல்ல, அதின் ஒவ்வொரு அங்கத்தினர் மேலும் கண் வைத்திருக்கிறது என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "உறங்கமாட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.6",
+   "source_hash": "1ae27c6e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.6#p1-1ae27c6e",
+     "text": "வெயிலோ, குளிரோ, எந்தவித தொல்லையும் தேவனுடைய சபையை அழிக்க முடியாது, அது சிறிது காலம் அதை வருத்தினாலும்.",
+     "anchor": "பகலிலே வெயிலோ, இரவிலே நிலவோ உன்னைச் சேதப்படுத்துவதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.121.8",
+   "source_hash": "b32687d2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.121.8#p1-b32687d2",
+     "text": "நீர் மேற்கொள்ளும் எந்தச் செயலும் நல்ல வெற்றியைப் பெறும்.",
+     "anchor": "போக்கையும் உன்னுடைய வரத்தையும்"
+    }
+   ]
+  }
+ ]
+}

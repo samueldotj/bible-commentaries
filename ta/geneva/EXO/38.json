@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 38,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.38.4",
+   "source_hash": "97a242db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.4#p1-97a242db",
+     "text": "இவ்வாறு சல்லடை அல்லது கிராதி பலிபீடத்தின் பாதி உயரத்தில் இருந்து, அதற்குள் நின்றது.",
+     "anchor": "சுற்றுக்குக் கீழே பாதி உயரத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.8",
+   "source_hash": "32d40223",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.8#p1-32d40223",
+     "text": "ரப்பி கிம்கி சொல்கிறபடி, பெண்கள் வெண்கலத்தினாலாகிய அல்லது நல்ல உலோகத்தினாலாகிய தங்கள் கண்ணாடிகளைக் கொண்டுவந்து, அவைகளை ஆசரிப்புக்கூடாரத்தின் பயனுக்காக மனப்பூர்வமாக நேர்ந்துகொடுத்தார்கள்; அது பிரகாசமும் மகா மகிமையுமுள்ள ஒரு பொருளாயிருந்தது.",
+     "anchor": "கூட்டம் கூட்டமாகக் கூடின பெண்கள் கண்ணாடியாக பயன்படுத்தின வெண்கலம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.21",
+   "source_hash": "41b75b0d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.21#p1-41b75b0d",
+     "text": "லேவியர்கள் அதைப் பொறுப்பாய் வைத்து, எலெயாசாரும் இத்தாமாரும் செய்ததுபோல அதிலே ஊழியம் செய்யும்படியே, எண்ணாகமம் 3:4.",
+     "anchor": "லேவியர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.23",
+   "source_hash": "378ea35d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.23#p1-378ea35d",
+     "text": "அல்லது, ஒரு சிற்பியாகிய, அல்லது தச்சனாகிய, யாத்திராகமம் 36:4.",
+     "anchor": "அலங்காரக் கொத்துவேலைக்காரனும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.38.29",
+   "source_hash": "0fae37e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.38.29#p1-0fae37e2",
+     "text": "தாலந்தின் நிறையைப் பற்றி, யாத்திராகமம் 25:39-ல் காண்க.",
+     "anchor": "தாலந்தும்"
+    }
+   ]
+  }
+ ]
+}

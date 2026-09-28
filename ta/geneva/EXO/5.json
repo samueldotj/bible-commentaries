@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.5.1",
+   "source_hash": "7e8fe94d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.1#p1-b7a74b19",
+     "text": "விசுவாசம் பயத்தை மேற்கொள்ளும், அது மனிதர்களைத் தங்கள் அழைப்பில் தைரியமுள்ளவர்களாக்கும்.",
+     "anchor": "பார்வோனிடம்"
+    },
+    {
+     "id": "geneva/EXO.5.1#p2-4b9644e0",
+     "text": "பலியிடும்படி.",
+     "anchor": "பண்டிகை கொண்டாடும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.5",
+   "source_hash": "57b0acfc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.5#p1-57b0acfc",
+     "text": "நீங்கள் கலகம் செய்யப்போகிறீர்கள் என்பதுபோல.",
+     "anchor": "சுமை சுமக்கிறதைவிட்டு ஓய்ந்திருக்கும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.6",
+   "source_hash": "7918fa0e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.6#p1-7918fa0e",
+     "text": "இவர்கள் இஸ்ரவேலரிலிருந்து இருந்தவர்களாக, இஸ்ரவேலர் தங்கள் வேலையைச் செய்வதைக் கண்காணிக்கும் பொறுப்புடையவர்களாக இருந்தனர்.",
+     "anchor": "தலைவர்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.9",
+   "source_hash": "75807d40",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.9#p1-f7f7d369",
+     "text": "கொடுங்கோன்மையின் கடுமை அதிகரிக்கும்போது, தேவனுடைய உதவி மிக அருகில் இருக்கும்.",
+     "anchor": "முன்பைவிட அதிக வேலையைச் சுமத்துங்கள்"
+    },
+    {
+     "id": "geneva/EXO.5.9#p2-ec050f19",
+     "text": "மோசேயும் ஆரோனும் சொன்னவை.",
+     "anchor": "வீண்வார்த்தைகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.5.21",
+   "source_hash": "338e3bd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.5.21#p1-338e3bd0",
+     "text": "தேவனுடைய ஊழியர்கள் தங்கள் கடமையைச் செய்யும்போது, குறிப்பாகத் தங்கள் சொந்த சகோதரரால், தீமை செய்தவர்கள் என்று குற்றஞ்சாட்டப்படுவது கடும் துன்பமான காரியமாகும்.",
+     "anchor": "அவர்களுடைய கையிலே பட்டயத்தைக் கொடுத்தது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.15.2",
+   "source_hash": "9ea497e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.2#p1-03c5e5f5",
+     "text": "அதாவது, வீணான வார்த்தைகள், ஆறுதல் இல்லாதவை.",
+     "anchor": "காற்றைப்போன்ற நியாயங்களை"
+    },
+    {
+     "id": "geneva/JOB.15.2#p2-57576ead",
+     "text": "அர்த்தம், முக்கியத்துவம் இல்லாத காரியங்களைக் கொண்டு, அவை சொல்லப்பட்ட உடனே மறக்கப்படுகின்றன, கொண்டல்காற்று விழுந்த உடனே ஈரத்தை உலர்த்துவதைப் போல.",
+     "anchor": "கொண்டல்காற்றினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.4",
+   "source_hash": "c679f1ab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.4#p1-c679f1ab",
+     "text": "யோபுவின் பேச்சு மனிதர்கள் தேவனுக்குப் பயப்படுதலையும் ஜெபத்தையும் விட்டுவிடும்படி காரணமாயிருக்கிறது என்று அவன் யோபுவின்மேல் குற்றஞ்சாட்டுகிறான்.",
+     "anchor": "பயபக்தியை வீணென்று சொல்லி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.5",
+   "source_hash": "e905ad04",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.5#p1-e905ad04",
+     "text": "தேவனை பரிகாசம் செய்து அவமதிக்கிறவர்கள் பேசுவதுபோலவே நீரும் பேசுகிறீர்.",
+     "anchor": "தந்திரமுள்ளவர்களின் சொல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.7",
+   "source_hash": "438dd01e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.7#p1-438dd01e",
+     "text": "அதாவது, மிகவும் பழையவரும் அதனால் காரணமாக மிகவும் ஞானமுள்ளவருமா என்பதாம்.",
+     "anchor": "முந்திப் பிறந்தவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.8",
+   "source_hash": "d6aae822",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.8#p1-d6aae822",
+     "text": "நீர் மட்டும்தான் ஞானமுள்ளவரோ?",
+     "anchor": "உம்மிடமாகச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.11",
+   "source_hash": "7a6d5415",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.11#p1-7a6d5415",
+     "text": "தேவனால் வரும் ஆறுதலால் திருப்தியடையாமல், தன்னுடைய ஆலோசனையினால் மட்டுமே திருப்தியடைய விரும்பும் யோபுவின் அகந்தையையும் நன்றியில்லாத தன்மையையும் இவன் குற்றஞ்சாட்டுகிறான்.",
+     "anchor": "இழிவான காரியமாயிருக்கிறதோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.12",
+   "source_hash": "efabaa90",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.12#p1-efabaa90",
+     "text": "நீர் ஏன் உம்முடைய சொந்த எண்ணத்தில் நிலைத்து நிற்கிறீர்?",
+     "anchor": "கொண்டுபோகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.14",
+   "source_hash": "93b1198a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.14#p1-93b1198a",
+     "text": "அநியாயக்காரனும் மாயக்காரனுமாகிய யோபு தன் பாவங்களுக்காக தண்டிக்கப்படுகிறான் என்று நிரூபிப்பதே இவனுடைய நோக்கமாகும், இதை முன்பே அவன் யோபு 4:8-ல் செய்திருந்தான்.",
+     "anchor": "நீதிமானாயிருக்கிறதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.16",
+   "source_hash": "cbd3a18a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.16#p1-cbd3a18a",
+     "text": "தாகமுள்ளவன் தண்ணீர் குடிக்க விரும்புவதுபோல, பாவம் செய்ய விரும்புகிறவன்.",
+     "anchor": "அநியாயத்தைத் தண்ணீரைப்போலக் குடிக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.19",
+   "source_hash": "755bb2a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.19#p1-755bb2a1",
+     "text": "தங்கள் ஞானத்தினாலே அவர்கள் இவ்வளவாய் ஆண்டார்கள், அதனால் ஒரு அந்நியனும் அவர்களை ஆக்கிரமிக்கவில்லை; இவ்விதமாக அந்த பூமி அவர்களுக்குமாத்திரம் அளிக்கப்பட்டதாகத் தோன்றியது.",
+     "anchor": "அளிக்கப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.20",
+   "source_hash": "78482b08",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.20#p1-78482b08",
+     "text": "கொடியவன் எப்பொழுதும் மரண அபாயத்திலிருக்கிறான், மனச்சாட்சியில் ஒருபோதும் அமைதி பெறுவதில்லை.",
+     "anchor": "வருடங்களின் எண்ணிக்கை மறைக்கப்பட்டிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.22",
+   "source_hash": "60e0c211",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.22#p1-60e0c211",
+     "text": "அவன் ஒருமுறை விழுந்த அந்தத் துன்பத்திலிருந்து.",
+     "anchor": "இருளிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.23",
+   "source_hash": "975042a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.23#p1-975042a1",
+     "text": "தேவன் துன்மார்க்கரை பெரும்பாலும் வறுமையடையச் செய்வது மட்டுமல்ல, அவர்களுடைய செல்வவளத்திலும் இன்னும் அதிகமாக சம்பாதிக்க வேண்டுமென்ற பேராசையினால் அவர்களைத் தண்டிக்கிறார்; இது ஒருவகையான யாசகமாகவே இருக்கும்.",
+     "anchor": "அப்பம் எங்கே கிடைக்கும் என்று அவன் அலைந்து திரிகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.24",
+   "source_hash": "4926d8d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.24#p1-4926d8d8",
+     "text": "தேவன் தமக்கு விரோதமாகத் தங்களை உயர்த்துகிற துன்மார்க்கருக்கு விரோதமாகப் பயன்படுத்தும் ஆயுதங்களை அவர் காண்பிக்கிறார், அதாவது, மனச்சாட்சியின் பயமும் வெளியான உபத்திரவங்களும்.",
+     "anchor": "இக்கட்டும் நெருக்கமும் அவனைக் கலங்கச்செய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.27",
+   "source_hash": "cbf3b446",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.27#p1-cbf3b446",
+     "text": "அதாவது, அவன் செல்வத்தினாலும் எல்லாவற்றின் பரிபூரணத்தினாலும் அப்படிச் செருக்குற்றுப்போனான், தேவனை மறந்துவிட்டான்: இது யோபு தன் சுகவாழ்வில் தேவனுக்குப் பயப்படும் உண்மையான பயம் இல்லாதிருந்தான் என்பதைக் குறிக்கிறது.",
+     "anchor": "அவனுடைய முகத்தைக் கொழுப்பு மூடியிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.28",
+   "source_hash": "3a52dcff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.28#p1-3a52dcff",
+     "text": "அவன் புகழ்பெற வேண்டி பாழான இடங்களைக் கட்டி புதுப்பித்தாலும், தேவன் எல்லாவற்றையும் அழித்து, அவனுடைய பெரிய செல்வச் செழிப்பை மிகுந்த துன்பமாக மாற்றுவார்.",
+     "anchor": "பாழான பட்டணங்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.29",
+   "source_hash": "4b750a89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.29#p1-4b750a89",
+     "text": "அதாவது, அவன் கட்டிய பெரிய கட்டிடங்கள் ஒருபோதும் முடிவுபெறாது என்பது பொருள்.",
+     "anchor": "பூமியில் நீடித்திருப்பதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.31",
+   "source_hash": "396ad48e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.31#p1-396ad48e",
+     "text": "அவன் தன் சுயநினைப்பில் நிலைத்திருக்கிறான், நல்ல ஆலோசனைக்கு இடங்கொடான்; ஆகையால் அவனுடைய சொந்த அகந்தையே அவனை அழிவுக்குக் கொண்டுவரும்.",
+     "anchor": "வழிதப்பினவன் மாயையை நம்பக்கூடாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.33",
+   "source_hash": "27cdc01c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.33#p1-27cdc01c",
+     "text": "பழுக்குமுன் திராட்சைப்பழங்களைப் பறிக்கிறவனைப் போல.",
+     "anchor": "பிஞ்சுகள் உதிர்ந்துபோகிற திராட்சைச்செடியைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.34",
+   "source_hash": "2c214138",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.34#p1-2c214138",
+     "text": "லஞ்சத்தால் கட்டப்பட்ட அல்லது காக்கப்பட்டவர்கள்.",
+     "anchor": "லஞ்சம் வாங்கினவர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.15.35",
+   "source_hash": "68e6e771",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.15.35#p1-68e6e771",
+     "text": "ஆகையால் அவர்களுடைய வீணான சிந்தனைகளெல்லாம் அவர்கள் தங்களுடைய சொந்த அழிவுக்கே வழிநடத்தும்.",
+     "anchor": "அநியாயத்தைக் கர்ப்பந்தரித்து"
+    }
+   ]
+  }
+ ]
+}

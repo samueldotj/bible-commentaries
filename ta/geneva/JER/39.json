@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 39,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JER.39.2",
+   "source_hash": "4b9a4efe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.2#p1-4b9a4efe",
+     "text": "வாசல்களும் மதில்களும் இடிக்கப்பட்டன.",
+     "anchor": "உடைக்கப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.4",
+   "source_hash": "de9abb24",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.4#p1-de9abb24",
+     "text": "இது ஒரு பின்வாசல் ஆகும், 2 இராஜாக்கள் 25:4-ஐ வாசிக்கவும்.",
+     "anchor": "இரண்டு மதில்களுக்கு நடுவான வாசலால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.5",
+   "source_hash": "38ca9dea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.5#p1-38ca9dea",
+     "text": "இது சீரியாவிலுள்ள அந்தியோகியா என்று அழைக்கப்படுகிறது.",
+     "anchor": "ஆமாத் தேசத்தின் ஊராகிய ரிப்லா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.10",
+   "source_hash": "04a809ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.10#p1-04a809ba",
+     "text": "ஏனெனில் தங்களுடைய உபாயங்களையும் வழிமுறைகளையும் நம்பியிருந்த செல்வந்தரும் பலமுள்ளவர்களும், தேவனுடைய நீதியான நியாயத்தீர்ப்புகளினால் மிகக் கடுமையாக நடத்தப்பட்டார்கள்.",
+     "anchor": "ஒன்றுமில்லாத ஏழைகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.12",
+   "source_hash": "2f93150e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.12#p1-2f93150e",
+     "text": "இவ்விதமாக தேவன் தம்முடைய தீர்க்கதரிசியை இவனைக்கொண்டு காப்பாற்றினார்; இராஜாவையும், அவனுடைய சத்துருக்களாயிருந்தவர்களையும் தண்டிக்கும்படி இவனையே தேவன் சாட்டையாக்கியிருந்தார்.",
+     "anchor": "அவன் உன்னுடன் சொல்லுகிறபடியெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.14",
+   "source_hash": "5f5e974f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.14#p1-5f5e974f",
+     "text": "பாபேலின் ராஜா தான் விட்டுவைத்த மற்ற யூதர்களின்மேல் ஆளுநனாக இப்பொழுது நியமித்திருந்தவன்.",
+     "anchor": "சாப்பானுடைய மகனாகிய அகீக்காமின் மகனான கெதலியா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.39.18",
+   "source_hash": "82cf7850",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.39.18#p1-82cf7850",
+     "text": "தன் தீர்க்கதரிசிக்கு அவனுடைய கஷ்டங்களில் அவன் காண்பித்த வைராக்கியத்திற்கும் தயவுக்கும் தேவன் இவ்விதமாக பலனளித்தார்.",
+     "anchor": "நீ என்னை நம்பி இருக்கிறதினால்"
+    }
+   ]
+  }
+ ]
+}

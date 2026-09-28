@@ -1,0 +1,188 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.21.1",
+   "source_hash": "ad5d0704",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.1#p1-ad5d0704",
+     "text": "கொலை செய்வது எவ்வளவு பயங்கரமானது என்பதை இந்த நியாயப்பிரமாணம் விளக்குகிறது, ஏனெனில் ஒருவன் நிமித்தமாக ஒரு தீர்வு காணப்படாவிட்டால் தேசம் முழுவதும் தண்டிக்கப்படும்.",
+     "anchor": "கொலை செய்யப்பட்டுக்கிடக்கிற ஒருவனை வெளியிலே கண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.4",
+   "source_hash": "e234fbb5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.4#p1-e234fbb5",
+     "text": "குற்றமற்ற மிருகத்தின் இரத்தம் ஒரு தனிமையான இடத்தில் சிந்தப்படுவதால், அவர்கள் அந்தச் செயலை அருவருக்கும்படி செய்யும்.",
+     "anchor": "பள்ளத்தாக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.8",
+   "source_hash": "f3995291",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.8#p1-f3995291",
+     "text": "இது மக்கள் கேட்கும்படியாக ஆசாரியர்கள் செய்த ஜெபம்.",
+     "anchor": "யெகோவாவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.12",
+   "source_hash": "e324f3d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.12#p1-e324f3d6",
+     "text": "இது, அவள் தேவனுடைய மக்களோடு இணைக்கப்படுவதற்கு முன்பு அவளுடைய முந்தின வாழ்க்கை மாற்றப்படவேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "தன் தலையைச் சிரைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.13",
+   "source_hash": "9e665039",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.13#p1-b49b7fd4",
+     "text": "தன் பெற்றோரையும் தன் தேசத்தையும் விட்டுத் துறந்தவளாக இருப்பதால்.",
+     "anchor": "தன் தகப்பனையும் தாயையும் நினைத்துத் துக்கம்கொண்டாட"
+    },
+    {
+     "id": "geneva/DEU.21.13#p2-235beb6b",
+     "text": "இது யுத்தத்தின்போது மட்டுமே அனுமதிக்கப்பட்டது; வேறு விதத்தில் இஸ்ரவேலர்கள் அந்நியரை மணந்துகொள்ளக்கூடாது.",
+     "anchor": "மனைவியாயிருப்பாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.15",
+   "source_hash": "82744d9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.15#p1-82744d9f",
+     "text": "இது பல மனைவிகளை வைத்துக்கொள்ளுதல் ஒரு சீர்கெட்ட ஆசையிலிருந்து வந்ததென்பதை வெளிப்படுத்துகிறது.",
+     "anchor": "வெறுப்பாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.17",
+   "source_hash": "025d1d78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.17#p1-77ceab43",
+     "text": "மற்றவர்களில் இருவருக்குரிய அளவுக்குச் சமமாக.",
+     "anchor": "தனக்கு உண்டான சொத்துக்களிலெல்லாம் இரண்டு பங்கை"
+    },
+    {
+     "id": "geneva/DEU.21.17#p2-9b19c65c",
+     "text": "அவன் அதற்குத் தகுதியற்றவனாக இராதவரையில், யாக்கோபின் மகனாகிய ரூபனைப் போல.",
+     "anchor": "அவனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.18",
+   "source_hash": "4c077ed1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.18#p1-4c077ed1",
+     "text": "ஏனெனில் தன் பிள்ளைகளுக்குப் புத்தி கற்பிப்பது தாய்க்கும் கடமையாயிருக்கிறது.",
+     "anchor": "தாயினுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.21",
+   "source_hash": "41ccd9e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.21#p1-41ccd9e3",
+     "text": "தூஷிக்கிறவர்களுக்கும் விக்கிரகங்களை ஆராதிக்கிறவர்களுக்கும் நியமிக்கப்பட்ட மரணமும் இதே ஆயிற்று; ஆகவே பெற்றோருக்குக் கீழ்ப்படியாமல் இருப்பது மகா பயங்கரமான காரியம்.",
+     "anchor": "அவன்மேல் கல்லெறிவார்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.21.23",
+   "source_hash": "41760f3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.21.23#p1-41760f3e",
+     "text": "ஏனெனில் அவனுடைய மரணத்தினால் தேவனுடைய நியாயப்பிரமாணம் திருப்தியாகிறது, மேலும் இயற்கை கொடுமையை வெறுக்கிறது.",
+     "anchor": "இரவிலே அவன் உடலை மரத்திலே"
+    }
+   ]
+  }
+ ]
+}

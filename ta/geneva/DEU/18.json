@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 18,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.18.1",
+   "source_hash": "bf91f15b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.1#p1-bf91f15b",
+     "text": "அதாவது, கர்த்தருடைய சுதந்தரத்தில் அவருடைய பங்கு.",
+     "anchor": "உரிமையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.3",
+   "source_hash": "2400bbbb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.3#p1-2400bbbb",
+     "text": "வலது முன்னந்தொடை, எண்ணாகமம் 18:18.",
+     "anchor": "முன்னந்தொடையையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.6",
+   "source_hash": "9791e860",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.6#p1-9791e860",
+     "text": "அதாவது, முழு மனதோடு தேவனுக்கு ஊழியம் செய்வதற்கும், சுகவாழ்வைத் தேடாமலிருப்பதற்கும்.",
+     "anchor": "மனப்பூர்வமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.8",
+   "source_hash": "e4ab3ab4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.8#p1-e4ab3ab4",
+     "text": "தானாகவே பிழைக்க வேண்டிய கட்டாயம் இல்லை.",
+     "anchor": "முற்பிதாக்களுடைய சொத்தின் விலைக்கிரயத்தை அநுபவிக்கிறதும் அல்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.10",
+   "source_hash": "42b40a41",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.10#p1-42b40a41",
+     "text": "இரண்டு நெருப்புகளுக்கு நடுவே கடந்து செல்லும் இந்தச் சடங்கினால் அவர்கள் சுத்திகரிக்கப்பட்டனர் என்பதைக் குறிக்கிறது.",
+     "anchor": "தீயில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.13",
+   "source_hash": "52e2d688",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.13#p1-52e2d688",
+     "text": "மாயமும் கலப்பும் தவறான வணக்கமும் இல்லாமல்.",
+     "anchor": "உன் தேவனாகிய யெகோவாவுக்கு முன்பாக நீ உத்தமனாயிருப்பாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.15",
+   "source_hash": "3dbac8e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.15#p1-3dbac8e0",
+     "text": "அதாவது, சகல தீர்க்கதரிசிகளின் முடிவாகிய கிறிஸ்து வரும்வரை, தொடர்ச்சியான தீர்க்கதரிசிகளின் வரிசையைக் குறிக்கிறது.",
+     "anchor": "தீர்க்கதரிசியை உனக்காக உன் நடுவே உன் சகோதரர்களிடத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.18",
+   "source_hash": "8b586011",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.18#p1-8b586011",
+     "text": "இது கிறிஸ்துவுக்கு மட்டுமல்ல, அவருடைய நாமத்தில் போதிக்கும் அனைவருக்கும் அளிக்கப்பட்ட வாக்குத்தத்தம், ஏசாயா 59:21.",
+     "anchor": "வாயில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.19",
+   "source_hash": "0225e06c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.19#p1-0225e06c",
+     "text": "அவனுக்குத் தண்டனையை நிறைவேற்றுவதினால்.",
+     "anchor": "நான் விசாரிப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.18.22",
+   "source_hash": "8a7fe07e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.18.22#p1-8a7fe07e",
+     "text": "இந்த உறுதியான அடையாளத்தின் கீழ் மற்ற எல்லா அடையாளங்களையும் அவர் உட்படுத்துகிறார்.",
+     "anchor": "நடக்காமலும்"
+    }
+   ]
+  }
+ ]
+}

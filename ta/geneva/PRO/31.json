@@ -1,0 +1,256 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 31,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.31.1",
+   "source_hash": "543dec91",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.1#p1-ca1d4386",
+     "text": "அதாவது, லேமுவேல் என்று அழைக்கப்பட்ட சாலொமோனைக் குறிக்கிறது; லேமுவேல் என்றால் தேவனுடையவன் என்பது பொருள், ஏனெனில் தேவன் அவனை இஸ்ரவேலின்மேல் ராஜாவாக இருக்கும்படி நியமித்திருந்தார்.",
+     "anchor": "லேமுவேலின்"
+    },
+    {
+     "id": "geneva/PRO.31.1#p2-e80ee8a1",
+     "text": "அவனுடைய தாய் பத்சேபாள் அவனுக்குப் போதித்த உபதேசம்.",
+     "anchor": "அவனுடைய தாய் அவனுக்குப் போதித்த உபதேசம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.2",
+   "source_hash": "966059db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.2#p1-966059db",
+     "text": "ஒரே காரியத்தை இப்படி அடிக்கடி திரும்பத் திரும்பச் சொல்வதன் மூலம், அவள் தன் தாய்மையான பாசத்தை வெளிப்படுத்துகிறாள்.",
+     "anchor": "என்னுடைய கர்ப்பத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.3",
+   "source_hash": "b11962be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.3#p1-b11962be",
+     "text": "பொருள், பெண்களை நாடிச் செல்பவர்களானால், அவர்கள் ராஜாக்களுக்கு அழிவை உண்டாக்குவார்கள் என்பதாம்.",
+     "anchor": "ராஜாக்களைக் கெடுக்கும் காரியங்களுக்கு உன்னுடைய வழிகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.4",
+   "source_hash": "ccb0e025",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.4#p1-ccb0e025",
+     "text": "அதாவது, அரசன் காமவிகாரத்திற்குத் தன்னைக் கொடுத்து, நியாயத்தீர்ப்பைச் செய்யும் தன் கடமையை அசட்டை செய்யலாகாது.",
+     "anchor": "மதுபானம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.7",
+   "source_hash": "654463b5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.7#p1-654463b5",
+     "text": "திராட்சரசம் இருதயத்தைத் தேற்றரவு செய்கிறது, சங்கீதம் 104:15-ல் இருப்பதுபோல.",
+     "anchor": "தன்னுடைய குறைவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.8",
+   "source_hash": "46b94a50",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.8#p1-46b94a50",
+     "text": "தங்களைத் தாங்களே உதவிக்கொள்ள முடியாதவர்களுடைய காரியத்தை நீ காத்துக்கொள்.",
+     "anchor": "ஊமையனுக்காகவும் திக்கற்றவர்கள் எல்லோருடைய நியாயத்திற்காகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.11",
+   "source_hash": "81d5f585",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.11#p1-81d5f585",
+     "text": "அவன் தன் வாழ்வாதாரத்தைப் பெறுவதற்கு முறையற்ற வழிகளைப் பயன்படுத்த வேண்டிய அவசியம் இருக்காது.",
+     "anchor": "செல்வம் குறையாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.15",
+   "source_hash": "419d1596",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.15#p1-419d1596",
+     "text": "அவள் அதிகாலையிலேயே அவர்களுடைய உணவை ஆயத்தப்படுத்துகிறாள்.",
+     "anchor": "வேலைக்காரிகளுக்குப் படியளக்கிறாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.16",
+   "source_hash": "bf4fc295",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.16#p1-bf4fc295",
+     "text": "அவள் தன் பிரயாசத்தின் பலனால் அதை வாங்குகிறாள்.",
+     "anchor": "வாங்குகிறாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.23",
+   "source_hash": "0f351ff0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.23#p1-0f351ff0",
+     "text": "கூட்டங்களிலும் நியாயத்தீர்ப்புச் செய்யப்படும் இடங்களிலும்.",
+     "anchor": "நீதிமன்றங்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.25",
+   "source_hash": "5c2ac1e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.25#p1-5c2ac1e3",
+     "text": "சரீரத்தின் ஆடையைப் பற்றிப் பேசினபின், இப்பொழுது அவன் ஆவியின் ஆடையை விளக்குகிறான்.",
+     "anchor": "பலமும் அலங்காரமுமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.26",
+   "source_hash": "55a1be17",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.26#p1-55a1be17",
+     "text": "அவளுடைய நாக்கு நிறைய நல்ல காரியங்களைக் கற்றுக்கொள்ளத்தக்க ஒரு புத்தகம் போலிருக்கிறது; ஏனெனில் அவள் தேவனுடைய வசனத்தைப் பற்றி பேசுவதில் மகிழ்ச்சி கொள்கிறாள்.",
+     "anchor": "தயையுள்ள போதகம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.28",
+   "source_hash": "58b8a8fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.28#p1-58b8a8fc",
+     "text": "அதாவது, அவளுக்கு மதிப்புக்காட்டுகிறார்கள்.",
+     "anchor": "அவளை பாக்கியவதி என்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.31.31",
+   "source_hash": "511fa5d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.31.31#p1-e4bc1baf",
+     "text": "அவளுடைய ஊக்கமான வேலைகளை அறிக்கையிட்டு, அதற்காக அவளைப் புகழுங்கள்.",
+     "anchor": "அவளுக்குக் கொடுங்கள்; அவளுடைய கைகளின் பலனை"
+    },
+    {
+     "id": "geneva/PRO.31.31#p2-7d465f23",
+     "text": "ஏனெனில் மேன்மையானவர்களும் அவள் செய்த ஆடைகளை அணிந்திருக்கிறார்கள்.",
+     "anchor": "வாசல்களில்"
+    }
+   ]
+  }
+ ]
+}

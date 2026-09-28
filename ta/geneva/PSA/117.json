@@ -1,0 +1,25 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 117,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.117.2",
+   "source_hash": "937d12c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.117.2#p1-937d12c1",
+     "text": "அதாவது, அவருடைய பிதாவைப்போன்ற கிருபைகளின் மிக உறுதியான, ஓயாத சாட்சி.",
+     "anchor": "யெகோவாவின் உண்மை என்றென்றைக்குமுள்ளது"
+    }
+   ]
+  }
+ ]
+}

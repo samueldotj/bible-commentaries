@@ -1,0 +1,222 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.7.1",
+   "source_hash": "625704d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.1#p1-625704d8",
+     "text": "இது சிறிய பாவங்களுக்காகவும், அறியாமையினால் செய்யப்படும் குற்றங்களுக்காகவும் ஏற்படுத்தப்பட்டது.",
+     "anchor": "குற்றநிவாரணபலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.2",
+   "source_hash": "ac53570b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.2#p1-ac53570b",
+     "text": "நீதிமன்ற வாசலில்.",
+     "anchor": "சர்வாங்க தகனபலி கொல்லப்படும் இடத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.3",
+   "source_hash": "58f22460",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.3#p1-58f22460",
+     "text": "பிரதான ஆசாரியன்.",
+     "anchor": "அதிலிருந்து அவன் எல்லாவற்றையும் செலுத்தவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.7",
+   "source_hash": "f848902d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.7#p1-c7a44d2f",
+     "text": "குற்றம் என்ற வார்த்தை பாவத்தைவிடக் குறைவானதைக் குறித்தாலும், அதற்கும் இதே சடங்குகள் பொருந்தும்.",
+     "anchor": "விதிமுறை ஒன்றே"
+    },
+    {
+     "id": "geneva/LEV.7.7#p2-4fde7309",
+     "text": "எரிக்கப்படாமல் மீதியாக விடப்பட்ட பங்கைக் குறிக்கிறது.",
+     "anchor": "அது சேரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.10",
+   "source_hash": "a7f39504",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.10#p1-a7f39504",
+     "text": "அதில் எண்ணெயும் திரவமும் இல்லாதிருந்தபடியால்.",
+     "anchor": "எண்ணெயிலே பிசையாததும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.12",
+   "source_hash": "514d9999",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.12#p1-514d9999",
+     "text": "சமாதானபலிகளில் பெற்ற நன்மைக்காக அறிக்கையும் ஸ்தோத்திரமும், அத்துடன் பொருத்தனையும், நன்மை பெறும்படி செலுத்தும் சுயவிருப்பக் காணிக்கையும் அடங்கியிருக்கின்றன.",
+     "anchor": "நன்றிபலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.16",
+   "source_hash": "8d2eaf3a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.16#p1-8d2eaf3a",
+     "text": "பொருத்தனையாகக் காணிக்கை செலுத்த வாக்குக்கொடுத்தால்: இல்லையானால், சமாதானபலிகளின் சரீரம் அதே நாளில் சாப்பிடப்படவேண்டும்.",
+     "anchor": "பொருத்தனையாகவோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.18",
+   "source_hash": "5bd590d7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.18#p1-5bd590d7",
+     "text": "அவன் எதற்காக பலி செலுத்தினானோ அந்தப் பாவம் நிலைத்திருக்கும்.",
+     "anchor": "தன் அக்கிரமத்தைச் சுமப்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.19",
+   "source_hash": "6d08e2e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.19#p1-78fb7c1f",
+     "text": "அது பலியிடப்பட்ட பின்பு.",
+     "anchor": "அது சாப்பிடப்படாமல்"
+    },
+    {
+     "id": "geneva/LEV.7.19#p2-9b83ae85",
+     "text": "சுத்தமான சமாதானக் காணிக்கையைப் பற்றியது.",
+     "anchor": "மற்ற மாம்சத்தையோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.30",
+   "source_hash": "53f833be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.30#p1-53f833be",
+     "text": "அதை மற்றொருவன் மூலமாக அனுப்பக்கூடாது.",
+     "anchor": "அவனே கொண்டுவரவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.35",
+   "source_hash": "a966f590",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.35#p1-a966f590",
+     "text": "அதாவது, அவனுடைய சிறப்புரிமை, பலன் மற்றும் பங்கு.",
+     "anchor": "அபிஷேகம் செய்யப்பட்ட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.7.37",
+   "source_hash": "61933a76",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.7.37#p1-61933a76",
+     "text": "ஆசாரியர்கள் பிரதிஷ்டை செய்யப்பட்டபோது இந்தப் பலி செலுத்தப்பட்டது, யாத்திராகமம் 29:22.",
+     "anchor": "பிரதிஷ்டைபலிகளுக்கும்"
+    }
+   ]
+  }
+ ]
+}

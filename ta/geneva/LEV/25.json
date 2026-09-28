@@ -1,0 +1,358 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 25,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.25.3",
+   "source_hash": "31d77474",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.3#p1-31d77474",
+     "text": "யூதர்கள் செப்டம்பர் மாதத்தில் வருடத்தைக் கணக்கிடத் தொடங்கினார்கள்: ஏனெனில் அப்பொழுது எல்லா பலன்களும் சேர்க்கப்பட்டிருந்தன.",
+     "anchor": "ஆறுவருடங்கள் உன் வயலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.5",
+   "source_hash": "aca524d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.5#p1-61b001e3",
+     "text": "முந்தின வருஷத்தில் கதிர்களிலிருந்து விழுந்த தானியத்தினிமித்தம்.",
+     "anchor": "தானாக விளைந்து பயிரானதை அறுக்காமலும்"
+    },
+    {
+     "id": "geneva/LEV.25.5#p2-743949db",
+     "text": "அல்லது, நீ உனக்கென்று பிரித்து, ஏழைகளுக்காக தேவனுக்கு அர்ப்பணித்தவை.",
+     "anchor": "கிளைநறுக்காமல்விட்ட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.6",
+   "source_hash": "04e7ac55",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.6#p1-04e7ac55",
+     "text": "நிலம் தன்னுடைய ஓய்விலே விளைவிப்பது.",
+     "anchor": "தேசத்தின் ஓய்விலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.9",
+   "source_hash": "760e4ea2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.9#p1-760e4ea2",
+     "text": "50-ஆம் வருடத்தின் ஆரம்பத்தில் யூபிலி என்று அழைக்கப்படும் இந்நாள் வந்தது; ஏனெனில் விடுதலையின் மகிழ்ச்சியான செய்தி எக்காளச் சத்தத்தினால் பகிரங்கமாய் அறிவிக்கப்பட்டது.",
+     "anchor": "எக்காளச்சத்தம் தொனிக்கச்செய்யவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.10",
+   "source_hash": "3b4ac953",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.10#p1-0cdb10b3",
+     "text": "அடிமைத்தனத்தில் இருந்தவர்கள்.",
+     "anchor": "குடிமக்களுக்கெல்லாம்"
+    },
+    {
+     "id": "geneva/LEV.25.10#p2-992d74b9",
+     "text": "கோத்திரங்களுக்குரிய உடைமைகள் குறைவடையவும் கலந்துவிடவும் கூடாது என்பதற்காக.",
+     "anchor": "சொந்த இடத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.14",
+   "source_hash": "c9aeb315",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.14#p1-c9aeb315",
+     "text": "வஞ்சனையினாலோ, மற்ற வகையினாலோ.",
+     "anchor": "அநியாயம் செய்யக்கூடாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.15",
+   "source_hash": "e26bf720",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.15#p1-e26bf720",
+     "text": "யூபிலி வருடம் நெருங்கி வந்தால், நீ குறைந்த விலைக்கு விற்பது நலமாயிருக்கும். அது தூரமாயிருந்தால், அதிக விலைக்கு விற்கலாம்.",
+     "anchor": "யூபிலி வருடத்திற்குப் பின்வரும் வருடங்களின் எண்ணிக்கைக்கேற்ப"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.16",
+   "source_hash": "4020d2a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.16#p1-4020d2a1",
+     "text": "நிலத்தின் முழு உரிமையை அல்ல.",
+     "anchor": "பலனுள்ள வருடங்களின் இலக்கத்தைப் பார்த்து அவன் உனக்கு விற்கிறதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.23",
+   "source_hash": "f41c99ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.23#p1-f41c99ee",
+     "text": "அதை நிரந்தரமாக விற்க முடியாது, யூபிலி வருடத்தில் அது அந்தந்த குடும்பத்திற்குத் திரும்பவேண்டும்.",
+     "anchor": "நிரந்தரமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.24",
+   "source_hash": "41e27847",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.24#p1-41e27847",
+     "text": "அதை மீட்டுக்கொள்ளலாம் என்கிற நிபந்தனையின்படி நீங்கள் அதை விற்கவேண்டும்.",
+     "anchor": "நிலங்களை மீட்டுக்கொள்ள இடங்கொடுக்கக்கடவீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.27",
+   "source_hash": "aaf0e788",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.27#p1-aaf0e788",
+     "text": "கடந்த வருடங்களுக்கான தொகையைக் கழித்துவிட்டு, வரவிருக்கும் வருடங்களுக்குரிய தொகையைச் செலுத்துதல்.",
+     "anchor": "சென்ற வருடங்களின் தொகையைக் கழித்துவிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.28",
+   "source_hash": "2c9cf825",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.28#p1-2c9cf825",
+     "text": "அதை வாங்கினவனுடைய கையிலிருந்து.",
+     "anchor": "வாங்கினவன் கையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.30",
+   "source_hash": "c3d1229d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.30#p1-c3d1229d",
+     "text": "அதாவது, என்றென்றைக்கும்; 25:23-ஐ வாசிக்கவும்.",
+     "anchor": "தலைமுறைதோறும் அதை வாங்கினவனுக்கே உரியதாகும்.\","
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.34",
+   "source_hash": "a5d91be6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.34#p1-a5d91be6",
+     "text": "லேவியர்கள் தங்கள் மிருகஜீவன்களை மேய்த்துக்கொண்ட இடம்.",
+     "anchor": "பட்டணங்களைச் சூழ்ந்த வெளிநிலம் விற்கப்படக்கூடாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.35",
+   "source_hash": "82a8c004",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.35#p1-82a8c004",
+     "text": "எபிரெய மொழியில், அவனுடைய கை தள்ளாடினால் என்று உள்ளது; அதாவது, ஒரு துன்பப்படுகிறவனாக அவன் உதவிக்காகக் கையை நீட்டினால் என்று பொருள்.",
+     "anchor": "ஏழ்மையடைந்து, வசதியில்லாமல் போனவனானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.42",
+   "source_hash": "190a8d13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.42#p1-190a8d13",
+     "text": "நிரந்தர அடிமைத்தனத்திற்கு.",
+     "anchor": "அடிமைகளாக விற்கப்படக்கூடாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.45",
+   "source_hash": "7f4ffc3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.45#p1-7f4ffc3c",
+     "text": "ஏனெனில் அவர்கள் யூபிலி வருஷத்தில் மீட்டுவிடுவிக்கப்படமாட்டார்கள்.",
+     "anchor": "சொந்தமாக்கலாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.49",
+   "source_hash": "db4878fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.49#p1-db4878fa",
+     "text": "தன்னால் கூடுமானால்.",
+     "anchor": "தன்னால் கூடுமானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.50",
+   "source_hash": "cc032dc7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.50#p1-cc032dc7",
+     "text": "யூபிலி வருடம்வரைக்கும் இன்னும் மீதியாயிருக்கிறது.",
+     "anchor": "காலத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.25.53",
+   "source_hash": "f8e0aae4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.25.53#p1-f8e0aae4",
+     "text": "நீ அறிந்திருந்தால், அவன் இவனைக் கடினமாக நடத்த அனுமதிக்கக்கூடாது.",
+     "anchor": "முன்பாக"
+    }
+   ]
+  }
+ ]
+}

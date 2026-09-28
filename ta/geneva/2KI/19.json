@@ -1,0 +1,358 @@
+{
+ "source": "geneva",
+ "book": "2KI",
+ "chapter": 19,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2KI.19.2",
+   "source_hash": "26bb8168",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.2#p1-26bb8168",
+     "text": "புதிதாக ஒரு தீர்க்கதரிசனத்தைக் கேட்டு, அவனிடத்திலிருந்து ஆறுதலைப் பெறுவதற்காக.",
+     "anchor": "ஆமோத்சின் மகனாகிய ஏசாயா என்னும் தீர்க்கதரிசியினிடத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.3",
+   "source_hash": "683048a7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.3#p1-683048a7",
+     "text": "ஆபத்துகள் மிகவும் பெரியவைகளாக இருப்பதால், இந்த நிந்தைக்குப் பழிவாங்கவும் நமக்குள் ஒன்றும் செய்யவும் நமக்கு பெலனில்லை, பிரசவவேதனையில் இருக்கும் பெண்ணைப் போலவே.",
+     "anchor": "பெற்றெடுக்கவோ பெலனில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.4",
+   "source_hash": "76cd6871",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.4#p1-76cd6871",
+     "text": "அதாவது, யூதாவின் எல்லா பட்டணங்களிலும் எருசலேம் ஒன்று மட்டும்தான் மீதியாக இருந்தது.",
+     "anchor": "இன்னும் மீதியாக இருக்கிறவர்களுக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.7",
+   "source_hash": "1bd3df61",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.7#p1-1bd3df61",
+     "text": "கர்த்தர் ஒரே ஊதலினால் மனிதனுடைய பலம் அனைத்தையும் அடித்து, அதை மண்ணாக மாற்றிவிட முடியும்.",
+     "anchor": "அவனுக்குள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.9",
+   "source_hash": "53815ce3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.9#p1-bdbfac47",
+     "text": "அதாவது, சனகெரிப்.",
+     "anchor": "தீராக்கா உம்மோடு போர்செய்யப் புறப்பட்டான் என்று சொல்லக் கேள்விப்பட்டான்"
+    },
+    {
+     "id": "geneva/2KI.19.9#p2-558077f6",
+     "text": "ஏனெனில் அசீரியா ராஜா மற்ற தேசங்களை ஒடுக்கியதினிமித்தம் எத்தியோப்பியாவின் ராஜாவும் எகிப்தின் ராஜாவும் அசீரியா ராஜாவுக்கு விரோதமாக ஒன்றுசேர்ந்தார்கள்.",
+     "anchor": "இதோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.10",
+   "source_hash": "57e8911a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.10#p1-57e8911a",
+     "text": "துன்மார்க்கர் தங்கள் அழிவுக்கு நெருங்குகிறவரையிலும், அவர்கள் அதிகமாக நிந்திக்கிறார்கள்.",
+     "anchor": "நீ நம்பியிருக்கிற உன் தேவன் உன்னை ஏமாற்ற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.14",
+   "source_hash": "44e24ec6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.14#p1-44e24ec6",
+     "text": "உடன்படிக்கைப் பெட்டிக்கு முன்பாக.",
+     "anchor": "யெகோவாவுக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.15",
+   "source_hash": "a2759aae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.15#p1-a2759aae",
+     "text": "எல்லா ஆபத்துக்களிலும் மெய்யான அடைக்கலமும் உதவியும் என்னவென்று அவர் காண்பிக்கிறார், அதாவது, ஊக்கமான ஜெபத்தினால் கர்த்தரிடத்தில் ஓடிப்போவதே.",
+     "anchor": "யெகோவாவை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.16",
+   "source_hash": "e531f83b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.16#p1-c532e902",
+     "text": "உமது நாமம் தூஷிக்கப்படுவதற்கு நீர் இடங்கொடுக்கமாட்டீர் என்பதைச் செயலினால் காண்பியும்.",
+     "anchor": "உமது செவியைச் சாய்த்துக் கேளும்"
+    },
+    {
+     "id": "geneva/2KI.19.16#p2-98b8220d",
+     "text": "இந்தப் பட்டப்பெயரினால் அவர் தேவனை எல்லா விக்கிரகங்களிலிருந்தும், தெய்வங்களிலிருந்தும் வேறுபடுத்திக் காண்பிக்கிறார்.",
+     "anchor": "ஜீவனுள்ள தேவனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.19",
+   "source_hash": "84369723",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.19#p1-84369723",
+     "text": "உண்மையுள்ளவர்கள் தேவன் தங்களை இரட்சிக்க வேண்டுமென்று விரும்புவதற்கான காரணத்தைக் காண்பிக்கிறார்: அதாவது, தங்கள் இரட்சிப்பினால் அவர் மகிமைப்படும்படிக்கே.",
+     "anchor": "பூமியின் ராஜ்ஜியங்கள் அனைத்தும் அறியும்படிக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.21",
+   "source_hash": "34162c49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.21#p1-34162c49",
+     "text": "எருசலேம் இன்னும் பகைவனால் கைப்பற்றப்படாதிருந்தபடியால், அவளைக் கன்னிப்பெண் என்று அழைக்கிறான்.",
+     "anchor": "கன்னிப்பெண்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.22",
+   "source_hash": "67161290",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.22#p1-67161290",
+     "text": "தேவன் தம்முடைய பரிசுத்தவான்களில் ஒருவருக்குச் செய்யப்படுவதை தமக்குச் செய்யப்பட்ட அநியாயமாக எண்ணி, அதைப் பழிவாங்குவார்.",
+     "anchor": "இஸ்ரவேலின் பரிசுத்தருக்கு விரோதமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.23",
+   "source_hash": "5ae68897",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.23#p1-5ae68897",
+     "text": "எருசலேமைக் குறிக்கிறது, அதை ஏசாயா தன் எல்லைகளின் உயரம் என்றழைக்கிறார், அதாவது யூதாவினுடையது, ஏசாயா 37:24.",
+     "anchor": "அதின் கடைசிவரை, அதின் செழுமையான காடுவரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.25",
+   "source_hash": "b5a0a67c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.25#p1-b5a0a67c",
+     "text": "தேவன் தம்முடைய சபைக்கு ஆரம்பமும் அதை உண்டாக்கினவருமாய் இருப்பதால், மற்ற பட்டணங்களையும் ராஜ்யங்களையும் போல அதை முற்றிலும் அழிந்துபோக அவர் ஒருபோதும் விடமாட்டார் என்பதை அவர் இதனால் அறிவிக்கிறார்.",
+     "anchor": "நானே அதைச் சம்பவிக்கச்செய்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.26",
+   "source_hash": "a8434318",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.26#p1-a8434318",
+     "text": "இவ்விதமாக அவன் துன்மார்க்கரை விவரிக்கிறான், அவர்கள் சிறிது காலம் தழைத்து, பின்பு பூக்களைப்போல வாடி மடிந்துபோகிறார்கள்.",
+     "anchor": "குடிமக்கள் சோர்வடைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.28",
+   "source_hash": "ecc3747f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.28#p1-ecc3747f",
+     "text": "நான் உன் கொந்தளிப்பை அடக்கி, எனக்கு விருப்பமானபடி உன்னை இங்குமங்கும் திருப்புவேன்.",
+     "anchor": "கொக்கியை உன் மூக்கிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.29",
+   "source_hash": "9bc8f6f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.29#p1-9bc8f6f0",
+     "text": "தேவன் அவனுக்கு வெற்றியை வாக்குத்தத்தம் செய்தது மட்டுமல்ல, அவனுடைய விசுவாசத்தை உறுதிப்படுத்த ஒரு அடையாளத்தையும் கொடுக்கிறார்.",
+     "anchor": "உனக்கு அடையாளமாயிருப்பது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.30",
+   "source_hash": "75aed1a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.30#p1-75aed1a2",
+     "text": "தப்பி மீந்திருக்கிற யூதாவின் அந்தச் சிறு மீதியை கர்த்தர் பெருந்தொகையாகப் பெருகச்செய்வார்.",
+     "anchor": "கீழே வேர்பற்றி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.31",
+   "source_hash": "70883eae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.31#p1-70883eae",
+     "text": "தம்முடைய சபையின்மேல் தேவன் வைத்திருக்கிற அன்பு, மனிதருடைய ஆலோசனைகளையும் தீட்டங்களையும் மேற்கொள்ளும்.",
+     "anchor": "சேனைகளுடைய யெகோவாவின் வைராக்கியம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.19.37",
+   "source_hash": "693f5103",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.19.37#p1-693f5103",
+     "text": "தான் நிந்தித்த நிந்தனைக்காக தேவனுடைய நீதியான நியாயத்தீர்ப்பு இதுவே, அதாவது, அவன் ஜீவனுள்ள தேவனுக்கு மேலாக விரும்பிய விக்கிரகத்திற்கு முன்பாகவே கொல்லப்படுவதும், இயற்கையாகவே அவனைப் பாதுகாக்க வேண்டியவர்களால் அவன் கொல்லப்படுவதும் ஆகும்.",
+     "anchor": "பட்டயத்தால் வெட்டிப்போட்டு"
+    }
+   ]
+  }
+ ]
+}

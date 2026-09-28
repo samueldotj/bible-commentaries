@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NEH.11.1",
+   "source_hash": "2b428f71",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.1#p1-2b428f71",
+     "text": "அவர்களுடைய எதிரிகள் அவர்களைச் சூழ்ந்து குடியிருந்தபடியால், அது மனிதர்களால் நிரப்பப்படும்படி அவர்கள் ஏற்பாடு செய்தார்கள்; தாங்களாகவே முன்வந்தவர்கள் குறைவாக இருந்ததால் இந்த உபாயத்தைப் பயன்படுத்தினார்கள்.",
+     "anchor": "பத்துப்பேர்களில் ஒருவனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.4",
+   "source_hash": "f891df55",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.4#p1-f891df55",
+     "text": "இவன் யூதாவின் மகனான பாரேசிலிருந்து வந்தவன்.",
+     "anchor": "பாரேஸின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.11",
+   "source_hash": "bb806733",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.11#p1-bb806733",
+     "text": "அதாவது, அவன் பிரதான ஆசாரியனாக இருந்தான்.",
+     "anchor": "தேவனுடைய ஆலயத்தின் மேற்பார்வையாளனும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.12",
+   "source_hash": "cace73ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.12#p1-cace73ea",
+     "text": "ஆலயத்தில் பணிசெய்து ஊழியம் செய்தவர்கள்.",
+     "anchor": "ஆலயத்திலே வேலைசெய்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.17",
+   "source_hash": "81dd5d87",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.17#p1-81dd5d87",
+     "text": "அதாவது, அவன் சங்கீதத்தைத் தொடங்கி, பாட்டுத்தலைவனாக இருந்தான்.",
+     "anchor": "ஜெபத்தில் ஸ்தோத்திரப்பாட்டைத் துவக்குகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.19",
+   "source_hash": "8f963a0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.19#p1-8f963a0b",
+     "text": "ஆலயத்தைக் குறிக்கும்.",
+     "anchor": "வாசல்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.20",
+   "source_hash": "acbe9843",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.20#p1-acbe9843",
+     "text": "எருசலேமில் குடியிராதவர்களைக் குறித்துச் சொல்லப்பட்டுள்ளது.",
+     "anchor": "மற்ற இஸ்ரவேலர்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.11.24",
+   "source_hash": "33f0993d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.11.24#p1-33f0993d",
+     "text": "எல்லா முக்கிய காரியங்களிலும் ராஜாவுக்கு அருகில் முதன்மையானவனாக இருந்தான்.",
+     "anchor": "காரியங்களுக்கெல்லாம் ராஜாவின் முன்பு நின்றான்"
+    }
+   ]
+  }
+ ]
+}

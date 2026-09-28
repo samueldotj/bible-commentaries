@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 30,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.30.1",
+   "source_hash": "80c2134d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.1#p1-80c2134d",
+     "text": "அவர்கள் அதை இஸ்ரவேலருக்கு அறிவிக்கும்படியாக.",
+     "anchor": "இஸ்ரவேல் மக்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.4",
+   "source_hash": "3eb4fd6b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.4#p1-3eb4fd6b",
+     "text": "ஏனெனில் அவ்விதம் செய்வதினால் அவன் அதை ஏற்றுக்கொள்கிறான்.",
+     "anchor": "அவளுக்கு ஒன்றும் சொல்லாமல் இருப்பானானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.5",
+   "source_hash": "c52473fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.5#p1-c52473fd",
+     "text": "அவளுடைய பொருத்தனையை அங்கீகரிக்காமலும் ஒப்புக்கொள்ளாமலும் இருப்பதினால்.",
+     "anchor": "அவளுடைய தகப்பன் கேட்கிற நாளில் அவன் வேண்டாம் என்று தடுத்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.6",
+   "source_hash": "598aaef2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.6#p1-598aaef2",
+     "text": "ஆணையினாலோ, அல்லது கிரமமான வாக்குத்தத்தத்தினாலோ.",
+     "anchor": "தன்னுடைய உதடுகளைத் திறந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.8",
+   "source_hash": "5c3502a9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.8#p1-5c3502a9",
+     "text": "ஏனெனில் அவள் தன் கணவனுக்குக் கீழ்ப்பட்டவளாக இருக்கிறாள், அவனுடைய சம்மதமில்லாமல் எதையும் நிறைவேற்ற முடியாது.",
+     "anchor": "ஆத்துமாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.9",
+   "source_hash": "687cb14f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.9#p1-687cb14f",
+     "text": "ஏனெனில் அவர்கள் புருஷனுடைய அதிகாரத்திற்கு உட்பட்டவர்கள் அல்ல.",
+     "anchor": "தள்ளப்பட்டுப்போன ஒரு பெண்ணாவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.10",
+   "source_hash": "75ce6c89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.10#p1-75ce6c89",
+     "text": "அவளுடைய கணவன் உயிரோடு இருக்கும்போது.",
+     "anchor": "வீட்டில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.13",
+   "source_hash": "47435d89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.13#p1-47435d89",
+     "text": "உபவாசத்தினாலோ அல்லது வேறு சரீர அடக்கியாளுதலினாலோ தன்னைத் தாழ்மைப்படுத்திக்கொள்வது.",
+     "anchor": "ஆத்துமாவைத் தாழ்மைப்படுத்தும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.14",
+   "source_hash": "43a3c0c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.14#p1-43a3c0c9",
+     "text": "அவன் அதைக் கேட்ட நாளிலே அவளை எச்சரிக்காமல் இருந்தால், 30:8-இல் உள்ளபடி.",
+     "anchor": "நாளிலே … ஒன்றும் சொல்லாமல்போனதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.30.15",
+   "source_hash": "13bf6b00",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.30.15#p1-13bf6b00",
+     "text": "அவன் அவைகளைக் கேட்ட அன்றே அல்ல, சிலநாட்கள் கழிந்தபின்பு, அந்தப் பாவம் அவளுக்கு அல்ல, அவனுக்கே எண்ணப்படும்.",
+     "anchor": "கேட்டபின்பு செல்லாதபடி செய்தால்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 114,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.114.1",
+   "source_hash": "403d0206",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.1#p1-403d0206",
+     "text": "அல்லது, அந்நிய பாஷை பேசுகிற.",
+     "anchor": "அந்நிய மக்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.2",
+   "source_hash": "05f1ad32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.2#p1-05f1ad32",
+     "text": "தேவன் அவர்களைத் தம்முடைய பிள்ளைகளாக ஏற்றுக்கொண்டதில் அவருடைய பரிசுத்த மகத்துவத்திற்கும், அவர்களை விடுவித்ததில் அவருடைய வல்லமையான வலிமைக்கும் முழு மக்களும் சாட்சியாயிருந்தார்கள்.",
+     "anchor": "பரிசுத்த இடமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.4",
+   "source_hash": "00e3b25d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.4#p1-00e3b25d",
+     "text": "இந்த உயிரில்லாத சிருஷ்டிகள் தேவனுடைய வல்லமையை உணர்ந்து ஒரு விதத்தில் அதைக் கண்டனவே, அவருடைய மக்கள் அதை இன்னும் அதிகமாக சிந்தித்து, அதற்காக அவரை மகிமைப்படுத்த வேண்டும்.",
+     "anchor": "மலைகள் ஆட்டுக்கடாக்களைப்போலவும்... துள்ளினது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.7",
+   "source_hash": "157f91ce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.7#p1-157f91ce",
+     "text": "அவருடைய வல்லமையையும் மகத்துவத்தையும் காணும்போது, அவருடைய மக்கள் உணர்வற்றவர்களாக இருக்கலாமா?",
+     "anchor": "பூமியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.114.8",
+   "source_hash": "1f0c36b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.114.8#p1-1f0c36b2",
+     "text": "அதாவது, கன்மலையிலிருந்து தண்ணீர் மிகுதியாகப் புறப்படும்படி அற்புதமாகச் செய்தார், யாத்திராகமம் 17:6.",
+     "anchor": "கன்மலையைத் தண்ணீர் குளமாக மாற்றுகிறார்"
+    }
+   ]
+  }
+ ]
+}

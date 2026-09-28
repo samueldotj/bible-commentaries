@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.29.2",
+   "source_hash": "d7aa6223",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.2#p1-d7aa6223",
+     "text": "தங்களுடைய படைப்பிரிவுகளின்படி, அல்லது கொடிகளின்படி.",
+     "anchor": "நூறும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.3",
+   "source_hash": "ca45df3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.3#p1-ca45df3e",
+     "text": "அதாவது, ஒரு நீண்ட காலம், அதாவது நான்கு மாதங்களும் சில நாட்களும், 1 சாமுவேல் 27:7.",
+     "anchor": "இத்தனை வருடங்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.4",
+   "source_hash": "09a41439",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.4#p1-09a41439",
+     "text": "நம்மைக் காட்டிக்கொடுத்தால், சவுல் அவனை மறுபடியும் தன் அனுக்கிரகத்திற்கு ஏற்றுக்கொள்ளமாட்டானா?",
+     "anchor": "இந்த மனிதர்களுடைய தலைகளினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.6",
+   "source_hash": "114a95e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.6#p1-114a95e9",
+     "text": "அதாவது, என்னோடு உறவாடி வந்திருக்கிறது.",
+     "anchor": "என்னோடே போக்கும் வரத்துமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.8",
+   "source_hash": "324d6144",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.8#p1-324d6144",
+     "text": "இந்தத் தந்திரத்தை மறுத்துவிட முடியாது, ஏனெனில் தேவனுடைய மக்களுக்கு எதிராகப் போக வேண்டியிருந்தது அவனுக்கு வேதனையாக இருந்தது.",
+     "anchor": "என் ஆண்டவனுடைய எதிரிகளோடு யுத்தம்செய்யாதபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.29.10",
+   "source_hash": "21881db8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.29.10#p1-21881db8",
+     "text": "சவுலிடமிருந்து ஓடி உன்னிடம் வந்தவர்களோடு.",
+     "anchor": "உன்னோடு வந்த உன்னுடைய ஆண்டவனுடைய வேலைக்காரர்களை"
+    }
+   ]
+  }
+ ]
+}

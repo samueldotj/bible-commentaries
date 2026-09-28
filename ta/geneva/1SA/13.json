@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.13.1",
+   "source_hash": "3fb8afab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.1#p1-316535c3",
+     "text": "இக்காரியங்கள் நடந்த காலத்தில்.",
+     "anchor": "ஒரு வருடமானது"
+    },
+    {
+     "id": "geneva/1SA.13.1#p2-18b317ae",
+     "text": "அவன் அரசனுடைய ஸ்திதியை தன்மேல் ஏற்றுக்கொள்வதற்கு முன்பு.",
+     "anchor": "இரண்டாம் வருடம் அரசாண்டபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.3",
+   "source_hash": "2463d2e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.3#p1-93fa2293",
+     "text": "பெட்டி இருந்த கீரியாத்யாரீமிலிருந்து, 1 சாமுவேல் 10:5.",
+     "anchor": "கேபாவிலே {c}"
+    },
+    {
+     "id": "geneva/1SA.13.3#p2-887e3c37",
+     "text": "அனைவரும் யுத்தத்திற்கு ஆயத்தமாக வேண்டும் என்பதற்காக.",
+     "anchor": "தேசமெங்கும் எக்காளம் ஊதச்செய்தான் {d}"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.5",
+   "source_hash": "8f8d8a35",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.5#p1-8f8d8a35",
+     "text": "இது பென்யமீன் கோத்திரத்திலுள்ள பெத்தேல் என்றும் அழைக்கப்பட்டது.",
+     "anchor": "பெத்தாவேலுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.7",
+   "source_hash": "80b16fd5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.7#p1-80b16fd5",
+     "text": "இரண்டரை கோத்திரங்கள் தங்கியிருந்த இடம்.",
+     "anchor": "காத் நாட்டிற்கும் கீலேயாத் தேசத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.8",
+   "source_hash": "14efe3d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.8#p1-14efe3d8",
+     "text": "தீர்க்கதரிசி வராமல் இருப்பது தங்களுக்கு வெற்றி கிடைக்காது என்பதற்கு அடையாளம் என்று எண்ணி.",
+     "anchor": "அவனை விட்டுச் சிதறிப்போனார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.11",
+   "source_hash": "4223fb2c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.11#p1-4223fb2c",
+     "text": "இந்தக் காரணங்கள் மனுஷனுடைய நியாயத்தீர்ப்பில் போதுமானதாகத் தோன்றினாலும், அவைகளுக்குத் தேவனுடைய வசனம் இல்லாதிருந்தபடியால், அவை அவனுக்கு அழிவாக மாறின.",
+     "anchor": "என்னைவிட்டுச் சிதறிப்போகிறதையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.13",
+   "source_hash": "cfbbde3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.13#p1-cfbbde3d",
+     "text": "அவரைக் கீழ்ப்படிந்து, அவருடைய தீர்க்கதரிசி சொன்ன வார்த்தைகளின்மேல் நம்பிக்கை வைக்கும்படி உமக்குக் கட்டளையிட்டவர்.",
+     "anchor": "தேவனாகிய யெகோவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.14",
+   "source_hash": "4152bc06",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.14#p1-4152bc06",
+     "text": "அதாவது, தாவீது.",
+     "anchor": "தம்முடைய இருதயத்திற்கு ஏற்ற ஒரு மனிதனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.15",
+   "source_hash": "48db8ad6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.15#p1-48db8ad6",
+     "text": "தன் நகரமாகிய ராமாவுக்குப் போனான்.",
+     "anchor": "பென்யமீன் நாட்டிலுள்ள கிபியாவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.18",
+   "source_hash": "418cbf09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.18#p1-418cbf09",
+     "text": "இதனால் மனித நியாயத்தீர்ப்பின்படி இந்த மூன்று படைகளும் நாடு முழுவதையும் வளைத்துக்கொள்வதாகத் தோன்றும்.",
+     "anchor": "வேறொரு படை … எதிரான எல்லைவழியாகப் போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.13.22",
+   "source_hash": "c152aad1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.13.22#p1-c152aad1",
+     "text": "வெற்றி தங்கள் பலத்தினால் அல்ல, தேவனிடத்திலிருந்து மட்டுமே வந்தது என்பதைக் காண்பிக்கும்படி.",
+     "anchor": "பட்டயமும் ஈட்டியும் இல்லாமல்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NEH.13.3",
+   "source_hash": "a57ef97b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.3#p1-a57ef97b",
+     "text": "அதாவது, முறைகேடான திருமணத்தில் இணைந்தவர்கள் அனைவரும், அவர்களோடு கலவாதபடி தேவன் தடைசெய்தவர்களும் அடங்குகின்றனர்.",
+     "anchor": "பற்பல தேசத்தின் மக்களையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.4",
+   "source_hash": "1906f2ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.4#p1-c797725d",
+     "text": "பிரிவினை செய்யப்பட்டதற்கு முன்னே.",
+     "anchor": "இதற்குமுன்னே"
+    },
+    {
+     "id": "geneva/NEH.13.4#p2-9560669e",
+     "text": "அவன் யூதர்களுடைய பகைவனாகிய அம்மோனியனான தொபியாவோடு இணைந்திருந்தான்.",
+     "anchor": "தொபியாவோடு இணைந்தவனாயிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.6",
+   "source_hash": "b6b6dc35",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.6#p1-b6b6dc35",
+     "text": "இவனையே தரியு என்றும் அழைக்கிறார்கள், எஸ்றா 6:1.",
+     "anchor": "பாபிலோன் ராஜாவாகிய அர்தசஷ்டாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.7",
+   "source_hash": "3ad0cbdc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.7#p1-3ad0cbdc",
+     "text": "தேவனுக்குப் பயப்படுகிற ஒருவர் இல்லாதிருக்கும்போது மக்கள் எத்தகைய இக்கட்டுகளில் விழுகிறார்கள் என்பதை இதிலே காண்கிறோம்; அவர்களுடைய தலைமை அதிகாரி சிறிது காலம் மட்டுமே இல்லாதிருந்தபோதிலும், அவர்கள் இத்தகைய பெரிய மூடத்தனங்களில் விழுந்தார்கள்: இது யாத்திராகமம் 32:1-ல் காணப்படுகிறது.",
+     "anchor": "எலியாசிப் தொபியாவுக்கு... செய்த தீங்கை அறிந்துகொண்டேன்.,label:e,refs:[{text:Ex 32:1,ref:EXO.32.1}]"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.14",
+   "source_hash": "455917bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.14#p1-455917bc",
+     "text": "தான் நல்மனச்சாட்சியோடு தன் கடமையைச் செய்ததாக அவர் சாட்சி கூறுகிறார்; ஆயினும் அதினிமித்தம் தன்னை நீதிமான் என்று காண்பிக்கவில்லை, மாறாக, 13:22,31 வசனங்களில் இருப்பதுபோல, தேவன் தமது சொந்த நற்குணத்தினிமித்தம் தன்மேல் இரக்கம் காட்டி தனக்கு இரங்கவேண்டுமென்று விண்ணப்பிக்கிறார்.",
+     "anchor": "நான் என் தேவனுடைய ஆலயத்திற்காகவும் அதின் முறைமைகளுக்காகவும் செய்த நற்செயல்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.15",
+   "source_hash": "efa2d765",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.15#p1-efa2d765",
+     "text": "நியாயப்பிரமாணத்தை இப்படி மீறுகிறவர்களை தேவன் தண்டனையின்றி விடமாட்டார் என்று நான் அவர்களுக்கு அறிவித்தேன்.",
+     "anchor": "அவர்களை மிகவும் கடிந்துகொண்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.18",
+   "source_hash": "0f8cae33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.18#p1-0f8cae33",
+     "text": "முற்காலத்தில் தேவன் நமக்கு வாதனை வரச்செய்ததற்குக் காரணம் இதுவல்லவா: அதாவது, இப்பொழுதும் அவர்கள் இதே விதமாகக் குற்றம் செய்தால், அவர்கள் மேலிருக்கும் வாதனை இன்னும் அதிகமாக இருக்கும் என்பதே கருத்து.",
+     "anchor": "இப்படிச் செய்ததினாலல்லவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.19",
+   "source_hash": "83cbd1b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.19#p1-83cbd1b4",
+     "text": "சூரியன் மறையும் நேரத்தைப் பற்றியது, ஏனெனில் ஓய்வுநாள் ஒரு நாள் சூரியன் மறையும்போது தொடங்கி மறுநாள் சூரியன் மறையும்வரை நீடித்தது.",
+     "anchor": "மாலைமறையும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.22",
+   "source_hash": "9b753538",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.22#p1-9b753538",
+     "text": "அசுத்தமான ஒருவனும் ஆலயத்தில் நுழையாதபடி வாசல்களைக் காக்கவேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "வாசல்களைக் காக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.23",
+   "source_hash": "e525ba76",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.23#p1-e525ba76",
+     "text": "இது பெலிஸ்தரின் ஒரு பட்டணமாக இருந்தது; அதிலிருந்து அவர்கள் பெண்களை மணந்துகொண்டு, இவ்விதமாக தங்கள் பேச்சையும் மார்க்கத்தையும் கெடுத்துக்கொண்டார்கள்.",
+     "anchor": "அஸ்தோத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.25",
+   "source_hash": "e5c1537c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.25#p1-e5c1537c",
+     "text": "அதாவது, நான் அவர்களைச் சபையிலிருந்து விலக்கி, சபையிலிருந்து துரத்தினேன்.",
+     "anchor": "சாபத்தைக் கூறி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.29",
+   "source_hash": "202e2624",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.29#p1-202e2624",
+     "text": "அவர்களுடைய பாவத்திற்கேற்றபடியும், அவர்களுடைய அழைப்புக்கு எதிராக அவர்கள் மற்ற மக்களுக்குக் காண்பித்த தீய முன்மாதிரிக்கேற்றபடியும் அவர்களைத் தண்டியும்.",
+     "anchor": "ஆசாரிய ஊழியத்தையும்... கறைப்படுத்தினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.13.31",
+   "source_hash": "a36921f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.13.31#p1-a36921f4",
+     "text": "அதாவது, எனக்கு இரக்கம் காண்பிக்கும்படி.",
+     "anchor": "நன்மையுண்டாக"
+    }
+   ]
+  }
+ ]
+}

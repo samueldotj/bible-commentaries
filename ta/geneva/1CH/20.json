@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.20.1",
+   "source_hash": "3005a0e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.1#p1-3005a0e4",
+     "text": "இது அம்மோனியரின் தலைநகராக இருந்தது.",
+     "anchor": "ரப்பாவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.2",
+   "source_hash": "25b5e23d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.2#p1-25b5e23d",
+     "text": "இது ஏறக்குறைய ஏழாயிரத்து எழுபது கிரீடங்களின் மதிப்பிற்குச் சமம், அது சுமார் 60 பவுண்டு நிறையாகும்.",
+     "anchor": "ஒரு தாலந்து எடையுள்ள பொன்னும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.5",
+   "source_hash": "603558de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.5#p1-603558de",
+     "text": "2 சாமுவேல் 21:19-ஐ வாசிக்க.",
+     "anchor": "காத்தூரானாகிய கோலியாத்தின் சகோதரனான லாகேமியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.20.6",
+   "source_hash": "284c1b12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.20.6#p1-284c1b12",
+     "text": "அதாவது அவனுக்கு ஒவ்வொரு கையிலும் ஒவ்வொரு காலிலும் ஆறாறு விரல்கள் இருந்தது என்பதாம்.",
+     "anchor": "ஆறு ஆறு விரலாக"
+    }
+   ]
+  }
+ ]
+}

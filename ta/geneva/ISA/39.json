@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 39,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ISA.39.1",
+   "source_hash": "fab811e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.1#p1-fab811e2",
+     "text": "இவன் தன் ஆட்சியின் பத்தாம் வருஷத்தில் அசீரியரை மேற்கொண்ட, பாபிலோனின் முதலாம் ராஜா.",
+     "anchor": "மெரோதாக்பலாதான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.2",
+   "source_hash": "e2e6ff3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.2#p1-e2e6ff3e",
+     "text": "2 இராஜாக்கள் 20:13, 2 நாளாகமம் 32:25,31-ஐப் பார்க்கவும்.",
+     "anchor": "சந்தோஷப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.4",
+   "source_hash": "8567086a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.4#p1-8567086a",
+     "text": "துன்மார்க்கருடைய தந்திரத்தை அவன் உணரும்படிக்கு, அவர்களுடைய முகஸ்துதியினால் மேற்கொள்ளப்பட்டு, ஆசையினால் கண் மறைக்கப்பட்டிருந்தபோது காணமுடியாதிருந்த அந்தத் தந்திரத்தை அவனுக்குத் தெரியப்படுத்தும்படி, அவன் இந்த விவரங்களைக் கேட்டு விசாரிக்கிறான்.",
+     "anchor": "உம்முடைய வீட்டில் எவைகளைப் பார்த்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.6",
+   "source_hash": "422fb03e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.6#p1-422fb03e",
+     "text": "தேவன் ஆடம்பரத்தையும் வீண் மகிமையையும் எவ்வளவு பெரிதும் அருவருத்தார் என்பதை இந்த கடுமையான தண்டனையினால் காணலாம்.",
+     "anchor": "பாபிலோனுக்குக் கொண்டுபோகப்படும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.7",
+   "source_hash": "d384816d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.7#p1-d384816d",
+     "text": "அதாவது, அதிகாரிகளும் வேலைக்காரரும்.",
+     "anchor": "அரண்மனை வேலைக்காரராயிருப்பார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.39.8",
+   "source_hash": "ffdbdac3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.39.8#p1-ffdbdac3",
+     "text": "2 இராஜாக்கள் 20:19-ஐ வாசிக்கவும்.",
+     "anchor": "அப்பொழுது எசேக்கியா ஏசாயாவை நோக்கி"
+    }
+   ]
+  }
+ ]
+}

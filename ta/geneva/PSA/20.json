@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.20.1",
+   "source_hash": "49bcb912",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.1#p1-b1df3349",
+     "text": "இதனாலே அரசர்களும் தங்கள் காரியங்களில் தேவனை நோக்கி விண்ணப்பம் செய்யும்படி எச்சரிக்கப்படுகிறார்கள்.",
+     "anchor": "ஆபத்துநாளிலே யெகோவா உமது விண்ணப்பத்திற்குப் பதில்கொடுப்பாராக"
+    },
+    {
+     "id": "geneva/PSA.20.1#p2-37f397aa",
+     "text": "தேவனுடைய வல்லமையும், சக்தியும், கிருபையும்.",
+     "anchor": "யாக்கோபின் தேவனுடைய பெயர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.3",
+   "source_hash": "e4ce389b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.3#p1-e4ce389b",
+     "text": "அவை தமக்குப் பிரியமாக ஏற்றுக்கொள்ளத்தக்கவை என்பதற்கு அடையாளமாக.",
+     "anchor": "உமது சர்வாங்க தகனபலியைப் பிரியமாக ஏற்றுக்கொள்வாராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.5",
+   "source_hash": "42b1675a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.5#p1-42b1675a",
+     "text": "ராஜாவுக்கு அருளப்பட்டது, அவருடைய நன்மையிலே எங்கள் சந்தோஷம் நிலைத்திருக்கிறது.",
+     "anchor": "இரட்சிப்பினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.6",
+   "source_hash": "24ea1b4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.6#p1-01d5096d",
+     "text": "தேவன் தங்கள் விண்ணப்பத்தைக் கேட்டிருக்கிறார் என்பதைச் சபை அறிந்திருக்கிறது.",
+     "anchor": "யெகோவா தாம் அபிஷேகம்செய்தவரைக் காப்பாற்றுகிறார் என்பதை இப்பொழுது அறிந்திருக்கிறேன்"
+    },
+    {
+     "id": "geneva/PSA.20.6#p2-c6efd1a4",
+     "text": "காணப்படும் பரிசுத்த ஸ்தலத்தினால் தேவனுடைய நெருக்கமான உறவு அவருடைய மக்களுக்கு வெளிப்பட்டதுபோல, பரலோகத்தினால் அவருடைய வல்லமையும் மகிமையும் குறிக்கப்படுகிறது.",
+     "anchor": "தமது பரிசுத்த வானத்திலிருந்து... இரட்சிப்பின் வல்லமைகளைக் காண்பித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.8",
+   "source_hash": "e6f0da71",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.8#p1-e6f0da71",
+     "text": "தேவன் ஒருவரையே நம்பிக்கையாய்க் கொள்ளாத லோகத்தாரை.",
+     "anchor": "அவர்கள் முறிந்து விழுந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.20.9",
+   "source_hash": "88e5dea8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.20.9#p1-88e5dea8",
+     "text": "நாங்கள் உதவிக்காக அவரைத் தேடும்போது, உம்முடைய வல்லமையினால் ராஜா எங்களை இரட்சிக்க வல்லவராயிருப்பாராக.",
+     "anchor": "நாங்கள் கூப்பிடுகிற நாளிலே ராஜா எங்களுக்குச் செவிகொடுப்பாராக"
+    }
+   ]
+  }
+ ]
+}

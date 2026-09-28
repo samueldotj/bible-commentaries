@@ -1,0 +1,176 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 26,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.26.2",
+   "source_hash": "815f25e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.2#p1-7d42e7a4",
+     "text": "இந்த சடங்கின் மூலம் அவர்கள் கானான் தேசத்தை தேவனிடத்தில் இருந்து இலவசமான ஈவாகப் பெற்றுக்கொண்டதை ஏற்றுக்கொண்டனர்.",
+     "anchor": "முந்தின பலனை எடுத்து"
+    },
+    {
+     "id": "geneva/DEU.26.2#p2-151584ab",
+     "text": "ஆவிக்குரிய முறையில் அழைக்கப்படவும், சேவிக்கப்படவும், தொழுதுகொள்ளப்படவும் வேண்டியவராக, உபாகமம் 12:5.",
+     "anchor": "தமது நாமம் விளங்கும்படி தெரிந்துகொண்டிருக்கும் இடத்திற்கு...போய்,"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.5",
+   "source_hash": "db970ba1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.5#p1-76aaf616",
+     "text": "அதாவது, சீரியாவில் 20 வருடங்கள் ஊழியம் செய்த யாக்கோபு.",
+     "anchor": "அழிவுக்கு நேரான சீரியா தேசத்தானாக"
+    },
+    {
+     "id": "geneva/DEU.26.5#p2-cde7e273",
+     "text": "தேவனுடைய இரக்கத்தினாலேயே, அவர்களுடைய தகப்பனுடைய தகுதியினால் அல்ல.",
+     "anchor": "பலத்த எண்ணிக்கை மிகுந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.7",
+   "source_hash": "aa2f348f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.7#p1-aa2f348f",
+     "text": "ஆபிரகாம், ஈசாக்கு, யாக்கோபு என்ற எங்கள் முற்பிதாக்களுக்குச் செய்யப்பட்ட வாக்குத்தத்தங்களை முன்னிட்டு.",
+     "anchor": "எங்கள் முற்பிதாக்களின் தேவனாகிய யெகோவாவை நோக்கிக் கூப்பிட்டோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.10",
+   "source_hash": "443bba50",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.10#p1-443bba50",
+     "text": "நன்றியுள்ள இருதயத்தின் அடையாளமாகவும், இந்த நன்மையை நினைவுகூருதலாகவும்.",
+     "anchor": "நிலத்தினுடைய அறுவடைகளின் முதற்பலனைக் கொண்டுவந்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.11",
+   "source_hash": "54166ff0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.11#p1-54166ff0",
+     "text": "நமக்கு நன்மைகளைத் தேவன் நமக்காக மட்டும் அல்ல, நம்முடைய பொறுப்பில் ஒப்படைக்கப்பட்டிருக்கிறவர்களாலும் பயன்படுத்தப்பட வேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "வீட்டாருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.13",
+   "source_hash": "3c1345cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.13#p1-bc897af0",
+     "text": "மாயமில்லாமல்.",
+     "anchor": "தேவரீர் எனக்குக் கொடுத்த"
+    },
+    {
+     "id": "geneva/DEU.26.13#p2-ae8a2fa7",
+     "text": "தீவினையினாலும் அவமதிப்பினாலும் அல்ல.",
+     "anchor": "உம்முடைய கட்டளைகளில் ஒன்றையும் நான் மீறவும் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.14",
+   "source_hash": "06ab54f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.14#p1-06ab54f0",
+     "text": "என் பாவமுள்ள இயல்பு எவ்வளவு அனுமதிக்குமோ அவ்வளவுக்கு; அல்லது தாவீதும் பவுலும் சொல்வதுபோல, நீதிமான் ஒருவனும் இல்லை, சங்கீதம் 14:3, ரோமர் 3:10.",
+     "anchor": "கட்டளையிட்டபடி சகலமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.16",
+   "source_hash": "c813a395",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.16#p1-c813a395",
+     "text": "நல்ல மற்றும் எளிமையான மனச்சாட்சியோடு.",
+     "anchor": "முழு இருதயத்தோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.26.18",
+   "source_hash": "627ee8f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.26.18#p1-627ee8f4",
+     "text": "தேவனுக்கும் அவருடைய மக்களுக்கும் இடையே ஒரு பரஸ்பர உடன்படிக்கை உண்டு என்பதைக் குறிக்கிறது.",
+     "anchor": "யெகோவாவும் உனக்கு வாக்குக்கொடுத்து"
+    }
+   ]
+  }
+ ]
+}

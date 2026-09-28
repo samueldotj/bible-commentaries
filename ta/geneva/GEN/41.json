@@ -1,0 +1,229 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 41,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.41.1",
+   "source_hash": "ab9d7d2f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.1#p1-ab9d7d2f",
+     "text": "இந்தக் கனவு பார்வோனுக்காக அல்ல, மாறாக யோசேப்பை விடுவிக்கவும், தேவனுடைய சபைக்காக ஆயத்தம் செய்யவும் ஒரு வழியாக இருந்தது.",
+     "anchor": "கனவு கண்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.5",
+   "source_hash": "539d015b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.5#p1-539d015b",
+     "text": "தேவன் தம்முடைய ஊழியனை விடுவிக்கவும், அவனைத் தயவுக்கும் அதிகாரத்திற்கும் கொண்டுவரவும் இந்த வழிமுறைகள் எல்லாவற்றையும் பயன்படுத்தினார்.",
+     "anchor": "இரண்டாம் முறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.8",
+   "source_hash": "c68d0192",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.8#p1-c68d0192",
+     "text": "இந்தப் பயம் தானே, இந்தத் தரிசனம் தேவனால் அனுப்பப்பட்டது என்பதை அவனுக்குப் போதிக்கப் போதுமானதாக இருந்தது.",
+     "anchor": "மனம் கலக்கம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.9",
+   "source_hash": "39a8ba60",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.9#p1-39a8ba60",
+     "text": "அவன் யோசேப்பைக் குறித்துப் பேசுவதற்கு முன்பு, ராஜாவுக்கு விரோதமாகச் செய்த தன் குற்றத்தை அறிக்கைசெய்கிறான்.",
+     "anchor": "நான் செய்த குற்றம் இன்றுதான் என் ஞாபகத்தில் வந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.14",
+   "source_hash": "c3ee3a20",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.14#p1-c3ee3a20",
+     "text": "துன்மார்க்கர் தங்களுடைய தேவையின் காலத்தில் தேவனுடைய தீர்க்கதரிசிகளைத் தேடுவார்கள்; அவர்களுடைய செழிப்பின் காலத்திலோ அவர்களை அருவருக்கிறார்கள்.",
+     "anchor": "யோசேப்பை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.16",
+   "source_hash": "0665ed62",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.16#p1-0665ed62",
+     "text": "நான் உம்முடைய கனவுக்கு அர்த்தம் சொன்னால், அது என்னிடமிருந்து அல்ல, தேவனிடமிருந்து வருகிறது என்று அவன் சொல்வது போலிருக்கிறது.",
+     "anchor": "நான் அல்ல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.25",
+   "source_hash": "3ebfbae4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.25#p1-3ebfbae4",
+     "text": "அவருடைய இரண்டு கனவுகளும் ஒரே செய்தியைக் கொண்டிருக்கிறது.",
+     "anchor": "பார்வோனின் கனவு ஒன்று தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.33",
+   "source_hash": "2f3c6b16",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.33#p1-2f3c6b16",
+     "text": "ஒரு உண்மையான தீர்க்கதரிசியின் பணி வரப்போகிற தீமைகளை வெளிப்படுத்துவது மட்டுமல்ல, அவைகளுக்கான தீர்வுகளையும் காண்பிப்பதே ஆகும்.",
+     "anchor": "விவேகமும் ஞானமுமுள்ள ஒரு மனிதனைத் தேடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.38",
+   "source_hash": "ed346cf0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.38#p1-ed346cf0",
+     "text": "தேவனிடத்திலிருந்து அதற்குத் தகுதியான வரங்களைப் பெறாத எவனும் கனப்படுத்தப்படக் கூடாது.",
+     "anchor": "தேவ ஆவியைப் பெற்ற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.40",
+   "source_hash": "6da4beea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.40#p1-6da4beea",
+     "text": "சிலர் \"மக்கள் உன் வாயை கொல்வார்கள்\" என்று வாசிக்கிறார்கள், அதாவது எல்லாவற்றிலும் உனக்குக் கீழ்ப்படிதல் என்பதாம்.",
+     "anchor": "வார்த்தைக்கு என் மக்கள் எல்லோரும் அடங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.43",
+   "source_hash": "9c8875d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.43#p1-9c8875d5",
+     "text": "அல்லது \"அப்ரெக்\": கனத்தின் அடையாளம்; சிலர் இந்த வார்த்தையை, அரும் தந்தை அல்லது ராஜாவின் தந்தை, அல்லது முழங்காற்படியிடும் என்று மொழிபெயர்க்கிறார்கள்.",
+     "anchor": "குனிந்து பணியுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.46",
+   "source_hash": "c4c6b87c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.46#p1-c4c6b87c",
+     "text": "அவனுடைய வயது குறிப்பிடப்பட்டிருப்பது, அவனுடைய அதிகாரம் தேவனிடத்திலிருந்து வந்தது என்பதைக் காண்பிக்கவும், அத்துடன் அவன் பன்னிரண்டு வருடங்களுக்கு அல்லது அதற்கு மேலாக சிறையிலும் நாடுகடத்தலிலும் பொருந்திக் கொண்டிருந்தான் என்பதைக் காண்பிக்கவுமே ஆகும்.",
+     "anchor": "முப்பது வயதாயிருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.41.51",
+   "source_hash": "d9c5bf19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.41.51#p1-d9c5bf19",
+     "text": "ஆயினும், அவனுடைய தகப்பனுடைய குடும்பம் தேவனுடைய உண்மையான சபையாக இருந்தது; ஆனாலும் துன்மார்க்கருடைய கூட்டமும் செல்வச்செழிப்பும் அவனை அதை மறக்கும்படி செய்தது.",
+     "anchor": "தகப்பனுடைய குடும்பம்"
+    }
+   ]
+  }
+ ]
+}

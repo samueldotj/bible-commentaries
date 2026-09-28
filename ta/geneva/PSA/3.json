@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.3.1",
+   "source_hash": "545e56b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.1#p1-545e56b4",
+     "text": "தன் எல்லா கஷ்டங்களிலும் அவன் தேவனிடத்தில் திரும்பினான் என்பது, அவனுடைய உறுதியான விசுவாசத்திற்கு அடையாளமாக இருந்தது.",
+     "anchor": "பெருகியிருக்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.2",
+   "source_hash": "816b6ecb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.2#p1-816b6ecb",
+     "text": "சேலா என்பது, இந்த வாக்கியத்தை மிகவும் முக்கியமான ஒன்றாகக் கருதுமாறு நம்மைத் தூண்டுவதற்காக, சத்தத்தை உயர்த்துவதைக் குறிக்கிறது.",
+     "anchor": "சேலா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.6",
+   "source_hash": "c6f6a9d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.6#p1-c6f6a9d8",
+     "text": "அவன் தேவனுடைய வாக்குத்தத்தத்தின் சத்தியத்தைச் சிந்தித்து, அதைச் சோதித்துப் பார்த்தபோது, அவனுடைய விசுவாசம் ஆச்சரியமாக வளர்ந்தது.",
+     "anchor": "நான் பயப்படமாட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.3.8",
+   "source_hash": "6f2d4def",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.3.8#p1-6f2d4def",
+     "text": "ஆபத்துகள் எவ்வளவு பெரியதாகவும் அநேகமாகவும் இருந்தாலும், தேவன் தமது மக்களை விடுவிப்பதற்கு எப்பொழுதும் வழிகளைக் கொண்டிருக்கிறார்.",
+     "anchor": "ஜெயம் யெகோவாவுடையது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 54,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.54.1",
+   "source_hash": "55aa6fa5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.1#p1-55aa6fa5",
+     "text": "எல்லா வழிமுறைகளும் பயனற்றுப் போகும்போது, நல்மனச்சாட்சியோடு தம்மை நோக்கிக் கூப்பிடுகிறவர்களைத் தேவன் அற்புதத்தினாலும் விடுவிப்பார் என்று அவர் அறிவிக்கிறார்.",
+     "anchor": "உமது பெயரினிமித்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.54.3",
+   "source_hash": "8043091d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.3#p1-64819036",
+     "text": "அதாவது, சீபியர்கள்.",
+     "anchor": "அந்நியர் எனக்கு விரோதமாக எழும்புகிறார்கள்"
+    },
+    {
+     "id": "geneva/PSA.54.3#p2-997fe701",
+     "text": "கொடிய மிருகங்களைப்போல் இருந்த சவுலும் அவனுடைய படையும், அவனுடைய மரணத்தினாலன்றி வேறு எதனாலும் திருப்தியடையக் கூடாதவர்களாக இருந்தார்கள்.",
+     "anchor": "கொடியவர்கள் என்னுடைய உயிரை வாங்கத் தேடுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.54.4",
+   "source_hash": "b2fc9c5c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.4#p1-b2fc9c5c",
+     "text": "அவர்கள் எத்தனை பேராயிருந்தாலும் பாதகமில்லை, யோனத்தானோடு இருந்தது போல.",
+     "anchor": "என்னுடைய ஆத்துமாவை ஆதரிக்கிறவர்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.54.5",
+   "source_hash": "3881e259",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.5#p1-3881e259",
+     "text": "என்னைக் காக்கும் பொருட்டு உம்முடைய உண்மையுள்ள வாக்குத்தத்தத்தின்படியே.",
+     "anchor": "சத்தியத்திற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.54.6",
+   "source_hash": "61c4f108",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.6#p1-61c4f108",
+     "text": "மாயக்காரர் தேவனை பயத்தினாலோ அல்லது ஏதேனும் நிபந்தனைகளின்படியோ சேவிக்கிறார்கள்.",
+     "anchor": "உற்சாகத்துடன் நான் உமக்குப் பலியிடுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.54.7",
+   "source_hash": "e6b13a09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.54.7#p1-e6b13a09",
+     "text": "நம்முடைய உணர்வுகள் தூய்மையாக இருக்குமானால், துன்மார்க்கருக்கு விரோதமான தேவனுடைய நியாயத்தீர்ப்புகளில் நாம் நியாயமாக மகிழ்ச்சியடையலாம்.",
+     "anchor": "என்னுடைய எதிரிகளில் நீதி சரிக்கட்டுதலைக் கண்டது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "source": "geneva",
+ "book": "ECC",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ECC.11.1",
+   "source_hash": "b7130890",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.1#p1-b7130890",
+     "text": "அதாவது, ஏழைகளுக்குத் தாராளமாகக் கொடு; அது கடலில் ஒரு பொருளை ஏற்றி விடுவதுபோல் தோன்றினாலும், அது உனக்குப் பலனைக் கொண்டுவரும்.",
+     "anchor": "தண்ணீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.3",
+   "source_hash": "b71967ca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.3#p1-a304b194",
+     "text": "மேகங்கள் நிறைந்திருக்கும்போது மழையைப் பொழிவதுபோல, செல்வர் மிகுதியுள்ளவர்களாய் இருக்கும்போது தாராளமாய் பகிர்ந்தளிக்க வேண்டும்.",
+     "anchor": "மேகங்கள் நிறைந்திருந்தால்"
+    },
+    {
+     "id": "geneva/ECC.11.3#p2-ee013a98",
+     "text": "நாம் உயிரோடிருக்கும்போதே தாராளமாயிருக்கும்படி அவன் புத்திசொல்லுகிறான்; ஏனெனில் அதற்குப்பின்பு நமக்கு அதற்கான வல்லமை இல்லை.",
+     "anchor": "மரமானது தெற்கே விழுந்தாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.4",
+   "source_hash": "d4273c2b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.4#p1-d4273c2b",
+     "text": "தேவை ஏற்படும்போது இடையூறுகளுக்குப் பயப்படுகிறவன் தன் கடமையை ஒருபோதும் செய்யமாட்டான்.",
+     "anchor": "காற்றைக் கவனிக்கிறவன் விதைக்கமாட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.6",
+   "source_hash": "e975c1ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.6#p1-175d5a4c",
+     "text": "நன்மை செய்வதில் சோர்ந்துபோகாதே.",
+     "anchor": "உன்னுடைய கையை நெகிழவிடாதே"
+    },
+    {
+     "id": "geneva/ECC.11.6#p2-686fd33d",
+     "text": "அதாவது, உன் செயல்களில் எது தேவனுக்கு மிகவும் பிரியமானது என்பதைக் குறிக்கிறது.",
+     "anchor": "அதுவோ, இதுவோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.8",
+   "source_hash": "b4f8dd02",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.8#p1-b4f8dd02",
+     "text": "அதாவது, துன்பமும் கஷ்டமும் நிறைந்த நாட்களைக் குறிக்கிறது.",
+     "anchor": "இருளின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.9",
+   "source_hash": "591a103d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.9#p1-591a103d",
+     "text": "தேவன் தன்னிடத்தில் கணக்குக் கேட்பதில்லை என்பதுபோல, தங்கள் ஆசையை உலகப் பொழுதுபோக்குகளில் வைக்கிறவர்களை அவர் இங்கே ஏளனம் செய்கிறார்.",
+     "anchor": "சந்தோஷப்படு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.11.10",
+   "source_hash": "2980f0dd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.11.10#p1-cee6f919",
+     "text": "அதாவது, கோபமும் பொறாமையும்.",
+     "anchor": "கோபத்தையும்"
+    },
+    {
+     "id": "geneva/ECC.11.10#p2-a415eac4",
+     "text": "அதாவது, இளவயதில் ஆசைப்படும் சரீரத்திற்குரிய இச்சைகள்.",
+     "anchor": "சரீரத்திலிருந்து தீங்கையும் நீக்கிப்போடு"
+    }
+   ]
+  }
+ ]
+}

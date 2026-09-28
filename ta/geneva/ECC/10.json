@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "ECC",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ECC.10.2",
+   "source_hash": "421abe3b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.2#p1-421abe3b",
+     "text": "இதனால் அவன் எல்லாவற்றையும் நன்றாகவும் நீதியாகவும் செய்கிறான், மூடனோ அதற்கு நேர்மாறாக செய்கிறான்.",
+     "anchor": "ஞானியின் இருதயம் வலதுகையிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.3",
+   "source_hash": "73fa274e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.3#p1-73fa274e",
+     "text": "தன் நடத்தையினாலே அவன் தன்னைத்தானே காட்டிக்கொடுக்கிறான்.",
+     "anchor": "அவன் எல்லோருக்கும் சொல்லுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.4",
+   "source_hash": "43dafbd1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.4#p1-43dafbd1",
+     "text": "உன்னுடைய அதிகாரி உன்மேல் கோபங்கொண்டால், நீ விவேகமாயிருந்து கலங்காமல் இரு.",
+     "anchor": "அதிபதியின் கோபம் உன்மேல் எழும்பினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.5",
+   "source_hash": "814fe35b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.5#p1-814fe35b",
+     "text": "அதிகாரத்தில் இருக்கிறவர்கள் தங்கள் கடமையைச் செய்யத் தவறி, குறைபடும்போது அது ஒரு தீங்கான காரியம் என்பதைக் குறிக்கிறது.",
+     "anchor": "அதிபதியினிடத்தில் தோன்றும் தவறே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.6",
+   "source_hash": "04c7bd1e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.6#p1-04c7bd1e",
+     "text": "ஞானத்திலும் நற்குணத்திலும் செல்வந்தரானவர்கள்.",
+     "anchor": "சீமான்களோ தாழ்ந்த நிலையில் உட்கார்ந்திருக்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.10",
+   "source_hash": "09af705f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.10#p1-09af705f",
+     "text": "ஞானமில்லாவிட்டால், ஒருவன் எதைச் செய்யத் தொடங்கினாலும், அது தனக்கே தீங்காக மாறும்.",
+     "anchor": "பலத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.15",
+   "source_hash": "89dbf2bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.15#p1-89dbf2bc",
+     "text": "துன்மார்க்கருடைய அறியாமையும் மிருககுணமும் இத்தகையது என்னவென்றால், அவர்கள் சாதாரண காரியங்களைக்கூட அறியாதவர்களாக இருந்தும், உயர்ந்த காரியங்களைப் பற்றி விவாதம் செய்ய விரும்புவார்கள்.",
+     "anchor": "ஊர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.16",
+   "source_hash": "d10d7544",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.16#p1-e99aaaa6",
+     "text": "அதாவது, ஞானமும் ஆலோசனையும் இல்லாதவனாக.",
+     "anchor": "சிறுபிள்ளையுமாக"
+    },
+    {
+     "id": "geneva/ECC.10.16#p2-c362eca1",
+     "text": "தங்களுடைய இச்சைகளுக்கும் இன்பங்களுக்கும் ஒப்புக்கொடுக்கப்பட்டிருக்கிறவர்கள்.",
+     "anchor": "அதிகாலமே சாப்பிடுகிறவர்களுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.17",
+   "source_hash": "61f9a361",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.17#p1-61f9a361",
+     "text": "அதாவது, அவன் நல்லொழுக்கத்தினாலும் ஞானத்தினாலும் தேவனுடைய கிருபைவரங்களினாலும் உயர்ந்தவனாக இருக்கும்போது.",
+     "anchor": "உயர்ந்த குடிமகனுமாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.10.20",
+   "source_hash": "fc88b0ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.10.20#p1-fc88b0ea",
+     "text": "நீ தெரியப்படாதபடி இரகசியமாக ஒரு பொல்லாத செயலையும் செய்யமுடியாது.",
+     "anchor": "ஆகாயத்துப்பறவை அந்த சத்தத்தைக் கொண்டுபோகும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "source": "geneva",
+ "book": "MAT",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/MAT.10.1",
+   "source_hash": "1572aafe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.1#p1-1572aafe",
+     "text": "அப்போஸ்தலர்கள் இஸ்ரவேலில் நற்செய்தியைப் பிரசங்கிக்கும்படி அனுப்பப்படுகிறார்கள்.",
+     "anchor": "வரவழைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.2",
+   "source_hash": "9f234aa4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.2#p1-9f234aa4",
+     "text": "தெயொஃபிலக்ட் கூறுகிறார், பேதுருவும் அந்திரேயாவும் முந்தினவர்கள் என்று அழைக்கப்படுகிறார்கள், ஏனெனில் அவர்கள் முதலில் அழைக்கப்பட்டவர்கள்.",
+     "anchor": "முந்தினவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.4",
+   "source_hash": "16b7453e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.4#p1-16b7453e",
+     "text": "கீரியோத் ஊரானவன். கீரியோத் யூதா கோத்திரத்தில் இருந்தது; யோசுவா 15:25.",
+     "anchor": "காரியோத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.7",
+   "source_hash": "f2c86e12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.7#p1-f2c86e12",
+     "text": "நற்செய்தியின், அல்லது அப்போஸ்தலர்களுடைய பிரசங்கத்தின் சுருக்கம்.",
+     "anchor": "போகும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.8",
+   "source_hash": "509abfc3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.8#p1-509abfc3",
+     "text": "அற்புதங்கள் வசனத்தை உறுதிப்படுத்தும் அடையாளங்களாகும்.",
+     "anchor": "வியாதியுள்ளவர்களைச் சுகமாக்குங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.9",
+   "source_hash": "f66d1062",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.9#p1-d3df6f4c",
+     "text": "வார்த்தையின் ஊழியக்காரர் தங்களைத் தடுக்கக்கூடிய கவலைகள் அனைத்தையும், அவற்றில் சிறியதையும் கூட, தள்ளிவிட வேண்டும்.",
+     "anchor": "வைத்துக்கொள்ளாதிருங்கள்"
+    },
+    {
+     "id": "geneva/MAT.10.9#p2-b4436e84",
+     "text": "இந்தப் பயணத்திற்காக, அதாவது, ஒன்றும் அவர்களைத் தடுக்காதபடிக்கும், தேவனுடைய பராமரிப்பினுடைய ருசியை அவர்கள் சிறிதளவேனும் உணரும்படிக்கும்; ஏனெனில் அவர்கள் திரும்பி வந்தபோது, வழியிலே எதாவது குறைவாக இருந்ததா என்று கர்த்தர் அவர்களைக் கேட்டார், லூக்கா 22:35.",
+     "anchor": "பொன்னையாவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.10",
+   "source_hash": "fe553043",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.10#p1-fe553043",
+     "text": "தேவன் உங்களுக்கு ஆகாரத்தைக் கொடுப்பார்.",
+     "anchor": "ஆகாரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.11",
+   "source_hash": "7b35b07b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.11#p1-7b35b07b",
+     "text": "நற்செய்தியின் பிரசங்கத்தை ஏற்றுக்கொள்கிறவர்கள் பாக்கியவான்கள்; அதை மறுக்கிறவர்கள் அபாக்கியவான்கள்.",
+     "anchor": "எந்தப் பட்டணத்திலாவது கிராமத்திலாவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.13",
+   "source_hash": "322cba67",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.13#p1-322cba67",
+     "text": "இது எபிரெயர்களிடமிருந்து எடுக்கப்பட்ட ஒரு வழக்குச்சொல்லாகும், இதினால் அவர்கள் எல்லாவிதமான நன்மையையும் குறிப்பிட்டார்கள்.",
+     "anchor": "சமாதானம் அவர்கள்மேல் வரக்கடவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.16",
+   "source_hash": "9a6f2b8d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.16#p1-eb153d81",
+     "text": "ஊழியக்காரர் சிலுவையின் கீழ் எவ்விதம் நடந்துகொள்ள வேண்டும் என்பதைக் கிறிஸ்து காண்பிக்கிறார்.",
+     "anchor": "இதோ"
+    },
+    {
+     "id": "geneva/MAT.10.16#p2-306170f1",
+     "text": "நீங்கள் மிகுந்த ஆபத்திலிருப்பீர்கள்.",
+     "anchor": "ஓநாய்களுக்குள்ளே"
+    },
+    {
+     "id": "geneva/MAT.10.16#p3-3faa694f",
+     "text": "நீங்கள் இழைக்கப்பட்ட அநியாயத்திற்குப் பழிவாங்குவதுமில்லை: இந்த இரு மிருகங்களின் இயல்புகளைக் கலப்பதன் மூலம், நம்முடைய ஞானம் தீங்கு செய்வதாகவும், நம்முடைய நேர்மை பைத்தியமாகவும் இருக்க வேண்டும் என்று அவர் விரும்பவில்லை, மாறாக இவ்விரண்டும் அழகாகக் கலந்து அமைந்த ஒருவித நல்ல இயல்பையே விரும்புகிறார்.",
+     "anchor": "புறாக்களைப்போல வஞ்சகமற்றவர்களுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.17",
+   "source_hash": "a1687289",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.17#p1-a1687289",
+     "text": "ஏனெனில் மார்க்க காரியத்தில் மனிதர் ஒருவருக்கொருவர் ஓநாய்களைப்போல் இருக்கிறார்கள்.",
+     "anchor": "மனிதர்களைக்குறித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.23",
+   "source_hash": "b4938be6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.23#p1-b4938be6",
+     "text": "முடிவுக்கு வருவது, அதாவது, இஸ்ரவேலருடைய பட்டணங்களையெல்லாம் நீங்கள் சுற்றிவந்து அவைகளில் பிரசங்கம் செய்து முடிக்கவேமாட்டீர்கள்.",
+     "anchor": "இஸ்ரவேலருடைய பட்டணங்களையெல்லாம் சுற்றிவரமுடியாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.25",
+   "source_hash": "4698f571",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.25#p1-4698f571",
+     "text": "இது அக்ரோனியரின் விக்கிரகமாக இருந்தது, அதை நாம் ஈக்களின் தேவன் என்று அழைக்கிறோம்.",
+     "anchor": "பெயெல்செபூல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.26",
+   "source_hash": "00981c05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.26#p1-00981c05",
+     "text": "சத்தியம் எப்பொழுதும் மறைந்திருக்காது.",
+     "anchor": "அவர்களுக்குப் பயப்படாமலிருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.27",
+   "source_hash": "508b27ab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.27#p1-508b27ab",
+     "text": "வெளிப்படையாக, மிக உயர்ந்த இடங்களில். ஏனெனில் அவர்களுடைய வீடுகளின் மேல்மாடிகள் அவைகளின்மேல் நடக்கும்படியாகவே செய்யப்பட்டிருந்தன; அப்போஸ்தலருடைய நடபடிகள் 10:9.",
+     "anchor": "வீடுகளின்மேல்பிரசித்தம்பண்ணுங்கள்.\"கள் லfetime\"—actually let me just use the text.  ,"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.28",
+   "source_hash": "d5d76777",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.28#p1-d5d76777",
+     "text": "கொடுங்கோலர் கடுங்கோபமும் கொடுமையும் காட்டினாலும், நாம் அவர்களுக்குப் பயப்படலாகாது.",
+     "anchor": "சரீரத்தைமட்டும் கொல்லுகிறவர்களுக்கு நீங்கள் பயப்படவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.29",
+   "source_hash": "16ca9850",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.29#p1-16ca9850",
+     "text": "ஒரு அவுன்சின் நாலில் ஒரு பங்கு அல்லது ஏழு கிராம்.",
+     "anchor": "காசு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.32",
+   "source_hash": "73ede6de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.32#p1-73ede6de",
+     "text": "கிறிஸ்துவை வெளிப்படையாக அறிக்கைசெய்வதின் அவசியமும் அதற்குரிய பலனும்.",
+     "anchor": "மனிதர்கள் முன்பாக என்னை அறிக்கைசெய்கிறவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.34",
+   "source_hash": "baaae138",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.34#p1-baaae138",
+     "text": "நற்செய்தியின் பிரசங்கத்தைத் தொடர்ந்து குடிசார் பிரிவினைகள் உண்டாகும்.",
+     "anchor": "அனுப்பவந்தேன் என்று எண்ணாதிருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.37",
+   "source_hash": "62dd641f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.37#p1-62dd641f",
+     "text": "தேவனுக்குச் செய்யவேண்டிய கடமையைவிட, விதிவிலக்கின்றி வேறொன்றும் மேலானதாகக் கருதப்படலாகாது.",
+     "anchor": "தகப்பனையாவது தாயையாவது என்னைவிட அதிகமாக நேசிக்கிறவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.39",
+   "source_hash": "d541ce00",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.39#p1-d541ce00",
+     "text": "தங்கள் ஜீவனை ஆபத்திலிருந்து விடுவித்துக்கொள்பவர்களைக் குறித்து, அவர்கள் தங்கள் ஜீவனைக் காத்துக்கொண்டார்கள் என்று சொல்லப்படுகிறது; இது, மரிக்கிறவர்கள் நிச்சயமாக அழிந்துபோனார்கள் என்று நினைக்கும் மக்களின் அபிப்பிராயத்திற்கு எதிராகச் சொல்லப்பட்டதாகும், ஏனெனில் அவர்கள் வருங்காலத்திலுள்ள ஜீவனைக் குறித்து சிந்திக்கிறதில்லை.",
+     "anchor": "தன் ஜீவனைக் காக்கிறவன் அதை இழந்துபோவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.40",
+   "source_hash": "1909fd04",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.40#p1-1909fd04",
+     "text": "தேவன் தமது பரிசுத்த ஊழியத்திற்கு ஆசிரியரும், அதற்கு விரோதமாகச் செய்கிறவர்களுக்குப் பழிவாங்குகிறவரும் ஆவார்.",
+     "anchor": "உங்களை ஏற்றுக்கொள்ளுகிறவன் என்னை ஏற்றுக்கொள்ளுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.41",
+   "source_hash": "612a4087",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.41#p1-89c39927",
+     "text": "கிறிஸ்துவிற்குச் செய்யப்படுவது எதும் வீணாய்ப் போகாது.",
+     "anchor": "தீர்க்கதரிசி என்னும் பெயரினிமித்தம் தீர்க்கதரிசியை ஏற்றுக்கொள்ளுகிறவன்"
+    },
+    {
+     "id": "geneva/MAT.10.41#p2-e548ebc2",
+     "text": "தீர்க்கதரிசி என்கிற முறையில்.",
+     "anchor": "தீர்க்கதரிசி என்னும் பெயரினிமித்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/MAT.10.42",
+   "source_hash": "6b1038c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/MAT.10.42#p1-6b1038c2",
+     "text": "உலகப் பார்வையில் அற்பமும் இழிவுமானவர்கள்.",
+     "anchor": "சிறியவர்களில் ஒருவனுக்கு ஒரு கிண்ணம் தண்ணீர்"
+    }
+   ]
+  }
+ ]
+}

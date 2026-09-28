@@ -1,0 +1,200 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.16.2",
+   "source_hash": "4623a4e5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.2#p1-4623a4e5",
+     "text": "பிரதான ஆசாரியன் மகா பரிசுத்த ஸ்தலத்திற்குள் வருடத்திற்கு ஒரு முறை மட்டும், செப்டம்பர் மாதத்தில் பிரவேசித்தான்.",
+     "anchor": "எல்லா நேரங்களிலும் பரிசுத்த ஸ்தலத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.8",
+   "source_hash": "1c263ee0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.8#p1-1c263ee0",
+     "text": "எபிரெய மொழியில் இது அசாசேல் எனப்படுகிறது, இது சீனாய்க்கு அருகிலுள்ள ஒரு மலை என்று சிலர் சொல்கிறார்கள், அந்த வெள்ளாட்டுக்கடா அங்கே அனுப்பப்பட்டதாக. அதற்குப் பதிலாக, அது பலியிடப்படாமல் வனாந்தரத்திற்கு அனுப்பப்பட்டதால் போக்காடு எனப்படுகிறது, 16:11-ல் காணப்படுகிறபடி.",
+     "anchor": "போக்காடாக விடப்படும் வெள்ளாட்டுக்கடா*}*}{"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.12",
+   "source_hash": "3484ce0f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.12#p1-3484ce0f",
+     "text": "மகா பரிசுத்த ஸ்தலம்.",
+     "anchor": "திரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.14",
+   "source_hash": "873569c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.14#p1-873569c5",
+     "text": "அதாவது, மக்களுக்கு நேராக இருந்த பக்கத்தில்: ஏனெனில் பரிசுத்த ஸ்தலத்தின் தலைப்பு மேற்குப்புறமாக இருந்தது.",
+     "anchor": "கீழ்ப்புறமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.16",
+   "source_hash": "8de4af0e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.16#p1-8de4af0e",
+     "text": "அசுத்தமானவர்களுக்கு நடுவே வைக்கப்பட்டிருக்கிறது.",
+     "anchor": "அவர்களிடத்தில் அவர்களுடைய தீட்டுகளுக்குள்ளே நிற்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.18",
+   "source_hash": "8f22eab3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.18#p1-8f22eab3",
+     "text": "இதன்மேல் நறுமணமான தூபம் காட்டப்பட்டது.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில் இருக்கிற பலிபீடத்தண்டை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.21",
+   "source_hash": "93833c58",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.21#p1-93833c58",
+     "text": "இந்த வெள்ளாட்டுக்கடாவில் இயேசுகிறிஸ்துவின் உண்மையான உருவகம் காணப்படுகிறது, அவர் மக்களுடைய பாவங்களைச் சுமக்கிறார், ஏசாயா 53:9.",
+     "anchor": "வெள்ளாட்டுக்கடாவினுடைய தலையின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.24",
+   "source_hash": "de35b84b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.24#p1-de35b84b",
+     "text": "தொட்டி இருந்த பிராகாரத்திலே, யாத்திராகமம் 30:28.",
+     "anchor": "பரிசுத்த இடத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.29",
+   "source_hash": "6d420ea3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.29#p1-590a6cc8",
+     "text": "இது திஸ்ரி மாதமாகும், செப்டம்பர் மாதத்தின் ஒரு பகுதியும் அக்டோபர் மாதத்தின் ஒரு பகுதியும் சேர்ந்தது.",
+     "anchor": "ஏழாம் மாதம்"
+    },
+    {
+     "id": "geneva/LEV.16.29#p2-4a481f3d",
+     "text": "அதாவது, அடக்கத்தினாலும் உபவாசத்தினாலும், எண்ணாகமம் 29:7.",
+     "anchor": "தங்கள் ஆத்துமாக்களைத் தாழ்மைப்படுத்துவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.31",
+   "source_hash": "8e2b9e9b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.31#p1-8e2b9e9b",
+     "text": "அல்லது நீங்கள் மிகவும் கருத்துடன் கைக்கொள்ளவேண்டிய ஓய்வு.",
+     "anchor": "விசேஷித்த ஓய்வுநாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.16.32",
+   "source_hash": "0316b11e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.16.32#p1-0316b11e",
+     "text": "தன் தகப்பனுடைய இடத்தில் வந்து ஆசாரியனாக இருப்பதற்காக, தேவனுடைய கற்பனையின்படி ஆசாரியனால் அபிஷேகம் செய்யப்பட்டவன்.",
+     "anchor": "அபிஷேகம் பெற்றவனும்"
+    }
+   ]
+  }
+ ]
+}

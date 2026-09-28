@@ -1,0 +1,255 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.6.1",
+   "source_hash": "47ced7df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.1#p1-fc5afad6",
+     "text": "யாரும் வெளியே போக முடியாதபடி."
+    },
+    {
+     "id": "geneva/JOS.6.1#p2-25c2e3e1",
+     "text": "யாரும் உள்ளே வர முடியாதபடி.",
+     "anchor": "அடைக்கப்பட்டிருந்தது"
+    },
+    {
+     "id": "geneva/JOS.6.1#p3-254709f2",
+     "text": "இஸ்ரவேலரால் பயப்பட்டதினால்.",
+     "anchor": "இஸ்ரவேல் மக்களுக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.3",
+   "source_hash": "ced9ec18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.3#p1-ced9ec18",
+     "text": "நாள்தோறும் ஒருமுறை.",
+     "anchor": "ஒருமுறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.4",
+   "source_hash": "5a1a9f44",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.4#p1-5a1a9f44",
+     "text": "இந்த வெற்றி மனிதனுடைய பலத்திற்குச் சொல்லப்படாமல், மகா பலவீனமான காரியங்களைக்கொண்டு மகா பலமாகத் தோன்றுகிறதை மேற்கொள்ளுகிற தேவனுடைய இரக்கத்திற்குச் சொல்லப்படும்படியாகவே இப்படிச் செய்யப்பட்டது.",
+     "anchor": "கொம்பு எக்காளங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.7",
+   "source_hash": "7282e00d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.7#p1-7282e00d",
+     "text": "இது முதன்மையாக ரூபனியர், காத்தியர் மற்றும் மனாசேயின் பாதிக் கோத்திரத்தாரைக் குறிக்கிறது.",
+     "anchor": "நடந்துபோங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.9",
+   "source_hash": "e8237338",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.9#p1-e8237338",
+     "text": "அதாவது, பின்சேனை; அதிலே தாண் கோத்திரத்தின் கொடி இருந்தது, எண்ணாகமம் 10:25.",
+     "anchor": "பின்னே சென்றார்கள்.9 [MRK1]{\"code\":\"pin1\"}[MRK2]பெட்டிக்குப்பின்னே சென்றார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.11",
+   "source_hash": "07a0e300",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.11#p1-07a0e300",
+     "text": "அந்த நாளுக்கு.",
+     "anchor": "ஒருமுறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.13",
+   "source_hash": "24399b59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.13#p1-24399b59",
+     "text": "மற்றவர்கள் விட்டுச்சென்றவற்றைச் சேர்த்துக்கொண்டு எல்லோருக்கும் பின்னே அணிவகுத்துச் சென்றதால், அந்தப் படை தாண் கோத்திரம் என்று அழைக்கப்பட்டது.",
+     "anchor": "பின்புறம் இருந்த படை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.15",
+   "source_hash": "75adff33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.15#p1-75adff33",
+     "text": "ஆறு நாட்களுக்கும் ஒவ்வொரு நாளும் ஒருமுறை சுற்றிவந்ததற்குப் புறம்பாக.",
+     "anchor": "ஏழுமுறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.17",
+   "source_hash": "2b82447b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.17#p1-2b82447b",
+     "text": "முழுவதுமாக அழிக்கப்படும்படி நியமிக்கப்பட்டது.",
+     "anchor": "சபிக்கப்பட்டதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.19",
+   "source_hash": "94f755f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.19#p1-94f755f1",
+     "text": "ஆகையால் இவைகளை எந்தவொரு தனிப்பட்ட பயன்பாட்டிற்கும் பயன்படுத்தக்கூடாது, மாறாக முதலில் உருக்கப்பட்டு, பின்பு ஆசரிப்புக்கூடாரத்திற்கு உபயோகப்படவேண்டும்.",
+     "anchor": "யெகோவாவுக்குப் பரிசுத்தமானவைகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.23",
+   "source_hash": "0b579986",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.23#p1-0b579986",
+     "text": "ஏனெனில் அந்நியர்கள் சுத்திகரிக்கப்படும்வரை இஸ்ரவேலரின் நடுவே தங்குவது நியாயப்படி அனுமதிக்கப்படவில்லை.",
+     "anchor": "இஸ்ரவேல் முகாமுக்கு வெளியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.24",
+   "source_hash": "33a58938",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.24#p1-33a58938",
+     "text": "ஆசரிப்புக்கூடாரத்தைக் குறிக்கிறது.",
+     "anchor": "யெகோவாவின் ஆலயப்பொக்கிஷத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.25",
+   "source_hash": "860be03f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.25#p1-860be03f",
+     "text": "ஏனெனில் அவள் யூதா கோத்திரத்தின் பிரபுவாகிய சல்மோனுக்கு மனைவியானாள், மத். 1:5.",
+     "anchor": "இந்தநாள்வரைக்கும் இஸ்ரவேலில் வாழ்கிறாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.6.26",
+   "source_hash": "a78a4232",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.6.26#p1-a78a4232",
+     "text": "அவன் அதைக் கட்டுவது தன் சந்ததியனைத்தும் அழிந்துபோகும்படியே இருக்கும், இது பெத்தேல் ஊரைச்சேர்ந்த ஈயேலிடத்தில் நிறைவேறியது, 1 இராஜாக்கள் 16:34.",
+     "anchor": "அவன் அதின் அஸ்திபாரத்தைப் போடுகிறபோது"
+    }
+   ]
+  }
+ ]
+}

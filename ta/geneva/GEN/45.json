@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 45,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.45.1",
+   "source_hash": "2623a562",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.1#p1-2623a562",
+     "text": "தன் குடும்பத்தினரைப் பற்றி அவமானம் கொண்டதனாலல்ல, மாறாக தன் சகோதரர்களுடைய பாவத்தை மறைக்க விரும்பியதனால்.",
+     "anchor": "அனைவரையும் என்னைவிட்டு வெளியே போகச்செய்யுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.5",
+   "source_hash": "2fa45cf5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.5#p1-2fa45cf5",
+     "text": "தங்கள் பாவங்களைக் குறித்து உண்மையாகவே வெட்கமும் வருத்தமும் அடைந்திருக்கிறவர்களை நாம் எல்லா வகையிலும் ஆற்றவேண்டும் என்பதை இந்த முன்மாதிரி நமக்குப் போதிக்கிறது.",
+     "anchor": "வருத்தப்படவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.8",
+   "source_hash": "cffc84f5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.8#p1-cffc84f5",
+     "text": "தேவன் பாவத்தை வெறுக்கிறவராயிருந்தும், அவர் மனுஷனுடைய துன்மார்க்கத்தையும் தமது மகிமைக்கு மாறாக்குகிறார்.",
+     "anchor": "தேவனே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.12",
+   "source_hash": "fd0a6ca6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.12#p1-fd0a6ca6",
+     "text": "அதாவது, நான் உங்கள் சொந்த மொழியில் பேசுகிறேன், மொழிபெயர்ப்பாளன் தேவையில்லை என்பதைக் குறிக்கிறது.",
+     "anchor": "பேசுகிற வாய் என் வாய்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.18",
+   "source_hash": "ddb6ba77",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.18#p1-d38404ce",
+     "text": "மிகவும் செழிப்பான நிலம்.",
+     "anchor": "எகிப்துதேசத்தின் நன்மையை"
+    },
+    {
+     "id": "geneva/GEN.45.18#p2-ce3afa46",
+     "text": "முதன்மையான பலன்களும் வசதிகளும்.",
+     "anchor": "தேசத்தின் கொழுமையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.24",
+   "source_hash": "c843f089",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.24#p1-c843f089",
+     "text": "அவன் தனக்குச் செய்யப்பட்ட குற்றத்தை மன்னித்துவிட்டதால், அவர்கள் ஒருவரையொருவர் குற்றம் சுமத்திக்கொள்ள வேண்டும் என்று அவன் விரும்பவில்லை.",
+     "anchor": "வழியிலே சண்டையிட்டுக்கொள்ளாதிருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.45.26",
+   "source_hash": "2337cf26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.45.26#p1-2337cf26",
+     "text": "நம்பிக்கைக்கும் பயத்திற்கும் நடுவே இருந்தவன் போல.",
+     "anchor": "அதிர்ச்சி அடைந்தது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.10.1",
+   "source_hash": "87a2e3a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.1#p1-87a2e3a2",
+     "text": "இந்த வம்சவரலாறுகள் இங்கே குறிப்பிடப்பட்டிருக்கிறது, ஒரு புறத்தில் அவர்களுடைய அதிசயமான பெருக்கத்தை வெளிப்படுத்தவும், மற்றொரு புறத்தில் தேவன் தங்கள் பிதாக்களுக்குச் செய்த கிருபையை அவர்கள் மிகவும் மறந்துபோனதைக் காண்பிக்கவும் ஆகும்.",
+     "anchor": "வம்சவரலாறு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.2",
+   "source_hash": "8e06249c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.2#p1-8e06249c",
+     "text": "மாதாயிலும் யாவானிலும் மேதியரும் கிரேக்கரும் உண்டானார்கள்.",
+     "anchor": "மாதாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.5",
+   "source_hash": "13228f27",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.5#p1-13228f27",
+     "text": "யூதர்கள் தங்களைவிட்டு கடலினால் பிரிக்கப்பட்ட எல்லா தேசங்களையும் இப்படியே அழைக்கிறார்கள், அதாவது கிரேக்கு, இத்தாலியா முதலியவை, இவை யாப்பேத்தின் பிள்ளைகளுக்குக் கொடுக்கப்பட்டன, அவரிடமிருந்தே யூதரல்லாதவர் உண்டானார்கள்.",
+     "anchor": "தீவுகள்... பிரிக்கப்பட்டன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.6",
+   "source_hash": "b821f120",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.6#p1-b821f120",
+     "text": "கூஷிலும் மிஸ்ராயீமிலும் எத்தியோப்பியரும் எகிப்தியரும் உண்டானார்கள்.",
+     "anchor": "கூஷ்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.8",
+   "source_hash": "ca540d58",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.8#p1-ca540d58",
+     "text": "அதாவது, ஒரு கொடூரமான ஒடுக்குபவனும் கொடுங்கோலனும்.",
+     "anchor": "பராக்கிரமசாலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.9",
+   "source_hash": "5e34781f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.9#p1-5e34781f",
+     "text": "அவனுடைய கொடுங்கோன்மை, தேவனாலும் மனிதரினாலும் வெறுக்கப்பட்டதாக ஒரு வழக்கச்சொல்லாக மாறியது: ஏனெனில் தேவனுடைய சமுகத்திலேயே கொடுமையைச் செய்வதை அவன் நிறுத்தவில்லை.",
+     "anchor": "யெகோவா முன்பாகப் பலத்த வேட்டைக்காரனான நிம்ரோதைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.10",
+   "source_hash": "82a6e287",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.10#p1-82a6e287",
+     "text": "ஏனெனில் எகிப்திலும் பாபேல் என்று பெயர்பெற்ற வேறொரு பட்டணம் இருந்தது.",
+     "anchor": "சிநெயார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.13",
+   "source_hash": "48e846b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.13#p1-48e846b6",
+     "text": "லூத் என்பவனிடத்திலிருந்து லூதியர்கள் வந்தார்கள்.",
+     "anchor": "லூதீமையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.21",
+   "source_hash": "0926c890",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.21#p1-fd2f6133",
+     "text": "அவனுடைய வம்சத்தில் சபை காக்கப்பட்டது; அதனால் மோசே யாப்பேத்தையும் காமையும் பற்றிப் பேசுவதை நிறுத்தி, சேமைப் பற்றி விரிவாகப் பேசுகிறான்.",
+     "anchor": "சேமுக்கும்"
+    },
+    {
+     "id": "geneva/GEN.10.21#p2-d814b005",
+     "text": "இவனிடமிருந்தே எபிரெயர்கள் அல்லது யூதர்கள் வந்தனர்.",
+     "anchor": "ஏபேருடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.10.25",
+   "source_hash": "6d2ecbe9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.10.25#p1-6d2ecbe9",
+     "text": "இந்தப் பிரிவினை மொழிகளின் வேற்றுமையினால் வந்தது, ஆதியாகமம் 11:9-ல் காணப்படுகிறபடி.",
+     "anchor": "பிரிக்கப்பட்டது"
+    }
+   ]
+  }
+ ]
+}

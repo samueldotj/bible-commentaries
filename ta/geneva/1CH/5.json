@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.5.1",
+   "source_hash": "d24d3dd1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.1#p1-d24d3dd1",
+     "text": "அவர்கள் இரண்டு கோத்திரங்களாக ஆக்கப்பட்டதால், அவர்களுக்கு இரட்டைப் பங்கு கிடைத்தது.",
+     "anchor": "யோசேப்பின் மகன்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.2",
+   "source_hash": "c9b5f150",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.2#p1-c9b5f150",
+     "text": "அதாவது, யாக்கோபுடைய தீர்க்கதரிசனத்தின்படி (ஆதி. 49:8), மற்றும் கிறிஸ்து அவனிலிருந்து வருவார் என்பதினிமித்தம், அவன் எல்லா கோத்திரங்களிலும் தலைமையானவனாக இருந்தான்.",
+     "anchor": "தலைமைத்துவம்','label\":\"b\",\"refs\":[{\"text\":\"Ge 49:8\",\"ref\":\"GEN.49.8"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.6",
+   "source_hash": "7770d655",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.6#p1-7770d655",
+     "text": "அதாவது, இஸ்ரவேலின் ராஜாவாகிய உசியாவின் காலத்தில், 2 இராஜாக்கள் 15:23.",
+     "anchor": "சிறைபிடித்துப்போனான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.8",
+   "source_hash": "8067ae8b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.8#p1-8067ae8b",
+     "text": "இந்த இடங்கள் ரூபனியருக்குக் கொடுக்கப்பட்ட நாட்டில் யோர்தானுக்கு அப்பால் கிழக்கே இருந்தன.",
+     "anchor": "ஆரோவேரிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.10",
+   "source_hash": "ed4b7401",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.10#p1-ed4b7401",
+     "text": "ஆபிரகாமின் மறுமனையாட்டியாகிய ஆகாரிடமிருந்து வந்த இஸ்மவேலியர்.",
+     "anchor": "ஆகாரியர்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.16",
+   "source_hash": "5f6e53ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.16#p1-5f6e53ba",
+     "text": "நாடு முழுவதும், அதோடு ஒரு குறிப்பிட்ட பட்டணமும் பாசான் என்று அழைக்கப்பட்டன.",
+     "anchor": "பாசானிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.19",
+   "source_hash": "3dc67d8f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.19#p1-3dc67d8f",
+     "text": "இந்த பன்னிரண்டு பேரும் இஸ்மவேலின் மகன்களாயிருந்தார்கள், ஆதியாகமம் 25:15.",
+     "anchor": "யெத்தூர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.20",
+   "source_hash": "e8e9711d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.20#p1-e8e9711d",
+     "text": "அதாவது, அவர்களுக்கு வெற்றியைக் கொடுத்த கர்த்தராலே.",
+     "anchor": "தேவனுடைய உதவி பெற்றபடியால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.22",
+   "source_hash": "6b701b64",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.22#p1-6b701b64",
+     "text": "பத்து கோத்திரங்கள் திக்லாத்பிலேசர் என்பவனுடைய கையில் சிறைப்பட்டுப்போனதைக் குறிக்கிறது.",
+     "anchor": "சிறைப்பட்டுப்போகும்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.23",
+   "source_hash": "e87c6e3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.23#p1-e87c6e3d",
+     "text": "வேறு விதமாக பாகால்காத் என்று அழைக்கப்படுகிறது.",
+     "anchor": "பாகால் எர்மோன் வரை, சேனீர்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.5.26",
+   "source_hash": "05a007e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.5.26#p1-05a007e6",
+     "text": "இவ்விதமாக தேவன் துன்மார்க்கரை எழுப்பி, பாவிகளுக்கு விரோதமாக தமது நீதியான நியாயத்தீர்ப்பை நிறைவேற்றுவதற்கு அவர்களைக் கருவிகளாகப் பயன்படுத்தினார், அவர்களோ வெறுப்பினாலும் ஆசையினாலும் நடத்தப்பட்டவர்களே.",
+     "anchor": "பூலின் ஆவியை எழுப்பியதால்"
+    }
+   ]
+  }
+ ]
+}

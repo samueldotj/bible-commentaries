@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.7.1",
+   "source_hash": "6a120dec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.7.1#p1-6a120dec",
+     "text": "அவர் சபையின் அழகான தோற்றத்தை ஒவ்வொரு பாகத்திலும் விவரிக்கிறார், இது ஆவிக்குரிய பொருளில் விளங்கப்பட வேண்டியது.",
+     "anchor": "காலணிகள் அணிந்த உன் பாதங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.7.3",
+   "source_hash": "318c7613",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.7.3#p1-318c7613",
+     "text": "உன்னதப்பாட்டு 4:5-லுள்ள ஜெனீவா குறிப்பைப் பார்க்கவும்.",
+     "anchor": "உன் இரண்டு மார்பகங்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.7.5",
+   "source_hash": "b06c6ec3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.7.5#p1-b06c6ec3",
+     "text": "அவர் உன்னிடம் சமீபமாக வரவும், உன் கூட்டுறவில் இருக்கவும் விரும்புகிறார்.",
+     "anchor": "உன் கூந்தலின் அழகில் மயங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.7.10",
+   "source_hash": "27beace1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.7.10#p1-27beace1",
+     "text": "இதை மணவாட்டி சொல்லுகிறாள்.",
+     "anchor": "நான் என் நேசருடையவள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.7.12",
+   "source_hash": "46da2ee1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.7.12#p1-46da2ee1",
+     "text": "கிறிஸ்துவினிடத்திற்கு அழைக்கப்பட்ட மக்கள் ஏதேனும் கனி கொடுக்கிறார்களா என்பதைக் குறிக்கிறது.",
+     "anchor": "திராட்சைக்கொடி துளிர்த்து"
+    }
+   ]
+  }
+ ]
+}

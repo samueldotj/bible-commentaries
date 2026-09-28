@@ -1,0 +1,154 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.29.1",
+   "source_hash": "c17c8288",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.1#p1-c17c8288",
+     "text": "அவர் பெருமையுள்ள கொடுங்கோலரை தேவனுடைய கரத்தின்கீழ் தாழ்மையாயிருக்கவும், பேச முடியாத மிருகங்களைவிடவும், சப்தமில்லாத சிருஷ்டிகளைவிடவும் தாழ்ந்தவராயிருக்கக்கூடாது என்றும் புத்தி சொல்கிறார்.",
+     "anchor": "வல்லமை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.3",
+   "source_hash": "28c5ffbc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.3#p1-28c5ffbc",
+     "text": "மேகங்களிலிருந்து கேட்கப்படும் இடிமுழக்கங்கள் துன்மார்க்கரை தேவனுடைய கோபத்திற்கு பயந்து நடுங்கச்செய்ய வேண்டும்.",
+     "anchor": "யெகோவாவுடைய சத்தம் சமுத்திரங்கள் மேல் தொனிக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.5",
+   "source_hash": "b16da7ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.5#p1-b16da7ef",
+     "text": "அதாவது, இடிமுழக்கம் மிகவும் பலமான மரங்களையும் முறிக்கிறது; அப்படியிருக்க மனுஷர் தங்கள் வல்லமையால் தேவனை எதிர்க்க முடியும் என்று நினைப்பார்களோ?",
+     "anchor": "யெகோவாவுடைய சத்தம் கேதுருமரங்களை முறிக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.6",
+   "source_hash": "ca3227c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.6#p1-ca3227c3",
+     "text": "எர்மோன் என்றும் அழைக்கப்படுகிறது.",
+     "anchor": "சீரியோனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.7",
+   "source_hash": "cd4aef05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.7#p1-cd4aef05",
+     "text": "அது மின்னல்களைப் பாய்ந்தோடவும் பரவவும் செய்கிறது.",
+     "anchor": "தீப்பிழம்புகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.8",
+   "source_hash": "a59a059b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.8#p1-a59a059b",
+     "text": "தேவனுடைய சமுகமே இல்லை என்று தோன்றுகிற மிகவும் பாழான இடங்களில்.",
+     "anchor": "காதேஸ்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.9",
+   "source_hash": "d1832ab8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.9#p1-3af88ca4",
+     "text": "பயம் அவைகள் தங்கள் குட்டிகளை ஈனும்படி செய்கிறது.",
+     "anchor": "ஈனும்படி செய்து,"
+    },
+    {
+     "id": "geneva/PSA.29.9#p2-da702b3d",
+     "text": "காடுகளை மொட்டையாக்குகிறது, அல்லது மறைவான இடங்களினுள் ஊடுருவுகிறது.",
+     "anchor": "காடுகளை வெளியாக்கும்"
+    },
+    {
+     "id": "geneva/PSA.29.9#p3-54de820b",
+     "text": "துன்மார்க்கர் இந்த ஒளிகளால் அசைக்கப்படாவிட்டாலும், உண்மையுள்ளவர்களோ தேவனைத் துதிக்கிறார்கள்.",
+     "anchor": "ஆலயத்திலுள்ள அனைவரும் யெகோவாவுக்கு மகிமை என்று ஆர்ப்பரிக்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.29.10",
+   "source_hash": "23a368f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.29.10#p1-23a368f8",
+     "text": "கொடிய புயல்களும் தண்ணீர்களும் எல்லாவற்றையும் அழித்துவிடாதபடி அவற்றின் கடுமையைக் கட்டுப்படுத்துவதற்கு.",
+     "anchor": "பெருவெள்ளத்தின்மேல்"
+    }
+   ]
+  }
+ ]
+}

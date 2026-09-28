@@ -1,0 +1,165 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 42,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.42.1",
+   "source_hash": "60d2e90f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.1#p1-b9027eec",
+     "text": "லேவியர்களின் எண்ணிக்கையில் இருந்தவர்களால் காக்கப்பட வேண்டிய ஒரு பொக்கிஷமாக."
+    },
+    {
+     "id": "geneva/PSA.42.1#p2-cedf3cec",
+     "text": "தாகத்தையும் மூச்சிரைப்பையும் பற்றிய இந்த ஒப்பீடுகளால், தேவனுடைய ஆலயத்தில் அவரைச் சேவிக்க வேண்டும் என்ற தன் வெம்மையான வாஞ்சையை அவன் காண்பிக்கிறான்.",
+     "anchor": "வாஞ்சித்துக் கதறுகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.3",
+   "source_hash": "2bfa2b3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.3#p1-2bfa2b3e",
+     "text": "மற்றவர்கள் உண்பதிலும் குடிப்பதிலும் மகிழ்ச்சி கொள்வதைப்போல, இவன் அழுகையையே தன் முழு நிலையாகக் கொண்டிருந்தான்.",
+     "anchor": "கண்ணீரே எனக்கு உணவானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.4",
+   "source_hash": "710a3acd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.4#p1-710a3acd",
+     "text": "அதாவது, நான் மக்களை உமது ஆசரிப்புக்கூடாரத்தில் உம்மைத் தொழுதுகொள்ளும்படி வழிநடத்தினேன் என்பதே; இப்போதோ எனது எதிரான நிலையைக் கண்டு, துக்கத்தினால் மடிகிறேன்.",
+     "anchor": "இவைகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.5",
+   "source_hash": "98e8e201",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.5#p1-98e8e201",
+     "text": "அவன் சரீரத்தின் கடுமையான தாக்குதல்களைச் சந்தித்து நிராசையில் தள்ளப்படும்படியாயிருந்தும், தேவனுடைய வழக்கமான கிருபைகளின்மேல் அஸ்திபாரமாயிருந்த அவனுடைய விசுவாசம் வெற்றி பெறுகிறது.",
+     "anchor": "தேவனை நோக்கிக் காத்திரு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.6",
+   "source_hash": "8e3c00f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.6#p1-8e3c00f8",
+     "text": "அதாவது, நான் நாடுகடத்தப்பட்டிருக்கிற இந்த தேசத்தில், இந்த மலைகளின் நடுவே இருக்கும்போது உம்மை நினைக்கிறேன்.",
+     "anchor": "யோர்தான் தேசத்திலும் எர்மோன் மலைகளிலும் சிறுமலையிலுமிருந்து உம்மை நினைக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.7",
+   "source_hash": "a57e3389",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.7#p1-a57e3389",
+     "text": "துன்பங்கள் என்மேல் அடர்ந்து வந்ததால் நான் மூழ்கடிக்கப்பட்டதாக உணர்ந்தேன்: இதனால் அவன் காண்பிப்பது என்னவென்றால், தேவன் சமாதானமடைந்து உதவி அனுப்பும்வரை நமது துயரத்திற்கு முடிவே இல்லை என்பதே.",
+     "anchor": "ஆழத்தை ஆழம் கூப்பிடுகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.8",
+   "source_hash": "4f744cdd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.8#p1-4f744cdd",
+     "text": "வருங்காலத்தில் தேவனுடைய உதவியை அவர் உறுதியாக நம்புகிறார்.",
+     "anchor": "தமது கிருபையைக் கட்டளையிடுகிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.10",
+   "source_hash": "f8737c99",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.10#p1-f8737c99",
+     "text": "அதாவது, நான் மிகக் கொடிதாகத் துன்பப்படுத்தப்படுகிறேன்.",
+     "anchor": "எலும்புகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.42.11",
+   "source_hash": "ea4c6407",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.42.11#p1-ea4c6407",
+     "text": "தாவீது ஒரே முறையில் மேற்கொள்ளவில்லை என்பதை இந்த மீட்டல் காண்பிக்கிறது; தேவன் தம்முடையவர்களை நிச்சயமாக விடுவிப்பார் என்பதால் நாம் உறுதியாய் இருக்கும்படி இது நமக்குக் கற்பிக்கிறது.",
+     "anchor": "நீ ஏன் கலங்குகிறாய்"
+    }
+   ]
+  }
+ ]
+}

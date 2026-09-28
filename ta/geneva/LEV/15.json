@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.15.2",
+   "source_hash": "645e746f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.2#p1-645e746f",
+     "text": "தூக்கத்தில் அல்லது இயற்கையின் பலவீனத்தினால் தன் மறைவான உறுப்பிலிருந்து விந்து வெளியேறுகிறவன்.",
+     "anchor": "விந்து கழிதல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.3",
+   "source_hash": "66634260",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.3#p1-66634260",
+     "text": "எதினால் அவனுக்கு அசுத்தம் உண்டாகிறதோ அந்தக் காரியத்தைக் குறித்து.",
+     "anchor": "அசுத்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.8",
+   "source_hash": "ca971fbd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.8#p1-ca971fbd",
+     "text": "அசுத்தமுள்ளவன் யாரிடத்தில் துப்பினானோ, அவனைக் குறித்து.",
+     "anchor": "இவன் தன் உடைகளைத் துவைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.9",
+   "source_hash": "9c6f755f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.9#p1-9c6f755f",
+     "text": "இந்த வார்த்தை ஒரு மனிதன் ஏறும் எந்தப் பொருளையும் குறிக்கிறது.",
+     "anchor": "ஏறும் எந்தச் சேணமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.13",
+   "source_hash": "e7de94e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.13#p1-e7de94e6",
+     "text": "அதாவது, தன் பழைய நிலைக்குத் திரும்பி, அதிலிருந்து சொஸ்தமடைதல்.",
+     "anchor": "விந்து கழிதல் நீங்கிச் சுத்தமானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.16",
+   "source_hash": "b3dbc6f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.16#p1-b3dbc6f7",
+     "text": "அதாவது, அவனுடைய சரீரம் முழுவதும்.",
+     "anchor": "அவன் தண்ணீரில் குளிக்கவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.20",
+   "source_hash": "6cafbd14",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.20#p1-6cafbd14",
+     "text": "அதாவது, அவளுக்கு மாதவிலக்கு உண்டாகும்போது, அதனால் அவள் தன் கணவனிலிருந்தும், ஆசரிப்புக்கூடாரத்திலிருந்தும், மற்றும் எந்தப் பரிசுத்தமான பொருளையும் தொடுவதிலிருந்தும் விலக்கப்பட்டிருக்கிறாள்.",
+     "anchor": "அவள் விலக்கத்தில் இருக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.24",
+   "source_hash": "34cc24e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.24#p1-34cc24e9",
+     "text": "அவளுடைய அசுத்தத்தில் ஏதேனும் அவனைத் தொட்டிருந்தால்; ஏனெனில் இல்லையேல் அப்படிப்பட்ட பெண்ணுடன் உடலுறவு கொண்ட மனிதன் மரிக்க வேண்டியிருக்கும், 20:18.",
+     "anchor": "அவன்மேல் பட்டிருந்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.26",
+   "source_hash": "9ff2d3a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.26#p1-9ff2d3a1",
+     "text": "தன் இயல்பான வியாதி இருக்கும்போது அவள் படுத்திருந்த படுக்கையைப் போலவே அசுத்தமாயிருக்கும்.",
+     "anchor": "விலக்கத்தின் படுக்கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.28",
+   "source_hash": "4d7be543",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.28#p1-4d7be543",
+     "text": "அவள் நலமடைந்த காலத்திற்குப் பிறகு.",
+     "anchor": "ஏழுநாட்கள் எண்ணிக்கொள்வாளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.15.31",
+   "source_hash": "3e1f7b13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.15.31#p1-3e1f7b13",
+     "text": "தேவன் தமக்குச் சொந்தமானவர்களிடத்தில் தூய்மையையும் சுத்தத்தையும் கேட்டதால், நம்முடைய அழுக்கும் பாவங்களும் இயேசுகிறிஸ்துவின் இரத்தத்தினால் சுத்திகரிக்கப்படாவிட்டால் நாம் அவருக்குச் சொந்தமானவர்களாக இருக்க முடியாது; இப்படியே நாம் எல்லாப் பாவத்தையும் அருவருக்கக் கற்றுக்கொள்கிறோம்.",
+     "anchor": "இஸ்ரவேல் மக்களைத் தீட்டுகளுக்கு விலக்கிவைப்பீர்களாக"
+    }
+   ]
+  }
+ ]
+}

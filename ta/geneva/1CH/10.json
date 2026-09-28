@@ -1,0 +1,25 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.10.10",
+   "source_hash": "28005f83",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.10.10#p1-28005f83",
+     "text": "இது பெலிஸ்தரின் விக்கிரகமாக இருந்தது, வயிற்றுக்குக் கீழே மீன் உருவமும், மேலே மனித உருவமும் கொண்டதாக இருந்தது.",
+     "anchor": "தாகோன்"
+    }
+   ]
+  }
+ ]
+}

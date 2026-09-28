@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 63,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.63.1",
+   "source_hash": "1911dc89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.1#p1-095c82b3",
+     "text": "அதாவது, சீப்பின் [வனாந்தரம்] 1 சாமுவேல் 23:14.",
+     "anchor": "a"
+    },
+    {
+     "id": "geneva/PSA.63.1#p2-3fd73592",
+     "text": "அவன் பசியுள்ளவனாகவும் பெரும் இடுக்கணில் இருந்தபோதும், அவன் தேவனையே எல்லா ஆகாரத்திற்கும் பானத்திற்கும் மேலாக வைத்தான்.",
+     "anchor": "உம்மேல் தாகமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.2",
+   "source_hash": "b0fdba83",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.2#p1-b0fdba83",
+     "text": "இந்தத் துன்பத்திலும், நான் பரிசுத்த ஸ்தலத்திலிருப்பது போலவே, உமது வல்லமையையும் மகிமையையும் தியானிப்பதில் என்னை ஈடுபடுத்துகிறேன்.",
+     "anchor": "பரிசுத்த இடத்தில் உம்மைப்பார்க்க... கண்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.5",
+   "source_hash": "fe60d2a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.5#p1-fe60d2a2",
+     "text": "உம்முடைய தயவின் நினைவு, உலகத்தின் சகல சுகங்களையும் விருந்துகளையும்விட எனக்கு அதிக இனிமையாக இருக்கிறது.",
+     "anchor": "நிணத்தையும் கொழுப்பையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.8",
+   "source_hash": "6132e1a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.8#p1-6132e1a2",
+     "text": "பரிசுத்த ஆவியானவராலே தமக்கு உறுதியான நிலைத்திருத்தலின் வரம் உண்டென்பதை அவன் உறுதிப்படுத்திக்கொள்கிறான்.",
+     "anchor": "தொடர்ந்து பற்றிக்கொண்டிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.10",
+   "source_hash": "73935317",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.10#p1-73935317",
+     "text": "அவன் சவுலினதும், அவனுடைய பட்சத்தில் இருக்கிறவர்களினதும் அழிவைக் குறித்துத் தீர்க்கதரிசனம் சொல்லுகிறான்; அவர்களுடைய சரீரங்கள் அடக்கம் செய்யப்படாமல் காட்டு மிருகங்களால் தின்னப்படும்.",
+     "anchor": "அவர்கள் வாளால் விழுவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.63.11",
+   "source_hash": "c6f09ba7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.63.11#p1-c6f09ba7",
+     "text": "தேவன் பேரில் சரியாக சத்தியம் செய்கிறவர்கள் அல்லது அவரை அறிக்கை செய்கிறவர்கள் அனைவரும் இந்த யோக்கியமான ராஜாவினிமித்தம் சந்தோஷப்படுவார்கள்.",
+     "anchor": "தேவன் பேரில் சத்தியம்செய்கிறவர்கள் அனைவரும் மேன்மைபாராட்டுவார்கள்"
+    }
+   ]
+  }
+ ]
+}

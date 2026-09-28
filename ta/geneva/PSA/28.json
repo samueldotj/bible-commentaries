@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 28,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.28.2",
+   "source_hash": "2dc4e4dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.2#p1-2dc4e4dc",
+     "text": "தேவன் தம்முடைய தயவைத் தன்மேல் காண்பித்து, தன்னுடைய விண்ணப்பத்தை அருளும்வரை, தான் ஒரு மரித்தவனைப்போல எண்ணுகிறான்.",
+     "anchor": "மகா பரிசுத்த ஸ்தலத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.3",
+   "source_hash": "7e886555",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.3#p1-7e886555",
+     "text": "நல்லவர்களை பொல்லாதவர்களோடு அழிக்க வேண்டாம்.",
+     "anchor": "என்னை வாரிக்கொள்ளாமலிரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.4",
+   "source_hash": "0363628d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.4#p1-0363628d",
+     "text": "தேவனுடைய மகிமையின் நிமித்தமாகவே அவர் இப்படி ஜெபம்பண்ணினார், தன் சொந்த காரணத்திற்காக அல்ல; தேவன் தம்முடைய சபையைத் துன்பப்படுத்துகிறவர்களைத் தண்டிப்பார் என்று உறுதியாய் நம்பியிருந்தார்.",
+     "anchor": "அவர்களுடைய செயல்களுக்கும் அவர்களுடைய நடத்தைகளின் தீங்கிற்கும் சரியானதாக அவர்களுக்குச் செய்யும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.5",
+   "source_hash": "b7985f88",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.5#p1-b7985f88",
+     "text": "மல்கியா 1:4-ல் இருப்பதைப்போல அவர்கள் முழுவதுமாக இடித்துப்போடப்படக்கடவர்கள்.",
+     "anchor": "இடித்துப்போடுவார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.6",
+   "source_hash": "fd570868",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.6#p1-fd570868",
+     "text": "அவனுடைய இருதயத்தில் தேவனுடைய உதவியின் நிச்சயத்தை உணர்ந்ததால், அவனுடைய வாய் அவரைத் துதிக்கத் திறக்கப்பட்டது.",
+     "anchor": "யெகோவாவுக்கு வாழ்த்துதல் உண்டாகட்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.28.8",
+   "source_hash": "06e4fa61",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.28.8#p1-06e4fa61",
+     "text": "தேவன் தமது வல்லமையை வெளிப்படுத்தும் சாதனமாயிருந்த தம்முடைய போர்வீரர்களைக் குறிக்கிறது.",
+     "anchor": "அவர்களுடைய பெலன்"
+    }
+   ]
+  }
+ ]
+}

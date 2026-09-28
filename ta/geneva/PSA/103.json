@@ -1,0 +1,212 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 103,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.103.1",
+   "source_hash": "9df9f39c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.1#p1-9df9f39c",
+     "text": "அவன் தேவனைத் துதிக்கும்படி தன் மந்தத்தை எழுப்புகிறான், அறிவும் உணர்வுகளும், மனமும் இருதயமும் அவருடைய துதியை வெளிப்படுத்த மிகவும் போதாதவை என்பதைக் காண்பிக்கிறான்.",
+     "anchor": "யெகோவாவைப் போற்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.3",
+   "source_hash": "97b0cdb0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.3#p1-97b0cdb0",
+     "text": "அதாவது, எல்லா ஆசீர்வாதங்களிலும் முதன்மையானதும் தலையானதுமான பாவமன்னிப்பு.",
+     "anchor": "உன்னுடைய அக்கிரமங்களையெல்லாம் மன்னித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.4",
+   "source_hash": "a1b6a314",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.4#p1-a1b6a314",
+     "text": "நமக்குப் பாவமன்னிப்பு உண்டாவதற்குமுன், நாம் கல்லறையிலுள்ள மரித்தவர்களைப்போல் இருக்கிறோம்.",
+     "anchor": "அழிவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.5",
+   "source_hash": "4f8a0748",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.5#p1-4f8a0748",
+     "text": "கழுகின் அலகு வளர்ந்து பெருகும்போது, அது இரத்தத்தை உறிஞ்சி அதனால் தன் பலத்தில் புதுப்பிக்கப்படுவதுபோல, அதேவிதமாக தேவன் மனிதனுடைய எல்லா எதிர்பார்ப்புகளுக்கும் மேலாக தமது சபைக்கு அற்புதமாக பலத்தைக் கொடுக்கிறார்.",
+     "anchor": "கழுகுக்குச் சமமாக உன்னுடைய வயது திரும்ப இளவயது போலாகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.7",
+   "source_hash": "005c6540",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.7#p1-005c6540",
+     "text": "தமது முதன்மை ஊழியக்காரராகவும், அவருக்கு அடுத்ததாகத் தமது மக்களுக்கும்.",
+     "anchor": "மோசேக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.9",
+   "source_hash": "c88ace21",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.9#p1-c88ace21",
+     "text": "பாவி மனத்தாழ்மையடையும் வரை அவர் முதலில் தமது கடுமையான நியாயத்தீர்ப்பைக் காண்பிக்கிறார், ஆனால் அவன் மனத்தாழ்மையடைந்தவுடன் அவரை இரக்கத்திற்குள் ஏற்றுக்கொள்கிறார்.",
+     "anchor": "கடிந்துகொள்வதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.10",
+   "source_hash": "ae30a71e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.10#p1-ae30a71e",
+     "text": "நம்முடைய குற்றங்களுக்கு எதிராக அவருடைய இரக்கம் எப்பொழுதும் மேற்கொண்டது என்பதை நாம் இடைவிடாத அனுபவத்தால் நிரூபித்திருக்கிறோம்.",
+     "anchor": "நம்முடைய பாவங்களுக்குத் தகுந்தபடி நமக்குச் செய்யாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.12",
+   "source_hash": "d60cb49d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.12#p1-d60cb49d",
+     "text": "உலகம் எவ்வளவு பெரியதோ, அவ்வளவாகவே தேவன் தம்முடைய உண்மையுள்ளவர்களின் பாவங்களை நீக்கியபோது, அவர்கள்மேல் காண்பித்த கிருபையின் அடையாளங்களால் அது நிறைந்திருக்கிறது.",
+     "anchor": "மேற்கிற்கும் கிழக்கிற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.15",
+   "source_hash": "9f05eaea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.15#p1-9f05eaea",
+     "text": "மனிதனுக்குள் தேவனை இரக்கத்திற்கு ஏவுவதற்கு ஒன்றுமில்லை, தன் பலவீனத்தையும் மிடிமையையும் அறிக்கையிடுவதைத் தவிர வேறொன்றுமில்லை என்று அவர் அறிவிக்கிறார்.",
+     "anchor": "மனிதனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.17",
+   "source_hash": "e3065c18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.17#p1-e3065c18",
+     "text": "தமது வாக்குத்தத்தத்தை அவர் நீதியுடனும் உண்மையுடனும் காத்துக்கொள்ளுதல்.",
+     "anchor": "நீதி அவர்கள் பிள்ளைகளுடைய பிள்ளைகள்மேலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.18",
+   "source_hash": "983ff52f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.18#p1-983ff52f",
+     "text": "தமக்குப் பயந்திருக்கவும், தமது வார்த்தைக்குக் கீழ்ப்படியவும் அவர் கிருபை அளிக்கிறவர்களுக்கு.",
+     "anchor": "உடன்படிக்கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.103.20",
+   "source_hash": "8c5268e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.103.20#p1-8c5268e3",
+     "text": "தேவனைத் துதிக்க இயற்கையாகவே தாமதமுள்ளவர்களாகிய நாம், மனப்பூர்வமாக அதைச் செய்கிற தூதர்களை அப்படிச் செய்யும்படி தூண்டுவதினால், நம்முடைய கடமையைச் சிந்திக்கவும், நம்முடைய சோம்பலிலிருந்து விழிக்கவும் நம்மை நாமே தூண்டுகிறோம்.",
+     "anchor": "அவருடைய தூதர்களே"
+    }
+   ]
+  }
+ ]
+}

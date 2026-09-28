@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 36,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.36.1",
+   "source_hash": "0a02db82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.1#p1-0a02db82",
+     "text": "கோத்திரங்கள் இந்தக் குமாரத்திகளை மணந்துகொண்டு அவர்களுடைய சுதந்தரத்தைப் பெறுவதற்காக ஒன்றோடொன்று போராடினதாகத் தோன்றுகிறது; ஆகையால் யோசேப்பின் மகன்கள் இந்த விஷயத்தை மோசேயிடம் முன்வைத்தார்கள்.",
+     "anchor": "வம்ச பிதாக்களான தலைவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.36.2",
+   "source_hash": "4577fa38",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.2#p1-4577fa38",
+     "text": "மோசேயைக் குறிக்கிறது.",
+     "anchor": "தேசத்தை இஸ்ரவேல் மக்களுக்கு சுதந்தரமாகக் கொடுக்கும்படி எங்களுடைய ஆண்டவனுக்குக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.36.4",
+   "source_hash": "70ddac05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.4#p1-70ddac05",
+     "text": "அது எக்காலத்திலும் திரும்பிவரமுடியாது என்பதைக் குறிக்கிறது; ஏனெனில் யூபிலியில் எல்லாம் அவைவை உரிய கோத்திரங்களுக்குத் திரும்பும்.",
+     "anchor": "இஸ்ரவேல் மக்களுக்கு யூபிலி வருடம் வந்தாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.36.5",
+   "source_hash": "63b262ce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.5#p1-63b262ce",
+     "text": "ஏனெனில், அந்தக் கோத்திரத்தைப் பராமரிக்கத் தக்கதான சொத்துரிமை மற்றவர்களுக்கு மாறுவதாயிருந்தால், அந்தக் கோத்திரம் தொடர்ந்திருக்க முடியாது.",
+     "anchor": "சரியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.36.8",
+   "source_hash": "f79c8dcc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.8#p1-f79c8dcc",
+     "text": "சுதந்தரிக்கும் ஆண் இல்லாதபோது.",
+     "anchor": "ஒரு கோத்திரத்திலே சுதந்தரம் அடைந்திருக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.36.13",
+   "source_hash": "a649365f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.36.13#p1-a649365f",
+     "text": "சடங்குசம்பந்தமான மற்றும் நியாயத்தீர்ப்புச் சம்பந்தமான நியாயப்பிரமாணங்களைக் குறித்தது.",
+     "anchor": "கட்டளைகளும் நியாயங்களும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 9,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.9.1",
+   "source_hash": "1f4ab754",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.1#p1-1f4ab754",
+     "text": "விரைவில் என்று பொருள்.",
+     "anchor": "இப்பொழுது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.2",
+   "source_hash": "d2d9409c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.2#p1-d2d9409c",
+     "text": "ஒற்றர்களின் செய்தியினால். எண். 13:26.",
+     "anchor": "சொல்லப்படுவதை நீ கேட்டிருக்கிறாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.3",
+   "source_hash": "957452c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.3#p1-957452c0",
+     "text": "உன்னை நடத்தவும் ஆளவும் செய்கிறவர்.",
+     "anchor": "உனக்கு முன்பாகச் செல்கிறவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.4",
+   "source_hash": "92c3d289",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.4#p1-92c3d289",
+     "text": "மனிதன் தானாகவே தேவனுடைய கோபத்தைத் தவிர வேறொன்றுக்கும் தகுதியுள்ளவனல்ல; தேவன் யாரையாவது தப்பவிடுவாரானால், அது அவருடைய பெரிய இரக்கத்தினால் வருகிறதேயன்றி வேறல்ல.",
+     "anchor": "என் நீதியினால் ... யெகோவா என்னை அழைத்துவந்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.6",
+   "source_hash": "b8d477d2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.6#p1-b8d477d2",
+     "text": "தங்கள் எஜமானின் நுகத்தைச் சுமக்க மனதில்லாத பிடிவாதமான மாடுகளைப் போல.",
+     "anchor": "பிடிவாத குணமுள்ள மக்கள் கூட்டம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.7",
+   "source_hash": "060c2fd6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.7#p1-060c2fd6",
+     "text": "காலத்தின் நீட்சியினாலே, அவர்களுடைய கலகம் பெரியதும் சகிக்கமுடியாததும் என்று அவர் நிரூபிக்கிறார்.",
+     "anchor": "நீங்கள் எகிப்துதேசத்திலிருந்து புறப்பட்ட நாள்முதல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.10",
+   "source_hash": "46a66d93",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.10#p1-46a66d93",
+     "text": "அதாவது, அற்புதமாக, மனிதர்களின் கையினால் அல்ல.",
+     "anchor": "தேவனுடைய விரலினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.12",
+   "source_hash": "3555ebcb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.12#p1-3555ebcb",
+     "text": "மனுஷன் தேவனுக்குக் கீழ்ப்படிதலிலிருந்து விலகின உடனே, அவனுடைய வழிகள் கெட்டுப்போகும்.",
+     "anchor": "தங்களைக் கெடுத்துக்கொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.14",
+   "source_hash": "b42a8f6a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.14#p1-b42a8f6a",
+     "text": "உண்மையுள்ளவர்களின் ஜெபமானது, தேவனுடைய கோபத்தைத் தடுத்து, அவர் யாவரையும் அழிக்காதபடி நிறுத்துகிறதற்கு ஒரு தடையாக இருக்கிறதென்று காண்பிக்கிறது.",
+     "anchor": "நீ என்னை விட்டுவிடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.16",
+   "source_hash": "e6fa545d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.16#p1-e6fa545d",
+     "text": "அதாவது, நியாயப்பிரமாணத்திலிருந்து; இதில் நமது தண்டனையின் காரணம் இன்னதென்று அவர் அறிவிக்கிறார்.",
+     "anchor": "யெகோவா உங்களுக்கு விதித்த வழியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.20",
+   "source_hash": "ed7b9cd3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.20#p1-ed7b9cd3",
+     "text": "இதின் மூலமாக, அதிகாரமுள்ளவர்களாயிருந்தும் துன்மார்க்கத்தை எதிர்க்காதவர்கள் இருக்கும் ஆபத்தை அவர் காண்பிக்கிறார்.",
+     "anchor": "அவனை அழிக்கவேண்டும் என்றிருந்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.21",
+   "source_hash": "c48ec294",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.21#p1-c48ec294",
+     "text": "ஓரேப், அல்லது சீனாய்.",
+     "anchor": "மலையிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.23",
+   "source_hash": "cd60790c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.23#p1-cd60790c",
+     "text": "ஒற்றர்கள் திரும்பி வந்தபோது.",
+     "anchor": "அவருடைய வாக்குக்கு விரோதமாகக் கலகம்செய்தீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.25",
+   "source_hash": "6c3c7741",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.25#p1-6c3c7741",
+     "text": "இதினால், தேவன் ஜெபத்தில் தீவிரமான தரித்திருத்தலைக் கேட்கிறார் என்பது குறிக்கப்படுகிறது.",
+     "anchor": "நாற்பது நாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.9.27",
+   "source_hash": "4636d698",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.9.27#p1-4636d698",
+     "text": "தேவபக்தியுள்ளவர்கள் தங்கள் ஜெபங்களில் தேவனுடைய வாக்குத்தத்தத்தை அடிப்படையாகக் கொண்டு, தங்கள் பாவங்களை அறிக்கையிடுகிறார்கள்.",
+     "anchor": "உம்முடைய தாசர்களை நினைத்தருளும்"
+    }
+   ]
+  }
+ ]
+}

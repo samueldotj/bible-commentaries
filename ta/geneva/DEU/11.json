@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.11.2",
+   "source_hash": "fb4e6299",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.2#p1-fb4e6299",
+     "text": "தேவனுடைய கிருபைகளை உங்களுடைய கண்களால் கண்ட நீங்கள், அவைகளைக் கேட்டறிந்த உங்களுடைய பிள்ளைகளைவிட, அதைக் குறித்து அதிகமாக மனதுருகவேண்டியவர்கள்.",
+     "anchor": "இன்று அறியவேண்டியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.5",
+   "source_hash": "21f4f83c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.5#p1-21f4f83c",
+     "text": "அவருடைய கிருபைகளைக் குறித்தும், அவருடைய தண்டனைகளைக் குறித்தும்.",
+     "anchor": "உங்களுக்கு வனாந்திரத்தில் செய்ததை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.8",
+   "source_hash": "0a7ea255",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.8#p1-0a7ea255",
+     "text": "நீங்கள் அவருடைய தண்டனையையும் அவருடைய நன்மைகளையும் அனுபவித்திருக்கிறபடியால்.",
+     "anchor": "நான் கற்பிக்கின்ற கற்பனைகளையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.10",
+   "source_hash": "5cb370e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.10#p1-5cb370e4",
+     "text": "நைல் நதியிலிருந்து தண்ணீர் வரும்படி வாய்க்கால்களை உண்டாக்கி, தேசத்திற்கு நீர்ப்பாய்ச்சுவதன் மூலம்.",
+     "anchor": "காலால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.14",
+   "source_hash": "92b32dfa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.14#p1-92b32dfa",
+     "text": "விதைக்கும் காலத்திலும், அறுவடைக்கு முன்பும்.",
+     "anchor": "முன்மாரியையும் பின்மாரியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.16",
+   "source_hash": "c413e428",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.16#p1-c413e428",
+     "text": "உங்கள் சொந்த கற்பனைகளின்படி மதிகேடான பக்தி முயற்சிகளை உண்டாக்குகிறதினால்.",
+     "anchor": "ஏமாற்றப்படாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.21",
+   "source_hash": "1caa4736",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.21#p1-1caa4736",
+     "text": "பரலோகமும் பூமியும் நிலைத்திருக்கும் நாட்களெல்லாம், 2 பேதுரு 3:10,12.",
+     "anchor": "பூமியின்மேல் பரலோகம் இருக்கும் நாட்களெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.24",
+   "source_hash": "d57c855c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.24#p1-9e544a49",
+     "text": "இது தாவீதின் மற்றும் சாலொமோனின் காலத்தில் நிறைவேறியது.",
+     "anchor": "உங்களுடைய உள்ளங்கால் மிதிக்கும் இடமெல்லாம் உங்களுடையதாயிருக்கும்"
+    },
+    {
+     "id": "geneva/DEU.11.24#p2-4599f160",
+     "text": "மத்திய தரை சமுத்திரம்.",
+     "anchor": "கடைசி மத்திய தரை சமுத்திரம்வரைக்கும் உங்களுடைய எல்லையாக இருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.28",
+   "source_hash": "59080c55",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.28#p1-59080c55",
+     "text": "நிச்சயமானதை விட்டு, நிச்சயமில்லாததைப் பின்பற்றுகிற மனிதர்களுடைய பொல்லாப்பைக் கண்டிக்கிறார்.",
+     "anchor": "அறியாத"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.11.30",
+   "source_hash": "32c2f74d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.11.30#p1-32c2f74d",
+     "text": "அதாவது, சமாரியாவிலே.",
+     "anchor": "சூரியன் மறைகிற மேற்குவழி"
+    }
+   ]
+  }
+ ]
+}

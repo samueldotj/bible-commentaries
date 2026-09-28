@@ -1,0 +1,319 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 19,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.19.4",
+   "source_hash": "c5491ac5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.4#p1-c5491ac5",
+     "text": "துக்கம் கொண்டாடுகிறவர்கள் செய்வதுபோல.",
+     "anchor": "முகத்தை மூடிக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.5",
+   "source_hash": "80712727",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.5#p1-80712727",
+     "text": "மகனாயீமில்.",
+     "anchor": "வீட்டிற்குள்ளே ராஜாவிடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.8",
+   "source_hash": "db176f56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.8#p1-db176f56",
+     "text": "மக்கள் அதிகமும் கூடிவரும் இடம்.",
+     "anchor": "நகரவாசலில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.9",
+   "source_hash": "f65e0d3f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.9#p1-f65e0d3f",
+     "text": "ஒவ்வொருவனும் மற்றவனைக் குற்றம் சொல்லி, யார் முதலில் அவரைத் திரும்பக் கொண்டுவருவது என்று போட்டியிட்டார்கள்.",
+     "anchor": "கோத்திரங்களிலுமுள்ள எல்லா மக்களுக்குள்ளும் வாக்குவாதம் உண்டாகி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.11",
+   "source_hash": "e4866f0d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.11#p1-e4866f0d",
+     "text": "மக்கள் இவ்வளவு முன்வந்திருக்கும்போது, மூப்பர்களுடைய அசதியை அவர்கள் கடிந்துகொள்ளவேண்டும் என்பதற்காக.",
+     "anchor": "ஆசாரியர்களிடத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.13",
+   "source_hash": "b3c7e1fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.13#p1-b3c7e1fe",
+     "text": "தளபதியை வெல்வதனால், மக்கள் அனைவரின் இருதயங்களையும் பெறலாம் என்று தாவீது இந்த உபாயத்தினால் நினைத்தான்.",
+     "anchor": "யோவாபுக்குப் பதிலாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.16",
+   "source_hash": "98fd6389",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.16#p1-98fd6389",
+     "text": "இவன் முன்பு அவனை சபித்தவன், 2 சாமுவேல் 16:13.",
+     "anchor": "கேராவின் மகன் சீமேயியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.19",
+   "source_hash": "86fff206",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.19#p1-86fff206",
+     "text": "ஏனெனில் அவனுக்கு ஆபத்து வந்தபோது இவன் அவனுக்குக் கொடிய பகைவனாக இருந்தான்; இப்போது அவனுக்கு நன்மை வந்திருக்கும்போது, முகஸ்துதியினால் அவன் தயவில் நுழையத் தேடுகிறான்.",
+     "anchor": "துரோகத்தை ராஜா நினைக்காமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.20",
+   "source_hash": "c57728b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.20#p1-c57728b3",
+     "text": "யோசேப்பு என்பதினால் அவன், தான் அதில் சேர்ந்தவனாயிருந்த பென்யமீனையும் சேர்த்து, எப்பிராயீமையும் மனாசேயையும் குறிக்கிறான்; ஏனெனில் இந்த மூன்று கோத்திரங்களும் ஒரே கொடியின்கீழ் இருந்தன, எண்ணாகமம் 2:18.",
+     "anchor": "யோசேப்பின் குடும்பத்தார்கள் அனைவரையும் நான் இன்று முந்தி வந்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.23",
+   "source_hash": "0e884b95",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.23#p1-0e884b95",
+     "text": "என் கையினால், அல்லது என் ஜீவனுள்ள நாட்களில், 1 இராஜாக்கள் 2:8,9-ஐப் பார்க்கவும்.",
+     "anchor": "இறப்பதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.25",
+   "source_hash": "5cd7efa3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.25#p1-5cd7efa3",
+     "text": "மேவிபோசேத் எருசலேமிலிருந்து ராஜாவைச் சந்திக்க வந்தபோது.",
+     "anchor": "அவன் எருசலேமிலிருந்து ராஜாவுக்கு எதிராக வருகிறபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.27",
+   "source_hash": "cecfa473",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.27#p1-cecfa473",
+     "text": "தமது ஞானத்தினாலே எல்லா காரியங்களிலும் நியாயம் தீர்க்க வல்லவர்.",
+     "anchor": "தேவனுடைய தூதனைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.28",
+   "source_hash": "39123ad9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.28#p1-39123ad9",
+     "text": "சவுலின் கொடுமையினிமித்தம் மரணத்திற்கு ஏதுவானவர்கள் என்று அர்த்தம்.",
+     "anchor": "மரணத்திற்கு ஏதுவாயிருந்தார்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.29",
+   "source_hash": "1ee9b3e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.29#p1-1ee9b3e1",
+     "text": "தாவீது காரணத்தை அறியாதிருந்தபோதே அவனுடைய நிலத்தை எடுத்துக்கொண்டது தீமையாயிருந்தது, ஆனால் உண்மையை அறிந்தபின்பும் அதை மீண்டும் திருப்பி அளிக்காமலிருந்தது இன்னும் அதிகமான தீமையாயிருந்தது.",
+     "anchor": "நிலத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.35",
+   "source_hash": "37925e8b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.35#p1-37925e8b",
+     "text": "தான் திரும்பச் சேவை செய்யமுடியாதவருக்கு அநுகூலங்களைப் பெறுவது தகுதியானது அல்ல என்று அவன் நினைத்தான்.",
+     "anchor": "பாரமாயிருக்கவேண்டியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.37",
+   "source_hash": "60d1fe70",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.37#p1-60d1fe70",
+     "text": "என்னுடைய மகன்.",
+     "anchor": "கிம்காம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.40",
+   "source_hash": "7b82b4c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.40#p1-c944db51",
+     "text": "யூதா கோத்திரத்தார்கள் அவனை ஏற்றுக்கொள்ள காத்திருந்த இடம்.",
+     "anchor": "கில்கால்"
+    },
+    {
+     "id": "geneva/2SA.19.40#p2-7ca99252",
+     "text": "ராஜாவின் பக்கத்தை சார்ந்திருந்தவர்கள்.",
+     "anchor": "இஸ்ரவேலில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.19.41",
+   "source_hash": "85569a31",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.19.41#p1-85569a31",
+     "text": "எருசலேமை நோக்கி.",
+     "anchor": "யோர்தான் நதியைக் கடக்கச்செய்தது"
+    }
+   ]
+  }
+ ]
+}

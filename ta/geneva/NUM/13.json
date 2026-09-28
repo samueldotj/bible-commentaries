@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.13.2",
+   "source_hash": "931aaf19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.2#p1-931aaf19",
+     "text": "உபாகமம் 1:22-ல் இருக்கிறபடி, மக்கள் இதை மோசேயிடம் கேட்ட பின்பு, கர்த்தர் மோசேயிடம் அதைச் செய்யும்படி சொன்னார்.",
+     "anchor": "நீ மனிதர்களை அனுப்பு...என்றார்.png"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.16",
+   "source_hash": "6406900f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.16#p1-6406900f",
+     "text": "இவர்கள் எண்ணிக்கையில் பன்னிரண்டு கோத்திரங்களுக்கு ஏற்றபடி பன்னிரண்டு பேராக இருந்தார்கள்.",
+     "anchor": "தேசத்தைச் சுற்றிப்பார்க்கும்படி மோசே அனுப்பின மனிதர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.19",
+   "source_hash": "a0f0b26b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.19#p1-a0f0b26b",
+     "text": "செழிப்பானதோ வறட்சியானதோ.",
+     "anchor": "நல்லதோ கெட்டதோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.21",
+   "source_hash": "ba3186a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.21#p1-ba3186a4",
+     "text": "இது பாரான் வனாந்திரத்திலே இருந்தது.",
+     "anchor": "சீன் துவங்கி ரேகொப்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.22",
+   "source_hash": "e9253f52",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.22#p1-fd9a12b7",
+     "text": "இது ராட்சத பிரிவினரின் வம்சத்தைக் குறிக்கும்.",
+     "anchor": "ஏனாக்கின் மகன்களாகிய"
+    },
+    {
+     "id": "geneva/NUM.13.22#p2-e473d0b1",
+     "text": "இது அதன் பழமையை அறிவிக்கிறது; ஆபிரகாமும், சாராளும், ஈசாக்கும், யாக்கோபும் அங்கே அடக்கம் செய்யப்பட்டார்கள்.",
+     "anchor": "எபிரோன் எகிப்திலுள்ள சோவானுக்கு ஏழுவருடங்களுக்குமுன்னே கட்டப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.26",
+   "source_hash": "13d53232",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.26#p1-13d53232",
+     "text": "இது காதேஸ்பர்னேயா என்றும் அழைக்கப்படுகிறது.",
+     "anchor": "பாரான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.27",
+   "source_hash": "d4143be5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.27#p1-d4143be5",
+     "text": "அதாவது, மோசே.",
+     "anchor": "மோசேயை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.28",
+   "source_hash": "ef566213",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.28#p1-ef566213",
+     "text": "அகீமான், சேசாய், தல்மாய், இவர்களைப் பின்பு காலேப் கொன்றுபோட்டான், யோசுவா 11:21,22.",
+     "anchor": "ஏனாக்கின் மகன்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.13.32",
+   "source_hash": "40064e51",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.13.32#p1-40064e51",
+     "text": "அந்த இராட்சதர்கள் மிகவும் கொடூரமானவர்களாக இருந்தார்கள், அவர்கள் ஒருவரையொருவர் கொள்ளையிட்டு கொன்றார்கள், அவர்களிடம் வந்தவர்களையும் அப்படியே செய்தார்கள்.",
+     "anchor": "தன்னுடைய குடிகளை தாங்களே உண்கிற"
+    }
+   ]
+  }
+ ]
+}

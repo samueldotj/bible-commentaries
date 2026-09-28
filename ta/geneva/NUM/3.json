@@ -1,0 +1,268 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.3.1",
+   "source_hash": "40b09740",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.1#p1-40b09740",
+     "text": "அல்லது, வம்சங்களும் குடும்பங்களும்.",
+     "anchor": "வம்சவரலாறு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.4",
+   "source_hash": "e480edaf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.4#p1-48175c99",
+     "text": "அல்லது, பலிபீடத்திற்கு முன்பாக.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில்"
+    },
+    {
+     "id": "geneva/NUM.3.4#p2-231a770e",
+     "text": "தங்களுடைய தகப்பன் உயிரோடிருந்தபோது.",
+     "anchor": "தங்களுடைய தகப்பனாகிய ஆரோனுக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.6",
+   "source_hash": "8bf724a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.6#p1-8bf724a2",
+     "text": "ஆசரிப்புக்கூடாரத்தின் பயன்பாட்டிற்காக அவர்களை ஆரோனுக்கு ஒப்புக்கொடு.",
+     "anchor": "அவர்கள் ஆசாரியனாகிய ஆரோனுக்குப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.7",
+   "source_hash": "18648536",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.7#p1-18648536",
+     "text": "இது பிரதான ஆசாரியனுடைய கற்பனையை நிறைவேற்றுதல், மக்கள்மேல் மேற்பார்வை செய்தல், ஆசரிப்புக்கூடாரத்தின் பணிவிடை செய்தல் ஆகியவற்றைச் சேர்ந்தது.",
+     "anchor": "ஆசரிப்புக் கூடாரத்திற்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.9",
+   "source_hash": "38d02858",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.9#p1-38d02858",
+     "text": "ஆசாரியனாகிய ஆரோனின் மகன்கள் பரிசுத்த ஸ்தலத்தில் மக்களுக்காக ஜெபம்செய்தும் பலியைக் காணிக்கையாகச் செலுத்தியும் ஊழியம் செய்தார்கள்; லேவியர்கள் அதின் கீழ்நிலையான பணிகளுக்காக ஊழியம் செய்தார்கள்.",
+     "anchor": "மகன்களிடத்திலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.10",
+   "source_hash": "301ec0a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.10#p1-301ec0a0",
+     "text": "லேவியனாக இல்லாதிருந்தும் ஊழியம் செய்ய விரும்புகிற எவனும்.",
+     "anchor": "ஊழியத்தைச் செய்யும்படி சேருகிற அந்நியன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.22",
+   "source_hash": "46b87d90",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.22#p1-46b87d90",
+     "text": "ஆண்பிள்ளைகளை மட்டும் எண்ணுகிறது.",
+     "anchor": "ஆண்பிள்ளைகளெல்லாம் எண்ணப்பட்டபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.25",
+   "source_hash": "214125a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.25#p1-214125a4",
+     "text": "அவர்களுடைய காவல் வாசஸ்தலத்தின் மூடியையும் தொங்குதிரைகளையும் சுமந்து செல்வதாக இருந்தது.",
+     "anchor": "வாசஸ்தலமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.28",
+   "source_hash": "f83b41c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.28#p1-f83b41c9",
+     "text": "பரிசுத்த ஸ்தலத்தில் ஒவ்வொருவனும் தன் கடமையைச் செய்கிறவன்.",
+     "anchor": "பரிசுத்த ஸ்தலத்திற்குரியவைகளைக் காப்பவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.31",
+   "source_hash": "b2952d3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.31#p1-b2952d3e",
+     "text": "பரிசுத்த ஸ்தலத்திற்குள் இருந்த முக்கிய பொருட்கள் கோகாத் மக்களுக்குப் பொறுப்பாக ஒப்படைக்கப்பட்டன.",
+     "anchor": "பெட்டியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.36",
+   "source_hash": "8c5eeb04",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.36#p1-8c5eeb04",
+     "text": "மரவேலைப்பாடும் மற்ற கருவிகளும் இவர்களுடைய பொறுப்பில் ஒப்புவிக்கப்பட்டன.",
+     "anchor": "வாசஸ்தலத்தின் பலகைகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.38",
+   "source_hash": "1c7b175d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.38#p1-1c7b175d",
+     "text": "தேவன் நியமித்ததற்கு மாறாக ஒருவனும் ஆசரிப்புக்கூடாரத்திற்குள் பிரவேசிக்கக்கூடாது என்பதற்காகவே.",
+     "anchor": "இஸ்ரவேல் மக்களின் காவலுக்குப் பதிலாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.39",
+   "source_hash": "af1b4b77",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.39#p1-af1b4b77",
+     "text": "இப்படியிருக்க, இஸ்ரவேல் மக்களின் முதற்பேறானவர்கள் 273 பேர் அதிகமாக இருந்தார்கள், எண்ணாகமம் 3:43-ல் இருக்கிறபடி.",
+     "anchor": "22,000 பேராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.41",
+   "source_hash": "51432d5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.41#p1-51432d5d",
+     "text": "இப்படியாக இப்பொழுது லேவியர்கள் இஸ்ரவேலின் முதற்பேறானவர்களுக்குப் பதிலாக கர்த்தருக்குத் திருப்தி செய்ய வேண்டும்; லேவியரைவிட அதிகமாயிருந்த 273 பேருக்காக பணம் செலுத்தப்பட்டதே ஒரு விலக்காகும்.",
+     "anchor": "முதற்பேறான எல்லாவற்றிற்கும் பதிலாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.3.50",
+   "source_hash": "771639c7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.3.50#p1-771639c7",
+     "text": "அல்லது லேவியர்களைவிட அதிகமாயிருந்த இருநூற்று எழுபத்துமூன்று பேர்.",
+     "anchor": "1,365 சேக்கலாகிய பணத்தை"
+    }
+   ]
+  }
+ ]
+}

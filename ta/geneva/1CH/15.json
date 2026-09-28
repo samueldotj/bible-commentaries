@@ -1,0 +1,268 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.15.1",
+   "source_hash": "45fb7ac4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.1#p1-45fb7ac4",
+     "text": "அது சீயோனில் இருந்தது 2 சாமுவேல் 5:7,9.",
+     "anchor": "தாவீதின் நகரத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.3",
+   "source_hash": "ff1c973f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.3#p1-ff1c973f",
+     "text": "ஓபேத்ஏதோமின் வீட்டிலிருந்து, 2 சாமுவேல் 6:10,12.",
+     "anchor": "யெகோவாவுடைய பெட்டிக்குத் தான் ஆயத்தப்படுத்தின அதின் இடத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.8",
+   "source_hash": "98ebdc1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.8#p1-98ebdc1c",
+     "text": "இவன் கோகாத்தின் நான்காம் மகனாகிய ஊசியேலின் மகன், யாத். 6:18,22, எண். 3:30.",
+     "anchor": "எலிசாபான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.9",
+   "source_hash": "d6a59609",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.9#p1-d6a59609",
+     "text": "கோகாத்தின் மூன்றாம் மகன், யாத்திராகமம் 6:18.",
+     "anchor": "எப்ரோன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.12",
+   "source_hash": "0ab47ab4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.12#p1-0ab47ab4",
+     "text": "உங்களை ஆயத்தப்படுத்திக்கொண்டு பரிசுத்தமாயிருங்கள், உங்களைத் தீட்டுப்படுத்தி ஆசரிப்புக்கூடாரத்திற்கு வர இயலாதபடி செய்யக்கூடிய எல்லாவற்றிலும் இருந்து விலகியிருங்கள்.",
+     "anchor": "பரிசுத்தம்செய்துகொள்ளுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.13",
+   "source_hash": "1cf8671c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.13#p1-1cf8671c",
+     "text": "அவர் நியாயப்பிரமாணத்தில் நியமித்தபடியே.",
+     "anchor": "நியாயமானபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.16",
+   "source_hash": "58dd51a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.16#p1-58dd51a0",
+     "text": "அவர்கள் அனுசரித்த இந்த வாத்தியங்களும் மற்ற சடங்குகளும், அவர்களுடைய பாலியத்திற்குரிய கற்பிப்புகளாக இருந்தன, அவை கிறிஸ்துவின் வருகைவரை நிலைத்திருந்தன.",
+     "anchor": "கீதவாத்தியங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.18",
+   "source_hash": "3e89c6a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.18#p1-3e89c6a2",
+     "text": "பதவியில் தாழ்ந்தவர்கள்.",
+     "anchor": "இரண்டாவது வரிசையாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.20",
+   "source_hash": "66dae3e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.20#p1-66dae3e4",
+     "text": "இது ஒரு இசைக்கருவியாக இருந்தது அல்லது அதன்படி அவர்கள் சங்கீதங்களைப் பாடின ஒரு குறிப்பிட்ட இசை.",
+     "anchor": "அல்மோத் என்னும் இசையில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.21",
+   "source_hash": "7449c332",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.21#p1-7449c332",
+     "text": "இது எட்டாவது சுரமாகும், அதற்குப் பொறுப்பாக மிகவும் திறமையுள்ளவன் இருந்தான்.",
+     "anchor": "செமனீத் என்னும் இசையில் பாடி, சுரமண்டலங்களை நேர்த்தியாக வாசித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.22",
+   "source_hash": "1256c488",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.22#p1-1256c488",
+     "text": "அதாவது, பாடுகிறவர்களுக்கு சங்கீதங்களையும் பாட்டுகளையும் குறித்துக் கொடுப்பது.",
+     "anchor": "கீதவித்தையை நடத்தினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.24",
+   "source_hash": "255d6cd3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.24#p1-255d6cd3",
+     "text": "பெரகியாவும் எல்க்கானாவும் சேர்ந்து, 1 நாளாகமம் 15:23.",
+     "anchor": "பெட்டிக்கு வாசல் காவலாளிகளாக இருந்தார்கள்.b}\n\n(திருத்தப்பட்ட உரை: \"வாசல் காவலாளிகளாக\")"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.26",
+   "source_hash": "08d86c4b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.26#p1-c0411bd0",
+     "text": "அதாவது, அவர்கள் தங்கள் பணியை நிறைவேற்றுவதற்கு அவர்களுக்குப் பெலன் அளித்தார்.",
+     "anchor": "பெட்டியைச் சுமக்கிற லேவியர்களுக்கு தேவன் தயவு செய்ததால்"
+    },
+    {
+     "id": "geneva/1CH.15.26#p2-08f6a5f4",
+     "text": "தாவீது ஒவ்வொரு ஆறாவது அடி நடக்கும்போதும் பலியிட்ட காளையையும் கொழுத்த மிருகத்தையும் தவிர, 2 சாமுவேல் 6:13.",
+     "anchor": "ஏழு காளைகளையும் ஏழு ஆட்டுக்கடாக்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.27",
+   "source_hash": "e43f411c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.27#p1-e43f411c",
+     "text": "2 சாமுவேல் 6:14-ஐ பார்க்கவும்.",
+     "anchor": "சணல்நூல் ஏபோத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.15.29",
+   "source_hash": "621bffd1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.15.29#p1-621bffd1",
+     "text": "அது இஸ்ரவேலருக்குக் கர்த்தர் தங்களோடு செய்த உடன்படிக்கையை நினைப்பூட்டுவதால் அப்படி அழைக்கப்பட்டது.",
+     "anchor": "யெகோவாவுடைய உடன்படிக்கைப்பெட்டி"
+    }
+   ]
+  }
+ ]
+}

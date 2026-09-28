@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 9,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.9.1",
+   "source_hash": "c2aec8f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.1#p1-c2aec8f0",
+     "text": "யோனத்தானுக்கு நான் செய்த ஆணையும் வாக்குத்தத்தமும் நிமித்தமாக, 1 சாமுவேல் 20:15.",
+     "anchor": "யோனத்தானுக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.3",
+   "source_hash": "3e030258",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.3#p1-3e030258",
+     "text": "தேவனுக்கு ஏற்றுக்கொள்ளத்தக்க இரக்கம்.",
+     "anchor": "தேவனுக்காக... தயைசெய்யும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.5",
+   "source_hash": "c7c1ee8e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.5#p1-c7c1ee8e",
+     "text": "இவன் தாவீதின் மனைவியான பத்சேபாளின் தகப்பனாகிய எலியாம் என்றும் அழைக்கப்பட்டான்.",
+     "anchor": "அம்மியேலின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.8",
+   "source_hash": "7a4f5c07",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.8#p1-7a4f5c07",
+     "text": "அதாவது, அற்பமாக எண்ணப்பட்ட ஒருவன்.",
+     "anchor": "செத்த நாயைப் போலிருக்கிற என்னை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.10",
+   "source_hash": "b14101b7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.10#p1-b14101b7",
+     "text": "நீங்கள் அவனுடைய நிலங்களுக்கு விவரமான கண்காணிகளும் நிர்வாகிகளும் ஆகுங்கள், அவை பலனுள்ளவையாக இருக்கும்படி.",
+     "anchor": "உன்னுடைய மகன்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.9.11",
+   "source_hash": "d52aa7ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.9.11#p1-d52aa7ff",
+     "text": "ராஜாவின் மகனுக்கு ஏற்றபடி, மேவிபோசேத் தன் கற்பனையின்படி எல்லாவற்றையும் பெற்றுக்கொள்ளும்படி இருக்கும் என்பதைக் குறிக்கிறது.",
+     "anchor": "மேவிபோசேத்"
+    }
+   ]
+  }
+ ]
+}

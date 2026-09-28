@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.1.1",
+   "source_hash": "18c519d3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.1#p1-18c519d3",
+     "text": "ராமா என்னும் பெயருடைய இரண்டு ஊர்கள் இருந்தன, அதனால் எப்பிராயீம் மலைத்தேசத்திலிருக்கிற இந்த ஊரில் சோப்பீம், அதாவது கல்விமான்களும் தீர்க்கதரிசிகளும் இருந்தனர்.",
+     "anchor": "சோப்பீம் என்னப்பட்ட ராமதாயீம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.3",
+   "source_hash": "bd67c03f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.3#p1-bd67c03f",
+     "text": "ஏனெனில் அக்காலத்தில் பெட்டகம் அங்கே இருந்தது.",
+     "anchor": "சீலோவிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.5",
+   "source_hash": "2c176b5c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.5#p1-2c176b5c",
+     "text": "சிலர் இதை, மனப்பூர்வமான உற்சாகத்துடன் கூடிய ஒரு பங்கு என்று வாசிக்கிறார்கள்.",
+     "anchor": "பங்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.8",
+   "source_hash": "eff9b5b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.8#p1-eff9b5b3",
+     "text": "பல மகன்கள் உனக்கு இருந்தால் இருப்பது போலவே, நான் உன்மேல் குறையாத அன்பு வைத்திருக்கிறேன் என்பதே உனக்கு ஆறுதலாக இருக்கக்கடவது.",
+     "anchor": "மகன்களைவிட நான் உனக்கு மேலானவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.9",
+   "source_hash": "71056d62",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.9#p1-71056d62",
+     "text": "அதாவது பெட்டி இருந்த வீட்டைக் குறிக்கிறது.",
+     "anchor": "யெகோவாவுடைய ஆலயத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.18",
+   "source_hash": "8c5c48bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.18#p1-8c5c48bd",
+     "text": "அதாவது, என்னுக்காக கர்த்தரை ஜெபம்பண்ணும்.",
+     "anchor": "உம்முடைய கண்களிலே தயவு கிடைக்கட்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.19",
+   "source_hash": "93b69777",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.19#p1-93b69777",
+     "text": "அவளுடைய விண்ணப்பத்திற்குத் தக்கபடி.",
+     "anchor": "நினைத்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.21",
+   "source_hash": "c78bd4fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.21#p1-c78bd4fd",
+     "text": "இந்த எல்க்கானா ஒரு லேவியனாக இருந்தான், 1 நாளாகமம் 6:27; சிலர் எழுதுகிறபடி, அவர்கள் வருடத்திற்கு ஒருமுறை தங்கள் வீட்டாருடன் கர்த்தருடைய சந்நிதியில் தோன்றுவது வழக்கமாக இருந்தது.",
+     "anchor": "எல்க்கானா என்பவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.23",
+   "source_hash": "c1afbbe0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.23#p1-c1afbbe0",
+     "text": "அவளுடைய ஜெபம் பலனளித்தபடியால், அது கர்த்தருடைய வாக்குத்தத்தம் என்று சொல்லப்பட்டது.",
+     "anchor": "வார்த்தையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.26",
+   "source_hash": "68d17afe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.26#p1-68d17afe",
+     "text": "அதாவது, மிகவும் நிச்சயமாக.",
+     "anchor": "உம்முடைய ஜீவனைக் கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.1.28",
+   "source_hash": "8d991658",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.1.28#p1-8d991658",
+     "text": "பொருள்: ஏலி அவளுக்காக தேவனுக்கு ஸ்தோத்திரம் செய்தான்.",
+     "anchor": "அவன் அங்கே யெகோவாவைத் தொழுதுகொண்டான்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,584 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 18,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.18.2",
+   "source_hash": "9fc74c32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.2#p1-9fc74c32",
+     "text": "துன்மார்க்கருக்கு தீங்கு செய்ய அநேக வழிகள் இருக்கிறது போலவே, தேவனுக்கும் உதவி செய்ய அநேக வழிகள் இருக்கின்றன என்பதைக் காண்பிக்கும்படி இப்படிப்பட்ட பல பெயர்களை அவர் பயன்படுத்துகிறார்.",
+     "anchor": "யெகோவா என் கன்மலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.3",
+   "source_hash": "0901d49c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.3#p1-0901d49c",
+     "text": "தன்னுடைய வேண்டுதலுடன் தேவனுடைய மகிமையையும் இணைத்துக் கேட்காதவன் ஒருவனும் தேவனிடத்தில் தன் வேண்டுதலைப் பெற்றுக்கொள்ள முடியாது.",
+     "anchor": "துதிக்குப் பாத்திரராகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.4",
+   "source_hash": "0389cde3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.4#p1-0389cde3",
+     "text": "தேவன் தன்னைத் தன் விரோதிகளுடைய ஆபத்துகளிலிருந்தும் தீங்கிலிருந்தும் விடுவித்ததைக் குறித்துப் பேசுகிறார்.",
+     "anchor": "மரணக்கட்டுகள் என்னைச் சுற்றிக்கொண்டன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.7",
+   "source_hash": "157f0fba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.7#p1-157f0fba",
+     "text": "தேவன் தம்முடைய ஜெபத்தைக் கேட்ட பின்பு, தம்முடைய பகைவர்களுக்கு எதிராகக் கொண்ட கடுங்கோபத்தின் விவரிப்பு.",
+     "anchor": "பூமி அசைந்து அதிர்ந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.8",
+   "source_hash": "7a3262f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.8#p1-7a3262f6",
+     "text": "துன்மார்க்கருக்கு தேவனுடைய நியாயத்தீர்ப்புகள் எவ்வளவு பயங்கரமாக இருக்கும் என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "அவர் வாயிலிருந்து எரியும் நெருப்பு புறப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.9",
+   "source_hash": "83499d60",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.9#p1-83499d60",
+     "text": "தேவனுடைய கடுங்கோபத்தைக் காரிருள் குறிக்கிறது, தேவனுடைய தயவைத் தெளிந்த வெளிச்சம் குறிக்கிறதுபோல.",
+     "anchor": "அவர் பாதங்களின்கீழ் காரிருள் இருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.10",
+   "source_hash": "84430f2f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.10#p1-84430f2f",
+     "text": "இது சங்கீதம் 104:1-35 இல் விரிவாக விவரிக்கப்பட்டிருக்கிறது.",
+     "anchor": "கேருபீன்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.11",
+   "source_hash": "20cd3ca6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.11#p1-20cd3ca6",
+     "text": "மக்களைப் பார்த்து கோபங்கொண்ட ஒரு அரசன் தன்னைத் தானே அவர்களுக்குக் காண்பிக்காதிருப்பது போல.",
+     "anchor": "மறைவிடமாக்கினார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.13",
+   "source_hash": "22fb668f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.13#p1-22fb668f",
+     "text": "முழக்கங்களும், மின்னல்களும், கல்மழையும்.",
+     "anchor": "தமது சத்தத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.14",
+   "source_hash": "ee2d0e15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.14#p1-ee2d0e15",
+     "text": "அவருடைய மின்னல்.",
+     "anchor": "தம்முடைய அம்புகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.15",
+   "source_hash": "89986f0a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.15#p1-89986f0a",
+     "text": "அதாவது, சிவந்த சமுத்திரம் பிரிக்கப்பட்டபோது ஆழமான அடித்தளங்கள் காணப்பட்டன.",
+     "anchor": "உலகின் அஸ்திபாரங்கள் வெளிப்பட்டன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.16",
+   "source_hash": "39356d94",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.16#p1-39356d94",
+     "text": "அநேக பெரிய ஆபத்துகளிலிருந்து.",
+     "anchor": "தண்ணீரிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.17",
+   "source_hash": "b1fed472",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.17#p1-87cc32d7",
+     "text": "அதாவது, சவுல்.",
+     "anchor": "பலத்த எதிரிகளுக்கும்"
+    },
+    {
+     "id": "geneva/PSA.18.17#p2-1d03bf4b",
+     "text": "அதனால் தேவன் எனக்கு உதவி அனுப்பினார்.",
+     "anchor": "என்னிலும் பலவான்களாக இருந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.19",
+   "source_hash": "9b8c1986",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.19#p1-9b8c1986",
+     "text": "தேவன் நம்மைத் தப்புவிக்கிறதின் காரணம் அவருடைய தயவும் நம்மேலுள்ள அன்புமே.",
+     "anchor": "என்னைத் தப்புவித்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.20",
+   "source_hash": "58f26765",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.20#p1-58f26765",
+     "text": "தாவீது சவுலுக்கும் தன் பகைவர்களுக்கும் முன்பாகத் தன் நீதியான நிலைமையையும் நல்நடக்கத்தையும் குறித்து உறுதியாக இருந்தார்; ஆகவே தேவனுடைய தயவையும் விடுதலையையும் பெறுவதைக் குறித்தும் உறுதியாக இருந்தார்.",
+     "anchor": "நீதிக்குத்தகுந்தபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.22",
+   "source_hash": "1f9eac72",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.22#p1-1f9eac72",
+     "text": "தன் ஆபத்துகள் எல்லாவற்றிலும் அவன் தேவனுடைய நியாயப்பிரமாணத்தில் தன்னைப் பயிற்றுவித்துக்கொண்டான்.",
+     "anchor": "பிரமாணங்களை நான் தள்ளிப்போடவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.23",
+   "source_hash": "ee0e504a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.23#p1-ee0e504a",
+     "text": "நான் அவர்களுடைய துன்மார்க்கமான சோதனைகளுக்கும், என் சொந்த ஆசைகளுக்கும் இடம் கொடுக்கவில்லை.",
+     "anchor": "பாவத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.25",
+   "source_hash": "4b4a6235",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.25#p1-4b4a6235",
+     "text": "இங்கே அவர் தேவனைக் குறித்து நம் புரிதலுக்கேற்றபடி பேசுகிறார், அவர் தம்முடையவர்களுக்கு இரக்கம் காண்பித்து துன்மார்க்கரைத் தண்டிக்கிறவராயிருக்கிறார், அது லேவியராகமம் 26:21,24 இலும் சொல்லப்பட்டிருக்கிறது.",
+     "anchor": "தயவுள்ளவனுக்கு நீர் தயவுள்ளவராகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.27",
+   "source_hash": "5559cced",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.27#p1-5559cced",
+     "text": "அவர்களுடைய பாவம் நிறைவளவுக்கு வந்தபோது.",
+     "anchor": "மேட்டிமையான கண்களைத் தாழ்த்துவீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.29",
+   "source_hash": "ec9859b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.29#p1-ec9859b3",
+     "text": "போரில் தான் வெற்றி பெற்றதும், தன் பகைவரின் பட்டணங்களை அழித்ததும் தேவனுக்கே அவன் காரணமாகக் கூறுகிறான்.",
+     "anchor": "ஒரு சேனையை என் கால்களால் மிதிப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.30",
+   "source_hash": "b3e9b8a9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.30#p1-b3e9b8a9",
+     "text": "ஆபத்துகள் எவ்வளவு பெரியதாகவோ, அநேகமாகவோ இருந்தாலும், தேவனுடைய வாக்குத்தத்தம் நிறைவேறியே தீரும்.",
+     "anchor": "யெகோவாவுடைய வசனம் புடமிடப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.32",
+   "source_hash": "5afada4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.32#p1-5afada4e",
+     "text": "என் எல்லா முயற்சிகளையும் வாய்க்கச்செய்கிறார்.",
+     "anchor": "வழியைச் செவ்வைப்படுத்துகிறவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.33",
+   "source_hash": "9882ff53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.33#p1-9882ff53",
+     "text": "தேவனுடைய பகைவர்களின் கைகளிலிருந்து அவர் கைப்பற்றின கோபுரங்களும் கோட்டைகளும் போல.",
+     "anchor": "உயர்வான இடங்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.35",
+   "source_hash": "9b576a4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.35#p1-16cf49c6",
+     "text": "ஆபத்துகளிலிருந்து என்னைக் காக்கும்படி.",
+     "anchor": "உம்முடைய இரட்சிப்பின் கேடகத்தையும்"
+    },
+    {
+     "id": "geneva/PSA.18.35#p2-d2d22679",
+     "text": "நன்மை செய்வதின் ஆரம்பத்தையும், தொடர்ச்சியையும், வளர்ச்சியையும் தேவனுடைய கிருபை ஒன்றுக்கே அவன் அர்ப்பணித்தான்.",
+     "anchor": "உம்முடைய கருணை என்னைப் பெரியவனாக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.37",
+   "source_hash": "e8d634c7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.37#p1-e8d634c7",
+     "text": "தான் தன்னுடைய அழைப்புக்கு அப்பாற்பட்டு எதுவும் செய்யவில்லை, மாறாக தேவனுடைய ஆவியானவரால் தூண்டப்பட்டு அவருடைய நியாயத்தீர்ப்புகளை நிறைவேற்றினேன் என்று தாவீது அறிவிக்கிறார்.",
+     "anchor": "என்னுடைய எதிரிகளைப் பின்தொடர்ந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.40",
+   "source_hash": "6e313731",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.40#p1-6e313731",
+     "text": "அவர்களை கொலைசெய்யும்படி நீர் என்னுடைய கைகளில் ஒப்புக்கொடுத்தீர். {e}",
+     "anchor": "என்னுடைய எதிரிகளின் கழுத்தை எனக்கு ஒப்புக்கொடுத்தீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.41",
+   "source_hash": "25af4c11",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.41#p1-25af4c11",
+     "text": "சிறுமைப்பட்டவனுடைய கூப்பிடுதலைத் தள்ளுகிறவர்களை, தேவனும் அவர்கள் உதவிக்காகக் கூப்பிடும்போது தள்ளிவிடுவார்; ஏனெனில் வேதனையோ பயமோதான் அந்த மாயக்காரர்களைக் கூப்பிடச்செய்கிறது.",
+     "anchor": "கூப்பிடுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.43",
+   "source_hash": "71c75942",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.43#p1-4e3c9333",
+     "text": "என்னைச் சுற்றி வாழ்கிறவர்கள்.",
+     "anchor": "தேசங்களுக்கு"
+    },
+    {
+     "id": "geneva/PSA.18.43#p2-2f012aac",
+     "text": "தாவீதின் இராஜ்யத்தில் கிறிஸ்துவின் இராஜ்யம் முன்னுருவமாகக் காணப்படுகிறது; அவர் தமது வசனத்தின் பிரசங்கத்தினால் யாவரையும் தமக்குக் கீழ்ப்படுத்துகிறார்.",
+     "anchor": "நான் அறியாத மக்கள் எனக்கு சேவைசெய்கிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.44",
+   "source_hash": "7ed05d1b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.44#p1-7ed05d1b",
+     "text": "அல்லது பொருந்திக்கொள்ளுதல்: இது சுயவிருப்பமான கீழ்ப்படிதலைக் குறிக்காமல், நிர்ப்பந்திக்கப்பட்ட அடிமைத்தனத்தைக் குறிக்கிறது.",
+     "anchor": "என்னிடம் கூனிக்குறுகுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.45",
+   "source_hash": "e9769d35",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.45#p1-e9769d35",
+     "text": "பயம் அவர்களைத் திடுக்கிடச் செய்து, தங்களுடைய இரகசிய குழிகளிலிருந்தும் அரண்களிலிருந்தும் மன்னிப்பு கேட்பதற்குப் புறப்படச் செய்யும்.",
+     "anchor": "தத்தளிப்பாகப் புறப்படுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.48",
+   "source_hash": "b9d192d4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.48#p1-b9d192d4",
+     "text": "அதாவது, பகையினால் தன்னைத் துன்பப்படுத்திய சவுல்.",
+     "anchor": "கொடுமையான மனிதனுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.49",
+   "source_hash": "c9c3c274",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.49#p1-c9c3c274",
+     "text": "இந்தத் தீர்க்கதரிசனம் கிறிஸ்துவின் ராஜ்யத்திற்கும் யூதரல்லாதவரின் அழைப்புக்கும் சம்பந்தப்பட்டது, ரோமர் 15:9 இல் இருப்பதுபோல.",
+     "anchor": "தேசங்களுக்குள்ளே உம்மைத் துதித்து்.png,"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.18.50",
+   "source_hash": "acbf17ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.18.50#p1-acbf17ff",
+     "text": "இது சாலொமோனுக்கு உரிய முறையில் பொருந்தாமல், இயேசுகிறிஸ்துவிற்கே உரியதாக இருந்தது.",
+     "anchor": "அவனுடைய சந்ததிக்கும் என்றென்றும்"
+    }
+   ]
+  }
+ ]
+}

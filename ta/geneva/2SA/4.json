@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.4.1",
+   "source_hash": "4e2ff7cf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.1#p1-03fcc090",
+     "text": "அதாவது, இஸ்போசேத்.",
+     "anchor": "சவுலின் மகன் கேட்டபோது"
+    },
+    {
+     "id": "geneva/2SA.4.1#p2-f694c6d2",
+     "text": "அதாவது, அவன் திடனற்றுப் போனான் என்பது அர்த்தம்.",
+     "anchor": "பெலன் இல்லாமல் போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.2",
+   "source_hash": "0ba2336b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.2#p1-0ba2336b",
+     "text": "இந்தப் பட்டணமான பேரோத் பென்யமீன் கோத்திரத்திற்குரியதாக இருந்தது, யோசுவா 18:25.",
+     "anchor": "பேரோத்தும் பென்யமீனின் ஒரு பகுதியாகக் கருதப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.3",
+   "source_hash": "95740e99",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.3#p1-95740e99",
+     "text": "சவுல் மரணமடைந்த பின்பு, பெலிஸ்தியருக்குப் பயந்து.",
+     "anchor": "கித்தாயீமுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.6",
+   "source_hash": "9d7472b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.6#p1-2a6a6429",
+     "text": "கோதுமை வாங்க வருகிற வர்த்தகர்களைப் போல அவர்கள் தங்களை வேஷம் தரித்துக்கொண்டார்கள்.",
+     "anchor": "கோதுமை வாங்க வருகிறவர்கள்போல"
+    },
+    {
+     "id": "geneva/2SA.4.6#p2-50f6be90",
+     "text": "பணத்தையும் தயவையும் நம்பி, துன்மார்க்கர் செய்யத் துணியாத அவமானமும் ஆபத்தும் நிறைந்த காரியம் ஒன்றும் இல்லை.",
+     "anchor": "வயிற்றிலே குத்தினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.4.11",
+   "source_hash": "f96dc82c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.4.11#p1-f96dc82c",
+     "text": "சவுலைக் கொலைசெய்தவனுக்கு நடந்த முடிவும், தங்கள் எஜமானுக்குச் செய்யவேண்டிய கடமையும், அந்த மனிதனுடைய குற்றமில்லாத தன்மையும், அந்த இடத்தின்மேலுள்ள மதிப்பும், அந்த நேரமும் ஆகிய எதுவும் அவர்களை நகர்த்தாதிருந்ததால், அவர்கள் மிகக் கடுமையான தண்டனைக்கு தகுதியுள்ளவர்களாயிருந்தார்கள்.",
+     "anchor": "எவ்வளவு அதிகமான"
+    }
+   ]
+  }
+ ]
+}

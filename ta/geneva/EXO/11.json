@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.11.1",
+   "source_hash": "9ec404e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.1#p1-9ec404e2",
+     "text": "எவ்வித நிபந்தனையும் இல்லாமல், அவசரமாகவும் பலவந்தமாகவும்.",
+     "anchor": "உங்களை இந்த இடத்திலிருந்து துரத்தியும் விடுவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.5",
+   "source_hash": "ee6a5549",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.5#p1-ee6a5549",
+     "text": "மேலான நிலையிலிருந்து கீழான நிலைவரைக்கும்.",
+     "anchor": "எந்திரம் அரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.8",
+   "source_hash": "3e7b8e6a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.8#p1-3e7b8e6a",
+     "text": "அதாவது, அதிகாரத்திற்கும் ஆளுகைக்கும் கீழ்.",
+     "anchor": "உன்னைப் பின்பற்றுகிறவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.11.9",
+   "source_hash": "a227e34d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.11.9#p1-a227e34d",
+     "text": "தேவன் மறுக்கப்பட்டவர்களின் இருதயங்களைக் கடினப்படுத்துகிறார், இதனாலே தமது மகிமை இன்னும் அதிகமாக வெளிப்படும்படி, ரோமர் 9:17.",
+     "anchor": "என்னுடைய அற்புதங்கள் அநேகமாகும்படி"
+    }
+   ]
+  }
+ ]
+}

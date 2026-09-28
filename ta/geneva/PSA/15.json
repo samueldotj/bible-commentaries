@@ -1,0 +1,64 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.15.2",
+   "source_hash": "5ea34db1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.2#p1-5ea34db1",
+     "text": "நாம் தேவனை நம்பாவிட்டால் அவரை நோக்கிக் கூப்பிடக்கூடாது என்பதை இவன் காண்பிக்கிறார்.",
+     "anchor": "உத்தமனாக நடந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.15.4",
+   "source_hash": "5e69316a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.4#p1-5e69316a",
+     "text": "அவபக்தியுள்ளவர்களை அவர்களுடைய துன்மார்க்கத்தில் ஸ்தோத்திரிக்காதவன்.",
+     "anchor": "ஆகாதவன் அவன் பார்வைக்கு அற்பமானவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.15.5",
+   "source_hash": "f24a5019",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.15.5#p1-abc2b845",
+     "text": "தன்னுடைய அயலகத்தானுக்கு நஷ்டம் உண்டாக்கும்படி.",
+     "anchor": "தன்னுடைய பணத்தை வட்டிக்குக் கொடுக்காமலும்"
+    },
+    {
+     "id": "geneva/PSA.15.5#p2-663ea20a",
+     "text": "அதாவது, மாயக்காரனாக சபையிலிருந்து தள்ளப்படுவதில்லை.",
+     "anchor": "என்றென்றைக்கும் அசைக்கப்படுவதில்லை"
+    }
+   ]
+  }
+ ]
+}

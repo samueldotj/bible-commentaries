@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.8.1",
+   "source_hash": "b12a501f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.1#p1-b12a501f",
+     "text": "அதனால் அவர்கள் இனி கப்பம் செலுத்தவில்லை.",
+     "anchor": "பெலிஸ்தர்களின் கையிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.2",
+   "source_hash": "3eee82e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.2#p1-3eee82e6",
+     "text": "அவன் தனக்குப் பிரியமானபடி இரண்டு பங்கை கொன்று, மூன்றாம் பங்கை உயிரோடு வைத்தான்.",
+     "anchor": "நூல்போட்டு அளவெடுத்து இரண்டு வரிசை மனிதர்களைக் கொன்றுபோட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.6",
+   "source_hash": "eeec8c26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.6#p1-ece94966",
+     "text": "தமஸ்கு இருந்த சீரியாவின் அந்தப் பகுதியில்.",
+     "anchor": "தமஸ்குவிற்கு அடுத்த சீரியாவிலே"
+    },
+    {
+     "id": "geneva/2SA.8.6#p2-23576ef3",
+     "text": "அவர்கள் வருடாந்திரம் கப்பம் செலுத்தினார்கள்.",
+     "anchor": "அவனுக்குக் கப்பங்கட்டினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.7",
+   "source_hash": "8bc13a88",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.7#p1-8bc13a88",
+     "text": "ஆலயத்தின் பயன்பாட்டிற்காக.",
+     "anchor": "எருசலேமிற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.10",
+   "source_hash": "4c3b9778",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.10#p1-4c3b9778",
+     "text": "தாவீது வெற்றி பெற்றதைக் கண்டதால், சமாதானம் கேட்பதில் அவன் மகிழ்ச்சியடைந்தான்.",
+     "anchor": "வாழ்த்துதல் சொல்லவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.15",
+   "source_hash": "79509bba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.15#p1-79509bba",
+     "text": "அவன் வழக்குகளில் நியாயத்தீர்ப்பு செய்தான், மக்களிடத்தில் இரக்கமாயும் இருந்தான்.",
+     "anchor": "நியாயமும் நீதியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.8.18",
+   "source_hash": "f3b42471",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.8.18#p1-f3b42471",
+     "text": "கிரேத்தியரும் பிலேத்தியரும் ராஜாவின் மேற்பார்வையாளர்களைப் போல் இருந்தார்கள், அவனுடைய தேகத்தை காவல் காக்கும் பொறுப்பையும் கொண்டிருந்தார்கள்.",
+     "anchor": "கிரேத்தியர்களுக்கும் பிலேத்தியர்களுக்கும்"
+    }
+   ]
+  }
+ ]
+}

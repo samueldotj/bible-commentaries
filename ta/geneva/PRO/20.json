@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.20.1",
+   "source_hash": "05e9200c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.1#p1-05e9200c",
+     "text": "திராட்சைரசம் என்பதினால் திராட்சைரசத்திற்கு அடிமைப்பட்டவனைக் குறிக்கிறது; அப்படியே மதுபானத்தைக்குறித்தும்.",
+     "anchor": "திராட்சைரசம் பரியாசம்செய்யும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.2",
+   "source_hash": "1b21c678",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.2#p1-1b21c678",
+     "text": "தன்னுடைய உயிரை ஆபத்திற்குள்ளாக்குகிறான்.",
+     "anchor": "தன்னுடைய உயிருக்கே துரோகம்செய்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.5",
+   "source_hash": "f0c7fb64",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.5#p1-f0c7fb64",
+     "text": "அதைக் கண்டுபிடிப்பது கடினம்: ஏனெனில் அது அடிமட்டம் காணமுடியாத ஆழமான தண்ணீரைப் போன்றது; ஆயினும் ஞானமுள்ளவன் ஒருவனுடைய வார்த்தைகளினாலோ நடத்தையினாலோ அவனை அறிந்துகொள்வான்.",
+     "anchor": "ஆழமான தண்ணீர்போல இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.8",
+   "source_hash": "93bb81e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.8#p1-93bb81e6",
+     "text": "நீதியான நியாயத்தீர்ப்பு நடத்தப்படும் இடத்தில், பாவம் நிலைத்து நிற்காது, தீமை தலைகாட்டத் துணியாது.",
+     "anchor": "தன்னுடைய கண்களினால் எல்லாத் தீங்கையும் சிதறச்செய்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.10",
+   "source_hash": "24ad0b74",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.10#p1-24ad0b74",
+     "text": "நீதிமொழிகள் 16:11-ஐ பார்க்கவும்.",
+     "anchor": "இவ்விரண்டும் யெகோவாவுக்கு அருவருப்பானவைகள்.,"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.16",
+   "source_hash": "d03ad07a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.16#p1-d03ad07a",
+     "text": "தன்னைத்தானே பராமுகமாக ஆபத்தில் வீழ்த்திக்கொள்ளாதிருக்க அவனுக்கு புத்தி கற்பிக்கவேண்டும்.",
+     "anchor": "பிணைப்பட்டவனுடைய ஆடையை எடுத்துக்கொள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.25",
+   "source_hash": "d93f5096",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.25#p1-d93f5096",
+     "text": "அதாவது, தேவனுக்கென்று நியமிக்கப்பட்டதைத் தனக்குரிய பயனுக்காக எடுத்துக்கொண்டு, பின்பு அந்தக் குற்றத்திலிருந்து தன்னை எப்படித் தப்புவித்துக்கொள்ளலாம் என்று யோசிக்கிறது.",
+     "anchor": "பரிசுத்தமானதை விழுங்குகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.26",
+   "source_hash": "ca6113fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.26#p1-ca6113fd",
+     "text": "இது அக்காலத்தில் வழக்கத்திலிருந்த ஒருவகை தண்டனை.",
+     "anchor": "உருளையை உருட்டுவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.27",
+   "source_hash": "4cd3ed5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.27#p1-4cd3ed5e",
+     "text": "தேவன் தமது வசனத்தினால் மனிதனுக்கு ஜீவனைக் கொடுக்கிறார், நம்முடைய இருதயத்தின் மறைவான காரியங்களைப் பார்க்கவும் ஆராயவும் நமக்குக் கிடைக்கச் செய்கிறார், எபிரெயர் 4:12.",
+     "anchor": "மனிதனுடைய ஆவி யெகோவா தந்த தீபமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.20.30",
+   "source_hash": "f643bd2a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.20.30#p1-f643bd2a",
+     "text": "உள்ளான பாகங்களையும் ஊடுருவும் கடுமையான தண்டனை, துன்மார்க்கரை மனந்திரும்புதலுக்குக் கொண்டுவரப் பிரயோஜனமுள்ளது.",
+     "anchor": "காயத்தின் தழும்புகளும், உள்ளத்தில் உறைக்கும் அடிகளும்"
+    }
+   ]
+  }
+ ]
+}

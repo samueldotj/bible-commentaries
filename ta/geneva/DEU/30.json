@@ -1,0 +1,210 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 30,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.30.1",
+   "source_hash": "a2c798be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.1#p1-a2c798be",
+     "text": "தமது கிருபைகளையும் தமது வாதைகளையும் நினைவுக்கு அழைப்பு செய்வதன் மூலமாக.",
+     "anchor": "நீ உன் இருதயத்திலே சிந்தனைசெய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.2",
+   "source_hash": "2bb8004b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.2#p1-2bb8004b",
+     "text": "உண்மையான மனந்திரும்புதலில் மாயமாட்டம் இல்லை.",
+     "anchor": "இருதயத்தோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.4",
+   "source_hash": "27ae4f14",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.4#p1-b06f9389",
+     "text": "உலகின் கடைசி எல்லைவரை.",
+     "anchor": "வானத்தின்கீழே கடைசி எல்லைவரை"
+    },
+    {
+     "id": "geneva/DEU.30.4#p2-ec05e7cd",
+     "text": "உன்னை உன் நாட்டிற்குள் கொண்டுவருவார்.",
+     "anchor": "உன்னைக் கொண்டுவந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.6",
+   "source_hash": "b3904ee8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.6#p1-b3904ee8",
+     "text": "தேவன் உன்னுடைய துன்மார்க்கமான ஆசைகளையெல்லாம் நீக்கிவிடுவார், அதைச் செய்வது உன்னுடைய சொந்த வல்லமையில் இல்லாத ஒரு காரியம்.",
+     "anchor": "உன் இருதயத்தையும்... விருத்தசேதனம்செய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.8",
+   "source_hash": "c70bb429",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.8#p1-c70bb429",
+     "text": "நாம் தேவன் தம்முடைய பரிசுத்த ஆவியானவராலே நமக்குள் கிரியை செய்யவேண்டுமானால், நாம் மனந்திரும்புதலினாலே அவரிடத்திற்குத் திரும்பவேண்டும்.",
+     "anchor": "நீயோ மனந்திரும்பி, யெகோவாவின் சத்தத்திற்குச் செவிகொடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.9",
+   "source_hash": "595f1091",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.9#p1-595f1091",
+     "text": "தேவன் இந்த உணர்வுகளுக்கு உட்பட்டவர், அதாவது சந்தோஷப்படுவதோ, சஞ்சலப்படுவதோ ஆகிறவர் என்று அவன் சொல்லவில்லை; ஆனால் அவர் நமக்குக் காட்டும் அன்பை வெளிப்படுத்த இந்த வகையான பேச்சு முறையைப் பயன்படுத்துகிறார்.",
+     "anchor": "உனக்கு நன்மை உண்டாகும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.11",
+   "source_hash": "1f4dbf19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.11#p1-1f4dbf19",
+     "text": "உனக்கு மறைவானதாக இல்லை என்று சாக்குப்போக்குச் சொல்ல யாருக்கும் இடமில்லாதபடி நியாயப்பிரமாணம் மிகவும் தெளிவாக இருக்கிறது.",
+     "anchor": "உனக்கு மறைவானதும் அல்ல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.13",
+   "source_hash": "dc33e7fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.13#p1-dc33e7fe",
+     "text": "பரலோகம் மற்றும் சமுத்திரம் என்பதன் மூலம் மிக தூரமான இடங்களைக் குறிக்கிறார்.",
+     "anchor": "சமுத்திரத்திற்கு அப்புறத்திலுள்ளது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.14",
+   "source_hash": "faca902c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.14#p1-5945923d",
+     "text": "நியாயப்பிரமாணமும் நற்செய்தியும் இதிலே அடங்கும்.",
+     "anchor": "மிகவும் சமீபமாக"
+    },
+    {
+     "id": "geneva/DEU.30.14#p2-92d6a235",
+     "text": "கிறிஸ்துவின்மேலுள்ள விசுவாசத்தினால்.",
+     "anchor": "செய்வதற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.16",
+   "source_hash": "43bdb42d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.16#p1-058b7a24",
+     "text": "ஆகவே தேவனில் அன்புசெலுத்தி அவருக்குக் கீழ்ப்படிதலே ஜீவனும் நன்மையுமாகும்.",
+     "anchor": "உன் தேவனாகிய யெகோவாவில் அன்புசெலுத்தவும்"
+    },
+    {
+     "id": "geneva/DEU.30.16#p2-043b467d",
+     "text": "நாம் அவரில் அன்புசெலுத்துவது அவருடைய பிரயோஜனத்திற்காக அல்ல, நமது பிரயோஜனத்திற்காகவே என்பதைக் காண்பிக்கும்படி அவர் இந்த வாக்குத்தத்தங்களைச் சேர்த்திருக்கிறார்.",
+     "anchor": "பிழைத்து, பெருகுவதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.30.19",
+   "source_hash": "71235bc5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.30.19#p1-71235bc5",
+     "text": "அதாவது, தேவனிடத்தில் அன்புவைத்து அவருக்குக் கீழ்ப்படிதல்; இது மனிதனுடைய வல்லமையில் இல்லை, தேவனுடைய ஆவியானவர் மாத்திரமே தேவன் தெரிந்துகொள்ளப்பட்டவர்களில் இதை நடப்பிக்கிறார்.",
+     "anchor": "ஜீவனைத் தெரிந்துகொண்டு"
+    }
+   ]
+  }
+ ]
+}

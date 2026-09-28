@@ -1,0 +1,381 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 28,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.28.1",
+   "source_hash": "d37cf338",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.1#p1-d37cf338",
+     "text": "தேவன் உன்னை எல்லா மக்களையும்விட மேன்மையானவனாக்குவார்.",
+     "anchor": "மேன்மையாக வைப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.2",
+   "source_hash": "ec5bf7d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.2#p1-ec5bf7d1",
+     "text": "நீ கைவிடப்பட்டவனாக நினைக்கும்போது.",
+     "anchor": "உன்மேல் வந்து உனக்குப் பலிக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.3",
+   "source_hash": "0b804325",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.3#p1-0b804325",
+     "text": "நீ சம்பன்னமாய் வாழ்வாய்.",
+     "anchor": "பட்டணத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.4",
+   "source_hash": "7069000a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.4#p1-7069000a",
+     "text": "உன் பிள்ளைகளும் சந்ததியும்.",
+     "anchor": "உன் கர்ப்பத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.6",
+   "source_hash": "726c7a2c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.6#p1-726c7a2c",
+     "text": "உன் எல்லா முயற்சிகளும் நல்ல வெற்றியைப் பெறும்.",
+     "anchor": "வரும்போதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.7",
+   "source_hash": "53105cf2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.7#p1-53105cf2",
+     "text": "அநேக வழிகள் என்று அர்த்தம்.",
+     "anchor": "ஏழு வழியாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.8",
+   "source_hash": "a1deed87",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.8#p1-a1deed87",
+     "text": "நாம் நமது கடமையைச் செய்து, சோம்பேறியாய் இராதிருந்தால், தேவன் நம்மை ஆசீர்வதிப்பார்.",
+     "anchor": "நீ செய்யும் எல்லா வேலையிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.10",
+   "source_hash": "3ebed440",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.10#p1-3ebed440",
+     "text": "அவர் உன்னுடைய தேவனாயும், நீ அவருடைய மக்களாயும் இருப்பதினால்.",
+     "anchor": "நாமம் உனக்குச் சூட்டப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.12",
+   "source_hash": "df2547b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.12#p1-df2547b8",
+     "text": "தேவன் பரலோகத்திலிருந்து தமது ஆசீர்வாதங்களை அனுப்பும்போதே அல்லாமல், பூமியிலுள்ள எதுவும் பயனுள்ளதாக இருக்காது.",
+     "anchor": "தமது நல்ல பொக்கிஷசாலையாகிய வானத்தைத் திறப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.23",
+   "source_hash": "badc98fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.23#p1-badc98fa",
+     "text": "அது வெண்கலமாக இருந்தால் எப்படியோ, அப்படியே அது உனக்கு ஈரப்பதத்தை ஒன்றும் தராது.",
+     "anchor": "வெண்கலமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.25",
+   "source_hash": "efb98563",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.25#p1-efb98563",
+     "text": "தேவன் உங்களை எப்படித் தண்டித்தார் என்பதை அவர்கள் கேட்கும்போது, நீங்கள் திகிலும் பயமும் ஆவீர்கள் என்று சிலர் வாசிக்கிறார்கள்."
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.26",
+   "source_hash": "055043eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.26#p1-055043eb",
+     "text": "நீ உயிரோடிருக்கும் காலத்திலும் மரணத்திலும் சபிக்கப்பட்டவனாயிருப்பாய்: ஏனெனில் அடக்கம் செய்யப்படுதல் உயிர்த்தெழுதலின் ஒரு சாட்சியாகும்; அந்த அடையாளம் உன் துன்மார்க்கத்தினால் உனக்கு இல்லாமல் போகும்.",
+     "anchor": "பிணம் ஆகாயத்துப் பறவைகளுக்கும் பூமியின் மிருகங்களுக்கும் இரையாகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.29",
+   "source_hash": "0e568ee2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.29#p1-0e568ee2",
+     "text": "மிகவும் தெளிவும் வெளிச்சமுமான காரியங்களில் உனக்கு விவேகமும் நியாயத்தீர்ப்பும் இல்லாமல் இருக்கும்.",
+     "anchor": "குருடன் அந்தகாரத்திலே தடவித்திரிகிறதுபோல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.32",
+   "source_hash": "a5b21b2a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.32#p1-a5b21b2a",
+     "text": "அவர்கள் தங்கள் சிறையிருப்பிலிருந்து திரும்பி வருவதைக் குறித்து.",
+     "anchor": "காண உன் கண்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.36",
+   "source_hash": "1178a9a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.36#p1-1178a9a5",
+     "text": "மனாசேக்கும், யொயகீமுக்கும், சிதேக்கியாவுக்கும், மற்றவர்களுக்கும் அவர் செய்ததுபோல.",
+     "anchor": "உனக்காக நீ ஏற்படுத்திக்கொண்ட ராஜாவையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.42",
+   "source_hash": "590c51a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.42#p1-590c51a5",
+     "text": "ஒரு வகையின் கீழ் அவன் நிலத்தின் பலனை அழிக்கும் எல்லாப் பூச்சிகளையும் உட்படுத்துகிறான்: இது தேவனுடைய சாபத்தின் தெளிவான அடையாளமாக இருக்கிறது.",
+     "anchor": "வெட்டுக்கிளி அழித்துப்போடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.56",
+   "source_hash": "54d7b82d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.56#p1-54d7b82d",
+     "text": "இஸ்ரவேலின் ராஜாவாகிய யோராமின் நாட்களில் நடந்ததுபோலவும், ரோமர் எருசலேமை முற்றுகைபோட்டபோது நடந்ததுபோலவும். 2 இராஜாக்கள் 6:28",
+     "anchor": "உன்னிடத்தில்... பெண்，refs:[{\"text\":\"2Ki 6:28\",\"ref\":\"2KI.6.28\"}]"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.57",
+   "source_hash": "d349e510",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.57#p1-d349e510",
+     "text": "பசி அவளைக் கடிக்கும், அதனால் பிள்ளை பிறப்பதற்கு முன்பே அதைத் தின்னும்படி அவள் தயாராயிருப்பாள்.",
+     "anchor": "பிறக்கும் பிள்ளையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.58",
+   "source_hash": "d59df4aa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.58#p1-d59df4aa",
+     "text": "ஏனெனில், ஒருவன் ஒன்றிலே தவறினால், எல்லாவற்றிலும் குற்றவாளியாக இருப்பான், யாக்கோபு 2:10",
+     "anchor": "இந்த நியாயப்பிரமாண வார்த்தைகளின்படியெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.61",
+   "source_hash": "70c1e28e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.61#p1-70c1e28e",
+     "text": "தேவனுக்கு துன்மார்க்கரைத் தண்டிக்க வழக்கமான அல்லது எழுதப்பட்டவைகளையன்றி எண்ணிறந்த வழிகள் உண்டு என்பதை இது காண்பிக்கிறது.",
+     "anchor": "இந்த நியாயப்பிரமாண புத்தகத்தில் எழுதப்பட்டிராத"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.64",
+   "source_hash": "36913855",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.64#p1-36913855",
+     "text": "நாம் தேவனை தூய்மையாக தொழுதுகொள்ளும்படியும், நம்முடைய விசுவாசத்தையும் மார்க்கத்தையும் அறிக்கை செய்யும்படியும் இடம் பெற்றிருப்பது தேவனிடத்திலிருந்து வரும் ஒரு விசேஷித்த வரம் என்பதைக் குறிக்கிறது.",
+     "anchor": "எல்லா மக்களுக்குள்ளும் சிதறடிப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.28.68",
+   "source_hash": "1b7cc1cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.28.68#p1-1b7cc1cc",
+     "text": "கடல் அவர்களுக்கு நடந்துபோக இடம் கொடுத்த அற்புதத்தை அவர்கள் நினைவுகூராமல் இருந்தபடியால்.",
+     "anchor": "கப்பல்களிலே"
+    }
+   ]
+  }
+ ]
+}

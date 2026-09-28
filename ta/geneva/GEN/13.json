@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.13.1",
+   "source_hash": "7aa93bc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.1#p1-7aa93bc0",
+     "text": "எகிப்தில் அவன் பெற்ற பெருஞ்செல்வம் அவனுடைய அழைப்பைப் பின்பற்றுவதற்குத் தடையாக இருக்கவில்லை.",
+     "anchor": "எகிப்தை விட்டு தென்திசைக்கு வந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.3",
+   "source_hash": "aad7d938",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.3#p1-aad7d938",
+     "text": "பின்பு அவ்விடத்திற்குக் கொடுக்கப்பட்ட பெயரினாலே அவன் அந்த இடத்தைக் குறிக்கிறான், ஆதி. 23:19.",
+     "anchor": "பெத்தேல்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.6",
+   "source_hash": "f73a2329",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.6#p1-f73a2329",
+     "text": "இந்த இடையூறு அவர்களுடைய செல்வத்தினால் வந்தது; அது நட்பையும் இயற்கையின் உறவுகளையும் உடைத்துவிடும்.",
+     "anchor": "வசதி இல்லாமற்போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.7",
+   "source_hash": "68d9afb2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.7#p1-68d9afb2",
+     "text": "அவர்களுடைய வாக்குவாதத்தைக் கண்டு, தேவனை நிந்தித்து அவர்களை அழிக்கக்கூடியவர்கள்.",
+     "anchor": "கானானியரும் பெரிசியரும் அந்த தேசத்தில் குடியிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.8",
+   "source_hash": "786c30b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.8#p1-786c30b0",
+     "text": "அவன் வாக்குவாதத்திற்கான வாய்ப்பை அறுத்துப்போடுகிறான்: இதனால் தீமை ஒழிந்துவிடுகிறது.",
+     "anchor": "வாக்குவாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.9",
+   "source_hash": "f6253c1b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.9#p1-f6253c1b",
+     "text": "சமாதானத்தை வாங்குவதற்காக ஆபிராம் தன் சொந்த உரிமையைத் துறக்கிறான்.",
+     "anchor": "இடதுபுறம் போனால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.10",
+   "source_hash": "7dee8549",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.10#p1-7dee8549",
+     "text": "அது ஏதேனில் இருந்தது, ஆதி. 2:10.",
+     "anchor": "யெகோவாவுடைய தோட்டத்தைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.11",
+   "source_hash": "13cc66a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.11#p1-13cc66a4",
+     "text": "ஆபிராமும் அவனுடைய சந்ததியும் மட்டுமே கானான் தேசத்தில் குடியிருக்கும்படி, இது தேவனுடைய பராமரிப்பினாலே நடந்தது.",
+     "anchor": "ஒருவரை ஒருவர் விட்டுப் பிரிந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.13",
+   "source_hash": "f2eb686d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.13#p1-f2eb686d",
+     "text": "பரதீசைப் பெறலாம் என்று எண்ணிய லோத்து, நரகத்தைக் கண்டான்.",
+     "anchor": "யெகோவாவுக்கு முன்பாக மகா பாவிகளுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.14",
+   "source_hash": "36935d60",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.14#p1-36935d60",
+     "text": "லோத்து பிரிந்து போனதைக் குறித்து ஆபிராம் கவலைப்படாதபடிக்குக் கர்த்தர் அவனுக்கு ஆறுதல் கொடுத்தார்.",
+     "anchor": "ஆபிராமை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.13.15",
+   "source_hash": "2f8d12ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.13.15#p1-2f8d12ba",
+     "text": "இது யாத்திராகமம் 12:14, 21:6, உபாகமம் 15:17-ல் உள்ளதுபோல, ஒரு நீண்ட காலத்தையும், கிறிஸ்து வரும்வரையும் குறிக்கிறது; ஆவிக்குரிய அர்த்தத்தில், இது வாக்குத்தத்தத்தின்படி பிறந்த ஆபிராமின் மெய்யான பிள்ளைகளைக் குறிக்கிறதே தவிர, சரீரத்தின்படி பிறந்தவர்களைக் குறிக்கவில்லை; அவர்களே மெய்யான கானான் தேசத்திற்கு சுதந்தரவாளிகள்.",
+     "anchor": "என்றைக்கும்"
+    }
+   ]
+  }
+ ]
+}

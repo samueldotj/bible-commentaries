@@ -1,0 +1,387 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.1.1",
+   "source_hash": "50c5a277",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.1#p1-6957289e",
+     "text": "மோவாப் நாட்டில்.",
+     "anchor": "யோர்தானின் இக்கரையில் வனாந்தரத்தில்"
+    },
+    {
+     "id": "geneva/DEU.1.1#p2-19dcde19",
+     "text": "இவ்வாறு வனாந்தரம் சிவந்த சமுத்திரத்திற்கும் மோவாபின் சமபூமிக்கும் இடையில் இருந்தது.",
+     "anchor": "சிவந்த சமுத்திரத்திற்கு எதிரே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.2",
+   "source_hash": "f557b6cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.2#p1-f557b6cd",
+     "text": "நியாயப்பிரமாணம் கொடுக்கப்படுவதற்கு நாற்பது வருடங்களுக்கு முன்னால் ஓரேபிலே, அதாவது சீனாய் மலையிலே: ஆனால் அப்பொழுது வயதும் நியாயத்தீர்ப்பு அறியும் திறனும் உடையவர்களாக இருந்த யாவரும் இப்பொழுது மரித்துப்போனதால், அப்பொழுது பிறவாதவர்களாகவோ அல்லது நியாயத்தீர்ப்பு அறியும் திறன் இல்லாதவர்களாகவோ இருந்த வாலிபருக்கு மோசே அதையே மறுபடியும் சொல்லுகிறார்.",
+     "anchor": "ஓரேபின் வழியாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.4",
+   "source_hash": "38a1b63c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.4#p1-38a1b63c",
+     "text": "தேவனுடைய கிருபையின் இந்த முன்மாதிரிகளினால், நியாயப்பிரமாணத்தைப் பெற்றுக்கொள்ளும்படி அவர்களுடைய மனங்கள் ஆயத்தப்படுத்தப்படுகின்றன.",
+     "anchor": "எமோரியர்களின் ராஜாவாகிய சீகோனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.5",
+   "source_hash": "b93fd708",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.5#p1-b93fd708",
+     "text": "இரண்டாம் முறை.",
+     "anchor": "மோசே இந்த நியாயப்பிரமாணத்தை விவரித்துக் காண்பிக்கத் துவங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.6",
+   "source_hash": "7da96621",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.6#p1-7da96621",
+     "text": "இரண்டாம் வருடம் இரண்டாம் மாதத்தில், எண்ணாகமம் 10:11.",
+     "anchor": "ஓரேபிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.9",
+   "source_hash": "522a9e38",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.9#p1-522a9e38",
+     "text": "என்னுடைய மாமனாராகிய எத்திரோவின் ஆலோசனையினால், யாத். 18:19.",
+     "anchor": "அக்காலத்திலே நான் உங்களை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.10",
+   "source_hash": "709af8c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.10#p1-709af8c2",
+     "text": "இயற்கையின் போக்கினால் அல்ல, அற்புதமாக.",
+     "anchor": "பெருகச்செய்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.12",
+   "source_hash": "6ac851c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.12#p1-6ac851c9",
+     "text": "மக்களை நடத்துவது எவ்வளவு பெரிய பாரமானது என்பதைக் குறிக்கிறது.",
+     "anchor": "தாங்குவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.13",
+   "source_hash": "06b2d635",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.13#p1-06b2d635",
+     "text": "இவர்களுடைய தேவபக்தியும் நீதியும் அறியப்பட்டவைகளாக இருக்கும்.",
+     "anchor": "நன்மதிப்பு பெற்ற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.15",
+   "source_hash": "c924c0b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.15#p1-c924c0b2",
+     "text": "பொது பொறுப்பைக் கொண்டிருக்கத்தக்க மனிதர் எப்படிப்பட்டவர்களாக இருக்கவேண்டும் என்பதைத் தெரிவிக்கிறது; யாத். 18:21-ஐ வாசிக்கவும்.",
+     "anchor": "ஞானமும் அறிவுமுள்ள மனிதர்களாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.17",
+   "source_hash": "64f65f96",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.17#p1-64f65f96",
+     "text": "நீங்கள் அவருடைய பிரதிநிதிகள்.",
+     "anchor": "தேவனுடையது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.20",
+   "source_hash": "1162c7f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.20#p1-1162c7f0",
+     "text": "ஆகவே வாக்குத்தத்தம் செய்யப்பட்ட சுதந்தரத்தை அவர்கள் சீக்கிரமாக உரிமையாக்கிக்கொள்ளாததற்குக் குற்றம் அவர்களிடத்திலேயே இருந்தது.",
+     "anchor": "நான் உங்களை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.22",
+   "source_hash": "ff516d89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.22#p1-ff516d89",
+     "text": "எண்ணாகமம் 13:3-ஐ வாசிக்கவும்.",
+     "anchor": "நீங்கள் எல்லோரும் என்னிடம் வந்து்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.25",
+   "source_hash": "3d741664",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.25#p1-3d741664",
+     "text": "அதாவது, காலேபும், யோசுவாவும்; மோசே எண்ணிக்கையில் பெரியதைவிட நல்லதைத் தெரிந்துகொள்கிறார், அதாவது பத்துப்பேருக்குப் பதிலாக இருவரைத் தெரிந்துகொள்கிறார்.",
+     "anchor": "சொன்னார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.27",
+   "source_hash": "dc6f5847",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.27#p1-dc6f5847",
+     "text": "யூதர்களின் நன்றியில்லாத தன்மை இத்தகையது, அவர்கள் தேவனுடைய விசேஷித்த அன்பை வெறுப்பு என்று எண்ணினார்கள்.",
+     "anchor": "நம்மை வெறுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.28",
+   "source_hash": "33bf1733",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.28#p1-33bf1733",
+     "text": "காலேபும் யோசுவாவும் அல்லாத மற்ற பத்துப்பேர்.",
+     "anchor": "நம்முடைய இருதயத்தைக் கலங்கச்செய்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.30",
+   "source_hash": "6c151f43",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.30#p1-6c151f43",
+     "text": "நம்முடைய சொந்த பலத்தை நிராகரித்து, நமக்கு அளிக்கப்பட்ட அழைப்பை உறுதியாகப் பின்பற்றி, கர்த்தரையே சார்ந்திருப்பதே உண்மையான தைரியம் என்றும், தேவனுக்கு உகந்ததென்றும் அறிவிக்கிறது.",
+     "anchor": "உங்களுக்கு முன் செல்லும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.38",
+   "source_hash": "49466f29",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.38#p1-49466f29",
+     "text": "உனக்கு ஊழியம் செய்கிறவன்.",
+     "anchor": "உனக்கு முன்பாக நிற்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.39",
+   "source_hash": "77b106c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.39#p1-77b106c0",
+     "text": "இருபது வயதுக்குக் கீழானவர்கள், எண்ணாகமம் 14:31.",
+     "anchor": "பிள்ளைகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.41",
+   "source_hash": "e288eb06",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.41#p1-e288eb06",
+     "text": "தேவன் தடைசெய்கிறதைச் செய்வானாகவும், அவர் கட்டளையிடுகிறதைச் செய்யாமலிருக்கிறவனாகவும் இருக்கும் மனுஷனுடைய இயல்பை இது காண்பிக்கிறது.",
+     "anchor": "நாங்கள் போய் போர் செய்வோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.42",
+   "source_hash": "92137a13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.42#p1-92137a13",
+     "text": "தேவன் அருகில் இருந்து உதவி செய்யும்போதே தவிர, மனிதனுக்கு பெலன் இல்லை என்பதைக் குறிக்கிறது.",
+     "anchor": "நான் உங்களுடன் இருக்கமாட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.1.45",
+   "source_hash": "bf128972",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.1.45#p1-bf128972",
+     "text": "ஏனெனில் நீங்கள் உண்மையான மனந்திரும்புதலைக் காட்டுவதற்குப் பதிலாக உங்கள் மாயத்தைக் காட்டினீர்கள்; உங்கள் பாவங்களுக்காக மனந்திரும்புவதைக் காட்டிலும் உங்கள் சகோதரரின் நஷ்டத்தைக் குறித்து அழுதீர்கள்.",
+     "anchor": "செவிகொடுக்கவும் இல்லை"
+    }
+   ]
+  }
+ ]
+}

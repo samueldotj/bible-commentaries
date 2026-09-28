@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.6.2",
+   "source_hash": "ce415925",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.2#p1-ce415925",
+     "text": "தேவன்மேல் பயபக்தியும் அன்பும் வைத்திருப்பதே தேவனுடைய கற்பனைகளைக் கைக்கொள்வதற்கு முதலாவது தொடக்கமாக இருக்கிறது.",
+     "anchor": "உன் தேவனாகிய யெகோவாவுக்குப் பயந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.3",
+   "source_hash": "572cc2b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.3#p1-572cc2b4",
+     "text": "மனித வாழ்க்கைக்குத் தேவையான எல்லாவற்றின் நிறைவையும் உடையது.",
+     "anchor": "தேசத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.7",
+   "source_hash": "8f19ae48",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.7#p1-8f19ae48",
+     "text": "சிலர், \"நீ அவைகளை உன் பிள்ளைகளுக்கு கூர்மையாக்கவேண்டும்\" என்று வாசிக்கிறார்கள்: அதாவது, அவைகள் அவர்களுடைய நினைவில் இன்னும் ஆழமாகப் பதியும்படி செய்யவேண்டும் என்பதாம்.",
+     "anchor": "உன் பிள்ளைகளுக்குத் தெளிவாகப் போதித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.9",
+   "source_hash": "cb0e536f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.9#p1-cb0e536f",
+     "text": "நீ உள்ளே நுழையும்போது அவைகளை நினைவுகூரும்படி.",
+     "anchor": "வீட்டு நிலைகளிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.12",
+   "source_hash": "96ba1e9c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.12#p1-96ba1e9c",
+     "text": "நீ துன்பத்திலிருந்து விடுவிக்கப்பட்ட தேவனுடைய கிருபைகளை, செல்வமும் சவுக்கியமும் மறக்கடிக்காதபடி பார்த்துக்கொள்.",
+     "anchor": "மறக்காதபடி எச்சரிக்கையாயிரு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.13",
+   "source_hash": "68a26731",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.13#p1-68a26731",
+     "text": "நாம் தேவனுக்குப் பயந்து, அவருக்கே ஆராதனைசெய்து, அவருடைய நாமத்தை அறிக்கைசெய்ய வேண்டும்; இது நியாயமான முறையில் வாக்குறுதி கொடுப்பதனால் நிறைவேறும்.",
+     "anchor": "அவருடைய நாமத்தைக்கொண்டே வாக்குறுதி கொடுப்பாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.16",
+   "source_hash": "20ef6906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.16#p1-20ef6906",
+     "text": "அவருடைய வல்லமையை சந்தேகித்து, நியாயமான வழிமுறைகளை வேண்டாமென்று விட்டு, அவருடைய கிருபைகளை தவறாக பயன்படுத்துவதினால்.",
+     "anchor": "உங்கள் தேவனாகிய யெகோவாவை சோதித்துப்பார்க்காதீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.18",
+   "source_hash": "5ff16dee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.18#p1-5ff16dee",
+     "text": "இங்கே அவன் மனுஷனுடைய நல்ல எண்ணங்கள் எல்லாவற்றையும் குற்றஞ்சுமத்துகிறான்.",
+     "anchor": "நன்றாயிருக்கிறதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.20",
+   "source_hash": "5887e88d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.20#p1-5887e88d",
+     "text": "தேவன் நம்முடைய முழு வாழ்நாளிலும் அவரைச் சேவிக்கும்படி மாத்திரமல்ல, நம்முடைய சந்ததியாரும் அவருடைய மகிமையை வெளிப்படுத்தும்படி நாம் கவனித்துக்கொள்ளும்படியும் கேட்கிறார்.",
+     "anchor": "உன் மகன்... உன்னிடத்தில் கேட்டால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.23",
+   "source_hash": "4ee96181",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.23#p1-4ee96181",
+     "text": "நாம் தேவனிடத்திலிருந்து பெற்றுக்கொண்ட மிகுந்த நன்மைகளைப் பார்க்கிலும் மேலாக, மற்றொன்றும் நம்மை உண்மையான கீழ்ப்படிதலுக்கு உந்தத்தக்கதாக இல்லை.",
+     "anchor": "எங்களை அவ்விடத்திலிருந்து புறப்படச்செய்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.6.25",
+   "source_hash": "2d96f774",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.6.25#p1-2d96f774",
+     "text": "நியாயப்பிரமாணத்தை முழுமையாக ஒருவரும் கீழ்ப்படிய முடியாது என்பதால், விசுவாசத்தினால் நீதிமானாக்கப்படுவதற்குக் கிறிஸ்துவின்பக்கம் திரும்பவேண்டும்.",
+     "anchor": "நீதியாயிருக்கும்"
+    }
+   ]
+  }
+ ]
+}

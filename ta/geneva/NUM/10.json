@@ -1,0 +1,234 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.10.2",
+   "source_hash": "37f4c710",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.2#p1-37f4c710",
+     "text": "அல்லது, சுத்தியால் அடித்து உருவாக்கப்பட்ட வேலைப்பாடு.",
+     "anchor": "ஒரே வெள்ளித்தகட்டால் செய்யப்படவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.5",
+   "source_hash": "a3124883",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.5#p1-a3124883",
+     "text": "அதாவது, யூதாவின் முகாமும் அவனுடைய கொடியின்கீழ் இருப்பவர்களும்.",
+     "anchor": "கிழக்கே இறங்கியிருக்கிற முகாம்கள் புறப்படவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.6",
+   "source_hash": "a965a25b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.6#p1-a965a25b",
+     "text": "அதாவது, ரூபனுடைய பாளையம் என்று அர்த்தம்.",
+     "anchor": "தெற்கே இறங்கியிருக்கிற முகாம்கள் புறப்படவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.8",
+   "source_hash": "5d9604e5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.8#p1-5d9604e5",
+     "text": "ஆசாரிய ஊழியம் நிலைத்திருந்த வரையில், ஆசாரியர்கள் மாத்திரமே எக்காளங்களை ஊத வேண்டுமென்பதைக் காட்டுகிறது.",
+     "anchor": "எக்காளங்களை ஊதவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.10",
+   "source_hash": "09311f97",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.10#p1-09311f97",
+     "text": "தேவன் ஏதேனும் வாதையை நீக்கினதற்கு நீங்கள் மகிழ்ச்சியடையும்போது.",
+     "anchor": "மகிழ்ச்சி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.13",
+   "source_hash": "d3be05e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.13#p1-d3be05e6",
+     "text": "சீனாயிலிருந்து பாரானுக்குப் பயணம் செய்தார்கள், எண்ணாகமம் 33:1.",
+     "anchor": "முதல் பயணம் செய்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.17",
+   "source_hash": "85e4ab99",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.17#p1-85e4ab99",
+     "text": "அதற்குரிய எல்லாப் பொருட்களோடும்.",
+     "anchor": "வாசஸ்தலம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.21",
+   "source_hash": "34140104",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.21#p1-1fb9919b",
+     "text": "தங்கள் தோள்களின்மேல்.",
+     "anchor": "பரிசுத்தமானவைகளைச் சுமந்துகொண்டு"
+    },
+    {
+     "id": "geneva/NUM.10.21#p2-bf5c21d7",
+     "text": "மெராரியரும் கேர்சோனியரும்.",
+     "anchor": "மற்றவர்கள் வாசஸ்தலத்தை நிறுவுவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.25",
+   "source_hash": "00bf6a2b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.25#p1-00bf6a2b",
+     "text": "வழியில் சோர்ந்துபோன முன்னவர்களில் ஒருவரையும் விட்டுவிடாமல்.",
+     "anchor": "எல்லா முகாம்களுக்கும் பின்னாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.28",
+   "source_hash": "a5d610eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.28#p1-a5d610eb",
+     "text": "இது அவர்கள் பயணம்செய்தபோது அவர்களுடைய இராணுவத்தின் ஒழுங்காக இருந்தது.",
+     "anchor": "தங்கள் தங்கள் இராணுவங்களின்படியே பயணம்செய்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.29",
+   "source_hash": "fe0cb5b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.29#p1-fe0cb5b3",
+     "text": "ரெகுவேல், எத்திரோ, ஓபாப், கேனி ஆகிய பெயர்கள் அனைத்தும் ஒரே நபரையே குறிக்கும் என்று சிலர் நினைக்கின்றனர்: கிம்ஹி ரெகுவேல் எத்திரோவின் தகப்பன் என்று கூறுகிறார்: அப்படியானால் ஓபாப் மோசேயின் மாமனாக இருந்தான், பார்க்க யாத்திராகமம் 2:18, 3:1, 4:18, 18:1; நியாயாதிபதிகள் 4:11",
+     "anchor": "ஓபாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.33",
+   "source_hash": "2eddddc5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.33#p1-2eddddc5",
+     "text": "சீனாய் மலை, அல்லது ஓரேப்.",
+     "anchor": "யெகோவாவுடைய மலையைவிட்டு, மூன்றுநாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.10.35",
+   "source_hash": "d358db23",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.10.35#p1-d358db23",
+     "text": "உம்முடைய வல்லமையையும் பராக்கிரமத்தையும் வெளிப்படுத்தும்.",
+     "anchor": "எழுந்தருளும்"
+    }
+   ]
+  }
+ ]
+}

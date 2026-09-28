@@ -1,0 +1,455 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 22,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.22.1",
+   "source_hash": "198581af",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.1#p1-198581af",
+     "text": "சீரியாவின் ராஜாவாகிய பெனாதாத்தும் ஆகாபும் ஒரு சமாதானத்தை உண்டாக்கினார்கள், அது மூன்று வருடங்கள் நிலைத்திருந்தது.",
+     "anchor": "மூன்று வருடங்கள் யுத்தமில்லாமல் இருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.2",
+   "source_hash": "ab140057",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.2#p1-ab140057",
+     "text": "அவனைக் காண்பதற்கும் சந்திப்பதற்கும்.",
+     "anchor": "இஸ்ரவேலின் ராஜாவிடம் போயிருக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.3",
+   "source_hash": "5c2ac1ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.3#p1-5c2ac1ef",
+     "text": "பெனாதாத் இந்த உடன்படிக்கையைச் செய்வதற்கு முன்பே சீரியாவின் ராஜாக்கள் ராமோத்தை வைத்திருந்தார்கள். ஆகவே அதை மீண்டும் கொடுக்க வேண்டிய கடமை தனக்கு உடன்படிக்கையினால் இல்லை என்று அவன் நினைத்தான்.",
+     "anchor": "கீலேயாத்திலுள்ள ராமோத் நம்முடையது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.4",
+   "source_hash": "a241e8f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.4#p1-a241e8f6",
+     "text": "நான் உம்முடன் சேர்ந்து போக ஆயத்தமாக இருக்கிறேன், என்னுடையது யாவும் உம்முடைய கட்டளைக்குக் கீழ்ப்பட்டது.",
+     "anchor": "நான்தான் நீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.5",
+   "source_hash": "7866c8e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.5#p1-7866c8e0",
+     "text": "தேவன் ஒப்புக்கொள்ளாவிட்டால் அவன் யுத்தத்திற்குப் போகமாட்டான் என்று அவன் காணப்பட்டான்; ஆயினும் மிகாயா அதற்கு எதிர்மாறாக ஆலோசனை சொன்னபோது அவன் கீழ்ப்படிய மனதில்லாதிருந்தான்.",
+     "anchor": "விசாரித்து அறியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.6",
+   "source_hash": "ea0e501f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.6#p1-ea0e501f",
+     "text": "பொருள்: பொருளாசைக்காக பொய் சொல்லுகிற பொய்யான தீர்க்கதரிசிகள், எலியா கொன்றுபோட்டவர்களுக்குப் பின்பு யேசபேல் கூட்டிவைத்திருந்தவர்கள்.",
+     "anchor": "தீர்க்கதரிசிகளைக் கூடிவரச்செய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.7",
+   "source_hash": "b2d68502",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.7#p1-b2d68502",
+     "text": "யோசபாத் அந்தக் கள்ளத் தீர்க்கதரிசிகளைத் தேவனுடைய ஊழியக்காரராக ஒப்புக்கொள்ளாமல், அவர்களை அற்பமாக எண்ணினான்.",
+     "anchor": "யெகோவாவுடைய தீர்க்கதரிசி வேறே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.8",
+   "source_hash": "9aecc70c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.8#p1-9aecc70c",
+     "text": "இதனால் துன்மார்க்கர் சத்தியத்தைக் கேட்பதைச் சகிக்கமாட்டார்கள், தேவனுடைய தீர்க்கதரிசிகளை வெறுத்து அவர்களைத் துன்புறுத்துவார்கள் என்று நாம் காண்கிறோம்.",
+     "anchor": "நான் அவனைப் பகைக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.9",
+   "source_hash": "5e23cc63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.9#p1-5e23cc63",
+     "text": "ஆதியாகமம் 37:36-ஐ பார்க்கவும்.",
+     "anchor": "அதிகாரிகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.10",
+   "source_hash": "c998d868",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.10#p1-c998d868",
+     "text": "தங்கள் ராஜவஸ்திரம் அணிந்தவர்களாக.",
+     "anchor": "ராஜஉடை அணிந்துகொண்டவர்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.11",
+   "source_hash": "2b9524c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.11#p1-2b9524c3",
+     "text": "தேவனுடைய உண்மையான தீர்க்கதரிசிகள் தங்கள் உபதேசத்தை உறுதிப்படுத்த அடையாளங்களைப் பயன்படுத்துவது வழக்கமாக இருந்தது, ஏசாயா 20:2, எரேமியா 7:2; இவற்றைப் பொய்த் தீர்க்கதரிசிகளும் பின்பற்றி, அதனால் தங்கள் உபதேசத்தை மேலும் நம்பத்தகுந்ததாக்கலாம் என்று நினைத்தார்கள்.",
+     "anchor": "இரும்புக்கொம்புகளை உண்டாக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.13",
+   "source_hash": "4aecf741",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.13#p1-4aecf741",
+     "text": "இது துன்மார்க்கருடைய வழக்கமான வாதம்; அவர்கள் எவ்வளவு அவபக்தியாக இருந்தாலும், பெரும்பான்மையோர் ஏற்றுக்கொண்டதற்கு எதிராக யாரும் பேசக்கூடாது என்று நினைக்கிறார்கள்.",
+     "anchor": "ஒரே வாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.15",
+   "source_hash": "5579bac1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.15#p1-5579bac1",
+     "text": "அரசன் பொய்யான தீர்க்கதரிசிகளுக்கு இவ்வளவு அதிக மதிப்புக் கொடுத்ததால், அவர்கள் பொய்யர் என்பதை அவன் அனுபவத்தால் அறியவேண்டும் என்று எண்ணி, அவன் இதை ஏளனமாகச் சொல்கிறான்.",
+     "anchor": "நீர் போம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.17",
+   "source_hash": "e4f2f7ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.17#p1-e4f2f7ad",
+     "text": "தேவனுடைய ஆலோசனையையும் அனுமதியையும் பெறாமல் யுத்தத்திற்குப் போவதால் தண்டிக்கப்பட்டுச் சிதறடிக்கப்படுவதைவிட, அவர்கள் வீட்டிற்குத் திரும்புவது நலம்.",
+     "anchor": "இவர்களுக்கு எஜமான் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.19",
+   "source_hash": "e0db820e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.19#p1-e0db820e",
+     "text": "அதாவது, அவருடைய தூதர்களைக் குறிக்கிறது.",
+     "anchor": "பரமசேனையெல்லாம் அவரிடம் அவரின் வலது பக்கத்திலும், இடது பக்கத்திலும் நிற்கிறதையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.21",
+   "source_hash": "293118dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.21#p1-293118dc",
+     "text": "சாத்தான் நம்மை அழிவுக்குக் கொண்டுவர எப்பொழுதும் தயாராக இருந்தாலும், தேவன் அவனுக்குக் கொடுக்கும் அதிகாரத்திற்கு மேல் அவனுக்கு வேறு அதிகாரம் இல்லை என்பதை இதில் நாம் காண்கிறோம்.",
+     "anchor": "யெகோவாவுக்கு முன்பாக நின்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.22",
+   "source_hash": "f32950f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.22#p1-f32950f8",
+     "text": "நான் அவனுடைய தீர்க்கதரிசிகள் எல்லோரையும் பொய் சொல்லும்படி செய்வேன்.",
+     "anchor": "பொய்யின் ஆவியாக இருப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.24",
+   "source_hash": "3159c3c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.24#p1-3159c3c0",
+     "text": "இவ்விதமாக துன்மார்க்கர் தங்களைத் தவிர வேறு யாரும் தேவனுடைய கிருபையில் இருக்கவேண்டாம் என்றும், தேவன் தம்முடைய கிருபைகளை தங்களைப் போல் வேறு யாருக்கும் கொடுத்திருக்கவில்லை என்றும் விரும்புகிறார்கள்.",
+     "anchor": "யெகோவாவுடைய ஆவி எந்த வழியாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.27",
+   "source_hash": "549ca174",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.27#p1-549ca174",
+     "text": "பசியினால் இளைத்துப்போகுமாறு, அப்பமும் தண்ணீரும் மாத்திரம் கொஞ்சமாகக் கொடுக்கப்படக்கடவன்.",
+     "anchor": "கொஞ்சம் அப்பத்தையும் கொஞ்சம் தண்ணீரையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.28",
+   "source_hash": "cad32481",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.28#p1-cad32481",
+     "text": "இவை நடக்கும்போது நீங்கள் காணும்படியாகவும், தேவனுக்கு மகிமையைச் செலுத்தும்படியாகவும், நான் அவருடைய உண்மையான தீர்க்கதரிசி என்று அறியும்படியாகவும் ஆகும்.",
+     "anchor": "கேளுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.32",
+   "source_hash": "629ac19d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.32#p1-629ac19d",
+     "text": "அதாவது, கர்த்தரை நோக்கி உதவிக்காக.",
+     "anchor": "கூக்குரலிட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.35",
+   "source_hash": "f41571c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.35#p1-f41571c9",
+     "text": "அதாவது, இஸ்ரவேலின் ராஜாவாகிய ஆகாப்.",
+     "anchor": "ராஜாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.36",
+   "source_hash": "737a761e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.36#p1-737a761e",
+     "text": "இஸ்ரவேலரைப் பற்றி.",
+     "anchor": "பொழுதுபோகும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.43",
+   "source_hash": "1f8d4d29",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.43#p1-1f8d4d29",
+     "text": "அதாவது, ஆலயம் கட்டப்படுவதற்கு முன்பு செய்தது போலவே அந்த இடங்களில் கர்த்தருக்குப் பலியிடலாம் என்று நினைத்து, அவன் ஒரு தவறான எண்ணத்தால் நடத்தப்பட்டான் என்பதைக் குறிக்கிறது.",
+     "anchor": "மேடைகள் இடிக்கப்படவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.47",
+   "source_hash": "23444d3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.47#p1-23444d3d",
+     "text": "இந்த ராஜாவின் காலத்தில், இதுமேயா யூதாவுக்குக் கீழ்ப்பட்டிருந்தது, யூதர்கள் நியமித்தவனாலே அது ஆளப்பட்டது.",
+     "anchor": "பிரதிராஜா ஒருவன் இருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.22.48",
+   "source_hash": "ece148dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.22.48#p1-446791e2",
+     "text": "தர்ஷீஸ் என்பதைக் கொண்டு வேதவாக்கியம் சிலிசியாவையும் மத்திய தரைக் கடல் முழுவதையும் குறிக்கிறது.",
+     "anchor": "தர்ஷீஸ் கப்பல்களைச் செய்தான்"
+    },
+    {
+     "id": "geneva/1KI.22.48#p2-15e15b23",
+     "text": "ஓப்பீர் இந்தியாவில் இருப்பதாக ஜோசபஸ் எழுதுகிறார்; அங்கே எகிப்தியரும் அரேபியரும் பொன்னுக்காக வியாபாரம் செய்கிறார்கள்.",
+     "anchor": "பொன்னுக்காக ஓப்பீருக்குப்"
+    }
+   ]
+  }
+ ]
+}

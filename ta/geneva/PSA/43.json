@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 43,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.43.1",
+   "source_hash": "2949bec7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.1#p1-2cd55b5f",
+     "text": "அவன் தன் விரோதிகளுக்கு எதிராகத் தன் வழக்கைத் தேவன் வாதிக்க வேண்டுமென்று விரும்புகிறான், ஆனாலும் முதன்மையாகத் தன்னைத் திரும்ப ஆசரிப்புக்கூடாரத்திற்குக் கொண்டுவரவேண்டுமென்றே விரும்புகிறான்.",
+     "anchor": "என்னுடைய நியாயத்தை விசாரித்து"
+    },
+    {
+     "id": "geneva/PSA.43.1#p2-fa4aaca5",
+     "text": "அதாவது, என் விரோதிகளின் கொடிய கூட்டம்.",
+     "anchor": "பக்தியில்லாத தேசத்தாரோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.3",
+   "source_hash": "cc0f82b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.3#p1-cc0f82b2",
+     "text": "அதாவது, உமது வாக்குத்தத்தத்தின் நிறைவேற்றத்தினால் வெளிப்படும் உமது தயவு.",
+     "anchor": "உமது வெளிச்சத்தையும் உமது சத்தியத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.4",
+   "source_hash": "7f18d2bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.4#p1-7f18d2bb",
+     "text": "தான் பெற்ற பெரிய விடுதலைக்கு அடையாளமாக ஸ்தோத்திரத்தின் விசேஷித்த பலியைச் செலுத்துவேன் என்று அவன் வாக்குத்தத்தம் செய்கிறான்.",
+     "anchor": "தேவனுடைய பீடத்தின் அருகிலும் ... நுழைவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.43.5",
+   "source_hash": "03d599e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.43.5#p1-03d599e0",
+     "text": "இதன் மூலம் அவர் உண்மையுள்ளவர்களுக்கு, தங்கள் கஷ்டங்கள் நீண்டதாகவும் பெரியதாகவும் இருந்தாலும், சோர்ந்துபோகாமல் கர்த்தருக்குக் காத்திருக்க வேண்டும் என்று அறிவுறுத்துகிறார்.",
+     "anchor": "தேவனை நோக்கிக் காத்திரு"
+    }
+   ]
+  }
+ ]
+}

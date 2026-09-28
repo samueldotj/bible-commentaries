@@ -1,0 +1,329 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 30,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.30.1",
+   "source_hash": "18a5e532",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.1#p1-a5cae7be",
+     "text": "அதாவது, என் நிலைமை மாறிவிட்டது; முன்பு முதியவர்கள் என்னை மதித்து மகிழ்ந்திருந்த நேரத்தில், இப்போது இளையவர்கள் என்னை இழிவாக எண்ணுகிறார்கள்.",
+     "anchor": "என்னை கேலி செய்கிறார்கள்"
+    },
+    {
+     "id": "geneva/JOB.30.1#p2-d13dd09c",
+     "text": "அதாவது, என் மேய்ப்பர்களாக இருக்கவோ, என் நாய்களைக் காக்கவோ.",
+     "anchor": "என் மந்தையைக் காக்கும் நாய்களுடன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.2",
+   "source_hash": "0b486b56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.2#p1-0b486b56",
+     "text": "அதாவது, அவர்களுடைய தகப்பன்மார் வயது வரும் முன்பே பசியினால் மரித்துப்போனார்கள்.",
+     "anchor": "பெலனற்றுப்போன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.5",
+   "source_hash": "440123cf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.5#p1-440123cf",
+     "text": "தன் துன்பத்தில் தன்னை ஏளனம் செய்தவர்கள் தங்கள் முற்பிதாக்களைப் போலவே துன்மார்க்கரும் நீசருமான மனிதர்கள் என்று யோபு காண்பிக்கிறார், அவர்களை இங்கே அவர் இவ்வாறு விவரிக்கிறார்.",
+     "anchor": "மனிதர்களின் நடுவிலிருந்து துரத்தப்பட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.9",
+   "source_hash": "52652cd9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.9#p1-52652cd9",
+     "text": "அவர்கள் என்னைக் குறித்துப் பாட்டுகளை உண்டாக்கி, என் துன்பத்தைப் பரிகாசம் செய்கிறார்கள்.",
+     "anchor": "பாட்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.11",
+   "source_hash": "6e3edb46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.11#p1-bd1649e1",
+     "text": "தேவன் என்னிடமிருந்து அவர்களை அடக்கியாட்சி செய்யத் தான் கொண்டிருந்த வலிமையையும், மதிப்பையும், அதிகாரத்தையும் எடுத்துக்கொண்டார்.",
+     "anchor": "நான் கட்டின கட்டை"
+    },
+    {
+     "id": "geneva/JOB.30.11#p2-bff2d728",
+     "text": "யோபு 29:8-ல் இருந்தபடி, இளைஞர்கள் அவனைக் கண்டபோது ஒளித்துக்கொண்டதாகச் சொன்னான்; ஆனால் இப்போது அவனுடைய சிறுமையில் அவர்கள் மதிகேடராகவும் கட்டுப்பாடு இல்லாதவராகவும் மாறினார்கள்.",
+     "anchor": "அவர்களும் கடிவாளத்தை என் முகத்திற்கு முன்பாக உதறிவிட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.12",
+   "source_hash": "8c63c6e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.12#p1-8c63c6e6",
+     "text": "அதாவது, அவர்கள் என்னை எப்படியாவது அழிப்பதற்கு எல்லா வழிகளையும் தேடினார்கள்.",
+     "anchor": "கேடான வழிகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.13",
+   "source_hash": "3e769ae7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.13#p1-3e769ae7",
+     "text": "அவர்களுக்கு உதவி செய்கிறவர்கள் தேவையில்லை.",
+     "anchor": "உதவி செய்கிறவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.14",
+   "source_hash": "48095ca9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.14#p1-48095ca9",
+     "text": "என் அழிவை வாய்ப்பாகக் கொண்டு அவர்கள் எனக்கு விரோதமாக வந்தார்கள்.",
+     "anchor": "தாங்கள் கெடுத்த வழியில் புரண்டு வருகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.16",
+   "source_hash": "2e0dbf29",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.16#p1-2e0dbf29",
+     "text": "என் உயிர் ஓய்ந்துபோகிறது, நான் பாதி மரித்தவனைப்போல் இருக்கிறேன்.",
+     "anchor": "என்னில் சோர்ந்துபோனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.17",
+   "source_hash": "c699915d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.17#p1-c699915d",
+     "text": "துக்கத்தைக் குறிக்கிறது.",
+     "anchor": "என் எலும்புகள் துளைக்கப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.19",
+   "source_hash": "6e8326d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.19#p1-6e8326d6",
+     "text": "அதாவது, தேவன் என்னை அவமானத்திற்குள்ளாக்கினார்.",
+     "anchor": "சேற்றிலே தள்ளப்பட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.21",
+   "source_hash": "699ddcb3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.21#p1-699ddcb3",
+     "text": "தேவனைக் குற்றப்படுத்துவதற்காக அவர் இப்படிப் பேசவில்லை, மாறாக, தன் சிந்தையை மயக்கிப் போட்ட தன் உபத்திரவத்தின் கடுமையை வெளிப்படுத்துவதற்காகவே இப்படிப் பேசுகிறார்.",
+     "anchor": "கோபமுள்ளவராக மாறினீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.22",
+   "source_hash": "8947156d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.22#p1-8947156d",
+     "text": "அவன் தன் உபத்திரவங்களை ஒரு பெருங்காற்று அல்லது சுழல்காற்றுக்கு ஒப்பிடுகிறான்.",
+     "anchor": "காற்றிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.24",
+   "source_hash": "bb5695cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.24#p1-bb5695cc",
+     "text": "நான் மரணமடையும்போது அவர்கள் புலம்பினாலும், அங்கிருந்து என்னை யாரும் விடுவிக்க முடியாது.",
+     "anchor": "கல்லறைக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.26",
+   "source_hash": "02c7dfd2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.26#p1-02c7dfd2",
+     "text": "ஆறுதல் சொல்வதற்குப் பதிலாக அவர்கள் என்னைப் பரிகாசம் செய்தார்கள்.",
+     "anchor": "தீமை வந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.28",
+   "source_hash": "7754f6fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.28#p1-aa0b5eb1",
+     "text": "உலகத்தின் எந்த ஒரு பொருளிலும் மகிழ்ச்சி கொள்ளாமல், வெயிலைப் பயன்படுத்துவதிலும் கூட.",
+     "anchor": "வெயில் படாதிருந்தும்"
+    },
+    {
+     "id": "geneva/JOB.30.28#p2-39d55313",
+     "text": "துன்பத்தில் இருந்தவர்களுக்காக புலம்பி, மற்றவர்களையும் அவர்கள்மேல் இரக்கம் காட்டும்படி தூண்டுதல்.",
+     "anchor": "நான் சபையிலிருந்து எழுந்திருக்கும்போது அலறுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.29",
+   "source_hash": "aa090308",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.29#p1-aa090308",
+     "text": "தான்தனிமையான இடங்களை விரும்புகிற காட்டு மிருகங்களைப்போல நான் இருக்கிறேன்.",
+     "anchor": "தீக்கோழிகளுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.30.30",
+   "source_hash": "d59bced2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.30.30#p1-d59bced2",
+     "text": "உபத்திரவத்தின் வெப்பத்தினால்.",
+     "anchor": "வெப்பத்தினால்"
+    }
+   ]
+  }
+ ]
+}

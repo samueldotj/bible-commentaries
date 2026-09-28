@@ -1,0 +1,200 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.12.3",
+   "source_hash": "f91a96dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.3#p1-f91a96dc",
+     "text": "அவர்கள் தேவனுடைய தயவில் அப்படி ஸ்திரப்பட்டிருக்கிறார்கள், அவர்களுடைய வேர் எப்பொழுதும் செழிக்கும்.",
+     "anchor": "நீதிமான்களுடைய வேரோ அசையாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.6",
+   "source_hash": "6d7d63eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.6#p1-6d7d63eb",
+     "text": "அவர்களுடைய மனச்சாட்சி உத்தமமாக இருப்பதால், தங்களுடைய குற்றஞ்சாட்டுகிறவர்களுக்கு எதிராகத் தங்களுக்காகவே பேசக்கூடியவர்களாக இருப்பார்கள்.",
+     "anchor": "அவர்களைத் தப்புவிக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.9",
+   "source_hash": "e32bd1e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.9#p1-e32bd1e2",
+     "text": "அற்பமாக எண்ணப்பட்டும், தன் சொந்த வேலையினால் பிழைக்கும் ஏழை மனிதன்.",
+     "anchor": "பணிவிடைக்காரனுள்ளவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.10",
+   "source_hash": "3cdf9c1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.10#p1-3cdf9c1c",
+     "text": "தனக்கு சேவை செய்யும் மிருகத்திற்குக் கூட இரங்குகிறான்.",
+     "anchor": "தன்னுடைய மிருகஜீவன்களைக் காப்பாற்றுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.12",
+   "source_hash": "54fb73e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.12#p1-b5c457a9",
+     "text": "மற்றவர்களைத் தீங்கு செய்யும் வழிகளைத் தொடர்ந்து நினைத்துக்கொண்டிருக்கிறான்.",
+     "anchor": "கெட்டவர்களுடைய வலையை"
+    },
+    {
+     "id": "geneva/PRO.12.12#p2-ccd5d86b",
+     "text": "அதாவது, அவனுடைய உள்ளான இருதயம், நேரானதாயிருந்து, எல்லோருக்கும் நன்மை செய்யும்.",
+     "anchor": "நீதிமானுடைய வேர் கனி கொடுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.15",
+   "source_hash": "6193c464",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.15#p1-6193c464",
+     "text": "அவன் தன் சொந்த எண்ணத்திலே நிலைத்து நிற்கிறான், தன்னோடு ஒப்பிட்டு மற்ற எல்லோரையும் குற்றஞ்சுமத்துகிறான்.",
+     "anchor": "அவனுடைய பார்வைக்குச் செம்மையாக இருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.16",
+   "source_hash": "197fff13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.16#p1-197fff13",
+     "text": "தன் உணர்ச்சிகளைக் கட்டுப்படுத்துகிறவன்.",
+     "anchor": "அவமானத்தை மூடுகிறவனோ விவேகி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.18",
+   "source_hash": "bc1d2bed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.18#p1-bc1d2bed",
+     "text": "இவர்கள் மற்றவர்களுக்கு கோபமுண்டாக்குவதைத் தவிர வேறொன்றையும் நாடுகிறவர்களல்ல.",
+     "anchor": "பட்டயக்குத்துகள்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.25",
+   "source_hash": "bd5696fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.25#p1-bd5696fd",
+     "text": "அதாவது, ஆறுதலான வார்த்தைகள், அல்லது வார்த்தைகளால் வெளிப்படும் ஒரு மகிழ்ச்சியான மனது; ஒரு பொருளாசை மனது ஒருவனைக் கொல்வது போல, அது ஒருவனை மகிழ்ச்சியாக்குகிறது.",
+     "anchor": "நல்வார்த்தையோ அதை மகிழ்ச்சியாக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.26",
+   "source_hash": "f4df6630",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.26#p1-f4df6630",
+     "text": "அதாவது, கொடுக்கிறதில் அதிக தயாளமுள்ளவன்.",
+     "anchor": "தன்னுடைய அயலானைவிட மேன்மையுள்ளவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.12.27",
+   "source_hash": "7d8886ce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.12.27#p1-7d8886ce",
+     "text": "அவன் முறையற்ற வழியில் அதிகமாகப் பெற்றிருந்தாலும், அதைத் தனக்காகச் செலவழிக்க மாட்டான்.",
+     "anchor": "வேட்டையாடிப் பிடித்ததை"
+    }
+   ]
+  }
+ ]
+}

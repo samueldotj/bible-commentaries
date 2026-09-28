@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.24.1",
+   "source_hash": "d88dbb93",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.1#p1-1881d3cf",
+     "text": "இதற்குமுன் அவர்கள் பஞ்சத்தினால் வதைக்கப்பட்டிருந்தார்கள், 2 சாமுவேல் 21:1.",
+     "anchor": "திரும்ப யெகோவாவுடைய கோபம்"
+    },
+    {
+     "id": "geneva/2SA.24.1#p2-96d39109",
+     "text": "கர்த்தர் சாத்தானை அனுமதித்தார், 1 நாளாகமம் 21:2 இல் உள்ளதுபோல.",
+     "anchor": "தூண்டப்பட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.2",
+   "source_hash": "a60eeabd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.2#p1-a60eeabd",
+     "text": "அவன் தன் பலத்தை அறியவும் அதின்மேல் நம்பிக்கை வைக்கவும் இதைச் செய்ததால், அது தேவனுக்கு அதிருப்தியாயிருந்தது; இல்லையென்றால் மக்களைக் கணக்கெடுப்பது நியாயமானதே, யாத்திராகமம் 30:12, எண்ணாகமம் 1:2.",
+     "anchor": "மக்களைக் கணக்கெடுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.9",
+   "source_hash": "33199338",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.9#p1-416d4ec1",
+     "text": "யோவாபின் கணக்கின்படி: ஏனெனில் மொத்தமாக பதினொரு லட்சம்பேர்கள் இருந்தார்கள், 1 நாளாகமம் 21:5.",
+     "anchor": "பட்டயம் எடுக்கத்தக்க யுத்தவீரர்கள் 8,00,000 பேர்"
+    },
+    {
+     "id": "geneva/2SA.24.9#p2-be7598fc",
+     "text": "பென்யமீனியரையும் அவர்களுடன் சேர்த்துக்கொண்டு; இல்லையெனில் அவர்களுக்கு நான்குலட்சத்து எழுபதாயிரம்பேர்கள் மட்டுமே இருந்திருப்பார்கள்.",
+     "anchor": "5,00,000 பேர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.11",
+   "source_hash": "89a7fcb1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.11#p1-89a7fcb1",
+     "text": "தேவன் தாவீதுக்காகவும் அவனுடைய காலத்திற்காகவும் நியமித்தவன்.",
+     "anchor": "ஞானதிருஷ்டிக்காரனான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.13",
+   "source_hash": "646bdf41",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.13#p1-646bdf41",
+     "text": "கிபியோனியர்களுக்காக மூன்று வருடங்கள் பஞ்சம் கடந்துபோயிற்று, இது நான்காம் வருடம்; இதனுடன் இன்னும் மூன்று வருடங்கள் கூட்டப்பட வேண்டியிருந்தது, 1 நாளாகமம் 21:12.",
+     "anchor": "ஏழு வருடங்கள் பஞ்சம் வரவேண்டுமோ?"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.15",
+   "source_hash": "6c097823",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.15#p1-6c097823",
+     "text": "தேசத்தின் ஒரு பக்கத்திலிருந்து மற்றொரு பக்கம் வரை.",
+     "anchor": "தாண்முதல் பெயெர்செபாவரையுள்ள மக்களில் 70,000 பேர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.16",
+   "source_hash": "eaa897c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.16#p1-eaa897c3",
+     "text": "கர்த்தர் இந்த இடத்தைத் தம்முடைய ஆலயத்தைக் கட்ட தெரிந்துகொண்டிருந்தபடியால், இந்த இடத்தைத் தப்புவித்தார்.",
+     "anchor": "இப்போது உன்னுடைய கையை நிறுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.17",
+   "source_hash": "a6eef5fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.17#p1-a6eef5fb",
+     "text": "தேவன் மக்களைத் தண்டித்ததற்குரிய நியாயமான காரணத்தை தாவீது காணவில்லை; ஆகையால் இந்தத் தீங்குக்கு தானே காரணம் என்று, தேவனுடைய தண்டனைக்கு தன்னைத்தானே ஒப்புக்கொடுக்கிறான்.",
+     "anchor": "நான்தான் அக்கிரமம் செய்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.21",
+   "source_hash": "107e5371",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.21#p1-107e5371",
+     "text": "1 நாளாகமம் 21:20-ல் ஒர்னான் என்றும் அழைக்கப்படுகிறான்.",
+     "anchor": "அரவுனா சொன்னான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.23",
+   "source_hash": "a8054d6e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.23#p1-a8054d6e",
+     "text": "அதாவது, மிகுதியாக; ஏனெனில் சிலர் எழுதுகிறபடி, தாவீது கோட்டையைக் கைப்பற்றுவதற்கு முன்பே அவன் எருசலேமின் ராஜாவாக இருந்தான்.",
+     "anchor": "ஒரு ராஜாவைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.24.24",
+   "source_hash": "cf0f0ccf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.24.24#p1-cf0f0ccf",
+     "text": "சிலர் ஒவ்வொரு கோத்திரமும் 50 வீதம் கொடுத்தது, அதனால் மொத்தம் 600 ஆனது என்றும், அல்லது பின்பு அவன் 550 சேக்கல் மதிப்புள்ளதை வாங்கினான் என்றும் எழுதுகிறார்கள்.",
+     "anchor": "ஐம்பது சேக்கல் நிறைவெள்ளி"
+    }
+   ]
+  }
+ ]
+}

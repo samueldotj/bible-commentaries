@@ -1,0 +1,176 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EST.2.1",
+   "source_hash": "45f8acad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.1#p1-f92024f6",
+     "text": "அதாவது, அவன் அந்த விஷயத்தை மறுபடியும் ஆலோசனைக்குக் கொண்டுவந்தான்.",
+     "anchor": "வஸ்தியையும்... நினைத்தான்"
+    },
+    {
+     "id": "geneva/EST.2.1#p2-8ffefecf",
+     "text": "அவனுடைய ஆலோசனைக்குரிய ஏழு ஞானவான்களினால்.",
+     "anchor": "அவளைக்குறித்துத் தீர்மானிக்கப்பட்டதையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.11",
+   "source_hash": "a78e7d1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.11#p1-a78e7d1c",
+     "text": "அவள் ஒரு கடுமையான நியாயப்பிரமாணத்தினால் கொண்டுசெல்லப்பட்டிருந்தபோதிலும், அவனோ அவளைப் பற்றிய தகப்பன் அன்பான கவலையை நிறுத்தாமல் இருந்தான்; ஆகையால் அவளுடைய செய்தியை அடிக்கடி அறிய முயற்சித்தான்.",
+     "anchor": "தினந்தோறும்...முற்றத்திற்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.13",
+   "source_hash": "00582a46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.13#p1-00582a46",
+     "text": "அவள் எதைக் கேட்டாலும், அந்த அலங்கார ஆடைகளை அவளுக்குக் கொடுக்க அந்தப் பிரதானி கடமைப்பட்டிருந்தான்.",
+     "anchor": "தனக்கு வேண்டுமென்று கேட்பவைகளை எல்லாம் அவளுக்குக் கொடுக்கப்படும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.15",
+   "source_hash": "34bfe87e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.15#p1-34bfe87e",
+     "text": "இதில் அவளுடைய அடக்கம் காணப்பட்டது, ஏனெனில் தன் அழகை மேலும் அலங்கரிக்க அவள் விரும்பாமல், அதிகாரி நியமித்த காரியத்தையே நாடினாள்.",
+     "anchor": "நியமித்த காரியத்தைத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.16",
+   "source_hash": "f9bb3f72",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.16#p1-f9bb3f72",
+     "text": "இது டிசம்பர் மாதத்தின் ஒரு பகுதியையும் ஜனவரி மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியிருந்தது.",
+     "anchor": "தேபேத் மாதமாகிய பத்தாம் மாதத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.18",
+   "source_hash": "c1da2d59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.18#p1-e22c32d2",
+     "text": "அதாவது, அவளுக்காகச் செய்யப்பட்டது.",
+     "anchor": "விருந்து"
+    },
+    {
+     "id": "geneva/EST.2.18#p2-ec801e00",
+     "text": "அவர்களுடைய வரியை அவன் விலக்கினான்.",
+     "anchor": "நாடுகளுக்கும்"
+    },
+    {
+     "id": "geneva/EST.2.18#p3-65a316b7",
+     "text": "அதாவது, பெரிதும் மகிமையானதும்.",
+     "anchor": "கொடைத்தன்மைக்கு ஏற்றவாறு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.19",
+   "source_hash": "0d4a2a13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.19#p1-0d4a2a13",
+     "text": "அதாவது, எஸ்தரின் விவாகம் நடந்தபோது, இது ராஜாவுக்கு இரண்டாம் விவாகமாக இருந்தது.",
+     "anchor": "இரண்டாம்முறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.21",
+   "source_hash": "6b87291c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.21#p1-6b87291c",
+     "text": "அதாவது, அவனைக் கொலைசெய்ய.",
+     "anchor": "தீங்குசெய்ய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.2.23",
+   "source_hash": "d923f6f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.2.23#p1-d923f6f2",
+     "text": "மேதியா பெர்சியரின் நாளாகம புத்தகத்திலே, எஸ்தர் 10:2.",
+     "anchor": "ராஜ சமுகத்திலே நாளாகமப்புத்தகத்திலே எழுதப்பட்டிருக்கிறது"
+    }
+   ]
+  }
+ ]
+}

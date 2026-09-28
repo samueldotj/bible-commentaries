@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "RUT",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/RUT.4.1",
+   "source_hash": "46921e6e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.1#p1-92c00eb5",
+     "text": "அது நியாயத்தீர்ப்புக் கொடுக்கும் இடமாக இருந்தது.",
+     "anchor": "பட்டணவாசலில்"
+    },
+    {
+     "id": "geneva/RUT.4.1#p2-8b3c17b6",
+     "text": "எபிரெயர்கள் இங்கே பொருள் தராத இரண்டு வார்த்தைகளைப் பயன்படுத்துகிறார்கள்; அவை ஒரு குறிப்பிட்ட நபரைச் சுட்டிக் காட்ட மட்டும் உதவுகின்றன, நாம் \"ஓ, இப்படிப்பட்டவரே\" என்று சொல்வது போல.",
+     "anchor": "ஓ அண்ணே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.4",
+   "source_hash": "69bbafe6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.4#p1-69bbafe6",
+     "text": "ஏனெனில் நீரே அருகிலுள்ள உறவினர்.",
+     "anchor": "உம்மையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.5",
+   "source_hash": "b1c663b1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.5#p1-b1c663b1",
+     "text": "மரித்தவனுடைய சுதந்தரம் அவனுடைய பெயரைச் சுமக்கும்படிக்கு.",
+     "anchor": "சுதந்தரத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.7",
+   "source_hash": "9770906e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.7#p1-9770906e",
+     "text": "அவன் தன்னுடைய உரிமையைத் துறந்துவிட்டான் என்பதற்கு, உபாகமம் 25:9.",
+     "anchor": "இஸ்ரவேலிலே வழக்கமாக இருந்த உறுதிப்பாடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.10",
+   "source_hash": "5da6e9bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.10#p1-5da6e9bc",
+     "text": "அல்லது, அவன் தங்கியிருந்த ஊரிலிருந்து.",
+     "anchor": "ஊரார்களுக்குள்ளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.11",
+   "source_hash": "db6f710e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.11#p1-db6f710e",
+     "text": "எப்பிராத்தா என்பதும் பெத்லெகேம் என்பதும் ஒன்றே.",
+     "anchor": "எப்பிராத்தாவிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.14",
+   "source_hash": "174eccb7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.14#p1-174eccb7",
+     "text": "அவனுக்குத் தொடர்ச்சியான சந்ததி இருக்கும்.",
+     "anchor": "அவனுடைய பெயர் இஸ்ரவேலிலே பிரபலமாகக்கடவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.15",
+   "source_hash": "028baae3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.15#p1-028baae3",
+     "text": "அதாவது, அநேக மகன்கள்.",
+     "anchor": "ஏழு மகன்களைப்பார்க்கிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.4.18",
+   "source_hash": "6d971d2e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.4.18#p1-6d971d2e",
+     "text": "தாவீது வரிசைமுறையாக யூதாவின் வம்சத்திலிருந்து வந்தான் என்பதை நிரூபிக்கும்படி இந்த வம்ச வரலாறு கொடுக்கப்பட்டிருக்கிறது.",
+     "anchor": "பேரேசுடைய சந்ததியின் வரலாறு"
+    }
+   ]
+  }
+ ]
+}

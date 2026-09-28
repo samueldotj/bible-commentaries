@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.7.1",
+   "source_hash": "b2470e8c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.1#p1-b2470e8c",
+     "text": "என் நாமத்தில் பேசவும், அவன்மேல் என் நியாயத்தீர்ப்புகளை நிறைவேற்றவும் நான் உனக்குப் பலமும் அதிகாரமும் கொடுத்திருக்கிறேன்.",
+     "anchor": "பார்வோனுக்கு தேவனாக்கினேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.4",
+   "source_hash": "0d307c39",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.4#p1-0d307c39",
+     "text": "மோசேயின் விசுவாசத்தை பலப்படுத்துவதற்காக, தம்முடைய சபையின்மேல் விழுந்த ஒடுக்குதலை மிகக் கடுமையாகத் தண்டிப்பேன் என்று தேவன் மீண்டும் வாக்குத்தத்தம் செய்கிறார்.",
+     "anchor": "கொடிய தண்டனையினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.7",
+   "source_hash": "ca09038a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.7#p1-ca09038a",
+     "text": "தேவனுடைய மக்களை விடுவிக்கும் பணியை நடத்துமுன், மோசே நாற்பது வருடங்கள் துன்பத்திலும் நாடுகடத்தலிலும் வாழ்ந்தார்.",
+     "anchor": "எண்பது வயதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.11",
+   "source_hash": "2dd4caa0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.11#p1-2dd4caa0",
+     "text": "இவர்கள் யந்நேயும் யம்பிரேயும் ஆயிருக்கலாம்; 2 தீமோத்தேயு 3:8; இப்படியே துன்மார்க்கர் தேவனுடைய சத்தியத்தை வைராக்கியமாக எதிர்த்து நிற்கிறார்கள்.",
+     "anchor": "சூனியக்காரர்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.15",
+   "source_hash": "a6986475",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.15#p1-a6986475",
+     "text": "அதாவது, நைல் நதி.",
+     "anchor": "நதியோரத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.21",
+   "source_hash": "beea51a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.21#p1-beea51a1",
+     "text": "இது ஒரு உண்மையான அற்புதம் என்று காண்பிக்கும்படி, உயிரைப் பாதுகாத்துக்கொள்வதற்கு மிகவும் அவசியமான காரியத்தில் தேவன் அவர்களைத் தண்டித்தார்.",
+     "anchor": "நதியின் மீன்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.7.22",
+   "source_hash": "f5330930",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.7.22#p1-f5330930",
+     "text": "வெளித்தோற்றத்தில், ஏழு நாட்கள் முடிந்தபின்.",
+     "anchor": "தங்கள் மந்திரவித்தையினால் அப்படிச் செய்தார்கள்"
+    }
+   ]
+  }
+ ]
+}

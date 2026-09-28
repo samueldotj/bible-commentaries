@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 36,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.36.1",
+   "source_hash": "bce019ca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.1#p1-bce019ca",
+     "text": "பரிசுத்த ஸ்தலம் என்பதால் அவர் ஆசரிப்புக்கூடாரம் முழுவதையும் குறிக்கிறார்.",
+     "anchor": "பரிசுத்த ஸ்தலத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.3",
+   "source_hash": "60686205",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.3#p1-60686205",
+     "text": "இஸ்ரவேலரைக் குறிக்கிறது.",
+     "anchor": "மக்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.5",
+   "source_hash": "69c5c954",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.5#p1-69c5c954",
+     "text": "மக்கள் தங்களுடைய பொருள்களைக்கொண்டு தேவனுக்கு ஊழியம் செய்ய இவ்வளவு ஆயத்தமாயிருந்தார்கள் என்று காண்பது ஒரு அரிதான, குறிப்பிடத்தக்க முன்மாதிரி.",
+     "anchor": "வேலைக்கு வேண்டியதற்கு அதிகமான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.8",
+   "source_hash": "9afd4b10",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.8#p1-9afd4b10",
+     "text": "இவை சிறுபிள்ளைகளின் உருவத்தில் சிறகுகளுடன் இருந்த சிறு உருவங்கள்.",
+     "anchor": "வித்தியாசமான நெசவுவேலையாகிய கேருபீன்களுள்ள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.19",
+   "source_hash": "7761437e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.19#p1-7761437e",
+     "text": "இவ்விரண்டும் வெள்ளாட்டு மயிரினால் செய்யப்பட்ட மூடிக்கு மேலாக இருந்தது.",
+     "anchor": "கூடாரத்திற்கு ஒரு மூடியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.20",
+   "source_hash": "417a98af",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.20#p1-417a98af",
+     "text": "ஆசரிப்புக்கூடாரத்தின் திரைகளைத் தாங்குவதற்காக.",
+     "anchor": "நிமிர்ந்துநிற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.27",
+   "source_hash": "fee5957c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.27#p1-fee5957c",
+     "text": "அல்லது, மத்திய தரைக்கடலை நோக்கி, எருசலேமுக்கு மேற்கே,",
+     "anchor": "மேற்கு பக்கத்திற்கு ஆறு பலகைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.35",
+   "source_hash": "ce1a1cc6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.35#p1-ce1a1cc6",
+     "text": "இது பரிசுத்த ஸ்தலத்திற்கும் மகா பரிசுத்த ஸ்தலத்திற்கும் நடுவே இருந்தது.",
+     "anchor": "இளநீலநூலாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.36.37",
+   "source_hash": "2baa8d0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.36.37#p1-2baa8d0b",
+     "text": "இது முற்றத்திற்கும் பரிசுத்த ஸ்தலத்திற்கும் நடுவே இருந்தது.",
+     "anchor": "கூடாரவாசலுக்கு... தொங்கு திரையை"
+    }
+   ]
+  }
+ ]
+}

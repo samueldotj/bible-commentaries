@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.20.3",
+   "source_hash": "392e67cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.3#p1-392e67cc",
+     "text": "தெரியாமலும் வைரம் இல்லாமலும் செய்தவன்.",
+     "anchor": "தப்பிப்போய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.5",
+   "source_hash": "562c6c55",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.5#p1-562c6c55",
+     "text": "அதாவது, கொலையுண்டவனுடைய அருகிலுள்ள உறவினன்.",
+     "anchor": "பழிவாங்குகிறவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.6",
+   "source_hash": "9d73ef51",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.6#p1-9d73ef51",
+     "text": "அவனுடைய காரியம் நிரூபிக்கப்படும்வரைக்கும்.",
+     "anchor": "நியாயம் விசாரிக்கும் சபைக்கு முன்பாக அவன் நிற்கும்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.8",
+   "source_hash": "7bfdf89e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.8#p1-7bfdf89e",
+     "text": "யோர்தானுக்கு அக்கரையிலிருக்கும் மனாசேயின் பாதிக் கோத்திரத்திலிருந்து.",
+     "anchor": "மனாசே கோத்திரத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.20.9",
+   "source_hash": "f7fce0c7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.20.9#p1-f7fce0c7",
+     "text": "நியாயாதிபதிகளுக்கு முன்பாக.",
+     "anchor": "சபைக்கு முன்பாக"
+    }
+   ]
+  }
+ ]
+}

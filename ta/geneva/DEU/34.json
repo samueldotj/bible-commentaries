@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 34,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.34.1",
+   "source_hash": "a84726bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.1#p1-a84726bc",
+     "text": "இது அபாரீம் மலையின் ஒரு பகுதியாக இருந்தது, எண்ணாகமம் 27:12.",
+     "anchor": "நேபோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.2",
+   "source_hash": "4bc36013",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.2#p1-4bc36013",
+     "text": "மத்திய தரை சமுத்திரம் என்று அழைக்கப்படுகிறது.",
+     "anchor": "மத்திய தரை சமுத்திரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.6",
+   "source_hash": "1e1b97fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.6#p1-5c7bb228",
+     "text": "அதாவது, கர்த்தருடைய தூதனானவர், யூதா 1:9.",
+     "anchor": "அவனை அடக்கம் செய்தார்"
+    },
+    {
+     "id": "geneva/DEU.34.6#p2-123a1c9a",
+     "text": "யூதர்கள் அதின் மூலமாக விக்கிரக ஆராதனை செய்வதற்கு வாய்ப்பு கிடைக்காதபடிக்கே.",
+     "anchor": "இந்நாள்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.9",
+   "source_hash": "826b8dda",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.9#p1-826b8dda",
+     "text": "தேவன் தம்முடைய சபையை ஒரு தலைவன் இல்லாமல் விட்டுவைக்கவில்லை என்பதினால் அவருடைய கிருபை இதனால் வெளிப்படுத்தப்படுகிறது.",
+     "anchor": "நூனின் மகனாகிய யோசுவாவின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.10",
+   "source_hash": "7452f076",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.10#p1-7452f076",
+     "text": "யாத். 33:11-ல் இருக்கிறபடி, கர்த்தர் இவ்வளவு தெளிவாக வெளிப்படுத்தினவர் யார் என்பதைக் குறிக்கும்.",
+     "anchor": "முகமுகமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.34.12",
+   "source_hash": "5c8660bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.34.12#p1-5c8660bd",
+     "text": "அதாவது, வனாந்தரத்தில் மோசேயின் மூலமாக செயல்பட்ட தேவனுடைய வல்லமையைக் குறிக்கிறது.",
+     "anchor": "கை"
+    }
+   ]
+  }
+ ]
+}

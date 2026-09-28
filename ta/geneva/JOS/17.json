@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 17,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.17.2",
+   "source_hash": "b36e0f37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.2#p1-b36e0f37",
+     "text": "ஏனெனில் மற்ற பாதிக் கோத்திரத்தாருக்கு யோர்தானுக்கு அப்பாலே அவர்களுடைய பங்கு கொடுக்கப்பட்டிருந்தது.",
+     "anchor": "மனாசேயினுடைய மற்ற மகன்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.4",
+   "source_hash": "7e7d0960",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.4#p1-7e7d0960",
+     "text": "எங்களுடைய கோத்திரத்தார்களுக்கு நடுவே.",
+     "anchor": "சகோதரர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.5",
+   "source_hash": "96fe2590",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.5#p1-96fe2590",
+     "text": "கானான் தேசத்தில்: ஐந்து பங்குகள் ஆண்மக்களுக்கும், மற்ற ஐந்து பங்குகள் செலொப்பியாத்தின் மகள்களுக்கும்.",
+     "anchor": "மனாசேக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.8",
+   "source_hash": "4fecb721",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.8#p1-4fecb721",
+     "text": "அதாவது, அந்தப் பட்டணமே.",
+     "anchor": "மனாசேயின் எல்லையோடு இருக்கிற தப்புவாவோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.9",
+   "source_hash": "74dfb127",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.9#p1-74dfb127",
+     "text": "அதாவது, பெருங்கடலின் திசையாக.",
+     "anchor": "கடலில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.10",
+   "source_hash": "14094c49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.10#p1-14094c49",
+     "text": "ஆசேர் கோத்திரத்திலும், இசக்கார் கோத்திரத்திலும்.",
+     "anchor": "வடக்கே ஆசேரையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.12",
+   "source_hash": "f7382e9c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.12#p1-f7382e9c",
+     "text": "முதலில் அவர்களுக்குத் துணிவு இல்லாதிருந்தது, பின்பு தேவனுடைய கற்பனைக்கு விரோதமாக ஒரு உடன்படிக்கை செய்துகொண்டு, அவர்களோடு சேர்ந்துகொண்டார்கள்.",
+     "anchor": "துரத்திவிட முடியாமல்போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.14",
+   "source_hash": "ff8e232d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.14#p1-ff8e232d",
+     "text": "என் தகப்பனாகிய யாக்கோபு சொன்ன தீர்க்கதரிசனத்தின்படியே, ஆதி. 48:19.",
+     "anchor": "ஆசீர்வதித்து வந்ததினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.15",
+   "source_hash": "39a279f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.15#p1-39a279f7",
+     "text": "இந்த மலை உங்களுக்குப் போதுமானதாக இல்லையானால், தேவன் கட்டளையிட்டபடி அவருடைய எதிரிகளை அழித்து, ஏன் மேலும் இடத்தைப் பெற்றுக்கொள்ளவில்லை.",
+     "anchor": "எப்பிராயீம் மலைகள் உங்களுக்கு நெருக்கமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.17.18",
+   "source_hash": "b72775fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.17.18#p1-b72775fe",
+     "text": "இதனால் நீங்கள் உங்களுடைய பங்கை பெருகச்செய்வீர்கள்.",
+     "anchor": "நீங்கள் அவர்களைத் துரத்திவிடுவீர்கள்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 27,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.27.1",
+   "source_hash": "07bbd5a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.1#p1-07bbd5a0",
+     "text": "தாவீது தேவனுடைய பாதுகாப்பை நம்பாமல், தேவனுடைய மக்களுக்குப் பகைவர்களாகிய விக்கிரக ஆராதனை செய்பவர்களிடம் ஓடிப்போகிறான்.",
+     "anchor": "சவுலின் கையினால் அழிந்து போவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.3",
+   "source_hash": "364243fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.3#p1-364243fc",
+     "text": "இவ்விதமாக தேவன் தமது பராமரிப்பினாலே பகைவரின் இருதயங்களை மாற்றி, அவரவர் தேவைப்படும் காலத்தில் தம்முடையவர்கள்மேல் தயவு காட்டச்செய்கிறார்.",
+     "anchor": "காத் பட்டணத்தில் ஆகீசிடத்தில் தங்கியிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.5",
+   "source_hash": "30af3dcb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.5#p1-30af3dcb",
+     "text": "உம்முடைய அதிகாரிகள் எனக்கு ஒரு இடத்தை நியமிக்கக்கடவர்கள்.",
+     "anchor": "எனக்கு இடம் தாரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.8",
+   "source_hash": "05438040",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.8#p1-05438040",
+     "text": "இவர்கள் தேவன் அழிக்கும்படி நியமித்திருந்த துன்மார்க்கமான கானானியராயிருந்தார்கள்.",
+     "anchor": "கெசூரியர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.27.10",
+   "source_hash": "ccb27eb2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.27.10#p1-ccb27eb2",
+     "text": "யூதா கோத்திரத்தைச் சேர்ந்த ஒரு வம்சம், 1 நாளாகமம் 2:9.",
+     "anchor": "யெராமியேலர்களுடைய"
+    }
+   ]
+  }
+ ]
+}

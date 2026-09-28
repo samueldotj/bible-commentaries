@@ -1,0 +1,69 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 25,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.25.3",
+   "source_hash": "c746d26a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.3#p1-8d5020d8",
+     "text": "இவர்களில் ஒருவர் இங்கே எண்ணப்படவில்லை.",
+     "anchor": "ஆறுபேரும்"
+    },
+    {
+     "id": "geneva/1CH.25.3#p2-a8d1470b",
+     "text": "அதாவது, தேவனைத் துதிக்கும் சங்கீதங்களை அர்த்தப்படுத்துகிறது.",
+     "anchor": "சுரமண்டலங்களை வாசிக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.25.8",
+   "source_hash": "64deb587",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.8#p1-bcd3e8a0",
+     "text": "ஒவ்வொரு பிரிவிலும் வகுப்பிலும் யார் இருக்க வேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "முறைவரிசைக்காக"
+    },
+    {
+     "id": "geneva/1CH.25.8#p2-19be12ef",
+     "text": "வயதையோ திறமையையோ கவனிக்காமல்.",
+     "anchor": "சிறியவனும் பெரியவனும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.25.9",
+   "source_hash": "dd0f733c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.25.9#p1-dd0f733c",
+     "text": "இவ்வாறு அவன் முதலாவது முறையிலே ஊழியம் செய்தான், மற்றவர்கள் ஒவ்வொருவரும் தங்கள் முறை வரிசையாக வந்தபடி ஊழியம் செய்தார்கள்.",
+     "anchor": "யோசேப்பின்"
+    }
+   ]
+  }
+ ]
+}

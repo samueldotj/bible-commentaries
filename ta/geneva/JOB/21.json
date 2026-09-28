@@ -1,0 +1,336 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.21.2",
+   "source_hash": "10c169ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.2#p1-10c169ff",
+     "text": "நீங்கள் என் வார்த்தைகளைக் கவனமாகக் கேட்பதே எனக்குப் பெரிய ஆறுதலாக இருக்கும்.",
+     "anchor": "ஆறுதல் செய்வதுபோல இருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.4",
+   "source_hash": "d34ec25b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.4#p1-d34ec25b",
+     "text": "அவன் சொல்லுவது போலிருக்கிறது: நான் மனிதனுடன் அல்ல, தேவனுடன் பேசுகிறேன், அவர் எனக்கு பதில் தரமாட்டார், ஆகையால் என் மனது வேதனைப்படுவது நிச்சயம்.",
+     "anchor": "அப்படியானாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.5",
+   "source_hash": "3fe115b1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.5#p1-3fe115b1",
+     "text": "தேவனுடைய நியாயத்தீர்ப்பைக் குறித்த தன் அனுபவத்தை அவர்கள் உணர்ந்துகொள்ளும் திறனற்றவர்களென்று அவர் அவர்களைக் குற்றஞ்சாட்டி, அதனால் அவர்களை மவுனமாயிருக்கும்படி எச்சரிக்கிறார்.",
+     "anchor": "வாயை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.7",
+   "source_hash": "cfe35ddc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.7#p1-cfe35ddc",
+     "text": "யோபு தன் விரோதிகளுக்கு எதிராக நிரூபிக்கிறார், தேவன் துன்மார்க்கரை உடனடியாகத் தண்டிக்கவில்லை, மாறாக அவர்களுக்கு நீண்ட நாட்களையும் செல்வத்தையும் அடிக்கடி கொடுக்கிறார் என்று; ஆகவே நமது கண்களுக்குத் தோன்றுகிறவற்றைக் கொண்டு தேவனை நீதியுள்ளவரென்றோ அநீதியுள்ளவரென்றோ நாம் தீர்மானிக்கக்கூடாது.",
+     "anchor": "உயிருடனிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.11",
+   "source_hash": "06a299b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.11#p1-06a299b6",
+     "text": "அவர்களுக்கு ஆரோக்கியமான பிள்ளைகள் உண்டு, இந்தக் காரியங்களில் சோப்பார் முன்பு சொன்னதற்கு அவன் இங்கே பதில் சொல்லுகிறான்.",
+     "anchor": "ஒரு மந்தையைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.13",
+   "source_hash": "1493eb37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.13#p1-1493eb37",
+     "text": "நீண்ட நோயினால் வாதிக்கப்படாமல்.",
+     "anchor": "பாதாளத்தில் இறங்குகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.14",
+   "source_hash": "dc0772cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.14#p1-dc0772cc",
+     "text": "தேவனுக்குச் செலுத்தவேண்டிய கீழ்ப்படிதலிலிருந்து முழுவதுமாக விலகியிருப்பதைத் தவிர வேறொன்றையும் அவர்கள் விரும்புகிறதில்லை; இவ்விதமாக யோபு தன் விரோதிகளுக்குக் காண்பிக்கிறார், பொது அனுபவத்தால் காணப்படுவதைமட்டும் வைத்து ஆராய்ந்தால், தேவனை வெறுக்கும் துன்மார்க்கருக்கு, அவரிடத்தில் அன்புவைத்திருக்கிறவர்களைவிட நலமாக நடத்தப்படுகிறது என்பதைத்தான்.",
+     "anchor": "உம்முடைய வழிகளை அறிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.16",
+   "source_hash": "ebfaed98",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.16#p1-807a7d50",
+     "text": "அது அவர்களுடையது அல்ல, தேவனே அதை அவர்களுக்குக் கடனாகக் கொடுத்திருக்கிறார்.",
+     "anchor": "கையிலிருக்காது"
+    },
+    {
+     "id": "geneva/JOB.21.16#p2-dc675f28",
+     "text": "தேவன் என்னை அவர்களுடைய செல்வவளத்திலிருந்து காக்கவேண்டும்.",
+     "anchor": "எனக்குத் தூரமாயிருப்பதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.20",
+   "source_hash": "c243bd9d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.20#p1-c243bd9d",
+     "text": "தேவன் அவனுடைய துன்மார்க்கத்திற்குத் தக்கதாகச் செய்யும்போது, தன் செல்வவளம் வீணென்று அவன் அறிந்துகொள்வான்.",
+     "anchor": "அவனுடைய அழிவை அவனுடைய கண்கள் காணும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.22",
+   "source_hash": "ac58975d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.22#p1-ac58975d",
+     "text": "துன்மார்க்கருக்குச் செழிப்பை அனுப்பி, தேவபக்தியுள்ளவர்களைத் தண்டிக்கிறவர்.",
+     "anchor": "தேவனுக்கு அறிவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.23",
+   "source_hash": "4a1f8810",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.23#p1-4a1f8810",
+     "text": "அதாவது, துன்மார்க்கன்.",
+     "anchor": "குறையற்ற பெலனுள்ளவனாய் இறக்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.25",
+   "source_hash": "79881256",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.25#p1-79881256",
+     "text": "அதாவது, தேவபக்தியுள்ளவன்.",
+     "anchor": "மனவேதனையுடன் இறக்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.26",
+   "source_hash": "b605a437",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.26#p1-b605a437",
+     "text": "அவர்களுடைய சரீரங்களைப் பொறுத்தமட்டில். இதை அவர் பொதுவான நியாயத்தீர்ப்பின்படியே சொல்லுகிறார்.",
+     "anchor": "மண்ணிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.28",
+   "source_hash": "3669330b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.28#p1-3669330b",
+     "text": "இவ்வாறு அவர்கள் யோபுவின் வீட்டை ஏளனமாகக் குறிப்பிட்டு, அவன் துன்மார்க்கனாக இருந்ததால் அது அழிந்துபோனது என்று முடிவு செய்தார்கள்.",
+     "anchor": "பிரபுவின் வீடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.29",
+   "source_hash": "d225dd92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.29#p1-d225dd92",
+     "text": "நீண்ட காலம் பயணம் செய்தபடியால், அதாவது துன்மார்க்கர் செழிக்கிறார்கள் என்றும், தேவபக்தியுள்ளோர் துன்பத்தில் வாழுகிறார்கள் என்றும் அறிந்திருக்கிற அனுபவமும் அடையாளங்களும் உள்ளவர்கள்.",
+     "anchor": "வழியிலே நடந்து போகிறவர்களை நீங்கள் கேட்கவில்லையா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.30",
+   "source_hash": "750d247f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.30#p1-750d247f",
+     "text": "துன்மார்க்கன் இங்கே செழிப்படைந்தாலும், தேவன் அவனைக் கடைசிநாளில் தண்டிப்பார்.",
+     "anchor": "ஆபத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.31",
+   "source_hash": "497f0ac2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.31#p1-497f0ac2",
+     "text": "மனிதர் அவனுக்கு முகஸ்துதி செய்தாலும், இந்த உலகத்தில் ஒருவரும் அவனைக் கடிந்துகொள்ளத் துணியாவிட்டாலும், மரணமே அவனை கணக்குக் கேட்பதற்குக் கொண்டுவரும் அடையாளமாக இருக்கும்.",
+     "anchor": "முகத்திற்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.33",
+   "source_hash": "d61a2e3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.33#p1-d61a2e3d",
+     "text": "முன்பொருகாலத்தில் ஒரு அரச மாளிகையினாலும் திருப்தியடையாதிருந்தவன், இப்பொழுது ஒரு சேற்று மண்குழியில் கிடப்பதைக் குறித்து சந்தோஷப்படுவான்.",
+     "anchor": "பள்ளத்தாக்கின் புழுதி மண்கள் அவனுக்கு இன்பமாயிருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.21.34",
+   "source_hash": "a62b46fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.21.34#p1-a62b46fe",
+     "text": "நீதிமான்கள் இவ்வுலகில் செழிப்பையும், துன்மார்க்கர் ஆபத்தையும் அடைவார்கள் என்று சொல்லுகிறது.",
+     "anchor": "நீங்கள் வீணாக எனக்கு ஆறுதலை சொல்லுகிறது"
+    }
+   ]
+  }
+ ]
+}

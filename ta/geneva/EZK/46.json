@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 46,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.46.5",
+   "source_hash": "8657686d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.5#p1-8657686d",
+     "text": "அதாவது, அவனுக்கு எவ்வளவு இயலுமோ அவ்வளவு.",
+     "anchor": "தன்னுடைய திராணிக்குத்தகுந்ததாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.7",
+   "source_hash": "d8396392",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.7#p1-d8396392",
+     "text": "அதாவது, அவன் நலமெனத் தோன்றுகிறபடி.",
+     "anchor": "தன்னுடைய திராணிக்குத்தகுந்ததாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.17",
+   "source_hash": "c3265a23",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.17#p1-c3265a23",
+     "text": "இது யூபிலி வருடத்தில் நடந்தது, லேவி. 25:9.",
+     "anchor": "விடுதலையின் வருடம்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.18",
+   "source_hash": "ea418084",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.18#p1-ea418084",
+     "text": "மாறாக, தேவன் தனக்கு நியமித்த பங்கைக்கொண்டே திருப்தியடைய வேண்டும், எசேக்கியேல் 45:8-ல் இருக்கிறபடி.",
+     "anchor": "மக்களின் சொந்தமானதற்கு அவர்களைப் வெளியாக்கி, அவர்களுடைய சொத்திலிருந்து ஒன்றும் எடுக்கக்கூடாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.46.20",
+   "source_hash": "4154101c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.46.20#p1-4154101c",
+     "text": "கர்த்தருக்குச் சொந்தமான இவைகளை மக்கள் கையாளும்படியாகவும், தாங்கள் இவைகளைச் சாப்பிடுவது நியாயமென்று எண்ணும்படியாகவும் இருக்கக்கூடாது என்பதாம்.",
+     "anchor": "மக்களைப் பரிசுத்தம்செய்யாதபடி"
+    }
+   ]
+  }
+ ]
+}

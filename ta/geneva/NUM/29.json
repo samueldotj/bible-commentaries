@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.29.1",
+   "source_hash": "3e1173de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.1#p1-3e1173de",
+     "text": "இது செப்டம்பர் மாதத்தின் ஒரு பகுதியையும், அக்டோபர் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "ஏழாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.6",
+   "source_hash": "f8ba965c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.6#p1-b8074d5b",
+     "text": "இது ஒவ்வொரு மாதத்தின் ஆரம்பத்திலும் செலுத்தப்பட வேண்டியது.",
+     "anchor": "மாதப்பிறப்பின்"
+    },
+    {
+     "id": "geneva/NUM.29.6#p2-b17845aa",
+     "text": "இது காலையிலும் மாலையிலும் செலுத்தப்படுகிறது.",
+     "anchor": "தினந்தோறும் செலுத்தும் சர்வாங்கதகனபலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.7",
+   "source_hash": "fafb4670",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.7#p1-fafb4670",
+     "text": "இது ஒப்புரவாக்குதலின் பண்டிகையாகும்.",
+     "anchor": "பரிசுத்த சபைகூடும் நாளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.11",
+   "source_hash": "5288cb22",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.11#p1-5288cb22",
+     "text": "அதாவது, தினந்தோறும் காலையிலும் மாலையிலும் செலுத்தப்படும்.",
+     "anchor": "நிரந்தர சர்வாங்கதகனபலியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.12",
+   "source_hash": "62d2aac7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.12#p1-62d2aac7",
+     "text": "அதாவது, ஆசரிப்புக்கூடாரப் பண்டிகையாகும்.",
+     "anchor": "பரிசுத்த சபைகூடும் நாளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.21",
+   "source_hash": "819e30f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.21#p1-819e30f1",
+     "text": "அதற்கு நியமிக்கப்பட்ட சடங்குகளின்படி.",
+     "anchor": "முறைமையின்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.29.39",
+   "source_hash": "1ea3faf0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.29.39#p1-1ea3faf0",
+     "text": "நீங்கள் மனதின் விருப்பத்தினால் பொருத்தனைச்செய்து செலுத்தும் அல்லது படைக்கும் பலிகளையன்றி.",
+     "anchor": "பொருத்தனைகளையும்"
+    }
+   ]
+  }
+ ]
+}

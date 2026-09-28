@@ -1,0 +1,81 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 98,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.98.1",
+   "source_hash": "1fe46f5f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.1#p1-568b92ea",
+     "text": "அதாவது, கிறிஸ்துவினால் அவர்களுக்கு உண்டான அதிசயமான விடுதலைக்கு அடையாளமாகப் புதிதாக இயற்றப்பட்ட ஒரு பாட்டு.",
+     "anchor": "புதுப்பாட்டை"
+    },
+    {
+     "id": "geneva/PSA.98.1#p2-65dae2b6",
+     "text": "அவர் தமது சபையை அதிசயமான விதத்தில் காக்கிறார்.",
+     "anchor": "கரமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.2",
+   "source_hash": "5154e028",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.2#p1-5154e028",
+     "text": "தமது சபையின் விடுதலைக்காக.",
+     "anchor": "இரட்சிப்பை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.3",
+   "source_hash": "0eecfac1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.3#p1-0eecfac1",
+     "text": "தேவன் யூதர்களிடமிருந்தும் யூதரல்லாத மக்களிடமிருந்தும் தமது சபையைச் சேர்க்க வேறெந்த காரணத்தினாலும் தூண்டப்படவில்லை, மாறாக தமது வாக்குத்தத்தத்தை நிறைவேற்றுவதற்காகவே அவ்வாறு செய்தார்.",
+     "anchor": "கிருபையையும் உண்மையையும் நினைவுகூர்ந்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.98.6",
+   "source_hash": "2fae9ac5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.98.6#p1-2fae9ac5",
+     "text": "இந்த மறுபடியும் கூறுதலினாலும், கருவிகளால் துதி செய்யவேண்டுமென்ற ஆவலான புத்திமதியினாலும், மூங்கையான சிருஷ்டிகளையும் கொண்டு, தேவன் தங்களுக்குச் செய்த விடுதலைக்காக அவரைத் துதிக்க உலகம் ஒருபோதும் போதுமான அளவு செய்ய முடியாது என்பதைக் குறிக்கிறார்.",
+     "anchor": "பூரிகைகளாலும் எக்காள சத்தத்தாலும்"
+    }
+   ]
+  }
+ ]
+}

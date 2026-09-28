@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 23,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.23.2",
+   "source_hash": "406441ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.2#p1-406441ad",
+     "text": "ஏனெனில் யூதரல்லாதவர்களுக்குள் ராஜாக்கள் ஆசாரியர்கள் செய்தது போலவே பெரும்பாலும் பலியிடும் வழக்கமுடையவர்களாயிருந்தார்கள்.",
+     "anchor": "பாலாகும் பிலேயாமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.4",
+   "source_hash": "e15b430a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.4#p1-e15b430a",
+     "text": "அவனுக்குத் தரிசனமானார்.",
+     "anchor": "பிலேயாமைச் சந்தித்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.5",
+   "source_hash": "7f240e5b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.5#p1-7f240e5b",
+     "text": "என்ன சொல்லவேண்டும் என்று அவனுக்குக் கற்றுக்கொடுத்தார்.",
+     "anchor": "பிலேயாமின் வாயிலே வாக்கு அருளி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.7",
+   "source_hash": "adf65af0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.7#p1-adf65af0",
+     "text": "எல்லோரும் அவர்களை வெறுத்து அருவருக்கும்படி செய்.",
+     "anchor": "இஸ்ரவேலை வெறுத்துவிடவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.9",
+   "source_hash": "f6c040c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.9#p1-f6c040c0",
+     "text": "ஆனால் தனிப்பட்ட மதத்தையும் நியாயப்பிரமாணத்தையும் உடையவர்களாக இருப்பார்கள்.",
+     "anchor": "தேசத்தோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.10",
+   "source_hash": "f87a0237",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.10#p1-0c823677",
+     "text": "கணக்கிட முடியாத மகா திரள் ஜனத்தொகை, பூமியின் தூளைப்போல.",
+     "anchor": "யாக்கோபின் தூளை"
+    },
+    {
+     "id": "geneva/NUM.23.10#p2-d457e6fe",
+     "text": "தேவனுடைய நியாயத்தீர்ப்பைக்குறித்த பயம் இவனை ஆபிரகாமின் வம்சத்தாரோடே இணைக்கப்படவேண்டும் என்று விரும்பச்செய்தது: இவ்வாறே துன்மார்க்கர் தேவனுடைய நியாயத்தீர்ப்புகளைக் குறித்து சிந்திக்கும்போது அவர்களுடைய மனச்சாட்சி காயப்படும்.",
+     "anchor": "நீதிமான் மரிப்பதுபோல் நான் மரிப்பேனாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.19",
+   "source_hash": "da6220ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.19#p1-da6220ea",
+     "text": "தேவனுடைய ஆளுகை நீதியுள்ளதென்றும், மாறாததென்றும், மாறுதலும் மனந்திரும்புதலும் இல்லாதது என்றும் தேவனுடைய பகைவரும் அறிக்கையிடும்படி நிர்பந்திக்கப்படுகிறார்கள்.",
+     "anchor": "பொய் சொல்ல தேவன் ஒரு மனிதன் அல்ல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.21",
+   "source_hash": "a1f9502c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.21#p1-a1f9502c",
+     "text": "தங்களுடைய எதிரிகளின்மேல் ஜெயம் பெற்ற ராஜாக்களைப்போல் அவர்கள் வெற்றிக் கெம்பீரம் செய்கிறார்கள்.",
+     "anchor": "ராஜாவின் வெற்றியின் கெம்பீரம் அவர்களுக்குள்ளே இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.23",
+   "source_hash": "052e9e1d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.23#p1-052e9e1d",
+     "text": "தேவன் இந்தக் காலத்தில் தம்முடைய மக்களை விடுவிக்க என்ன செய்யப்போகிறார் என்பதைக் கண்டு, உலகமெல்லாம் ஆச்சரியப்படும்.",
+     "anchor": "கொஞ்சக்காலத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.23.27",
+   "source_hash": "b7d06cf8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.23.27#p1-b7d06cf8",
+     "text": "இவ்விதமாக துன்மார்க்கர் தேவனைப்பற்றி, ஒரு இடத்தில் அவர் அனுமதிக்காதது இன்னொரு இடத்தில் அவர் செய்வார் என்று நினைக்கிறார்கள்.",
+     "anchor": "வேறொரு இடத்திற்கு"
+    }
+   ]
+  }
+ ]
+}

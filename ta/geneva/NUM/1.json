@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.1.1",
+   "source_hash": "27a51867",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.1#p1-66046597",
+     "text": "சீனாய் மலைக்கு அருகிலிருந்த வனாந்திரத்தில் உள்ள இடத்தில்.",
+     "anchor": "சீனாய் வனாந்திரத்தில்"
+    },
+    {
+     "id": "geneva/NUM.1.1#p2-d2b568af",
+     "text": "இது ஏப்ரல் மாதத்தின் ஒரு பகுதியும் மே மாதத்தின் ஒரு பகுதியும் ஆகும்.",
+     "anchor": "இரண்டாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.4",
+   "source_hash": "75bd0869",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.4#p1-75bd0869",
+     "text": "அதாவது, ஒவ்வொரு கோத்திரத்திலும் முதன்மையான மனிதன்.",
+     "anchor": "ஒவ்வொரு வம்சத்திற்கும் ஒவ்வொரு மனிதன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.5",
+   "source_hash": "39783539",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.5#p1-39783539",
+     "text": "நீங்கள் மக்களை எண்ணும்போது உங்களுக்கு உதவி செய்ய வேண்டியவர்கள்.",
+     "anchor": "உங்களோடு நிற்கவேண்டிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.16",
+   "source_hash": "e37c94ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.16#p1-e37c94ac",
+     "text": "அல்லது படைத்தலைவர்கள், அதிகாரிகள்.",
+     "anchor": "கோத்திரங்களில் பிரபுக்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.18",
+   "source_hash": "6ba687f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.18#p1-6ba687f8",
+     "text": "ஒவ்வொருவனும் தன் கோத்திரத்தையும் தன் முன்னோர்களையும் காண்பிப்பதில்.",
+     "anchor": "தங்கள்தங்கள் குடும்பத்தின்படியும்... வம்சாவளியைத் தெரிவித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.47",
+   "source_hash": "445568e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.47#p1-445568e0",
+     "text": "இவர்கள் யுத்த வீரர்களாக இருந்தார்கள், ஆனால் ஆசரிப்புக்கூடாரத்தின் பணிக்காக நியமிக்கப்பட்டார்கள்.",
+     "anchor": "மற்றவர்களுடன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.51",
+   "source_hash": "dddd763e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.51#p1-dddd763e",
+     "text": "லேவி கோத்திரத்தைச் சேராதவன் யாராயிருந்தாலும்.",
+     "anchor": "அந்நியன் அதற்கு அருகில் வந்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.1.53",
+   "source_hash": "2d25ef18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.1.53#p1-2d25ef18",
+     "text": "கர்த்தருடைய வாசஸ்தலத்தின்மேல் தகுந்த மதிப்பு வைக்காமல் இருப்பதனால்.",
+     "anchor": "இஸ்ரவேல் மக்களாகிய சபையின்மேல்"
+    }
+   ]
+  }
+ ]
+}

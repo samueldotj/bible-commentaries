@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 22,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.22.1",
+   "source_hash": "24c83be7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.1#p1-24c83be7",
+     "text": "மந்தையிலுள்ள ஒரு பெரிய மிருகமாகிலும், மாட்டுக் கூட்டத்திலுள்ள ஒரு சிறிய மிருகமாகிலும்.",
+     "anchor": "மாட்டையோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.2",
+   "source_hash": "90767e4c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.2#p1-90767e4c",
+     "text": "வீட்டை உள்ளே நுழையும்படி உடைத்தல் அல்லது சுவரைத் துளைத்தல்.",
+     "anchor": "திருடும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.3",
+   "source_hash": "3df337e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.3#p1-3df337e2",
+     "text": "அவனைக் கொலைசெய்தவன் கொலைசெய்யப்படுவான்.",
+     "anchor": "இரத்தப்பழி சுமரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.8",
+   "source_hash": "5b81b651",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.8#p1-5b81b651",
+     "text": "அதாவது, அவன் திருடினானோ என்பதைக் குறிக்கும்.",
+     "anchor": "பிறனுடைய பொருளை அபகரித்தானோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.11",
+   "source_hash": "f7937ccc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.11#p1-f7937ccc",
+     "text": "அவர்கள் கர்த்தருடைய நாமத்தில் ஆணையிட வேண்டும்.",
+     "anchor": "யெகோவாவின் நாமத்தில் ஆணையிட்டால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.13",
+   "source_hash": "147a2f52",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.13#p1-147a2f52",
+     "text": "அவன் அந்த மிருகத்தின் ஒரு பாகத்தைக் காண்பிக்கவேண்டும், அல்லது சாட்சிகளைக் கொண்டுவரவேண்டும்.",
+     "anchor": "சாட்சியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.15",
+   "source_hash": "e5176f90",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.15#p1-e5176f90",
+     "text": "அதை வாடகைக்கு எடுத்தவன் வாடகையைச் செலுத்துவதன் மூலம் விடுவிக்கப்படுவான்.",
+     "anchor": "அவனுடைய வாடகைக்கு வந்த சேதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.24",
+   "source_hash": "007cb308",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.24#p1-007cb308",
+     "text": "ஒடுக்குகிறவர்களின்மேல் தேவனுடைய நீதியான தண்டனை.",
+     "anchor": "மனைவிகள் விதவைகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.27",
+   "source_hash": "3cc9260d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.27#p1-3cc9260d",
+     "text": "குளிரினாலும் தேவையினாலும்.",
+     "anchor": "என்னை நோக்கி முறையிடும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.29",
+   "source_hash": "34751c7d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.29#p1-34751c7d",
+     "text": "உன்னுடைய தானியத்தின் நிறைவு.",
+     "anchor": "முதல் முதல் பழுக்கும் உன்னுடைய பழத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.22.31",
+   "source_hash": "4096df49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.22.31#p1-4096df49",
+     "text": "அப்படியே அதனோடு எந்த தொடர்பும் வைத்துக்கொள்ளாமல் இருங்கள்.",
+     "anchor": "நாய்களுக்குப்"
+    }
+   ]
+  }
+ ]
+}

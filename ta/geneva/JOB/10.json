@@ -1,0 +1,300 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.10.1",
+   "source_hash": "5abb1512",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.1#p1-d05d75eb",
+     "text": "நான் உயிரோடிருக்கிறவனைப் பார்க்கிலும் மரித்தவனைப் போலிருக்கிறேன்.",
+     "anchor": "உயிரை வெறுக்கிறது"
+    },
+    {
+     "id": "geneva/JOB.10.1#p2-be9b973f",
+     "text": "நான் என் வேதனைகளை முழுவதும் விவரிப்பேன், தேவனைக் குற்றப்படுத்தாமல் என்னையே குற்றப்படுத்துவேன்.",
+     "anchor": "என் துயரத்திற்கு எனக்குள்ளே இடங்கொடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.2",
+   "source_hash": "ca6a3caa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.2#p1-ca6a3caa",
+     "text": "தேவன் தமது மறைவான நியாயத்தைக்கொண்டு தன்னை நடத்தாமல், மற்றவர்களைத் தண்டிக்கும் சாதாரண வழிமுறையின்படியே தன்னை நடத்த வேண்டும் என்று அவன் விரும்பினான்.",
+     "anchor": "என்னைக் குற்றவாளியென்று முடிவுசெய்யாதிரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.3",
+   "source_hash": "f2353bb0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.3#p1-5ba83b03",
+     "text": "எனக்குத் தீங்கு செய்வது உம்முடைய நியாயத்திற்கு ஏற்றதோ?",
+     "anchor": "உமக்கு நன்றாயிருக்குமோ?"
+    },
+    {
+     "id": "geneva/JOB.10.3#p2-5f7b8f05",
+     "text": "நீர் இரக்கமில்லாதவராயிருப்பீரோ?",
+     "anchor": "உம்முடைய கைகளின் செயலை"
+    },
+    {
+     "id": "geneva/JOB.10.3#p3-ba946b6b",
+     "text": "நீர் துன்மார்க்கருக்கு உபகாரம் செய்து என்னைக் குற்றஞ்சுமத்துவீரோ?",
+     "anchor": "துன்மார்க்கரின் யோசனையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.4",
+   "source_hash": "700ca50c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.4#p1-700ca50c",
+     "text": "தேவரீர் இதை அறியாமையினால் செய்கிறீரோ.",
+     "anchor": "சரீரக்கண்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.5",
+   "source_hash": "a78fef5f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.5#p1-a78fef5f",
+     "text": "நீர் காலத்திற்கேற்ப மாறுகிற, நிலையற்றவராயிருக்கிறீரோ? இன்று சிநேகிதராயும், நாளை பகைவராயும் இருக்கிறீரோ?",
+     "anchor": "மனுஷனுடைய நாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.7",
+   "source_hash": "b9c3ee3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.7#p1-b9c3ee3c",
+     "text": "துன்பத்தினால் நீர் என்னைச் சிறையில் இருப்பது போல் காத்து, தீமை செய்யாதபடி என்னை அடக்கிவைக்கிறீர்; ஒருவனும் என்னை விடுவிக்கமாட்டான்.",
+     "anchor": "துன்மார்க்கன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.8",
+   "source_hash": "b0e4a721",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.8#p1-b0e4a721",
+     "text": "தொடர்ந்துவரும் இந்த எட்டு வசனங்களில் அவர் மனிதனின் ஆச்சரியமான சிருஷ்டிப்பில் தேவனுடைய இரக்கத்தை விவரிக்கிறார்; அதன் அடிப்படையில் தேவன் தனக்கு விரோதமாகக் கடுமையாக நடந்துகொள்ளக்கூடாது என்று வாதிடுகிறார்.",
+     "anchor": "உம்முடைய கரங்கள் என்னையும் எனக்குரிய எல்லாவற்றையும் உருவாக்கிப் படைத்திருந்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.9",
+   "source_hash": "ca32e6a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.9#p1-ca32e6a0",
+     "text": "மண்பாண்டத்தைப்போல எளிதில் உடையக்கூடியது.",
+     "anchor": "களிமண்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.12",
+   "source_hash": "87bbccac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.12#p1-ba070ca9",
+     "text": "அதாவது, அறிவும் உணர்வும், மனிதன் பூமியிலுள்ள மற்ற எல்லா சிருஷ்டிகளையும்விட மேலானவனாக விளங்கும்படி செய்யும் வேறு பல வரங்களும்.",
+     "anchor": "தயவையும்"
+    },
+    {
+     "id": "geneva/JOB.10.12#p2-78d4cec3",
+     "text": "அதாவது, பிதாவைப்போன்ற கரிசனையும் பராமரிப்பும், அதினாலே தேவன் அவனைக் காப்பாற்றினார்; அது இல்லாதிருந்தால் அவன் உடனடியாக அழிந்துபோயிருப்பான்.",
+     "anchor": "உம்முடைய பராமரிப்பு என் ஆவியைக் காப்பாற்றியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.13",
+   "source_hash": "f8ea3190",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.13#p1-f8ea3190",
+     "text": "நான் இவற்றை முழுவதுமாகக் கிரகிக்க இயலவில்லையென்றாலும், இது இப்படியே இருக்கிறது என்று அறிக்கையிடவேண்டும்.",
+     "anchor": "இது உமக்குள் இருக்கிறது என்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.15",
+   "source_hash": "5ccc337c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.15#p1-5ccc337c",
+     "text": "நான் என்றைக்கும் பயத்திலும் தாழ்மையிலும் நடப்பேன், ஏனெனில் உமக்கு முன்பாக நீதிமான் ஒருவனும் இல்லை என்று அறிந்திருக்கிறேன்.",
+     "anchor": "என் தலையை நான் எடுக்கமாட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.16",
+   "source_hash": "30b6a530",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.16#p1-30b6a530",
+     "text": "யோபு சரீரத்திற்கும் ஆவிக்கும் இடையே நடக்கும் இந்தப் போராட்டத்தில் கடுமையாகத் தாக்கப்பட்டவனாய், இந்த உணர்வுகளை வெளிப்படுத்தி, நீண்ட நாட்கள் வாழ்வதைவிட, குறுகிய நாட்களைக் கடுந்துன்பத்திற்குப் பதிலாக விரும்புகிறான்.",
+     "anchor": "உமது அதிசய வல்லமையை விளங்கச் செய்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.17",
+   "source_hash": "1e3a2c94",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.17#p1-1e3a2c94",
+     "text": "அதாவது, பலவித நோய்களும் மிகுந்த அளவிலும் உண்டாகும் என்பதைக் குறிக்கிறது; மனிதனைத் தண்டிக்க தேவனுக்கு எண்ணிறந்த வழிகள் உண்டு என்பதைக் காண்பிக்கிறது.",
+     "anchor": "போராட்டத்தின்மேல் போராட்டம் அதிகரிக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.20",
+   "source_hash": "cc15973b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.20#p1-cc15973b",
+     "text": "அவனுடைய பெரிய துக்கத்தையும் அவனுடைய நாட்களின் குறுகிய தன்மையையும் கருதி, தேவன் தம்முடைய உபத்திரவத்தை நிறுத்தும்படி விரும்புகிறான்.",
+     "anchor": "அப்பொழுது நிறுத்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.21",
+   "source_hash": "d633319e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.21#p1-d633319e",
+     "text": "தேவனுடைய நியாயத்தீர்ப்புகளின் உணர்வினாலும் மனவேதனைகளினாலும் மேற்கொள்ளப்பட்ட ஒரு பாவியின் நிலைமையில் இதைச் சொல்கிறார்; ஆகையால் அந்த நிலையில் அவனால் தேவனுடைய கிருபைகளையும் உயிர்த்தெழுதலின் ஆறுதலையும் உணர்ந்துகொள்ள முடியாது.",
+     "anchor": "திரும்பிவராத"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.10.22",
+   "source_hash": "7ceee685",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.10.22#p1-7ceee685",
+     "text": "வெறும் இருள் மட்டுமே காணப்படும் இடத்தில் வெளிச்சத்திற்கும் இருளுக்கும் எவ்வித வித்தியாசமும் இல்லை.",
+     "anchor": "ஒழுங்கு"
+    }
+   ]
+  }
+ ]
+}

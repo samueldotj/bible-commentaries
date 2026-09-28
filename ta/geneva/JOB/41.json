@@ -1,0 +1,285 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 41,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.41.1",
+   "source_hash": "b96ecded",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.1#p1-b96ecded",
+     "text": "திமிங்கலத்தைக் குறிக்கிறது.",
+     "anchor": "லிவியாதானை தூண்டிலைக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.2",
+   "source_hash": "8eff7634",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.2#p1-8eff7634",
+     "text": "நீ அதைப் பிடித்துக்கொள்வாய் என்று அது பயப்படுகிறபடியால்.",
+     "anchor": "தாடையை உருவக் குத்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.4",
+   "source_hash": "caa2036b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.4#p1-caa2036b",
+     "text": "உன் வேலைகளைச் செய்யவும், உன் கட்டளைக்குக் கீழ்ப்படியவும்.",
+     "anchor": "எல்லா நாட்களும் அடிமைப்படுத்துவாயோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.8",
+   "source_hash": "0242a62c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.8#p1-0242a62c",
+     "text": "நீ ஆபத்தை ஒருமுறை யோசித்துப் பார்த்தால், நீ அதனுடன் தொடர்பு கொள்ளமாட்டாய்.",
+     "anchor": "யுத்தத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.9",
+   "source_hash": "542dfd05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.9#p1-542dfd05",
+     "text": "அதாவது, அதைப் பிடிக்கலாம் என்று நம்புகிறவன்.",
+     "anchor": "பிடிக்கலாம் என்று நம்பினவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.10",
+   "source_hash": "9db7a86e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.10#p1-9db7a86e",
+     "text": "படைப்பாகிய திமிங்கலத்திற்கு முன்பாக நிற்கத் துணிகரமுள்ளவன் ஒருவனும் இல்லையானால், சிருஷ்டிகரும் தேவனுமாயிருக்கிறவரோடு ஒப்பிடத்தக்கவன் யார்?",
+     "anchor": "எனக்கு முன்பாக நிற்பவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.11",
+   "source_hash": "df1a9ca6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.11#p1-df1a9ca6",
+     "text": "என் செயலை நிறைவேற்றும்படி எனக்குக் கற்றுத்தந்தவன் யார்?",
+     "anchor": "பதில்கொடுக்கப்படும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.12",
+   "source_hash": "fbb7bb27",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.12#p1-fbb7bb27",
+     "text": "திமிங்கிலத்தின் அவயவங்களையும் உறுப்புகளையுமா?",
+     "anchor": "அதின் உறுப்புகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.13",
+   "source_hash": "bb1b6a5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.13#p1-2d21c7e4",
+     "text": "அதாவது, அதின் தோலை உரிக்கத் துணிகரமுள்ளவன் யார்?",
+     "anchor": "அது மூடியிருக்கிற அதின் போர்வையை"
+    },
+    {
+     "id": "geneva/JOB.41.13#p2-41ec181e",
+     "text": "அதின் வாயில் கடிவாளம் போட துணிகரமுள்ளவன் யார்?",
+     "anchor": "கடிவாளம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.14",
+   "source_hash": "f586cfd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.14#p1-f586cfd0",
+     "text": "அதின் வாயில் பார்க்கத் துணிகிறவன் யார்?",
+     "anchor": "அதின் முகத்தின் கதவைத் திறக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.18",
+   "source_hash": "bc4eb170",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.18#p1-bc4eb170",
+     "text": "அதாவது, நெருப்புத் தழல்களை வெளியே தள்ளுகிறது.",
+     "anchor": "ஒளி வீசும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.22",
+   "source_hash": "538212ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.22#p1-538212ba",
+     "text": "அதற்கு எதுவும் வேதனையானதாகவோ கடினமானதாகவோ இல்லை.",
+     "anchor": "பயங்கரம் அதற்குமுன் நடனமாடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.30",
+   "source_hash": "06903a93",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.30#p1-06903a93",
+     "text": "அதின் தோல் மிகவும் கடினமாக இருப்பதால், அது சேற்றின்மேல் இருப்பதைப்போலவே கற்களின்மேலும் மிகுந்த சவுகரியத்துடன் படுத்துக்கொள்ளும்.",
+     "anchor": "கீழாகக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.31",
+   "source_hash": "3d16a957",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.31#p1-3d16a957",
+     "text": "அது புரளுவதினால் கடல் கொதிக்கிறதுபோல் தோன்றச்செய்கிறது, அல்லது கடல் கொதிக்கிறதுபோல் தோன்றும்படி அளவற்ற தண்ணீரைச் சொரிகிறது.",
+     "anchor": "உலைப்பானையைப்போல் பொங்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.32",
+   "source_hash": "f2b9eb37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.32#p1-f2b9eb37",
+     "text": "அதாவது, அதற்கு முன்பாக வெண்மையான நுரையும் ஒளிவீசும் நீரோட்டமும் உண்டாகும்.",
+     "anchor": "பின்னாகப் பாதையை மின்னச்செய்யும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.41.34",
+   "source_hash": "87ad7e78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.41.34#p1-87ad7e78",
+     "text": "அது மற்ற மிருகங்கள் மற்றும் பயங்கரமான உயிரினங்கள் அனைத்தையும் அற்பமாக நினைக்கிறது, அவை அனைத்தையும்விட அகங்காரமுள்ளது.",
+     "anchor": "மேட்டிமையானதையெல்லாம்"
+    }
+   ]
+  }
+ ]
+}

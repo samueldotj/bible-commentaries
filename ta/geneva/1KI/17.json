@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 17,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.17.1",
+   "source_hash": "59a57c89",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.1#p1-ea8f91a5",
+     "text": "அதாவது, நான் ஆராதிக்கிறவர்.",
+     "anchor": "நிற்கிற"
+    },
+    {
+     "id": "geneva/1KI.17.1#p2-2531e33b",
+     "text": "ஆனால் நான் அதைத் தேவனுடைய வெளிப்படுத்துதலின்படி அறிவிப்பேன்.",
+     "anchor": "என்னுடைய வார்த்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.4",
+   "source_hash": "da3b524b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.4#p1-da3b524b",
+     "text": "துன்பப்படுத்துதலுக்கு எதிராக அவனுடைய விசுவாசத்தை பலப்படுத்துவதற்காக, தேவன் அவனுக்கு அற்புதமாக உணவளிப்பேன் என்று வாக்குத்தத்தம் செய்கிறார்.",
+     "anchor": "அங்கே உனக்கு உணவளிக்க, காகங்களுக்குக் கட்டளையிடுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.8",
+   "source_hash": "0acce5d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.8#p1-0acce5d6",
+     "text": "தேவனுடைய பரிசுத்தவான்களின் துன்பங்கள் அநேகமாக இருப்பது போலவே, அவரை விடுவிக்கும்படி அவருடைய இரக்கமும் எப்பொழுதும் அருகில் இருக்கிறது.",
+     "anchor": "யெகோவாவுடைய வார்த்தை அவனுக்கு உண்டானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.10",
+   "source_hash": "629f658c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.10#p1-629f658c",
+     "text": "இவையெல்லாம் எலியாவின் விசுவாசத்தை பலப்படுத்துவதற்காகவே இருந்தது, அவன் உலகத்திற்கடுத்த எதையும் எதிர்பார்க்காமல், தேவனுடைய பராமரிப்பின்மேல் மாத்திரம் விசுவாசம் வைக்கும்படியாகவே.",
+     "anchor": "விறகு பொறுக்கிக்கொண்டிருந்தாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.12",
+   "source_hash": "cb9e88bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.12#p1-cb9e88bf",
+     "text": "இன்னும் உணவு கிடைக்குமென்ற நம்பிக்கை இல்லாதபடியால்.",
+     "anchor": "செத்துப்போக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.14",
+   "source_hash": "5932eecb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.14#p1-5932eecb",
+     "text": "தேவன் தமக்குரியவற்றை பயன்படுத்துவதற்காக எந்தப் பிரயோஜனத்தையும் பெறுவதில்லை, ஆனாலும் அவற்றுக்காக மிகுந்த வெகுமதியை வாக்குத்தத்தம் செய்கிறார்.",
+     "anchor": "பானையில் இருந்த மாவு தீர்ந்துபோவதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.15",
+   "source_hash": "80db1250",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.15#p1-80db1250",
+     "text": "அதாவது, பூமியில் மறுபடியும் மழையும் ஆகாரமும் கிடைக்கும்வரை.",
+     "anchor": "அநேகநாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.17",
+   "source_hash": "8f714932",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.17#p1-8f714932",
+     "text": "தேவனாகிய அவர் இரக்கமான தமது பராமரிப்பினாலே தன் மகனையே தன் ஒரே ஆதரவும் ஆறுதலுமாக்கிக்கொள்ளும்படி அவள் கற்றுக்கொண்டாளோ என்று சோதிக்க விரும்பினார்.",
+     "anchor": "உயிர்போகும்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.20",
+   "source_hash": "28f2e569",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.20#p1-28f2e569",
+     "text": "தேவனுடைய நாமம் தூஷிக்கப்பட்டு, தம்முடைய ஊழியம் அற்பமாக எண்ணப்படுமோ என்று அவர் பயந்தார், தாம் தொடங்கிய கிருபைகளை, விசேஷமாக அவர் அங்கே தங்கியிருக்கும்வரை, தொடர்ந்து செய்யாமலிருந்தால்.",
+     "anchor": "துக்கத்தை வருவித்தீரோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.17.24",
+   "source_hash": "9cc54b70",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.17.24#p1-9cc54b70",
+     "text": "அற்புதங்களால் நமக்கு உறுதி வராவிட்டால், தேவன்மேல் நம்பிக்கை வைப்பது கடினமானது.",
+     "anchor": "நீர் தேவனுடைய மனிதன் என்றும்"
+    }
+   ]
+  }
+ ]
+}

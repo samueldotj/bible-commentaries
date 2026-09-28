@@ -1,0 +1,154 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.1.1",
+   "source_hash": "7a8fc1fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.1#p1-7a8fc1fd",
+     "text": "இதன்மூலம் மோசே, தேவனிடத்திலிருந்து தான் பெற்றுக்கொண்டதைத் தவிர வேறொன்றையும் மக்களுக்குப் போதிக்கவில்லை என்பதை வெளிப்படுத்துகிறார்.",
+     "anchor": "யெகோவா ... மோசேயை அழைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.2",
+   "source_hash": "c3d5f57f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.2#p1-c3d5f57f",
+     "text": "ஆகவே கட்டளையிடப்பட்டவைகளைத் தவிர வேறு எந்த வகையானவைகளையும் அவர்கள் பலியிடக்கூடாது.",
+     "anchor": "மாட்டுமந்தையிலாவது ஆட்டுமந்தையிலாவது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.3",
+   "source_hash": "76fac24c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.3#p1-76fac24c",
+     "text": "அதாவது, ஆசரிப்புக்கூடாரத்தின் முற்றத்திற்குள்.",
+     "anchor": "ஆசரிப்புக்கூடாரத்தின் வாசலில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.5",
+   "source_hash": "1476b252",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.5#p1-f854bd09",
+     "text": "லேவியரில் ஒரு ஆசாரியன்.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில் அந்தக் காளையைக் கொல்லக்கடவன்"
+    },
+    {
+     "id": "geneva/LEV.1.5#p2-80d8b7d7",
+     "text": "சர்வாங்க தகனபலியான காணிக்கைக்குரிய பலிபீடம், யாத்திராகமம் 27:1.",
+     "anchor": "ஆசரிப்புக்கூடாரத்தின் வாசலில் இருக்கிற பலிபீடத்தின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.9",
+   "source_hash": "3ef4b29a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.9#p1-3ef4b29a",
+     "text": "அல்லது, கர்த்தருடைய கோபத்தை அமர்த்துகிற இளைப்பாறுதலின் வாசனை.",
+     "anchor": "யெகோவாவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.11",
+   "source_hash": "57d88644",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.11#p1-adeed033",
+     "text": "லேவியராகமம் 1:5-ஐப் பார்க்கவும்.",
+     "anchor": "அதைக் கொல்லக்கடவன்; அப்பொழுது ஆரோனின் மகன்களாகிய ஆசாரியர்கள் அதின் இரத்தத்தைப் பலிபீடத்தின்மேல் சுற்றிலும் தெளிக்கக்கடவர்கள்"
+    },
+    {
+     "id": "geneva/LEV.1.11#p2-7b591359",
+     "text": "கர்த்தருடைய பலிபீடத்திற்கு முன்பாக.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.15",
+   "source_hash": "eff31b56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.15#p1-eff31b56",
+     "text": "எபிரெய வார்த்தை நகத்தால் பிடித்துக் கிள்ளுவதைக் குறிக்கிறது.",
+     "anchor": "தலையைக் கிள்ளி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.1.16",
+   "source_hash": "45a7036d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.1.16#p1-45a7036d",
+     "text": "முற்றத்தின் வாசலின் பக்கத்தில், சாம்பல் வைக்கும் சட்டிகள் இருந்த இடத்திலே; யாத்திராகமம் 27:3.",
+     "anchor": "கிழக்குப் பகுதியில் சாம்பல் இருக்கிற இடத்திலே"
+    }
+   ]
+  }
+ ]
+}

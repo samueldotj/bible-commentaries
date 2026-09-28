@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.16.1",
+   "source_hash": "8fc1ce15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.1#p1-8fc1ce15",
+     "text": "பிள்ளையில்லாமல் நிறைவேறமுடியாத தேவனுடைய வாக்குத்தத்தத்தைக் குறித்து அவள் மனதில் வைத்திருந்தாள் என்று தோன்றுகிறது.",
+     "anchor": "ஆபிராமுடைய மனைவியாகிய சாராய்க்குக் குழந்தையில்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.2",
+   "source_hash": "50716090",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.2#p1-50716090",
+     "text": "தேவனுடைய வல்லமையை இயற்கையின் சாதாரண வழிக்குள் அடக்கினதினால் அவள் தவறினாள், தேவன் அவளுடைய முதிர்வயதிலே அவளுக்குக் குழந்தைகளைத் தரக்கூடாதவர் என்பது போல.",
+     "anchor": "என் கர்ப்பத்தை அடைத்திருக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.4",
+   "source_hash": "1d1d8fd6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.4#p1-1d1d8fd6",
+     "text": "தேவனுடைய வசனத்திற்கு விரோதமாக ஏதாகிலும் செய்ய முயற்சிக்கிறவர்களுக்கு என்ன கிடைக்கும் என்பதை இந்த தண்டனை காண்பிக்கிறது.",
+     "anchor": "அற்பமாக நினைத்தாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.7",
+   "source_hash": "7586d329",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.7#p1-7586d329",
+     "text": "இது கிறிஸ்துவே, ஆதியாகமம் 16:13, 18:17 வசனங்களில் காணப்படுகிறபடி.",
+     "anchor": "யெகோவாவுடைய தூதனானவர் அவளை...கண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.9",
+   "source_hash": "2123e5aa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.9#p1-2123e5aa",
+     "text": "தேவன் தங்கள் துன்பத்திலிருக்கும் எந்த மக்களையும் தள்ளுவதில்லை, மாறாக அவர்களுக்கு ஆறுதலை அனுப்புகிறார்.",
+     "anchor": "உன் எஜமானியிடத்திற்குத் திரும்பிப்போ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.12",
+   "source_hash": "f725d2bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.12#p1-f725d2bc",
+     "text": "அதாவது, இஸ்மயேலியர் மற்றொரு மக்களின் ஒரு பகுதியாக இல்லாமல், தனித்த மக்களாக இருப்பார்கள்.",
+     "anchor": "தன் சகோதரர்கள் எல்லோருக்கும் எதிராகக் குடியிருப்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.16.13",
+   "source_hash": "5f4ae4a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.16.13#p1-5f4ae4a6",
+     "text": "அவள் தன்னுடைய மந்த புத்தியைக் கடிந்துகொண்டு, எங்கும் தன்னுடன் இருந்த தேவனுடைய கிருபைகளை ஒப்புக்கொள்ளுகிறாள்.",
+     "anchor": "நானும் இந்த இடத்தில் கண்டேன் அல்லவா"
+    }
+   ]
+  }
+ ]
+}

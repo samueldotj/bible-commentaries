@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 18,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.18.1",
+   "source_hash": "38a46f20",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.1#p1-38a46f20",
+     "text": "2 சாமுவேல் 8:1 இதை அடிமைத்தனத்தின் கடிவாளம் என்று சொல்கிறது, ஏனெனில் அது ஒரு பலமான பட்டணமாக இருந்து, அதைச் சுற்றியிருந்த நாட்டைக் கீழ்ப்படுத்தி வைத்திருந்தது.",
+     "anchor": "காத் பட்டணத்தையும் அதின் கிராமங்களையும் பெலிஸ்தர்களின் கையிலிருந்து பிடித்துக்கொண்டான்.\"}"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.6",
+   "source_hash": "3e21abd6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.6#p1-3e21abd6",
+     "text": "அதாவது, அவன் செய்யத் தொடங்கிய எல்லாக் காரியங்களிலும்.",
+     "anchor": "தாவீது போன இடத்திலெல்லாம் யெகோவா அவனைக் காப்பாற்றினார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.8",
+   "source_hash": "37f900bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.8#p1-37f900bb",
+     "text": "இது 2 சாமுவேல் 8:8-ல் பேத்தாகு, பேரொத்தாய் என்று அழைக்கப்படுகிறது.",
+     "anchor": "திப்காத்திலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.10",
+   "source_hash": "d8b470e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.10#p1-d8b470e9",
+     "text": "இவன் 2 சாமுவேல் 8:10-இல் யோராம் என்றும் அழைக்கப்படுகிறான்.",
+     "anchor": "தன்னுடைய மகனாகிய அதோராமையும்... தாவீது ராஜாவினிடத்திற்கு அனுப்பினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.11",
+   "source_hash": "be77e7a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.11#p1-be77e7a3",
+     "text": "ஏதோமியரும் சீரியர்களும் தங்கள் பலத்தை ஒன்றாகக் கூட்டியதினால், 2 சாமுவேல் 8:12ல் ஆராமியர் கொள்ளையிடப்பட்டதாகச் சொல்லப்பட்டிருக்கிறது.",
+     "anchor": "ஏதோமியர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.12",
+   "source_hash": "0067dc8a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.12#p1-0067dc8a",
+     "text": "இதன் பொருள் என்னவென்றால், சங்கீதம் 60:1-ல் இருப்பதுபோல யோவாப் 12,000 பேரைக் கொன்றான், அபிசாயி மற்றவர்களைக் கொன்றான் என்று அறியப்படுகிறது.",
+     "anchor": "பதினெட்டாயிரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.18.17",
+   "source_hash": "e3bb7529",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.18.17#p1-e3bb7529",
+     "text": "2 சாமுவேல் 8:18-ஐ வாசிக்கவும்.",
+     "anchor": "கிரேத்தியர்களுக்கும் பிலேத்தியர்களுக்கும்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 30,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.30.1",
+   "source_hash": "77f82a3a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.1#p1-d2d07f7b",
+     "text": "அப்சலோம் மிகவும் அசுத்தமான வேசித்தனத்தினால் அதைத் தீட்டுப்படுத்தின பின்பு."
+    },
+    {
+     "id": "geneva/PSA.30.1#p2-25ade080",
+     "text": "தேவன் செய்த நன்மைகளுக்காக அவரைத் துதிக்காதவர்களை மகா நன்றியற்றவர்களெனக் குற்றஞ்சுமத்துகிறார்.",
+     "anchor": "நீர் என்னைக் கைதூக்கி எடுத்தபடியினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.2",
+   "source_hash": "6fed2d76",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.2#p1-6fed2d76",
+     "text": "அப்சலோமின் கலகத்திலிருந்து மீட்டு விடுவிக்கப்பட்டதைக் குறிக்கிறது.",
+     "anchor": "என்னை நீர் குணமாக்கினீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.3",
+   "source_hash": "6e1eb939",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.3#p1-6e1eb939",
+     "text": "அவன் மரணத்திலிருந்து மிகக் குறுகிய இடைவெளியில் தப்பினான் என்று பொருள்.",
+     "anchor": "ஆத்துமாவைப் பாதாளத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.4",
+   "source_hash": "1c33a569",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.4#p1-1c33a569",
+     "text": "இந்த வார்த்தை இரக்கத்தைப் பெற்றவர்களையும், மற்றவர்களுக்கு இரக்கத்தை மனந்திறந்து காண்பிக்கிறவர்களையும் குறிக்கின்றது.",
+     "anchor": "பரிசுத்தவான்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.6",
+   "source_hash": "1383e76b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.6#p1-1383e76b",
+     "text": "நான் என் அமைதியான நிலையின்மேல் மிகுதியான நம்பிக்கை வைத்தேன், எரேமியா 31:18, 2 நாளாகமம் 32:24,25-ல் இருப்பதுபோல.",
+     "anchor": "நான் வளமுடன் இருக்கும்போது சொன்னேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.7",
+   "source_hash": "01c27b7c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.7#p1-ac9270c9",
+     "text": "நீர் என்னை சீயோனில் மிகவும் உறுதியாக நிலைநிறுத்தினீர் என்று நான் எண்ணினேன்.",
+     "anchor": "மலையை வலிமையாக நிற்கச்செய்திருந்தீர்"
+    },
+    {
+     "id": "geneva/PSA.30.7#p2-3b7177c0",
+     "text": "நீர் உம்முடைய உதவியை விலக்கிக்கொண்ட பின்பு, நான் என் துயரத்தை உணர்ந்தேன்.",
+     "anchor": "கலங்கினவனானேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.9",
+   "source_hash": "d2ec1af2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.9#p1-d2ec1af2",
+     "text": "தாவீது இதன் மூலம், மரித்தோர் இந்த பூமியில் கர்த்தருடைய சபைக்கு எவ்வித பயனும் தரமாட்டார்கள் என்று சொல்கிறார்: ஆகையால் அவர் தமது நாமத்தைத் துதிக்கும்படி உயிரோடிருக்க விரும்பினார், இதுவே மனிதனுடைய சிருஷ்டிப்பின் முடிவான நோக்கமாகும்.",
+     "anchor": "மண் உம்மைத் துதிக்குமோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.30.12",
+   "source_hash": "7a2d11de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.30.12#p1-7a2d11de",
+     "text": "நீர் என் நாவு உம்மைத் துதிக்கும்படி என்னைக் காப்பாற்றியிருப்பதினால், நான் என் கடமையை மறவாதவனாயிருப்பேன்.",
+     "anchor": "என் மகிமை உமக்குத் துதி பாடும்படி"
+    }
+   ]
+  }
+ ]
+}

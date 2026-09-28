@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.5.1",
+   "source_hash": "8dcd0018",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.1#p1-8dcd0018",
+     "text": "அதாவது, என்னுடைய வேகமான ஜெபமும் இரகசிய முறையீடும் பெருமூச்சுகளும்.",
+     "anchor": "தியானத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.3",
+   "source_hash": "8833dd59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.3#p1-8833dd59",
+     "text": "அல்லது, செவிக்கொடுக்கப்படும்வரை பொறுமையோடும் நம்பிக்கையோடும் காத்திருத்தல்.",
+     "anchor": "காத்திருப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.4",
+   "source_hash": "2a55b413",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.4#p1-2a55b413",
+     "text": "தேவனானவர் இயல்பிலே துன்மார்க்கத்தை வெறுக்கிறவராதலால், அவர் துன்மார்க்கரை தண்டித்து, தேவபக்தியுள்ளவர்களை இரட்சிக்கவேண்டும்.",
+     "anchor": "துன்மார்க்கத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.5",
+   "source_hash": "93dcf9cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.5#p1-93dcf9cb",
+     "text": "தங்களுடைய சரீரத்திற்குரிய இச்சைகளின்படி குருடராகச் செல்கிறவர்கள்.",
+     "anchor": "வீம்புக்காரர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.7",
+   "source_hash": "ce0eb916",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.7#p1-ce0eb916",
+     "text": "தமது சோதனைகளின் ஆழத்திலும் அவன் தேவன்மேல் தன் முழு நம்பிக்கையை வைக்கிறான்.",
+     "anchor": "உமது ஆலயத்திற்குள் நுழைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.8",
+   "source_hash": "de565272",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.8#p1-de565272",
+     "text": "நீர் நீதியுள்ளவராயிருப்பதால், என் எதிரிகளின் ஆபத்துகளிலிருந்து என்னை நடத்தும்.",
+     "anchor": "என்னுடைய எதிரிகளுக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.10",
+   "source_hash": "1496cd20",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.10#p1-1496cd20",
+     "text": "அவர்களுடைய தீய திட்டங்கள் வெறுமையாகிப் போகட்டும்.",
+     "anchor": "தங்களுடைய ஆலோசனைகளாலேயே விழும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.11",
+   "source_hash": "d4a762b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.11#p1-d4a762b2",
+     "text": "என்மேலுள்ள உம்முடைய தயவு மற்ற அனைவரின் விசுவாசத்தையும் உறுதிப்படுத்தும்.",
+     "anchor": "அடைக்கலம் நாடிவருவோர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.5.12",
+   "source_hash": "c5bfcea9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.5.12#p1-c5bfcea9",
+     "text": "இதனால் அவன் எல்லா ஆபத்துகளிலிருந்தும் பாதுகாப்பாயிருப்பான்.",
+     "anchor": "கேடகத்தினால் அவனைச் சூழ்ந்து கொள்ளுவீர்"
+    }
+   ]
+  }
+ ]
+}

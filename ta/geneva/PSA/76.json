@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 76,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.76.1",
+   "source_hash": "9a3ce1e5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.1#p1-9a3ce1e5",
+     "text": "தேவனுடைய வல்லமை தமது ஜனத்தைக் காப்பாற்றுவதிலும், தமது எதிரிகளை அழிப்பதிலும் தெளிவாகக் காணப்படுகிறது என்று அவர் அறிவிக்கிறார்.",
+     "anchor": "அறியப்பட்டவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.2",
+   "source_hash": "2544d587",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.2#p1-2544d587",
+     "text": "இதற்குப் பின்பு எருசலேம் என்று அழைக்கப்பட்டது.",
+     "anchor": "சாலேமில் அவருடைய கூடாரமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.4",
+   "source_hash": "d40e79b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.4#p1-d40e79b6",
+     "text": "கொள்ளையும் கொடுமையும் நிறைந்த ராஜ்யத்தை, கொள்ளையடிக்கும் மிருகங்கள் நிறைந்த மலைகளுக்கு அவர் ஒப்பிடுகிறார்.",
+     "anchor": "கொள்ளையுள்ள மலைகளைவிட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.5",
+   "source_hash": "31c3d4ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.5#p1-31c3d4ef",
+     "text": "அவர்களுடைய கைகள் துண்டிக்கப்பட்டதைப்போல, தேவன் அவர்களுடைய ஆவியையும் பலத்தையும் எடுத்துக்கொண்டார்.",
+     "anchor": "கைகளும் அவர்களுக்கு உதவாமல்போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.7",
+   "source_hash": "e3dfa287",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.7#p1-e3dfa287",
+     "text": "தேவன் ஒரே பார்வையினால் பகைவர்களின் எல்லா வல்லமையையும் செயல்பாட்டையும், அவர்கள் எத்தனை பேராயிருந்தாலும் எவ்வளவு வலியவராயிருந்தாலும், அழிக்க வல்லவராயிருக்கிறார்.",
+     "anchor": "உமது கோபம் எழும்பும்போது உமக்கு முன்பாக நிற்பவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.9",
+   "source_hash": "f8105653",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.9#p1-f8105653",
+     "text": "உம்முடைய சபைக்கு செய்யப்பட்ட அநியாயங்களைப் பழிவாங்குவதற்காக.",
+     "anchor": "பூமியில் சிறுமையானவர்களையெல்லாம் இரட்சிக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.10",
+   "source_hash": "0cc2047d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.10#p1-0cc2047d",
+     "text": "ஏனெனில் முடிவு, சத்துரு ஒன்றையும் நிறைவேற்ற முடியாதிருந்தான் என்பதைக் காண்பிக்கும்; அன்றியும், அவர்கள் தங்கள் நோக்கத்தை நிறைவேற்றாதபடி, நீர் அவர்களுடைய கடுங்கோபத்திற்கு கடிவாளம் போடுவீர்.",
+     "anchor": "மனிதனுடைய கோபம் உமது மகிமையை விளங்கச்செய்யும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.11",
+   "source_hash": "4d6fc976",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.11#p1-4d6fc976",
+     "text": "அதாவது, ஆசரிப்புக்கூடாரத்தைச் சுற்றி வாழும் லேவியர்கள், அல்லது அவர் தங்குகிற மக்கள்.",
+     "anchor": "அவரைச் சூழ்ந்திருக்கிற அனைவரும் ... காணிக்கைகளைக் கொண்டுவரவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.76.12",
+   "source_hash": "a47f5eca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.76.12#p1-a47f5eca",
+     "text": "இந்த எபிரெய வார்த்தை “திராட்சைப்பழம் அறுவடை செய்வது” அல்லது “பழம் பறிப்பது” என்பதைக் குறிக்கிறது; அதாவது துன்மார்க்கரான கொடுங்கோலரின் ஆலோசனைகளையும் செயல்திட்டங்களையும் அவர் மதியீனமும் வீணுமாக்குவார் என்பதாகும்.",
+     "anchor": "பிரபுக்களின் ஆவியை அடக்குவார்"
+    }
+   ]
+  }
+ ]
+}

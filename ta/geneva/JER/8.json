@@ -1,0 +1,285 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JER.8.1",
+   "source_hash": "31bb5693",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.1#p1-31bb5693",
+     "text": "பகைவன் பேராசையால் உங்களுடைய கல்லறைகளைத் திறந்து, உங்களுடைய உயிரோடிருக்கும்போது நீங்கள் தொழுதுகொண்ட அந்த விக்கிரகங்களுக்கு முன்பாக உங்களை வைப்பான், அவை உங்களுக்கு உதவமுடியுமோ என்று பார்க்கும்படியாக.",
+     "anchor": "கல்லறைகளிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.3",
+   "source_hash": "04c7c9eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.3#p1-04c7c9eb",
+     "text": "தேவனுடைய நியாயத்தீர்ப்புகளினால் அவர்கள் அனுபவிக்கும் துன்பங்களினிமித்தம்.",
+     "anchor": "ஜீவனைப்பார்க்கிலும் மரணமே விருப்பமாயிருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.4",
+   "source_hash": "d3b6a3e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.4#p1-d3b6a3e1",
+     "text": "அவர்கள் திரும்புவார்கள் என்ற நம்பிக்கை இல்லையோ?",
+     "anchor": "விழுந்தவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.6",
+   "source_hash": "3ddbbbce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.6#p1-3ddbbbce",
+     "text": "அவர்கள் மாயமாய் நடிக்கிறவர்கள், அவரவர் ஒரு பரிசீலனையும் இல்லாமல் தன் சொந்த எண்ணத்தையே பின்பற்றுகிறார்கள்.",
+     "anchor": "அவரவர் வேகமாய் ஓடிப்போனார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.7",
+   "source_hash": "41b708a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.7#p1-41b708a2",
+     "text": "குளிரையும் வெப்பத்தையும் வேறுபடுத்தி அறியும் நியமிக்கப்பட்ட காலங்களை இந்தப் பறவைகள் அறிந்திருப்பதைவிட, தன் மக்கள் தேவனுடைய நியாயத்தீர்ப்புகளை அறியாமலிருக்கிறார்கள் என்று அவர் அவர்களைக் குற்றப்படுத்துகிறார்.",
+     "anchor": "யெகோவாவின் நியாயத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.8",
+   "source_hash": "1d6d263d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.8#p1-1d6d263d",
+     "text": "நியாயப்பிரமாணம் உங்களுக்குப் பிரயோஜனப்படவில்லை; நீங்கள் அதனால் கற்றுக்கொண்டதெல்லாம் இருந்தும், அது உங்களுக்காக எழுதப்பட வேண்டியிருந்ததில்லை.",
+     "anchor": "வேதபாரகரின் கள்ள எழுத்தாணி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.9",
+   "source_hash": "36c402ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.9#p1-36c402ba",
+     "text": "ஞானிகளாகத் தோன்றுகிறவர்கள் தங்கள் அறியாமையினிமித்தம் வெட்கப்படுவார்கள், ஏனெனில் எல்லா ஞானமும் தேவனுடைய வசனத்தில் அடங்கியிருக்கிறது.",
+     "anchor": "ஞானிகள் வெட்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.11",
+   "source_hash": "974f0da6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.11#p1-974f0da6",
+     "text": "எரேமியா 6:14 காண்க",
+     "anchor": "சமாதானம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.14",
+   "source_hash": "fdbcf986",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.14#p1-01fe55f0",
+     "text": "இது மக்களின் நிலையிலிருந்து பேசப்படுகிறது; சத்துரு வரும்போது அவர்கள் மறைந்துகொள்ள முயற்சிப்பார்கள், ஆனாலும் இது தேவனுடைய கரம் என்பதை ஒப்புக்கொள்வார்கள்.",
+     "anchor": "கூடி வாருங்கள்"
+    },
+    {
+     "id": "geneva/JER.8.14#p2-17d71f8a",
+     "text": "அதாவது, நம்மை மிகுந்த உபத்திரவத்திற்குள்ளாக்கினார் என்பதாகும்; இதனால் அவர்கள் இந்த வாதையைத் தற்செயலுக்கு அல்ல, தேவனுடைய நீதியுள்ள நியாயத்தீர்ப்புக்கே காரணமாக்குவார்கள், எரேமியா 9:15, 23:15.",
+     "anchor": "பிச்சுக்கலந்த தண்ணீரைக் குடிக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.16",
+   "source_hash": "fa7ebc53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.16#p1-fa7ebc53",
+     "text": "எரேமியா 4:15-ன் குறிப்பைப் பார்க்கவும்.",
+     "anchor": "தாணிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.17",
+   "source_hash": "4b8a31c7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.17#p1-4b8a31c7",
+     "text": "தேவன் பாபிலோனியரை அவர்களுக்குள் அனுப்புவேன் என்று எச்சரிக்கிறார், அவர்கள் இவர்களை எவ்வகையிலும் தப்பமுடியாத அளவிற்கு முற்றிலும் அழிப்பார்கள்.",
+     "anchor": "சர்ப்பங்களையும் அனுப்புகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.18",
+   "source_hash": "e88c0a04",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.18#p1-e88c0a04",
+     "text": "எரேமியா 4:19 வசனத்தைப் பார்க்க.",
+     "anchor": "நான் சஞ்சலத்தில் ஆறுதலடையப்பார்த்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.19",
+   "source_hash": "63ed5354",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.19#p1-63ed5354",
+     "text": "கர்த்தர் இப்படிச் சொல்கிறார்.",
+     "anchor": "எனக்குக் கோபமுண்டாக்கினது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.20",
+   "source_hash": "8cba4662",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.20#p1-8cba4662",
+     "text": "இவ்வளவு காலமாக தாங்கள் ஆறுதலுக்காக எதிர்பார்த்திருந்தது வீணாய்ப் போயிற்றென்று மக்கள் ஆச்சரியப்படுகிறார்கள்.",
+     "anchor": "அறுப்புக்காலம் சென்றது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.21",
+   "source_hash": "05f74864",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.21#p1-05f74864",
+     "text": "தீர்க்கதரிசி இதைச் சொல்கிறார்.",
+     "anchor": "காயப்பட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.8.22",
+   "source_hash": "27f97820",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.8.22#p1-27f97820",
+     "text": "அர்த்தம்: எந்த மனுஷனுடைய உதவியும் வழிமுறையும் அவர்களை இரட்சிக்கக்கூடாது; ஏனெனில் கீலேயாத்தில் விலையுள்ள பிசின் தைலம் இருந்தது, எரேமியா 46:11; அல்லது தங்கள் ஆசாரியர்களை நோக்கி உதவியை எதிர்பார்த்த மக்களின் வீணான நம்பிக்கையை ஏளனம் செய்கிறார்; அவர்களுடைய ஆத்துமாவின் வைத்தியர்களாக இருக்கவேண்டியவர்கள் கீலேயாத்தில் குடியிருந்தார்கள், ஓசியா 6:8.",
+     "anchor": "கீலேயாத்திலே … இல்லையோ?"
+    }
+   ]
+  }
+ ]
+}

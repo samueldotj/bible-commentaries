@@ -1,0 +1,305 @@
+{
+ "source": "geneva",
+ "book": "ACT",
+ "chapter": 26,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ACT.26.2",
+   "source_hash": "76213c6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.2#p1-76213c6d",
+     "text": "திறமையான நியாயாதிபதியைப் பெற்றிருப்பது தேவனுடைய பெரிதும் விசேஷித்த வரமாகும்.",
+     "anchor": "என்னைப் பாக்கியவான் என்றெண்ணுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.4",
+   "source_hash": "c7ab8874",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.4#p1-c7ab8874",
+     "text": "பவுல் தன் வாழ்க்கை வரலாற்றை இரண்டு காலங்களாகப் பிரிக்கிறார்: முதலாவது காலத்திற்கு அவர் தன் விரோதிகளையே சாட்சிகளாக அழைக்கிறார்; பிந்திய காலத்திற்கு, பிதாக்களையும் தீர்க்கதரிசிகளையும் அழைக்கிறார்.",
+     "anchor": "ஆரம்பமுதல் நான் நடந்த நடக்கையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.5",
+   "source_hash": "7145bdaf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.5#p1-eeeb4eee",
+     "text": "நான் யார், எங்கே, எப்படி வாழ்ந்தேன் என்பது.",
+     "anchor": "ஆரம்பமுதல் என்னை அறிந்திருக்கிறார்கள்"
+    },
+    {
+     "id": "geneva/ACT.26.5#p2-99cf8e54",
+     "text": "என் பெற்றோர்கள் பரிசேயர்களாக இருந்தார்கள் என்பது.",
+     "anchor": "ஆரம்பமுதல்"
+    },
+    {
+     "id": "geneva/ACT.26.5#p3-69993c9b",
+     "text": "பரிசேயரின் மதவேறுபாடு யூதர்களின் எல்லா மதவேறுபாடுகளிலும் மிகவும் நேர்த்தியானதாக இருந்தது, ஏனெனில் அது மற்ற எல்லாவற்றையும்விட மேலானதாக இருந்தது.",
+     "anchor": "நம்முடைய மார்க்கத்திலுள்ள மதவேறுபாடுகளில் மிகவும் கண்டிப்பான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.6",
+   "source_hash": "46e13a87",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.6#p1-46e13a87",
+     "text": "மெய்யான உபதேசத்திற்குரிய முதன்மையான சாட்சிகள் மூன்று: தேவன், மெய்யான பிதாக்கள், மற்றும் தேவனுடைய மெய்யான சபையின் ஒப்புதல்.",
+     "anchor": "நான் இப்பொழுது...நிற்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.8",
+   "source_hash": "9b18d218",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.8#p1-9b18d218",
+     "text": "அவர் மரித்தோர் உயிர்த்தெழுதலை முதலாவது தேவனுடைய வல்லமையினாலும், பின்பு கிறிஸ்துவின் உயிர்த்தெழுதலினாலும் நிரூபிக்கிறார்; அதற்கு அவரே ஒரு போதுமான சாட்சியாக இருக்கிறார்.",
+     "anchor": "நம்பப்படாத காரியமென்று நீங்கள் நினைக்கிறதென்ன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.10",
+   "source_hash": "e16ef3ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.10#p1-e16ef3ef",
+     "text": "நான் அவர்களுடைய செய்கைகளுக்கு சம்மதித்து ஒப்புக்கொண்டேன்: ஏனெனில் அவன் நியாயாதிபதியாக இருக்கவில்லை.",
+     "anchor": "சம்மதித்திருந்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.11",
+   "source_hash": "25ff2d2e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.11#p1-25ff2d2e",
+     "text": "கடுமையான தண்டனையினால்.",
+     "anchor": "அவதூறு சொல்லக் கட்டாயப்படுத்தினேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.18",
+   "source_hash": "d5472e1e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.18#p1-d5472e1e",
+     "text": "நற்செய்தியின் நோக்கமாவது, கிறிஸ்துவை அறியும் அறிவிற்குக் கொண்டுவரப்பட்டு, விசுவாசத்தினால் பிடிக்கப்பட்டு, அவருக்குள் நீதிமான்களாக்கப்பட்டு பரிசுத்தமாக்கப்பட்டவர்களை இரட்சிப்பதே.",
+     "anchor": "அவர்களுடைய கண்களைத் திறப்பதற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.19",
+   "source_hash": "ba62ce4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.19#p1-ba62ce4e",
+     "text": "பவுல் தன் அப்போஸ்தலத்துவப் பணிக்கு தேவனையே ஆசிரியராகக் காண்பித்து, தேவனுடைய கிருபையே சாட்சி என்று சொல்லுகிறார்.",
+     "anchor": "ஆகவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.22",
+   "source_hash": "68a489a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.22#p1-b2c9ecff",
+     "text": "கிறிஸ்துவே நியாயப்பிரமாணத்தின் மற்றும் தீர்க்கதரிசிகளின் இலக்கு.",
+     "anchor": "தேவ உதவியைப் பெற்று"
+    },
+    {
+     "id": "geneva/ACT.26.22#p2-7e17090c",
+     "text": "எல்லோருக்கும்.",
+     "anchor": "சிறியோர்களுக்கும் பெரியோர்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.23",
+   "source_hash": "906bb7ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.23#p1-730c51cb",
+     "text": "கிறிஸ்து யூதர்கள் கனவு கண்ட விதமான ஒரு அரசனாக இருக்கமாட்டார், மாறாக நமது துன்பங்களையும் நமது பாவங்களின் தண்டனையையும் ஏற்றுக்கொள்ளும்படி நியமிக்கப்பட்டவராக இருக்கிறார்.",
+     "anchor": "பாடுபடவேண்டியதென்றும்"
+    },
+    {
+     "id": "geneva/ACT.26.23#p2-d7c44aa2",
+     "text": "மரித்தோரிலிருந்து உயிர்த்தெழுந்தவர்களில் முதலாமவர்.",
+     "anchor": "மரித்தோர் உயிர்த்தெழுதலில் அவர் முதல்வராகி"
+    },
+    {
+     "id": "geneva/ACT.26.23#p3-6194687e",
+     "text": "ஜீவன், ஆம், முடிவில்லாத மிகவும் ஆசீர்வதிக்கப்பட்ட ஜீவன்: இது இருளுக்கு எதிராக வைக்கப்பட்டுள்ளது, ஏனெனில் ஏறக்குறைய எல்லா மொழிகளிலும் இருள் சிலவேளை மரணத்தையும், சிலவேளை துயரத்தையும் ஆபத்தையும் குறிக்கும்.",
+     "anchor": "ஒளியை வெளிப்படுத்துகிறவரென்றும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.24",
+   "source_hash": "e9d0b89a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.24#p1-e9d0b89a",
+     "text": "தேவனுடைய ஞானம் மூடர்களுக்குப் பயித்தியமாக இருக்கிறது, ஆனாலும் நாம் சத்தியத்தை தைரியமாக உறுதிப்படுத்தவேண்டும்.",
+     "anchor": "இவ்விதமாக அவன் தனக்காக பதில்சொல்லும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.26",
+   "source_hash": "4bf5a9a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.26#p1-4bf5a9a2",
+     "text": "மறைவாகவும் இரகசியமாகவும்.",
+     "anchor": "ஒரு பக்கம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.27",
+   "source_hash": "99d5a402",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.27#p1-99d5a402",
+     "text": "பவுல் தன் காரியத்தை நியாயப்படுத்துகிறதற்குக் கைதியாக நின்றான் என்பதை மறந்தவனாக இருந்தும், தன் அப்போஸ்தலத்துவத்தின் பணியை மறவாதிருக்கிறான்.",
+     "anchor": "அகிரிப்பா ராஜாவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.29",
+   "source_hash": "e6f1baf8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.29#p1-e6f1baf8",
+     "text": "நீங்கள் மாத்திரமல்ல, கொஞ்சங்குறையமட்டும் அல்ல, இன்று என் வசனத்தைக் கேட்கிற அனைவரும் முழுவதும் என்னைப்போலாகும்படி தேவனை நான் வேண்டிக்கொள்ளுகிறேன், இந்தக் கட்டுகள்தவிர.",
+     "anchor": "தேவனை வேண்டிக்கொள்ளுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.26.30",
+   "source_hash": "44d3475f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.26.30#p1-44d3475f",
+     "text": "பவுல் முறையாகக் குற்றமற்றவனாகத் தீர்க்கப்பட்டான், ஆயினும் விடுதலையாக்கப்படவில்லை.",
+     "anchor": "இவைகளை அவன் சொன்னபோது"
+    }
+   ]
+  }
+ ]
+}

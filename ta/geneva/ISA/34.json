@@ -1,0 +1,254 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 34,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ISA.34.1",
+   "source_hash": "ca4923ec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.1#p1-ca4923ec",
+     "text": "அவர் ஏதோமியர்களுடைய அழிவையும், சபைக்குப் பகைவரான மற்ற தேசங்களுடைய அழிவையும் குறித்துத் தீர்க்கதரிசனம் சொல்லுகிறார்.",
+     "anchor": "தேசங்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.2",
+   "source_hash": "605d382e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.2#p1-605d382e",
+     "text": "தேவன் தமது ஆலோசனையில் நிர்ணயித்து, அவர்களை அழிப்பதற்குத் தீர்ப்பு கொடுத்திருக்கிறார்.",
+     "anchor": "அழிவிற்கு நியமித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.4",
+   "source_hash": "5cb8dc4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.4#p1-5cb8dc4d",
+     "text": "மனிதனுடைய நியாயத்தீர்ப்பைப் பொருத்தே இவ்வாறு சொல்கிறார்; பெரிய பயத்திலும் பயங்கரமான கலக்கங்களிலும் இருக்கும்போது, பரலோகமும் பூமியும் அழிந்துவிடுகின்றன என்று மனிதர் நினைப்பார்கள்.",
+     "anchor": "கரைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.5",
+   "source_hash": "85d1aa6e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.5#p1-82d2b6d3",
+     "text": "நான் என் மறைவான ஆலோசனையிலும் பரலோகங்களிலும் அவர்களை அழிக்கத் தீர்மானித்திருக்கிறேன், என் பட்டயம் இரத்தம் சிந்துவதில் சோர்வடையும்வரை.",
+     "anchor": "வானங்களில்"
+    },
+    {
+     "id": "geneva/ISA.34.5#p2-af82f3d0",
+     "text": "அவர்கள் கோத்திரத்தலைவனாகிய ஈசாக்கிலிருந்து வந்தபடியால் தங்களைப் பரிசுத்தமானவர்கள் என்று எண்ணினார்கள், ஆனால் உண்மையில் தேவனால் சபிக்கப்பட்டவர்களாகவும், பாப்பிஸ்துகளைப் போலவே அவருடைய சபைக்குப் பகைவர்களாகவும் இருந்தார்கள்.",
+     "anchor": "அழிவிற்கு நியமித்த மக்களின்மேலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.6",
+   "source_hash": "56d54615",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.6#p1-8f949099",
+     "text": "அதாவது, தன் பகைவரில் இளையோர் முதியோர், ஏழையர் செல்வர் ஆகிய அனைவரும்.",
+     "anchor": "ஆட்டுக்குட்டிகள் கடாக்களுடைய இரத்தத்தினாலும்"
+    },
+    {
+     "id": "geneva/ISA.34.6#p2-f5f77c60",
+     "text": "அந்தப் பிரசித்தமான பட்டணம் பலியாகச் சுட்டெரிக்கப்பட்டு சாம்பலாக அழிக்கப்படும்.",
+     "anchor": "போஸ்றா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.7",
+   "source_hash": "6fa7e1c4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.7#p1-6fa7e1c4",
+     "text": "பலவான்களும் செல்வந்தர்களும் கீழானவர்களைப்போலவே அழிக்கப்படுவார்கள்.",
+     "anchor": "காண்டாமிருகங்களும், காளைகளின் கூட்டமும்வந்து மடியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.9",
+   "source_hash": "e105f7a8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.9#p1-e105f7a8",
+     "text": "இது சோதோம் மற்றும் கொமோராவின் அழிவைக் குறிக்கிறது, ஆதி. 19:24.",
+     "anchor": "கந்தகமாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.11",
+   "source_hash": "c5bf544e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.11#p1-1dbb8c63",
+     "text": "ஏசாயா 13:21, செப்பனியா 2:14ஐ பார்க்கவும்.",
+     "anchor": "முள்ளம்பன்றியும் அதைச் சொந்தமாக்கிக்கொள்ளும்"
+    },
+    {
+     "id": "geneva/ISA.34.11#p2-ca0eb38d",
+     "text": "அதை மறுபடியும் கட்டுவதற்கு எவனும் முயற்சிசெய்வது வீணே.",
+     "anchor": "வெறுமையின் தூக்குநூலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.12",
+   "source_hash": "3ce77885",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.12#p1-3ce77885",
+     "text": "அதாவது, அங்கே ஒழுங்கும், நிர்வாகமும், ராஜ்யநிலைமையும் இல்லாமல் இருக்கும் என்பதாம்.",
+     "anchor": "அதின் மேன்மக்களை அழைத்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.14",
+   "source_hash": "af7410ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.14#p1-af7410ee",
+     "text": "ஏசாயா 13:21ஐப் பார்க்க.",
+     "anchor": "காட்டுமிருகங்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.15",
+   "source_hash": "9664c1e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.15#p1-9664c1e9",
+     "text": "இதுமேயா பயங்கரமான பாழ்நிலமாகவும், பயிர் விளையாத வனாந்தரமாகவும் இருக்கும் என்பதைக் குறிக்கிறது.",
+     "anchor": "இராஜாளிக்கழுகு கூடுகட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.16",
+   "source_hash": "e67985c6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.16#p1-68e920e5",
+     "text": "அதாவது, நியாயப்பிரமாணத்தில் இத்தகைய சாபம் துன்மார்க்கருக்கு விரோதமாக அச்சுறுத்தப்பட்டுள்ள இடத்தில்.",
+     "anchor": "யெகோவாவுடைய புத்தகத்திலே"
+    },
+    {
+     "id": "geneva/ISA.34.16#p2-0996d899",
+     "text": "அதாவது, மிருகங்களும் ஆத்துமாக்களும்.",
+     "anchor": "ஒன்றும் குறையாது"
+    },
+    {
+     "id": "geneva/ISA.34.16#p3-de8d45c2",
+     "text": "அதாவது, கர்த்தருடைய வாய்.",
+     "anchor": "அவருடைய வாய் இதைச் சொன்னது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.34.17",
+   "source_hash": "088df4a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.34.17#p1-088df4a4",
+     "text": "அவர் மிருகங்களுக்கும் ஆத்துமாக்களுக்கும் இதுமேயாவைச் சொத்தாகக் கொடுத்திருக்கிறார்.",
+     "anchor": "சீட்டுப்போட்டார்"
+    }
+   ]
+  }
+ ]
+}

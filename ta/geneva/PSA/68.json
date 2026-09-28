@@ -1,0 +1,448 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 68,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.68.1",
+   "source_hash": "1cf3b017",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.1#p1-1cf3b017",
+     "text": "தேவன் துன்மார்க்க கொடுங்கோலரை சிலகாலம் தம்முடைய சபையை ஒடுக்க அனுமதித்தாலும், முடிவில் அவர்களைப் பழிவாங்குவார் என்பதைத் தீர்க்கதரிசி காண்பிக்கிறார்.",
+     "anchor": "எழுந்தருளுவார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.3",
+   "source_hash": "71c4aade",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.3#p1-71c4aade",
+     "text": "தேவன் துன்மார்க்கருக்கு விரோதமாகத் தமது வல்லமையை வெளிப்படுத்துகிறபொழுது, அது தமது சபையின் நன்மைக்காகவும் இரட்சிப்பிற்காகவுமே என்பதைக் காண்பிக்கிறார்; அதற்காக அவர்கள் அவரைத் துதிக்கிறார்கள்.",
+     "anchor": "நீதிமான்களோ மகிழ்ந்து களிகூர்ந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.4",
+   "source_hash": "f52ef740",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.4#p1-f52ef740",
+     "text": "யா, யேகோவா என்பவை தேவனுடைய பெயர்களாகும், அவை அவருடைய அளவிடமுடியாத சாரத்தையும் மகிமையையும் குறிக்கின்றன; இதனால் எல்லா விக்கிரகங்களும் மாயையானவை என்றும், இஸ்ரவேலின் தேவனே ஒரே சத்திய தேவனாக இருக்கிறார் என்றும் அறிவிக்கப்படுகிறது.",
+     "anchor": "யெகோவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.6",
+   "source_hash": "86412274",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.6#p1-6980a00e",
+     "text": "பிள்ளையில்லாதவர்களுக்கு அவர் பிள்ளைகளைக் கொடுத்து, அவர்களுடைய குடும்பங்களைப் பெருகச்செய்கிறார்.",
+     "anchor": "தனிமையானவர்களுக்கு வீடுவாசல் ஏற்படுத்தி"
+    },
+    {
+     "id": "geneva/PSA.68.6#p2-f40b57c1",
+     "text": "தேவனுடைய ஆசீர்வாதங்கள் இல்லாத நிலம், அவர்கள் முன்பு அவற்றைத் தவறாகப் பயன்படுத்தியிருந்தார்கள்.",
+     "anchor": "வறண்ட பூமி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.7",
+   "source_hash": "e6b23bf0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.7#p1-e6b23bf0",
+     "text": "எகிப்திலிருந்து அவர்களுக்குக் கிடைத்த அற்புதமான விடுதலையினால் தெரியவருகிறபடி, தேவனுடைய தயவு விசேஷமாகத் தம்முடைய சபைக்குச் சொந்தமானது என்று அவர் போதிக்கிறார்.",
+     "anchor": "தேவனே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.10",
+   "source_hash": "eaedfc59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.10#p1-eaedfc59",
+     "text": "தேவன் கானான் தேசத்தை ஆசீர்வதித்தார், ஏனெனில் அவர் அந்த இடத்தைத் தமது சபைக்காகத் தெரிந்துகொண்டிருந்தார்.",
+     "anchor": "தயையினாலே ஏழைகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.11",
+   "source_hash": "529c6a11",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.11#p1-529c6a11",
+     "text": "அக்காலத்தில் ஜெயம் கிடைத்த பின்பு பெண்கள் பாடல்களைப் பாடுவது வழக்கமாக இருந்தது; அப்படியே மிரியாமும், தெபொராளும், யூதீத்தும், மற்றவர்களும் பாடினர்.",
+     "anchor": "பிரபலப்படுத்துகிறவர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.12",
+   "source_hash": "dbd9b79b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.12#p1-dbd9b79b",
+     "text": "ஜெபம் மிகுதியாயிருந்தது, அதினால் போர்வீரர் மாத்திரமல்ல, பெண்களும் அதில் பங்கு பெற்றார்கள்.",
+     "anchor": "வீட்டிலிருந்த பெண் ... பங்கிட்டாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.13",
+   "source_hash": "3102d172",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.13#p1-3102d172",
+     "text": "தேவன் தமது சபையை சிலகாலம் கருகிய இருளில் கிடக்க அனுமதித்தாலும், அவர் அதை மீட்டு, மிகவும் பிரகாசமும் வெண்மையும் உள்ளதாக மாற்றுவார்.",
+     "anchor": "அடுப்பினடியில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.14",
+   "source_hash": "e87107a9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.14#p1-e87107a9",
+     "text": "கானான் தேசத்தில், அவருடைய சபை இருந்த இடத்தில்.",
+     "anchor": "அதில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.15",
+   "source_hash": "e4ff54ab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.15#p1-e4ff54ab",
+     "text": "தேவனுடைய சபையாகிய சீயோன், உலகத்தின் வெளிப்பகட்டான மேன்மையினாலோ புறவேஷத்தினாலோ அல்ல, தேவன் அங்கே வாசமாயிருப்பதினிமித்தம் நிலைத்திருக்கிற அவருடைய உள்ளான கிருபையினாலேயே, சகல உலக காரியங்களையும் விட மேன்மையுள்ளதாயிருக்கிறது.",
+     "anchor": "தேவ மலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.16",
+   "source_hash": "26a010bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.16#p1-26a010bd",
+     "text": "நீங்கள் தேவனுடைய இந்த மலைக்கு விரோதமாக உங்கள் பலத்தையும் அழகையும் பெருமையாகக் காண்பிக்கிறீர்களா.",
+     "anchor": "ஏன் துள்ளுகிறீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.18",
+   "source_hash": "2ec1db9a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.18#p1-2ec1db9a",
+     "text": "தேவன் தமது சபையின் எதிரியை மேற்கொண்டு, அவர்களைச் சிறைப்பட்டவர்களாகக் கொண்டு, கப்பம் செலுத்துவோராக்கினார்: அப்படியே சரீரத்தில் வெளிப்பட்ட தேவனாகிய கிறிஸ்து, சாத்தானையும் பாவத்தையும் நமக்குக் கீழ்ப்படுத்தி, தமது சபைக்குத் தமது ஆவியானவரின் மிகுந்த வரங்களைக் கொடுத்தார், எபேசியர் 4:8.",
+     "anchor": "சிறைப்பட்டவர்களைச் சிறையாக்கிக் கொண்டுபோனீர்்; தேவனாகிய யெகோவா மனிதர்களுக்குள் தங்கும்படியாக, துரோகிகளாகிய மனிதர்களுக்காகவும் வரங்களைப் பெற்றுக்கொண்டீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.20",
+   "source_hash": "d90575e7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.20#p1-d90575e7",
+     "text": "மிகக் கொடிய ஆபத்துகளிலும், தேவனுக்குத் தம்முடையவர்களை விடுவிக்க எண்ணிறந்த வழிகளுண்டு.",
+     "anchor": "மரணத்திற்கு நீங்கும் வழிகளுண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.22",
+   "source_hash": "869d67d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.22#p1-869d67d9",
+     "text": "அவர் ஒருமுறை தம்முடைய சபையை பாசானின் ஓக்கிடமிருந்தும் மற்ற கொடுங்கோலர்களிடமிருந்தும் செங்கடலின் ஆபத்திலிருந்தும் விடுவித்தது போலவே, இனிமேலும் அது தேவைப்படும் போதெல்லாம் அவர் அப்படியே செய்வார்.",
+     "anchor": "பாசான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.23",
+   "source_hash": "2116cf7c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.23#p1-2116cf7c",
+     "text": "அதாவது, நாய்கள் இரத்தத்தை நக்கும் இடமான அந்தப் பெரிய கொலைவெட்டியின் இரத்தத்தில் என்று அர்த்தம்.",
+     "anchor": "அதிலேயே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.24",
+   "source_hash": "a8f3cf1b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.24#p1-a8f3cf1b",
+     "text": "அதாவது, முதன்மையான ராஜாவாகிய நீர் உம்முடைய மக்களோடு போருக்குச் சென்று, அவர்களுக்கு வெற்றியைத் தருகிறதை.",
+     "anchor": "நடைகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.25",
+   "source_hash": "e3ec9677",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.25#p1-e3ec9677",
+     "text": "வெற்றிக்காக ஸ்தோத்திரம் செய்ய அவர்கள் ஆலயத்திற்குப் போகும்போது, மக்கள் நடந்த ஒழுங்கை அவர் விவரிக்கிறார்.",
+     "anchor": "முன்னாகப் பாடுகிறவர்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.26",
+   "source_hash": "f9cbf2db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.26#p1-f9cbf2db",
+     "text": "கோத்திரத்தலைவனாகிய யாக்கோபிலிருந்து தோன்றினவர்கள்.",
+     "anchor": "இஸ்ரவேலின் ஊற்றிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.27",
+   "source_hash": "45bcc04c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.27#p1-02c1e763",
+     "text": "பென்யமீன் யாக்கோபுக்குப் பிறந்த இளைய மகனாக இருந்தபடியால் சின்னவன் என்று அழைக்கப்படுகிறான்.",
+     "anchor": "சின்ன பென்யமீனும்"
+    },
+    {
+     "id": "geneva/PSA.68.27#p2-5acbe9f2",
+     "text": "இவன் அந்தக் கோத்திரத்தின் ஒரு பிரதான தலைவனாக இருந்தான்.",
+     "anchor": "ஆளுகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.29",
+   "source_hash": "e5b8d6a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.29#p1-e5b8d6a1",
+     "text": "எருசலேமிலுள்ள உம்முடைய சபையைப் பாதுகாக்கும்படி, உம்முடைய பரிசுத்த மாளிகையிலிருந்து உம்முடைய வல்லமையை வெளிப்படுத்தும்.",
+     "anchor": "எருசலேமிலுள்ள உம்முடைய ஆலயத்திற்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.30",
+   "source_hash": "f1a13179",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.30#p1-f1a13179",
+     "text": "பலவான்களின் பெருமை அழிக்கப்படவேண்டும் என்று அவர் விரும்புகிறார்; அவர்கள் தங்கள் காலணிகளை வெள்ளியினால் அலங்கரிப்பது வழக்கமாயிருந்தது, அதனால் தங்கள் பிரகாசிக்கிற மேனியைக் குறித்து தங்களை எல்லா மனிதரையும்விட மேலானவர்களாக நினைத்தார்கள்.",
+     "anchor": "வெள்ளிப்பணங்களைக் கொண்டுவந்து பணிந்துகொள்ளுவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.31",
+   "source_hash": "e16b663a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.31#p1-e16b663a",
+     "text": "யூதரல்லாதவர்கள் தேவனைப்பற்றிய உண்மையான அறிவுக்கும் தொழுதுகொள்ளுதலுக்கும் வருவார்கள் என அவர் தீர்க்கதரிசனமாகச் சொல்கிறார்.",
+     "anchor": "எகிப்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.33",
+   "source_hash": "86b42223",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.33#p1-86b42223",
+     "text": "தமது பயங்கரமான முழக்கங்களினாலே அவர் தம்மைச் சர்வலோகத்தின் தேவனாக அறியப்படுத்துவார்.",
+     "anchor": "சத்தத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.68.35",
+   "source_hash": "155e774e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.68.35#p1-d2741482",
+     "text": "உம்முடைய மக்களின் இரட்சிப்புக்காக உம்முடைய பகைவர்களுக்கு விரோதமாக பயங்கரமான நியாயத்தீர்ப்புகளைக் காண்பிப்பதில்.",
+     "anchor": "பயங்கரமாக விளங்குகிறீர்"
+    },
+    {
+     "id": "geneva/PSA.68.35#p2-17b1908c",
+     "text": "மூன்று பகுதிகளாகப் பிரிக்கப்பட்டிருந்த ஆசரிப்புக்கூடாரத்தைக் குறிப்பிடுகிறார்.",
+     "anchor": "ஸ்தலங்களிலிருந்து"
+    }
+   ]
+  }
+ ]
+}

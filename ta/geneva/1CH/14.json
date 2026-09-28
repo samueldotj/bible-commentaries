@@ -1,0 +1,59 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.14.2",
+   "source_hash": "b4d0f22c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.2#p1-b4d0f22c",
+     "text": "இஸ்ரவேல் மக்களுக்குக் கொடுக்கப்பட்ட தேவனுடைய வாக்குத்தத்தத்தின் நிமித்தம்.",
+     "anchor": "இஸ்ரவேல் என்னும் தம்முடைய மக்களுக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.14.5",
+   "source_hash": "f7ee2086",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.5#p1-f7ee2086",
+     "text": "எல்பெலேத்தும் நோகாவும் 2 சாமுவேல் 5:14-ல் குறிப்பிடப்படவில்லை, ஆகவே அங்கே பதினொருவர் மட்டும், இங்கே பதின்மூன்று பேர் காணப்படுகிறார்கள்.",
+     "anchor": "எல்பெலேத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.14.11",
+   "source_hash": "3971e8c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.14.11#p1-3971e8c1",
+     "text": "அதாவது, பிரிவுகளின் பள்ளத்தாக்கு; ஏனெனில் எதிரிகள் அங்கே தண்ணீர்கள் போல சிதறடிக்கப்பட்டார்கள்.",
+     "anchor": "பாகால்பிராசீம்"
+    }
+   ]
+  }
+ ]
+}

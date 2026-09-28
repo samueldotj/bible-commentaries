@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 48,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.48.1",
+   "source_hash": "96095f7f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.1#p1-96095f7f",
+     "text": "கோத்திரங்கள் யோசுவாவின் காலத்தில் தேசத்திற்குள் பிரவேசித்தபின்பு, இந்தத் தரிசனத்தில் இங்கே காணப்படுகிறதைவிட வேறுவிதமாக தேசத்தைப் பங்கிட்டுக்கொண்டன.",
+     "anchor": "கோத்திரங்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.48.8",
+   "source_hash": "f5525b8a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.8#p1-f5525b8a",
+     "text": "அதாவது, அவர்கள் கர்த்தருக்கென்று பிரித்து நியமிக்கும் நிலப் பங்கு, அது ஆசாரியர்களுக்கும், தலைவனுக்கும், நகரத்திற்குமாக மூன்று பங்குகளாகப் பிரிக்கப்படும்.",
+     "anchor": "அர்ப்பணிக்கப்படவேண்டிய பங்கு இருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.48.16",
+   "source_hash": "5fdec7c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.16#p1-5fdec7c1",
+     "text": "அது சதுரமாக இருக்கும் என்று அர்த்தம்.",
+     "anchor": "நான்காயிரத்து ஐந்நூறு கோலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.48.20",
+   "source_hash": "310d3797",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.20#p1-310d3797",
+     "text": "ஒவ்வொரு பக்கமும் இருபத்தையாயிரமாக இருக்கும்.",
+     "anchor": "இருபத்தையாயிரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.48.22",
+   "source_hash": "01021318",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.22#p1-01021318",
+     "text": "இதனால் யூதாவினுடையது அதிபதியினுடைய மற்றும் லேவியர்களினுடைய பங்குகளுக்கு வடக்கே இருந்தது, பென்யமீனுடையது தெற்கே இருந்தது.",
+     "anchor": "யூதாவின் எல்லைக்கும் பென்யமீனின் எல்லைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.48.28",
+   "source_hash": "461b82c7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.48.28#p1-e916390a",
+     "text": "இது இங்கே இதுமேயாவைக் குறிக்கிறது.",
+     "anchor": "தென்மூலையாகிய தெற்கு எல்லை, தாமார்துவக்கி காதேசிலுள்ள சண்டைமூட்டுதலின் தண்ணீர்கள் வரையும்"
+    },
+    {
+     "id": "geneva/EZK.48.28#p2-590a6be4",
+     "text": "இது பனை மரங்களின் நகரமாகிய எரிகோவைக் குறிக்கிறது.",
+     "anchor": "தாமார்துவக்கி காதேசிலுள்ள சண்டைமூட்டுதலின் தண்ணீர்கள் வரையும்"
+    },
+    {
+     "id": "geneva/EZK.48.28#p3-0dd9360c",
+     "text": "இதனால் மத்திய தரைக் கடல் என்று அழைக்கப்படும் கடலில் ஓடும் நைல் நதி குறிக்கப்படுகிறது.",
+     "anchor": "மத்திய தரைக் கடல்வரைக்கும்"
+    }
+   ]
+  }
+ ]
+}

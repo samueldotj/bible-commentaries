@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.13.1",
+   "source_hash": "0727393a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.1#p1-249a3fc7",
+     "text": "கிட்டத்தட்ட நூற்றுப்பத்து வயதுள்ளவனாயிருந்தான்.",
+     "anchor": "வயதுமுதிர்ந்தவனானாய்"
+    },
+    {
+     "id": "geneva/JOS.13.1#p2-34dd7fa4",
+     "text": "பகைவர்கள் மேற்கொள்ளப்பட்ட பின்பு.",
+     "anchor": "கைப்பற்றிக்கொள்ளவேண்டிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.6",
+   "source_hash": "43467cb8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.6#p1-43467cb8",
+     "text": "யோசுவா 11:8-ஐ பார்க்கவும்.",
+     "anchor": "மிஸ்ரபோத்மாயீம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.13",
+   "source_hash": "980e40dd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.13#p1-980e40dd",
+     "text": "தேவன் கட்டளையிட்டபடி எல்லோரையும் அழிக்காமலிருந்தபடியால், மீதியாயிருந்தவர்கள் அவர்களைச் சேதப்படுத்த கண்ணிகளும் முட்களுமாக இருந்தார்கள், எண்ணாகமம் 33:35; யோசுவா 23:13; நியாயாதிபதிகள் 2:3.",
+     "anchor": "துரத்திவிடவில்லை, கெசூரியர்களையும்... துரத்திவிடவில்லை, கெசூரியர்களையும் மாகாத்தியர்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.14",
+   "source_hash": "fc3af9b7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.14#p1-fc3af9b7",
+     "text": "லேவியர்கள் பலிகளினாலே வாழ்வார்கள், எண்ணாகமம் 18:21.",
+     "anchor": "அவர்களுடைய பங்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.22",
+   "source_hash": "7f9e7c3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.22#p1-7f9e7c3d",
+     "text": "இப்படியே, துன்மார்க்கமான ஆலோசனைக்குக் கீழ்ப்படிந்தவர்களும், அந்த ஆலோசனை கொடுத்தவனும் தேவனுடைய நீதியான நியாயத்தீர்ப்பினால் அழிந்தார்கள்.",
+     "anchor": "பேயோரின் மகனாகிய பிலேயாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.27",
+   "source_hash": "b1f3ce64",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.27#p1-b1f3ce64",
+     "text": "அதாவது, மோவாபின் தேசத்தில்.",
+     "anchor": "கிழக்கே யோர்தானின் கரையோரமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.13.31",
+   "source_hash": "6b877294",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.13.31#p1-6b877294",
+     "text": "அதாவது, அவனுடைய பேரப்பிள்ளைகளையும் சந்ததியையும் குறிக்கிறது.",
+     "anchor": "மகனாகிய மாகீரின் மக்கள்"
+    }
+   ]
+  }
+ ]
+}

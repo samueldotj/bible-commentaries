@@ -1,0 +1,368 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.1.2",
+   "source_hash": "c6d67122",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.2#p1-b11c1102",
+     "text": "அதாவது, நாம் அறிந்து பின்பற்ற வேண்டியவை, நாம் விலக்க வேண்டியவை.",
+     "anchor": "போதகத்தையும்"
+    },
+    {
+     "id": "geneva/PRO.1.2#p2-6250232d",
+     "text": "அதாவது, உண்மையான ஞானம் மட்டும் இருக்கும் தேவனுடைய வசனத்தையே குறிக்கிறது.",
+     "anchor": "புத்திமதிகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.3",
+   "source_hash": "edbab921",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.3#p1-177905cc",
+     "text": "ஞானமுள்ளவர்களுடைய சிட்சைக்குக் கீழ்ப்படிய கற்றுக்கொள்வதற்காக.",
+     "anchor": "விவேகம்"
+    },
+    {
+     "id": "geneva/PRO.1.3#p2-0d49f979",
+     "text": "நியாயமாக நடந்து ஒவ்வொருவனுக்கும் அவனுக்குரியதைச் செய்வதின் மூலமாக.",
+     "anchor": "நியாயம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.4",
+   "source_hash": "802bb4c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.4#p1-802bb4c9",
+     "text": "தங்களை நடத்திக்கொள்ளத் தெரியாதவர்களுக்கு.",
+     "anchor": "பேதைகளுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.5",
+   "source_hash": "4f9077ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.5#p1-4f9077ef",
+     "text": "ஒழுக்கத்தையும் உபதேசத்தையும் குறித்த மார்க்கத்தின் பயனை அடக்கிய இந்த உவமைகள் எளிய மக்களுக்குரியவை என்று அவன் காண்பிப்பது போலவே, ஞானமும் கல்வியும் உள்ளவர்களுக்கும் அது அவசியம் என்று அறிவிக்கிறான்.",
+     "anchor": "விவேகி நல்ல ஆலோசனைகளை அடைந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.8",
+   "source_hash": "ca247be5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.8#p1-86ad3605",
+     "text": "எல்லா உருவாக்கப்பட்டவைகளுக்கும் பொதுவான தகப்பனாகிய தேவனுடைய பெயரிலோ, அல்லது தகப்பனைப்போல் இருக்கிற சபையின் மேய்ப்பனுடைய பெயரிலோ இதைச் சொல்கிறார்.",
+     "anchor": "தகப்பன்"
+    },
+    {
+     "id": "geneva/PRO.1.8#p2-160deed8",
+     "text": "அதாவது, சபையைக் குறிக்கிறது; அதில் உண்மையுள்ளவர்கள் தேவனுடைய வார்த்தையாகிய அழிவில்லாத வித்தினால் பிறப்பிக்கப்படுகிறார்கள்.",
+     "anchor": "தாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.10",
+   "source_hash": "6a108f41",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.10#p1-6a108f41",
+     "text": "அதாவது, தேவனுக்குப் பயமில்லாத துன்மார்க்கர்.",
+     "anchor": "பாவிகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.11",
+   "source_hash": "af572f84",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.11#p1-af572f84",
+     "text": "அவன் கையால் இரத்தம் சிந்துவதைப் பற்றி மட்டும் அல்ல, நம் அயலகத்தானுக்கு தீங்கு விளைவிக்கும் எல்லா சூழ்ச்சியான தந்திரங்களைப் பற்றியும் பேசுகிறான்.",
+     "anchor": "இரத்தம்சிந்தும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.12",
+   "source_hash": "acf8c9d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.12#p1-acf8c9d8",
+     "text": "பாதாளம் ஒருபோதும் திருப்தியடையாதது போல, துன்மார்க்கருடைய தீங்கும் அவர்களுடைய கொடுமையும் முடிவற்றது.",
+     "anchor": "பாதாளம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.14",
+   "source_hash": "79548088",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.14#p1-79548088",
+     "text": "துன்மார்க்கர் ஒன்றுசேர எப்படி இழுக்கப்படுகிறார்கள் என்பதை அவர் காண்பிக்கிறார், ஏனெனில் அப்பாவிகளின் கொள்ளைப்பொருளில் ஒவ்வொருவனுக்கும் பங்கு உண்டு.",
+     "anchor": "பை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.15",
+   "source_hash": "de535aa6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.15#p1-de535aa6",
+     "text": "அதாவது, அவர்களோடு எவ்விதத்திலும் சம்பந்தப்படாதே.",
+     "anchor": "பாதைக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.18",
+   "source_hash": "b4b8d080",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.18#p1-b4b8d080",
+     "text": "இந்த துன்மார்க்கர்கள் குற்றமில்லாதவரைக் கொள்ளையிடும்படி தள்ளும் காரணம் அவர்களுடைய பொறாமையும் கொடுமையும் அன்றி வேறொன்றுமில்லை என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "தங்களுடைய உயிருக்கே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.19",
+   "source_hash": "40b587fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.19#p1-40b587fa",
+     "text": "இதனால் அவன் பொருளாசையுள்ளவன் கொலைகாரன் என்று முடிவு செய்கிறான்.",
+     "anchor": "இது தன்னை உடையவர்களின் உயிரை வாங்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.20",
+   "source_hash": "dd007866",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.20#p1-420830f8",
+     "text": "இந்த ஞானமானது நித்திய தேவனுடைய வசனமாகும்.",
+     "anchor": "ஞானமானது வெளியே நின்று கூப்பிடுகிறது"
+    },
+    {
+     "id": "geneva/PRO.1.20#p2-ececde93",
+     "text": "இதனால் ஒருவனும் அறியாமையை நினைத்துச் சாட்டுச்சொல்ல முடியாது.",
+     "anchor": "வீதிகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.22",
+   "source_hash": "9847299a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.22#p1-9847299a",
+     "text": "ஞானமானது மூவகையான மனிதரைக் கடிந்துகொள்கிறது: அறியாமையினால் தவறு செய்யும் பேதைகள், படிப்பிக்கப்படுவதைப் பொருந்திக்கொள்ளாத ஏளனம் செய்பவர்கள், மற்றும் உலகப்பிரகார இச்சைகளில் மூழ்கியிருந்து தேவபக்திக்கானவைகளின் அறிவை வெறுக்கும் அறிவில்லாதவர்கள்.",
+     "anchor": "பேதைகளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.26",
+   "source_hash": "985ddfdb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.26#p1-985ddfdb",
+     "text": "இது நமது புரிதலுக்கேற்ப சொல்லப்பட்டது; தேவனுடைய வார்த்தையை ஏளனம்செய்து பரிகாசம்செய்யும் துன்மார்க்கருக்கு, அவர்களுடைய பரிகாசத்திற்குத் தகுந்த பலனே கிடைக்கும் என்பதைக் குறிக்கிறது.",
+     "anchor": "ஆபத்துக்காலத்தில் சிரித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.27",
+   "source_hash": "0683ae47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.27#p1-0683ae47",
+     "text": "அதாவது, நீங்கள் பயந்த உங்கள் அழிவு.",
+     "anchor": "நீங்கள் பயப்படும் காரியம் புயல்போல் வரும்போதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.28",
+   "source_hash": "13ea8cfd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.28#p1-13ea8cfd",
+     "text": "ஏனெனில் அவர்கள் தேவன்மேல் அன்புகொண்டு தேடாமல், தங்கள் சொந்த வேதனையினின்று விடுதலைபெற வேண்டுமென்றே தேடினார்கள்.",
+     "anchor": "என்னைக் காணமாட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.30",
+   "source_hash": "dc03aadf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.30#p1-dc03aadf",
+     "text": "விசுவாசமும் கீழ்ப்படிதலும் இல்லாமல், நாம் தேவனை முறையாக கூப்பிடக்கூடாது என்பதைக் காண்பிக்கிறது.",
+     "anchor": "என்னுடைய கடிந்துகொள்ளுதலையெல்லாம் அசட்டை செய்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.31",
+   "source_hash": "9b2310fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.31#p1-9b2310fc",
+     "text": "தங்களுடைய துன்மார்க்க வாழ்க்கை தங்களுக்கு என்ன நன்மை தரும் என்பதை அவர்கள் அனுபவித்து அறிவார்கள்.",
+     "anchor": "தங்களுடைய வழியின் பலனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.1.32",
+   "source_hash": "1c9ab591",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.1.32#p1-1c9ab591",
+     "text": "அதாவது, அவர்கள் மகிழும் செல்வச் செழிப்பும் இச்சை நிறைவேற்றமும்.",
+     "anchor": "அறிவீனர்களின் மாறுபாடு"
+    }
+   ]
+  }
+ ]
+}

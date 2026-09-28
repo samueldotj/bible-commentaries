@@ -1,0 +1,200 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.29.1",
+   "source_hash": "753c9cd3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.1#p1-753c9cd3",
+     "text": "அல்லது, \"தன் கால்களை உயர்த்தினான்\".",
+     "anchor": "பயணம்செய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.2",
+   "source_hash": "2ea352c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.2#p1-2ea352c0",
+     "text": "இவ்விதமாக அவன் தேவனுடைய பராமரிப்பினாலே வழிநடத்தப்பட்டான், அவரே அவனை லாபானுடைய வீட்டிற்குக் கொண்டுவந்தார்.",
+     "anchor": "கிணற்றையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.4",
+   "source_hash": "5b5bea5a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.4#p1-5b5bea5a",
+     "text": "அந்நாட்களில் அந்நியர்களைக்கூட சகோதரர்கள் என்று அழைப்பது வழக்கமாக இருந்திருக்கிறது.",
+     "anchor": "சகோதரர்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.6",
+   "source_hash": "ee7369f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.6#p1-ee7369f6",
+     "text": "அல்லது, \"அவன் சமாதானத்திலிருக்கிறானா?\" இதனால் எபிரெயர்கள் செழிப்பைக் குறிக்கிறார்கள்.",
+     "anchor": "சுகமாயிருக்கிறானா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.13",
+   "source_hash": "b5670c46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.13#p1-b5670c46",
+     "text": "அதாவது, தான் தன் தகப்பன் வீட்டிலிருந்து புறப்பட்ட காரணத்தையும், தன் பயணத்தில் தான் கண்டவைகளையும்.",
+     "anchor": "தன் காரியங்களையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.14",
+   "source_hash": "590296c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.14#p1-590296c5",
+     "text": "அதாவது, என் இரத்தமும் என் உறவினருமானவன்.",
+     "anchor": "என் எலும்பும் என் மாம்சமுமானவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.20",
+   "source_hash": "3949cda8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.20#p1-3949cda8",
+     "text": "அதாவது வருடங்கள் நிறைவேறின பின்பு என்பதாம்.",
+     "anchor": "கொஞ்ச நாளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.23",
+   "source_hash": "6cd28234",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.23#p1-6cd28234",
+     "text": "யாக்கோபு ஏமாற்றப்பட்டதற்குக் காரணம், பூர்வ காலங்களில் மனைவி தன் கற்புக்கும் தாழ்மைக்கும் அடையாளமாகத் தன் கணவனிடத்தில் கொண்டுவரப்படும்போது திரையினால் மூடப்பட்டிருந்தாள் என்பதே.",
+     "anchor": "அன்று இரவிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.26",
+   "source_hash": "6b63ed84",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.26#p1-6b63ed84",
+     "text": "தான் யாக்கோபுடைய சேவையினால் பெற்ற பயனை, தன் வாக்குத்தத்தத்தையோ அல்லது தேசத்தின் வழக்கத்தையோ விட அதிக மதிப்புள்ளதாகக் கருதினான்; ஆனாலும் அவன் வழக்கத்தையே தன் நியாயமாகக் காட்டினான்.",
+     "anchor": "இந்த இடத்தின் வழக்கம் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.31",
+   "source_hash": "27e12ee4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.31#p1-27e12ee4",
+     "text": "மனிதரால் அற்பமாக எண்ணப்படுகிறவர்களே பெரும்பாலும் தேவனால் தயை பெறுகிறார்கள் என்பதை இது காண்பிக்கிறது.",
+     "anchor": "கர்ப்பந்தரிக்கும்படி செய்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.29.32",
+   "source_hash": "fe03b4f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.29.32#p1-7572279e",
+     "text": "இதனால் அவள் தன் சிறுமையில் தேவனிடத்தில் உதவியை நாடினாள் என்று தெரிகிறது.",
+     "anchor": "யெகோவா என் சிறுமையைப் பார்த்தருளினார்"
+    },
+    {
+     "id": "geneva/GEN.29.32#p2-559a0860",
+     "text": "பிள்ளைகள் கணவனுக்கும் மனைவிக்கும் இடையே பரஸ்பர அன்புக்கு ஒரு பெரிய காரணமாக இருக்கிறார்கள்.",
+     "anchor": "என்னை நேசிப்பார்"
+    }
+   ]
+  }
+ ]
+}

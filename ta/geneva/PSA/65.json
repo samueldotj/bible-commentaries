@@ -1,0 +1,159 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 65,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.65.1",
+   "source_hash": "d7cfee69",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.1#p1-d7cfee69",
+     "text": "தேவரீர் உம்முடைய சபைக்குத் துதி செலுத்துவதற்குப் புதுப்புது சந்தர்ப்பங்களை நாள்தோறும் கொடுத்துக்கொண்டிருக்கிறீர்.",
+     "anchor": "உமக்காகத் துதியானது அமைந்து காத்திருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.2",
+   "source_hash": "022134f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.2#p1-022134f0",
+     "text": "யூதர்கள் மட்டுமல்ல, கிறிஸ்துவின் ராஜ்யத்திலுள்ள யூதரல்லாதவரும் அடங்குவார்கள்.",
+     "anchor": "மனிதர்கள் அனைவரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.3",
+   "source_hash": "5d419bda",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.3#p1-5d419bda",
+     "text": "தம்முடைய பாவங்களினாலும், மக்களின் பாவங்களினாலும், தம்மை உபத்திரவப்படுத்த வழக்கமான தேவன் தம்முடைய உதவியை அவர்களுக்குத் தராமல் விலக்கிக்கொள்கிறார் என்று அவர் எண்ணுகிறார்.",
+     "anchor": "என்மேல் மிஞ்சி வல்லமைகொண்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.5",
+   "source_hash": "fd7538e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.5#p1-1e87d5b9",
+     "text": "செங்கடலில் செய்தது போலவே, உம்முடைய பகைவரை அழிப்பதினால் உம்முடைய சபையைப் பாதுகாக்கிறவராக நீர் உம்மைவெளிப்படுத்துவீர்.",
+     "anchor": "உத்திரவு அருளுகிறீர்"
+    },
+    {
+     "id": "geneva/PSA.65.5#p2-a2eae14f",
+     "text": "காட்டுமிராண்டித் தேசங்கள் அனைத்தையும், தூரமானவைகளையும் குறிக்கிறது.",
+     "anchor": "கடல்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.7",
+   "source_hash": "187c6a7a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.7#p1-187c6a7a",
+     "text": "உலகத்திலே தேவனுடைய வல்லமையினாலும் பராமரிப்பினாலும் ஆளப்படாத எந்த பாகமும் படைப்பும் இல்லை என்பதை இவர் காண்பிக்கிறார்.",
+     "anchor": "அலைகளின் இரைச்சலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.9",
+   "source_hash": "386c6ac2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.9#p1-150da0c2",
+     "text": "அதாவது, மழையினால்.",
+     "anchor": "பூமியை விசாரித்து"
+    },
+    {
+     "id": "geneva/PSA.65.9#p2-9c95de75",
+     "text": "அதாவது, சீலோ அல்லது மழை.",
+     "anchor": "தேவநதியினால்"
+    },
+    {
+     "id": "geneva/PSA.65.9#p3-3ec54914",
+     "text": "மனுஷனுடைய உபயோகத்திற்காக ஆகாரத்தை விளையச்செய்யும்படி பூமியை நியமித்தீர்.",
+     "anchor": "திருத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.10",
+   "source_hash": "86e07b15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.10#p1-86e07b15",
+     "text": "இந்த வர்ணனையினால், இயற்கையின் ஒழுங்கு முழுவதும் தேவன் நம்மேல் வைத்திருக்கிற அன்புக்குச் சாட்சியாக இருக்கிறதென்று அவர் காண்பிக்கிறார்; அவர் எல்லா சிருஷ்டிகளையும் நம் தேவைக்கு உதவும்படி செய்கிறார்.",
+     "anchor": "அதின் வரப்புகள் தணியும்படி அதின் வயல்களுக்குத் தண்ணீர் இறைத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.65.13",
+   "source_hash": "74640221",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.65.13#p1-74640221",
+     "text": "அதாவது, ஊமையான படைப்புகள் தேவனுடைய நன்மைகளுக்காக ஒரு காலத்திற்கு மாத்திரம் மகிழ்ச்சியடையாமல், நிரந்தரமாகப் பாடிக்கொண்டிருக்கும்.",
+     "anchor": "அவைகள் கெம்பீரித்துப் பாடுகிறது"
+    }
+   ]
+  }
+ ]
+}

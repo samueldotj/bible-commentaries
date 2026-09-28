@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.10.1",
+   "source_hash": "73ef49ec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.1#p1-73ef49ec",
+     "text": "யொசேபு கூறுகிறபடி, அவள் எத்தியோப்பியாவின் ராணியாக இருந்தாள்; சேபா என்பது மேரோயில் இருந்த தலைநகரத்தின் பெயராயிருந்தது, அது நைல் நதியின் ஒரு தீவாகும்.",
+     "anchor": "சேபாவின் ராணி கேள்விப்பட்ட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.5",
+   "source_hash": "af37d204",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.5#p1-af37d204",
+     "text": "அதாவது, அவனுடைய வீட்டின் முழு வழிமுறையும், நடைமுறையும்.",
+     "anchor": "பந்தியின் உணவு வகைகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.8",
+   "source_hash": "774d1bd6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.8#p1-774d1bd6",
+     "text": "ஆனாலும், தேவனுடைய வார்த்தையில் வெளிப்படுத்தப்பட்ட ஞானத்தைக் கேட்கிறவர்களே இதற்கு அதிகமாய்ப் பாக்கியவான்கள்.",
+     "anchor": "ஞானத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.9",
+   "source_hash": "446d9a3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.9#p1-6de066fb",
+     "text": "தேவபக்தியும் ஞானமுமுள்ள அரசர்கள் நியாயத்தின் சிங்காசனத்தில் அமரும்போது, அது தேவனுடைய தயவின் முதன்மையான அடையாளமாக இருக்கிறது.",
+     "anchor": "பிரியம் கொண்ட"
+    },
+    {
+     "id": "geneva/1KI.10.9#p2-bb205486",
+     "text": "அரசர்கள் ஏற்படுத்தப்படுவதற்குக் காரணம் இதுவே.",
+     "anchor": "நியாயமும் நீதியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.15",
+   "source_hash": "f63f1813",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.15#p1-f63f1813",
+     "text": "அதாவது, அரேபியா, எல்லாவற்றின் மிகுந்த செழிப்பினிமித்தம் பாக்கியமுள்ளது என்று அழைக்கப்பட்டது.",
+     "anchor": "நாடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.19",
+   "source_hash": "7a9dc044",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.19#p1-7a9dc044",
+     "text": "நாற்காலி வளைந்திருப்பது போல, அல்லது சாய்ந்துகொள்வதற்கான இடங்கள்.",
+     "anchor": "உட்காரும் இடத்திற்கு இருபுறமும் கைப்பிடிகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.10.22",
+   "source_hash": "ea244db8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.10.22#p1-ea244db8",
+     "text": "தர்ஷீஸ் என்பது சிலிசியாவைக் குறிக்கிறது, அது விலையுள்ள பொருள்களின் வகைவகைகளில் நிறைந்திருந்தது.",
+     "anchor": "தர்ஷீசின்"
+    }
+   ]
+  }
+ ]
+}

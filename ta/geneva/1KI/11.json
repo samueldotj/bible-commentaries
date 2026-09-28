@@ -1,0 +1,319 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.11.1",
+   "source_hash": "125b96c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.1#p1-125b96c3",
+     "text": "விக்கிரக ஆராதனை செய்பவர்கள்.",
+     "anchor": "அந்நியர்களான அநேக பெண்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.3",
+   "source_hash": "cbb534b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.3#p1-cbb534b8",
+     "text": "இவர்களுக்குப் பரிசம் இல்லாதிருந்தது.",
+     "anchor": "மறுமனையாட்டிகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.4",
+   "source_hash": "ba27a6d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.4#p1-ba27a6d5",
+     "text": "அவன் தேவனை சுத்த இருதயத்தோடு ஆராதிக்கவில்லை.",
+     "anchor": "தன்னுடைய தேவனாகிய யெகோவாவோடு முழுமையாக அர்ப்பணிக்கப்படவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.5",
+   "source_hash": "b6e28758",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.5#p1-b6e28758",
+     "text": "d இவன் 1 இராஜாக்கள் 11:7-ல் மோளேகு என்றும் அழைக்கப்பட்டான். 2 இராஜாக்கள் 23:10-ஐயும் பார்க்கவும்.",
+     "anchor": "அம்மோனியர்களின் அருவருப்பாகிய மில்கோமை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.7",
+   "source_hash": "67c18a92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.7#p1-67c18a92",
+     "text": "இவ்விதமாக ஒரு மனிதன் தேவனாகக் கருதி வணங்கி சேவிக்கும் எதையும் வேதவாக்கியம் இப்படியே அழைக்கிறது.",
+     "anchor": "மோவாபியர்களின் அருவருப்பாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.11",
+   "source_hash": "489a1d18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.11#p1-489a1d18",
+     "text": "நீ என்னை விட்டு, விக்கிரகங்களைத் தொழுதுகொண்டாய் என்பதே.",
+     "anchor": "இந்தக் காரியத்தைச் செய்ததால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.13",
+   "source_hash": "cc1c505f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.13#p1-cc1c505f",
+     "text": "யூதா, பென்யமீன் கோத்திரங்களுடைய நிலங்கள் ஒன்றோடொன்று கலந்திருந்தபடியால், அவை இங்கே ஒரே கோத்திரமாகக் கருதப்படுகின்றன.",
+     "anchor": "ஒரு கோத்திரத்தை நான் உன்னுடைய மகனுக்குக் கொடுப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.14",
+   "source_hash": "dfc7baaa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.14#p1-dfc7baaa",
+     "text": "ஏதோம் ராஜாவின் வம்சத்தைச் சேர்ந்தவன்.",
+     "anchor": "ஏதோமிலிருந்த ராஜ குடும்பத்தைச்சேர்ந்தவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.15",
+   "source_hash": "5686def8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.15#p1-5686def8",
+     "text": "ஏதோமியரில் கொலையுண்டவர்கள்.",
+     "anchor": "கொன்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.17",
+   "source_hash": "aa8adb12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.17#p1-aa8adb12",
+     "text": "இவ்விதமாக தேவன் இந்த விக்கிரக ஆராதனை செய்பவனை தம்முடைய மக்களின் பாவங்களைத் தண்டிக்கும் சவுக்காக பாதுகாத்து வைத்தார்.",
+     "anchor": "ஓடிப்போனார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.19",
+   "source_hash": "3967b3a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.19#p1-3967b3a3",
+     "text": "தேவன் அவனுக்குக் கனத்தை உண்டாக்கினார், அதனால் சாலொமோனுடைய வம்சத்திற்கு விரோதமாக அவன் தன் திட்டங்களை நிறைவேற்றுவதற்குத் தேவையான வல்லமை அவனுக்கு அதிகமாக இருக்கும்.",
+     "anchor": "கண்களில் மிகுந்த தயவு கிடைத்ததால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.23",
+   "source_hash": "edbd089e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.23#p1-edbd089e",
+     "text": "தாவீது ஆதாதேசரையும் அவனுடைய இராணுவத்தையும் தோற்கடித்த போது.",
+     "anchor": "தன்னுடைய தலைவனாகிய ஆதாதேசர் என்னும் சோபாவின் ராஜாவைவிட்டு ஓடிப்போய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.24",
+   "source_hash": "c8381306",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.24#p1-c8381306",
+     "text": "அதாவது, அவன் தன்னோடு சேர்த்துக்கொண்ட மனிதர்கள்.",
+     "anchor": "தமஸ்குவில் ஆட்சி செய்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.28",
+   "source_hash": "a4148650",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.28#p1-a4148650",
+     "text": "அவன் எப்பிராயீம் மற்றும் மனாசே கோத்திரத்திற்குரிய சாலொமோனுடைய வேலைகளுக்குக் கண்காணியாக இருந்தான்.",
+     "anchor": "விசாரிப்புக்கு ஒப்புவித்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.30",
+   "source_hash": "e52d5573",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.30#p1-e52d5573",
+     "text": "தீர்க்கதரிசிகள் தங்களை அனுப்பப்பட்டவர்களின் இருதயங்களில் தங்கள் செய்தியை மிகவும் ஆழமாகப் பதிக்கும்படி இந்தக் காணக்கூடிய அடையாளங்களைச் செய்தார்கள்.",
+     "anchor": "பன்னிரண்டு துண்டாகக் கிழித்துப்போட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.36",
+   "source_hash": "122a1224",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.36#p1-122a1224",
+     "text": "அவர் மேசியாவைக் குறிக்கிறார், அவரே உலகமெங்கும் பிரகாசிக்கும் ஒளிமிக்க நட்சத்திரமாக இருப்பார்.",
+     "anchor": "எந்நாளும் ஒரு விளக்கு இருக்கும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.39",
+   "source_hash": "0ac68cd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.39#p1-fb484aaf",
+     "text": "சாலொமோன் செய்த இந்த விக்கிரக ஆராதனையினிமித்தம்.",
+     "anchor": "இப்படி நான் இந்தக் காரியத்திற்காக தாவீதின் சந்ததியைச் சிறுமைப்படுத்துவேன்"
+    },
+    {
+     "id": "geneva/1KI.11.39#p2-088d2ba4",
+     "text": "ஏனெனில் முழு ஆவிக்குரிய ராஜ்யமும் மேசியாவினுள் மீண்டும் ஸ்தாபிக்கப்பட்டது.",
+     "anchor": "இருந்தாலும் எல்லா நாளும் அப்படி இருக்காது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.11.41",
+   "source_hash": "1f9628d7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.11.41#p1-1f9628d7",
+     "text": "இது அவர்களுடைய சிறையிருப்பின்போது இழந்துபோயிருக்கலாம் என்று கருதப்படுகிறது.",
+     "anchor": "சாலொமோனுடைய வரலாற்றுப் புத்தகத்தில்"
+    }
+   ]
+  }
+ ]
+}

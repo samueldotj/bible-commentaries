@@ -1,0 +1,353 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.2.2",
+   "source_hash": "ed8f613a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.2#p1-ed8f613a",
+     "text": "நான் மற்ற மனுஷர் எல்லாரும் மரிக்கிறதுப் போல மரிக்கத் தயாராயிருக்கிறேன்.",
+     "anchor": "பூமியில் உள்ள யாவரும் மரிப்பதுப் போல மரிக்கப் போகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.3",
+   "source_hash": "67a46d9a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.3#p1-67a46d9a",
+     "text": "ஆளுகை செய்வது எவ்வளவு கடினமானது என்றும், தேவனுக்குக் கீழ்ப்படியாத எவனும் அதை நன்றாகச் செய்ய முடியாது என்றும் அவன் காண்பிக்கிறான்.",
+     "anchor": "யெகோவா என்னைக் குறித்து... சொன்ன தம்முடைய வார்த்தையை உறுதிப்படுத்துவதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.4",
+   "source_hash": "bc897af0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.4#p1-bc897af0",
+     "text": "மாயமில்லாமல்.",
+     "anchor": "சத்தியத்துடன் தங்கள் முழு இருதயத்தோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.5",
+   "source_hash": "4deb3084",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.5#p1-d09c208d",
+     "text": "யுத்தம் இருந்ததுபோல, அவன் சமாதானகாலத்திலே இரத்தத்தைச் சிந்தினான்.",
+     "anchor": "சமாதானகாலத்திலே யுத்தகாலத்து இரத்தத்தைச் சிந்தி"
+    },
+    {
+     "id": "geneva/1KI.2.5#p2-2dd27753",
+     "text": "அவன் இரத்தம் தோய்ந்த வாளை உறையில் வைத்தான்.",
+     "anchor": "யுத்தகாலத்து இரத்தத்தைத் தன்னுடைய இடுப்பிலுள்ள வாரிலும் தன்னுடைய கால்களில் இருந்த காலணிகளிலும் சிந்தவிட்டானே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.7",
+   "source_hash": "8dff2cc8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.7#p1-8dff2cc8",
+     "text": "அதாவது, அவர்கள் என்னிடம் இரக்கமாக நடந்துகொண்டார்கள்.",
+     "anchor": "அவர்கள் என்னை ஆதரித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.9",
+   "source_hash": "f0e7b473",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.9#p1-f0e7b473",
+     "text": "அவன் மரண தண்டனையால் தண்டிக்கப்படக்கடவன், 1 இராஜாக்கள் 2:46-ஐ பார்.",
+     "anchor": "இரத்தத்துடன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.13",
+   "source_hash": "de980984",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.13#p1-de980984",
+     "text": "ஏனெனில் அவன் ராஜாவுக்கு விரோதமாக கலகம் செய்வானோ என்று அவள் பயந்திருந்தாள்.",
+     "anchor": "சமாதானமாக வருகிறாயா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.15",
+   "source_hash": "1107a48f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.15#p1-1107a48f",
+     "text": "அவர்களுடைய தயவையும் சம்மதத்தையும் காட்டும் அடையாளமாக.",
+     "anchor": "என்னை எதிர்பார்த்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.19",
+   "source_hash": "39f0cd96",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.19#p1-39f0cd96",
+     "text": "மரியாதைக்கு அடையாளமாகவும், மற்றவர்களும் தன்னுடைய முன்மாதிரியைப் பின்பற்றி அவளுக்கு அதிக மரியாதை செலுத்தும்படியாகவும்.",
+     "anchor": "அவளை வணங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.22",
+   "source_hash": "d3c65295",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.22#p1-d3c65295",
+     "text": "அதாவது, தன் தகப்பனுக்கு இவ்வளவு பிரியமான அபிஷாகைக் கொடுத்திருந்தால், அவன் பின்பு ராஜ்ஜியபாரத்தையும் ஆசைப்பட்டிருப்பான் என்பதாம்.",
+     "anchor": "ராஜ்ஜியபாரத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.26",
+   "source_hash": "8561ded8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.26#p1-8561ded8",
+     "text": "அப்சலோமுக்கு முன்பாக அவன் ஓடிப்போன காலத்தில், 2 சாமுவேல் 15:24.",
+     "anchor": "கர்த்தருடைய பெட்டியைச் சுமந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.28",
+   "source_hash": "6f2b199a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.28#p1-6f2b199a",
+     "text": "அதோனியா அரசாட்சியைப் பறித்துக்கொள்ள முயன்றபோது, அவன் அவனுடைய பக்கம் நின்றான் 1 இராஜாக்கள் 1:7.",
+     "anchor": "அதோனியாவின் பக்கம் சாய்ந்திருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.29",
+   "source_hash": "7048a873",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.29#p1-7048a873",
+     "text": "அந்த இடத்தின் பரிசுத்தத்தினால் தான் இரட்சிக்கப்படுவேன் என்று நினைத்து.",
+     "anchor": "பலிபீடத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.31",
+   "source_hash": "75c9fad3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.31#p1-75c9fad3",
+     "text": "ஏனெனில் வேண்டுமென்றே கொலைசெய்தவனைப் பலிபீடத்திலிருந்து பிடித்துக்கொண்டுபோவது நியாயமாக இருந்தது, யாத்திராகமம் 21:14.",
+     "anchor": "அவனைக் கொன்று,ூ அடக்கம்செய்து,ூ இவ்விதமாக யோவாப் காரணமில்லாமல் சிந்தின இரத்தத்தை என்னைவிட்டும்ூ என்னுடைய தகப்பன் வீட்டைவிட்டும் விலக்கிப்போடு.ூ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.33",
+   "source_hash": "58cfdfbc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.33#p1-58cfdfbc",
+     "text": "யோவாப் கொடூரமாக சிந்தின இரத்தத்திற்காக நியாயமாகவே தண்டிக்கப்படுவான்.",
+     "anchor": "யோவாபுடைய தலையின்மேலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.35",
+   "source_hash": "1c055afb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.35#p1-1c055afb",
+     "text": "இவ்விதமாக பிரதான ஆசாரிய பதவியை ஏலியின் வம்சத்தில் இருந்து எடுத்து, பினெகாசின் வம்சத்திற்குத் திரும்பக் கொடுத்தான்.",
+     "anchor": "ஆசாரியனாகிய சாதோக்கை அபியத்தாரின் இடத்திலும் வைத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.39",
+   "source_hash": "9d0b761d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.39#p1-9d0b761d",
+     "text": "இவ்விதமாக தேவன் துன்மார்க்கர்களின்மேல் தம்முடைய நீதியான நியாயத்தீர்ப்பை வரவழைக்கும் வழிகளையும் வகைகளையும் நியமிக்கிறார்.",
+     "anchor": "சீமேயியின் வேலைக்காரர்கள் இரண்டுபேர்... ஓடிப்போனார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.40",
+   "source_hash": "84f6b6ae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.40#p1-84f6b6ae",
+     "text": "தன்னுடைய வேலைக்காரர்களால் தனக்கிருந்த உலகப் பொழுதுபோக்கு லாபத்தை இழப்பதைவிட, தன்னுடைய பொருளாசை மனது அவனுடைய உயிரையே பணயம் வைக்கும்படி தூண்டியது.",
+     "anchor": "சீமேயி எழுந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.44",
+   "source_hash": "5c7084fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.44#p1-5c7084fe",
+     "text": "நீ அதை மறுத்தாலும், நீ என்னுடைய தகப்பனை நிந்தித்து அவருக்குத் தீங்கு செய்ததற்காக உன் மனச்சாட்சியே உன்னைக் குற்றப்படுத்துகிறது, 2 சாமுவேல் 16:5.",
+     "anchor": "நீ செய்ததும் உன் மனதுக்குத் தெரிந்திருக்கிறதுமான எல்லாத் தீங்கையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.2.46",
+   "source_hash": "3c4e78b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.2.46#p1-3c4e78b8",
+     "text": "ஏனெனில் அவனுடைய எதிரிகள் அனைவரும் அழிக்கப்பட்டார்கள்.",
+     "anchor": "சாலொமோனின் கையிலே உறுதிப்பட்டது"
+    }
+   ]
+  }
+ ]
+}

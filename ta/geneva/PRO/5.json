@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.5.3",
+   "source_hash": "ffffd7d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.3#p1-9dfe9aa0",
+     "text": "அதாவது, தன் கணவனை அல்லாமல் வேறொருவனுக்குத் தன்னைக் கொடுக்கும் வேசி.",
+     "anchor": "ஒழுங்கீனமானவளின் உதடுகள் தேன்கூடுபோல் ஒழுகும்"
+    },
+    {
+     "id": "geneva/PRO.5.3#p2-222f5b47",
+     "text": "எண்ணெயினாலும் தேனினாலும் அவன் குறிப்பிடுவது தட்டிக்கொடுக்கும் மாயமான ஏமாற்று வித்தைகளைத்தான்.",
+     "anchor": "எண்ணெயைவிட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.5",
+   "source_hash": "06f3c879",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.5#p1-06f3c879",
+     "text": "அவளுடைய செய்கைகளெல்லாம் அழிவுக்கு நடத்திச்செல்லும்.",
+     "anchor": "காலடிகள் மரணத்திற்கு இறங்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.6",
+   "source_hash": "1136b0fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.6#p1-1136b0fa",
+     "text": "துன்மார்க்கத்திற்கு இழுக்கிச் செல்ல அவளுக்கு எப்பொழுதும் புதிய வழிகள் இருக்கும்.",
+     "anchor": "மாறிமாறி அலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.9",
+   "source_hash": "f8196280",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.9#p1-f8196280",
+     "text": "அதாவது, உன் பெலனையும் உடைமைகளையும், உனக்குக் கருணை காட்டாத பெண்ணுக்குக் கொடுத்துவிடுவாய், சிம்சோனையும் செலவழிக்கும் மகனையும் பற்றி வாசிக்கிறபடி.",
+     "anchor": "உன்னுடைய மேன்மையை அந்நியர்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.10",
+   "source_hash": "2d72a2f5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.10#p1-2d72a2f5",
+     "text": "உன் பிரயாசத்தினால் ஈட்டிய பொருள்.",
+     "anchor": "உழைப்பின் பலன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.14",
+   "source_hash": "7127343c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.14#p1-7127343c",
+     "text": "நான் சத்தியத்தில் உண்மையாக போதிக்கப்பட்டிருந்தும், பக்தியுள்ளவர்களின் சபையில் நல்ல வளர்ப்பைப் பெற்றிருந்தும், அதற்குப் பிறகும் நான் முழு வெட்கத்திற்கும் அழிவிற்கும் கிட்டத்தட்ட உள்ளானேன்.",
+     "anchor": "சபைக்குள்ளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.15",
+   "source_hash": "c73b679e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.15#p1-c73b679e",
+     "text": "நம்முடைய சொந்த வேலையினால் பிழைத்திருக்கவும், குறைவுள்ள தேவபக்தியானவர்களுக்கு உபகாரம் செய்யவும் அறிவுறுத்தி, இச்சையடக்கத்தைப் போதிக்கிறார்.",
+     "anchor": "உன்னுடைய கிணற்றிலுள்ள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.17",
+   "source_hash": "a5d84aa0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.17#p1-a5d84aa0",
+     "text": "அவைகளைத் துன்மார்க்கருக்கும் அவிசுவாசிகளுக்கும் பங்கிட்டுக் கொடுக்காமல், அவைகளை உனக்கும், உன் குடும்பத்திற்கும், விசுவாசக் குடும்பத்தாருக்கும் காத்துவை.",
+     "anchor": "உனக்கே உரியவைகளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.18",
+   "source_hash": "3986956e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.18#p1-d490d36c",
+     "text": "உன்னில் மிகுந்த திரளாய் உண்டாகும் உன் பிள்ளைகள், தேவன் திருமணத்தை ஆசீர்வதிக்கிறார் என்றும், வேசித்தன்மையை சபிக்கிறார் என்றும் காண்பிக்கிறது.",
+     "anchor": "ஊற்றுக்கண் ஆசீர்வதிக்கப்படுவதாக"
+    },
+    {
+     "id": "geneva/PRO.5.18#p2-216847ea",
+     "text": "உன் இளவயதில் நீ மணந்துகொண்டவள்.",
+     "anchor": "இளவயதின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.21",
+   "source_hash": "5c0ec476",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.21#p1-5c0ec476",
+     "text": "தான் இருதயத்திலும் வெளிப்படையான நடக்கையிலும் தன் மனைவியுடன் இணைந்திராவிட்டால், மனிதன் தேவனுடைய நியாயத்தீர்ப்புகளுக்குத் தப்புவதில்லை என்று அவர் அறிவிக்கிறார்.",
+     "anchor": "யெகோவாவின் கண்களுக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.5.23",
+   "source_hash": "eec5250a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.5.23#p1-eec5250a",
+     "text": "தேவனுடைய வார்த்தைக்குச் செவிகொடுத்து புத்தி பெறாதிருக்கிறபடியால்.",
+     "anchor": "புத்தியைக் கேட்காததினால் இறந்து"
+    }
+   ]
+  }
+ ]
+}

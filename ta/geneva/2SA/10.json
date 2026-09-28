@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.10.2",
+   "source_hash": "296c7b71",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.2#p1-296c7b71",
+     "text": "தேவனுடைய பிள்ளைகள் தங்களுக்குச் செய்யப்பட்ட உபகாரத்தை மறவாதவர்கள்.",
+     "anchor": "தயவு செய்ததுபோல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.3",
+   "source_hash": "ab866f0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.3#p1-ab866f0b",
+     "text": "அவர்களுடைய அகந்தையான பொறாமை தாவீதின் இருதயத்தின் நேர்மையைக் காண அவர்களை அனுமதிக்கவில்லை: ஆகையால் அவர்களுடைய ஆலோசனை தங்கள் தேசத்தின் அழிவுக்கே திரும்பியது.",
+     "anchor": "பட்டணத்தை ஆராய்ந்து, உளவுபார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.6",
+   "source_hash": "76ab66d0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.6#p1-76ab66d0",
+     "text": "தாவீதின் தூதுவர்களுக்குச் செய்த தீங்குக்காக, தாவீதின் அதிருப்திக்கு உரியவர்களானார்கள்.",
+     "anchor": "தாவீதுக்கு அருவருப்பானதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.8",
+   "source_hash": "64968c14",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.8#p1-64968c14",
+     "text": "இவை சீரியா தேசத்தின் பல்வேறு பகுதிகளாக இருந்தன; இதனால், தங்களுக்கு உணவும் தங்குமிடமும் கிடைக்குமிடத்தில் சீரியர்கள் சேவை செய்தார்கள் என்று தெரிகிறது, இப்பொழுது ஸ்விட்சர் மக்கள் செய்வது போல.",
+     "anchor": "சோபாவிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.12",
+   "source_hash": "d5111904",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.12#p1-d5111904",
+     "text": "போர் மேற்கொள்ளப்பட வேண்டிய காரணம் இங்கே தெரிவிக்கப்படுகிறது: அது உண்மையான மார்க்கத்தையும் தேவனுடைய மக்களையும் காக்கும்படியே.",
+     "anchor": "நம்முடைய மக்களுக்காகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.17",
+   "source_hash": "a617b268",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.17#p1-a617b268",
+     "text": "பெரும்பான்மையானவர்கள் என்று அர்த்தம்.",
+     "anchor": "இஸ்ரவேலையெல்லாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.10.18",
+   "source_hash": "7066f06d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.10.18#p1-7066f06d",
+     "text": "இவர்கள் முக்கியமான, தலைமையானவர்களாக இருந்தனர்: ஏனெனில் மொத்தமாக அவன் 7,000 பேரை அழித்தான், 1 நாளாகமம் 19:18-ல் இருப்பது போல, அல்லது 700 இரதங்களில் இருந்த போர்வீரர்களை.",
+     "anchor": "700 இரதவீரர்களையும்"
+    }
+   ]
+  }
+ ]
+}

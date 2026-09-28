@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.8.9",
+   "source_hash": "fe5095ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.9#p1-fe5095ff",
+     "text": "“கர்த்தருக்குப் பரிசுத்தம்” என்னும் இந்த மேல்எழுத்து அதில் பொறிக்கப்பட்டிருந்தபடியால் இப்படிச் சொல்லப்பட்டது.",
+     "anchor": "பரிசுத்த கிரீடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.10",
+   "source_hash": "e6b41d8c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.10#p1-e6b41d8c",
+     "text": "அதாவது, மகா பரிசுத்த ஸ்தலம், பரிசுத்த ஸ்தலம், மற்றும் பிராகாரம்.",
+     "anchor": "வாசஸ்தலத்தையும் அதிலுள்ள அனைத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.15",
+   "source_hash": "c7417b62",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.15#p1-c1a24f84",
+     "text": "தகனகாணிக்கையினுடையது.",
+     "anchor": "பலிபீடத்தின் கொம்புகளின்மேல் சுற்றிலும்"
+    },
+    {
+     "id": "geneva/LEV.8.15#p2-35dba28d",
+     "text": "மக்களுடைய பாவங்களுக்காகச் செலுத்துவதற்கு.",
+     "anchor": "அதைப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.17",
+   "source_hash": "260e7bad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.17#p1-260e7bad",
+     "text": "பரிசுத்தமாக்கும் ஊழியத்திற்காக அல்லாத, அல்லது ஆசாரியன் தனக்காகச் செலுத்தாத காணிக்கையான மற்ற சர்வாங்க தகனபலிகளில், தோல் ஆசாரியனுக்கே உரியது, லேவியராகமம் 7:8.",
+     "anchor": "தோலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.23",
+   "source_hash": "27ddb595",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.23#p1-27ddb595",
+     "text": "ஆசாரியர்கள் இன்னும் தங்கள் பதவியில் நிலைநிறுத்தப்படாதிருந்தபடியால் மோசே இதைச் செய்தான்.",
+     "anchor": "கொல்லப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.31",
+   "source_hash": "7d1fe591",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.31#p1-7d1fe591",
+     "text": "பிராகாரத்தின் வாசலிலே.",
+     "anchor": "ஆசரிப்புக்கூடாரத்தின் வாசலிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.8.36",
+   "source_hash": "8cda4386",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.8.36#p1-8cda4386",
+     "text": "மோசேக்கு அளிக்கப்பட்ட அதிகாரத்தின்படி.",
+     "anchor": "மோசேயைக்கொண்டு"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 9,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.9.1",
+   "source_hash": "6ae11690",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.1#p1-6ae11690",
+     "text": "அதாவது, பராக்கிரமமும் செல்வமும் உள்ளவன்.",
+     "anchor": "செல்வாக்குள்ள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.2",
+   "source_hash": "710fb5d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.2#p1-710fb5d9",
+     "text": "இப்படிப்பட்ட ஒருவனை நியமித்ததினால், தேவன் அவர்களுடைய கேட்டலை அங்கீகரித்தார் என்று தோன்றும்படியாக இருந்தது.",
+     "anchor": "அழகான வாலிபன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.3",
+   "source_hash": "9fb0a915",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.3#p1-9fb0a915",
+     "text": "இவை எல்லாம் தேவனுடைய பராமரிப்பிற்குப் பணிசெய்யும் காரணிகளாக இருந்தன, இவற்றின் மூலமாக சவுல் (தேவனால் அங்கீகரிக்கப்படாதவனாக இருந்தும்) ராஜாவாக்கப்பட்டான்.",
+     "anchor": "கழுதைகளைத் தேட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.5",
+   "source_hash": "883d3727",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.5#p1-883d3727",
+     "text": "சாமுவேலின் நகரமாகிய ராமாத்சோப்பீம் இருந்த இடம்.",
+     "anchor": "சூப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.8",
+   "source_hash": "325850aa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.8#p1-325850aa",
+     "text": "இது ஏறக்குறைய ஐந்து பென்ஸ் மதிப்புள்ளது; ஆதியாகமம் 23:15-ஐ வாசிக்கவும்.",
+     "anchor": "கால்சேக்கல் வெள்ளி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.9",
+   "source_hash": "5f94aada",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.9#p1-5f94aada",
+     "text": "வரப்போகிற காரியங்களை முன்னாகக் கண்டதினால் இப்படி அழைக்கப்பட்டான்.",
+     "anchor": "ஞானதிருஷ்டிக்காரன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.12",
+   "source_hash": "1f92d575",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.12#p1-1f92d575",
+     "text": "அதாவது, காணிக்கைக்குப்பின் நடைபெறும் ஒரு பண்டிகை, அது அந்த நோக்கத்திற்காக ஏற்படுத்தப்பட்ட பட்டணத்தின் மேடையில் நடத்தப்படும்.",
+     "anchor": "மக்கள் மேடையில் பலியிடுகிறதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.13",
+   "source_hash": "c2cba263",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.13#p1-c2cba263",
+     "text": "அதாவது, ஸ்தோத்திரம் செலுத்தி, தங்கள் வழக்கத்தின்படி இறைச்சியைப் பங்கிடுவார்.",
+     "anchor": "பலியிட்டதை அவர் ஆசீர்வதிப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.16",
+   "source_hash": "27291a68",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.16#p1-27291a68",
+     "text": "அவர்களுடைய துன்மார்க்கத்தினாலும், தேவன் தமது சுதந்தரத்தை எப்பொழுதும் நினைவில் வைத்திருந்தார்.",
+     "anchor": "என்னுடைய மக்களை பெலிஸ்தர்களின் கையிலிருந்து மீட்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.19",
+   "source_hash": "237bb3ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.19#p1-237bb3ef",
+     "text": "அதாவது, நீ அறியவேண்டுமென்று விரும்புகிற எல்லாவற்றையும்.",
+     "anchor": "இருதயத்தில் உள்ளது எல்லாவற்றையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.20",
+   "source_hash": "b3eac6a2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.20#p1-b3eac6a2",
+     "text": "இஸ்ரவேல் யாரைத் தங்கள் ராஜாவாக விரும்புகிறார்கள், உன்னைத் தவிர?",
+     "anchor": "எல்லா இஸ்ரவேலின் விருப்பம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.22",
+   "source_hash": "ff9a0485",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.22#p1-ff9a0485",
+     "text": "பண்டிகை நடந்த இடம்.",
+     "anchor": "உணவு அறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.24",
+   "source_hash": "927f34c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.24#p1-eb9391b5",
+     "text": "அதாவது, மார்புடன் இருந்த தொடை, இது எல்லா சமாதானபலிக் காணிக்கைகளிலும் ஆசாரியனுக்கும் அவனுடைய குடும்பத்திற்கும் உரியதாக இருந்தது, லேவி. 10:14",
+     "anchor": "அதனோடு இருந்ததையும்"
+    },
+    {
+     "id": "geneva/1SA.9.24#p2-1da4ef51",
+     "text": "அதாவது, மக்களைக் கூட்டி வைத்ததினாலும், உனக்காக ஆயத்தம் செய்யப்பட்ட உணவினாலும், நீ வருவதை நான் அறிந்திருந்தேன் என்பதை நீ உணரும்படியாக.",
+     "anchor": "மக்களை விருந்திற்கு அழைத்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.26",
+   "source_hash": "3dd29127",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.26#p1-3dd29127",
+     "text": "அவனுடன் இரகசியமாகப் பேசுவதற்காக; ஏனெனில் வீடுகள் மேல்பகுதி தட்டையாக இருந்தது.",
+     "anchor": "மேல்வீட்டின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.9.27",
+   "source_hash": "03f2d0f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.9.27#p1-03f2d0f2",
+     "text": "உன்னைக் குறித்த தேவனுடைய கற்பனை.",
+     "anchor": "தேவனுடைய வார்த்தையை"
+    }
+   ]
+  }
+ ]
+}

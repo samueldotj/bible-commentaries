@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 28,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.28.2",
+   "source_hash": "790b8866",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.2#p1-790b8866",
+     "text": "அப்பம் என்பதின் மூலம் எல்லாவகையான பலிகளையும் அவர் குறிக்கிறார்.",
+     "anchor": "தகனபலிகளுக்குரிய காணிக்கையையும், அப்பத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.8",
+   "source_hash": "b4b28127",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.8#p1-b4b28127",
+     "text": "மாலைப் பலியின் உணவுபலிக் காணிக்கையும் பானபலிக் காணிக்கையும்.",
+     "anchor": "நறுமண வாசனையான தகனபலியாகச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.9",
+   "source_hash": "c9d379bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.9#p1-c9d379bb",
+     "text": "ஏபா என்னும் அளவைக்குரியது.",
+     "anchor": "பத்தில் இரண்டு பங்கானதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.10",
+   "source_hash": "1de5b7e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.10#p1-1de5b7e1",
+     "text": "இது காலையிலும் மாலையிலும் ஒவ்வொரு நாளும் செலுத்தப்பட்டது.",
+     "anchor": "எப்பொழுதும் செலுத்தும் சர்வாங்கதகனபலி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.14",
+   "source_hash": "6014ce81",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.14#p1-6014ce81",
+     "text": "அதாவது, பலியின்மேல் ஊற்றப்படும் திராட்சைரசம்.",
+     "anchor": "பானபலிகள் திராட்சைரசத்தில் காளைக்கு அரைப்படியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.18",
+   "source_hash": "74dc6960",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.18#p1-74dc6960",
+     "text": "அல்லது, விசேஷித்த சபைகூடுதல்.",
+     "anchor": "பரிசுத்த சபைகூடுதல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.28.26",
+   "source_hash": "35dc21c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.28.26#p1-35dc21c5",
+     "text": "பஸ்காவிலிருந்து பெந்தெகொஸ்தே நாள்வரை ஏழுவாரங்களை எண்ணிக்கொள்வது, லேவியராகமம் 23:15-ல் உள்ளதுபோல.",
+     "anchor": "வாரங்களுக்குப்பின்பு நீங்கள்"
+    }
+   ]
+  }
+ ]
+}

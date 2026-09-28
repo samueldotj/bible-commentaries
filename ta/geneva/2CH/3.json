@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2CH.3.1",
+   "source_hash": "80d29cdb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.1#p1-80d29cdb",
+     "text": "இது ஆபிரகாம் தன் மகனைப் பலியிட்டதாக நினைக்கப்பட்ட மலை, ஆதி. 22:2.",
+     "anchor": "மோரியா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.3",
+   "source_hash": "8db24ff9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.3#p1-8db24ff9",
+     "text": "ஆலயத்தின் முழு நீளத்தின்படியே.",
+     "anchor": "அறுபதுமுழ நீளமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.4",
+   "source_hash": "bc8ef698",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.4#p1-d01582c9",
+     "text": "இது ஆலயத்தினுடைய அகலத்தின்படியே இருந்தது, 1 இராஜாக்கள் 6:3.",
+     "anchor": "ஆலயத்தினுடைய அகலத்தின்படியேiy்.png..[முழம்]..[சின்னம்]...[டூ]..[கூட].[[ ]].[template],[ ]... அகலத்தின்படியே"
+    },
+    {
+     "id": "geneva/2CH.3.4#p2-f1697bb6",
+     "text": "அஸ்திபாரத்திலிருந்து மேல்வரை: ஏனெனில் இராஜாக்களின் புத்தகத்தில் அஸ்திபாரத்திலிருந்து முதல் தளம் வரை குறிக்கப்பட்டிருக்கிறது.",
+     "anchor": "நூற்றிருபது முழ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.6",
+   "source_hash": "80538fd8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.6#p1-80538fd8",
+     "text": "இது பேரு (Peru) என்று சிலர் நினைக்கிறார்கள்.",
+     "anchor": "பர்வாயீமின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.14",
+   "source_hash": "2294e867",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.14#p1-2294e867",
+     "text": "இது ஆலயத்தை மகா பரிசுத்த ஸ்தலத்திலிருந்து பிரித்தது.",
+     "anchor": "இளநீல நூலாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.15",
+   "source_hash": "23b0a6da",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.15#p1-23b0a6da",
+     "text": "ஒவ்வொரு தூணும் பதினெட்டு முழம் நீளமாயிருந்தது, ஆனாலும் அரை முழம் காணப்படவில்லை, ஏனெனில் அது கும்பத்தின் உருண்டையின் உள்ளே மறைந்திருந்தது, ஆகையால் அவன் ஒவ்வொன்றிற்கும் பதினேழரை முழம் மட்டும் கொடுக்கிறான்.",
+     "anchor": "முப்பத்தைந்துமுழ உயரமான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.3.16",
+   "source_hash": "8079e9ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.3.16#p1-8079e9ac",
+     "text": "ஒவ்வொரு தூணுக்கும் நூறு, 1 இராஜாக்கள் 7:20-ஐ வாசிக்கவும்.",
+     "anchor": "நூறு மாதுளம் பழங்களையும்"
+    }
+   ]
+  }
+ ]
+}

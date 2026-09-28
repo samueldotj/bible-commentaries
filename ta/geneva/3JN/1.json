@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "3JN",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/3JN.1.1",
+   "source_hash": "833ca298",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.1#p1-833ca298",
+     "text": "கிறிஸ்தவ வாழ்த்துதலின் ஒரு உதாரணம்.",
+     "anchor": "மூப்பனாகிய நான்... பிரியமான காயுவிற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.4",
+   "source_hash": "fd87af09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.4#p1-fd87af09",
+     "text": "இந்தச் சந்தோஷங்களைவிட.",
+     "anchor": "என் பிள்ளைகள் சத்தியத்திலே நடக்கிறார்கள் என்று கேள்விப்படுகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.5",
+   "source_hash": "836a799d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.5#p1-836a799d",
+     "text": "விசுவாசியும் கிறிஸ்தவனுமாக இருக்கிறவனுக்கு ஏற்றபடி.",
+     "anchor": "உண்மையாகச் செய்கிறாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.6",
+   "source_hash": "12bc0f06",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.6#p1-12bc0f06",
+     "text": "சபையின் காரியங்களைக்குறித்துத் திரும்பிவரும்முன் அவர் காயுவினிடத்தில் தங்கிச் சென்ற அதே மனிதர்களையோ, அல்லது இது போன்ற வேறு காரியத்தையுடைய வேறொருவரையோ காயுவுக்குச் சிபாரிசு செய்கிறார்.",
+     "anchor": "வழியனுப்பிவைத்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.8",
+   "source_hash": "8bbe2ead",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.8#p1-8bbe2ead",
+     "text": "நாமே சத்தியத்தின் பிரசங்கத்திற்கு உதவியாக இருக்கும்படியாக.",
+     "anchor": "சத்தியத்திற்கு உடன்வேலையாட்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.9",
+   "source_hash": "fb9e0150",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.9#p1-fb9e0150",
+     "text": "பெருமையாசை மற்றும் பொருளாசை என்கிற இரண்டு கொள்ளைநோய் போன்ற பாவங்கள் (குறிப்பாக சபையில் ஏதேனும் பொறுப்புள்ளவர்களில்) தியோத்திரேப்புவில் குற்றஞ்சுமத்தப்படுகின்றன.",
+     "anchor": "நான் சபைக்கு எழுதினேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/3JN.1.11",
+   "source_hash": "a75d7c3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/3JN.1.11#p1-a75d7c3e",
+     "text": "தேவனை அறியாதிருக்கிறான்.",
+     "anchor": "தேவனைப் பார்த்தது இல்லை"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.4.2",
+   "source_hash": "fecd11b1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.2#p1-fecd11b1",
+     "text": "உம்முடைய பொறுமையின்மையைக் கண்டு.",
+     "anchor": "பேசாமல் அடக்கிக்கொள்ளத்தக்கவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.3",
+   "source_hash": "d613a2d4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.3#p1-d613a2d4",
+     "text": "நீர் மற்றவர்களை அவர்கள் உபத்திரவங்களில் தேற்றரவு செய்தீர், ஆனால் இப்பொழுது நீரே உம்மைத் தேற்றரவு செய்யக்கூடவில்லை.",
+     "anchor": "சோர்ந்த கைகளைத் திடப்படுத்தினீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.6",
+   "source_hash": "f9b4c2d4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.6#p1-f9b4c2d4",
+     "text": "யோபு ஒரு மாயக்காரன் என்றும், அவனுக்கு தேவன்மேல் உண்மையான பயமும் நம்பிக்கையும் இல்லை என்றும் அவன் முடிவு செய்கிறான்.",
+     "anchor": "தேவபக்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.7",
+   "source_hash": "9639dfc7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.7#p1-9639dfc7",
+     "text": "தேவன் யோபை இவ்வளவு கடுமையாக நடத்துகிறதைக் கண்டு, யோபு கடிந்துகொள்ளப்பட்டான் என்று அவன் முடிவு செய்கிறான்; இது சரீரத்திற்குரியவர்கள் தேவனுடைய பிள்ளைகளுக்கு விரோதமாகச் சொல்லும் வாதமாயிருக்கிறது.",
+     "anchor": "குற்றமில்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.8",
+   "source_hash": "41c3b428",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.8#p1-41c3b428",
+     "text": "தீமை செய்கிறவர்கள் தீமையையே அறுவடை செய்யாமல் இருக்க முடியாது.",
+     "anchor": "அநியாயத்தை உழுது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.9",
+   "source_hash": "bc45cb54",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.9#p1-bc45cb54",
+     "text": "தேவன் தம்முடைய எதிரிகளை அழிக்க பெரிய ஆயத்தம் தேவையில்லை என்பதைக் காண்பிக்கிறார்; ஏனெனில் அவர் தம்முடைய வாயின் காற்றினால் அதைச் செய்யக்கூடும்.",
+     "anchor": "தேவனுடைய சுவாசத்தினாலே அவர்கள் அழிந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.10",
+   "source_hash": "d5161014",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.10#p1-d5161014",
+     "text": "கொடுங்கோலரை மனிதர் தங்கள் அதிகாரத்தின்படி தண்டிக்காவிட்டாலும் (அவர்களுடைய கொடுமையினிமித்தம் அவர்களை சிங்கங்களுக்கும், அவர்களுடைய பிள்ளைகளை பாலசிங்கங்களுக்கும் உவமிக்கிறார்) தேவனோ அவர்களைத் தண்டிக்க வல்லவராயிருக்கிறார், அவருடைய நியாயமும் அவர்களைத் தண்டிக்கும்.",
+     "anchor": "சிங்கத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.12",
+   "source_hash": "fc6989f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.12#p1-fc6989f4",
+     "text": "நான் முன்பு அறியாத ஒரு காரியம் தரிசனத்தினால் எனக்கு அறிவிக்கப்பட்டது, அதாவது தன்னை நீதிமான் என்று நினைக்கிற எவனும் தேவனுக்கு முன்பாக வரும்போது பாவியாகக் காணப்படுவான் என்பதே.",
+     "anchor": "இரகசியமாக அறிவிக்கப்பட்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.14",
+   "source_hash": "ba47b782",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.14#p1-ba47b782",
+     "text": "தேவன் தம்முடைய சிருஷ்டிகளுக்குக் காண்பிக்கும் இந்தத் தரிசனங்களில், அதன் அதிகாரம் மிகுந்த பயபக்தியுடன் கருதப்படும்படி எப்பொழுதும் ஒருவித பயம் இணைந்திருக்கும்.",
+     "anchor": "நடுங்கியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.16",
+   "source_hash": "e905db55",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.16#p1-e905db55",
+     "text": "தேவன் எலியாவுக்குத் தரிசனமானபோது எல்லாம் அமைதலாயிருந்த வேளையில், அல்லது பயம் நீங்கியபோது, 1 இராஜாக்கள் 19:12.",
+     "anchor": "அமைதலுண்டானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.17",
+   "source_hash": "50b31eaa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.17#p1-50b31eaa",
+     "text": "தேவன் குற்றமில்லாதவனைத் தண்டித்தால், சிருஷ்டிக்கப்பட்டவன் சிருஷ்டிகரைவிட நீதிமானாயிருப்பான் என்று வரும், இது நிந்தை என்று அவன் நிரூபிக்கிறான்.",
+     "anchor": "தேவனைவிட நீதிமான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.18",
+   "source_hash": "fc19a3e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.18#p1-fc19a3e9",
+     "text": "தேவன் தம்முடைய வல்லமையினால் காக்கப்படாதிருக்கும்போது தம்முடைய தூதனிடத்திலேயே குறையைக் கண்டுபிடிக்குமானால், மனிதன் தேவனுக்கு விரோதமாகத் தன்னை நீதிமான் என்று காண்பிக்க முயலும்போது அவனுக்கு எவ்வளவு அதிகமாகப் புத்தியீனத்தைச் சுமத்துவாரோ?",
+     "anchor": "தூதரின்மேலும் புத்தியீனத்தைச் சுமத்துகிறாரே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.19",
+   "source_hash": "715c6ca3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.19#p1-715c6ca3",
+     "text": "அதாவது, சீர்கேட்டிற்கு உட்பட்ட இந்த மரிக்கத்தக்க சரீரத்தில், 2 கொரிந்தியர் 5:1-ல் இருப்பதுபோல.",
+     "anchor": "மண் வீடுகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.20",
+   "source_hash": "f357b74b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.20#p1-eb30717c",
+     "text": "தங்கள் கண்களுக்கு முன்பாக மரணத்தை எப்பொழுதும் காணுகிறார்கள், அது நாள்தோறும் தங்களை நெருங்கி வருகிறதையும் காணுகிறார்கள்.",
+     "anchor": "காலைமுதல் மாலைவரைக்கும்"
+    },
+    {
+     "id": "geneva/JOB.4.20#p2-02baf9da",
+     "text": "இவையெல்லாம் இருந்தும் ஒருவனும் இதைக் கவனிக்கிறதில்லை.",
+     "anchor": "கவனிப்பார் ஒருவருமில்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.4.21",
+   "source_hash": "8fba002f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.4.21#p1-8fba002f",
+     "text": "அதாவது, மரணத்தைக் குறித்து நினைக்கத்தக்க ஞானம் அவர்களில் ஒருவருக்கும் உண்டாகுமுன்பே.",
+     "anchor": "ஞானமடையாமல்"
+    }
+   ]
+  }
+ ]
+}

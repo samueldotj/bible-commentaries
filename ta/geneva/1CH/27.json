@@ -1,0 +1,137 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 27,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.27.1",
+   "source_hash": "827b7a3b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.1#p1-827b7a3b",
+     "text": "இவர்கள் தங்களுடைய கடமையையும் பதவியையும் நடத்தினார்கள், அதையே மாறிமாறி வருவது என்பது குறிக்கிறது.",
+     "anchor": "மாறிமாறி வருவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.4",
+   "source_hash": "2e8737b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.4#p1-2e8737b2",
+     "text": "அதாவது, தோதாயியின் படைத்தலைவன்.",
+     "anchor": "இரண்டாவதாக இருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.16",
+   "source_hash": "ee69471f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.16#p1-ee69471f",
+     "text": "அதாவது அந்தப் பன்னிரண்டு தலைவர்களைத் தவிர வேறே.",
+     "anchor": "கோத்திரங்களுக்குத் தலைவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.21",
+   "source_hash": "d676698a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.21#p1-d676698a",
+     "text": "இது யூதாவைப் பொறுத்தமட்டில் யோர்தானுக்கு அப்பாலிருக்கிறது; ரூபனியருக்கும் காத்தியருக்கும் மேலும் ஒரே அதிபதி இருந்தான்.",
+     "anchor": "கீலேயாத்திலுள்ள மனாசேயின் பாதிக்கோத்திரத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.24",
+   "source_hash": "2bdb8527",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.24#p1-f82941de",
+     "text": "ராஜாவினுடைய கற்பனை யோவாபுக்கு அருவருப்பாக இருந்தது, 1 நாளாகமம் 21:6.",
+     "anchor": "அதற்காக கடுங்கோபம் வந்தது"
+    },
+    {
+     "id": "geneva/1CH.27.24#p2-b3f32c22",
+     "text": "எபிரெயர்கள் இந்த இரண்டு நாளாகம புத்தகங்களையும் ஒரே புத்தகமாகக் கருதுகிறார்கள், இந்த வசனத்தில் வசன எண்ணிக்கையின்படி புத்தகத்தின் நடுப்பகுதி வருகிறது.",
+     "anchor": "தாவீது ராஜாவின் நாளாகமக் கணக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.32",
+   "source_hash": "e874d6b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.32#p1-619b9de9",
+     "text": "அதாவது, தேவனுடைய வசனத்தில் கல்வியறிவுள்ள மனிதன்.",
+     "anchor": "படிப்புமுள்ள"
+    },
+    {
+     "id": "geneva/1CH.27.32#p2-81cee4d7",
+     "text": "அவர்களுக்குக் குருபோதகராகவும் ஆசிரியராகவும் இருக்கும்படி.",
+     "anchor": "மகன்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.27.34",
+   "source_hash": "9c410b0a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.27.34#p1-9c410b0a",
+     "text": "அகித்தோப்பேல் தூக்குப்போட்டு இறந்தபின்பு, 2 சாமுவேல் 17:23, யோய்தா ஆலோசனைக்காரனாக ஏற்படுத்தப்பட்டான்.",
+     "anchor": "அகித்தோப்பேலுக்கு உதவியாக இருந்தார்கள் யோய்தா"
+    }
+   ]
+  }
+ ]
+}

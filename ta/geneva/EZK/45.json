@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 45,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.45.1",
+   "source_hash": "d6328632",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.1#p1-d6328632",
+     "text": "இஸ்ரவேலின் தேசம் முழுவதிலும் ஆலயத்திற்கும், ஆசாரியர்களுக்கும், நகரத்திற்கும், அதிபதிக்கும் என்று கர்த்தர் இந்தப் பங்கை மட்டும் கேட்கிறார்.",
+     "anchor": "பரிசுத்த பங்கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.9",
+   "source_hash": "5a1a8707",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.9#p1-5a1a8707",
+     "text": "மக்களுக்குள்ளே ஏதேனும் நல்ல ஒழுங்கு நிலைநிறுத்தப்படுவதற்குமுன், தலைவர்கள் முதலில் சீர்திருத்தப்படவேண்டும் என்று தீர்க்கதரிசி காண்பிக்கிறார்.",
+     "anchor": "நீங்கள் செய்ததுபோதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.10",
+   "source_hash": "fa751325",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.10#p1-fa751325",
+     "text": "ஏப்பாவும் குடமும் ஒரே அளவே; ஆனால் ஏப்பா உலர் பொருட்களுக்கான அளவும், குடம் திரவப்பொருட்களுக்கான அளவும் ஆகும், லேவியராகமம் 5:11, 1 இராஜாக்கள் 5:11.",
+     "anchor": "மரக்காலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.12",
+   "source_hash": "bfcca835",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.12#p1-bfcca835",
+     "text": "அதாவது, அறுபது சேக்கல்கள் மினா என்னப்படும் ஒரு நிறையை உருவாக்கும்; ஏனெனில் அவன் இந்த மூன்று பங்குகளையும் ஒரு மினாவுடன் இணைக்கிறான்.",
+     "anchor": "இருபத்தைந்து சேக்கலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.18",
+   "source_hash": "1ae20b0f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.18#p1-1ae20b0f",
+     "text": "இது நிசான் மாதமாகும்; அதில் மார்ச் மாதத்தின் ஒரு பகுதியும், ஏப்ரல் மாதத்தின் ஒரு பகுதியும் அடங்கியிருந்தது.",
+     "anchor": "முதலாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.45.24",
+   "source_hash": "90f4bb0a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.45.24#p1-90f4bb0a",
+     "text": "யாத்திராகமம் 29:40-ஐ வாசிக்கவும்.",
+     "anchor": "ஒரு மரக்கால் மாவுடன் ஒருபடி எண்ணெய்"
+    }
+   ]
+  }
+ ]
+}

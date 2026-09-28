@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.16.2",
+   "source_hash": "0b73ea60",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.2#p1-0b73ea60",
+     "text": "யெகூ பாஷாவுக்குக் கர்த்தருடைய நாமத்தினாலே இப்படிச் சொன்னான்.",
+     "anchor": "நான் உன்னைத் குப்பையிலிருந்து உயர்த்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.3",
+   "source_hash": "83766241",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.3#p1-83766241",
+     "text": "அதாவது, பாஷாவின் வீடு.",
+     "anchor": "உன்னுடைய வீட்டை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.7",
+   "source_hash": "8fb36354",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.7#p1-50d2fe03",
+     "text": "அதாவது, தீர்க்கதரிசி தன் வேலையைச் செய்தான்.",
+     "anchor": "தீர்க்கதரிசியினால்"
+    },
+    {
+     "id": "geneva/1KI.16.7#p2-2ad90cd1",
+     "text": "அதாவது, யெரொபெயாமின் மகனாகிய நாதாப்.",
+     "anchor": "இவர்களைப்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.9",
+   "source_hash": "3fc72b3d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.9#p1-3fc72b3d",
+     "text": "கல்தேய பாஷைபெயர்ப்பில் இது, \"திர்சாவிலே அர்சாவின் வீட்டின் அருகிலிருந்த விக்கிரகமாகிய அர்சாவின் ஆலயத்திலே குடிவெறியில் இருக்கும்போது\" என்று இருக்கிறது.",
+     "anchor": "குடிவெறியில் இருக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.12",
+   "source_hash": "7ef18a30",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.12#p1-7ef18a30",
+     "text": "அவனுடைய தகப்பனாகிய அனானியும், அவனும் தீர்க்கதரிசிகளாக இருந்தார்கள்.",
+     "anchor": "தீர்க்கதரிசி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.15",
+   "source_hash": "6223db70",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.15#p1-6223db70",
+     "text": "இந்த முற்றுகை யெரொபெயாமின் மகனாகிய நாதாபின் காலத்திலிருந்து தொடர்ந்து வந்தது.",
+     "anchor": "கிபெத்தோனுக்கு எதிராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.17",
+   "source_hash": "65e1a2f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.17#p1-65e1a2f2",
+     "text": "சிம்ரி ஒதுங்கியிருந்த இடம்.",
+     "anchor": "திர்சாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.21",
+   "source_hash": "d6b85d47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.21#p1-d6b85d47",
+     "text": "அதாவது, கிபெத்தோன் முற்றுகையில் இல்லாதிருந்த மக்கள்: ஏனெனில் அங்கே அவர்கள் உம்ரியைத் தெரிந்துகொண்டிருந்தார்கள்.",
+     "anchor": "பாதி மக்கள் திப்னியைப் பின்பற்றினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.25",
+   "source_hash": "1342af2b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.25#p1-1342af2b",
+     "text": "ஏனெனில் விக்கிரக ஆராதனையின் இயல்பே இப்படித்தான்; அதன் வீண் ஆசாரம் நாளுக்குநாள் அதிகரித்துக்கொண்டே வரும்; அது பழையதாக இருக்கும் அளவுக்கு, தேவனுக்கும் அவருடைய சபைக்கும் முன்பாக அது அதிக அருவருப்பானதாகும்.",
+     "anchor": "தனக்கு முன்னே இருந்த எல்லோரையும்விட கேடாக நடந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.28",
+   "source_hash": "8b48e473",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.28#p1-8b48e473",
+     "text": "திர்சாவிலே ராஜாவின் வீடு எரிக்கப்பட்ட பின்பு, சமாரியாவிலே அடக்கம் செய்யப்பட்ட முதலாம் ராஜா இவனே.",
+     "anchor": "சமாரியாவிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.31",
+   "source_hash": "780a5693",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.31#p1-780a5693",
+     "text": "இவளுடைய தூண்டுதலினால் அவன் கொடிய அந்நிய விக்கிரக ஆராதனையிலும் கொடூரமான துன்பப்படுத்துதலிலும் விழுந்தான்.",
+     "anchor": "திருமணம் செய்ததுமல்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.16.34",
+   "source_hash": "571ffead",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.16.34#p1-571ffead",
+     "text": "யோசுவா 6:26-ஐப் பார்க்கவும்.",
+     "anchor": "எரிகோவைக்"
+    }
+   ]
+  }
+ ]
+}

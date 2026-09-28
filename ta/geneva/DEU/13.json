@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.13.1",
+   "source_hash": "a6d419ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.1#p1-a6d419ef",
+     "text": "தன்னிடத்தில் சொப்பனங்களில் காரியங்கள் வெளிப்படுத்தப்பட்டதாகச் சொல்லுகிறவன்.",
+     "anchor": "சொப்பனக்காரனாகிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.2",
+   "source_hash": "bcff5a02",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.2#p1-bcff5a02",
+     "text": "பொய்த் தீர்க்கதரிசிகள் எதை நோக்கிச் செல்கிறார்கள் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "வேறே தெய்வங்களைப் பின்பற்றி, அவர்களை வணங்குவோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.3",
+   "source_hash": "ce670ad2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.3#p1-ce670ad2",
+     "text": "தேவன் தமக்குச் சொந்தமானவர்கள் அறியப்படும்படி இவைகளையெல்லாம் நடத்துகிறார்.",
+     "anchor": "சோதிக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.5",
+   "source_hash": "7c18e0fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.5#p1-7c18e0fa",
+     "text": "சாட்சிகளால் நிரூபிக்கப்பட்டு, நியாயாதிபதியால் குற்றஞ்சுமத்தப்பட்டவனாக.",
+     "anchor": "கொலைசெய்யப்படக்கடவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.6",
+   "source_hash": "efa447ab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.6#p1-8e2b8e45",
+     "text": "எல்லா இயல்பான பாசமும் தேவனுடைய கனத்திற்கு இடம் கொடுக்க வேண்டும்.",
+     "anchor": "உன்னுடைய சகோதரனாகிலும்"
+    },
+    {
+     "id": "geneva/DEU.13.6#p2-7dabd807",
+     "text": "உன் உயிரைப்போல நீ அன்புசெலுத்துகிறவன்.",
+     "anchor": "உன் உயிரைப்போலிருக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.9",
+   "source_hash": "da7bdc62",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.9#p1-da7bdc62",
+     "text": "சாட்சிக்கு கட்டளையிடப்பட்டிருக்கிறபடி.",
+     "anchor": "முதலில் உன் கையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.14",
+   "source_hash": "faac0328",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.14#p1-faac0328",
+     "text": "குற்றங்களுக்குத் தண்டனை வழங்கும்படி நியமிக்கப்பட்டவர்கள்.",
+     "anchor": "நீ நன்றாக விசாரித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.16",
+   "source_hash": "a31dbb4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.16#p1-a31dbb4f",
+     "text": "ஒரு காலத்தில் தேவனை அறிக்கை செய்திருந்தவர்கள் செய்யும் விக்கிரக ஆராதனையைவிட வேறெந்த விக்கிரக ஆராதனையும் அவ்வளவு அருவருப்பானதோ, அல்லது அவ்வளவு கடினமாகத் தண்டிக்கப்படவேண்டியதோ அல்ல என்பதைக் குறிக்கிறது.",
+     "anchor": "கொள்ளையிட்டதையெல்லாம் அதின் நடுவீதியிலே கூட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.13.17",
+   "source_hash": "f8314cf6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.13.17#p1-f8314cf6",
+     "text": "அந்த விக்கிரகாராதனை செய்த சபிக்கப்பட்ட நகரத்தின் கொள்ளைப்பொருளைப் பற்றி உபாகமம் 7:26, யோசுவா 7:11 வாசிக்கவும்.",
+     "anchor": "சபிக்கப்பட்ட பொருட்களில் ஒன்றும் உன் கையில்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.12.1",
+   "source_hash": "578f8751",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.12.1#p1-578f8751",
+     "text": "யோசுவா முகாமிட்டிருந்த கில்காலிலிருந்து.",
+     "anchor": "அந்தப் புறத்தில் சூரியன் உதயமாகிற திசையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.12.7",
+   "source_hash": "643430cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.12.7#p1-643430cd",
+     "text": "யோசுவா 11:17-ஐ வாசிக்கவும்.",
+     "anchor": "ஆலாக்மலைவரைக்கும்"
+    }
+   ]
+  }
+ ]
+}

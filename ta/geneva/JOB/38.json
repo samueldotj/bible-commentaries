@@ -1,0 +1,397 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 38,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.38.1",
+   "source_hash": "50847f78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.1#p1-50847f78",
+     "text": "அவருடைய வார்த்தைகள் மேலான மகிமையுடன் இருக்கவும், யோபு தாம் யாருடன் காரியம் நடத்துகிறார் என்பதை அறியவும்.",
+     "anchor": "பெருங்காற்றிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.2",
+   "source_hash": "679ae647",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.2#p1-679ae647",
+     "text": "தேவனுடைய மறைவான ஆலோசனையை மனுஷனுடைய அறிவினால் ஆராய்ந்து பார்க்கப்போய், அதை இன்னும் அதிக இருளாக்கி, தன் மதியீனத்தையே வெளிப்படுத்துகிறவன்.",
+     "anchor": "அறிவில்லாத வார்த்தைகளினால் ஆலோசனையை இருளாக்குகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.3",
+   "source_hash": "d4a0182b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.3#p1-d4a0182b",
+     "text": "அவன் தேவனுடன் வாதாட வேண்டுமென்று விரும்பினபடியால், யோபு 23:3, தேவன் அவனுடைய துணிகரத்தை வெளிப்படுத்தும்படி அவனுடன் நியாயம் விசாரிக்கிறார்.",
+     "anchor": "நான் உன்னைக் கேட்பேன்; நீ எனக்குப் பதில் சொல்லு, label:c, refs:[{\"text\":\"Job 23:3\",\"ref\":\"JOB.23.3\"}]"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.4",
+   "source_hash": "2a2af82d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.4#p1-2a2af82d",
+     "text": "தான் பிறப்பதற்கு இவ்வளவு காலத்திற்கு முன்பே நடந்தவற்றை அவன் நியாயந்தீர்க்க முடியாதிருந்ததால், தேவனுடைய கிரியைகள் அனைத்தையும் அவன் அறிந்துகொள்ள முடியாது; அதைவிட மிகவும் குறைவாகவே அவருடைய நியாயத்தீர்ப்புகளின் மறைவான காரணங்களையும் அவன் அறிந்துகொள்ள முடியாது.",
+     "anchor": "பூமியை அஸ்திபாரப்படுத்துகிறபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.7",
+   "source_hash": "b616bd7b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.7#p1-1ffb463c",
+     "text": "நட்சத்திரங்களும் ஊமையான சிருஷ்டிகளும் தேவனைத் துதிக்கிறவைகள் என்று சொல்லப்படுகின்றன, ஏனெனில் அவருடைய வல்லமையும், ஞானமும், நன்மையும் அவைகளில் வெளிப்பட்டு அறியப்படுகிறது.",
+     "anchor": "ஒன்றாகப்பாடி"
+    },
+    {
+     "id": "geneva/JOB.38.7#p2-2b651c54",
+     "text": "தூதர்களைக் குறிக்கிறது.",
+     "anchor": "தேவமகன்கள் எல்லோரும் கெம்பீரித்தார்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.9",
+   "source_hash": "364f3af9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.9#p1-364f3af9",
+     "text": "பெருங்கடல் தேவனுடைய கைகளில் ஒரு சிறு குழந்தையைப்போல் இருந்து, அவர் அதை இப்படியும் அப்படியும் திருப்பினதைப் போன்றது.",
+     "anchor": "புடவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.11",
+   "source_hash": "b6794e6c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.11#p1-b6794e6c",
+     "text": "அதாவது, யோபு 38:10-ல் உள்ளபடி தேவனுடைய கட்டளையும் கற்பனையும்.",
+     "anchor": "அடங்குவதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.12",
+   "source_hash": "cdf40379",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.12#p1-cdf40379",
+     "text": "அதாவது, நீ பிறந்ததுமுதல் அது எழும்புவதற்கா?",
+     "anchor": "விடியற்காலம் உன் நாட்கள் தொடங்கியதிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.13",
+   "source_hash": "434fec4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.13#p1-434fec4d",
+     "text": "இராக்காலத்தில் துன்மார்க்கத்திற்குக் கொடுக்கப்பட்டவர்கள் வெளிச்சத்தைப் பொறுக்கமாட்டாமல், தங்களை மறைத்துக்கொள்கிறவர்கள்.",
+     "anchor": "அதிலிருந்து குலுக்கிவிடப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.14",
+   "source_hash": "b0d0ee05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.14#p1-b0d0ee05",
+     "text": "இரவில் வடிவமற்றிருந்ததாகக் காணப்பட்ட பூமி சூரியன் உதிக்கும்போது, புதிதாகச் சிருஷ்டிக்கப்பட்டதுபோல் ஆகும்; அதிலுள்ள யாவும் புதிய அழகினால் அணிந்துகொள்ளப்படுகின்றன.",
+     "anchor": "அனைத்தும் ஆடை அணிந்திருக்கிறதுபோலக் காணப்படும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.16",
+   "source_hash": "83291bbd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.16#p1-83291bbd",
+     "text": "நீ சமுத்திரத்தின் அடித்தளங்களைத் தேடி அறிய முடியாதிருக்க, தேவனுடைய ஆலோசனையை நீ எவ்வளவாய் விளங்கிக்கொள்ள முடியாது?",
+     "anchor": "அடித்தளங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.20",
+   "source_hash": "c7ca1fe1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.20#p1-c7ca1fe1",
+     "text": "நீ அதற்கு வழிகளையும் எல்லைகளையும் குறிக்கும்படி.",
+     "anchor": "அதின் எல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.23",
+   "source_hash": "4149c00f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.23#p1-4149c00f",
+     "text": "என் எதிரிகளைத் தண்டிக்கும்படி, யாத்திராகமம் 9:18, யோசுவா 10:11.",
+     "anchor": "ஆபத்துவரும் காலத்திலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.30",
+   "source_hash": "5040ddb4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.30#p1-5040ddb4",
+     "text": "பனிக்கட்டி அதை மூடுகிறது, அது கல்லினால் தளமிடப்பட்டதைப் போல் இருக்கிறது.",
+     "anchor": "கெட்டியாக உறைந்திருக்கிறதே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.31",
+   "source_hash": "19260654",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.31#p1-9e3015b7",
+     "text": "சூரியன் ரிஷபராசியில் இருக்கும்போது உதிக்கும் நட்சத்திரங்கள், அது வசந்தகாலம், பூக்கள் மலரும் காலம்.",
+     "anchor": "அறுமீன் நட்சத்திரத்தின்"
+    },
+    {
+     "id": "geneva/JOB.38.31#p2-62fed700",
+     "text": "குளிர்காலத்தில் வருவது.",
+     "anchor": "விண்மீன் குழுவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.32",
+   "source_hash": "c3d4f0f3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.32#p1-f4740d54",
+     "text": "இவ்வாறு அழைக்கப்படும் சில நட்சத்திரங்கள்; சிலர் இவை பன்னிரண்டு ராசிக்கூட்டங்களாக இருந்தன என்று கருதுகின்றனர்.",
+     "anchor": "நட்சத்திரங்களை அதினதின் காலத்திலே"
+    },
+    {
+     "id": "geneva/JOB.38.32#p2-15f92fba",
+     "text": "துருவ நட்சத்திரமும் அதைச் சூழ்ந்திருக்கிறவைகளும்.",
+     "anchor": "துருவமண்டலத்தின் நட்சத்திரத்தையும் அதைச் சேர்ந்த நட்சத்திரங்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.33",
+   "source_hash": "82b58c0e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.33#p1-82b58c0e",
+     "text": "வானத்தின் அமைப்புகள் பூமியின்மேலுள்ள பொருள்களின்மேல் அதிகாரம் செலுத்தும்படி நீ செய்யக்கூடுமோ?",
+     "anchor": "அது பூமியை ஆளும் ஆளுகையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.36",
+   "source_hash": "976b2a6a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.36#p1-976b2a6a",
+     "text": "மனிதனின் மறைவான பாகங்களில்.",
+     "anchor": "மறைவான இடத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.37",
+   "source_hash": "89cabc3e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.37#p1-89cabc3e",
+     "text": "அதாவது, தண்ணீர் பாத்திரங்களைப் போல அடைக்கப்பட்டிருக்கும் மேகங்கள்.",
+     "anchor": "பரலோகத்தின் பாத்திரங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.38",
+   "source_hash": "4cc028c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.38#p1-4cc028c8",
+     "text": "ஏனெனில் தேவன் இந்தத் தோற்பைகளைத் திறக்காதிருக்கும்போது, பூமி இந்த இடையூறுக்கு உள்ளாகிறது.",
+     "anchor": "மண்கட்டிகள் ஒன்றோடொன்று ஒட்டிக்கொள்ளவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.39",
+   "source_hash": "756ff9d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.39#p1-756ff9d1",
+     "text": "பரலோகத்தில் தேவனுடைய செயல்களை விவரித்தபின், அவர் பூமியிலும், மிருககோடிகளிடத்திலும் காண்பிக்கும் தமது ஆச்சரியமான பராமரிப்பைக் காண்பிக்கிறார்.",
+     "anchor": "சிங்கத்திற்கு இரையை வேட்டையாடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.38.41",
+   "source_hash": "a1a6d1eb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.38.41#p1-a1a6d1eb",
+     "text": "சங்கீதம் 147:9-ஐ வாசிக்கவும்.",
+     "anchor": "தேவனை நோக்கிக் கூப்பிட்டு"
+    }
+   ]
+  }
+ ]
+}

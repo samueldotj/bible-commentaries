@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "JER",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JER.21.2",
+   "source_hash": "f6c4b162",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.2#p1-f6c4b162",
+     "text": "எசேக்கியா ஏசாயாவை அழைப்பித்தபோது செய்ததுபோல (2 இராஜாக்கள் 19:1, ஏசாயா 37:2), ராஜா தன் பாவங்களைக்குறித்து மனந்திரும்புதலால் தூண்டப்பட்டு தேவனைத் தேடினான் என்பதல்ல; மாறாக, பார்வோன் மோசேயைத் தேடியதுபோல (யாத்திராகமம் 9:28), இப்பொழுது வந்திருக்கும் இந்த வாதையை நீக்கும்படி தீர்க்கதரிசி தேவனிடத்தில் ஜெபம்செய்ய வேண்டுமென்பதற்காகவே ஆகும்.",
+     "anchor": "விசாரியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.4",
+   "source_hash": "bb424719",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.4#p1-bb424719",
+     "text": "அதாவது, உங்கள் சத்துருக்களைவிட்டு உங்களையே அழிக்கும்படித் திருப்பிவிடுவேன்.",
+     "anchor": "திருப்பிவிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.8",
+   "source_hash": "e6b83d1f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.8#p1-bb70afe3",
+     "text": "நேபுகாத்நேச்சாருக்கு உங்களை ஒப்புக்கொடுப்பதினால்.",
+     "anchor": "ஜீவவழி"
+    },
+    {
+     "id": "geneva/JER.21.8#p2-7b64834d",
+     "text": "அவனை எதிர்த்து நிற்பதினால்.",
+     "anchor": "மரணவழி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.9",
+   "source_hash": "bc3bd71a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.9#p1-bc3bd71a",
+     "text": "கடும் ஆபத்திலிருந்து மீட்கப்பட்ட ஒரு பொருளைப்போல, எரேமியா 37:2, 39:18, 45:5.",
+     "anchor": "கொள்ளைப்பொருள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.12",
+   "source_hash": "5108491c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.12#p1-5108491c",
+     "text": "நியாயம் செய்வதில் ஜாக்கிரதையாக இருங்கள்.",
+     "anchor": "ஏற்கனவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.13",
+   "source_hash": "8985cb7d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.13#p1-8985cb7d",
+     "text": "அதாவது, எருசலேம், அது ஒரு பகுதி மேட்டின்மேலும் ஒரு பகுதி பள்ளத்தாக்கிலும் கட்டப்பட்டு, மலைகளால் சூழப்பட்டிருந்தது.",
+     "anchor": "பள்ளத்தாக்கில் குடியிருக்கிறவளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JER.21.14",
+   "source_hash": "3f965c5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JER.21.14#p1-3f965c5d",
+     "text": "அதாவது, காட்டிலுள்ள மரங்களைப் போல அடர்ந்திருந்த அதின் வீடுகளில்.",
+     "anchor": "அதின் காட்டில்"
+    }
+   ]
+  }
+ ]
+}

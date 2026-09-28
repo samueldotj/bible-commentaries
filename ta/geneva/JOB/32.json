@@ -1,0 +1,193 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 32,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.32.2",
+   "source_hash": "e41a4a1b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.2#p1-2b8b321a",
+     "text": "இவன் ஆபிரகாமின் சகோதரனாகிய நாகோரின் மகன் பூஸிலிருந்து வந்தவன்.",
+     "anchor": "பூசியனாகிய"
+    },
+    {
+     "id": "geneva/JOB.32.2#p2-56366d73",
+     "text": "அல்லது, கல்தேய மொழிபெயர்ப்பு வாசிக்கிறபடி, ஆபிராம்.",
+     "anchor": "ராமின்"
+    },
+    {
+     "id": "geneva/JOB.32.2#p3-dc7e6e1b",
+     "text": "தன்னைத்தான் குற்றமற்றவனாக்கிக்கொண்டதினாலும், தேவன்மேல் கடுமையானவர் என்று குற்றஞ்சாட்டினதினாலும்.",
+     "anchor": "தேவனைவிடத் தன்னைத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.4",
+   "source_hash": "1947193f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.4#p1-1947193f",
+     "text": "அதாவது, முன்னே குறிப்பிடப்பட்ட மூன்று பேர்.",
+     "anchor": "தன்னைவிட வயது முதிர்ந்தவர்களானதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.7",
+   "source_hash": "46ad4434",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.7#p1-46ad4434",
+     "text": "அதாவது, அனுபவமுள்ள முதியோரைக் குறிக்கிறது.",
+     "anchor": "முதியோர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.8",
+   "source_hash": "5b9cd4df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.8#p1-5b9cd4df",
+     "text": "மனிதனுக்கு உணர்வு உண்டாயிருப்பது தேவனுடைய விசேஷித்த வரமாகும், அது இயற்கையினாலோ வயதினாலோ உண்டாகிறதல்ல.",
+     "anchor": "சர்வவல்லமையுள்ள தேவனுடைய சுவாசமே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.11",
+   "source_hash": "00f34357",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.11#p1-00f34357",
+     "text": "யோபுவின் உபத்திரவம் அவனுடைய பாவங்களினிமித்தம் வந்தது என்று நிரூபிக்கும்படி.",
+     "anchor": "நீங்கள் சொல்ல முடிந்ததை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.13",
+   "source_hash": "19bea95f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.13#p1-19bea95f",
+     "text": "நீங்கள் அவரை வென்றுவிட்டீர்கள் என்று உங்களையே மகிழ்ச்சிப்படுத்தாதிருங்கள்.",
+     "anchor": "ஞானத்தைக் கண்டுபிடித்தோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.14",
+   "source_hash": "5c40f440",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.14#p1-4a491b3b",
+     "text": "அதாவது, யோபு.",
+     "anchor": "அவர்"
+    },
+    {
+     "id": "geneva/JOB.32.14#p2-a639cd2e",
+     "text": "அவன் ஏறக்குறைய அதே வாதங்களைப் பயன்படுத்துகிறான், ஆனால் ஏளனமும் நிந்தையும் இல்லாமல்.",
+     "anchor": "நீங்கள் சொன்ன வார்த்தைகளினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.18",
+   "source_hash": "1bca955d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.18#p1-1bca955d",
+     "text": "நான் என் மனதிற்குள் காரணங்களை அதிகமாகக் கருத்தரித்திருக்கிறேன்.",
+     "anchor": "வார்த்தைகள் எனக்குள் நிறைந்திருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.21",
+   "source_hash": "e6dccabc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.21#p1-e6dccabc",
+     "text": "நான் செல்வத்தையாவது, கனத்தையாவது, அதிகாரத்தையாவது மதிக்காமல், சத்தியத்தையே பேசுவேன்.",
+     "anchor": "ஆசை வார்த்தை பேசாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.32.22",
+   "source_hash": "731d0d5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.32.22#p1-731d0d5d",
+     "text": "இந்த எபிரெய வார்த்தை ஒரு பேரை மாற்றுவதைக் குறிக்கும், அதாவது ஒரு மூடனை ஞானவான் என்று அழைப்பதைப் போன்றது; அவன் மனிதரை முகஸ்துதி செய்யும்படி சத்தியத்தை மறைக்கமாட்டான் என்பதைக் குறிக்கிறது.",
+     "anchor": "ஆசை வார்த்தை"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EZR",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZR.5.2",
+   "source_hash": "e1534aff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.2#p1-e1534aff",
+     "text": "இவர்கள் அவர்களை முன்னேறிச் செல்ல உற்சாகப்படுத்தினார்கள், மேலும் அவர்கள் தேவனுடைய ஆலயத்தைக் கட்ட ஊக்கமாயிராமல், தங்கள் சொந்த வீடுகளைக் கட்டுவதிலே அதிக கவலையாயிருந்ததினிமித்தம் அவர்களைச் சபித்தார்கள்.",
+     "anchor": "தைரியம் சொல்ல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.4",
+   "source_hash": "9ef92c5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.4#p1-9ef92c5e",
+     "text": "அதாவது, சத்துருக்கள் இதைக் கேட்டனர், 5:10-ல் இருப்பதுபோல.",
+     "anchor": "அப்பொழுது அதற்கு ஏற்ற பதிலையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.5",
+   "source_hash": "74f79317",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.5#p1-74f79317",
+     "text": "அவருடைய தயவும் பலப்படுத்தும் ஆவியும்.",
+     "anchor": "தேவனின் கண் அவர்கள்மேல் வைக்கப்பட்டிருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.11",
+   "source_hash": "434f5db0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.11#p1-434f5db0",
+     "text": "அதாவது, சாலொமோன்.",
+     "anchor": "இஸ்ரவேலின் பெரிய ராஜா ஒருவன்... கட்டிமுடித்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.13",
+   "source_hash": "bb151dc8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.13#p1-bb151dc8",
+     "text": "எஸ்றா 1:1,2-ஐப் பார்க்கவும்.",
+     "anchor": "கோரேசின் முதலாம் வருடத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.14",
+   "source_hash": "c63e67b5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.14#p1-c63e67b5",
+     "text": "எஸ்றா 1:8-ஐ வாசிக்கவும்.",
+     "anchor": "செஸ்பாத்சார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZR.5.17",
+   "source_hash": "2c7b892d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZR.5.17#p1-2c7b892d",
+     "text": "காலங்களின் பதிவேடு அல்லது ஆவணங்கள் பாதுகாக்கப்படும் நூலகம் அல்லது இடங்களைக் குறிக்கிறது.",
+     "anchor": "கஜானாவிலே"
+    }
+   ]
+  }
+ ]
+}

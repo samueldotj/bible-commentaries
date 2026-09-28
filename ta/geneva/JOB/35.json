@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 35,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.35.2",
+   "source_hash": "fbe33339",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.2#p1-fbe33339",
+     "text": "யோபு இந்த வார்த்தைகளை ஒருபோதும் சொல்லவில்லை; ஆனால் அவன் தன் நிரபராதத்தை நிலைநிறுத்தியதால், தேவன் அவனை நியாயமான காரணமின்றி வேதனைப்படுத்துகிறார் என்று அவன் சொல்வதாகத் தோன்றியது.",
+     "anchor": "நீதி தேவனுடைய நீதியைவிட உயர்ந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.4",
+   "source_hash": "e18b4a5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.4#p1-e18b4a5e",
+     "text": "அதே தவறில் இருக்கிறவர்கள்.",
+     "anchor": "உம்முடன் இருக்கிற உம்முடைய நண்பனுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.5",
+   "source_hash": "407b80a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.5#p1-407b80a6",
+     "text": "நீரே மேகங்களை அடக்க முடியாதிருக்க, தேவனுக்கு அறிவுரை கூறத் துணிவீரோ?",
+     "anchor": "உம்மைவிட உயரமாயிருக்கிற ஆகாயமண்டலங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.6",
+   "source_hash": "61658c88",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.6#p1-61658c88",
+     "text": "உம்முடைய பாவம் தேவனுக்கு நஷ்டம் உண்டாக்குகிறதுமில்லை, உம்முடைய நியாயமும் அவருக்குப் பிரயோஜனமுள்ளதாக இருப்பதுமில்லை; ஏனெனில் அவர் உம்மையல்லாமலும் மகிமையுண்டாகும்படி செய்வார்.",
+     "anchor": "அவருக்கு என்ன நஷ்டம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.9",
+   "source_hash": "e9720d10",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.9#p1-e9720d10",
+     "text": "துன்மார்க்கன் மனுஷனை வேதனைப்படுத்தி அவனை முறையிடச் செய்யக்கூடும்; ஆனாலும் அவன் ஆறுதல் அளிக்கும் தேவனை நாடினால் விடுவிக்கப்படுவான்.",
+     "anchor": "முறையிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.12",
+   "source_hash": "b5b55210",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.12#p1-b5b55210",
+     "text": "தேவனுடைய கிருபைகளை உணராமல் விசுவாசத்தினால் ஜெபம்பண்ணாதபடியால்.",
+     "anchor": "திரும்ப பதில் கொடுக்கிறதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.14",
+   "source_hash": "589a903e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.14#p1-589a903e",
+     "text": "நீர் அவரை எப்படி நினைத்தாலும், தேவன் நீதியுள்ளவராயிருக்கிறார்.",
+     "anchor": "நியாயத்தீர்ப்பு அவரிடத்தில் இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.35.16",
+   "source_hash": "83b50f43",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.35.16#p1-83b50f43",
+     "text": "ஏனெனில் உமக்குத் தகுந்தபடி தேவன் உம்மைத் தண்டித்தால், நீர் உம்முடைய வாயைத் திறக்கக்கூட முடியாது.",
+     "anchor": "வீணாய்த் தம்முடைய வாயைத் திறந்து"
+    }
+   ]
+  }
+ ]
+}

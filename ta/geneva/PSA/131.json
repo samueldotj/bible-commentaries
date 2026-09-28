@@ -1,0 +1,47 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 131,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.131.1",
+   "source_hash": "4f1498fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.131.1#p1-34c532f0",
+     "text": "அவன் தன்னுடைய மிகுந்த தாழ்மையை எல்லா அதிகாரிகளுக்கும் ஆளுவோர்களுக்கும் ஒரு உதாரணமாகக் காண்பிக்கிறான்.",
+     "anchor": "என்னுடைய இருதயம் பெருமைகொள்வதில்லை"
+    },
+    {
+     "id": "geneva/PSA.131.1#p2-40d12c3a",
+     "text": "அவனுடைய அழைப்பின் அளவையும் எல்லைகளையும் கடந்தவை.",
+     "anchor": "காரியங்களிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.131.2",
+   "source_hash": "9cf2db2b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.131.2#p1-9cf2db2b",
+     "text": "அவன் ஆசைவெறியும் துன்மார்க்க இச்சைகளும் இல்லாதவனாக இருந்தான்.",
+     "anchor": "பால்மறந்த குழந்தை"
+    }
+   ]
+  }
+ ]
+}

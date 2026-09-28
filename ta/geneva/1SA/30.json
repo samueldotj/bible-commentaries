@@ -1,0 +1,216 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 30,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.30.1",
+   "source_hash": "20e306b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.1#p1-146c3ea0",
+     "text": "அவன் ஆகீஸிடத்திலிருந்து போனபின்பு.",
+     "anchor": "மூன்றாம் நாளிலே"
+    },
+    {
+     "id": "geneva/1SA.30.1#p2-40f2371a",
+     "text": "அதாவது, அவர்களுடைய பட்டணத்தை அழித்தார்கள்.",
+     "anchor": "சிக்லாகைக் கொள்ளையடித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.3",
+   "source_hash": "1e601de4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.3#p1-1e601de4",
+     "text": "ஏனெனில் ஆண்கள் யுத்தத்திற்குப் போயிருந்தபோது இவர்கள் மட்டும் பட்டணத்தில் மீதியாக இருந்தார்கள்.",
+     "anchor": "மனைவிகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.6",
+   "source_hash": "f48eb1cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.6#p1-f48eb1cc",
+     "text": "இவ்விதமாக, துன்பத்திலும் ஆபத்திலும் நாம் தேவனுடைய பராமரிப்பைக் கருதாமல், கொடிய மிருகங்களைப் போல நம்முடைய சொந்தக் கடமையை மறந்து நம்மேல் தேவன் ஏற்படுத்தியிருக்கிற ஆளுகையை அவமதிக்கிறோம் என்பதைக் காண்கிறோம்.",
+     "anchor": "கல்லெறியவேண்டும் என்று சொல்லிக்கொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.8",
+   "source_hash": "52902a49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.8#p1-52902a49",
+     "text": "தேவன் சிலவேளைகளில் நம்மைவிட்டு விலகிவிட்டதுபோல தோன்றினாலும், நாம் அவர்மேல் நம்பிக்கை வைத்தால், நிச்சயமாக ஆறுதலைக் கண்டடைவோம்.",
+     "anchor": "எல்லாவற்றையும் திருப்பிக்கொள்வாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.11",
+   "source_hash": "bf341c21",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.11#p1-bf341c21",
+     "text": "தேவன் தம்முடைய பராமரிப்பினாலே ஏழையான அந்நியனுடைய தேவைகளையும் தந்தார், அவனைத் தாவீது தன் காரியத்தை நிறைவேற்றுவதற்கு வழிகாட்டியாகவும் ஆக்கினார்.",
+     "anchor": "அப்பமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.15",
+   "source_hash": "9dd1a664",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.15#p1-9dd1a664",
+     "text": "ஏனெனில் மற்ற எல்லா காலங்களிலும், அந்நியமக்கள் மத்தியிலும் கூட, ஆணை மிகுந்த மரியாதையுடன் மதிக்கப்பட்டு வந்தது.",
+     "anchor": "தேவன்மேல் ஆணையிடுவீரானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.16",
+   "source_hash": "97586833",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.16#p1-97586833",
+     "text": "துன்மார்க்கர் தங்கள் பகட்டிலும் இன்பங்களிலும் இருக்கும்போது, தங்களை அடிக்கத் தேவனுடைய நியாயத்தீர்ப்பு அருகில் வந்திருப்பதைக் கவனிப்பதில்லை."
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.17",
+   "source_hash": "9003ed0e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.17#p1-9003ed0e",
+     "text": "சிலர், இரண்டு மாலைகளுக்கு அடுத்த நாள்வரை, அதாவது மூன்று நாட்கள் என்று வாசிக்கிறார்கள்.",
+     "anchor": "மறுநாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.20",
+   "source_hash": "dbd36941",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.20#p1-dbd36941",
+     "text": "இவைகளை அமலேக்கியர் மற்றவர்களிடமிருந்து பிடித்திருந்தார்கள், அவைகளை தாவீது அவர்களிடமிருந்து பிடித்துக்கொண்டான், சிக்லாகின் பொருள்களைத் தவிர.",
+     "anchor": "கொள்ளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.22",
+   "source_hash": "f0d2365d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.22#p1-f0d2365d",
+     "text": "இதில், ஒவ்வொருவனுக்கும் உரிமையான மிருகஜீவன்களும் பொருள்களும் உட்படுத்தப்பட்டிருக்கின்றன.",
+     "anchor": "தன்தன் மனைவியையும் தன்தன் பிள்ளைகளையுமே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.25",
+   "source_hash": "ff13a7c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.25#p1-ff13a7c1",
+     "text": "சிலர் இந்த வார்த்தைகளை தாவீதுக்குச் சொல்லுகிறார்கள், அதாவது அவன் ஒரு பழைய வழக்கத்தையும் நியாயப்பிரமாணத்தையும் குறிப்பிட்டானாம், எழுதப்பட்டதைப்போல, அது இப்பொழுதும் இருக்கிறது, எப்பொழுதும் இருந்திருக்கிறது என்று.",
+     "anchor": "அப்படியே அந்தநாள்முதல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.30.31",
+   "source_hash": "f48b96b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.30.31#p1-f48b96b6",
+     "text": "தன்னிடம் அவர்கள் செய்த நன்மைகளை மறவாதவனாக தன்னைக் காண்பித்துக்கொள்கிறான்.",
+     "anchor": "தாவீதும் அவனுடைய மனிதர்களும் நடமாடின எல்லா இடங்களில்"
+    }
+   ]
+  }
+ ]
+}

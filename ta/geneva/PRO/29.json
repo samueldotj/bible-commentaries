@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 29,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.29.5",
+   "source_hash": "aad4aad8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.5#p1-aad4aad8",
+     "text": "முகஸ்துதி செய்கிறவனுக்குச் செவிகொடுக்கிறவன், வேடன் முன்பாக இருக்கும் குருவியைப் போல ஆபத்தில் இருக்கிறான்.",
+     "anchor": "அவனுடைய கால்களுக்கு வலையை விரிக்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.6",
+   "source_hash": "0c18fd68",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.6#p1-0c18fd68",
+     "text": "அவன் மற்றவர்களுக்காக வைக்கும் கண்ணியிலேயே அவன் எப்போதும் விழுவதற்குத் தயாராயிருக்கிறான்.",
+     "anchor": "கண்ணி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.9",
+   "source_hash": "a751ac3a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.9#p1-a751ac3a",
+     "text": "அவன் எப்படிச் சொன்னாலும் எந்த புத்திமதியையும் கேட்க மாட்டான்.",
+     "anchor": "மூடனுடன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.18",
+   "source_hash": "a6b7b97a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.18#p1-a6b7b97a",
+     "text": "தேவனுடைய வசனத்தின் உண்மையுள்ள ஊழியக்காரர் இல்லாத இடத்தில்.",
+     "anchor": "தீர்க்கதரிசனமில்லாத இடத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.19",
+   "source_hash": "5caab4ae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.19#p1-5caab4ae",
+     "text": "அடிமைத்தனமான, கீழ்ப்படியாத இயல்புடையவன்.",
+     "anchor": "அடிமையானவன் வார்த்தைகளினாலே அடங்கமாட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.25",
+   "source_hash": "df94067b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.25#p1-df94067b",
+     "text": "தேவனைப் பார்க்கிலும் மனிதனுக்குப் அதிகமாகப் பயப்படுகிறவன் கண்ணியில் விழுந்து அழிக்கப்படுகிறான்.",
+     "anchor": "கண்ணியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.29.26",
+   "source_hash": "5855c4aa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.29.26#p1-5855c4aa",
+     "text": "தேவன் நியமித்திருப்பது அவனுக்கு வந்து சேருமாகையால், அவன் ஆளுகை செய்கிறவனுக்கு முகஸ்துதி செய்யவேண்டிய அவசியமில்லை.",
+     "anchor": "நியாயம் யெகோவாவாலே தீரும்"
+    }
+   ]
+  }
+ ]
+}

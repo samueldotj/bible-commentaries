@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 67,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.67.1",
+   "source_hash": "feabd0c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.67.1#p1-feabd0c1",
+     "text": "அதாவது, தம்முடைய பரிசுத்த ஆவியானவரால் நம்முடைய இருதயங்களை அசைத்து, நமக்குத் தம்முடைய தயவை நாம் உணரும்படி செய்யவேண்டும் என்பதாகும்.",
+     "anchor": "உம்முடைய வழியும், எல்லா தேசங்களுக்குள்ளும் உம்முடைய இரட்சிப்பும் விளங்கும்படியாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.67.2",
+   "source_hash": "be02c6d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.67.2#p1-be02c6d1",
+     "text": "யூதர்களும் யூதரல்லாதவர்களும் தேவன் அவர்களோடு செய்த உடன்படிக்கையை அறியும்படியாக.",
+     "anchor": "உம்முடைய வழி வெளிப்படும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.67.4",
+   "source_hash": "836570f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.67.4#p1-836570f8",
+     "text": "இந்தத் திரும்பத்திரும்பச் சொல்லுதலின் மூலம், கிறிஸ்துவின் ராஜ்யத்தின் கீழ் மக்கள் பெறப்போகிற பெரிய நன்மைகளுக்காக அவர்கள் ஒருபோதும் போதுமான அளவு சந்தோஷப்பட்டு ஸ்தோத்திரம் செலுத்த முடியாது என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "தேசங்கள் சந்தோஷித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.67.6",
+   "source_hash": "ba49e6a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.67.6#p1-ba49e6a6",
+     "text": "தேவன் தயவு செய்யுமிடத்தில் மற்ற எல்லாக் காரியங்களிலும் மிகுதி உண்டாகும் என்பதை இவர் காண்பிக்கிறார்.",
+     "anchor": "பூமி தன்னுடைய பலனைத் தரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.67.7",
+   "source_hash": "b9d4624c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.67.7#p1-b9d4624c",
+     "text": "தேவன் தமக்குச் செய்யும் ஆவிக்குரிய மற்றும் சரீரத்திற்கான மகா நன்மைகளை அவர்கள் உணரும்போது.",
+     "anchor": "பயந்திருக்கும்"
+    }
+   ]
+  }
+ ]
+}

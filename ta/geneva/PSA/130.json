@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 130,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.130.1",
+   "source_hash": "3bdd28e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.1#p1-3bdd28e0",
+     "text": "மிகுந்த உபத்திரவத்திலும் துக்கத்திலும் இருக்கும்போது.",
+     "anchor": "ஆழங்களிலிருந்து உம்மை நோக்கிக் கூப்பிடுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.3",
+   "source_hash": "5cff6ec3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.3#p1-5cff6ec3",
+     "text": "பாவங்களின் மன்னிப்பினாலேயன்றி நாம் தேவனுக்கு முன்பாக நீதிமான்களாய் இருக்கமுடியாது என்பதை அவர் அறிவிக்கிறார்.",
+     "anchor": "யார் நிலைநிற்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.4",
+   "source_hash": "9fd4fe53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.4#p1-9fd4fe53",
+     "text": "இயல்பினால் நீர் இரக்கமுள்ளவராக இருக்கிறதினால் உண்மையுள்ளவர்கள் உமக்குப் பயப்படுகிறார்கள்.",
+     "anchor": "பயப்படும்படிக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.130.7",
+   "source_hash": "7d246820",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.130.7#p1-7d246820",
+     "text": "தேவனுடைய இரக்கம் யாருக்கு உரியது என்று அவர் காண்பிக்கிறார், அதாவது இஸ்ரவேலுக்கு, சபைக்கு அன்றி ஆகாதவர்களுக்கு அல்ல.",
+     "anchor": "கிருபையும்"
+    }
+   ]
+  }
+ ]
+}

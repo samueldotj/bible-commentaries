@@ -1,0 +1,412 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 34,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.34.2",
+   "source_hash": "d2d8610c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.2#p1-d2d8610c",
+     "text": "உலகத்தினால் ஞானிகளாக எண்ணப்பட்டவர்கள்.",
+     "anchor": "ஞானிகளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.4",
+   "source_hash": "357e2bfa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.4#p1-357e2bfa",
+     "text": "நாம் இந்தக் காரியத்தை நேர்மையாக ஆராய்ந்து பார்ப்போமாக.",
+     "anchor": "நியாயமானதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.5",
+   "source_hash": "89693391",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.5#p1-89693391",
+     "text": "அதாவது, என்னை அளவின்றி வாதித்தார்.",
+     "anchor": "நியாயத்தைத் தள்ளிவிட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.6",
+   "source_hash": "2cd24a4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.6#p1-b0afea26",
+     "text": "நான் நிரபராதியாயிருந்தும், நான் துன்மார்க்கன் என்று சொல்லவேண்டுமோ?",
+     "anchor": "நியாயம்"
+    },
+    {
+     "id": "geneva/JOB.34.6#p2-7c15ebf3",
+     "text": "நான் என் பாவத்திற்குரியதைவிட அதிகமாக தண்டிக்கப்படுகிறேன்.",
+     "anchor": "மீறுதல் இல்லாதிருந்தும், அம்பினால் எனக்கு இருந்த காயம் ஆறாததாயிருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.7",
+   "source_hash": "808cf368",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.7#p1-808cf368",
+     "text": "இவன் தன்னுடைய மூடத்தனமான வார்த்தைகளினிமித்தம் அநேகருடைய நிந்தையையும் கேலியையும் ஏற்றுக்கொள்ளும்படி நிர்ப்பந்திக்கப்பட்டவன்.",
+     "anchor": "கேலிசெய்வதை தண்ணீரைப்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.8",
+   "source_hash": "4513d465",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.8#p1-4513d465",
+     "text": "யோபு தேவனை மகிமைப்படுத்தாமலும், அவருடைய நியாயத்தீர்ப்புகளுக்குத் தன்னைக் கீழ்ப்படுத்தாமலும் இருக்கிறவனாகத் தோன்றியதால், அவன் துன்மார்க்கரைப் போன்றவனாக இருந்தான் என்பதே இதன் பொருள்.",
+     "anchor": "அக்கிரமக்காரருடன் சேர்ந்துகொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.9",
+   "source_hash": "f0a197a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.9#p1-f7230047",
+     "text": "தேவனுடைய பிள்ளைகள் இந்த உலகத்தில் அடிக்கடி தண்டிக்கப்படுகிறார்கள், துன்மார்க்கரோ தண்டனையின்றி விடுவிக்கப்படுகிறார்கள் என்று சொன்ன யோபுவின் வார்த்தைகளை இவன் வளைத்துக்கொள்கிறான்.",
+     "anchor": "தேவன்மேல் அன்பு வைக்கிறது மனிதனுக்குப் பயன் அல்ல"
+    },
+    {
+     "id": "geneva/JOB.34.9#p2-1b1dbd8c",
+     "text": "அதாவது, தேவபக்தியுடன் வாழ்வது, ஆதி. 5:22.",
+     "anchor": "தேவன்மேல் அன்பு வைக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.14",
+   "source_hash": "7d01df6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.14#p1-b9379d95",
+     "text": "அவனை அழிப்பதற்கு.",
+     "anchor": "அவர் தம்முடைய இருதயத்தை அவனுக்கு விரோதமாகத் திருப்பினாரென்றால்"
+    },
+    {
+     "id": "geneva/JOB.34.14#p2-2ddbfcb1",
+     "text": "அவர் மனிதனுக்குக் கொடுத்த ஜீவசுவாசம்.",
+     "anchor": "அவனுடைய சுவாசத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.17",
+   "source_hash": "60fb19ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.17#p1-60fb19ef",
+     "text": "தேவன் நீதியுள்ளவராக இல்லாதிருந்தால், அவர் உலகத்தை எப்படி ஆளுவார்?",
+     "anchor": "ஆள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.18",
+   "source_hash": "7209edaa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.18#p1-7209edaa",
+     "text": "மனுஷன் தன் இயல்பிலேயே அதிகாரமுள்ளவர்களைக் குறித்துப் பொல்லாப்பாகப் பேச பயப்படுவானென்றால், தேவனைக் குறித்துப் பொல்லாப்பாகப் பேசுவதற்கு அதிலும் அதிகமாக பயப்படவேண்டியவர்களாயிருக்கிறார்கள்.",
+     "anchor": "பொல்லாதவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.20",
+   "source_hash": "a85c56a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.20#p1-7fa2d777",
+     "text": "அவர்கள் அதை எதிர்பாராதிருக்கும்போது.",
+     "anchor": "மக்கள் நடுஇரவில் கலங்கி"
+    },
+    {
+     "id": "geneva/JOB.34.20#p2-e2c152eb",
+     "text": "தேவன் அனுப்பும் தண்டனையின் தூதர்கள்.",
+     "anchor": "இறந்துபோவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.23",
+   "source_hash": "aa5b332f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.23#p1-aa5b332f",
+     "text": "மனிதனுக்கு தேவனுடன் வழக்காடுவதற்கு வாய்ப்பு உண்டாகும்படி, தேவன் அளவுக்கு மேலாக அவனை வாதிக்கமாட்டார்.",
+     "anchor": "தேவனுடன் வழக்காடுவதற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.24",
+   "source_hash": "4ae3e0c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.24#p1-4ae3e0c8",
+     "text": "அவருடைய சிருஷ்டிகள் அனைத்தும் அவருக்கு ஊழியம் செய்யத் தயாராக இருக்கின்றன, எனவே அவர் வேறு எந்த சேனையையும் தேட வேண்டியதில்லை.",
+     "anchor": "ஆராய்ந்து முடியாதவிதத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.25",
+   "source_hash": "cfc3eda0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.25#p1-c46cff20",
+     "text": "அவர்கள் துன்மார்க்கர் என்பதை வெளிப்படுத்துவார்.",
+     "anchor": "செயல்களை"
+    },
+    {
+     "id": "geneva/JOB.34.25#p2-0207ac4c",
+     "text": "மறைந்திருந்தவைகளை வெளிப்படுத்துவார்.",
+     "anchor": "இரவுநேரத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.26",
+   "source_hash": "232427b5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.26#p1-232427b5",
+     "text": "அதாவது, எல்லா மனிதர்களும் பார்க்கும்படியாகப் பகிரங்கமாக.",
+     "anchor": "மற்றவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.28",
+   "source_hash": "6ef67e4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.28#p1-6ef67e4f",
+     "text": "அவர்களுடைய கொடுமையினாலும் கொள்ளையினாலும்.",
+     "anchor": "அவரிடத்தில் வந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.30",
+   "source_hash": "8d8eb87c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.30#p1-8d8eb87c",
+     "text": "கொடுங்கோலர் நியாயத்தின் ஆசனத்தில் அமர்ந்து, நியாயம் செலுத்துகிறோம் என்ற பாசாங்குடன் மாயமாக நடந்து மக்களை ஒடுக்குகிறபோது, தேவன் அந்த இடத்திலிருந்து தமது தயவின் முகத்தை மறைத்துக்கொண்டார் என்பதற்கு அது ஒரு அடையாளமாகும்.",
+     "anchor": "மாயக்காரன் அரசாளாதபடிக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.31",
+   "source_hash": "50eb44df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.31#p1-50eb44df",
+     "text": "தன்னுடைய தண்டனைகளை மட்டுப்படுத்துவது தேவனுக்கே உரியது, மனிதனுக்கு அல்ல.",
+     "anchor": "தேவனிடத்தில் சொல்லப்படவேண்டியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.32",
+   "source_hash": "f1f04149",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.32#p1-f1f04149",
+     "text": "இவ்வாறாக எலிகூ தேவனுடைய நிலையில் இருந்து பேசுகிறார், யோபு தேவனைவிட ஞானமுள்ளவனாக இருக்க விரும்பினதால், அவனை ஏளனம் செய்வது போலவே பேசுகிறார்.",
+     "anchor": "நான் பார்க்காத காரியத்தை நீர் எனக்குப் போதியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.33",
+   "source_hash": "c005d819",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.33#p1-2a5948ed",
+     "text": "தேவன் தம்முடைய செயல்களைச் செய்வதில் உம்முடைய ஆலோசனையைப் பின்பற்றுவாரோ?",
+     "anchor": "நீரே தெரிந்துகொள்ளவேண்டும்"
+    },
+    {
+     "id": "geneva/JOB.34.33#p2-69ff5380",
+     "text": "யோபு தன் விருப்பப்படி சிக்கலைத் தெரிந்துகொள்ளவும் தள்ளிவிடவும் வேண்டும் என்பது போல, இவ்வாறு அவர் தேவனுடைய நிலையில் இருந்து பேசுகிறார்.",
+     "anchor": "அதைச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.36",
+   "source_hash": "a63bd1c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.36#p1-a63bd1c2",
+     "text": "அவன் தன்னால் இயன்றமட்டும் பேசட்டும், அதனால் நாம் அவனுக்கும், இப்படிப்பட்ட வாதங்களைப் பயன்படுத்தும் துன்மார்க்கர் அனைவருக்கும் மறுமொழி கூறலாம்.",
+     "anchor": "முற்றும்முடிய சோதிக்கப்படவேண்டியதே அக்கிரமக்காரர் சொன்ன மறுமொழிகளினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.34.37",
+   "source_hash": "1118c82d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.34.37#p1-1118c82d",
+     "text": "அவன் தன்னுடைய வியாஜ்யத்தை நிலைநிற்கச் செய்வதற்காகக் கடினமாகப் பிடிவாதமாக நிற்கிறான்.",
+     "anchor": "தம்முடைய பாவத்துடன் மீறுதலைச் சேர்த்தார்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.3.1",
+   "source_hash": "ef3abc5b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.1#p1-ef3abc5b",
+     "text": "சபையானவள் இரவிலே, அதாவது, துன்பங்களில், கிறிஸ்துவைத் தேடுகிறாள், ஆனாலும் உடனடியாகக் கேட்கப்படுகிறதில்லை.",
+     "anchor": "இரவுநேரங்களில் என் படுக்கையிலே தேடினேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.2",
+   "source_hash": "b8663c37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.2#p1-b8663c37",
+     "text": "முதலில் நமக்குப் பதில் கிடைக்காவிட்டாலும், ஆறுதலை உணரும்வரை நாம் ஜெபத்தில் தொடர்ந்திருக்க வேண்டும் என்பதைக் காண்பிக்கிறது.",
+     "anchor": "என் ஆத்தும நேசரைத் தேடுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.3",
+   "source_hash": "2e53c2ec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.3#p1-2e53c2ec",
+     "text": "நாம் எவரிடத்திலிருந்து உதவி பெறலாம் என்று எதிர்பார்க்கிறோமோ அவர்கள் அனைவரிடத்திலும் நாடிச் செல்லவேண்டும் என்பதை இது காண்பிக்கிறது.",
+     "anchor": "நகரத்திலே உலாவுகிற காவலாளர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.5",
+   "source_hash": "2853a645",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.5#p1-2853a645",
+     "text": "உன்னதப்பாட்டு 2:7-ஐ பார்க்கவும்",
+     "anchor": "ஆணையிடுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.6",
+   "source_hash": "85d74034",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.6#p1-85d74034",
+     "text": "இது நாற்பது வருடங்கள் வனாந்திரத்தில் நடத்தப்பட்ட இஸ்ரவேலின் சபையைக் குறிக்கிறது.",
+     "anchor": "தூபமேகத்தைப்போல் வனாந்திரத்திலிருந்து வருகிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.7",
+   "source_hash": "75d848ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.7#p1-75d848ba",
+     "text": "படுக்கையினால் சாலொமோன் கட்டின ஆலயம் குறிக்கப்படுகிறது.",
+     "anchor": "படுக்கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.8",
+   "source_hash": "be4b9ddd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.8#p1-be4b9ddd",
+     "text": "இவன் ஆலயத்தைக் காவல் காத்த காவலரைக் குறிப்பிடுகிறான்.",
+     "anchor": "இரவுநேர"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.3.11",
+   "source_hash": "0a032a6a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.3.11#p1-ba63b97e",
+     "text": "உண்மையுள்ளவர்களின் எண்ணிக்கையில் அடங்கியிருக்கிற நீங்கள் அனைவரும்.",
+     "anchor": "சீயோனின் இளம்பெண்களே"
+    },
+    {
+     "id": "geneva/SNG.3.11#p2-7035d39d",
+     "text": "கிறிஸ்து மனுஷனானார், தேவனுடைய அன்பினால் அவருடைய தெய்வத்தன்மையின் மகிமையான கிரீடத்தால் முடிசூட்டப்பட்டார்.",
+     "anchor": "அவருடைய தாயார் அவருக்கு அணிவித்த கிரீடத்துடன்"
+    }
+   ]
+  }
+ ]
+}

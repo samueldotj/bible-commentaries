@@ -1,0 +1,370 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.21.2",
+   "source_hash": "2a69bd9b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.2#p1-2a69bd9b",
+     "text": "அவன் விடுதலைக்காக ஒரு பணமும் செலுத்தாமல்.",
+     "anchor": "ஒன்றும் தராமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.3",
+   "source_hash": "83e5a9ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.3#p1-83e5a9ee",
+     "text": "மனைவியும் பிள்ளைகளும் இல்லாதவனாக.",
+     "anchor": "தனியாக வந்திருந்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.4",
+   "source_hash": "2b6a2e29",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.4#p1-2b6a2e29",
+     "text": "அவளுடைய அடிமைத்தன காலம் முடிகிறவரை, அது ஏழாம் வருடமாகவோ ஐம்பதாம் வருடமாகவோ இருக்கலாம்.",
+     "anchor": "எஜமானை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.6",
+   "source_hash": "24299271",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.6#p1-bef9d88f",
+     "text": "நியாயாதிபதிகள் உட்கார்ந்திருந்த இடம்.",
+     "anchor": "கதவின் அருகில்"
+    },
+    {
+     "id": "geneva/EXO.21.6#p2-f19b5ad1",
+     "text": "அதாவது, ஒவ்வொரு ஐம்பதாம் வருஷமும் வரும் யூபிலி வருஷம் வரைக்கும்.",
+     "anchor": "என்றைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.7",
+   "source_hash": "3e14511c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.7#p1-3e14511c",
+     "text": "வறுமையினால் நிர்ப்பந்திக்கப்பட்டு, அல்லது எஜமான் அவளை மனைவியாக்கிக்கொள்ளும்படி எண்ணத்துடன்.",
+     "anchor": "தன்னுடைய மகளை வேலைக்காரியாக விற்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.8",
+   "source_hash": "453c4fc8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.8#p1-453c4fc8",
+     "text": "அவளை விலைக்கு வாங்குவதற்கு வேறொருவன் அவனுக்குப் பணம் கொடுப்பதினால்.",
+     "anchor": "அவள் மீட்கப்படலாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.9",
+   "source_hash": "75a687c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.9#p1-75a687c2",
+     "text": "அதாவது, அவளுக்குரிய மறுமனையையும் அவன் கொடுக்கவேண்டும்.",
+     "anchor": "தன்னுடைய மகள்களை நடத்துவதுபோல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.10",
+   "source_hash": "d25d074b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.10#p1-d25d074b",
+     "text": "அவனுடைய மகனுக்காக.",
+     "anchor": "வேறொரு பெண்ணை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.11",
+   "source_hash": "9e7d929c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.11#p1-9e7d929c",
+     "text": "தானே அவளை மணந்துகொள்வதுமில்லை, மற்றொருவனுக்கு அவளை வாங்குவதற்குப் பணம் கொடுப்பதுமில்லை, தன் மகனுக்கு அவளைத் தந்துவைப்பதுமில்லை.",
+     "anchor": "இம்மூன்றும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.13",
+   "source_hash": "e38e5df7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.13#p1-e38e5df7",
+     "text": "ஒருவன் அறியாமல் கொலைசெய்தாலும், அது அப்படி நடக்கும்படி தேவனுடைய பராமரிப்பினாலேயே ஆகும்.",
+     "anchor": "தேவசெயலாகத் தன்னுடைய கைக்கு நேரிட்டவனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.14",
+   "source_hash": "6eb2fca0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.14#p1-6eb2fca0",
+     "text": "அந்த இடத்தின் பரிசுத்தம் கொலைகாரனைப் பாதுகாக்கக்கூடாது.",
+     "anchor": "பலிபீடத்திலிருந்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.18",
+   "source_hash": "a84deb44",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.18#p1-a84deb44",
+     "text": "தூரத்திலிருந்தோ அருகிலிருந்தோ.",
+     "anchor": "கல்லால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.19",
+   "source_hash": "28c068d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.19#p1-28c068d9",
+     "text": "பொது நியாயத்தால்.",
+     "anchor": "தண்டனைக்கு விலகியிருப்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.21",
+   "source_hash": "5a0ce77b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.21#p1-5a0ce77b",
+     "text": "குடிமையாட்சி நடுவனால் அப்படி எண்ணப்படுவதில்லை என்பது பொருள், ஆனால் தேவனுக்கு முன்பாக அவன் ஒரு கொலைக்காரனே.",
+     "anchor": "பழிவாங்கவேண்டியதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.22",
+   "source_hash": "aec23147",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.22#p1-aec23147",
+     "text": "அல்லது, \"மரணம்\": கர்ப்பம் கலைந்துபோகும்போது தாய்க்கோ குழந்தைக்கோ ஏற்படும் மரணம். பிறக்காத குழந்தையின் மரணமும் இதில் அடங்கும்.",
+     "anchor": "வேறு சேதமில்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.24",
+   "source_hash": "98b8b99b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.24#p1-98b8b99b",
+     "text": "இந்த நியாயப்பிரமாணத்தை நிறைவேற்றுவது நியாயாதிபதிக்கு மட்டும் சொந்தமானதாக இருந்தது, மத். 5:38.",
+     "anchor": "கண்ணுக்குக் கண்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.27",
+   "source_hash": "b6b90029",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.27#p1-b6b90029",
+     "text": "இப்படியாக தேவன் மிகச் சிறிய காரியங்களிலும் கடூரத்தைப் பழிவாங்குகிறார்.",
+     "anchor": "தன்னுடைய அடிமையின் பல்லையோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.28",
+   "source_hash": "3cf85e98",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.28#p1-3cf85e98",
+     "text": "மிருகத்திற்குத் தண்டனை கொடுக்கப்பட்டால், கொலைசெய்தவனுக்கு அதிலும் அதிகமாகத் தண்டனை கொடுக்கப்படும்.",
+     "anchor": "கல்லெறியப்படவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.30",
+   "source_hash": "520b4cda",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.30#p1-520b4cda",
+     "text": "கொல்லப்பட்டவனுடைய அடுத்த சொந்தத்தானால்.",
+     "anchor": "அவன் தன்னுடைய உயிரை மீட்கும் பொருளாக விதிக்கப்பட்ட அபராதத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.32",
+   "source_hash": "18ea9323",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.32#p1-18ea9323",
+     "text": "ஆதியாகமம் 23:15-ஐப் பார்க்கவும்.",
+     "anchor": "முப்பது சேக்கல் நிறையான வெள்ளியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.21.34",
+   "source_hash": "12202c5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.21.34#p1-12202c5e",
+     "text": "இந்த நியாயப்பிரமாணம் தீங்கு செய்வதை மட்டுமல்ல, ஒருவனும் தீங்கு அடையாதபடி எச்சரிக்கையாயிருக்க வேண்டியதையும் தடை செய்கிறது.",
+     "anchor": "ஈடாகப் பணத்தை"
+    }
+   ]
+  }
+ ]
+}

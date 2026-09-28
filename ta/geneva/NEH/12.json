@@ -1,0 +1,229 @@
+{
+ "source": "geneva",
+ "book": "NEH",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NEH.12.1",
+   "source_hash": "c912897a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.1#p1-c912897a",
+     "text": "பாபிலோனிலிருந்து எருசலேமுக்கு.",
+     "anchor": "செருபாபேலோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.7",
+   "source_hash": "7ede02db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.7#p1-7ede02db",
+     "text": "பிரதான ஆசாரியனுக்கு அடுத்த பதவியிலிருந்து, ஆரோனின் வம்சத்தைச் சேர்ந்தவர்கள்.",
+     "anchor": "ஆசாரியர்களுக்கும் தங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.8",
+   "source_hash": "068febba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.8#p1-068febba",
+     "text": "சங்கீதங்களைப் பாடினவர்களுக்குப் பொறுப்பாக இருந்தார்கள்.",
+     "anchor": "துதிசெய்தலுக்கு பொறுப்பாக இருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.9",
+   "source_hash": "cdf868a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.9#p1-cdf868a5",
+     "text": "அவர்கள் தங்கள் முறைமையின்படி காவல்களையும் ஜாகரிப்புகளையும் காத்தார்கள், 2 நாளாகமம் 23:6.",
+     "anchor": "காவல்காத்திருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.12",
+   "source_hash": "5eeddd7a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.12#p1-5eeddd7a",
+     "text": "அதாவது, செராயாவுக்கு அடுத்தவன் அல்லது செராயா என்னும் பெயரால் அழைக்கப்பட்ட முறையின் தலைவன்.",
+     "anchor": "செராயாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.17",
+   "source_hash": "905dcaf2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.17#p1-905dcaf2",
+     "text": "இவனுடைய சந்ததியில் சகரியா இருந்தான், அவன் யோவான்ஸ்நானகனுடைய தகப்பன்.",
+     "anchor": "அபியாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.24",
+   "source_hash": "fb4773a5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.24#p1-fb4773a5",
+     "text": "அதாவது, ஒருவர் பின் ஒருவராக, ஒவ்வொருவரும் தன் முறையின்படி.",
+     "anchor": "எதிர்முகமாக பிரிவுகளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.28",
+   "source_hash": "9d14b224",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.28#p1-9d14b224",
+     "text": "இவர்கள் ஒரு குறிப்பிட்ட குடும்பத்தினராக இருந்து, வயல்வெளிகளில் தங்கள் சொத்துக்களைப் பெற்றிருந்தார்கள், 1 நாளாகமம் 2:54.",
+     "anchor": "நெத்தோபாத்தியர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.31",
+   "source_hash": "3ebf0342",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.31#p1-3ebf0342",
+     "text": "அதாவது, நெகேமியா.",
+     "anchor": "நான் யூதாவின் பிரபுக்களை மதிலின்மேல் ஏறச்செய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.36",
+   "source_hash": "1dd46917",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.36#p1-1dd46917",
+     "text": "அதாவது, சக்கூரின் வெண்கல ஆசனம்.",
+     "anchor": "அவனுடைய சகோதரர்களான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.37",
+   "source_hash": "a5224850",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.37#p1-a5224850",
+     "text": "இது சீயோன் மலைக்கு ஏறிச்செல்லும் படிகளாகும்; அது தாவீது நகரம் என்று அழைக்கப்படுகிறது.",
+     "anchor": "தாவீது நகரத்தின் படிகளில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.44",
+   "source_hash": "66e190d2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.44#p1-66e190d2",
+     "text": "இவை எசேக்கியாவினால் தசமபாகத்தையும் அப்படிப்பட்ட பொருள்களையும் வைப்பதற்காக ஏற்படுத்தப்பட்ட அறைகளாயிருந்தன, 2 நாளாகமம் 31:11, இப்பொழுது அதே பயனுக்காக மறுபடியும் பழுதுபார்க்கப்பட்டன.",
+     "anchor": "பொக்கிஷங்களையும் ... வைக்கும் அறைகளின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NEH.12.47",
+   "source_hash": "3ae128b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NEH.12.47#p1-3ae128b0",
+     "text": "அதாவது, தசமபாகங்களில் பத்தில் ஒரு பங்கு.",
+     "anchor": "ஆரோனின் சந்ததிக்கென்று அவர்கள் வேலைகளைப் பிரதிஷ்டை செய்துகொடுத்தார்கள்"
+    }
+   ]
+  }
+ ]
+}

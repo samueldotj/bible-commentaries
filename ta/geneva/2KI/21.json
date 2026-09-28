@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "2KI",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2KI.21.6",
+   "source_hash": "ccc42619",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.6#p1-ccc42619",
+     "text": "2 இராஜாக்கள் 16:3ஐ வாசிக்கவும்.",
+     "anchor": "அக்கினியில் சுட்டெரித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.8",
+   "source_hash": "a7823a9a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.8#p1-a7823a9a",
+     "text": "ஆகையால் அவர்கள் தேவனுடைய கற்பனைக்குக் கீழ்ப்படியாமற்போனதினால், அவர்கள் நிபந்தனையின்படி மாத்திரமே பெற்றிருந்த தேசத்தினின்று நியாயமாக அலையச்செய்யப்பட்டார்கள்.",
+     "anchor": "செய்ய ஜாக்கிரதையாக இருந்தார்களேயானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.12",
+   "source_hash": "9bd6acca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.12#p1-9bd6acca",
+     "text": "இந்தப் பெரிய ஆபத்தைக் கேட்கிற எவரும் திகைத்துப்போவார்கள் என்பதைக் குறிக்கிறது.",
+     "anchor": "தொனித்துக்கொண்டிருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.13",
+   "source_hash": "d14c7130",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.13#p1-d14c7130",
+     "text": "நான் சமாரியாவையும் ஆகாப் வீட்டையும் அழித்ததுபோல, யூதாவையும் அழிப்பேன்.",
+     "anchor": "சமாரியாவின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.14",
+   "source_hash": "8ceee390",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.14#p1-8ceee390",
+     "text": "அதாவது, மற்ற கோத்திரங்களில் மீதியாக இருந்த யூதாவும் பென்யமீனும் மாத்திரமே.",
+     "anchor": "என் சுதந்தரத்தில் மீதியானதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.16",
+   "source_hash": "421dea1a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.16#p1-421dea1a",
+     "text": "தான் அவனது மாமனாராகிய தீர்க்கதரிசியாகிய ஏசாயாவைக் கொலைசெய்தான் என்று எபிரெயர்கள் எழுதுகிறார்கள்.",
+     "anchor": "குற்றமில்லாத இரத்தத்தையும் மிகுதியாகச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2KI.21.22",
+   "source_hash": "eb335b79",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2KI.21.22#p1-eb335b79",
+     "text": "அதாவது, அவருடைய கற்பனையின்படி.",
+     "anchor": "யெகோவாவின் வழியிலே"
+    }
+   ]
+  }
+ ]
+}

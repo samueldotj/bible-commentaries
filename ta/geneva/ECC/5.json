@@ -1,0 +1,249 @@
+{
+ "source": "geneva",
+ "book": "ECC",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ECC.5.1",
+   "source_hash": "ef9a5780",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.1#p1-1309f898",
+     "text": "அதாவது, நீ தேவனுடைய வசனத்தைக் கேட்க வருகிறபோது உனக்கு இருக்கவேண்டிய மனநிலையைக் குறிக்கிறது.",
+     "anchor": "தேவாலயத்திற்குப் போகும்போது உன்னுடைய நடையை"
+    },
+    {
+     "id": "geneva/ECC.5.1#p2-4f60c589",
+     "text": "அதாவது, துன்மார்க்கரைக் குறிக்கிறது, அவர்கள் சாதாரண வழிபாடுகளால் தேவனுக்குப் பிரியமாக இருக்கலாம் என்று நினைக்கிறார்கள், அவர்களுக்கு விசுவாசமும் மனந்திரும்புதலும் இல்லை.",
+     "anchor": "மூடர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.2",
+   "source_hash": "c42d34a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.2#p1-223a9075",
+     "text": "பொருத்தனை செய்கையிலோ அல்லது ஜெபிக்கையிலோ, அதாவது, நாம் தேவனுக்கு முன்பாக எல்லா பயபக்தியையும் காண்பிக்க வேண்டும் என்பதைக் குறிக்கிறது.",
+     "anchor": "துணிகரமாக உன்னுடைய வாயினால் பேசாமலும்"
+    },
+    {
+     "id": "geneva/ECC.5.2#p2-70ff1d72",
+     "text": "உன்னுடைய அதிக வார்த்தைகளின் நிமித்தமாகவோ அல்லது அடிக்கடி திரும்பத்திரும்பச் சொல்வதின் நிமித்தமாகவோ அல்ல, உன்னுடைய விசுவாசத்தையும் ஊழியக்காரனின் மனதையும் அவர் கவனிக்கிறார்.",
+     "anchor": "சுருக்கமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.4",
+   "source_hash": "24698e39",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.4#p1-24698e39",
+     "text": "தேவனுடைய வார்த்தையால் அங்கீகரிக்கப்பட்டு, அவருடைய மகிமைக்கு உதவும் பொருத்தனைகளைக் குறித்தே அவர் பேசுகிறார்.",
+     "anchor": "நேர்ந்துகொண்டதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.6",
+   "source_hash": "bd22a79b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.6#p1-d3302973",
+     "text": "திடீரென பொருத்தனைசெய்து, திருமணம்செய்யாமல் வாழ்வதாக பொருத்தனைசெய்கிறவர்களைப்போலவும் அதுபோன்றவைபோலவும், உன்னுடைய சரீரத்தைப் பாவத்திற்குள்ளாக்கிக்கொள்ளாதே.",
+     "anchor": "சரீரத்தைப் பாவத்திற்குள்ளாக்க"
+    },
+    {
+     "id": "geneva/ECC.5.6#p2-3cd8e536",
+     "text": "அதாவது, தேவனுடைய தூதனுக்குமுன்பாக, அவன் உன்னுடைய செயலை ஆராயும்போது, உன்னுடைய அறியாமை ஒரு நியாயமான தப்பிக்கும் காரணமாக இருக்கலாம் என்பதுபோல.",
+     "anchor": "தூதனுக்குமுன்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.8",
+   "source_hash": "8285bde3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.8#p1-8285bde3",
+     "text": "பொருள்: தேவனே இவற்றைச் சரிசெய்வார், ஆகவே நாம் அவரையே சார்ந்திருக்க வேண்டும்.",
+     "anchor": "உயர்ந்தவன்மேல் உயர்ந்தவன் காவலாளியாக இருக்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.9",
+   "source_hash": "69b21b22",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.9#p1-6ec7290a",
+     "text": "இவ்வுலக வாழ்க்கைக்கு உரிய எல்லாவற்றிற்கும் மேலாக பூமியே விரும்பப்படத்தக்கது.",
+     "anchor": "பூமியில் விளையும் பலன் எல்லோருக்கும் உரியது"
+    },
+    {
+     "id": "geneva/ECC.5.9#p2-90ff467d",
+     "text": "ராஜாக்களும் பிரபுக்களும் பயிரிடுதல் இல்லாமல் தங்கள் நிலையை நிலைநிறுத்த முடியாது; இது பயிரிடுதலின் மேன்மையை எடுத்துக்காட்டுகிறது.",
+     "anchor": "ராஜாவும் வயலின் பலனால் ஆதரிக்கப்படுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.12",
+   "source_hash": "c2ee0ef2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.12#p1-c2ee0ef2",
+     "text": "அதாவது, அவனுடைய பெரிய செல்வப் பெருக்கம், அல்லது அவனுடைய அதிக உணவினால் வரும் மிகைச்சாப்பாடு.",
+     "anchor": "செல்வந்தனுடைய பெருக்கோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.13",
+   "source_hash": "0f0c2de2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.13#p1-0f0c2de2",
+     "text": "பொருளாசைக்காரர் செல்வத்தைச் சேர்த்துவைக்கும்போது, அது அவர்களுடைய அழிவுக்கே காரணமாகும்.",
+     "anchor": "அதை உடையவர்களுக்கே சேகரித்து வைக்கப்படுவதாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.14",
+   "source_hash": "4a3abd1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.14#p1-4a3abd1c",
+     "text": "அவன் தன் தகப்பனுடைய ஐசுவரியத்தை அனுபவிக்கிறதில்லை.",
+     "anchor": "கையில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.16",
+   "source_hash": "08a5f7de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.16#p1-08a5f7de",
+     "text": "அதாவது, வீணாகவும் பயனில்லாமலும்.",
+     "anchor": "காற்றுக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.17",
+   "source_hash": "a01c571f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.17#p1-a01c571f",
+     "text": "துன்பத்திலும் மனதுக்கசதியிலும்.",
+     "anchor": "இருளிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.18",
+   "source_hash": "f2cc5818",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.18#p1-f2cc5818",
+     "text": "பிரசங்கி 3:22-ஐப் பார்க்க",
+     "anchor": "சாப்பிட்டுக் குடித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.5.20",
+   "source_hash": "26cda66b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.5.20#p1-26cda66b",
+     "text": "அவன் முன்பு அனுபவித்த வருத்தங்களைக் குறித்து அதிகமாக சிந்திக்கமாட்டான்.",
+     "anchor": "உயிருள்ள நாட்களை"
+    }
+   ]
+  }
+ ]
+}

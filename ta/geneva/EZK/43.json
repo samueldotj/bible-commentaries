@@ -1,0 +1,64 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 43,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.43.3",
+   "source_hash": "d9626f76",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.3#p1-d9626f76",
+     "text": "நான் கல்தேயருடைய நகரத்தின் அழிவைக்குறித்துத் தீர்க்கதரிசனம் சொன்னபோது.",
+     "anchor": "நகரத்தை அழிக்கவந்தபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.43.4",
+   "source_hash": "eb625e7a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.4#p1-eb625e7a",
+     "text": "இது முன்பு போய்விட்டிருந்தது, எசேக்கியேல் 10:4, 12:22.",
+     "anchor": "யெகோவாவுடைய மகிமை...நுழைந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.43.7",
+   "source_hash": "ebdbc80c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.43.7#p1-481aa097",
+     "text": "அவர்களுடைய விக்கிரக ஆராதனையினால்.",
+     "anchor": "தீட்டுப்படுத்துவதில்லை"
+    },
+    {
+     "id": "geneva/EZK.43.7#p2-10287a19",
+     "text": "இவர் ஆமோன் மற்றும் மனாசேயைக் குறிக்கிறார், அவர்கள் ஆலயத்திற்கு அருகிலுள்ள தங்களுடைய தோட்டங்களில் அடக்கம் செய்யப்பட்டிருந்தார்கள், அங்கே தங்களுடைய விக்கிரகங்களுக்குச் சின்னங்களை நிறுத்தியிருந்தார்கள்.",
+     "anchor": "தங்களுடைய ராஜாக்களின் பிரேதங்களினாலும்"
+    }
+   ]
+  }
+ ]
+}

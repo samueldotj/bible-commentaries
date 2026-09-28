@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "RUT",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/RUT.3.1",
+   "source_hash": "6ef70e86",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.1#p1-6ef70e86",
+     "text": "அதாவது, அவள் அவளுக்கு ஒரு கணவனைத் தேடித் தருவாள், அவனுடன் அவள் சமாதானமாக வாழலாம் என்பதாகும்.",
+     "anchor": "சுகமாக வாழ்ந்திருக்கும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.3",
+   "source_hash": "85d90923",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.3#p1-85d90923",
+     "text": "போவாஸையும், வேறொருவனையும் அல்ல.",
+     "anchor": "அந்த மனிதன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.7",
+   "source_hash": "166c1d82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.7#p1-166c1d82",
+     "text": "அதாவது, அவன் தன் வேலையாட்களுடன் தன்னைத்தானே சுகித்திருந்தான்.",
+     "anchor": "மகிழ்ச்சியாக இருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.10",
+   "source_hash": "b244a8e6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.10#p1-b244a8e6",
+     "text": "நீ பலமுறை உன்னை அதிக நற்குணமுள்ளவளாக காண்பித்தாய்.",
+     "anchor": "பிந்தின நற்குணம் உத்தமமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.13",
+   "source_hash": "ee17a605",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.13#p1-ee17a605",
+     "text": "தேவனுடைய நியாயப்பிரமாணத்தின்படி, திருமண உறவினன் என்ற முறையினால் அவன் உன்னைத் தனக்கு மனைவியாகக் கொள்வானாயின், ஆதியாகமம் 25:5.",
+     "anchor": "உன்னை உறவின்முறைப்படித் திருமணம்செய்ய','label':'e'"
+    }
+   ]
+  },
+  {
+   "id": "geneva/RUT.3.16",
+   "source_hash": "8910cf03",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/RUT.3.16#p1-8910cf03",
+     "text": "அவள் வீட்டிற்குத் திரும்பி வந்ததைக் கண்டு, அவனை மணந்துகொள்ளவில்லை என்று நினைத்து, அவள் ஆச்சரியப்பட்டாள்.",
+     "anchor": "உன் செய்தி என்ன"
+    }
+   ]
+  }
+ ]
+}

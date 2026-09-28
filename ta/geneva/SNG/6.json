@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.6.1",
+   "source_hash": "a4b5ea57",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.1#p1-a4b5ea57",
+     "text": "கிறிஸ்துவின் மேன்மையைக் கேட்டு, உண்மையுள்ளவர்கள் அவரை எப்படிக் கண்டடையலாம் என்று அறிய விரும்புகிறார்கள்.",
+     "anchor": "பெண்களில் அழகுமிகுந்தவளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.2",
+   "source_hash": "225574aa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.2#p1-225574aa",
+     "text": "அதாவது, இங்கே பூமியில் மனிதர்களுக்கு மத்தியில் உலாவுகிறார்.",
+     "anchor": "தோட்டத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.4",
+   "source_hash": "b2907069",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.4#p1-b2907069",
+     "text": "இது ஒரு அழகும் பலமும் கொண்ட நகரமாக இருந்தது, 1 இராஜாக்கள் 14:17.",
+     "anchor": "திர்சாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.5",
+   "source_hash": "cc6a935c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.5#p1-cc6a935c",
+     "text": "இது சபையின்மேல் கிறிஸ்துவிற்குள்ளான மிகுந்த அன்பை வெளிப்படுத்துகிறது.",
+     "anchor": "உன் கண்களை என்னைவிட்டுத் திருப்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.8",
+   "source_hash": "d213a991",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.8#p1-d213a991",
+     "text": "கிறிஸ்து தம்முடைய சபைக்குக் கொடுக்கும் வரங்கள் எண்ணிக்கையற்றவை என்று பொருள்; அல்லது அவருடைய உண்மையுள்ளவர்கள் எண்ணிக்கையில் அநேகர் என்று பொருள்.",
+     "anchor": "ராணிகள் அறுபதுபேரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.10",
+   "source_hash": "33ee8597",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.10#p1-33ee8597",
+     "text": "சபையின் ஆரம்பம் சிறியதாயிருந்தும், அது பெருந்திரளாக வளர்ந்தது என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "உதிக்கிற இவள் யார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.11",
+   "source_hash": "e86de493",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.11#p1-e86de493",
+     "text": "நியாயப்பிரமாணத்திலும் தீர்க்கதரிசிகளிடத்திலும் இருந்து என்ன கனிகள் வருகின்றனவென்று பார்ப்பதற்காக அவர் ஜெப ஆலயத்திற்குள் போனார்.",
+     "anchor": "வாதுமைத் தோட்டத்திற்குப் போனேன், பழுத்த பழங்களைப் பார்க்கவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.12",
+   "source_hash": "81841e74",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.12#p1-bfcf3eb9",
+     "text": "கலகத்தையே அல்லாமல் வேறொன்றும் நான் காணவில்லை.",
+     "anchor": "நினைக்காததற்குமுன்னே"
+    },
+    {
+     "id": "geneva/SNG.6.12#p2-04a6197d",
+     "text": "அல்லது, என் மனப்பூர்வமான மக்களின் இரதங்களின்மேல் என்னை வையும்.",
+     "anchor": "அம்மினதாபின் இரதங்களுக்கு ஒப்பாக்கினது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.6.13",
+   "source_hash": "ddee6c24",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.6.13#p1-ddee6c24",
+     "text": "ஓ எருசலேமின் மக்களே, ஏனெனில் எருசலேம் சாலேம் என்று அழைக்கப்பட்டது, அது சமாதானத்தைக் குறிக்கிறது.",
+     "anchor": "சூலமித்தியே"
+    }
+   ]
+  }
+ ]
+}

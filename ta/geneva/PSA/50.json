@@ -1,0 +1,282 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 50,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.50.1",
+   "source_hash": "0c7f6b22",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.1#p1-1ee8f46a",
+     "text": "இது ஆசிரியனாகவோ, அல்லது அது ஒப்படைக்கப்பட்ட பிரதான பாடகனாகவோ இருந்தவர் யார் என்பதைக் குறிக்கிறது."
+    },
+    {
+     "id": "geneva/PSA.50.1#p2-6e477053",
+     "text": "தன் வஞ்சகமான ஜனத்திற்கு விரோதமாக பரலோகத்திற்கும் பூமிக்கும் முன்பாக வழக்காடுவதற்காக.",
+     "anchor": "சூரியன் உதிக்கும்திசை தொடங்கி அது மறையும் திசைவரைக்குமுள்ள பூமியை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.2",
+   "source_hash": "d945d40d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.2#p1-d945d40d",
+     "text": "தேவன் தம்முடைய நாமம் அங்கே அறிவிக்கப்படும்படி அதைத் தெரிந்துகொண்டதினாலும், நியாயப்பிரமாணத்தின் உபதேசத்தில் அவருடைய சாயல் அங்கே பிரகாசிப்பதினாலும்.",
+     "anchor": "அழகுள்ள சீயோனிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.3",
+   "source_hash": "983f05f9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.3#p1-983f05f9",
+     "text": "தேவன் சீனாய் மலையில் தமது நியாயப்பிரமாணத்தைக் கொடுத்தபோது இடியோடும் புயலோடும் பயங்கரமாகத் தோன்றினார் போலவே, அதைக் கைக்கொண்டதற்குக் கணக்குக் கேட்பதற்கும் அவர் பயங்கரமாகத் தோன்றுவார்.",
+     "anchor": "அவருக்கு முன்பு அக்கினி அழியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.4",
+   "source_hash": "1d0139d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.4#p1-1d0139d6",
+     "text": "மாயக்காரருக்கு எதிராகச் சாட்சியாக.",
+     "anchor": "பூமியையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.5",
+   "source_hash": "66d9eb5e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.5#p1-cca90b0d",
+     "text": "தேவன் தம்முடைய தெரிந்துகொள்ளப்பட்டவர்களைப் பொருத்தமட்டில் அந்த முழு சபையையும் பரிசுத்தமானது, பரிசுத்தவான்கள் மற்றும் தம்முடைய மக்கள் என்று அழைக்கிறார்.",
+     "anchor": "பரிசுத்தவான்களை என்னிடத்தில் கூட்டுங்கள்"
+    },
+    {
+     "id": "geneva/PSA.50.5#p2-3c5be34e",
+     "text": "பலிகள் தேவனுக்கும் அவருடைய மக்களுக்கும் இடையேயுள்ள உடன்படிக்கையால் முத்திரையிடப்பட்டவை என்பதையும், அதிலேயே மத நம்பிக்கையை வைக்கக்கூடாது என்பதையும் அறிந்திருக்க வேண்டியவர்.",
+     "anchor": "பலியினாலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.8",
+   "source_hash": "c4c1069b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.8#p1-c4c1069b",
+     "text": "ஏனெனில் அதின் மெய்யான பயன்பாடு, அதாவது உங்களுடைய விசுவாசத்தை உறுதிப்படுத்துவது, இல்லாதவரையில் நான் பலிகளுக்காகக் கருத்துச் செலுத்தமாட்டேன்.",
+     "anchor": "உன்னுடைய பலிகளுக்காக உன்னைக் கடிந்துக்கொள்ளமாட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.10",
+   "source_hash": "7df64272",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.10#p1-7df64272",
+     "text": "அவர் பலியில் பிரியப்பட்டாலும், அதற்கு மனிதனுடைய உதவி அவருக்குத் தேவையில்லை.",
+     "anchor": "எல்லா காட்டு உயிரினங்களும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.13",
+   "source_hash": "c885a61b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.13#p1-c885a61b",
+     "text": "மனிதனுடைய பலவீனமான உயிர்வாழ்க்கைக்கு உணவு தேவைப்பட்டாலும், உலகம் முழுவதற்கும் உயிர் கொடுக்கிற தேவனுக்கோ அப்படிப்பட்ட வழிமுறைகள் தேவையில்லை.",
+     "anchor": "நான் எருதுகளின் இறைச்சியை சாப்பிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.14",
+   "source_hash": "2fae3349",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.14#p1-2fae3349",
+     "text": "தேவனுடைய உபகாரங்களை நினைவுகூர்ந்து ஸ்தோத்திரத்தினால் உன்னை வெளிப்படுத்து.",
+     "anchor": "உன்னதமான தேவனுக்கு உன்னுடைய பொருத்தனைகளைச் செலுத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.16",
+   "source_hash": "f16f5342",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.16#p1-f16f5342",
+     "text": "நீ உண்மையில் மாயமாய் இருக்க, என் மக்களைச் சேர்ந்தவன் என்று போலியாகக் காட்டி, என் உடன்படிக்கையைப் பற்றிப் பேசுவது ஏன்?",
+     "anchor": "உனக்கு என்ன நியாயமுண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.17",
+   "source_hash": "fd51dc54",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.17#p1-fd51dc54",
+     "text": "என்னுடைய வார்த்தையின்படி வாழ்வதற்கு.",
+     "anchor": "அறிவுறுத்துதலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.18",
+   "source_hash": "c65a33a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.18#p1-c65a33a3",
+     "text": "தேவனுடைய வார்த்தையை அற்பமாக எண்ணுகிறவர்களின் கனிகள் என்னவென்று அவர் காண்பிக்கிறார்.",
+     "anchor": "அவனோடு ஒருமித்துப்போகிறாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.20",
+   "source_hash": "cc0b231c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.20#p1-cc0b231c",
+     "text": "தங்கள் பேச்சிலோ நியாயத்தீர்ப்பிலோ தங்கள் தாயின் சொந்த மகன்களைக்கூட விட்டுவைக்காத மாயக்காரர்களின் கொடுமையை அவர் இங்கே குறிப்பிடுகிறார்.",
+     "anchor": "நீ உட்கார்ந்து உன்னுடைய சகோதரனுக்கு விரோதமாகப் பேசி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.21",
+   "source_hash": "ba5b04df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.21#p1-ba5b04df",
+     "text": "நான் உன்னுடைய துன்மார்க்க செயல்களையெல்லாம் ஒரு சுவடியில் எழுதி, நீ விரும்பினாலும் விரும்பாவிட்டாலும் அவைகளை நீ வாசித்து ஒப்புக்கொள்ளும்படி செய்வேன்.",
+     "anchor": "அவைகளை உன்னுடைய கண்களுக்கு முன்பாக ஒவ்வொன்றாக நிறுத்துவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.50.23",
+   "source_hash": "25d54349",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.50.23#p1-f33658ae",
+     "text": "இதில் விசுவாசமும் மன்றாட்டும் உட்பட்டிருக்கிறது.",
+     "anchor": "என்னை மகிமைப்படுத்துகிறான்"
+    },
+    {
+     "id": "geneva/PSA.50.23#p2-f1cf865d",
+     "text": "தேவன் நியமித்தபடி.",
+     "anchor": "தன்னுடைய வழியைச் சரிசெய்கிறவனுக்கு"
+    },
+    {
+     "id": "geneva/PSA.50.23#p3-d7ce698a",
+     "text": "அதாவது, தாமே அவனுக்கு இரட்சகராக இருக்கிறார் என்று வெளிப்படுத்துவேன் என்பதாம்.",
+     "anchor": "தேவனுடைய இரட்சிப்பை வெளிப்படுத்துவேன்"
+    }
+   ]
+  }
+ ]
+}

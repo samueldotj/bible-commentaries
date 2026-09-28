@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 37,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.37.1",
+   "source_hash": "b4ac3f5a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.1#p1-b4ac3f5a",
+     "text": "தேவன் தம்முடைய மக்களைச் சிறையிருப்பிலிருந்து விடுவிக்கும் வல்லமையையும் சித்தத்தையும் கொண்டிருக்கிறார் என்பதை ஒரு பெரிய அற்புதத்தினால் காண்பிக்கிறார், ஏனெனில் இறந்த எலும்புகளுக்கும் சரீரங்களுக்கும் உயிரைக் கொடுத்து அவற்றை மறுபடியும் எழுந்திருக்கச் செய்யவும் அவர் வல்லமையுள்ளவராயிருக்கிறார்.",
+     "anchor": "எலும்புகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.37.9",
+   "source_hash": "4a45abd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.9#p1-4a45abd0",
+     "text": "இஸ்ரவேலர்கள் சிதறியிருந்த இடங்களையெல்லாம் குறிக்கிறது; அதாவது, உண்மையுள்ளவர்கள் உலகமெங்கும் எங்கே சிதறியிருந்தாலும், அவர்கள் ஒரே ஆவியின் ஒற்றுமைக்கும் ஒரே உபதேசத்தின் ஒற்றுமைக்கும் கொண்டுவரப்படுவார்கள்.",
+     "anchor": "காற்றுத்திசை நான்கிலுமிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.37.13",
+   "source_hash": "79556a17",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.13#p1-79556a17",
+     "text": "அதாவது, நீங்கள் சிறைப்பட்டிருக்கிற அந்த இடங்களிலும் பட்டணங்களிலுமிருந்து நான் உங்களை வெளிக்கொண்டுவரும்போது.",
+     "anchor": "உங்களுடைய பிரேதக்குழிகளைத் திறந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.37.16",
+   "source_hash": "e5b9a8d4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.16#p1-e5b9a8d4",
+     "text": "இது இஸ்ரவேலின் இரண்டு வம்சங்களாகிய இஸ்ரவேலும் யூதாவும் ஒன்றிணைக்கப்படுவதைக் குறிக்கிறது.",
+     "anchor": "வேறொரு கோலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.37.19",
+   "source_hash": "e3ce7042",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.19#p1-e3ce7042",
+     "text": "அதாவது, இஸ்ரவேல் வம்சம்.",
+     "anchor": "யோசேப்பின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.37.25",
+   "source_hash": "76f0e8dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.37.25#p1-76f0e8dc",
+     "text": "கிறிஸ்துவினால் தெரிந்துகொள்ளப்பட்டவர்கள் எருசலேமுக்கு அடுத்த பரலோகத்தில் குடியிருப்பார்கள் என்பதைக் குறிக்கிறது; அதையே கானான் தேசம் என்பதினால் குறிக்கப்படுகிறது.",
+     "anchor": "தேசத்திலே"
+    }
+   ]
+  }
+ ]
+}

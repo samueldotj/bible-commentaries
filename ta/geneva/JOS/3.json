@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.3.1",
+   "source_hash": "4af48696",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.1#p1-4af48696",
+     "text": "எபிரெயர்களின்படி இது மார்ச் மாதத்தில், மோசே இறந்த 40 நாட்களுக்குப் பிறகு நடந்தது.",
+     "anchor": "யோர்தான்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.2",
+   "source_hash": "50cc84f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.2#p1-50cc84f2",
+     "text": "இது யோசுவா 1:11-இல் உணவுப் பொருட்களை ஆயத்தம் செய்யும்படிக்குக் கொடுக்கப்பட்டதே.",
+     "anchor": "மூன்றுநாட்களானபின்பு்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.8",
+   "source_hash": "475c458c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.8#p1-475c458c",
+     "text": "ஆற்றின் நீரோட்டம் ஓடிய கால்வாய் நடுவிலேயே, யோசுவா 3:17",
+     "anchor": "யோர்தான் நதியில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.10",
+   "source_hash": "f65e7faf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.10#p1-f65e7faf",
+     "text": "தண்ணீரைப் பிரித்த இந்த அற்புதத்தினால்.",
+     "anchor": "நீங்கள் அறிந்துகொள்வதற்கு அடையாளமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.12",
+   "source_hash": "37e165d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.12#p1-37e165d5",
+     "text": "இவர்கள் அந்த உபகாரத்தை நினைவுகூருவதற்காக பன்னிரண்டு கற்களை நிறுத்துவார்கள்.",
+     "anchor": "இஸ்ரவேல் கோத்திரங்களிலே பன்னிரண்டுபேரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.15",
+   "source_hash": "307e12d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.15#p1-307e12d6",
+     "text": "இந்த காலத்தில் நதி வழக்கமாக நிறைந்தோடுவதனால், இந்த அற்புதம் இன்னும் அதிகமாகப் பெரியதாக இருக்கிறது.",
+     "anchor": "கரைபுரண்டோடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.3.17",
+   "source_hash": "632c4325",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.3.17#p1-632c4325",
+     "text": "மக்கள் கடந்துபோகும்வரை காத்திருந்தார்கள் என்றும், அல்லது சிலர் வாசிக்கிறபடி, உலர்ந்த தரையில் இருந்தாற்போல் உறுதியாக நின்றார்கள் என்றும் பொருள்.",
+     "anchor": "தண்ணீரில்லாத தரையில் காலூன்றி நிற்கும்போது"
+    }
+   ]
+  }
+ ]
+}

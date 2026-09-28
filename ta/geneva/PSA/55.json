@@ -1,0 +1,285 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 55,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.55.1",
+   "source_hash": "da22f23b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.1#p1-da22f23b",
+     "text": "அவனுடைய ஜெபத்தின் தீவிரம், அவன் கூக்குரலிட வேண்டியிருந்த அளவிற்கு அவனுடைய துக்கத்தின் கடுமையை வெளிப்படுத்துகிறது.",
+     "anchor": "என்னுடைய ஜெபத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.3",
+   "source_hash": "f4bff04d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.3#p1-9a5fb518",
+     "text": "சவுலும் அவனுடைய கூட்டாளிகளும் செய்த மிரட்டல்களுக்காக.",
+     "anchor": "எதிரியின் சத்தத்தினால்"
+    },
+    {
+     "id": "geneva/PSA.55.3#p2-52dcdc02",
+     "text": "அவர்கள் என்னைத் துன்மார்க்கனாக அவதூறு செய்திருக்கிறார்கள், அல்லது என் அழிவைத் திட்டமிட்டிருக்கிறார்கள்.",
+     "anchor": "என்மேல் பழிசுமத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.5",
+   "source_hash": "04e1a65c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.5#p1-04e1a65c",
+     "text": "கடும் பயத்தினால் கலங்காத அவனுடைய எந்த உறுப்பும் இல்லை.",
+     "anchor": "என்னை மூடியது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.6",
+   "source_hash": "5d26b359",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.6#p1-5d26b359",
+     "text": "பயம் அவனை மிகுந்த வியாகுலத்திற்குள் ஓட்டிச்சென்றது, அதனால் அவன் ஏதோ ஒரு வனாந்திரத்தில் மறைந்திருக்கவும், தேவன் தான் அனுபவிப்பேன் என்று வாக்குத்தத்தம் செய்திருந்த அந்த ராஜ்யத்திலிருந்து துரத்தப்படவும் விரும்பினான்.",
+     "anchor": "பறந்துபோய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.8",
+   "source_hash": "03cc0958",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.8#p1-03cc0958",
+     "text": "சவுலின் கொடிய கோபத்திலும் கொடுங்கோன்மையிலும் இருந்து.",
+     "anchor": "பெருங்காற்றுக்கும் புயலுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.9",
+   "source_hash": "c633d1f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.9#p1-c633d1f7",
+     "text": "துன்மார்க்கர் தேவனுக்கு விரோதமாக சதி செய்தபோது நடந்த பாபிலோனின் குழப்பத்தில் இருந்தது போல.",
+     "anchor": "அவர்கள் மொழியை பிரிந்துபோகச்செய்யும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.10",
+   "source_hash": "393adcff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.10#p1-393adcff",
+     "text": "சவுலின் ஆளுகையின்கீழ் எல்லா நியாயப்பிரமாணங்களும் நல்ல ஒழுங்குகளும் முறிந்துபோய், துர்க்குணமும் சீர்கேடும் மட்டுமே ஆளுகை செய்கிறது.",
+     "anchor": "அக்கிரமமும் வாதையும் இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.12",
+   "source_hash": "d3779d8b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.12#p1-d3779d8b",
+     "text": "என் வெளிப்படையான பகைவன் தீங்கு செய்யத் தேடியிருந்தால், அவனை இன்னும் எளிதாக ஒதுங்கியிருக்கக்கூடும்.",
+     "anchor": "என்னைக் கடிந்துகொண்டவன் எதிரி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.13",
+   "source_hash": "fcfeb332",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.13#p1-fcfeb332",
+     "text": "அவன் உலகக் காரியங்களில் நட்பினாலும் ஆலோசனையினாலும் மட்டுமல்ல, தேவபக்தி விஷயத்திலும் என்னோடு இணைந்திருந்தவன்.",
+     "anchor": "சமமான மனிதனும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.15",
+   "source_hash": "dff55849",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.15#p1-dff55849",
+     "text": "கோராகு, தாத்தான், அபிராம் ஆகியோரைப் போல.",
+     "anchor": "உயிரோடு பாதாளத்தில் இறங்குவார்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.17",
+   "source_hash": "a628c946",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.17#p1-a628c946",
+     "text": "இது ஒரு ஊழியக்காரனுடைய மனதையும், தன் பங்கைப் பெறுவதற்குள்ள உறுதியான நம்பிக்கையையும் காட்டுகிறது, அது அவனை எல்லா நேரங்களிலும் ஜெபத்தில் ஊக்கமுள்ளவனாக ஆக்கியது.",
+     "anchor": "தியானம்செய்து முறையிடுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.18",
+   "source_hash": "b798146d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.18#p1-b798146d",
+     "text": "தேவதூதர்களே என் எதிரிகளுக்கு விரோதமாக என் பட்சத்தில் யுத்தம் செய்தார்கள், 2 இராஜாக்கள் 6:16.",
+     "anchor": "திரள் கூட்டமாகக் கூடி என்னோடு எதிர்த்தார்கள்;"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.19",
+   "source_hash": "e341c439",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.19#p1-e341c439",
+     "text": "ஆனாலும் அவர்களுடைய செல்வச்செழிப்பான நிலைமை தொடர்ந்து நிலைத்திருக்கிறது.",
+     "anchor": "மாறுதல்கள் ஏற்படாததினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.20",
+   "source_hash": "d467dd43",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.20#p1-d467dd43",
+     "text": "நான் அவனை எதிர்த்து எதுவும் செய்யவில்லை, அவனுடன் சமாதானமாகவே இருந்தேன்; ஆனாலும் அவன் எனக்கு விரோதமாகப் போர் தொடுத்தான்.",
+     "anchor": "விரோதமாகத் தன்னுடைய கையை நீட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.22",
+   "source_hash": "18fc853d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.22#p1-18fc853d",
+     "text": "தங்களை நலப்படுத்தவும் சோதிக்கவும், அவர் ஒரு காலத்திற்கு அவர்களைத் தள்ளாடும்படி விட்டாலும்.",
+     "anchor": "நீதிமானை ஒருபோதும் தள்ளாடவிடமாட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.55.23",
+   "source_hash": "082112f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.55.23#p1-082112f1",
+     "text": "அவர்கள் சிலசமயம் அதற்கு மேலும் பிழைத்திருந்தாலும், அவர்களுடைய வாழ்க்கை தேவனால் சாபமாக்கப்பட்டது, அமைதியில்லாதது, எந்த மரணத்தையும்விட மோசமானது.",
+     "anchor": "ஆயுளின் நாட்களில் பாதிவரைகூட"
+    }
+   ]
+  }
+ ]
+}

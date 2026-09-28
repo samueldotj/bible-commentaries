@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.16.1",
+   "source_hash": "5ea34db1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.1#p1-5ea34db1",
+     "text": "நாம் தேவனை நம்பாவிட்டால் அவரை நோக்கிக் கூப்பிட முடியாது என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "நம்பியிருக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.2",
+   "source_hash": "23f126db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.2#p1-23f126db",
+     "text": "நாம் தேவனை செல்வப்படுத்த முடியாதிருந்தாலும், தேவன் தமது பிள்ளைகளின் பயன்பாட்டிற்காகக் கொடுத்த ஈவுகளை நாம் செலவழிக்க வேண்டும்.",
+     "anchor": "என்னுடைய செல்வம் உமக்கு வேண்டியதாக இல்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.4",
+   "source_hash": "4a0fc639",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.4#p1-e4e1e8a7",
+     "text": "மனச்சாட்சியின் வேதனையும் பரிதாபமான அழிவும்.",
+     "anchor": "வேதனைகள் பெருகும்"
+    },
+    {
+     "id": "geneva/PSA.16.4#p2-a5266ed0",
+     "text": "அவர் அவர்களுடைய விக்கிரக ஆராதனைகளுக்கு வெளித்தோற்றத்தாலோ, இருதயத்தாலோ, வாயாலோ சம்மதிக்கமாட்டார்.",
+     "anchor": "அவர்கள் செலுத்துகிற இரத்த பானபலிகளை நான் செலுத்தமாட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.6",
+   "source_hash": "ab852cab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.6#p1-ab852cab",
+     "text": "என்னுடைய பங்கு அளக்கப்பட்ட அளவு.",
+     "anchor": "பங்கு கிடைத்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.8",
+   "source_hash": "7af5d906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.8#p1-7af5d906",
+     "text": "உண்மையுள்ளவர்கள் முடிவுவரை உறுதியாக நிலைத்திருப்பது நிச்சயம்.",
+     "anchor": "நான் அசைக்கப்படுவதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.9",
+   "source_hash": "22ffcd9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.9#p1-22ffcd9f",
+     "text": "அதாவது, நான் சரீரத்திலும் ஆத்துமாவிலும் சந்தோஷப்படுகிறேன்.",
+     "anchor": "என்னுடைய இருதயம் பூரித்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.10",
+   "source_hash": "9f611356",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.10#p1-9f611356",
+     "text": "இது முதன்மையாகக் கிறிஸ்துவைக் குறித்துச் சொல்லப்பட்டது; அவருடைய உயிர்த்தெழுதலினால் அவருடைய அங்கத்தினர் அனைவருக்கும் அழிவின்மை உண்டாகிறது.",
+     "anchor": "ஆத்துமாவைப் பாதாளத்தில் விடமாட்டீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.16.11",
+   "source_hash": "6fa47676",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.16.11#p1-6fa47676",
+     "text": "தேவன் கிருபை காண்பிக்கும் இடத்தில் பரிபூரண சந்தோஷம் உண்டு.",
+     "anchor": "உம்முடைய சமுகத்தில் பரிபூரண ஆனந்தமும்"
+    }
+   ]
+  }
+ ]
+}

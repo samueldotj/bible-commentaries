@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.2.2",
+   "source_hash": "4b3a3815",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.2#p1-4b3a3815",
+     "text": "பன்னிரண்டு கோத்திரங்களில் நான்கு பிரதான கொடிகள் இருந்தன, அதனால் ஒவ்வொரு மூன்று கோத்திரங்களுக்கும் ஒரு கொடி இருந்தது.",
+     "anchor": "இஸ்ரவேல் சந்ததியார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.5",
+   "source_hash": "5fc96e79",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.5#p1-5fc96e79",
+     "text": "லேயாளுடைய மகன்களாகிய யூதா, இசக்கார், செபுலோன் ஆகியோர் முதல் கொடியைச் சேர்ந்தவர்களாக இருந்தார்கள்.",
+     "anchor": "இசக்கார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.9",
+   "source_hash": "544fc7e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.9#p1-544fc7e3",
+     "text": "அந்தப் பெயருக்குள் அடங்கியிருந்தவர்களைக் குறித்து.",
+     "anchor": "முகாமைச்சேர்ந்தவர்கள் எல்லோரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.10",
+   "source_hash": "ac632a37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.10#p1-ac632a37",
+     "text": "லேயாளின் மகன்களாகிய ரூபனும் சிமியோனும், அவளுடைய வேலைக்காரியான சில்பாளின் மகனாகிய காத்தும் இரண்டாம் கொடியைச் சேர்ந்தவர்களாக இருந்தார்கள்.",
+     "anchor": "ரூபனுடைய முகாமின் கொடியையுடைய இராணுவங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.17",
+   "source_hash": "f2b26e10",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.17#p1-f2b26e10",
+     "text": "ஏனெனில் அது ஒவ்வொருவரிடமிருந்தும் சம தூரத்தில் இருக்கும்படியும், எல்லோரும் பாரபட்சமின்றி அதனிடத்தில் சேரும்படியுமே.",
+     "anchor": "முகாமங்களின் நடுவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.18",
+   "source_hash": "3b681720",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.18#p1-3b681720",
+     "text": "எப்பிராயீமும், மனாசேயும் தங்கள் தகப்பனாகிய யோசேப்பின் இடத்தை எடுத்துக்கொண்டதால், அவர்கள் ராகேலின் பிள்ளைகளாக எண்ணப்படுகிறார்கள்; ஆகவே அவர்களும் பென்யமீனும் மூன்றாம் கொடியை உண்டாக்குகிறார்கள்.",
+     "anchor": "மேற்கு புறத்தில் இறங்கவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.25",
+   "source_hash": "7cdd7d94",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.25#p1-7cdd7d94",
+     "text": "ராகேலின் வேலைக்காரியாகிய பில்காளின் மகன்களான தாணும் நப்தலியும், சில்பாளின் மகனாகிய ஆசேரோடு நாலாம் கொடியை உண்டாக்குகிறார்கள்.",
+     "anchor": "தாணுடைய முகாமின் கொடியையுடைய இராணுவங்கள் வடபுறத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.32",
+   "source_hash": "6fa23ef5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.32#p1-6fa23ef5",
+     "text": "இருபது வயதும் அதற்கு மேலுமுள்ளவர்கள்.",
+     "anchor": "எண்ணப்பட்டவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.2.34",
+   "source_hash": "64bed874",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.2.34#p1-64bed874",
+     "text": "ஏனெனில் நான்கு பிரதான கொடிகளில் ஒவ்வொன்றின் கீழும், ஒவ்வொரு படையையும் வேறுபடுத்தி அறியும்படி வெவ்வேறு அடையாளங்கள் இருந்தன.",
+     "anchor": "கொடிகளின்கீழ்"
+    }
+   ]
+  }
+ ]
+}

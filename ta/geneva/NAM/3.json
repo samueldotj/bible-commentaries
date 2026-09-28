@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "NAM",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NAM.3.1",
+   "source_hash": "ca15b360",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.1#p1-ca15b360",
+     "text": "அது கொள்ளையடிப்பதையும் பறிப்பதையும் ஒருபோதும் நிறுத்துவதில்லை.",
+     "anchor": "கொள்ளை ஓயாமல் நடக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.2",
+   "source_hash": "7b66228e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.2#p1-7b66228e",
+     "text": "கல்தேயர் விரைவாக முன்னேறுவார்கள் என்றும், அசீரியருக்கு எதிராக வரும்போது அவர்களுடைய குதிரைகள் தரையில் மிதித்து எவ்வளவு துணிவுடன் இருக்கும் என்றும் அவர் காண்பிக்கிறார்.",
+     "anchor": "உருளைகளின் அதிர்ச்சியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.4",
+   "source_hash": "0f0f1a5c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.4#p1-0f0f1a5c",
+     "text": "அவன் நினிவேயை ஒரு வேசிக்கு ஒப்பிடுகிறார், அவள் தன் ரூபத்தினாலும் சூழ்ச்சியினாலும் இளைஞர்களை மயக்கி, அவர்களை அழிவுக்குக் கொண்டுவருகிறாள்.",
+     "anchor": "வேசியினுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.8",
+   "source_hash": "bfb3ae0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.8#p1-bfb3ae0b",
+     "text": "அலெக்சந்திரியாவைக் குறிக்கிறது, அது அநேக தேசங்களுடன் சமாதான ஒப்பந்தம் செய்திருந்தும், இப்பொழுது அழிக்கப்பட்டது.",
+     "anchor": "நோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.15",
+   "source_hash": "fd90bd18",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.15#p1-fd90bd18",
+     "text": "இது, இந்தப் பூச்சிகள் மழையினாலோ அல்லது காலமாற்றத்தினாலோ அழிக்கப்படுவதுபோல, தேவனுடைய நியாயத்தீர்ப்புகள் அசீரியரை உடனடியாக அழித்துவிடும் என்பதைக் குறிக்கிறது.",
+     "anchor": "பச்சைக்கிளிகளைப்போல் உன்னை அழித்துவிடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.18",
+   "source_hash": "429beb1e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.18#p1-429beb1e",
+     "text": "உன் பிரபுக்களும் ஆலோசனைக்காரரும்.",
+     "anchor": "மேய்ப்பர்கள் உறங்குவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NAM.3.19",
+   "source_hash": "4ee45f21",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NAM.3.19#p1-4ee45f21",
+     "text": "அசீரியர் எல்லா மக்களுக்கும் தீங்கு செய்தார்கள் என்பதைக் குறிக்கிறது.",
+     "anchor": "உன் பொல்லாப்பு எந்நேரமும் யார் மேலேதான் பாயாமற்போனது"
+    }
+   ]
+  }
+ ]
+}

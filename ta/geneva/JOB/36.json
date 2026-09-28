@@ -1,0 +1,392 @@
+{
+ "source": "geneva",
+ "book": "JOB",
+ "chapter": 36,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOB.36.3",
+   "source_hash": "29e253f9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.3#p1-29e253f9",
+     "text": "நாம் தேவனைக் குறித்துப் பேசும்போது, நம்முடைய இயல்பான புத்தி அடையக்கூடியதைவிட நம் ஆவியை உயரமாக உயர்த்த வேண்டும் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "என் ஞானத்தைக் கொண்டுவந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.4",
+   "source_hash": "36db68ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.4#p1-36db68ad",
+     "text": "நான் உண்மையுள்ள ஒரு போதகனாக இருக்கிறேன் என்றும், தேவனுடைய நாமத்தில் உம்மோடு பேசுகிறேன் என்றும் நீர் உணருவீர்.",
+     "anchor": "அறிவில் தேறினவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.5",
+   "source_hash": "cb5f97b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.5#p1-cb5f97b4",
+     "text": "பலமும் உறுதியும் விவேகமும் உடையவர்: ஏனெனில் இவை தேவனுடைய கொடைகளாகும், அவர் மனுஷனில் இவற்றின்மேல் அன்புகொள்ளுகிறார்: ஆனாலும் தேவன் இப்பொழுது யோபுவை எவ்வளவாக தண்டித்தாரோ, அது இவை அவனிடம் இல்லை என்பதற்கு அடையாளமாகும்.",
+     "anchor": "மன உருக்கத்திலும் அவர் மகத்துவமுள்ளவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.6",
+   "source_hash": "3259bb5c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.6#p1-3259bb5c",
+     "text": "ஆகையால் அவர் துன்மார்க்கரைப் பிழைக்க விடமாட்டார்; ஆனால் தாழ்மையும் நொந்துடைந்ததுமான இருதயத்திற்கு அவர் கிருபையைக் காண்பிப்பார்.",
+     "anchor": "பிழைக்க விடாதிருக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.7",
+   "source_hash": "21f0ba59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.7#p1-21f0ba59",
+     "text": "அவர் தேவபக்தியுள்ளவர்களுக்கு கனத்தை அளிக்கிறார்.",
+     "anchor": "ராஜாக்களுடன் சிங்காசனத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.9",
+   "source_hash": "425209fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.9#p1-425209fc",
+     "text": "அவர் அவர்களுடைய இருதயங்களை உணரச்செய்து, தங்களுடைய பாவங்களை அறியச்செய்வார், அதனால் அவர்கள் மனாசேயைப்போல மனந்திரும்புதலினால் அவரிடத்திற்குத் திரும்பிவரும்படி.",
+     "anchor": "செயல்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.12",
+   "source_hash": "63add25b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.12#p1-63add25b",
+     "text": "அதாவது, தங்கள் மதியீனத்திலும் பிடிவாதத்திலும், இவ்வாறு தங்களுடைய அழிவுக்குத் தாங்களே காரணமாவார்கள்.",
+     "anchor": "ஞானம் அடையாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.13",
+   "source_hash": "639fc488",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.13#p1-50774b12",
+     "text": "தேவனுக்கு விரோதமாகப் பகைமையுள்ள எண்ணத்தோடு இருந்து, தங்கள் பாவங்களில் தங்களைத் தாமே சமாதானப்படுத்திக்கொள்கிறவர்கள்.",
+     "anchor": "மாயமுள்ள இருதயத்தார் கோபத்தைக் குவித்துக்கொள்ளுகிறார்கள்"
+    },
+    {
+     "id": "geneva/JOB.36.13#p2-4ead92ee",
+     "text": "அவர்கள் துன்பத்தில் இருக்கும்போது, 2 நாளாகமம் 16:12-ல் ஆசாவைப்போல, தேவனை உதவிக்காக நாடுவதில்லை.",
+     "anchor": "அவர்களை அவர் கட்டிவைக்கும்போதும் தேவனைக் கெஞ்சிக் கூப்பிடுவதில்லை.\","
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.14",
+   "source_hash": "88426daf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.14#p1-88426daf",
+     "text": "அவர்கள் ஏதோ இழிவான மரணத்தால் இறந்துபோகிறார்கள், அதுவும் வயதுவரும் முன்பே.",
+     "anchor": "இளவயதிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.16",
+   "source_hash": "0207e9c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.16#p1-0207e9c5",
+     "text": "நீர் தேவனுக்குக் கீழ்ப்படிந்திருந்தீரானால், அவர் உம்மை விடுதலைக்கும் செழிப்புக்கும் கொண்டுவந்திருப்பார்.",
+     "anchor": "உம்முடைய உணவுப்பந்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.17",
+   "source_hash": "fb13e960",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.17#p1-fb13e960",
+     "text": "நீ முற்றிலும் துன்மார்க்கருடைய வழியில் இருக்கிறாய்; ஏனெனில் நீ தேவனுடைய நியாயத்திற்கு எதிராக முறையிடுகிறாய்.",
+     "anchor": "ஆகாதவன்மேல் வரும் நியாயத்தீர்ப்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.18",
+   "source_hash": "96e69583",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.18#p1-96e69583",
+     "text": "நீர் உம்முடைய ஐசுவரியத்தில் தேவனை மறந்து அதினால் அழிந்துபோகாதபடி, தேவன் உம்மைத் தண்டிக்கிறார்.",
+     "anchor": "கடுங்கோபம் உண்டாயிருக்கிறதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.20",
+   "source_hash": "68004a13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.20#p1-68004a13",
+     "text": "தேவன் யாரையாவது அழிக்கும்போது, அவருடைய நியாயத்தீர்ப்புகளின் காரணத்தைத் தேடுவதில் ஆர்வம் காட்டாதே.",
+     "anchor": "இரவை விரும்பாதிரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.21",
+   "source_hash": "54783046",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.21#p1-54783046",
+     "text": "பொறுமையின்மையினால் இவ்விதமாக தேவனுக்கு விரோதமாக முறுமுறுத்தல்.",
+     "anchor": "அக்கிரமத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.25",
+   "source_hash": "dd308591",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.25#p1-dd308591",
+     "text": "தேவனுடைய செயல்கள் வெளிப்படுத்தப்படுகின்றன, மனிதன் அவைகளைத் தூரத்திலிருந்தே கண்டு, அவைகளின் மூலமாகவே தேவனை அறிந்துகொள்ளும்படி.",
+     "anchor": "தூரத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.26",
+   "source_hash": "f3402a52",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.26#p1-f3402a52",
+     "text": "நமது பலவீனம் நமக்குத் தடையாக இருப்பதால், தேவனை முழுமையாக அறிந்துகொள்ளும் அறிவை நாம் பெற முடியாது.",
+     "anchor": "நாம் அவரை அறிய முடியாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.27",
+   "source_hash": "1f7c3644",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.27#p1-1f7c3644",
+     "text": "அதாவது, அவர் மேகங்களில் வைத்திருக்கும் அந்த நீர்த்துளிகளிலிருந்து மழை பொழிகிறது.",
+     "anchor": "மேகத்திலிருந்து மழையாக பொழிகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.29",
+   "source_hash": "3f5f10ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.29#p1-3f5f10ee",
+     "text": "அதாவது, மேகங்களைக் குறிக்கிறது, அவற்றை அவர் தேவனுடைய ஆசரிப்புக்கூடாரம் என்கிறார்.",
+     "anchor": "கூடாரத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.30",
+   "source_hash": "7148f9cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.30#p1-163b93ce",
+     "text": "மேகத்தின்மேல்.",
+     "anchor": "அதின்மேல்"
+    },
+    {
+     "id": "geneva/JOB.36.30#p2-ea028ddf",
+     "text": "அதின் ஆழத்தை மனிதர் அறிந்துகொள்ள முடியாதபடிக்கு.",
+     "anchor": "சமுத்திரத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.31",
+   "source_hash": "85e291b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.31#p1-85e291b0",
+     "text": "மழையானது இரட்டிப்பான பயனை உடையது என்று அவர் காண்பிக்கிறார்: ஒன்று, அது எந்த இடங்களையாகிலும் வெள்ளமூட்டும்போது தேவனுடைய நியாயத்தீர்ப்புகளை வெளிப்படுத்துகிறது; மற்றொன்று, அது நிலத்தைப் பலனுள்ளதாக்குகிறது.",
+     "anchor": "மக்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.32",
+   "source_hash": "cbe4e62e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.32#p1-cbe4e62e",
+     "text": "அதாவது, ஒரு மேகம் மற்றொன்றின் மேல் மோதிக்கொள்வதைக் குறிக்கிறது.",
+     "anchor": "அடிக்கவேண்டுமென்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOB.36.33",
+   "source_hash": "b36affbf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOB.36.33#p1-b36affbf",
+     "text": "குளிர்ந்த நீராவி அதைத் தெரியப்படுத்துகிறது: அதாவது, சூடான புகையின் மேகம், குளிர்ந்த மேகத்திற்குள் எடுத்துக்கொள்ளப்படும்போது, நெருப்பு இருக்கும் இடத்தை நோக்கி மேலே எழும்புகிறது, இவ்வாறு கோபம் உற்பத்தியாகிறது; அதாவது, இரைச்சலும் இடிமுழக்கங்களும்.",
+     "anchor": "புயல் எழும்பப்போகிறதையும் ... தெரியப்படுத்தும்"
+    }
+   ]
+  }
+ ]
+}

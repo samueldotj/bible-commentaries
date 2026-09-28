@@ -1,0 +1,205 @@
+{
+ "source": "geneva",
+ "book": "HAB",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/HAB.1.2",
+   "source_hash": "34ccee4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.2#p1-34ccee4f",
+     "text": "தீர்க்கதரிசி தேவனிடத்தில் முறையிடுகிறார், யூதர்களுக்குள் நீதியும் சகோதர அன்பும் இல்லாமல் போனதைக் குறித்துப் புலம்புகிறார்; இவைகளுக்குப் பதிலாக கொடுமையும், களவும், வழக்கும், சண்டையும் ஆளுகை செய்கின்றன.",
+     "anchor": "கொடுமையின் காரணமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.4",
+   "source_hash": "0df4a098",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.4#p1-9f50f2b5",
+     "text": "தேவனுடைய காரியத்தில் யாராவது தன்னைப் பக்திவைராக்கியமுள்ளவனாகக் காண்பித்தால், அவனை அடக்கிவிடும்படி.",
+     "anchor": "நீதிமானை சூழ்ந்துகொள்ளுகிறான்"
+    },
+    {
+     "id": "geneva/HAB.1.4#p2-bde826c2",
+     "text": "இந்தத் துன்மார்க்கத்திற்குத் தீர்வு செய்யவேண்டிய நியாயாதிபதிகளும் மற்றவரைப்போலவே பொல்லாதவர்களாய் இருக்கிறபடியால்.",
+     "anchor": "புரட்டப்படுகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.5",
+   "source_hash": "0652b5da",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.5#p1-0652b5da",
+     "text": "முற்காலத்தில் நீங்கள் தேவனுடைய வசனத்தை விசுவாசிக்காதிருந்தது போலவே, இப்பொழுதும் சமீபமாயிருக்கும் அற்புதமான ஆபத்துகளை விசுவாசிக்க மாட்டீர்கள்.",
+     "anchor": "விசுவாசியாத"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.7",
+   "source_hash": "5af81b7d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.7#p1-5af81b7d",
+     "text": "இந்தக் காரியத்தில் அவர்களே உங்களுக்கு நியாயாதிபதிகளாக இருப்பார்கள்; அவர்களைக் கட்டுப்படுத்த அவர்களுக்கு மேலாக அதிகாரம் உள்ளவர் ஒருவரும் இல்லை.",
+     "anchor": "அவர்களுடைய நியாயமும் அவர்களுடைய மேன்மையும் அவர்களாலேயே உண்டாகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.9",
+   "source_hash": "496d2d58",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.9#p1-35beeb25",
+     "text": "யூதர்கள் இந்தக் காற்றை மிகவும் அஞ்சினார்கள், ஏனெனில் அது அவர்களுடைய பயிர்களை அழித்தது.",
+     "anchor": "கீழ்க்காற்று"
+    },
+    {
+     "id": "geneva/HAB.1.9#p2-c3884430",
+     "text": "அவர்கள் எண்ணிக்கையில் அவ்வளவு அதிகமாக இருப்பார்கள்.",
+     "anchor": "மணல் அளவு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.10",
+   "source_hash": "3a4856f5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.10#p1-3a4856f5",
+     "text": "அவர்கள் அதற்கு எதிராக மண்மேடுகளைக் குவிப்பார்கள்.",
+     "anchor": "மண்மேடுகளைக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.11",
+   "source_hash": "289d6bab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.11#p1-289d6bab",
+     "text": "தீர்க்கதரிசி உண்மையுள்ளவர்களுக்கு தேவன் பாபிலோனியரையும் அழிப்பார் என்று ஆறுதல் கூறுகிறார், ஏனெனில் அவர்கள் இந்த வெற்றியை தவறாகப் பயன்படுத்தி, பெருமையும் திமிரும் கொண்டு, இதற்குரிய துதியைத் தங்கள் விக்கிரகங்களுக்கே அளிப்பார்கள்.",
+     "anchor": "மிஞ்சிப்போய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.12",
+   "source_hash": "0556fa2e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.12#p1-0556fa2e",
+     "text": "தேவனுடைய பாதுகாப்பைப்பற்றி பக்தியுள்ளவர்களுக்கு உறுதிப்படுத்துகிறார், சத்துரு தேவன் நியமித்தளவே செய்யமுடியும் என்பதையும், அவர்களுடைய பாவங்கள் இப்படிப்பட்ட கடுமையான தண்டனையை வேண்டியிருக்கின்றன என்பதையும் காண்பிக்கிறார்.",
+     "anchor": "சாவதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.14",
+   "source_hash": "62116cd1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.14#p1-62116cd1",
+     "text": "இப்படியே பெரியவை சிறியவைகளை விழுங்கும், கல்தேயர் உலகம் முழுவதையும் அழிக்கிறார்கள்.",
+     "anchor": "சமுத்திரத்து மீன்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.16",
+   "source_hash": "dfa06b25",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.16#p1-dfa06b25",
+     "text": "அதாவது, சத்துருக்கள் தங்களுக்குத்தாமே இச்சகம் பேசி, தங்கள் சொந்த பலத்திலும், வல்லமையிலும், புத்திக்கூர்மையிலும் மகிமைபாராட்டுகிறார்கள் என்பதாம்.",
+     "anchor": "வலைக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HAB.1.17",
+   "source_hash": "595513cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HAB.1.17#p1-595513cc",
+     "text": "அர்த்தம், அவர்கள் விரும்பாதிருப்பார்கள் என்பதே.",
+     "anchor": "மக்களை"
+    }
+   ]
+  }
+ ]
+}

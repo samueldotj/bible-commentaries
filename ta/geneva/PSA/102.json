@@ -1,0 +1,301 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 102,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.102.1",
+   "source_hash": "81d431cc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.1#p1-5784c0e9",
+     "text": "நாம் மிகுந்த துன்பத்தில் இருந்தாலும், ஜெபம்பண்ண எப்பொழுதும் இடம் உண்டு என்பதே இதனால் குறிக்கப்படுகிறது."
+    },
+    {
+     "id": "geneva/PSA.102.1#p2-47c3ea6b",
+     "text": "நாம் ஜெபம்பண்ணும்போது நாம் விரும்புகிறதை உயிருள்ளதாக உணர வேண்டும் என்றும், அதைப் பெறுவோம் என்று உறுதியாக விசுவாசிக்க வேண்டும் என்றும் இவர் விளக்குகிறார்.",
+     "anchor": "ஜெபம் உம்மிடத்தில் சேர்வதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.3",
+   "source_hash": "74472ffe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.3#p1-74472ffe",
+     "text": "இந்த மிகைப்படுத்தப்பட்ட வகையான பேச்சுகள், சபையின் உபத்திரவம் தேவபக்தியுள்ளவர்களின் இருதயங்களைத் எவ்வளவாகக் காயப்படுத்த வேண்டும் என்பதைக் காண்பிக்கின்றன.",
+     "anchor": "புகையைப்போல் ஒழிந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.4",
+   "source_hash": "9ca15da2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.4#p1-9ca15da2",
+     "text": "என்னுடைய துக்கங்கள் மிகுதியாயிருந்ததால் நான் சாப்பிடாமலிருந்தேன்.",
+     "anchor": "என்னுடைய ஆகாரத்தைச் சாப்பிட"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.6",
+   "source_hash": "ba05b676",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.6#p1-ba05b676",
+     "text": "தனிமையில் எப்பொழுதும் புலம்பி, பயங்கரமான குரல்களை வெளியிடுவது.",
+     "anchor": "வனாந்தர நாரைக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.8",
+   "source_hash": "871a070c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.8#p1-871a070c",
+     "text": "என் மரணத்திற்காக சதி செய்திருக்கிறார்கள்.",
+     "anchor": "எனக்கு விரோதமாகச் சாபம் இடுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.9",
+   "source_hash": "f7915832",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.9#p1-f7915832",
+     "text": "நான் என் துக்கத்திலிருந்து இன்னும் விடுவிக்கப்படாமல், எனக்கு எந்த ஆறுதலும் பெறாமலிருக்கிறேன் என்பதைக் குறிக்கிறது.",
+     "anchor": "சாம்பலைப் புசிக்கிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.10",
+   "source_hash": "d0e730a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.10#p1-d0e730a1",
+     "text": "தேவனுடைய கஷ்டங்கள் மாத்திரமல்ல, முதன்மையாக தேவனுடைய அதிருப்தியை உணர்ந்ததே தன்னை அசைத்ததென்று அவன் காண்பிக்கிறான்.",
+     "anchor": "உம்முடைய கோபமும் உம்முடைய கடுங்கோபமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.12",
+   "source_hash": "c0a60dfc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.12#p1-c0a60dfc",
+     "text": "நாம் பலவீனராயிருந்தாலும், உம்முடைய வாக்குத்தத்தம் உறுதியானது, அதின் நினைவு நம்மை என்றென்றைக்கும் உறுதிப்படுத்தும்.",
+     "anchor": "என்றென்றைக்கும் இருக்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.13",
+   "source_hash": "5271be80",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.13#p1-5271be80",
+     "text": "அதாவது, தீர்க்கதரிசியாகிய எரேமியாவைக்கொண்டு நீர் குறித்த எழுபது வருடங்கள், எரேமியா 29:12.",
+     "anchor": "குறித்த நேரமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.14",
+   "source_hash": "19be0fe9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.14#p1-19be0fe9",
+     "text": "சபை எவ்வளவு அதிகமாகத் துக்கத்திலும் பாழாய்க் கிடப்பிலும் இருக்கிறதோ, அவ்வளவு அதிகமாக உண்மையுள்ளவர்கள் அதின்மேல் அன்புவைத்துப் பரிதபிக்கவேண்டும்.",
+     "anchor": "கல்லுகள்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.16",
+   "source_hash": "5e44546b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.16#p1-5e44546b",
+     "text": "அதாவது, அவர் தமது சபையை மரணத்தின் இருளிலிருந்து வெளியே இழுத்து வரும்போது.",
+     "anchor": "தமது மகிமையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.18",
+   "source_hash": "9184405d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.18#p1-9184405d",
+     "text": "சபையின் விடுதலை ஒரு மேலான ஆசீர்வாதம், ஆகவே அவன் அதைப் புது சிருஷ்டிப்புடன் ஒப்பிடுகிறான்; ஏனெனில் அவர்களுடைய சிறையிருப்பில் சபையின் சரீரம் மரித்துப்போனது போலிருந்தது, அது விடுதலையினால் மறுபடியும் புதிதாக உருவாக்கப்பட்டது போலாயிற்று.",
+     "anchor": "உருவாக்கப்படும் மக்கள் யெகோவாவை துதிப்பார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.20",
+   "source_hash": "4b72a72d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.20#p1-4b72a72d",
+     "text": "இவர்கள் தங்கள் சிறையிருப்பில் மரணத்தைத் தவிர வேறொன்றையும் எதிர்பார்க்க முடியாதவர்களாக இருந்தார்கள்.",
+     "anchor": "கொலைக்குக் குறிக்கப்பட்டவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.22",
+   "source_hash": "e4d0003a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.22#p1-e4d0003a",
+     "text": "காத்தின் பெயர் மத ஆராதனை செழித்து, சபை பெருகும்போதே அல்லாமல் வேறெப்போதும் இவ்வளவாகத் துதிக்கப்படுவதில்லை என்று இதனால் காண்பிக்கிறார்: இது முக்கியமாகக் கிறிஸ்துவின் ராஜ்யத்தில் நிறைவேறுகிறது.",
+     "anchor": "ஒன்றாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.23",
+   "source_hash": "dc4c634f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.23#p1-dc4c634f",
+     "text": "கிறிஸ்துவின் வாக்குத்தத்தம் செய்யப்பட்ட காலத்தை தாங்கள் காணாமலிருப்பதைக் குறித்து சபை புலம்புகிறது, மேலும் தங்களுக்கு சில வருடங்களும் குறுகிய நாட்களும் மட்டுமே உண்டு என்று சொல்கிறது.",
+     "anchor": "பாதி வயதில் என்னுடைய பெலனை அவர் ஒடுக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.26",
+   "source_hash": "d6e1d4c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.26#p1-d6e1d4c9",
+     "text": "பரலோகமும் பூமியும் அழிந்துபோகுமானால், மனிதன் அழிந்துபோவது இன்னும் அதிக நிச்சயம்; ஆனாலும் சபை தேவனுடைய வாக்குத்தத்தத்தின் நிமித்தம் என்றென்றைக்கும் நிலைத்திருக்கும்.",
+     "anchor": "அவைகள் அழிந்துபோகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.102.28",
+   "source_hash": "5dc0744d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.102.28#p1-5dc0744d",
+     "text": "நீர் உலகத்திலிருந்து உமது சபையைத் தெரிந்துகொண்டு, அதை உம்மோடு இணைத்துக்கொண்டீரே, ஆகையால் அது என்றென்றைக்கும் நிலைத்திருக்காமல் இருக்க முடியாது; ஏனெனில் நீர் நித்தியமானவர்.",
+     "anchor": "உமக்கு முன்பாக நிலைபெற்றிருக்கும்"
+    }
+   ]
+  }
+ ]
+}

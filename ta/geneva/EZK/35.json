@@ -1,0 +1,120 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 35,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.35.2",
+   "source_hash": "6cab1c2d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.2#p1-6cab1c2d",
+     "text": "ஏதோமியர் குடியிருந்த இடம்.",
+     "anchor": "சேயீர்மலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.35.5",
+   "source_hash": "2e65497e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.5#p1-2e65497e",
+     "text": "அவர்களுடைய தண்டனையினால் நான் அவர்களை அவர்களுடைய அக்கிரமத்திலிருந்து அழைத்தபோது.",
+     "anchor": "அக்கிரமம் நிறைவேறும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.35.6",
+   "source_hash": "78a702df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.6#p1-78a702df",
+     "text": "நீ உன்னுடைய முந்தின கொடுமையை விட்டு மனந்திரும்பாவிட்டால்.",
+     "anchor": "இரத்தத்தை வெறுக்காததினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.35.9",
+   "source_hash": "5c05dbe6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.9#p1-5c05dbe6",
+     "text": "அதாவது, அவைகளின் முந்தின நிலைமைக்கு.",
+     "anchor": "குடியேற்றப்படுவதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.35.10",
+   "source_hash": "8de5b231",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.10#p1-bc65fd67",
+     "text": "அதாவது, இஸ்ரவேலும் யூதாவும்.",
+     "anchor": "இரண்டு இனத்தார்களும் இரண்டு தேசங்களும்"
+    },
+    {
+     "id": "geneva/EZK.35.10#p2-839e9fe0",
+     "text": "அதாவது, தேவனுடைய மக்களுக்கு விரோதமாக யுத்தம் செய்வதன் மூலம் அவர்கள் அவரைத் தமது சொந்த சுதந்தரத்திலிருந்து அப்புறப்படுத்த முயற்சி செய்வார்கள்.",
+     "anchor": "கர்த்தரிடத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.35.11",
+   "source_hash": "f4642ff8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.35.11#p1-db1f581c",
+     "text": "நீ கொடூரமாக செய்ததுபோலவே, நீயும் கொடூரமாக நடத்தப்படுவாய்.",
+     "anchor": "உன்னுடைய கோபத்திற்குத்தக்கதாகவும்"
+    },
+    {
+     "id": "geneva/EZK.35.11#p2-f6f54ba0",
+     "text": "தேவன் தம்முடைய பகைவர்களை தண்டிக்கும்போது, தேவபக்தியுள்ளவர்கள் தேவன் தங்கள்மேல் கரிசனையாயிருக்கிறார் என்பதைக் கருதி அவருடைய நாமத்தைத் துதிக்க வேண்டும் என்றும், அன்றியும் துன்மார்க்கர் தேவனே இல்லாதவர்கள்போல ஆவேசமாய் நடந்துகொள்கிறார்கள், அவருடைய கை தங்களுடைய அழிவுக்கென இறங்குவதை உணரும்வரை அவ்வாறே இருப்பார்கள் என்பதையும் இது காண்பிக்கிறது.",
+     "anchor": "அவர்களுக்குள்"
+    }
+   ]
+  }
+ ]
+}

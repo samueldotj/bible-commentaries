@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "HOS",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/HOS.6.1",
+   "source_hash": "801da7db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.1#p1-801da7db",
+     "text": "அவர்களுடைய வாதைகளை அவர் நிறுத்தும்படியாக, மக்கள் கர்த்தரிடத்தில் திரும்ப வேண்டும் என்று அவர் அவர்களுக்குக் காண்பிக்கிறார்.",
+     "anchor": "யெகோவாவிடத்தில் திரும்புவோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.2",
+   "source_hash": "d1e8771a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.2#p1-d1e8771a",
+     "text": "அவர் நமக்கு அடிக்கடி சிட்சை செய்தாலும், நாம் அவரிடத்தில் திரும்பினால், அவருடைய உதவி வெகு தூரமாயிராது.",
+     "anchor": "நம்மை உயிர்ப்பிப்பார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.4",
+   "source_hash": "4f03517a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.4#p1-4f03517a",
+     "text": "உங்களுக்கு ஒருவித பரிசுத்தமும் மனந்திரும்புதலும் இருப்பதாகத் தோன்றுகிறது, ஆனாலும் அது மிகவும் அற்பகாலமானது, காலையில் காணும் மேகத்தைப்போல உள்ளது.",
+     "anchor": "உங்கள் பக்தி காலையில் காணும் மேகத்தைப்போலவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.5",
+   "source_hash": "5e4b65a9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.5#p1-dbd531a7",
+     "text": "நான் என் தீர்க்கதரிசிகளைக்கொண்டு உங்களை உபதேசிக்கத் தொடர்ந்து பிரயாசப்பட்டேன், உங்களைத் தண்டித்துத் திருத்துவதற்கு ஏற்றபடி ஆயத்தம் செய்தேன்; ஆனாலும் எல்லாம் விருதாவாய்ப் போயிற்று; ஏனெனில் என் வார்த்தை அவர்களுக்கு உணவாக இல்லாமல் அவர்களைக் கொல்லும் பட்டயமாக இருந்தது.",
+     "anchor": "தீர்க்கதரிசிகளைக்கொண்டு அவர்களை வெட்டினேன்"
+    },
+    {
+     "id": "geneva/HOS.6.5#p2-03436c08",
+     "text": "நான் உங்களுக்குப் போதித்த என் உபதேசம் மிகத் தெளிவாக இருந்தது.",
+     "anchor": "வரும் தண்டனைகள் வெளிச்சத்தைப்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.6",
+   "source_hash": "97373c9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.6#p1-97373c9f",
+     "text": "தேவனுக்குக் கீழ்ப்படிதலையும் பிறரிடத்தில் அன்பு செலுத்துதலையும், வெளிப்படையான பலிகளுடன் அவர்கள் இணைத்துக்கொள்ளும்படி தமது உபதேசம் எதை நோக்கியிருந்தது என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "இரக்கத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.7",
+   "source_hash": "cd783e39",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.7#p1-cd783e39",
+     "text": "அதாவது, சிறியவர்களும் பலவீனருமான மனிதரைப்போல.",
+     "anchor": "ஆதாமைப்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.8",
+   "source_hash": "a2ba0d63",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.8#p1-a2ba0d63",
+     "text": "இது ஆசாரியர்கள் குடியிருந்த இடமும், என் வசனத்தில் சிறப்பாகப் போதிக்கப்பட்டிருக்க வேண்டிய இடமுமாக இருந்தது.",
+     "anchor": "கீலேயாத், அக்கிரமம் செய்கிறவர்களின் பட்டணம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.6.11",
+   "source_hash": "f06e02ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.6.11#p1-f06e02ff",
+     "text": "அதாவது, உன் விக்கிரக ஆராதனையைப் பின்பற்றி, உன் மரங்களின் ஒட்டுக்கொம்புகளை எடுத்துக்கொண்டது.",
+     "anchor": "அறுப்புக்காலம் நியமிக்கப்பட்டிருக்கிறது"
+    }
+   ]
+  }
+ ]
+}

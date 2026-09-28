@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 93,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.93.1",
+   "source_hash": "1799a74a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.1#p1-1799a74a",
+     "text": "தேவன் தம்முடைய வல்லமையினாலும் ஞானத்தினாலும் உலகத்தை உண்டாக்கி ஆண்டுவருகிறார், அதுபோலவே அவரே எல்லா பகைவர்களுக்கும் ஆபத்துகளுக்கும் விரோதமாக நம்முடைய பாதுகாப்பாக இருக்கவேண்டும்.",
+     "anchor": "ஆளுகை செய்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.2",
+   "source_hash": "c3af5f5c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.2#p1-c3af5f5c",
+     "text": "அதின்மேல் நீர் அமர்ந்து உலகத்தை ஆளுகிறீர்.",
+     "anchor": "உமது சிங்காசனம் ஆரம்பம்முதல் உறுதியானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.3",
+   "source_hash": "87c14c59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.3#p1-87c14c59",
+     "text": "கொந்தளிக்கும் தண்ணீர்களை ஆளுகை செய்வதிலே தேவனுடைய வல்லமை காணப்படுகிறது.",
+     "anchor": "நதிகள் எழும்பின"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.93.5",
+   "source_hash": "77e9d426",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.93.5#p1-77e9d426",
+     "text": "தேவனுடைய வல்லமையையும் ஞானத்தையும் அவர் படைத்ததிலும் ஆளுகை செய்வதிலும் காணலாம்; அத்துடன் அவருடைய பெரிய இரக்கமும் அவர் தம்முடைய மக்களுக்குத் தம்முடைய வார்த்தையையும் உடன்படிக்கையையும் கொடுத்திருப்பதில் காணப்படுகிறது.",
+     "anchor": "உமது சாட்சிகள் மிகவும் உண்மையுள்ளவைகள்"
+    }
+   ]
+  }
+ ]
+}

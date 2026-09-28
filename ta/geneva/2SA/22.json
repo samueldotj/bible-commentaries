@@ -1,0 +1,336 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 22,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.22.1",
+   "source_hash": "fcad781b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.1#p1-fcad781b",
+     "text": "தேவனிடத்திலிருந்து தான் பெற்றுக்கொண்ட ஆச்சரியமான உபகாரங்களுக்கு அடையாளமாக.",
+     "anchor": "பாடின பாட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.2",
+   "source_hash": "e5f4c7ce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.2#p1-e5f4c7ce",
+     "text": "இந்த ஆறுதலான வழிமுறைகளின் பலவகைத்தன்மையினால், எல்லா சோதனைகளிலும் தன் விசுவாசம் எப்படி பலப்படுத்தப்பட்டது என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "கன்மலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.5",
+   "source_hash": "e80a1611",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.5#p1-e80a1611",
+     "text": "கிறிஸ்துவின் சாயலாக இருந்த தாவீது தேவனுடைய வல்லமையால் எல்லா ஆபத்துகளிலும் இருந்து விடுவிக்கப்பட்டதுபோல, கிறிஸ்துவும் அவருடைய சபையும் மிகக் கொடிய ஆபத்துகளையும், கொடுங்கோன்மையையும், மரணத்தையும் வென்று மேற்கொள்வார்கள்.",
+     "anchor": "மரண அலைகள் என்னைச் சூழ்ந்துகொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.9",
+   "source_hash": "3845e273",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.9#p1-50c821f9",
+     "text": "அதாவது, மேகங்களும் நீராவிகளும்.",
+     "anchor": "நாசியிலிருந்து புகை"
+    },
+    {
+     "id": "geneva/2SA.22.9#p2-ddc0a0ba",
+     "text": "மின்னலும் இடிமுழக்கமும்.",
+     "anchor": "வாயிலிருந்து ஒளிவீசும் அக்கினி புறப்பட்டது, அதனால் தீப்பற்றிக்கொண்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.10",
+   "source_hash": "dd0c4a87",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.10#p1-dd0c4a87",
+     "text": "ஆகாயம் இருண்டிருக்கும்போது இப்படி தோன்றும்.",
+     "anchor": "வானங்களைத் தாழ்த்தி இறங்கினார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.11",
+   "source_hash": "2aa504be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.11#p1-2aa504be",
+     "text": "உலகம் முழுவதையும் ஒரு நொடியில் பறந்து கடக்க.",
+     "anchor": "கேருபீனின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.13",
+   "source_hash": "8d10c995",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.13#p1-8d10c995",
+     "text": "இந்த புயலின் வர்ணனையினால் அவர் தம்முடைய பகைவர்களுக்கு விரோதமாக தேவனுடைய வல்லமையை வெளிப்படுத்துகிறார்.",
+     "anchor": "நெருப்புத்தழலும் எரிந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.16",
+   "source_hash": "84bfdbee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.16#p1-84bfdbee",
+     "text": "இவர் செங்கடலின் அற்புதத்தைக் குறிக்கிறார்.",
+     "anchor": "சமுத்திரத்தின் மதகுகள் திறக்கப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.19",
+   "source_hash": "d676c730",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.19#p1-d676c730",
+     "text": "நான் அப்படி சூழப்பட்டிருந்தேன், எல்லா வழிகளும் தவறிப்போனதுபோல் இருந்தது.",
+     "anchor": "என்னுடைய ஆபத்து நாளிலே எனக்கு எதிராக வந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.21",
+   "source_hash": "d0f0a906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.21#p1-d0f0a906",
+     "text": "சவுலுக்கும் என்னுடைய பகைவர்களுக்கும் நோக்கியது.",
+     "anchor": "நீதிக்குத்தகுந்தபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.22",
+   "source_hash": "cfb9b7e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.22#p1-cfb9b7e1",
+     "text": "அவருடைய கற்பனையின்றி நான் ஒன்றையும் செய்ய முயற்சிக்கவில்லை.",
+     "anchor": "தேவனுக்குத் துரோகம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.27",
+   "source_hash": "a16b2cc7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.27#p1-a16b2cc7",
+     "text": "அவர்களுடைய துன்மார்க்கமே நீர் உம்முடைய வழக்கமான இரக்கத்தை மறந்தவராகத் தோன்றுவதற்குக் காரணமாயிருக்கிறது.",
+     "anchor": "மாறுபாடு உள்ளவர்களுக்கு நீர் மாறுபடுகிறவராகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.31",
+   "source_hash": "fa6723ed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.31#p1-fa6723ed",
+     "text": "தேவன் தம்முடையவர்களுக்கு உதவிசெய்ய கையாளும் வழி ஒருபோதும் தவறுவதில்லை.",
+     "anchor": "உத்தமமானது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.34",
+   "source_hash": "f24429b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.34#p1-f24429b0",
+     "text": "பெலனான கோட்டைகளையும் தான் ஏற்படுத்திக்கொடுக்கும் அசாதாரண வழிகளால் நான் கைப்பற்றும்படி செய்கிறார்.",
+     "anchor": "மான்களுடைய கால்களைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.40",
+   "source_hash": "a2b7e955",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.40#p1-a2b7e955",
+     "text": "தமக்குப் பெலனை அளித்து, தமது வெற்றிகளுக்குக் காரணராயிருந்தவர் தேவனே என்று அவர் ஒப்புக்கொள்கிறார்.",
+     "anchor": "யுத்தத்திற்கு நீர் என்னை பெலத்தால் இடைகட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.42",
+   "source_hash": "4a9ab656",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.42#p1-4a9ab656",
+     "text": "துன்மார்க்கர் தங்களுக்கு தேவை உள்ள வேளையில் தேவனிடம் ஓட வேண்டியவர்களாகிறார்கள், ஆனாலும் அது தாமதமாய் விடுகிறது.",
+     "anchor": "யெகோவாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.44",
+   "source_hash": "947d4a2a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.44#p1-947d4a2a",
+     "text": "அதாவது, எனக்கு விரோதமாகச் சதி செய்த யூதர்களைக் குறிக்கிறது.",
+     "anchor": "என்னுடைய மக்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.45",
+   "source_hash": "a94a45c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.45#p1-a94a45c2",
+     "text": "மனப்பூர்வமாக எனக்குக் கீழ்ப்படியாமல், வஞ்சகமாக.",
+     "anchor": "எனக்குக் கீழ்ப்படிகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.22.47",
+   "source_hash": "e8021ba5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.22.47#p1-e8021ba5",
+     "text": "அவர் சர்வலோகத்தையும் ஆளுகிற ஆளுநர் என்பதை அவர் தமது வல்லமையினால் காண்பிப்பாராக.",
+     "anchor": "என்னுடைய கன்மலையானவர் ஸ்தோத்தரிக்கப்படுவாராக"
+    }
+   ]
+  }
+ ]
+}

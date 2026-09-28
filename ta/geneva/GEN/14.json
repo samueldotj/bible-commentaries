@@ -1,0 +1,154 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.14.1",
+   "source_hash": "f5e71711",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.1#p1-43aac611",
+     "text": "அதாவது, பாபிலோனின். இங்கே ராஜாக்கள் என்பது, பட்டணங்களுக்கு அதிகாரிகளாக இருந்தவர்களைக் குறிக்கும்.",
+     "anchor": "சிநெயார்"
+    },
+    {
+     "id": "geneva/GEN.14.1#p2-77d90f50",
+     "text": "பல்வேறு தேசங்களிலிருந்து சேர்க்கப்பட்ட மக்களைக் குறிக்கிறது.",
+     "anchor": "கோயிமின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.3",
+   "source_hash": "a496d2ee",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.3#p1-a7a9fe0b",
+     "text": "அரசர்களுக்கிடையே யுத்தங்கள் உண்டாவதற்குப் பிரதான காரணம் ஆசையாதிக்கமே.",
+     "anchor": "பள்ளத்தாக்கிலே கூடினார்கள்"
+    },
+    {
+     "id": "geneva/GEN.14.3#p2-7cc750b2",
+     "text": "இது சோதோம் கொமோராவுக்கு அருகிலுள்ள மரணக்கடல் அல்லது அஸ்பால்திய கடல் என்றும் அழைக்கப்படுகிறது.",
+     "anchor": "உப்புக்கடலாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.10",
+   "source_hash": "1cac51d0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.10#p1-1cac51d0",
+     "text": "பின்பு அது தண்ணீரினால் மூடப்பட்டு, உப்புக்கடல் என்று அழைக்கப்பட்டது.",
+     "anchor": "சித்தீம் பள்ளத்தாக்கில் நிலக்கீல் உண்டாகும் கிணறுகள் இருந்தன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.12",
+   "source_hash": "f41853f9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.12#p1-f41853f9",
+     "text": "தேவபக்தியுள்ளவர்கள் அநேக நேரங்களில் துன்மார்க்கருடன் இருப்பதால் வாதிக்கப்படுகிறார்கள்; ஆகவே அவர்களுடைய கூட்டு ஆபத்தானது.",
+     "anchor": "அவனையும்... கொண்டுபோய்விட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.13",
+   "source_hash": "0e7699f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.13#p1-0e7699f0",
+     "text": "தேவன் அவர்களை ஆபிராமுடன் இணைவதற்காக அப்பால் நீக்கி, அவர்களுடைய விக்கிரக ஆராதனையிலும் மூட நம்பிக்கைகளிலும் இருந்து அவனைக் காப்பாற்றினார்.",
+     "anchor": "தன்னுடன் உடன்படிக்கை செய்திருந்த மனிதர்களாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.18",
+   "source_hash": "c3f89e3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.18#p1-c3f89e3c",
+     "text": "ஆபிராமுக்கும் அவனுடைய போர்வீரர்களுக்கும் புத்துணர்ச்சி தருவதற்காக, பலியிடுவதற்காக அல்ல.",
+     "anchor": "அப்பமும் திராட்சைரசமும் கொண்டுவந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.19",
+   "source_hash": "7e600edb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.19#p1-7e600edb",
+     "text": "மெல்கிசேதேக்கு ஆபிராமுக்கு உணவளித்தான், தான் ஒரு அரசனைப் பிரதிநிதித்துவப்படுத்துகிறவன் என்று வெளிப்படுத்தினான், அவன் பிரதான ஆசாரியனாக அவனை ஆசீர்வதித்தான்.",
+     "anchor": "ஆசீர்வதித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.14.24",
+   "source_hash": "772c9252",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.14.24#p1-772c9252",
+     "text": "தன்னுடைய தாராளத்தன்மை மற்றவர்களுக்கு தீங்கு விளைவிக்கக்கூடாது என்று அவன் விரும்பினான்.",
+     "anchor": "வாலிபர்கள் சாப்பிட்டதுபோக"
+    }
+   ]
+  }
+ ]
+}

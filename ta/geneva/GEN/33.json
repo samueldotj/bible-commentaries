@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 33,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.33.1",
+   "source_hash": "00892b04",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.1#p1-00892b04",
+     "text": "ஒரு பகுதியை எதிர்த்தால், மற்றொரு பகுதி தப்பிப் போகும்படி.",
+     "anchor": "பிள்ளைகளை லேயாளிடத்திலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.33.3",
+   "source_hash": "268a7e59",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.3#p1-268a7e59",
+     "text": "இந்தச் செய்கையினால் அவன் ஒரு பங்கு தன் சகோதரனை மதித்து, மற்றொரு பங்கு ஏசாவின் கடுங்கோபத்தை தணிக்கும்படி தேவனிடத்தில் ஜெபம்பண்ணினான்.",
+     "anchor": "ஏழுமுறை தரைவரைக்கும் குனிந்து வணங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.33.6",
+   "source_hash": "914a3051",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.6#p1-914a3051",
+     "text": "யாக்கோபும் அவருடைய குடும்பமும், கொடுங்கோலரின் ஆளுகையின் கீழ் அச்சத்தினால் அடிபணிய வைக்கப்படும் சபையின் சாயலாக இருக்கிறார்கள்.",
+     "anchor": "வணங்கினார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.33.10",
+   "source_hash": "8320764d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.10#p1-8320764d",
+     "text": "தன் சகோதரன் தான் எதிர்பார்த்ததற்கு மாறாக இவ்வளவு அன்பாக அவனைத் தழுவிக்கொண்டதனால், அதைத் தேவனுடைய சமுகத்தின் தெளிவான அடையாளமாக அவன் ஏற்றுக்கொண்டான்.",
+     "anchor": "நான் உம்முடைய முகத்தைக் கண்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.33.14",
+   "source_hash": "6247a91b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.14#p1-6247a91b",
+     "text": "அவன் செய்யத் திட்டமிடாதது (தோன்றுகிறபடி) என்று வாக்குத்தத்தம் செய்தான்.",
+     "anchor": "என் ஆண்டவனிடத்திற்கு வரும்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.33.20",
+   "source_hash": "b6362384",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.33.20#p1-b6362384",
+     "text": "தேவன் தன்னை வலிமையாக விடுவித்ததற்குக் குறியீடாக, அவன் அந்த அடையாளத்திற்கு அது குறிக்கும் காரியத்தையே பெயராகச் சூட்டினான்.",
+     "anchor": "ஏல்எல்லோகே இஸ்ரவேல்"
+    }
+   ]
+  }
+ ]
+}

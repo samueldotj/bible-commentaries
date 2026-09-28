@@ -1,0 +1,42 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.15.2",
+   "source_hash": "096ed709",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.15.2#p1-096ed709",
+     "text": "இது காட்டிலிருக்கிற மற்ற செடிகொடிகளைப் போலவே பழன்செய்யாதது; அதாவது, எருசலேம் தம்முடைய சபை என்னும் பெயரைப் பெற்றிருந்தும் பலன் கொடுக்காவிட்டால், அது முற்றிலும் அழிக்கப்படும் என்பதைக் குறிக்கிறது.",
+     "anchor": "காட்டிலிருக்கிற செடிகளுக்குள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.15.7",
+   "source_hash": "446afa5f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.15.7#p1-446afa5f",
+     "text": "அவர்கள் ஒரு ஆபத்திலிருந்து தப்பினாலும், இன்னொன்று அவர்களைப் பிடிக்கும்.",
+     "anchor": "நெருப்பு"
+    }
+   ]
+  }
+ ]
+}

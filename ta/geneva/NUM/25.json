@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 25,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.25.1",
+   "source_hash": "2f11dc0b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.1#p1-2f11dc0b",
+     "text": "பெண்களோடு.",
+     "anchor": "மோவாபின் மகள்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.3",
+   "source_hash": "35f744bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.3#p1-35f744bb",
+     "text": "பேயோர் மலையிலிருந்த மோவாபியரின் விக்கிரகத்தைத் தொழுதுகொண்டார்கள்.",
+     "anchor": "பாகால்பேயோரைப் பற்றிக்கொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.4",
+   "source_hash": "3465d2b2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.4#p1-3465d2b2",
+     "text": "எல்லோரும் காணும்படி வெளிப்படையாக.",
+     "anchor": "சூரிய வெளிச்சத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.5",
+   "source_hash": "1bd45a2e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.5#p1-1bd45a2e",
+     "text": "அவனவன் தன் மேற்பார்வையின் கீழ் இருக்கிறவர்களைக் கொன்றுபோடவேண்டும்.",
+     "anchor": "பாகால்பேயோரைப் பற்றிக்கொண்ட உங்களுடைய மனிதர்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.6",
+   "source_hash": "f2f6ba1d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.6#p1-f2f6ba1d",
+     "text": "தேவனுக்கு விரோதமாகக் குற்றம் செய்ததற்காக மனஸ்தாபப்படுகிறார்கள்.",
+     "anchor": "ஆசரிப்புக் கூடாரத்தின்வாசலுக்கு முன்பாக அழுதுகொண்டு நிற்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.11",
+   "source_hash": "73a52c51",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.11#p1-73a52c51",
+     "text": "என்னுடைய மகிமையைக் காக்கும்படி அவன் பக்திவைராக்கியம் காண்பித்தான்.",
+     "anchor": "எனக்காக அவர்கள் நடுவில் பக்திவைராக்கியம் காண்பித்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.13",
+   "source_hash": "2c8d0e29",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.13#p1-2c8d0e29",
+     "text": "அவன் தேவனுடைய கடுங்கோபத்தை தணிவித்தான்.",
+     "anchor": "இஸ்ரவேல் மக்களுக்காகப் பாவநிவிர்த்தி செய்தபடியினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.25.18",
+   "source_hash": "786b6620",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.25.18#p1-786b6620",
+     "text": "பிலேயாமின் ஆலோசனையினால் சரீரப்பிரகாரமான வேசித்தனத்தையும் ஆவிக்குரிய வேசித்தனத்தையும் உங்களைச் செய்யப்பண்ணியதினால், எண்ணாகமம் 31:16, வெளிப்படுத்தின விசேஷம் 2:14.",
+     "anchor": "மோசம்போக்கி நெருக்கினார்களே"
+    }
+   ]
+  }
+ ]
+}

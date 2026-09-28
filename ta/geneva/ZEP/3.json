@@ -1,0 +1,222 @@
+{
+ "source": "geneva",
+ "book": "ZEP",
+ "chapter": 3,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ZEP.3.1",
+   "source_hash": "f7ca4fdb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.1#p1-f7ca4fdb",
+     "text": "அதாவது, எருசலேம்.",
+     "anchor": "நகரத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.3",
+   "source_hash": "55494b16",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.3#p1-55494b16",
+     "text": "அவை மிகவும் பேராசையுள்ளவைகளாய், எலும்புகளையும் அனைத்தையும் தின்றுவிடும்.",
+     "anchor": "ஒரு எலும்பையும் மீதியாக வைக்காததுமான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.5",
+   "source_hash": "7839ea47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.5#p1-7839ea47",
+     "text": "துன்மார்க்கர் இவ்விதமாகப் பெருமைபாராட்டினார்கள், தேவன் எப்போதும் தங்கள் நடுவில் இருக்கிறார் என்று; ஆனால் தீர்க்கதரிசி பதிலளிக்கிறார், அது அவர்களுடைய துன்மார்க்கத்திற்குக் காரணம் காட்ட முடியாது: ஏனெனில் தேவன் அவர்களுடைய பாவங்களைச் சகித்திருக்கமாட்டார். ஆயினும் அவர் பொறுமையாகக் காத்திருந்தார், தீர்க்கதரிசிகளை இடைவிடாமல் அனுப்பி அவர்களை மனந்திரும்புதலுக்கு அழைத்தார், ஆனால் அது எந்தப் பயனும் அளிக்கவில்லை.",
+     "anchor": "அதற்குள் இருக்கிற யெகோவா நீதியுள்ளவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.6",
+   "source_hash": "a01f06d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.6#p1-a01f06d6",
+     "text": "மற்ற தேசங்களை அழித்ததினால் யூதர்கள் தேவனுக்குப் பயப்படக் கற்றுக்கொள்ள வேண்டியிருந்தது என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "தேசங்களை அழித்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.7",
+   "source_hash": "c39478be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.7#p1-c39478be",
+     "text": "அவர்கள் பொல்லாப்பு செய்வதில் மிகவும் தீவிரமும் ஆயத்தமும் உள்ளவர்களாக இருந்தார்கள்.",
+     "anchor": "அதிகாலையில் எழுந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.8",
+   "source_hash": "ff0e6212",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.8#p1-ff0e6212",
+     "text": "நீங்கள் மனந்திரும்பமாட்டோமென்றதினால், மற்ற தேசங்களைப் போலவே என் கடுங்கோபத்தை நீங்களும் எதிர்பார்க்கலாம்.",
+     "anchor": "எனக்குக் காத்திருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.9",
+   "source_hash": "71a08f5a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.9#p1-71a08f5a",
+     "text": "யூதா அழிக்கப்பட்டபோது தேவனுடைய மகிமை அழிந்துவிட்டதென்று யாராவது நினைத்துவிடக்கூடாது என்பதற்காக, அவர் தமது கிருபையை உலகமெங்கும் பிரசித்தப்படுத்துவார் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "நான் அவர்களுடைய மொழியை செம்மையான மொழியாக மாறச்செய்வேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.10",
+   "source_hash": "9138190d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.10#p1-9138190d",
+     "text": "அதாவது, யூதரல்லாதவர்களைப் போலவே யூதர்களும் வருவார்கள்: இது நற்செய்தியின் காலத்தைக் குறிக்கிறதாக விளங்கிக்கொள்ளப்பட வேண்டும்.",
+     "anchor": "சிதறடிக்கப்பட்டவர்களின் மகளானவள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.11",
+   "source_hash": "ac6c686c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.11#p1-ac6c686c",
+     "text": "ஏனெனில் அவர்களுடைய பாவங்களுக்கு முழுமையான பாவமன்னிப்பு உண்டாகும்; ஆலயத்தைக்குறித்து பெருமைபாராட்டின மாயக்காரர், முற்காலத்தில் உனக்கும் பெருமையாயிருந்தவர்களும் உன் நடுவிலிருந்து அகற்றப்படுவார்கள்.",
+     "anchor": "நீ செய்த உன் எல்லாச் செயல்களினிமித்தமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.15",
+   "source_hash": "a2de9cdd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.15#p1-ad7cc799",
+     "text": "அதாவது, உன் பாவத்திற்குரிய தண்டனை.",
+     "anchor": "ஆக்கினைகளை"
+    },
+    {
+     "id": "geneva/ZEP.3.15#p2-7551a020",
+     "text": "அசீரியர், கல்தேயர், எகிப்தியர் மற்றும் மற்ற தேசங்களைப் போல.",
+     "anchor": "எதிரிகளை"
+    },
+    {
+     "id": "geneva/ZEP.3.15#p3-8d288c1a",
+     "text": "உன்னைக் காக்கும்படி, ஏனெனில் நீ உன் பாவங்களால் அவரை விலக்கி, யாத்திராகமம் 32:25-இல் இருப்பதுபோல, உன்னையே நிர்வாணமாக்கிக்கொண்டாய்.",
+     "anchor": "உன் நடுவிலே இருக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.17",
+   "source_hash": "ce19e6a1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.17#p1-ce19e6a1",
+     "text": "தேவன் தம்முடைய அன்பையும் மகா பட்சத்தையும் தம்முடைய சபையின்மேல் காண்பிக்க பிரியப்படுகிறார் என்பதைக் குறிக்கிறது.",
+     "anchor": "தம்முடைய அன்பினிமித்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ZEP.3.18",
+   "source_hash": "595d5196",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ZEP.3.18#p1-595d5196",
+     "text": "அதாவது, சபையின் நிமித்தமாகவும், தங்கள் மதத்தின் நிமித்தமாகவும் பகைக்கப்பட்டு நிந்திக்கப்பட்டவர்கள்.",
+     "anchor": "நிந்தையினிமித்தம்"
+    }
+   ]
+  }
+ ]
+}

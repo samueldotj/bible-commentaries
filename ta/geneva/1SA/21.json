@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.21.1",
+   "source_hash": "0c08569d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.1#p1-0c08569d",
+     "text": "கர்த்தரிடத்தில் ஆலோசனை கேட்பதற்காக பெட்டி அப்பொழுது இருந்த இடம்.",
+     "anchor": "நோபிலிருக்கிற ஆசாரியனாகிய அகிமெலேக்கினிடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.2",
+   "source_hash": "0c6eb3c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.2#p1-0c6eb3c9",
+     "text": "தேவனுடைய பரிசுத்தவான்களில் நாம் காணும் இந்தப் பலவீனங்கள், ஒருவனும் தன்னிலேதானே நியாயத்தைப் பெற்றிருக்கிறவன் இல்லை, மாறாக தேவனுடைய இரக்கத்திலிருந்து அதைப் பெறுகிறான் என்று நமக்குக் கற்பிக்கின்றன.",
+     "anchor": "ராஜா எனக்கு ஒரு காரியத்தைக் கட்டளையிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.4",
+   "source_hash": "b68775e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.4#p1-b68775e2",
+     "text": "அவர்கள் தங்கள் மனைவிகளுடன் சேராமல் இருந்தால்.",
+     "anchor": "பெண்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.5",
+   "source_hash": "500a7c82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.5#p1-2088ac31",
+     "text": "அதாவது, அவர்களுடைய சரீரங்கள்.",
+     "anchor": "வாலிபர்களுடைய சரீரங்களும்"
+    },
+    {
+     "id": "geneva/1SA.21.5#p2-e861e2be",
+     "text": "இந்தப் பரிசுத்த ஆகாரத்தை புசித்த பின்பு, தன் பாத்திரத்தைப் பரிசுத்தமாக காத்துக்கொள்ள மிகுந்த கவனமாயிருப்பான்.",
+     "anchor": "வேறே அப்பம் பாத்திரத்தில் பிரதிஷ்டைசெய்யப்பட்டதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.7",
+   "source_hash": "82d943a7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.7#p1-82d943a7",
+     "text": "பெட்டியின் முன்பாகத் தொழுதுகொள்ளும்படி தங்கியிருந்தான்.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில் தடைபட்டிருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.9",
+   "source_hash": "b1174e2c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.9#p1-b1174e2c",
+     "text": "பிரதான ஆசாரியனுடைய வஸ்திரம் வைக்கப்பட்டிருந்த இடத்திற்குப் பின்னாக.",
+     "anchor": "ஏபோத்திற்குப் பின்னாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.10",
+   "source_hash": "433b9457",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.10#p1-433b9457",
+     "text": "அதாவது, சவுலின் ஆளுகைக்குட்பட்ட நாட்டிலிருந்து.",
+     "anchor": "சவுலுக்குத் தப்பியோடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.13",
+   "source_hash": "9b9fa05e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.13#p1-9b9fa05e",
+     "text": "அடையாளங்களையும் சிறு கோலங்களையும் வரைந்துகொண்டு.",
+     "anchor": "வாசற்கதவுகளிலே கீறிக்கொண்டிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.21.15",
+   "source_hash": "3c0c0a4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.21.15#p1-3c0c0a4e",
+     "text": "இவன் ஒரு அரசனுடைய வீட்டிற்கு வருவதற்குத் தகுதியுள்ளவனா.",
+     "anchor": "இவன் என் வீட்டிற்கு வரலாமா"
+    }
+   ]
+  }
+ ]
+}

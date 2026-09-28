@@ -1,0 +1,93 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.13.1",
+   "source_hash": "cea7cc4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.1#p1-cea7cc4f",
+     "text": "தன் உபத்திரவங்கள் நீண்ட காலமாக நீடித்திருந்தன என்றும், தன் விசுவாசம் அசைந்துபோகவில்லை என்றும் அவன் அறிவிக்கிறான்.",
+     "anchor": "எதுவரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.2",
+   "source_hash": "7837fe82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.2#p1-7837fe82",
+     "text": "நோயுற்றவன் தான் இருக்கும் இடத்தை மாற்றுவதுபோல, தன் எண்ணங்களை மாற்றிக்கொண்டிருப்பது.",
+     "anchor": "என்னுடைய ஆத்துமாவிலே ஆலோசனை செய்துகொண்டிருப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.4",
+   "source_hash": "e3cce424",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.4#p1-e3cce424",
+     "text": "தேவன் தம்முடையவர்களைக் காக்காவிட்டால், அது தேவனுடைய கனத்திற்கு இழுக்கு உண்டாக்கும்.",
+     "anchor": "அவனை மேற்கொண்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.5",
+   "source_hash": "16ce8440",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.5#p1-16ce8440",
+     "text": "தேவனுடைய இரக்கமே நமது இரட்சிப்பின் காரணமாக இருக்கிறது.",
+     "anchor": "கிருபையின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.13.6",
+   "source_hash": "c1b41f72",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.13.6#p1-c1b41f72",
+     "text": "கடந்த ஆசீர்வாதங்களினாலும், இனிவரும் ஆசீர்வாதங்களினாலும்.",
+     "anchor": "நன்மைசெய்தபடியால்"
+    }
+   ]
+  }
+ ]
+}

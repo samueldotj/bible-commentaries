@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ISA.12.1",
+   "source_hash": "08baa5b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.1#p1-08baa5b0",
+     "text": "தன் சிறையிருப்பிலிருந்து விடுவிக்கப்படும்போது சபை தேவனை எப்படித் துதிக்கும் என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "நீ சொல்வது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.2",
+   "source_hash": "a8f7eaec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.2#p1-a8f7eaec",
+     "text": "நம்முடைய இரட்சிப்பு தேவனில் மட்டுமே நிலைத்திருக்கிறது; அவரே நமக்கு உறுதியான நம்பிக்கையையும், நிலைத்தன்மையையும், அதற்காக அவரைத் துதிக்கும் சந்தர்ப்பத்தையும் தந்தருளுகிறார்.",
+     "anchor": "என் இரட்சிப்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.3",
+   "source_hash": "66d8a732",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.3#p1-66d8a732",
+     "text": "தேவனுடைய கிருபைகள் மிகுதியாக இருக்கும்படியாக, நீங்கள் அவற்றை நீரூற்று நிறைந்திருக்கும்போது அதிலிருந்து பெருகும் தண்ணீரைப் போன்று மிகுந்த ஏராளத்தில் பெற்றுக்கொள்வீர்கள்.",
+     "anchor": "ஊற்றுகளிலிருந்து மகிழ்ச்சியுடன் தண்ணீர் மொண்டுகொள்வீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.12.6",
+   "source_hash": "432dc8dd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.12.6#p1-432dc8dd",
+     "text": "சபையைச் சேர்ந்தவளே.",
+     "anchor": "சீயோனில் குடியிருக்கிறவளே"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.6.1",
+   "source_hash": "52e77fb8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.1#p1-96be4559",
+     "text": "இது ஏப்ரல் மாதத்தின் ஒரு பகுதியையும் மே மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "சீப் மாதம்"
+    },
+    {
+     "id": "geneva/1KI.6.1#p2-9d388552",
+     "text": "இதனால் ஆலயமும் ஆலோசனை ஸ்தலமும் குறிக்கப்படுகின்றன.",
+     "anchor": "யெகோவாவின் ஆலயத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.3",
+   "source_hash": "51b9e8dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.3#p1-51b9e8dc",
+     "text": "அல்லது ஜனங்கள் ஜெபம்பண்ணின பிராகாரம், அது சர்வாங்க தகனகாணிக்கையின் பலிபீடம் நின்ற இடத்திற்கு முன்னே இருந்தது.",
+     "anchor": "ஆலயமாகிய அந்த மாளிகையின் முகப்பிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.5",
+   "source_hash": "faf0368f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.5#p1-faf0368f",
+     "text": "தேவன் கேருபீன்களுக்கு நடுவே பேசின இடம், மகா பரிசுத்த ஸ்தலம் என்றும் அழைக்கப்படுகிறது.",
+     "anchor": "சந்நிதி இடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.6",
+   "source_hash": "25e2aae3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.6#p1-25e2aae3",
+     "text": "இவை சுவரிலிருந்து வெளியே நீட்டிக்கொண்டிருக்கிற சில கற்களாகும், அவைகள் உத்திரங்கள் தாங்கிக்கொள்ளும்படி தாங்குதற்கல்களாக இருந்தன.",
+     "anchor": "ஒட்டுச்சுவர்களைக் கட்டினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.9",
+   "source_hash": "2cbdbb72",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.9#p1-2cbdbb72",
+     "text": "யாத்திராகமத்தில் இது ஆசரிப்புக்கூடாரம் என்று அழைக்கப்படுகிறது, ஆனால் இங்கே ஆலயம் பரிசுத்த ஸ்தலம் என்றும், தேவவாக்கு சொல்லப்படும் இடம் மகா பரிசுத்த ஸ்தலம் என்றும் அழைக்கப்படுகிறது.",
+     "anchor": "ஆலயத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.13",
+   "source_hash": "7b813d26",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.13#p1-7b813d26",
+     "text": "அவர் மோசேயிடம் வாக்குத்தத்தம் செய்தபடியே, யாத். 25:22.",
+     "anchor": "இஸ்ரவேல் மக்களின் நடுவிலே இருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.15",
+   "source_hash": "f9f019e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.15#p1-f9f019e9",
+     "text": "அதாவது, மேற்கூரைவரை, அதுவும் மூடப்பட்டிருந்தது.",
+     "anchor": "சுவர்களின் மேற்கூரைவரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.17",
+   "source_hash": "e3660962",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.17#p1-e3660962",
+     "text": "ஏனெனில் அவன் முதலாம் வசனத்தில் மாளிகையைக் குறித்துப் பேசினபோது, அவன் மகா பரிசுத்த ஸ்தலத்தையும் ஆலயத்தையும் இரண்டையும் குறிப்பிட்டான்.",
+     "anchor": "மாளிகை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.19",
+   "source_hash": "59a2b626",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.19#p1-59a2b626",
+     "text": "அதாவது, ஆலயத்தின் உட்புறமான இடத்தில்.",
+     "anchor": "ஆலயத்திற்குள்ளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.22",
+   "source_hash": "8b987354",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.22#p1-8b987354",
+     "text": "அதாவது, தூபம் காட்டும் பலிபீடம், யாத். 30:1.",
+     "anchor": "பலிபீடத்தை முழுவதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.28",
+   "source_hash": "4b18682c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.28#p1-4b18682c",
+     "text": "ஏனெனில் மோசே அடித்த பொன்னால் செய்த மற்ற கேருபீன்கள், அவர்களுடைய பெரிய பாவங்களினிமித்தம் தேவன் பல்வேறு காலங்களில் அவர்களை ஜெயிக்கும்படி அனுமதித்த சத்துருக்களால் மற்ற நகைகளோடுகூட எடுத்துச்செல்லப்பட்டன.",
+     "anchor": "கேருபீன்களைப் பொன்தகட்டால் மூடினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.32",
+   "source_hash": "72aee337",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.32#p1-72aee337",
+     "text": "இதனால் செதுக்கிய வேலைப்பாட்டின் வடிவம் இன்னும் தெரிந்துகொள்ளக்கூடியதாக இருந்தது.",
+     "anchor": "கேருபீன்களிலும் பனை மரங்களிலும் பொன்பதியத்தக்கதாகப் பொன்தகட்டால் மூடினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.36",
+   "source_hash": "a3695850",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.36#p1-a3695850",
+     "text": "ஆசாரியர்கள் இருந்த இடம், மேலும் இது பெரிய முற்றத்தைப் பொருத்து அப்படிக் கூறப்பட்டது; அப்போஸ்தலருடைய நடபடிகள் 3:11-ல் அது சாலொமோன் மண்டபம் என்று அழைக்கப்படுகிறது, அங்கே மக்கள் ஜெபம்பண்ணிக்கொண்டிருந்தார்கள்.",
+     "anchor": "உட்பிரகாரத்தை மூன்று வரிசை வெட்டின கற்களாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.6.38",
+   "source_hash": "7b01a0a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.6.38#p1-7b01a0a0",
+     "text": "இது அக்டோபர் மாதத்தின் ஒரு பகுதியையும் நவம்பர் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "பூல்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.1.1",
+   "source_hash": "494afed2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.1#p1-494afed2",
+     "text": "அதாவது, சேத் ஆதாமின் மகன், ஏனோக்கு சேத்தின் மகன் என்பதைக் குறிக்கிறது.",
+     "anchor": "சேத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.4",
+   "source_hash": "fa204c13",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.4#p1-fa204c13",
+     "text": "சேம் என்று மட்டும் குறிப்பிட்டால் போதுமானதாக இருந்திருக்கும், ஏனெனில் அவனிடமிருந்து ஆபிரகாமும் தாவீதும் வந்தார்கள்; ஆனாலும் இந்த மூவரால் உலகம் மீண்டும் நிலைநிறுத்தப்பட்டதால், காமும் யாப்பேத்தும் குறிப்பிடப்படுகிறார்கள்.",
+     "anchor": "சேம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.10",
+   "source_hash": "d472ecab",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.10#p1-d472ecab",
+     "text": "மற்றவர்களுக்கு மேலாக தன்னை முதன்முதலில் உயர்த்தினவன்.",
+     "anchor": "நிம்ரோதைப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.17",
+   "source_hash": "a355a392",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.17#p1-a355a392",
+     "text": "இவனிடத்திலிருந்து சீரியர் வந்தனர், ஆகையால் அவர்கள் வேதவாக்கியம் முழுவதிலும் ஆராமியர் என்று அழைக்கப்படுகிறார்கள்.",
+     "anchor": "ஆராம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.18",
+   "source_hash": "8e36b8d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.18#p1-8e36b8d5",
+     "text": "இவனிடத்திலிருந்து எபிரெயர்கள் வந்தார்கள்; அவர்கள் பின்பு இஸ்ரவேலின், அதாவது யாக்கோபின் பேரால், இஸ்ரவேலர்கள் என்றும், அந்தக் கோத்திரத்தின் மேன்மையினிமித்தம் யூதாவின் பேரால் யூதர்கள் என்றும் அழைக்கப்பட்டார்கள்.",
+     "anchor": "ஏபேரைப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.24",
+   "source_hash": "eb953a68",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.24#p1-c33d94a3",
+     "text": "அவன் ஆபிரகாமின் வம்சாவளிக்கு வரவேண்டியிருந்தபடியால் சேமை மறுபடியும் குறிப்பிடுகிறான்.",
+     "anchor": "சேம்"
+    },
+    {
+     "id": "geneva/1CH.1.24#p2-d553c111",
+     "text": "சேமிலிருந்து வந்தவன், அவனிலிருந்து சாலா.",
+     "anchor": "அர்பக்சாத்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.32",
+   "source_hash": "bc10e78f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.32#p1-bc10e78f",
+     "text": "ஆதியாகமம் 25:4-ஐ வாசிக்கவும்.",
+     "anchor": "மறுமனையாட்டியாகிய கேத்தூராள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.35",
+   "source_hash": "cc47e87c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.35#p1-cc47e87c",
+     "text": "இவர்கள் மூன்று வெவ்வேறு தாய்மார்களால் பெறப்பட்டவர்கள், ஆதியாகமம் 36:4-ஐ வாசிக்கவும்.",
+     "anchor": "எலிப்பாஸ்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.36",
+   "source_hash": "0e4e3681",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.36#p1-0e4e3681",
+     "text": "இவள் எலிப்பாசின் மறுமனையாட்டி; ஆதியாகமம் 36:12ஐ வாசிக்கவும்.",
+     "anchor": "திம்னா, திம்னாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.38",
+   "source_hash": "e3f04164",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.38#p1-e3f04164",
+     "text": "இவன் மலை சேயீரில் குடியிருந்த ஓரியனாகிய சேயீர் என்றும் அழைக்கப்படுகிறான், ஆதியாகமம் 36:20.",
+     "anchor": "சேயீரின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.43",
+   "source_hash": "565cd5cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.43#p1-565cd5cb",
+     "text": "ஏசாவின் சந்ததியிலிருந்து வந்த இராஜாக்களைப் பற்றி இவன் குறிப்பிடுகிறான், தேவன் ஆபிரகாமுக்குச் செய்த வாக்குத்தத்தத்தின்படியே, அவனிடமிருந்து இராஜாக்கள் வருவார்கள் என்று சொல்லியிருந்தார். இந்த எட்டு இராஜாக்களும் தாவீது அவர்களுடைய தேசத்தை வெற்றி கொள்ளும் காலம்வரை, இதுமேயாவில் ஒருவர் பின் ஒருவராக அரசாண்டார்கள்.",
+     "anchor": "தேசத்தில் அரசாண்ட இராஜாக்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.1.44",
+   "source_hash": "47b9ce93",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.1.44#p1-47b9ce93",
+     "text": "இது ஏதோமியரின் தலைநகராக இருந்தது.",
+     "anchor": "போஸ்றா"
+    }
+   ]
+  }
+ ]
+}

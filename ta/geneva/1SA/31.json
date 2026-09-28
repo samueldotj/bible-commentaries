@@ -1,0 +1,98 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 31,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.31.4",
+   "source_hash": "94fb5458",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.4#p1-94fb5458",
+     "text": "இவ்விதமாக, தேவனுடைய பிள்ளைகளைத் துன்பப்படுத்துகிறவர்களில் பொதுவாகக் காணப்படுவது போல, அவனுடைய கொடிய வாழ்க்கை நிராசையான முடிவைப் பெறுகிறதைக் காண்கிறோம்.",
+     "anchor": "நீ உன்னுடைய பட்டயத்தை உருவி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.7",
+   "source_hash": "dded2036",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.7#p1-733d1f22",
+     "text": "கில்போவாவுக்கு அருகில் உள்ளது.",
+     "anchor": "பள்ளத்தாக்குக்கு"
+    },
+    {
+     "id": "geneva/1SA.31.7#p2-bb0a7cd3",
+     "text": "ரூபன் மற்றும் காத் கோத்திரங்களும், மனாசேயின் பாதிக் கோத்திரமும்.",
+     "anchor": "யோர்தானுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.9",
+   "source_hash": "11392999",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.9#p1-11392999",
+     "text": "வெற்றியையும் மேன்மையையும் காண்பிக்கும் அடையாளமாக.",
+     "anchor": "செய்தியைப் பரப்பும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.11",
+   "source_hash": "18039533",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.11#p1-18039533",
+     "text": "அவர்களுடைய எதிரிகளிடமிருந்து சவுல் இவர்களை விடுவித்திருந்தான், 1 சாமுவேல் 11:11.",
+     "anchor": "கீலேயாத் தேசத்து யாபேஸ் பட்டணத்தார்கள் கேட்டபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.31.13",
+   "source_hash": "2e9c86f3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.31.13#p1-2e9c86f3",
+     "text": "துக்கங்கொண்டாடுவோருடைய வழக்கத்தின்படி.",
+     "anchor": "ஏழுநாள் உபவாசம்செய்தார்கள்"
+    }
+   ]
+  }
+ ]
+}

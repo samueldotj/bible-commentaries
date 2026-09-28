@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2CH.7.1",
+   "source_hash": "ea1f887b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.1#p1-ea1f887b",
+     "text": "இதினாலே தேவன் சாலொமோனுடைய ஜெபத்தில் பிரியமாயிருந்தார் என்று விளங்கப்பண்ணினார்.",
+     "anchor": "அக்கினி வானத்திலிருந்து இறங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.8",
+   "source_hash": "cd57ae2e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.8#p1-cd57ae2e",
+     "text": "ஏழாம் மாதத்தில் ஆசரிக்கப்பட்ட கூடாரப்பண்டிகை.",
+     "anchor": "ஏழுநாட்கள்வரையும் பண்டிகையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.9",
+   "source_hash": "a4aadc9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.9#p1-a4aadc9f",
+     "text": "ஏழுநாட்கள் ஆசரிப்புக்கூடாரங்களில் தங்கியிருந்தபின்பு, தேவனுடைய வசனத்தைக் கேட்பதற்காகக் கூடிவந்தார்கள்.",
+     "anchor": "விசேஷித்த ஆசரிப்பு நாளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.10",
+   "source_hash": "d2c9c538",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.10#p1-d2c9c538",
+     "text": "அவர்களுக்குப் போக அனுமதி இருபத்திரண்டாம் தேதியிலே கொடுக்கப்பட்டது, 1 இராஜாக்கள் 8:66, ஆனாலும் அவர்கள் மறுநாள் வரைக்கும் போகவில்லை.",
+     "anchor": "இருபத்துமூன்றாம் தேதியிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.14",
+   "source_hash": "8703ae19",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.14#p1-8703ae19",
+     "text": "நான் கொள்ளைநோயை நிறுத்தி, பூமியின் பலனைக் கெடுக்கும் மிருகங்களை அழித்து, ஏற்ற காலத்தில் மழையைக் கொடுப்பேன்.",
+     "anchor": "தேசத்திற்கு செழிப்பைக் கொடுப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.7.20",
+   "source_hash": "f8233190",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.7.20#p1-f8233190",
+     "text": "தேவன் தம்முடைய மகிமையின் வளர்ச்சியைவிட அவர்களுடைய இரட்சிப்பின்மேல் அதிக அக்கறை வைத்திருந்தார் என்பதை இது காண்பிக்கிறது; தம்முடைய துதியை வெளிப்படுத்தும்படி தேவன் நியமித்தவைகளை மனிதர் தவறாகப் பயன்படுத்தும் இடத்தில், அவர் தம்முடைய கிருபைகளைத் திரும்பப்பெற்றுக்கொள்கிறார்.",
+     "anchor": "என் நாமத்திற்கென்று நான் பரிசுத்தப்படுத்தின"
+    }
+   ]
+  }
+ ]
+}

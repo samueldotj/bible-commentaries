@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 2,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.2.2",
+   "source_hash": "afad36b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.2#p1-afad36b3",
+     "text": "இவ்விதமாக கிறிஸ்து தமது சபையை மற்ற எல்லாவற்றிற்கும் மேலாக விரும்புகிறார்.",
+     "anchor": "இளம்பெண்களுக்குள்ளே எனக்குப் பிரியமானவளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.3",
+   "source_hash": "b4d46c61",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.3#p1-b4d46c61",
+     "text": "மணவாட்டி தன் கணவனிடத்தில் தனக்குள்ள பெரிதான ஆசையைக் குறித்துச் சாட்சிசொல்கிறாள், ஆனாலும் தன் பலம் குறைந்துவிடுகிறது; ஆகையால் தான் ஆறுதலடையவும் அதை உணரவும் விரும்புகிறாள்.",
+     "anchor": "காட்டுமரங்களுக்குள்ளே கிச்சிலி மரம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.7",
+   "source_hash": "91852ee3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.7#p1-91852ee3",
+     "text": "கிறிஸ்து சபையில் காரியம் செய்கிறவர்களை, சபையின் அமைதியைக் குலைக்காதிருக்கும்படி ஒரு தீர்க்கமான ஆணையினால் போலவே கட்டளையிடுகிறார்.",
+     "anchor": "நீங்கள்... ஆணையிடுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.8",
+   "source_hash": "3f48afd0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.8#p1-3f48afd0",
+     "text": "இது கிறிஸ்துவைக் குறித்துச் சொல்லப்பட்டது; அவர் தம்முடைய சபைக்கு உதவி செய்ய வருவதற்காக நம்முடைய இயல்பை மேற்கொண்டார்.",
+     "anchor": "என் நேசருடைய சத்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.9",
+   "source_hash": "e19891e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.9#p1-6a57225f",
+     "text": "ஏனெனில் அவருடைய தெய்வத்தன்மை நமது சரீரமாகிய போர்வையின் கீழ் மறைந்திருந்தது.",
+     "anchor": "மதிலுக்கு வெளியே நின்று"
+    },
+    {
+     "id": "geneva/SNG.2.9#p2-57dc280a",
+     "text": "ஆகவே இந்த வாழ்வில் நாம் அவரை முழுமையாக அறியக்கூடாது.",
+     "anchor": "தட்டியின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.11",
+   "source_hash": "279160a6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.11#p1-279160a6",
+     "text": "அதாவது, பாவமும் தப்பறையும் கிறிஸ்துவின் வருகையினால் விரட்டப்பட்டு விடப்படுகின்றன; அவர் இங்கே எல்லாம் செழிக்கும் வசந்தகாலமாக விவரிக்கப்படுகிறார்.",
+     "anchor": "மழைக்காலம் சென்றது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.14",
+   "source_hash": "77031338",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.14#p1-77031338",
+     "text": "உன் பாவங்களைக்குறித்து வெட்கப்படுகிற நீ, வந்து உன்னை எனக்குக் காட்டு.",
+     "anchor": "கன்மலையின் வெடிப்புகளிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.15",
+   "source_hash": "c6c5bf12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.15#p1-c6c5bf12",
+     "text": "மதபேதக்காரர் இளையவராக இருக்கும்போதே, அதாவது, அவர்கள் தங்கள் தீவினையை காண்பிக்கத் தொடங்கி, கர்த்தருடைய திராட்சைத்தோட்டத்தை அழிக்கத் தொடங்கும்போதே, அவர்களை அடக்கிவிடவேண்டும்.",
+     "anchor": "சிறுநரிகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.2.17",
+   "source_hash": "8d0a77ac",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.2.17#p1-8d0a77ac",
+     "text": "சபை, தன் எல்லா ஆபத்துகளிலும் கிறிஸ்து தனக்கு உதவிசெய்ய மிகவும் ஆயத்தமாய் இருக்க வேண்டுமென்று விரும்புகிறாள்.",
+     "anchor": "குதித்துவரும் கலைமானுக்கும் மரைகளின் குட்டிக்கும்"
+    }
+   ]
+  }
+ ]
+}

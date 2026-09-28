@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.4.2",
+   "source_hash": "837af532",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.2#p1-08354e63",
+     "text": "அதாவது, அவனுடைய முதன்மை அதிகாரிகள்.",
+     "anchor": "அவனுக்கு இருந்த அதிகாரிகள்"
+    },
+    {
+     "id": "geneva/1KI.4.2#p2-1fa59d78",
+     "text": "அவன் அகிமாசின் குமாரனும், சாதோக்கின் பேரனும் ஆவான்.",
+     "anchor": "சாதோக்கின் மகனாகிய அசரியா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.4",
+   "source_hash": "d2a63c84",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.4#p1-d2a63c84",
+     "text": "சாலொமோன் தன் பதவியிலிருந்து தள்ளிவிட்ட அபியத்தார் அல்ல, 1 இராஜாக்கள் 2:27, மாறாக அந்தப் பெயர் கொண்ட வேறொருவன்.",
+     "anchor": "அபியத்தாரும் ஆசாரியர்களுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.13",
+   "source_hash": "0c4bc32b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.13#p1-0c4bc32b",
+     "text": "இவை யாவீரின் பெயரைத் தரித்திருந்தன, ஏனெனில் அவன் அவைகளைக் கானானியரிடமிருந்து பிடித்துக்கொண்டான், எண்ணாகமம் 32:41.",
+     "anchor": "கீலேயாத்திலுள்ள மனாசேயின் மகனாகிய யாவீரின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.17",
+   "source_hash": "79e26a7f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.17#p1-79e26a7f",
+     "text": "சாலொமோன் யோசுவா செய்த பிரிவினையை கவனிக்காமல், தன் நோக்கங்களுக்கு எவ்வளவு சிறப்பாக உதவுமோ அப்படியே பிரித்தான்.",
+     "anchor": "இசக்காரில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.20",
+   "source_hash": "f20a7fbd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.20#p1-f20a7fbd",
+     "text": "அவர்கள் முழு சமாதானத்திலும் சுகபோகத்திலும் வாழ்ந்தார்கள்.",
+     "anchor": "சாப்பிட்டுக் குடித்து மகிழ்ந்துகொண்டிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.21",
+   "source_hash": "34ab39d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.21#p1-34ab39d1",
+     "text": "இது ஐப்பிராத்து நதியாகும்.",
+     "anchor": "நதிதுவங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.24",
+   "source_hash": "05d7a285",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.24#p1-05d7a285",
+     "text": "ஏனெனில் அவர்கள் எல்லோரும் அவனுக்குக் கப்பம் செலுத்துகிறவர்களாக இருந்தார்கள்.",
+     "anchor": "நதிக்கு இந்தப்பக்கத்திலுள்ள சகல ராஜாக்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.25",
+   "source_hash": "f4529896",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.25#p1-f4529896",
+     "text": "இஸ்ரவேல் முழுவதிலும்.",
+     "anchor": "தாண் துவங்கி பெயெர்செபாவரையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.29",
+   "source_hash": "551231bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.29#p1-551231bc",
+     "text": "அதாவது, மகத்தான புரிந்துகொள்ளும் திறனும் எல்லாவற்றையும் உணரக்கூடிய ஆற்றலும்.",
+     "anchor": "பரந்த புரிந்துகொள்ளும் திறனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.30",
+   "source_hash": "946966c8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.30#p1-946966c8",
+     "text": "அதாவது, மகா ஞானமுள்ளவர்களென்று எண்ணப்பட்ட தத்துவஞானிகளும் நட்சத்திரசாஸ்திரிகளும்.",
+     "anchor": "கிழக்குப்பகுதி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.32",
+   "source_hash": "53f8c8c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.32#p1-53f8c8c2",
+     "text": "இவை பெரும்பாலும் பாபிலோனின் சிறையிருப்பின்போது அழிந்துபோயிற்று என்று கருதப்படுகின்றன.",
+     "anchor": "நீதிமொழிகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.4.33",
+   "source_hash": "ee6a5549",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.4.33#p1-ee6a5549",
+     "text": "மிக உயர்ந்ததிலிருந்து மிகத் தாழ்ந்தது வரை.",
+     "anchor": "சுவரில் முளைக்கிற ஈசோப்புப் பூண்டு"
+    }
+   ]
+  }
+ ]
+}

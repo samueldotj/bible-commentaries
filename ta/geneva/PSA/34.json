@@ -1,0 +1,234 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 34,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.34.1",
+   "source_hash": "e40a9317",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.1#p1-e40a9317",
+     "text": "தேவன் தன்னை விடுவித்த மகா நன்மையை ஒருபோதும் மறவாதிருப்பேன் என்று அவன் வாக்குத்தத்தம் செய்தான்.",
+     "anchor": "எப்போதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.2",
+   "source_hash": "f2a28336",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.2#p1-f2a28336",
+     "text": "தங்களுடைய சொந்தத் தீமைகளின் அனுபவத்தினால் தாழ்த்தப்பட்டவர்கள்.",
+     "anchor": "ஒடுக்கப்பட்டவர்கள் அதைக்கேட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.4",
+   "source_hash": "7fe5ce40",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.4#p1-7fe5ce40",
+     "text": "நான் இருந்த ஆபத்தினிமித்தம் எனக்கு உண்டான பயம்.",
+     "anchor": "பயத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.5",
+   "source_hash": "a9b4f7e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.5#p1-a9b4f7e1",
+     "text": "என்மேலுள்ள உம்முடைய கிருபைகளைக் காணும்போது, அவர்கள் உதவிக்காக உம்மிடத்தில் தைரியமாய் ஓடிவருவார்கள்.",
+     "anchor": "நோக்கிப்பார்த்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.7",
+   "source_hash": "8bf21edc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.7#p1-8bf21edc",
+     "text": "தேவனுடைய வல்லமை நம்மை ஆளுகை செய்யப் போதுமானதாக இருந்தாலும், மனிதனுடைய பலவீனத்தை முன்னிட்டு, அவர் தம்முடைய தூதனைக் கொண்டு நம்மைக் காக்கும்படி நியமிக்கிறார்.",
+     "anchor": "தூதன் அவருக்குப் பயந்தவர்களைச் சுற்றி முகாமிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.10",
+   "source_hash": "069f464f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.10#p1-98ece1d6",
+     "text": "தேவபக்தியுள்ளவர்கள் தங்கள் பொறுமையான கீழ்ப்படிதலினால், கொள்ளையடித்துப் பாழாக்குகிறவர்களைவிட அதிக பலனை அடைகிறார்கள்.",
+     "anchor": "தாழ்ச்சியடைந்து பட்டினியாக இருக்கும்"
+    },
+    {
+     "id": "geneva/PSA.34.10#p2-6b0bb2ae",
+     "text": "அவர்கள் இறுதி சோதனையைச் சகித்து நிற்பார்களானால்.",
+     "anchor": "ஒரு நன்மையும் குறையாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.11",
+   "source_hash": "2e491903",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.11#p1-2e491903",
+     "text": "அதாவது, மெய்யான மார்க்கமும் தேவனைத் தொழுதுகொள்ளுதலுமாகும்.",
+     "anchor": "யெகோவாவுக்குப் பயப்படுதலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.12",
+   "source_hash": "7ff2a3f2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.12#p1-7ff2a3f2",
+     "text": "எல்லா மனிதரும் இயல்பாகவே சந்தோஷத்தை விரும்புகிறார்கள் என்பதைக் கண்டு, அவர்கள் தாமே மனதாரத் தங்களைத் துக்கத்திற்குள் தள்ளிக்கொள்வது ஏன் என்று அவன் ஆச்சரியப்படுகிறான்.",
+     "anchor": "நன்மையைக் காணும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.16",
+   "source_hash": "4d29223f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.16#p1-4d29223f",
+     "text": "தேவனுடைய கோபம் துன்மார்க்கரை அழிப்பது மட்டுமல்ல, அவர்களுடைய பெயரையும் என்றென்றைக்கும் இல்லாமல் போகச்செய்கிறது.",
+     "anchor": "யெகோவாவுடைய முகம் அவர்களுக்கு விரோதமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.18",
+   "source_hash": "6c0713b9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.18#p1-6c0713b9",
+     "text": "அவர்கள் உபத்திரவங்களினால் விழுங்கப்பட்டதைப்போல் தோன்றும்போது, அப்பொழுது தேவன் அவர்களை விடுவிக்கும்படி அருகில் இருக்கிறார்.",
+     "anchor": "உடைந்த இருதயமுள்ளவர்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.20",
+   "source_hash": "a7eeb276",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.20#p1-a7eeb276",
+     "text": "கிறிஸ்து சொல்வது போல, அவனுடைய தலையின் மயிர்கள் யாவும் காக்கப்படுகின்றன.",
+     "anchor": "அவனுடைய எலும்புகளையெல்லாம் காப்பாற்றுகிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.21",
+   "source_hash": "f582d152",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.21#p1-f582d152",
+     "text": "அவர்களுடைய துன்மார்க்கமான தீச்செயல்கள் அவர்களுடைய அழிவுக்கே திரும்பும்.",
+     "anchor": "தீமை துன்மார்க்கனைக் கொல்லும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.34.22",
+   "source_hash": "8e1f913c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.34.22#p1-8e1f913c",
+     "text": "ஏனெனில் அவர்கள் பெரிய ஆபத்துகளாலும் மரணத்தினாலுமே மேற்கொள்ளப்பட்டவர்களாகத் தோன்றும்போது, தேவன் தம்மை அவர்களுடைய மீட்பராக வெளிப்படுத்துகிறார்.",
+     "anchor": "தம்முடைய ஊழியக்காரர்களின் ஆத்துமாவை மீட்டுக்கொள்ளுகிறார்"
+    }
+   ]
+  }
+ ]
+}

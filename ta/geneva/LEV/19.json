@@ -1,0 +1,251 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 19,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.19.2",
+   "source_hash": "48b7d317",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.2#p1-48b7d317",
+     "text": "அதாவது, ஆத்துமாவிலும் சரீரத்திலும் எல்லா அசுத்தம், விக்கிரக ஆராதனை மற்றும் தீய நம்பிக்கைகள் ஏதுமின்றி இருத்தல்.",
+     "anchor": "பரிசுத்தராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.5",
+   "source_hash": "997056f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.5#p1-997056f1",
+     "text": "உங்கள் சொந்த விருப்பத்தினால்.",
+     "anchor": "மன உற்சாகமாகச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.7",
+   "source_hash": "86cd85b9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.7#p1-86cd85b9",
+     "text": "அதாவது, தேவனால்.",
+     "anchor": "அங்கீகரிக்கப்படமாட்டாது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.11",
+   "source_hash": "8c86c78a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.11#p1-8c86c78a",
+     "text": "உங்களுடைய நம்பிக்கைக்கு ஒப்படைக்கப்பட்ட காரியத்தில்.",
+     "anchor": "வஞ்சனைசெய்யாமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.16",
+   "source_hash": "67e330d4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.16#p1-ba048057",
+     "text": "கோள்சொல்பவனாகவோ, புறங்கூறுபவனாகவோ, அல்லது சண்டைக்குக் காரணம் உண்டாக்குகிறவனாகவோ.",
+     "anchor": "அங்கும் இங்கும் கோள்சொல்லித் திரியாதே"
+    },
+    {
+     "id": "geneva/LEV.19.16#p2-b8651c13",
+     "text": "அவனுடைய மரணத்திற்கு சம்மதித்தோ, அல்லது துன்மார்க்கருடன் சேர்ந்து சூழ்ச்சி செய்தோ.",
+     "anchor": "இரத்தப்பழிக்கு உட்படவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.19",
+   "source_hash": "98ed5c0f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.19#p1-98ed5c0f",
+     "text": "குதிரை கழுதையுடன், அல்லது கோவேறு கழுதை பெட்டைக் குதிரையுடன் சேர்வது போல.",
+     "anchor": "வேறு இனத்தோடே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.23",
+   "source_hash": "b064ffae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.23#p1-b064ffae",
+     "text": "விருத்தசேதனம் இல்லாத பொருளைப்போல அது அசுத்தமாக இருக்கும்.",
+     "anchor": "அவைகளின் பழங்களை விருத்தசேதனம் இல்லாதவைகளென்று கருதுவீர்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.26",
+   "source_hash": "73d51267",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.26#p1-73d51267",
+     "text": "நல்ல நாள் கெட்ட நாள் என்று கணக்கிடுவது.",
+     "anchor": "நாள்பார்க்காமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.27",
+   "source_hash": "84880bb2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.27#p1-84880bb2",
+     "text": "யூதரல்லாதவர்கள் துக்கத்தின் அடையாளமாகச் செய்ததுபோல.",
+     "anchor": "உங்கள் தலைமுடியைச் சுற்றி ஒதுக்காமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.28",
+   "source_hash": "baebf200",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.28#p1-baebf200",
+     "text": "உங்கள் உடலை வாரினால் அடித்துக்கொள்வதன் மூலமாகவோ, அல்லது உங்கள்மேல் அடையாளங்களைச் சுட்டு எழுதிக்கொள்வதன் மூலமாகவோ.",
+     "anchor": "அடையாளமான எழுத்துக்களை உங்கள்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.29",
+   "source_hash": "228bd275",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.29#p1-228bd275",
+     "text": "சீப்புருதீவார் மற்றும் லோக்ரீசியர் செய்ததுபோல.",
+     "anchor": "வேசித்தனம்செய்ய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.32",
+   "source_hash": "2d75d25b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.32#p1-2d75d25b",
+     "text": "மரியாதையின் அடையாளமாக.",
+     "anchor": "நரைத்தவனுக்கு முன்பாக எழுந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.35",
+   "source_hash": "1ae6b22b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.35#p1-1ae6b22b",
+     "text": "நிலத்தை அளக்கும்போது செய்வதைப் போல.",
+     "anchor": "அளவிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.19.36",
+   "source_hash": "96904a4d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.19.36#p1-96904a4d",
+     "text": "இந்த இரண்டு அளவுகளினாலே மற்ற எல்லா அளவுகளையும் குறிக்கிறார். ஏப்பாவைப் பற்றி யாத்திராகமம் 16:36-லும், மரக்காலைப் பற்றி யாத்திராகமம் 29:40-லும் வாசிக்கவும்.",
+     "anchor": "மரக்காலும், நியாயமான படியும்"
+    }
+   ]
+  }
+ ]
+}

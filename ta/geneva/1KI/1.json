@@ -1,0 +1,302 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.1.1",
+   "source_hash": "15e8a3fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.1#p1-c98e61e4",
+     "text": "அவனுக்கு அப்பொழுது வயது சுமார் 70 ஆக இருந்தது, 2 சாமுவேல் 5:4.",
+     "anchor": "வயது முதிர்ந்தவனானபோது"
+    },
+    {
+     "id": "geneva/1KI.1.1#p2-84f4a81d",
+     "text": "ஏனெனில் அவனுடைய இயற்கையான அனல் அவனுடைய பயணங்களினால் தீர்ந்துபோயிருந்தது.",
+     "anchor": "அனல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.3",
+   "source_hash": "fe07b79f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.3#p1-fe07b79f",
+     "text": "இசக்கார் கோத்திரத்திற்குரிய ஒரு ஊர், யோசுவா 19:18.",
+     "anchor": "சூனேம் ஊரைச்சேர்ந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.5",
+   "source_hash": "57ce9469",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.5#p1-57ce9469",
+     "text": "2 சாமுவேல் 15:1-ஐ வாசிக்கவும்.",
+     "anchor": "தனக்குமுன் ஓடும் ஐம்பது வீரர்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.7",
+   "source_hash": "bc197941",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.7#p1-bc197941",
+     "text": "அவர்கள் அவன் பக்கம் நின்று அவனைப் பின்பற்றினார்கள்.",
+     "anchor": "அவனுக்கு உதவி செய்துவந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.10",
+   "source_hash": "fcf5b28d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.10#p1-fcf5b28d",
+     "text": "கிரேத்தியரும் பிலேத்தியரும்.",
+     "anchor": "பலசாலிகளையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.12",
+   "source_hash": "f286aa44",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.12#p1-f286aa44",
+     "text": "ஏனெனில் அதோனியா அரசாண்டால், அவன் உன்னையும் உன் மகனையும் அழிப்பான்.",
+     "anchor": "உயிரையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.14",
+   "source_hash": "dd3cb3f7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.14#p1-dd3cb3f7",
+     "text": "அதைத் துணிவிக்கத்தக்க செய்திகளைத் தெரிவிப்பதினால்.",
+     "anchor": "உன்னுடைய வார்த்தைகளை உறுதிப்படுத்துவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.18",
+   "source_hash": "a8a1ceae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.18#p1-a8a1ceae",
+     "text": "ராஜா வயதினால் தள்ளாடியிருந்தபடியால், அரசாட்சியின் காரியங்களை கவனிக்க முடியாதிருந்தார்; மேலும் அதோனியாவுக்கு இதை ராஜாவுக்குத் தெரியாதபடி மறைத்து வைத்திருந்தவர்கள் அநேகர் இருந்தார்கள்.",
+     "anchor": "நீர் அதை அறியவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.21",
+   "source_hash": "2e2c0d47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.21#p1-2e2c0d47",
+     "text": "அப்படி துன்மார்க்கர்களாகக் கருதப்பட்டு கொலை செய்யப்படுவோம்.",
+     "anchor": "குற்றவாளிகளாகக் கருதப்படுவோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.23",
+   "source_hash": "6d5f78fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.23#p1-6d5f78fd",
+     "text": "தேவனால் நியமிக்கப்பட்ட உண்மையான, தகுதியுள்ள ராஜாவாக அவனை அங்கீகரித்து, தமது கிறிஸ்துவின் சாயலாக.",
+     "anchor": "முகங்குப்புற விழுந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.27",
+   "source_hash": "fc25d0a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.27#p1-fc25d0a4",
+     "text": "அதாவது, இப்படிப்பட்ட காரியங்களில் கர்த்தரோடு ஆலோசனை பண்ணாமல் அவர் எதையும் செய்யக்கூடாது என்பதாகும்.",
+     "anchor": "அடியானுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.30",
+   "source_hash": "36c477db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.30#p1-36c477db",
+     "text": "சாலொமோன் கிறிஸ்துவின் நிழலுருவமாக இருப்பான் என்று அவன் முன்னதாகவே அறிந்திருந்தபடியால், பரிசுத்த ஆவியானவரால் இப்படிச் செய்யத் தூண்டப்பட்டான்.",
+     "anchor": "யெகோவாவுடைய ஜீவனைக்கொண்டு... ஆணையிட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.33",
+   "source_hash": "22507a42",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.33#p1-22507a42",
+     "text": "அதாவது, ராஜாவின் ஊழியக்காரரும் அவனுடைய மெய்க்காவலராயிருந்தவரும்.",
+     "anchor": "உங்கள் ஆண்டவனுடைய வேலைக்காரர்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.39",
+   "source_hash": "fdfc071f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.39#p1-fdfc071f",
+     "text": "இதைக்கொண்டே ஆசாரியர்களையும் பரிசுத்த பணிப்பொருட்களையும் அபிஷேகம் செய்வது வழக்கமாயிருந்தது, யாத். 30:23.",
+     "anchor": "தைலக் கொம்பைக் கூடாரத்திலிருந்து எடுத்துக்கொண்டுபோய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.42",
+   "source_hash": "9382d361",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.42#p1-9382d361",
+     "text": "அவன் நல்ல செய்தியைக் கேட்பேன் என்று நினைத்து யோனத்தானைப் புகழ்ந்தான்; ஆனாலும் தேவன் அவனுடைய எதிர்பார்ப்புக்கு மாறாக காரியங்களை நடப்பித்து, அதனால் அவனுடைய அகந்தையை அடித்துத் தாழ்த்தினார்.",
+     "anchor": "நற்செய்தி கொண்டுவருகிறவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.47",
+   "source_hash": "a46f43b7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.47#p1-a46f43b7",
+     "text": "நல்ல வெற்றிக்காக அவர் தேவனுக்கு ஸ்தோத்திரம் செலுத்தினார்.",
+     "anchor": "கட்டிலின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.1.50",
+   "source_hash": "11ffdcd1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.1.50#p1-11ffdcd1",
+     "text": "இதை அவனுடைய தகப்பனாகிய தாவீது அரவ்னாவின் களத்தில் கட்டியிருந்தார், 2 சாமுவேல் 24:25.",
+     "anchor": "பலிபீடத்தின்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.14.2",
+   "source_hash": "d20a9a4b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.2#p1-d20a9a4b",
+     "text": "ஆகையால் நீங்கள் யூதரல்லாதவர்களுடைய தேவபக்தி மூடநம்பிக்கையைப் பின்பற்றக்கூடாது.",
+     "anchor": "தமக்குச் சொந்தமான மக்களாயிருக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.4",
+   "source_hash": "66e63096",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.4#p1-66e63096",
+     "text": "இந்த சடங்கு நியாயப்பிரமாணம் யூதர்களுக்கு, தங்கள் புசிப்பிலும் பானத்திலும் கூட, ஆவிக்குரிய சுத்தத்தைத் தேட வேண்டும் என்று போதித்தது.",
+     "anchor": "நீங்கள் சாப்பிடுவதற்கேற்ற மிருகங்களாவன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.21",
+   "source_hash": "bd823bef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.21#p1-fe5e47ce",
+     "text": "ஏனெனில் அதின் இரத்தம் சிந்தப்படாமல், அதிலேயே இருக்கிறது.",
+     "anchor": "தானாக இறந்துபோன"
+    },
+    {
+     "id": "geneva/DEU.14.21#p2-7a36c3e0",
+     "text": "உங்கள் மார்க்கத்திற்குரியவன் அல்லாதவன்.",
+     "anchor": "வாசல்களில் இருக்கிற அந்நியன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.22",
+   "source_hash": "15fbb37b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.22#p1-15fbb37b",
+     "text": "தசமபாகங்கள் சொத்து இல்லாத லேவியரைப் பராமரிக்கும்படி நியமிக்கப்பட்டன.",
+     "anchor": "வயலில் விளையும் எல்லாப் பலனிலும் தசமபாகத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.24",
+   "source_hash": "1e46f7c1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.24#p1-1e46f7c1",
+     "text": "அவர் உனக்குத் திறமை தரும்போது.",
+     "anchor": "உன் தேவனாகிய யெகோவா உன்னை ஆசீர்வதிக்கும் காலத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.26",
+   "source_hash": "85553dce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.26#p1-85553dce",
+     "text": "ஆசாரியன் கர்த்தருடைய பங்கைப் பெற்றுக்கொண்ட பின்பு.",
+     "anchor": "யெகோவாவுடைய சந்நிதியில்... சாப்பிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.14.28",
+   "source_hash": "826cf132",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.14.28#p1-826cf132",
+     "text": "லேவியர்களுக்குக் கொடுக்கப்பட்ட வருடாந்த தசமபாகங்களுக்குக் கூடுதலாக, இவை ஏழைகளுக்காக சேமித்து வைக்கப்பட்டன.",
+     "anchor": "பலன் எல்லாவற்றிலும் தசமபாகத்தைப் பிரித்து"
+    }
+   ]
+  }
+ ]
+}

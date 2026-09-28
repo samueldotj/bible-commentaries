@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 23,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.23.3",
+   "source_hash": "dbd1b129",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.3#p1-dbd1b129",
+     "text": "அதாவது, அவன் துக்கம் கொண்டாடி முடிந்தபின்பு; அப்படியே பக்தியுள்ளவர்கள் அளவுகடந்து போகாதிருந்தால் துக்கம் கொண்டாடலாம், இயற்கையான பாசம் பாராட்டப்படத்தக்கதே.",
+     "anchor": "இறந்த உடல் இருந்த இடத்திலிருந்து எழுந்துபோய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.23.6",
+   "source_hash": "641222b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.6#p1-641222b8",
+     "text": "அதாவது தேவபக்தியுள்ள அல்லது மேன்மையானவர்: ஏனெனில் குறிப்பிடத்தக்க எல்லாவற்றைக் குறித்தும் எபிரெயர்கள் இப்படியே பேசுவார்கள், ஏனெனில் எல்லா மேன்மையும் தேவனிடத்திலிருந்தே வருகிறது.",
+     "anchor": "நீர் மகா பிரபு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.23.10",
+   "source_hash": "c5ff1f7d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.10#p1-c5ff1f7d",
+     "text": "எல்லா குடிமக்களையும் குடியிருப்பவர்களையும் குறிக்கிறது.",
+     "anchor": "ஊர் வாசலுக்குள் பிரவேசிக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.23.12",
+   "source_hash": "87ce75ce",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.12#p1-87ce75ce",
+     "text": "தான் அவர்களை நல்ல மதிப்பும் மரியாதையும் உடையவர்களாக எண்ணினான் என்பதைக் காண்பிக்கும்படி.",
+     "anchor": "வணக்கம் சொல்லி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.23.15",
+   "source_hash": "054d0449",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.15#p1-054d0449",
+     "text": "பொது சேக்கல் ஒன்று ஏறக்குறைய 20 பென்ஸ் ஆகும்; அப்படியானால் 400 சேக்கல்கள் ஒரு அவுன்சுக்கு 5 ஷில்லிங் ஸ்டெர்லிங் விலையாக, 33 பவுண்டு, 6 ஷில்லிங் 8 பென்ஸுக்கு சமமாகும்.",
+     "anchor": "சேக்கல் நிறை வெள்ளி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.23.20",
+   "source_hash": "be6aa075",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.23.20#p1-be6aa075",
+     "text": "அதாவது, மக்கள் அனைவரும் அந்த விற்பனையை உறுதிப்படுத்தினார்கள்.",
+     "anchor": "ஏத்தின் வம்சத்தாரிடமிருந்து"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 14,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.14.3",
+   "source_hash": "6fed5902",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.3#p1-6fed5902",
+     "text": "ரூபனும் காத்தும் மனாசேயின் பாதிக்கோத்திரமும், எண். 32:33.",
+     "anchor": "இரண்டரைக் கோத்திரங்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.4",
+   "source_hash": "c1c050e7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.4#p1-c1c050e7",
+     "text": "இவ்வாறு லேவியர்கள் விடப்பட்டாலும், இந்த முறையினால் பன்னிரண்டு கோத்திரங்கள் இன்னும் இருந்தன.",
+     "anchor": "இரண்டு கோத்திரங்களானார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.6",
+   "source_hash": "41d66719",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.6#p1-41d66719",
+     "text": "அது என்னவெனில், அவர்கள் இருவர் மட்டுமே தேசத்திற்குள் போவார்கள் என்பதே, எண். 14:24.",
+     "anchor": "காதேஸ்பர்னேயாவிலே உம்மைக்குறித்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.8",
+   "source_hash": "8e62d165",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.8#p1-8e62d165",
+     "text": "இது மற்ற பத்து வேவுகாரர்களைக் குறிக்கிறது.",
+     "anchor": "என்னோடு வந்த என் சகோதரர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.12",
+   "source_hash": "d76f17dc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.12#p1-d76f17dc",
+     "text": "இதை அவன் சந்தேகத்தினால் அல்ல, மனத்தாழ்மையினால் சொன்னான்.",
+     "anchor": "யெகோவா என்னோடு இருப்பாரானால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.14.15",
+   "source_hash": "6be571a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.14.15#p1-6be571a4",
+     "text": "அவனுடைய வல்லமையைக் குறித்தோ அல்லது அவனுடைய தேகத்தைக் குறித்தோ.",
+     "anchor": "ஏனாக்கியர்களுக்குள்ளே பெரிய மனிதனாக"
+    }
+   ]
+  }
+ ]
+}

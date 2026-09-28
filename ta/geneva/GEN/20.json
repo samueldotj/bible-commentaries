@@ -1,0 +1,227 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.20.1",
+   "source_hash": "a2fd452a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.1#p1-a2fd452a",
+     "text": "அது எகிப்தை நோக்கியிருந்தது.",
+     "anchor": "சூருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.2",
+   "source_hash": "6bd24651",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.2#p1-6bd24651",
+     "text": "ஆபிரகாம் இப்பொழுது இரண்டாம்முறையும் இந்தப் பாவத்தில் விழுந்தான்: மனிதனுடைய பலவீனம் இப்படியே இருக்கும்.",
+     "anchor": "தன் சகோதரி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.3",
+   "source_hash": "7c52fc7a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.3#p1-7c52fc7a",
+     "text": "விவாகத்தை மீறுவதை தேவன் இவ்வளவு அதிகமாக வெறுக்கிறார்.",
+     "anchor": "நீ செத்தாய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.4",
+   "source_hash": "38e6ca44",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.4#p1-38e6ca44",
+     "text": "அவிசுவாசிகள் தேவன் நீதியான காரணமில்லாமல் தண்டிக்கமாட்டார் என்று அறிக்கையிட்டார்கள்: ஆகையால், அவர் தண்டிக்கும்போது, அதற்குக் காரணம் நீதியானதே.",
+     "anchor": "நீதியுள்ள மக்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.5",
+   "source_hash": "289e4ad1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.5#p1-c33bdedb",
+     "text": "அறியாமையால் தவறிழைத்தவனாக, வேண்டுமென்றே தீங்கு செய்யாதவனாக.",
+     "anchor": "உத்தம இருதயத்தோடும்"
+    },
+    {
+     "id": "geneva/GEN.20.5#p2-fe32de4a",
+     "text": "யாருக்கும் தீங்கு செய்ய நினைக்காமல்.",
+     "anchor": "சுத்தமான கைகளோடும் இதைச்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.6",
+   "source_hash": "dfa5cf53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.6#p1-dfa5cf53",
+     "text": "தேவன் தம்முடைய பரிசுத்த ஆவியானவராலே, அறியாமையினால் குற்றம் செய்கிறவர்களைத் தடுத்து, அவர்கள் பெரிதான குற்றத்திற்குள் விழாதபடி செய்கிறார்.",
+     "anchor": "விரோதமாகப் பாவம் செய்யாமலிருக்க உன்னைத் தடுத்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.7",
+   "source_hash": "08471def",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.7#p1-fd8d9266",
+     "text": "அதாவது, தேவன் தமக்குத் தெரிந்தவனாக வெளிப்படுத்திக்கொள்ளுகிற ஒருவன்.",
+     "anchor": "தீர்க்கதரிசி"
+    },
+    {
+     "id": "geneva/GEN.20.7#p2-f107accb",
+     "text": "ஏனெனில் பக்தியுள்ளவனுடைய ஜெபமானது தேவனிடத்தில் பெலனுள்ளதாக இருக்கும்.",
+     "anchor": "வேண்டுதல் செய்வான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.9",
+   "source_hash": "5965f126",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.9#p1-5965f126",
+     "text": "ராஜாவினுடைய துன்மார்க்கம் அரசு முழுவதின்மேலும் தேவனுடைய கடுங்கோபத்தை வரச்செய்கிறது.",
+     "anchor": "என்னுடைய ராஜ்ஜியத்தின்மேலும் பெரும்பாவம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.11",
+   "source_hash": "826b6159",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.11#p1-826b6159",
+     "text": "தேவனுடைய பயம் இல்லாத இடத்தில் யாதொரு உண்மை நடத்தையையும் எதிர்பார்க்க முடியாது என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "தெய்வபயம் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.12",
+   "source_hash": "4f644ac7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.12#p1-4f644ac7",
+     "text": "சகோதரி என்பதன் மூலம், அவன் தன் அத்தை மகளைக் குறிக்கிறான், மகள் என்பதன் மூலம் ஆபிரகாமின் உடன்பிறந்தவளுடைய மகளைக் குறிக்கிறான், ஆதி 11:29; எபிரெயர்கள் இந்த வார்த்தைகளை இவ்வாறே பயன்படுத்துகின்றனர்.",
+     "anchor": "என்னுடைய சகோதரி என்பதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.16",
+   "source_hash": "5c0f0acd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.16#p1-45e195f3",
+     "text": "நீ எல்லா ஆபத்துகளிலிருந்தும் பாதுகாக்கப்படும்படியான தலைவனாக இருப்பவன்.",
+     "anchor": "முக்காட்டுக்காக இது உன் முகத்தின்"
+    },
+    {
+     "id": "geneva/GEN.20.16#p2-a76670bc",
+     "text": "தேவன் தான் அவளுக்கு ஒரு கணவனை அவளுடைய திரையாகவும் காவலாகவும் கொடுத்திருந்தபோதிலும், அவள் தன் அடையாளத்தை மறைத்தபடியால், இந்த அந்நியமக்கள் ராஜாவை அவளைக் கடிந்துகொள்ளும்படி தேவன் ஏற்படுத்தினார்.",
+     "anchor": "இப்படி அவள் கடிந்துகொள்ளப்பட்டாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.20.18",
+   "source_hash": "c5ec4f36",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.20.18#p1-c5ec4f36",
+     "text": "கர்ப்பம் தரிக்கும் வரத்தை அவர்களிடமிருந்து எடுத்துப்போட்டிருந்தார்.",
+     "anchor": "எல்லாவற்றையும் அடைத்திருந்தார்"
+    }
+   ]
+  }
+ ]
+}

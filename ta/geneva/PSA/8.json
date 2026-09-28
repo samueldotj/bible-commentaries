@@ -1,0 +1,76 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.8.2",
+   "source_hash": "2460149e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.2#p1-2460149e",
+     "text": "துன்மார்க்கர் தேவனுடைய துதிகளை மறைக்க விரும்பினாலும், குழந்தைகள் தாமே அதற்குப் போதுமான சாட்சிகளாய் இருக்கிறார்கள்.",
+     "anchor": "குழந்தைகள் பாலகர்கள் வாயினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.4",
+   "source_hash": "de3beff8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.4#p1-de3beff8",
+     "text": "தமது மகிமையை பரலோகங்களினால் விளங்கப்பண்ணுவது அவருக்குப் போதுமாயிருந்தது, மண்ணேயான மனிதன்வரைக்கும் தாழ்ந்து வராவிட்டாலும்.",
+     "anchor": "மனிதனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.5",
+   "source_hash": "81cf2a46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.5#p1-81cf2a46",
+     "text": "அவனுடைய முதல் சிருஷ்டிப்பைப் பற்றியது.",
+     "anchor": "தேவதூதரிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.8.7",
+   "source_hash": "fcacf974",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.8.7#p1-fcacf974",
+     "text": "மனுஷனுடைய சிருஷ்டிப்பினால் அவனுக்குக் கிடைத்த இவ்வுலக ஈவுகளைக் கொண்டு, கிறிஸ்துவின் வழியாக அவனுக்கு உண்டான மறுபிறப்பினால் கிடைத்த ஆசீர்வாதங்களைச் சிந்திக்கும்படி அவன் நடத்தப்படுகிறான்.",
+     "anchor": "ஆடுமாடுகள்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.11.1",
+   "source_hash": "4ce76c53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.1#p1-4ce76c53",
+     "text": "இது தேவனுடைய வாக்குத்தத்தத்தின் நம்பிக்கையிலிருந்து அவனையும் அவனுடைய தோழர்களையும் துரத்திவிடும்படி அவனுடைய பகைவர்கள் சொன்ன துன்மார்க்கமான ஆலோசனையாகும்.",
+     "anchor": "பறவையைப்போல உன்னுடைய மலைக்குப் பறந்துபோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.3",
+   "source_hash": "1fe39ad3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.3#p1-5433778e",
+     "text": "உதவி கிடைக்கும் எல்லா நம்பிக்கையும் நீங்கிப்போயிற்று.",
+     "anchor": "அஸ்திபாரங்களும் அழிந்துபோகின்றதே"
+    },
+    {
+     "id": "geneva/PSA.11.3#p2-9af1ba03",
+     "text": "ஆனாலும் நான் குற்றமில்லாதவன், என் நியாயமும் நல்லது.",
+     "anchor": "நீதிமான் என்ன செய்வான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.4",
+   "source_hash": "fcc77d2c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.4#p1-fcc77d2c",
+     "text": "பூமியில் எல்லாம் ஒழுங்கு தவறிப் போனாலும், தேவன் பரலோகத்திலிருந்து நியாயத்தீர்ப்பை நிறைவேற்றுவார்.",
+     "anchor": "இதோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.11.6",
+   "source_hash": "cbc317fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.11.6#p1-8fe7e74b",
+     "text": "சோதோமும் கொமோராவும் அழிக்கப்பட்டதைப்போல.",
+     "anchor": "நெருப்பும், கந்தகமும்"
+    },
+    {
+     "id": "geneva/PSA.11.6#p2-de17b64a",
+     "text": "அதின் வண்டல்வரை அவர்கள் குடிப்பார்கள், எசேக்கியேல் 23:34.",
+     "anchor": "அவர்கள் குடிக்கும் பாத்திரத்தின் பங்கு"
+    }
+   ]
+  }
+ ]
+}

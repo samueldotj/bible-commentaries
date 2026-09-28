@@ -1,0 +1,200 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.11.2",
+   "source_hash": "159cb96b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.2#p1-159cb96b",
+     "text": "அல்லது, நீங்கள் சாப்பிடத்தக்கவை.",
+     "anchor": "நீங்கள் சாப்பிடத்தக்க உயிரினங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.3",
+   "source_hash": "0dcb12e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.3#p1-0dcb12e3",
+     "text": "நான்கு வகையான மிருகங்களைக் குறிக்கிறார்: சில அசைபோடுகின்றன மட்டும், சில குளம்பு பிரிந்திருக்கின்றன மட்டும். மற்றவை அசைபோடுவதுமில்லை, குளம்பு பிரிந்திருப்பதுமில்லை. நான்காம் வகை அசைபோடுவதும் குளம்பு பிரிந்திருப்பதும் ஆகும், அதையே சாப்பிடலாம்.",
+     "anchor": "குளம்புகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.8",
+   "source_hash": "809d0180",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.8#p1-809d0180",
+     "text": "தேவன் இதன் மூலம் தம்முடைய மக்களை யூதரல்லாதவரிடத்திலிருந்து ஒரு காலத்திற்கு வேறுபடுத்திக் காட்ட விரும்பினார்.",
+     "anchor": "மாம்சத்தைச் சாப்பிடவும்... வேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.10",
+   "source_hash": "727927fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.10#p1-a2ea09df",
+     "text": "சேற்றில் உண்டாகும் சிறிய மீன்களைப்போல.",
+     "anchor": "நீந்துகிறதும்"
+    },
+    {
+     "id": "geneva/LEV.11.10#p2-aa5f4e23",
+     "text": "சந்ததியில் உண்டாகிறவைகளைப்போல.",
+     "anchor": "வாழ்கிறதுமான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.22",
+   "source_hash": "72116b9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.22#p1-72116b9f",
+     "text": "இவை குறிப்பிட்ட சில வகையான வெட்டுக்கிளிகளாக இருந்தன, அவை இப்பொழுது சரியாக அறியப்படவில்லை.",
+     "anchor": "சோலையாம் என்னும் கிளிவகையாக இருக்கிறதையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.25",
+   "source_hash": "df12bc85",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.25#p1-df12bc85",
+     "text": "முகாமிற்கு வெளியே.",
+     "anchor": "உடலைச் சுமந்தவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.29",
+   "source_hash": "0f6a86bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.29#p1-0f6a86bd",
+     "text": "செடிகளின் மேல் அமர்ந்திருக்கும் பச்சைத் தவளையாகும்.",
+     "anchor": "சகலவிதமான ஆமையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.32",
+   "source_hash": "687b3ee2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.32#p1-687b3ee2",
+     "text": "பாத்திரமாவது பையாவது.",
+     "anchor": "தோலானாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.36",
+   "source_hash": "bba5aa09",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.36#p1-bba5aa09",
+     "text": "அதைத் தொட்ட தண்ணீரின் அளவு மட்டும்.",
+     "anchor": "தொடுகிறவனோ தீட்டுப்படுவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.38",
+   "source_hash": "00bdad75",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.38#p1-00bdad75",
+     "text": "விதைக்கப்படுவதற்கு முன்பு நனைத்து வைக்கப்படும் விதையைக் குறித்து அவர் பேசுகிறார்.",
+     "anchor": "தண்ணீர் ஊற்றப்பட்டிருக்கிற விதையின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.11.44",
+   "source_hash": "d8c34fc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.11.44#p1-d8c34fc0",
+     "text": "தேவன் அவர்களைத் தம்முடைய மக்களாகத் தெரிந்துகொண்டதற்குக் காரணத்தை இவர் காண்பிக்கிறார், 1பே 1:15.",
+     "anchor": "பரிசுத்தராக"
+    }
+   ]
+  }
+ ]
+}

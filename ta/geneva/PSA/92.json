@@ -1,0 +1,161 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 92,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.92.1",
+   "source_hash": "62cc090a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.1#p1-62cc090a",
+     "text": "இது ஓய்வுநாளின் பயன்பாடு வேலையை நிறுத்துவதில் மட்டுமல்ல, தேவனைத் துதிப்பதிலேயே இருக்கிறது என்பதைக் கற்பிக்கிறது.",
+     "anchor": "யெகோவாவை துதிப்பதும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.2",
+   "source_hash": "ac788549",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.2#p1-ac788549",
+     "text": "தேவனுடைய இரக்கமும், தமது வாக்குத்தத்தங்களில் அவர் காண்பிக்கும் உண்மையும், அவருடையவர்களை இரவும் பகலும் இடைவிடாமல் அவரைத் துதிக்கும்படி பிணைக்கின்றன.",
+     "anchor": "காலையில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.3",
+   "source_hash": "10c7d5e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.3#p1-10c7d5e4",
+     "text": "இந்த கீதவாத்தியங்கள் அப்பொழுது சபையில் அனுமதிக்கப்பட்டிருந்தன, இப்பொழுதும் அவ்வாறே இருக்கின்றன. (பதிப்பாசிரியர்)",
+     "anchor": "பத்து நரம்புள்ள கீதவாத்தியம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.4",
+   "source_hash": "78760b98",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.4#p1-78760b98",
+     "text": "ஓய்வுநாளின் பயன் என்ன என்பதைக் காண்பிக்கிறார்: அதாவது, தேவனுடைய செயல்களைத் தியானிப்பதே.",
+     "anchor": "செயல்களால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.6",
+   "source_hash": "fc5c76fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.6#p1-fc5c76fe",
+     "text": "அதாவது, துன்மார்க்கர் தேவனுடைய செயல்களையும், தங்களுக்கு விரோதமான அவருடைய நியாயத்தீர்ப்புகளையும் சிந்தியாதிருக்கிறார்கள்; ஆகையால் மிகவும் நியாயமாகவே அழிந்துபோகிறார்கள்.",
+     "anchor": "மிருககுணமுள்ள மனிதன் அதை அறியமாட்டான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.8",
+   "source_hash": "bb18ef38",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.8#p1-bb18ef38",
+     "text": "துன்மார்க்கருக்கு விரோதமான உம்முடைய நியாயத்தீர்ப்புகள் மகா உறுதியானவை, அவை நமது புரிதலுக்கு அப்பாற்பட்டவை.",
+     "anchor": "என்றென்றைக்கும் உன்னதமானவராக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.10",
+   "source_hash": "8d78ce45",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.10#p1-8d78ce45",
+     "text": "தேவரீர் அவர்களை எல்லா வல்லமையினாலும் பலப்படுத்தி, எல்லா நன்மையினாலும் ஆசீர்வதிப்பீர்.",
+     "anchor": "என்னுடைய கொம்பைக் காண்டாமிருகத்தின் கொம்பைப்போல உயர்த்துவீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.12",
+   "source_hash": "925366b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.12#p1-925366b0",
+     "text": "உண்மையுள்ளவர்கள் துன்மார்க்கரால் வெட்டுண்டு உலர்ந்துபோவது போல் தோன்றினாலும், அவர்கள் மீண்டும் வளர்ந்து, லீபனோன் மலையில் கேதுருக்கள் செழிப்பது போல, தேவனுடைய சபையில் செழிப்பார்கள்.",
+     "anchor": "பனையைப்போல் செழித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.92.14",
+   "source_hash": "08498273",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.92.14#p1-08498273",
+     "text": "தேவனுடைய பிள்ளைகளுக்கு இயற்கைக்கு மேற்பட்ட வல்லமை உண்டாயிருக்கும், அவர்களுடைய வயதிலும் புதிய கனி கொடுப்பார்கள்.",
+     "anchor": "வயது"
+    }
+   ]
+  }
+ ]
+}

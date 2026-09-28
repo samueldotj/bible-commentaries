@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EZK",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EZK.12.2",
+   "source_hash": "14202e23",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.2#p1-14202e23",
+     "text": "அதாவது, தாங்கள் கண்டதும் கேட்டதும் அவர்களுக்குப் பயன்தராமல் போகிறது.",
+     "anchor": "காணாமற்போகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.6",
+   "source_hash": "b1565cc7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.6#p1-b1565cc7",
+     "text": "நீ செய்வதுபோலவே அவர்களும் செய்வார்கள்; ஆகையால் உன்னில் அவர்கள் தங்களுடைய சொந்த வாதையையும் தண்டனையையும் காண்பார்கள்.",
+     "anchor": "இஸ்ரவேல் மக்களுக்கு உன்னை அடையாளமாக்கினேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.9",
+   "source_hash": "3ebbb065",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.9#p1-3ebbb065",
+     "text": "அவர்கள் நீ செய்கிறதைப் பார்த்து கேலிசெய்யவில்லையா?",
+     "anchor": "செய்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.13",
+   "source_hash": "f41df2b9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.13#p1-f41df2b9",
+     "text": "ராஜா தப்பியோட எண்ணும்போது, நான் அவனை எசேக்கியேல் 32:3 இல் உள்ளபடி என்னுடைய வலையிலே பிடிப்பேன்.",
+     "anchor": "அவன்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.16",
+   "source_hash": "85b9cb31",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.16#p1-85b9cb31",
+     "text": "அவருடைய நாமத்தைத் தரித்து, அவருடைய சபையாக இருக்கவேண்டியவர்கள்.",
+     "anchor": "கொஞ்சம்பேரைப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.22",
+   "source_hash": "1755f8da",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.22#p1-1755f8da",
+     "text": "தீர்க்கதரிசனங்கள் உடனடியாக நிறைவேறுவதைக் காணாததால், அவை ஒருபோதும் நிறைவேறாது என்பதுபோல அவைகளை அற்பமாக எண்ணினார்கள்.",
+     "anchor": "நாட்கள் நீடிக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EZK.12.27",
+   "source_hash": "75de9889",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EZK.12.27#p1-75de9889",
+     "text": "அதாவது, அது நம் நாட்களில் நிறைவேறாது, ஆகையால் நாம் அதைப் பொருட்படுத்த வேண்டியதில்லை: இவ்வாறே துன்மார்க்கர் எப்போதும் தேவனுடைய பொறுமையையும் தயவையும் தவறாகப் பயன்படுத்துகிறார்கள்.",
+     "anchor": "தூரமாக இருக்கிற காலங்களை"
+    }
+   ]
+  }
+ ]
+}

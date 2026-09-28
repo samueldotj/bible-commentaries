@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 27,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.27.1",
+   "source_hash": "5fea4136",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.1#p1-5fea4136",
+     "text": "தகனபலியாகிய காணிக்கைக்காக.",
+     "anchor": "சீத்திம் மரத்தால் பலிபீடத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.2",
+   "source_hash": "340a3c1d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.2#p1-340a3c1d",
+     "text": "அதனோடு பொருத்தப்படாத, அதே மரத்தினாலும் அதே பொருளினாலும் ஆனது.",
+     "anchor": "அதனோடு ஒன்றாக இருக்கவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.9",
+   "source_hash": "9de52f34",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.9#p1-9de52f34",
+     "text": "இது ஆசரிப்புக்கூடாரத்திற்குள் செல்லும் முதல் வழியாக இருந்தது, மக்கள் தங்கியிருந்த இடம்.",
+     "anchor": "ஆசரிப்பு கூடாரத்திற்கு பிராகாரத்தையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.10",
+   "source_hash": "2bf3bae0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.10#p1-2bf3bae0",
+     "text": "இவை தூணை அலங்கரிக்கும் விதமான வளையங்கள் அல்லது சுற்று வட்டங்களாக இருந்தன.",
+     "anchor": "வளையங்களும் வெள்ளியால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.13",
+   "source_hash": "32922777",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.13#p1-32922777",
+     "text": "ஐம்பது முழம் தொங்குதிரைகளைக் குறிக்கிறது.",
+     "anchor": "ஐம்பது முழ அகலமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.14",
+   "source_hash": "81386c7f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.14#p1-81386c7f",
+     "text": "முற்றத்தின் வாசலைப் பற்றியது.",
+     "anchor": "ஒரு பக்கத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.19",
+   "source_hash": "58dee303",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.19#p1-58dee303",
+     "text": "திரைச்சீலைகள் தரையில் இறுக்கிக் கட்டப்படுவதற்குப் பயன்படுத்தப்பட்ட கழிகள் அல்லது முளைகள்.",
+     "anchor": "அதின் எல்லா ஆப்புகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.27.20",
+   "source_hash": "a95ab4c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.27.20#p1-a95ab4c2",
+     "text": "ஒலிவமரத்திலிருந்து வருகின்ற எண்ணெய், அது முதன்முதலில் பிழியப்பட்டு அல்லது இடிக்கப்பட்டபோது கிடைப்பது.",
+     "anchor": "இடித்துப் பிழிந்த தெளிவான ஒலிவ எண்ணெயை"
+    }
+   ]
+  }
+ ]
+}

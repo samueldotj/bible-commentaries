@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 64,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.64.1",
+   "source_hash": "c26e20d9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.1#p1-c26e20d9",
+     "text": "அவன் தேவனை நோக்கிச் சத்தமிட்டதினால், அவனுடைய ஜெபம் வெகு வேகமாயிருந்ததென்றும், அவனுடைய உயிர் ஆபத்தில் இருந்ததென்றும் விளங்கும்.",
+     "anchor": "என்னுடைய சத்தத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.2",
+   "source_hash": "4dd4b03d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.2#p1-b6bb2580",
+     "text": "அதாவது, அவர்களுடைய இரகசிய பகைமையிலிருந்து.",
+     "anchor": "துன்மார்க்கர் செய்யும் இரகசிய ஆலோசனை"
+    },
+    {
+     "id": "geneva/PSA.64.2#p2-272e746a",
+     "text": "அதாவது, அவர்களுடைய வெளிப்படையான வலிமையிலிருந்து.",
+     "anchor": "அக்கிரமக்காரர்களுடைய கலகம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.3",
+   "source_hash": "d5aa55be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.3#p1-d5aa55be",
+     "text": "பொய்யான அறிக்கைகளும் அவதூறுகளும்.",
+     "anchor": "கசப்பான வார்த்தைகளை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.4",
+   "source_hash": "3259b230",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.4#p1-3259b230",
+     "text": "தேவனுக்குப் பயமும் மனுஷனுக்கு மதிப்பும் இல்லாதிருப்பது, தள்ளப்பட்டவனுடைய அடையாளமாக இருக்கிறது.",
+     "anchor": "சற்றும் பயமின்றி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.5",
+   "source_hash": "84b88ce5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.5#p1-84b88ce5",
+     "text": "துன்மார்க்கர் தேவனுடைய பிள்ளைகளை எவ்வளவு அதிகமாய் துன்பத்தில் அமிழ்த்துகிறார்களோ, அவ்வளவு அதிகமாய் அவர்களை ஒடுக்குவதில் துணிவும் நாணமற்ற தன்மையும் கொண்டவர்களாய் இருக்கிறார்கள்.",
+     "anchor": "பொல்லாத காரியத்தில் தங்களை உறுதிப்படுத்திக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.6",
+   "source_hash": "dce0b6bd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.6#p1-dce0b6bd",
+     "text": "தமக்குள்ளான ஒவ்வொருவனும் அவனை அழிப்பதற்காக யோசித்து முடிக்காத அவ்வளவு இரகசியமும் தந்திரமுமான வழி எதுவுமில்லை.",
+     "anchor": "அவர்களில் ஒவ்வொருவனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.8",
+   "source_hash": "e316710f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.8#p1-e316710f",
+     "text": "தேவன் அவர்களுக்கு எதிராகச் செய்யும் கடுமையான நியாயத்தீர்ப்புகளையும், அவர் அவர்களைத் தங்கள் சொந்த வலைகளிலேயே சிக்கவைத்திருப்பதையும் காண்பதற்கு.",
+     "anchor": "ஓடிப்போவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.64.10",
+   "source_hash": "601829be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.64.10#p1-601829be",
+     "text": "அவர் தம்முடைய ஊழியனாகிய தாவீதுக்குச் செய்ததுபோல, தங்களுக்கும் தயவாயிருப்பார் என்று அவர்கள் சிந்திக்கும்போது.",
+     "anchor": "யெகோவாவுக்குள் மகிழ்ந்து"
+    }
+   ]
+  }
+ ]
+}

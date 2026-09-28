@@ -1,0 +1,86 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.12.2",
+   "source_hash": "93c68443",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.2#p1-93c68443",
+     "text": "அந்த காலத்தில் அவளுடைய கணவன் அவளுடன் உடலுறவு கொள்ளக்கூடாது.",
+     "anchor": "ஏழுநாட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.4",
+   "source_hash": "cbcfb9c9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.4#p1-8d18e6da",
+     "text": "முதல் ஏழு நாட்களைத் தவிர.",
+     "anchor": "முப்பத்துமூன்று நாட்கள்"
+    },
+    {
+     "id": "geneva/LEV.12.4#p2-9c511efd",
+     "text": "பலி முதலியவை போன்றவை.",
+     "anchor": "பரிசுத்தமான யாதொரு பொருள்"
+    },
+    {
+     "id": "geneva/LEV.12.4#p3-7488ec53",
+     "text": "அதாவது, நாற்பது நாட்கள் முடியும்வரை பிராகார வாசல் வரையிலே.",
+     "anchor": "பரிசுத்த ஸ்தலத்திற்குள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.5",
+   "source_hash": "78a36fa2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.5#p1-78a36fa2",
+     "text": "ஆண்குழந்தையைப் பெற்றால் இருக்கும் நாட்களைவிட இரண்டு மடங்கு.",
+     "anchor": "இரண்டு வாரங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.12.6",
+   "source_hash": "4c16d851",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.12.6#p1-4c16d851",
+     "text": "சர்வாங்க தகனகாணிக்கைகள் பொதுவாக செலுத்தப்படும் இடம்.",
+     "anchor": "ஆசரிப்புக்கூடாரத்தின் வாசலில்"
+    }
+   ]
+  }
+ ]
+}

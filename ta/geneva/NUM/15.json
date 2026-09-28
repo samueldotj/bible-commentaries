@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.15.2",
+   "source_hash": "bc754700",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.2#p1-bc754700",
+     "text": "கானான் தேசத்திற்கு.",
+     "anchor": "நீங்கள் குடியிருக்கும்படி நான் உங்களுக்குக் கொடுக்கும் தேசம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.4",
+   "source_hash": "90f4bb0a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.4#p1-90f4bb0a",
+     "text": "யாத்திராகமம் 29:40-ஐ வாசிக்கவும்.",
+     "anchor": "காற்படி எண்ணெயிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.7",
+   "source_hash": "6edd4dd9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.7#p1-6edd4dd9",
+     "text": "பானபலி என்று அழைக்கப்பட்டது, ஏனெனில் அது படைக்கப்பட்ட பொருளின்மேல் ஊற்றப்பட்டது.",
+     "anchor": "பானபலியாக... படைப்பாகப் படைக்கவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.12",
+   "source_hash": "37aec9e9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.12#p1-37aec9e9",
+     "text": "மிருகங்களின் ஒவ்வொரு காணிக்கைக்கும் இந்த விகிதத்திற்கேற்ப அதற்குரிய உணவுபலியும் பானபலியும் இருக்கவேண்டும்.",
+     "anchor": "இந்த முறையில் செய்யவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.20",
+   "source_hash": "1ab7b306",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.20#p1-1ab7b306",
+     "text": "நீங்கள் அறுத்த முதற்தானியத்தினால் செய்யப்பட்டது.",
+     "anchor": "பிசைந்த மாவினால் செய்த முதற்பலனாகிய அதிரசத்தை ஏறெடுத்துப் படைக்கவேண்டும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.22",
+   "source_hash": "e4284fc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.22#p1-e4284fc0",
+     "text": "கவனக்குறைவினாலோ அறியாமையினாலோ; லேவியராகமம் 4:2,13-ஐ பார்க்கவும்.",
+     "anchor": "தவறினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.31",
+   "source_hash": "33e5fac4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.31#p1-33e5fac4",
+     "text": "அவன் தன் பாவத்தின் தண்டனையைச் சுமப்பான்.",
+     "anchor": "அவனுடைய அக்கிரமம் அவன்மேல் இருக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.15.39",
+   "source_hash": "9038b646",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.15.39#p1-9038b646",
+     "text": "தேவனுடைய கற்பனைகளை விட்டுவிட்டு உங்களுடைய சொந்த கற்பனைகளின்படி நடப்பதனால்.",
+     "anchor": "பின்பற்றிச் சோரம்போகிற"
+    }
+   ]
+  }
+ ]
+}

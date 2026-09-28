@@ -1,0 +1,251 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 13,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.13.1",
+   "source_hash": "aa0205c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.1#p1-aa0205c5",
+     "text": "தாமார் அப்சலோமுக்குத் தாய் தந்தை இருவராலும் சகோதரியாக இருந்தாள்; ஆனால் அம்னோனுக்கோ தந்தையின் வழியாக மட்டுமே சகோதரியாக இருந்தாள்.",
+     "anchor": "தாமார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.2",
+   "source_hash": "e3793da4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.2#p1-e3793da4",
+     "text": "கன்னிப்பெண்கள் வழக்கமாக இருந்தபடி, அதினால் தன் தகப்பன் வீட்டில் காக்கப்பட்டு வந்தாள்.",
+     "anchor": "கன்னிப்பெண்ணாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.5",
+   "source_hash": "0f6d0f78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.5#p1-0f6d0f78",
+     "text": "இதில் நாம் காண்பது என்னவெனில், துன்மார்க்கத்திற்கு மேலும் ஊக்கமூட்டப்படாத அளவிற்கு துன்மார்க்கமான எந்தச் செயலும் இல்லை.",
+     "anchor": "உன்னுடைய படுக்கையின்மேல் படுத்துக்கொள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.6",
+   "source_hash": "bda983bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.6#p1-bda983bb",
+     "text": "அதாவது, ருசியான, சுவையான உணவு என்று பொருள்.",
+     "anchor": "இரண்டு நல்ல பணியாரங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.9",
+   "source_hash": "9e4b82bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.9#p1-6460b63d",
+     "text": "அதாவது, அவள் அவற்றைத் தட்டில் வைத்துக் கொடுத்தாள்.",
+     "anchor": "அவைகளை வைத்தாள்"
+    },
+    {
+     "id": "geneva/2SA.13.9#p2-cc20e740",
+     "text": "ஏனெனில் துன்மார்க்கர் தேவனுடைய பார்வையில் செய்யத் துணிகிறதை மனிதர் முன்பாக செய்ய வெட்கப்படுகிறார்கள்.",
+     "anchor": "என்னைவிட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.13",
+   "source_hash": "1f9a5f7f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.13#p1-1f9a5f7f",
+     "text": "ஒரு காமவெறிக்காரனும் துன்மார்க்கனுமான ஒருவனைப்போல.",
+     "anchor": "இஸ்ரவேலிலே மதிகெட்டவர்களில் ஒருவனைப்போல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.18",
+   "source_hash": "855324ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.18#p1-855324ea",
+     "text": "ஏனெனில் பலவர்ணமாகவோ பலதுண்டுகளாகவோ இருந்தது அந்நாட்களில் மிகவும் மதிப்புமிக்கதாக இருந்தது, ஆதியாகமம் 37:3, நியாயாதிபதிகள் 5:30.",
+     "anchor": "பலவர்ணமான ஆடையை அணிந்துகொண்டிருந்தாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.20",
+   "source_hash": "8b7babec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.20#p1-8b7babec",
+     "text": "ஏனெனில் அவன் தன் இருதயத்தில் உடனடியாகப் பழிவாங்கும் எண்ணத்தைக் கொண்டிருந்தும், வாய்ப்பு வரும்வரை அதை மறைத்து வைத்து, தன் சகோதரிக்கு ஆறுதல் சொன்னான்.",
+     "anchor": "நீ மவுனமாக இரு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.23",
+   "source_hash": "8b3aa722",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.23#p1-8b3aa722",
+     "text": "அதாவது, விருந்துக்கு அழைத்தான்; இதின் மூலமாகத் தன் துன்மார்க்கமான நோக்கத்தை நிறைவேற்றலாம் என்று நினைத்தான்.",
+     "anchor": "ராஜாவின் மகன்கள் எல்லோரையும் விருந்திற்கு அழைத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.26",
+   "source_hash": "fdc44a2d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.26#p1-fdc44a2d",
+     "text": "அம்னோன் தனக்கு மிகவும் அருமையானவன் என்று ராஜாவுக்கு பாசாங்கு காண்பித்தான்.",
+     "anchor": "அம்னோனாவது எங்களோடு வரும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.28",
+   "source_hash": "cdc85adb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.28#p1-cdc85adb",
+     "text": "துன்மார்க்க எஜமான்களுடைய அகந்தை இப்படியே இருக்கும்; தங்களுடைய துன்மார்க்கக் கற்பனைகளையெல்லாம் தங்களுக்குக் கீழ்ப்படிய வேண்டும் என்று அவர்கள் நினைத்துக்கொள்கிறார்கள்.",
+     "anchor": "நான் அல்லவோ அதை உங்களுக்குக் கட்டளையிடுகிறேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.31",
+   "source_hash": "83aa569c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.31#p1-83aa569c",
+     "text": "தன்னுடைய வீட்டின்மேல் தேவனுடைய கடுங்கோபம் வந்திருப்பதை உணர்ந்தவனாக புலம்புகிறான், 2 சாமுவேல் 12:10.",
+     "anchor": "தரையிலே விழுந்து கிடந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.35",
+   "source_hash": "562915b6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.35#p1-562915b6",
+     "text": "அம்னோன் மாத்திரம் மரித்தான் என்பதே.",
+     "anchor": "சொன்னபடியே ஆயிற்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.13.37",
+   "source_hash": "a3bbfaae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.13.37#p1-a3bbfaae",
+     "text": "ஏனெனில் அவனுடைய தாயாகிய மாக்காள் இந்தத் தல்மாயின் மகளாக இருந்தாள், 2 சாமுவேல் 3:3.",
+     "anchor": "தல்மாய்"
+    }
+   ]
+  }
+ ]
+}

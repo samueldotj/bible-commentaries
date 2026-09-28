@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "ECC",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ECC.6.2",
+   "source_hash": "aa8517fd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.2#p1-aa8517fd",
+     "text": "செல்வந்தன் தன் செல்வத்தை பயன்படுத்த மனந்தாராள மனது இல்லாதிருப்பது தேவனுடைய தண்டனையே என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "அவைகளை அனுபவிக்கும் சக்தியை தேவன் அவனுக்குக் கொடுக்கவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.3",
+   "source_hash": "82dddfe3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.3#p1-72ebb81a",
+     "text": "அவனுக்கு ஒருபோதும் திருப்தி வராமல் இருந்தால்.",
+     "anchor": "திருப்தியடையாமலும்"
+    },
+    {
+     "id": "geneva/ECC.6.3#p2-d596a762",
+     "text": "பேராசைக்காரன் அடிக்கடி மரணதண்டனைக்கு ஏதுவான குற்றங்களில் விழுவதையோ, அல்லது கொலை செய்யப்படுவதையோ, அல்லது நீரில் மூழ்கிச் சாவதையோ, அல்லது தன்னைத்தானே தூக்கிலிட்டுக் கொள்வதையோ, அல்லது அதுபோன்றவற்றையோ நாம் காண்கிறோம்; இதனால் மனுஷத்துவத்தின் இறுதிக் கடமையாகிய பிரேதக் கல்லறையின் கனத்தை அவன் இழக்கிறான்.",
+     "anchor": "பிரேதக்கல்லறை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.4",
+   "source_hash": "b78f2733",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.4#p1-b78f2733",
+     "text": "அதாவது, யாருக்கும் பயனும் தராத, தீங்கும் செய்யாத அகால கனியைக் குறிக்கிறது.",
+     "anchor": "அது மாயையாகத் தோன்றி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.7",
+   "source_hash": "b85279f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.7#p1-b85279f6",
+     "text": "அவனுடைய விருப்பமும் ஆசையும்.",
+     "anchor": "மனதுக்கோ திருப்தியில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.9",
+   "source_hash": "d80a2d25",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.9#p1-d80a2d25",
+     "text": "தேவன் கொடுத்திருக்கிறதைக் கொண்டு திருப்தியாயிருப்பது, ஒருபோதும் நிறைவேறாத ஆசைகளைப் பின்தொடர்வதைவிட நலம்.",
+     "anchor": "கண் கண்டதே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.10",
+   "source_hash": "04cc3aad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.10#p1-04cc3aad",
+     "text": "பொருள்: அவன் மரணமடையக்கூடியவன் என்பதை உணரச்செய்யும் தேவன்.",
+     "anchor": "தன்னைவிட வலிமையானவர்களோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ECC.6.12",
+   "source_hash": "9bab6310",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ECC.6.12#p1-9bab6310",
+     "text": "இந்த வாழ்வில் மனிதன் முழுமையான அமைதியுடன் வாழக்கூடிய எந்த ஒரு நிலையும் இல்லை.",
+     "anchor": "இந்த வாழ்வில் நன்மை"
+    }
+   ]
+  }
+ ]
+}

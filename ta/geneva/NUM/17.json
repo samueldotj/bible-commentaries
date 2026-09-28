@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 17,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.17.1",
+   "source_hash": "a30ad67c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.1#p1-a30ad67c",
+     "text": "அவன் ஆசரிப்புக்கூடாரத்தின் வாசலில் இருக்கும்போது.",
+     "anchor": "மோசேயை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.17.5",
+   "source_hash": "c140bd3c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.5#p1-c140bd3c",
+     "text": "பிரதான ஆசாரியனாயிருக்கும்படி.",
+     "anchor": "தெரிந்துகொள்ளுகிறவனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.17.6",
+   "source_hash": "d7d7629e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.6#p1-d7d7629e",
+     "text": "யோசேப்பின் கோத்திரம் தேசப்பங்கீட்டில் இரண்டாகப் பிரிக்கப்பட்டிருந்தாலும், இங்கே அது ஒன்றாகவே இருக்கிறது; லேவியர்கள் ஒரு கோத்திரமாக இருக்கிறார்கள்.",
+     "anchor": "ஆரோனின் கோலும் அவர்களுடைய கோல்களுடனே இருந்தது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.17.8",
+   "source_hash": "b49e74fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.8#p1-b49e74fb",
+     "text": "தேவன் தம்மை ஆசரிப்புக்கூடாரத்தில் ஆராதிக்கும்படி லேவியின் வம்சத்தைத் தெரிந்துகொண்டார் என்பதைத் தெரிவிக்கும்படி.",
+     "anchor": "லேவியின் குடும்பத்தாருக்கு இருந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.17.10",
+   "source_hash": "6904980b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.10#p1-6904980b",
+     "text": "ஆரோன் பிரதான ஆசாரியனாக இருப்பதைக் குறித்த முறுமுறுப்பு.",
+     "anchor": "முறுமுறுப்பதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.17.12",
+   "source_hash": "cad8eb62",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.17.12#p1-cad8eb62",
+     "text": "கல்தேய பாடம் அவர்களுடைய முறையீட்டை இவ்வாறு விவரிக்கிறது; \"நாங்கள் பட்டயத்தால் சாகிறோம், பூமி நம்மை விழுங்குகிறது, கொள்ளைநோய் நம்மை அழிக்கிறது\".",
+     "anchor": "செத்து அழிந்துபோகிறோம்"
+    }
+   ]
+  }
+ ]
+}

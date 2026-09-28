@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.4.3",
+   "source_hash": "b34d957c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.3#p1-4de4b9a7",
+     "text": "யோசுவா 3:17-ல் உள்ளதுபோல.",
+     "anchor": "நிலையாக நின்ற இடத்திலே"
+    },
+    {
+     "id": "geneva/JOS.4.3#p2-6bf5cdfc",
+     "text": "அதாவது, அவர்கள் முகாமிடும் இடத்தைக் குறிக்கிறது.",
+     "anchor": "தங்கும் இடத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.6",
+   "source_hash": "6794209b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.6#p1-6794209b",
+     "text": "தேவன் கட்டளையிடுகிறது என்னவென்றால், இந்த ஆச்சரியமான செயலினால் நாமே பயனடைவது மட்டுமல்ல, நமது சந்ததியாரும் அதன் காரணத்தை அறிந்து, அவருடைய நாமத்தை மகிமைப்படுத்தும்படியாகவேயாம்.",
+     "anchor": "உங்களுடைய பிள்ளைகள் உங்களைக் கேட்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.9",
+   "source_hash": "9a351247",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.9#p1-9a351247",
+     "text": "கோத்திரங்களால் சுமந்து கில்காலிலே நாட்டப்பட்ட பன்னிரண்டு கற்களைத் தவிர.",
+     "anchor": "பன்னிரண்டு கற்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.11",
+   "source_hash": "eb2cba4e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.11#p1-eb2cba4e",
+     "text": "அதாவது, மக்களின் முன்னிலையிலே அல்லது கண்முன்பாக.",
+     "anchor": "மக்களுக்கு முன்பாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.13",
+   "source_hash": "5a7db5c2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.13#p1-5a7db5c2",
+     "text": "அதாவது, பெட்டிக்கு முன்பாக.",
+     "anchor": "யெகோவாவுக்கு முன்பாக... யுத்தம்செய்ய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.16",
+   "source_hash": "cf23de05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.16#p1-cf23de05",
+     "text": "பெட்டி தேவனுடைய சமுகத்தைச் சாட்சிப்படுத்தியதினாலும், அதில் இருந்த நியாயப்பிரமாணப் பலகைகள் தேவனுடைய மக்கள்மேலுள்ள அவருடைய சித்தத்தைக் குறித்துக் காண்பித்ததினாலும் இப்படிக் கூறப்பட்டது.",
+     "anchor": "சாட்சியின் பெட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.19",
+   "source_hash": "4100de44",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.19#p1-4100de44",
+     "text": "ஆபிப் அல்லது நிசான் என்று அழைக்கப்பட்டது, இது மார்ச் மாதத்தின் ஒரு பகுதியையும் ஏப்ரல் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "முதலாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.4.24",
+   "source_hash": "8eb8bcda",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.4.24#p1-8eb8bcda",
+     "text": "தேவனுடைய கிருபையின் செயல்கள் துன்மார்க்கருக்கு மேலும் ஆக்கினைத்தீர்ப்பாக இருக்கும்; அவைகள் அவருடைய சொந்த மக்களைத் தம்மைப் பயபக்தியுடன் கீழ்ப்படிதலுக்கு ஏவும்.",
+     "anchor": "பூமியானது கையை அறியும்படி"
+    }
+   ]
+  }
+ ]
+}

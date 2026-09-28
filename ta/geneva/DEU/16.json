@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.16.1",
+   "source_hash": "f25cb6c0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.1#p1-f25cb6c0",
+     "text": "யாத்திராகமம் 13:4-ஐ வாசிக்கவும்.",
+     "anchor": "ஆபீப் மாதத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.2",
+   "source_hash": "1026a2f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.2#p1-1026a2f8",
+     "text": "நீ பஸ்காவின் ஆட்டுக்குட்டியைப் புசிப்பாயாக.",
+     "anchor": "பஸ்காவின் பலியாகிய ஆடுமாடுகளைப் பலியிடுவாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.3",
+   "source_hash": "183bc607",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.3#p1-183bc607",
+     "text": "இது நீ எகிப்தில் அனுபவித்த சிறுமையைக் குறிக்கிறது.",
+     "anchor": "சிறுமையின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.5",
+   "source_hash": "1e3e6c56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.5#p1-1e3e6c56",
+     "text": "இது ஆலயம் கட்டப்பட்டபோது முழுமையாக நிறைவேற்றப்பட்டது.",
+     "anchor": "பஸ்காவை அடிக்கவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.6",
+   "source_hash": "138e18c3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.6#p1-138e18c3",
+     "text": "இது அவர்கள் எகிப்திலிருந்து மீட்கப்பட்டதை நினைவுகூரவும், இந்த ஆட்டுக்குட்டி அதன் நிழலான இயேசுகிறிஸ்துவின் மேலுள்ள நம்பிக்கையில் அவர்களை உற்சாகப்படுத்தவும் நியமிக்கப்பட்டது.",
+     "anchor": "சாயங்காலத்திலே சூரியன் மறையும்போது பஸ்காவை அடித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.9",
+   "source_hash": "da065e67",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.9#p1-da065e67",
+     "text": "பஸ்காவுக்கு மறுநாள் காலமுதல் எண்ணத்துவங்குதல், லேவியராகமம் 23:15, யாத்திராகமம் 13:4.",
+     "anchor": "ஏழு வாரங்களை எண்ணுவாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.13",
+   "source_hash": "0296cdc5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.13#p1-0296cdc5",
+     "text": "அதாவது, ஏழாம் மாதம் பதினைந்தாம்தேதி, லேவியராகமம் 23:34.",
+     "anchor": "கூடாரப்பண்டிகையை ஏழு நாட்கள் ஆசரித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.17",
+   "source_hash": "977b1064",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.17#p1-977b1064",
+     "text": "தேவன் அவனுக்கு அருளிய திறமைக்குத்தக்கபடி.",
+     "anchor": "தகுதிக்கு ஏற்றபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.18",
+   "source_hash": "627a1de1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.18#p1-627a1de1",
+     "text": "நீதிமான்களைத் தங்களுக்குத் தெரிந்துகொள்ளும்படி மக்களுக்குத் தற்காலிக அதிகாரத்தைக் கொடுத்தார்.",
+     "anchor": "நியாயாதிபதிகளையும் தலைவர்களையும் ஏற்படுத்துவாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.16.20",
+   "source_hash": "d59b4f4b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.16.20#p1-d59b4f4b",
+     "text": "அதிகாரி நியாயப்பிரமாணத்தின் நோக்கத்தை எப்பொழுதும் பின்பற்றவேண்டும், நியாயத்திலிருந்து எதிலும் விலகக்கூடாது.",
+     "anchor": "நீதியையே பின்பற்றுவாயாக"
+    }
+   ]
+  }
+ ]
+}

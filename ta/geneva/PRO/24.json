@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.24.7",
+   "source_hash": "a24a260f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.7#p1-a24a260f",
+     "text": "ஞானத்தைக் காண்பிக்க வேண்டிய இடத்தில்.",
+     "anchor": "நீதிமன்றத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.10",
+   "source_hash": "4aba1808",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.10#p1-4aba1808",
+     "text": "மனிதன் ஆபத்திற்குள் வருகிறவரை தன் பெலனை சோதித்தறிவதில்லை.",
+     "anchor": "ஆபத்துக்காலத்தில் நீ சோர்ந்துபோனால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.11",
+   "source_hash": "1ce16c56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.11#p1-1ce16c56",
+     "text": "குற்றமில்லாதவன் ஆபத்தில் இருக்கும்போது அவனுக்கு உதவி செய்யாவிட்டால், ஒருவனும் விலக்குப்பேசப்பட முடியாது.",
+     "anchor": "மரணத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.13",
+   "source_hash": "4e623206",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.13#p1-4e623206",
+     "text": "தேன் சுவைக்கு எப்படி இனிமையும் இன்பமும் உள்ளதோ, அப்படியே ஞானமும் ஆத்துமாவுக்கு இருக்கும்.",
+     "anchor": "தேனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.16",
+   "source_hash": "6e9bf39b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.16#p1-6e9bf39b",
+     "text": "அவன் அநேக ஆபத்துகளுக்கு உள்ளானவனாக இருக்கிறான், ஆனாலும் தேவன் அவனை விடுவிக்கிறார்.",
+     "anchor": "ஏழுமுறை விழுந்தாலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.18",
+   "source_hash": "3f4c02b7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.18#p1-3f4c02b7",
+     "text": "உன்மேல் பழிவாங்கும்படி.",
+     "anchor": "அவனிடத்திலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.22",
+   "source_hash": "dd692faf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.22#p1-dd692faf",
+     "text": "அர்த்தம், நீதிமொழிகள் 24:19,21-ல் உள்ளபடி துன்மார்க்கரையும் கலகக்காரரையும் குறிக்கிறது, அல்லது தேவனுக்குப் பயப்படாதவர்களையும் தங்கள் ராஜாவுக்குக் கீழ்ப்படியாதவர்களையும் குறிக்கிறது.",
+     "anchor": "இருவரின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.27",
+   "source_hash": "e8938f84",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.27#p1-e8938f84",
+     "text": "எந்த ஒரு காரியத்தையும் கையில் எடுப்பதற்கு முன்பே, அதை நிறைவேற்றுவதற்கான வழிவகைகளைப் பற்றி உறுதியாக இருக்க வேண்டும்.",
+     "anchor": "பின்பு உன்னுடைய வீட்டைக் கட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.29",
+   "source_hash": "38ff02cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.29#p1-38ff02cd",
+     "text": "தீமைக்குத் தீமையால் பழிவாங்குவதே துன்மார்க்கருடைய இயல்பு என்பதை அவன் காண்பிக்கிறான்.",
+     "anchor": "அவன் செய்த செயல்களுக்குத் தகுந்தபடி நானும் அவனுக்குச் சரிக்கட்டுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.32",
+   "source_hash": "52e8b12c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.32#p1-52e8b12c",
+     "text": "அதாவது, மற்றொருவனுடைய குற்றத்தினால் நான் கற்றுக்கொள்ளும்படி.",
+     "anchor": "புத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.24.33",
+   "source_hash": "40e8e4bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.24.33#p1-40e8e4bb",
+     "text": "நீதிமொழிகள் 6:10ஐ காண்க",
+     "anchor": "இன்னும் கொஞ்சம் உறங்கட்டும்"
+    }
+   ]
+  }
+ ]
+}

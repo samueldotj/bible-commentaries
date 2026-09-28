@@ -1,0 +1,255 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 15,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.15.1",
+   "source_hash": "ebf0e732",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.1#p1-ebf0e732",
+     "text": "அவர் உம்மை இந்தக் கனத்திற்கு தெரிந்துகொண்டதினால், நீர் அவருக்குக் கீழ்ப்படிய கடமைப்பட்டிருக்கிறீர்.",
+     "anchor": "யெகோவாவுடைய வார்த்தைகளின் சத்தத்தைக் கேளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.3",
+   "source_hash": "122a45a8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.3#p1-122a45a8",
+     "text": "தமது மக்களுடன் கொடூரமாக நடந்துகொள்பவர்களுக்கு எதிராக தேவனுடைய பழிவாங்குதலுக்கு இது ஒரு எடுத்துக்காட்டாக இருக்கும்படி.",
+     "anchor": "ஆண்களையும், பெண்களையும் கொன்று போடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.6",
+   "source_hash": "b1c533bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.6#p1-546b6e11",
+     "text": "இவர்கள் மோசேயின் நியாயப்பிரமாணத் தந்தையாகிய எத்திரோவின் சந்ததியார்.",
+     "anchor": "கேனியர்கள்"
+    },
+    {
+     "id": "geneva/1SA.15.6#p2-f28e5a8e",
+     "text": "ஏனெனில் எத்திரோ அவர்களைச் சந்திக்க வந்து, அவர்களுக்கு நல்ல ஆலோசனை கொடுத்தான், யாத். 18:19.",
+     "anchor": "எல்லோருக்கும் தயைசெய்தீர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.11",
+   "source_hash": "b37137fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.11#p1-b37137fa",
+     "text": "தேவன் தமது நித்திய ஆலோசனையில் ஒருபோதும் மாறுவதுமில்லை, மனந்திரும்புவதுமில்லை, 1 சாமுவேல் 15:29-ல் இருக்கிறபடி; ஆனாலும் தமது காலத்திற்குரிய தெரிந்துகொள்ளுதலுக்கு மாறாக ஏதாவது நிகழும்போது, அவர் மனந்திரும்புகிறவராக நமக்குத் தோன்றுகிறார்.",
+     "anchor": "நான் சவுலை ராஜாவாக்கியது எனக்கு வருத்தமாக இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.13",
+   "source_hash": "d9e3835a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.13#p1-d9e3835a",
+     "text": "சத்தியத்திற்கு விரோதமாக முகம்மூடியில்லாமல் இருந்து, மற்றவர்கள்மேல் குற்றஞ்சுமத்தி, தன்னைத்தானே நீதிமானாக்குவதே மாயக்காரருடைய இயல்பாகும்.",
+     "anchor": "யெகோவாவுடைய வார்த்தையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.17",
+   "source_hash": "c311723d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.17#p1-c311723d",
+     "text": "அதாவது, 1 சாமுவேல் 9:21-ல் இருப்பதுபோல தாழ்ந்த நிலையில் இருந்தவர்.",
+     "anchor": "பார்வைக்குச் சிறியவராக இருந்தபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.20",
+   "source_hash": "ce4ff9e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.20#p1-ce4ff9e3",
+     "text": "அவன் தேவனுக்கும் தன்னுடைய மனச்சாட்சிக்கும் விரோதமாக மிகவும் அயோக்கியமாகத் தன்னைத்தானே காக்கிறான்."
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.23",
+   "source_hash": "c5e49438",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.23#p1-c5e49438",
+     "text": "மனுஷனுடைய பார்வைக்கு நோக்கம் நல்லதாகத் தோன்றினாலும், தம்முடைய கற்பனையை மீறி நடப்பதைவிட தேவன் வேறொன்றையும் அதிகமாக வெறுக்கிறதில்லை.",
+     "anchor": "கலகம்செய்தல்... பாவத்திற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.25",
+   "source_hash": "15c4b16b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.25#p1-15c4b16b",
+     "text": "இது உண்மையான மனந்திரும்புதல் அல்ல, தன் அரசாட்சியை இழந்துவிடுவோமோ என்ற பயத்தால் உண்டான வஞ்சகமே ஆகும்.",
+     "anchor": "பாவத்தை மன்னித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.28",
+   "source_hash": "92d7fc8d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.28#p1-92d7fc8d",
+     "text": "அதாவது, தாவீதுக்கு.",
+     "anchor": "தோழனுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.29",
+   "source_hash": "83a1337c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.29#p1-83a1337c",
+     "text": "தம்முடைய சொந்த மக்களைக் காப்பாற்றி உயர்த்துகிற தேவனைக் குறிக்கிறது.",
+     "anchor": "இஸ்ரவேலின் பெலனாக இருப்பவர் பொய் சொல்லுகிறதும் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.32",
+   "source_hash": "8f94f8d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.32#p1-8f94f8d1",
+     "text": "அவன் மரணத்தைத் தவிர வேறொன்றையும் எதிர்பார்க்கவில்லை, அல்லது சிலர் எழுதுகிறபடி, அவன் மரணத்தைப் பொருட்படுத்தவில்லை.",
+     "anchor": "மரணத்தின் கசப்பு போனது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.34",
+   "source_hash": "56866280",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.34#p1-56866280",
+     "text": "அவனுடைய வீடு இருந்த இடம்.",
+     "anchor": "ராமாவுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.15.35",
+   "source_hash": "665bbfed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.15.35#p1-c2e2345b",
+     "text": "சவுல் நாயோதில் சாமுவேலிடம் வந்தான் என்றாலும், 1 சாமுவேல் 19:22.",
+     "anchor": "மரணமடையும் நாள்வரை...கண்டு"
+    },
+    {
+     "id": "geneva/1SA.15.35#p2-efa6b807",
+     "text": "1 சாமுவேல் 15:11-ல் இருப்பதுபோல.",
+     "anchor": "சவுலை ராஜாவாக்கினதற்காகக் யெகோவா மன வருத்தப்பட்டதினால்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 8,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.8.1",
+   "source_hash": "7632bd21",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.1#p1-d6e9598e",
+     "text": "தேவன் தம்முடையவர்களை எக்காலத்திலும் மறந்துவிடுகிறார் என்பதல்ல, ஆனால் அவர் ஆறுதலை அனுப்பும்போது அவர் அவர்களை நினைவுகூருகிறார் என்பதைக் காண்பிக்கிறார்.",
+     "anchor": "நினைவுகூர்ந்து"
+    },
+    {
+     "id": "geneva/GEN.8.1#p2-71cc06c3",
+     "text": "தேவன் ஒவ்வொரு மிருகத்தையும் நினைவுகூர்ந்தாரென்றால், அது தம்முடைய பிள்ளைகளுக்கும் நிச்சயமாக உறுதியளிக்க வேண்டும்.",
+     "anchor": "காட்டுமிருகங்களையும், அனைத்து நாட்டுமிருகங்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.4",
+   "source_hash": "f2f31906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.4#p1-f2f31906",
+     "text": "செப்டம்பர் மாதத்தின் ஒரு பகுதியும் அக்டோபர் மாதத்தின் ஒரு பகுதியும்.",
+     "anchor": "ஏழாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.5",
+   "source_hash": "8997aa8f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.5#p1-8997aa8f",
+     "text": "இது டிசம்பர் மாதமாகும்.",
+     "anchor": "பத்தாம் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.9",
+   "source_hash": "0e0ef84e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.9#p1-0e0ef84e",
+     "text": "காகம் அங்கும் இங்கும் பறந்து, கப்பலின்மேல் தங்கியிருந்தது, ஆனால் புறாவைப்போல் அதற்குள் வரவில்லை, புறாவோ கப்பலுக்குள் சேர்த்துக்கொள்ளப்பட்டது.",
+     "anchor": "தன் கையை நீட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.11",
+   "source_hash": "d6f66300",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.11#p1-d6f66300",
+     "text": "இது தண்ணீர் மிகவும் குறைந்துபோனதற்கு அடையாளமாக இருந்தது; ஏனெனில் ஒலிவமரங்கள் உயர்ந்த மலைகளில் வளராது.",
+     "anchor": "கொத்திக்கொண்டுவந்த ஒரு ஒலிவமரத்தின் இலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.13",
+   "source_hash": "861bdcc8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.13#p1-861bdcc8",
+     "text": "எபிரெய மொழியில் ஆபீப் எனப்படும், இது மார்ச் மாதத்தின் ஒரு பகுதியையும் ஏப்ரல் மாதத்தின் ஒரு பகுதியையும் உள்ளடக்கியது.",
+     "anchor": "முதல் மாதம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.16",
+   "source_hash": "879841e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.16#p1-879841e2",
+     "text": "நோவா தேவனுடைய வெளிப்படையான கற்பனையின்றி கப்பலைவிட்டுப் புறப்படமாட்டேன் என்று தன் கீழ்ப்படிதலை வெளிப்படுத்துகிறார், அவர் அதே கற்பனையின்றி அதற்குள் பிரவேசிக்காதிருந்ததுபோலவே: கப்பல் சபையின் உருவகமாக இருக்கிறது, அதில் தேவவசனத்திற்கு வெளியே ஒன்றும் செய்யப்படலாகாது.",
+     "anchor": "கப்பலைவிட்டுப் புறப்படுங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.20",
+   "source_hash": "5dd7dbc2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.20#p1-5dd7dbc2",
+     "text": "ஏனெனில் பலிகள் அவர்களுடைய விசுவாசத்தின் ஒரு பயிற்சியாக இருந்தன, அவைகளினால் அவர்கள் தேவனுடைய நன்மைகளுக்காக அவருக்கு ஸ்தோத்திரம் செலுத்தி வந்தார்கள்.",
+     "anchor": "யெகோவாவுக்கு ஒரு பலிபீடத்தைக் கட்டி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.21",
+   "source_hash": "2a08c852",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.21#p1-2a08c852",
+     "text": "அதாவது, அதின் மூலமாக அவர் தமது கோபம் தணிந்து சமாதானமடைந்தார் என்பதைக் காண்பித்தார்.",
+     "anchor": "சுகந்த வாசனையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.8.22",
+   "source_hash": "27326d85",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.8.22#p1-27326d85",
+     "text": "பிரவாகத்தினால் அழிக்கப்பட்ட இயற்கையின் ஒழுங்கு, தேவனுடைய வாக்குத்தத்தத்தினால் மீண்டும் நிலைநிறுத்தப்படுகிறது.",
+     "anchor": "விதைப்பும் அறுப்பும்"
+    }
+   ]
+  }
+ ]
+}

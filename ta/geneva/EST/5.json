@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "EST",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EST.5.1",
+   "source_hash": "cdb1c40b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.1#p1-cdb1c40b",
+     "text": "அதாவது, யூதர்கள் உபவாசிக்கத் தொடங்கிய பின்பு.",
+     "anchor": "மூன்றாம் நாளிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.2",
+   "source_hash": "23aab4f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.2#p1-23aab4f6",
+     "text": "இது அவளுடைய வருகை அவனுக்குப் பிரியமானது என்பதற்கு அடையாளமாக இருந்தது, எஸ்தர் 4:11.",
+     "anchor": "பொற் செங்கோலை எஸ்தரிடம் நீட்டினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.3",
+   "source_hash": "ec9555a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.3#p1-ec9555a4",
+     "text": "மாற்கு 6:23-ல் இருப்பதைப்போல, அவள் என்ன கேட்டாலும் அது கொடுக்கப்படும் என்பதே இதன் பொருள்.",
+     "anchor": "கொடுக்கப்படும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.6",
+   "source_hash": "0f140cdd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.6#p1-0f140cdd",
+     "text": "விருந்துகளில் அளவுக்கதிகமாகக் குடிப்பது வழக்கமாக இருந்தபடியால், அவர்கள் அந்த விருந்தை அதிகமாகப் பயன்படுத்தப்பட்ட அல்லது மதிக்கப்பட்ட பொருளின் பெயரால் அழைத்தார்கள்.",
+     "anchor": "திராட்சைரசம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.8",
+   "source_hash": "99b753cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.8#p1-99b753cb",
+     "text": "நான் என்னுடைய கேட்டுக்கொள்ளுதலை அறிவிப்பேன்.",
+     "anchor": "என்றாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.11",
+   "source_hash": "d746c06a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.11#p1-d746c06a",
+     "text": "இவ்விதமாக துன்மார்க்கர் உயர்த்தப்படும்போது, தங்கள் பொறுப்பை ஏற்றுக்கொண்டு தங்களைத் தாழ்த்துவதற்குப் பதிலாக, பெருமையும் இகழ்ச்சியும் கொடுமையும் உடையவர்களாக மாறுகிறார்கள்.",
+     "anchor": "தன்னைப் பெரியவனாக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EST.5.14",
+   "source_hash": "fb295811",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EST.5.14#p1-fb295811",
+     "text": "கண்டுபிடிக்கக்கூடிய மிக உயரமான தூக்குமரம் என்று பொருள்.",
+     "anchor": "முழ உயரமான"
+    }
+   ]
+  }
+ ]
+}

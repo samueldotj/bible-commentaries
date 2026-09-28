@@ -1,0 +1,212 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.4.1",
+   "source_hash": "677e093e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.1#p1-677e093e",
+     "text": "அதாவது, இவர்கள் யூதாவின் பேரக்குழந்தைகளும் உறவினர்களுமாக அவனிடத்திலிருந்து வந்தார்கள்; ஏனெனில் பாரேஸ் மட்டுமே அவனுடைய இயற்கையான மகனாக இருந்தான்.",
+     "anchor": "யூதாவின் சந்ததிகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.4",
+   "source_hash": "db59bc9f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.4#p1-db59bc9f",
+     "text": "தன் தாய்க்கு முதலில் பிறந்தவன், தன் தகப்பனுக்கு மூத்தவன் அல்ல.",
+     "anchor": "எப்ராத்தாவுக்கு முதலில் பிறந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.9",
+   "source_hash": "20788a88",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.9#p1-20788a88",
+     "text": "வேறுவிதமாக ஒத்னியேல் என்று அழைக்கப்பட்டான், நியாயாதிபதிகள் 1:13.",
+     "anchor": "யாபேஸ்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.10",
+   "source_hash": "c02308ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.10#p1-c02308ba",
+     "text": "அப்பொழுது தான் செய்த பொருத்தனையை நிறைவேற்றுவான் என்று புரிந்துகொள்ளப்பட வேண்டும்.",
+     "anchor": "உமது கரம் என்னோடு இருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.14",
+   "source_hash": "80b7ec12",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.14#p1-80b7ec12",
+     "text": "தொழிலாளர்கள் வேலைசெய்த பள்ளத்தாக்குக்குக் கர்த்தர்.",
+     "anchor": "கராஷீமன் பள்ளத்தாக்குக்கு மூப்பனாகிய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.15",
+   "source_hash": "5d19dfc2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.15#p1-5d19dfc2",
+     "text": "எஸ்ரோம் என்றும் அழைக்கப்படுகிறார்.",
+     "anchor": "எப்புன்னேயின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.23",
+   "source_hash": "83f2716c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.23#p1-83f2716c",
+     "text": "இவர்கள் தாவீதின் தோட்டக்காரர்களாக இருந்து அவனுடைய வேலைகளில் அவனுக்கு ஊழியம் செய்தார்கள்.",
+     "anchor": "ராஜாவின் வேலையை விசாரிப்பதற்கு அங்கே குடியிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.24",
+   "source_hash": "6f5bb927",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.24#p1-6f5bb927",
+     "text": "இவனுடைய மகனாகிய ஓபேதைப் பற்றி இங்கே குறிப்பிடவில்லை.",
+     "anchor": "சவுல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.28",
+   "source_hash": "a846a115",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.28#p1-a846a115",
+     "text": "இந்தப் பட்டணங்கள் யோசுவா 19:2ல் யூதாவுக்குரியவைகளாக இருந்தன, ஆனாலும் அவைகள் சிமியோன் கோத்திரத்திற்குக் கொடுக்கப்பட்டன.",
+     "anchor": "பெயெர்செபாவிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.31",
+   "source_hash": "98d46182",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.31#p1-98d46182",
+     "text": "அப்பொழுது தாவீது அவைகளை யூதா கோத்திரத்திற்குத் திரும்பக் கொடுத்தார்.",
+     "anchor": "தாவீது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.39",
+   "source_hash": "d82cdf9e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.39#p1-d82cdf9e",
+     "text": "சிமியோன் கோத்திரம் எண்ணிக்கையில் மிகவும் பெருகியிருந்தபடியால், எசேக்கியாவின் காலத்தில் அவர்கள் தாணுடைய கோத்திரத்திற்குரிய கேதோர் என்னும் இடத்திலே புதிய குடியிருப்புகளைத் தேடினார்கள்.",
+     "anchor": "தேதோரின் எல்லையாகிய மலைப்பகுதியின் கிழக்குப்புறம்வரை போய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.4.43",
+   "source_hash": "ef7343a3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.4.43#p1-ef7343a3",
+     "text": "சவுலாலும் தாவீதாலும் கொல்லப்படாதவர்கள்.",
+     "anchor": "தப்பி"
+    }
+   ]
+  }
+ ]
+}

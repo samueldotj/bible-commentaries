@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 16,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.16.1",
+   "source_hash": "989067e4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.1#p1-989067e4",
+     "text": "இது ஒலிவமலையாகும், 2 சாமுவேல் 15:30.",
+     "anchor": "மலை உச்சியிலிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.2",
+   "source_hash": "e2f56ce7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.2#p1-e2f56ce7",
+     "text": "பொதுவாக, நண்பனின் வேஷத்தில் மற்றவர்கள் மேல் குற்றஞ்சாட்டுகிறவர்களைப் போல வேறு தீயவஞ்சகர் இல்லை.",
+     "anchor": "கழுதைகள் ராஜாவின் குடும்பத்தார்கள் ஏறுகிறதற்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.5",
+   "source_hash": "6b887594",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.5#p1-6b887594",
+     "text": "இது பென்யமீன் கோத்திரத்திற்குரிய ஒரு பட்டணமாக இருந்தது.",
+     "anchor": "பகூரிம்வரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.6",
+   "source_hash": "b4d64d90",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.6#p1-b4d64d90",
+     "text": "அதாவது, அவனைச் சுற்றிலும்.",
+     "anchor": "வலதுபுறமாகவும் இடதுபுறமாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.8",
+   "source_hash": "8db389f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.8#p1-8db389f1",
+     "text": "இஸ்போசேத்தும் அப்னேரும் தன்னால் கொலைசெய்யப்பட்டதைப் போல அவனை நிந்திக்கிறான்.",
+     "anchor": "சவுல் குடும்பத்தார்களின் இரத்தப்பழி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.10",
+   "source_hash": "60185bef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.10#p1-60185bef",
+     "text": "தாவீது இதைத் தன் பாவத்திற்கு தேவன் அளித்த நியாயத்தீர்ப்பு என்று உணர்ந்தான், ஆகையால் அவர் தண்டனைக்கு முன்பாகத் தன்னைத் தாழ்மையாக்கினான்.",
+     "anchor": "அவனுக்குச் சொன்னார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.12",
+   "source_hash": "66c026fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.12#p1-66c026fb",
+     "text": "கர்த்தர் தம்முடையவர்கள் ஒடுக்கப்படும்போது அவர்களுக்கு ஆறுதல் அனுப்புவார் என்பது பொருள்.",
+     "anchor": "இந்த நாளில் அவன் சபித்த சாபத்திற்குப் பதிலாக எனக்கு நன்மை செய்வார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.14",
+   "source_hash": "d91f2cc5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.14#p1-d91f2cc5",
+     "text": "அதாவது, பகூரிமில்.",
+     "anchor": "தங்குமிடத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.17",
+   "source_hash": "84eb3e05",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.17#p1-84eb3e05",
+     "text": "தாவீதைக் குறிக்கிறது.",
+     "anchor": "நண்பன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.21",
+   "source_hash": "8aea301e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.21#p1-8aea301e",
+     "text": "ராஜ்யத்தில் மாறுதல் ஏற்படுமென்றும், அதனால் தன்னுடைய அழிவும் நிகழுமென்றும் சந்தேகித்து, தன் தகப்பனுடைய ஒப்புரவாக்குதலுக்கு மிகவும் தடையாயிருக்கும்படியான ஆலோசனையை அவன் கொடுக்கிறான்: மேலும் அப்சலோம் மிக உயர்ந்த அதிகாரத்தில் இருக்கிறான் என்பதையும் மக்களுக்குத் தெரியப்படுத்துகிறான்.",
+     "anchor": "அகித்தோப்பேல் அப்சலோமை நோக்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.16.23",
+   "source_hash": "299a0586",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.16.23#p1-299a0586",
+     "text": "அது அதனுடைய பலிதத்தால் அப்படி மதிக்கப்பட்டது.",
+     "anchor": "தேவனுடைய வாக்கைப்போல இருந்தது"
+    }
+   ]
+  }
+ ]
+}

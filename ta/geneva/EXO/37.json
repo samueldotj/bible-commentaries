@@ -1,0 +1,59 @@
+{
+ "source": "geneva",
+ "book": "EXO",
+ "chapter": 37,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/EXO.37.2",
+   "source_hash": "fa4af082",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.2#p1-fa4af082",
+     "text": "கொத்தளங்களைப் போன்று.",
+     "anchor": "சுற்றிலும் அதற்குப் பொன் விளிம்பை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.37.8",
+   "source_hash": "4ec15c4a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.8#p1-4ec15c4a",
+     "text": "கிருபாசனம் செய்யப்பட்ட அதே பொருளால்.",
+     "anchor": "அதனோடு ஒரே வேலைப்பாடாகவே செய்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/EXO.37.24",
+   "source_hash": "c1238e32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/EXO.37.24#p1-c1238e32",
+     "text": "யாத்திராகமம் 25:39-ஐப் பார்க்கவும்.",
+     "anchor": "தாலந்து சுத்தப்பொன்னினால் செய்தான்"
+    }
+   ]
+  }
+ ]
+}

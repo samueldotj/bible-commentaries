@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.12.1",
+   "source_hash": "efc4abed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.1#p1-efc4abed",
+     "text": "சத்தியத்தைப் பாதுகாக்கவும், ஒடுக்கப்பட்டவர்களுக்கு இரக்கம் காண்பிக்கவும் துணிகிறவன்.",
+     "anchor": "பக்தியுள்ளவன் அழிந்துபோகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.12.2",
+   "source_hash": "70970eec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.2#p1-70970eec",
+     "text": "அரசவையின் வஞ்சகர்களைக் குறிக்கிறார்; அவர்கள் தங்கள் ஆயுதங்களைவிட தங்கள் நாவுகளால் அவரைக் அதிகமாக காயப்படுத்தினார்கள்.",
+     "anchor": "கவர்ச்சியான உதடுகளால் இருமனதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.12.4",
+   "source_hash": "03d67c08",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.4#p1-03d67c08",
+     "text": "அவர்கள் தாங்கள் கையிலெடுக்கும் எதையும் சாதிக்க வல்லவர்கள் என்று நினைக்கிறார்கள்.",
+     "anchor": "எங்களுடைய நாவுகளால் மேற்கொள்ளுவோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.12.5",
+   "source_hash": "7abd4997",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.5#p1-817ec9bb",
+     "text": "கர்த்தர் தமது சொந்தமான ஜனங்களின் புலம்பல்களால் இரக்கம்கொள்கிறார், இறுதியில் எல்லா ஆபத்திலிருந்தும் விடுவிக்கிறார்.",
+     "anchor": "ஏழைகள் பாழாக்கப்பட்டதினிமித்தமும்"
+    },
+    {
+     "id": "geneva/PSA.12.5#p2-4128b9e3",
+     "text": "கர்த்தருடைய வாக்குத்தத்தம் மெய்யானதாகவும் மாறாததாகவும் இருப்பதால், அவர் அதை நிறைவேற்றி, இந்தத் துன்மார்க்கமான சந்ததியிலிருந்து ஏழையைப் பாதுகாப்பார்.",
+     "anchor": "அவன் ஏங்குகிற பாதுகாப்பிலே அவனை வைப்பேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.12.7",
+   "source_hash": "98c756ea",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.7#p1-98c756ea",
+     "text": "அதாவது, தாவீது ஒருவனாகவே இருந்தபோதிலும், யெகோவா அவனையும் அவனைப் போன்றவர்களையும் காக்கிறார் என்பதாம்.",
+     "anchor": "எங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.12.8",
+   "source_hash": "25d99857",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.12.8#p1-25d99857",
+     "text": "ஏனெனில் அவர்கள் தேவபக்தியுள்ளவர்களை அடக்குகிறார்கள், துன்மார்க்கரையோ போஷிக்கிறார்கள்.",
+     "anchor": "தீயவர்கள் உயர்ந்திருக்கும்போது"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,522 @@
+{
+ "source": "geneva",
+ "book": "HEB",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/HEB.11.1",
+   "source_hash": "62b74c33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.1#p1-62b74c33",
+     "text": "விசுவாசத்தைப் பற்றிய ஒரு சிறந்த வர்ணனை, அதன் பலன்களினால்; ஏனெனில் அது இன்னும் எதிர்பார்ப்பில் இருக்கிற காரியங்களை பிரதிபலிக்கிறது, மற்றும் காணப்படாதவைகளை நம்முடைய கண்களுக்கு முன்பாக இருப்பது போல வைக்கிறது.",
+     "anchor": "விசுவாசமானது நம்பப்படுகிறவைகளின் உறுதியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.2",
+   "source_hash": "2bd5b3e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.2#p1-ebee029e",
+     "text": "விசுவாசம் என்னும் இந்த குணத்தினாலே முன்னோர்கள் மதிக்கப்படவேண்டும் என்று அவர் காண்பிக்கிறார்.",
+     "anchor": "அதினாலே"
+    },
+    {
+     "id": "geneva/HEB.11.2#p2-6ab08450",
+     "text": "அதாவது, நாம் யாரிடத்தில் இருந்து வந்தோமோ அந்த முன்னோர்கள்; அவர்களுடைய அதிகாரமும் மாதிரியும் நம்மை மிகவும் ஏவவேண்டியவைகளாம்.",
+     "anchor": "முன்னோர்கள் நற்சாட்சி பெற்றார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.3",
+   "source_hash": "5beb879e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.3#p1-c7f694f4",
+     "text": "உலகத்தோற்றத்தின் ஆரம்பமுதல் சபையில் மேன்மைபெற்றவர்களின் மிகவும் கவனத்திற்குரிய திருஷ்டாந்தங்களை நமக்கு முன் வைத்து, விசுவாசத்தின் இயல்பை அவர் காண்பிக்கிறார்.",
+     "anchor": "விசுவாசத்தினாலே நாம்"
+    },
+    {
+     "id": "geneva/HEB.11.3#p2-d861144c",
+     "text": "அதாவது, நாம் காண்கிற இந்த உலகம், முன்பு தோன்றியிருந்த அல்லது இருந்த எந்தப் பொருளிலிருந்தும் உண்டாக்கப்படவில்லை, மாறாக ஒன்றுமில்லாமையிலிருந்து உண்டாக்கப்பட்டது.",
+     "anchor": "காணப்படுகிறவைகள் உண்டாகவில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.4",
+   "source_hash": "5b45b53d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.4#p1-5b45b53d",
+     "text": "ஆபேல்.",
+     "anchor": "விசுவாசத்தினாலே ஆபேல் ... தேவனுக்குச் செலுத்தினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.5",
+   "source_hash": "4ff170c6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.5#p1-fa2fd251",
+     "text": "ஏனோக்கு.",
+     "anchor": "விசுவாசத்தினாலே ஏனோக்கு மரணமடையாமல் எடுத்துக்கொள்ளப்பட்டான்"
+    },
+    {
+     "id": "geneva/HEB.11.5#p2-523639e0",
+     "text": "அவன் மரணமடையாதபடிக்கு.",
+     "anchor": "மரணமடையாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.6",
+   "source_hash": "0c1283c5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.6#p1-0c1283c5",
+     "text": "இந்தப் பலன் நமது தகுதிகளின்படி அல்ல, மாறாக இலவசமான வாக்குத்தத்தத்தின்படியே அளிக்கப்படுகிறது; உண்மையுள்ளோர் அனைவருக்கும் தந்தையான ஆபிரகாமின் காரியத்தில் பவுல் ரோமர் 4:4-இல் இதைப் போதிக்கிறார்.",
+     "anchor": "தம்மைத் தேடுகிறவர்களுக்குப் பலன் கொடுக்கிறவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.7",
+   "source_hash": "701c0dd8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.7#p1-701c0dd8",
+     "text": "நோவா.",
+     "anchor": "விசுவாசத்தினாலே நோவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.8",
+   "source_hash": "50285d5b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.8#p1-50285d5b",
+     "text": "ஆபிரகாமும் சாராளும்.",
+     "anchor": "விசுவாசத்தினாலே ஆபிரகாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.10",
+   "source_hash": "cb56afde",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.10#p1-cb56afde",
+     "text": "இந்த அஸ்திபாரமானது அவர்களுடைய ஆசரிப்புக்கூடாரத்திற்கு எதிராக வேறுபடுத்தப்பட்டுள்ளது.",
+     "anchor": "அஸ்திபாரங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.12",
+   "source_hash": "d22cac92",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.12#p1-d22cac92",
+     "text": "பிள்ளைகளைப் பெறுவதற்கு ஏற்கனவே செத்துப்போனவனைப் போல வாய்ப்பில்லாதவன்.",
+     "anchor": "செத்தவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.13",
+   "source_hash": "6ea92d77",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.13#p1-af5cd6bd",
+     "text": "விசுவாசத்தோடு, அது அவர்கள் உயிரோடிருந்தபோது அவர்களுக்கு இருந்து, அவர்களுடைய கல்லறைவரைக்கும் அவர்களைப் பின்பற்றிச் சென்றது.",
+     "anchor": "விசுவாசத்தோடு"
+    },
+    {
+     "id": "geneva/HEB.11.13#p2-cd1379eb",
+     "text": "இது வாக்குத்தத்தம்பண்ணப்பட்ட காரியங்களுக்குப் பதிலாக மெட்டோனிமி என்னும் அணிவகையாகும்.",
+     "anchor": "வாக்குத்தத்தம்பண்ணப்பட்டவைகளை"
+    },
+    {
+     "id": "geneva/HEB.11.13#p3-3ccf0906",
+     "text": "ஏனெனில் கோத்திரத்தலைவர்கள் வாக்குத்தத்தத்தைப் பெற்றபோது, ஒரு பலிபீடத்தைக் கட்டி, கர்த்தருடைய நாமத்தை அழைப்பதின்மூலம் தங்கள் மார்க்கத்தை அறிக்கையிடும்படி நடந்துகொண்டார்கள்.",
+     "anchor": "அணைத்துக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.17",
+   "source_hash": "b883d255",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.17#p1-4f409713",
+     "text": "கர்த்தரால் சோதிக்கப்பட்டான்.",
+     "anchor": "சோதிக்கப்பட்டபோது"
+    },
+    {
+     "id": "geneva/HEB.11.17#p2-e7ea952d",
+     "text": "அந்த ஒரேபேறான குமாரனாகிய ஈசாக்கின்மேல் ஜீவனுடைய வாக்குத்தத்தங்கள் அருளப்பட்டிருந்தும், அவனை மரிக்கும்படி ஒப்புக்கொடுத்தான்; இவ்விதமாக நம்பிக்கைக்கு விரோதமாகவும் விசுவாசத்தினால் விசுவாசித்தான்.",
+     "anchor": "ஈசாக்கைப் பலியாக ஒப்புக்கொடுத்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.19",
+   "source_hash": "e1a84a77",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.19#p1-c8bb6da9",
+     "text": "அந்த மரணத்திலிருந்து.",
+     "anchor": "அவனை ஒப்பனையாகத் திரும்பவும் பெற்றுக்கொண்டான்"
+    },
+    {
+     "id": "geneva/HEB.11.19#p2-4e3c3d6a",
+     "text": "ஏனெனில் ஈசாக்குக்கு உண்மையான, மெய்யான மரணம் நேரவில்லை; ஆனாலும் ஒரு வகையான மரணம் இருந்தது, அதனாலே அவன் மறுபடியும் உயிரோடு எழுந்தான் என்று தோன்றியது.",
+     "anchor": "ஒப்பனையாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.20",
+   "source_hash": "369a6733",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.20#p1-369a6733",
+     "text": "ஈசாக்கு.",
+     "anchor": "விசுவாசத்தினாலே ஈசாக்கு யாக்கோபையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.21",
+   "source_hash": "46e9669a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.21#p1-46e9669a",
+     "text": "யாக்கோபு.",
+     "anchor": "விசுவாசத்தினாலே யாக்கோபு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.22",
+   "source_hash": "a6a9cb56",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.22#p1-a6a9cb56",
+     "text": "யோசேப்பு.",
+     "anchor": "விசுவாசத்தினாலே யோசேப்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.23",
+   "source_hash": "288059ed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.23#p1-288059ed",
+     "text": "மோசே.",
+     "anchor": "மோசே பிறந்தபோது அவனுடைய பெற்றோர்... விசுவாசத்தினாலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.25",
+   "source_hash": "a9991f91",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.25#p1-a9991f91",
+     "text": "தேவனுடைய கடுங்கோபத்தைத் தன்மேல் வரப்பண்ணாமல் அவன் அனுபவிக்க முடியாத சந்தோஷங்கள்.",
+     "anchor": "நிலையில்லாத பாவசந்தோஷங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.29",
+   "source_hash": "55d5aef3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.29#p1-55d5aef3",
+     "text": "செங்கடலை.",
+     "anchor": "விசுவாசத்தினாலே அவர்கள் செங்கடலை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.30",
+   "source_hash": "6e2773ad",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.30#p1-6e2773ad",
+     "text": "எரிகோ.",
+     "anchor": "விசுவாசத்தினாலே எரிகோ பட்டணத்தின் மதில்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.31",
+   "source_hash": "aeb75b1c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.31#p1-27d71938",
+     "text": "ராகாப்.",
+     "anchor": "விசுவாசத்தினாலே ராகாப்"
+    },
+    {
+     "id": "geneva/HEB.11.31#p2-2108acf4",
+     "text": "தேவனுடைய நன்மையின் குறிப்பிடத்தக்க எடுத்துக்காட்டு.",
+     "anchor": "வேசி ராகாப் கீழ்ப்படியாதவர்களோடு சேர்ந்து அழிந்துபோகாமல் இருந்தாள்"
+    },
+    {
+     "id": "geneva/HEB.11.31#p3-55ebfda7",
+     "text": "அன்பாகவும் நட்பாகவும், அதனால் அவள் அவர்களுக்குத் தீங்கு செய்யவில்லை மட்டுமன்றி, அவர்களைப் பாதுகாப்பாகவும் காத்தாள்.",
+     "anchor": "வேவுகாரர்களைச் சமாதானத்தோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.32",
+   "source_hash": "50ad0611",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.32#p1-50ad0611",
+     "text": "கிதியோன், பாராக்கும், மற்ற நியாயாதிபதிகளும் தீர்க்கதரிசிகளும்.",
+     "anchor": "பின்னும் நான் என்ன சொல்லுவேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.33",
+   "source_hash": "7fab5999",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.33#p1-7fab5999",
+     "text": "வாக்குத்தத்தங்களின் பலன்.",
+     "anchor": "வாக்குத்தத்தங்களைப் பெற்றார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.35",
+   "source_hash": "9b45e766",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.35#p1-3ff60478",
+     "text": "இங்கே அவன் சரெப்தாவின் அந்தப் பெண்ணின் கதையைக் குறிக்கிறதாகத் தோன்றுகிறது, அவளுடைய மகனை எலியா மரித்தோரிலிருந்து எழுப்பினார்; மேலும் சூனேம் பெண்ணின் கதையையும், அவளுடைய மகனை எலிசா அவளுடைய தாய்க்குத் திரும்பக் கொடுத்தார்.",
+     "anchor": "தங்களுடையவர்களை உயிரோடு எழுந்திருக்கப் பெற்றார்கள்"
+    },
+    {
+     "id": "geneva/HEB.11.35#p2-c82235bb",
+     "text": "அந்தியோகு செய்த மேன்மையான துன்புறுத்துதலை இவன் குறிக்கிறான்.",
+     "anchor": "வாதிக்கப்பட்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.37",
+   "source_hash": "b4d4ff82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.37#p1-b4d4ff82",
+     "text": "அற்பமான, முரடான உடையில், இவ்விதமாக பரிசுத்தவான்கள் தீவிர வறுமைக்குள்ளாக்கப்பட்டு, வனாந்தரத்தில் மிருகங்களைப்போல வாழும்படி நிர்பந்திக்கப்பட்டார்கள்.",
+     "anchor": "செம்மறியாட்டுத் தோல்களையும் வெள்ளாட்டுத் தோல்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.39",
+   "source_hash": "3333979a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.39#p1-1b5e6bbb",
+     "text": "காலத்தின் நிலைமையிலிருந்து எடுக்கப்பட்ட ஒரு விரிவாக்கம்: வரவிருக்கும் காரியங்களைக் குறித்த வாக்குத்தத்தங்கள் எவ்வளவு அதிகமாக மறைபொருளாய் இருந்தனவோ, அவ்வளவு அதிகமாக அவர்களுடைய விசுவாசம் ஆச்சரியப்படத்தக்கது; ஆனாலும் இறுதியில் அவை உண்மையிலேயே நமக்குக் காணப்பட்டன, அதனால் அவர்களுடைய விசுவாசமும் நம்முடையதும் ஒன்றேயாகும், அவர்களுடைய பரிசுத்தமாக்கப்படுதலும் நம்முடையதும் ஒன்றேயாகும்.",
+     "anchor": "இவர்கள் எல்லோரும்"
+    },
+    {
+     "id": "geneva/HEB.11.39#p2-0b7f55ec",
+     "text": "ஆனால் கிறிஸ்துவைத் தூரத்திலிருந்து கண்டார்கள்.",
+     "anchor": "வாக்குத்தத்தம் பண்ணப்பட்டதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HEB.11.40",
+   "source_hash": "b5892592",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HEB.11.40#p1-b5892592",
+     "text": "ஏனெனில் அவர்களுடைய இரட்சிப்பு நம்முடைய நாட்களில் வெளிப்படுத்தப்பட்ட கிறிஸ்துவைப் பொருத்திருந்தது.",
+     "anchor": "நாம் இல்லாமல்... பூரணர்களாகாதபடி"
+    }
+   ]
+  }
+ ]
+}

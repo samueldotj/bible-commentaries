@@ -1,0 +1,302 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 25,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.25.1",
+   "source_hash": "ddd73b53",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.1#p1-ddd73b53",
+     "text": "அதாவது, அவனுடைய சொந்த குடும்பத்தாரிடையே.",
+     "anchor": "ராமாவிலிருக்கிற அவனுடைய வீட்டில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.2",
+   "source_hash": "7cfe7654",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.2#p1-7cfe7654",
+     "text": "மாகோனும் கர்மேலும் யூதா கோத்திரத்திற்குரிய பட்டணங்களாக இருந்தன. கர்மேல் என்னும் மலை கலிலேயாவில் இருந்தது.",
+     "anchor": "மாகோனிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.6",
+   "source_hash": "49a46bcd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.6#p1-49a46bcd",
+     "text": "அல்லது, இரட்சிப்புக்காக.",
+     "anchor": "நீர் வாழ்க்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.8",
+   "source_hash": "b3cc953d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.8#p1-b3cc953d",
+     "text": "எங்களுக்குக் கொடுக்கத் தயாராக இருக்கிறது எதுவோ அது.",
+     "anchor": "உம்முடைய கையில் உள்ளதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.10",
+   "source_hash": "7e91b23e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.10#p1-7e91b23e",
+     "text": "இவ்வாறு பொருளாசைப்பிடித்த கயவர்கள் தேவனுடைய பிள்ளைகளின் தேவைகளுக்கு உதவி செய்வதற்குப் பதிலாக, அவர்கள் நபர்களை நிந்தித்து அவர்கள் காரியத்தை ஆக்கினைத்தீர்ப்புச் செய்தார்கள்.",
+     "anchor": "ஈசாயின் குமாரன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.15",
+   "source_hash": "edf168d2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.15#p1-edf168d2",
+     "text": "நாங்கள் பாரான் வனாந்திரத்தில் எங்கள் ஆடுகளை மேய்த்துக்கொண்டிருந்தபோது.",
+     "anchor": "எங்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.19",
+   "source_hash": "37f9dba3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.19#p1-37f9dba3",
+     "text": "அவனுடைய வளைந்த மனநிலையை அவள் அறிந்திருந்தபடியால், அவன் தன் காரியத்திற்கு உடன்படுவதற்கு மாறாக மரிப்பதற்கே விரும்புவான் என்று அறிந்திருந்தாள்.",
+     "anchor": "கணவனாகிய நாபாலுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.22",
+   "source_hash": "0c387e8e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.22#p1-0c387e8e",
+     "text": "இந்த வழக்கு மொழியினால் சிறியோர் பெரியோர் என்று அனைவரையும் அழிப்பான் என்பதைக் குறிக்கிறான்.",
+     "anchor": "சுவரில் நீர்விடும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.26",
+   "source_hash": "d3d6ee24",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.26#p1-d3d6ee24",
+     "text": "அதாவது, நீர் உம்முடைய எதிரியினால் பழிவாங்கப்படாதபடிக்கு.",
+     "anchor": "கை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.28",
+   "source_hash": "0be14ca4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.28#p1-0be14ca4",
+     "text": "அவருடைய ராஜ்ஜியத்தை அவருடைய சந்ததிக்கு உறுதிப்படுத்துவார்.",
+     "anchor": "நிலையான வீட்டை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.29",
+   "source_hash": "390e6ccc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.29#p1-87cc32d7",
+     "text": "அதாவது, சவுல்.",
+     "anchor": "ஒரு மனிதன் எழுந்தாலும்"
+    },
+    {
+     "id": "geneva/1SA.25.29#p2-c9e9b78c",
+     "text": "தேவன் உம்மை நீண்டகாலம் தமது ஊழியத்தில் காப்பாற்றி, உம்முடைய எதிரிகளை அழிப்பார்.",
+     "anchor": "யெகோவாவின் ஆதரவில் இருக்கிற ஜீவனுள்ளோருடைய கட்டிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.31",
+   "source_hash": "ece0d687",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.31#p1-ece0d687",
+     "text": "தாமே பழிவாங்காதிருந்தது, அது அவருடைய மனச்சாட்சியை வேதனைப்படுத்தியிருக்கும்.",
+     "anchor": "பழிவாங்காமலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.33",
+   "source_hash": "65fa000b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.33#p1-65fa000b",
+     "text": "1 சாமுவேல் 25:31 ஐப் பார்க்கவும்.",
+     "anchor": "என்னுடைய கையே பழிவாங்காதபடியும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.34",
+   "source_hash": "7b6f4c79",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.34#p1-7b6f4c79",
+     "text": "தான் தடுத்து நிற்கச்செய்யப்பட்டது தன்னுடைய செயலால் அல்ல, கர்த்தருடைய இரக்கத்தினால்தான் என்று அவன் அதைக் கருதுகிறான்.",
+     "anchor": "தீங்குசெய்ய எனக்கு இடங்கொடாதிருக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.36",
+   "source_hash": "52a510bb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.36#p1-52a510bb",
+     "text": "ஏனெனில் இந்த மீட்பின் மாபெரும் நன்மையைக் குறித்துச் சிந்திக்கவோ, அல்லது அதற்காக ஸ்தோத்திரம் செய்யவோ அவனுக்கு எவ்வித காரணமும் இருக்கவில்லை.",
+     "anchor": "ஒன்றையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.37",
+   "source_hash": "a541c0a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.37#p1-a541c0a4",
+     "text": "பெரிய ஆபத்தினிமித்தம் உண்டான பயத்தினால்.",
+     "anchor": "கல்லைப்போலானான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.25.39",
+   "source_hash": "8492d227",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.25.39#p1-8492d227",
+     "text": "ஏனெனில் அவளுடைய பெரிய தேவபக்தியையும், ஞானத்தையும், தாழ்மையையும் அவன் அனுபவித்திருந்தான்.",
+     "anchor": "திருமணம் செய்வற்காக அவளோடு பேச"
+    }
+   ]
+  }
+ ]
+}

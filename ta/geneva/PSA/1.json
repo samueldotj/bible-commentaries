@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 1,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.1.1",
+   "source_hash": "22963ca1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.1#p1-22963ca1",
+     "text": "ஒரு மனிதன் ஒருமுறை தீய ஆலோசனைக்கோ, அல்லது தன் சொந்த பாவசுபாவத்திற்கோ இடங்கொடுத்தபின், அவன் தன் பாவத்தில் தன்னையே மறந்துபோகத் தொடங்குகிறான்; இவ்வாறே தேவனை அற்பமாக எண்ணும் நிலைக்கு விழுகிறான், இதையே பரியாசக்காரர் உட்காரும் இடம் என்று சொல்லப்படுகிறது.",
+     "anchor": "துன்மார்க்கர்களுடைய ஆலோசனையின்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.1.2",
+   "source_hash": "1fd5561f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.2#p1-1fd5561f",
+     "text": "பரிசுத்த வேதவாக்கியங்களில்.",
+     "anchor": "வேதத்தில் தியானமாக இருக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.1.3",
+   "source_hash": "8632fd6d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.3#p1-8632fd6d",
+     "text": "தேவனுடைய பிள்ளைகள் அவருடைய கிருபையினால் இவ்வளவாக நனைந்திருக்கிறார்கள், அவர்களுக்கு நேரிடுவது எதுவானாலும், அது அவர்களுடைய இரட்சிப்புக்கே உதவும்.",
+     "anchor": "அவன் செய்வதெல்லாம் வாய்க்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.1.4",
+   "source_hash": "34c85f77",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.4#p1-34c85f77",
+     "text": "துன்மார்க்கர்கள் இந்த உலகத்தில் வாழ்வடைவதாகத் தோன்றினாலும், கர்த்தர் அவர்களை அடித்துத் தள்ளுகிறார், அதனால் அவர்கள் நீதிமான்களுடைய கூட்டத்தில் எழவும் நிற்கவும் மாட்டார்கள்.",
+     "anchor": "துன்மார்க்கர்களோ அப்படியில்லாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.1.5",
+   "source_hash": "b26af3f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.5#p1-b26af3f6",
+     "text": "தேவனுடைய கடுங்கோபத்தைக் காணும்போது நடுங்குவார்கள்.",
+     "anchor": "நியாயத்தீர்ப்பிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.1.6",
+   "source_hash": "221a7208",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.1.6#p1-221a7208",
+     "text": "அறியாதிருப்பது கண்டிப்பதும் புறக்கணிப்பதுமாக இருப்பதுபோல, அறிந்திருப்பது ஏற்றுக்கொண்டு வாழ்வடையச் செய்வதைக் குறிக்கும்.",
+     "anchor": "நீதிமான்களின் வழியை அறிந்திருக்கிறார்"
+    }
+   ]
+  }
+ ]
+}

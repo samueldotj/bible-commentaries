@@ -1,0 +1,266 @@
+{
+ "source": "geneva",
+ "book": "ACT",
+ "chapter": 12,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ACT.12.1",
+   "source_hash": "0318e057",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.1#p1-0bc1ebd7",
+     "text": "தேவன் தமது சபைக்குக் குறுகிய காலத்திற்கே சமாதானத்தைக் கொடுக்கிறார்.",
+     "anchor": "அக்காலத்திலே"
+    },
+    {
+     "id": "geneva/ACT.12.1#p2-d2bb9104",
+     "text": "ஏரோது என்ற இந்தப் பெயர், மக்னஸ் என்று மறுபெயர் பெற்ற ஏரோது அஸ்கலோனீத்தனின் வம்சாவளியில் வந்த யாவருக்கும் பொதுவான பெயராக இருந்தது; ஆனால் இங்கே குறிப்பிடப்படுகிறவன், ஏரோது பெரியவனின் பேரன், அரிஸ்தொபூலுவின் மகன், பின்பு குறிப்பிடப்படும் அகிரிப்பாவின் தகப்பனாக இருந்தான்.",
+     "anchor": "ஏரோதுராஜா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.2",
+   "source_hash": "d5dc135d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.2#p1-d5dc135d",
+     "text": "பலவந்தமாக, அவனுடைய காரணம் சிறிதும் விசாரிக்கப்படாமல்.",
+     "anchor": "யோவானுடைய சகோதரனாகிய யாக்கோபைப் பட்டயத்தினாலே கொலைசெய்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.3",
+   "source_hash": "3c0d3c36",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.3#p1-3c0d3c36",
+     "text": "துன்மார்க்கருடைய தயவைப் பெறுவதற்காக பக்தியுள்ளவர்களுடைய இரத்தத்தைச் சிந்துவது கொடுங்கோலர்களுடைய பழைய வழக்கமாக இருக்கிறது.",
+     "anchor": "அது... பிரியமாக இருக்கிறதென்று அவன் அறிந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.4",
+   "source_hash": "08af4311",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.4#p1-08af4311",
+     "text": "கொடுங்கோலரும் துன்மார்க்கரும் தங்களுடைய சொந்த விருப்பத்தையும் எண்ணத்தையும் அதிகமாக நிறைவேற்றும் நேரத்திலேயே தங்களுக்குத் தாங்களே தூக்குமரத்தைச் செய்துகொள்கிறார்கள்.",
+     "anchor": "அவனைப் பிடித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.5",
+   "source_hash": "435f5296",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.5#p1-435f5296",
+     "text": "தேவபக்தியுள்ளவர்களின் ஜெபம் கொடுங்கோலரின் ஆலோசனையைத் தள்ளுப்படுத்தி, தேவனிடத்திலிருந்து தூதனைப் பெற்றுத்தந்து, சிறைச்சாலையை உடைத்து, சங்கிலிகளைத் தளர்த்தி, சாத்தானை ஓட்டி, சபையைக் காக்கின்றது.",
+     "anchor": "பேதுரு சிறைச்சாலையிலே காவலில் இருக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.7",
+   "source_hash": "652357a7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.7#p1-652357a7",
+     "text": "மூல வார்த்தையின்படி, \"குடியிருப்பு\"; (பதிப்பாசிரியர்).",
+     "anchor": "அறையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.12",
+   "source_hash": "c0ebbfb8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.12#p1-c0ebbfb8",
+     "text": "பகற்காலத்தில் கூடிவர இயலாதபோது, ஆண்களும் பெண்களும் இராக்காலங்களில் பரிசுத்த கூட்டங்களாகக் கூடுவது அப்போஸ்தலர்களுடைய முன்மாதிரியினால் அனுமதிக்கப்பட்டதாகும்.",
+     "anchor": "அவன் இப்படி புரிந்துகொண்டபின்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.13",
+   "source_hash": "90bbb9bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.13#p1-5f0b9642",
+     "text": "நாம் நம்பத் துணியாத அளவுக்கு அதிகமாக நாம் தேவனிடத்தில் பெறுகிறோம்.",
+     "anchor": "பேதுரு வாசற்கதவைத் தட்டினபோது"
+    },
+    {
+     "id": "geneva/ACT.12.13#p2-b1c25a83",
+     "text": "அவர்கள் கூடியிருந்த இடத்திலிருந்து வெளியே, ஆனால் வீட்டிலிருந்து வெளியே அல்ல.",
+     "anchor": "யாரென்று கேட்க வந்தாள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.17",
+   "source_hash": "8f7b330e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.17#p1-8f7b330e",
+     "text": "துன்மார்க்கருடைய கோபத்திற்கு நாம் சிலவேளைகளில் இடம்கொடுக்கலாம், ஆனாலும் தேவனுடைய காரியத்தில் நாம் காட்டவேண்டிய ஜாக்கிரதை சிறிதும் தளர்ந்துபோகாத விதத்தில் மாத்திரமே அப்படிச் செய்யவேண்டும்.",
+     "anchor": "அவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.18",
+   "source_hash": "8bd77254",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.18#p1-8bd77254",
+     "text": "தீய ஆலோசனை முடிவில் அதைச் செய்தவர்களுக்கே தீங்கு விளைவிக்கும்.",
+     "anchor": "பொழுதுவிடிந்தபின்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.20",
+   "source_hash": "3c48243c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.20#p1-3c48243c",
+     "text": "சபையின் எதிரிகளுக்கு நேரிடுவதற்கு ஒரு பரிதாபமான, இழிவான உதாரணம்.",
+     "anchor": "ஏரோது தீரியர்மேலும் சீதோனியர்மேலும் மிகவும் கோபமாக இருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.22",
+   "source_hash": "0cca512b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.22#p1-0cca512b",
+     "text": "மக்களின் ஸ்தோத்திரமான புகழ்ச்சி மூடர்களை மகிழ்விக்கும்.",
+     "anchor": "அனைவரும்... ஆர்ப்பரித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.23",
+   "source_hash": "9481f2ba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.23#p1-06f8e35d",
+     "text": "தேவன் பெருமையுள்ளவர்களுக்கு எதிர்த்து நிற்கிறார்.",
+     "anchor": "உடனே கர்த்தருடைய தூதன்"
+    },
+    {
+     "id": "geneva/ACT.12.23#p2-711dbb6b",
+     "text": "இந்த ராஜா தன்னைப் புகழ்ந்த நாத்தழும்பர்களின் நாவுகளை அடக்காமல் விட்டான் என்று யோசேப்பு பதிவு செய்கிறார்; ஆகவே அவன் மரிக்கும்போது அவர்களுடைய வெறும் புகழ்ச்சியைக் குறித்து அங்கலாய்த்து கூப்பிட்டான்.",
+     "anchor": "தேவனுக்கு மகிமையைச் செலுத்தாதபடியினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ACT.12.24",
+   "source_hash": "f6326cf5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ACT.12.24#p1-4dda6dfc",
+     "text": "கொடுங்கோலர்கள் சபையை அழிப்பதன் மூலமே அதைக் கட்டி எழுப்புகிறார்கள்.",
+     "anchor": "தேவவசனம் வளர்ந்து பெருகியது"
+    },
+    {
+     "id": "geneva/ACT.12.24#p2-ef5723bd",
+     "text": "தேவனுடைய வசனத்தைக் கேட்டவர்கள்.",
+     "anchor": "தேவவசனம் வளர்ந்து பெருகியது"
+    }
+   ]
+  }
+ ]
+}

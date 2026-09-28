@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 19,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.19.3",
+   "source_hash": "8591159c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.3#p1-a5168bb4",
+     "text": "திறந்த, தயாராயிருக்கிற வழியை உண்டாக்குவாய்.",
+     "anchor": "வழியை உண்டாக்குவாய்"
+    },
+    {
+     "id": "geneva/DEU.19.3#p2-8e5530dc",
+     "text": "தன் மனதிற்கு விரோதமாய்க் கொலைசெய்தவன், தன் இருதயத்தில் பகைமை வைத்திராதவன்.",
+     "anchor": "கொலைசெய்தவன் எவனும் அங்கே ஓடிப்போகும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.5",
+   "source_hash": "4c0a736b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.5#p1-4c0a736b",
+     "text": "கொலைக்குப்பதிலாக கொலை செய்யப்படாதிருக்கும்படி.",
+     "anchor": "அவைகளில் ஒன்றிற்கு ஓடிப்போவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.8",
+   "source_hash": "8a49e134",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.8#p1-8a49e134",
+     "text": "நீ கானான் தேசம் முழுவதையும் சொந்தமாக்கிக்கொள்ளும்படி யோர்தானைக் கடந்து செல்லும்போது.",
+     "anchor": "உன் எல்லையை விரிவாக்கும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.10",
+   "source_hash": "0c2feb81",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.10#p1-0c2feb81",
+     "text": "நீ குற்றமில்லாத இரத்தத்தினிமித்தம் தண்டிக்கப்படாதபடிக்கு.",
+     "anchor": "இரத்தப்பழி சுமராதபடி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.12",
+   "source_hash": "d9035225",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.12#p1-d9035225",
+     "text": "அதிகாரிகள்.",
+     "anchor": "அந்தப் பட்டணத்தின் மூப்பர்கள் ஆள் அனுப்பி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.13",
+   "source_hash": "1ee59606",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.13#p1-1ee59606",
+     "text": "கொலையை மன்னிக்கிற எவனும் தேவனுடைய வசனத்திற்கு விரோதமாக நடக்கிறான்.",
+     "anchor": "உன் கண் அவனுக்கு இரங்கவேண்டாம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.19.17",
+   "source_hash": "d0ac0ee5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.19.17#p1-d0ac0ee5",
+     "text": "தேவனுடைய உண்மையான ஊழியர்கள் கூடியிருக்கும் இடத்தில் அவருடைய சமூகம் இருக்கிறது.",
+     "anchor": "யெகோவாவுடைய"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.5.3",
+   "source_hash": "bbb83a5f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.3#p1-bbb83a5f",
+     "text": "சிலர் இதை, தேவன் இந்த உடன்படிக்கையை செய்யவில்லை என்று வாசிக்கிறார்கள், அதாவது, இப்படிப்பட்ட விரிவான வடிவத்திலும், இத்தகைய அடையாளங்களோடும், அற்புதங்களோடும் அல்ல.",
+     "anchor": "உடன்படிக்கையை...முற்பிதாக்களுடன் செய்யாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.4",
+   "source_hash": "022aa0e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.4#p1-022aa0e1",
+     "text": "நீங்கள் அதைச் சந்தேகிக்க வேண்டியதில்லாத அளவிற்குத் தெளிவாக.",
+     "anchor": "முகமுகமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.7",
+   "source_hash": "d807818d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.7#p1-d807818d",
+     "text": "தேவன் நம்மை அந்நிய பக்தியும் விக்கிரக ஆராதனையும் இல்லாமல் அவரை மாத்திரம் ஆராதிக்கும்படி கட்டுப்படுத்துகிறார்.",
+     "anchor": "வேறு தெய்வங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.9",
+   "source_hash": "b032cb7e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.9#p1-b032cb7e",
+     "text": "அதாவது, தம்முடைய கனத்தைப் பற்றி, அதை மற்றவர்களுக்குக் கொடுக்க அனுமதிக்காதவர்.",
+     "anchor": "எரிச்சலுள்ள தேவனாயிருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.10",
+   "source_hash": "9768c4cf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.10#p1-9768c4cf",
+     "text": "கற்பனைகளைக் கைக்கொள்வதற்கு முதலாம் நிலை, தேவனிடத்தில் அன்புசெலுத்துவதே.",
+     "anchor": "என்னிடத்தில் அன்புசெலுத்தி, என் கற்பனைகளைக் கைக்கொள்ளுகிறவர்களுக்கோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.13",
+   "source_hash": "eb185a5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.13#p1-eb185a5d",
+     "text": "பொருள்: தேவன் நமது வேலைகளுக்காக ஆறு நாட்களை அனுமதித்திருப்பதால், ஏழாம் நாளை அவரை முழுவதுமாகச் சேவிக்க நாம் மனப்பூர்வமாக ஒப்புக்கொடுக்க வேண்டும்.",
+     "anchor": "நீ வேலைசெய்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.16",
+   "source_hash": "bfde90a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.16#p1-bfde90a4",
+     "text": "வெளிவேஷத்திற்காக அல்ல, மாறாக உண்மையான கீழ்ப்படிதலோடும், தகுந்த மதிப்போடும்.",
+     "anchor": "உன் தகப்பனையும், தாயையும் மதிப்புடன் நடத்துவாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.21",
+   "source_hash": "160c3506",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.21#p1-160c3506",
+     "text": "அவர் தீர்மானமான விருப்பத்தைப் பற்றி மட்டும் பேசவில்லை, மாறாக அத்தகைய ஒரு எண்ணமோ ஆசையோ கூட எழக்கூடாது என்பதைக் குறிக்கிறார்.",
+     "anchor": "மற்றவனுடைய மனைவியை இச்சியாதிருப்பாயாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.22",
+   "source_hash": "51043137",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.22#p1-51043137",
+     "text": "தமது வார்த்தையிலே திருப்தியாயிருந்து, அதனோடு எதையும் கூட்டாமல் இருக்கும்படி தம்முடைய முன்மாதிரியினால் நமக்குக் கற்பிக்கிறார்.",
+     "anchor": "அவைகளோடு ஒன்றும் கூட்டாமல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.29",
+   "source_hash": "6b0f3870",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.29#p1-6b0f3870",
+     "text": "அவர் நம்மிடத்தில் கீழ்ப்படிதலைத் தவிர வேறொன்றையும் கேட்கிறதில்லை, நாமே அதற்குத் தடையாக இருக்கிறோம் என்பதையும் இதனால் காண்பிக்கிறார்.",
+     "anchor": "அவர்களுக்கு இருந்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.32",
+   "source_hash": "40f9e085",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.32#p1-40f9e085",
+     "text": "நீங்கள் ஒன்றும் கூட்டவும் வேண்டாம், ஒன்றும் குறைக்கவும் வேண்டாம், உபாகமம் 4:2.",
+     "anchor": "வலதுபுறமும் இடதுபுறமும் சாயாதிருப்பீர்களாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.5.33",
+   "source_hash": "54424f35",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.5.33#p1-54424f35",
+     "text": "தேவன், நமது கீழ்ப்படிதலின் மூலமாகவே எல்லா நன்மையையும் நமக்குக் கொடுக்கிறார்; அவ்வாறே தேவனுக்குக் கீழ்ப்படியாமற்போவதினால் நமது எல்லா துன்பங்களும் உண்டாகின்றன.",
+     "anchor": "பிழைத்து சுகமாக நீண்டநாட்கள் வாழ"
+    }
+   ]
+  }
+ ]
+}

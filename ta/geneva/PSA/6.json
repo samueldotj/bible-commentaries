@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 6,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.6.1",
+   "source_hash": "78a2f45b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.1#p1-78a2f45b",
+     "text": "நான் அழிவுக்கு ஏற்றவனாக இருந்தாலும், உம்முடைய இரக்கம் என் பலவீனத்தின்மேல் மனதுருகுவதாக இருக்கட்டும்.",
+     "anchor": "உம்முடைய கோபத்திலே என்னைக் கடிந்துகொள்ளாமல் இரும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.2",
+   "source_hash": "1ad648af",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.2#p1-1ad648af",
+     "text": "என்னுடைய முழு பெலனும் குறைந்துபோனதினால்.",
+     "anchor": "என்னுடைய எலும்புகள் நடுங்குகின்றன"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.3",
+   "source_hash": "56920b88",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.3#p1-56920b88",
+     "text": "அவனுடைய மனச்சாட்சியும் தேவனுடைய நியாயத்தீர்ப்பின் பயத்தினால் தொடப்பட்டிருக்கிறது.",
+     "anchor": "என்னுடைய ஆத்துமா மிகவும் வியாகுலப்படுகிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.5",
+   "source_hash": "4c9ce0ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.5#p1-4c9ce0ef",
+     "text": "தேவனை சபையில் துதிக்கும் வாய்ப்பு தமக்கு இல்லாமல் போய்விடும் என்று அவர் புலம்புகிறார்.",
+     "anchor": "மரணத்தில் உம்மை யாரும் நினைவுகூர்வதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.8",
+   "source_hash": "330f3e37",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.8#p1-330f3e37",
+     "text": "தேவன் உபத்திரவத்திலிருந்து ஆறுதலையும் தைரியத்தையும் அருளுகிறார், அதனால் நாம் நம்முடைய பகைவர்களின்மேல் மேற்கொள்ளலாம்.",
+     "anchor": "என்னைவிட்டு அகன்றுபோங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.6.10",
+   "source_hash": "eb5d3c28",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.6.10#p1-eb5d3c28",
+     "text": "துன்மார்க்கர் தேவபக்தியுள்ளவர்கள் அழிந்துபோவார்கள் என்று நினைக்கும்போது, தேவன் அவர்களை உடனே விடுவித்து, அவர்களுடைய எதிரிகளை அழிக்கிறார்.",
+     "anchor": "உடனே"
+    }
+   ]
+  }
+ ]
+}

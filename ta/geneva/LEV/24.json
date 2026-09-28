@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "LEV",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LEV.24.2",
+   "source_hash": "8fc2d0b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.2#p1-8fc2d0b0",
+     "text": "யாத்திராகமம் 27:20-ஐ வாசிக்கவும்.",
+     "anchor": "இஸ்ரவேல் மக்களுக்குக் கட்டளையிடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.3",
+   "source_hash": "e7e2e4f6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.3#p1-e7e2e4f6",
+     "text": "இது மகா பரிசுத்த ஸ்தலத்தை பரிசுத்த ஸ்தலத்திலிருந்து பிரித்த திரையாகும், அங்கே சாட்சிப்பெட்டி இருந்தது.",
+     "anchor": "மகா பரிசுத்த ஸ்தலத்தின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.5",
+   "source_hash": "b4271df6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.5#p1-b4271df6",
+     "text": "அதாவது, இரண்டு ஓமர் அளவு, யாத்திராகமம் 16:16 வாசிக்கவும்.",
+     "anchor": "மரக்காலிலே பத்தில் இரண்டுபங்கு மாவினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.7",
+   "source_hash": "4951d2be",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.7#p1-4951d2be",
+     "text": "ஏனெனில் அப்பம் எடுத்துவிடப்படும்போது, ஒவ்வொரு ஓய்வுநாளிலும் அது எரிக்கப்பட்டது.",
+     "anchor": "நன்றியின் அடையாளமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.10",
+   "source_hash": "15d6e13c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.10#p1-15d6e13c",
+     "text": "அதாவது, தன் கூடாரத்தை விட்டு.",
+     "anchor": "இஸ்ரவேல் மக்களோடு புறப்பட்டு வந்திருந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.11",
+   "source_hash": "5786f0e3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.11#p1-5786f0e3",
+     "text": "ஆணையிடுவதினாலோ அல்லது தேவனை அசட்டைபண்ணுவதினாலோ.",
+     "anchor": "யெகோவாவின் நாமத்தை நிந்தித்துத் தூஷித்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.15",
+   "source_hash": "4eae39e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.15#p1-4eae39e0",
+     "text": "தண்டிக்கப்படுவான்.",
+     "anchor": "தன் பாவத்தைச் சுமப்பான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LEV.24.23",
+   "source_hash": "38483264",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LEV.24.23#p1-38483264",
+     "text": "தூஷித்தவனுக்குரிய தண்டனை நியாயப்பிரமாணத்தில் இதுவரை நியமிக்கப்படாதிருந்தபடியால், மோசே கர்த்தரிடத்தில் ஆலோசனை கேட்டு, தேவன் கட்டளையிட்டதை மக்களுக்குத் தெரிவித்தான்.",
+     "anchor": "மோசே இஸ்ரவேல் மக்களிடம் சொன்னான்"
+    }
+   ]
+  }
+ ]
+}

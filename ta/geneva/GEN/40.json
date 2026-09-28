@@ -1,0 +1,144 @@
+{
+ "source": "geneva",
+ "book": "GEN",
+ "chapter": 40,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/GEN.40.3",
+   "source_hash": "0fa134b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.3#p1-0fa134b3",
+     "text": "தேவன் தம்முடையவர்களை விடுவிப்பதற்கு அநேக ஆச்சரியமான வழிகளில் செயல்படுகிறார்.",
+     "anchor": "யோசேப்பு வைக்கப்பட்டிருந்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.5",
+   "source_hash": "99580112",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.5#p1-99580112",
+     "text": "அதாவது, ஒவ்வொரு கனவுக்கும் அதற்குரிய அர்த்தம் இருந்தது, பின்பு அது நடந்தது போலவே.",
+     "anchor": "வெவ்வேறு அர்த்தமுள்ள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.8",
+   "source_hash": "6c715aa1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.8#p1-6c715aa1",
+     "text": "விளக்கம் சொல்லக்கூடியவர்களை தேவன் எழுப்பமாட்டாரோ.",
+     "anchor": "கனவுக்கு அர்த்தம் சொல்லுவது தேவனுக்குரியதல்லவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.12",
+   "source_hash": "c9180a03",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.12#p1-c9180a03",
+     "text": "அவனுடைய விபரிப்பு உண்மையானது என்று அவன் பரிசுத்த ஆவியானவராலே உறுதிப்படுத்தப்பட்டான்.",
+     "anchor": "மூன்று நாட்களாம்."
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.14",
+   "source_hash": "e6b386f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.14#p1-e6b386f0",
+     "text": "தேவன் ஏற்படுத்தினார் என்று அவன் நினைத்த விடுதலையின் வழியை அவன் மறுக்கவில்லை.",
+     "anchor": "என் காரியத்தைப் பார்வோனுக்குத் தெரிவித்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.16",
+   "source_hash": "314307a0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.16#p1-314307a0",
+     "text": "அதாவது, வெண்மையான கம்புகளால் செய்யப்பட்டவை; அல்லது சிலர் வாசிக்கிறபடி, துவாரங்கள் நிறைந்த கூடைகள்.",
+     "anchor": "மூன்று வெள்ளைக் கூடைகள் என் தலையின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.18",
+   "source_hash": "b33d66ef",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.18#p1-b33d66ef",
+     "text": "தேவன் தமக்கு வெளிப்படுத்துகிறதை தேவனுடைய ஊழியக்காரர் மறைத்து வைக்கக்கூடாது என்பதை அவன் காண்பிக்கிறான்.",
+     "anchor": "இதற்கு அர்த்தம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/GEN.40.20",
+   "source_hash": "570fb32a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/GEN.40.20#p1-570fb32a",
+     "text": "இது தன் உத்தியோகஸ்தரை நியமிக்கவும், சிறையில் இருந்தவர்களை பரிசோதிக்கவும் ஒரு சந்தர்ப்பமாக இருந்தது.",
+     "anchor": "பிறந்த நாள்"
+    }
+   ]
+  }
+ ]
+}

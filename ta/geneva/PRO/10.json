@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "PRO",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PRO.10.2",
+   "source_hash": "eac22632",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.2#p1-eac22632",
+     "text": "அதாவது, அநியாயமாகப் பெற்றது.",
+     "anchor": "அநியாயத்தின் பொருட்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.3",
+   "source_hash": "80803334",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.3#p1-80803334",
+     "text": "அவர் நீதிமானை ஒரு காலத்திற்கு குறைவுடன் இருக்க அனுமதித்தாலும், தக்க நேரத்தில் அவனுக்கு ஆறுதலை அனுப்புவார்.",
+     "anchor": "நீதிமான்களைப் பசியினால் வருந்தவிடமாட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.6",
+   "source_hash": "d969aa78",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.6#p1-d969aa78",
+     "text": "அவர்களுடைய துன்மார்க்கம் வெளிப்படும்போது, அவர்கள் ஊமையாகி என்ன சொல்வதென்று அறியாதவர்களாயிருப்பார்கள்.",
+     "anchor": "துன்மார்க்கனுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.7",
+   "source_hash": "fde8680b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.7#p1-fde8680b",
+     "text": "தேவனாலும் மனிதராலும் அசுத்தமாகவும் வெறுக்கப்பட்டதாகவும் இருக்கும், தங்கள் பெயரை அழியாதபடி செய்யலாம் என்று நினைத்துக்கொண்டிருந்த தங்கள் சொந்த எதிர்பார்ப்புக்கு மாறாக.",
+     "anchor": "அழிந்துபோகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.10",
+   "source_hash": "0b8c14d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.10#p1-a4a89b29",
+     "text": "நல்ல முகத்தோற்றத்தைக் காட்டி, தன் இருதயத்தில் தீங்கை நினைக்கிறவன், நீதி 6:13 இல் இருப்பதுபோல.",
+     "anchor": "கண்சாடை காட்டுகிறவன் தவறு செய்கிறான்"
+    },
+    {
+     "id": "geneva/PRO.10.10#p2-bfcd481c",
+     "text": "ஏனெனில் அவனுடைய இருதயத்தின் சீர்கேடு அவனுடைய பேச்சினால் வெளிப்படுகிறது.",
+     "anchor": "அலப்புகிற மூடன் விழுவான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.13",
+   "source_hash": "44c6ec0d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.13#p1-44c6ec0d",
+     "text": "அதாவது, தேவன் அவனைத் தண்டிக்கக் கண்டுபிடிப்பார்.",
+     "anchor": "பிரம்பு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.15",
+   "source_hash": "254f55b8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.15#p1-254f55b8",
+     "text": "அதனால் அவன் தீமை செய்யத் துணிவு பெறுகிறான்; ஆனால் வறுமையோ ஏழைகளைப் பல தீமைகளிலிருந்து தடுக்கும் கடிவாளமாக இருக்கிறது.",
+     "anchor": "பாதுகாப்பான பட்டணம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.21",
+   "source_hash": "c2f6da4b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.21#p1-c2f6da4b",
+     "text": "ஏனெனில் அவர்கள் சத்தியத்தைப் பேசி, புத்திமதிகள், எச்சரிப்புகள், ஆலோசனைகளினால் அநேகரைப் பக்திவளர்ச்சிக்குள்ளாக்குகிறார்கள்.",
+     "anchor": "அநேகருக்கு உணவளிக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.22",
+   "source_hash": "76f89833",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.22#p1-76f89833",
+     "text": "இதன் பொருள் என்னவென்றால், உலகப் பொருட்கள் அனைத்தும் கவலையையும் துக்கத்தையும் கொண்டுவரும்; ஆனால் தேவனுடைய ஆசீர்வாதத்தை உணருகிறவர்களுக்கோ அப்படிப்பட்டது ஒன்றுமில்லை.",
+     "anchor": "அதனோடு அவர் வேதனையைக் கூட்டமாட்டார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.26",
+   "source_hash": "0d6704cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.26#p1-0d6704cb",
+     "text": "எந்தக் காரியத்திலும் அவனை அனுப்புகிறவனுக்கு அவன் வருத்தமும் சஞ்சலமுமாக இருக்கிறான்.",
+     "anchor": "அனுப்புகிறவர்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.27",
+   "source_hash": "f91e4ead",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.27#p1-f91e4ead",
+     "text": "அவர்களுடைய பெரிய வீழ்ச்சியினால் அவர்களுடைய செழிப்பின் காலம் குறுகியதாய் இருக்கும், அவர்கள் நீடித்து வாழ்வது போல் தோன்றினாலும்.",
+     "anchor": "குறுகிப்போகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PRO.10.30",
+   "source_hash": "19c62d58",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PRO.10.30#p1-19c62d58",
+     "text": "அவர்கள் இந்த வாழ்க்கையில் விசுவாசத்தினாலும் நம்பிக்கையினாலும் தங்களுக்குள்ள நித்தியஜீவனை அனுபவிக்கிறார்கள்.",
+     "anchor": "என்றும் அசைக்கப்படுவதில்லை"
+    }
+   ]
+  }
+ ]
+}

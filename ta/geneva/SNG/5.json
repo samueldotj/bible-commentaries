@@ -1,0 +1,149 @@
+{
+ "source": "geneva",
+ "book": "SNG",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/SNG.5.1",
+   "source_hash": "7cc3b290",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.1#p1-7cc3b290",
+     "text": "தோட்டம் என்பது கிறிஸ்துவின் ராஜ்யத்தைக் குறிக்கிறது, அங்கே அவர் தம்முடைய தெரிந்துகொள்ளப்பட்டவர்களினிமித்தம் விருந்தை ஆயத்தப்படுத்துகிறார்.",
+     "anchor": "தோட்டத்திற்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.2",
+   "source_hash": "4c71bb1d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.2#p1-520d8b37",
+     "text": "மணவாட்டி தான் இவ்வுலகக் கவலைகளால் கலங்கியிருப்பதைச் சொல்லுகிறாள், அதையே உறங்குதல் என்பது குறிக்கிறது.",
+     "anchor": "நான் உறங்கினேன்"
+    },
+    {
+     "id": "geneva/SNG.5.2#p2-6eb4f828",
+     "text": "பாவிகள்பேரில் கர்த்தருடைய நீடிய பொறுமையை விளங்கப்படுத்துகிறது.",
+     "anchor": "இரவில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.3",
+   "source_hash": "fb576581",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.3#p1-fb576581",
+     "text": "மணவாட்டி தன் நிர்வாணத்தை அறிக்கையிடுகிறாள், அவளிடத்தில் தன்னால் ஒன்றுமில்லை என்பதைக் குறிப்பிடுகிறாள்; அல்லது ஒரு முறை தான் சுத்திகரிக்கப்பட்டதைக் கண்டு, தன்னை மறுபடியும் அழுக்காக்கமாட்டேன் என்று வாக்குத்தத்தம் செய்கிறாள்.",
+     "anchor": "என் உடையைக் கழற்றிப்போட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.5",
+   "source_hash": "956be15a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.5#p1-956be15a",
+     "text": "கிறிஸ்துவால் அபிஷேகம் பெறவேண்டிய மணவாட்டி, தன் நற்கிரியைகளினாலும் அவரை அபிஷேகம் செய்ய நினைத்தால், அவரைக் கண்டடையமாட்டாள்.",
+     "anchor": "என் விரல்களிலிருந்து வாசனையுள்ள வெள்ளைப்போளமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.7",
+   "source_hash": "9acd3464",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.7#p1-9acd3464",
+     "text": "இவர்கள் தங்கள் பாரம்பரியங்களினால் மனச்சாட்சியைக் காயப்படுத்துகிற கள்ளப் போதகர்கள்.",
+     "anchor": "நகரத்தில் உலாவுகிற காவலாளர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.8",
+   "source_hash": "e2a0a53a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.8#p1-e2a0a53a",
+     "text": "நியாயப்பிரமாணமும் இரட்சிப்பும் சீயோனிலிருந்தும் எருசலேமிலிருந்தும் வரவேண்டியிருந்தபடி, அவள் தேவபக்தியுள்ளவர்களிடத்தில், தன்னைக் கிறிஸ்துவினிடத்தில் நேராக வழிநடத்தும்படி கேட்கிறாள்.",
+     "anchor": "எருசலேமின் இளம்பெண்களே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.9",
+   "source_hash": "96785a07",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.9#p1-96785a07",
+     "text": "இப்படி எருசலேமின் மகளிர் சொல்கிறார்கள்.",
+     "anchor": "மற்ற நேசரைவிட உன் நேசர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/SNG.5.11",
+   "source_hash": "95455430",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/SNG.5.11#p1-95455430",
+     "text": "அவள் கிறிஸ்துவை பரிபூரண அழகும் அலங்காரமும் உடையவராக வர்ணிக்கிறாள்.",
+     "anchor": "தலை தங்கமயமாக இருக்கிறது"
+    }
+   ]
+  }
+ ]
+}

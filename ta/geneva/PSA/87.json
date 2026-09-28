@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 87,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.87.1",
+   "source_hash": "25972df6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.1#p1-25972df6",
+     "text": "தேவன் எருசலேமையும் தமது ஆலயத்தையும் நிலைப்படுத்த மலைகளின் நடுவே அந்த இடத்தைத் தெரிந்துகொண்டார்.",
+     "anchor": "அஸ்திபாரம் பரிசுத்த மலைகளில் இருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.87.3",
+   "source_hash": "d75877ca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.3#p1-d75877ca",
+     "text": "உன்னுடைய மகிமையான நிலை இன்னும் வெளிப்படாதிருந்தாலும், பொறுமையாகக் காத்திரு, தேவன் தமது வாக்குத்தத்தத்தை நிறைவேற்றுவார்.",
+     "anchor": "உன்னைக் குறித்து மகிமையான விசேஷங்கள் பேசப்படும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.87.4",
+   "source_hash": "ae3cecd3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.4#p1-0b4b38b1",
+     "text": "அதாவது, எகிப்தும் மற்ற இந்த நாடுகளும் தேவனை அறியும் அறிவுக்கு வரும்.",
+     "anchor": "என்னை அறிந்தவர்களுக்குள்ளே ராகாபையும் பாபிலோனையும்"
+    },
+    {
+     "id": "geneva/PSA.87.4#p2-4589ad5e",
+     "text": "மறுபிறப்படைந்து சபைக்கு வந்தவனைக் குறித்து, அவன் சபையில் பிறந்தவனைப் போலவே இருக்கிறான் என்று சொல்லப்படும்.",
+     "anchor": "இன்னான் அங்கே பிறந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.87.5",
+   "source_hash": "1551ff2c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.5#p1-1551ff2c",
+     "text": "எல்லாத் திசைகளிலிருந்தும் அவர்கள் சபைக்கு வந்து, அதன் குடிமக்களாக எண்ணப்படுவார்கள்.",
+     "anchor": "இன்னான் இன்னான் அதிலே பிறந்தான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.87.6",
+   "source_hash": "4ae80d39",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.6#p1-4ae80d39",
+     "text": "தேவன் தமது வசனத்தினாலே, தாம் தெரிந்துகொண்டு புத்தகத்திலே எழுதியிருந்தவர்களை சபைக்குள் அழைக்கும்போது.",
+     "anchor": "மக்களைப் பெயரெழுதும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.87.7",
+   "source_hash": "5aa44821",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.87.7#p1-5aa44821",
+     "text": "தீர்க்கதரிசி தன் எல்லா பற்றுதலையும் ஆறுதலையும் சபையிலே வைக்கிறார்.",
+     "anchor": "எங்களுடைய ஊற்றுகளெல்லாம் உன்னில் இருக்கிறது"
+    }
+   ]
+  }
+ ]
+}

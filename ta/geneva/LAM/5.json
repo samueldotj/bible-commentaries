@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "LAM",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/LAM.5.1",
+   "source_hash": "17b52424",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.1#p1-17b52424",
+     "text": "நினைக்கப்படுகிறபடி, இந்த ஜெபம் மக்களில் சிலர் சிறையிருப்புக்குக் கொண்டுபோகப்பட்டபோதும், மற்றவர்களாகிய ஏழைகள் சிலர் மீதியாகவும், சிலர் ஆறுதலடையும்படி எகிப்திற்கும் மற்ற இடங்களுக்கும் போன காலத்திலும் செய்யப்பட்டது; ஆனாலும் தீர்க்கதரிசி வரவிருக்கும் தங்கள் துன்பங்களை முன்கூட்டியே கண்டு இவ்வாறு ஜெபம்பண்ணினார் என்று தோன்றுகிறது.",
+     "anchor": "நினைத்தருளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.4",
+   "source_hash": "cca3bbf4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.4#p1-cca3bbf4",
+     "text": "இது அவர்களுடைய கடும் அடிமைத்தனத்தையும் அடக்குமுறையையும் குறிக்கிறது.",
+     "anchor": "தண்ணீரைப் பணத்திற்கு வாங்கிக்குடிக்கிறோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.6",
+   "source_hash": "aca6a2f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.6#p1-aca6a2f0",
+     "text": "நாங்கள் அவர்களுடன் உடன்படிக்கையும் நட்பும் கொண்டிருந்தோம், அல்லது நாங்கள் எங்களை அவர்களுக்கு ஒப்புக்கொடுத்தோம்.",
+     "anchor": "எகிப்தியர்களுக்கும்... எங்களை ஒப்படைத்தோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.7",
+   "source_hash": "770702a8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.7#p1-770702a8",
+     "text": "எங்கள் முற்பிதாக்கள் தங்கள் பாவங்களுக்காக தண்டிக்கப்பட்டதுபோல, அதே பாவங்களுக்குக் குற்றவாளிகளாகிய நாங்களும் தண்டிக்கப்படுகிறோம்.",
+     "anchor": "அவர்களுடைய அக்கிரமங்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.9",
+   "source_hash": "7e1033f0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.9#p1-7e1033f0",
+     "text": "வனாந்திரத்திலிருந்து வந்த சத்துருவினிமித்தம், அவன் நாங்கள் போய் எங்களுக்கு அவசியமான ஆகாரத்தைத் தேடுவதற்கு அனுமதிக்காதிருந்தான்.",
+     "anchor": "வனாந்திரத்தில் இருக்கிறவர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.12",
+   "source_hash": "f14ad2fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.12#p1-f14ad2fc",
+     "text": "அதாவது, எதிரியுடைய கையினால்.",
+     "anchor": "அவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.13",
+   "source_hash": "bc4b7978",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.13#p1-bc4b7978",
+     "text": "அவர்களுடைய அடிமைத்தனம் மிகவும் கொடுமையாக இருந்தது, அதை அவர்கள் சகித்துக்கொள்ள முடியாதிருந்தது.",
+     "anchor": "விறகு சுமந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.14",
+   "source_hash": "ad5d81f1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.14#p1-ad5d81f1",
+     "text": "இனிமேல் நியாயப்பிரமாணங்களும் அரசாங்க வழிமுறையும் இல்லாமல் போனது.",
+     "anchor": "வாசல்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.17",
+   "source_hash": "bf7b5260",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.17#p1-bf7b5260",
+     "text": "அழுகையினால்.",
+     "anchor": "கண்கள் இருண்டுபோயின"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.19",
+   "source_hash": "0a713d95",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.19#p1-0a713d95",
+     "text": "ஆகையால் உம்முடைய உடன்படிக்கையும் கிருபைகளும் ஒருபோதும் தவறிப்போகமாட்டாது.",
+     "anchor": "என்றென்றைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/LAM.5.21",
+   "source_hash": "602b865f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/LAM.5.21#p1-602b865f",
+     "text": "இதினால் மனுஷனுடைய சுயசக்தியினால் தேவனிடத்தில் திரும்புவது சாத்தியமல்ல என்றும், நம்மை மனந்திரும்பச்செய்வது அவருடைய கிரியை மாத்திரமே என்றும், நாம் அவரிடத்தில் திரும்புமுன்பே தேவன் நமக்குள் கிரியை செய்கிறார் என்றும் விளங்கப்படுத்தப்படுகிறது, எரேமியா 31:18.",
+     "anchor": "எங்களை உம்மிடத்தில் திருப்பிக்கொள்ளும்"
+    }
+   ]
+  }
+ ]
+}

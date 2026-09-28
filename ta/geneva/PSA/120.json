@@ -1,0 +1,103 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 120,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.120.1",
+   "source_hash": "a1b1e9e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.1#p1-b0c1ca29",
+     "text": "அதாவது, பாட்டின் இராகத்தை உயர்த்தி, பாடுவதில் ஏறுவதைக் குறிக்கிறது.",
+     "anchor": "a"
+    },
+    {
+     "id": "geneva/PSA.120.1#p2-fd8f5631",
+     "text": "தேவனுடைய பிள்ளைகள் நீதியினிமித்தம் பாடுபடும்போது சந்தோஷப்படவேண்டியிருந்தாலும், நன்மை செய்ததற்குப் பொல்லாப்பைக் கேட்பது சரீரத்திற்குப் பெருந்துக்கமாய் இருக்கிறது.",
+     "anchor": "என்னுடைய நெருக்கத்திலே யெகோவாவை நோக்கிக் கூப்பிட்டேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.3",
+   "source_hash": "fc353e65",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.3#p1-fc353e65",
+     "text": "அவர்களுடைய வஞ்சகத்தை தேவன் அவர்களுடைய அழிவுக்கே திருப்புவார் என்று அவன் உறுதியாய் நம்பினான்.",
+     "anchor": "வஞ்சக நாவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.4",
+   "source_hash": "e7fc9754",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.4#p1-e7fc9754",
+     "text": "அவதூறு சொல்லும் நாவைப்போல் ஊடுருவும் கூர்மையுடையதோ, தீக்கொளுத்தும் சூட்டுடையதோ வேறொன்றுமில்லை என்பதை அவர் காண்பிக்கிறார்.",
+     "anchor": "பலவானுடைய கூர்மையான அம்புகளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.5",
+   "source_hash": "95f44c33",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.5#p1-6f9f2c9f",
+     "text": "இவர்கள் யாப்பேத்திலிருந்து வந்த அரேபியாவின் மக்கள், ஆதியாகமம் 10:2.",
+     "anchor": "மேசேக்கிலே வாழ்ந்தது போதும்"
+    },
+    {
+     "id": "geneva/PSA.120.5#p2-de6e70db",
+     "text": "அதாவது, இஸ்மாயேலியரின்.",
+     "anchor": "கேதாரின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.120.7",
+   "source_hash": "31cb0a0f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.120.7#p1-31cb0a0f",
+     "text": "மேசேக்கும் கேதாரும் என்று அவர் குறிப்பிடுவது யாரை என்பதை இங்கே விளக்குகிறார்; அதாவது, தங்கள் பக்தியுள்ள முற்பிதாக்களைவிட்டு விலகிப்போன இஸ்ரவேலர்கள், உண்மையுள்ளவர்களை வெறுத்து அவர்களுக்கு எதிராக போரிட்டவர்களே.",
+     "anchor": "சமாதானத்தை"
+    }
+   ]
+  }
+ ]
+}

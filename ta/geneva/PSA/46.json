@@ -1,0 +1,148 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 46,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.46.1",
+   "source_hash": "32698b54",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.1#p1-31b8c032",
+     "text": "இது இந்தச் சங்கீதம் பாடப்பட்ட ஒரு இசைக்கருவியாகவோ, அல்லது ஒரு தீர்மானிக்கப்பட்ட இராகமாகவோ இருந்தது."
+    },
+    {
+     "id": "geneva/PSA.46.1#p2-44f98927",
+     "text": "எல்லாவிதமான ஆபத்துக்களிலும், தேவன் தம்முடையவர்களைப் பாதுகாக்கிறதில் தமது விரைவான இரக்கத்தையும் வல்லமையையும் காண்பிக்கிறார்.",
+     "anchor": "ஆபத்துக்காலத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.2",
+   "source_hash": "1bc39952",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.2#p1-1bc39952",
+     "text": "அதாவது, நாம் பயத்தினால் மேற்கொள்ளப்படுவதில்லை.",
+     "anchor": "பயம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.3",
+   "source_hash": "e219d945",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.3#p1-e219d945",
+     "text": "பாடுகள் கொந்தளித்தாலும், தேவனுடைய கிருபையின் நதிகள் அவருடையவர்களுக்குப் போதுமான ஆறுதலைத் தருகின்றன.",
+     "anchor": "கொந்தளித்துப் பொங்கி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.4",
+   "source_hash": "fb9fddbf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.4#p1-fb9fddbf",
+     "text": "சீலோவின் நதி, அது எருசலேமின் வழியாகக் கடந்துசென்றது: அதாவது, காவல் சிறியதாகத் தோன்றினாலும், தேவன் அதை நியமித்திருந்தால், அது போதுமானதாகும்.",
+     "anchor": "நதியுண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.5",
+   "source_hash": "5b6c4164",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.5#p1-5b6c4164",
+     "text": "தேவையிருக்கும் எப்பொழுதும்.",
+     "anchor": "அதிகாலையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.7",
+   "source_hash": "ff42e9d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.7#p1-ff42e9d8",
+     "text": "தேவன் தம்முடைய சபையை எல்லா ஆபத்துகளினின்றும் விரோதிகளினின்றும் காக்க வல்லவராயும் காப்பாராயும் இருக்கிறார் என்று அவர்கள் நிச்சயமாக அறிந்திருக்கிறார்கள்.",
+     "anchor": "நம்மோடிருக்கிறார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.8",
+   "source_hash": "fa4a3b80",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.8#p1-fa4a3b80",
+     "text": "அதாவது, அவர் தம்முடைய சத்துருக்களை எத்தனை முறை அழித்து, தம்முடைய மக்களை விடுவித்தார் என்பதைக் குறிக்கும்.",
+     "anchor": "அழிவுகளை நடப்பிக்கிற"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.46.10",
+   "source_hash": "de543ddf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.46.10#p1-de543ddf",
+     "text": "சபையைத் துன்பப்படுத்துகிறவர்களை அவர் தங்கள் கொடுமையை நிறுத்தும்படி எச்சரிக்கிறார்: ஏனெனில் தாங்கள் யாருக்கு எதிராகச் சண்டையிடுகிறார்களோ அந்த தேவன் தங்களைவிட மிக பலவானாக இருக்கிறார் என்பதையும் அவர்கள் உணரவேண்டியிருக்கும்.",
+     "anchor": "யுத்தம் செய்யாமலிருந்து"
+    }
+   ]
+  }
+ ]
+}

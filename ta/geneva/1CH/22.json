@@ -1,0 +1,178 @@
+{
+ "source": "geneva",
+ "book": "1CH",
+ "chapter": 22,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1CH.22.1",
+   "source_hash": "7d92d668",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.1#p1-7d92d668",
+     "text": "அதாவது, அவர் தொழுதுகொள்ளப்படும் இடம்.",
+     "anchor": "தேவனாகிய யெகோவாவுடைய ஆலயம் இருக்கும் இடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.2",
+   "source_hash": "179f1c08",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.2#p1-179f1c08",
+     "text": "அதாவது, யூதர்களுக்கு மத்தியில் குடியிருந்த மற்ற தேசங்களைச் சேர்ந்த திறமையுள்ள மனிதர்கள்.",
+     "anchor": "அந்நிய தேசத்தார்களைக்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.3",
+   "source_hash": "9726ba1f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.3#p1-9726ba1f",
+     "text": "அதாவது, ஐம்பது சேக்கல் பொன் நிறையுள்ளவை, 2 நாளாகமம் 3:9.",
+     "anchor": "ஆணிகளுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.8",
+   "source_hash": "c3ef99e2",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.8#p1-c3ef99e2",
+     "text": "தேவன் இரத்தம் சிந்துவதை எவ்வளவாக வெறுக்கிறார் என்பதை இது காண்பிக்கிறது; ஏனெனில் இந்தக் காரணத்தினாலேயே தாவீது கர்த்தருடைய ஆலயத்தைக் கட்டாதபடி தடுக்கப்பட்டார், அவர் தேவனுடைய கட்டளையின்படியேயும் தமது எதிரிகளுக்கு எதிராகவேயுமன்றி வேறு எந்த யுத்தத்தையும் தானாகச் செய்யவில்லை என்றபோதிலும்.",
+     "anchor": "நீ அதிகமான இரத்தத்தைச் சிந்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.11",
+   "source_hash": "a88d7e43",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.11#p1-a88d7e43",
+     "text": "கர்த்தர் நம்முடன் இருக்கும்போது தவிர வேறெந்த வகையிலும் பாக்கியம் உண்டாகாது என்பதை இதனால் அவர் காண்பிக்கிறார்.",
+     "anchor": "பாக்கியவானாக இருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.12",
+   "source_hash": "b5a04aae",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.12#p1-b5a04aae",
+     "text": "இவை ராஜாக்கள் தங்கள் குடிமக்களைச் சரியாக ஆளுவதற்கும், ராஜ்யங்கள் வளர்ச்சி பெற்று செழிப்பதற்கும் உள்ள வழிமுறைகள் மாத்திரமே.",
+     "anchor": "ஞானத்தையும் உணர்வையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.14",
+   "source_hash": "2a42e569",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.14#p1-2a42e569",
+     "text": "ஏனெனில் தாவீது சாலொமோனுடன் ஒப்பிடும்போது சிறுமையானவனாக இருந்தான்.",
+     "anchor": "என்னுடைய சிறுமையிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.16",
+   "source_hash": "7fa8217b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.16#p1-7fa8217b",
+     "text": "அதாவது, இதை விரைவாகச் செய்.",
+     "anchor": "நீ எழுந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.18",
+   "source_hash": "a71e4a49",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.18#p1-a71e4a49",
+     "text": "சுற்றியிருக்கும் தேசங்கள்.",
+     "anchor": "தேசத்தின் குடிகளை என்னுடைய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1CH.22.19",
+   "source_hash": "2032df07",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1CH.22.19#p1-2032df07",
+     "text": "ஏனெனில் தங்கள் இருதயம் முழுவதோடும் தேவனுடைய மகிமையை வெளிப்படுத்த மனதுவைக்காவிட்டால், தேவன் தங்களைத் தண்டிப்பார் என்றும், தங்கள் வேலையை வாழ்வடையச் செய்யமாட்டார் என்றும் அவன் அறிந்திருந்தான்.",
+     "anchor": "உங்கள் இருதயத்தையும், உங்கள் ஆத்துமாவையும்"
+    }
+   ]
+  }
+ ]
+}

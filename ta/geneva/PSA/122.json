@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 122,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.122.1",
+   "source_hash": "61fb94e8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.1#p1-61fb94e8",
+     "text": "பெட்டி இன்னும் தங்கியிருக்கும் ஒரு இடத்தை தேவன் நியமித்திருந்ததற்காக அவன் மகிழ்ச்சியடைகிறான்.",
+     "anchor": "சொன்னபோது மகிழ்ச்சியாக இருந்தேன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.2",
+   "source_hash": "d130217e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.2#p1-d130217e",
+     "text": "பெட்டி நகர்ந்து கொண்டிருந்தபோது இங்கும் அங்குமாக அலைந்து திரியும் வழக்கமுடையவைகள்.",
+     "anchor": "உன்னுடைய வாசல்களில் எங்களுடைய கால்கள் நிற்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.3",
+   "source_hash": "ff7c9b52",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.3#p1-ff7c9b52",
+     "text": "வீடுகளின் நேர்த்தியான இணைப்பையும் அழகையும்கொண்டு, குடிமக்களுக்கிடையே இருந்த சமாதானத்தையும் அன்பையும் அவர் குறிக்கிறார்.",
+     "anchor": "கச்சிதமான நகரமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.4",
+   "source_hash": "5e035421",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.4#p1-5e035421",
+     "text": "தேவனுடைய உடன்படிக்கையின்படியே எல்லாக் கோத்திரங்களும் அங்கே வந்து ஜெபம்பண்ணுவார்கள்.",
+     "anchor": "கோத்திரங்கள்... போகும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.5",
+   "source_hash": "5ce0c28f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.5#p1-5ce0c28f",
+     "text": "தேவன் இவருடைய வீட்டில் நியாயாசனத்தை வைத்து, அதைக் கிறிஸ்துவின் ராஜ்யத்தின் நிழலாட்டமாகச் செய்தார்.",
+     "anchor": "தாவீதின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.7",
+   "source_hash": "919bb22c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.7#p1-919bb22c",
+     "text": "தேவனுடைய கிருபை உங்களை உள்ளேயும் வெளியேயும் வாழச்செய்வதாக.",
+     "anchor": "மதில்களுக்குள்ளே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.122.8",
+   "source_hash": "59bac964",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.122.8#p1-59bac964",
+     "text": "என்னுடைய சொந்த காரணத்திற்காக மட்டும் அல்ல, உண்மையுள்ள அனைவருக்காகவும்.",
+     "anchor": "என்னுடைய சகோதரர்களுக்காகவும் என்னுடைய நண்பர்களுக்காகவும்"
+    }
+   ]
+  }
+ ]
+}

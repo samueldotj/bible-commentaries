@@ -1,0 +1,182 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 48,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.48.1",
+   "source_hash": "20458d1d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.1#p1-0db04d80",
+     "text": "சிலர் பாட்டுக்கும் சங்கீதத்திற்கும் இடையே இந்த வித்தியாசத்தை வைக்கிறார்கள்: இசைக்கருவி இல்லாமல் குரல் மட்டும் இருக்கும்போது அது பாட்டு என்றும், இசைக்கருவிகள் ஆரம்பித்து பின்பு குரல் தொடரும்போது அது சங்கீதத்தின் பாட்டு என்றும் சொல்கிறார்கள்."
+    },
+    {
+     "id": "geneva/PSA.48.1#p2-ca8a5817",
+     "text": "தேவன் உலகமெங்கும் தம்முடைய அற்புதங்களை காண்பிக்கிறாரெனினும், அவர் முக்கியமாகத் தமது சபையிலே துதிக்கப்படுவார்.",
+     "anchor": "நமது தேவனுடைய நகரத்திலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.2",
+   "source_hash": "33919436",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.2#p1-33919436",
+     "text": "விசுவாசிக்க மனதுள்ள அனைவருக்கும் இரட்சிப்பின் வசனம் அங்கே வந்தபடியால்.",
+     "anchor": "முழு பூமியின் மகிழ்ச்சியுமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.3",
+   "source_hash": "9d42d286",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.3#p1-9d42d286",
+     "text": "தேவனே அதற்குப் பாதுகாப்பாக இல்லாவிட்டால், அதின் இருப்பிடமும் அரண்களும் பயனளிக்கமாட்டா.",
+     "anchor": "அடைக்கலமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.4",
+   "source_hash": "48d291b3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.4#p1-48d291b3",
+     "text": "அவர்கள் சதி செய்து தேவனுடைய மக்களுக்கு எதிராகச் சென்றார்கள்.",
+     "anchor": "கூடிக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.5",
+   "source_hash": "882c5d5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.5#p1-882c5d5d",
+     "text": "நகரத்தைக் கண்டவுடனே பகைவர்கள் பயந்தார்கள்.",
+     "anchor": "அதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.7",
+   "source_hash": "ee6a5602",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.7#p1-ee6a5602",
+     "text": "அதாவது, சிலிசியாவினுடையது அல்லது மத்திய தரைக்கடலினுடையது.",
+     "anchor": "கிழக்கு காற்றினால் தர்ஷீசின் கப்பல்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.8",
+   "source_hash": "09df0e10",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.8#p1-09df0e10",
+     "text": "அதாவது, நமது முற்பிதாக்களால்: இப்படி நாமும் பரிசோதித்தறிந்தோம்: அல்லது தேவன் தமது வாக்குத்தத்தத்தை நிறைவேற்றியிருக்கிறார்.",
+     "anchor": "கேள்விப்பட்டபடியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.10",
+   "source_hash": "ef6a7956",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.10#p1-ef6a7956",
+     "text": "உமது பெயர் கேட்கப்படும் எல்லா இடங்களிலும், மனுஷர் உமது அதிசயமான செய்கைகளைக் கேட்கும்போது உம்மைத் துதிப்பார்கள்.",
+     "anchor": "பூமியின் கடைசிவரையிலும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.11",
+   "source_hash": "43f06abf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.11#p1-43f06abf",
+     "text": "எருசலேமும் யூதேயாவின் பட்டணங்களும் மகிழ்வதாக, ஏனெனில் உம்முடைய பகைவருக்கு விரோதமான உம்முடைய நீதியான நியாயத்தீர்ப்புகளினிமித்தம்.",
+     "anchor": "சீயோன் மலை மகிழ்வதாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.48.12",
+   "source_hash": "1cbf8295",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.48.12#p1-1cbf8295",
+     "text": "ஏனெனில் இந்த வெளிப்புற காவலிலும் பலத்திலும் தேவனுடைய ஆசீர்வாதங்களும் வெளிப்பட்டன, ஆயினும் முதன்மையானது தேவனுடைய கிருபையையும், தம்முடையவர்களை ஒருபோதும் விட்டுவிடாத அவருடைய மறைவான காவலையும் குறிக்கிறது.",
+     "anchor": "சீயோனைச் சுற்றி உலாவி"
+    }
+   ]
+  }
+ ]
+}

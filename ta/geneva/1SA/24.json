@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "1SA",
+ "chapter": 24,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1SA.24.1",
+   "source_hash": "baf38c68",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.1#p1-baf38c68",
+     "text": "யூதாவின் ஒரு பட்டணம், யோசுவா 15:62.",
+     "anchor": "என்கேதியின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.4",
+   "source_hash": "e31aa4cd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.4#p1-e31aa4cd",
+     "text": "தேவனுடைய வாக்குத்தத்தத்தை நிறைவேற்றும்படி நாம் எவ்வளவு சிறிய சந்தர்ப்பம் கிடைத்தாலும் அவசரப்படுவோம் என்பதை இங்கே காண்கிறோம்.",
+     "anchor": "யெகோவா உன்னோடு சொன்ன நாள் இதுவே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.5",
+   "source_hash": "43035970",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.5#p1-43035970",
+     "text": "ஏனெனில் அது தன்னுடைய தனிப்பட்ட காரியமாக இருந்தபடியால், தன் பகைவனைத் தீண்டியதைக்குறித்து அவன் மனந்திரும்பினான்.",
+     "anchor": "தொங்கலை அறுத்துக்கொண்டதினால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.9",
+   "source_hash": "162c773a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.9#p1-162c773a",
+     "text": "தாவீது சவுலின் பகைவன் என்று சொன்னவர்களின் அறிக்கைக்கு எதிராக, அவன் தான் சவுலின் நண்பன் என்பதை நிரூபிக்கிறான்.",
+     "anchor": "மனிதர்களுடைய வார்த்தைகளை ஏன் கேட்கிறீர்?"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.16",
+   "source_hash": "5e91e951",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.16#p1-5e91e951",
+     "text": "தாவீதுக்கு இவன் ஒரு கொடிய பகைவனாக இருந்தபோதிலும், தாவீதின் பெருங்கிருபையால் இவனுடைய மனச்சாட்சி இவனை இணங்கும்படி கட்டாயப்படுத்தியது.",
+     "anchor": "இது உன்னுடைய சத்தமல்லவா"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1SA.24.20",
+   "source_hash": "17850cb9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1SA.24.20#p1-17850cb9",
+     "text": "இந்தக் கொடுங்கோலன் தாவீதின்மேல் இருந்த தேவனுடைய தயவைக் கண்டு அறிக்கைசெய்தும், அவன் தன்னுடைய சொந்த மனச்சாட்சிக்கு எதிராகவே அவனைத் துன்பப்படுத்துவதை நிறுத்தவில்லை.",
+     "anchor": "நிச்சயமாக ராஜாவாக இருப்பாய் என்றும்... அறிவேன்"
+    }
+   ]
+  }
+ ]
+}

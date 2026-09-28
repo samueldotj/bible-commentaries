@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.5.1",
+   "source_hash": "c6119f15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.1#p1-c6119f15",
+     "text": "எமோரியர்கள் யோர்தானின் இருபுறங்களிலும் இருந்தார்கள்; அவர்களுடைய இரண்டு ராஜாக்கள் மோவாபின் பக்கத்திலே ஏற்கனவே கொல்லப்பட்டிருந்தார்கள்.",
+     "anchor": "எமோரியர்களின்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.2",
+   "source_hash": "c9aee2a9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.2#p1-c9aee2a9",
+     "text": "ஏனெனில் அவர்கள் அதை நிறுத்திவிட்டு இப்பொழுது 40 வருடங்களாகியிருந்தது.",
+     "anchor": "மீண்டும் இரண்டாம்முறை இஸ்ரவேலின் எல்லா ஆண்களுக்கும் விருத்தசேதனம் செய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.3",
+   "source_hash": "415db071",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.3#p1-415db071",
+     "text": "அவர்கள் அங்கே விருத்தசேதனம் செய்யப்பட்டதால் கில்கால் என்று அழைக்கப்பட்டது.",
+     "anchor": "ஆர்லோத் மேட்டிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.5",
+   "source_hash": "8f6e7cdb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.5#p1-8f6e7cdb",
+     "text": "ஏனெனில், அவர்கள் கர்த்தருடைய கட்டளையின்படி எந்நேரமும் பயணம் செய்ய ஆயத்தமாயிருந்தார்கள்; புதிதாக விருத்தசேதனம் செய்யப்பட்டவர்கள் பெரும் ஆபத்து இல்லாமல் அப்படிச் செய்ய முடியாதிருந்தது.",
+     "anchor": "விருத்தசேதனம் செய்யப்படாமலிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.8",
+   "source_hash": "c97dc17a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.8#p1-c97dc17a",
+     "text": "ஏனெனில் அவர்களுடைய காயம் மிகவும் கடுமையாக இருந்ததால், அவர்களால் நடக்கக்கூட முடியாமல் இருந்தது.",
+     "anchor": "குணமாகும்வரைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.9",
+   "source_hash": "c1ae27a8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.9#p1-c1ae27a8",
+     "text": "எகிப்தியரின் துன்மார்க்கமான எண்ணத்திற்கு மாறாக, அல்லது நீங்கள் விருத்தசேதனம் இல்லாமலிருந்ததால் எகிப்தியரைப் போலிருந்த நிலைக்கு மாறாக, உங்களை இந்த வாக்குத்தத்த தேசத்திற்குக் கொண்டுவந்ததினால்.",
+     "anchor": "எகிப்தின் நிந்தையை உங்கள்மேல் இல்லாதபடிக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.5.14",
+   "source_hash": "633f3ff7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.5.14#p1-633f3ff7",
+     "text": "யோசுவா அவரைப் பணிந்துகொண்டதினால், அவர் தேவனாக இருக்கிறார் என்பதை அவன் அறிக்கை செய்கிறான்; மேலும் அவர் தம்மைக் கர்த்தருடைய சேனையின் அதிபதி என்று சொல்லிக்கொள்கிறதினால், அவர் தாமே கிறிஸ்து என்பதை வெளிப்படுத்துகிறார்.",
+     "anchor": "பணிந்துகொண்டு"
+    }
+   ]
+  }
+ ]
+}

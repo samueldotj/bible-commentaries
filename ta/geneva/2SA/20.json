@@ -1,0 +1,222 @@
+{
+ "source": "geneva",
+ "book": "2SA",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2SA.20.1",
+   "source_hash": "bdf5a609",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.1#p1-02a72a72",
+     "text": "பத்து கோத்திரங்கள் யூதாவுக்கு விரோதமாகச் சண்டையிட்ட இடம்.",
+     "anchor": "பிரச்சினைக்குரிய மனிதன் ஒருவன்"
+    },
+    {
+     "id": "geneva/2SA.20.1#p2-137acda3",
+     "text": "யூதாவைச் சேர்ந்தவர்கள் சொல்லுகிறபடி.",
+     "anchor": "தாவீதிடம்"
+    },
+    {
+     "id": "geneva/2SA.20.1#p3-1fa68a83",
+     "text": "அரசனை இழிவாகப் பேசுவதன் மூலம் மக்களை மேலும் கலகத்திற்குத் தூண்டலாம் என்று அவன் நினைத்தான்; அல்லது இஸ்ரவேலரை விலகச் செய்வதனால், யூதாவைச் சேர்ந்தவர்கள் அவனை (தாவீதை) குறைவாக மதிப்பார்கள் என்று நினைத்தான்.",
+     "anchor": "ஈசாயின் மகனிடம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.2",
+   "source_hash": "2f79d1d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.2#p1-2f79d1d1",
+     "text": "யோர்தானுக்கு அருகிலிருந்த கில்காலிலிருந்து.",
+     "anchor": "யோர்தான் தொடங்கி எருசலேம் வரையுள்ள"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.4",
+   "source_hash": "3ba33c6b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.4#p1-3ba33c6b",
+     "text": "இவன் யோவாபுக்குப் பதிலாக அவனுடைய படைத்தலைவனாக இருந்தான், 2 சாமுவேல் 19:13.",
+     "anchor": "அமாசாவைப்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.6",
+   "source_hash": "fdc3a435",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.6#p1-fdc3a435",
+     "text": "யோவாபின் கீழிருந்தவர்கள், அல்லது தாவீதின் வீரர்கள்.",
+     "anchor": "உன் எஜமானுடைய வீரர்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.8",
+   "source_hash": "28005001",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.8#p1-28005001",
+     "text": "இது அவன் யுத்தங்களில் அணிந்துகொள்வதற்குப் பழக்கமான அவனுடைய சட்டையாகும்.",
+     "anchor": "அணிந்துகொண்டிருக்கிற தன்னுடைய சட்டையின்மேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.11",
+   "source_hash": "5231caec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.11#p1-5231caec",
+     "text": "இவன் யோவாபின் நியமனத்தினால் அமாசாவின் அருகில் நின்றான்.",
+     "anchor": "அருகில் நின்று"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.14",
+   "source_hash": "4fc90327",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.14#p1-4fc90327",
+     "text": "பெத்மாக்காவின் அருகிலிருந்த ஆபேல் என்னும் பட்டணத்திற்கு.",
+     "anchor": "பெத்மாக்காவான ஆபேல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.15",
+   "source_hash": "fac5aa5d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.15#p1-fac5aa5d",
+     "text": "அதாவது, அவன் அதை இடித்துத் தள்ள முயற்சித்தான்.",
+     "anchor": "விழச்செய்யும்படி அழிக்க"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.18",
+   "source_hash": "178eaa23",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.18#p1-178eaa23",
+     "text": "பட்டணத்தை அழிப்பதற்குமுன் சமாதானம் கூறுவது பூர்வகாலப் பழக்கமாக இருந்தது என்று அவள் காண்பிக்கிறாள், உபாகமம் 20:10,11.",
+     "anchor": "முற்காலத்து மக்கள் ஆபேலிலே விசாரித்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.19",
+   "source_hash": "b33ab906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.19#p1-b33ab906",
+     "text": "அவள் பட்டணத்தின் பெயரால் பேசுகிறாள்.",
+     "anchor": "சமாதானமும் உண்மையுமுள்ளவளாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.21",
+   "source_hash": "e78dc5db",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.21#p1-e78dc5db",
+     "text": "தன்னுடைய குற்றத்தைக் கேட்டவுடன், அவன் நியாயத்திற்கு உட்பட்டு, துராலோசனையின் தலைவனாக இருந்தவனை மட்டும் கேட்டான்.",
+     "anchor": "காரியம் அப்படியல்ல"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2SA.20.26",
+   "source_hash": "f50e36d5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2SA.20.26#p1-f50e36d5",
+     "text": "மேன்மையிலோ அல்லது நெருக்கத்திலோ.",
+     "anchor": "தாவீதுக்கு முதலமைச்சராக"
+    }
+   ]
+  }
+ ]
+}

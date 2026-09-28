@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "NUM",
+ "chapter": 26,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/NUM.26.1",
+   "source_hash": "0f27d793",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.1#p1-0f27d793",
+     "text": "இது அவர்களுடைய வேசித்தனத்தினாலும் விக்கிரக ஆராதனையினாலும் வந்தது.",
+     "anchor": "வாதை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.3",
+   "source_hash": "9f5c9aed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.3#p1-9f5c9aed",
+     "text": "ஆறு எரிகோவுக்கு அருகில் இருக்கும் இடம்.",
+     "anchor": "எரிகோவின் அருகே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.9",
+   "source_hash": "cd7c97ec",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.9#p1-cd7c97ec",
+     "text": "கோராகு தலைமையேற்ற அந்தக் கலகத்தில்.",
+     "anchor": "கோராகின் கூட்டாளிகளாகி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.10",
+   "source_hash": "f0b0313e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.10#p1-f0b0313e",
+     "text": "அதாவது, மற்றவர்கள் தேவனுடைய ஊழியக்காரருக்கு விரோதமாக முறுமுறுத்து கலகம் செய்யாதிருக்கும்படி ஒரு எடுத்துக்காட்டாக.",
+     "anchor": "ஒரு அடையாளமானார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.19",
+   "source_hash": "4ce6285c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.19#p1-4ce6285c",
+     "text": "யாக்கோபு எகிப்திற்குப் போகுமுன்னே, ஆதி 38:3,7,10; 46:12.",
+     "anchor": "கானான்தேசத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.51",
+   "source_hash": "17014436",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.51#p1-17014436",
+     "text": "இது அவர்கள் எண்ணப்பட்ட மூன்றாம் முறையாகும்.",
+     "anchor": "எண்ணப்பட்டவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/NUM.26.64",
+   "source_hash": "9b92cdb6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/NUM.26.64#p1-9b92cdb6",
+     "text": "இதில், தேவன் தம்முடைய மக்களை அற்புதமாக பெருகச்செய்த மகா வல்லமை காணப்படுகிறது.",
+     "anchor": "மோசேயும் ஆசாரியனாகிய ஆரோனும்"
+    }
+   ]
+  }
+ ]
+}

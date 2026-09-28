@@ -1,0 +1,132 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 11,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2CH.11.1",
+   "source_hash": "9027ea34",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.1#p1-b97379c7",
+     "text": "அதாவது, பென்யமீன் கோத்திரத்தில் பாதிப்பேர்; ஏனெனில் மற்றப் பாதிப்பேர் யெரொபெயாமைப் பின்பற்றிச் சென்றார்கள்.",
+     "anchor": "பென்யமீன் வம்சத்தாருமாகிய தெரிந்துகொள்ளப்பட்ட போர்வீரரான ஒருலட்சத்து எண்பதாயிரம்பேர்"
+    },
+    {
+     "id": "geneva/2CH.11.1#p2-cc189f5d",
+     "text": "கலகம் செய்த பத்துக் கோத்திரங்களைக் குறிக்கிறது.",
+     "anchor": "இஸ்ரவேலோடு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.5",
+   "source_hash": "c8b5b7e1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.5#p1-c8b5b7e1",
+     "text": "அல்லது, யெரொபெயாமை எதிர்க்க அதிக பலமுள்ளவனாக இருக்கும்படி அவைகளைத் திருத்தி பலப்படுத்தினான்.",
+     "anchor": "பாதுகாப்பான பட்டணங்களைக் கட்டினான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.15",
+   "source_hash": "ead454b4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.15#p1-ead454b4",
+     "text": "விக்கிரகங்களைக் குறிக்கிறது, ஏசாயா 44:15.",
+     "anchor": "பேய்களுக்கென்றும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.16",
+   "source_hash": "5b74223d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.16#p1-5b74223d",
+     "text": "உண்மையான தேவவழிபாட்டில் ஆவலுள்ளவர்களும் தேவனுக்குப் பயந்தவர்களும்.",
+     "anchor": "இருதயத்தை நேராக்கினவர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.17",
+   "source_hash": "cc85354c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.17#p1-cc85354c",
+     "text": "அவர்கள் தேவனுக்குப் பயந்து, அவருடைய வார்த்தையை முன்னிலைப்படுத்தின வரையில், அவர்கள் வாழ்வடைந்தார்கள்.",
+     "anchor": "நடந்த வழியிலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.22",
+   "source_hash": "37ac549d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.22#p1-37ac549d",
+     "text": "இவனை அபியாம் என்றும் அழைப்பர்; இவன் மூன்று வருடங்கள் அரசாட்சிசெய்தான், 1 இராஜாக்கள் 15:2.",
+     "anchor": "மாகாளின் மகனாகிய அபியாவை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.11.23",
+   "source_hash": "b4751b82",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.11.23#p1-b4751b82",
+     "text": "அவன் தானே அநேக பெண்களை உடையவனாக இருக்க விரும்பினான்.",
+     "anchor": "அநேகம் பெண்களைத் தேடினான்"
+    }
+   ]
+  }
+ ]
+}

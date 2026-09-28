@@ -1,0 +1,195 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 10,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.10.1",
+   "source_hash": "57e7e3de",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.1#p1-57e7e3de",
+     "text": "நாம் துன்பத்திற்குள் நுழைந்தவுடனே, தேவன் நமக்கு உதவி செய்யவேண்டும் என்று நினைக்கிறோம், ஆனால் அது எப்பொழுதும் அவருடைய குறித்த வேளையாக இருக்காது.",
+     "anchor": "துன்பம் நேரிடுகிற நேரங்களில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.3",
+   "source_hash": "23e4e52f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.3#p1-23e4e52f",
+     "text": "துன்மார்க்கன் தன்னுடைய சொந்த ஆசையில் மகிழ்ச்சியடைகிறான்; தான் விரும்பியதைப் பெற்றுக்கொண்டால் அவன் பெருமை பாராட்டுகிறான்; அவன் தன்னுடைய புத்திசாலித்தனத்தையும் செல்வத்தையும் குறித்துப் பெருமை பேசி, தன்னைத்தானே ஆசீர்வதித்துக்கொள்கிறான், இவ்வாறே கர்த்தரை நிந்திக்கிறான்.",
+     "anchor": "தன்னுடைய உள்ளத்தின் ஆசையில் பெருமை பாராட்டுகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.6",
+   "source_hash": "7d8e380d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.6#p1-7d8e380d",
+     "text": "தீமை என்னைத் தொடாது, ஏசாயா 28:15; அல்லது அவன் ஒருபோதும் தீங்கை அனுபவிக்காதவனாக இருப்பதால் இப்படிப் பேசுகிறான்.",
+     "anchor": "தீங்கு என்னை அணுகுவதில்லை என்று தன்னுடைய இருதயத்தில் சொல்லிக்கொள்ளுகிறான்.\n\n\nlabel: c\n\nrefs: ISA.28.15"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.8",
+   "source_hash": "79ae2c7c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.8#p1-79ae2c7c",
+     "text": "துன்மார்க்கர் தங்கள் கொடுமையை மறைப்பதற்குப் பல வழிகளைக் கொண்டிருக்கிறார்கள் என்பதைக் காண்பிக்கிறார்; இதனாலேயே அவர்களை இன்னும் அதிகமாகவே அஞ்சவேண்டும்.",
+     "anchor": "கிராமங்களின் மறைவான இடங்களிலே மறைந்திருந்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.10",
+   "source_hash": "e6485bc0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.10#p1-e6485bc0",
+     "text": "அதிகாரமுள்ளவர்களுடைய மாயமான போக்கினால் ஏழைகள் விழுங்கப்படுகிறார்கள்.",
+     "anchor": "திக்கற்றவர்கள் தன்னுடைய பலவான்கள் கையில் விழும்படி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.12",
+   "source_hash": "65366c39",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.12#p1-65366c39",
+     "text": "துன்மார்க்கம் இவ்வளவு பெருகிவிட்டதால், தேவன் இப்பொழுதே உதவவேண்டும், இல்லையெனில் ஒருபோதும் உதவமாட்டார் என்பதால், அவர் தேவனை உதவிக்காக அழைக்கிறார்.",
+     "anchor": "எழுந்தருளும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.13",
+   "source_hash": "103c0596",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.13#p1-103c0596",
+     "text": "எனவே நீர் அவனுடைய நிந்தையைத் தண்டிக்கவேண்டும்.",
+     "anchor": "கேட்டு விசாரிப்பதில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.14",
+   "source_hash": "1e61dc1e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.14#p1-1e61dc1e",
+     "text": "நியாயமும் அநியாயமும் எவை என்பதை நீர் நியாயந்தீர்க்கிறீர்.",
+     "anchor": "நீர் பதிலளிப்பீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.15",
+   "source_hash": "4912a623",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.15#p1-4912a623",
+     "text": "ஏனெனில் நீர் அவனை முழுவதும் அழித்துவிட்டீர்.",
+     "anchor": "ஒன்றுமில்லாதவரை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.16",
+   "source_hash": "0889564e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.16#p1-0889564e",
+     "text": "தேவனுடைய நியாயப்பிரமாணத்திற்கு ஏற்றபடி வாழாதவர்களாகிய மாயக்காரர் அழிக்கப்படுவார்கள்.",
+     "anchor": "அந்நியமக்கள் அவருடைய தேசத்திலிருந்து அழிந்து போவார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.10.18",
+   "source_hash": "215aa014",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.10.18#p1-215aa014",
+     "text": "மனுஷனுடைய உதவி நிறுத்தப்படும்போது தேவன் உதவி செய்கிறார்.",
+     "anchor": "திக்கற்ற பிள்ளைகளுக்கும் ஒடுக்கப்பட்டவர்களுக்கும் நீதிசெய்ய"
+    }
+   ]
+  }
+ ]
+}

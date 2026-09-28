@@ -1,0 +1,166 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 9,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.9.4",
+   "source_hash": "213ce57e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.4#p1-213ce57e",
+     "text": "நீ என் பயத்தில் நடந்து, தங்கள் சரீர இச்சைகளைப் பின்பற்றுகிற மனிதர்களின் பொது வழக்கத்தினின்று உன்னைப் பிரித்துக்கொள்வாயானால்.",
+     "anchor": "என்னுடைய சமுகத்தில் நடந்தால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.6",
+   "source_hash": "4f2082fb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.6#p1-4f2082fb",
+     "text": "தேவனுக்கு எதிரான கீழ்ப்படியாமையே அவருடைய கோபத்திற்கும், எல்லா துன்பத்திற்கும் காரணமாக இருக்கிறது என்று தேவன் அறிவிக்கிறார்.",
+     "anchor": "என்னுடைய கற்பனைகளையும், கட்டளைகளையும் கைக்கொள்ளாமற்போய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.7",
+   "source_hash": "ae01444b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.7#p1-ae01444b",
+     "text": "தேவனுடைய மகா தாராளமான உபகாரத்தை நீங்கள் இழிவாக அவமதித்து தவறாகப் பயன்படுத்தினதற்காக, உலகம் உங்களைப் பழமொழியாகவும் நகைப்பாகவும் ஆக்கும்.",
+     "anchor": "பழமொழியாகவும் நகைப்பாகவும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.14",
+   "source_hash": "7d171268",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.14#p1-0de454a6",
+     "text": "கட்டிடத்திற்கான அவனுடைய திறையாக.",
+     "anchor": "நூற்றிருபது"
+    },
+    {
+     "id": "geneva/1KI.9.14#p2-c8944dce",
+     "text": "பொதுவான தாலந்து சுமார் 60 பவுண்டு நிறையுள்ளதாக இருந்தது.",
+     "anchor": "தாலந்து பொன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.15",
+   "source_hash": "83ad9e58",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.15#p1-83ad9e58",
+     "text": "மில்லோ என்பது மேலே திறந்த நகர மன்றம் அல்லது கூடும் இடம் போன்றது.",
+     "anchor": "மில்லோவையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.19",
+   "source_hash": "6e1b7af1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.19#p1-6e1b7af1",
+     "text": "தன் யுத்த சாமான்களுக்கான பட்டணங்கள்.",
+     "anchor": "தனக்கு இருக்கிற எல்லாவற்றையும் சேமித்துவைக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.20",
+   "source_hash": "d36668e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.20#p1-d36668e0",
+     "text": "இவர்கள் அடிமைகளைப்போல இருந்து, தேவைப்பட்ட வேலையையோ பணத்தையோ செலுத்தி வந்தார்கள்.",
+     "anchor": "எமோரியர்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.23",
+   "source_hash": "f8c9ae32",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.23#p1-f8c9ae32",
+     "text": "சாலொமோனுடைய வேலைகளை விசாரித்த கண்காணிகள் மூன்று பிரிவுகளாகப் பிரிக்கப்பட்டிருந்தார்கள்: முதலாவது பிரிவில் 3300 பேரும், இரண்டாவது பிரிவில் 300 பேரும், மூன்றாவது பிரிவில் இஸ்ரவேலர்களான 250 பேரும் இருந்தார்கள். இங்கே கடைசி இரண்டு பிரிவுகள் குறிப்பிடப்பட்டிருக்கின்றன, அவை சேர்ந்து 550 ஆகும். 2 நாளாகமம் 8:10-ஐ பார்க்கவும்.",
+     "anchor": "550 பேர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.9.28",
+   "source_hash": "dc3688d0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.9.28#p1-dc3688d0",
+     "text": "2 நாளாகமம் 8:18-ல் இன்னும் 30 அதிகமாகக் குறிப்பிடப்பட்டுள்ளது; அவர்கள் தங்கள் கூலிக்காக வேலைவைக்கப்பட்டவர்களாய் இருந்தார்கள் என்று தோன்றுகிறது.",
+     "anchor": "நானூற்று இருபது தாலந்து பொன்னை"
+    }
+   ]
+  }
+ ]
+}

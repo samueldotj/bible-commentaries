@@ -1,0 +1,115 @@
+{
+ "source": "geneva",
+ "book": "2CH",
+ "chapter": 17,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/2CH.17.3",
+   "source_hash": "fc8310f8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.3#p1-d1c33d4b",
+     "text": "அதாவது, அவன் பத்சேபாளுடன் பாவம் செய்து உரியாவுக்கு விரோதமாகச் செய்யுமுன் இருந்த அவனுடைய நற்குணங்களைக் குறிக்கிறது.",
+     "anchor": "தன் தகப்பனாகிய தாவீது முன்நாட்களில் நடந்த வழிகளில்"
+    },
+    {
+     "id": "geneva/2CH.17.3#p2-99bf82cf",
+     "text": "அந்நிய தேவன்களிடத்தில் உதவி தேடவில்லை.",
+     "anchor": "பாகால்களை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.17.6",
+   "source_hash": "dabdb01b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.6#p1-dabdb01b",
+     "text": "அவன் கர்த்தருக்கு ஊழியம் செய்ய தன்னை முழுவதுமாக ஒப்புக்கொடுத்தான்.",
+     "anchor": "வழிகளில்... உற்சாகம்கொண்டது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.17.7",
+   "source_hash": "0593171e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.7#p1-0593171e",
+     "text": "தேவபக்தியை அறிக்கை செய்வது வீணே என்று அவன் அறிந்திருந்தான், அவ்வாறு அறிக்கை செய்வதற்குப் பொருந்த ஜனங்களுக்கு உபதேசம்செய்யவும், விக்கிரக ஆராதனையனைத்தையும் அகற்றும் அதிகாரம் உடையவர்களாகவும் இருக்கத்தக்கவர்கள் நியமிக்கப்படாவிட்டால்.",
+     "anchor": "யூதாவின் பட்டணங்களிலே உபதேசம்செய்ய"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.17.10",
+   "source_hash": "df62aa73",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.10#p1-df62aa73",
+     "text": "இவ்விதமாகத் தேவன் தமது மகிமையைச் சுத்த இருதயத்தோடு தேடுகிற அனைவரையும் வாழச்செய்கிறார், அவர்களுடைய பகைவரை பயத்தில் வைத்திருக்கிறார், அதினால் அவர்கள் தங்கள் கோபத்தை அவர்களுக்கு விரோதமாக நடத்த முடியாதிருக்கிறது.",
+     "anchor": "யோசபாத்தோடு போர்செய்யாதிருந்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.17.16",
+   "source_hash": "c0c90578",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.16#p1-c0c90578",
+     "text": "அதாவது, அவன் ஒரு நசரேயனாக இருந்தான் என்று அர்த்தம்.",
+     "anchor": "தன்னை உற்சாகமாக ஒப்புக்கொடுத்த"
+    }
+   ]
+  },
+  {
+   "id": "geneva/2CH.17.19",
+   "source_hash": "2cdecfb5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/2CH.17.19#p1-2cdecfb5",
+     "text": "அதாவது, அவர்கள் அவனுடைய வழக்கமான காவலிலிருந்தார்கள்.",
+     "anchor": "ராஜாவுக்கு வேலைசெய்தவர்கள்"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 4,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.4.1",
+   "source_hash": "e3de35cb",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.1#p1-6d4ecfe2",
+     "text": "சங்கீதங்களைப் பாடவும், கீதவாத்தியங்களை வாசிக்கவும் நியமிக்கப்பட்டவர்களில், ஒருவன் இராகத்தை நிர்ணயித்து, ஆரம்பிக்கத் தலைவனாக நியமிக்கப்பட்டான்: அவன் மிகவும் சிறந்தவனாக இருந்ததால் அந்தப் பொறுப்பு அவனுக்கு இருந்தது, அவன் இந்த சங்கீதத்தை நெகிநோத் என்னும் கீதவாத்தியத்தில் அல்லது அப்படிப்பட்ட இராகத்தில் ஆரம்பித்தான்."
+    },
+    {
+     "id": "geneva/PSA.4.1#p2-9f6d58dd",
+     "text": "என் நீதியான காரியத்தை நியாயந்தீர்க்கும் தேவனே.",
+     "anchor": "என் நீதியின் தேவனே"
+    },
+    {
+     "id": "geneva/PSA.4.1#p3-6bac4e13",
+     "text": "மனதிலும் சரீரத்திலும் ஏற்பட்ட நெருக்கம்.",
+     "anchor": "நெருக்கத்தில்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.2",
+   "source_hash": "051cfdb7",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.2#p1-b86a65b7",
+     "text": "இந்த உலகத்தில் தங்களைப் பெருமையுள்ளவர்களாக நினைக்கிறவர்களே.",
+     "anchor": "மனுமக்களே"
+    },
+    {
+     "id": "geneva/PSA.4.2#p2-ae9b68c5",
+     "text": "உங்களுடைய செயல்கள் உங்களுக்குப் பிரியமாயிருந்தாலும், தேவன் அவைகளை வீணாக்கிவிடுவார்.",
+     "anchor": "வீணானதை விரும்பி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.3",
+   "source_hash": "4539915a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.3#p1-4539915a",
+     "text": "தன் அழைப்பின்படி நடக்கும் ஒரு அரசன்.",
+     "anchor": "பக்தியுள்ளவனைக் தமக்காக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.4",
+   "source_hash": "19366895",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.4#p1-b2b1bbb2",
+     "text": "தேவனுடைய நியாயத்தீர்ப்பினால் உண்டாகும் பயத்தினிமித்தமாக.",
+     "anchor": "பாவம் செய்யாமலிருங்கள்"
+    },
+    {
+     "id": "geneva/PSA.4.4#p2-a07c4a61",
+     "text": "உங்கள் கோபத்தை நிறுத்திவிடுங்கள்.",
+     "anchor": "அமர்ந்திருங்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.5",
+   "source_hash": "54bc22bc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.5#p1-54bc22bc",
+     "text": "தேவனை சுத்தமாய் ஆராதியுங்கள், வெளித்தோற்ற சடங்குகளினால் அல்ல.",
+     "anchor": "நீதியின் பலிகளைச் செலுத்தி"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.6",
+   "source_hash": "be6d53d1",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.6#p1-be6d53d1",
+     "text": "திரளான மக்கள் உலகப் பொருளை நாடுகிறார்கள், ஆனால் தாவீது தன் பாக்கியத்தை தேவனுடைய தயவிலே வைக்கிறார்.",
+     "anchor": "நன்மை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.4.8",
+   "source_hash": "8abea4b0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.4.8#p1-8abea4b0",
+     "text": "எபிரெய மொழியில் இந்த வார்த்தை தேவனைக் குறிக்கலாம், இங்கே மொழிபெயர்க்கப்பட்டிருக்கிறபடி, அல்லது தாவீதைக் குறிக்கலாம், அதாவது தன்னைச் சுற்றி அநேகர் இருந்தாலும் எப்படியோ, அப்படியே தான் தனியாக இருந்தும் மகிழ்ச்சியுடன் தங்கியிருப்பான் என்பதைக் குறிக்கிறது, ஏனெனில் கர்த்தர் அவனுடன் இருக்கிறார்.",
+     "anchor": "ஒருவரே ... சுகமாகத் தங்கச்செய்கிறீர்"
+    }
+   ]
+  }
+ ]
+}

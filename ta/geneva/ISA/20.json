@@ -1,0 +1,91 @@
+{
+ "source": "geneva",
+ "book": "ISA",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/ISA.20.1",
+   "source_hash": "2c6192ff",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.1#p1-a57e796e",
+     "text": "இவன் சனகெரிபின் சேனாதிபதியாக இருந்தான், 2 இராஜாக்கள் 18:17.",
+     "anchor": "தர்த்தான் வந்து"
+    },
+    {
+     "id": "geneva/ISA.20.1#p2-834d0c47",
+     "text": "பெலிஸ்தரின் ஒரு பட்டணம்.",
+     "anchor": "அஸ்தோத்"
+    },
+    {
+     "id": "geneva/ISA.20.1#p3-6d8f732d",
+     "text": "எபிரெயர்கள் சனகெரிப் இப்படி அழைக்கப்பட்டான் என்று எழுதுகிறார்கள்.",
+     "anchor": "அசீரியா ராஜாவாகிய சர்கோனாலே அனுப்பப்பட்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.2",
+   "source_hash": "616f2a7b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.2#p1-616f2a7b",
+     "text": "இது தீர்க்கதரிசி மூன்று வருடங்களுக்கு முன்பாகவே தான் தரிசித்த ஆபத்தை எண்ணி துக்கித்தான் என்பதைக் குறிக்கிறது; அதற்காகவே அவன் அந்த மூன்று வருடங்களும் ஆடையில்லாமலும் வெறுங்காலுமாக நடந்தான்.",
+     "anchor": "இடுப்பிலிருக்கிற சணலாடையை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.5",
+   "source_hash": "ed102277",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.5#p1-55eab979",
+     "text": "தாங்கள் யாருடைய உதவியை நம்பியிருந்தார்கள்.",
+     "anchor": "தாங்கள் நம்பியிருந்த எத்தியோப்பியாவைக்குறித்தும்"
+    },
+    {
+     "id": "geneva/ISA.20.5#p2-ba50355c",
+     "text": "தாங்கள் யாரைக்குறித்துப் பெருமைபாராட்டி மகிமைப்பட்டார்களோ.",
+     "anchor": "தாங்கள் பெருமைபாராட்டின எகிப்தைக்குறித்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/ISA.20.6",
+   "source_hash": "78e149fa",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/ISA.20.6#p1-78e149fa",
+     "text": "இது யூதேயாவைக் குறிக்கிறது, அது தண்ணீரால் சூழப்பட்ட ஒரு தீவைப்போல அதின் பகைவர்களால் சூழப்பட்டிருந்தது.",
+     "anchor": "தீவு அக்காலத்திலே சொல்லும்"
+    }
+   ]
+  }
+ ]
+}

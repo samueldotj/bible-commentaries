@@ -1,0 +1,110 @@
+{
+ "source": "geneva",
+ "book": "1KI",
+ "chapter": 5,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/1KI.5.4",
+   "source_hash": "450a0e47",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.4#p1-450a0e47",
+     "text": "கர்த்தர் தனக்கு இளைப்பாறுதலையும் சமாதானத்தையும் அனுப்பியிருந்தபடியால், தேவனுடைய மகிமையை வளர்ப்பதற்குக் கடமைப்பட்டவனாக இருந்தான் என்பதை அவன் அறிவிக்கிறான்.",
+     "anchor": "எங்கும் இளைப்பாறுதலைத் தந்தார்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.5.6",
+   "source_hash": "ad4e3816",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.6#p1-ad4e3816",
+     "text": "எந்த உபகாரத்தையும் ஏதேனும் ஈடு செய்யாமல் பெற்றுக்கொள்ளக்கூடாது என்பது இவனுடைய நீதியாக இருந்தது.",
+     "anchor": "நீர் சொல்வதின்படியெல்லாம் உம்முடைய வேலைக்காரர்களின் சம்பளத்தை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.5.7",
+   "source_hash": "f5611225",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.7#p1-f5611225",
+     "text": "ஈராமிலே, ஆவிக்குரிய ஆலயத்தைக் கட்டும்படி உதவிசெய்யும் யூதரல்லாதவர்களுடைய அழைப்பு முன்னறிவிக்கப்பட்டிருக்கிறது.",
+     "anchor": "ஈராம் சாலொமோனின் வார்த்தைகளைக் கேட்டபோது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.5.9",
+   "source_hash": "d1a1f823",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.9#p1-d1a1f823",
+     "text": "என்னுடைய வேலைக்காரர்கள் உம்முடைய வேலையில் ஈடுபட்டிருக்கும்போது.",
+     "anchor": "என்னுடைய மக்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.5.12",
+   "source_hash": "8e613a4f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.12#p1-8e613a4f",
+     "text": "மரங்களைப் பெறுவது சம்பந்தமாக.",
+     "anchor": "உடன்படிக்கை செய்துகொண்டார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/1KI.5.18",
+   "source_hash": "3ac49442",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/1KI.5.18#p1-3ac49442",
+     "text": "எபிரெய மொழியில் அந்த வார்த்தை கிப்லீம் என்பதாகும்; அவர்கள் சிறந்த கல்தச்சர்களாக இருந்தனர் என்று சிலர் சொல்கிறார்கள்.",
+     "anchor": "கிப்லி ஊரைச் சேர்ந்தவர்களும்"
+    }
+   ]
+  }
+ ]
+}

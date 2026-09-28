@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "JOS",
+ "chapter": 21,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/JOS.21.2",
+   "source_hash": "94200c46",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.2#p1-94200c46",
+     "text": "மோசேயைக்கொண்டு, அதாவது அவருடைய ஊழியத்தின் மூலமாக தேவன் தமது வல்லமையை வெளிப்படுத்தினார்.",
+     "anchor": "மோசேயைக்கொண்டு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.4",
+   "source_hash": "01545086",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.4#p1-846520d7",
+     "text": "இவர் ஆசாரியர்களாக இருந்தவர்களைக் குறிக்கிறார்; ஏனெனில் சிலர் லேவியர்களாக மட்டும் இருந்தனர்.",
+     "anchor": "கோகாத்தியர்கள்"
+    },
+    {
+     "id": "geneva/JOS.21.4#p2-3f836be4",
+     "text": "ஒவ்வொரு கோத்திரமும் தன் சுதந்தரத்தின் அளவிற்கேற்ப அதிகமாகவோ குறைவாகவோ பட்டணங்களைக் கொடுத்தது, எண்ணாகமம் 35:8.",
+     "anchor": "பட்டணங்கள் பதின்மூன்று்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.10",
+   "source_hash": "5fc88019",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.10#p1-5fc88019",
+     "text": "ஏனெனில் ஆரோன் கோகாத்திலிருந்து வந்தான், அதனால் ஆசாரிய ஊழியம் அந்தக் குடும்பத்திலேயே இருந்தது.",
+     "anchor": "ஆரோன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.13",
+   "source_hash": "71499785",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.13#p1-71499785",
+     "text": "அதாவது, ஆரோன் தலைவனாயிருந்த கோகாத்தியரின் வம்சத்தில் இருந்த ஆசாரியன்.",
+     "anchor": "ஆசாரியனாகிய ஆரோனின் சந்ததியார்களுக்கு எபிரோனையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.17",
+   "source_hash": "0b4c5454",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.17#p1-0b4c5454",
+     "text": "வெளிநிலங்கள் பட்டணங்களைச் சுற்றிலும் மதில் துவங்கி ஆயிரம் முழம் தூரத்திற்கு இருந்தன, எண். 35:4.",
+     "anchor": "வெளிநிலங்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.20",
+   "source_hash": "3473c623",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.20#p1-3473c623",
+     "text": "ஆசாரியர்களாக இல்லாதவர்கள்.",
+     "anchor": "லேவியர்களான கோகாத்தின் குடும்பத்தார்களில் மீதியான"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.21",
+   "source_hash": "92cf544e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.21#p1-92cf544e",
+     "text": "எப்ரோனும் சீகேமும் கோகாத்தியரின் கீழிருந்த இரண்டு அடைக்கலப்பட்டணங்களாகும்.",
+     "anchor": "அடைக்கலப்பட்டணமான எப்பிராயீமின் மலைத்தேசத்தில் இருக்கிற சீகேமையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.25",
+   "source_hash": "132bfdba",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.25#p1-132bfdba",
+     "text": "கானானில் குடியிருந்தவர்கள்.",
+     "anchor": "மனாசேயின் பாதிக் கோத்திரத்திலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.27",
+   "source_hash": "19ecb906",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.27#p1-19ecb906",
+     "text": "கோலானும் கேதேசும் கெர்சோனியரிடமிருந்த அடைக்கலப்பட்டணங்களாக இருந்தன.",
+     "anchor": "பாசானிலுள்ள கோலானையும் அதினுடைய வெளிநிலங்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.34",
+   "source_hash": "b6619952",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.34#p1-b6619952",
+     "text": "இவர்கள் இங்கே மற்றவர்கள் என்று அழைக்கப்படுகிறார்கள், ஏனெனில் இவர்கள் கடைசியாக எண்ணப்பட்டவர்கள், மேலும் மெராரி இளைய சகோதரனாக இருந்தான், ஆதி 46:11.",
+     "anchor": "மற்ற லேவியர்களாகிய மெராரி வம்சங்களுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.36",
+   "source_hash": "3d3b2049",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.36#p1-3d3b2049",
+     "text": "பேசேரும் ராமோத்தும் மெராரியரின் கீழிருந்த, யோர்தானுக்கு அக்கரையிலிருந்த அடைக்கல நகரங்களாயிருந்தன, யோசுவா 20:8.",
+     "anchor": "பேசேரையும் அதினுடைய வெளிநிலங்களையும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/JOS.21.41",
+   "source_hash": "e9185570",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/JOS.21.41#p1-e9185570",
+     "text": "இவ்விதமாக யாக்கோபுடைய தீர்க்கதரிசனத்தின்படியே அவர்கள் நாடு முழுவதிலும் சிதறடிக்கப்பட்டார்கள்; தேவன் இதை, தம்முடைய மக்கள் அவர்களால் மெய்யான மதத்தில் உபதேசிக்கப்படுவதற்கு உபயோகித்தார்.",
+     "anchor": "இஸ்ரவேல் மக்கள் சொந்தமாக்கியிருந்த தேசத்தின் நடுவிலே"
+    }
+   ]
+  }
+ ]
+}

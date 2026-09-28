@@ -1,0 +1,217 @@
+{
+ "source": "geneva",
+ "book": "HOS",
+ "chapter": 7,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/HOS.7.1",
+   "source_hash": "afa65e9a",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.1#p1-afa65e9a",
+     "text": "அர்த்தம் என்னவென்றால், அவர்களுக்குள் ஒரே வித தீமை மட்டும் இருந்ததில்லை, மாறாக அவர்கள் அந்தரங்கமான, வெளிப்படையான எல்லா துன்மார்க்கத்திற்கும் உட்பட்டவர்களாய் இருந்தார்கள்.",
+     "anchor": "திருடன் உள்ளே வருகிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.3",
+   "source_hash": "7bfe36d8",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.3#p1-7bfe36d8",
+     "text": "அவர்கள் தங்கள் துன்மார்க்கனாகிய ராஜாவாகிய யெரொபெயாமை தேவனுக்கு மேலாக மதித்து, அவனை எப்படி முகஸ்துதி செய்து சந்தோஷப்படுத்தலாம் என்று தேடுகிறார்கள்.",
+     "anchor": "ராஜாவைத் தங்கள் பொல்லாப்பினாலும்... சந்தோஷப்படுத்துகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.4",
+   "source_hash": "ab58fb6b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.4#p1-ab58fb6b",
+     "text": "அப்பம் சுடுகிறவன் தன் மாவு புளித்து உயரும்வரை எரிக்கும் எரிகிற அடுப்பிற்கு மக்களின் கோபத்தை ஒப்பிடுகிறார்.",
+     "anchor": "அப்பம் சுடுகிறவன் எரிக்கும் அடுப்பைப்போல்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.5",
+   "source_hash": "60c4943b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.5#p1-60c4943b",
+     "text": "அவர்கள் தங்கள் பண்டிகைகளிலும் விசேஷ நாட்களிலும் எல்லாவித இச்சைமீறுதலையும் அளவுகடந்த செயல்களையும் செய்தார்கள், அதனால் அவர்களுடைய ராஜா அளவுக்கதிகமாக உண்ணுவிக்கப்பட்டு, அதிக ஆகாரத்தினால் வியாதிகளுக்குள்ளாக்கப்பட்டான்; அவன் புகழுரைகளில் மனமகிழ்ச்சி கொண்டவனாக இருந்தான்.",
+     "anchor": "நம்முடைய ராஜாவின் நாளென்று சொல்லி, அதிபதிகள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.7",
+   "source_hash": "6a31aa15",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.7#p1-6a31aa15",
+     "text": "அவர்களுடைய செய்கையினால் தேவன் அவர்களைவிட்டு எல்லா நல்ல நியாயாதிபதிகளையும் நீக்கிவிட்டார்.",
+     "anchor": "தங்கள் நியாயாதிபதிகளை அழித்தார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.8",
+   "source_hash": "86c3e5df",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.8#p1-86c3e5df",
+     "text": "அதாவது, அவன் அந்நியமக்களுடைய மதத்தைப் போலியாகச் செய்தான்; ஆனாலும் அவன் ஒரு பக்கம் சுட்டு மறு பக்கம் பச்சையாக இருக்கும் அப்பத்தைப் போலிருக்கிறான், அதாவது முழுவதும் சூடாகவும் இல்லை, முழுவதும் குளிராகவும் இல்லை, ஒரு பங்கு யூதனாகவும், ஒரு பங்கு யூதரல்லாதவனாகவும் இருக்கிறான்.",
+     "anchor": "அந்நியமக்களோடே கலந்திருக்கிறான்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.9",
+   "source_hash": "d31626fc",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.9#p1-d31626fc",
+     "text": "இவை அவனுடைய பன்முக துன்பங்களுக்கு அடையாளமாக இருக்கின்றன.",
+     "anchor": "நரைமுடியும் அவனில் தெளித்திருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.11",
+   "source_hash": "7b3f905b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.11#p1-7b3f905b",
+     "text": "அதாவது, தேவனை மட்டும் பற்றிக்கொள்வதோ, மனுஷனுடைய உதவியைத் தேடுவதோ எது நலமென்று அறியமாட்டாதவர்களைப்போல, எந்த நியாயத்தீர்ப்புமில்லாமல்.",
+     "anchor": "புத்தியில்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.12",
+   "source_hash": "31859abd",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.12#p1-31859abd",
+     "text": "இஸ்ரவேலின் முழு சபைக்கும் நான் அறிவித்த சாபத்தின்படியே.",
+     "anchor": "சபையில் கேள்விப்பட்டபடியே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.13",
+   "source_hash": "06fa3321",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.13#p1-06fa3321",
+     "text": "அதாவது, வெவ்வேறு காலங்களில் அவர்களை மீட்டு, மரணத்திலிருந்து விடுவித்தார்.",
+     "anchor": "நான் அவர்களை மீட்டிருந்தும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.14",
+   "source_hash": "8cea9522",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.14#p1-958f3f4e",
+     "text": "அவர்கள் வேதனையில் இருந்து அலறின போது, என்னிடத்தில் உதவிக்காக தேடவில்லை.",
+     "anchor": "தங்கள் படுக்கைகளில் அலறுகிறபோது"
+    },
+    {
+     "id": "geneva/HOS.7.14#p2-aa6be44d",
+     "text": "அவர்கள் தங்கள் சொந்த நலனையும் ஆஸ்தியையும் மட்டுமே தேடுகிறார்கள், தங்கள் தேவனாகிய என்னைக் குறித்துக் கவலைப்படுகிறதில்லை.",
+     "anchor": "தானியத்துக்காகவும் திராட்சைரசத்துக்காகவும் கூடுகிறார்கள்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/HOS.7.16",
+   "source_hash": "ddbf25fe",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/HOS.7.16#p1-ddbf25fe",
+     "text": "தங்களுடைய பலத்தைக் குறித்துப் பெருமைபாராட்டி, என்னையும் என் ஊழியக்காரரையும் விரோதித்துப் பேசுவதைக் குறித்துக் கவலைப்படாதிருக்கிறார்கள்; சங்கீதம் 73:9.",
+     "anchor": "நாவினுடைய"
+    }
+   ]
+  }
+ ]
+}

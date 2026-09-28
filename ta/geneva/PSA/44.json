@@ -1,0 +1,294 @@
+{
+ "source": "geneva",
+ "book": "PSA",
+ "chapter": 44,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/PSA.44.1",
+   "source_hash": "5e4cce1f",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.1#p1-5e4cce1f",
+     "text": "இந்தச் சங்கீதம், சபை மிகுந்த துன்பத்தில் இருந்தபோது, அதாவது பாபிலோனிலிருந்து திரும்பிய காலத்திலோ அல்லது அந்தியோகியாவின் கீழோ அல்லது இவை போன்ற உபத்திரவங்களின்போதோ, மக்கள் பயன்படுத்துவதற்காக யாதொரு உன்னதமான தீர்க்கதரிசியினால் இயற்றப்பட்டதாகத் தோன்றுகிறது.",
+     "anchor": "காதுகளால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.2",
+   "source_hash": "46156589",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.2#p1-2af61d4a",
+     "text": "அதாவது, கானானியர்.",
+     "anchor": "உம்முடைய கையினாலே தேசங்களை"
+    },
+    {
+     "id": "geneva/PSA.44.2#p2-bfcf41c7",
+     "text": "அதாவது, நமது முற்பிதாக்கள்.",
+     "anchor": "இவர்களை"
+    },
+    {
+     "id": "geneva/PSA.44.2#p3-8949806c",
+     "text": "கானானின்.",
+     "anchor": "மக்களை"
+    },
+    {
+     "id": "geneva/PSA.44.2#p4-bfcf41c7",
+     "text": "அதாவது, நமது முற்பிதாக்கள்."
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.3",
+   "source_hash": "a454202b",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.3#p1-a454202b",
+     "text": "தேவனுடைய சுயாதீன இரக்கமும் அன்புமே சபையின் ஒரே ஊற்றும் ஆரம்பமுமாக இருக்கிறது, உபாகமம் 4:37.",
+     "anchor": "பிரியமாக இருந்தபடியால்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.4",
+   "source_hash": "4f1d06ca",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.4#p1-4f1d06ca",
+     "text": "நீர் எங்களுடைய ராஜாவாக இருக்கிறபடியால், உம்முடைய மக்களை அவர்கள் சிறுமையிலிருந்து விடுவியும்.",
+     "anchor": "யாக்கோபுக்கு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.5",
+   "source_hash": "52a06b73",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.5#p1-52a06b73",
+     "text": "அவர்களும் அவர்களுடைய முற்பிதாக்களும் ஒரே சபையாக இருந்தபடியால், முன்பு தங்கள் முற்பிதாக்களுக்கு உரியதாகக் கூறியதை இப்போது தங்களுக்கே பொருத்திக் கூறுகிறார்கள்.",
+     "anchor": "உம்மாலே"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.9",
+   "source_hash": "39fc04d6",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.9#p1-39fc04d6",
+     "text": "முன்பு அவர்கள் தங்களுடைய பலம் தேவனிடத்திலிருந்து வந்தது என்று அறிக்கையிட்டதுபோல, இப்பொழுது இந்தத் துன்பம் அவருடைய நீதியான நியாயத்தீர்ப்பினால் வந்தது என்பதை ஒப்புக்கொள்கிறார்கள்.",
+     "anchor": "வெட்கமடையச்செய்கிறீர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.11",
+   "source_hash": "56e72a7d",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.11#p1-56e72a7d",
+     "text": "தேவனே இந்தத் துன்பத்தின் காரணராக இருக்கிறார் என்பதை அறிந்திருந்தும், அவர்கள் முறுமுறுக்காமல், தங்களைக் காயப்படுத்தின அவருடைய கையிலேயே தீர்வைத் தேடுகிறார்கள்.",
+     "anchor": "ஆடுகளைப்போல இரையாக ஒப்புக்கொடுத்து"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.12",
+   "source_hash": "77b51d66",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.12#p1-77b51d66",
+     "text": "அற்பமான விலைக்கு விற்கப்படும் அடிமைகளைப்போல, அதிக விலை தருகிறவனை நீர் தேடாமல், முதலில் வருகிற பேச்சையே ஏற்றுக்கொள்கிறீர்.",
+     "anchor": "இலவசமாக"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.15",
+   "source_hash": "a0322a99",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.15#p1-a0322a99",
+     "text": "நான் வெட்கத்தினால் என் தலையை உயர்த்தத் துணியேன்.",
+     "anchor": "பழிவாங்குகிறவர்னிமித்தமும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.16",
+   "source_hash": "d03fb7d3",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.16#p1-d03fb7d3",
+     "text": "அதாவது, அகந்தையும் கொடுமையும் நிறைந்த கொடுங்கோலன்.",
+     "anchor": "பழிவாங்குபவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.17",
+   "source_hash": "d3f42ade",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.17#p1-d3f42ade",
+     "text": "அவர்கள் தங்கள் நற்குணங்களைக்குறித்து பெருமைபாராட்டாமல், தங்கள் உபத்திரவத்தின் நடுவிலும் தேவன்மேல் தங்கியிருக்கிறார்கள் என்று அறிக்கை செய்கிறார்கள்: அவர் இப்பொழுது அவர்கள் பாவங்களை தண்டிக்காமல், கடினமான உபத்திரவங்களினால் அவர்களை பரம சந்தோஷங்களைச் சிந்திக்கும்படி அழைத்தார்.",
+     "anchor": "உம்மை மறக்கவும் இல்லை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.20",
+   "source_hash": "9a09646c",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.20#p1-9a09646c",
+     "text": "தாங்கள் தேவனை மாத்திரம் நம்பியிருந்தபடியால், தாங்கள் தேவனை சரியாக மகிமைப்படுத்தினார்கள் என்பதைக் காண்பிக்கிறார்கள்.",
+     "anchor": "அந்நியதேவனை"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.21",
+   "source_hash": "fcb82632",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.21#p1-fcb82632",
+     "text": "தாங்கள் அவருக்கு முன்பாக உத்தமமாயிருந்தார்கள் என்பதற்கு அவர்கள் தேவனையே சாட்சியாக வைக்கிறார்கள்.",
+     "anchor": "ஆராய்ந்து, விசாரிக்காமல் இருப்பாரோ"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.22",
+   "source_hash": "db7b919e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.22#p1-db7b919e",
+     "text": "உண்மையுள்ளவர்கள் இதிலே ஆறுதல் பெறுகிறார்கள்; அதாவது, துன்மார்க்கர் தங்கள் பாவங்களுக்காக அவர்களைத் தண்டிக்கிறார்களல்ல, தேவனுக்காகவே தண்டிக்கிறார்கள், மத்தேயு 5:10, 1 பேதுரு 4:14.",
+     "anchor": "எந்நேரமும் கொல்லப்படுகிறோம்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.25",
+   "source_hash": "d5d33cf9",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.25#p1-d5d33cf9",
+     "text": "தேவரீர் உம்முடைய கரத்தினால் எங்களை எழுந்திருக்கச் செய்யாவிட்டால், எங்களுக்கு மீட்சிக்கு நம்பிக்கை இல்லை.",
+     "anchor": "புழுதிவரை தாழ்ந்திருக்கிறது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/PSA.44.26",
+   "source_hash": "e03fd2bf",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/PSA.44.26#p1-e03fd2bf",
+     "text": "இதுவே சரீரத்தையும் ஆத்துமாவையும் எல்லாவிதமான அடிமைத்தனத்திலும் துக்கத்திலுமிருந்து விடுவிப்பதற்குப் போதுமான ஒரே மீட்கும் பொருள்.",
+     "anchor": "உம்முடைய கிருபையினிமித்தம்"
+    }
+   ]
+  }
+ ]
+}

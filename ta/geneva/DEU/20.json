@@ -1,0 +1,127 @@
+{
+ "source": "geneva",
+ "book": "DEU",
+ "chapter": 20,
+ "lang": "ta",
+ "units": [
+  {
+   "id": "geneva/DEU.20.1",
+   "source_hash": "43cb9235",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.1#p1-43cb9235",
+     "text": "பொருள்: நியாயமான காரணத்தின்பேரில் மட்டும். ஏனெனில் தேவன் தம் மக்களுக்குத் தமக்குப் பிடித்தபோதெல்லாம் போர்செய்ய அனுமதிக்கிறவரல்லர்.",
+     "anchor": "போர்செய்யப் புறப்பட்டுப்போகும்போது"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.4",
+   "source_hash": "17f62eed",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.4#p1-17f62eed",
+     "text": "தமது கிருபையினாலும் வல்லமையினாலும் உங்களைக் காக்க உடனிருக்கிறார்.",
+     "anchor": "உங்களுடன்கூடப் போகிறவர்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.5",
+   "source_hash": "db6a81a4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.5#p1-db6a81a4",
+     "text": "ஏனெனில் அவர்கள் ஒரு வீட்டில் குடியிருக்க முதன்முதலாகப் புகும்போது, அவர்கள் தேவனுக்கு ஸ்தோத்திரம் செலுத்தி, அந்த நன்மையை அவருடைய கிருபையினால் பெற்றார்கள் என்று அறிக்கை செய்தார்கள்.",
+     "anchor": "அதை அர்ப்பணம் செய்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.6",
+   "source_hash": "000ca9e5",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.6#p1-000ca9e5",
+     "text": "எபிரெய வார்த்தை பொதுவானதாக அல்லது அசுத்தமானதாக்குதல் என்று அர்த்தங்கொள்ளும், லேவி 19:25",
+     "anchor": "அனுபவியாதிருக்கிறவன்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.11",
+   "source_hash": "7dff54f4",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.11#p1-7dff54f4",
+     "text": "அது சமாதானத்தை ஏற்றுக்கொண்டால்.",
+     "anchor": "சமாதானமான உத்திரவு"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.15",
+   "source_hash": "779be48e",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.15#p1-779be48e",
+     "text": "தேவன் கானானியரை அழிக்கும்படி நியமித்திருந்தார், இஸ்ரவேலரை அவருடைய சித்தத்தை நிறைவேற்றுகிறவர்களாக ஏற்படுத்தினார், உபாகமம் 7:1.",
+     "anchor": "தேசங்களுக்கும்"
+    }
+   ]
+  },
+  {
+   "id": "geneva/DEU.20.19",
+   "source_hash": "9e3154e0",
+   "generator": {
+    "name": "claude",
+    "model": "claude-sonnet-5",
+    "prompt_version": "c1",
+    "generated_at": "2026-09-27"
+   },
+   "paragraphs": [
+    {
+     "id": "geneva/DEU.20.19#p1-9e3154e0",
+     "text": "சிலர் இவ்வாறு வாசிக்கின்றனர்: முற்றுகைக்கு எதிராக வெளிவரும்படி, மனிதன் வெளியின் மரத்திற்குப் பதிலாக இருப்பான் என்று.",
+     "anchor": "வெளியின் மரங்கள் மனிதனுடைய உயிர்வாழ்வதற்கு ஏற்றவைகள்"
+    }
+   ]
+  }
+ ]
+}
