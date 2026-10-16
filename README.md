@@ -21,6 +21,7 @@ See [roadmap.md](roadmap.md) for the plan and its current state.
 | `poole` | Matthew Poole, *English Annotations on the Holy Bible* | 1683–1685 | Whole Bible (Poole up to Isaiah 58, finished by colleagues) | BibleSupport e-Sword `.cmtx` |
 | `trapp` | John Trapp, *A Commentary or Exposition upon All the Books of the Old and New Testament* | 1647–1656 | Whole Bible | BibleSupport e-Sword `.cmtx` |
 | `ecf` | Early Church Fathers (quotations from 271 authors, 1st–10th centuries) | 19th-century and later translations | Whole Bible, thin in the Old Testament histories | SermonIndex e-Sword `.cmti` |
+| `spurgeon` | C. H. Spurgeon, *The Treasury of David* (exposition, notes from other writers, hints to preachers) | 1869–1885 | Psalms only | CrossWire SWORD `TDavid` |
 | `gill` | John Gill, *Exposition of the Whole Bible* (set aside for now) | 1746–1763 | Whole Bible | e-Sword |
 
 The commentators' texts are in the public domain; for the Early Church
@@ -38,7 +39,7 @@ on what terms, before any of its text is committed. See
 - `tools/esword.py` reads e-Sword 11 commentary modules (`.cmti`).
 - `tools/ccel.py` reads CCEL ThML commentaries (Calvin).
 - `tools/survey.py` writes `sources/survey.md`.
-- `tools/import_{geneva,henry,calvin,poole,trapp}.py` write `en/{source}/`
+- `tools/import_{geneva,henry,calvin,poole,trapp,ecf,spurgeon}.py` write `en/{source}/`
   (see [en/README.md](en/README.md)). Geneva and Trapp need the site
   repository next to this one for the KJV text (`tools/kjv.py`).
 

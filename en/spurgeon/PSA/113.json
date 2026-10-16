@@ -1,0 +1,1401 @@
+{
+ "source": "spurgeon",
+ "book": "PSA",
+ "chapter": 113,
+ "units": [
+  {
+   "id": "spurgeon/PSA.113",
+   "range": "PSA.113",
+   "kind": "chapter",
+   "hash": "9f8b8a9f",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113#p1-17c7d0dc",
+     "text": "TITLE AND SUBJECT. This Psalm is one of pure praise, and contains but little which requires exposition; a warm heart full of admiring adoration of the Most High will best of all comprehend this sacred hymn. Its subject is the greatness and condescending goodness of the God of Israel, as exhibited in lifting up the needy from their low estate. It may fitly be sung by the church during a period of revival after it has long been minished and brought low. With this Psalm begins the Hallel, or Hallelujah of the Jews, which was sung at their solemn feasts: we will therefore call it THE COMMENCEMENT OF THE HALLEL.",
+     "section": "overview"
+    },
+    {
+     "id": "spurgeon/PSA.113#p2-457e79f1",
+     "text": "Dr. Edersheim tells us that the Talmud dwells upon the peculiar suitableness of the Hallel to the Passover, \"since it not only recorded the goodness of God towards Israel, but especially their deliverance from Egypt, and therefore appropriately opened with Praise ye Jehovah, ye servants of Jehovah, —and no longer servants of Pharaoh.\" Its allusions to the poor in the dust and the needy upon the dunghill are all in keeping with Israel in Egypt, and so also is the reference to the birth of numerous children where they were least expected.",
+     "section": "overview"
+    },
+    {
+     "id": "spurgeon/PSA.113#p3-3b3ea038",
+     "text": "Division",
+     "heading": true,
+     "section": "overview"
+    },
+    {
+     "id": "spurgeon/PSA.113#p4-e49ae6e0",
+     "text": "No division need be made in the exposition of this Psalm, except it be that which is suggested by the always instructive headings supplied by the excellent authors of our common version: an exhortation to praise God, for his excellency, 1-5; for his mercy.",
+     "section": "overview"
+    },
+    {
+     "id": "spurgeon/PSA.113#p5-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p6-9adf4908",
+     "text": "With this Psalm begins the Hallel, which is recited at the three great feasts, at the feast of the Dedication (Chanucca) and at the new moons, and not on New Year's day and the day of Atonement, because a cheerful song of praise does not harmonise with the mournful solemnity of these days. And they are recited only in fragments during the last days of the Passover, for \"my creatures, saith the Holy One, blessed be He, were drowned in the sea, and ought ye to break out into songs of rejoicing?\" In the family celebration of the Passover night it is divided into two parts, the one half, Psalm 113-114, being sung before the repast, before the emptying of the second festal cup, and the other half, Psalm 115-118, after the repast, after the filling of the fourth cup, to which the umnhsantev (Mt 26:30 Mk 14:26), or singing a hymn, after the institution of the Lord's Supper, which was connected with the fourth festal cup, may refer.",
+     "quote": 1,
+     "author": "Frank Delitzsch",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Mt 26:30",
+       "ref": "MAT.26.30"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113#p7-f80d6fd3",
+     "text": "Paulus Burgensis styles Psalm 113 to Psalm 118 Alleluja Judaeorum magnum. (The great Alleluiah of the Jews). This designation is also frequently found elsewhere. But according to the prevailing custom, Psalm 113-118, and more particularly Psalm 115-118, are called only Hallel, and Psalm 136, with its \"for his mercy endureth for ever\" repeated twenty-six times, bears the name of \"The Great Hallel\" (lwdgh llh). —",
+     "quote": 1,
+     "author": "Frank Delitzsch",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p8-d56ea3da",
+     "text": "The Jews have handed down the tradition, that this Psalm, and those that follow on to the 118th, were all sung at the Passover; and they are denominated \"The Great Hallel.\" This tradition shows, at all events, that the ancient Jews perceived in these six psalms some link of close connection. They all sing of God the Redeemer, in some aspect of his redeeming character; and this being so, while they suited the paschal feast, we can see how appropriate they would be in the lips of the Redeemer, in his Upper Room. Thus —",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p9-b748fe31",
+     "text": "In Psalm 113, he sang praise to him who redeems from the lowest depth.",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p10-f1236e0a",
+     "text": "In Psalm 114, he sang praise to him who once redeemed Israel, and shall redeem Israel again.",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p11-4cf981a4",
+     "text": "In Psalm 115, he uttered a song —over earth's fallen idols —to him who blesses Israel and the world.",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p12-51d25856",
+     "text": "In Psalm 116, he sang his resurrection song of thanksgiving by anticipation.",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p13-cb50942c",
+     "text": "In Psalm 117, he led the song of praise for the great congregation.",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p14-ea529b29",
+     "text": "In Psalm 118 (just before leaving the Upper Room to go to Gethsemane), he poured forth the story of his suffering, conflict, triumph and glorification. —",
+     "quote": 2,
+     "author": "A. A. Bonar",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p15-12a62bf0",
+     "text": "An attentive reader of the Book of Psalms will observe that almost every one of them has a view to Christianity. Many, if not most of the psalms, were without doubt occasioned originally by accidents of the life that befell their royal author; they were therefore at the same time both descriptive of the situation and life, the actions and sufferings, of King David, and predictive also of our Saviour, who was all along represented by King David, from whose loins he was descended according to the flesh. But this Psalm appears to be wholly written with a view to Christianity.",
+     "quote": 9,
+     "author": "James Bate",
+     "work": "1703-1775",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p16-16838a3c",
+     "text": "It begins with an exhortation to all true servants and zealous worshippers of God, to \"praise his name, \"at all times, and in all places; \"from this time forth and for evermore, \"and \"from the rising of the sun unto the going down thereof.\" And the ground of this praise and adoration is set forth in the following verses to be, —first, the glorious majesty of his Divine nature; and next, the singular goodness of it as displayed to us in his works of providence, particularly by exalting those who are abased, and his making the barren to become fruitful. His lifting the poor out of the mire, and making the barren woman to become fruitful, may, at first sight, seem an odd mixture of ideas.",
+     "quote": 9,
+     "author": "James Bate",
+     "work": "1703-1775",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p17-abd7bb80",
+     "text": "But a right notion of the prophetic language will solve the difficulty; and teach us, that both the expressions are in fact very nearly related, and signify much the same thing. For by the \"poor\" are here meant those who are destitute of all heavenly knowledge (the only true and real riches) and who are sunk in the mire and filth of sin. So, again, his making \"the barren woman to keep house, and to be a joyful mother of children, \"is a prophetic metaphor, or allusion to the fruitfulness of the Church in bringing forth sons or professors of the true religion. My interpretation of both these expressions is warrantable from so many parallel passages of Scripture. I shall only observe that here the profession of the Christian faith throughout the whole earth is foretold; as also the particular direction or point of the compass, toward which Christianity should by the course of God's providence be steered and directed, viz., from East to West, or \"from the rising of the sun unto the going down of the same.\" —",
+     "quote": 9,
+     "author": "James Bate",
+     "work": "1703-1775",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113#p18-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p19-62cd5d10",
+     "text": "The psalm contains three parts:",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p20-c41bb9ba",
+     "text": "1. An exhortation to God's servants to praise him.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p21-3cc230ed",
+     "text": "2. A form set down how and where to praise him, ver. 2, 3.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p22-60d372c6",
+     "text": "3. The reasons to persuade us to it.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p23-3d0c6010",
+     "text": "(a) By his infinite power, ver. 4, 5.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113#p24-c4ec263b",
+     "text": "(b) His providence, as displayed in heaven and earth, verse 6. —Adam Clarke.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.1",
+   "range": "PSA.113.1",
+   "kind": "passage",
+   "hash": "910a4d36",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.1#p1-7eb0d79c",
+     "text": "or Hallelujah, praise to JAH Jehovah. Praise is an essential offering at all the solemn feasts of the people of God. Prayer is the myrrh, and praise is the frankincense, and both of these must be presented unto the Lord. How can we pray for mercy for the future if we do not bless God for his love in the past? The Lord hath wrought all good things for us, let us therefore adore him. All other praise is to be excluded, the entire devotion of the soul must be poured out unto Jehovah only. Praise, O ye servants of the LORD. Ye above all men, for ye are bound to do so by your calling and profession.",
+     "verse": 1,
+     "anchor": "Praise ye the LORD",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p2-c44e77fb",
+     "text": "If God's own servants do not praise him, who will? Ye are a people near unto him, and should be heartiest in your loving gratitude. While they were slaves of Pharaoh, the Israelites uttered groans and sighs by reason of their hard bondage; but now that they had become servants of the Lord, they were to express themselves in songs of joy. His service is perfect freedom, and those who fully enter into it discover in that service a thousand reasons for adoration. They are sure to praise God best who serve him best; indeed, service is praise.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p3-ea242724",
+     "text": "Praise the name of the LORD: extol his revealed character, magnify every sacred attribute, exult in all his doings, and reverence the very name by which he is called. The name of Jehovah is thrice used in this verse, and may by us who understand the doctrine of the Trinity in Unity be regarded as a thinly veiled allusion to that holy mystery. Let Father, Son, and Holy Spirit, all be praised as the one, only, living, and true God. The close following of the words, \"Hallelujah, Hallelu, Hallelu, \"must have had a fine effect in the public services. Dr. Edersheim describes the temple service as responsive, and says, \"Every first line of a Psalm was repeated by the people, while to each of the others they responded by a Hallelu Jah or Praise ye the Lord\"thus —",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p4-f5012b38",
+     "text": "The Levites began: Hallelujah (Praise ye the Lord).",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p5-70433fac",
+     "text": "The people repeated: Hallelu Jah. The Levites: Praise (Hallelu), O ye servants of Jehovah.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p6-abd289f6",
+     "text": "The people responded: Hallelu Jah. The Levites: Praise (Hallelu) the name of Jehovah.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p7-c6cf668e",
+     "text": "The people responded: Hallelu Jah.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p8-3ad5160e",
+     "text": "These were not vain repetitions, for the theme is one which we ought to dwell upon; it should be deeply impressed upon the soul, and perseveringly kept prominent in the life.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p9-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p10-e472b183",
+     "text": "The wllh is repeated. This repetition is not without significance. It is for the purpose of waking us up out of our torpor. We are all too dull and slow in considering and praising the blessings of God. There is, therefore, necessity for these stimuli. Then this repetition signifies assiduity and perseverance in sounding forth the praises of God. It is not sufficient once and again to praise God, but his praises ought to be always sung in the Church. —",
+     "verse": 1,
+     "anchor": "Praise ye the LORD. Praise",
+     "quote": 1,
+     "author": "Mollerus",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p11-fd67a468",
+     "text": "This praising God rests not in the mere speculation or idle contemplation of the Divine excellence, floating only in the brain, or gliding upon the tongue, but in such quick and lively apprehensions of them as to sink down into the heart, and there beget affections suitable to them; for it will make us love him for his goodness, respect him for his greatness, fear him for his justice, dread him for his power, adore him for his wisdom, and for all his attributes make us live in constant awe and obedience to him. This is to praise God, without which all other courting and complimenting of him is but mere flattery and hypocrisy...God Almighty endowed us with higher and nobler faculties than other creatures, for this end, that we should set forth his praise; for though other things were made to administer the matter and occasion, yet man alone was designed and qualified to exercise the act of glorifying God...In short, God Almighty hath so closely twisted his own glory and our happiness together, that at the same time we advance the one we promote the other. —",
+     "verse": 1,
+     "anchor": "Praise ye the Lord",
+     "quote": 2,
+     "author": "Matthew Hole",
+     "work": "1730",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p12-e2e7b7ed",
+     "text": "From the exhortation to praise God, and the declaration of his deserving to be praised; learn, that as it is all men's duty to praise the Lord, so in special it is the duty of his ministers, and officers of his house. First, because their office doth call for the discharge of it publicly. Next, because as they should be best acquainted with the reasons of his praise, so also should they be the fittest instruments to declare it. And lastly, because the ungodly are deaf unto the exhortation, and dumb in the obedience of it; therefore when he hath said, \"Praise ye the Lord, \" he subjoins, \"Praise, O ye servants of the Lord.\" —",
+     "verse": 1,
+     "anchor": "Praise, O ye servants of the LORD",
+     "quote": 3,
+     "author": "David Dickson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p13-0dad99bd",
+     "text": "All men owe this duty to God, as being the workmanship of his hands; Christians above other men, as being the sheep of his pasture; preachers of the word above other Christians, as being pastors of his sheep, and so consequently patterns in word, in conversation, in love, in spirit, in faith, in pureness. 1 Ti 4:12. —",
+     "verse": 1,
+     "anchor": "Ye servants of the LORD",
+     "quote": 4,
+     "author": "John Boys",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "1 Ti 4:12",
+       "ref": "1TI.4.12"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p14-cb962ec4",
+     "text": "Hallelujah, praise the Lord!",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p15-d22d9471",
+     "text": "Praise, ye servants, praise his name!",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p16-927385a3",
+     "text": "Be Jehovah's praise adored,",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p17-70cbb838",
+     "text": "Now and evermore the same!",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p18-b17ae81f",
+     "text": "Where the orient sunbeams gleam.",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p19-585dbac3",
+     "text": "Where they sink in ocean's stream,",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p20-60c011f4",
+     "text": "Through the circuit of his rays",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p21-e490338b",
+     "text": "Be your theme Jehovah's praise.",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p22-a08ee38c",
+     "text": "Richard Mant.",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p23-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p24-02ccfcae",
+     "text": "The repetitions show,",
+     "verse": 1,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p25-1413cac8",
+     "text": "1. The importance of praise.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p26-215804dd",
+     "text": "2. Our many obligations to render it.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p27-f0e9fd91",
+     "text": "3. Our backwardness in the duty.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p28-31d1c427",
+     "text": "4. The heartiness and frequency with which it should be rendered.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p29-fc849226",
+     "text": "5. The need of calling upon others to join with us.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p30-c94e9d30",
+     "text": "1. To whom praise is due: \"the Lord.\"",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p31-ff1b92d2",
+     "text": "2. From whom it is due: \"ye servants of the Lord.\"",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p32-d1bbdd26",
+     "text": "3. For what is it due: his \"name.\" a. For all names descriptive of what he is in himself. b. For all names descriptive of what he is to his servants. —G. R.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p33-e75353f6",
+     "text": "Praise ye the Lord.",
+     "verse": 1,
+     "verse_end": 9,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p34-24710561",
+     "text": "1. Begin and end life with it, and do the same with holy service, patient suffering, and everything else.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.1#p35-cad69082",
+     "text": "2. Fill up the interval with praise. Run over the intervening verses.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.2",
+   "range": "PSA.113.2",
+   "kind": "passage",
+   "hash": "05255f58",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.2#p1-92f769c3",
+     "text": "While praising him aloud, the people were also to bless him in the silence of their hearts, wishing glory to his name, success to his cause, and triumph to his truth.",
+     "verse": 2,
+     "anchor": "Blessed be the name of the LORD",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p2-69d3d5a7",
+     "text": "By mentioning the name, the Psalmist would teach us to bless each of the attributes of the Most High, which are as it were the letters of his name; not quarrelling with his justice or his severity, nor servilely dreading his power, but accepting him as we find him revealed in the inspired word and by his own acts, and loving him and praising him as such. We must not give the Lord a new name nor invent a new nature, for that would be the setting up of a false god. Every time we think of the God of Scripture we should bless him, and his august name should never be pronounced without joyful reverence. From this time forth.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p3-2e100eac",
+     "text": "If we have never praised him before, let us begin now. As the Passover stood at the beginning of the year it was well to commence the new year with blessing him who wrought deliverance for his people. Every solemn feast had its own happy associations, and might be regarded as a fresh starting place for adoration. Are there not reasons why the reader should make the present day the opening of a year of praise? When the Lord says, \"From this time will I bless you, \"we ought to reply, \"Blessed be the name of the Lord from this time forth.\" And for evermore: eternally. The Psalmist could not have intended that the divine praise should cease at a future date however remote.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p4-450c21e4",
+     "text": "\"For evermore\" in reference to the praise of God must signify endless duration: are we wrong in believing that it bears the same meaning when it refers to gloomier themes? Can our hearts ever cease to praise the name of the Lord? Can we imagine a period in which the praises of Israel shall no more surround the throne of the Divine Majesty? Impossible. For ever, and more than \"for ever, \"if more can be, let him be magnified.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p5-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p6-5db77cf7",
+     "text": "Let then, O man, thy labouring soul strive to conceive (for 'tis impossible to express) what an immense debt of gratitude thou owest to him, who by his creating goodness called thee out of nothing to make thee a partaker of reason and even a sharer of immortality with himself; who by his preserving goodness designs to conduct thee safe through the various stages of thy eternal existence; and who by his redeeming goodness hath prepared for thee a happiness too big for the comprehension of a human understanding. Canst thou receive such endearments of love to thee and all mankind with insensibility and coldness?...In the whole compass of language what word is expressive enough to paint the black ingratitude of that man who is unaffected by, and entirely regardless of, the goodness of God his Creator and the mercies of Christ? —",
+     "verse": 2,
+     "anchor": "Blessed be the name of the LORD",
+     "quote": 1,
+     "author": "Jeremiah Seed",
+     "work": "1747",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p7-27fb8c15",
+     "text": "etc. No doubt the disciples that sat at that paschal table would repeat with mingled feelings of thanksgiving and sadness that ascription of praise. Blessed be the name of the LORD from this time forth and for evermore. But what Israelite in all the paschal chambers at Jerusalem on that night, as he sang the hallel or hymn, or which of the disciples at the sorrowing board of Jesus, could have understood or entered into the full meaning of the expression, \"from this time forth?\" From what time? I think St. John gives us a clue to the very hour and moment of which the Psalmist, perhaps unconsciously, spake.",
+     "verse": 2,
+     "anchor": "Blessed be the name of the LORD",
+     "quote": 2,
+     "author": "Barton Bouchier",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p8-3b6a4eb4",
+     "text": "He tells us, that when the traitor Judas had received the sop, he immediately went out; and that when he was gone out to clench as it were and ratify his treacherous purpose, Jesus said, \"Now is the Son of man glorified, and God is glorified in Him.\" From that time forth, when by the determinate counsel and foreknowledge of God, the Son of man was about to be delivered into the hands of wicked men, and crucified and slain, as Jesus looked at those around him, as sorrow had indeed filled their hearts, and as with all seeing, prescient eye he looked onwards and beheld all those that should hereafter believe on him through their word, with what significance and emphasis of meaning may we imagine the blessed Jesus on that night of anguish to have uttered these words of the hymn, \"Blessed be the name of the LORD from this time forth and for evermore\"!",
+     "quote": 2,
+     "author": "Barton Bouchier",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p9-6631ee2d",
+     "text": "\"A few more hours and the covenant will be sealed in my own blood; the compact ratified, when I hang upon the cross.\" And with what calm and confident assurance of triumph does he look upon that cross of shame; with what overflowing love does he point to it and say, \"And I, if I be lifted up, will draw all men unto me\"! It is the very same here in this Paschal Psalm; and how must the Saviour's heart have rejoiced even in the contemplation of those sufferings that awaited him, as he uttered this prediction, \"From the rising of the sun unto the going down of the same the LORD'S name is to be praised\"! \"That which thou sowest is not quickened except it die:\" and thus from that hour to the present the Lord hath added daily to the church those whom in every age and in every clime he hath chosen unto salvation, till, in his own appointed fulness of time, from the east and from the west, from the north and from the south, all nations shall do him service, and the \"earth be filled with the knowledge of the Lord as the waters cover the sea.\" —",
+     "quote": 2,
+     "author": "Barton Bouchier",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p10-ee8bafa8",
+     "text": "The servants of the Lord are to sing his praises in this life to the world's end; and in the next life, world without end. —",
+     "verse": 2,
+     "anchor": "From this time forth and for evermore",
+     "quote": 3,
+     "author": "John Boys",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p11-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p12-881ccc02",
+     "text": "1. The work of heaven begun on earth: to praise the name of the Lord.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p13-d663a54d",
+     "text": "2. The work of earth continued in heaven: \"and for evermore.\" If the praise begun on earth be continued in heaven, we must be in heaven to continue the praise. —G. R.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p14-9face62f",
+     "text": "1. It is time to begin to praise: \"from this time.\" Is there not special reason, from long arrears, from present duty, etc.?",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.2#p15-59730227",
+     "text": "2. There is no time for leaving off praise: \"and for evermore.\" None supposable or excusable.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.3",
+   "range": "PSA.113.3",
+   "kind": "passage",
+   "hash": "2305eff4",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.3#p1-d1f1e04f",
+     "text": "From early morn till eve the ceaseless hymn should rise unto Jehovah's throne, and from east to west over the whole round earth pure worship should be rendered unto his glory. So ought it to be; and blessed be God, we are not without faith that so it shall be. We trust that ere the world's dread evening comes, the glorious name of the Lord will be proclaimed among all nations, and all people shall call him blessed. At the first proclamation of the gospel the name of the Lord was glorious throughout the whole earth; shall it not be much more so ere the end shall be? At any rate, this is the desire of our souls. Meanwhile, let us endeavour to sanctify every day with praise to God. At early dawn let us emulate the opening flowers and the singing birds,",
+     "verse": 3,
+     "anchor": "From the rising of the sun unto the going down of the same the LORD'S name is to be praised",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p2-d76dda51",
+     "text": "\"Chanting every day their lauds,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p3-16af74ad",
+     "text": "While the grove their song applauds;",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p4-5082d6c6",
+     "text": "Wake for shame my sluggish heart,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p5-cf2f9cfd",
+     "text": "Wake and gladly sing thy part.\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p6-160b3fc6",
+     "text": "It is a marvel of mercy that the sun should rise on the rebellious sons of men, and prepare for the undeserving fruitful seasons and days of pleasantness; let us for this prodigy of goodness praise the Lord of all. From hour to hour let us renew the strain, for each moment brings its mercy; and when the sun sinks to his rest, let us not cease our music, but lift up the vesper hymn —",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p7-43d64c0c",
+     "text": "\"Father of heaven and earth!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p8-1fd06c4a",
+     "text": "I bless thee for the night,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p9-97c03cfa",
+     "text": "The soft still night!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p10-b1e3fcb7",
+     "text": "The holy pause of care and mirth,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p11-419bd33e",
+     "text": "Of sound and light.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p12-63ea46c5",
+     "text": "Now far in glade and dell,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p13-44e154b6",
+     "text": "Flower cup, and bud, and bell",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p14-3be335d6",
+     "text": "Have shut around the sleeping woodlark's nest,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p15-44166550",
+     "text": "The bee's long murmuring toils are done,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p16-50f55059",
+     "text": "And I, the over wearied one,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p17-e4421cdf",
+     "text": "Bless thee, O God, O Father of the oppressed!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p18-ffe22a27",
+     "text": "With my last waking thought.\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p19-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p20-370ec1f4",
+     "text": "That is everywhere, from east to west. These western parts of the world are particularly prophesied of to enjoy the worship of God after the Jews which were in the east; and these islands of ours that lie in the sea, into which the sun is said to go down, which is an expression of the old Greek poets; and the prophet here useth such a word in the Hebrew, where the west is called, according to the vulgar conceit, the sunset, or the sun's going down, or going in. —",
+     "verse": 3,
+     "anchor": "From the rising of the sun unto the going down of the same",
+     "quote": 1,
+     "author": "Samuel Torshell",
+     "work": "1641",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p21-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p22-b0382286",
+     "text": "God is to be praised.",
+     "verse": 3,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p23-81ba4f68",
+     "text": "1. All the day.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p24-a7f6dd04",
+     "text": "2. All the world over.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p25-60597626",
+     "text": "3. Publicly in the light.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p26-ec5bf6a3",
+     "text": "4. Amidst daily duties.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p27-19cb63c5",
+     "text": "5. Always —because it is always day somewhere.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p28-2e11e15a",
+     "text": "1. Canonical hours abolished.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p29-62a31804",
+     "text": "2. Holy places abolished —since we cannot be always in them.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.3#p30-07bd9ad2",
+     "text": "3. Every time and place consecrated.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.4",
+   "range": "PSA.113.4",
+   "kind": "passage",
+   "hash": "c0570d66",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.4#p1-766e0a18",
+     "text": "Though the Gentiles knew him not, yet was Jehovah their ruler: their false gods were no gods, and their kings were puppets in his hands. The Lord is high above all the learning, judgment, and imagination of heathen sages, and far beyond the pomp and might of the monarchs of the nations. Like the great arch of the firmament, the presence of the Lord spans all the lands where dwell the varied tribes of men, for his providence is universal: this may well excite our confidence and praise. And his glory above the heavens: higher than the loftiest part of creation; the clouds are the dust of his feet, and sun, moon, and stars twinkle far below his throne.",
+     "verse": 4,
+     "anchor": "The Lord is high above all nations",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p2-580d5642",
+     "text": "Even the heaven of heavens cannot contain him. His glory cannot be set forth by the whole visible universe, nor even by the solemn pomp of angelic armies; it is above all conception and imagination, for he is God —infinite. Let us above all adore him who is above all.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p3-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p4-51654af5",
+     "text": "The LORD is high...The LORD our God dwelleth on high. But how high is he?",
+     "verse": 4,
+     "verse_end": 5,
+     "quote": 1,
+     "author": "Answer",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p5-4b4bf345",
+     "text": "1. So high, that all creatures bow before him and do homage to him according to their several aptitudes and abilities. John brings them all in, attributing to him the crown of glory, putting it from themselves, but setting it upon his head, as a royalty due only to him. (Re 5:13)",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Re 5:13",
+       "ref": "REV.5.13"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p6-25a91b23",
+     "text": "(a) Some by way of subjection, stooping to him: angels and saints worship him, acknowledging his highness, by denying their own, but setting up his will as their supreme law and excellency.",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p7-b9f8016e",
+     "text": "(b) Others acknowledge his eminency by their consternation upon the least shining forth of his glory; when he discovers but the emblems of his greatness, devils tremble, men quake, Jas 2:19; Isa 33:14.",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Jas 2:19",
+       "ref": "JAS.2.19"
+      },
+      {
+       "text": "Isa 33:14",
+       "ref": "ISA.33.14"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p8-5f208301",
+     "text": "(c) Thirdly, even inanimate creatures, by compliance with, and ready subjection to, the impressions of his power, Hab 3:9-11 Isa 48:13 Da 4:35.",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Hab 3:9-11",
+       "ref": "HAB.3.9-11"
+      },
+      {
+       "text": "Isa 48:13",
+       "ref": "ISA.48.13"
+      },
+      {
+       "text": "Da 4:35",
+       "ref": "DAN.4.35"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p9-ffcd5876",
+     "text": "2. He is so high that he surmounts all created capacity to comprehend him, Job 11:7-9. So that indeed, in David's phrase, his greatness is \"unsearchable, \" Ps 145:3. In a word, he is so high,",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Job 11:7-9",
+       "ref": "JOB.11.7-9"
+      },
+      {
+       "text": "Ps 145:3",
+       "ref": "PSA.145.3"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p10-74fdcb2b",
+     "text": "(a) That no bodily eye hath ever, or can possibly see him.",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.4#p11-e069151b",
+     "text": "(b) Neither can the eye of the understanding perfectly reach him. He dwells in inaccessible light that no mortal eye can attain to. —Condensed from a sermon by Thomas Hedges, entitled, \"A Glimpse of God's Glory, \"1642.",
+     "section": "notes"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.5",
+   "range": "PSA.113.5",
+   "kind": "passage",
+   "hash": "9eb10a76",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.5#p1-6ac40285",
+     "text": "The challenge will never be answered. None can be compared with him for an instant; Israel's God is without parallel; our own God in covenant stands alone, and none can be likened unto him. Even those whom he has made like himself in some respects are not like him in godhead, for his divine attributes are many of them incommunicable and inimitable. None of the metaphors and figures by which the Lord is set forth in the Scriptures can give us a complete idea of him; his full resemblance is borne by nothing in earth or in heaven.",
+     "verse": 5,
+     "anchor": "Who is like unto the LORD our God?",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p2-4ba7d029",
+     "text": "Only in Jesus is the Godhead seen, but he unhesitatingly declared \"he that hath seen me hath seen the Father.\" Who dwelleth on high. In the height of his abode none can be like him. His throne, his whole character, his person, his being, everything about him, is lofty, and infinitely majestic, so that none can be likened unto him. His serene mind abides in the most elevated condition, he is never dishonoured, nor does he stoop from the pure holiness and absolute perfection of his character.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p3-f18db953",
+     "text": "His saints are said to dwell on high, and in this they are the reflection of his glory; but as for himself, the height of his dwelling place surpasses thought, and he rises far above the most exalted of his glorified people.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p4-fbf0a22d",
+     "text": "\"Eternal Power! whose high abode",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p5-f318eb93",
+     "text": "Becomes the grandeur of a God:",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p6-0f4f2751",
+     "text": "Infinite lengths beyond the bounds",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p7-391ef315",
+     "text": "Where stars revolve their little rounds.\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p8-136b7b32",
+     "text": "\"The lowest step around thy seat",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p9-b3f81362",
+     "text": "Rises too high for Gabriel's feet;",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p10-10f251fb",
+     "text": "In vain the tall archangel tries",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p11-7c48c3c2",
+     "text": "To reach thine height with wondering eyes.\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p12-b8033b63",
+     "text": "\"Lord, what shall earth and ashes do?",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p13-d4a7c4b6",
+     "text": "We would adore our Maker too;",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p14-605ef42f",
+     "text": "From sin and dust to thee we cry,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p15-0940c3ee",
+     "text": "The Great, the Holy, and the High!\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p16-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p17-204e65db",
+     "text": "1. The greatness of God as viewed from below, ver. 5.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p18-2a305a6c",
+     "text": "2. The condescension of God as viewed from above, ver. 6.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p19-19cbd651",
+     "text": "(a) In creation.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p20-4763120b",
+     "text": "(b) In the Incarnation.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p21-05bd36de",
+     "text": "(c) In redemption. —G. R.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p22-54407362",
+     "text": "The unparalleled condescension of God.",
+     "verse": 5,
+     "verse_end": 6,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p23-4dcf24f8",
+     "text": "1. None are so great, and therefore able to stoop so low.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p24-a892de36",
+     "text": "2. None are so good, and therefore so willing to stoop.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p25-2ea8e7a8",
+     "text": "3. None are so wise, and therefore so able to \"behold\" or know the needs of little things.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.5#p26-79cffee7",
+     "text": "4. None are infinite, and therefore able to enter into minutiae and sympathize with the smallest grief: Infinity is seen in the minute as truly as in the immense.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.6",
+   "range": "PSA.113.6",
+   "kind": "passage",
+   "hash": "86bb278c",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.6#p1-d363a979",
+     "text": "He dwells so far on high that even to observe heavenly things he must humble himself.",
+     "verse": 6,
+     "anchor": "Who humbleth himself to behold the things that are in heaven, and in the earth!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p2-641524a4",
+     "text": "He must stoop to view the skies, and bow to see what angels do. What, then, must be his condescension, seeing that he observes the humblest of his servants upon earth, and makes them sing for joy like Mary when she said, \"Thou hast regarded the low estate of thine handmaiden.\" How wonderful are those words of Isaiah, \"For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.\" Heathen philosophers could not believe that the great God was observant of the small events of human history; they pictured him as abiding in serene indifference to all the wants and woes of his creatures.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p3-e0b9bf99",
+     "text": "\"Our Rock is not as their rock\"; we have a God who is high above all gods, and yet who is our Father, knowing what we have need of before we ask him; our Shepherd, who supplies our needs; our Guardian, who counts the hairs of our heads; our tender and considerate Friend, who sympathizes in all our griefs. Truly the name of our condescending God should be praised wherever it is known.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p4-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p5-9e0909c6",
+     "text": "Whatever may be affirmed of God, may be affirmed of him infinitely, and whatever he is, he is infinitely.",
+     "verse": 6,
+     "anchor": "Who humbleth himself",
+     "quote": 1,
+     "author": "Valentine Nalson",
+     "work": "1641-1724",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p6-278b7c85",
+     "text": "So the psalmist, in this place, does not speak of God as humble, but as infinitely and superlatively so, humble beyond all conception and comparison; he challenges the whole universe of created nature, from the highest immortal spirit in heaven to the lowest mortal on earth, to show a being endued with so much humility, as the adorable majesty of the great God of Heaven and earth...If some instances of the Divine humility surprise, the following may amaze us: To see the great King of heaven stooping from his height, and condescending himself to offer terms of reconciliation to his rebellious creatures! To see offended majesty courting the offenders to accept of pardon!",
+     "quote": 1,
+     "author": "Valentine Nalson",
+     "work": "1641-1724",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p7-6ec249c0",
+     "text": "To see God persuading, entreating and beseeching men to return to him with such earnestness and importunity, as if his very life were bound up in them, and his own happiness depended upon theirs! To see the adorable Spirit of God, with infinite long suffering and gentleness, submitting to the contempt and insults of such miserable, despicable wretches as sinful mortals are! Is not this amazing? —",
+     "quote": 1,
+     "author": "Valentine Nalson",
+     "work": "1641-1724",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p8-fec4538a",
+     "text": "If it be such condescension for God to behold things in heaven and earth, what an amazing condescension was it for the Son of God to come from heaven to earth and take our nature upon him, that he might seek and save them that were lost! Here indeed he humbled himself. —",
+     "verse": 6,
+     "anchor": "Who humbleth himself to behold",
+     "quote": 2,
+     "author": "Matthew Henry",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p9-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p10-7039c579",
+     "text": "1. The same God rules in heaven and earth.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p11-524f4ca7",
+     "text": "2. Both spheres are dependent for happiness upon his beholding them.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p12-5931b868",
+     "text": "3. They both enjoy his consideration.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.6#p13-24cc51ad",
+     "text": "4. All things done in them are equally under his inspection.",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.7",
+   "range": "PSA.113.7",
+   "kind": "passage",
+   "hash": "c1ed31bc",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.7#p1-e278daa2",
+     "text": "This is an instance of his gracious stoop of love: he frequently lifts the lowest of mankind out of their poverty and degradation and places them in positions of power and honour. His good Spirit is continually visiting the down trodden, giving beauty for ashes to those who are cast down, and elevating the hearts of his mourners till they shout for joy. These up liftings of grace are here ascribed directly to the divine hand, and truly those who have experienced them will not doubt the fact that it is the Lord alone who brings his people up from the dust of sorrow and death.",
+     "verse": 7,
+     "anchor": "He raiseth up the poor out of the dust",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p2-26323a11",
+     "text": "When no hand but his can help he interposes, and the work is done. It is worth while to be cast down to be so divinely raised from the dust. And lifteth the needy out of the dunghill, whereon they lay like worthless refuse, cast off and cast out, left as they thought to rot into destruction, and to be everlastingly forgotten. How great a stoop from the height of his throne to a dunghill!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p3-d50fdb0a",
+     "text": "How wonderful that power which occupies itself in lifting up beggars, all befouled with the filthiness in which they lay! For he lifts them out of the dunghill, not disdaining to search them out from amidst the base things of the earth that he may by their means bring to nought the great ones, and pour contempt upon all human glorying. What a dunghill was that upon which we lay by nature! What a mass of corruption is our original estate! What a heap of loathsomeness we have accumulated by our sinful lives!",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p4-ceca05c1",
+     "text": "What reeking abominations surround us in the society of our fellow men! We could never have risen out of all this by our own efforts, it was a sepulchre in which we saw corruption, and were as dead men. Almighty were the arms which lifted us, which are still lifting us, and will lift us into the perfection of heaven itself. Praise ye the Lord.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p5-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p6-62bad821",
+     "text": "etc. There is no doubt a reference in this to the respect which God pays even to the lower ranks of the race, seeing that \"he raiseth up the poor, and lifteth up the needy.\" I have no doubt there is reference throughout the whole of this psalm to evangelical times; that, in this respect, it is a prophetic psalm, including a reference especially to Christianity, as it may be called by eminence and distinction the religion of the poor —its greatest glory.",
+     "verse": 7,
+     "anchor": "He raiseth up the poor",
+     "quote": 1,
+     "author": "Richard Watson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p7-d62d796c",
+     "text": "For when John the Baptist sent two disciples to Jesus, to know whether he was the Messiah or not, the answer of our Lord was, \"The blind see, the lepers are cleansed, the dead are raised\" —all extraordinary events —miracles, in short, which proved his divine commission. And he summed up the whole by saying, \"The poor have the gospel preached unto them; \"as great a miracle as any —as great a distinction as any. There never was a religion but the true religion, in all its various dispensations, that had equal respect to all classes of society.",
+     "quote": 1,
+     "author": "Richard Watson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p8-48394afa",
+     "text": "In all others there was a privileged class, but here there is none. Perhaps one of the most interesting views of Christianity we can take is its wonderful adaptation to the character and circumstances of the poor. What an opportunity does it furnish for the manifestation of the bright and mild graces of the Holy Spirit! What sources of comfort does it open to mollify the troubles of life! and how often, in choosing the poor, rich in faith, to make them heirs of the kingdom, does God exalt the poor out of the dust, and the needy from the dunghill! —",
+     "quote": 1,
+     "author": "Richard Watson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p9-edc838a2",
+     "text": "etc. Gideon is fetched from threshing, Saul from seeking the asses, and David from keeping the sheep; the apostles from fishing are sent to be \"fishers of men.\" The treasure of the gospel is put into earthen vessels, and the weak and the foolish ones of the world pitched upon to be preachers of it, to confound the \"wise and mighty\" (1Co 1:27-28), that the excellency of the power may be of God, and all may see that promotion comes from him. —",
+     "verse": 7,
+     "anchor": "He raiseth up the poor",
+     "quote": 2,
+     "author": "Matthew Henry",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "1Co 1:27-28",
+       "ref": "1CO.1.27-28"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p10-b93fc546",
+     "text": "The highest honour, which was ever done to any mere creature, was done out of regard to the lowest humility; the Son of God had such regard to the lowliness of the blessed virgin, that he did her the honour to choose her for the mother of his holy humanity. It is an observation of S. Chrysostom, that that very hand which the humble John Baptist thought not worthy to unloose the shoe on our blessed Saviour's feet, that hand our Lord thought worthy to baptize his sacred head. —",
+     "verse": 7,
+     "anchor": "He raiseth up the poor",
+     "quote": 3,
+     "author": "Valentine Nalson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p11-296a188b",
+     "text": "which denotes a mean condition; so one born in a mean place, and brought up in a mean manner, is sometimes represented as taken out of a dunghill; and also it is expressive of a filthy one; men by sin are not only brought into a low estate, but into a loathsome one, and are justly abominable in the sight of God, and yet he lifts them out of it: the phrases of raising up and lifting out suppose them to be fallen, as men are in Adam, fallen from a state of honour and glory, in and out of which they cannot deliver themselves; it is Christ's work, and his only, to raise up the tribes of Jacob, and to help or lift up his servant Israel. Isa 49:6 Lu 1:54; see 1Sa 2:8. —",
+     "verse": 7,
+     "anchor": "And lifteth the needy out of the dunghill",
+     "quote": 4,
+     "author": "John Gill",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Isa 49:6",
+       "ref": "ISA.49.6"
+      },
+      {
+       "text": "Lu 1:54",
+       "ref": "LUK.1.54"
+      },
+      {
+       "text": "1Sa 2:8",
+       "ref": "1SA.2.8"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p12-b7f73bf6",
+     "text": "Rejoice, then, in the favourable notice God taketh of you. The highest and greatest of beings vouchsafes to regard you. Though you are poor and mean, and men overlook you; though your brethren hate you, and your friends go far from you, yet hear! God looketh down from his majestic throne upon you. Amidst the infinite variety of his works, you are not overlooked. Amidst the nobler services of ten thousand times ten thousand saints and angels, not one of your fervent prayers or humble groans escapes his ear. —",
+     "verse": 7,
+     "anchor": "The poor...the needy",
+     "quote": 5,
+     "author": "Job Orton",
+     "work": "1717-1783",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p13-259d177a",
+     "text": "Almighty God cannot look above himself, as having no superiors; nor about himself, as having no equals; he beholds such as are below him; and therefore the lower a man is, the nearer unto God; he resists the proud, and gives grace to the humble, 1Pe 5:5. He pulls down the mighty from their seat, and exalteth them of low degree. The Most High hath special eye to such as are most humble; for, as it followeth in our text, \"he taketh up the simple out of the dust, and lifteth the poor out of the dirt.\" —",
+     "verse": 7,
+     "quote": 6,
+     "author": "John Boys",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "1Pe 5:5",
+       "ref": "1PE.5.5"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p14-fc49e526",
+     "text": "An emblem of the deepest poverty and desertion; for in Syria and Palestine the man who is shut out from society lies upon the mezbele (the dunghill or heap of ashes), by day calling upon the passers by for alms, and by night hiding himself in the ashes that have been warmed by the sun. —",
+     "verse": 7,
+     "anchor": "Dunghill",
+     "quote": 7,
+     "author": "Franz Delitzsch",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p15-039b2f88",
+     "text": "The passages of the Bible, in which the word occurs, all seem to refer, as Parkhurst remarks, to the stocks of cow dung and other offal stuff, which the easterns for want of wood were obliged to lay up for fuel. —",
+     "verse": 7,
+     "anchor": "Dunghill",
+     "quote": 8,
+     "author": "Richard Mant",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p16-2b0cecdc",
+     "text": "These verses are taken almost word for word from the prayer of Hannah, 1Sa 2:8. The transition to the \"people\" is all the more natural, as Hannah, considering herself at the conclusion as the type of the church, with which every individual among the Israelites felt himself much more closely entwined than can easily be the case among ourselves, draws out of the salvation imparted to herself joyful prospects for the future. —",
+     "verse": 7,
+     "verse_end": 8,
+     "quote": 9,
+     "author": "E. W. Hengstenberg",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "1Sa 2:8",
+       "ref": "1SA.2.8"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p17-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p18-9d0dbda0",
+     "text": "The gospel and its special eye to the poor.",
+     "verse": 7,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p19-8cb0a6be",
+     "text": "1. Where men are? In the dust of sorrow and on the dunghill of sin.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p20-45aa2ba2",
+     "text": "2. Who interferes to help them? He who dwelleth on high.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.7#p21-f922413c",
+     "text": "3. What does he effect for them? \"Raiseth, lifteth, setteth among princes, among princes of his people.\"",
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.8",
+   "range": "PSA.113.8",
+   "kind": "passage",
+   "hash": "c2cec1cd",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.8#p1-7a205b55",
+     "text": "The Lord does nothing by halves: when he raises men from the dust he is not content till he places them among the peers of his kingdom. We are made kings and priests unto God, and we shall reign for ever and ever. Instead of poverty, he gives us the wealth of princes; and instead of dishonour, he gives us a more exalted rank than that of the great ones of the earth. Even with the princes of his people. All his people are princes, and so the text teaches us that God places needy souls whom he favours among the princes of princes.",
+     "verse": 8,
+     "anchor": "That he may set him with princes",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p2-a377ee82",
+     "text": "He often enables those who have been most despairing to rise to the greatest heights of spirituality and gracious attainment, for those who once were last shall be first. Paul, though less than the least of all saints was, nevertheless, made to be not a whit behind the very chief of the apostles; and in our own times, Bunyan, the blaspheming tinker, was raised into another John, whose dream almost rivals the visions of the Apocalypse.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p3-37b7ac6f",
+     "text": "\"Wonders of grace to God belong,",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p4-7b2e1157",
+     "text": "Repeat his mercies in your song.\"",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p5-d0b4e249",
+     "text": "Such verses as these should give great encouragement to those who are lowest in their own esteem. The Lord poureth contempt upon princes; but as for those who are in the dust and on the dunghill, he looks upon them with compassion, acts towards them in grace, and in their case displays the riches of his glory by Christ Jesus. Those who have experienced such amazing favour should sing continual hallelujahs to the God of their salvation.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p6-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p7-dedd6a89",
+     "text": "It is the honour that cometh from God that alone exalts. Whatever account the world may take of a poor man, he may be more precious in the eyes of God than the highest among men. The humble poor are here ranked, not with the princes of the earth, but with \"the princes of his people.\" The distinctions in this world, even among those who serve the same God, are as nothing in his sight when contrasted with that honour which is grounded on the free grace of God to his own. But here, also, the fulness of this statement will only be seen in the world to come, when all the faithful will be owned as kings and priests unto God. —",
+     "verse": 8,
+     "anchor": "Even with the princes of his people",
+     "quote": 1,
+     "author": "W. Wilson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p8-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.8#p9-4f65b3e1",
+     "text": "Elevation to the peerage of heaven; or, the Royal Family increased.",
+     "verse": 8,
+     "section": "hints"
+    }
+   ]
+  },
+  {
+   "id": "spurgeon/PSA.113.9",
+   "range": "PSA.113.9",
+   "kind": "passage",
+   "hash": "f453db5f",
+   "paragraphs": [
+    {
+     "id": "spurgeon/PSA.113.9#p1-ab927c1f",
+     "text": "The strong desire of the easterns to have children caused the birth of offspring to be hailed as the choicest of favours, while barrenness was regarded as a curse; hence this verse is placed last as if to crown the whole, and to serve as a climax to the story of God's mercy. The glorious Lord displays his condescending grace in regarding those who are despised on account of their barrenness, whether it be of body or of soul. Sarah, Rachel, the wife of Manoah, Hannah, Elizabeth, and others were all instances of the miraculous power of God in literally fulfilling the statement of the psalmist.",
+     "verse": 9,
+     "anchor": "He maketh the barren woman to keep house, and to be a joyful mother of children",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p2-b8d4969c",
+     "text": "Women were not supposed to have a house till they had children; but in certain cases where childless women pined in secret the Lord visited them in mercy, and made them not only to have a house, but to keep it. The Gentile church is a spiritual example upon a large scale of the gift of fruitfulness after long years of hopeless barrenness; and the Jewish church in the latter days will be another amazing display of the same quickening power: long forsaken for her spiritual adultery, Israel shall be forgiven, and restored, and joyously shall she keep that house which now is left unto her desolate.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p3-6180d7e4",
+     "text": "Nor is this all, each believer in the Lord Jesus must at times have mourned his lamentable barrenness; he has appeared to be a dry tree yielding no fruit to the Lord, and yet when visited by the Holy Ghost, he has found himself suddenly to be like Aaron's rod, which budded, and blossomed, and brought forth almonds. Or ever we have been aware, our barren heart has kept house, and entertained the Saviour, our graces have been multiplied as if many children had come to us at a single birth, and we have exceedingly rejoiced before the Lord. Then have we marvelled greatly at the Lord who dwelleth on high, that he has deigned to visit such poor worthless things.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p4-f5603f58",
+     "text": "Like Mary, we have lifted up our Magnificat, and like Hannah, we have said, \"There is none holy as the Lord; for there is none beside thee: neither is there any rock like our God.\" Praise ye the LORD. The music concludes upon its key note. The Psalm is a circle, ending where it began, praising the Lord from its first syllable to its last. May our life psalm partake of the same character, and never know a break or a conclusion. In an endless circle let us bless the Lord, whose mercies never cease. Let us praise him in youth, and all along our years of strength; and when we bow in the ripeness of abundant age, let us still praise the Lord, who doth not cast off his old servants.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p5-836dc977",
+     "text": "Let us not only praise God ourselves, but exhort others to do it; and if we meet with any of the needy who have been enriched, and with the barren who have been made fruitful, let us join with them in extolling the name of him whose mercy endureth for ever. Having been ourselves lifted from spiritual beggary and barrenness, let us never forget our former estate or the grace which has visited us, but world without end let us praise the Lord. Hallelujah.",
+     "section": "exposition"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p6-e9d92565",
+     "text": "Explanatory Notes and Quaint Sayings",
+     "heading": true,
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p7-d75d4b1e",
+     "text": "etc. Should a married woman, who has long been considered sterile, become a mother, her joy, and that of her husband and friends, will be most extravagant. \"They called her Malady, \"that is, \"Barren, \"\"but she has given us good fruit.\" \"My neighbours pointed at me, and said, Malady:but what will they say now?\" A man who on any occasion manifests great delight, is represented to be like the barren woman who has at length borne a child. Anything which is exceedingly valuable is thus described: \"This is as precious as the son of the barren woman\"; that is, of her who had long been reputed barren. —",
+     "verse": 9,
+     "anchor": "Ye maketh the barren woman to keep house",
+     "quote": 1,
+     "author": "Joseph Roberts",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p8-8d82ce2d",
+     "text": "etc. As baseness in men, so barrenness in women is accounted a great unhappiness. But as God lifteth up the beggar out of the mire, to set him with princes, even so doth he \"make the barren woman a joyful mother of children.\" He governs all things in the private family, as well as in the public weal. Children and the fruit of the womb are a gift and heritage that cometh of the Lord, Ps 127:3; and therefore the Papists in praying to S. Anne for children, and the Gentiles in calling upon Diana, Juno, Latona, are both in error. It is God only who makes the barren woman \"a mother, \"and that \"a joyful mother.\" Every mother is joyful at the first, according to that of Christ, \"a woman when she travaileth hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.\" Divines apply this also mystically to Christ, affirming that he made the church of the Gentiles, heretofore \"barren, \"\"a joyful mother of children, \"according to that of the prophet: \"Rejoice, O barren, that didst not bear; break forth into joy and rejoice, thou that didst not travail with child: for the desolate hath more children than the married wife, saith the Lord, \"Isa 54:1. Or it may be construed of true Christians: all of us are by nature barren of goodness, conceived and born in sin, not able to think a good thought (2Co 3:5); but the Father of lights and mercies makes us fruitful and abundant always in the work of the Lord (1Co 15:58); he giveth us grace to be fathers and mothers of many good deeds, which are our children and best heirs, eternizing our name for ever. —",
+     "verse": 9,
+     "anchor": "He maketh the barren woman to keep house",
+     "quote": 2,
+     "author": "John Boys",
+     "section": "notes",
+     "refs": [
+      {
+       "text": "Ps 127:3",
+       "ref": "PSA.127.3"
+      },
+      {
+       "text": "2Co 3:5",
+       "ref": "2CO.3.5"
+      },
+      {
+       "text": "1Co 15:58",
+       "ref": "1CO.15.58"
+      }
+     ]
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p9-4e72dd8e",
+     "text": "is the poor, forsaken, distressed Christian church, whom the false church oppresses, defies, and persecutes, and regards as useless, miserable, barren, because she herself is greater and more populous, the greatest part of the world. —",
+     "verse": 9,
+     "anchor": "The barren woman",
+     "quote": 3,
+     "author": "Joshua Arndt",
+     "work": "1626-1685",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p10-455ae835",
+     "text": "We may look abroad, and see abundant occasion for praising God, —in his condescension to human affairs, —in his lifting up the poor from the humblest condition, —in his exalting those of lowly rank to places of honour, trust, wealth, and power; but, after all, if we wish to find occasions of praise that will most tenderly affect the heart, and be connected with the warmest affections of the soul, they will be most likely to be found in the domestic circle —in the mutual love —the common joys the tender feelings —which bind together the members of a family. —",
+     "verse": 9,
+     "anchor": "Praise ye the Lord",
+     "quote": 4,
+     "author": "Albert Barnes",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p11-cf5a68ba",
+     "text": "The very hearing of the comfortable changes which the Lord can make and doth make the afflicted to find, is a matter of refreshment to all, and of praise to God from all. —",
+     "verse": 9,
+     "anchor": "Praise ye the LORD",
+     "quote": 5,
+     "author": "David Dickson",
+     "section": "notes"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p12-77c2c17b",
+     "text": "Hints to the Village Preacher",
+     "heading": true,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p13-8848eb1a",
+     "text": "For mothers' meetings. \"A joyful mother of children.\"",
+     "verse": 9,
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p14-d817741b",
+     "text": "1. It is a joy to be a mother.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p15-b778b3b7",
+     "text": "2. It is specially so to have living, healthy, obedient children.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p16-bda523f0",
+     "text": "3. But best of all to have Christian children.... Praise is due to the Lord who gives such blessings.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p17-c11fbcf5",
+     "text": "1. A household God, or, God in the Household: \"He maketh, \"etc. Have you children? It is of God. Have you lost children? It is of God. Have you been without children? It is of God.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p18-d4052c95",
+     "text": "2. Household worship, or, the God of the Household: \"Praise ye the Lord.\"",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p19-3c5dfd22",
+     "text": "(a) In the family.",
+     "section": "hints"
+    },
+    {
+     "id": "spurgeon/PSA.113.9#p20-1a0f77f1",
+     "text": "(b) For family mercies. —G. R.",
+     "section": "hints"
+    }
+   ]
+  }
+ ]
+}

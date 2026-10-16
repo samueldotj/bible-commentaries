@@ -53,6 +53,9 @@ because it is small, and Henry because readers are most likely to want it.
   lemmas, and Greek put back.
 - [x] Trapp (`tools/import_trapp.py`): 27,595 units, re-keyed by verse text.
 - [ ] Early Church Fathers.
+- [x] Spurgeon, The Treasury of David (`tools/import_spurgeon.py`): 2,486
+  units on the Psalms, each paragraph marked overview, exposition, notes or
+  hints; the notes' authors and works taken out as for the Early Church Fathers.
 
 ## 3. Translation tool
 

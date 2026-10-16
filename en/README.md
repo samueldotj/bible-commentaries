@@ -46,6 +46,12 @@ importer, not the files.
   - `footnote: true` marks a footnote: Calvin's editors' notes, or Trapp's Latin and Greek sources.
     Its marker stays in the text it belongs to, as `{55}` or `{a}`, and the footnote follows that
     paragraph.
+  - Spurgeon (`spurgeon`, the Psalms only):
+    - `section` is `overview`, `exposition`, `notes` (Explanatory Notes and Quaint Sayings) or `hints`
+      (Hints to the Village Preacher), and a heading opens the notes and the hints in each unit;
+    - `verse_end` is the last verse of a label such as "Verses 1, 2.";
+    - a note's `author` and `work` are taken out of its text, and `quote` numbers the notes of a unit,
+      as for the Early Church Fathers.
 - **`refs`:** the references in a paragraph.
   - `text` is written as the commentator wrote it ("Mal. ii. 7", "Ro 3:31"), so the translator can
     find it.
