@@ -1,0 +1,1732 @@
+{
+ "_comment": "Written by tools/build_fathers.py from data/fathers.toml and Wikidata (CC0); do not edit.",
+ "Abba Poemen": {
+  "lived": "340–450",
+  "year": 450,
+  "place": "Wadi El Natrun, Egypt",
+  "lat": 30.4167,
+  "lon": 30.3333,
+  "wikidata": "Q1255493"
+ },
+ "Abraham of Nathpar": {
+  "lived": "6th–7th century",
+  "year": 650,
+  "wikidata": "Q121327114"
+ },
+ "Acacius of Beroea": {
+  "lived": "c. 330–c. 430",
+  "year": 430,
+  "place": "Aleppo, Syria",
+  "lat": 36.2,
+  "lon": 37.16,
+  "wikidata": "Q337191"
+ },
+ "Acacius of Caesarea": {
+  "lived": "c. 300–366",
+  "year": 366,
+  "place": "Caesarea Maritima, Israel",
+  "lat": 32.5011,
+  "lon": 34.8923,
+  "wikidata": "Q337196"
+ },
+ "Acts of Peter": {
+  "lived": "2nd century",
+  "year": 150,
+  "wikidata": "Q1231858"
+ },
+ "Acts of Peter and Paul": {
+  "wikidata": "Q1151139"
+ },
+ "Adamantius": {
+  "lived": "3rd century",
+  "year": 350,
+  "wikidata": "Q4680115"
+ },
+ "Adamnán of Iona": {
+  "lived": "c. 624–704",
+  "year": 704,
+  "place": "Iona, United Kingdom",
+  "lat": 56.33,
+  "lon": -6.41,
+  "wikidata": "Q120132"
+ },
+ "Agapius of Hierapolis": {
+  "lived": "died c. 942",
+  "year": 942,
+  "place": "Hierapolis Bambyke, Syria",
+  "lat": 36.5302,
+  "lon": 37.9589,
+  "wikidata": "Q116563"
+ },
+ "Alcuin of York": {
+  "lived": "c. 740–804",
+  "year": 804,
+  "place": "Tours, France",
+  "lat": 47.3928,
+  "lon": 0.6883,
+  "wikidata": "Q154332"
+ },
+ "Alexander of Alexandria": {
+  "lived": "250–326",
+  "year": 326,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q44794"
+ },
+ "Alexander of Jerusalem": {
+  "lived": "2nd century–c. 251",
+  "year": 251,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q724702"
+ },
+ "Ambrose of Milan": {
+  "lived": "c. 339–397",
+  "year": 397,
+  "place": "Milan, Italy",
+  "lat": 45.4669,
+  "lon": 9.19,
+  "wikidata": "Q43689"
+ },
+ "Ambrosiaster": {
+  "lived": "4th century",
+  "year": 350,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q689146"
+ },
+ "Ammonas of Egypt": {
+  "lived": "3rd century",
+  "year": 250,
+  "wikidata": "Q695707"
+ },
+ "Amphilochius of Iconium": {
+  "lived": "c. 339–394",
+  "year": 394,
+  "place": "Konya, Turkey",
+  "lat": 37.8728,
+  "lon": 32.4921,
+  "wikidata": "Q474872"
+ },
+ "Andreas of Caesarea": {
+  "lived": "563–637",
+  "year": 637,
+  "place": "Kayseri, Turkey",
+  "lat": 38.7225,
+  "lon": 35.4875,
+  "wikidata": "Q501409"
+ },
+ "Andrew of Crete": {
+  "lived": "c. 660–c. 740",
+  "year": 740,
+  "place": "Gortyn, Greece",
+  "lat": 35.0601,
+  "lon": 24.9495,
+  "wikidata": "Q372688"
+ },
+ "Anthony the Great": {
+  "lived": "251–c. 357",
+  "year": 357,
+  "place": "Thebes, Egypt",
+  "lat": 25.7206,
+  "lon": 32.6103,
+  "wikidata": "Q170547"
+ },
+ "Aphrahat the Persian Sage": {
+  "lived": "270–346",
+  "year": 346,
+  "place": "Adiabene, Iraq",
+  "lat": 36.1911,
+  "lon": 44.0092,
+  "wikidata": "Q434222"
+ },
+ "Apollinaris of Laodicea": {
+  "lived": "c. 310–c. 390",
+  "year": 390,
+  "place": "Latakia, Syria",
+  "lat": 35.52,
+  "lon": 35.7781,
+  "wikidata": "Q367946"
+ },
+ "Aponius": {
+  "lived": "4th–5th century",
+  "year": 450,
+  "wikidata": "Q3413779"
+ },
+ "Apostolic Constitutions": {
+  "wikidata": "Q620033"
+ },
+ "Apringius of Beja": {
+  "lived": "6th century",
+  "year": 550,
+  "place": "Beja, Portugal",
+  "lat": 38.015,
+  "lon": -7.8633,
+  "wikidata": "Q2696517"
+ },
+ "Arator": {
+  "lived": "died 543",
+  "year": 543,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q39454"
+ },
+ "Archelaus of Carrhae": {
+  "lived": "3rd century",
+  "year": 250,
+  "wikidata": "Q3413787"
+ },
+ "Arethas of Caesarea": {
+  "lived": "c. 860–935",
+  "year": 935,
+  "place": "Kayseri, Turkey",
+  "lat": 38.7225,
+  "lon": 35.4875,
+  "wikidata": "Q290771"
+ },
+ "Arnobius of Sicca": {
+  "lived": "255–327",
+  "year": 327,
+  "place": "El Kef, Tunisia",
+  "lat": 36.1667,
+  "lon": 8.7,
+  "wikidata": "Q342416"
+ },
+ "Arnobius the Younger": {
+  "lived": "died 455",
+  "year": 455,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q278370"
+ },
+ "Asterius of Cappadocia": {
+  "lived": "c. 270–c. 341",
+  "year": 341,
+  "wikidata": "Q2657803"
+ },
+ "Athanasius of Alexandria": {
+  "lived": "296–373",
+  "year": 373,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q44024"
+ },
+ "Athenagoras of Athens": {
+  "lived": "2nd century",
+  "year": 150,
+  "place": "Athens, Greece",
+  "lat": 37.9842,
+  "lon": 23.7281,
+  "wikidata": "Q309772"
+ },
+ "Augustine of Hippo": {
+  "lived": "354–430",
+  "year": 430,
+  "place": "Hippo Regius, Algeria",
+  "lat": 36.8825,
+  "lon": 7.75,
+  "wikidata": "Q8018"
+ },
+ "Basil of Caesarea": {
+  "lived": "329–379",
+  "year": 379,
+  "place": "Kayseri, Turkey",
+  "lat": 38.7225,
+  "lon": 35.4875,
+  "wikidata": "Q44258"
+ },
+ "Basil of Seleucia": {
+  "lived": "435–468",
+  "year": 468,
+  "place": "Silifke, Turkey",
+  "lat": 36.3783,
+  "lon": 33.9261,
+  "wikidata": "Q3434480"
+ },
+ "Bede": {
+  "lived": "c. 672–735",
+  "year": 735,
+  "place": "Jarrow, United Kingdom",
+  "lat": 54.9814,
+  "lon": -1.49,
+  "wikidata": "Q154938"
+ },
+ "Benedict of Nursia": {
+  "lived": "480–547",
+  "year": 547,
+  "place": "Abbey of Monte Cassino, Italy",
+  "lat": 41.49,
+  "lon": 13.814,
+  "wikidata": "Q44265"
+ },
+ "Berengaudus": {
+  "lived": "840–892",
+  "year": 892,
+  "wikidata": "Q819031"
+ },
+ "Book of Biblical Antiquities": {
+  "wikidata": "Q837700"
+ },
+ "Book of Enoch": {
+  "wikidata": "Q220890"
+ },
+ "Book of Jubilees": {
+  "lived": "c. 150 BC",
+  "year": -150,
+  "wikidata": "Q843946"
+ },
+ "Book of Steps": {
+  "wikidata": "Q3237719"
+ },
+ "Braulio of Zaragoza": {
+  "lived": "c. 590–651",
+  "year": 651,
+  "place": "Cesaracosta, Spain",
+  "lat": 41.6542,
+  "lon": -0.8775,
+  "wikidata": "Q849117"
+ },
+ "Caesarius of Arles": {
+  "lived": "c. 470–542",
+  "year": 542,
+  "place": "Arles, France",
+  "lat": 43.6769,
+  "lon": 4.6286,
+  "wikidata": "Q304832"
+ },
+ "Caius Presbyter of Rome": {
+  "lived": "2nd–3rd century",
+  "year": 250,
+  "wikidata": "Q2441699"
+ },
+ "Callistus I of Rome": {
+  "lived": "died 222",
+  "year": 222,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q122376"
+ },
+ "Cassiodorus": {
+  "lived": "c. 487–583",
+  "year": 583,
+  "place": "Scylletium, Italy",
+  "lat": 38.807,
+  "lon": 16.5933,
+  "wikidata": "Q192365"
+ },
+ "Chromatius of Aquileia": {
+  "lived": "c. 335–407",
+  "year": 407,
+  "place": "Aquileia, Italy",
+  "lat": 45.7733,
+  "lon": 13.3665,
+  "wikidata": "Q774567"
+ },
+ "Clement of Alexandria": {
+  "lived": "c. 150–c. 215",
+  "year": 215,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q188883"
+ },
+ "Clement of Rome": {
+  "lived": "died 99",
+  "year": 99,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q42887"
+ },
+ "Commodian": {
+  "lived": "c. 250–c. 313",
+  "year": 313,
+  "wikidata": "Q1115768"
+ },
+ "Cosmas Indicopleustes": {
+  "lived": "6th century",
+  "year": 550,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q355633"
+ },
+ "Cosmas of Maiuma": {
+  "lived": "c. 675–c. 760",
+  "year": 760,
+  "place": "Maiuma, Palestine",
+  "lat": 31.5167,
+  "lon": 34.45,
+  "wikidata": "Q2496948"
+ },
+ "Council of Carthage of 411": {
+  "lived": "411",
+  "year": 411,
+  "place": "Carthage, Tunisia",
+  "lat": 36.8526,
+  "lon": 10.3235,
+  "wikidata": "Q2991984"
+ },
+ "Council of Carthage of 419": {
+  "lived": "419",
+  "year": 419,
+  "place": "Carthage, Tunisia",
+  "lat": 36.8526,
+  "lon": 10.3235,
+  "wikidata": "Q42364092"
+ },
+ "Council of Constantinople of 381": {
+  "lived": "381",
+  "year": 381,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q179826"
+ },
+ "Council of Ephesus": {
+  "lived": "431",
+  "year": 431,
+  "place": "Ephesus, Turkey",
+  "lat": 37.9406,
+  "lon": 27.3394,
+  "wikidata": "Q184332"
+ },
+ "Cyprian": {
+  "lived": "c. 200–258",
+  "year": 258,
+  "place": "Carthage, Tunisia",
+  "lat": 36.8526,
+  "lon": 10.3235,
+  "wikidata": "Q190240"
+ },
+ "Cyril of Alexandria": {
+  "lived": "376–444",
+  "year": 444,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q44079"
+ },
+ "Cyril of Jerusalem": {
+  "lived": "c. 313–c. 386",
+  "year": 386,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q298654"
+ },
+ "Desert Fathers": {
+  "wikidata": "Q1066990"
+ },
+ "Diadochos of Photiki": {
+  "lived": "400–474",
+  "year": 474,
+  "wikidata": "Q1208079"
+ },
+ "Didache": {
+  "lived": "1st century",
+  "year": 50,
+  "wikidata": "Q210752"
+ },
+ "Didascalia Apostolorum": {
+  "wikidata": "Q1210450"
+ },
+ "Didymus the Blind": {
+  "lived": "c. 313–398",
+  "year": 398,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q188232"
+ },
+ "Diodorus of Tarsus": {
+  "lived": "330–394",
+  "year": 394,
+  "place": "Tarsus, Turkey",
+  "lat": 36.9167,
+  "lon": 34.9,
+  "wikidata": "Q729492"
+ },
+ "Dionysius of Alexandria": {
+  "lived": "190–264",
+  "year": 264,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q328736"
+ },
+ "Dorotheos of Gaza": {
+  "lived": "510–565",
+  "year": 565,
+  "place": "Gaza City, Palestine",
+  "lat": 31.5075,
+  "lon": 34.4597,
+  "wikidata": "Q391419"
+ },
+ "Ephrem the Syrian": {
+  "lived": "c. 306–373",
+  "year": 373,
+  "place": "Edessa, Turkey",
+  "lat": 37.15,
+  "lon": 38.7825,
+  "wikidata": "Q200608"
+ },
+ "Epiphanius Scholasticus": {
+  "lived": "6th century",
+  "year": 550,
+  "wikidata": "Q710039"
+ },
+ "Epiphanius of Salamis": {
+  "lived": "c. 315–403",
+  "year": 403,
+  "place": "Salamis, Northern Cyprus",
+  "lat": 35.1833,
+  "lon": 33.9,
+  "wikidata": "Q313922"
+ },
+ "Epistle of Barnabas": {
+  "wikidata": "Q262557"
+ },
+ "Epistle to Diognetus": {
+  "lived": "2nd century",
+  "year": 150,
+  "wikidata": "Q621454"
+ },
+ "Eucherius of Lyon": {
+  "lived": "380–449",
+  "year": 449,
+  "place": "Lyon, France",
+  "lat": 45.7675,
+  "lon": 4.835,
+  "wikidata": "Q671419"
+ },
+ "Eugippius": {
+  "lived": "460–533",
+  "year": 533,
+  "place": "Castel dell'Ovo, Italy",
+  "lat": 40.8283,
+  "lon": 14.2477,
+  "wikidata": "Q738491"
+ },
+ "Eusebius of Caesarea": {
+  "lived": "c. 265–c. 340",
+  "year": 340,
+  "place": "Caesarea Maritima, Israel",
+  "lat": 32.5011,
+  "lon": 34.8923,
+  "wikidata": "Q142999"
+ },
+ "Eusebius of Emesa": {
+  "lived": "295–360",
+  "year": 360,
+  "place": "Homs, Syria",
+  "lat": 34.7333,
+  "lon": 36.7167,
+  "wikidata": "Q474586"
+ },
+ "Eusebius of Gaul": {
+  "lived": "died 371",
+  "year": 371,
+  "wikidata": "Q18214704"
+ },
+ "Eusebius of Vercelli": {
+  "lived": "283–371",
+  "year": 371,
+  "place": "Vercelli, Italy",
+  "lat": 45.3261,
+  "lon": 8.4234,
+  "wikidata": "Q181489"
+ },
+ "Eustathius of Antioch": {
+  "lived": "c. 270–c. 337",
+  "year": 337,
+  "place": "Antakya, Turkey",
+  "lat": 36.2025,
+  "lon": 36.1606,
+  "wikidata": "Q511971"
+ },
+ "Evagrius Ponticus": {
+  "lived": "c. 345–399",
+  "year": 399,
+  "place": "Wadi El Natrun, Egypt",
+  "lat": 30.4167,
+  "lon": 30.3333,
+  "wikidata": "Q437869"
+ },
+ "Eznik of Kolb": {
+  "lived": "c. 380–c. 450",
+  "year": 450,
+  "wikidata": "Q281146"
+ },
+ "Fabian of Rome": {
+  "lived": "c. 200–250",
+  "year": 250,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q131159"
+ },
+ "Facundus of Hermiane": {
+  "lived": "6th century–c. 570",
+  "year": 570,
+  "wikidata": "Q2626977"
+ },
+ "Fastidius": {
+  "lived": "5th century",
+  "year": 450,
+  "wikidata": "Q11697706"
+ },
+ "Faustus of Riez": {
+  "lived": "died 495",
+  "year": 495,
+  "place": "Riez, France",
+  "lat": 43.8181,
+  "lon": 6.0928,
+  "wikidata": "Q2351792"
+ },
+ "Fructuosus of Braga": {
+  "lived": "7th century–665",
+  "year": 665,
+  "place": "Braga, Portugal",
+  "lat": 41.5333,
+  "lon": -8.4167,
+  "wikidata": "Q705395"
+ },
+ "Fulgentius of Ruspe": {
+  "lived": "c. 468–533",
+  "year": 533,
+  "place": "Ruspe, Tunisia",
+  "lat": 35.0143,
+  "lon": 11.001,
+  "wikidata": "Q380089"
+ },
+ "Gaius Marius Victorinus": {
+  "lived": "290–364",
+  "year": 364,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q708247"
+ },
+ "Gaudentius of Brescia": {
+  "lived": "327–410",
+  "year": 410,
+  "place": "Brescia, Italy",
+  "lat": 45.5389,
+  "lon": 10.2203,
+  "wikidata": "Q279427"
+ },
+ "Gaudentius of Rimini": {
+  "lived": "4th century–360",
+  "year": 360,
+  "place": "Rimini, Italy",
+  "lat": 44.0594,
+  "lon": 12.5683,
+  "wikidata": "Q1447596"
+ },
+ "Gennadius of Constantinople": {
+  "lived": "died 471",
+  "year": 471,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q463201"
+ },
+ "Gennadius of Massilia": {
+  "lived": "died 496",
+  "year": 496,
+  "place": "Marseille, France",
+  "lat": 43.2967,
+  "lon": 5.3764,
+  "wikidata": "Q373675"
+ },
+ "Gospel of the Hebrews": {
+  "wikidata": "Q1231372"
+ },
+ "Gregory of Elvira": {
+  "lived": "4th century",
+  "year": 350,
+  "place": "Granada, Spain",
+  "lat": 37.175,
+  "lon": -3.6,
+  "wikidata": "Q1362875"
+ },
+ "Gregory of Nazianzus": {
+  "lived": "329–389",
+  "year": 389,
+  "place": "Nazianzus, Turkey",
+  "lat": 38.3944,
+  "lon": 34.3814,
+  "wikidata": "Q44011"
+ },
+ "Gregory of Neocaesarea": {
+  "lived": "213–270",
+  "year": 270,
+  "place": "Niksar, Turkey",
+  "lat": 40.5833,
+  "lon": 36.9667,
+  "wikidata": "Q337537"
+ },
+ "Gregory of Nyssa": {
+  "lived": "c. 335–c. 395",
+  "year": 395,
+  "place": "Nyssa, Turkey",
+  "lat": 38.9543,
+  "lon": 33.9592,
+  "wikidata": "Q191734"
+ },
+ "Gregory the Dialogist": {
+  "lived": "c. 540–604",
+  "year": 604,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q42827"
+ },
+ "Haimo of Auxerre": {
+  "place": "Auxerre, France",
+  "lat": 47.7975,
+  "lon": 3.5669,
+  "wikidata": "Q2934990"
+ },
+ "Haymo of Halberstadt": {
+  "lived": "778–853",
+  "year": 853,
+  "place": "Halberstadt, Germany",
+  "lat": 51.8958,
+  "lon": 11.0467,
+  "wikidata": "Q472833"
+ },
+ "Hegemonius": {
+  "lived": "4th century",
+  "year": 350,
+  "wikidata": "Q3129377"
+ },
+ "Hegesippus": {
+  "lived": "110–180",
+  "year": 180,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q503230"
+ },
+ "Heracleon": {
+  "lived": "2nd century",
+  "year": 150,
+  "wikidata": "Q946929"
+ },
+ "Hesychius of Jerusalem": {
+  "lived": "4th century–c. 451",
+  "year": 451,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q1616094"
+ },
+ "Hilary of Arles": {
+  "lived": "401–449",
+  "year": 449,
+  "place": "Arles, France",
+  "lat": 43.6769,
+  "lon": 4.6286,
+  "wikidata": "Q532018"
+ },
+ "Hilary of Poitiers": {
+  "lived": "315–367",
+  "year": 367,
+  "place": "Poitiers, France",
+  "lat": 46.5811,
+  "lon": 0.3353,
+  "wikidata": "Q44344"
+ },
+ "Hippolytus of Rome": {
+  "lived": "c. 170–235",
+  "year": 235,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q207113"
+ },
+ "Ignatius of Antioch": {
+  "lived": "c. 35–108",
+  "year": 108,
+  "place": "Antioch, Turkey",
+  "lat": 36.2047,
+  "lon": 36.1817,
+  "wikidata": "Q44170"
+ },
+ "Irenaeus": {
+  "lived": "c. 130–c. 202",
+  "year": 202,
+  "place": "Lugdunum, Gaul",
+  "lat": 45.7597,
+  "lon": 4.8194,
+  "wikidata": "Q182123"
+ },
+ "Isaac of Nineveh": {
+  "lived": "c. 640–c. 700",
+  "year": 700,
+  "place": "Mosul, Iraq",
+  "lat": 36.3417,
+  "lon": 43.1292,
+  "wikidata": "Q462966"
+ },
+ "Isaiah the Solitary": {
+  "lived": "died 491",
+  "year": 491,
+  "place": "Gaza City, Palestine",
+  "lat": 31.5075,
+  "lon": 34.4597,
+  "wikidata": "Q3155155"
+ },
+ "Ishodad of Merv": {
+  "lived": "died c. 850",
+  "year": 850,
+  "place": "Merv, Turkmenistan",
+  "lat": 37.6628,
+  "lon": 62.1925,
+  "wikidata": "Q213120"
+ },
+ "Isidore of Pelusium": {
+  "lived": "c. 370–c. 440",
+  "year": 440,
+  "place": "Pelusium, Egypt",
+  "lat": 31.05,
+  "lon": 32.6,
+  "wikidata": "Q713530"
+ },
+ "Isidore of Seville": {
+  "lived": "c. 560–636",
+  "year": 636,
+  "place": "Seville, Spain",
+  "lat": 37.3886,
+  "lon": -5.995,
+  "wikidata": "Q166876"
+ },
+ "Jacob of Edessa": {
+  "lived": "c. 633–708",
+  "year": 708,
+  "place": "Edessa, Turkey",
+  "lat": 37.15,
+  "lon": 38.7825,
+  "wikidata": "Q929541"
+ },
+ "Jacob of Serugh": {
+  "lived": "451–521",
+  "year": 521,
+  "place": "Suruç, Turkey",
+  "lat": 36.975,
+  "lon": 38.4244,
+  "wikidata": "Q947711"
+ },
+ "Jerome": {
+  "lived": "c. 345–c. 420",
+  "year": 420,
+  "place": "Bethlehem, Palestine",
+  "lat": 31.7044,
+  "lon": 35.2061,
+  "wikidata": "Q44248"
+ },
+ "John Cassian": {
+  "lived": "360–435",
+  "year": 435,
+  "place": "Marseille, France",
+  "lat": 43.2967,
+  "lon": 5.3764,
+  "wikidata": "Q313795"
+ },
+ "John Chrysostom": {
+  "lived": "c. 349–407",
+  "year": 407,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q43706"
+ },
+ "John Damascene": {
+  "lived": "c. 675–749",
+  "year": 749,
+  "place": "Holy Lavra of Saint Sabbas, Palestine",
+  "lat": 31.705,
+  "lon": 35.331,
+  "wikidata": "Q51884"
+ },
+ "John I of Antioch": {
+  "lived": "4th–5th century",
+  "year": 450,
+  "place": "Antioch, Turkey",
+  "lat": 36.2047,
+  "lon": 36.1817,
+  "wikidata": "Q1284149"
+ },
+ "John of Dalyatha": {
+  "lived": "7th century–780",
+  "year": 780,
+  "wikidata": "Q3175380"
+ },
+ "John of Karpathos": {
+  "lived": "7th century",
+  "year": 650,
+  "place": "Karpathos, Greece",
+  "lat": 35.5833,
+  "lon": 27.1333,
+  "wikidata": "Q3175460"
+ },
+ "John the Solitary": {
+  "lived": "5th century",
+  "year": 450,
+  "place": "Apamea, Syria",
+  "lat": 35.4167,
+  "lon": 36.4,
+  "wikidata": "Q3175852"
+ },
+ "Josephus": {
+  "lived": "37–100",
+  "year": 100,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q134461"
+ },
+ "Julian of Eclanum": {
+  "lived": "386–450",
+  "year": 450,
+  "place": "Aeculanum, Italy",
+  "lat": 41.054,
+  "lon": 15.0105,
+  "wikidata": "Q1662957"
+ },
+ "Julian of Toledo": {
+  "lived": "642–690",
+  "year": 690,
+  "place": "Toledo, Spain",
+  "lat": 39.8667,
+  "lon": -4.0333,
+  "wikidata": "Q722563"
+ },
+ "Julius Africanus": {
+  "lived": "c. 160–c. 240",
+  "year": 240,
+  "place": "Emmaus Nicopolis, Israel",
+  "lat": 31.8393,
+  "lon": 34.9895,
+  "wikidata": "Q317014"
+ },
+ "Julius Firmicus Maternus": {
+  "lived": "4th century",
+  "year": 350,
+  "wikidata": "Q367422"
+ },
+ "Justin Martyr": {
+  "lived": "c. 100–c. 165",
+  "year": 165,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q185117"
+ },
+ "Lateran Council of 649": {
+  "lived": "649",
+  "year": 649,
+  "place": "Lateran Palace, Italy",
+  "lat": 41.8867,
+  "lon": 12.5053,
+  "wikidata": "Q2642234"
+ },
+ "Leander of Seville": {
+  "lived": "c. 534–600",
+  "year": 600,
+  "place": "Seville, Spain",
+  "lat": 37.3886,
+  "lon": -5.995,
+  "wikidata": "Q577125"
+ },
+ "Leo the Great": {
+  "lived": "c. 390–461",
+  "year": 461,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q43954"
+ },
+ "Lucifer of Cagliari": {
+  "lived": "died 371",
+  "year": 371,
+  "place": "Cagliari, Italy",
+  "lat": 39.2167,
+  "lon": 9.1167,
+  "wikidata": "Q715214"
+ },
+ "Lucius Caecilius Firmianus Lactantius": {
+  "lived": "c. 240–c. 320",
+  "year": 320,
+  "place": "Trier, Germany",
+  "lat": 49.7557,
+  "lon": 6.6394,
+  "wikidata": "Q209102"
+ },
+ "Macarius of Egypt": {
+  "lived": "300–391",
+  "year": 391,
+  "place": "Wadi El Natrun, Egypt",
+  "lat": 30.4167,
+  "lon": 30.3333,
+  "wikidata": "Q43920"
+ },
+ "Macrina the Younger": {
+  "lived": "324–379",
+  "year": 379,
+  "place": "Amasya, Turkey",
+  "lat": 40.65,
+  "lon": 35.8333,
+  "wikidata": "Q239081"
+ },
+ "Magnus Felix Ennodius": {
+  "lived": "473–521",
+  "year": 521,
+  "place": "Pavia, Italy",
+  "lat": 45.1853,
+  "lon": 9.155,
+  "wikidata": "Q465322"
+ },
+ "Malchion": {
+  "lived": "fl. c. 270",
+  "year": 270,
+  "place": "Antioch, Turkey",
+  "lat": 36.2047,
+  "lon": 36.1817,
+  "wikidata": "Q3556918"
+ },
+ "Marcus Eremita": {
+  "lived": "360–430",
+  "year": 430,
+  "place": "Ancyra, Turkey",
+  "lat": 39.95,
+  "lon": 32.863,
+  "wikidata": "Q2073456"
+ },
+ "Marcus Minucius Felix": {
+  "lived": "2nd century–c. 260",
+  "year": 260,
+  "wikidata": "Q319423"
+ },
+ "Martin of Braga": {
+  "lived": "c. 515–c. 580",
+  "year": 580,
+  "place": "Braga, Portugal",
+  "lat": 41.5333,
+  "lon": -8.4167,
+  "wikidata": "Q450361"
+ },
+ "Martyrdom Of Polycarp": {
+  "wikidata": "Q1909841"
+ },
+ "Maximus of Turin": {
+  "lived": "4th century–420",
+  "year": 420,
+  "place": "Turin, Italy",
+  "lat": 45.0792,
+  "lon": 7.6761,
+  "wikidata": "Q1230495"
+ },
+ "Maximus the Confessor": {
+  "lived": "579–662",
+  "year": 662,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q206842"
+ },
+ "Melito of Sardis": {
+  "lived": "c. 100–c. 180",
+  "year": 180,
+  "place": "Sardis, Turkey",
+  "lat": 38.4883,
+  "lon": 28.0403,
+  "wikidata": "Q359945"
+ },
+ "Methodius of Olympus": {
+  "lived": "260–311",
+  "year": 311,
+  "wikidata": "Q518300"
+ },
+ "Muratorian fragment": {
+  "wikidata": "Q692665"
+ },
+ "Nemesius of Emesa": {
+  "lived": "c. 350–c. 420",
+  "year": 420,
+  "place": "Homs, Syria",
+  "lat": 34.7333,
+  "lon": 36.7167,
+  "wikidata": "Q960345"
+ },
+ "Nicetas of Remesiana": {
+  "lived": "335–414",
+  "year": 414,
+  "place": "Remesiana, Serbia",
+  "lat": 43.218,
+  "lon": 22.3074,
+  "wikidata": "Q2743461"
+ },
+ "Nilus of Sinai": {
+  "lived": "365–430",
+  "year": 430,
+  "place": "Mount Sinai, Egypt",
+  "lat": 28.5384,
+  "lon": 33.9752,
+  "wikidata": "Q770938"
+ },
+ "Novatian": {
+  "lived": "220–258",
+  "year": 258,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q222890"
+ },
+ "Odes of Solomon": {
+  "wikidata": "Q734548"
+ },
+ "Oecumenius": {
+  "lived": "10th century",
+  "year": 950,
+  "wikidata": "Q1959593"
+ },
+ "Olympiodorus of Alexandria": {
+  "lived": "6th century",
+  "year": 550,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q3351669"
+ },
+ "Oresiesis-Heru-sa Ast": {
+  "lived": "4th century",
+  "year": 350,
+  "wikidata": "Q3028078"
+ },
+ "Origen of Alexandria": {
+  "lived": "185–254",
+  "year": 254,
+  "place": "Caesarea Maritima, Israel",
+  "lat": 32.5011,
+  "lon": 34.8923,
+  "wikidata": "Q170472"
+ },
+ "Pachomius the Great": {
+  "lived": "292–348",
+  "year": 348,
+  "place": "Pbow, Egypt",
+  "lat": 26.1118,
+  "lon": 32.4047,
+  "wikidata": "Q298698"
+ },
+ "Pacian of Barcelona": {
+  "lived": "c. 310–c. 390",
+  "year": 390,
+  "place": "Barcelona, Spain",
+  "lat": 41.3825,
+  "lon": 2.1769,
+  "wikidata": "Q920309"
+ },
+ "Palladius of Galatia": {
+  "lived": "364–431",
+  "year": 431,
+  "place": "Galatia, Turkey",
+  "lat": 39.2667,
+  "lon": 32.9833,
+  "wikidata": "Q2047944"
+ },
+ "Pamphilus of Caesarea": {
+  "lived": "c. 250–309",
+  "year": 309,
+  "place": "Caesarea Maritima, Israel",
+  "lat": 32.5011,
+  "lon": 34.8923,
+  "wikidata": "Q1855156"
+ },
+ "Papias of Hierapolis": {
+  "lived": "c. 60–2nd century",
+  "year": 150,
+  "place": "Hierapolis, Turkey",
+  "lat": 37.925,
+  "lon": 29.1258,
+  "wikidata": "Q273053"
+ },
+ "Paschasius Radbertus": {
+  "lived": "792–865",
+  "year": 865,
+  "place": "Corbie, France",
+  "lat": 49.9089,
+  "lon": 2.5072,
+  "wikidata": "Q654858"
+ },
+ "Paschasius of Dumium": {
+  "wikidata": "Q109570565"
+ },
+ "Paterius": {
+  "lived": "6th century–606",
+  "year": 606,
+  "wikidata": "Q672439"
+ },
+ "Patrick of Ireland": {
+  "lived": "c. 385–c. 461",
+  "year": 461,
+  "place": "Saul, United Kingdom",
+  "lat": 54.3439,
+  "lon": -5.6745,
+  "wikidata": "Q165479"
+ },
+ "Paulinus of Milan": {
+  "lived": "c. 370–428",
+  "year": 428,
+  "place": "Milan, Italy",
+  "lat": 45.4669,
+  "lon": 9.19,
+  "wikidata": "Q3372687"
+ },
+ "Paulinus of Nola": {
+  "lived": "354–431",
+  "year": 431,
+  "place": "Nola, Italy",
+  "lat": 40.9333,
+  "lon": 14.5333,
+  "wikidata": "Q132473"
+ },
+ "Paulus Orosius": {
+  "lived": "c. 385–c. 418",
+  "year": 418,
+  "wikidata": "Q311456"
+ },
+ "Pelagius": {
+  "lived": "c. 354–c. 420",
+  "year": 420,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q162593"
+ },
+ "Peter Chrysologus": {
+  "lived": "380–450",
+  "year": 450,
+  "place": "Ravenna, Italy",
+  "lat": 44.4161,
+  "lon": 12.2017,
+  "wikidata": "Q328742"
+ },
+ "Peter of Alexandria": {
+  "lived": "3rd century–311",
+  "year": 311,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q365927"
+ },
+ "Philastrius of Brescia": {
+  "lived": "330–397",
+  "year": 397,
+  "place": "Brescia, Italy",
+  "lat": 45.5389,
+  "lon": 10.2203,
+  "wikidata": "Q731114"
+ },
+ "Phileas of Thmuis": {
+  "lived": "3rd century–c. 307",
+  "year": 307,
+  "place": "Thmuis, Egypt",
+  "lat": 30.9386,
+  "lon": 31.5164,
+  "wikidata": "Q2348355"
+ },
+ "Philo of Alexandria": {
+  "lived": "c. 15 BC–c. AD 50",
+  "year": 50,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q189597"
+ },
+ "Philoxenus of Mabbug": {
+  "lived": "c. 450–523",
+  "year": 523,
+  "place": "Hierapolis Bambyke, Syria",
+  "lat": 36.5302,
+  "lon": 37.9589,
+  "wikidata": "Q973954"
+ },
+ "Photios I of Constantinople": {
+  "lived": "c. 827–9th century",
+  "year": 850,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q243187"
+ },
+ "Polycarp of Smyrna": {
+  "lived": "69–155",
+  "year": 155,
+  "place": "İzmir, Turkey",
+  "lat": 38.4127,
+  "lon": 27.1384,
+  "wikidata": "Q192371"
+ },
+ "Polycrates Of Ephesus": {
+  "lived": "125–196",
+  "year": 196,
+  "place": "Ephesus, Turkey",
+  "lat": 37.9406,
+  "lon": 27.3394,
+  "wikidata": "Q943719"
+ },
+ "Pope Anterus": {
+  "lived": "died 236",
+  "year": 236,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q132100"
+ },
+ "Pope Dionysius": {
+  "lived": "c. 200–268",
+  "year": 268,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q131162"
+ },
+ "Pope Pontian": {
+  "lived": "died 235",
+  "year": 235,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q132113"
+ },
+ "Pope Urban I": {
+  "lived": "died 230",
+  "year": 230,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q125631"
+ },
+ "Pope Zephyrinus": {
+  "lived": "died 217",
+  "year": 217,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q101306"
+ },
+ "Possidius": {
+  "lived": "c. 370–437",
+  "year": 437,
+  "place": "Guelma, Algeria",
+  "lat": 36.4619,
+  "lon": 7.4258,
+  "wikidata": "Q718003"
+ },
+ "Potamius of Lisbon": {
+  "lived": "300–360",
+  "year": 360,
+  "place": "Lisbon, Portugal",
+  "lat": 38.708,
+  "lon": -9.139,
+  "wikidata": "Q3399943"
+ },
+ "Primasius of Hadrumetum": {
+  "lived": "6th century–553",
+  "year": 553,
+  "place": "Sousse, Tunisia",
+  "lat": 35.8333,
+  "lon": 10.6333,
+  "wikidata": "Q7243189"
+ },
+ "Proclus of Constantinople": {
+  "lived": "c. 390–446",
+  "year": 446,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q172926"
+ },
+ "Procopius of Gaza": {
+  "lived": "c. 465–c. 528",
+  "year": 528,
+  "place": "Gaza City, Palestine",
+  "lat": 31.5075,
+  "lon": 34.4597,
+  "wikidata": "Q557776"
+ },
+ "Prosper of Aquitaine": {
+  "lived": "c. 390–c. 463",
+  "year": 463,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q454652"
+ },
+ "Protoevangelium of James": {
+  "wikidata": "Q328435"
+ },
+ "Prudentius": {
+  "lived": "348–c. 413",
+  "year": 413,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q347250"
+ },
+ "Pseudo-Barnabas": {
+  "wikidata": "Q7254399"
+ },
+ "Pseudo-Chrysostom": {
+  "lived": "5th century",
+  "year": 450,
+  "wikidata": "Q4045945"
+ },
+ "Pseudo-Clement": {
+  "wikidata": "Q19659990"
+ },
+ "Pseudo-Cyprian": {
+  "lived": "3rd century",
+  "year": 250,
+  "wikidata": "Q66134384"
+ },
+ "Pseudo-Dionysius the Areopagite": {
+  "lived": "5th–6th century",
+  "year": 550,
+  "wikidata": "Q312816"
+ },
+ "Pseudo-Hegesippus": {
+  "lived": "4th century",
+  "year": 350,
+  "wikidata": "Q7254410"
+ },
+ "Pseudo-Ignatius": {
+  "lived": "4th century",
+  "year": 350,
+  "wikidata": "Q18910974"
+ },
+ "Pseudo-Jerome": {
+  "wikidata": "Q7254413"
+ },
+ "Pseudo-Macarius": {
+  "lived": "300–390",
+  "year": 390,
+  "wikidata": "Q15695469"
+ },
+ "Pseudo-Tertullian": {
+  "lived": "2nd century",
+  "year": 350,
+  "wikidata": "Q7254427"
+ },
+ "Quodvultdeus": {
+  "lived": "4th century–454",
+  "year": 454,
+  "place": "Carthage, Tunisia",
+  "lat": 36.8526,
+  "lon": 10.3235,
+  "wikidata": "Q608506"
+ },
+ "Rabanus Maurus": {
+  "lived": "c. 780–856",
+  "year": 856,
+  "place": "Mainz, Germany",
+  "lat": 49.9994,
+  "lon": 8.2736,
+  "wikidata": "Q160441"
+ },
+ "Remigius of Rheims": {
+  "name": "Remigius of Auxerre",
+  "lived": "841–908",
+  "year": 908,
+  "place": "Paris, France",
+  "lat": 48.8567,
+  "lon": 2.3522,
+  "wikidata": "Q1383306"
+ },
+ "Romanos the Melodist": {
+  "lived": "490–556",
+  "year": 556,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q221059"
+ },
+ "Sahdona the Syrian": {
+  "lived": "died 650",
+  "year": 650,
+  "place": "Edessa, Turkey",
+  "lat": 37.15,
+  "lon": 38.7825,
+  "wikidata": "Q3461534"
+ },
+ "Salvian the Presbyter": {
+  "lived": "c. 400–c. 470",
+  "year": 470,
+  "place": "Marseille, France",
+  "lat": 43.2967,
+  "lon": 5.3764,
+  "wikidata": "Q532684"
+ },
+ "Second Council of Constantinople": {
+  "lived": "553",
+  "year": 553,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q205227"
+ },
+ "Severian of Gabala": {
+  "lived": "c. 370–c. 430",
+  "year": 430,
+  "place": "Gabala, Syria",
+  "lat": 35.3597,
+  "lon": 35.9214,
+  "wikidata": "Q722953"
+ },
+ "Severus of Antioch": {
+  "lived": "456–538",
+  "year": 538,
+  "place": "Antioch, Turkey",
+  "lat": 36.2047,
+  "lon": 36.1817,
+  "wikidata": "Q729105"
+ },
+ "Shenoute the Archimandrite": {
+  "lived": "348–466",
+  "year": 466,
+  "place": "White Monastery, Egypt",
+  "lat": 26.5346,
+  "lon": 31.6457,
+  "wikidata": "Q1382081"
+ },
+ "Shepherd of Hermas": {
+  "wikidata": "Q898808"
+ },
+ "Sibylline Oracles": {
+  "wikidata": "Q740092"
+ },
+ "Socrates Scholasticus": {
+  "lived": "c. 380–c. 440",
+  "year": 440,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q336198"
+ },
+ "Sophronius of Jerusalem": {
+  "lived": "560–638",
+  "year": 638,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q317773"
+ },
+ "Sulpicius Severus": {
+  "lived": "c. 360–c. 420",
+  "year": 420,
+  "place": "Gaul, France",
+  "lat": 46.5,
+  "lon": 2.9,
+  "wikidata": "Q336704"
+ },
+ "Symeon the New Theologian": {
+  "lived": "949–1022",
+  "year": 1022,
+  "place": "Constantinople, Turkey",
+  "lat": 41.0122,
+  "lon": 28.976,
+  "wikidata": "Q381710"
+ },
+ "Syncletica of Alexandria": {
+  "lived": "380–460",
+  "year": 460,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q3394405"
+ },
+ "Tatian the Assyrian": {
+  "lived": "c. 120–c. 173",
+  "year": 173,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q272087"
+ },
+ "Tertullian": {
+  "lived": "c. 160–c. 240",
+  "year": 240,
+  "place": "Carthage, Tunisia",
+  "lat": 36.8526,
+  "lon": 10.3235,
+  "wikidata": "Q174929"
+ },
+ "The Liturgy Of The Blessed Apostles": {
+  "wikidata": "Q2263037"
+ },
+ "The Passion of Saints Perpetua and Felicity": {
+  "wikidata": "Q44227030"
+ },
+ "Theodore of Heraclea": {
+  "lived": "3rd century–355",
+  "year": 355,
+  "place": "Perinthus, Turkey",
+  "lat": 40.9709,
+  "lon": 27.9545,
+  "wikidata": "Q3983912"
+ },
+ "Theodore of Mopsuestia": {
+  "lived": "c. 350–428",
+  "year": 428,
+  "place": "Mopsuestia, Turkey",
+  "lat": 36.9578,
+  "lon": 35.6195,
+  "wikidata": "Q355664"
+ },
+ "Theodoret of Cyrus": {
+  "lived": "c. 393–457",
+  "year": 457,
+  "place": "Cyrrhus, Syria",
+  "lat": 36.7442,
+  "lon": 36.9592,
+  "wikidata": "Q317029"
+ },
+ "Theodorus of Tabennese": {
+  "lived": "c. 314–368",
+  "year": 368,
+  "place": "Tabenna, Egypt",
+  "lat": 26.0997,
+  "lon": 32.3802,
+  "wikidata": "Q770191"
+ },
+ "Theodotus of Ancyra": {
+  "lived": "4th century–445",
+  "year": 445,
+  "place": "Ankara, Turkey",
+  "lat": 39.9358,
+  "lon": 32.8387,
+  "wikidata": "Q4891141"
+ },
+ "Theognostus Of Alexandria": {
+  "lived": "c. 210–270",
+  "year": 270,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q3556912"
+ },
+ "Theonas of Alexandria": {
+  "lived": "died 300",
+  "year": 300,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q738752"
+ },
+ "Theophilus of Alexandria": {
+  "lived": "died 412",
+  "year": 412,
+  "place": "Alexandria, Egypt",
+  "lat": 31.1975,
+  "lon": 29.8925,
+  "wikidata": "Q365941"
+ },
+ "Theophilus of Antioch": {
+  "lived": "died 183",
+  "year": 183,
+  "place": "Antioch, Turkey",
+  "lat": 36.2047,
+  "lon": 36.1817,
+  "wikidata": "Q220787"
+ },
+ "Thietland of Einsiedeln": {
+  "lived": "died 964",
+  "year": 964,
+  "place": "Einsiedeln Abbey, Switzerland",
+  "lat": 47.1267,
+  "lon": 8.7514,
+  "wikidata": "Q113784236"
+ },
+ "Ticonius": {
+  "lived": "c. 330–c. 390",
+  "year": 390,
+  "wikidata": "Q1121669"
+ },
+ "Titus of Bostra": {
+  "lived": "c. 330–c. 378",
+  "year": 378,
+  "place": "Bosra, Syria",
+  "lat": 32.5167,
+  "lon": 36.4833,
+  "wikidata": "Q3529673"
+ },
+ "Tyrannius Rufinus": {
+  "lived": "c. 345–c. 411",
+  "year": 411,
+  "place": "Jerusalem, Israel",
+  "lat": 31.7767,
+  "lon": 35.2342,
+  "wikidata": "Q365835"
+ },
+ "Valentinus": {
+  "lived": "died 160",
+  "year": 160,
+  "place": "Rome, Italy",
+  "lat": 41.8931,
+  "lon": 12.4828,
+  "wikidata": "Q309864"
+ },
+ "Valerian of Cimiez": {
+  "lived": "died c. 460",
+  "year": 460,
+  "place": "Cimiez, France",
+  "lat": 43.7175,
+  "lon": 7.275,
+  "wikidata": "Q3554325"
+ },
+ "Verecundus of Junca": {
+  "lived": "6th century–552",
+  "year": 552,
+  "wikidata": "Q7921195"
+ },
+ "Victorinus of Pettau": {
+  "lived": "c. 250–303",
+  "year": 303,
+  "place": "Ptuj, Slovenia",
+  "lat": 46.4186,
+  "lon": 15.8714,
+  "wikidata": "Q469199"
+ },
+ "Vigilius of Thapsus": {
+  "lived": "5th century",
+  "year": 450,
+  "wikidata": "Q1749147"
+ },
+ "Vincent of Lérins": {
+  "lived": "died c. 445",
+  "year": 445,
+  "place": "Lérins Islands, France",
+  "lat": 43.5175,
+  "lon": 7.045,
+  "wikidata": "Q644057"
+ },
+ "Walafrid Strabo": {
+  "lived": "c. 808–849",
+  "year": 849,
+  "place": "Reichenau Island, Germany",
+  "lat": 47.6931,
+  "lon": 9.0631,
+  "wikidata": "Q456569"
+ }
+}

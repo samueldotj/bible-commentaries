@@ -1,0 +1,1370 @@
+# The authors quoted in the Early Church Fathers commentary, and the Wikidata
+# item for each. `tools/build_fathers.py` takes their years, city, modern
+# country and coordinates from Wikidata into data/fathers.json; nothing
+# datable is typed here.
+#
+#   wikidata = the author's item (or a council's, a text's)
+#   place    = the item of the city to show, when Wikidata's work location
+#              or place of death is not the one the author is known by
+#              ("none" when Wikidata's is misleading and there is no better)
+#   name     = the author's right name, when the module gives a wrong one
+#   none     = why there is no item (an anonymous or pseudonymous writer)
+#   checked  = false until someone has confirmed the item is the right one
+#
+# Ordered by how often the module quotes the author.
+
+[author."Augustine of Hippo"]
+wikidata = "Q8018"
+checked = true
+# Augustine of Hippo: Christian theologian, philosopher, and saint (354–430)
+
+[author."John Chrysostom"]
+wikidata = "Q43706"
+place = "Q16869"
+checked = true
+# John Chrysostom: Church father, Archbishop of Constantinople and Christian saint (c. 347–407)
+
+[author."Bede"]
+wikidata = "Q154938"
+place = "Q782155"
+checked = true
+# Bede: Anglo-Saxon monk, writer and saint (672/3–735)
+
+[author."Jerome"]
+wikidata = "Q44248"
+checked = true
+# Jerome: 4th and 5th-century Catholic and Eastern Orthodox saint and Doctor of the Church
+
+[author."Origen of Alexandria"]
+wikidata = "Q170472"
+checked = true
+# Origen: Christian scholar, ascetic, and theologian (c. 185 – c. 253)
+
+[author."Tertullian"]
+wikidata = "Q174929"
+place = "Q6343"
+checked = true
+# Tertullian: Roman Christian theologian and writer (c. 155 – c. 220)
+
+[author."Gregory the Dialogist"]
+wikidata = "Q42827"
+checked = true
+# Gregory I: 6th-century Roman Pope, theologian and Church Father, Catholic and Orthodox saint, 64th Bishop of Rome and Doctor of the Church
+
+[author."Cyril of Alexandria"]
+wikidata = "Q44079"
+checked = true
+# Cyril of Alexandria: Patriarchate of Alexandria from 412 to 444
+
+[author."Ambrose of Milan"]
+wikidata = "Q43689"
+checked = true
+# Ambrose: Roman theologian and Bishop of Milan (c. 340–397)
+
+[author."Oecumenius"]
+wikidata = "Q1959593"
+checked = true
+# Oecumenius: 10th century Bishop of Trikka, Thessaly
+
+[author."Theodoret of Cyrus"]
+wikidata = "Q317029"
+checked = true
+# Theodoret: 5th century Byzantine theologian and bishop
+
+[author."Ambrosiaster"]
+wikidata = "Q689146"
+place = "Q220"
+checked = true
+# Ambrosiaster: exegete of St. Paul's epistles
+
+[author."Clement of Alexandria"]
+wikidata = "Q188883"
+place = "Q87"
+checked = true
+# Clement of Alexandria: Christian theologian (c.150 – c.215)
+
+[author."Cyprian"]
+wikidata = "Q190240"
+checked = true
+# Cyprian: Bishop of Carthage and Christian writer (c.210-258)
+
+[author."Ephrem the Syrian"]
+wikidata = "Q200608"
+checked = true
+# Ephrem the Syrian: Syriac saint, theologian and writer (c. 306 – 373)
+
+[author."Irenaeus"]
+wikidata = "Q182123"
+checked = true
+# Irenaeus: 2nd-century Greek bishop and Doctor of the Church
+
+[author."Hilary of Poitiers"]
+wikidata = "Q44344"
+checked = true
+# Hilary of Poitiers: Bishop of Poitiers (c. 310 – c. 367)
+
+[author."Basil of Caesarea"]
+wikidata = "Q44258"
+place = "Q48338"
+checked = true
+# Basil of Caesarea: 4th-century Christian bishop, theologian, and saint (329–379)
+
+[author."Hippolytus of Rome"]
+wikidata = "Q207113"
+place = "Q220"
+checked = true
+# Hippolytus: Christian theologian and saint (c. 170–c. 235)
+
+[author."Philoxenus of Mabbug"]
+wikidata = "Q973954"
+place = "Q1400802"
+checked = true
+# Philoxenus of Mabbug: Assyrian writer and theologian (died 523)
+
+[author."Theodore of Mopsuestia"]
+wikidata = "Q355664"
+checked = true
+# Theodore of Mopsuestia: Christian theologian
+
+[author."Pelagius"]
+wikidata = "Q162593"
+place = "Q220"
+checked = true
+# Pelagius: 4th-century theologian, namesake of Pelagianism
+
+[author."Caesarius of Arles"]
+wikidata = "Q304832"
+checked = true
+# Caesarius of Arles: Merovingian archbishop and saint
+
+[author."Cassiodorus"]
+wikidata = "Q192365"
+checked = true
+# Cassiodorus: 6th-century Roman senator and scholar
+
+[author."Andreas of Caesarea"]
+wikidata = "Q501409"
+place = "Q48338"
+checked = true
+# Andreas of Caesarea: Greek theological writer; bishop of Caesarea
+
+[author."Eusebius of Caesarea"]
+wikidata = "Q142999"
+checked = true
+# Eusebius of Caesarea: Greek Christian scholar, c. 260–c. 339
+
+[author."Gregory of Nyssa"]
+wikidata = "Q191734"
+checked = true
+# Gregory of Nyssa: bishop of Nyssa Christian saint
+
+[author."Alcuin of York"]
+wikidata = "Q154332"
+checked = true
+# Alcuin: 8th-century Northumbrian scholar, clergyman, poet, and teacher
+
+[author."Pseudo-Chrysostom"]
+wikidata = "Q4045945"
+checked = true
+# Opus Imperfectum: 
+
+[author."Rabanus Maurus"]
+wikidata = "Q160441"
+checked = true
+# Rabanus Maurus: archbishop of Mainz and writer (d. 856)
+
+[author."Athanasius of Alexandria"]
+wikidata = "Q44024"
+checked = true
+# Athanasius of Alexandria: Pope of Alexandria from 328 to 373 (296–373)
+
+[author."Apostolic Constitutions"]
+wikidata = "Q620033"
+checked = true
+# Apostolic Constitutions: Christian collection of eight treatises which belongs to genre of the Church Orders
+
+[author."Cosmas Indicopleustes"]
+wikidata = "Q355633"
+checked = true
+# Cosmas Indicopleustes: 6th-century Greek traveller and merchant
+
+[author."Didymus the Blind"]
+wikidata = "Q188232"
+checked = true
+# Didymus the Blind: 4th century Alexandrian Christian theologian
+
+[author."Remigius of Rheims"]
+wikidata = "Q1383306"
+name = "Remigius of Auxerre"
+checked = true
+# Remigius of Auxerre: French philosopher and theologian (the module's Remigius is quoted through Aquinas's Catena Aurea, which quotes Remigius of Auxerre)
+
+[author."Cyril of Jerusalem"]
+wikidata = "Q298654"
+checked = true
+# Cyril of Jerusalem: Christian theologian, bishop, and saint (c. 313 – 386)
+
+[author."Gregory of Nazianzus"]
+wikidata = "Q44011"
+place = "Q1336978"
+checked = true
+# Gregory of Nazianzus: Christian saint and theologian (c. 329 – 390)
+
+[author."Desert Fathers"]
+wikidata = "Q1066990"
+checked = true
+# Desert Fathers: early Christian hermits, ascetics, and monks who lived mainly in the Scetes desert of Egypt beginning around the third century AD
+
+[author."Ignatius of Antioch"]
+wikidata = "Q44170"
+place = "Q200441"
+checked = true
+# Ignatius of Antioch: late 1st/early 2nd century Christian author and Patriarch of Antioch
+
+[author."John Cassian"]
+wikidata = "Q313795"
+checked = true
+# John Cassian: Christian monk and theologian
+
+[author."Gaius Marius Victorinus"]
+wikidata = "Q708247"
+checked = true
+# Gaius Marius Victorinus: Roman philosopher, theologian and writer
+
+[author."John Damascene"]
+wikidata = "Q51884"
+checked = true
+# John of Damascus: Christian monk, priest, hymnographer and apologist (675/6-749)
+
+[author."Methodius of Olympus"]
+wikidata = "Q518300"
+place = "none"
+checked = true
+# Methodius of Olympus: Christian bishop and martyr
+
+[author."Pseudo-Jerome"]
+wikidata = "Q7254413"
+checked = true
+# Pseudo-Jerome: name given to several authors misidentified as, or claiming to be, Saint Jerome
+
+[author."Primasius of Hadrumetum"]
+wikidata = "Q7243189"
+place = "Q180717"
+checked = true
+# Primasius of Hadrumetum: bishop of Hadrumetum (6th century)
+
+[author."Ishodad of Merv"]
+wikidata = "Q213120"
+place = "Q193325"
+checked = true
+# Ishodad of Merv: medieval bishop and theologian of the Church of the East
+
+[author."Pseudo-Clement"]
+wikidata = "Q19659990"
+checked = true
+# Pseudo-Clement: unknown author whose work purports to be by both Pope Clement I and Domitian's cousin Titus Flavius Clemens
+
+[author."Justin Martyr"]
+wikidata = "Q185117"
+checked = true
+# Justin Martyr: 2nd century CE Christian apologist and martyr
+
+[author."Hilary of Arles"]
+wikidata = "Q532018"
+checked = true
+# Hilary of Arles: bishop of Arles
+
+[author."Leo the Great"]
+wikidata = "Q43954"
+checked = true
+# Leo I: Pope from 440 to 461 (390–461)
+
+[author."Peter Chrysologus"]
+wikidata = "Q328742"
+place = "Q13364"
+checked = true
+# Peter Chrysologus: Bishop of Ravenna
+
+[author."Victorinus of Pettau"]
+wikidata = "Q469199"
+checked = true
+# Victorinus of Pettau: 3rd century Christian ecclesiastical writer
+
+[author."Severian of Gabala"]
+wikidata = "Q722953"
+place = "Q175923"
+checked = true
+# Severian of Gabala: bishop of Gabala
+
+[author."Diodorus of Tarsus"]
+wikidata = "Q729492"
+checked = true
+# Diodorus of Tarsus: bishop
+
+[author."Clement of Rome"]
+wikidata = "Q42887"
+checked = true
+# Clement: 4th Pope of the Catholic Church
+
+[author."Lucius Caecilius Firmianus Lactantius"]
+wikidata = "Q209102"
+checked = true
+# Lactantius: Roman Christian author (c. 250 - c. 325)
+
+[author."Shepherd of Hermas"]
+wikidata = "Q898808"
+checked = true
+# The Shepherd of Hermas: Christian literary work of the 1st or 2nd century
+
+[author."Chromatius of Aquileia"]
+wikidata = "Q774567"
+place = "Q2859274"
+checked = true
+# Chromatius: Bishop of Aquileia
+
+[author."Maximus of Turin"]
+wikidata = "Q1230495"
+checked = true
+# Maximus of Turin: 5th century bishop
+
+[author."Evagrius Ponticus"]
+wikidata = "Q437869"
+checked = true
+# Evagrius Ponticus: Christian Monk
+
+[author."Fulgentius of Ruspe"]
+wikidata = "Q380089"
+checked = true
+# Fulgentius of Ruspe: 6th-century Bishop of Ruspe
+
+[author."Apringius of Beja"]
+wikidata = "Q2696517"
+place = "Q3344424"
+checked = true
+# Apringius: Sixth-century Portuguese bishop
+
+[author."Ticonius"]
+wikidata = "Q1121669"
+checked = true
+# Ticonius: theologian of 4th-century North African Latin Christianity
+
+[author."Ancient Greek Expositor"]
+none = "anonymous"
+checked = true
+
+[author."Titus of Bostra"]
+wikidata = "Q3529673"
+place = "Q272680"
+checked = true
+# Titus of Bostra: Syrian bishop
+
+[author."Apollinaris of Laodicea"]
+wikidata = "Q367946"
+place = "Q200030"
+checked = true
+# Apollinaris of Laodicea: 4th-century Syrian bishop
+
+[author."Arnobius the Younger"]
+wikidata = "Q278370"
+checked = true
+# Arnobius the Younger: bishop of Gaul
+
+[author."Ammonius of Alexandria"]
+none = "the exegete (c. 500) has no item; Q473405 is a 3rd-century namesake"
+checked = true
+
+[author."Aphrahat the Persian Sage"]
+wikidata = "Q434222"
+checked = true
+# Aphrahat: 4th century Syriac-Christian theologian and author
+
+[author."Julian of Eclanum"]
+wikidata = "Q1662957"
+place = "Q380497"
+checked = true
+# Julian of Eclanum: Italian bishop
+
+[author."Isaac of Nineveh"]
+wikidata = "Q462966"
+place = "Q83317"
+checked = true
+# Isaac the Syrian: Eastern Orthodox saint
+
+[author."Novatian"]
+wikidata = "Q222890"
+checked = true
+# Novatian: 3rd century scholar, priest, theologian and antipope
+
+[author."Symeon the New Theologian"]
+wikidata = "Q381710"
+place = "Q16869"
+checked = true
+# Symeon the New Theologian: Christian saint, monk, and theologian
+
+[author."Olympiodorus of Alexandria"]
+wikidata = "Q3351669"
+place = "Q87"
+checked = true
+# Olympiodorus the Deacon: deacon of Alexandria, writer
+
+[author."Prudentius"]
+wikidata = "Q347250"
+checked = true
+# Prudentius: Roman writer
+
+[author."Salvian the Presbyter"]
+wikidata = "Q532684"
+checked = true
+# Salvian: Gaulish writer
+
+[author."Hesychius of Jerusalem"]
+wikidata = "Q1616094"
+place = "Q1218"
+checked = true
+# Hesychius of Jerusalem: Christian presbyter and exegete (5th century)
+
+[author."Polycarp of Smyrna"]
+wikidata = "Q192371"
+checked = true
+# Polycarp: bishop of Smyrna and martyr (69–155)
+
+[author."Didache"]
+wikidata = "Q210752"
+checked = true
+# Didache: 1st-century Koine Greek Christian text
+
+[author."Tyrannius Rufinus"]
+wikidata = "Q365835"
+checked = true
+# Tyrannius Rufinus: monk, historian, and theologian
+
+[author."Gennadius of Constantinople"]
+wikidata = "Q463201"
+place = "Q16869"
+checked = true
+# Gennadius of Constantinople: Patriarch of Constantinople
+
+[author."Theodore of Heraclea"]
+wikidata = "Q3983912"
+place = "Q11815679"
+checked = true
+# Theodoros of Heraclea: bishop (-355)
+
+[author."Dionysius of Alexandria"]
+wikidata = "Q328736"
+checked = true
+# Pope Dionysius of Alexandria: Head of the Church in Alexandria from 248 to 264
+
+[author."Arator"]
+wikidata = "Q39454"
+checked = true
+# Arator: late-antique Christian poet
+
+[author."Photios I of Constantinople"]
+wikidata = "Q243187"
+place = "Q16869"
+checked = true
+# Photios I of Constantinople: 9th Century Ecumenical Patriarch of Constantinople
+
+[author."Pacian of Barcelona"]
+wikidata = "Q920309"
+checked = true
+# Pacian: bishop of Barcelona
+
+[author."Procopius of Gaza"]
+wikidata = "Q557776"
+checked = true
+# Procopius of Gaza: Byzantine sophist and rhetorician
+
+[author."Epiphanius of Salamis"]
+wikidata = "Q313922"
+place = "Q767089"
+checked = true
+# Epiphanius of Salamis: 4th century Christian bishop and saint
+
+[author."Paterius"]
+wikidata = "Q672439"
+checked = true
+# Paterius: Italian bishop
+
+[author."Pseudo-Augustine"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Severus of Antioch"]
+wikidata = "Q729105"
+place = "Q200441"
+checked = true
+# Severus of Antioch: Patriarch of Antioch
+
+[author."Pachomius the Great"]
+wikidata = "Q298698"
+checked = true
+# Pachomius the Great: Egyptian saint
+
+[author."Isidore of Seville"]
+wikidata = "Q166876"
+place = "Q8717"
+checked = true
+# Isidore of Seville: Hispano-Roman scholar, theologian and bishop (c. 560–636)
+
+[author."Alexander of Alexandria"]
+wikidata = "Q44794"
+checked = true
+# Pope Alexandros of Alexandria: Patriarch of Alexandria
+
+[author."Gregory of Neocaesarea"]
+wikidata = "Q337537"
+checked = true
+# Gregory Thaumaturgus: Greek bishop and saint (c. 213 – 270)
+
+[author."Romanos the Melodist"]
+wikidata = "Q221059"
+checked = true
+# Romanos the Melodist: Greek hymnographer
+
+[author."Pseudo-Athanasius"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Haimo of Auxerre"]
+wikidata = "Q2934990"
+place = "Q167600"
+checked = true
+# Haimo of Auxerre: Carolingian priest and scholar
+
+[author."Peter of Alexandria"]
+wikidata = "Q365927"
+checked = true
+# Peter of Alexandria: Coptic pope of Alexandria
+
+[author."Nilus of Sinai"]
+wikidata = "Q770938"
+checked = true
+# Nilus of Sinai: Egyptian saint
+
+[author."Philo of Alexandria"]
+wikidata = "Q189597"
+checked = true
+# Philo of Alexandria: Hellenistic Jewish philosopher who lived in Alexandria (c. 20 BCE-c. 50 CE)
+
+[author."Thietland of Einsiedeln"]
+wikidata = "Q113784236"
+place = "Q125072234"
+checked = true
+# Thietland of Einsiedeln: 2nd Abbot of Einsiedeln Abbey
+
+[author."Epiphanius Scholasticus"]
+wikidata = "Q710039"
+checked = true
+# Epiphanius Scholasticus: translator of Greek works into Latin
+
+[author."Maximus the Confessor"]
+wikidata = "Q206842"
+place = "Q16869"
+checked = true
+# Maximus the Confessor: Christian monk, theologian, scholar and saint (c. 580 - 662)
+
+[author."Nicetas of Remesiana"]
+wikidata = "Q2743461"
+place = "Q1135157"
+checked = true
+# Nicetas of Remesiana: Bishop of Remesiana
+
+[author."Paulinus of Nola"]
+wikidata = "Q132473"
+checked = true
+# Paulinus of Nola: Christian bishop and saint
+
+[author."Aponius"]
+wikidata = "Q3413779"
+checked = true
+# Apponius: Christian exegete
+
+[author."Gregory of Elvira"]
+wikidata = "Q1362875"
+place = "Q8810"
+checked = true
+# Gregory of Elvira: bishop of Elvira
+
+[author."Sahdona the Syrian"]
+wikidata = "Q3461534"
+checked = true
+# Sahdona: Syrian bishop and theologian
+
+[author."Fabian of Rome"]
+wikidata = "Q131159"
+checked = true
+# Fabian: pope and bishop of Rome from 236 to 250
+
+[author."Leander of Seville"]
+wikidata = "Q577125"
+checked = true
+# Leander of Seville: bishop of Seville
+
+[author."Epistle of Barnabas"]
+wikidata = "Q262557"
+checked = true
+# Epistle of Barnabas: Greek Christian text (70–132 CE)
+
+[author."Quodvultdeus"]
+wikidata = "Q608506"
+place = "Q6343"
+checked = true
+# Quodvultdeus: Bishop of Carthage, saint
+
+[author."Theophilus of Antioch"]
+wikidata = "Q220787"
+checked = true
+# Theophilus of Antioch: Patriarch of Antioch from c.169 to c.183
+
+[author."Valerian of Cimiez"]
+wikidata = "Q3554325"
+place = "Q1092126"
+checked = true
+# Valerian of Cimiez: bishop
+
+[author."Papias of Hierapolis"]
+wikidata = "Q273053"
+place = "Q7428276"
+checked = true
+# Papias of Hierapolis: Greek Apostolic Father, Bishop of Hierapolis and author (c.60-c.130 AD)
+
+[author."Pseudo-Dionysius the Areopagite"]
+wikidata = "Q312816"
+checked = true
+# Pseudo-Dionysius the Areopagite: Greek philosopher
+
+[author."Arnobius of Sicca"]
+wikidata = "Q342416"
+place = "Q27155"
+checked = true
+# Arnobius: Christian apologist
+
+[author."Asterius of Cappadocia"]
+wikidata = "Q2657803"
+checked = true
+# Asterius the Sophist: Roman theologian
+
+[author."Callistus I of Rome"]
+wikidata = "Q122376"
+checked = true
+# Callixtus I: 3rd-century Roman pope and martyr, Catholic saint, 16th Bishop of Rome from c. 218 to c. 223
+
+[author."Josephus"]
+wikidata = "Q134461"
+checked = true
+# Josephus: Roman–Jewish historian and military leader (c. 37–c. 100)
+
+[author."Prosper of Aquitaine"]
+wikidata = "Q454652"
+checked = true
+# Prosper of Aquitaine: 5th-century Roman Christian writer
+
+[author."Martin of Braga"]
+wikidata = "Q450361"
+checked = true
+# Martin of Braga: bishop of Dumium
+
+[author."Oresiesis-Heru-sa Ast"]
+wikidata = "Q3028078"
+checked = true
+# Orsisius: 4th-century Egyptian monk and author
+
+[author."Pseudo-Origen"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Tatian the Assyrian"]
+wikidata = "Q272087"
+place = "Q220"
+checked = true
+# Tatian: 2nd century Assyrian Christian writer and theologian
+
+[author."Braulio of Zaragoza"]
+wikidata = "Q849117"
+checked = true
+# Braulio of Zaragoza: bishop of Zaragoza
+
+[author."Eusebius of Emesa"]
+wikidata = "Q474586"
+place = "Q131301"
+checked = true
+# Eusebius of Emesa: Greek Christian theologian, 300–360
+
+[author."Isidore of Pelusium"]
+wikidata = "Q713530"
+checked = true
+# Isidore of Pelusium: monk
+
+[author."Haymo of Halberstadt"]
+wikidata = "Q472833"
+checked = true
+# Haymo of Halberstadt: Roman Catholic bishop
+
+[author."Athenagoras of Athens"]
+wikidata = "Q309772"
+checked = true
+# Athenagoras of Athens: Greek philosopher and Father of the Church (c.133–c.190)
+
+[author."Benedict of Nursia"]
+wikidata = "Q44265"
+checked = true
+# Benedict of Nursia: founder of Christian monasticism, founder of the Benedictine order (480–547)
+
+[author."Gaudentius of Brescia"]
+wikidata = "Q279427"
+place = "Q6221"
+checked = true
+# Gaudentius of Brescia: Bishop of Brescia
+
+[author."Pope Anterus"]
+wikidata = "Q132100"
+checked = true
+# Anterus: Pope and Bishop of Rome from 235 to 236
+
+[author."Pope Urban I"]
+wikidata = "Q125631"
+checked = true
+# Urban I: 3rd‑century Roman bishop of Rome, Catholic saint, pope during the reign of Alexander Severus
+
+[author."Verecundus of Junca"]
+wikidata = "Q7921195"
+place = "none"
+checked = true
+# Verecundus of Junca: 6th-century writer and the bishop of Iunca
+
+[author."Vincent of Lérins"]
+wikidata = "Q644057"
+checked = true
+# Vincent of Lérins: 5th-century saint and theologian
+
+[author."Commodian"]
+wikidata = "Q1115768"
+checked = true
+# Commodian: 3rd century Christian poet and writer
+
+[author."Hegesippus"]
+wikidata = "Q503230"
+checked = true
+# Hegesippus: 2nd century Christian saint and chronicler
+
+[author."Pseudo-Basil"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Theonas of Alexandria"]
+wikidata = "Q738752"
+place = "Q87"
+checked = true
+# Pope Theonas of Alexandria: Egyptian priest (0300-0300)
+
+[author."Eznik of Kolb"]
+wikidata = "Q281146"
+checked = true
+# Eznik of Kolb: 5th-century Christian writer
+
+[author."Fructuosus of Braga"]
+wikidata = "Q705395"
+checked = true
+# Fructuosus of Braga: Bishop of Dumio
+
+[author."Paulus Orosius"]
+wikidata = "Q311456"
+checked = true
+# Orosius: Roman historian and theologian (c.375/385 – c.420 AD)
+
+[author."Pseudo-Macarius"]
+wikidata = "Q15695469"
+checked = true
+# Pseudo-Macarius: conventional designation of the anonymous author or authors of works falsely attributed to Macarius of Egypt
+
+[author."Theophilus of Alexandria"]
+wikidata = "Q365941"
+place = "Q87"
+checked = true
+# Pope Theophilus of Alexandria: Patriarch of Alexandria from 384 to 412
+
+[author."Book of Enoch"]
+wikidata = "Q220890"
+checked = true
+# Book of Enoch: ancient Jewish apocalyptic religious text, part of the canon of the Ethiopian-Orthodox Church
+
+[author."Didascalia Apostolorum"]
+wikidata = "Q1210450"
+checked = true
+# Didascalia Apostolorum: early Christian church order from the 3rd century
+
+[author."Nemesius of Emesa"]
+wikidata = "Q960345"
+place = "Q131301"
+checked = true
+# Nemesius: late 4th century Greek philosopher and bishop of Emesa
+
+[author."Abba Poemen"]
+wikidata = "Q1255493"
+checked = true
+# Poemen: Egyptian monk and desert father
+
+[author."Basil of Seleucia"]
+wikidata = "Q3434480"
+place = "Q650630"
+checked = true
+# Basil of Seleucia: 5th century Roman bishop and ecclesiastical writer
+
+[author."Julius Africanus"]
+wikidata = "Q317014"
+place = "Q847246"
+checked = true
+# Sextus Julius Africanus: Greco-Roman Christian traveller and historian (c.160–c.240)
+
+[author."Macarius of Egypt"]
+wikidata = "Q43920"
+checked = true
+# Macarius of Egypt: Egyptian Christian monk and hermit
+
+[author."Martyrdom Of Polycarp"]
+wikidata = "Q1909841"
+checked = true
+# Martyrdom of Polycarp: early Christian work describing the martyrdom of Polycarp, Bishop of Smyrna
+
+[author."Melito of Sardis"]
+wikidata = "Q359945"
+checked = true
+# Melito of Sardis: Ancient Roman Eunuch and saint
+
+[author."Paschasius of Dumium"]
+wikidata = "Q109570565"
+checked = true
+# Paschasius of Dumium: 
+
+[author."Polycrates Of Ephesus"]
+wikidata = "Q943719"
+checked = true
+# Polycrates of Ephesus: 2nd century bishop of Ephesus
+
+[author."Pope Zephyrinus"]
+wikidata = "Q101306"
+checked = true
+# Zephyrinus: Pope and Bishop of Rome from 199 to 217
+
+[author."Shenoute the Archimandrite"]
+wikidata = "Q1382081"
+checked = true
+# Shenute: Egyptian saint
+
+[author."Gaudentius of Rimini"]
+wikidata = "Q1447596"
+checked = true
+# Gaudentius of Rimini: Roman Catholic saint
+
+[author."Jacob of Serugh"]
+wikidata = "Q947711"
+place = "Q917836"
+checked = true
+# Jacob of Serugh: Syriac writer and bishop
+
+[author."Macrina the Younger"]
+wikidata = "Q239081"
+checked = true
+# Macrina the Younger: Christianikí agía
+
+[author."Odes of Solomon"]
+wikidata = "Q734548"
+checked = true
+# Odes of Solomon: pseudepigraphic book of the Bible
+
+[author."Palladius of Galatia"]
+wikidata = "Q2047944"
+checked = true
+# Palladius of Galatia: Galatian bishop
+
+[author."Paulinus of Milan"]
+wikidata = "Q3372687"
+place = "Q490"
+checked = true
+# Paulinus the Deacon: Roman hagiographer and writer
+
+[author."Potamius of Lisbon"]
+wikidata = "Q3399943"
+place = "Q597"
+checked = true
+# Potamius: author
+
+[author."Sophronius of Jerusalem"]
+wikidata = "Q317773"
+checked = true
+# Sophronius of Jerusalem: Patriarch of Jerusalem from 634 to 638
+
+[author."Sulpicius Severus"]
+wikidata = "Q336704"
+checked = true
+# Sulpicius Severus: Christian writer and historian and native of Aquitania (c. 363 – c. 425)
+
+[author."Vigilius of Thapsus"]
+wikidata = "Q1749147"
+checked = true
+# Vigilius of Thapsus: 5th-century bishop of Thapsus
+
+[author."Acacius of Caesarea"]
+wikidata = "Q337196"
+place = "Q319242"
+checked = true
+# Acacius of Caesarea: 4th-century Bishop of Caesarea and saint
+
+[author."Andrew of Crete"]
+wikidata = "Q372688"
+place = "Q1136193"
+checked = true
+# Andrew of Crete: Christian bishop and saint
+
+[author."Council of Ephesus"]
+wikidata = "Q184332"
+checked = true
+# First Council of Ephesus: ecumenical council in Ephesus in June–July 431, convened by Emperor Theodosius II
+
+[author."Diadochos of Photiki"]
+wikidata = "Q1208079"
+checked = true
+# Diadochos of Photiki: Byzantine bishop and saint
+
+[author."Gospel of the Hebrews"]
+wikidata = "Q1231372"
+checked = true
+# Gospel of the Hebrews: syncretic Jewish–Christian gospel surviving in brief quotations by the early Church Fathers and in apocryphal writings that contains traditions of Jesus' pre-existence, incarnation, baptism and temptation, along with some logia
+
+[author."Hegemonius"]
+wikidata = "Q3129377"
+checked = true
+# Hegemonius: 4th-century Christian writer
+
+[author."John of Dalyatha"]
+wikidata = "Q3175380"
+checked = true
+# John of Dalyatha: 
+
+[author."Liturgy of Saint Mark"]
+none = "not found on Wikidata"
+checked = true
+
+[author."Marcus Eremita"]
+wikidata = "Q2073456"
+checked = true
+# Marcus Eremita: Christian theologian, saint, and ascetic writer
+
+[author."Marcus Minucius Felix"]
+wikidata = "Q319423"
+checked = true
+# Marcus Minucius Felix: Latin-language writer
+
+[author."Martyrdom of Colluthus"]
+none = "not found on Wikidata"
+checked = true
+
+[author."Patrick of Ireland"]
+wikidata = "Q165479"
+checked = true
+# Saint Patrick: 5th-century Romano-British Christian missionary and bishop in Ireland
+
+[author."Proclus of Constantinople"]
+wikidata = "Q172926"
+checked = true
+# Proclus of Constantinople: Roman Catholic archbishop of Constantinople between 434 and 446
+
+[author."Pseudo-Ignatius"]
+wikidata = "Q18910974"
+checked = true
+# Pseudo-Ignatius of Antioch: 4th century writer
+
+[author."Pseudo-Tertullian"]
+wikidata = "Q7254427"
+checked = true
+# Pseudo-Tertullian: unknown author of Adversus Omnes Haereses
+
+[author."The Liturgy Of The Blessed Apostles"]
+wikidata = "Q2263037"
+checked = true
+# Liturgy of Addai and Mari: eucharist liturgy in East Syriac Rite
+
+[author."The Passion of Saints Perpetua and Felicity"]
+wikidata = "Q44227030"
+checked = true
+# Passion of Saints Perpetua and Felicity: 3rd-century Christian martyrdom text
+
+[author."Theodorus of Tabennese"]
+wikidata = "Q770191"
+checked = true
+# Theodoros of Tabenna: Egyptian monk (-368)
+
+[author."Theodotus of Ancyra"]
+wikidata = "Q4891141"
+place = "Q3640"
+checked = true
+# Theodotus of Ancyra: Anatolian saint and bishop
+
+[author."Abraham of Nathpar"]
+wikidata = "Q121327114"
+checked = true
+# Abraham of Nathpar: Syriac monk and writer
+
+[author."Acts of Peter"]
+wikidata = "Q1231858"
+checked = true
+# Acts of Peter: apocrypha
+
+[author."Acts of Peter and Paul"]
+wikidata = "Q1151139"
+checked = true
+# Acts of Peter and Paul: pseudepigraphical 4th century Christian text
+
+[author."Amphilochius of Iconium"]
+wikidata = "Q474872"
+checked = true
+# Amphilochius of Iconium: bishop of Iconium
+
+[author."Anthony the Great"]
+wikidata = "Q170547"
+checked = true
+# Anthony the Great: Egyptian Christian monk, hermit, and saint (died 356)
+
+[author."Besa The Copt"]
+none = "not found on Wikidata"
+checked = true
+
+[author."Book of Jubilees"]
+wikidata = "Q843946"
+checked = true
+# Book of Jubilees: ancient Jewish religious work of 50 chapters
+
+[author."Cosmas of Maiuma"]
+wikidata = "Q2496948"
+checked = true
+# Cosmas of Maiuma: Bishop and hymnographer
+
+[author."Dorotheos of Gaza"]
+wikidata = "Q391419"
+place = "Q47492"
+checked = true
+# Dorotheus of Gaza: ancient Greek monk
+
+[author."Eugippius"]
+wikidata = "Q738491"
+checked = true
+# Eugippius: Christian clergyman
+
+[author."Eusebius of Vercelli"]
+wikidata = "Q181489"
+checked = true
+# Eusebius of Vercelli: Catholic bishop and saint
+
+[author."Eustathius of Antioch"]
+wikidata = "Q511971"
+checked = true
+# Eustathius of Antioch: Patriarch of Antioch
+
+[author."Fastidius"]
+wikidata = "Q11697706"
+checked = true
+# Fastidius of Britain: bishop
+
+[author."Gennadius of Massilia"]
+wikidata = "Q373675"
+place = "Q23482"
+checked = true
+# Gennadius of Massilia: 5th-century Christian priest and historian
+
+[author."Heracleon"]
+wikidata = "Q946929"
+checked = true
+# Heracleon: 2nd century Greek Gnostic
+
+[author."Julian of Toledo"]
+wikidata = "Q722563"
+checked = true
+# Julian of Toledo: 7th-century Spanish archbishop and saint
+
+[author."Magnus Felix Ennodius"]
+wikidata = "Q465322"
+checked = true
+# Magnus Felix Ennodius: Bishop of Pavia
+
+[author."Pamphilus of Caesarea"]
+wikidata = "Q1855156"
+checked = true
+# Pamphilus of Caesarea: Presbyter of Caesarea
+
+[author."Philastrius of Brescia"]
+wikidata = "Q731114"
+checked = true
+# Philastrius: Bishop of Brescia
+
+[author."Phileas of Thmuis"]
+wikidata = "Q2348355"
+place = "Q4459073"
+checked = true
+# Phileas of Thmuis: bishop of Thmuis
+
+[author."Pope Dionysius"]
+wikidata = "Q131162"
+checked = true
+# Dionysius: Pope and bishop of Rome from 259 to 268
+
+[author."Protoevangelium of James"]
+wikidata = "Q328435"
+checked = true
+# Gospel of James: apocryphal Gospel
+
+[author."Pseudo-Barnabas"]
+wikidata = "Q7254399"
+checked = true
+# Pseudo-Barnabas: Christian writer
+
+[author."Pseudo-Cyprian"]
+wikidata = "Q66134384"
+checked = true
+# Pseudo-Cyprian: 
+
+[author."Second Council of Constantinople"]
+wikidata = "Q205227"
+checked = true
+# Second Council of Constantinople: Council of the Christian church held from held from 5 May to 2 June 553
+
+[author."Syncletica of Alexandria"]
+wikidata = "Q3394405"
+checked = true
+# Syncletica of Alexandria: Roman saint
+
+[author."Acacius of Beroea"]
+wikidata = "Q337191"
+checked = true
+# Acacius of Beroea: Syrian bishop
+
+[author."Adamantius"]
+wikidata = "Q4680115"
+checked = true
+# Adamantius: Christian writer
+
+[author."Adamnán of Iona"]
+wikidata = "Q120132"
+checked = true
+# Adomnán: hagiographer, statesman, clerical lawyer
+
+[author."Agapius of Hierapolis"]
+wikidata = "Q116563"
+place = "Q1400802"
+checked = true
+# Agapius of Hierapolis: 10th century Arabic Christian historian
+
+[author."Alexander of Jerusalem"]
+wikidata = "Q724702"
+place = "Q1218"
+checked = true
+# Alexander of Jerusalem: Christian bishop and saint
+
+[author."Ambrosian Hymn Writer"]
+none = "anonymous"
+checked = true
+
+[author."Ammon of Hadrianopolis"]
+none = "not found on Wikidata"
+checked = true
+
+[author."Ammonas of Egypt"]
+wikidata = "Q695707"
+checked = true
+# Ammonas of Egypt: Christian monk and saint of Egypt
+
+[author."Archelaus of Carrhae"]
+wikidata = "Q3413787"
+checked = true
+# Archelaus: bishop of Caschar in Mesopotamia
+
+[author."Arethas of Caesarea"]
+wikidata = "Q290771"
+checked = true
+# Arethas of Caesarea: Byzantine theologian
+
+[author."Berengaudus"]
+wikidata = "Q819031"
+checked = true
+# Berengaudus: Benedictine monk
+
+[author."Book of Biblical Antiquities"]
+wikidata = "Q837700"
+checked = true
+# Pseudo-Philo: author of Liber Antiquitatum Biblicarum
+
+[author."Book of Steps"]
+wikidata = "Q3237719"
+checked = true
+# Book of Steps: anonymous Syriac treatise on spiritual direction
+
+[author."Caius Presbyter of Rome"]
+wikidata = "Q2441699"
+checked = true
+# Caius: ealry 3rd-century Christian author
+
+[author."Council of Carthage of 411"]
+wikidata = "Q2991984"
+checked = true
+# Carthage Conference: church council
+
+[author."Council of Carthage of 419"]
+wikidata = "Q42364092"
+checked = true
+# Council of Carthage of 419: church council
+
+[author."Council of Constantinople of 381"]
+wikidata = "Q179826"
+checked = true
+# First Council of Constantinople: 381 AD council of Christian bishops
+
+[author."Epistle to Diognetus"]
+wikidata = "Q621454"
+checked = true
+# Epistle to Diognetus: 2nd century Christian apologetic text
+
+[author."Eucherius of Lyon"]
+wikidata = "Q671419"
+checked = true
+# Eucherius of Lyon: 5th century Bishop of Lyon
+
+[author."Eusebius of Gaul"]
+wikidata = "Q18214704"
+checked = true
+# Eusebius Gallicanus: 
+
+[author."Facundus of Hermiane"]
+wikidata = "Q2626977"
+checked = true
+# Facundus of Hermiane: Roman priest and theologian
+
+[author."Faustinus of Lyon"]
+none = "no item for the 3rd-century bishop"
+checked = true
+
+[author."Faustus of Riez"]
+wikidata = "Q2351792"
+checked = true
+# Faustus of Riez: Bishop of Riez
+
+[author."Isaiah the Solitary"]
+wikidata = "Q3155155"
+place = "Q47492"
+checked = true
+# Isaiah of Gaza: Palestinian monk and abbot
+
+[author."Jacob of Edessa"]
+wikidata = "Q929541"
+checked = true
+# Jacob of Edessa: Syriac Bishop of Edessa (c.640-708)
+
+[author."John I of Antioch"]
+wikidata = "Q1284149"
+checked = true
+# John of Antioch: patriarch of Antioch, c. 428–441
+
+[author."John of Karpathos"]
+wikidata = "Q3175460"
+checked = true
+# John‏ ‎of Karpathos: eastern Orthodox monk
+
+[author."John the Solitary"]
+wikidata = "Q3175852"
+checked = true
+# John of Apamea: 5th-century Syriac Christian writer
+
+[author."Julius Firmicus Maternus"]
+wikidata = "Q367422"
+checked = true
+# Julius Firmicus Maternus: 4th century Latin writer and astrologer
+
+[author."Lateran Council of 649"]
+wikidata = "Q2642234"
+checked = true
+# Lateran Council of 649: Christian synod
+
+[author."Lucifer of Cagliari"]
+wikidata = "Q715214"
+checked = true
+# Lucifer of Cagliari: 4th-century bishop of Cagliari, Sardinia
+
+[author."Malchion"]
+wikidata = "Q3556918"
+place = "Q200441"
+checked = true
+# Malchion: presbyter of Antioch
+
+[author."Muratorian fragment"]
+wikidata = "Q692665"
+checked = true
+# Muratorian fragment: 2nd century list of books; a proto-canon before the New Testament
+
+[author."Palladius of Antioch"]
+none = "which Palladius is not certain"
+checked = true
+
+[author."Paschasius Radbertus"]
+wikidata = "Q654858"
+checked = true
+# Paschasius Radbertus: French monk
+
+[author."Pope Pontian"]
+wikidata = "Q132113"
+checked = true
+# Pontian: pope
+
+[author."Possidius"]
+wikidata = "Q718003"
+checked = true
+# Possidius of Calama: bischop of Calama and friend of Augustine
+
+[author."Pseudo-Cyril"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Pseudo-Hegesippus"]
+wikidata = "Q7254410"
+place = "none"
+checked = true
+# Pseudo-Hegesippus: conventional title for a fourth-century adaptor of The Jewish War of Flavius Josephus
+
+[author."Pseudo-Hippolytus"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Pseudo-Justin"]
+none = "pseudonymous; no single author"
+checked = true
+
+[author."Sibylline Oracles"]
+wikidata = "Q740092"
+checked = true
+# Sibylline oracles: collection of oracular utterances in Greek hexameter, containing Hellenistic/Roman mythology with Jewish, Gnostic and Christian stories
+
+[author."Socrates Scholasticus"]
+wikidata = "Q336198"
+checked = true
+# Socrates of Constantinople: 5th century Greek Christian church historian
+
+[author."The Passing of Mary"]
+none = "not found on Wikidata"
+checked = true
+
+[author."Theognostus Of Alexandria"]
+wikidata = "Q3556912"
+place = "Q87"
+checked = true
+# Theognostus of Alexandria: Christian theologian (c. 210 – c. 270)
+
+[author."Valentinus"]
+wikidata = "Q309864"
+place = "Q220"
+checked = true
+# Valentinus: Egyptian gnostic theologian (c.100–c. 160)
+
+[author."Walafrid Strabo"]
+wikidata = "Q456569"
+place = "Q156439"
+checked = true
+# Walafrid Strabo: Carolingian priest (ca. 808–849)

@@ -33,6 +33,12 @@ on what terms, before any of its text is committed. See
 
 ## Tools
 
+- `tools/build_fathers.py` writes `data/fathers.json`: when and where each
+  author quoted in the Early Church Fathers lived, with the city's
+  coordinates, from Wikidata. `data/fathers.toml` names the Wikidata item for
+  each author and, where needed, the city to show. `tools/publish.py` puts it
+  on each quotation, and the site shows it beside the name, the city linking
+  to the atlas.
 - `tools/make_versification.py` writes `data/kjv-versification.json`, the
   verse counts of the KJV, from the site repository.
 - `tools/sword.py` reads compressed SWORD commentary modules (zCom, zCom4).

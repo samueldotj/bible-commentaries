@@ -44,13 +44,16 @@ IMMUTABLE = "public, max-age=31536000, immutable"
 LATEST = "public, max-age=300"
 
 # What the site shows about each commentary. `licence` and `attribution` appear
-# beside the text; the Tamil drafts of the public-domain ones are CC BY.
+# beside the text; the Tamil drafts of the public-domain ones are CC BY. `lived`
+# and `place` are when and where the commentator lived, shown beside the name.
 SOURCES = [
     {"id": "henry", "name": "Matthew Henry", "short": "M. Henry", "year": "1706",
+     "lived": "1662–1714", "place": "Chester, England",
      "title": "Commentary on the Whole Bible",
      "desc_ta": "பக்திக்குரிய விளக்கம், பகுதி பகுதியாக", "desc_en": "Devotional, section by section",
      "licence": "Public domain", "attribution": "Matthew Henry, Commentary on the Whole Bible (1708–1710); text from CCEL via the SWORD Project"},
     {"id": "calvin", "name": "John Calvin", "short": "Calvin", "year": "1540–1564",
+     "lived": "1509–1564", "place": "Geneva, Switzerland",
      "title": "Commentaries",
      "desc_ta": "சீர்திருத்த விளக்கம், வசனம் வசனமாக", "desc_en": "Reformation exposition, verse by verse",
      "licence": "Public domain", "attribution": "John Calvin, Commentaries, tr. Calvin Translation Society (1843–1855); text from CCEL"},
@@ -59,14 +62,17 @@ SOURCES = [
      "desc_ta": "சுருக்கமான ஓரக் குறிப்புகள்", "desc_en": "Short marginal notes",
      "licence": "Public domain", "attribution": "Geneva Bible notes (1599); text from the SWORD Project"},
     {"id": "poole", "name": "Matthew Poole", "short": "Poole", "year": "1685",
+     "lived": "1624–1679", "place": "London, England",
      "title": "Annotations upon the Holy Bible",
      "desc_ta": "சொல் சொல்லாகக் குறிப்புகள்", "desc_en": "Notes on the words of each verse",
      "licence": "Public domain", "attribution": "Matthew Poole, Annotations upon the Holy Bible (1683–1685); e-Sword module by BibleSupport.com"},
     {"id": "trapp", "name": "John Trapp", "short": "Trapp", "year": "1656",
+     "lived": "1601–1669", "place": "Stratford-upon-Avon, England",
      "title": "A Commentary upon the Old and New Testaments",
      "desc_ta": "சுருக்கமும் சுவையுமான குறிப்புகள்", "desc_en": "Pithy notes, rich in illustration",
      "licence": "Public domain", "attribution": "John Trapp, Commentary (1647–1656), ed. Webster and Martin; e-Sword module by BibleSupport.com"},
     {"id": "spurgeon", "name": "C. H. Spurgeon", "short": "Spurgeon", "year": "1869–1885",
+     "lived": "1834–1892", "place": "London, England",
      "title": "The Treasury of David",
      "desc_ta": "சங்கீதங்களின் விளக்கம், வசனம் வசனமாக", "desc_en": "The Psalms, verse by verse, with notes from many writers",
      "licence": "Public domain", "attribution": "C. H. Spurgeon, The Treasury of David (1869–1885); text from the SWORD Project"},
@@ -77,6 +83,9 @@ SOURCES = [
      "attribution": "Early Church Fathers Commentary, compiled by SermonIndex.net"},
 ]
 DRAFT_FOLDERS = ("ta", "ta-ecf")
+# Early Church Fathers: when and where each quoted author lived, by name, from
+# Wikidata (tools/build_fathers.py).
+FATHERS = {k: v for k, v in json.loads((ROOT / "data/fathers.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 
 
 def book_order() -> dict[str, int]:
@@ -92,9 +101,18 @@ def drafts_for(source: str, book: str, name: str) -> dict[str, dict]:
     return {}
 
 
+def father(author: str) -> dict:
+    """What the site shows of a quoted author: `lived`, `place` and, where the
+    city is on the map, `lat`, `lon` and a `year` for the atlas's timeline. The
+    module sometimes adds a note to the name, "Origen of Alexandria (is
+    referenced above by Jerome (AD 420))"."""
+    return FATHERS.get(author) or FATHERS.get(author.split(" (")[0].strip()) or {}
+
+
 def chapter_doc(path: Path) -> dict:
     """The site's file for one chapter: the English units, Tamil merged in where a
-    current draft exists (its source_hash matches the English)."""
+    current draft exists (its source_hash matches the English). The first
+    paragraph of a quotation carries when and where its author lived."""
     doc = json.loads(path.read_text(encoding="utf-8"))
     ta = drafts_for(doc["source"], doc["book"], path.name)
     units = []
@@ -112,6 +130,15 @@ def chapter_doc(path: Path) -> dict:
                     p["ta_source"] = "draft"
             if d.get("title"):
                 u["title_ta"] = d["title"]
+        prev = None
+        for p in u["paragraphs"]:
+            f = father(p["author"]) if p.get("author") else {}
+            # The module misnames a few authors; fathers.toml gives the right name.
+            if f.get("name"):
+                p["author"] = f["name"]
+            if f and (prev is None or prev.get("quote") != p.get("quote")):
+                p.update({k: f[k] for k in ("lived", "place", "lat", "lon", "year") if k in f})
+            prev = p
         units.append(u)
     return {"source": doc["source"], "book": doc["book"], "chapter": doc["chapter"], "units": units}
 
